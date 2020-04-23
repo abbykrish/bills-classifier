@@ -1,0 +1,172 @@
+| 86R7403 JES-F  
+---|---  
+|  By: Bonnen of Galveston | H.B. No. 2327  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to preauthorization of certain medical care and health  
+| care services by certain health benefit plan issuers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 843.348(b), Insurance Code, is amended  
+| to read as follows:  
+|  (b) A health maintenance organization that uses a  
+| preauthorization process for health care services shall provide  
+| each participating physician or provider, not later than the _fifth_  
+| [ ~~10th~~ ] business day after the date a request is made, a list of  
+| health care services that [ ~~do not~~ ] require preauthorization and  
+| information concerning the preauthorization process.  
+|  SECTION 2. Subchapter J, Chapter 843, Insurance Code, is  
+| amended by adding Sections 843.3481, 843.3482, 843.3483, and  
+| 843.3484 to read as follows:  
+|  _Sec._ ___843.3481._ _____POSTING PREAUTHORIZATION REQUIREMENTS. (a)_  
+| _A health maintenance organization that uses a preauthorization_  
+| _process for health care services shall make the requirements and_  
+| _information about the preauthorization process readily accessible_  
+| _to enrollees, physicians, providers, and the general public by_  
+| _posting the requirements and information on the health maintenance_  
+| _organization's Internet website._  
+|  _(b)_ _____The preauthorization requirements and information_  
+| _described by Subsection (a) must:_  
+|  _(1)_ _____be conspicuously posted in a location on the_  
+| _Internet website that does not require the use of a log-in or other_  
+| _input of personal information to view the information;_  
+|  _(2)_ _____be written in plain language that is easily_  
+| _understandable by enrollees, physicians, providers, and the_  
+| _general public;_  
+|  _(3)_ _____include a detailed description of the_  
+| _preauthorization process and the applicable screening criteria_  
+| _using Current Procedural Terminology codes and International_  
+| _Classification of Diseases codes; and_  
+|  _(4)_ _____include statistics showing the health maintenance_  
+| _organization's preauthorization approvals and denials, including_  
+| _for each approval or denial the:_  
+|  _(A) physician specialty;_  
+|  _(B) medication, diagnostic test, or procedure;_  
+|  _(C) indication offered; and_  
+|  _(D) reason for denial._  
+|  _Sec._ ___843.3482._ _____CHANGES TO PREAUTHORIZATION REQUIREMENTS._  
+| _(a) Not later than the 60th day before the date a new or amended_  
+| _preauthorization requirement takes effect, a health maintenance_  
+| _organization that uses a preauthorization process for health care_  
+| _services shall provide each participating physician or provider_  
+| _written notice of the new or amended preauthorization requirement_  
+| _and disclose the new or amended requirement in the health_  
+| _maintenance organization's newsletter or network bulletin, if any._  
+|  _(b)_ _____A health maintenance organization shall update its_  
+| _Internet website to disclose any change to the health maintenance_  
+| _organization's preauthorization requirements or process and the_  
+| _date and time the change is effective. A new or amended_  
+| _preauthorization requirement may not take effect before the fifth_  
+| _day after the date the health maintenance organization's Internet_  
+| _website is updated as required by this subsection._  
+|  _(c)_ _____A health maintenance organization is not required to_  
+| _comply with Subsection (a) or (b) for a change in a preauthorization_  
+| _requirement or process that removes a health care service from the_  
+| _list of services requiring preauthorization or amends a_  
+| _preauthorization requirement in a way that is less burdensome to_  
+| _enrollees and participating physicians and providers._  
+|  _Sec._ ___843.3483._ _____EXEMPTION FROM PREAUTHORIZATION_  
+| _REQUIREMENTS. A health maintenance organization that uses a_  
+| _preauthorization process for health care services may not require a_  
+| _physician or provider to obtain preauthorization for health care_  
+| _services if the physician or provider establishes in accordance_  
+| _with standards adopted by the commissioner by rule that the_  
+| _physician or provider routinely submitted claims to the health_  
+| _maintenance organization that were consistent with national_  
+| _evidence-based guidelines and that were preauthorized by the health_  
+| _maintenance organization._  
+|  _Sec._ ___843.3484._ _____REMEDY FOR NONCOMPLIANCE; AUTOMATIC_  
+| _PREAUTHORIZATION. A health maintenance organization that uses a_  
+| _preauthorization process for health care services that violates_  
+| _this subchapter with respect to a required publication, notice, or_  
+| _response regarding its preauthorization requirements, including by_  
+| _failing to comply with any applicable deadline for the publication,_  
+| _notice, or response, waives the health maintenance organizations_  
+| _preauthorization requirements with respect to any health care_  
+| _service affected by the violation._  
+|  SECTION 3. Section 1301.135(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) An insurer that uses a preauthorization process for  
+| medical care _or_ [ ~~and~~ ] health care services shall provide to each  
+| preferred provider, not later than the _fifth_ [ ~~10th~~ ] business day  
+| after the date a request is made, a list of medical care and health  
+| care services that require preauthorization and information  
+| concerning the preauthorization process.  
+|  SECTION 4. Subchapter C-1, Chapter 1301, Insurance Code, is  
+| amended by adding Sections 1301.1351, 1301.1352, 1301.1353, and  
+| 1301.1354 to read as follows:  
+|  _Sec._ ___1301.1351._ _____POSTING PREAUTHORIZATION REQUIREMENTS._  
+| _(a) An insurer that uses a preauthorization process for medical_  
+| _care or health care services shall make the requirements and_  
+| _information about the preauthorization process readily accessible_  
+| _to insureds, physicians, health care providers, and the general_  
+| _public by posting the requirements and information on the insurer's_  
+| _Internet website._  
+|  _(b)_ _____The preauthorization requirements and information_  
+| _described by Subsection (a) must:_  
+|  _(1)_ _____be conspicuously posted in a location on the_  
+| _Internet website that does not require the use of a log-in or other_  
+| _input of personal information to view the information;_  
+|  _(2)_ _____be written in plain language that is easily_  
+| _understandable by insureds, physicians, health care providers, and_  
+| _the general public;_  
+|  _(3)_ _____include a detailed description of the_  
+| _preauthorization process and the applicable screening criteria_  
+| _using Current Procedural Terminology codes and International_  
+| _Classification of Diseases codes; and_  
+|  _(4)_ _____include statistics showing the insurer's_  
+| _preauthorization approvals and denials, including for each_  
+| _approval or denial the:_  
+|  _(A) physician specialty;_  
+|  _(B) medication, diagnostic test, or procedure;_  
+|  _(C) indication offered; and_  
+|  _(D) reason for denial._  
+|  _Sec._ ___1301.1352._ _____CHANGES TO PREAUTHORIZATION REQUIREMENTS._  
+| _(a) Not later than the 60th day before the date a new or amended_  
+| _preauthorization requirement takes effect, an insurer that uses a_  
+| _preauthorization process for medical care or health care services_  
+| _shall provide to each preferred provider written notice of the new_  
+| _or amended preauthorization requirement and disclose the new or_  
+| _amended requirement in the insurer's newsletter or network_  
+| _bulletin, if any._  
+|  _(b)_ _____An insurer shall update its Internet website to disclose_  
+| _any change to the insurer's preauthorization requirements or_  
+| _process and the date and time the change is effective. A new or_  
+| _amended preauthorization requirement may not take effect before the_  
+| _fifth day after the date the insurer's Internet website is updated_  
+| _as required by this subsection._  
+|  _(c)_ _____An insurer is not required to comply with Subsection (a)_  
+| _or (b) for a change in a preauthorization requirement or process_  
+| _that removes a medical care or health care service from the list of_  
+| _services requiring preauthorization or amends a preauthorization_  
+| _requirement in a way that is less burdensome to insureds,_  
+| _physicians, and health care providers._  
+|  _Sec._ ___1301.1353._ _____EXEMPTION FROM PREAUTHORIZATION_  
+| _REQUIREMENTS. An insurer that uses a preauthorization process for_  
+| _medical care or health care services may not require a physician or_  
+| _health care provider to obtain preauthorization for medical care or_  
+| _health care services if the physician or health care provider_  
+| _establishes in accordance with standards adopted by the_  
+| _commissioner by rule that the physician or health care provider_  
+| _routinely submitted claims to the insurer that were consistent with_  
+| _national evidence-based guidelines and that were preauthorized by_  
+| _the insurer._  
+|  _Sec._ ___1301.1354._ _____REMEDY FOR NONCOMPLIANCE; AUTOMATIC_  
+| _PREAUTHORIZATION. An insurer that uses a preauthorization process_  
+| _for medical care or health care services that violates this_  
+| _subchapter with respect to a required publication, notice, or_  
+| _response regarding its preauthorization requirements, including by_  
+| _failing to comply with any applicable deadline for the publication,_  
+| _notice, or response, waives the insurer's preauthorization_  
+| _requirements with respect to any medical care or health care_  
+| _service affected by the violation._  
+|  SECTION 5. The change in law made by this Act applies only  
+| to a request for preauthorization of medical care or health care  
+| services made on or after January 1, 2020. A request for  
+| preauthorization of medical care or health care services made  
+| before January 1, 2020, under a health benefit plan delivered,  
+| issued for delivery, or renewed before that date is governed by the  
+| law in effect immediately before the effective date of this Act, and  
+| that law is continued in effect for that purpose.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

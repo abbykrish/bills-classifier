@@ -1,0 +1,23 @@
+| 86R15246 CJC-F  
+---|---  
+|  By: Murphy | H.B. No. 4198  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the exclusion from total revenue of certain payments  
+| made by a performing rights society for purposes of computing the  
+| franchise tax.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 171.1011, Tax Code, is amended by adding  
+| Subsection (g-12) to read as follows:  
+|  _(g-12)_ _____A taxable entity that is a performing rights society_  
+| _that licenses the public performance of nondramatic musical works_  
+| _on behalf of a copyright owner shall exclude from its total revenue,_  
+| _to the extent included under Subsection (c)(1)(A), (c)(2)(A), or_  
+| _(c)(3), payments made to the public performance rights holder and_  
+| _copyright owner for whom the taxable entity licenses the public_  
+| _performance._  
+|  SECTION 2. This Act applies only to a report originally due  
+| on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect January 1, 2020.
+

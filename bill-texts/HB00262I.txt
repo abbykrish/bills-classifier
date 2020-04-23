@@ -1,0 +1,183 @@
+| 86R1650 AJZ-F  
+---|---  
+|  By: Thompson of Brazoria | H.B. No. 262  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of the governing body of a local authority  
+| to operate an automated traffic control system; providing a civil  
+| penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 542.2035, Transportation Code, is  
+| amended to read as follows:  
+|  Sec. 542.2035. _AUTOMATED TRAFFIC CONTROL SYSTEMS_  
+| _PROHIBITED_ [ ~~LIMITATION ON MUNICIPALITIES~~ ]. (a) A _local authority_  
+| [ ~~municipality~~ ] may not implement or operate an automated traffic  
+| control system with respect to a highway or street under its  
+| jurisdiction [ ~~for the purpose of enforcing compliance with posted~~  
+|  ~~speed limits~~ ]. The attorney general shall enforce this subsection.  
+|  (b) In this section, "automated traffic control system"  
+| means _a system consisting of_ a photographic device, radar device,  
+| laser device, or other electrical or mechanical device _that_  
+| [ ~~designed to~~ ]:  
+|  (1) _is capable of producing one or more recorded_  
+| _photographic or digital images depicting the license plate attached_  
+| _to the front or rear of a motor vehicle that is not operated in_  
+| _compliance with a posted speed limit or the instructions of a_  
+| _traffic-control signal; and_  
+|  _(2)_ _____is used by the local authority to enforce_  
+| _compliance with a posted speed limit or the instructions of a_  
+| _traffic-control signal by imposition of a civil or administrative_  
+| _penalty against the owner or operator of the motor vehicle_ [ ~~record~~  
+|  ~~the speed of a motor vehicle; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~obtain one or more photographs or other recorded~~  
+|  ~~images of:~~  
+|  [ ~~(A) the vehicle;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~the license plate attached to the vehicle;~~  
+|  ~~or~~  
+|  [ ~~(C) the operator of the vehicle~~].  
+|  _(c)_ _____A local authority that violates Subsection (a) is liable_  
+| _for a civil penalty of:_  
+|  _(1)_ _____not less than $1,000 and not more than $1,500 for_  
+| _the first violation; and_  
+|  _(2)_ _____not less than $10,000 and not more than $10,500 for_  
+| _the second or a subsequent violation._  
+|  _(d)_ _____Each day of a continuing violation of Subsection (a)_  
+| _constitutes a separate violation._  
+|  _(e)_ _____A citizen of this state may file a complaint with the_  
+| _attorney general that a local authority is in violation of_  
+| _Subsection (a). A complaint filed under this subsection must_  
+| _include:_  
+|  _(1) evidence of the violation;_  
+|  _(2)_ _____evidence that the citizen provided the local_  
+| _authority written notice that described the violation, including_  
+| _the specific location of the automated traffic control system;_  
+|  _(3)_ _____a copy of the written notice the citizen provided_  
+| _the local authority; and_  
+|  _(4)_ _____evidence that the local authority did not cure the_  
+| _violation before the fourth business day after the date the local_  
+| _authority received the notice._  
+|  _(f)_ _____A civil penalty collected by the attorney general under_  
+| _this section shall be deposited to the credit of the designated_  
+| _trauma facility and emergency medical services account under_  
+| _Section 780.003, Health and Safety Code._  
+|  _(g)_ _____Before a suit may be brought against a local authority_  
+| _for a violation of Subsection (a), the attorney general must_  
+| _investigate the complaint to determine whether legal action is_  
+| _warranted. If legal action is warranted, the attorney general must_  
+| _give the chief administrative officer of the local authority_  
+| _charged with the violation a written notice that:_  
+|  _(1)_ _____describes the violation and specific location of_  
+| _the automated traffic control system found to be in violation;_  
+|  _(2)_ _____states the amount of the proposed penalty for the_  
+| _violation; and_  
+|  _(3)_ _____gives the local authority 15 days from receipt of_  
+| _the notice to remove the automated traffic control system and cure_  
+| _the violation to avoid the penalty, unless the local authority was_  
+| _found liable by a court for previously violating Subsection (a)._  
+|  _(h)_ _____If the attorney general determines that legal action is_  
+| _warranted and that the local authority has not cured the violation_  
+| _within the 15-day period provided by Subsection (g)(3), the_  
+| _attorney general or the appropriate county or district attorney may_  
+| _sue to collect the civil penalty provided by Subsection (c). The_  
+| _attorney general may also file a petition for a writ of mandamus or_  
+| _apply for other appropriate equitable relief. A suit or petition_  
+| _under this subsection may be filed in a district court in Travis_  
+| _County or in a county in which the principal office of the local_  
+| _authority is located. The attorney general may recover reasonable_  
+| _expenses incurred in obtaining relief under this subsection,_  
+| _including court costs, reasonable attorney's fees, investigative_  
+| _costs, witness fees, and deposition costs._  
+|  _(i)_ _____Sovereign immunity to suit is waived and abolished to_  
+| _the extent of liability created by this section._  
+|  SECTION 2. Section 27.031(a), Government Code, is amended  
+| to read as follows:  
+|  (a) In addition to the jurisdiction and powers provided by  
+| the constitution and other law, the justice court has original  
+| jurisdiction of:  
+|  (1) civil matters in which exclusive jurisdiction is  
+| not in the district or county court and in which the amount in  
+| controversy is not more than $10,000, exclusive of interest;  
+|  (2) cases of forcible entry and detainer; _and_  
+|  (3) foreclosure of mortgages and enforcement of liens  
+| on personal property in cases in which the amount in controversy is  
+| otherwise within the justice court's jurisdiction[ ~~; and~~  
+|  [ ~~(4)~~ ~~~~ ~~~~ ~~cases arising under Chapter 707, Transportation~~  
+|  ~~Code, outside a municipality's territorial limits~~ ].  
+|  SECTION 3. Section 780.003(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) The account is composed of money deposited to the credit  
+| of the account under _Section 542.2035_ [ ~~Sections 542.406 and~~  
+|  ~~707.008~~ ], Transportation Code, and under Section 780.002 of this  
+| code.  
+|  SECTION 4. Section 133.004, Local Government Code, as  
+| amended by Chapters 718 (H.B. 2359), 1027 (H.B. 1623), and 1149  
+| (S.B. 1119), Acts of the 80th Legislature, Regular Session, 2007,  
+| is reenacted and amended to read as follows:  
+|  Sec. 133.004. CIVIL FEES. This chapter applies to the  
+| following civil fees:  
+|  (1) the consolidated fee on filing in district court  
+| imposed under Section 133.151;  
+|  (2) the filing fee in district court for basic civil  
+| legal services for indigents imposed under Section 133.152;  
+|  (3) the filing fee in courts other than district court  
+| for basic civil legal services for indigents imposed under Section  
+| 133.153;  
+|  (4) the filing fees for the judicial fund imposed in  
+| certain statutory county courts under Section 51.702, Government  
+| Code;  
+|  (5) the filing fees for the judicial fund imposed in  
+| certain county courts under Section 51.703, Government Code;  
+|  (6) the filing fees for the judicial fund imposed in  
+| [ ~~certain~~ ] statutory probate courts under Section 51.704,  
+| Government Code;  
+|  (7) fees collected under Section 118.015;  
+|  (8) marriage license fees for the family trust fund  
+| collected under Section 118.018;  
+|  (9) marriage license or declaration of informal  
+| marriage fees for the child abuse and neglect prevention trust fund  
+| account collected under Section 118.022; _and_  
+|  (10) the filing fee for the judicial fund imposed in  
+| district court, statutory county court, and county court under  
+| Section 133.154[ ~~; and~~  
+|  [ ~~(11)~~ ~~~~ ~~~~ ~~the portion of the civil or administrative~~  
+|  ~~penalty described by Section 542.406(c)(1), Transportation Code,~~  
+|  ~~imposed by a local authority to enforce compliance with the~~  
+|  ~~instructions of a traffic-control signal~~  
+|  [ ~~(11)~~ ~~~~ ~~~~ ~~the portion of the civil or administrative~~  
+|  ~~penalty described by Section 707.008(a)(1), Transportation Code,~~  
+|  ~~imposed by a local authority to enforce compliance with the~~  
+|  ~~instructions of a traffic-control signal~~ ].  
+|  SECTION 5. The following laws are repealed:  
+|  (1) Section 29.003(g), Government Code;  
+|  (2) Sections 542.405, 542.406, and 544.012,  
+| Transportation Code; and  
+|  (3) Chapter 707, Transportation Code.  
+|  SECTION 6. (a) The repeal by this Act of Sections 542.405  
+| and 542.406 and Chapter 707, Transportation Code, does not affect  
+| the validity of a proceeding initiated or a civil penalty imposed  
+| under those provisions before the effective date of this Act. A  
+| proceeding initiated or a civil penalty imposed under those  
+| provisions before the effective date of this Act is governed by the  
+| applicable law in effect before the effective date of this Act, and  
+| the former law is continued in effect for that purpose.  
+|  (b) Notwithstanding the repeal by this Act of Sections  
+| 542.405 and 542.406 and Chapter 707, Transportation Code, if before  
+| the effective date of this Act a local authority enacted an  
+| ordinance under those provisions to implement an automated traffic  
+| control system and entered into a contract for the administration  
+| and enforcement of the system, the local authority may continue to  
+| operate the system under that ordinance and under the terms of that  
+| contract until the expiration date specified in the contract as the  
+| contract existed on the effective date of this Act.  
+|  (c) Subsection (b) of this section does not apply to a  
+| contract for the administration and enforcement of an automated  
+| traffic control system entered into before the effective date of  
+| this Act that explicitly authorizes termination of the contract on  
+| the basis of adverse state legislation.  
+|  SECTION 7. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

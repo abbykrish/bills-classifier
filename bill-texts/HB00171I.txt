@@ -1,0 +1,37 @@
+| 86R1061 AJZ-D  
+---|---  
+|  By: Canales | H.B. No. 171  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the admissibility of evidence in an asset forfeiture  
+| proceeding and the seizure and forfeiture of certain property.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 59.02, Code of Criminal Procedure, is  
+| amended by amending Subsection (a) and adding Subsection (a-1) to  
+| read as follows:  
+|  (a) _Except as otherwise provided by Subsection (a-1),_  
+| _property_ [ ~~Property~~ ] that is contraband is subject to seizure and  
+| forfeiture under this chapter.  
+|  _(a-1)_ _____Property that is contraband is not subject to seizure_  
+| _and forfeiture under this chapter if:_  
+|  _(1)_ _____the property is not otherwise unlawful to possess;_  
+| _and_  
+|  _(2)_ _____the admissibility of the property as evidence_  
+| _would be prohibited under Article 38.23 in the prosecution of the_  
+| _underlying offense._  
+|  SECTION 2. Article 59.05, Code of Criminal Procedure, is  
+| amended by adding Subsection (b-1) to read as follows:  
+|  _(b-1)_ _____In a forfeiture proceeding under this chapter, the_  
+| _attorney representing the state may only present evidence the_  
+| _admissibility of which would not be prohibited under Article 38.23_  
+| _in the prosecution of the underlying offense giving rise to the_  
+| _forfeiture._  
+|  SECTION 3. The change in law made by this Act applies only  
+| to a forfeiture proceeding that begins on or after the effective  
+| date of this Act. A forfeiture proceeding that begins before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the proceeding begins, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

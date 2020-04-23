@@ -1,0 +1,207 @@
+| 86R2432 JCG-D  
+---|---  
+|  By: Bonnen of Galveston | H.B. No. 1899  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the revocation or denial of certain health care  
+| professional licenses and the reporting of the grounds for  
+| revocation or denial.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 42.01, Code of Criminal Procedure, is  
+| amended by adding Section 14 to read as follows:  
+|  _Sec._ ___14._ _____In addition to the information described by_  
+| _Section 1, the judgment must reflect affirmative findings entered_  
+| _pursuant to Article 42.0175._  
+|  SECTION 2. Chapter 42, Code of Criminal Procedure, is  
+| amended by adding Article 42.0175 to read as follows:  
+|  _Art._ ___42.0175._ _____FINDING REGARDING CERTAIN HEALTH CARE_  
+| _PROFESSIONALS; NOTIFICATION. (a) In this article, "health care_  
+| _professional," "license," and "licensing authority" have the_  
+| _meanings assigned by Section 108.051, Occupations Code._  
+|  _(b)_ _____In the trial of an offense, the judge shall make an_  
+| _affirmative finding of fact and enter the affirmative finding in_  
+| _the judgment in the case if the judge determines that at the time of_  
+| _the offense the defendant held a license as a health care_  
+| _professional and the offense is:_  
+|  _(1)_ _____an offense for which the defendant is required to_  
+| _register as a sex offender under Chapter 62;_  
+|  _(2)_ _____a felony offense and the defendant used force or_  
+| _threat of force in the commission of the offense; or_  
+|  _(3)_ _____an offense under Section 22.011, 22.02, 22.021, or_  
+| _22.04, Penal Code, and:_  
+|  _(A)_ _____the victim of the offense was a patient of the_  
+| _defendant; and_  
+|  _(B)_ _____the offense was committed in the course of_  
+| _providing services within the scope of the defendant's license._  
+|  _(c)_ _____Not later than the fifth day after the date the_  
+| _defendant is convicted or granted deferred adjudication on the_  
+| _basis of an offense described by Subsection (b)(1), (2), or (3), the_  
+| _clerk of the court in which the conviction or deferred adjudication_  
+| _is entered shall provide written notice of the conviction or_  
+| _deferred adjudication, including the offense on which the_  
+| _conviction or deferred adjudication was based, to:_  
+|  _(1)_ _____the licensing authority that issued the_  
+| _defendant's license as a health care professional; and_  
+|  _(2) the Department of Public Safety._  
+|  SECTION 3. Article 62.005(e), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (e) The department shall provide a licensing authority with  
+| notice of any person required to register under this chapter who  
+| holds or seeks a license that is issued by the authority. The  
+| department shall provide the notice required by this subsection as  
+| the applicable licensing information becomes available through  
+| _notification by a court clerk under Article 42.0175, a parole panel_  
+| _under Section 508.1864, Government Code, or_ the person's  
+| registration or verification of registration.  
+|  SECTION 4. Subchapter F, Chapter 508, Government Code, is  
+| amended by adding Section 508.1864 to read as follows:  
+|  _Sec._ ___508.1864._ _____NOTIFICATION TO DEPARTMENT OF PUBLIC SAFETY_  
+| _AND LICENSING AUTHORITY. (a) In this section, "health care_  
+| _professional," "license," and "licensing authority" have the_  
+| _meanings assigned by Section 108.051, Occupations Code._  
+|  _(b)_ _____A parole panel that knows an inmate holds or has_  
+| _submitted an application for a license as a health care_  
+| _professional shall immediately notify the Department of Public_  
+| _Safety and the applicable licensing authority if the parole panel_  
+| _requires the inmate as a condition of release on parole or to_  
+| _mandatory supervision to register as a sex offender under Chapter_  
+| _62, Code of Criminal Procedure._  
+|  SECTION 5. The heading to Chapter 108, Occupations Code, is  
+| amended to read as follows:  
+| CHAPTER 108. LICENSE SUSPENSION OR REVOCATION REQUIRED [ ~~FOR CERTAIN~~  
+|  ~~DRUG FELONY CONVICTIONS~~ ]  
+|  SECTION 6. Chapter 108, Occupations Code, is amended by  
+| designating Sections 108.001 through 108.003 as Subchapter A and  
+| adding a subchapter heading to read as follows:  
+| _SUBCHAPTER A. SUSPENSION OR REVOCATION OF PHYSICIAN LICENSE FOR_  
+| _CERTAIN DRUG FELONY CONVICTIONS_  
+|  SECTION 7. Section 108.001, Occupations Code, is amended to  
+| read as follows:  
+|  Sec. 108.001. DEFINITION. In this _subchapter_ [ ~~chapter~~ ],  
+| "board" means the Texas [ ~~State Board of~~ ] Medical _Board_ [
+~~Examiners~~ ].  
+|  SECTION 8. Chapter 108, Occupations Code, is amended by  
+| adding Subchapter B to read as follows:  
+| _SUBCHAPTER B. AUTOMATIC DENIAL OR REVOCATION OF HEALTH CARE_  
+| _PROFESSIONAL LICENSE_  
+|  _Sec. 108.051. DEFINITIONS. In this subchapter:_  
+|  _(1) "Health care professional" means:_  
+|  _(A) a dentist licensed under Subtitle D;_  
+|  _(B)_ _____a dental hygienist licensed under Chapter_  
+| _262;_  
+|  _(C)_ _____a hearing instrument fitter and dispenser_  
+| _licensed under Chapter 402;_  
+|  _(D)_ _____a nurse, including an advanced practice_  
+| _registered nurse, licensed under Chapter 301;_  
+|  _(E)_ _____an occupational therapist licensed under_  
+| _Chapter 454;_  
+|  _(F)_ _____an optometrist or therapeutic optometrist_  
+| _licensed under Chapter 351;_  
+|  _(G) a pharmacist licensed under Subtitle J;_  
+|  _(H)_ _____a physical therapist licensed under Chapter_  
+| _453;_  
+|  _(I) a physician licensed under Subtitle B;_  
+|  _(J)_ _____a physician assistant licensed under Chapter_  
+| _204;_  
+|  _(K) a podiatrist licensed under Chapter 202;_  
+|  _(L) a psychologist licensed under Chapter 501;_  
+|  _(M)_ _____a social worker licensed under Chapter 505;_  
+| _and_  
+|  _(N)_ _____a speech-language pathologist or audiologist_  
+| _licensed under Chapter 401._  
+|  _(2)_ _____"License" means a license, certificate,_  
+| _registration, permit, or other authorization that:_  
+|  _(A) is issued by a licensing authority; and_  
+|  _(B)_ _____a person must obtain to practice or engage in_  
+| _a particular business, occupation, or profession._  
+|  _(3)_ _____"Licensing authority" means a department,_  
+| _commission, board, office, or other agency of this state that_  
+| _issues a license._  
+|  _(4)_ _____"Reportable conviction or adjudication" has the_  
+| _meaning assigned by Article 62.001(5), Code of Criminal Procedure._  
+|  _Sec._ ___108.052._ _____DENIAL OF LICENSE. A licensing authority_  
+| _shall deny an application for a license as a health care_  
+| _professional for an applicant who:_  
+|  _(1) has a reportable conviction or adjudication;_  
+|  _(2)_ _____is required to register as a sex offender under_  
+| _Chapter 62, Code of Criminal Procedure, as a condition of release on_  
+| _parole or to mandatory supervision;_  
+|  _(3)_ _____has been previously convicted of or placed on_  
+| _deferred adjudication community supervision for the commission of a_  
+| _felony offense involving the use or threat of force; or_  
+|  _(4)_ _____has been previously convicted of or placed on_  
+| _deferred adjudication community supervision for the commission of_  
+| _an offense:_  
+|  _(A)_ _____under Section 22.011, 22.02, 22.021, or_  
+| _22.04, Penal Code, or an offense under the laws of another state or_  
+| _federal law that is equivalent to an offense under one of those_  
+| _sections;_  
+|  _(B) committed:_  
+|  _(i)_ _____when the applicant held a license as a_  
+| _health care professional in this state or another state; and_  
+|  _(ii)_ _____in the course of providing services_  
+| _within the scope of the applicant's license; and_  
+|  _(C)_ _____in which the victim of the offense was a_  
+| _patient of the applicant._  
+|  _Sec._ ___108.053._ _____REVOCATION OF LICENSE. (a)_ ___The license of a_  
+| _health care professional is revoked if the health care professional_  
+| _is:_  
+|  _(1)_ _____convicted or placed on deferred adjudication_  
+| _community supervision for an offense:_  
+|  _(A)_ _____for which registration as a sex offender is_  
+| _required under Chapter 62, Code of Criminal Procedure; or_  
+|  _(B) described by Section 108.052(3) or (4); or_  
+|  _(2)_ _____required to register as a sex offender under_  
+| _Chapter 62, Code of Criminal Procedure, as a condition of release on_  
+| _parole or to mandatory supervision._  
+|  _(b)_ _____The licensing authority shall revoke a license and_  
+| _update the authority's records to reflect the revocation under_  
+| _Subsection (a) immediately on receiving notification:_  
+|  _(1)_ _____by a court under Article 42.0175, Code of Criminal_  
+| _Procedure, that the court made a finding under that article; or_  
+|  _(2)_ _____by a parole panel under Section 508.1864,_  
+| _Government Code, that the license holder is required to register as_  
+| _a sex offender under Chapter 62, Code of Criminal Procedure, as a_  
+| _condition of release on parole or to mandatory supervision._  
+|  _Sec._ ___108.054._ _____NO APPEAL. A person whose license_  
+| _application is denied or whose license is revoked under this_  
+| _subchapter:_  
+|  _(1)_ _____is not entitled to a hearing regarding the denial_  
+| _or revocation;_  
+|  _(2)_ _____may not be granted a hearing by the licensing_  
+| _authority regarding the denial or revocation;_  
+|  _(3)_ _____may not appeal the denial or revocation to the_  
+| _licensing authority; and_  
+|  _(4)_ _____notwithstanding Section 53.052, is not entitled to_  
+| _judicial review of the denial or revocation and may not file an_  
+| _action in a court requesting judicial review._  
+|  _Sec._ ___108.055._ _____REAPPLICATION. A person whose license_  
+| _application is denied under this subchapter may reapply for the_  
+| _license if the conviction, deferred adjudication, or condition of_  
+| _release on parole or to mandatory supervision that is the basis for_  
+| _the license denial is reversed, set aside, or vacated on appeal._  
+|  _Sec._ ___108.056._ _____REINSTATEMENT. A person whose license is_  
+| _revoked under this subchapter may apply for reinstatement of the_  
+| _license with the appropriate licensing authority if the conviction,_  
+| _deferred adjudication, or condition of release on parole or to_  
+| _mandatory supervision that is the basis for the license revocation_  
+| _is reversed, set aside, or vacated on appeal._  
+|  SECTION 9. Section 14, Article 42.01, Code of Criminal  
+| Procedure, and Article 42.0175, Code of Criminal Procedure, as  
+| added by this Act, apply only to a judgment of conviction entered on  
+| or after the effective date of this Act.  
+|  SECTION 10. Section 508.1864, Government Code, as added by  
+| this Act, applies only to a person who is released on parole or to  
+| mandatory supervision on or after the effective date of this Act.  A  
+| person who is released on parole or to mandatory supervision before  
+| the effective date of this Act is governed by the law in effect at  
+| the time of release, and the former law is continued in effect for  
+| that purpose.  
+|  SECTION 11. Section 108.052, Occupations Code, as added by  
+| this Act, applies only to an application for a license as a health  
+| care professional, as defined by Section 108.051, Occupations Code,  
+| as added by this Act, pending on or submitted on or after the  
+| effective date of this Act.  
+|  SECTION 12. This Act takes effect September 1, 2019.
+

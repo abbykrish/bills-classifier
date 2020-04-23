@@ -1,0 +1,81 @@
+| 86R13908 SCL-F  
+---|---  
+|  By: Thierry | H.B. No. 2703  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment of a maternal mortality and morbidity  
+| data registry.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 34, Health and Safety Code, is amended by  
+| adding Section 34.019 to read as follows:  
+|  _Sec._ ___34.019._ _____DATA REGISTRY. (a) In this section,_  
+| _"registry" means the data registry established under this section._  
+|  _(b)_ _____The task force, in collaboration with the commission and_  
+| _participating health care providers, shall establish a data_  
+| _registry on the task force's Internet website that contains data of_  
+| _participating health care providers on the frequency and_  
+| _characteristics of maternal mortality and morbidity during and_  
+| _following delivery._  
+|  _(c)_ _____A health care provider, including a public or private_  
+| _hospital, medical school, or clinic, may participate in the_  
+| _registry by:_  
+|  _(1)_ _____collecting data at the time a pregnant woman is_  
+| _admitted for delivery, on the day of delivery, 42 days postpartum,_  
+| _and 364 days postpartum;_  
+|  _(2)_ _____providing collected data to the registry on a_  
+| _daily basis; and_  
+|  _(3)_ _____complying with all applicable federal and state_  
+| _laws relating to confidentiality and quality of health care_  
+| _information for data provided to the registry._  
+|  _(d)_ _____Data collected by a participating health care provider_  
+| _must include:_  
+|  _(1)_ _____discharge data cross-referenced with birth and_  
+| _death certificates provided by the department;_  
+|  _(2)_ _____clinical data on the health status of patients and_  
+| _the health care provided to those patients by a provider over time,_  
+| _including:_  
+|  _(A)_ _____data on the most common high-risk conditions,_  
+| _such as hemorrhaging and pregnancy-induced hypertension; and_  
+|  _(B)_ _____notifiable deaths, including stillbirths,_  
+| _infants born alive who die within 12 months of birth, and women who_  
+| _die during pregnancy or were pregnant in the 12 months preceding_  
+| _death;_  
+|  _(3)_ _____demographic data from a provider's admission_  
+| _information;_  
+|  _(4)_ _____data quality indicators to ensure the data is not_  
+| _missing or inconsistent; and_  
+|  _(5) provider statistics, including:_  
+|  _(A) total live births;_  
+|  _(B) maternal age distributions;_  
+|  _(C)_ _____maternal and infant race and ethnicity_  
+| _distributions;_  
+|  _(D) health benefit plan issuer distributions;_  
+|  _(E)_ _____incidence of diabetes, hypertension, and_  
+| _hemorrhage among patients;_  
+|  _(F) gestational age distributions;_  
+|  _(G) birth weight distributions;_  
+|  _(H) total preterm birth rate;_  
+|  _(I) rate of vaginal deliveries; and_  
+|  _(J) rate of cesarean sections._  
+|  _(e)_ _____The task force shall ensure the registry's data is_  
+| _updated at the time a participating provider enters data into the_  
+| _registry._  
+|  _(f)_ _____The task force shall annually analyze the data collected_  
+| _for the registry and prepare and submit a report on the analysis to_  
+| _the department and all participating health care providers. The_  
+| _task force shall publish the report on the task force's Internet_  
+| _website._  
+|  _(g)_ _____The task force shall fund the registry using existing_  
+| _resources and grants and donations provided for the registry._  
+|  _(h)_ _____The executive commissioner shall adopt rules necessary_  
+| _to implement this section._  
+|  SECTION 2. (a)  The executive commissioner of the Health and  
+| Human Services Commission shall adopt rules necessary to implement  
+| Section 34.019, Health and Safety Code, as added by this Act, not  
+| later than December 1, 2019.  
+|  (b) The Maternal Mortality and Morbidity Task Force shall  
+| establish the data registry under Section 34.019, Health and Safety  
+| Code, as added by this Act, not later than December 1, 2019.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

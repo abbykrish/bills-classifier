@@ -1,0 +1,118 @@
+| 86R2464 LED-D  
+---|---  
+|  By: Murphy | H.B. No. 1887  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the evaluation and reporting of investment practices  
+| and performance of certain public retirement systems.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 801.209(a), Government Code, is amended  
+| to read as follows:  
+|  (a) For each public retirement system, the board shall post  
+| on the board's Internet website, or on a publicly available website  
+| that is linked to the board's website, the most recent data from  
+| reports received under Sections 802.101, 802.103, 802.104,  
+| 802.105, 802.108, _802.109,_ 802.2015, and 802.2016.  
+|  SECTION 2. Section 802.103(a), Government Code, is amended  
+| to read as follows:  
+|  (a) _The_ [ ~~Except as provided by Subsection (c), the~~ ]  
+| governing body of a public retirement system shall publish an  
+| annual financial report showing the financial condition of the  
+| system as of the last day of the fiscal year covered in the report.  
+| The report must include _:_  
+|  _(1)_ the financial statements and schedules examined in  
+| the most recent audit performed as required by Section 802.102 _;_  
+|  _(2)_ [ ~~and must include~~ ] a statement of opinion by the  
+| certified public accountant as to whether or not the financial  
+| statements and schedules are presented fairly and in accordance  
+| with generally accepted accounting principles _;_  
+|  _(3)_ _____a listing, by asset class, of all direct and_  
+| _indirect commissions and fees paid by the retirement system during_  
+| _the system's previous fiscal year for the sale, purchase, or_  
+| _management of system assets; and_  
+|  _(4)_ _____the names of investment managers engaged by the_  
+| _retirement system_.  
+|  SECTION 3. Subchapter B, Chapter 802, Government Code, is  
+| amended by adding Section 802.109 to read as follows:  
+|  _Sec._ ___802.109._ _____INVESTMENT PRACTICES AND PERFORMANCE_  
+| _REPORTS. (a)_ ___Except as provided by Subsection (d), a public_  
+| _retirement system shall select an independent firm with substantial_  
+| _experience in evaluating institutional investment practices and_  
+| _performance to evaluate the appropriateness, adequacy, and_  
+| _effectiveness of the retirement system's investment practices and_  
+| _performance and to make recommendations for improving the_  
+| _retirement system's investment policies, procedures, and_  
+| _practices._ ___Each evaluation must include:_  
+|  _(1)_ _____an analysis of any investment policy or strategic_  
+| _investment plan adopted by the retirement system and the retirement_  
+| _system's compliance with that policy or plan;_  
+|  _(2)_ _____a detailed review of the retirement system's_  
+| _investment asset allocation, including:_  
+|  _(A)_ _____the process for determining target_  
+| _allocations;_  
+|  _(B)_ _____the expected risk and assumed rate of return,_  
+| _categorized by asset class;_  
+|  _(C)_ _____the appropriateness of selection and_  
+| _valuation methodologies of alternative and illiquid assets; and_  
+|  _(D) future cash flow and liquidity needs;_  
+|  _(3)_ _____a review of the appropriateness of investment fees_  
+| _and commissions paid by the retirement system;_  
+|  _(4)_ _____a review of the retirement system's governance_  
+| _processes related to investment activities, including investment_  
+| _decision-making processes, delegation of investment authority, and_  
+| _board investment expertise and education; and_  
+|  _(5)_ _____a review of the retirement system's investment_  
+| _manager selection and monitoring process._  
+|  _(b)_ _____The governing body of a public retirement system may_  
+| _determine additional specific areas to be evaluated under_  
+| _Subsection (a) and may select particular asset classes on which to_  
+| _focus, but the first evaluation must be a comprehensive analysis of_  
+| _the retirement system's investment program that covers all asset_  
+| _classes._  
+|  _(c)_ _____A public retirement system shall conduct the evaluation_  
+| _described by Subsection (a):_  
+|  _(1)_ _____once every three years, if the retirement system_  
+| _has total assets the book value of which, as of the last day of the_  
+| _last fiscal year considered in an evaluation under this section,_  
+| _was at least $100 million; or_  
+|  _(2)_ _____once every six years, if the retirement system has_  
+| _total assets the book value of which, as of the last day of the last_  
+| _fiscal year considered in an evaluation under this section, was at_  
+| _least $30 million and less than $100 million._  
+|  _(d)_ _____A public retirement system is not required to conduct_  
+| _the evaluation described by Subsection (a) if the retirement system_  
+| _has total assets the book value of which, as of the last day of the_  
+| _preceding fiscal year, was less than $30 million._  
+|  _(e)_ _____A report of an evaluation under this section must be_  
+| _filed with the governing body of the public retirement system not_  
+| _later than December 1 of each year in which the system is evaluated_  
+| _under Subsection (c)._  
+|  _(f)_ _____Not later than the 31st day after the date the governing_  
+| _body of a public retirement system receives a report of an_  
+| _evaluation under this section, the governing body shall submit the_  
+| _report to the board._  
+|  _(g)_ _____A public retirement system shall pay the costs of each_  
+| _evaluation of the system under this section._  
+|  _(h)_ _____Not later than February 1 of each year, the board shall_  
+| _submit an investment performance report to the governor, the_  
+| _lieutenant governor, the speaker of the house of representatives,_  
+| _and the legislative committees having principal jurisdiction over_  
+| _legislation governing public retirement systems. The report must_  
+| _compile and summarize the information received under this section_  
+| _by the board during the preceding calendar year._  
+|  _(i)_ _____A report of an evaluation by the Teacher Retirement_  
+| _System of Texas and an investment report that includes the Teacher_  
+| _Retirement System of Texas under this section satisfies the_  
+| _requirements of Section 825.512._  
+|  SECTION 4. Notwithstanding Section 802.109(c), Government  
+| Code, as added by this Act, a report of the first evaluation of a  
+| public retirement system, as required by Section 802.109,  
+| Government Code, as added by this Act, must be filed with the  
+| governing body of the system not later than January 1, 2020.  
+|  SECTION 5. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

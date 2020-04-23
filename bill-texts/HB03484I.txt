@@ -1,0 +1,147 @@
+| 86R7770 SCL-F  
+---|---  
+|  By: Lucio III | H.B. No. 3484  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to conduct of insurers providing preferred provider  
+| benefit plans with respect to physician and health care provider  
+| contracts and claims.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 1301.066 and 1301.103, Insurance Code,  
+| are amended to read as follows:  
+|  Sec. 1301.066. RETALIATION AGAINST PREFERRED PROVIDER  
+| PROHIBITED. _(a)_ An insurer may not engage in any retaliatory action  
+| against a physician or health care provider[ ~~, including terminating~~  
+|  ~~the physician's or provider's participation in the preferred~~  
+|  ~~provider benefit plan or refusing to renew the physician's or~~  
+|  ~~provider's contract,~~ ] because the physician or provider has:  
+|  (1) on behalf of an insured, reasonably filed a  
+| complaint against the insurer; or  
+|  (2) appealed a decision of the insurer.  
+|  _(b) A retaliatory action under Subsection (a) includes:_  
+|  _(1)_ _____terminating the physician's or provider's_  
+| _participation in the preferred provider benefit plan;_  
+|  _(2)_ _____refusing to renew the physician's or provider's_  
+| _contract;_  
+|  _(3)_ _____implementing measurable penalties in the contract_  
+| _negotiation process; and_  
+|  _(4)_ _____engaging in an unfair or deceptive contract_  
+| _negotiation practice._  
+|  Sec. 1301.103. DEADLINE FOR ACTION ON CLEAN CLAIMS. _(a)_  
+| Except as provided by Sections 1301.104 and 1301.1054, not later  
+| than the 45th day after the date an insurer receives a clean claim  
+| from a preferred provider in a nonelectronic format or the 30th day  
+| after the date an insurer receives a clean claim from a preferred  
+| provider that is electronically submitted, the insurer shall make a  
+| determination of whether the claim is payable and:  
+|  (1) if the insurer determines the entire claim is  
+| payable, pay the total amount of the claim in accordance with the  
+| contract between the preferred provider and the insurer;  
+|  (2) if the insurer determines a portion of the claim is  
+| payable, pay the portion of the claim that is not in dispute and  
+| notify the preferred provider in writing why the remaining portion  
+| of the claim will not be paid; or  
+|  (3) if the insurer determines that the claim is not  
+| payable, notify the preferred provider in writing why the claim  
+| will not be paid.  
+|  _(b)_ _____An insurer shall provide notice under Subsection (a)_  
+| _electronically if the preferred provider's clean claim was_  
+| _electronically submitted._  
+|  SECTION 2. Section 1301.105, Insurance Code, is amended by  
+| amending Subsection (d) and adding Subsection (e) to read as  
+| follows:  
+|  (d) If the preferred provider does not supply information  
+| reasonably requested by the insurer in connection with the audit,  
+| the insurer _shall_ [ ~~may~~ ]:  
+|  (1) notify the provider in writing that the provider  
+| must provide the information not later than the 45th day after the  
+| date of the notice or forfeit the amount of the claim; and  
+|  (2) if the provider does not provide the information  
+| required by this section, recover the amount of the claim.  
+|  _(e)_ _____An insurer shall make a request or provide information_  
+| _under this section electronically if the preferred provider's clean_  
+| _claim was electronically submitted._  
+|  SECTION 3. Sections 1301.1051 and 1301.1052, Insurance  
+| Code, are amended to read as follows:  
+|  Sec. 1301.1051. COMPLETION OF AUDIT. _(a)_ The insurer must  
+| complete an audit under Section 1301.105 on or before the 180th day  
+| after the date the clean claim is received by the insurer, and any  
+| additional payment due a preferred provider or any refund due the  
+| insurer shall be made not later than the 30th day after the  
+| completion of the audit.  
+|  _(b)_ _____An insurer may not recover a payment on an audited claim_  
+| _until a final audit is completed._  
+|  _(c)_ _____An insurer shall provide written notice to the preferred_  
+| _provider of the insurer's failure to complete an audit in the time_  
+| _required by Subsection (a) not later than the 15th day after the_  
+| _date on which the insurer is required to complete the audit under_  
+| _that subsection._  
+|  Sec. 1301.1052. PREFERRED PROVIDER APPEAL AFTER AUDIT. _(a)_  
+| If a preferred provider disagrees with a refund request made by an  
+| insurer based on an audit under Section 1301.105, the insurer shall  
+| provide the provider with an opportunity to appeal _in accordance_  
+| _with this section_ , and the insurer may not attempt to recover the  
+| payment until all appeal rights are exhausted.  
+|  _(b)_ _____An insurer shall provide a reasonable mechanism for an_  
+| _appeal requested under Subsection (a). The review mechanism must_  
+| _incorporate, in an advisory role only, a review panel._  
+|  _(c)_ _____A review panel described by Subsection (b) must be_  
+| _composed of at least three preferred provider representatives_  
+| _selected by the insurer from a list of preferred providers._ ___The_  
+| _preferred providers contracting with the insurer in the applicable_  
+| _service area shall provide the list of preferred provider_  
+| _representatives to the insurer._  
+|  _(d)_ _____On request, the insurer shall provide to the affected_  
+| _preferred provider:_  
+|  _(1) the panel's composition and recommendation; and_  
+|  _(2)_ _____a written explanation of the insurer's_  
+| _determination, if that determination is contrary to the panel's_  
+| _recommendation._  
+|  SECTION 4. Subchapter C, Chapter 1301, Insurance Code, is  
+| amended by adding Section 1301.10525 to read as follows:  
+|  _Sec._ ___1301.10525._ _____DEPARTMENT REVIEW OF AUDITS. (a) The_  
+| _commissioner by rule shall establish procedures for a preferred_  
+| _provider to submit a request for the department to review an audit_  
+| _conducted by an insurer under this subchapter. The department_  
+| _review of an audit is a contested case under Chapter 2001,_  
+| _Government Code._  
+|  _(b)_ _____If the department determines that an audit for which a_  
+| _preferred provider requested review resulted in unreasonable costs_  
+| _for the preferred provider, unnecessarily delayed or prevented_  
+| _payment of a claim, or otherwise violated this subchapter or rules_  
+| _adopted under this subchapter, the department shall:_  
+|  _(1)_ _____award compensatory damages to the preferred_  
+| _provider incurred as a result of the audit; and_  
+|  _(2)_ _____order the insurer to pay to the department the_  
+| _costs incurred by the department in reviewing the audit._  
+|  SECTION 5. Section 1301.132, Insurance Code, is amended by  
+| adding Subsections (c), (d), and (e) to read as follows:  
+|  _(c)_ _____An insurer shall provide a reasonable mechanism for an_  
+| _appeal requested under Subsection (b). The review mechanism must_  
+| _incorporate, in an advisory role only, a review panel._  
+|  _(d)_ _____A review panel described by Subsection (c) must be_  
+| _composed of at least three preferred provider representatives_  
+| _selected by the insurer from a list of preferred providers._ ___The_  
+| _preferred providers contracting with the insurer in the applicable_  
+| _service area shall provide the list of preferred provider_  
+| _representatives to the insurer._  
+|  _(e)_ _____On request, the insurer shall provide to the affected_  
+| _preferred provider:_  
+|  _(1) the panel's composition and recommendation; and_  
+|  _(2)_ _____a written explanation of the insurer's_  
+| _determination, if that determination is contrary to the panel's_  
+| _recommendation._  
+|  SECTION 6. (a)  The changes in law made by this Act apply to  
+| a claim for payment made on or after the effective date of this Act  
+| unless the claim is made under a contract that was entered into  
+| before the effective date of this Act and that, at the time the  
+| claim is made, has not been renewed or was last renewed before the  
+| effective date of this Act.  
+|  (b) A claim made before the effective date of this Act or  
+| made on or after the effective date of this Act under a contract  
+| described by Subsection (a) of this section is governed by the law  
+| as it existed immediately before the effective date of this Act, and  
+| that law is continued in effect for that purpose.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

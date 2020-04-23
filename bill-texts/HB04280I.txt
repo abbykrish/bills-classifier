@@ -1,0 +1,69 @@
+|  
+---|---  
+|  By: Morrison | H.B. No. 4280  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to funding for counties for transportation infrastructure  
+| projects located in areas of the state affected by increased oil and  
+| gas production.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 251.018, Transportation Code, is amended  
+| to read as follows:  
+|  Sec. 251.018. ROAD REPORTS.  A road condition report made by  
+| a county that is operating under a system of administering county  
+| roads under Chapter 252 or a special law, including a report made  
+| under Section 251.005, must include the primary cause of any road,  
+| culvert, or bridge degradation _,_ if reasonably ascertained _, along_  
+| _with a brief description of the degradation_.  
+|  SECTION 2. Sections 256.101(3) and (4), Transportation  
+| Code, are amended to read as follows:  
+|  (3) "Weight tolerance permit" means a permit issued  
+| under _Section 623.011 for_ [ ~~Chapter 623 authorizing~~ ] a vehicle  
+| _operating specifically in relation to the exploration,_  
+| _development, or production of oil or gas_ [ ~~to exceed maximum legal~~  
+|  ~~weight limitations~~ ].  
+|  (4) "Well completion" means the completion, reentry,  
+| or recompletion of _a vertical or horizontal_ [ ~~an~~ ] oil or gas well.  
+|  SECTION 3. Section 256.103, Transportation Code, is amended  
+| by adding Subsection (a-1) and amending Subsection (b) to read as  
+| follows:  
+|  _(a-1)_ _____To be eligible for a grant under this subchapter, a_  
+| _county must have at least 400 active wells, including horizontal,_  
+| _vertical, and oil and gas waste disposal wells, as determined by the_  
+| _most recent data of the Railroad Commission of Texas._  
+|  (b) Grants distributed during a fiscal year must be  
+| allocated among counties as follows:  
+|  (1) _10_ [ ~~20~~ ] percent according to weight tolerance  
+| permits, determined by the ratio of weight tolerance permits issued  
+| in the preceding fiscal year for the county to the total number of  
+| weight tolerance permits issued in the state in that fiscal year, as  
+| determined by the Texas Department of Motor Vehicles;  
+|  (2) 20 percent according to oil and gas production  
+| taxes, determined by the ratio of oil and gas production taxes  
+| collected by the comptroller in the preceding fiscal year in the  
+| county to the total amount of oil and gas production taxes collected  
+| in the state in that fiscal year, as determined by the comptroller;  
+|  (3) _15_ [ ~~50~~ ] percent according to _vertical_ well  
+| completions, determined by the ratio of _vertical_ well completions  
+| in the preceding fiscal year in the county to the total number of  
+| _vertical_ well completions in the state in that fiscal year, as  
+| determined by the Railroad Commission of Texas; [ ~~and~~ ]  
+|  (4) _45 percent according to horizontal well_  
+| _completions, determined by the ratio of horizontal well completions_  
+| _in the preceding fiscal year in the county to the total number of_  
+| _horizontal well completions in the state in that fiscal year, as_  
+| _determined by the Railroad Commission of Texas; and_  
+|  _(5)_ 10 percent according to the _total number_ [ ~~volume~~ ]  
+| of oil and gas waste _disposal wells as defined by the Railroad_  
+| _Commission of Texas_ [ ~~injected~~ ], determined by the ratio of the  
+| _total number_ [ ~~volume~~ ] of oil and gas waste _disposal wells_  
+| [ ~~injected~~ ] in the _last full_ [ ~~preceding fiscal~~ ] year _for which
+the_  
+| _Railroad Commission of Texas has a report for commercial disposal_  
+| _wells_ in the county to the total _number_ [ ~~volume~~ ] of oil and gas  
+| waste _disposal wells_ [ ~~injected~~ ] in the state in that [ ~~fiscal~~ ]
+year,  
+| as determined by the Railroad Commission of Texas.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

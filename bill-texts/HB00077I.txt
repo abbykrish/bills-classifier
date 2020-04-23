@@ -1,0 +1,63 @@
+| 86R1100 SRS-D  
+---|---  
+|  By: Romero, Jr. | H.B. No. 77  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to registration powers of volunteer deputy registrars.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.031, Election Code, is amended by  
+| adding Subsection (f) to read as follows:  
+|  _(f)_ _____A volunteer deputy registrar appointed under this_  
+| _section may serve as a volunteer deputy registrar throughout the_  
+| _state regardless of which county appointed the deputy registrar._  
+| _The secretary of state shall prescribe procedures to implement this_  
+| _subsection._  
+|  SECTION 2. Section 13.033(b), Election Code, is amended to  
+| read as follows:  
+|  (b) If a person is to be appointed, the registrar shall  
+| prepare a certificate of appointment in duplicate containing:  
+|  (1) the date of appointment;  
+|  (2) the statement: "I, ____________, Voter Registrar  
+| for ____________ County, do hereby appoint ____________ as a  
+| volunteer deputy registrar [ ~~for ____________ County~~ ].";  
+|  (3) the person's residence address;  
+|  (4) the person's voter registration number, if any;  
+|  (5) a statement that the term of the appointment  
+| expires December 31 of an even-numbered year; and  
+|  (6) a statement that the appointment terminates on the  
+| person's final conviction for an offense for failure to deliver a  
+| registration application and may terminate on the registrar's  
+| determination that the person failed to adequately review a  
+| registration application, intentionally destroyed or physically  
+| altered a registration application, or engaged in any other  
+| activity that conflicts with the responsibilities of a volunteer  
+| deputy registrar under this chapter.  
+|  SECTION 3. Section 13.034(b), Election Code, is amended to  
+| read as follows:  
+|  (b) The registrar shall maintain the file in alphabetical  
+| order by deputy name [ ~~on a countywide basis~~ ].  
+|  SECTION 4. Section 13.035(c), Election Code, is amended to  
+| read as follows:  
+|  (c) The registrar shall maintain the file in alphabetical  
+| order by deputy name [ ~~on a countywide basis~~ ].  
+|  SECTION 5. Section 13.037(a), Election Code, is amended to  
+| read as follows:  
+|  (a) A person may not receive compensation from _any_ [ ~~the~~ ]  
+| county for service as a volunteer deputy registrar unless  
+| compensation is authorized by the commissioners court.  
+|  SECTION 6. Section 13.038, Election Code, is amended to  
+| read as follows:  
+|  Sec. 13.038. POWERS GENERALLY. _(a)_ A volunteer deputy  
+| registrar may distribute voter registration application forms  
+| throughout the county and receive registration applications  
+| submitted to the deputy in person.  
+|  _(b)_ _____A volunteer deputy registrar may distribute a voter_  
+| _registration application in the form prescribed by the secretary of_  
+| _state under Section 31.002 throughout the state and receive an_  
+| _application in that form submitted to the deputy in person,_  
+| _regardless of the county in which the application was printed._  
+|  _(c)_ _____The secretary of state shall prescribe procedures to_  
+| _implement this section._  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,91 @@
+|  
+---|---  
+|  By: Guillen | H.B. No. 3760  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the disposition of surplus vehicles by a governmental  
+| agency.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 503.063, Transportation Code, is amended  
+| to read as follows:  
+|  Sec. 503.063. BUYER'S TEMPORARY TAGS. (a) Except as  
+| provided by this section, a dealer _or federal, state, or local_  
+| _governmental agency exempt from the requirements to obtain a dealer_  
+| _general distinguishing number under Section 503.024(a)(2)_ shall  
+| issue to a person who buys a vehicle one temporary buyer's tag for  
+| the vehicle.  
+|  (b) Except as provided by this section, the buyer's tag is  
+| valid for the operation of the vehicle until the earlier of:  
+|  (1) the date on which the vehicle is registered; or  
+|  (2) the 60th day after the date of purchase.  
+|  (c) The dealer _or federal, state, or local governmental_  
+| _agency_ :  
+|  (1) must show in ink on the buyer's tag the actual date  
+| of sale and any other required information; and  
+|  (2) is responsible for displaying the tag.  
+|  (d) The dealer _or federal, state, or local governmental_  
+| _agency_ is responsible for the safekeeping and distribution of each  
+| buyer's tag the dealer _or federal, state, or local governmental_  
+| _agency_ obtains.  
+|  (e) The department may not issue a buyer's tag or contract  
+| for the issuance of a buyer's tag but shall prescribe:  
+|  (1) the specifications, color, and form of a buyer's  
+| tag; and  
+|  (2) procedures for a dealer _or federal, state, or_  
+| _local governmental agency_ to:  
+|  (A) generate a vehicle-specific number using the  
+| database developed under Section 503.0631 and assign it to each  
+| tag;  
+|  (B) generate a vehicle-specific number using the  
+| database developed under Section 503.0631 for future use for when a  
+| dealer _or federal, state, or local governmental agency_ is unable to  
+| access the Internet at the time of sale; and  
+|  (C) clearly display the vehicle-specific number  
+| on the tag.  
+|  (f) The department shall ensure that a dealer _or federal,_  
+| _state, or local governmental agency_ may generate in advance a  
+| sufficient amount of vehicle-specific numbers under Subsection  
+| (e)(2)(B) in order to continue selling vehicles for a period of up  
+| to one week in which a dealer _or federal, state, or local_  
+| _governmental agency_ is unable to access the Internet due to an  
+| emergency. The department shall establish an expedited procedure  
+| to allow affected dealers _or federal, state, or local governmental_  
+| _agency_ to apply for additional vehicle-specific numbers so they may  
+| remain in business during an emergency.  
+|  (g) For each buyer's temporary tag, a dealer shall charge  
+| the buyer a registration fee of not more than $5 as prescribed by  
+| the department to be sent to the comptroller for deposit to the  
+| credit of the Texas Department of Motor Vehicles fund. _A federal,_  
+| _state, or local governmental agency is not required to charge the_  
+| _fee prescribed under this Subsection._  
+|  SECTION 2. Section 503.0631, Transportation Code, is  
+| amended to read as follows:  
+|  Sec. 503.0631. BUYER'S TEMPORARY TAG DATABASE.  
+|  (c) Except as provided by Subsection (d), before a buyer's  
+| temporary tag may be displayed on a vehicle, a dealer _or federal,_  
+| _state, or local governmental agency_ must enter into the database  
+| through the Internet information about the buyer of the vehicle for  
+| which the tag was issued as prescribed by the department and  
+| generate a vehicle-specific number for the tag as required by  
+| Section 503.063(e). The department may not deny access to the  
+| database to any dealer who holds a general distinguishing number  
+| issued under this chapter or who is licensed under Chapter 2301,  
+| Occupations Code.  
+|  (d) A dealer _or federal, state, or local governmental agency_  
+| shall obtain 24-hour Internet access at its place of business _or_  
+| _operation_ , but if the dealer _or federal, state, or local_  
+| _governmental agency_ is unable to access the Internet at the time of  
+| the sale of a vehicle, the dealer _or federal, state, or local_  
+| _governmental agency_ shall complete and sign a form, as prescribed  
+| by the department, that states the dealer _or federal, state, or_  
+| _local governmental agency_ has Internet access, but was unable to  
+| access the Internet at the time of sale. The buyer shall keep the  
+| original copy of the form in the vehicle until the vehicle is  
+| registered to the buyer.  
+| Not later than the next business day after  
+| the time of sale, the dealer _or federal, state, or local_  
+| _governmental agency_ shall submit the information required under  
+| Subsection (c).  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

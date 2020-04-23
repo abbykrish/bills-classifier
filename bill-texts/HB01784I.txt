@@ -1,0 +1,132 @@
+| 86R7563 AAF-F  
+---|---  
+|  By: Capriglione | H.B. No. 1784  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to management and storage of state records and  
+| information.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 441.003, Government Code, is amended by  
+| amending Subsection (a) and adding Subsection (f) to read as  
+| follows:  
+|  (a) Subject to the approval of the commission, the director  
+| and librarian shall appoint an assistant state librarian, a state  
+| archivist, a state records administrator, _a state information_  
+| _governance coordinator,_ and other assistants and employees  
+| necessary to fulfill the duties of the commission and the director  
+| and librarian as prescribed by law.  
+|  _(f)_ _____The state information governance coordinator is a_  
+| _position in the commission's records management division._ ___The_  
+| _coordinator shall:_  
+|  _(1)_ _____ensure records management programs are_  
+| _implemented by state agencies;_  
+|  _(2)_ _____assist state agencies in complying with the_  
+| _agencies' records management programs; and_  
+|  _(3)_ _____increase overall awareness and outreach for state_  
+| _agency records management programs._  
+|  SECTION 2. Section 441.183, Government Code, is amended to  
+| read as follows:  
+|  Sec. 441.183. RECORDS MANAGEMENT PROGRAMS IN STATE  
+| AGENCIES.  _(a)_ The agency head of each state agency shall:  
+|  (1) establish and maintain a records management  
+| program on a continuing and active basis;  
+|  (2) create and maintain records containing adequate  
+| and proper documentation of the organization, functions, policies,  
+| decisions, procedures, and essential transactions of the agency  
+| designed to furnish information to protect the financial and legal  
+| rights of the state and any person affected by the activities of the  
+| agency;  
+|  (3) make certain that all records of the agency are  
+| passed to the agency head's successor in the position of agency  
+| head;  
+|  (4) identify and take adequate steps to protect  
+| confidential and vital state records;  
+|  (5) cooperate with the commission in the conduct of  
+| state agency records management surveys; and  
+|  (6) cooperate with the commission, the director and  
+| librarian, and any other authorized designee of the director and  
+| librarian in fulfilling their duties under this subchapter.  
+|  _(b)_ _____As part of a records management program established_  
+| _under Subsection (a), the agency head of a state agency shall_  
+| _require training for agency employees, annually and on employment_  
+| _with the agency, regarding the records management program,_  
+| _including the agency's approved records retention schedule._  
+|  SECTION 3. Subchapter L, Chapter 441, Government Code, is  
+| amended by adding Section 441.1856 to read as follows:  
+|  _Sec._ ___441.1856._ _____DATA CLASSIFICATION, SECURITY, AND_  
+| _RETENTION REQUIREMENTS._ ___At the initiation of a project, a state_  
+| _agency shall classify the data produced from or used in the project_  
+| _and determine appropriate data security and retention requirements_  
+| _for each classification._  
+|  SECTION 4. Section 2054.0286, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2054.0286. _CHIEF DATA OFFICER_ [ ~~STATEWIDE DATA~~  
+|  ~~COORDINATOR~~ ]. (a)  The executive director, using existing  
+| department funds, shall employ a _chief data officer_ [ ~~statewide data~~  
+|  ~~coordinator~~ ] to:  
+|  (1) improve the control and security of information  
+| collected by state agencies;  
+|  (2) promote between state agencies the sharing of  
+| information, including customer information; [ ~~and~~ ]  
+|  (3) reduce information collection costs incurred by  
+| this state _; and_  
+|  _(4)_ _____assist the department in the development and_  
+| _management of a data portal for use by state agencies_.  
+|  (b) The _chief data officer_ [ ~~statewide data coordinator~~ ]  
+| shall develop and implement best practices among state agencies to:  
+|  (1) improve interagency information coordination;  
+|  (2) reduce duplicative information collection;  
+|  (3) increase accountability and ensure compliance  
+| with statutes and rules requiring agencies to share information;  
+|  (4) improve information management and analysis to  
+| increase information security, uncover fraud and waste, reduce  
+| agency costs, improve agency operations, and verify compliance with  
+| applicable laws;  
+|  (5) encourage agencies to collect and post on the  
+| agencies' Internet websites _or the data portal managed by the_  
+| _department_ information related to _an agency's_ [ ~~agency~~ ] functions
+_or_  
+| _other data maintained by the agency_ that is in an open file format  
+| and is machine-readable, exportable, and easily accessible by the  
+| public; and  
+|  (6) encourage the evaluation of open document formats  
+| for storing data and documents generated by state agencies.  
+|  (c) Each state agency shall cooperate with the _chief data_  
+| _officer_ [ ~~statewide data coordinator~~ ] in fulfilling the  
+| requirements of this section.  
+|  [ ~~(d) This section expires September 1, 2021.~~]  
+|  SECTION 5. Subchapter C, Chapter 2054, Government Code, is  
+| amended by adding Section 2054.069 to read as follows:  
+|  _Sec._ ___2054.069._ _____STRATEGY FOR DATA STORAGE. (a)_ ___In this_  
+| _section:_  
+|  _(1)_ _____"Archival state record"_ ___has the meaning assigned_  
+| _by Section 441.180._  
+|  _(2)_ _____"Statewide technology center"_ ___has the meaning_  
+| _assigned by Section 2054.375._  
+|  _(b)_ _____The department, in collaboration with the Texas State_  
+| _Library and Archives Commission, shall develop a strategy for state_  
+| _agencies, consistent with state records management and archival_  
+| _practices, regarding the:_  
+|  _(1)_ _____transfer of appropriate archival state records of_  
+| _the agency that are in electronic format to the commission for_  
+| _inclusion in the state archives program established under Section_  
+| _441.181; and_  
+|  _(2)_ _____use of a statewide technology center for long-term_  
+| _non-archival records storage._  
+|  SECTION 6. Subchapter F, Chapter 2054, Government Code, is  
+| amended by adding Section 2054.137 to read as follows:  
+|  _Sec._ ___2054.137._ _____DESIGNATED DATA MANAGEMENT OFFICER. Each_  
+| _state agency with more than 150 full-time employees shall designate_  
+| _a full-time employee of the agency to serve as a data management_  
+| _officer._ ___The data management officer shall:_  
+|  _(1)_ _____coordinate with the chief data officer under_  
+| _Section 2054.0286; and_  
+|  _(2)_ _____consider posting the agency's open data on the data_  
+| _portal managed by the department._  
+|  SECTION 7. As soon as practicable after the effective date  
+| of this Act, the Department of Information Resources shall adopt  
+| rules to implement Section 2054.0286, Government Code, as amended  
+| by this Act.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

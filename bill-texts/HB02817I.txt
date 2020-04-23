@@ -1,0 +1,136 @@
+| 86R2805 JES-F  
+---|---  
+|  By: Lucio III | H.B. No. 2817  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the contractual relationship between a pharmacist or  
+| pharmacy and a health benefit plan issuer or pharmacy benefit  
+| manager.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 1369, Insurance Code, is amended by  
+| adding Subchapter K to read as follows:  
+| _SUBCHAPTER K. CONTRACTS WITH PHARMACISTS AND PHARMACIES_  
+|  _Sec. 1369.501. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Pharmacy benefit manager" means a person, other_  
+| _than a pharmacist or pharmacy, who acts as an administrator in_  
+| _connection with pharmacy benefits._  
+|  _(2)_ _____"Pharmacy services administrative organization"_  
+| _means an entity that contracts with a pharmacist or pharmacy to_  
+| _conduct on behalf of the pharmacist or pharmacy the pharmacist's or_  
+| _pharmacy's business with a third-party payor, including a pharmacy_  
+| _benefit manager, in connection with pharmacy benefits and to assist_  
+| _the pharmacist or pharmacy by providing administrative services,_  
+| _including negotiating, executing, and administering a contract_  
+| _with a third-party payor and communicating with the third-party_  
+| _payor in connection with a contract or pharmacy benefits._  
+|  _Sec._ ___1369.502._ _____APPLICABILITY OF SUBCHAPTER. (a) This_  
+| _subchapter applies only to a health benefit plan that provides_  
+| _benefits for medical or surgical expenses incurred as a result of a_  
+| _health condition, accident, or sickness, including an individual,_  
+| _group, blanket, or franchise insurance policy or insurance_  
+| _agreement, a group hospital service contract, or an individual or_  
+| _group evidence of coverage or similar coverage document that is_  
+| _offered by:_  
+|  _(1) an insurance company;_  
+|  _(2)_ _____a group hospital service corporation operating_  
+| _under Chapter 842;_  
+|  _(3)_ _____a health maintenance organization operating under_  
+| _Chapter 843;_  
+|  _(4)_ _____an approved nonprofit health corporation that_  
+| _holds a certificate of authority under Chapter 844;_  
+|  _(5)_ _____a multiple employer welfare arrangement that holds_  
+| _a certificate of authority under Chapter 846;_  
+|  _(6)_ _____a stipulated premium company operating under_  
+| _Chapter 884;_  
+|  _(7)_ _____a fraternal benefit society operating under_  
+| _Chapter 885;_  
+|  _(8) a Lloyd's plan operating under Chapter 941; or_  
+|  _(9) an exchange operating under Chapter 942._  
+|  _(b) Notwithstanding any other law, this chapter applies to:_  
+|  _(1)_ _____a small employer health benefit plan subject to_  
+| _Chapter 1501, including coverage provided through a health group_  
+| _cooperative under Subchapter B of that chapter;_  
+|  _(2)_ _____a standard health benefit plan issued under_  
+| _Chapter 1507;_  
+|  _(3)_ _____health benefits provided by or through a church_  
+| _benefits board under Subchapter I, Chapter 22, Business_  
+| _Organizations Code;_  
+|  _(4)_ _____group health coverage made available by a school_  
+| _district in accordance with Section 22.004, Education Code;_  
+|  _(5)_ _____a regional or local health care program operated_  
+| _under Section 75.104, Health and Safety Code;_  
+|  _(6)_ _____a self-funded health benefit plan sponsored by a_  
+| _professional employer organization under Chapter 91, Labor Code;_  
+|  _(7)_ _____county employee group health benefits provided_  
+| _under Chapter 157, Local Government Code; and_  
+|  _(8)_ _____health and accident coverage provided by a risk_  
+| _pool created under Chapter 172, Local Government Code._  
+|  _Sec._ ___1369.503._ _____PERFORMANCE MEASURES AND RELATED FEES. (a)_  
+| _A health benefit plan issuer or pharmacy benefit manager that_  
+| _establishes a contractual pharmacy performance measure or pay for_  
+| _performance pharmacy network shall evaluate the performance of_  
+| _pharmacists or pharmacies for purposes of that measure or network_  
+| _using a nationally recognized performance information management_  
+| _tool that provides standardized, benchmarked data to improve_  
+| _pharmacy performance._  
+|  _(b)_ _____A health benefit plan issuer or pharmacy benefit manager_  
+| _may not directly or indirectly charge or hold a pharmacist or_  
+| _pharmacy responsible for a fee if:_  
+|  _(1)_ _____the pharmacist or pharmacy uses the performance_  
+| _information management tool described by Subsection (a) to produce_  
+| _a score or metric for patient care; and_  
+|  _(2)_ _____the score or metric is within the criteria_  
+| _identified by the health benefit plan issuer or pharmacy benefit_  
+| _manager using the data provided by the performance information_  
+| _management tool._  
+|  _(c)_ _____If a health benefit plan issuer or pharmacy benefit_  
+| _manager imposes a fee on a pharmacist or pharmacy based on a score_  
+| _or metric produced by the performance information management tool_  
+| _described by Subsection (a), the health benefit plan issuer or_  
+| _pharmacy benefit manager:_  
+|  _(1)_ _____may recover the fee as an offset against the_  
+| _professional dispensing fee owed under the contract with the_  
+| _pharmacist or pharmacy; and_  
+|  _(2)_ _____may not recover the fee as an offset against any_  
+| _other amount owed to the pharmacist or pharmacy under the contract._  
+|  _Sec._ ___1369.504._ _____DISCLOSURE OF PHARMACY SERVICES_  
+| _ADMINISTRATIVE ORGANIZATION CONTRACT. A pharmacist or pharmacy_  
+| _that is a member of a pharmacy services administrative organization_  
+| _that enters into a contract with a health benefit plan issuer or_  
+| _pharmacy benefit manager on the pharmacist's or pharmacy's behalf_  
+| _is entitled to receive a copy of the contract._  
+|  _Sec._ ___1369.505._ _____DELIVERY OF DRUGS. A health benefit plan_  
+| _issuer or pharmacy benefit manager may not as a condition of a_  
+| _contract with a pharmacist or pharmacy prohibit the pharmacist or_  
+| _pharmacy from:_  
+|  _(1)_ _____mailing or delivering drugs to a patient as an_  
+| _ancillary service of the pharmacist or pharmacy as otherwise_  
+| _allowed by law; or_  
+|  _(2)_ _____charging a shipping and handling fee to a patient_  
+| _requesting a prescription be mailed or delivered._  
+|  _Sec._ ___1369.506._ _____PROFESSIONAL STANDARDS AND SCOPE OF PRACTICE_  
+| _REQUIREMENTS. A health benefit plan issuer or pharmacy benefit_  
+| _manager may not as a condition of a contract with a pharmacist or_  
+| _pharmacy:_  
+|  _(1)_ _____require pharmacist or pharmacy accreditation_  
+| _standards or recertification requirements inconsistent with, more_  
+| _stringent than, or in addition to federal and state requirements_  
+| _for licensure as a pharmacist or pharmacy in this state; or_  
+|  _(2)_ _____prohibit a licensed pharmacist or pharmacy from_  
+| _dispensing any drug that may be dispensed under the pharmacist's or_  
+| _pharmacy's license._  
+|  _Sec._ ___1369.507._ _____WAIVER PROHIBITED. The provisions of this_  
+| _subchapter may not be waived, voided, or nullified by contract._  
+|  _Sec._ ___1369.508._ _____UNFAIR OR DECEPTIVE ACT OR PRACTICE. A_  
+| _violation of this subchapter by a health benefit plan issuer or_  
+| _pharmacy benefit manager is an unfair or deceptive act or practice_  
+| _in the business of insurance under Chapter 541._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a contract entered into or renewed on or after the effective date  
+| of this Act. A contract entered into or renewed before the  
+| effective date of this Act is governed by the law as it existed  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

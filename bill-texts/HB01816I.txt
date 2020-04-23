@@ -1,0 +1,127 @@
+| 86R8320 TJB-D  
+---|---  
+|  By: Beckley | H.B. No. 1816  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to ad valorem tax protests and appeals on the ground of the  
+| unequal appraisal of property.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 41.43, Tax Code, is amended by amending  
+| Subsection (b) and adding Subsections (e) and (f) to read as  
+| follows:  
+|  (b) A protest on the ground of unequal appraisal of property  
+| shall be determined in favor of the protesting party unless the  
+| appraisal district establishes that:  
+|  (1) the appraisal ratio of the property is equal to or  
+| less than the median level of appraisal of a reasonable and  
+| representative sample of other properties in the appraisal  
+| district;  
+|  (2) the appraisal ratio of the property is equal to or  
+| less than the median level of appraisal of a sample of properties in  
+| the appraisal district consisting of a reasonable number of other  
+| properties similarly situated to, or of the same general kind or  
+| character as, the property subject to the protest; or  
+|  (3) the _appraisal ratio_ [ ~~appraised value~~ ] of the  
+| property is equal to or less than the median _level of appraisal_  
+| [ ~~appraised value~~ ] of a reasonable number of comparable properties  
+| _in the appraisal district_ [ ~~appropriately adjusted~~ ].  
+|  _(e) For the purpose of Subsection (b)(3):_  
+|  _(1)_ _____a person making a determination that property is_  
+| _comparable to another property must base the determination on the_  
+| _similarity of the properties with regard to the characteristics_  
+| _described by Section 23.013(d); and_  
+|  _(2)_ _____a person calculating the median level of appraisal_  
+| _of comparable properties must base the calculation on the appraised_  
+| _value of each comparable property as shown in the appraisal records_  
+| _submitted to the appraisal review board by the chief appraiser_  
+| _under Section 25.22 or 25.23._  
+|  _(f)_ _____The comptroller shall by rule establish standards for_  
+| _the development and calibration of adjustments to the appraised_  
+| _value for industrial, petrochemical refining and processing, and_  
+| _utility properties and other unique properties._  
+|  SECTION 2. Section 42.26, Tax Code, is amended by amending  
+| Subsections (a) and (b) and adding Subsections (e) and (f) to read  
+| as follows:  
+|  (a) The district court shall grant relief on the ground that  
+| a property is appraised unequally if:  
+|  (1) the appraisal ratio of the property exceeds by at  
+| least 10 percent the median level of appraisal of a reasonable and  
+| representative sample of other properties in the appraisal  
+| district;  
+|  (2) the appraisal ratio of the property exceeds by at  
+| least 10 percent the median level of appraisal of a sample of  
+| properties in the appraisal district consisting of a reasonable  
+| number of other properties similarly situated to, or of the same  
+| general kind or character as, the property subject to the appeal; or  
+|  (3) the _appraisal ratio_ [ ~~appraised value~~ ] of the  
+| property exceeds _by at least 10 percent_ the median _level of_  
+| _appraisal_ [ ~~appraised value~~ ] of a reasonable number of comparable  
+| properties _in the appraisal district_ [ ~~appropriately adjusted~~ ].  
+|  (b) If a property owner is entitled to relief under _a_  
+| _subdivision of_ Subsection _(a)_ [ ~~(a)(1)~~ ], the court shall order the  
+| property's appraised value changed to the value as calculated on  
+| the basis of the median level of appraisal according to _that_  
+| _subdivision_ [ ~~Subsection (a)(1). If a property owner is entitled to~~  
+|  ~~relief under Subsection (a)(2), the court shall order the~~  
+|  ~~property's appraised value changed to the value calculated on the~~  
+|  ~~basis of the median level of appraisal according to Subsection~~  
+|  ~~(a)(2). If a property owner is entitled to relief under Subsection~~  
+|  ~~(a)(3), the court shall order the property's appraised value~~  
+|  ~~changed to the value calculated on the basis of the median appraised~~  
+|  ~~value according to Subsection (a)(3)~~ ]. If a property owner is  
+| entitled to relief under more than one subdivision of Subsection  
+| (a), the court shall order the property's appraised value changed  
+| to the value that results in the lowest appraised value. The court  
+| shall determine each applicable median level of appraisal [ ~~or~~  
+|  ~~median appraised value~~ ] according to law, and is not required to  
+| adopt the median level of appraisal [ ~~or median appraised value~~ ]  
+| proposed by a party to the appeal. The court may not limit or deny  
+| relief to the property owner entitled to relief under a subdivision  
+| of Subsection (a) because the appraised value determined according  
+| to another subdivision of Subsection (a) results in a higher  
+| appraised value.  
+|  _(e) For the purpose of Subsection (a)(3):_  
+|  _(1)_ _____a person making a determination that property is_  
+| _comparable to another property must base the determination on the_  
+| _similarity of the properties with regard to the characteristics_  
+| _described by Section 23.013(d); and_  
+|  _(2)_ _____a person calculating the median level of appraisal_  
+| _of comparable properties must base the calculation on the appraised_  
+| _value of each comparable property as shown in the appraisal records_  
+| _certified by the chief appraiser under Section 26.01._  
+|  _(f)_ _____The comptroller shall by rule establish standards for_  
+| _the development and calibration of adjustments to the appraised_  
+| _value for industrial, petrochemical refining and processing, and_  
+| _utility properties and other unique properties._  
+|  SECTION 3. Section 42.29, Tax Code, is amended by amending  
+| Subsection (b) and adding Subsection (c) to read as follows:  
+|  (b) Notwithstanding Subsection (a), the amount of an award  
+| of attorney's fees _to a property owner_ may not exceed the lesser of:  
+|  (1) $100,000; or  
+|  (2) the total amount by which the property owner's tax  
+| liability is reduced as a result of the appeal.  
+|  _(c)_ _____An appraisal district, an appraisal review board, or a_  
+| _chief appraiser that prevails in an appeal under Section 42.26 may_  
+| _be awarded reasonable attorney's fees. The amount of the award may_  
+| _not exceed $15,000._  
+|  SECTION 4. Not later than January 1, 2020, the comptroller  
+| shall establish the standards required by Sections 41.43(f) and  
+| 42.26(f), Tax Code, as added by this Act.  
+|  SECTION 5. Section 41.43, Tax Code, as amended by this Act,  
+| applies only to a protest under Chapter 41, Tax Code, for which a  
+| notice of protest is filed on or after the effective date of this  
+| Act. A protest under Chapter 41, Tax Code, for which a notice of  
+| protest was filed before the effective date of this Act is governed  
+| by the law in effect on the date the notice of protest was filed, and  
+| the former law is continued in effect for that purpose.  
+|  SECTION 6. Sections 42.26 and 42.29, Tax Code, as amended by  
+| this Act, apply only to an appeal under Chapter 42, Tax Code, for  
+| which a petition for review is filed on or after the effective date  
+| of this Act. An appeal under Chapter 42, Tax Code, for which a  
+| petition for review was filed before the effective date of this Act  
+| is governed by the law in effect on the date the petition for review  
+| was filed, and the former law is continued in effect for that  
+| purpose.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

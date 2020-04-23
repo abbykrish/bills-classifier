@@ -1,0 +1,94 @@
+| 86R213 JRJ-D  
+---|---  
+|  By: Minjarez | H.B. No. 140  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to automatic voter registration on issuance or change of a  
+| driver's license or identification card by the Department of Public  
+| Safety.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 13, Election Code, is  
+| amended by adding Section 13.009 to read as follows:  
+|  _Sec._ ___13.009._ _____VOTER REGISTRATION THROUGH DEPARTMENT OF_  
+| _PUBLIC SAFETY. (a) The voter registrar of each county shall_  
+| _automatically register any county resident who is eligible to vote_  
+| _as provided by Section 13.001 and:_  
+|  _(1)_ _____is issued a Texas driver's license or a personal_  
+| _identification card by the Department of Public Safety; or_  
+|  _(2)_ _____makes a change to a Texas driver's license or_  
+| _personal identification card issued by the Department of Public_  
+| _Safety._  
+|  _(b)_ _____A driver's license or personal identification card_  
+| _transaction with an indication provided by Section 20.062(b) or_  
+| _20.063(c) that the transaction is not for voter registration_  
+| _purposes is not subject to this section._  
+|  SECTION 2. Section 20.061, Election Code, is amended to  
+| read as follows:  
+|  Sec. 20.061. APPLICABILITY OF OTHER PROVISIONS. The other  
+| provisions of this chapter apply to the Department of Public Safety  
+| except provisions that conflict with this subchapter _or Section_  
+| _13.009_.  
+|  SECTION 3. Section 20.062(b), Election Code, is amended to  
+| read as follows:  
+|  (b) The department shall prescribe and use a change of  
+| address form and procedure that combines department and voter  
+| registration functions. The form must allow a licensee or  
+| cardholder to indicate _that_ [ ~~whether~~ ] the change of address is _not_  
+| [ ~~also to be used~~ ] for voter registration purposes.  
+|  SECTION 4. Section 20.063, Election Code, is amended to  
+| read as follows:  
+|  Sec. 20.063. REGISTRATION PROCEDURES. (a)  The Department  
+| of Public Safety shall _consider an application made in person, by_  
+| _mail, or online at the department's Internet website_ [ ~~provide to~~  
+|  ~~each person who applies in person at the department's offices~~ ] for  
+| an original or renewal of a driver's license, a personal  
+| identification card, or a duplicate or corrected license or card _by_  
+| _a person who is eligible to vote as provided by Section 13.001_ an  
+| _application for_ [ ~~opportunity to complete a~~ ] voter registration _._  
+| _The date of application is considered to be the date of submission_  
+| _to the voter registrar for the purpose of determining the effective_  
+| _date of registration_ [ ~~application form~~ ].  
+|  (b) _The Department of Public Safety shall consider a change_  
+| _of address that relates to_ [ ~~When the department processes~~ ] a  
+| license or card _and that is submitted to_ [ ~~for renewal by mail,~~ ] the  
+| department [ ~~shall deliver to the applicant by mail a voter~~  
+|  ~~registration application form.~~  
+|  [ ~~(c)~~ ~~~~ ~~~~ ~~A change of address that relates to a license or
+card~~  
+|  ~~and that is submitted to the department~~ ] in person _,_ [ ~~or~~ ] by
+mail _, or_  
+| _online at the department's Internet website_ [ ~~serves~~ ] as a change
+_in_  
+| [ ~~of address for~~ ] voter registration [ ~~unless the licensee or~~  
+|  ~~cardholder indicates that the change is not for voter registration~~  
+|  ~~purposes~~ ]. The date of submission of a change of address to a  
+| department employee is considered to be the date of submission to  
+| the voter registrar for the purpose of determining the effective  
+| date of registration [ ~~only~~ ].  
+|  _(c) The registration of an eligible_ [ ~~(d) If a completed~~]  
+| voter _as required by Subsections (a) and (b) is automatic unless the_  
+| _person indicates that the transaction is not for voter_  
+| registration _purposes_ [ ~~application submitted to a department~~  
+|  ~~employee does not include the applicant's correct driver's license~~  
+|  ~~number or personal identification card number, a department~~  
+|  ~~employee shall enter the appropriate information on the~~  
+|  ~~application. If a completed application does not include the~~  
+|  ~~applicant's correct residence address or mailing address, a~~  
+|  ~~department employee shall obtain the appropriate information from~~  
+|  ~~the applicant and enter the information on the application~~ ].  
+|  SECTION 5. Section 20.065(b), Election Code, is amended to  
+| read as follows:  
+|  (b) Each weekday the department is regularly open for  
+| business, the department shall electronically transfer to the  
+| secretary of state the name _and information designated by the_  
+| _secretary of state for_ [ ~~of each person who completes a~~ ] voter  
+| registration _for each individual who is eligible to vote as_  
+| _provided by Section 13.001 and applies in person, by mail, or online_  
+| _at the department's Internet website for an original or renewal of a_  
+| _driver's license, a personal identification card, or a duplicate or_  
+| _corrected license or card_ [ ~~application submitted to the~~  
+|  ~~department~~ ].  The secretary shall prescribe procedures necessary to  
+| implement this subsection.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

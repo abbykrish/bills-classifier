@@ -1,0 +1,66 @@
+| 86R12733 JCG-F  
+---|---  
+|  By: Miller | H.B. No. 3022  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to emergency warning systems operated by municipalities  
+| and counties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter E, Chapter 418, Government Code, is  
+| amended by adding Section 418.1103 to read as follows:  
+|  _Sec._ ___418.1103._ _____LOCAL EMERGENCY WARNING SYSTEM. (a) In this_  
+| _section, "contact information" means an individual's telephone_  
+| _number, mobile telephone number, or e-mail address._  
+|  _(b)_ _____For purposes of operating an emergency warning system_  
+| _for residents of a political subdivision, the political subdivision_  
+| _may contract with the department for disclosure by the department_  
+| _of the contact information of a political subdivision resident who_  
+| _consents to the disclosure for the purpose of participating in the_  
+| _system._  
+|  _(c)_ _____A participant in an emergency warning system described_  
+| _by Subsection (b) may request removal from the system by submitting_  
+| _a written request for removal to the applicable political_  
+| _subdivision._ ___On receipt of the request, the applicable political_  
+| _subdivision shall remove the participant's contact information_  
+| _from the system and cease issuing emergency warnings to the former_  
+| _participant through the system._  
+|  SECTION 2. Subchapter A, Chapter 521, Transportation Code,  
+| is amended by adding Section 521.013 to read as follows:  
+|  _Sec._ ___521.013._ _____VOLUNTARY PARTICIPATION IN LOCAL EMERGENCY_  
+| _WARNING SYSTEM. (a) In this section, "contact information"_ ___has the_  
+| _meaning assigned by Section 418.1103, Government Code._  
+|  _(b)_ _____When a person applies for an original or renewal_  
+| _driver's license under this chapter, the person may consent to:_  
+|  _(1)_ _____participate in an emergency warning system_  
+| _described by Section 418.1103, Government Code; and_  
+|  _(2)_ _____the disclosure by the department of the person's_  
+| _contact information to the municipality or county, or both, in_  
+| _which the person resides for the purpose of participating in an_  
+| _emergency warning system operated by the municipality or county._  
+|  _(c)_ _____The department shall include space on each application_  
+| _for an original or renewal driver's license that allows a person_  
+| _applying for an original or renewal driver's license to indicate_  
+| _whether the person consents to participate in an emergency warning_  
+| _system operated by the municipality or county, or both, in which the_  
+| _person resides and consents to disclosure by the department of the_  
+| _person's contact information to the municipality or county or both._  
+|  _(d)_ _____The department shall disclose a person's contact_  
+| _information to a municipality or county for participation in an_  
+| _emergency notification system if:_  
+|  _(1)_ _____the person indicates the person's consent to_  
+| _participate in an emergency notification system and to the_  
+| _disclosure of the person's contact information under Subsection_  
+| _(b); and_  
+|  _(2) the applicable municipality or county:_  
+|  _(A)_ _____operates an emergency notification system;_  
+| _and_  
+|  _(B)_ _____has contracted with the department for the_  
+| _disclosure of the person's contact information under Section_  
+| _418.1103, Government Code._  
+|  _(e)_ _____Contact information obtained by a municipality or_  
+| _county under this section may not be used or disclosed for any_  
+| _purpose other than enrolling a person in an emergency warning_  
+| _system and issuing warnings to the person through the system._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

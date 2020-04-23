@@ -1,0 +1,22 @@
+| 86R12221 ADM-D  
+---|---  
+|  By: Vo | H.B. No. 2595  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the amount of time an authority with whom an application  
+| for a place on the ballot is filed has to review the application.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 141.032, Election Code, is amended by  
+| amending Subsection (b) and adding Subsection (b-1) to read as  
+| follows:  
+|  (b) Except as provided by _Subsections (b-1) and_  
+| [ ~~Subsection~~ ] (c), the review shall be completed not later than the  
+| fifth _business_ day after the date the application is received by the  
+| authority.  
+|  _(b-1)_ _____If an application is submitted fewer than five_  
+| _business days before the applicable filing deadline, the review_  
+| _shall be completed not later than the first Friday after the filing_  
+| _deadline._  
+|  SECTION 2. This Act takes effect January 1, 2020.
+

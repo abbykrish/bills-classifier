@@ -1,0 +1,593 @@
+| 86R17084 TYPED  
+---|---  
+|  By: Nevarez | H.B. No. 3781  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of the Val Verde County Groundwater  
+| Conservation District; providing authority to issue bonds;  
+| providing authority to impose fees, surcharges, and taxes.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle H, Title 6, Special District Local Laws  
+| Code, is amended by adding Chapter 8872 to read as follows:  
+| _CHAPTER 8872. VAL VERDE COUNTY GROUNDWATER CONSERVATION DISTRICT_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec._ ___8872.001._ _____DEFINITIONS. (a) Except as provided by_  
+| _Subsection (b), the definitions in Section 36.001, Water Code,_  
+| _apply to this chapter._  
+|  _(b) In this chapter:_  
+|  _(1)_ _____"Aquifer" means that part of the Edwards-Trinity_  
+| _(Plateau) Aquifer located in Val Verde County._  
+|  _(2)_ _____"Board" means the board of directors of the_  
+| _district._  
+|  _(3)_ _____"Affected person" means a registered voter of Val_  
+| _Verde County or a person owning land in Val Verde County._  
+|  _(4) "City" means the City of Del Rio._  
+|  _(5)_ _____"Commissioners court" means the Val Verde County_  
+| _Commissioners Court._  
+|  _(6)_ _____"Development board" means the Texas Water_  
+| _Development Board._  
+|  _(7) "Director" means a member of the board._  
+|  _(8)_ _____"District" means the Val Verde County Groundwater_  
+| _Conservation District._  
+|  _(9)_ _____"Domestic use" means the use of groundwater in the_  
+| _district by a member of a well owner's household or by household_  
+| _employees, tenants, licensees, or guests for the following_  
+| _purposes:_  
+|  _(A) drinking, washing, or culinary activities;_  
+|  _(B) irrigation of:_  
+|  _(i) lawns;_  
+|  _(ii) family gardens; or_  
+|  _(iii)_ _____orchards, if the produce of the_  
+| _orchard is used only for household consumption;_  
+|  _(C)_ _____filling or maintaining swimming pools,_  
+| _decorative ponds, or fountains located on the well owner's_  
+| _property; and_  
+|  _(D)_ _____drinking water for domestic animals not_  
+| _raised, maintained, or sold for commercial purposes._  
+|  _(10)_ _____"Existing well" means a well that is completed to_  
+| _produce groundwater in Val Verde County on or before January 1,_  
+| _2019\. The term includes a well that is reworked or repaired after_  
+| _January 1, 2019, to restore the well's historic production_  
+| _capacity, provided that the reworking or repair does not enlarge_  
+| _the diameter of the well bore as the well bore existed on January 1,_  
+| _2019._  
+|  _(11)_ _____"Historic use" means the production and_  
+| _beneficial use of groundwater from an existing well in any calendar_  
+| _year before January 1, 2019._  
+|  _(12)_ _____"Political subdivision" means a governmental_  
+| _entity of this state, including a county, municipality, state_  
+| _agency, or district or authority created under Section 52, Article_  
+| _III, or Section 59, Article XVI, Texas Constitution. The term also_  
+| _includes a nonprofit water supply corporation created under Chapter_  
+| _67, Water Code._  
+|  _(13)_ _____"Retail public utility" has the meaning assigned_  
+| _by Section 13.002, Water Code._  
+|  _(14) "Rural area" means an area that is located:_  
+|  _(A) inside the boundaries of the district; and_  
+|  _(B)_ _____outside the corporate boundaries and_  
+| _extraterritorial jurisdiction of a municipality in the district._  
+|  _Sec._ ___8872.002._ _____NATURE OF DISTRICT; PURPOSE. (a) The_  
+| _district is a groundwater conservation district in Val Verde County_  
+| _created under and essential to accomplish the purposes of Section_  
+| _59, Article XVI, Texas Constitution, including:_  
+|  _(1)_ _____the permitting, recharge, conservation,_  
+| _protection, and prevention of the waste of groundwater in Val Verde_  
+| _County;_  
+|  _(2)_ _____the control of subsidence caused by the_  
+| _unreasonable withdrawal of groundwater;_  
+|  _(3)_ _____the regulation of transporting groundwater_  
+| _outside the boundaries of the district;_  
+|  _(4)_ _____the regulation of groundwater production and the_  
+| _implementation of drought management and conservation plans for the_  
+| _reduction of drawdown when conditions warrant action to protect_  
+| _spring flow and base flow;_  
+|  (5) the maintenance of sufficient, good quality river  
+| flows during periods of drought and low-flow to protect endangered  
+| species and the habitats of endangered species;  
+|  (6) the development, with the assistance of the Texas  
+| Water Development Board, the Texas Parks and Wildlife Department,  
+| and the Texas Commission on Environmental Quality, of empirical  
+| groundwater flow models to inform the District's groundwater  
+| management; and  
+|  _(7)_ _____the management of the issuance of permits by_  
+| _requiring studies and groundwater availability model analyses of_  
+| _permit applications that include the use of conservation triggers_  
+| _to mitigate the impact on spring flow, base flow, and drawdown._  
+|  _(b)_ _____The district is created to serve a public use and_  
+| _benefit._  
+|  _(c)_ _____All of the land and other property included within the_  
+| _boundaries of the district will benefit from the works and projects_  
+| _that are to be accomplished by the district under powers conferred_  
+| _by Section 59, Article XVI, Texas Constitution, this chapter, and_  
+| _Chapter 36, Water Code._  
+|  _Sec._ ___8872.003._ _____CONFIRMATION ELECTION REQUIRED. If the_  
+| _creation of the district is not confirmed at a confirmation_  
+| _election held under Section 8872.023 before September 1, 2021:_  
+|  _(1)_ _____the district is dissolved September 1, 2021,_  
+| _except that:_  
+|  _(A) any debts incurred shall be paid;_  
+|  _(B)_ _____any assets that remain after the payment of_  
+| _debts shall be transferred to Val Verde County and the city in_  
+| _proportion to the amount each entity has contributed to the costs of_  
+| _the confirmation election and district operations; and_  
+|  _(C)_ _____the organization of the district shall be_  
+| _maintained until all debts are paid and remaining assets are_  
+| _transferred; and_  
+|  _(2) this chapter expires September 1, 2022._  
+|  _Sec._ ___8872.0034._ _____INITIAL DISTRICT TERRITORY. The boundaries_  
+| _of the district are coextensive with the boundaries of Val Verde_  
+| _County._  
+|  _Sec._ ___8872.0035._ _____MINIMUM STANDARDS. The Texas Water_  
+| _Development Board shall develop and set minimum flow and spring_  
+| _discharge standards for the District based on the best available_  
+| _science, historical data, and any other available data necessary to_  
+| _protect the property values of riverside landowners and endangered_  
+| _or threatened species in the District._  
+| _SUBCHAPTER A-1. TEMPORARY PROVISIONS_  
+|  _Sec._ ___8872.021._ _____APPOINTMENT OF TEMPORARY DIRECTORS;_  
+| _VACANCIES; TERMS. (a) As soon as practicable after the effective_  
+| _date of the Act enacting this chapter, nine temporary directors_  
+| _shall be appointed as follows:_  
+|  _(1)_ _____three temporary directors shall be appointed by_  
+| _the commissioners court;_  
+|  _(2)_ _____three temporary directors shall be appointed by_  
+| _the city council of the city; and_  
+|  _(3)_ _____three temporary directors shall be appointed_  
+| _jointly by the commissioners court, city council, and the mayor of_  
+| _the city;_  
+|  _(b)_ _____An individual appointed to serve as a temporary director_  
+| _must be at least 18 years of age and be:_  
+|  _(1) A registered voter of Val Verde County, or;_  
+|  _(2) A landowner in Val Verde County._  
+|  _(c)_ _____If there is a vacancy on the temporary board of_  
+| _directors of the district, the remaining temporary directors shall_  
+| _appoint a person to fill the vacancy in a manner that meets the_  
+| _representational requirements of this section._  
+|  _(d) Temporary directors serve until the earlier of:_  
+|  _(1)_ _____the date the temporary directors become initial_  
+| _directors under Section 8872.024; or_  
+|  _(2)_ _____the date this chapter expires under Section_  
+| _8872.003._  
+|  _(e)_ _____Before the confirmation election under Section_  
+| _8872.023, the presiding officer of the district or the presiding_  
+| _officer's designee may represent the district in the joint planning_  
+| _process under Section 36.108, Water Code, and shall be considered a_  
+| _voting district representative._  
+|  _Sec._ ___8872.022._ _____ORGANIZATIONAL MEETING OF TEMPORARY_  
+| _DIRECTORS. (a) As soon as practicable after all the temporary_  
+| _directors have qualified under Section 36.055, Water Code, a_  
+| _majority of the temporary directors shall convene the_  
+| _organizational meeting of the district at a location within the_  
+| _district agreeable to a majority of the directors. If an agreement_  
+| _on location cannot be reached, the organizational meeting shall be_  
+| _at the Val Verde County Courthouse._  
+|  _(b)_ _____At the organizational meeting described by Subsection_  
+| _(a), the temporary directors shall:_  
+|  _(1)_ _____elect a president as presiding officer, vice_  
+| _president, secretary, and treasurer;_  
+|  _(2)_ _____schedule the confirmation election described by_  
+| _Section 8872.023; and_  
+|  _(3)_ _____notify the applicable groundwater management area_  
+| _of the district's creation, subject to confirmation under Section_  
+| _8872.023._  
+|  _Sec._ ___8872.023._ _____CONFIRMATION ELECTION. (a) The temporary_  
+| _board shall order an election to be held on the first available_  
+| _uniform election date in November following January 1, 2019, to_  
+| _confirm the creation of the district and authorize the collection_  
+| _of taxes._  
+|  _(b)_ _____The ballot for the election must be printed to permit_  
+| _voting for or against the following proposition: "The creation of_  
+| _the Val Verde County Groundwater Conservation District and the_  
+| _imposition of an ad valorem tax in the district at a rate not to_  
+| _exceed three cents for each $100 of assessed valuation."_  
+|  _(c)_ _____Except as provided by this section, a confirmation_  
+| _election must be conducted as provided by Sections 36.017(b)-(i),_  
+| _Water Code, and the Election Code._  
+|  _(d)_ _____If the district's creation is not confirmed at an_  
+| _election held under this section, the temporary directors may order_  
+| _one or more subsequent elections to be held to confirm the creation_  
+| _of the district not earlier than the first anniversary of the_  
+| _preceding confirmation election. If the district's creation is not_  
+| _confirmed at an election held under this section before September_  
+| _1, 2021, the district is dissolved in accordance with Section_  
+| _8872.003._  
+|  _(e)_ _____The costs of an election held under this chapter shall_  
+| _be paid equally by Val Verde County and the city._  
+|  _Sec._ ___8872.024._ _____INITIAL DIRECTORS. (a) If the creation of_  
+| _the district is confirmed at an election held under Section_  
+| _8872.023, the temporary directors become the initial directors and_  
+| _serve until permanent directors are elected or appointed under_  
+| _Section 8872.052._  
+|  _(b)_ _____The initial directors of the board shall draw lots to_  
+| _determine which five directors shall serve a term expiring December_  
+| _1 of the year two years after the date of the election in which the_  
+| _district is confirmed and which four directors shall serve a term_  
+| _expiring December 1 of the year four years after the date of the_  
+| _election in which the district is confirmed._  
+|  _(c)_ _____The initial directors shall provide notice to the_  
+| _members of the groundwater management area in which the district is_  
+| _located that the creation of the district is confirmed._  
+|  _Sec._ ___8872.025._ _____EXPIRATION OF SUBCHAPTER. This subchapter_  
+| _expires September 1, 2021._  
+| _SUBCHAPTER B. BOARD OF DIRECTORS_  
+|  _Sec._ ___8872.051._ _____COMPOSITION OF BOARD. The district is_  
+| _governed by a board of nine directors._  
+|  _Sec._ ___8872.052._ _____TERMS; APPOINTMENT OF DIRECTORS;_  
+| _QUALIFICATIONS. (a) Directors serve staggered four-year terms,_  
+| _with five or four terms expiring December 1 every other year._  
+| _Directors are appointed as follows:_  
+|  _(1)_ _____one director is appointed from each of the three_  
+| _management zones by the Commissioners court;_  
+|  _(2)_ _____one director is appointed from each of the three_  
+| _management zones by the mayor and the city council;_  
+|  _(3)_ _____one director is appointed from each of the three_  
+| _management zones jointly by the Commissioners court, mayor of the_  
+| _city, and the city council._  
+|  _(b)_ _____To be appointed under this section, a person must be at_  
+| _least 18 years of age and:_  
+|  _(1) a registered voter of Val Verde County; and_  
+|  _(2)_ _____own property within the management zone the_  
+| _director is appointed to represent._  
+|  _(d) A director may serve consecutive terms._  
+|  _Sec._ ___8872.053._ _____VACANCIES. (a) If there is a vacancy on the_  
+| _board, a majority of the board shall appoint a person to fill the_  
+| _vacancy for the remainder of the term of the vacant director place._  
+| _The person appointed to fill the vacancy must meet the_  
+| _qualifications under Section 8872.052 for the vacant place._  
+|  _(b)_ _____If the board has not filled a vacancy before the 90th day_  
+| _after the date of the vacancy, the county judge of Val Verde County_  
+| _and the mayor of the city shall jointly appoint a person that meets_  
+| _the qualifications under Section 8872.052 for the vacant place to_  
+| _serve as director for the remainder of the term being filled._  
+|  _Sec._ ___8872.054._ _____COMPENSATION. (a) A director is not_  
+| _entitled to receive compensation for performing the duties of a_  
+| _director._  
+|  _(b)_ _____The board may authorize a director to receive_  
+| _reimbursement for the director's reasonable and actual expenses_  
+| _incurred while engaging in activities inside or outside the_  
+| _district on behalf of the board._  
+|  _Sec._ ___8872.055._ _____ELECTION OF BOARD OFFICERS. (a) At the_  
+| _first meeting of the board in each calendar year, the board shall_  
+| _elect directors to serve as the president, vice president,_  
+| _secretary, and treasurer._  
+|  _(b)_ _____The president shall serve as the presiding officer of_  
+| _the board._  
+|  _(c)_ _____The treasurer shall serve as the financial officer of_  
+| _the district._  
+| _SUBCHAPTER C. POWERS AND DUTIES_  
+|  _Sec._ ___8872.101._ _____GENERAL POWERS. (a) Except as otherwise_  
+| _provided by this chapter, the district has all of the rights,_  
+| _powers, privileges, functions, and duties provided by the general_  
+| _law of this state applicable to groundwater conservation districts_  
+| _created under Section 59, Article XVI, Texas Constitution,_  
+| _including Chapter 36, Water Code._  
+|  _(b)_ _____Before confirmation of the district, the district's_  
+| _powers are limited to:_  
+|  _(1)_ _____performance of the duties necessary to hold an_  
+| _election to confirm the creation of the district;_  
+|  _(2)_ _____registration of existing wells that are not exempt_  
+| _from the district requirement to obtain a permit under this chapter_  
+| _or Chapter 36, Water Code;_  
+|  _(3)_ _____collection of annual groundwater production_  
+| _reports from wells that are not exempt from the district_  
+| _requirement to obtain a permit under this chapter or Chapter 36,_  
+| _Water Code; and_  
+|  _(4)_ _____participation in joint planning with other_  
+| _districts as provided by Section 8872.021(e)._  
+|  _(c)_ _____The district shall adopt rules and prescribe forms_  
+| _necessary to implement Subsections (b)(2) and (3)._  
+|  _(d)_ _____Section 36.121, Water Code, does not apply to the_  
+| _district._  
+|  _Sec._ ___8872.102_ _____APPEAL OF ACTION BY THE DISTRICT. (a)_  
+| _Section 36.066, Water Code, does not apply to the district._  
+|  _(b)_ _____Not later than the 120th day after the date on which the_  
+| _district takes an official action, an affected person must file a_  
+| _petition for review with the Development board to appeal the_  
+| _validity of the district's action._  
+|  _(c)_ _____Upon receipt of the petition, the Development board_  
+| _shall conduct an administrative review and make a determination as_  
+| _to whether the contested action taken by the district meets the_  
+| _requirements of this chapter._  
+|  _(d)_ _____The Development board must complete and deliver the_  
+| _determination described in subsection (c) to the District and_  
+| _appealing party not later than the 120th day after the date the_  
+| _Development board receives a copy of the petition._  
+|  _(e)_ _____The Development board's determination under subsection_  
+| _(c) is final and non-appealable in the courts of this state except_  
+| _to the extent the official action fails to conform with laws_  
+| _relating to conflicts of interest, abuse of office, or_  
+| _constitutional obligations._  
+|  _Sec._ ___8872.103._ _____NO EMINENT DOMAIN POWER. The district may_  
+| _not exercise the power of eminent domain._  
+|  _Sec._ ___8872.104._ _____PERMITS: RULES. (a) The district shall_  
+| _adopt rules to:_  
+|  _(1)_ _____require a person to obtain a permit from the_  
+| _district to drill and produce groundwater from a well, including an_  
+| _existing well, unless the well is exclusively for agricultural,_  
+| _domestic, or household use or is otherwise exempt from permitting_  
+| _under this chapter or Chapter 36, Water Code;_  
+|  _(2)_ _____regulate the terms of a transfer of groundwater_  
+| _out of the district;_  
+|  _(3)_ _____regulate the spacing of wells drilled after_  
+| _September 1, 2019, to prevent unreasonable adverse interference_  
+| _with other wells;_  
+|  _(4)_ _____provide for the uniform and nondiscriminatory_  
+| _reduction or curtailment of the production of groundwater by all_  
+| _permit holders the district, if necessary, to protect spring flow_  
+| _and base flow and reduce aquifer drawdown;_  
+|  _(5)_ _____provide for permit-specific provisions requiring_  
+| _production curtailment or the injection of a nontoxic tracer dye as_  
+| _part of a hydrologic study, if necessary, to protect spring flow and_  
+| _base flow and reduce aquifer drawdown;_  
+|  _(6) limit groundwater production:_  
+|  _(A) by the spacing of wells;_  
+|  _(B)_ _____by basing production on acreage or tract_  
+| _size; or_  
+|  _(C)_ _____for a public water supplier, by basing_  
+| _production on the service area of the supplier; and_  
+|  _(7)_ _____require the owner of a well that is not exempt from_  
+| _the district requirement to obtain a permit under this chapter or_  
+| _Chapter 36, Water Code, to report to the district in January of each_  
+| _year the annual production of groundwater from the well based on_  
+| _metered production._  
+|  _(b)_ _____The terms of a permit that authorizes the production of_  
+| _groundwater for transfer out of the district for beneficial use_  
+| _must be consistent with applicable law, including Section 36.122,_  
+| _Water Code, and may not be more restrictive than the terms of a_  
+| _permit authorizing the production of groundwater for beneficial use_  
+| _inside the district._  
+|  _(c)_ _____The district may establish permit conditions and_  
+| _limitations as provided by Section 36.122, Water Code._  
+|  _Sec._ ___8872.105._ _____PERMITS: LANDOWNERS GENERALLY. The district_  
+| _shall grant a permit for commercial use that authorizes a person to_  
+| _drill one or more wells not to exceed 12 inches in diameter on land_  
+| _owned or controlled by the person through a lease or other legal_  
+| _right._  
+|  _Sec._ ___8872.106._ _____PERMITS: CITY. The district shall grant the_  
+| _city permits in the city's name that authorize the city to pump from_  
+| _all wells operated or controlled by the city a cumulative volume of_  
+| _groundwater of 18,400 acre-feet per year._  
+|  _Sec._ ___8872.107._ _____PERMITS: RETAIL PUBLIC UTILITY. (a) The_  
+| _district shall grant a permit to a retail public utility in the_  
+| _district or to a political subdivision other than the city that is_  
+| _providing water or sewer service on or before the effective date of_  
+| _the Act enacting this chapter. The permit must authorize the_  
+| _production of a cumulative volume of groundwater from the wells_  
+| _owned by the entity in an amount equal to the amount of groundwater_  
+| _required to meet the entity's current and projected needs as_  
+| _determined under Section 13.250, Water Code._  
+|  _(b)_ _____The permitted entity may not resell the groundwater_  
+| _produced under the permit to any person for use or resale outside_  
+| _the entity's service area, including the area covered by a_  
+| _certificate of convenience and necessity, and must put the water to_  
+| _beneficial use within the entity's service area, except with the_  
+| _written approval of the district._  
+|  _Sec._ ___8872.108._ _____PERMITS: EXISTING COMMERCE AND INDUSTRY._  
+| _The district shall grant a permit for the production of groundwater_  
+| _from an existing well that is beneficially used for commercial or_  
+| _industrial purposes outside the limits or the extraterritorial_  
+| _jurisdiction of the city. The permit must authorize the production_  
+| _of a cumulative volume of groundwater that is equal to the maximum_  
+| _historic use as proven by the person seeking the permit._  
+|  _Sec._ ___8872.109._ _____WELL REGISTRATION. A permit issued under_  
+| _this chapter authorizing the production of groundwater from the_  
+| _aquifer must also authorize the drilling and operation of a well or_  
+| _wells in the aquifer, and must require the permit holder to:_  
+|  _(1)_ _____register each well with the district at no cost;_  
+| _and_  
+|  _(2)_ _____file a copy of the well driller's log with the_  
+| _district on completion of each well._  
+|  _Sec._ ___8872.110._ _____PROPERTY RIGHTS. (a) A permit issued by the_  
+| _district for the drilling, operation, or production of a well is_  
+| _appurtenant to the real property on which the well is located._  
+| _Ownership of the groundwater, or the right to use and produce the_  
+| _groundwater authorized by the permit, may be sold, leased,_  
+| _assigned, or otherwise transferred by the owner, provided that the_  
+| _rights granted by the permit to drill a well and to produce_  
+| _groundwater are exercised on the real property described in the_  
+| _permit based on the actual production authorized by the permit._  
+|  _(b)_ _____Except as provided by this chapter, groundwater_  
+| _produced as authorized by a permit, once captured at the wellhead,_  
+| _may be beneficially used for any lawful purpose at any location,_  
+| _whether on or off the real property to which the permit is attached,_  
+| _provided that any beneficial use outside the boundaries of the_  
+| _district is authorized by a transport permit issued by the_  
+| _district._  
+|  _Sec._ ___8872.111._ _____REDUCTION AND CURTAILMENT. (a) The board by_  
+| _rule may provide for the reduction and curtailment of the_  
+| _production of groundwater from a well permitted under this chapter_  
+| _to protect spring flow and base flow and reduce drawdown in_  
+| _accordance with Sections 8872.104(a)(4) and (5) only if river flow_  
+| _and spring discharge conditions fall below the minimum standards_  
+| _described by Sec. 8872.0035._  
+|  _(b)_ _____To implement a reduction or curtailment, the district_  
+| _may, to the extent not otherwise authorized by Section 36.101(a),_  
+| _Water Code, limit groundwater production as provided by district_  
+| _rules._  
+|  _(c)_ _____Rules adopted by the board requiring a reduction or_  
+| _curtailment of the production of groundwater must be applied on a_  
+| _proportional, uniform, and nondiscriminatory basis to all_  
+| _production, unless the cause or condition requiring reduction or_  
+| _curtailment is limited to a management zone created under Section_  
+| _8872.112._  
+|  _(d)_ _____This Section does not apply to provisions described by_  
+| _Sec. 8872.104(a)(5) requiring the reduction or curtailment of the_  
+| _production of groundwater for a specific well or permit._  
+|  _Sec._ ___8872.112._ _____MANAGEMENT ZONES. (a) The district shall_  
+| _establish three management zones to better manage the groundwater_  
+| _resources and may adopt different rules to regulate production from_  
+| _the management zones based on acreage, tract size, or the service_  
+| _area of a public water supplier. The boundaries of the management_  
+| _zones shall be established as follows:_  
+|  _(1)_ _____The San Felipe Springs Management Zone shall_  
+| _comprise all of the territory contained within the following_  
+| _described area:_  
+|  _BEGINNING: At the point at which U.S. Highway 77 intersects_  
+| _with the Eastern boundary of Val Verde County;_  
+|  _THENCE: Along the Southeasterly right-of-way line of U.S._  
+| _Route 77 to the junction of U.S. Route 90 and U.S. Route 377;_  
+|  _THENCE: Along the Easterly right-of-way line of U.S. Route 90_  
+| _to the junction of U.S. Route 90 and Texas Highway 349, to the_  
+| _Southwestern boundary of Val Verde County;_  
+|  _THENCE: Eastward along the border of Val Verde County, and in_  
+| _a Northward direction along the border of Val Verde County to the_  
+| _POINT OF BEGINNING._  
+|  _(2)_ _____The Devil's River Management Zone shall comprise_  
+| _all of the territory contained within the following described area:_  
+|  _BEGINNING: At the point at which U.S. Highway 77 intersects_  
+| _with the Eastern boundary of Val Verde County;_  
+|  _THENCE: Along the Southeasterly right-of-way line of U.S._  
+| _Route 77 to the junction of U.S. Route 90 and U.S. Route 377;_  
+|  _THENCE: Along the Northerly right-of-way of U.S. Route 90 to_  
+| _the junction of U.S. Route 90 and Texas Ranch to Market Road 1024;_  
+|  _THENCE: Along the Northerly right-of-way of Texas Ranch to_  
+| _Market Road 1024 to the point that Texas Ranch to Market Road 1024_  
+| _bears in a Westerly direction at an approximate latitude of_  
+| _30.188886 and an approximate longitude of -101.331504;_  
+|  _THENCE: Northwesterly to the Northern boundary of Val Verde_  
+| _County;_  
+|  _THENCE: Easterly along the boundary of Val Verde County and_  
+| _Southerly along the boundary of Val Verde County to the POINT OF_  
+| _BEGINNING._  
+|  _(3)_ _____The Pecos River Management Zone shall comprise all_  
+| _of the territory contained within the following described area:_  
+|  _BEGINNING: At the point Texas Highway 349 intersects with the_  
+| _Southeastern boundary of Val Verde County;_  
+|  _THENCE: Northwesterly along the boundary of Val Verde County;_  
+| _continuing along the county's border until the Western boundary of_  
+| _the Devil's River Management Zone;_  
+|  _THENCE: Southerly along the Western Boundary of the Devil's_  
+| _River Management Zone to the POINT OF BEGINNING._  
+|  _(b)_ _____The district must regulate the production of_  
+| _groundwater in a management zone on a proportional, uniform, and_  
+| _nondiscriminatory basis, except such permit or well-specific_  
+| _actions as may be required by Sec. 8872.104(a)(5)._  
+|  _(c)_ _____The Devil's River is designated a river segment of_  
+| _unique ecological value as described by Water Code Section_  
+| _16.051(f)._  
+|  _Sec._ ___8872.113._ _____PERMIT RENEWAL. (a) Except as provided by_  
+| _Subsection (b), the district shall without a hearing renew or_  
+| _approve an application to renew an operating permit before the date_  
+| _on which the permit expires, provided that:_  
+|  _(1)_ _____the application, if required by the district, is_  
+| _submitted in a timely manner and accompanied by any required fees in_  
+| _accordance with district rules; and_  
+|  _(2)_ _____the permit holder is not requesting a change_  
+| _related to the renewal that would require a permit amendment under_  
+| _district rules._  
+|  _(b)_ _____The district is not required to renew a permit under_  
+| _this section if the applicant:_  
+|  _(1)_ _____is delinquent in paying a fee required by the_  
+| _district;_  
+|  _(2)_ _____is subject to a pending enforcement action for a_  
+| _substantive violation of a district permit, order, or rule that has_  
+| _not been settled by agreement with the district or a final_  
+| _adjudication; or_  
+|  _(3)_ _____has not paid a civil penalty or has otherwise_  
+| _failed to comply with an order resulting from a final adjudication_  
+| _of a violation of a district permit, order, or rule._  
+|  _(c)_ _____If the district is not required to renew a permit under_  
+| _Subsection (b)(2), the permit remains in effect until the final_  
+| _settlement or adjudication on the matter of the substantive_  
+| _violation._  
+|  _Sec._ ___8872.114._ _____AGRICULTURAL, HOUSEHOLD, AND DOMESTIC USE_  
+| _UNRESTRICTED; LIMITATION ON PERMIT REQUIREMENTS. (a) The District_  
+| _may not require a person to install a meter or obtain a permit from_  
+| _the district for a well used to produce groundwater solely inside_  
+| _the district for domestic, household, or agricultural use. The_  
+| _District shall require a person to install a meter and obtain a_  
+| _permit from the district for commercial use, industrial use, or_  
+| _transport outside the District._  
+|  _(b)_ _____The District shall not restrict the production of a well_  
+| _solely for domestic, household, or agricultural use._  
+|  _(c)_ _____An owner of a well for domestic, household, or_  
+| _agricultural use described by this section shall register the well_  
+| _with the district._  
+|  _(d)_ _____The district may not require a permit or a permit_  
+| _amendment for the maintenance or repair of a well that is not exempt_  
+| _from permitting under this chapter or Chapter 36, Water Code, if the_  
+| _maintenance or repair does not make the well capable of producing an_  
+| _amount of groundwater that is greater than the production amounts_  
+| _provided by the well's permit._  
+|  _(e)_ _____Nothing in Subsection (a) prevents the applicability in_  
+| _the district of Section 36.113(a), Water Code._  
+|  _Sec._ ___8872.115._ _____PROHIBITION ON DISTRICT PURCHASE, SALE,_  
+| _TRANSPORT, OR DISTRIBUTION OF WATER. The district may not_  
+| _purchase, sell, transport, or distribute surface water or_  
+| _groundwater for any purpose._  
+|  _Sec._ ___8872.116._ _____RIGHT TO ENTER LAND. Section 36.123, Water_  
+| _Code, which authorizes a district's employees or agents to go on and_  
+| _inspect the property of a landowner, applies to the district_  
+| _provided that:_  
+|  _(1)_ _____access is subject to written notice to the_  
+| _landowner; and_  
+|  _(2)_ _____the district's employees and agents are prohibited_  
+| _from carrying firearms on the landowner's property._  
+|  _Sec._ ___8872.117._ _____WATER CONSERVATION INITIATIVE. The district_  
+| _may create a water conservation initiative as provided by Section_  
+| _11.32, Tax Code._  
+|  _Sec._ ___8872.118._ _____REGIONAL GROUNDWATER PLANNING. (a) The_  
+| _district shall obtain or develop groundwater models for use in_  
+| _planning and management of the aquifer and to assist the district in_  
+| _the district's role as a member of the groundwater management area_  
+| _in which the district is located._  
+|  _(b)_ _____The district, to the extent possible and through the_  
+| _designated representative for the groundwater management area in_  
+| _which the district is located, shall diligently pursue an increase_  
+| _in the managed available groundwater and an improvement in the_  
+| _desired future conditions for the aquifer as compared to those_  
+| _indicators for the aquifer on January 1, 2019._  
+| _SUBCHAPTER D. GENERAL FINANCIAL PROVISIONS_  
+|  _Sec._ ___8872.151._ _____LIMITATION ON TAXES. The district may not_  
+| _impose ad valorem taxes at a rate that exceeds three cents on each_  
+| _$100 valuation of taxable property in the district._  
+|  _Sec._ ___8872.152._ _____APPLICABILITY OF CERTAIN TAX PROVISIONS._  
+| _(a) Sections 26.04, 26.05, 26.06, and 26.07, Tax Code, do not apply_  
+| _to a tax imposed by the district._  
+|  _(b)_ _____Section 49.236, Water Code, as added by Chapter 248_  
+| _(H.B. 1541), Acts of the 78th Legislature, Regular Session, 2003,_  
+| _applies to the district._  
+|  _Sec._ ___8872.153._ _____FEES. (a) The board by rule may impose_  
+| _uniform, reasonable, equitable, and nondiscriminatory annual_  
+| _production fees on the amount of permitted water actually produced_  
+| _from each well._  
+|  _(b)_ _____A production fee must be consistent with Section 36.205,_  
+| _Water Code, and may be based on:_  
+|  _(1) the size of column pipe used by the well; or_  
+|  _(2)_ _____the amount of water actually withdrawn from the_  
+| _well, or the amount authorized or anticipated to be withdrawn._  
+|  _(c)_ _____The district may assess a uniform and nondiscriminatory_  
+| _export fee consistent with Section 36.122, Water Code, on_  
+| _groundwater that is produced from a well inside the district and_  
+| _transferred outside the district._  
+|  _(d)_ _____The district may set fees by rule or resolution relating_  
+| _to administrative acts of the district, including filing_  
+| _applications, reviewing and processing permits, conducting permit_  
+| _hearings, providing public notice, and paying costs of legal fees,_  
+| _expert fees, and hearing facility rental fees. The district may not_  
+| _assess a fee in an amount greater than $250 for processing permits._  
+|  SECTION 2. (a) The legal notice of the intention to  
+| introduce this Act, setting forth the general substance of this  
+| Act, has been published as provided by law, and the notice and a  
+| copy of this Act have been furnished to all persons, agencies,  
+| officials, or entities to which they are required to be furnished  
+| under Section 59, Article XVI, Texas Constitution, and Chapter 313,  
+| Government Code.  
+|  (b) The governor, one of the required recipients, has  
+| submitted the notice and Act to the Texas Commission on  
+| Environmental Quality.  
+|  (c) The Texas Commission on Environmental Quality has filed  
+| its recommendations relating to this Act with the governor, the  
+| lieutenant governor, and the speaker of the house of  
+| representatives within the required time.  
+|  (d) All requirements of the constitution and laws of this  
+| state and the rules and procedures of the legislature with respect  
+| to the notice, introduction, and passage of this Act are fulfilled  
+| and accomplished.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

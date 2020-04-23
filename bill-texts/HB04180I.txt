@@ -1,0 +1,80 @@
+| 86R6809 JES-D  
+---|---  
+|  By: Miller | H.B. No. 4180  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the applicability of the prohibition on certain ad  
+| valorem tax incentives relating to wind-powered energy devices  
+| located near a military aviation facility.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 312.0021(a)(1), Tax Code, is amended to  
+| read as follows:  
+|  (1) "Military aviation facility" means a base,  
+| station, fort, or camp at which [ ~~fixed-wing~~ ] aviation operations or  
+| training is conducted by the United States Air Force, the United  
+| States Air Force Reserve, the United States Army, the United States  
+| Army Reserve, the United States Navy, the United States Navy  
+| Reserve, the United States Marine Corps, the United States Marine  
+| Corps Reserve, the United States Coast Guard, the United States  
+| Coast Guard Reserve, or the Texas National Guard.  
+|  SECTION 2. Section 312.0021, Tax Code, is amended by  
+| amending Subsection (b) and adding Subsection (b-1) to read as  
+| follows:  
+|  (b) Notwithstanding any other provision of this chapter, an  
+| owner or lessee of a parcel of real property that is located wholly  
+| or partly in a reinvestment zone may not receive an exemption from  
+| taxation of any portion of the value of the parcel of real property  
+| or of tangible personal property located on the parcel of real  
+| property under a tax abatement agreement under this chapter that is  
+| entered into on or after _:_  
+|  _(1)_ September 1, 2017, if, on or after that date, a  
+| wind-powered energy device is installed or constructed on the same  
+| parcel of real property at a location that is within 25 nautical  
+| miles of the boundaries of a military aviation facility located in  
+| this state _at which fixed-wing aviation operations or training is_  
+| _conducted; or_  
+|  _(2)_ _____September 1, 2019, if, on or after that date, a_  
+| _wind-powered energy device is installed or constructed on the same_  
+| _parcel of real property at a location that is within 25 nautical_  
+| _miles of the boundaries of a military aviation facility located in_  
+| _this state at which only rotary-wing aviation operations or_  
+| _training is conducted_.  
+|  _(b-1)_ The prohibition provided by this section applies  
+| regardless of whether the wind-powered energy device is installed  
+| or constructed at a location that is in the reinvestment zone.  
+|  SECTION 3. Section 313.024, Tax Code, is amended by  
+| amending Subsection (b-1) and adding Subsection (b-2) to read as  
+| follows:  
+|  (b-1) Notwithstanding any other provision of this  
+| subchapter, an owner of a parcel of land that is located wholly or  
+| partly in a reinvestment zone, a new building constructed on the  
+| parcel of land, a new improvement erected or affixed on the parcel  
+| of land, or tangible personal property placed in service in the  
+| building or improvement or on the parcel of land may not receive a  
+| limitation on appraised value under this subchapter for the parcel  
+| of land, building, improvement, or tangible personal property under  
+| an agreement under this subchapter that is entered into on or after _:_  
+|  _(1)_ September 1, 2017, if, on or after that date, a  
+| wind-powered energy device is installed or constructed on the same  
+| parcel of land at a location that is within 25 nautical miles of the  
+| boundaries of a military aviation facility located in this state _at_  
+| _which fixed-wing aviation operations or training is conducted; or_  
+|  _(2)_ _____September 1, 2019, if, on or after that date, a_  
+| _wind-powered energy device is installed or constructed on the same_  
+| _parcel of land at a location that is within 25 nautical miles of the_  
+| _boundaries of a military aviation facility located in this state at_  
+| _which only rotary-wing aviation operations or training is_  
+| _conducted_.  
+|  _(b-2)_ The prohibition provided by _Subsection (b-1)_ [ ~~this~~  
+|  ~~subsection~~ ] applies regardless of whether the wind-powered energy  
+| device is installed or constructed at a location that is in the  
+| reinvestment zone.  
+|  SECTION 4. Notwithstanding Sections 312.0021 and 313.024,  
+| Tax Code, as amended by this Act, the change in law made by this Act  
+| does not apply to a tax abatement agreement under Chapter 312, Tax  
+| Code, or an application for a limitation on appraised value under  
+| Chapter 313, Tax Code, the approval of which is pending on the  
+| effective date of this Act.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

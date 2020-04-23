@@ -1,0 +1,47 @@
+| 86R7059 SCL-D  
+---|---  
+|  By: White | H.B. No. 941  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a child-care facility database on the Health and Human  
+| Services Commission's Internet website.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 42, Human Resources Code,  
+| is amended by adding Section 42.026 to read as follows:  
+|  _Sec._ ___42.026._ _____SEARCHABLE CHILD-CARE FACILITY DATABASE._ ___(a)_
+__  
+| _The commission shall establish on the commission's Internet website_  
+| _a searchable database that allows an individual to obtain_  
+| _information on the child-care facilities and residential_  
+| _child-care facilities licensed under this chapter and the family_  
+| _homes registered or listed under this chapter._ ___To assist the_  
+| _individual in making an informed decision when selecting child_  
+| _care, the database must be easily accessible and allow a person to_  
+| _search the database by facility or home name, operation type, and_  
+| _location and by the ages of children served at the facility or home._  
+|  _(b)_ _____For each child-care facility and residential child-care_  
+| _facility licensed under this chapter and each family home_  
+| _registered or listed under this chapter, the database must include:_  
+|  _(1)_ _____information on whether the facility or home has_  
+| _sufficient liability insurance coverage for the number of children_  
+| _the facility or home is authorized to serve under its license or_  
+| _registration;_  
+|  _(2)_ _____information on whether the facility or home has_  
+| _surveillance cameras that provide adequate observation of_  
+| _caregiver and child activity;_  
+|  _(3)_ _____the caregiver-to-child ratio and the date this_  
+| _ratio was last measured by the commission;_  
+|  _(4)_ _____a link to commission investigative reports on the_  
+| _commission's Internet website; and_  
+|  _(5)_ _____information on whether all facility or home_  
+| _personnel have undergone criminal history record checks and the_  
+| _date the commission verified compliance with required checks._  
+|  _(c)_ _____The executive commissioner may adopt rules as necessary_  
+| _to implement this section._  
+|  SECTION 2. Not later than September 30, 2019, the Health and  
+| Human Services Commission shall establish the database on its  
+| Internet website as required by Section 42.026, Human Resources  
+| Code, as added by this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

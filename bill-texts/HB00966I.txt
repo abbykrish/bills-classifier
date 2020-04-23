@@ -1,0 +1,104 @@
+| 86R7369 GRM-D  
+---|---  
+|  By: Dutton | H.B. No. 966  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to providing a sales and use tax refund or franchise tax  
+| credit for businesses that employ certain apprentices.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter I, Chapter 151, Tax Code, is amended  
+| by adding Section 151.4292 to read as follows:  
+|  _Sec._ ___151.4292._ _____TAX REFUND FOR WAGES PAID TO CERTAIN_  
+| _APPRENTICES. (a) In this section, "qualified apprenticeship"_  
+| _means an apprenticeship program that is:_  
+|  _(1)_ _____certified as an industry-recognized_  
+| _apprenticeship program by an entity determined to meet United_  
+| _States Department of Labor criteria; or_  
+|  _(2)_ _____registered with the United States Department of_  
+| _Labor and qualified to receive funding provided through the Texas_  
+| _Workforce Commission under Chapter 133, Education Code._  
+|  _(b)_ _____Except as provided by Subsection (e), a person is_  
+| _eligible for a refund in the amount and under the conditions_  
+| _provided by this section of the taxes paid under this chapter during_  
+| _a calendar year if the person employs at least one apprentice in a_  
+| _qualified apprenticeship position for at least seven months during_  
+| _the calendar year._  
+|  _(c)_ _____Subject to Subsection (d), the amount of the refund for_  
+| _a calendar year in connection with each apprentice described by_  
+| _Subsection (b) is equal to the lesser of:_  
+|  _(1)_ _____50 percent of the wages paid by the person to the_  
+| _apprentice during the calendar year; or_  
+|  _(2) $2,500._  
+|  _(d)_ _____The total amount of the refund for a calendar year is_  
+| _equal to the lesser of:_  
+|  _(1)_ _____the amount allowed under Subsection (c) for the_  
+| _calendar year for not more than five apprentices; or_  
+|  _(2)_ _____the amount of sales and use taxes paid by the_  
+| _person during the calendar year._  
+|  _(e)_ _____A person is not eligible for a refund under this section_  
+| _for a calendar year if the person will, as a taxable entity as_  
+| _defined by Section 171.0002 or as a member of a combined group that_  
+| _is a taxable entity, claim a credit under Subchapter T, Chapter 171,_  
+| _on a franchise tax report covering all or part of that calendar_  
+| _year._  
+|  _(f)_ _____A person is not eligible for a refund under this section_  
+| _in connection with wages paid to an individual apprentice for more_  
+| _than 48 months._  
+|  _(g)_ _____A person must apply to the comptroller to receive a_  
+| _refund under this section._  
+|  SECTION 2. Chapter 171, Tax Code, is amended by adding  
+| Subchapter T to read as follows:  
+| _SUBCHAPTER T. TAX CREDIT FOR WAGES PAID TO CERTAIN APPRENTICES_  
+|  _Sec._ ___171.9201._ _____DEFINITION. In this subchapter, "qualified_  
+| _apprenticeship" has the meaning assigned by Section 151.4292._  
+|  _Sec._ ___171.9202._ _____ENTITLEMENT TO CREDIT. A taxable entity is_  
+| _entitled to a credit in the amount and under the conditions provided_  
+| _by this subchapter against the tax imposed under this chapter._  
+|  _Sec._ ___171.9203._ _____QUALIFICATION._ ___Except as provided by_  
+| _Section 171.9205, a taxable entity qualifies for a credit under_  
+| _this subchapter for a report if the taxable entity employs at least_  
+| _one apprentice in a qualified apprenticeship position for at least_  
+| _seven months during the period on which the report is based._  
+|  _Sec._ ___171.9204._ _____AMOUNT; LIMITATIONS. (a) Subject to_  
+| _Subsection (b), the amount of the credit for a report in connection_  
+| _with each apprentice described by Section 171.9203 is equal to the_  
+| _lesser of:_  
+|  _(1)_ _____50 percent of the wages paid by the taxable entity_  
+| _to the apprentice; or_  
+|  _(2) $2,500._  
+|  _(b)_ _____The total amount of the credit for each report is equal_  
+| _to the lesser of:_  
+|  _(1)_ _____the total of the credits allowed under Subsection_  
+| _(a) for the reporting period for not more than five apprentices; or_  
+|  _(2)_ _____the amount of franchise tax due after applying all_  
+| _other applicable credits._  
+|  _(c)_ _____A taxable entity may not claim a credit in connection_  
+| _with an individual apprentice for wages paid to the apprentice for_  
+| _more than 48 months._  
+|  _Sec._ ___171.9205._ _____INELIGIBILITY FOR CREDIT FOR CERTAIN_  
+| _PERIODS. A taxable entity is not eligible for a credit on a report_  
+| _if the taxable entity, or a member of the combined group if the_  
+| _taxable entity is a combined group, received, for taxes paid under_  
+| _Chapter 151 during the period on which the report is based, a refund_  
+| _under Section 151.4292._  
+|  _Sec._ ___171.9206._ _____APPLICATION FOR CREDIT. (a) A taxable_  
+| _entity must apply for a credit under this subchapter on or with the_  
+| _tax report for the period for which the credit is claimed._  
+|  _(b)_ _____The comptroller shall promulgate a form for the_  
+| _application for the credit. A taxable entity must use the form in_  
+| _applying for the credit._  
+|  _Sec._ ___171.9207._ _____PERIOD FOR WHICH CREDIT MAY BE CLAIMED. A_  
+| _taxable entity may claim a credit under this subchapter for a report_  
+| _only in connection with wages paid during the accounting period on_  
+| _which the report is based._  
+|  SECTION 3. (a) A person may apply for a refund under  
+| Section 151.4292, Tax Code, as added by this Act, only in connection  
+| with wages paid on or after the effective date of this Act.  
+|  (b) A taxable entity may claim the credit under Subchapter  
+| T, Chapter 171, Tax Code, as added by this Act, only for wages paid  
+| on or after the effective date of this Act and only on a franchise  
+| tax report originally due under Chapter 171, Tax Code, on or after  
+| that date.  
+|  SECTION 4. This Act takes effect January 1, 2020.
+

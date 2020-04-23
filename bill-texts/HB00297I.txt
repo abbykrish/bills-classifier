@@ -1,0 +1,1582 @@
+| 86R66 CJC/KJE-D  
+---|---  
+|  By: Murr | H.B. No. 297  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the elimination of certain property taxes for school  
+| district maintenance and operations and the provision of public  
+| education funding by increasing the rates of certain state taxes.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. PUBLIC SCHOOL FINANCE  
+|  SECTION 1.01. Section 11.1511(c), Education Code, is  
+| amended to read as follows:  
+|  (c) The board may:  
+|  (1) issue bonds and levy, pledge, assess, and collect  
+| an annual ad valorem tax to pay the principal and interest on the  
+| bonds as authorized under Sections 45.001 and 45.003;  
+|  (2) levy, assess, and collect an annual ad valorem tax  
+| for _enrichment_ [ ~~maintenance and operation~~ ] of the district as  
+| authorized under Sections 45.002 and 45.003;  
+|  (3) employ a person to assess or collect the district's  
+| taxes as authorized under Section 45.231; and  
+|  (4) enter into contracts as authorized under this code  
+| or other law and delegate contractual authority to the  
+| superintendent as appropriate.  
+|  SECTION 1.02. Section 12.013(b), Education Code, is amended  
+| to read as follows:  
+|  (b) A home-rule school district is subject to:  
+|  (1) a provision of this title establishing a criminal  
+| offense;  
+|  (2) a provision of this title relating to limitations  
+| on liability; and  
+|  (3) a prohibition, restriction, or requirement, as  
+| applicable, imposed by this title or a rule adopted under this  
+| title, relating to:  
+|  (A) the Public Education Information Management  
+| System (PEIMS) to the extent necessary to monitor compliance with  
+| this subchapter as determined by the commissioner;  
+|  (B) educator certification under Chapter 21 and  
+| educator rights under Sections 21.407, 21.408, and 22.001;  
+|  (C) criminal history records under Subchapter C,  
+| Chapter 22;  
+|  (D) student admissions under Section 25.001;  
+|  (E) school attendance under Sections 25.085,  
+| 25.086, and 25.087;  
+|  (F) inter-district or inter-county transfers of  
+| students under Subchapter B, Chapter 25;  
+|  (G) elementary class size limits under Section  
+| 25.112, in the case of any campus in the district that fails to  
+| satisfy any standard under Section 39.054(e);  
+|  (H) high school graduation under Section 28.025;  
+|  (I) special education programs under Subchapter  
+| A, Chapter 29;  
+|  (J) bilingual education under Subchapter B,  
+| Chapter 29;  
+|  (K) prekindergarten programs under Subchapter E,  
+| Chapter 29;  
+|  (L) safety provisions relating to the  
+| transportation of students under Sections 34.002, 34.003, 34.004,  
+| and 34.008;  
+|  (M) computation and distribution of state aid  
+| under Chapters 31, 42, and 43;  
+|  (N) extracurricular activities under Section  
+| 33.081;  
+|  (O) health and safety under Chapter 38;  
+|  (P) public school accountability under  
+| Subchapters B, C, D, and J, Chapter 39, and Chapter 39A;  
+|  (Q) [ ~~equalized wealth under Chapter 41;~~  
+|  [ ~~(R)~~ ] a bond or other obligation or tax rate under  
+| Chapters 42, 43, and 45; and  
+|  _(R)_ [ ~~(S)~~ ] purchasing under Chapter 44.  
+|  SECTION 1.03. Section 12.029(b), Education Code, is amended  
+| to read as follows:  
+|  (b) _If_ [ ~~Except as provided by Subchapter H, Chapter 41, if~~ ]  
+| two or more school districts having different status, one of which  
+| is home-rule school district status, consolidate into a single  
+| district, the petition under Section 13.003 initiating the  
+| consolidation must state the status for the consolidated district.  
+| The ballot shall be printed to permit voting for or against the  
+| proposition: "Consolidation of (names of school districts) into a  
+| single school district governed as (status of school district  
+| specified in the petition)."  
+|  SECTION 1.04. Section 12.106(a), Education Code, is amended  
+| to read as follows:  
+|  (a) A charter holder is entitled to receive for the  
+| open-enrollment charter school funding under Chapter 42 equal to  
+| the amount of funding per student in weighted average daily  
+| attendance, excluding enrichment funding under Section 42.302(a),  
+| to which the charter holder would be entitled for the school under  
+| Chapter 42 if the school were a school district [ ~~without a tier one~~  
+|  ~~local share for purposes of Section 42.253~~ ].  
+|  SECTION 1.05. Sections 13.054(f) and (i), Education Code,  
+| are amended to read as follows:  
+|  (f) For five years beginning with the school year in which  
+| the annexation occurs, a school district shall receive additional  
+| funding _as provided by Subchapter G_ [ ~~under this subsection or~~  
+|  ~~Subsection (h).~~ ~~~~ ~~The amount of funding shall be determined by~~  
+|  ~~multiplying the lesser of the enlarged district's local fund~~  
+|  ~~assignment computed under Section 42.252 or the enlarged district's~~  
+|  ~~total cost of tier one by a fraction, the numerator of which is the~~  
+|  ~~number of students residing in the territory annexed to the~~  
+|  ~~receiving district preceding the date of the annexation and the~~  
+|  ~~denominator of which is the number of students residing in the~~  
+|  ~~district as enlarged on the date of the annexation~~ ].  
+|  (i) The funding provided under Subsection (f) _or_ [ ~~,~~ ] (g)[ ~~,~~  
+|  ~~or (h)~~ ] is in addition to other funding the district receives  
+| through other provisions of this code, including _Chapter_ [ ~~Chapters~~  
+|  ~~41 and~~ ] 42.  
+|  SECTION 1.06. Section 21.402(a), Education Code, is amended  
+| to read as follows:  
+|  (a) Except as provided by Subsection (e-1) or (f), a school  
+| district must pay each classroom teacher, full-time librarian,  
+| full-time school counselor certified under Subchapter B, or  
+| full-time school nurse not less than the minimum monthly salary,  
+| based on the employee's level of experience in addition to other  
+| factors, as determined by commissioner rule, determined by the  
+| following formula:  
+| MS = SF x FS  
+| where:  
+|  "MS" is the minimum monthly salary;  
+|  "SF" is the applicable salary factor specified by Subsection  
+| (c); and  
+|  "FS" is the amount, as determined by the commissioner under  
+| Subsection (b), of the basic allotment as provided by Section  
+| 42.101(a) or (b) [ ~~for a school district with a maintenance and~~  
+|  ~~operations tax rate at least equal to the state maximum compressed~~  
+|  ~~tax rate, as defined by Section 42.101(a)~~ ].  
+|  SECTION 1.07. Section 21.410(h), Education Code, is amended  
+| to read as follows:  
+|  (h) A grant a school district receives under this section is  
+| in addition to _the_ [ ~~any~~ ] funding the district receives under  
+| Chapter 42. The commissioner shall distribute funds under this  
+| section with the Foundation School Program payment to which the  
+| district is entitled as soon as practicable after the end of the  
+| school year as determined by the commissioner. [ ~~A district to which~~  
+|  ~~Chapter 41 applies is entitled to the grants paid under this~~  
+|  ~~section. The commissioner shall determine the timing of the~~  
+|  ~~distribution of grants to a district that does not receive~~  
+|  ~~Foundation School Program payments.~~ ]  
+|  SECTION 1.08. Section 21.411(h), Education Code, is amended  
+| to read as follows:  
+|  (h) A grant a school district receives under this section is  
+| in addition to _the_ [ ~~any~~ ] funding the district receives under  
+| Chapter 42. The commissioner shall distribute funds under this  
+| section with the Foundation School Program payment to which the  
+| district is entitled as soon as practicable after the end of the  
+| school year as determined by the commissioner. [ ~~A district to which~~  
+|  ~~Chapter 41 applies is entitled to the grants paid under this~~  
+|  ~~section. The commissioner shall determine the timing of the~~  
+|  ~~distribution of grants to a district that does not receive~~  
+|  ~~Foundation School Program payments.~~ ]  
+|  SECTION 1.09. Section 21.412(h), Education Code, is amended  
+| to read as follows:  
+|  (h) A grant a school district receives under this section is  
+| in addition to _the_ [ ~~any~~ ] funding the district receives under  
+| Chapter 42. The commissioner shall distribute funds under this  
+| section with the Foundation School Program payment to which the  
+| district is entitled as soon as practicable after the end of the  
+| school year as determined by the commissioner. [ ~~A district to which~~  
+|  ~~Chapter 41 applies is entitled to the grants paid under this~~  
+|  ~~section. The commissioner shall determine the timing of the~~  
+|  ~~distribution of grants to a district that does not receive~~  
+|  ~~Foundation School Program payments.~~ ]  
+|  SECTION 1.10. Section 21.413(h), Education Code, is amended  
+| to read as follows:  
+|  (h) A grant a school district receives under this section is  
+| in addition to _the_ [ ~~any~~ ] funding the district receives under  
+| Chapter 42. The commissioner shall distribute funds under this  
+| section with the Foundation School Program payment to which the  
+| district is entitled as soon as practicable after the end of the  
+| school year as determined by the commissioner. [ ~~A district to which~~  
+|  ~~Chapter 41 applies is entitled to the grants paid under this~~  
+|  ~~section. The commissioner shall determine the timing of the~~  
+|  ~~distribution of grants to a district that does not receive~~  
+|  ~~Foundation School Program payments.~~ ]  
+|  SECTION 1.11. Section 25.081(f), Education Code, as added  
+| by Chapter 851 (H.B. 2442), Acts of the 85th Legislature, Regular  
+| Session, 2017, is amended to read as follows:  
+|  (f) The commissioner may proportionally reduce the amount  
+| of funding a district receives under Chapter [ ~~41,~~ ] 42[ ~~,~~ ] or 46
+and  
+| the average daily attendance calculation for the district if the  
+| district operates on a calendar that provides fewer minutes of  
+| operation than required under Subsection (a).  
+|  SECTION 1.12. Section 29.008(b), Education Code, is amended  
+| to read as follows:  
+|  (b) Except as provided by Subsection (c), costs of an  
+| approved contract for residential placement may be paid from a  
+| combination of federal _and_ [ ~~,~~ ] state[ ~~, and local~~ ] funds. [
+~~The local~~  
+|  ~~share of the total contract cost for each student is that portion of~~  
+|  ~~the local tax effort that exceeds the district's local fund~~  
+|  ~~assignment under Section 42.252, divided by the average daily~~  
+|  ~~attendance in the district. If the contract involves a private~~  
+|  ~~facility, the state share of the total contract cost is that amount~~  
+|  ~~remaining after subtracting the local share. If the contract~~  
+|  ~~involves a public facility, the state share is that amount~~  
+|  ~~remaining after subtracting the local share from the portion of the~~  
+|  ~~contract that involves the costs of instructional and related~~  
+|  ~~services. For purposes of this subsection, "local tax effort"~~  
+|  ~~means the total amount of money generated by taxes imposed for debt~~  
+|  ~~service and maintenance and operation less any amounts paid into a~~  
+|  ~~tax increment fund under Chapter 311, Tax Code.~~ ]  
+|  SECTION 1.13. Section 29.087(j), Education Code, is amended  
+| to read as follows:  
+|  (j) For purposes of funding under Chapters [ ~~41,~~ ] 42[ ~~,~~ ] and  
+| 46, a student attending a program authorized by this section may be  
+| counted in attendance only for the actual number of hours each  
+| school day the student attends the program, in accordance with  
+| Section 25.081.  
+|  SECTION 1.14. Section 29.203(b), Education Code, is amended  
+| to read as follows:  
+|  (b) A school district is entitled to the allotment provided  
+| by Section 42.157 for each eligible student using a public  
+| education grant. _A_ [ ~~If the district has a wealth per student~~  
+|  ~~greater than the guaranteed wealth level but less than the~~  
+|  ~~equalized wealth level, a~~ ] school district is entitled under rules  
+| adopted by the commissioner to additional state aid in an amount  
+| equal to the difference between the cost to the district of  
+| providing services to a student using a public education grant and  
+| the sum of the state aid received because of the allotment under  
+| Section 42.157 and money from the available school fund  
+| attributable to the student.  
+|  SECTION 1.15. Section 30.003(b), Education Code, is amended  
+| to read as follows:  
+|  (b) If the student is admitted to the school for a full-time  
+| program for the equivalent of two long semesters, the district's  
+| share of the cost is an amount equal to the _sum of the_ dollar amount  
+| of _enrichment_ [ ~~maintenance~~ ] and debt service taxes imposed by the  
+| district for that year divided by the district's average daily  
+| attendance for the preceding year _and a dollar amount determined by_  
+| _the commissioner_.  
+|  SECTION 1.16. Section 37.0061, Education Code, is amended  
+| to read as follows:  
+|  Sec. 37.0061. FUNDING FOR ALTERNATIVE EDUCATION SERVICES IN  
+| JUVENILE RESIDENTIAL FACILITIES. A school district that provides  
+| education services to pre-adjudicated and post-adjudicated  
+| students who are confined by court order in a juvenile residential  
+| facility operated by a juvenile board is entitled to count such  
+| students in the district's average daily attendance for purposes of  
+| receipt of state funds under the Foundation School Program. [ ~~If the~~  
+|  ~~district has a wealth per student greater than the guaranteed~~  
+|  ~~wealth level but less than the equalized wealth level, the district~~  
+|  ~~in which the student is enrolled on the date a court orders the~~  
+|  ~~student to be confined to a juvenile residential facility shall~~  
+|  ~~transfer to the district providing education services an amount~~  
+|  ~~equal to the difference between the average Foundation School~~  
+|  ~~Program costs per student of the district providing education~~  
+|  ~~services and the sum of the state aid and the money from the~~  
+|  ~~available school fund received by the district that is attributable~~  
+|  ~~to the student for the portion of the school year for which the~~  
+|  ~~district provides education services to the student.~~ ]  
+|  SECTION 1.17. Section 42.009(b), Education Code, is amended  
+| to read as follows:  
+|  (b) In making the determinations regarding funding levels  
+| required by Subsection (a), the commissioner shall:  
+|  (1) make adjustments as necessary to reflect changes  
+| in a school district's _enrichment_ [ ~~maintenance and operations~~ ] tax  
+| rate; _and_  
+|  (2) [ ~~for a district required to take action under~~  
+|  ~~Chapter 41 to reduce its wealth per student to the equalized wealth~~  
+|  ~~level, base the determinations on the district's net funding levels~~  
+|  ~~after deducting any amounts required to be expended by the district~~  
+|  ~~to comply with Chapter 41; and~~  
+|  [ ~~(3)~~ ] determine a district's weighted average daily  
+| attendance in accordance with this chapter as it existed on January  
+| 1, 2011.  
+|  SECTION 1.18. Section 42.101(a), Education Code, is amended  
+| to read as follows:  
+|  (a) For each student in average daily attendance, not  
+| including the time students spend each day in special education  
+| programs in an instructional arrangement other than mainstream or  
+| career and technology education programs, for which an additional  
+| allotment is made under Subchapter C, a district is entitled to an  
+| allotment equal to [ ~~the lesser of~~ ] $4,765 [ ~~or the amount that~~  
+|  ~~results from the following formula:~~  
+| [ ~~A = $4,765 X (DCR/MCR)~~  
+| [ ~~where:~~  
+|  [ ~~"A" is the allotment to which a district is entitled;~~  
+|  [ ~~"DCR" is the district's compressed tax rate, which is the~~  
+|  ~~product of the state compression percentage, as determined under~~  
+|  ~~Section 42.2516, multiplied by the maintenance and operations tax~~  
+|  ~~rate adopted by the district for the 2005 tax year; and~~  
+|  [ ~~"MCR" is the state maximum compressed tax rate, which is the~~  
+|  ~~product of the state compression percentage, as determined under~~  
+|  ~~Section 42.2516, multiplied by $1.50~~ ].  
+|  SECTION 1.19. Section 42.251(b), Education Code, is amended  
+| to read as follows:  
+|  (b) The program shall be financed by:  
+|  (1) [ ~~ad valorem tax revenue generated by an equalized~~  
+|  ~~uniform school district effort;~~  
+|  [ ~~(2)~~ ] ad valorem tax revenue generated by local school  
+| district effort _as provided by Subchapter F_ [ ~~in excess of the~~  
+|  ~~equalized uniform school district effort~~ ];  
+|  _(2)_ [ ~~(3)~~ ] state available school funds distributed in  
+| accordance with law; and  
+|  _(3)_ [ ~~(4)~~ ] state funds appropriated for the purposes of  
+| public school education and allocated to each district in an amount  
+| sufficient to finance the cost of each district's Foundation School  
+| Program not covered by other funds specified in this subsection.  
+|  SECTION 1.20. Section 42.2511(b), Education Code, is  
+| amended to read as follows:  
+|  (b) Notwithstanding any other provision of this chapter [ ~~or~~  
+|  ~~Chapter 41~~ ], a school district subject to this section is entitled  
+| to receive for each student in average daily attendance at the  
+| campus described by Subsection (a) an amount equivalent to the  
+| difference, if the difference results in increased funding,  
+| between:  
+|  (1) the amount described by Section 12.106; and  
+|  (2) the amount to which the district would be entitled  
+| under this chapter.  
+|  SECTION 1.21. Section 42.2521(a), Education Code, is  
+| amended to read as follows:  
+|  (a) For purposes of _Chapter_ [ ~~Chapters 41 and~~ ] 46 and this  
+| chapter, and to the extent money specifically authorized to be used  
+| under this section is available, the commissioner shall adjust the  
+| taxable value of property in a school district that, due to factors  
+| beyond the control of the board of trustees, experiences a rapid  
+| decline in the tax base used in calculating taxable values in excess  
+| of four percent of the tax base used in the preceding year.  
+|  SECTION 1.22. Section 42.2522(e), Education Code, is  
+| amended to read as follows:  
+|  (e) The commissioner shall notify school districts as soon  
+| as practicable as to the availability of funds under this section.  
+| [ ~~For purposes of computing a rollback tax rate under Section 26.08,~~  
+|  ~~Tax Code, a district shall adjust the district's tax rate limit to~~  
+|  ~~reflect assistance received under this section.~~ ]  
+|  SECTION 1.23. Section 42.2523(a), Education Code, is  
+| amended to read as follows:  
+|  (a) For purposes of _Chapter_ [ ~~Chapters 41 and~~ ] 46 and this  
+| chapter, the commissioner shall adjust the taxable value of  
+| property of a school district all or part of which is located in an  
+| area declared a disaster area by the governor under Chapter 418,  
+| Government Code, as necessary to ensure that the district receives  
+| funding based as soon as possible on property values as affected by  
+| the disaster.  
+|  SECTION 1.24. Sections 42.2524(c) and (d), Education Code,  
+| are amended to read as follows:  
+|  (c) The commissioner may provide reimbursement under this  
+| section only if funds are available for that purpose _from_ [ ~~as~~  
+|  ~~follows~~ ]:  
+|  (1) [ ~~reimbursement for a school district not required~~  
+|  ~~to take action under Chapter 41 may be provided from:~~  
+|  [ ~~(A)~~ ] amounts appropriated for that purpose,  
+| including amounts appropriated for [ ~~those~~ ] districts _to which this_  
+| _section applies,_ [ ~~for that purpose~~ ] to the disaster contingency  
+| fund established under Section 418.073, Government Code; or  
+|  _(2)_ [ ~~(B)~~ ] Foundation School Program funds available  
+| for that purpose, based on a determination by the commissioner that  
+| the amount appropriated for the Foundation School Program,  
+| including the facilities component as provided by Chapter 46,  
+| exceeds the amount to which districts are entitled under this  
+| chapter and Chapter 46[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~reimbursement for a school district required to~~  
+|  ~~take action under Chapter 41 may be provided from funds described by~~  
+|  ~~Subdivision (1)(B) if funds remain available after fully~~  
+|  ~~reimbursing each school district described by Subdivision (1) for~~  
+|  ~~its disaster remediation costs~~ ].  
+|  (d) If the amount of money available for purposes of  
+| reimbursing school districts [ ~~not required to take action under~~  
+|  ~~Chapter 41~~ ] is not sufficient to fully reimburse each district's  
+| disaster remediation costs, the commissioner shall reduce the  
+| amount of assistance provided to each of those districts  
+| proportionately. [ ~~If the amount of money available for purposes of~~  
+|  ~~reimbursing school districts required to take action under Chapter~~  
+|  ~~41 is not sufficient to fully reimburse each district's disaster~~  
+|  ~~remediation costs, the commissioner shall reduce the amount of~~  
+|  ~~assistance provided to each of those districts proportionately.~~ ]  
+|  SECTION 1.25. Sections 42.253(a), (c), and (h), Education  
+| Code, are amended to read as follows:  
+|  (a) For each school year the commissioner shall determine:  
+|  (1) the amount of money to which a school district is  
+| entitled under Subchapters B and C;  
+|  (2) the amount of money to which a school district is  
+| entitled under Subchapter F;  
+|  (3) the amount of money allocated to the district from  
+| the available school fund; _and_  
+|  (4) [ ~~the amount of each district's tier one local share~~  
+|  ~~under Section 42.252; and~~  
+|  [ ~~(5)~~ ] the amount of each district's tier two local  
+| share under Section 42.302.  
+|  (c) Each school district is entitled to an amount equal to  
+| the difference for that district between the sum of Subsections  
+| (a)(1) and (a)(2) and the sum of Subsections (a)(3) _and_ [ ~~,~~ ] (a)(4)[
+~~,~~  
+|  ~~and (a)(5)~~ ].  
+|  (h) If the amount appropriated for the Foundation School  
+| Program for the second year of a state fiscal biennium is less than  
+| the amount to which school districts and open-enrollment charter  
+| schools are entitled for that year, the commissioner shall certify  
+| the amount of the difference to the Legislative Budget Board not  
+| later than January 1 of the second year of the state fiscal  
+| biennium. The Legislative Budget Board shall propose to the  
+| legislature that the certified amount be transferred to the  
+| foundation school fund from the economic stabilization fund and  
+| appropriated for the purpose of increases in allocations under this  
+| subsection. If the legislature fails during the regular session to  
+| enact the proposed transfer and appropriation and there are not  
+| funds available under Subsection (j), the commissioner shall adjust  
+| the total amounts due to each school district and open-enrollment  
+| charter school under this chapter [ ~~and the total amounts necessary~~  
+|  ~~for each school district to comply with the requirements of Chapter~~  
+|  ~~41~~ ] by an amount determined by applying to each district and school  
+| the same percentage adjustment to the total amount of state and  
+| local revenue due to the district or school under this chapter [ ~~and~~  
+|  ~~Chapter 41~~ ] so that the total amount of the adjustment to all  
+| districts and schools results in an amount equal to the total  
+| adjustment necessary. The following fiscal year _,_ [ ~~:~~  
+|  [ ~~(1)~~ ] a district's or school's entitlement under this  
+| section is increased by an amount equal to the adjustment made under  
+| this subsection[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the amount necessary for a district to comply~~  
+|  ~~with the requirements of Chapter 41 is reduced by an amount~~  
+|  ~~necessary to ensure a district's full recovery of the adjustment~~  
+|  ~~made under this subsection~~ ].  
+|  SECTION 1.26. Sections 42.2531(a), (b), and (c), Education  
+| Code, are amended to read as follows:  
+|  (a) The commissioner may make adjustments to amounts due to  
+| a school district under this chapter or Chapter 46, [ ~~or to amounts~~  
+|  ~~necessary for a district to comply with the requirements of Chapter~~  
+|  ~~41,~~ ] as provided by this section.  
+|  (b) A school district that has a major taxpayer, as  
+| determined by the commissioner, that because of a protest of the  
+| valuation of the taxpayer's property fails to pay all or a portion  
+| of the ad valorem taxes due to the district may apply to the  
+| commissioner to have the district's taxable value of property or ad  
+| valorem tax collections adjusted for purposes of this chapter or  
+| Chapter [ ~~41 or~~ ] 46. The commissioner may make the adjustment only  
+| to the extent the commissioner determines that making the  
+| adjustment will not:  
+|  (1) in the fiscal year in which the adjustment is made,  
+| cause the amount to which school districts are entitled under this  
+| chapter to exceed the amount appropriated for purposes of the  
+| Foundation School Program for that year; and  
+|  (2) if the adjustment is made in the first year of a  
+| state fiscal biennium, cause the amount to which school districts  
+| are entitled under this chapter for the second year of the biennium  
+| to exceed the amount appropriated for purposes of the Foundation  
+| School Program for that year.  
+|  (c) The commissioner shall recover the benefit of any  
+| adjustment made under this section by making offsetting adjustments  
+| in the school district's taxable value of property or ad valorem tax  
+| collections for purposes of this chapter or Chapter [ ~~41 or~~ ] 46 on a  
+| final determination of the taxable value of property that was the  
+| basis of the original adjustment, or in the second school year  
+| following the year in which the adjustment is made, whichever is  
+| earlier.  
+|  SECTION 1.27. Section 42.257(b), Education Code, is amended  
+| to read as follows:  
+|  (b) If the district would have received a greater amount  
+| from the foundation school fund for the applicable school year  
+| using the adjusted value, the commissioner shall add the difference  
+| to subsequent distributions to the district from the foundation  
+| school fund. [ ~~An adjustment does not affect the local fund~~  
+|  ~~assignment of any other district.~~ ]  
+|  SECTION 1.28. Section 42.258(a-1), Education Code, is  
+| amended to read as follows:  
+|  (a-1) Notwithstanding Subsection (a), the agency may  
+| recover an overallocation of state funds over a period not to exceed  
+| the subsequent five school years if the commissioner determines  
+| that the overallocation was the result of exceptional circumstances  
+| reasonably caused by statutory changes to _former_ Chapter 41 _,_  
+| _Chapter_ [ ~~or~~ ] 46 _,_ or this chapter and related reporting  
+| requirements.  
+|  SECTION 1.29. Section 42.259(a)(4), Education Code, is  
+| amended to read as follows:  
+|  (4) "Wealth per student" means the taxable property  
+| values reported by the comptroller _under Section 5.09, Tax Code,_  
+| [ ~~to the commissioner under Section 42.252~~ ] divided by the number of  
+| students in average daily attendance.  
+|  SECTION 1.30. Section 42.260(b), Education Code, is amended  
+| to read as follows:  
+|  (b) The amount of additional funds to which each school  
+| district or participating charter school is entitled due to the  
+| increases in formula funding made by H.B. No. 3343, Acts of the 77th  
+| Legislature, Regular Session, 2001, and any subsequent legislation  
+| amending the provisions amended by that Act that increase formula  
+| funding under [ ~~Chapter 41 and~~ ] this chapter to school districts and  
+| charter schools is available for purposes of Subsection (c).  
+|  SECTION 1.31. Sections 42.302(a), (a-1), (a-2), (b), and  
+| (d), Education Code, are amended to read as follows:  
+|  (a) Each school district is guaranteed a specified amount  
+| per weighted student in state and local funds for each cent of tax  
+| effort [ ~~over that required for the district's local fund~~  
+|  ~~assignment~~ ] up to the maximum level specified in this subchapter.  
+| The amount of state support, subject only to the maximum amount  
+| under Section 42.303, is determined by the formula:  
+| GYA = (GL X WADA X DTR X 100) - LR  
+| where:  
+|  "GYA" is the guaranteed yield amount of state funds to be  
+| allocated to the district;  
+|  "GL" is the dollar amount guaranteed level of state and local  
+| funds per weighted student per cent of tax effort, which is an  
+| amount described by Subsection (a-1) or a greater amount for any  
+| year provided by appropriation;  
+|  "WADA" is the number of students in weighted average daily  
+| attendance, which is calculated by dividing the sum of the school  
+| district's allotments under Subchapters B and C, less any allotment  
+| to the district for transportation, any allotment under Section  
+| 42.158 or 42.160, and 50 percent of the adjustment under Section  
+| 42.102, by the basic allotment for the applicable year;  
+|  "DTR" is the district enrichment tax rate of the school  
+| district, which is determined by subtracting the amounts specified  
+| by Subsection (b) from the total amount of _enrichment_ [ ~~maintenance~~  
+|  ~~and operations~~ ] taxes collected by the school district for the  
+| applicable school year and dividing the difference by the quotient  
+| of the district's taxable value of property as determined under  
+| Subchapter M, Chapter 403, Government Code, or, if applicable,  
+| under Section 42.2521, divided by 100; and  
+|  "LR" is the local revenue, which is determined by multiplying  
+| "DTR" by the quotient of the district's taxable value of property as  
+| determined under Subchapter M, Chapter 403, Government Code, or, if  
+| applicable, under Section 42.2521, divided by 100.  
+|  (a-1) For purposes of Subsection (a), the dollar amount  
+| guaranteed level of state and local funds per weighted student per  
+| cent of tax effort ("GL") for a school district is:  
+|  (1) the greater of the amount of district tax revenue  
+| per weighted student per cent of tax effort that would be available  
+| to the Austin Independent School District, as determined by the  
+| commissioner in cooperation with the Legislative Budget Board, if  
+| the reduction of the limitation on tax increases as provided by  
+| Section 11.26(a-1), (a-2), or (a-3), Tax Code, did not apply, or the  
+| amount of district tax revenue per weighted student per cent of tax  
+| effort used for purposes of this subdivision in the preceding  
+| school year, for the first six cents _of_ [ ~~by which~~ ] the district's  
+| _enrichment_ [ ~~maintenance and operations~~ ] tax rate [ ~~exceeds the
+rate~~  
+|  ~~equal to the sum of the product of the state compression percentage,~~  
+|  ~~as determined under Section 42.2516, multiplied by the maintenance~~  
+|  ~~and operations tax rate adopted by the district for the 2005 tax~~  
+|  ~~year and any additional tax effort included in calculating the~~  
+|  ~~district's compressed tax rate under Section 42.101(a-1)~~ ]; and  
+|  (2) $31.95, for the district's _enrichment_ [ ~~maintenance~~  
+|  ~~and operations~~ ] tax effort that exceeds the amount of tax effort  
+| described by Subdivision (1).  
+|  (a-2) The limitation on district enrichment tax rate  
+| ("DTR") under Section 42.303 does not apply to the district's  
+| [ ~~maintenance and operations~~ ] tax effort described by Subsection  
+| (a-1)(1).  
+|  (b) In computing the district enrichment tax rate of a  
+| school district, the total amount of _enrichment_ [ ~~maintenance and~~  
+|  ~~operations~~ ] taxes collected by the school district does not include  
+| the amount of[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the district's local fund assignment under~~  
+|  ~~Section 42.252; or~~  
+|  [ ~~(2)~~ ] taxes paid into a tax increment fund under  
+| Chapter 311, Tax Code.  
+|  (d) For purposes of this section, the total amount of  
+| _enrichment_ [ ~~maintenance and operations~~ ] taxes collected for an  
+| applicable school year by a school district with alternate tax  
+| dates, as authorized by Section 26.135, Tax Code, is the amount of  
+| _enrichment_ taxes collected on or after January 1 of the year in  
+| which the school year begins and not later than December 31 of the  
+| same year.  
+|  SECTION 1.32. Section 42.303, Education Code, is amended to  
+| read as follows:  
+|  Sec. 42.303. LIMITATION ON ENRICHMENT TAX RATE. The  
+| district enrichment tax rate ("DTR") under Section 42.302 may not  
+| exceed _$0.17_ [ ~~the amount~~ ] per $100 of valuation [ ~~by which the~~  
+|  ~~maximum rate permitted under Section 45.003 exceeds the rate used~~  
+|  ~~to determine the district's local share under Section 42.252, or a~~  
+|  ~~greater amount for any year provided by appropriation~~ ].  
+|  SECTION 1.33. Section 44.004, Education Code, is amended by  
+| amending Subsections (c), (c-1), and (i) and adding Subsections  
+| (c-2) and (c-3) to read as follows:  
+|  (c) The notice of public meeting to discuss and adopt the  
+| budget and the proposed tax rate may not be smaller than one-quarter  
+| page of a standard-size or a tabloid-size newspaper, and the  
+| headline on the notice must be in 18-point or larger type. Subject  
+| to Subsection (d), the notice must:  
+|  (1) contain a statement in the following form:  
+| "NOTICE OF PUBLIC MEETING TO DISCUSS BUDGET AND PROPOSED TAX RATE  
+|  "The (name of school district) will hold a public meeting at  
+| (time, date, year) in (name of room, building, physical location,  
+| city, state). The purpose of this meeting is to discuss the school  
+| district's budget that will determine the tax rate that will be  
+| adopted. Public participation in the discussion is invited." The  
+| statement of the purpose of the meeting must be in bold type. In  
+| reduced type, the notice must state: "The tax rate that is  
+| ultimately adopted at this meeting or at a separate meeting at a  
+| later date may not exceed the proposed rate shown below unless the  
+| district publishes a revised notice containing the same information  
+| and comparisons set out below and holds another public meeting to  
+| discuss the revised notice.";  
+|  (2) contain a section entitled "Comparison of Proposed  
+| Budget with Last Year's Budget," which must show the difference,  
+| expressed as a percent increase or decrease, as applicable, in the  
+| amounts budgeted for the preceding fiscal year and the amount  
+| budgeted for the fiscal year that begins in the current tax year for  
+| each of the following:  
+|  (A) _enrichment_ [ ~~maintenance and operations~~ ];  
+|  (B) debt service; and  
+|  (C) total expenditures;  
+|  (3) contain a section entitled "Total Appraised Value  
+| and Total Taxable Value," which must show the total appraised value  
+| and the total taxable value of all property and the total appraised  
+| value and the total taxable value of new property taxable by the  
+| district in the preceding tax year and the current tax year as  
+| calculated under Section 26.04, Tax Code;  
+|  (4) contain a statement of the total amount of the  
+| outstanding and unpaid bonded indebtedness of the school district;  
+|  (5) contain a section entitled "Comparison of Proposed  
+| Rates with Last Year's Rates," which must:  
+|  (A) show in rows the tax rates described by  
+| Subparagraphs (i)-(iii), expressed as amounts per $100 valuation of  
+| property, for columns entitled _"Enrichment,"_ [ ~~"Maintenance & ~~  
+|  ~~Operations,"~~ ] "Interest & Sinking Fund," and "Total," which is the  
+| sum of _"Enrichment"_ [ ~~"Maintenance & Operations"~~] and "Interest &  
+| Sinking Fund":  
+|  (i) the school district's "Last Year's  
+| Rate";  
+|  (ii) the "Rate to Maintain Same Level of  
+| _Enrichment_ [ ~~Maintenance & Operations~~] Revenue & Pay Debt Service,"  
+| which:  
+|  (a) in the case of _"Enrichment,"_  
+| [ ~~"Maintenance & Operations,"~~] is the tax rate that, when applied to  
+| the current taxable value for the district, as certified by the  
+| chief appraiser under Section 26.01, Tax Code, and as adjusted to  
+| reflect changes made by the chief appraiser as of the time the  
+| notice is prepared, would impose taxes in an amount that, when added  
+| to state funds to be distributed to the district under _Subchapter F,_  
+| Chapter 42, would provide the same amount of _enrichment_  
+| [ ~~maintenance and operations~~ ] taxes and state funds distributed  
+| under _Subchapter F,_ Chapter 42 _,_ per student in average daily  
+| attendance for the applicable school year that was available to the  
+| district in the preceding school year; and  
+|  (b) in the case of "Interest & Sinking  
+| Fund," is the tax rate that, when applied to the current taxable  
+| value for the district, as certified by the chief appraiser under  
+| Section 26.01, Tax Code, and as adjusted to reflect changes made by  
+| the chief appraiser as of the time the notice is prepared, and when  
+| multiplied by the district's anticipated collection rate, would  
+| impose taxes in an amount that, when added to state funds to be  
+| distributed to the district under Chapter 46 and any excess taxes  
+| collected to service the district's debt during the preceding tax  
+| year but not used for that purpose during that year, would provide  
+| the amount required to service the district's debt; and  
+|  (iii) the "Proposed Rate";  
+|  (B) contain fourth and fifth columns aligned with  
+| the columns required by Paragraph (A) that show, for each row  
+| required by Paragraph (A):  
+|  (i) the "Local Revenue per Student," which  
+| is computed by multiplying the district's total taxable value of  
+| property, as certified by the chief appraiser for the applicable  
+| school year under Section 26.01, Tax Code, and as adjusted to  
+| reflect changes made by the chief appraiser as of the time the  
+| notice is prepared, by the total tax rate, and dividing the product  
+| by the number of students in average daily attendance in the  
+| district for the applicable school year; and  
+|  (ii) the "State Revenue per Student," which  
+| is computed by determining the amount of state aid received or to be  
+| received by the district under Chapters 42, 43, and 46 and dividing  
+| that amount by the number of students in average daily attendance in  
+| the district for the applicable school year; and  
+|  (C) contain an asterisk after each calculation  
+| for "Interest & Sinking Fund" and a footnote to the section that, in  
+| reduced type, states "The Interest & Sinking Fund tax revenue is  
+| used to pay for bonded indebtedness on construction, equipment, or  
+| both. The bonds, and the tax rate necessary to pay those bonds,  
+| were approved by the voters of this district.";  
+|  (6) contain a section entitled "Comparison of Proposed  
+| Levy with Last Year's Levy on Average Residence," which must:  
+|  (A) show in rows the information described by  
+| Subparagraphs (i)-(iv), rounded to the nearest dollar, for columns  
+| entitled "Last Year" and "This Year":  
+|  (i) "Average Market Value of Residences,"  
+| determined using the same group of residences for each year;  
+|  (ii) "Average Taxable Value of Residences,"  
+| determined after taking into account the limitation on the  
+| appraised value of residences under Section 23.23, Tax Code, and  
+| after subtracting all homestead exemptions applicable in each year,  
+| other than exemptions available only to disabled persons or persons  
+| 65 years of age or older or their surviving spouses, and using the  
+| same group of residences for each year;  
+|  (iii) "Last Year's Rate Versus Proposed  
+| Rate per $100 Value"; and  
+|  (iv) "Taxes Due on Average Residence,"  
+| determined using the same group of residences for each year; and  
+|  (B) contain the following information:  
+| "Increase (Decrease) in Taxes" expressed in dollars and cents,  
+| which is computed by subtracting the "Taxes Due on Average  
+| Residence" for the preceding tax year from the "Taxes Due on Average  
+| Residence" for the current tax year;  
+|  (7) contain the following statement in bold print:  
+| "Under state law, the dollar amount of school taxes imposed on the  
+| residence of a person 65 years of age or older or of the surviving  
+| spouse of such a person, if the surviving spouse was 55 years of age  
+| or older when the person died, may not be increased above the amount  
+| paid in the first year after the person turned 65, regardless of  
+| changes in tax rate or property value."; _and_  
+|  (8) [ ~~contain the following statement in bold print:~~  
+|  ~~"Notice of Rollback Rate: The highest tax rate the district can~~  
+|  ~~adopt before requiring voter approval at an election is (the school~~  
+|  ~~district rollback rate determined under Section 26.08, Tax Code).~~  
+|  ~~This election will be automatically held if the district adopts a~~  
+|  ~~rate in excess of the rollback rate of (the school district rollback~~  
+|  ~~rate)."; and~~  
+|  [ ~~(9)~~ ] contain a section entitled "Fund Balances,"  
+| which must include the estimated amount of interest and sinking  
+| fund balances and the estimated amount of _enrichment_ [ ~~maintenance~~  
+|  ~~and operation~~ ] or general fund balances remaining at the end of the  
+| current fiscal year that are not encumbered with or by  
+| corresponding debt obligation, less estimated funds necessary for  
+| the operation of the district before the receipt of the first  
+| payment under Chapter 42 in the succeeding school year.  
+|  (c-1) The notice described by Subsection (c) must state in a  
+| distinct row or on a separate or individual line for each of the  
+| following taxes:  
+|  (1) the proposed rate of the school district's  
+| _enrichment_ [ ~~maintenance~~ ] tax described by Section 45.003, under the  
+| heading " _Enrichment_ [ ~~Maintenance~~ ] Tax"; and  
+|  (2) if the school district has issued ad valorem tax  
+| bonds under Section 45.001, the proposed rate of the tax to pay for  
+| the bonds, under the heading "School Debt Service Tax Approved by  
+| Local Voters."  
+|  _(c-2)_ _____For the notice required by Subsection (c) for the 2021_  
+| _tax year:_  
+|  _(1)_ _____the rows required by Subsection (c)(5) entitled_  
+| _"Last Year's Rate" and the rows required by Subsection (c)(6)(A)_  
+| _entitled "Last Year's Rate Versus Proposed Rate per $100 Value" and_  
+| _"Taxes Due on Average Residence" and the item required by_  
+| _Subsection (c)(6)(B) entitled "Increase (Decrease) in Taxes" must_  
+| _contain an asterisk and a footnote to that section that, in reduced_  
+| _type, states "The 86th Legislature eliminated certain school_  
+| _district maintenance and operations taxes. The tax rate shown_  
+| _as_ ___'Last Year's Rate' and the 'Taxes Due on Average Residence' for_  
+| _last year are based on the sum of the interest and sinking fund tax_  
+| _rate adopted by the district for the 2020 tax year and the rate of_  
+| _any tax the district imposed for enrichment for that tax year, not_  
+| _the total tax rate."; and_  
+|  _(2)_ _____the computation required by Subsection (c)(6)(B)_  
+| _shall be made using:_  
+|  _(A)_ _____for the 2020 tax year, the sum of the interest_  
+| _and sinking fund tax rate adopted by the district for that tax year_  
+| _and the rate of any tax the district imposed for enrichment for that_  
+| _tax year; and_  
+|  _(B)_ _____for the 2021 tax year, the sum of the_  
+| _district's proposed interest and sinking fund tax rate for that tax_  
+| _year and the district's proposed enrichment tax rate for that tax_  
+| _year._  
+|  _(c-3)_ _____Subsection (c-2) and this subsection expire January_  
+| _1, 2022._  
+|  (i) A school district that uses a certified estimate, as  
+| authorized by Subsection (h), may adopt a budget at the public  
+| meeting designated in the notice prepared using the estimate, but  
+| the district may not adopt a tax rate before the district receives  
+| the certified appraisal roll for the district required by Section  
+| 26.01(a), Tax Code. After receipt of the certified appraisal roll,  
+| the district must publish a revised notice and hold another public  
+| meeting before the district may adopt a tax rate that exceeds[ ~~:~~  
+|  [ ~~(1)~~ ] the rate proposed in the notice prepared using  
+| the estimate[ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the district's rollback rate determined under~~  
+|  ~~Section 26.08, Tax Code, using the certified appraisal roll~~ ].  
+|  SECTION 1.34. The heading to Subchapter A, Chapter 45,  
+| Education Code, is amended to read as follows:  
+| SUBCHAPTER A. TAX BONDS AND _ENRICHMENT_ [ ~~MAINTENANCE~~ ] TAXES  
+|  SECTION 1.35. Section 45.002, Education Code, is amended to  
+| read as follows:  
+|  Sec. 45.002. _ENRICHMENT_ [ ~~MAINTENANCE~~ ] TAXES. The governing  
+| board of an independent school district, including the city council  
+| or commission that has jurisdiction over a municipally controlled  
+| independent school district, the governing board of a rural high  
+| school district, and the commissioners court of a county, on behalf  
+| of each common school district under its jurisdiction, may levy,  
+| assess, and collect annual ad valorem taxes for the _enrichment_  
+| [ ~~further maintenance~~ ] of public schools in the district, subject to  
+| Section 45.003.  
+|  SECTION 1.36. Section 45.003, Education Code, is amended by  
+| adding Subsections (a-1) and (a-2) and amending Subsection (d) to  
+| read as follows:  
+|  _(a-1)_ _____The governing board or commissioners court may levy_  
+| _the tax described by Section 45.002 at a rate of $0.04 or less per_  
+| _$100 of taxable value without an election._  
+|  _(a-2)_ _____A governing board or commissioners court that, for the_  
+| _2020 tax year, levied an enrichment tax at a rate in excess of $0.04_  
+| _per $100 of taxable value may continue to levy the tax at a rate that_  
+| _does not exceed that rate without an election._  
+|  (d) A proposition submitted to authorize the levy of  
+| _enrichment_ [ ~~maintenance~~ ] taxes must include the question of whether  
+| the governing board or commissioners court may levy, assess, and  
+| collect annual ad valorem taxes for the _enrichment_ [ ~~further~~  
+|  ~~maintenance~~ ] of public schools, at a rate not to exceed the rate  
+| stated in the proposition.  For any year, the _enrichment_  
+| [ ~~maintenance~~ ] tax rate _adopted by the district may not exceed $0.17_  
+| per $100 of taxable value [ ~~adopted by the district may not exceed~~  
+|  ~~the rate equal to the sum of $0.17 and the product of the state~~  
+|  ~~compression percentage, as determined under Section 42.2516,~~  
+|  ~~multiplied by $1.50~~ ].  
+|  SECTION 1.37. Sections 45.006(b), (c), (d), (e), and (f),  
+| Education Code, are amended to read as follows:  
+|  (b) _A_ [ ~~Notwithstanding Section 45.003, a~~ ] school district  
+| may levy, assess, and collect maintenance taxes [ ~~at a rate that~~  
+|  ~~exceeds $1.50 per $100 valuation of taxable property~~ ] if:  
+|  (1) _the_ [ ~~additional ad valorem~~ ] taxes are necessary to  
+| pay a debt of the district that:  
+|  (A) resulted from the rendition of a judgment  
+| against the district before May 1, 1995;  
+|  (B) is greater than $5 million;  
+|  (C) decreases a property owner's ad valorem tax  
+| liability;  
+|  (D) requires the district to refund to the  
+| property owner the difference between the amount of taxes paid by  
+| the property owner and the amount of taxes for which the property  
+| owner is liable; and  
+|  (E) is payable according to the judgment in more  
+| than one of the district's fiscal years; and  
+|  (2) the [ ~~additional~~ ] taxes are _:_  
+|  _(A)_ _____imposed at a rate that, when added to the rate_  
+| _of any ad valorem tax imposed by the district under Section 45.002_  
+| _or 45.007, produces a rate that does not exceed $0.17 per $100 of_  
+| _taxable value; and_  
+|  _(B)_ approved by the voters of the district at an  
+| election held for that purpose.  
+|  (c) Except as provided by Subsection (e), any [ ~~additional~~ ]  
+| maintenance taxes that the district collects under this section may  
+| be used only to pay the district's debt under Subsection (b)(1).  
+|  (d) Except as provided by Subsection (e), the authority of a  
+| school district to levy the [ ~~additional~~ ] ad valorem taxes under  
+| this section expires when the judgment against the district is  
+| paid.  
+|  (e) The governing body of a school district shall pay the  
+| district's debt under Subsection (b)(1) in a lump sum. To satisfy  
+| the district's debt under Subsection (b)(1), the governing body may  
+| levy and collect [ ~~additional~~ ] maintenance taxes as provided by  
+| Subsection (b) and may issue bonds. If bonds are issued:  
+|  (1) the district may use any [ ~~additional~~ ] maintenance  
+| taxes collected by the district under this section to pay debt  
+| service on the bonds; and  
+|  (2) the authority of the district to levy the  
+| [ ~~additional~~ ] ad valorem taxes expires when the bonds are paid in  
+| full or the judgment is paid, whichever occurs later.  
+|  (f) The governing body of a school district that adopts a  
+| tax rate _under this section_ [ ~~that exceeds $1.50 per $100 valuation~~  
+|  ~~of taxable property~~ ] may set the amount of the exemption from  
+| taxation authorized by Section 11.13(n), Tax Code, at any time  
+| before the date the governing body adopts the district's tax rate  
+| for the tax year in which the election approving the [ ~~additional~~ ]  
+| taxes is held.  
+|  SECTION 1.38. Subchapter A, Chapter 45, Education Code, is  
+| amended by adding Section 45.007 to read as follows:  
+|  _Sec._ ___45.007._ _____AD VALOREM TAX FOR JUNIOR COLLEGE PURPOSES IN_  
+| _CERTAIN SCHOOL DISTRICTS. (a) This section applies only to an_  
+| _independent school district in a county with a population of more_  
+| _than two million._  
+|  _(b)_ _____Subject to Subsection (e), the governing body of an_  
+| _independent school district that governs a junior college district_  
+| _under Subchapter B, Chapter 130, may impose an ad valorem tax at a_  
+| _rate not to exceed $0.05 on the $100 valuation of taxable property_  
+| _in the district for the use of the junior college district for_  
+| _facilities and equipment or for the maintenance and operating_  
+| _expenses of the junior college district._  
+|  _(c)_ _____All real property purchased with proceeds of a tax_  
+| _imposed under this section or with funds dedicated under Section_  
+| _45.105(e) as that section existed January 1, 2020, is the property_  
+| _of the school district but is subject to the exclusive control of_  
+| _the governing body of the junior college district for as long as the_  
+| _junior college district uses the property for educational purposes._  
+|  _(d)_ _____An independent school district that, under Section_  
+| _45.105(e) as that section existed January 1, 2020, dedicated a_  
+| _specific percentage of the school district's tax levy to the use of_  
+| _a junior college district governed by the school district for_  
+| _facilities and equipment or for the maintenance and operating_  
+| _expenses of the junior college district is not required to hold an_  
+| _election to impose a tax under this section._  
+|  _(e)_ _____The tax authorized under this section may not be imposed_  
+| _at a rate that, when added to the rate of any ad valorem tax imposed_  
+| _by the district under Section 45.002 or 45.006, produces a rate that_  
+| _exceeds $0.17 per $100 of taxable value._  
+|  SECTION 1.39. Section 45.104(a), Education Code, is amended  
+| to read as follows:  
+|  (a) The board of trustees of any school district may pledge  
+| its delinquent taxes levied for maintenance purposes for specific  
+| past[ ~~, current, and future~~ ] school years _or levied for enrichment_  
+| _purposes for specific past, current, and future school years_ as  
+| security for a loan, and may evidence any such loan with negotiable  
+| notes, and the delinquent taxes pledged shall be applied against  
+| the principal and interest of the loan. Negotiable notes issued  
+| under this subsection must mature not more than 20 years from their  
+| date.  
+|  SECTION 1.40. Section 45.108(a), Education Code, is amended  
+| to read as follows:  
+|  (a) Independent or consolidated school districts may borrow  
+| money for the purpose of paying maintenance expenses and may  
+| evidence those loans with negotiable or nonnegotiable notes, except  
+| that the loans may not at any time exceed 75 percent of the previous  
+| year's income. The notes may be payable from and secured by a lien  
+| on and pledge of any available funds of the district[ ~~, including~~  
+|  ~~proceeds of a maintenance tax~~ ]. The term "maintenance expenses" or  
+| "maintenance expenditures" as used in this section means any lawful  
+| expenditure of the school district other than payment of principal  
+| of and interest on bonds. The term includes expenditures relating  
+| to notes issued to refund notes previously issued under this  
+| section if the refunding notes are coterminous with the refunded  
+| obligation. The term also includes all costs incurred in  
+| connection with environmental cleanup and asbestos cleanup and  
+| removal programs implemented by school districts or in connection  
+| with the maintenance, repair, rehabilitation, or replacement of  
+| heating, air conditioning, water, sanitation, roofing, flooring,  
+| electric, or other building systems of existing school properties.  
+| Notes issued pursuant to this section may be issued to mature in not  
+| more than 20 years from their date. Notes issued for a term longer  
+| than one year must be treated as "debt" as defined in Section  
+| 26.012(7), Tax Code.  
+|  SECTION 1.41. Section 45.109(c), Education Code, is amended  
+| to read as follows:  
+|  (c) The consideration for a contract under this section may  
+| be paid from any source available to the independent school  
+| district. [ ~~If voted as provided by this section, the district may~~  
+|  ~~pledge to the payment of the contract an annual maintenance tax in~~  
+|  ~~an amount sufficient, without limitation, to provide all of the~~  
+|  ~~consideration. If voted and pledged, the maintenance tax shall be~~  
+|  ~~assessed, levied, and collected annually in the same manner as~~  
+|  ~~provided by general law applicable to independent school districts~~  
+|  ~~for other maintenance taxes.~~ ]  
+|  SECTION 1.42. Section 45.156(c), Education Code, is amended  
+| to read as follows:  
+|  (c) The consideration payable by the district under a  
+| contract may be paid from any source available to the district. [ ~~If~~  
+|  ~~voted, the district may pledge to the payment of the contract an~~  
+|  ~~annual maintenance tax in an amount sufficient, without limitation,~~  
+|  ~~to provide all or part of the consideration. If voted and pledged,~~  
+|  ~~the maintenance tax shall be assessed, levied, and collected~~  
+|  ~~annually in the same manner as provided by general law applicable to~~  
+|  ~~independent school districts for other maintenance taxes. A~~  
+|  ~~maintenance tax may not be pledged to the payment of any contract or~~  
+|  ~~assessed, levied, or collected unless an election is held in the~~  
+|  ~~district, and the maintenance tax for that purpose is favorably~~  
+|  ~~voted by a majority of the qualified voters of the district. The~~  
+|  ~~election order for an election under this subsection must include~~  
+|  ~~the polling place or places and any other matters considered~~  
+|  ~~advisable by the board of trustees.~~ ]  
+|  SECTION 1.43. Section 45.251(2), Education Code, is amended  
+| to read as follows:  
+|  (2) "Foundation School Program" means the program  
+| established under Chapters [ ~~41,~~ ] 42[ ~~,~~ ] and 46, or any successor  
+| program of state appropriated funding for school districts in this  
+| state.  
+|  SECTION 1.44. Sections 45.261(a) and (e), Education Code,  
+| are amended to read as follows:  
+|  (a) If the commissioner orders payment from the money  
+| appropriated to the Foundation School Program on behalf of a school  
+| district [ ~~that is not required to reduce its wealth per student~~  
+|  ~~under Chapter 41~~ ], the commissioner shall direct the comptroller to  
+| withhold the amount paid from the first state money payable to the  
+| district. [ ~~If the commissioner orders payment from the money~~  
+|  ~~appropriated to the Foundation School Program on behalf of a school~~  
+|  ~~district that is required to reduce its wealth per student under~~  
+|  ~~Chapter 41, the commissioner shall increase amounts due from the~~  
+|  ~~district under that chapter in a total amount equal to the amount of~~  
+|  ~~payments made on behalf of the district under this subchapter.~~ ]  
+| Amounts withheld [ ~~or received~~ ] under this subsection shall be used  
+| for the Foundation School Program.  
+|  (e) Any part of a school district's tax rate attributable to  
+| producing revenue for purposes of Subsection (c)(1) is considered  
+| part of the district's[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~current debt rate for purposes of computing a~~  
+|  ~~rollback tax rate under Section 26.08, Tax Code; and~~  
+|  [ ~~(2)~~ ] interest and sinking fund tax rate.  
+|  SECTION 1.45. Section 46.003(d), Education Code, is amended  
+| to read as follows:  
+|  (d) The amount budgeted by a district for payment of  
+| eligible bonds may include:  
+|  (1) bond taxes collected in the current school year;  
+|  (2) bond taxes collected in a preceding school year in  
+| excess of the amount necessary to pay the district's share of actual  
+| debt service on bonds in that year, provided that the taxes were not  
+| used to generate other state financial assistance for the district;  
+| [ ~~or~~ ]  
+|  (3) _enrichment_ [ ~~maintenance and operations~~ ] taxes  
+| collected in the current school year or a preceding school year in  
+| excess of the amount eligible to be used to generate other state  
+| financial assistance for the district _; or_  
+|  _(4)_ _____maintenance and operations taxes collected in a_  
+| _preceding school year in excess of the amount eligible to be used to_  
+| _generate other state financial assistance for the district_.  
+|  SECTION 1.46. Section 46.004(a), Education Code, is amended  
+| to read as follows:  
+|  (a) A district may receive state assistance in connection  
+| with a lease-purchase agreement concerning an instructional  
+| facility. For purposes of this subchapter:  
+|  (1) taxes levied for purposes of _enrichment_  
+| [ ~~maintenance and operations~~ ] that are necessary to pay a district's  
+| share of the payments under a lease-purchase agreement for which  
+| the district receives state assistance under this subchapter are  
+| considered to be bond taxes; and  
+|  (2) payments under a lease-purchase agreement are  
+| considered to be payments of principal of and interest on bonds.  
+|  SECTION 1.47. Section 46.032(c), Education Code, is amended  
+| to read as follows:  
+|  (c) The amount budgeted by a district for payment of  
+| eligible bonds may include:  
+|  (1) bond taxes collected in the current school year;  
+|  (2) bond taxes collected in a preceding school year in  
+| excess of the amount necessary to pay the district's share of actual  
+| debt service on bonds in that year, provided that the taxes were not  
+| used to generate other state financial assistance for the district;  
+| [ ~~or~~ ]  
+|  (3) _enrichment_ [ ~~maintenance and operations~~ ] taxes  
+| collected in the current school year or a preceding school year in  
+| excess of the amount eligible to be used to generate other state  
+| financial assistance for the district _; or_  
+|  _(4)_ _____maintenance and operations taxes collected in a_  
+| _preceding school year in excess of the amount eligible to be used to_  
+| _generate other state financial assistance for the district_.  
+|  SECTION 1.48. Section 79.10(f), Education Code, is amended  
+| to read as follows:  
+|  (f) For each student enrolled in the academy, the academy is  
+| entitled to allotments from the foundation school fund under  
+| Chapter 42 as if the academy were a school district [ ~~without a tier~~  
+|  ~~one local share for purposes of Section 42.253~~ ]. If in any academic  
+| year the amount of the allotments under this subsection exceeds the  
+| amount of state funds paid to the academy in the first fiscal year  
+| of the academy's operation, the commissioner of education shall set  
+| aside from the total amount of funds to which school districts are  
+| entitled under Section 42.253(c) an amount equal to the excess  
+| amount and shall distribute that amount to the academy.  After  
+| deducting the amount set aside and paid to the academy by the  
+| commissioner of education under this subsection, the commissioner  
+| of education shall reduce the amount to which each district is  
+| entitled under Section 42.253(c) in the manner described by Section  
+| 42.253(h). A determination of the commissioner of education under  
+| this subsection is final and may not be appealed.  
+|  SECTION 1.49. Section 87.208, Education Code, is amended to  
+| read as follows:  
+|  Sec. 87.208. SEABORNE CONSERVATION CORPS. If the board of  
+| regents of The Texas A&M University System administers a program  
+| that is substantially similar to the Seaborne Conservation Corps as  
+| it was administered by the board during the 1998-1999 school year,  
+| the program is entitled, for each student enrolled, to allotments  
+| from the Foundation School Program under Chapter 42 as if the  
+| program were a school district[ ~~, except that the program has a local~~  
+|  ~~share applied that is equivalent to the local fund assignment of the~~  
+|  ~~school district in which the principal facilities of the program~~  
+|  ~~are located~~ ].  
+|  SECTION 1.50. Section 87.505(g), Education Code, is amended  
+| to read as follows:  
+|  (g) For each student enrolled in the academy, the academy is  
+| entitled to allotments from the foundation school fund under  
+| Chapter 42 as if the academy were a school district [ ~~without a tier~~  
+|  ~~one local share for purposes of Section 42.253~~ ]. If in any academic  
+| year the amount of the allotments under this subsection exceeds the  
+| amount of state funds paid to the academy in the first fiscal year  
+| of the academy's operation, the commissioner of education shall set  
+| aside from the total amount of funds to which school districts are  
+| entitled under Section 42.253(c) an amount equal to the excess  
+| amount and shall distribute that amount to the academy. After  
+| deducting the amount set aside and paid to the academy by the  
+| commissioner of education under this subsection, the commissioner  
+| of education shall reduce the amount to which each district is  
+| entitled under Section 42.253(c) in the manner described by Section  
+| 42.253(h). A determination of the commissioner of education under  
+| this subsection is final and may not be appealed.  
+|  SECTION 1.51. Section 96.707(k), Education Code, is amended  
+| to read as follows:  
+|  (k) For each student enrolled in the academy, the academy is  
+| entitled to allotments from the Foundation School Program under  
+| Chapter 42 as if the academy were a school district [ ~~without a tier~~  
+|  ~~one local share for purposes of Section 42.253~~ ].  
+|  SECTION 1.52. Section 105.301(e), Education Code, is  
+| amended to read as follows:  
+|  (e) The academy is not subject to the provisions of this  
+| code, or to the rules of the Texas Education Agency, regulating  
+| public schools, except that:  
+|  (1) professional employees of the academy are entitled  
+| to the limited liability of an employee under Section 22.0511,  
+| 22.0512, or 22.052;  
+|  (2) a student's attendance at the academy satisfies  
+| compulsory school attendance requirements; and  
+|  (3) for each student enrolled, the academy is entitled  
+| to allotments from the foundation school program under Chapter 42  
+| as if the academy were a school district [ ~~without a tier one local~~  
+|  ~~share for purposes of Section 42.253~~ ].  
+|  SECTION 1.53. Section 4.008(a), Election Code, is amended  
+| to read as follows:  
+|  (a) _The_ [ ~~Except as provided by Subsection (b), the~~ ]  
+| governing body of a political subdivision, other than a county,  
+| that orders an election shall deliver notice of the election to the  
+| county clerk and voter registrar of each county in which the  
+| political subdivision is located not later than the 60th day before  
+| election day.  
+|  SECTION 1.54. Section 403.302(a), Government Code, is  
+| amended to read as follows:  
+|  (a) The comptroller shall conduct a study using comparable  
+| sales and generally accepted auditing and sampling techniques to  
+| determine the total taxable value of all property in each school  
+| district. The study shall determine the taxable value of all  
+| property and of each category of property in the district and the  
+| productivity value of all land that qualifies for appraisal on the  
+| basis of its productive capacity and for which the owner has applied  
+| for and received a productivity appraisal. [ ~~The comptroller shall~~  
+|  ~~make appropriate adjustments in the study to account for actions~~  
+|  ~~taken under Chapter 41, Education Code.~~ ]  
+|  SECTION 1.55. Section 437.117(a), Government Code, is  
+| amended to read as follows:  
+|  (a) For each student enrolled in the Texas ChalleNGe  
+| Academy, the department is entitled to allotments from the  
+| Foundation School Program under Chapter 42, Education Code, as if  
+| the academy were a school district [ ~~without a tier one local share~~  
+|  ~~for purposes of Section 42.253, Education Code~~ ].  
+|  SECTION 1.56. Section 1579.251(a), Insurance Code, is  
+| amended to read as follows:  
+|  (a) The state shall assist employees of participating  
+| school districts and charter schools in the purchase of group  
+| health coverage under this chapter by providing for each covered  
+| employee the amount of $900 each state fiscal year or a greater  
+| amount as provided by the General Appropriations Act. The state  
+| contribution shall be distributed through the school finance  
+| formulas under _Chapter_ [ ~~Chapters 41 and~~ ] 42, Education Code, and  
+| used by school districts and charter schools as provided by Section  
+| 42.260, Education Code.  
+|  SECTION 1.57. Section 21.01, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 21.01. REAL PROPERTY. Real property is taxable by a  
+| taxing unit if located in the unit on January 1[ ~~, except as provided~~  
+|  ~~by Chapter 41, Education Code~~ ].  
+|  SECTION 1.58. Section 21.02(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) Except as provided by _Subsection_ [ ~~Subsections (b) and~~ ]  
+| (e) and by Sections 21.021, 21.04, and 21.05, tangible personal  
+| property is taxable by a taxing unit if:  
+|  (1) it is located in the unit on January 1 for more  
+| than a temporary period;  
+|  (2) it normally is located in the unit, even though it  
+| is outside the unit on January 1, if it is outside the unit only  
+| temporarily;  
+|  (3) it normally is returned to the unit between uses  
+| elsewhere and is not located in any one place for more than a  
+| temporary period; or  
+|  (4) the owner resides (for property not used for  
+| business purposes) or maintains the owner's principal place of  
+| business in this state (for property used for business purposes) in  
+| the unit and the property is taxable in this state but does not have  
+| a taxable situs pursuant to Subdivisions (1) through (3) [ ~~of this~~  
+|  ~~subsection~~ ].  
+|  SECTION 1.59. Section 26.012, Tax Code, is amended by  
+| amending Subdivisions (4) and (9) and adding Subdivision (8-a) to  
+| read as follows:  
+|  (4) "Current debt rate" means a rate expressed in  
+| dollars per $100 of taxable value and calculated according to the  
+| following formula:  
+| CURRENT DEBT RATE = [ ~~[~~ ](CURRENT DEBT SERVICE - EXCESS  
+| COLLECTIONS) / (CURRENT TOTAL VALUE X COLLECTION RATE)[ ~~]~~ ~~~~ ~~+~~
+~~~~ ~~CURRENT~~  
+|  ~~JUNIOR COLLEGE LEVY~~ ~~~~ ~~/~~ ~~~~ ~~CURRENT TOTAL VALUE~~ ]  
+|  _(8-a)_ _____"Effective enrichment rate" means, for a school_  
+| _district, a rate expressed in dollars per $100 of taxable value and_  
+| _calculated according to the following formula:_  
+| _EFFECTIVE ENRICHMENT RATE = (LAST YEAR'S LEVY - LAST YEAR'S DEBT_  
+| _LEVY) / (CURRENT TOTAL VALUE - NEW PROPERTY VALUE)_  
+|  (9) "Effective maintenance and operations rate"  
+| means _, for a taxing unit other than a school district,_ a rate  
+| expressed in dollars per $100 of taxable value and calculated  
+| according to the following formula:  
+| EFFECTIVE MAINTENANCE AND OPERATIONS RATE = (LAST YEAR'S LEVY -  
+| LAST YEAR'S DEBT LEVY [ ~~\- LAST YEAR'S JUNIOR COLLEGE LEVY~~ ]) /  
+| (CURRENT TOTAL VALUE - NEW PROPERTY VALUE)  
+|  SECTION 1.60. Section 26.04, Tax Code, is amended by  
+| amending Subsections (c) and (e-1) and adding Subsection (c-1) to  
+| read as follows:  
+|  (c) An officer or employee designated by the governing body  
+| _of a taxing unit other than a school district_ shall calculate the  
+| effective tax rate and the rollback tax rate for the unit, where:  
+|  (1) "Effective tax rate" means a rate expressed in  
+| dollars per $100 of taxable value calculated according to the  
+| following formula:  
+| EFFECTIVE TAX RATE = (LAST YEAR'S LEVY - LOST PROPERTY  
+| LEVY) / (CURRENT TOTAL VALUE - NEW PROPERTY VALUE)  
+|  ; and  
+|  (2) "Rollback tax rate" means a rate expressed in  
+| dollars per $100 of taxable value calculated according to the  
+| following formula:  
+| ROLLBACK TAX RATE = (EFFECTIVE MAINTENANCE AND OPERATIONS RATE x  
+| 1.08) + CURRENT DEBT RATE  
+|  _(c-1)_ _____An officer or employee designated by the governing_  
+| _body of a school district shall calculate the effective tax rate for_  
+| _the school district. For purposes of this subsection, "effective_  
+| _tax rate" has the meaning assigned by Subsection (c)(1)._  
+|  (e-1) _Subsections (e), (i), and (j)_ [ ~~The notice~~  
+|  ~~requirements imposed by Subsections (e)(1)-(6)~~ ] do not apply to a  
+| school district.  
+|  SECTION 1.61. Section 26.05, Tax Code, is amended by  
+| amending Subsections (a), (b), and (g) and adding Subsection (b-1)  
+| to read as follows:  
+|  (a) The governing body of each taxing unit, before the later  
+| of September 30 or the 60th day after the date the certified  
+| appraisal roll is received by the taxing unit, shall adopt a tax  
+| rate for the current tax year and shall notify the assessor for the  
+| unit of the rate adopted. The tax rate consists of two components,  
+| each of which must be approved separately. The components are:  
+|  (1) for a taxing unit other than a school district, the  
+| rate that, if applied to the total taxable value, will impose the  
+| total amount published under Section 26.04(e)(3)(C), less any  
+| amount of additional sales and use tax revenue that will be used to  
+| pay debt service, or, for a school district, the rate calculated  
+| under Section 44.004(c)(5)(A)(ii)(b), Education Code; and  
+|  (2) _for a taxing unit other than a school district,_ the  
+| rate that, if applied to the total taxable value, will impose the  
+| amount of taxes needed to fund maintenance and operation  
+| expenditures of the unit for the next year _, or, for a school_  
+| _district, the rate that, if applied to total taxable value, will_  
+| _impose the amount of taxes needed to fund the enrichment_  
+| _expenditures of the school district for the next year_.  
+|  (b) A taxing unit may not impose property taxes in any year  
+| until the governing body has adopted a tax rate for that year, and  
+| the annual tax rate must be set by ordinance, resolution, or order,  
+| depending on the method prescribed by law for adoption of a law by  
+| the governing body. The vote on the ordinance, resolution, or  
+| order setting the tax rate must be separate from the vote adopting  
+| the budget. For a taxing unit other than a school district, the  
+| vote on the ordinance, resolution, or order setting a tax rate that  
+| exceeds the effective tax rate must be a record vote, and at least  
+| 60 percent of the members of the governing body must vote in favor  
+| of the ordinance, resolution, or order. For a school district, the  
+| vote on the ordinance, resolution, or order setting a tax rate that  
+| exceeds the sum of the effective _enrichment_ [ ~~maintenance and~~  
+|  ~~operations tax~~ ] rate of the district [ ~~as determined under Section~~  
+|  ~~26.08(i)~~ ] and the district's current debt rate must be a record  
+| vote, and at least 60 percent of the members of the governing body  
+| must vote in favor of the ordinance, resolution, or order. A  
+| motion to adopt an ordinance, resolution, or order setting a tax  
+| rate that exceeds the effective tax rate must be made in the  
+| following form: "I move that the property tax rate be increased by  
+| the adoption of a tax rate of (specify tax rate), which is  
+| effectively a (insert percentage by which the proposed tax rate  
+| exceeds the effective tax rate) percent increase in the tax  
+| rate."  
+|  _(b-1)_ If the ordinance, resolution, or order _adopted by a_  
+| _governing body under Subsection (b)_ sets a tax rate that, if applied  
+| to the total taxable value, will impose an amount of taxes to fund  
+| _the_ maintenance and operation expenditures _or, in the case of a_  
+| _school district, the enrichment expenditures_ of the taxing unit  
+| that exceeds the amount of taxes imposed for that purpose in the  
+| preceding year, the taxing unit must:  
+|  (1) include in the ordinance, resolution, or order in  
+| type larger than the type used in any other portion of the document:  
+|  (A) the following statement: "THIS TAX RATE  
+| WILL RAISE MORE TAXES FOR _(Insert_ MAINTENANCE AND OPERATIONS _or_  
+| _ENRICHMENT, as applicable)_ THAN LAST YEAR'S TAX RATE."; and  
+|  (B) if the tax rate exceeds the effective  
+| maintenance and operations rate _or the effective enrichment rate,_  
+| _as applicable_ , the following statement: "THE TAX RATE WILL  
+| EFFECTIVELY BE RAISED BY (INSERT PERCENTAGE BY WHICH THE TAX RATE  
+| EXCEEDS THE EFFECTIVE MAINTENANCE AND OPERATIONS RATE _OR EFFECTIVE_  
+| _ENRICHMENT RATE, AS APPLICABLE_ ) PERCENT AND WILL RAISE TAXES [ ~~FOR~~  
+|  ~~MAINTENANCE AND OPERATIONS~~ ] ON A $100,000 HOME BY APPROXIMATELY  
+| $(Insert amount)."; and  
+|  (2) include on the home page of any Internet website  
+| operated by the unit:  
+|  (A) the following statement: "(Insert name of  
+| unit) ADOPTED A TAX RATE THAT WILL RAISE MORE TAXES FOR _(Insert_  
+| MAINTENANCE AND OPERATIONS _or ENRICHMENT, as applicable)_ THAN LAST  
+| YEAR'S TAX RATE"; and  
+|  (B) if the tax rate exceeds the effective  
+| maintenance and operations rate _or the effective enrichment rate,_  
+| _as applicable_ , the following statement: "THE TAX RATE WILL  
+| EFFECTIVELY BE RAISED BY (INSERT PERCENTAGE BY WHICH THE TAX RATE  
+| EXCEEDS THE EFFECTIVE MAINTENANCE AND OPERATIONS RATE _OR EFFECTIVE_  
+| _ENRICHMENT RATE, AS APPLICABLE_ ) PERCENT AND WILL RAISE TAXES [ ~~FOR~~  
+|  ~~MAINTENANCE AND OPERATIONS~~ ] ON A $100,000 HOME BY APPROXIMATELY  
+| $(Insert amount)."  
+|  (g) Notwithstanding Subsection (a), the governing body of a  
+| school district that elects to adopt a tax rate before the adoption  
+| of a budget for the fiscal year that begins in the current tax year  
+| may adopt a tax rate for the current tax year before receipt of the  
+| certified appraisal roll for the school district if the chief  
+| appraiser of the appraisal district in which the school district  
+| participates has certified to the assessor for the school district  
+| an estimate of the taxable value of property in the school district  
+| as provided by Section 26.01(e). If a school district adopts a tax  
+| rate under this subsection, the effective tax rate [ ~~and the~~  
+|  ~~rollback tax rate~~ ] of the district shall be calculated based on the  
+| certified estimate of taxable value.  
+|  SECTION 1.62. Sections 26.16(a) and (d), Tax Code, are  
+| amended to read as follows:  
+|  (a) The county assessor-collector for each county that  
+| maintains an Internet website shall post on the website of the  
+| county the following _applicable_ information for the most recent  
+| five tax years [ ~~beginning with the 2012 tax year~~ ] for each taxing  
+| unit all or part of the territory of which is located in the county:  
+|  (1) the adopted tax rate;  
+|  (2) the maintenance and operations rate;  
+|  (3) _the enrichment rate;_  
+|  _(4)_ the debt rate;  
+|  _(5)_ [ ~~(4)~~ ] the effective tax rate;  
+|  _(6)_ [ ~~(5)~~ ] the effective maintenance and operations  
+| rate;  
+|  _(7) the effective enrichment rate;_ and  
+|  _(8)_ [ ~~(6)~~ ] the rollback tax rate.  
+|  (d) The county assessor-collector shall post immediately  
+| below the table prescribed by Subsection (c) the following  
+| statement:  
+|  "The county is providing this table of property tax rate  
+| information as a service to the residents of the county. Each  
+| individual taxing unit is responsible for calculating the property  
+| tax rates listed in this table pertaining to that taxing unit and  
+| providing that information to the county.  
+|  "The adopted tax rate is the tax rate adopted by the governing  
+| body of a taxing unit.  
+|  "The maintenance and operations rate is the component of the  
+| adopted tax rate of a taxing unit _other than a school district_ that  
+| will impose the amount of taxes needed to fund maintenance and  
+| operation expenditures of the unit for the following year.  
+|  _"The enrichment rate is the component of the adopted tax rate_  
+| _of a school district that will impose the amount of taxes needed to_  
+| _fund enrichment expenditures of the school district for the_  
+| _following year._  
+|  "The debt rate is the component of the adopted tax rate of a  
+| taxing unit that will impose the amount of taxes needed to fund the  
+| unit's debt service for the following year.  
+|  "The effective tax rate is the tax rate that would generate  
+| the same amount of revenue in the current tax year as was generated  
+| by a taxing unit's adopted tax rate in the preceding tax year from  
+| property that is taxable in both the current tax year and the  
+| preceding tax year.  
+|  "The effective maintenance and operations rate is the tax  
+| rate that _, if adopted by a taxing unit other than a school district_  
+| _in the current tax year,_ would generate the same amount of revenue  
+| for maintenance and operations in the current tax year as was  
+| generated by _the_ [ ~~a~~ ] taxing unit's maintenance and operations rate  
+| in the preceding tax year from property that is taxable in both the  
+| current tax year and the preceding tax year.  
+|  _"The effective enrichment rate is the tax rate that, if_  
+| _adopted by a school district in the current tax year, would generate_  
+| _the same amount of revenue for enrichment expenditures in the_  
+| _current tax year as was generated by the school district's_  
+| _enrichment rate in the preceding tax year from property that is_  
+| _taxable in both the current tax year and the preceding tax year._  
+|  "The rollback tax rate is the highest tax rate a taxing unit  
+| _other than a school district_ may adopt before requiring voter  
+| approval at an election. _The_ [ ~~In the case of a taxing unit other~~  
+|  ~~than a school district, the~~ ] voters by petition may require that a  
+| rollback election be held if _a taxing unit other than a school_  
+| _district_ [ ~~the unit~~ ] adopts a tax rate in excess of the _taxing_
+unit's  
+| rollback tax rate. [ ~~In the case of a school district, an election~~  
+|  ~~will automatically be held if the district wishes to adopt a tax~~  
+|  ~~rate in excess of the district's rollback tax rate.~~ ]"  
+|  SECTION 1.63. Section 31.01, Tax Code, is amended by  
+| amending Subsection (d-1) and adding Subsection (d-2) to read as  
+| follows:  
+|  (d-1) This subsection applies only to a school  
+| district. In addition to stating the total tax rate for the school  
+| district, the tax bill or the separate statement shall separately  
+| state:  
+|  (1) the _enrichment_ [ ~~maintenance and operations~~ ] rate  
+| of the school district;  
+|  (2) if the school district has outstanding debt, as  
+| defined by Section 26.012, the debt rate of the district;  
+|  (3) the _enrichment_ [ ~~maintenance and operations~~ ] rate  
+| of the school district for the preceding tax year;  
+|  (4) if for the current tax year the school district  
+| imposed taxes for debt, as defined by Section 26.012, the debt rate  
+| of the district for the current tax year;  
+|  (5) if for the preceding tax year the school district  
+| imposed taxes for debt, as defined by Section 26.012, the debt rate  
+| of the district for that year; and  
+|  (6) the total tax rate of the district for the  
+| preceding tax year.  
+|  _(d-2)_ _____For the 2021 tax year, the "total tax rate of the_  
+| _district for the preceding tax year" as required by Subsection_  
+| _(d-1)(6) shall be computed by adding the district's debt rate for_  
+| _the 2020 tax year and the rate of any tax the district imposed for_  
+| _enrichment in the 2020 tax year. This subsection expires January 1,_  
+| _2022._  
+|  SECTION 1.64. Section 312.210(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) A tax abatement agreement with the owner of real  
+| property or tangible personal property that is located in the  
+| reinvestment zone described by Subsection (a) [ ~~and in a school~~  
+|  ~~district that has a wealth per student that does not exceed the~~  
+|  ~~equalized wealth level~~ ] must exempt from taxation:  
+|  (1) the portion of the value of the property in the  
+| amount specified in the joint agreement among the municipality,  
+| county, and junior college district; and  
+|  (2) an amount equal to 10 percent of the maximum  
+| portion of the value of the property that may under Section  
+| 312.204(a) be otherwise exempted from taxation.  
+|  SECTION 1.65. The following provisions are repealed:  
+|  (1) Section 7.055(b)(34), Education Code;  
+|  (2) Section 8.056, Education Code;  
+|  (3) Section 13.054(h), Education Code;  
+|  (4) Section 29.203(g), Education Code;  
+|  (5) Chapter 41, Education Code;  
+|  (6) Sections 42.101(a-1) and (c), Education Code;  
+|  (7) Section 42.158(e), Education Code;  
+|  (8) Section 42.160(b), Education Code;  
+|  (9) Sections 42.2516, 42.2518, and 42.252, Education  
+| Code;  
+|  (10) Section 42.2524(f), Education Code;  
+|  (11) Section 42.2528(b), Education Code;  
+|  (12) Section 42.262, Education Code;  
+|  (13) Section 42.302(f), Education Code;  
+|  (14) Section 45.003(f), Education Code;  
+|  (15) Section 45.105(e), Education Code;  
+|  (16) Section 45.109(d), Education Code;  
+|  (17) Section 45.111(b), Education Code;  
+|  (18) Section 3.005(d), Election Code;  
+|  (19) Section 4.008(b), Election Code;  
+|  (20) Sections 825.405(h) and (i), Government Code;  
+|  (21) Sections 21.02(b) and (c), Tax Code;  
+|  (22) Section 25.25(k), Tax Code;  
+|  (23) Sections 26.012(5) and (12), Tax Code;  
+|  (24) Sections 26.08 and 26.085, Tax Code; and  
+|  (25) Section 312.210(c), Tax Code.  
+|  SECTION 1.66. (a) This article takes effect January 1,  
+| 2021.  
+|  (b) Chapter 42, Education Code, as amended by this article,  
+| applies beginning with the 2021-2022 school year.  
+|  (c) To the extent of any conflict, the repeal by this  
+| article of Section 8.056, Education Code, prevails over another Act  
+| of the 86th Legislature, Regular Session, 2019, relating to the  
+| continuation of regional education service centers.  
+|  (d) The repeal by this article of Chapter 41, Education  
+| Code, does not affect the obligations of a school district under  
+| that chapter, as it existed before repeal by this article, for the  
+| 2020-2021 school year.  
+|  (e) This article does not affect ad valorem taxes imposed  
+| before the effective date of this article, and the law in effect  
+| before the effective date of this article is continued in effect for  
+| purposes of the liability for and collection of those taxes and  
+| penalties and interest on those taxes.  
+| ARTICLE 2. STATE FUNDING FOR PUBLIC EDUCATION  
+|  SECTION 2.01. Section 151.051(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) The sales tax rate is _12_ [ ~~6-1/4~~ ] percent of the sales  
+| price of the taxable item sold.  
+|  SECTION 2.02. Section 151.801, Tax Code, is amended by  
+| amending Subsection (a) and adding Subsection (b-1) to read as  
+| follows:  
+|  (a) Except for the amounts allocated under Subsections (b),  
+| _(b-1),_ (c), and (c-2), all proceeds from the collection of the taxes  
+| imposed by this chapter shall be deposited to the credit of the  
+| general revenue fund.  
+|  _(b-1)_ _____Notwithstanding any other provision of this section,_  
+| _an amount of revenue under this chapter equal to the proceeds, other_  
+| _than the proceeds allocated under Subsection (b), derived from the_  
+| _collection of taxes imposed by this chapter attributable to the_  
+| _portion of the tax rate in excess of 6.25 percent of the sales price_  
+| _of the taxable item sold shall be deposited to the credit of the_  
+| _foundation school fund._  
+|  SECTION 2.03. Section 152.021(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) The tax rate is _12_ [ ~~6-1/4~~ ] percent of the total  
+| consideration.  
+|  SECTION 2.04. Section 152.022(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) The tax rate is _12_ [ ~~6-1/4~~ ] percent of the total  
+| consideration.  
+|  SECTION 2.05. Section 152.023(b-1), Tax Code, is amended to  
+| read as follows:  
+|  (b-1) The tax on a motor vehicle eligible to be issued  
+| exhibition vehicle specialty license plates under Section 504.502,  
+| Transportation Code, is equal to the lesser of $90 or _12_ [ ~~6.25~~ ]  
+| percent of the total consideration.  
+|  SECTION 2.06. Section 152.026(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) The tax rate is _19_ [ ~~10~~ ] percent of the gross rental  
+| receipts from the rental of a rented motor vehicle for 30 days or  
+| less and _12_ [ ~~6-1/4~~ ] percent of the gross rental receipts from the  
+| rental of a rented motor vehicle for longer than 30 days.  
+|  SECTION 2.07. Section 152.028(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) The tax rate is _12_ [ ~~6-1/4~~ ] percent of the total  
+| consideration.  
+|  SECTION 2.08. Section 152.122, Tax Code, is amended to read  
+| as follows:  
+|  Sec. 152.122. ALLOCATION OF TAX. _(a)_ The comptroller shall  
+| deposit the funds received under Section 152.121 [ ~~of this code as~~  
+|  ~~follows:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~1/4 to the credit of the foundation school fund;~~  
+|  ~~and~~  
+|  [ ~~(2) the remaining funds~~] to the credit of the general  
+| revenue fund.  
+|  _(b)_ _____Notwithstanding Subsection (a), the comptroller shall_  
+| _deposit to the credit of the foundation school fund an amount equal_  
+| _to the amount of money that is:_  
+|  _(1)_ _____received by the comptroller under Sections_  
+| _152.043, 152.044, 152.045, 152.046, 152.047, and 152.121;_  
+|  _(2)_ _____derived from the taxes imposed under Sections_  
+| _152.021, 152.022, 152.023, 152.026, and 152.028; and_  
+|  _(3)_ _____attributable to an increase in the rate of a tax_  
+| _described by Subdivision (2) effective October 1, 2020._  
+|  SECTION 2.09. The heading to Section 152.1222, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 152.1222. ALLOCATION OF CERTAIN TAX REVENUE TO  
+| _FOUNDATION SCHOOL_ [ ~~PROPERTY TAX RELIEF~~ ] FUND.  
+|  SECTION 2.10. Section 152.1222(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) Notwithstanding Section 152.122, the comptroller shall  
+| deposit to the credit of the _foundation school fund_ [ ~~property tax~~  
+|  ~~relief fund under Section 403.109, Government Code,~~ ] the amount of  
+| money received under Section 152.121 that is estimated to have been  
+| derived from the computation of the tax imposed by this chapter on  
+| the standard presumptive values of motor vehicles or on percentages  
+| of those values as provided by Section 152.0412.  
+|  SECTION 2.11. Section 154.6035, Tax Code, is amended to  
+| read as follows:  
+|  Sec. 154.6035. ALLOCATION OF CERTAIN REVENUE TO _FOUNDATION_  
+| _SCHOOL_ [ ~~PROPERTY TAX RELIEF~~ ] FUND. Notwithstanding Section  
+| 154.603, all proceeds from the collection of taxes imposed by this  
+| chapter attributable to the portion of the tax rate in excess of  
+| $20.50 per thousand on cigarettes, regardless of weight, shall be  
+| deposited to the credit of the _foundation school fund_ [ ~~property tax~~  
+|  ~~relief fund under Section 403.109, Government Code~~ ].  
+|  SECTION 2.12. The heading to Section 155.2415, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 155.2415. ALLOCATION OF CERTAIN REVENUE TO _FOUNDATION_  
+| _SCHOOL_ [ ~~PROPERTY TAX RELIEF~~ ] FUND AND CERTAIN OTHER FUNDS.  
+|  SECTION 2.13. Section 155.2415(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) Notwithstanding Section 155.241, the proceeds from the  
+| collection of taxes imposed by Section 155.0211 shall be allocated  
+| as follows:  
+|  (1) the amount of the proceeds that is equal to the  
+| amount that, if the taxes imposed by Section 155.0211 were imposed  
+| at a rate of 40 percent of the manufacturer's list price, exclusive  
+| of any trade discount, special discount, or deal, would be  
+| attributable to the portion of that tax rate in excess of 35.213  
+| percent, shall be deposited to the credit of the _foundation school_  
+| _fund_ [ ~~property tax relief fund under Section 403.109, Government~~  
+|  ~~Code~~ ];  
+|  (2) the amount of the proceeds that is equal to the  
+| amount that would be attributable to a tax rate of 35.213 percent of  
+| the manufacturer's list price, exclusive of any trade discount,  
+| special discount, or deal, if the taxes were imposed by Section  
+| 155.0211 at that rate, shall be deposited to the credit of the  
+| general revenue fund; and  
+|  (3) [ ~~100 percent of~~ ] the remaining proceeds shall be  
+| deposited to the credit of:  
+|  (A) the physician education loan repayment  
+| program account established under Subchapter J, Chapter 61,  
+| Education Code; or  
+|  (B) the general revenue fund, if the comptroller  
+| determines that the unencumbered beginning balance of the physician  
+| education loan repayment account established under Subchapter J,  
+| Chapter 61, Education Code, is sufficient to fund appropriations  
+| and other direct and indirect costs from that account for the  
+| fulfillment of existing and expected physician loan repayment  
+| commitments during the current state fiscal biennium.  
+|  SECTION 2.14. The heading to Section 171.4011, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 171.4011. ALLOCATION OF CERTAIN REVENUE TO _FOUNDATION_  
+| _SCHOOL_ [ ~~PROPERTY TAX RELIEF~~ ] FUND.  
+|  SECTION 2.15. Section 171.4011(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) Notwithstanding Section 171.401, [ ~~beginning with the~~  
+|  ~~state fiscal year that begins September 1, 2007,~~ ] the comptroller  
+| shall, for each state fiscal year, deposit to the credit of the  
+| _foundation school fund_ [ ~~property tax relief fund under Section~~  
+|  ~~403.109, Government Code,~~ ] an amount of revenue calculated by:  
+|  (1) determining the revenue derived from the tax  
+| imposed by this chapter as it applied during that [ ~~applicable~~ ]  
+| state fiscal year; and  
+|  (2) subtracting the revenue the comptroller estimates  
+| that the tax imposed by this chapter, as it existed on August 31,  
+| 2007, would have generated if it had been in effect for that  
+| [ ~~applicable~~ ] state fiscal year.  
+|  SECTION 2.16. The following provisions are repealed:  
+|  (1) Section 403.109, Government Code; and  
+|  (2) Section 171.664, Tax Code.  
+|  SECTION 2.17. (a) This article takes effect October 1,  
+| 2020.  
+|  (b) On October 1, 2020, the property tax relief fund is  
+| abolished and the unencumbered balance of that fund is transferred  
+| to the foundation school fund.  
+|  (c) In addition to the substantive changes made by this  
+| article, this article conforms Section 152.122, Tax Code, to the  
+| method of allocating motor vehicle sales and use taxes in effect  
+| before the effective date of this article. Section 11.04, Chapter 4  
+| (S.B. 3), Acts of the 72nd Legislature, 1st Called Session, 1991,  
+| enacted former Section 403.094(h), Government Code, which  
+| abolished certain state fund dedications and resulted in the  
+| abolition of the allocation to the foundation school fund effective  
+| August 31, 1995.  
+|  (d) The changes in law made by this article do not affect tax  
+| liability accruing before the effective date of this article. That  
+| liability continues in effect as if this article had not been  
+| enacted, and the former law is continued in effect for the  
+| collection of taxes due and for civil and criminal enforcement of  
+| the liability for those taxes.
+

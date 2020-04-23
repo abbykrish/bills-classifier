@@ -1,0 +1,46 @@
+| 86R9569 SMT-F  
+---|---  
+|  By: Bailes | H.B. No. 3865  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to calculation of daily production for purposes of the oil  
+| and gas production tax credits for low-producing wells and leases.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 201.059(a)(3), Tax Code, is amended to  
+| read as follows:  
+|  (3) "Qualifying low-producing well" means a gas well  
+| whose production during a three-month period is no more than 90 mcf  
+| per day, excluding gas flared pursuant to the rules of the  
+| commission.  For purposes of qualifying a gas well, production per  
+| well per day is determined by computing the average daily  
+| production from the well using the _greater of the monthly_  
+| _production from the well as reported in the_ monthly well production  
+| _reports_ [ ~~report~~ ] made to the commission _and the monthly production_  
+| _from the well as reported in the producer's reports made to the_  
+| _comptroller under Section 201.203, including any amendments to_  
+| _those reports_.  
+|  SECTION 2. Section 202.058(b), Tax Code, is amended to read  
+| as follows:  
+|  (b) For purposes of qualifying a lease, production per well  
+| per day is determined by computing the average daily per well  
+| production from the lease using the _greater of the monthly_  
+| _production from the well as reported in the_ monthly lease  
+| production _reports_ [ ~~report~~ ] made to the commission _and the monthly_  
+| _production from the well as reported in the producer's reports made_  
+| _to the comptroller under Section 202.201, including any amendments_  
+| _to those reports_.  For purposes of qualifying a lease, production  
+| per well per day is measured by dividing the sum of lease production  
+| during the three-month period by the sum of the number of well-days,  
+| where a well-day is one well producing for one day. The operator of  
+| a lease that is eligible for a credit under this section only on the  
+| basis of Subsection (a)(2)(B) must pay to the comptroller a filing  
+| fee of $100 before the comptroller may authorize the credit.  
+|  SECTION 3. The change in law made by this Act does not  
+| affect tax liability accruing before the effective date of this  
+| Act. That liability continues in effect as if this Act had not been  
+| enacted, and the former law is continued in effect for the  
+| collection of taxes due and for civil and criminal enforcement of  
+| the liability for those taxes.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

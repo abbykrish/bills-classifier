@@ -1,0 +1,96 @@
+| 86R11518 JXC-D  
+---|---  
+|  By: Anderson | H.B. No. 2423  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of the broadband office within the Public  
+| Utility Commission of Texas and the establishment of a broadband  
+| investment grant program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 2, Utilities Code, is amended  
+| by adding Chapter 18 to read as follows:  
+| _CHAPTER 18. BROADBAND OFFICE_  
+|  _Sec. 18.0101. DEFINITIONS. In this chapter:_  
+|  _(1) "Account" means the broadband investment account._  
+|  _(2)_ _____"Broadband" means a mass-market retail service by_  
+| _wire or radio that provides the capability to transmit data to and_  
+| _receive data from all or substantially all Internet endpoints,_  
+| _including capabilities that are incidental to and enable the_  
+| _operation of the service. The term includes a service that is_  
+| _functionally equivalent to the service described by this_  
+| _subdivision. The term does not include dial-up Internet access._  
+|  _(3)_ _____"Grant program" means the program established by_  
+| _the broadband office under Section 18.0104._  
+|  _(4)_ _____"Rural community" means a municipality with a_  
+| _population of less than 50,000 or a county with a population of less_  
+| _than 200,000._  
+|  _Sec._ ___18.0102._ _____OFFICE. (a) The broadband office is an_  
+| _office within the commission._  
+|  _(b)_ _____The commission may employ additional employees_  
+| _necessary for the discharge of the duties of the office._  
+|  _Sec._ ___18.0103._ _____POWERS AND DUTIES. The broadband office_  
+| _shall:_  
+|  _(1)_ _____facilitate and coordinate the efforts of state_  
+| _agencies and local units of government, including regional planning_  
+| _commissions, in connection with the planning and deployment of_  
+| _broadband projects;_  
+|  _(2)_ _____develop broadband investment and deployment_  
+| _strategies for rural communities and other areas of this state that_  
+| _are underserved and unserved with respect to broadband;_  
+|  _(3)_ _____promote and coordinate public sector and private_  
+| _sector broadband solutions in support of statewide broadband_  
+| _development goals;_  
+|  _(4)_ _____assist and promote local and regional broadband_  
+| _planning;_  
+|  _(5)_ _____pursue and obtain federal sources of broadband_  
+| _funding;_  
+|  _(6)_ _____develop a framework to measure broadband access in_  
+| _and designate areas of this state that are underserved and unserved_  
+| _with respect to broadband;_  
+|  _(7)_ _____develop statewide goals for broadband deployment_  
+| _in rural communities and other underserved and unserved areas_  
+| _designated under Subdivision (6);_  
+|  _(8)_ _____manage and award funds allocated to the broadband_  
+| _office for broadband projects; and_  
+|  _(9)_ _____serve as an information clearinghouse in relation_  
+| _to federal programs providing assistance to local entities with_  
+| _respect to broadband._  
+|  _Sec._ ___18.0104._ _____GRANT PROGRAM FOR BROADBAND INVESTMENT_  
+| _PROJECTS. (a) The broadband office shall establish a program to_  
+| _provide grants to public or private entities for projects that_  
+| _stimulate the installation and maintenance of broadband in rural_  
+| _communities and other underserved or unserved areas of this state_  
+| _with respect to broadband._  
+|  _(b)_ _____The commission by rule shall adopt standards for a_  
+| _project eligible to be awarded a grant by the broadband office under_  
+| _this section. In awarding a grant, the office shall consider:_  
+|  _(1) the financial strength of the applicant;_  
+|  _(2) the applicant's business history;_  
+|  _(3) an analysis of the relevant business sector;_  
+|  _(4)_ _____whether there is public or private sector_  
+| _financial support for the project; and_  
+|  _(5) whether there is local support for the project._  
+|  _Sec._ ___18.0105._ _____BROADBAND INVESTMENT ACCOUNT. (a) The_  
+| _broadband investment account is an account in the general revenue_  
+| _fund._  
+|  _(b) The account consists of:_  
+|  _(1)_ _____appropriations of money to the account by the_  
+| _legislature;_  
+|  _(2)_ _____gifts, grants, including federal grants, and other_  
+| _donations received under Section 18.0106; and_  
+|  _(3)_ _____interest earned on the investment of money in the_  
+| _account._  
+|  _(c)_ _____Money in the account may be appropriated only to the_  
+| _broadband office for purposes of the grant program._  
+|  _(d)_ _____The account is exempt from the application of Section_  
+| _404.071, Government Code._  
+|  _Sec._ ___18.0106._ _____GIFTS, GRANTS, AND DONATIONS. The broadband_  
+| _office may accept gifts, grants, and donations from any source that_  
+| _are made for the purposes of the grant program. The broadband_  
+| _office shall deposit to the credit of the account money received_  
+| _under this section._  
+|  _Sec._ ___18.0107._ _____RULEMAKING. The commission by rule shall_  
+| _implement and administer the grant program._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

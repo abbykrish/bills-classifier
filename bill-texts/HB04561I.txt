@@ -1,0 +1,1130 @@
+|  
+---|---  
+|  By: Klick | H.B. No. 4561  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the system redesign for delivery of Medicaid acute care  
+| services and long term services and supports to persons with an  
+| intellectual or developmental disability and a pilot for certain  
+| populations with similar functional needs receiving services in  
+| managed care.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 534.001, Subchapter A, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.001. DEFINITIONS. In this chapter:  
+|  (3) [ ~~"Department" means the Department of Aging and~~  
+|  ~~Disability Services.~~ ] _"Commission" means the Health and Human_  
+| _Services Commission or an agency operating part of the state_  
+| _Medicaid managed care program, as appropriate._  
+|  _(4)_ _____"Comprehensive long term services and supports_  
+| _provider" is defined as a provider of long term services and_  
+| _supports specified under this chapter that ensures the coordinated,_  
+| _seamless provision of the full range of services as approved in_  
+| _participants' program plans as described under Section 534.1045_  
+| _(b), (b-2),(c), and (d). A comprehensive service provider includes:_  
+|  _(A)_ _____an ICF/IID program provider who is authorized_  
+| _to deliver services in the program defined under Section 534.001_  
+| _(8), and_  
+|  _(B)_ _____a Medicaid waiver program provider who is_  
+| _authorized to deliver services in the programs specified under_  
+| _Section 534.001 (12) and certified in accordance with 534.301 (b)._  
+|  [ ~~(4)~~ ] _(5)_ "Functional need" means the measurement of  
+| an individual's services and supports needs, including the  
+| individual's intellectual, psychiatric, medical, and physical  
+| support needs.  
+|  [ ~~(5)~~ ] _(6)_ "Habilitation services" includes assistance  
+| provided to an individual with acquiring, retaining, or improving:  
+|  (A) skills related to the activities of daily  
+| living; and  
+|  (B) the social and adaptive skills necessary to  
+| enable the individual to live and fully participate in the  
+| community.  
+|  [ ~~(6)~~ ] _(7)_ "ICF-IID" means the program under Medicaid  
+| serving individuals with an intellectual or developmental  
+| disability who receive care in intermediate care facilities other  
+| than a state supported living center.  
+|  [ ~~(7)~~ ] _(8)_ "ICF-IID program" means a program under  
+| Medicaid serving individuals with an intellectual or developmental  
+| disability who reside in and receive care from:  
+|  (A) intermediate care facilities licensed under  
+| Chapter 252, Health and Safety Code; or  
+|  (B) community-based intermediate care facilities  
+| operated by local intellectual and developmental disability  
+| authorities.  
+|  [ ~~(8)~~ ] _(9)_ "Local intellectual and developmental  
+| disability authority" has the meaning assigned by Section 531.002,  
+| Health and Safety Code.  
+|  [ ~~(9)~~ ] _(11)_ "Managed care organization," "managed care  
+| plan," and "potentially preventable event" have the meanings  
+| assigned under Section 536.001.  
+|  (10) Repealed by Acts 2015, 84th Leg., R.S., Ch. 1,  
+| Sec. 2.287(17), eff. April 2, 2015.  
+|  [ ~~(11)~~ ] _(12)_ "Medicaid waiver program" means only the  
+| following programs that are authorized under Section 1915(c) of the  
+| federal Social Security Act (42 U.S.C. Section 1396n(c)) for the  
+| provision of services to persons with an intellectual or  
+| developmental disability:  
+|  (A) the community living assistance and support  
+| services (CLASS) waiver program;  
+|  (B) the home and community-based services (HCS)  
+| waiver program;  
+|  (C) the deaf-blind with multiple disabilities  
+| (DBMD) waiver program; and  
+|  (D) the Texas home living (TxHmL) waiver program.  
+|  _(13)_ _____"Residential Services" means services provided_  
+| _for an individual with intellectual or developmental disability in_  
+| _a community-based ICF/IID, a three or four persons home and host_  
+| _home/companion service offered through the 1915(c) home and_  
+| _community-based waiver services program, or a group home in the_  
+| _Deaf Blind Multiple Disabilities program._  
+|  [ ~~(12)~~ ] _(14)_ "State supported living center" has the  
+| meaning assigned by Section 531.002, Health and Safety Code.  
+|  SECTION 2. Section 534.051, Subchapter B, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.051. ACUTE CARE SERVICES AND LONG-TERM SERVICES  
+| AND SUPPORTS SYSTEM FOR INDIVIDUALS WITH AN INTELLECTUAL OR  
+| DEVELOPMENTAL DISABILITY. In accordance with this chapter, the  
+| commission [ ~~and the department~~ ] shall [ ~~jointly~~ ] design and  
+| implement an acute care services and long-term services and  
+| supports system for individuals with an intellectual or  
+| developmental disability that supports the following goals:  
+|  (1) provide Medicaid services to more individuals in a  
+| cost-efficient manner by providing the type and amount of services  
+| most appropriate to the individuals' needs _and preferences in the_  
+| _most integrated and least restrictive setting_ ;  
+|  SECTION 3. Section 534.052, Subchapter B, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.052. IMPLEMENTATION OF SYSTEM REDESIGN. The  
+| commission [ ~~and department~~ ] shall, in consultation _and_  
+| _collaboration_ with the advisory committee, [ ~~jointly~~ ] implement the  
+| acute care services and long-term services and supports system for  
+| individuals with an intellectual or developmental disability in the  
+| manner and in the stages described in this chapter.  
+|  SECTION 4. Section 534.053, Subchapter B, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.053. INTELLECTUAL AND DEVELOPMENTAL DISABILITY  
+| SYSTEM REDESIGN ADVISORY COMMITTEE. (a) The Intellectual and  
+| Developmental Disability System Redesign Advisory Committee shall  
+| advise the commission [ ~~and the department~~ ] on the implementation of  
+| the acute care services and long-term services and supports system  
+| redesign under this chapter. Subject to Subsection (b), the  
+| executive commissioner [ ~~and the commissioner of aging and~~  
+|  ~~disability services~~ ] shall [ ~~jointly~~ ] appoint members of the  
+| advisory committee who are stakeholders from the intellectual and  
+| developmental disabilities community, including:  
+|  (b) To the greatest extent possible, the executive  
+| commissioner [ ~~and the commissioner of aging and disability~~  
+|  ~~services~~ ] shall appoint members of the advisory committee who  
+| reflect the geographic diversity of the state and include members  
+| who represent rural Medicaid recipients.  
+|  (e-1) The advisory committee may establish work groups that  
+| meet at other times for purposes of studying and making  
+| recommendations on issues the committee considers appropriate.  
+|  [(g) ~~On January 1, 2026:~~  
+|  ~~(1) the advisory committee is abolished ; and~~  
+|  ~~(2) this section expires~~].  
+|  (g) On the [ ~~one year]~~ _two-year_ anniversary of the date the  
+| commission completes implementation of the transition required  
+| under Section 534.202:  
+|  (1) the advisory committee is abolished; and  
+|  (2) this section expires.  
+|  SECTION 5. Section 534.054, Subchapter B, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.054. ANNUAL REPORT ON IMPLEMENTATION.  
+|  (b) _On the two-year anniversary of the date the commission_  
+| _completes implementation of the transition required under Section_  
+| _534.202 this_ [ ~~This~~ ] section expires [ ~~January 1, 2026~~ ].  
+|  SECTION 6. Section 534.101, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.101. _Pilot Program Workgroup_ [ ~~DEFINITIONS~~ ]. _In_  
+| _accordance with Section 534.053 (e-1), for puposes of_ [ ~~In~~ ] this  
+| subchapter _the advisory committee shall establish a h Workgroup_  
+| _that includes representatives from the advisory committee,_  
+| _stakeholders representing individuals with an intellectual and_  
+| _developmental disability, individuals with similar functional_  
+| _needs, and the STAR+PLUS managed care organizations_. [ ~~:~~ ]  
+|  ~~[(1)~~ ~~~~ ~~~~ ~~"Capitation" means a method of compensating a~~  
+|  ~~provider on a monthly basis for providing or coordinating the~~  
+|  ~~provision of a defined set of services and supports that is based on~~  
+|  ~~a predetermined payment per services recipient.~~ ]  
+|  ~~[(2)~~ ~~~~ ~~~~ ~~"Provider" means a person with whom the~~  
+|  ~~commission contracts for the provision of long-term services and~~  
+|  ~~supports under Medicaid to a specific population based on~~  
+|  ~~capitation.~~ ]  
+|  SECTION 7. Section 534.102, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.102. PILOT PROGRAM [ ~~S]~~ TO TEST _PERSON-CENTERED_  
+| MANAGED CARE STRATEGIES _AND IMPROVEMENTS_ BASED ON CAPITATION. The  
+| commission [ ~~and the department may]~~ _,in consultation and_  
+| _collaboration with the advisory committee and Pilot Program_  
+| _Workgroup, shall_ develop and implement _a_ pilot program[ ~~s~~ ] in  
+| accordance with this subchapter to test _, through the STAR+PLUS_  
+| _Medicaid managed care program, the delivery of_ [ ~~one or more service~~  
+|  ~~delivery models involving~~ ] _long term services and supports_ [ ~~a~~  
+|  ~~managed care strategy based on capitation to deliver long-term~~  
+|  ~~services and supports under Medicaid~~ ] to individuals [ ~~with an~~  
+|  ~~intellectual or developmental disability~~ ] _specified under Section_  
+| _534.1065._  
+|  SECTION 8. Section 534.103, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.103. STAKEHOLDER INPUT. As part of developing and  
+| implementing a pilot program under this subchapter, the  
+| [ ~~department~~ ] _commission, in consultation and collaboration with_  
+| _the advisory committee and Pilot Program Workgroup,_ shall develop a  
+| process to receive and evaluate input from statewide stakeholders  
+| and stakeholders from the _STAR+PLUS service area_ [ ~~region~~ ] of the  
+| state in which the pilot program will be implemented _and other_  
+| _evaluations and data_.  
+|  SECTION 9. Chaoter 534, Government Code is amended to add  
+| new Section 534.1035, SELECTION OF MANAGED CARE ORGANIZATION  
+| VENDORS, to read as follows:  
+|  _Sec.534.1035._ _____SELECTON OF MANAGED CARE ORGANIZATION PILOT_  
+| _VENDORS. (a) The commission shall select and contract with no more_  
+| _than two managed care organizations contracted to provide services_  
+| _under the STAR+PLUS Medicaid managed care program to participate in_  
+| _the pilot._  
+|  _(b)_ _____The commission, in consultation and collaboration with_  
+| _the advisory committee and Pilot Program Workgroup, shall develop_  
+| _criteria regarding the selection of managed care organizations to_  
+| _conduct the pilot program._  
+|  SECTION 10. Section 534.104, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.104. _PILOT DESIGN_ [ ~~MANAGED CARE STRATEGY~~  
+|  ~~PROPOSALS; PILOT PROGRAM SERVICE PROVIDERS~~ ].  
+|  [ ~~(a)~~ ~~~~ ~~~~ ~~The department, in consultation and collaboration
+with~~  
+|  ~~the advisory committee, shall identify private services providers~~  
+|  ~~or managed care organizations that are good candidates to develop a~~  
+|  ~~service delivery model involving a managed care strategy based on~~  
+|  ~~capitation and to test the model in the provision of long-term~~  
+|  ~~services and supports under Medicaid to individuals with an~~  
+|  ~~intellectual or developmental disability through a pilot program~~  
+|  ~~established under this subchapter~~ ].  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~The department shall solicit managed care strategy~~  
+|  ~~proposals from the private services providers and managed care~~  
+|  ~~organizations identified under Subsection (a). In addition, the~~  
+|  ~~department may accept and approve a managed care strategy proposal~~  
+|  ~~from any qualified entity that is a private services provider or~~  
+|  ~~managed care organization if the proposal provides for a~~  
+|  ~~comprehensive array of long-term services and supports, including~~  
+|  ~~case management and service coordination.~~ ]  
+|  [ ~~(c)~~ ] _(a)_ [ ~~A managed care strategy based on capitation~~  
+|  ~~developed for implementation through a~~ ] _The_ pilot program under  
+| this subchapter must be designed to:  
+|  (1) increase access to long-term services and  
+| supports;  
+|  (2) improve quality of acute care services and  
+| long-term services and supports;  
+|  (3) promote _informed choice and_ meaningful outcomes by  
+| using person-centered planning, _flexible consumer directed_  
+| _services,_ individualized budgeting, and self-determination, and  
+| promote community inclusion _and engagement_ ;  
+|  (4) promote integrated service coordination of acute  
+| care services and long-term services and supports;  
+|  (5) promote efficiency and the best use of funding  
+| _based on the individual's needs and preferences_ ;  
+|  (6) promote [ ~~the placement of an individual in~~ ]  
+| housing _stability through housing supports and navigation services_  
+| that is the _most integrated_ and least restrictive setting  
+| appropriate to the individual's needs _and preferences_ ;  
+|  (7) promote employment assistance and customized,  
+| integrated, and competitive employment;  
+|  (8) provide fair hearing and appeals processes in  
+| accordance with applicable federal _and state law_ ; and  
+|  (9) promote sufficient flexibility to achieve the  
+| goals listed in this section through the pilot program [ ~~.]~~ _;_  
+|  _(10)_ _____promote the use of innovative technology and_  
+| _benefits, including telemonitoring and testing of remote_  
+| _monitoring for individuals participating in the pilot. The remote_  
+| _monitoring and telemonitoring is voluntary and shall ensure an_  
+| _individual's privacy and health and welfare and allow access to_  
+| _housing in the most integrated and least restrictive environment._  
+| _Innovations may include transportation and other innovations that_  
+| _support community integration. If a pilot participant voluntarily_  
+| _decides to use telemonitoring or remote monitoring or other_  
+| _innovative technologies, the managed care organization providing_  
+| _the pilot services shall deliver the telemonitoring, remote_  
+| _monitoring and/or innovative technology services in a way that:_  
+|  _(A)_ _____assesses individual needs and preferences in_  
+| _a manner that promotes autonomy, self-determination, consumer_  
+| _directed services, privacy and increases personal independence;_  
+|  _(B)_ _____determines the extent in which remote_  
+| _monitoring, telemedicine and other innovative technologies will be_  
+| _used, including but not limited to, times of day, where the_  
+| _equipment can be used, what types of telemonitoring and/or remote_  
+| _monitoring, for what tasks;_  
+|  _(C)_ _____is identified and agreed to through the_  
+| _person centered planning process;_  
+|  _(D)_ _____ensures the staff overseeing remote_  
+| _monitoring, telemedicine and other innovative technologies review_  
+| _person-centered plans and implementation plans of each individual_  
+| _they are monitoring prior to monitoring that individual and_  
+| _demonstrate competency regarding the support needs of each_  
+| _individual they are monitoring; and_  
+|  _(E)_ _____ensures an individual can request to remove_  
+| _the remote monitoring and other innovative technology equipment at_  
+| _any point during the IDD pilot and the managed care organizations_  
+| _must remove the equipment immediately._  
+|  _(F)_ _____ensures individuals can choose not to use_  
+| _telemedicine at any point during participation in the pilot and_  
+| _that the pilot participating managed care organization must arrange_  
+| _for services that do not require the use of telemedicine._  
+|  _(11)_ _____ensure an adequate provider network that includes_  
+| _comprehensive long term services and supports providers as_  
+| _described in Section 534.001 (4) and Section 534.107 (a)(2) and_  
+| _choice from among these providers;_  
+|  _(12)_ _____ensure timely initiation and consistent_  
+| _provision of long term services and supports in accordance with an_  
+| _individual's person centered care plan;_  
+|  _(13)_ _____ensure individuals with complex behavioral,_  
+| _medical and physical needs receive services based on assessed needs_  
+| _and in the most integrated, least restrictive setting according to_  
+| _the each individual's needs and preferences;_  
+|  _(14)_ _____increase, expand flexibility and promote use of_  
+| _the consumer directed services model ; and_  
+|  _(15)_ _____promote independence, self-determination,_  
+| _consumer directed services and decision making by using_  
+| _alternatives to guardianship, including supported decision-making_  
+| _agreements under Chapter 1357, Estates Code._  
+|  _(b)_ _____The pilot program shall be designed to test innovations_  
+| _and payment models for the provision of long-term services and_  
+| _supports to achieve the goals outlined in subsection (a) utilizing_  
+| _methods such as:_  
+|  _(1)_ _____payment of a bundled amount without downside risk_  
+| _to a long term services and supports provider for some or all_  
+| _services delivered as part of a comprehensive array of long term_  
+| _services and supports;_  
+|  _(2)_ _____enhanced incentive payments to providers of long_  
+| _term services and supports based on meeting pre-determined outcome_  
+| _or quality metrics; and_  
+|  _(3)_ _____any other payment models approved by the_  
+| _commission._  
+|  _(c)_ _____The alternative payment rates or methodologies tested_  
+| _under subsection (b) must be agreed to in writing by the managed_  
+| _care organization and participating long term services and supports_  
+| _provider. In developing the alternative payment rates or_  
+| _methodologies, the parties must utilize:_  
+|  _(1)_ _____the historical costs of long term services and_  
+| _supports, including Medicaid fee-for-service rates; and_  
+|  _(2)_ _____reasonable cost estimates for new pilot program_  
+| _services; and_  
+|  _(3)_ _____whether alternative payment rates or_  
+| _methodologies are sufficient to ensure the provider's continued_  
+| _participation in the pilot program and promote quality outcomes._  
+|  _(d)_ _____For long term services and supports delivered under the_  
+| _pilot, the alternative payment models tested under subsection (b)_  
+| _shall not reduce the minimum payment to providers below the current_  
+| _fee for service reimbursement rates._  
+|  _(e)_ _____The pilot program must allow existing providers of_  
+| _long-term services and supports for persons with intellectual and_  
+| _developmental disabilities, as defined in Section 534.001 (4), and_  
+| _providers of long term services and supports for persons with_  
+| _similar functional needs to voluntarily participate in one or more_  
+| _pilot projects. Failure to participate in a pilot project does not_  
+| _affect the contracting status of any provider as a significant_  
+| _traditional provider._  
+|  ~~[(d)~~ ~~~~ ~~~~ ~~The department, in consultation and collaboration
+with~~  
+|  ~~the advisory committee, shall evaluate each submitted managed care~~  
+|  ~~strategy proposal and determine whether:~~  
+|  ~~(1)~~ ~~~~ ~~~~ ~~the proposed strategy satisfies the requirements~~  
+|  ~~of this section; and~~  
+|  ~~(2)~~ ~~~~ ~~~~ ~~the private services provider or managed care~~  
+|  ~~organization that submitted the proposal has a demonstrated ability~~  
+|  ~~to provide the long-term services and supports appropriate to the~~  
+|  ~~individuals who will receive services through the pilot program~~  
+|  ~~based on the proposed strategy, if implemented.]~~  
+|  ~~[(e)~~ ~~~~ ~~~~ ~~Based on the evaluation performed under Subsection~~  
+|  ~~(d), the department may select as pilot program service providers~~  
+|  ~~one or more private services providers or managed care~~  
+|  ~~organizations with whom the commission will contract.]~~  
+|  (f) [ ~~For each pilot program service provider, the~~  
+|  ~~department__shall develop and implement a pilot program.~~ ] Under a  
+| pilot program, the [ ~~pilot program service provider~~ ] the  
+| _participating managed care organizations_ shall provide long-term  
+| services and supports under Medicaid to persons with an  
+| intellectual or developmental disability _, and other individuals_  
+| _with disabilities with similar functional needs,_ to test its  
+| managed care strategy based on capitation.  
+|  (g) The [ ~~department~~ ] _commission_ , in consultation and  
+| collaboration with the advisory committee _and Pilot Program_  
+| _Workgroup_ , shall analyze information provided by the [ ~~pilot program~~  
+|  ~~service providers~~ ] _participating managed care organizations_ and  
+| any information collected by the [ ~~department~~ ] _commission_ during the  
+| operation of the pilot program[ ~~s~~ ] for purposes of making a  
+| recommendation about a system of programs and services for  
+| implementation through future state legislation or rules.  
+|  (h) The analysis under Subsection (g) must include an  
+| assessment of the effect of the managed care strategies implemented  
+| in the pilot program[ ~~s~~ ] _on the goals specified under Subsections_  
+| _(a), (b), (c) and (d)._ [ ~~:~~ ]  
+|  [ ~~(1) access to long-term services and supports;~~  
+|  ~~(2)~~ ~~~~ ~~~~ ~~the quality of acute care services and long-term~~  
+|  ~~services and supports;~~  
+|  ~~(3)~~ ~~~~ ~~~~ ~~meaningful outcomes using person-centered~~  
+|  ~~planning, individualized budgeting, and self-determination,~~  
+|  ~~including a person's inclusion in the community;~~  
+|  ~~(4)~~ ~~~~ ~~~~ ~~the integration of service coordination of acute~~  
+|  ~~care services and long-term services and supports;~~  
+|  ~~(5) the efficiency and use of funding;~~  
+|  ~~(6)~~ ~~~~ ~~~~ ~~the placement of individuals in housing that is~~  
+|  ~~the least restrictive setting appropriate to an individual's needs;~~  
+|  ~~(7)~~ ~~~~ ~~~~ ~~employment assistance and customized, integrated,~~  
+|  ~~competitive employment options; and~~  
+|  ~~(8)~~ ~~~~ ~~~~ ~~the number and types of fair hearing and appeals~~  
+|  ~~processes in accordance with applicable federal law.]~~  
+|  _(i)_ _____Prior to implementation of the pilot program, the_  
+| _commission, in consultation and collaboration with the advisory_  
+| _committee and Pilot Program Workgroup, shall develop a process to_  
+| _ensure 12 months continuous Medicaid eligibility for pilot_  
+| _participants._  
+|  SECTION 11. Chapter 534, Government Code is amended to add  
+| new section 534.1045, _PILOT BENEFITS AND PROVIDER QUALIFICATIONS_ as  
+| follows:  
+|  _Sec._ ___534.1045._ _____PILOT BENEFITS AND PROVIDER QUALIFICATIONS._  
+| _(a) The pilot program must ensure that participating managed care_  
+| _organizations provide:_  
+|  _(1)_ _____all Medicaid state plan acute care benefits_  
+| _available under the STAR+PLUS program;_  
+|  _(2)_ _____long term services and supports in the Medicaid_  
+| _state plan, including:_  
+|  _(A) Community First Choice services;_  
+|  _(B) Personal Assistant services;_  
+|  _(C) Day Activity Health Services;_  
+|  _(D)_ _____Habilitation services defined under Section_  
+| _534/001 (6);_  
+|  _(3)_ _____long term services and supports in the STAR+PLUS_  
+| _home and community-based services waiver, including:_  
+|  _(A) assisted living_  
+|  _(B) personal assistance services;_  
+|  _(C) employment assistance;_  
+|  _(D) supported employment;_  
+|  _(E) adult foster care;_  
+|  _(F) dental care;_  
+|  _(G) nursing care;_  
+|  _(H) respite care;_  
+|  _(I) home-delivered meals;_  
+|  _(J) cogniticve rehabilitative therapy;_  
+|  _(K) physical therapy;_  
+|  _(L) occupational therapy;_  
+|  _(M) speech-language pathology;_  
+|  _(N) medical supplies;_  
+|  _(O) minor home modifcations;_  
+|  _(P) adaptive aids;_  
+|  _(4)_ _____long term services and supports available in the_  
+| _Medicaid waiver programs defined in Section 534.001 (12),_  
+| _including:_  
+|  _(A) enhanced behavioral health services;_  
+|  _(B) behavioral supports;_  
+|  _(C) day habilitation;_  
+|  _(D) community support transporation;_  
+|  _(5)_ _____additional long term services and supports,_  
+| _including:_  
+|  _(A) housing supports;_  
+|  _(B) behavioral health crisis intervention;_  
+|  _(C) high medical needs services; and_  
+|  _(6)_ _____Other non-residential long term services and_  
+| _supports the commission, in consultation and coordination with the_  
+| _advisory committee and Pilot Program Workgroup, determines_  
+| _appropriate and consistent with the regulations governing the 1915_  
+| _(c) waiver programs defined in Section 534.001 (12),_  
+| _person-centered approaches, home and community-based settings_  
+| _requirements, and the most integrated and least restrictive setting_  
+| _according to an individual's needs and preferences._  
+|  _(b)_ _____A comprehensive long term services and supports_  
+| _provider is authorized to deliver services listed under under_  
+| _subsections (a)(2)(A), (a)(2)(D), (a)(3)(B), (a)(3)(C), (a)(3)(D),_  
+| _(a)(3)(G), (a)(3)(H), (a)(3)(J), (a)(3)(K), (a)(3)(L), (a)(3)(M),_  
+| _and (a)(3)(4),if they also deliver the service in a Medicaid waiver_  
+| _defined under Section 534.001 (12)._  
+|  _(b-2)_ _____A comprehensive long term services and supports_  
+| _provider may deliver services under subsections (a)(5) and (a)(6)_  
+| _if agreed to under contract with the pilot participating managed_  
+| _care organization._  
+|  _(c)_ _____Day habilitation services under (a)(4)(c) may be_  
+| _delivered by a provider who is contracted or subcontracted under a_  
+| _1915 (c) Medicaid waiver as defined under Section 534.001 (12) or an_  
+| _ICF/IID program as defined under Section 534.001 (8)._  
+|  _(d)_ _____A comprehensive long term services and supports_  
+| _provider works in consultation with the pilot participating managed_  
+| _care organization's care coordinators to ensure the seamless_  
+| _delivery of acute care and long term services and supports on a_  
+| _day-to-day basis in accordance with an individual's plan of care_  
+| _and may be reimbursed by the managed care organization for this_  
+| _coordination._  
+|  _(e)_ _____Prior to implementation of the pilot program, the_  
+| _commission, in consultation and collaboration with the advisory_  
+| _committee and Pilot Program Workgroup, shall:_  
+|  _(1)_ _____develop recommendations to modify, for the pilot_  
+| _program only, the Adult Foster Care, Supported Employment and_  
+| _Employment Assistance benefits to ensure increased access to and_  
+| _availability of this service, and_  
+|  _(2)_ _____as needed, definitions for services described_  
+| _under subsection (a)(4) and (5), and any services added under_  
+| _subsection (6)._  
+|  SECTION 12. Section 534.105, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.105. PILOT PROGRAM: MEASURABLE GOALS. (a) The  
+| [ ~~department~~ ] _commission_ , in consultation _and collaboration_ with  
+| the advisory committee _and Pilot Program Workgroup_ , shall identify  
+| measurable goals _using National Core Indicators, National Quality_  
+| _Forum LTSS measures and other appropriate CAHPS measures_ to be  
+| achieved by [ ~~each~~ ] _the_ pilot program implemented under this  
+| subchapter. [ ~~The identified goals must:~~  
+|  ~~(1)~~ ~~~~ ~~~~ ~~align with information that will be collected~~  
+|  ~~under Section 534.108(a); and~~  
+|  ~~(2)~~ ~~~~ ~~~~ ~~be designed to improve the quality of outcomes for~~  
+|  ~~individuals receiving services through the pilot program.~~ ]  
+|  (b) The [ ~~department~~ ] _commission_ , in consultation _and_  
+| _collaboration_ with the advisory committee _and Pilot Program_  
+| _Workgroup_ , shall [ ~~propose~~ ] _develop_ specific strategies _and_  
+| _performance measures_ for achieving the identified goals. A proposed  
+| strategy may be evidence-based if there is an evidence-based  
+| strategy available for meeting the pilot program's goals.  
+|  _(c)_ _____The commission, in consultation and collaboration with_  
+| _the advisory committee and Pilot Program Workgroup, shall ensure_  
+| _that the mechanisms to report, track and assess the specific_  
+| _strategies and performance measures for achieving the identified_  
+| _goals are established prior to implementation of the pilot program._  
+|  SECTION 13. Section 534.106, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.106. IMPLEMENTATION, LOCATION, AND DURATION. (a)  
+| The commission [ ~~and the department~~ ] shall implement [ ~~any~~ ] _the_
+pilot  
+| program[ ~~s~~ ] established under this subchapter [ ~~not later than~~ ]
+_on_  
+| September 1, [ ~~2017~~ ] _2023._  
+|  (b) A pilot program established under this subchapter [ ~~may~~ ]  
+| _shall_ operate for _at least_ [ ~~up to~~ ] 24 months. [ ~~A pilot program
+may~~  
+|  ~~cease operation if the pilot program service provider terminates~~  
+|  ~~the contract with the commission before the agreed-to termination~~  
+|  ~~date.~~ ]  
+|  (c) A pilot program established under this subchapter shall  
+| be conducted in [ ~~one or more~~ ] the _STAR+PLUS_ _service area_ [
+~~regions~~ ]  
+| selected by the [ ~~department~~ ] _commission_.  
+|  SECTION 14. Section 534.1065, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.1065. RECIPIENT _ENROLLMENT_ , PARTICIPATION _AND_  
+| _ELIGIBILITY_ [ ~~IN PROGRAM VOLUNTARY~~ ]. _(a) Enrollment_  
+| [ ~~Participation~~ ]in a pilot program established under this  
+| subchapter by an individual [ ~~with an intellectual or developmental~~  
+|  ~~disability~~ ] _shall occur using an opt-out process_ [ ~~is voluntary,~~  
+|  ~~and~~ ] _with_ the decision whether to participate in a program and  
+| receive long-term services and supports from a provider through  
+| that program [ ~~may~~ ] _to_ be made only by the individual or the  
+| individual's legally authorized representative.  
+|  _(1)_ _____The commission, in consultation and collaboration_  
+| _with the advisory committee and Pilot Program Workgroup, shall_  
+| _develop a timeline and process for and informational materials_  
+| _related to educating pilot participants about the pilot including_  
+| _its benefits, impact on current services and other related_  
+| _information to ensure prospective pilot participants are able to_  
+| _make an informed decision regarding participation. The process must_  
+| _ensure:_  
+|  _(A)_ _____the timeline for development and_  
+| _distribution of the pilot informational materials allows for_  
+| _sufficient advance notification to and education of individuals_  
+| _eligible for pilot participation, their families and other_  
+| _individuals actively involved in their lives;_  
+|  _(B)_ _____individuals eligible for pilot_  
+| _participation, including new and current STAR+PLUS enrollees and_  
+| _other individuals specified in subsection (a) (1) (A), receive oral_  
+| _and written information about the pilot prior to participation,_  
+|  _(C)_ _____the information provided is written in clear,_  
+| _simple language and presented in a manner individuals are able to_  
+| _understand and, at a minimum, explains that:_  
+|  _(i)_ _____upon conclusion of the pilot,_  
+| _individuals will be requested to provide input on their pilot_  
+| _participation experience, including whether the pilot was able to_  
+| _meet their unique support needs;_  
+|  _(ii)_ _____participation in the pilot does not_  
+| _remove individuals from any Interest List or, in accordance with_  
+| _Section 534.1065 (c), the right to select an enrollment, transition_  
+| _or diversion offer; and_  
+|  _(iii)_ _____individuals have choice among acute_  
+| _care and long term services providers, including the consumer_  
+| _directed services model and the comprehensive services model._  
+|  _(b)_ _____The commission, in consultation and coordination with_  
+| _the advisory committee and Pilot Program Workgroup, shall develop_  
+| _pilot program participant eligibility criteria. The criteria must_  
+| _ensure pilot participants include:_  
+|  ( _1)_ _____individuals with an intellectual and_  
+| _developmental disability including autism and individuals with_  
+| _significant complex behavioral, medical and physical needs_  
+| _receiving home and community-based services through STAR+PLUS or a_  
+| _STAR+PLUS member who is also on a Medicaid Waiver Interest List or_  
+| _is a STAR+PLUS member meeting criteria for intellectual_  
+| _disabilities. It does not include individuals who are receiving_  
+| _only acute care services under STAR+PLUS and enrolled in the_  
+| _community-based ICF/IID program or one of the Medicaid waiver_  
+| _programs defined under Section 534.001 (12)._  
+|  _(2)_ _____individuals receiving services under the_  
+| _STAR+PLUS Medicaid managed care program who have a traumatic brain_  
+| _injury that occurred after the age of 22; and_  
+|  _(3)_ _____other individuals with disabilities who have_  
+| _similar functional needs independent of age of onset or diagnosis._  
+|  _(c)_ _____Individuals participating in the pilot who, during the_  
+| _pilot's implementation, are offered enrollment in one of the 1915_  
+| _(c) Medicaid waiver programs defined under Section 534.001 (12)_  
+| _shall be eligible to accept the enrollment, transition or diversion_  
+| _offer._  
+|  SECTION 15. Section 534.107, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.107. [ ~~COORDINATING SERVICES~~ ] _COMMISSION_  
+| _RESPONSIBILTIES_. _(a)_ [ ~~In providing long-term services and supports~~  
+|  ~~under Medicaid to individuals with an intellectual or developmental~~  
+|  ~~disability,~~ ] _The commission_ [ ~~a pilot program service provider~~ ]  
+| shall _require managed care organizations participating in the pilot_  
+| _program to:_  
+|  (1) _ensure individuals participating in the pilot have_  
+| _choice among acute care and comprehensive long term services and_  
+| _supports providers and service delivery options including the_  
+| _consumer directed services model as specified under Section_  
+| _534.109._ [ ~~coordinate through the pilot program institutional and~~  
+|  ~~community-based services available to the individuals, including~~  
+|  ~~services provided through:~~  
+|  ~~(A)~~ ~~~~ ~~~~ ~~a facility licensed under Chapter 252, Health~~  
+|  ~~and Safety Code;~~  
+|  ~~(B) a Medicaid waiver program; or~~  
+|  ~~(C)~~ ~~~~ ~~~~ ~~a community-based ICF-IID operated by local~~  
+|  ~~authorities~~ ] ;  
+|  (2) _demonstrate to the satisfaction of the commission_  
+| _that their network of acute care, long term services and supports_  
+| _and comprehensive service providers have experience and expertise_  
+| _providing services for individuals with an intellectual or_  
+| _developmental disability and individuals with similar functional_  
+| _needs;_  
+|  ~~[collaborate with managed care organizations to provide~~  
+|  ~~integrated coordination of acute care services and long-term~~  
+|  ~~services and supports, including discharge planning from acute care~~  
+|  ~~services to community-based long-term services and supports];~~  
+|  (3) have a process for preventing inappropriate  
+| institutionalizations of individuals; and  
+|  (4) _ensure timely initiation and consistent provision_  
+| _of services in accordance with an individual's person-centered plan_  
+|  ~~[accept the risk of inappropriate institutionalizations of~~  
+|  ~~individuals previously residing in community settings]~~.  
+|  _(b)_ _____For the duration of the pilot the commission must ensure_  
+| _that comprehensive long term services and supports providers as_  
+| _defined under Section 534.001(4) are deemed significant_  
+| _traditional providers and included in the provider network of the_  
+| _managed care organizations participating in the pilot._  
+|  SECTION 16. Section 534.108, Subchapter C., Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Section 534.108. Pilot Program Information. (a) The  
+| commission [ ~~and the department~~ , _in consultation and coordination_  
+| _with the advisory committee and Pilot Program Workgroup,_ shall  
+| _determine the information to be collected from each managed care_  
+| _organization participating in the pilot for use in the evaluation_  
+| _and reports required under Section 534.121._ [ ~~collect and compute~~  
+|  ~~the following information with respect to each pilot program~~  
+|  ~~implemented under this subchapter to the extent it is available:]~~  
+|  _(b)_ _____For the duration of the pilot each managed care_  
+| _organization participating in the pilot shall submit to the_  
+| _commission and the advisory committee a quarterly report on the_  
+| _services provided to each pilot participant that includes the_  
+| _following information:_  
+|  _(A)_ _____the level of services requested, and the_  
+| _authorization and utilization rates of services for each pilot_  
+| _service;_  
+|  _(B)_ _____timeliness of services requested,_  
+| _authorized, initiated, and number and duration of unplanned service_  
+| _breaks;_  
+|  _(C)_ _____number of pilot participants using_  
+| _employment assistance and supported employment services;_  
+|  _(D)_ _____number of service denials and fair hearings,_  
+| _and disposition of fair hearings;_  
+|  _(E)_ _____number of complaints and inquiries received_  
+| _by the commission and managed care organizations participating in_  
+| _the pilot and the outcome of the complaints; and_  
+|  _(F)_ _____number of participants who select the_  
+| _consumer directed services model and reasons participants did not_  
+| _select the service model._  
+|  _(c)_ _____The commission shall ensure that the mechanisms to_  
+| _report and track the information and data required in subsections_  
+| _(a) and (b) are established prior to implementation of the pilot_  
+| _program._  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the difference between the average monthly cost~~  
+|  ~~per person for all acute care services and long-term services and~~  
+|  ~~supports received by individuals participating in the pilot program~~  
+|  ~~while the program is operating, including services provided through~~  
+|  ~~the pilot program and other services with which pilot program~~  
+|  ~~services are coordinated as described by Section 534.107, and the~~  
+|  ~~average monthly cost per person for all services received by the~~  
+|  ~~individuals before the operation of the pilot program;~~  
+|  ~~(2)~~ ~~~~ ~~~~ ~~the percentage of individuals receiving services~~  
+|  ~~through the pilot program who begin receiving services in a~~  
+|  ~~nonresidential setting instead of from a facility licensed under~~  
+|  ~~Chapter 252, Health and Safety Code, or any other residential~~  
+|  ~~setting;~~  
+|  ~~(3)~~ ~~~~ ~~~~ ~~the difference between the percentage of~~  
+|  ~~individuals receiving services through the pilot program who live~~  
+|  ~~in non-provider-owned housing during the operation of the pilot~~  
+|  ~~program and the percentage of individuals receiving services~~  
+|  ~~through the pilot program who lived in non-provider-owned housing~~  
+|  ~~before the operation of the pilot program;~~  
+|  ~~(4)~~ ~~~~ ~~~~ ~~the difference between the average total Medicaid~~  
+|  ~~cost, by level of need, for individuals in various residential~~  
+|  ~~settings receiving services through the pilot program during the~~  
+|  ~~operation of the program and the average total Medicaid cost, by~~  
+|  ~~level of need, for those individuals before the operation of the~~  
+|  ~~program;~~  
+|  ~~(5)~~ ~~~~ ~~~~ ~~the difference between the percentage of~~  
+|  ~~individuals receiving services through the pilot program who obtain~~  
+|  ~~and maintain employment in meaningful, integrated settings during~~  
+|  ~~the operation of the program and the percentage of individuals~~  
+|  ~~receiving services through the program who obtained and maintained~~  
+|  ~~employment in meaningful, integrated settings before the operation~~  
+|  ~~of the program;~~  
+|  ~~(6)~~ ~~~~ ~~~~ ~~the difference between the percentage of~~  
+|  ~~individuals receiving services through the pilot program whose~~  
+|  ~~behavioral, medical, life-activity, and other personal outcomes~~  
+|  ~~have improved since the beginning of the program and the percentage~~  
+|  ~~of individuals receiving services through the program whose~~  
+|  ~~behavioral, medical, life-activity, and other personal outcomes~~  
+|  ~~improved before the operation of the program, as measured over a~~  
+|  ~~comparable period; and~~  
+|  ~~(7)~~ ~~~~ ~~~~ ~~a comparison of the overall client satisfaction~~  
+|  ~~with services received through the pilot program, including for~~  
+|  ~~individuals who leave the program after a determination is made in~~  
+|  ~~the individuals' cases at hearings or on appeal, and the overall~~  
+|  ~~client satisfaction with services received before the individuals~~  
+|  ~~entered the pilot program.~~  
+|  ~~(b)~~ ~~~~ ~~~~ ~~The pilot program service provider shall collect any~~  
+|  ~~information described by Subsection (a) that is available to the~~  
+|  ~~provider and provide the information to the department and the~~  
+|  ~~commission not later than the 30th day before the date the program's~~  
+|  ~~operation concludes.~~  
+|  ~~(c)~~ ~~~~ ~~~~ ~~In addition to the information described by
+Subsection~~  
+|  ~~(a), the pilot program service provider shall collect any~~  
+|  ~~information specified by the department for use by the department~~  
+|  ~~in making an evaluation under Section 534.104(g).~~  
+|  ~~(d)~~ ~~~~ ~~~~ ~~The commission and the department, in consultation
+and~~  
+|  ~~collaboration with the advisory committee, shall review and~~  
+|  ~~evaluate the progress and outcomes of each pilot program~~  
+|  ~~implemented under this subchapter and submit, as part of the annual~~  
+|  ~~report to the legislature required by Section 534.054, a report to~~  
+|  ~~the legislature during the operation of the pilot programs. Each~~  
+|  ~~report must include recommendations for program improvement and~~  
+|  ~~continued implementation.]~~  
+|  SECTION 17. Section 534.109, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.109. PERSON-CENTERED PLANNING. The commission, in  
+| _consultation and collaboration_ [ ~~cooperation]~~ with the [
+~~department]~~  
+| _advisory committee and Pilot Program Workgroup_ , shall ensure that  
+| each individual[ ~~with an intellectual or developmental disability~~ ]  
+| who receives services and supports under Medicaid through a pilot  
+| program established under this subchapter, or the individual's  
+| legally authorized representative, has access to a _comprehensive_  
+| facilitated, person-centered plan that identifies outcomes for the  
+| individual and drives the development of the individualized budget.  
+| The consumer _directed service_ s[ ~~direction~~ ] model, as defined by  
+| Section 531.051, [ ~~may be an outcome of the plan]~~ _must be an_  
+| _available option for individuals to achieve self-determination,_  
+| _choice and control._  
+|  SECTION 18. Section 534.110, Subchapter C., Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.110. TRANSITION BETWEEN PROGRAMS _;_ _CONTINUITY OF_  
+| _SERVICES._ (a) _During the evaluation of the pilot required under_  
+| _Section 534.121,_ [ ~~The]~~ _the_ commission _may continue the pilot to_  
+| _protect continuity of care. If the commission determines not to_  
+| _continue the pilot during the evaluation, the commission, in_  
+| _consultation and collaboration with the advisory committee and_  
+| _Pilot Program Workgroup,_ shall ensure that there is a comprehensive  
+| plan for transitioning the provision of Medicaid benefits _provided_  
+| _to pilot_ _participants to the services provided before the pilot._  
+| [ ~~between a Medicaid waiver program or an ICF-IID program and a pilot~~  
+|  ~~program under this subchapter to protect continuity of care.]~~  
+|  (b) The transition plan shall be developed in consultation  
+| and collaboration with the advisory committee and with stakeholder  
+| input as described by Section 534.103.  
+|  SECTION 19. Section 534.111, Subchapter C, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.111. CONCLUSION OF PILOT PROGRAM[ ~~S~~ ]; EXPIRATION.  
+| _Contingent on the decision made under Section 534.110_ , [ ~~On~~ ] _on_  
+| September 1, [ ~~2019]~~ _2025_ :  
+|  (1) [ ~~each~~ ] _the_ pilot program established under this  
+| subchapter [ ~~that is still in operation~~ ] _either continues_ or must  
+| conclude _._ ~~[; and~~  
+|  ~~(2) this subchapter expires.~~]  
+|  SECTION 21. Chapter 534, Government Code,is amended to add  
+| new Subchapter C-1 to read as follows: _SUBCHAPTER_ _C-1. PILOT_  
+| _EVALUATION AND REPORT_  
+|  _Section_ ___534.121._ _____EVALUATION OF AND REPORT ON PILOT PROGRAM._  
+| _(a) The commission, in consultation and collaboration with the_  
+| _advisory committee and Pilot Program Workgroup, shall review and_  
+| _evaluate the progress and outcomes of the pilot program implemented_  
+| _under Subchapter C of this Chapter and submit, as part of the annual_  
+| _report required by Section 534.054, a report on the status of the_  
+| _pilot program. The report must include recommendations for program_  
+| _improvement._  
+|  _(b)_ _____Upon conclusion of the pilot program required under_  
+| _Subchapter C, the commission, in consultation and collaboration_  
+| _with the advisory committee and Pilot Program Workgroup, shall_  
+| _evaluate the pilot program and prepare and submit a report to the_  
+| _legislature based on a comprehensive analysis of the pilot._  
+|  _(c) The comprehensive analysis must:_  
+|  _(1)_ _____include an assessment of the effect of the pilot_  
+| _on:_  
+|  _(A)_ _____access to and improved quality of long-term_  
+| _services and supports;_  
+|  _(B)_ _____informed choice and meaningful outcomes_  
+| _using person-centered planning, flexible consumer directed_  
+| _services, individualized budgeting, and self-determination,_  
+| _including a person's inclusion in the community;_  
+|  _(C)_ _____the integration of service coordination of_  
+| _acute care services and long-term services and supports;_  
+|  _(D)_ _____employment assistance and customized,_  
+| _integrated, competitive employment options;_  
+|  _(E)_ _____the number, types and dispositions of fair_  
+| _hearing and appeals processes in accordance with applicable federal_  
+| _and state law;_  
+|  _(F)_ _____increasing use and flexibility of the_  
+| _consumer directed service model;_  
+|  _(G)_ _____increasing use of alternatives to_  
+| _guardianship, including supported decision-making agreements under_  
+| _Chapter 1357, Estates Code;_  
+|  _(H)_ _____achieving cost effectiveness and best use of_  
+| _funding based on individuals' needs and preferences; and_  
+|  _(I) attendant recruitment and retention;_  
+|  _(2)_ _____provide an analysis of the experience and outcome_  
+| _of the following systems changes:_  
+|  _(A)_ _____the IDD assessment tool required under_  
+| _Chapter 533, Subchapter B, Section 533.0335, Health and Safety_  
+| _Code;_  
+|  _(B) the 21st Century Cures Act;_  
+|  _(C)_ _____implementation of the federal HCBS Settings_  
+| _regulations; and_  
+|  _(D)_ _____the provision of basic attendant and_  
+| _habilitation services required under Section 534.152 of this_  
+| _Chapter, and_  
+|  _(E)_ _____the benefits of providing STAR+PLUS services_  
+| _to persons based on functional needs;_  
+|  _(3)_ _____include input from the individuals with_  
+| _intellectual and developmental disabilities and participants of_  
+| _similar functional needs, families and other individuals actively_  
+| _involved in the lives of the individuals; and providers of long term_  
+| _services and supports programs defined under Section 534.001 (8)_  
+| _and (12) who participated in the pilot about their experiences;_  
+|  _(4)_ _____be incorporated into the annual report to the_  
+| _legislature required under Section 534.054; and_  
+|  _(5)_ _____include recommendations about a system of programs_  
+| _and services for consideration by the legislature, including_  
+| _recommendations for needed statutory changes and whether to_  
+| _transition the pilot to a statewide program under the STAR+PLUS_  
+| _program for individuals who meet the eligibility criteria specified_  
+| _in Section 534.1065._  
+|  SECTION 22. The heading to Subchapter E, Chapter 534,  
+| Government Code, is amended to read as follows: SUBCHAPTER E. STAGE  
+| TWO: TRANSITION OF _ICF-IID PROGRAM RECIPIENTS AND_ LONG-TERM CARE  
+| MEDICAID WAIVER PROGRAM RECIPIENTS TO INTEGRATED MANAGED CARE  
+| SYSTEM  
+|  SECTION 23. Section 534.201, Subchapter E, Chapter 534,  
+| Government Code, is repealed:  
+|  [ ~~Sec. 534.201. TRANSITION OF RECIPIENTS UNDER TEXAS HOME~~  
+|  ~~LIVING (TxHmL) WAIVER PROGRAM TO MANAGED CARE PROGRAM.~~ ] [(a)[ ~~This~~  
+|  ~~section applies to individuals with an intellectual or~~  
+|  ~~developmental disability who are receiving long-term services and~~  
+|  ~~supports under the Texas home living (TxHmL) waiver program on the~~  
+|  ~~date the commission implements the transition described by~~  
+|  ~~Subsection (b).]~~  
+|  ~~[(b)~~ ~~~~ ~~~~ ~~On September 1, 2020, the commission shall
+transition~~  
+|  ~~the provision of Medicaid benefits to individuals to whom this~~  
+|  ~~section applies to the STAR + PLUS Medicaid managed care program~~  
+|  ~~delivery model or the most appropriate integrated capitated managed~~  
+|  ~~care program delivery model, as determined by the commission based~~  
+|  ~~on cost-effectiveness and the experience of the STAR + PLUS~~  
+|  ~~Medicaid managed care program in providing basic attendant and~~  
+|  ~~habilitation services and of the pilot programs established under~~  
+|  ~~Subchapter C, subject to Subsection (c)(1).]~~  
+|  ~~[(c)~~ ~~~~ ~~~~ ~~At the time of the transition described by
+Subsection~~  
+|  ~~(b), the commission shall determine whether to:~~  
+|  ~~(1)~~ ~~~~ ~~~~ ~~continue operation of the Texas home living~~  
+|  ~~(TxHmL) waiver program for purposes of providing supplemental~~  
+|  ~~long-term services and supports not available under the managed~~  
+|  ~~care program delivery model selected by the commission; or~~  
+|  ~~(2)~~ ~~~~ ~~~~ ~~provide all or a portion of the long-term services~~  
+|  ~~and supports previously available under the Texas home living~~  
+|  ~~(TxHmL) waiver program through the managed care program delivery~~  
+|  ~~model selected by the commission.]~~  
+|  ~~[(d)~~ ~~~~ ~~~~ ~~In implementing the transition described by
+Subsection~~  
+|  ~~(b), the commission, in consultation and collaboration with the~~  
+|  ~~advisory committee, shall develop a process to receive and evaluate~~  
+|  ~~input from interested statewide stakeholders.]~~  
+|  ~~[(e)~~ ~~~~ ~~~~ ~~The commission, in consultation and collaboration
+with~~  
+|  ~~the advisory committee, shall ensure that there is a comprehensive~~  
+|  ~~plan for transitioning the provision of Medicaid benefits under~~  
+|  ~~this section that protects the continuity of care provided to~~  
+|  ~~individuals to whom this section applies.]~~  
+|  ~~[(f)~~ ~~~~ ~~~~ ~~In addition to the requirements of Section 533.005,
+a~~  
+|  ~~contract between a managed care organization and the commission for~~  
+|  ~~the organization to provide Medicaid benefits under this section~~  
+|  ~~must contain a requirement that the organization implement a~~  
+|  ~~process for individuals with an intellectual or developmental~~  
+|  ~~disability that:~~  
+|  ~~(1)~~ ~~~~ ~~~~ ~~ensures that the individuals have a choice of~~  
+|  ~~providers;~~  
+|  ~~(2)~~ ~~~~ ~~~~ ~~to the greatest extent possible, protects those~~  
+|  ~~individuals' continuity of care with respect to access to primary~~  
+|  ~~care providers, including the use of single-case agreements with~~  
+|  ~~out-of-network providers; and~~  
+|  ~~(3)~~ ~~~~ ~~~~ ~~provides access to a member services phone line~~  
+|  ~~for individuals or their legally authorized representatives to~~  
+|  ~~obtain information on and assistance with accessing services~~  
+|  ~~through network providers, including providers of primary,~~  
+|  ~~specialty, and other long-term services and supports~~ ].  
+|  [( ~~g)]~~ ~~~~ ~~~~ ~~[The commission, in consultation and collaboration~~  
+|  ~~with the advisory committee, shall analyze the outcomes of the~~  
+|  ~~transition of the long-term services and supports under the Texas~~  
+|  ~~home living (TxHmL) Medicaid waiver program to a managed care~~  
+|  ~~program delivery model.]~~ [ ~~The analysis must:]~~  
+|  ~~[(1)~~ ~~~~ ~~~~ ~~include an assessment of the effect of the~~  
+|  ~~transition on:]~~  
+|  ~~[(A) access to long-term services and supports;~~]  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~meaningful outcomes using person-centered~~  
+|  ~~planning, individualized budgeting, and self-determination,~~  
+|  ~~including a person's inclusion in the community;~~  
+|  ~~[(C)~~ ~~~~ ~~~~ ~~the integration of service coordination of~~  
+|  ~~acute care services and long-term services and supports;]~~  
+|  [ ~~(D)~~ ~~~~ ~~~~ ~~employment assistance and customized,~~  
+|  ~~integrated, competitive employment options; and~~ ]  
+|  ~~[(E)~~ ~~~~ ~~~~ ~~the number and types of fair hearing and~~  
+|  ~~appeals processes in accordance with applicable federal law;~~ ]  
+|  [( ~~2)~~ ~~~~ ~~~~ ~~be incorporated into the annual report to the~~  
+|  ~~legislature required under Section 534.054; and~~ ]  
+|  ( ~~3)~~ ~~~~ ~~~~ ~~include recommendations for improvements to the~~  
+|  ~~transition implementation for consideration by the legislature,~~  
+|  ~~including recommendations for needed statutory changes.~~ ]  
+|  SECTION 24. Section 534.202, Subchapter E, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.202. _DETERMINATION TO_ TRANSITION [ ~~OF~~ ] ICF-IID  
+| PROGRAM RECIPIENTS AND CERTAIN [ ~~OTHER~~ ] MEDICAID WAIVER PROGRAM  
+| RECIPIENTS TO MANAGED CARE PROGRAM. (a) This section applies to  
+| individuals with an intellectual or developmental disability who  
+|  [ ~~, on the date the commission implements the transition~~  
+|  ~~described by Subsection (b),~~ ] are receiving long-term services and  
+| supports under:  
+|  (1) a Medicaid waiver program _as defined under Section_  
+| _534.001 (12)_ [ ~~other than the Texas home living (TxHmL) waiver~~  
+|  ~~program~~ ]; or  
+|  (2) an ICF-IID program.  
+|  (b) After implementing the _pilot_ [ ~~transition~~ ] required by  
+| _Subchapter C of this Chapter, completing the evaluation required_  
+| _under Section 534.121, and subject to subsection (g)_ [ ~~on September~~  
+|  ~~1, 2021~~ ], the commission, _in consultation and collaboration with_  
+| _the advisory committee,_ shall _develop a plan for the transition of_  
+| _all or a portion of the services provided through the programs_  
+| _defined in Sections 534.001 (8) and (12) which were not included in_  
+| _the pilot under Subchapter C. The plan must include:_  
+|  _(1)_ _____The process for transitioning the services in the_  
+| _programs defined in Sections 534.001 (8) and (12) in a phased-in_  
+| _manner as follows:_  
+|  _(A) Texas Home Living;_  
+|  _(B) CLASS;_  
+|  _(C)_ _____non-residential services provided through_  
+| _the 1915 (c) Home and Community-based Services and DBMD waivers;_  
+| _and_  
+|  _(D)_ _____subject to subsection (b) (3), the_  
+| _residential services offered through the ICF/IID program and the_  
+| _HCS and DBMD waiver programs._  
+|  _(2)_ _____With the exception of the residential services_  
+| _provided through the programs specified in subsection (b) (1)(D),_  
+| _the schedule for transitioning the services and individuals into_  
+| _managed care must occur in the order specified under subsection_  
+| _(b)(1)beginning with TxHmL on September 1, 2027; CLASS on September_  
+| _1, 2029,; and the non-residential services provided through the_  
+| _Home and Community-based services and DBMD waivers on September 1,_  
+| _2031._  
+|  _(3)_ _____The process for evaluating the feasibility and_  
+| _cost efficiency of transitioning the residential services offered_  
+| _through the ICF/IID program and the HCS and DBMD waiver programs,_  
+| _and, as appropriate, transitioning to the managed care program._  
+|  _(A)_ _____The process for determining the transition of_  
+| _the residential services must be based on an evaluation of a two_  
+| _year pilot._  
+| [ ~~transition the provision of Medicaid benefits to individuals to~~  
+|  ~~whom this section applies to the STAR + PLUS Medicaid managed care~~  
+|  ~~program delivery model or the most appropriate integrated capitated~~  
+|  ~~managed care program delivery model, as determined by the~~  
+|  ~~commission based on cost-effectiveness and the experience of the~~  
+|  ~~transition of Texas home living (TxHmL) waiver program recipients~~  
+|  ~~to a managed care program delivery model under Section 534.201~~  
+|  ~~subject to Subsections (c)(1) and (g).]~~  
+|  (c) [ ~~At the time of~~ ] _Prior to_ the transition [ ~~described by~~ ]  
+| _dates specified under_ Subsection (b) _(2)_ and subject to subsection  
+| (g), the commission shall determine whether to:  
+|  (1) continue operation of the Medicaid waiver programs  
+| only for purposes of providing, if applicable:  
+|  (A) supplemental long-term services and supports  
+| not available under the managed care program delivery model  
+| selected by the commission; or  
+|  (B) long term services and supports to Medicaid  
+| waiver program recipients who choose to continue receiving benefits  
+| under the waiver programs who choose to continue receiving benefits  
+| under the waiver program as provided by Subsection (g); or  
+|  (2) subject to Subsection (g), provide all or a  
+| portion of the long-term services and supports previously available  
+| under the Medicaid waiver programs through the managed care program  
+| delivery model selected by the commission.  
+|  (d) In implementing the transition described by Subsection  
+| (b) _(2)_ , the commission shall develop a process to receive and  
+| evaluate input from interested statewide stakeholders that is in  
+| addition to the input provided by the advisory committee.  
+|  (e) The commission shall ensure that there is a  
+| comprehensive plan for transitioning the provision of Medicaid  
+| benefits under this section that protects the continuity of care  
+| provided to individuals to whom this section applies _and ensures_  
+| _individuals have a choice among acute care and comprehensive long_  
+| _term services and supports providers and service delivery options_  
+| _including the consumer directed services model as specified under_  
+| _Subsection (i)_.  
+|  (f) Before transitioning the provision of Medicaid benefits  
+| for children under this section, a managed care organization  
+| providing services under the managed care program delivery model  
+| selected by the commission must demonstrate to the satisfaction of  
+| the commission that the organization's network of providers has  
+| experience and expertise in the provision of services to children  
+| with an intellectual or developmental disability. Before  
+| transitioning the provision of Medicaid benefits for adults with an  
+| intellectual or developmental disability under this section, a  
+| managed care organization providing services under the managed care  
+| program delivery model selected by the commission must demonstrate  
+| to the satisfaction of the commission that the organization's  
+| network of providers has experience and expertise in the provision  
+| of services to adults with an intellectual or developmental  
+| disability.  
+|  (g) If the commission determines that all or a portion of  
+| the long-term services and supports previously available under the  
+| Medicaid waiver programs should be provided through a managed care  
+| program delivery model under Subsection (c)(1), the commission  
+| shall, at the time of the transition, allow each recipient  
+| receiving long-term services and supports under a Medicaid waiver  
+| program the option of:  
+|  (1) continuing to receive the services and supports  
+| under the Medicaid waiver program; or  
+|  (2) receiving the services and supports through the  
+| managed care program delivery model selected by the commission.  
+|  (h) A recipient who chooses to receive long-term services  
+| and supports through a managed care program delivery model under  
+| Subsection (g) may not, at a later time, choose to receive the  
+| services and supports under a Medicaid waiver program.  
+|  (i) In addition to the requirements of Section 533.005, a  
+| contract between a managed care organization and the commission for  
+| the organization to provide Medicaid benefits under this section  
+| must contain a requirement that the organization implement a  
+| process for individuals with an intellectual or developmental  
+| disability that:  
+|  (1) ensures that the individuals have a choice among  
+| acute care _and comprehensive long term services and supports_  
+| providers _and service delivery options including the consumer_  
+| _directed services model;_  
+|  (2) to the greatest extent possible, protects those  
+| individuals' continuity of care with respect to access to primary  
+| care providers, including the use of single-case agreements with  
+| out-of-network providers; and  
+|  (3) provides access to a member services phone line  
+| for individuals or their legally authorized representatives to  
+| obtain information on and assistance with accessing services  
+| through network providers, including providers of primary,  
+| specialty, and other long-term services and supports.  
+|  SECTION 25. Section 534.203, Subchapter E, Chapter 534,  
+| Government Code, is amended to read as follows:  
+|  Sec. 534.203. RESPONSIBILITIES OF COMMISSION UNDER  
+| SUBCHAPTER. In administering this subchapter, the commission shall  
+| ensure _that upon a determination to transition services in the_  
+| _programs defined under Sections 534.001 (8) and (12)_ :  
+|  (1) that the commission is responsible for setting the  
+| minimum reimbursement rate paid to a provider of ICF-IID services  
+| or a group home provider under the integrated managed care system,  
+| including the staff rate enhancement paid to a provider of ICF-IID  
+| services or a group home provider;  
+|  (2) that an ICF-IID service provider or a group home  
+| provider is paid not later than the 10th day after the date the  
+| provider submits a clean claim in accordance with the criteria used  
+| by the department for the reimbursement of ICF-IID service  
+| providers or a group home provider, as applicable; and  
+|  (3) the establishment of an electronic portal through  
+| which a provider of ICF-IID services or a group home provider  
+| participating in the STAR + PLUS Medicaid managed care program  
+| delivery model or the most appropriate integrated capitated managed  
+| care program delivery model, as appropriate, may submit long-term  
+| services and supports claims to any participating managed care  
+| organization [ ~~.~~ ] _; and_  
+|  _(4)_ _____that each individual with an intellectual or_  
+| _developmental disability and the individual's legally authorized_  
+| _representative has access to a comprehensive facilitated,_  
+| _person-centered plan that identifies outcomes for the individual._  
+| _The consumer directed services model must be promoted as an_  
+| _available option for individuals to achieve self-determination,_  
+| _choice and control._  
+|  SECTION 26. Chapter 534, Government Code, is amended to add  
+| Subchapter F. to read as follows:  
+| _SUBCHAPTER F. OTHER IMPLEMENTATION REQUIREMENTS AND_  
+| _RESPONSIBILITIES UNDER THIS CHAPTER_  
+|  _Sec._ ___534.301._ _____IMPLEMENTATION AND RESPONSIBILITIES UNDER_  
+| _THIS CHAPTER. (a) The commission is authorized to delay_  
+| _implementation of this Chapter or its subchapters without further_  
+| _investigation or adjustments or legislative intervention, if it_  
+| _determines any provision under the Chapter or other related mandate_  
+| _or initiative integral to implementation adversely affects the_  
+| _system of services and supports to persons and programs to which the_  
+| _Chapter applies._  
+|  _(b)_ _____For purpose of the pilot under Subchpater C. of this_  
+| _Chapter and any subsequent transition of recipients receiving_  
+| _services under certain Medicaid waiver programs defined under_  
+| _Section 534.001 (12) to a managed care program as specified under_  
+| _Section 534.202 (c), the commission must:_  
+|  _(1)_ _____maintain a certification process and regulatory_  
+| _oversight of Texas Home Living and Home and Community-based_  
+| _Services providers; and_  
+|  _(2)_ _____require managed care organizations include in_  
+| _their network of qualified long term services and supports_  
+| _providers certified Texas Home Living and Home and Community-based_  
+| _Services providers that specialize in services for persons with_  
+| _intellectual disabilities._  
+|  _(c)_ _____Subject to Section 534.202 (b) and (c), upon a decision_  
+| _to transition the long term services and supports under a Medicaid_  
+| _waiver program defined under Section 534.001 (12), the commission_  
+| _shall ensure individuals do not lose the benefits they are_  
+| _receiving through these Medicaid waiver programs._  
+|  _(d)_ _____For purposes of the pilot under Subchapter C. and any_  
+| _future transition of services specified under Section 534.202 into_  
+| _the STAR+PLUS program, the comprehensive long term services and_  
+| _supports provider defined in Section 534.001 (4):_  
+|  _(1)_ _____must report encounters of any directly contracted_  
+| _services to the managed care organization; provide quarterly_  
+| _reporting of coordinated services and timeframes to the managed_  
+| _care organization, and provide quarterly progress on goals and_  
+| _objectives set by an individual's person centered plan; and_  
+|  _(2)_ _____will not be held accountable for the provision of_  
+| _services on an individual's service plan for which a managed care_  
+| _organization denies or does not authorize access to in a timely_  
+| _manner._  
+|  SECTION 27. If before implementing any provision of this  
+| Act a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 28. _If the Health and Human Services Commission_  
+| _determines that it is cost effective, the commission shall apply_  
+| _for and actively seek a waiver or authorization from the_  
+| _appropriate federal agency to allow the state to provide medical_  
+| _assistance under the waiver or authorization to medically fragile_  
+| _individuals;_  
+|  _(1) Who are at least 21 years of age; and_  
+|  _(2)_ _____Whose costs to receive care exceed cost limits_  
+| _under existing Medicaid waiver programs._  
+|  SECTION 29. This act takes effect September 1, 2019.
+

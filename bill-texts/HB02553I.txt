@@ -1,0 +1,46 @@
+| 86R7223 BRG-D  
+---|---  
+|  By: King of Parker | H.B. No. 2553  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to regulation of mergers and consolidations of power  
+| generation companies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 39.158, Utilities Code, is amended by  
+| amending Subsection (a) and adding Subsections (a-1) and (a-2) to  
+| read as follows:  
+|  (a) _A power generation company_ [ ~~An owner of electric~~  
+|  ~~generation facilities~~ ] that offers electricity for sale in _a power_  
+| _region open to customer choice_ [ ~~the state~~ ] and proposes _a_  
+| _transaction_ to merge, consolidate, or otherwise become affiliated  
+| with another _power generation company_ [ ~~owner of electric generation~~  
+|  ~~facilities~~ ] that offers electricity for sale in _the same power_  
+| _region_ [ ~~this state~~ ] shall obtain the approval of the commission  
+| before closing if the _merged, consolidated, or affiliated entity_  
+| _would own or control more than 10_ [ ~~electricity offered for sale in~~  
+|  ~~the power region by the merged, consolidated, or affiliated entity~~  
+|  ~~will exceed one~~ ] percent of the total _installed generation capacity_  
+| _located in, or capable of delivering electricity to,_ [ ~~electricity~~  
+|  ~~for sale in~~ ] the power region.  
+|  _(a-1) An_ [ ~~The~~ ] approval _required by Subsection (a) must_  
+| [ ~~shall~~ ] be requested at least 120 days before the date of the  
+| proposed closing _of the transaction_.  
+|  _(a-2)_ The commission shall approve _a_ [ ~~the~~ ] transaction  
+| _described by Subsection (a)_ unless the commission finds that the  
+| transaction results in a violation of Section 39.154.  If the  
+| commission finds that the transaction as proposed would violate  
+| Section 39.154, the commission may condition approval of the  
+| transaction on adoption of reasonable modifications to the  
+| transaction as prescribed by the commission to mitigate potential  
+| market power abuses.  
+|  SECTION 2. Section 39.158(a), Utilities Code, as amended by  
+| this Act, and Sections 39.158(a-1) and (a-2), Utilities Code, as  
+| added by this Act, apply only to a request for an approval of a  
+| transaction received by the Public Utilities Commission of Texas on  
+| or after the effective date of this Act.  A request for an approval  
+| received by that commission before the effective date of this Act is  
+| governed by the law in effect immediately before the effective date  
+| of this Act, and that law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

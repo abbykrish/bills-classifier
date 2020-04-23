@@ -1,0 +1,67 @@
+| 86R973 ATP-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 778  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the provision of notice by the Texas Ethics Commission.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 571, Government Code, is  
+| amended by adding Section 571.033 to read as follows:  
+|  _Sec._ ___571.033._ _____NOTIFICATION PROCEDURES. (a) Except as_  
+| _provided by Subsection (b), the commission may adopt rules_  
+| _prescribing how the commission will notify any person or provide_  
+| _any notice required by this subtitle, Chapter 305, or Title 15,_  
+| _Election Code._  
+|  _(b)_ _____Subsection (a) does not authorize the commission to_  
+| _adopt rules prescribing how the commission will notify any person_  
+| _or provide any notice required by Subchapter E or F of this chapter_  
+| _or how the commission will issue a warning of liability under_  
+| _Section 254.042(b), Election Code._  
+|  SECTION 2. The heading to Section 572.030, Government Code,  
+| is amended to read as follows:  
+|  Sec. 572.030. PREPARATION [ ~~AND MAILING~~ ] OF FORMS _; NOTICE OF_  
+| _FILING REQUIREMENTS_.  
+|  SECTION 3. Sections 572.030(b), (c), and (d), Government  
+| Code, are amended to read as follows:  
+|  (b) The commission shall _notify_ [ ~~mail to~~ ] each individual  
+| required to file under this subchapter _of_ [ ~~a notice that~~ ]:  
+|  (1) _the requirement_ [ ~~states~~ ] that the individual [ ~~is~~  
+|  ~~required to~~ ] file a financial statement under this subchapter;  
+|  (2) [ ~~identifies~~ ] the filing dates for the financial  
+| statement as provided by Sections 572.026 and 572.027; _and_  
+|  (3) [ ~~describes~~ ] the manner in which the individual may  
+| _electronically file the financial statement and access_  
+| _instructions for filing financial statements on_ [ ~~obtain the~~  
+|  ~~financial statement forms and instructions from~~ ] the commission's  
+| Internet website[ ~~;~~  
+|  [ ~~(4)~~ ~~~~ ~~~~ ~~states that on request of the individual, the~~  
+|  ~~commission will mail to the individual a copy of the financial~~  
+|  ~~statement forms and instructions; and~~  
+|  [ ~~(5)~~ ~~~~ ~~~~ ~~states, if applicable, the fee for mailing the~~  
+|  ~~forms and instructions and the manner in which the individual may~~  
+|  ~~pay the fee~~ ].  
+|  (c) _Except as provided by commission rule, the notification_  
+| [ ~~The notice~~ ] required by Subsection (b) must be _provided_ [
+~~mailed~~ ]:  
+|  (1) before the 30th day before the deadline for filing  
+| the financial statement under Section 572.026(a) or (c), except as  
+| otherwise provided by this subsection;  
+|  (2) not later than the 15th day after the applicable  
+| deadline for filing an application for a place on the ballot or a  
+| declaration of write-in candidacy for candidates required to file  
+| under Section 572.027(a), (b), or (c);  
+|  (3) not later than the seventh day after the date of  
+| appointment for individuals required to file under Section  
+| 572.026(b), or if the legislature is in session, sooner if  
+| possible; and  
+|  (4) not later than the fifth day after the date the  
+| certificate of nomination is filed for candidates required to file  
+| under Section _572.027(d)_ [ ~~574.027(d)~~ ].  
+|  (d) _Except as provided by commission rule, the_ [ ~~The~~ ]  
+| commission shall mail a copy of the financial statement forms and  
+| instructions to an individual not later than the third business day  
+| after the date the commission receives the individual's request for  
+| the forms and instructions.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,50 @@
+| 86R7634 TSR-F  
+---|---  
+|  By: Moody | H.B. No. 3528  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Internet domain name used by a website that sells  
+| tickets to events.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle B, Title 10, Business & Commerce Code,  
+| is amended by adding Chapter 327 to read as follows:  
+| _CHAPTER 327. INTERNET WEBSITE DOMAIN NAMES FOR TICKET SELLERS_  
+|  _Sec. 327.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Internet domain name" means a globally unique,_  
+| _hierarchical reference to an Internet host or service that is:_  
+|  _(A)_ _____assigned through a centralized Internet_  
+| _naming authority; and_  
+|  _(B)_ _____composed of a series of character strings_  
+| _separated by periods with the right-most string specifying the top_  
+| _of the hierarchy._  
+|  _(2)_ _____"Ticket website" means an Internet website_  
+| _advertising or offering the sale of tickets, or offering tickets_  
+| _for resale, to an event in this state._  
+|  _(3)_ _____"Venue" means an arena, stadium, theater, concert_  
+| _hall, or other place used for events such as an exhibition or a_  
+| _concert performance._  
+|  _(4)_ _____"Website operator" means a person who owns,_  
+| _operates, or controls a ticket website for an event scheduled at a_  
+| _venue in this state._  
+|  _Sec._ ___327.002._ _____TICKET WEBSITE DOMAIN NAME RESTRICTED. (a)_  
+| _Except as provided by Subsection (b), a website operator may not_  
+| _intentionally use an Internet domain name, or any subdomain of the_  
+| _Internet domain name, in a ticket website's uniform resource_  
+| _locator that contains any of the following:_  
+|  _(1)_ _____the name of the venue holding an event to which the_  
+| _ticket website offers tickets for sale or resale;_  
+|  _(2)_ _____the name of an exhibition or performance or of_  
+| _another event described by Subdivision (1), including the name of_  
+| _an artist scheduled to perform at the venue; or_  
+|  _(3)_ _____any name substantially similar to those in_  
+| _Subdivision (1) or (2)._  
+|  _(b)_ _____Subsection (a) does not apply to a website operator who_  
+| _is authorized by the venue, a performing artist scheduled to_  
+| _perform at the venue, or the event's organizer to act on the_  
+| _venue's, artist's, or event's behalf._  
+|  _Sec._ ___327.003._ _____DECEPTIVE TRADE PRACTICE. A violation of_  
+| _this chapter is a deceptive trade practice under Subchapter E,_  
+| _Chapter 17, and is actionable under that subchapter._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

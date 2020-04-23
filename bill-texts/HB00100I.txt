@@ -1,0 +1,119 @@
+|  
+---|---  
+|  By: E. Johnson of Dallas | H.B. No. 100  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to information on projected changes in weather and water  
+| availability in strategic plans of certain state agencies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2056.002(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The Legislative Budget Board and the _division of the_  
+| _governor's office responsible for budget and policy_ [ ~~Governor's~~  
+|  ~~Office of Budget, Policy, and Planning~~ ] shall determine the  
+| elements required to be included in each agency's strategic plan.  
+| Unless modified by the Legislative Budget Board and the _division_  
+| [ ~~Governor's Office of Budget, Policy, and Planning~~ ], and except as  
+| provided by Subsection (c), a plan must include:  
+|  (1) a statement of the mission and goals of the state  
+| agency;  
+|  (2) a description of the indicators developed under  
+| this chapter and used to measure the output and outcome of the  
+| agency;  
+|  (3) identification of the groups of people served by  
+| the agency, including those having service priorities, or other  
+| service measures established by law, and estimates of changes in  
+| those groups expected during the term of the plan;  
+|  (4) an analysis of the use of the agency's resources to  
+| meet the agency's needs, including future needs, and an estimate of  
+| additional resources that may be necessary to meet future needs;  
+|  (5) an analysis of expected changes in the services  
+| provided by the agency because of changes in state or federal law;  
+|  (6) a description of the means and strategies for  
+| meeting the agency's needs, including future needs, and achieving  
+| the goals established under Section 2056.006 for each area of state  
+| government for which the agency provides services;  
+|  (7) a description of the capital improvement needs of  
+| the agency during the term of the plan and a statement, if  
+| appropriate, of the priority of those needs;  
+|  (8) identification of each geographic region of this  
+| state, including the Texas-Louisiana border region and the  
+| Texas-Mexico border region, served by the agency, and if  
+| appropriate the agency's means and strategies for serving each  
+| region;  
+|  (9) a description of the training of the agency's  
+| contract managers under Section 2262.053;  
+|  (10) an analysis of the agency's expected expenditures  
+| that relate to federally owned or operated military installations  
+| or facilities, or communities where a federally owned or operated  
+| military installation or facility is located;  
+|  (11) an analysis of the strategic use of information  
+| resources as provided by the instructions prepared under Section  
+| 2054.095; [ ~~and~~ ]  
+|  (12) _for the Department of Agriculture, Texas_  
+| _Commission on Environmental Quality, General Land Office, Texas_  
+| _Department of Housing and Community Affairs, Texas Department of_  
+| _Insurance, Parks and Wildlife Department, Department of Public_  
+| _Safety, Public Utility Commission of Texas, office of the_  
+| _comptroller, Texas A &M Forest Service, and Texas Water Development _  
+| _Board:_  
+|  _(A)_ _____an analysis of expected changes, including_  
+| _adverse impacts, in the services provided by the agency because of_  
+| _projected changes in weather, water availability, and climate_  
+| _variability, as determined by the Texas state climatologist's_  
+| _report under Section 2056.005(c);_  
+|  _(B)_ _____for each period described in Section_  
+| _2056.005(c), a description of the means and strategies for meeting_  
+| _the agency's needs and managing the risks associated with the_  
+| _projected changes in weather, water availability, and climate_  
+| _variability as determined by the report; and_  
+|  _(C)_ _____for the means and strategies described by_  
+| _Paragraph (B):_  
+|  _(i)_ _____identification of any financial_  
+| _resources that will be needed to carry out those means and_  
+| _strategies; and_  
+|  _(ii)_ _____an analysis of partnerships and_  
+| _cooperation between the agency and other state, local, and federal_  
+| _governmental entities that will be needed to carry out those means_  
+| _and strategies; and_  
+|  _(13)_ other information that may be required.  
+|  SECTION 2. Section 2056.005, Government Code, is amended by  
+| adding Subsections (c), (d), (e), and (f) to read as follows:  
+|  _(c)_ _____Not later than February 1 of each even-numbered year,_  
+| _the Texas state climatologist shall provide to the Legislative_  
+| _Budget Board, for use in the strategic planning of a state agency_  
+| _listed in Section 2056.002(b)(12), a report on projected changes in_  
+| _weather, water availability, and climate variability across the_  
+| _state for a period of:_  
+|  _(1)_ _____five years beginning with the next odd-numbered_  
+| _year; and_  
+|  _(2)_ _____at least 20 years and not longer than 50 years_  
+| _beginning with the next odd-numbered year._  
+|  _(d) The report under Subsection (c) may include:_  
+|  _(1) projections of precipitation;_  
+|  _(2) projections of temperature;_  
+|  _(3) projections of stream flow in Texas rivers;_  
+|  _(4) projections of evaporation rates;_  
+|  _(5) projections of soil moisture rates;_  
+|  _(6) projections of sea level changes;_  
+|  _(7) projections of coastal storm intensity;_  
+|  _(8) projections of inland and coastal flood intensity;_  
+|  _(9) likely ranges of variability for all projections;_  
+|  _(10)_ _____any estimations of the likelihood of the_  
+| _forecasts, as considered appropriate by the Texas state_  
+| _climatologist; and_  
+|  _(11)_ _____any additional factors that are considered useful_  
+| _for state agency strategic planning by the Texas state_  
+| _climatologist._  
+|  _(e)_ _____The Texas state climatologist may use a forecast created_  
+| _outside of the office of the state climatologist if the forecast is_  
+| _considered suitable by the climatologist for the requirements of_  
+| _the report._  
+|  _(f)_ _____Not later than March 1 of each even-numbered year, the_  
+| _Legislative Budget Board shall distribute the report provided under_  
+| _Subsection (c) to the state agencies listed in Section_  
+| _2056.002(b)(12) for use in each agency's strategic planning._  
+|  SECTION 3. This Act takes effect September 1, 2019  
+| .
+

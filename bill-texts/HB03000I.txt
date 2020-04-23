@@ -1,0 +1,128 @@
+| 86R9361 MP-D  
+---|---  
+|  By: Talarico | H.B. No. 3000  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to student data security in public schools.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 32, Education Code, is amended by adding  
+| Subchapter E to read as follows:  
+| _SUBCHAPTER E. STUDENT DATA SECURITY_  
+|  _Sec._ ___32.201._ _____DEFINITION. In this subchapter, "data breach"_  
+| _means an incident in which sensitive, protected, or confidential_  
+| _student information is stolen or is copied, transmitted, viewed, or_  
+| _used by a person unauthorized to engage in that action._  
+|  _Sec._ ___32.202._ _____REPORTING OF STUDENT DATA BREACH. (a)_ ___A_  
+| _school district shall provide written notice to a parent of or_  
+| _person standing in parental relation to a student enrolled in the_  
+| _district of a school district data breach involving the student's_  
+| _information not later than the 10th day after the date on which the_  
+| _district becomes aware of the data breach._ ___The notice must include:_  
+|  _(1)_ _____a description of the type of information that was_  
+| _the subject of the data breach; and_  
+|  _(2)_ _____a general description of any action taken or_  
+| _planned to be taken by the district to:_  
+|  _(A)_ _____reduce damage as a result of the data breach;_  
+| _or_  
+|  _(B) prevent another data breach._  
+|  _(b)_ _____A school district shall submit to the agency a report on_  
+| _a school district data breach not later than the 10th day after the_  
+| _date the district becomes aware of the data breach._ ___The report must_  
+| _include:_  
+|  _(1)_ _____detailed information regarding the nature of the_  
+| _data breach;_  
+|  _(2)_ _____the number of students affected by the data_  
+| _breach;_  
+|  _(3)_ _____a description of the type of information that was_  
+| _the subject of the data breach; and_  
+|  _(4)_ _____a detailed description of any action taken or_  
+| _planned to be taken by the district to:_  
+|  _(A)_ _____reduce damage as a result of the data breach;_  
+| _or_  
+|  _(B) prevent another data breach._  
+|  _(c)_ _____Information reported under Subsection (b)(1) or (4) is_  
+| _confidential and not subject to disclosure under Chapter 552,_  
+| _Government Code._  
+|  _Sec._ ___32.203._ _____STUDENT DATA BREACH DATABASE. (a) The agency_  
+| _shall establish and maintain an electronically searchable database_  
+| _that contains information regarding each school district data_  
+| _breach reported under Section 32.202(b)._  
+|  _(b)_ _____The database must contain the following publicly_  
+| _accessible information for each school district data breach:_  
+|  _(1)_ _____the school district at which the data breach_  
+| _occurred; and_  
+|  _(2)_ _____the number of students affected by the data_  
+| _breach._  
+|  _(c)_ _____The database must also contain for each school district_  
+| _data breach the information reported under Sections 32.202(b)(1)_  
+| _and (4). The agency shall ensure that only a school administrator_  
+| _may access information contained in the database under this_  
+| _subsection._  
+|  _Sec._ ___32.204._ _____RULES. The commissioner may adopt rules as_  
+| _necessary to implement this subchapter._  
+|  SECTION 2. Section 12.104(b), Education Code, as amended by  
+| Chapters 324 (S.B. 1488), 522 (S.B. 179), and 735 (S.B. 1153), Acts  
+| of the 85th Legislature, Regular Session, 2017, is reenacted and  
+| amended to read as follows:  
+|  (b) An open-enrollment charter school is subject to:  
+|  (1) a provision of this title establishing a criminal  
+| offense; and  
+|  (2) a prohibition, restriction, or requirement, as  
+| applicable, imposed by this title or a rule adopted under this  
+| title, relating to:  
+|  (A) the Public Education Information Management  
+| System (PEIMS) to the extent necessary to monitor compliance with  
+| this subchapter as determined by the commissioner;  
+|  (B) criminal history records under Subchapter C,  
+| Chapter 22;  
+|  (C) reading instruments and accelerated reading  
+| instruction programs under Section 28.006;  
+|  (D) accelerated instruction under Section  
+| 28.0211;  
+|  (E) high school graduation requirements under  
+| Section 28.025;  
+|  (F) special education programs under Subchapter  
+| A, Chapter 29;  
+|  (G) bilingual education under Subchapter B,  
+| Chapter 29;  
+|  (H) prekindergarten programs under Subchapter E  
+| or E-1, Chapter 29;  
+|  (I) extracurricular activities under Section  
+| 33.081;  
+|  (J) discipline management practices or behavior  
+| management techniques under Section 37.0021;  
+|  (K) health and safety under Chapter 38;  
+|  (L) public school accountability under  
+| Subchapters B, C, D, F, G, and J, Chapter 39, and Chapter 39A;  
+|  (M) the requirement under Section 21.006 to  
+| report an educator's misconduct;  
+|  (N) intensive programs of instruction under  
+| Section 28.0213;  
+|  (O) the right of a school employee to report a  
+| crime, as provided by Section 37.148; [ ~~and~~ ]  
+|  (P) bullying prevention policies and procedures  
+| under Section 37.0832;  
+|  (Q) the right of a school under Section 37.0052  
+| to place a student who has engaged in certain bullying behavior in a  
+| disciplinary alternative education program or to expel the student;  
+| [ ~~and~~ ]  
+|  (R) the right under Section 37.0151 to report to  
+| local law enforcement certain conduct constituting assault or  
+| harassment _;_  
+|  _(S)_ [ ~~(P)~~ ] a parent's right to information  
+| regarding the provision of assistance for learning difficulties to  
+| the parent's child as provided by Sections 26.004(b)(11) and  
+| 26.0081(c) and (d) _; and_  
+|  _(T)_ _____student data security under Subchapter E,_  
+| _Chapter 32_.  
+|  SECTION 3. To the extent of any conflict, this Act prevails  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 4. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

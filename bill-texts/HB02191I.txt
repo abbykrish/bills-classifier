@@ -1,0 +1,141 @@
+|  
+---|---  
+|  By: Capriglione | H.B. No. 2191  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the public information law.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 552.003, Government Code, is amended by  
+| adding Subdivision (7) to read as follows:  
+|  _(7)_ _____"Temporary custodian" means an officer or employee_  
+| _of a governmental body who, in the transaction of official_  
+| _business, creates or receives public information that the officer_  
+| _or employee has not provided to the officer for public information_  
+| _of the governmental body or the officer's agent. The term includes_  
+| _a former officer or employee of a governmental body who created or_  
+| _received public information in the officer's or employee's_  
+| _official capacity that has not been provided to the officer for_  
+| _public information of the governmental body or the officer's agent._  
+|  SECTION 2. Section 552.004, Government Code, is amended to  
+| read as follows:  
+|  Sec. 552.004. PRESERVATION OF INFORMATION.  _(a)_ A  
+| governmental body or, for information of an elective county office,  
+| the elected county officer, may determine a time for which  
+| information that is not currently in use will be preserved, subject  
+| to _Subsection (b) and to_ any applicable rule or law governing the  
+| destruction and other disposition of state and local government  
+| records or public information.  
+|  _(b)_ _____A current or former officer or employee of a_  
+| _governmental body who maintains public information on a privately_  
+| _owned device shall:_  
+|  _(1)_ _____forward or transfer the public information to the_  
+| _governmental body or a governmental body server to be preserved as_  
+| _provided by Subsection (a); or_  
+|  _(2)_ _____preserve the public information in its original_  
+| _form on the privately owned device for the time described under_  
+| _Subsection (a)._  
+|  _(c)_ _____The provisions of Chapter 441 of this code and Title 6,_  
+| _Local Government Code, governing the preservation, destruction, or_  
+| _other disposition of records or public information apply to records_  
+| _and public information held by a temporary custodian._  
+|  SECTION 3. Subchapter C, Chapter 552, Government Code, is  
+| amended by adding Section 552.159 to read as follows:  
+|  _Sec._ ___552.159._ _____EXCEPTION: CONFIDENTIALITY OF CERTAIN_  
+| _HEALTHCARE INFORMATION. A record of the identity, diagnosis,_  
+| _evaluation, or treatment of a patient by a physician or hospital_  
+| _that is created or maintained by a physician or hospital is_  
+| _confidential and excepted from the requirements of Section 552.021._  
+|  SECTION 4. Section 552.203, Government Code, is amended to  
+| read as follows:  
+|  Sec. 552.203. GENERAL DUTIES OF OFFICER FOR PUBLIC  
+| INFORMATION.  Each officer for public information, subject to  
+| penalties provided in this chapter, shall:  
+|  (1) make public information available for public  
+| inspection and copying;  
+|  (2) carefully protect public information from  
+| deterioration, alteration, mutilation, loss, or unlawful removal;  
+| [ ~~and~~ ]  
+|  (3) repair, renovate, or rebind public information as  
+| necessary to maintain it properly _; and_  
+|  _(4)_ _____make reasonable efforts to obtain public_  
+| _information from a temporary custodian if:_  
+|  _(A)_ _____the information has been requested from the_  
+| _governmental body;_  
+|  _(B)_ _____the officer for public information is aware_  
+| _of facts sufficient to warrant a reasonable belief that the_  
+| _temporary custodian has possession, custody, or control of the_  
+| _information;_  
+|  
+|  _(C)_ _____the officer for public information is unable_  
+| _to comply with the duties imposed by this chapter without obtaining_  
+| _the information from the temporary custodian; and_  
+|  _(D)_ _____the temporary custodian has not provided the_  
+| _information to the officer for public information or the officer's_  
+| _agent._  
+|  SECTION 5. Subchapter E, Chapter 552, Government Code, is  
+| amended by adding Sections 552.233, 552.234, and 552.235 to read as  
+| follows:  
+|  _Sec._ ___552.233._ _____OWNERSHIP OF PUBLIC INFORMATION. (a)_ ___A_  
+| _current or former officer or employee of a governmental body does_  
+| _not have, by virtue of the officer's or employee's position or_  
+| _former position, a personal or property right to public information_  
+| _the officer or employee created or received while acting in an_  
+| _official capacity._  
+|  _(b)_ _____A temporary custodian with possession, custody, or_  
+| _control of public information shall surrender or return the_  
+| _information to the governmental body not later than the 10th day_  
+| _after the date the officer for public information of the_  
+| _governmental body or the officer's agent requests the temporary_  
+| _custodian to surrender or return the information._  
+|  _(c)_ _____A temporary custodian's failure to surrender or return_  
+| _public information as required by Subsection (b) is grounds for_  
+| _disciplinary action by the governmental body that employs the_  
+| _temporary custodian or any other applicable penalties provided by_  
+| _this chapter or other law._  
+|  _(d)_ _____For purposes of the application of Subchapter G to_  
+| _information surrendered or returned to a governmental body by a_  
+| _temporary custodian under Subsection (b), the governmental body is_  
+| _considered to receive the request for that information on the date_  
+| _the information is surrendered or returned to the governmental_  
+| _body._  
+|  _Sec._ ___552.234._ _____DESIGNATED ELECTRONIC MAIL AND MAILING_  
+| _ADDRESSES FOR PUBLIC INFORMATION REQUESTS. A governmental body may_  
+| _designate one electronic mail address and one mailing address for_  
+| _receiving written requests for public information._ ___If an inquiry_  
+| _is made to a governmental body regarding the procedures for_  
+| _requesting public information, the governmental body shall provide_  
+| _the designated electronic mail and mailing addresses. A_  
+| _governmental body that posts the designated electronic mail and_  
+| _mailing addresses on the governmental body's Internet website is_  
+| _not required to respond to a written request for public information_  
+| _that is not received at one of those addresses._  
+|  _Sec._ ___552.235._ _____PUBLIC INFORMATION REQUEST FORM. (a)_ ___The_  
+| _attorney general shall create a public information request form_  
+| _that provides a requestor the option of excluding from a request_  
+| _information that the governmental body determines is:_  
+|  _(1) confidential; or_  
+|  _(2)_ _____subject to an exception to disclosure that the_  
+| _governmental body would assert if the information were subject to_  
+| _the request._  
+|  _(b)_ _____A governmental body that allows requestors to use the_  
+| _form described by Subsection (a) and maintains an Internet website_  
+| _shall post the form on its website._  
+|  SECTION 6. Section 552.301(c), Government Code, is amended  
+| to read as follows:  
+|  (c) For purposes of this subchapter _and subject to Section_  
+| _552.234,_ a written request includes a request made in writing that  
+| is sent to the officer for public information, or the person  
+| designated by that officer, by electronic mail or facsimile  
+| transmission.  
+|  SECTION 7. The attorney general shall create a public  
+| information request form under Section 552.235(a), Government  
+| Code, as added by this Act, not later than October 1, 2019.  
+|  SECTION 8. The changes in law made by this Act apply only to  
+| a request for public information received on or after the effective  
+| date of this Act. A request for public information received before  
+| the effective date of this Act is governed by the law in effect when  
+| the request was received, and the former law is continued in effect  
+| for that purpose.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

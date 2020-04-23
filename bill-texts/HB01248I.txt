@@ -1,0 +1,56 @@
+| 86R3159 SRA-F  
+---|---  
+|  By: Ashby | H.B. No. 1248  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a credit or refund for diesel fuel taxes paid on diesel  
+| fuel used in this state by auxiliary power units or power take-off  
+| equipment.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 162.227, Tax Code, is amended by adding  
+| Subsections (d-1), (d-2), and (d-3) to read as follows:  
+|  _(d-1)_ _____A license holder may take a credit on a return for the_  
+| _period in which the purchase occurred, and a person who does not_  
+| _hold a license may file a refund claim with the comptroller, if the_  
+| _license holder or person paid tax on diesel fuel and the diesel fuel_  
+| _is used in this state by auxiliary power units or power take-off_  
+| _equipment on any motor vehicle. If the quantity of that diesel fuel_  
+| _can be accurately measured while the motor vehicle is stationary by_  
+| _any metering or other measuring device or method designed to_  
+| _measure the fuel separately from fuel used to propel the motor_  
+| _vehicle, the comptroller may approve and adopt the use of the device_  
+| _as a basis for determining the quantity of diesel fuel consumed in_  
+| _those operations for a tax credit or tax refund. If there is no_  
+| _separate metering device or other approved measuring method, the_  
+| _license holder may take the credit and the person who does not hold_  
+| _a license may claim the refund on a percentage of the diesel fuel_  
+| _consumed by each motor vehicle equipped with an auxiliary power_  
+| _unit or power take-off equipment. The comptroller shall determine_  
+| _the percentage of diesel fuel for which the credit or refund may be_  
+| _claimed. The climate-control air conditioning or heating system of_  
+| _a motor vehicle that has a primary purpose of providing for the_  
+| _convenience or comfort of the operator or passengers is not a power_  
+| _take-off system, and a credit or refund may not be allowed for the_  
+| _tax paid on any portion of the diesel fuel that is used for that_  
+| _purpose. A credit or refund may not be allowed for the diesel fuel_  
+| _tax paid on that portion of the diesel fuel that is used for idling._  
+|  _(d-2)_ _____The comptroller shall reduce the amount of the credit_  
+| _or refund to which a person is otherwise entitled under Subsection_  
+| _(d-1) according to the following schedule:_  
+|  _(1)_ _____for fuel purchased on or after September 1, 2019,_  
+| _but before January 1, 2020, the comptroller shall reduce the credit_  
+| _or refund amount by 80 percent;_  
+|  _(2)_ _____for fuel purchased on or after January 1, 2020, but_  
+| _before January 1, 2021, the comptroller shall reduce the credit or_  
+| _refund amount by 60 percent;_  
+|  _(3)_ _____for fuel purchased on or after January 1, 2021, but_  
+| _before January 1, 2022, the comptroller shall reduce the credit or_  
+| _refund amount by 40 percent; and_  
+|  _(4)_ _____for fuel purchased on or after January 1, 2022, but_  
+| _before January 1, 2023, the comptroller shall reduce the credit or_  
+| _refund amount by 20 percent._  
+|  _(d-3)_ _____Subsection (d-2) and this subsection expire January_  
+| _1, 2023._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

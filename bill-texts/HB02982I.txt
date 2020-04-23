@@ -1,0 +1,26 @@
+| 86R12349 SRS-D  
+---|---  
+|  By: Guillen | H.B. No. 2982  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to public inspection of an early voting roster; creating a  
+| criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 87.121, Election Code, is amended by  
+| amending Subsection (h) and adding Subsections (i) and (j) to read  
+| as follows:  
+|  (h) Information on the roster for a person who votes an  
+| early voting ballot by mail shall be made available for public  
+| inspection not later than the day following the day the early voting  
+| clerk receives a ballot voted by mail. _A person may request a copy_  
+| _of the roster._  
+|  _(i) A person commits an offense if the person:_  
+|  _(1)_ _____is responsible for maintaining the roster under_  
+| _this section; and_  
+|  _(2)_ _____fails to provide information on the roster under_  
+| _Subsection (h)._  
+|  _(j)_ _____An offense under Subsection (i) is a Class C_  
+| _misdemeanor._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

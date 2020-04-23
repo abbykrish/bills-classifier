@@ -1,0 +1,340 @@
+| 86R9499 TSR-F  
+---|---  
+|  By: King of Hemphill | H.B. No. 4519  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the development of a central filing system by the  
+| secretary of state for the filing of financing statements for  
+| certain security interests; authorizing fees; providing civil  
+| penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 9.302, Business & Commerce Code, is  
+| amended to read as follows:  
+|  Sec. 9.302. LAW GOVERNING PERFECTION AND PRIORITY OF  
+| AGRICULTURAL LIENS. _(a) Subject to Chapter 607, while_ [ ~~While~~ ] farm  
+| products are located in a jurisdiction, the local law of that  
+| jurisdiction governs perfection, the effect of perfection or  
+| nonperfection, and the priority of an agricultural lien on the farm  
+| products.  
+|  _(b)_ _____Notwithstanding any law to the contrary, to the extent_  
+| _of any conflict between this chapter and Chapter 607, Chapter 607_  
+| _controls._  
+|  SECTION 2. Section 9.501, Business & Commerce Code, is  
+| amended by amending Subsection (a) and adding Subsection (c) to  
+| read as follows:  
+|  (a) Except as otherwise provided in Subsection (b) _or (c)_ ,  
+| if the local law of this state governs perfection of a security  
+| interest [ ~~or agricultural lien~~ ], the office in which to file a  
+| financing statement to perfect the security interest [ ~~or~~  
+|  ~~agricultural lien~~ ] is:  
+|  (1) the office designated for the filing or recording  
+| of a record of a mortgage on the related real property, if:  
+|  (A) the collateral is as-extracted collateral or  
+| timber to be cut; or  
+|  (B) the financing statement is filed as a fixture  
+| filing and the collateral is goods that are or are to become  
+| fixtures; or  
+|  (2) the office of the Secretary of State, in all other  
+| cases, including a case in which the collateral is goods that are or  
+| are to become fixtures and the financing statement is not filed as a  
+| fixture filing.  
+|  _(c)_ _____Notwithstanding any other law to the contrary, the_  
+| _office in which to file a financing statement to perfect an_  
+| _agricultural lien is the office of the Secretary of State as_  
+| _provided by Chapter 607._  
+|  SECTION 3. Title 12, Business & Commerce Code, is amended by  
+| adding Chapter 607 to read as follows:  
+| _CHAPTER 607. CENTRAL FILING SYSTEM AND NOTICE REQUIREMENTS FOR_  
+| _FARM PRODUCTS_  
+|  _Sec. 607.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Buyer" means a person who, in the ordinary course_  
+| _of business, buys farm products from another person who is engaged_  
+| _in farming operations and who is in the business of selling farm_  
+| _products._  
+|  _(2)_ _____"Central filing system" means a statewide system_  
+| _that is developed by the secretary of state and certified by the_  
+| _secretary of the United States Department of Agriculture to be used_  
+| _for the filing of an effective financing statement._  
+|  _(3)_ _____"Commission merchant" means a person engaged in_  
+| _the business of receiving a farm product for the purpose of selling_  
+| _the farm product on commission or on behalf of another person._  
+|  _(4)_ _____"Debtor"_ _____has the meaning assigned by Section_  
+| _9.102._  
+|  _(5)_ _____"Effective financing statement"_ ___means a financing_  
+| _statement, as defined by Section 9.102, that covers a farm product_  
+| _and that is filed in compliance with this chapter._  
+|  _(6)_ _____"Farm products" has the meaning assigned by_  
+| _Section 9.102._  
+|  _(7)_ _____"Selling agent" means a person, other than a_  
+| _commission merchant, who is engaged in the business of negotiating_  
+| _the sale or purchase of a farm product on behalf of a person engaged_  
+| _in farming operations._  
+|  _(8)_ _____"Writing"_ ___or "written"_ ___means information that is_  
+| _inscribed on a tangible medium or that is stored in an electronic or_  
+| _other medium and is retrievable in perceivable form._  
+|  _Sec._ ___607.002._ _____RULES. The secretary of state shall adopt_  
+| _rules as necessary to implement this chapter._  
+|  _Sec._ ___607.003._ _____FORMS; NOTICE. (a)_ ___The secretary of state_  
+| _shall develop and maintain standard forms for an effective_  
+| _financing statement, a statement of continuation, a statement of_  
+| _partial release, a statement of amendment, a statement of_  
+| _assignment, and a statement of termination that are consistent with_  
+| _this chapter._  
+|  _(b)_ _____Except as otherwise provided by this chapter, receipt of_  
+| _a written notice required by this chapter is presumed if the notice_  
+| _is sent by first class mail, postage prepaid._  
+|  _Sec._ ___607.004._ _____EFFECTIVE FINANCING STATEMENT. (a) An_  
+| _effective financing statement must:_  
+|  _(1)_ _____be signed by the secured party and filed by the_  
+| _secured party with the office of the secretary of state in the_  
+| _central filing system under Section 607.007;_  
+|  _(2) be signed by the debtor; and_  
+|  _(3) provide the following information:_  
+|  _(A) the name and address of the secured party;_  
+|  _(B) the name and address of the debtor;_  
+|  _(C) one of the following:_  
+|  _(i)_ _____the social security number of the_  
+| _debtor;_  
+|  _(ii)_ _____if the debtor is not an individual, the_  
+| _taxpayer identification number of the debtor; or_  
+|  _(iii)_ _____another unique identifier_  
+| _established by rule of the secretary of state;_  
+|  _(D)_ _____the farm product covered by the effective_  
+| _financing statement;_  
+|  _(E)_ _____each county in this state where the farm_  
+| _product is produced or will be produced, or a blanket code_  
+| _established by the secretary of state that covers all counties in_  
+| _this state;_  
+|  _(F)_ _____a description of the farm product that is_  
+| _subject to a security interest only if a description is needed to_  
+| _distinguish that farm product from other farm products owned by the_  
+| _same person but not subject to the security interest; and_  
+|  _(G)_ _____the crop year, unless for the duration of the_  
+| _effective financing statement every crop of the farm product that_  
+| _is subject to the security interest is to be subject to the_  
+| _interest._  
+|  _(b)_ _____A secured party may use one effective financing_  
+| _statement to reflect multiple farm products or farm products in_  
+| _multiple counties._  
+|  _(c)_ _____An effective financing statement must be amended to_  
+| _reflect material changes. An amendment to an effective financing_  
+| _statement must be:_  
+|  _(1) in writing;_  
+|  _(2) signed by the secured party and the debtor; and_  
+|  _(3)_ _____filed not later than the 90th day after the_  
+| _original filing date._  
+|  _(d)_ _____An effective financing statement remains in effect for a_  
+| _period of five years from the date of filing and may be extended for_  
+| _an additional five-year period by filing or refiling a statement of_  
+| _continuation at least 180 days before the expiration date of the_  
+| _initial effective period._  
+|  _(e)_ _____The secretary of state shall remove an effective_  
+| _financing statement from the central filing system when the_  
+| _statement expires or when a statement of termination is received_  
+| _from a secured party, whichever occurs first._  
+|  _(f)_ _____The secretary of state may collect a fee for each_  
+| _effective financing statement filed under this chapter. An_  
+| _effective financing statement is not filed until the fee authorized_  
+| _by this section is paid as provided by Section 607.007(l)._  
+|  _(g)_ _____An effective financing statement is considered_  
+| _satisfactory if it substantially complies with the requirements of_  
+| _this section even if the statement contains minor errors that are_  
+| _not seriously misleading as determined by the secretary of state._  
+|  _Sec._ ___607.005._ _____PROTECTION OF BUYERS, COMMISSION MERCHANTS,_  
+| _AND SELLING AGENTS. A buyer, a commission merchant, or a selling_  
+| _agent who, in the ordinary course of business, purchases a farm_  
+| _product from a person engaged in farming operations takes the farm_  
+| _product subject to a security interest in the farm product if:_  
+|  _(1) either:_  
+|  _(A)_ _____the buyer, commission merchant, or selling_  
+| _agent fails to register with the secretary of state as prescribed by_  
+| _rule before purchasing the farm product and the secured party has_  
+| _filed an effective financing statement in the central filing system_  
+| _that covers the farm product being purchased; or_  
+|  _(B)_ _____the buyer, commission merchant, or selling_  
+| _agent:_  
+|  _(i)_ _____receives from the secretary of state_  
+| _written notice under Section 607.007(e) or (i); and_  
+|  _(ii)_ _____does not secure, by performing any_  
+| _payment obligation or other method, a waiver or release from the_  
+| _secured party of the security interest specified in an effective_  
+| _financing statement; or_  
+|  _(2)_ _____the secured party or the seller of the farm product_  
+| _provides written notice of the security interest to the buyer,_  
+| _commission merchant, or selling agent._  
+|  _Sec._ ___607.006._ _____IMMUNITY FROM LIABILITY. A buyer, commission_  
+| _merchant, or selling agent who, in the ordinary course of business,_  
+| _purchases farm products from or sells farm products for a person_  
+| _engaged in farming operations may not be liable for errors or_  
+| _inaccuracies generated by the central filing system if the buyer,_  
+| _commission merchant, or selling agent has otherwise complied with_  
+| _this chapter._  
+|  _Sec._ ___607.007._ _____CENTRAL FILING SYSTEM. (a)_ ___The secretary of_  
+| _state shall develop and implement a central filing system, and_  
+| _shall obtain the necessary certification for the system from the_  
+| _United States Department of Agriculture._  
+|  _(b)_ _____The secretary of state may adopt rules for the_  
+| _implementation and operation of the central filing system._  
+|  _(c)_ _____The Department of Information Resources shall assist_  
+| _the secretary of state in developing and implementing the central_  
+| _filing system._  
+|  _(d)_ _____The secretary of state shall use the central filing_  
+| _system to:_  
+|  _(1)_ _____record the date and hour of the filing of each_  
+| _effective financing statement;_  
+|  _(2)_ _____compile all effective financing statements into a_  
+| _master list that:_  
+|  _(A) is organized by farm product;_  
+|  _(B) is arranged within each farm product:_  
+|  _(i) as appropriate:_  
+|  _(a)_ _____in alphabetical order by last name_  
+| _of the debtor or, if the debtor is not an individual, the first word_  
+| _in the name of the debtor;_  
+|  _(b)_ _____in numerical order by social_  
+| _security number of the debtor or, if the debtor is not an_  
+| _individual, the tax identification number of the debtor; or_  
+|  _(c)_ _____according to a unique identifier_  
+| _established by rule of the secretary of state;_  
+|  _(ii)_ _____geographically by county in which the_  
+| _farm product was produced; and_  
+|  _(iii) by crop year;_  
+|  _(C)_ _____includes the information described by_  
+| _Section 607.004(a)(3);_  
+|  _(D)_ _____is available in part in print or electronic_  
+| _format; and_  
+|  _(E)_ _____can be organized by other additional sorting_  
+| _methods; and_  
+|  _(3)_ _____maintain records of all buyers of farm products,_  
+| _commission merchants, selling agents, and others who register with_  
+| _the secretary of state, using a form that requires:_  
+|  _(A) the name and address of each registrant;_  
+|  _(B)_ _____information on the farm product or products_  
+| _that the registrant is requesting;_  
+|  _(C)_ _____the name of each county in this state where_  
+| _the farm product is produced or will be produced, or a blanket code_  
+| _indicating the product is produced or will be produced in all_  
+| _counties of this state; and_  
+|  _(D) an authorized signature._  
+|  _(e)_ _____On or before the last business day of each month, the_  
+| _secretary of state shall provide to a registrant a copy of those_  
+| _portions of the master list that include information requested by_  
+| _the registrant._ ___The copy shall be presumed to have been received by_  
+| _the third business day of the following month._  
+|  _(f)_ _____A registrant is considered registered only for those_  
+| _portions of the master list for which the registrant registers._  
+|  _(g)_ _____A registrant is subject only to security interests shown_  
+| _on the portions of the master list that the registrant receives as a_  
+| _consequence of registration with the secretary of state. If a_  
+| _particular security interest is shown on the master list but was_  
+| _included after the last regular distribution of portions of the_  
+| _master list to registrants, a registrant may not be subject to that_  
+| _security interest._  
+|  _(h)_ _____The registration with the secretary of state of a buyer,_  
+| _commission merchant, selling agent, or other registrant expires one_  
+| _year after the effective date of the registration._  
+|  _(i)_ _____On request, the secretary of state shall provide, not_  
+| _later than 24 hours after the time of the request, verbal_  
+| _confirmation of the existence or nonexistence of any effective_  
+| _financing statement on file. Not later than the close of the_  
+| _business day following the date on which the request was received,_  
+| _the secretary of state shall provide to a requestor written_  
+| _confirmation of the existence of an effective financing statement._  
+|  _(j)_ _____The state or a political subdivision of the state is not_  
+| _liable if a loss or claim results from a confirmation of the_  
+| _existence or nonexistence of an effective financing statement on_  
+| _file with the secretary of state made in good faith by an employee_  
+| _of the secretary of state under this section._  
+|  _(k)_ _____A filing with the secretary of state under this section_  
+| _is in addition to other filing requirements under this chapter._  
+|  _(l)_ _____An effective financing statement is not considered_  
+| _filed under this section until all authorized fees are paid to the_  
+| _secretary of state._  
+|  _(m)_ _____The secured party shall file a termination statement not_  
+| _later than the 20th day after the date there are no outstanding_  
+| _secured obligations or commitments to make advances, incur_  
+| _obligations, or otherwise give value. The secured party may not be_  
+| _required to file a termination statement if the debtor makes a_  
+| _written request addressed to the secured party that a termination_  
+| _not be filed. The request must be signed by the debtor or an_  
+| _authorized representative of the debtor and may be made at any time_  
+| _before the expiration date of the effective financing statement._  
+| _If the affected secured party does not file a termination statement_  
+| _as required by this subsection, the secured party is liable to this_  
+| _state for a civil penalty of $500 and to the debtor for any loss_  
+| _caused to the debtor by the secured party's failure to terminate the_  
+| _effective financing statement._  
+|  _(n)_ _____The attorney general may enforce Subsection (m) on_  
+| _behalf of the secretary of state and may take appropriate actions to_  
+| _collect any penalties owed under Subsection (m)._  
+|  _Sec._ ___607.008._ _____WRITTEN NOTICE AFFECTING FARM PRODUCTS;_  
+| _DISCLOSURE REQUIREMENTS; PENALTY. (a)_ ___A secured party or a seller_  
+| _of farm products may provide to a buyer, a commission merchant, or a_  
+| _selling agent, not earlier than one year before the sale of the farm_  
+| _products, a written notice of a security interest organized_  
+| _according to farm products that:_  
+|  _(1) is an original or reproduced copy thereof;_  
+|  _(2) includes:_  
+|  _(A) the name and address of the secured party;_  
+|  _(B) the name and address of the debtor;_  
+|  _(C) one of the following:_  
+|  _(i)_ _____the social security number of the_  
+| _debtor;_  
+|  _(ii)_ _____if the debtor is not an individual, the_  
+| _taxpayer identification number of the debtor; or_  
+|  _(iii)_ _____another unique identifier_  
+| _established by rule of the secretary of state; and_  
+|  _(D)_ _____a description of the farm product that is_  
+| _subject to the security interest created by the debtor, including_  
+| _the amount of the product where applicable, crop year, county, and a_  
+| _reasonable description of the property; and_  
+|  _(3)_ _____states any payment obligations imposed on the_  
+| _buyer, commission merchant, or selling agent by the secured party_  
+| _as conditions for waiver or release of the security interest._  
+|  _(b)_ _____A written notice under Subsection (a) must be amended to_  
+| _reflect material changes. An amendment to a written notice must be:_  
+|  _(1) in writing;_  
+|  _(2) signed; and_  
+|  _(3)_ _____provided not later than the 10th day after the_  
+| _original notice date._  
+|  _(c)_ _____A written notice remains in effect until the earlier of_  
+| _the expiration period of the effective filing statement or the date_  
+| _of a transmission of notice signed by the secured party that the_  
+| _effective filing statement has lapsed._  
+|  _(d)_ _____For purposes of this section, "receipt"_ ___of a written_  
+| _notice to a buyer, a commission merchant, or a selling agent occurs_  
+| _within a reasonable time after the secured party or the seller of_  
+| _the farm product sends the notice if the notice is sent in a manner_  
+| _consistent with Section 1.201(b)(36)._ ___If a written notice is_  
+| _transmitted electronically, the notice is presumed to be received_  
+| _immediately on transmission. If the written notice is deposited in_  
+| _the mail, the notice is presumed to be received on the third_  
+| _business day after the date on which the notice was deposited._  
+|  _(e)_ _____A secured party who intends to provide written notice of_  
+| _the existence of a security interest in a farm product as provided_  
+| _by this section shall require the person engaged in farming_  
+| _operations to execute a security agreement that includes a_  
+| _provision requiring the person to provide to the secured party a_  
+| _list of the buyers, commission merchants, and selling agents to or_  
+| _through whom the person may sell the farm product. If the person_  
+| _engaged in farming operations sells the farm product collateral to_  
+| _a buyer or through a commission merchant or selling agent not_  
+| _included on the list, the person engaged in farming operations is_  
+| _subject to Subsection (f), unless the person:_  
+|  _(1)_ _____has notified the secured party in writing of the_  
+| _identity of the buyer, commission merchant, or selling agent at_  
+| _least seven days before the date of the sale; or_  
+|  _(2)_ _____has accounted to the secured party for the_  
+| _proceeds of the sale not later than the 20th day after the date of_  
+| _the sale._  
+|  _(f)_ _____A person who violates this section is liable to this_  
+| _state for a civil penalty in an amount that is the greater of:_  
+|  _(1) $5,000; or_  
+|  _(2)_ _____15 percent of the value or benefit received for the_  
+| _farm product described in the security agreement._  
+|  SECTION 4. As soon as practicable after the effective date  
+| of this Act, the office of the secretary of state shall adopt rules  
+| and forms necessary to implement Chapter 607, Business & Commerce  
+| Code, as added by this Act.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

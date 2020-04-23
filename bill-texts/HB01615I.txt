@@ -1,0 +1,70 @@
+| 86R5224 AJZ-D  
+---|---  
+|  By: Schaefer | H.B. No. 1615  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the state's burden of proof in certain asset forfeiture  
+| proceedings under the Code of Criminal Procedure.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 59.02, Code of Criminal Procedure, is  
+| amended by amending Subsection (c) and adding Subsection (c-1) to  
+| read as follows:  
+|  (c) An owner or interest holder's interest in property may  
+| not be forfeited under this chapter if the owner or interest holder  
+| [ ~~proves by a preponderance of the evidence that the owner or~~  
+|  ~~interest holder~~ ] acquired and perfected the interest:  
+|  (1) before or during the act or omission giving rise to  
+| forfeiture or, if the property is real property, _the owner or_  
+| _interest holder_ [ ~~he~~ ] acquired an ownership interest, security  
+| interest, or lien interest before a lis pendens notice was filed  
+| under Article 59.04(g) _,_ [ ~~of this code~~ ] and did not know or should  
+| not reasonably have known of the act or omission giving rise to the  
+| forfeiture or that it was likely to occur at or before the time of  
+| acquiring and perfecting the interest or, if the property is real  
+| property, at or before the time of acquiring the ownership  
+| interest, security interest, or lien interest; or  
+|  (2) after the act or omission giving rise to the  
+| forfeiture, but before the seizure of the property, and only if the  
+| owner or interest holder:  
+|  (A) was, at the time that the interest in the  
+| property was acquired, an owner or interest holder for value; and  
+|  (B) was without reasonable cause to believe that  
+| the property was contraband and did not purposefully avoid learning  
+| that the property was contraband.  
+|  _(c-1)_ _____The state has the burden of proving by a preponderance_  
+| _of the evidence that the circumstances described by Subsection (c)_  
+| _do not apply to property that is subject to seizure and forfeiture_  
+| _under this chapter._  
+|  SECTION 2. Article 59.02(h), Code of Criminal Procedure, is  
+| amended by amending Subdivision (1) and adding Subdivision (1-a) to  
+| read as follows:  
+|  (1) An owner or interest holder's interest in property  
+| may not be forfeited under this chapter if [ ~~at the forfeiture~~  
+|  ~~hearing the owner or interest holder proves by a preponderance of~~  
+|  ~~the evidence that~~ ] the owner or interest holder was not a party to  
+| the offense giving rise to the forfeiture and [ ~~that~~ ] the  
+| contraband:  
+|  (A) was stolen from the owner or interest holder  
+| before being used in the commission of the offense giving rise to  
+| the forfeiture;  
+|  (B) was purchased with:  
+|  (i) money stolen from the owner or interest  
+| holder; or  
+|  (ii) proceeds from the sale of property  
+| stolen from the owner or interest holder; or  
+|  (C) was used or intended to be used without the  
+| effective consent of the owner or interest holder in the commission  
+| of the offense giving rise to the forfeiture.  
+|  _(1-a) The state has the burden of proving by a_  
+| _preponderance of the evidence that the circumstances described by_  
+| _Subdivision (1) do not apply to property that is subject to seizure_  
+| _and forfeiture under this chapter._  
+|  SECTION 3. The change in law made by this Act applies only  
+| to a forfeiture proceeding that begins on or after the effective  
+| date of this Act. A forfeiture proceeding that begins before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the proceeding begins, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

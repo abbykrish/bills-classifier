@@ -1,0 +1,85 @@
+| 86R15370 JCG-F  
+---|---  
+|  By: Nevarez | H.B. No. 4751  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the entry into the Texas Crime Information Center of  
+| certain information regarding conditions of bond imposed in  
+| criminal cases involving family violence.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 17.49, Code of Criminal Procedure, is  
+| amended by adding Subsections (m), (n), (o), (p), (q), (r), (s), and  
+| (t) to read as follows:  
+|  _(m)_ _____As soon as possible but not later than the next business_  
+| _day after the date the magistrate issues an order imposing a_  
+| _condition of bond or modifying or removing a condition imposed_  
+| _under this article, the magistrate shall send a copy of the order to_  
+| _the chief of police in the municipality where the victim of the_  
+| _offense resides, if the victim resides in a municipality, or to the_  
+| _sheriff of the county where the victim resides, if the victim does_  
+| _not reside in a municipality. The clerk of the court shall send a_  
+| _copy of the order to the victim at the victim's last known address_  
+| _as soon as possible but not later than the next business day after_  
+| _the date the order is issued._  
+|  _(n)_ _____A magistrate or clerk of the court may delay sending a_  
+| _copy of the order under Subsection (m) only if the magistrate or_  
+| _clerk lacks information necessary to ensure service and_  
+| _enforcement._  
+|  _(o)_ _____If an order described by Subsection (m) prohibits a_  
+| _defendant from going to or near a child care facility or school, the_  
+| _magistrate shall send a copy of the order to the applicable child_  
+| _care facility or school._  
+|  _(p)_ _____The copy of the order and any related information may be_  
+| _sent under Subsection (m) or (o) electronically or in another_  
+| _manner that can be accessed by the recipient._  
+|  _(q)_ _____If the victim of the offense is not present when an order_  
+| _described by Subsection (m) is issued, the magistrate shall order a_  
+| _peace officer to make a good faith effort to provide notice of the_  
+| _order to the victim within 24 hours by calling the victim's last_  
+| _known phone number._  
+|  _(r)_ _____Not later than the third business day after the date of_  
+| _receipt of the copy of an order described by Subsection (m) by the_  
+| _applicable law enforcement agency, the law enforcement agency shall_  
+| _enter the following information into the statewide law enforcement_  
+| _information system maintained by the Department of Public Safety or_  
+| _shall modify or remove that information, as appropriate:_  
+|  _(1)_ _____the information listed in Section 411.042(b)(6),_  
+| _Government Code, as that information relates to an order issued_  
+| _under this article;_  
+|  _(2)_ _____the date the order releasing the defendant on bond_  
+| _was issued; and_  
+|  _(3)_ _____the court that issued the order releasing the_  
+| _defendant on bond._  
+|  _(s)_ _____The law enforcement agency shall enter the information_  
+| _described by Subsection (r) into the statewide law enforcement_  
+| _information system maintained by the Department of Public Safety:_  
+|  _(1)_ _____in the same manner that the agency enters the_  
+| _information into the system for a protective order or magistrate's_  
+| _order of emergency protection; and_  
+|  _(2)_ _____regardless of whether a protective order or_  
+| _magistrate's order of emergency protection:_  
+|  _(A)_ _____has been issued or has been entered into the_  
+| _system with respect to the defendant; or_  
+|  _(B)_ _____protects the same person as a condition of_  
+| _bond in an order described by Subsection (m)._  
+|  _(t)_ _____The Department of Public Safety shall modify the_  
+| _department's statewide law enforcement information system to:_  
+|  _(1)_ _____enable the system to accept and maintain detailed_  
+| _information regarding the requirements and status of a condition of_  
+| _bond imposed under this article, including information described by_  
+| _Subsection (r), so that a peace officer may:_  
+|  _(A)_ _____easily and quickly search the system by one_  
+| _or more criteria related to the information described by Subsection_  
+| _(r), including the name of the defendant on whom the condition is_  
+| _imposed; and_  
+|  _(B)_ _____retrieve the information necessary to_  
+| _enforce the condition of bond or prevent a violation of the_  
+| _condition; and_  
+|  _(2)_ _____ensure that a person who accesses the system for_  
+| _the purpose of entering, modifying, or removing information that_  
+| _relates to a condition of bond imposed under this article may add or_  
+| _remove notes regarding the condition, the defendant on whom the_  
+| _condition is imposed, or the person protected by the condition._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

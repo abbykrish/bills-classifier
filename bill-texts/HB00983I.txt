@@ -1,0 +1,136 @@
+| 86R4647 BEF-F  
+---|---  
+|  By: Parker | H.B. No. 983  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a franchise tax credit for enterprise projects for  
+| certain capital investments.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 171, Tax Code, is amended by adding  
+| Subchapter U to read as follows:  
+| _SUBCHAPTER U. TAX CREDITS FOR ENTERPRISE PROJECTS FOR CERTAIN_  
+| _CAPITAL INVESTMENTS_  
+|  _Sec. 171.9221. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Enterprise project" means a person designated as_  
+| _an enterprise project under Chapter 2303, Government Code, on or_  
+| _after September 1, 2003._  
+|  _(2)_ _____"Qualified business"_ ___has the meaning assigned by_  
+| _Section 2303.003, Government Code._  
+|  _(3)_ _____"Qualified capital investment" means tangible_  
+| _personal property first placed in service by an enterprise project_  
+| _after January 1, 2015, that is described in Section 1245(a),_  
+| _Internal Revenue Code, such as engines, machinery, tools, and_  
+| _implements used in a trade or business or held for investment and_  
+| _subject to an allowance for depreciation, cost recovery under the_  
+| _accelerated cost recovery system, or amortization. The term does_  
+| _not include real property or buildings and their structural_  
+| _components. Property that is leased under a capitalized lease is_  
+| _considered a qualified capital investment, but property that is_  
+| _leased under an operating lease is not considered a qualified_  
+| _capital investment. Property expensed under Section 179, Internal_  
+| _Revenue Code, is not considered a qualified capital investment._  
+|  _Sec._ ___171.9222._ _____TANGIBLE PERSONAL PROPERTY FIRST PLACED IN_  
+| _SERVICE BY AN ENTERPRISE PROJECT. For purposes of determining_  
+| _whether an investment is a qualified capital investment under_  
+| _Section 171.9221, "tangible personal property first placed in_  
+| _service by an enterprise project" includes tangible personal_  
+| _property:_  
+|  _(1)_ _____purchased by an enterprise project for placement_  
+| _in an incomplete improvement that is under active construction or_  
+| _other physical preparation;_  
+|  _(2)_ _____identified by a purchase order, invoice, billing,_  
+| _sales slip, or contract; and_  
+|  _(3)_ _____physically present at the enterprise project's_  
+| _qualified business site, as defined by Section 2303.003, Government_  
+| _Code, and in use by the enterprise project on the original due date_  
+| _of the report on which the credit is taken._  
+|  _Sec._ ___171.9223._ _____ELIGIBILITY._ ___An enterprise project that is_  
+| _a qualified business is eligible for a credit against the tax_  
+| _imposed under this chapter in the amount and under the conditions_  
+| _and limitations provided by this subchapter._  
+|  _Sec._ ___171.9224._ _____CALCULATION OF CREDIT. (a)_ ___An enterprise_  
+| _project that is eligible for a credit under this subchapter may,_  
+| _beginning on January 1 of the year in which the project is_  
+| _designated or January 1, 2015, establish a credit equal to 7.5_  
+| _percent of the qualified capital investment._  
+|  _(b)_ _____A taxable entity may file an amended report to claim all_  
+| _or part of a credit earned in a previous tax year that has not been_  
+| _claimed on another report, subject to Section 171.9225, if the_  
+| _applicable period of limitation under Section 111.107 and_  
+| _Subchapter D, Chapter 111, for claiming that credit has not_  
+| _expired._  
+|  _Sec._ ___171.9225._ _____LIMITATION. The total credit claimed under_  
+| _this subchapter for a report, including the amount of any_  
+| _carryforward credit under Section 171.9226, may not exceed 50_  
+| _percent of the amount of franchise tax due for the report before any_  
+| _other applicable tax credits._  
+|  _Sec._ ___171.9226._ _____CARRYFORWARD. (a) If an enterprise project_  
+| _is eligible for a credit from an installment that exceeds a_  
+| _limitation under Section 171.9225, the enterprise project may carry_  
+| _the unused credit forward for not more than five consecutive_  
+| _reports._  
+|  _(b)_ _____A carryforward is considered the remaining portion of an_  
+| _installment that cannot be claimed in the current year because of a_  
+| _tax limitation under Section 171.9225. A carryforward is added to_  
+| _the next year's installment of the credit in determining the tax_  
+| _limitation for that year. A credit carryforward from a previous_  
+| _report is considered to be used before the current year_  
+| _installment._  
+|  _Sec._ ___171.9227._ _____CERTIFICATION OF ELIGIBILITY. (a) For the_  
+| _initial and each succeeding report in which a credit is claimed_  
+| _under this subchapter, the enterprise project shall file with its_  
+| _report, on a form provided by the comptroller, information that_  
+| _sufficiently demonstrates that the enterprise project is eligible_  
+| _for the credit._  
+|  _(b)_ _____The burden of establishing entitlement to and the value_  
+| _of the credit is on the enterprise project._  
+|  _Sec._ ___171.9228._ _____BIENNIAL REPORT BY COMPTROLLER. (a) Before_  
+| _the beginning of each regular session of the legislature, the_  
+| _comptroller shall submit to the governor, the lieutenant governor,_  
+| _and the speaker of the house of representatives a report that_  
+| _states:_  
+|  _(1)_ _____the total amount of qualified capital investments_  
+| _made by enterprise projects that claim a credit under this_  
+| _subchapter and the average and median wages paid by those_  
+| _enterprise projects;_  
+|  _(2)_ _____the total amount of credits applied against the_  
+| _tax under this chapter and the amount of unused credits;_  
+|  _(3)_ _____the total amount of franchise tax due by_  
+| _enterprise projects claiming a credit under this subchapter before_  
+| _and after the application of the credit and the average percentage_  
+| _reduction in franchise tax due by the enterprise projects;_  
+|  _(4)_ _____the percentage of tax credits under this_  
+| _subchapter that were awarded to enterprise projects with fewer than_  
+| _100 employees;_  
+|  _(5)_ _____the two-digit standard industrial classification_  
+| _of enterprise projects claiming a credit under this subchapter;_  
+|  _(6)_ _____the geographical distribution of the qualified_  
+| _capital investments on which tax credit claims are made under this_  
+| _subchapter; and_  
+|  _(7)_ _____the impact of the credit provided under this_  
+| _subchapter on employment, capital investment, personal income, and_  
+| _state tax revenues._  
+|  _(b)_ _____The comptroller may not include in the report_  
+| _information that is confidential by law._  
+|  _(c)_ _____For purposes of this section, the comptroller may_  
+| _require an enterprise project that claims a credit under this_  
+| _subchapter to submit information, on a form provided by the_  
+| _comptroller, on the location of the enterprise project's capital_  
+| _investment in this state and any other information necessary to_  
+| _complete the report required under this section._  
+|  _(d)_ _____The comptroller shall provide notice to the members of_  
+| _the legislature that the report required under this section is_  
+| _available on request._  
+|  _Sec._ ___171.9229._ _____COMPTROLLER POWERS AND DUTIES. The_  
+| _comptroller shall adopt rules and forms necessary to implement this_  
+| _subchapter._  
+|  SECTION 2. Except as provided by Section 171.9224(b), Tax  
+| Code, as added by this Act, this Act applies only to a report  
+| originally due on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

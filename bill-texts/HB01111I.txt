@@ -1,0 +1,353 @@
+| 86R3943 JG-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 1111  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to maternal and newborn health care.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.02163 to read as follows:  
+|  _Sec._ ___531.02163._ _____STUDY ON PROVIDING CERTAIN MATERNAL CARE_  
+| _MEDICAID SERVICES THROUGH TELEMEDICINE MEDICAL SERVICES AND_  
+| _TELEHEALTH SERVICES. (a) Not later than September 1, 2020, the_  
+| _commission shall conduct a study on the benefits and costs of_  
+| _permitting reimbursement under Medicaid for prenatal and_  
+| _postpartum care delivered through telemedicine medical services_  
+| _and telehealth services._  
+|  _(b) This section expires September 1, 2021._  
+|  SECTION 2. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.0996 to read as follows:  
+|  _Sec._ ___531.0996._ _____PREGNANCY MEDICAL HOME PILOT PROGRAM. (a)_  
+| _The commission shall develop a pilot program to establish pregnancy_  
+| _medical homes that provide coordinated evidence-based maternity_  
+| _care management to women who reside in a pilot program area and are_  
+| _recipients of Medicaid through a Medicaid managed care model or_  
+| _arrangement under Chapter 533. The commission shall implement the_  
+| _pilot program in:_  
+|  _(1)_ _____at least two counties with populations of more_  
+| _than two million; and_  
+|  _(2)_ _____at least one rural county with high rates of_  
+| _maternal mortality and morbidity as determined by the commission in_  
+| _consultation with the Maternal Mortality and Morbidity Task Force_  
+| _established under Chapter 34, Health and Safety Code._  
+|  _(b)_ _____In implementing the pilot program, the commission shall_  
+| _ensure each pregnancy medical home provides a maternity management_  
+| _team that:_  
+|  _(1)_ _____consists of health care providers, including_  
+| _obstetricians, gynecologists, family physicians, physician_  
+| _assistants, certified nurse midwives, nurse practitioners, and_  
+| _social workers, who provide health care services at the same_  
+| _location;_  
+|  _(2)_ _____conducts a risk assessment of each pilot program_  
+| _participant on her entry into the program to determine the risk_  
+| _classification for her pregnancy;_  
+|  _(3)_ _____based on the assessment conducted under_  
+| _Subdivision (2), establishes an individual pregnancy care plan for_  
+| _each participant; and_  
+|  _(4)_ _____follows each participant throughout her pregnancy_  
+| _to reduce poor birth outcomes._  
+|  _(c)_ _____The commission may incorporate as a component of the_  
+| _pilot program financial incentives for health care providers who_  
+| _participate in a maternity management team._  
+|  _(d)_ _____Not later than January 1, 2021, the commission shall_  
+| _submit to the legislature a report on the pilot program. The report_  
+| _must include:_  
+|  _(1)_ _____an evaluation of the pilot program's success in_  
+| _reducing poor birth outcomes; and_  
+|  _(2)_ _____a recommendation on whether the pilot program_  
+| _should continue, be expanded, or be terminated._  
+|  _(e)_ _____The executive commissioner may adopt rules to implement_  
+| _this section._  
+|  _(f) This section expires September 1, 2023._  
+|  SECTION 3. Section 33.004(f), Health and Safety Code, is  
+| amended to read as follows:  
+|  (f) The executive commissioner by rule _shall_ [ ~~may~~ ]  
+| establish the amounts charged for newborn screening fees, including  
+| fees assessed for follow-up services, tracking confirmatory  
+| testing, and diagnosis. _In adopting rules under this subsection,_  
+| _the executive commissioner shall ensure that amounts charged for_  
+| _newborn screening fees are sufficient to cover the costs of_  
+| _performing the screening._  
+|  SECTION 4. Chapter 33, Health and Safety Code, is amended by  
+| adding Subchapter D to read as follows:  
+| _SUBCHAPTER D. NEWBORN SCREENING PRESERVATION ACCOUNT_  
+|  _Sec._ ___33.051._ _____DEFINITION. In this subchapter, "account"_  
+| _means the newborn screening preservation account established under_  
+| _Section 33.052._  
+|  _Sec._ ___33.052._ _____CREATION OF ACCOUNT. (a) The newborn_  
+| _screening preservation account is a dedicated account in the_  
+| _general revenue fund. The account is created solely for the_  
+| _perpetual care and preservation of newborn screening in this state._  
+|  _(b)_ _____Money in the account may be appropriated only to the_  
+| _department and only for the purpose of carrying out the newborn_  
+| _screening program established under this chapter._  
+|  _(c)_ _____On September 30 of each year, the comptroller shall_  
+| _transfer to the account any unexpended and unencumbered money from_  
+| _Medicaid reimbursements collected by the department for newborn_  
+| _screening services during the preceding state fiscal year._  
+|  _(d) The account is composed of:_  
+|  _(1)_ _____money transferred to the account under Subsection_  
+| _(c);_  
+|  _(2)_ _____newborn screening fees collected by the department_  
+| _under this chapter;_  
+|  _(3)_ _____gifts, grants, donations, and legislative_  
+| _appropriations; and_  
+|  _(4)_ _____interest earned on the investment of money in the_  
+| _account._  
+|  _(e)_ _____Section 403.0956, Government Code, does not apply to the_  
+| _account._  
+|  _(f)_ _____The department administers the account. The department_  
+| _may solicit and receive gifts, grants, and donations from any_  
+| _source for the benefit of the account._  
+|  _Sec._ ___33.053._ _____DEDICATED USE. (a) The department may use any_  
+| _money remaining in the account after paying the costs of operating_  
+| _the newborn screening program established under this chapter only_  
+| _to:_  
+|  _(1)_ _____pay for capital assets, improvements, equipment,_  
+| _and renovations for the laboratory established by the department to_  
+| _ensure the continuous operation of the newborn screening program;_  
+| _and_  
+|  _(2)_ _____pay for necessary renovations, construction,_  
+| _capital assets, equipment, supplies, staff, and training_  
+| _associated with providing additional newborn screening tests not_  
+| _offered under this chapter before September 1, 2019, including the_  
+| _operational costs incurred during the first year of implementing_  
+| _the additional tests._  
+|  _(b)_ _____The department may not use money from the account for_  
+| _the department's general operating expenses._  
+|  _Sec._ ___33.054._ _____REPORT. If the department requires an_  
+| _additional newborn screening test under Subchapter B the costs of_  
+| _which are funded with money appropriated from the newborn screening_  
+| _preservation account, the department shall, not later than December_  
+| _31 of the first even-numbered year following the addition of the_  
+| _test, prepare and submit a written report regarding the actions_  
+| _taken by the department to fund and implement the test during the_  
+| _preceding two years to:_  
+|  _(1) the governor;_  
+|  _(2) the lieutenant governor;_  
+|  _(3) the speaker of the house of representatives; and_  
+|  _(4)_ _____each standing committee of the legislature having_  
+| _primary jurisdiction over the department._  
+|  SECTION 5. Chapter 34, Health and Safety Code, is amended by  
+| adding Sections 34.0158 and 34.0159 to read as follows:  
+|  _Sec._ ___34.0158._ _____REPORT ON ACTIONS TO ADDRESS MATERNAL_  
+| _MORTALITY RATES. Not later than December 1 of each even-numbered_  
+| _year, the commission shall submit to the governor, the lieutenant_  
+| _governor, the speaker of the house of representatives, the_  
+| _Legislative Budget Board, and the appropriate standing committees_  
+| _of the legislature a written report summarizing the actions taken_  
+| _to address maternal morbidity and reduce maternal mortality rates._  
+| _The report must include information from programs and initiatives_  
+| _created to address maternal morbidity and reduce maternal mortality_  
+| _rates in this state, including:_  
+|  _(1) Medicaid;_  
+|  _(2)_ _____the children's health insurance program, including_  
+| _the perinatal program;_  
+|  _(3) the Healthy Texas Women program;_  
+|  _(4) the Family Planning Program;_  
+|  _(5)_ _____this state's program under the Maternal and Child_  
+| _Health Services Block Grant Act (42 U.S.C. Section 701 et seq.);_  
+|  _(6) the Perinatal Advisory Council;_  
+|  _(7) state health plans; and_  
+|  _(8) the Healthy Texas Babies program._  
+|  _Sec._ ___34.0159._ _____PROGRAM EVALUATIONS. The commission, in_  
+| _collaboration with the task force and other interested parties,_  
+| _shall:_  
+|  _(1)_ _____explore options for expanding the pilot program_  
+| _for pregnancy medical homes established under Section 531.0996,_  
+| _Government Code;_  
+|  _(2)_ _____explore methods for increasing the benefits_  
+| _provided under Medicaid, including specialty care and_  
+| _prescriptions, for women at greater risk of a high-risk pregnancy_  
+| _or premature delivery;_  
+|  _(3)_ _____evaluate the impact of supplemental payments made_  
+| _to obstetrics providers for pregnancy risk assessments on_  
+| _increasing access to maternal health services;_  
+|  _(4)_ _____evaluate a waiver to fund managed care_  
+| _organization payments for case management and care coordination_  
+| _services for women at high risk of severe maternal morbidity on_  
+| _conclusion of their eligibility for Medicaid;_  
+|  _(5)_ _____evaluate the average time required for pregnant_  
+| _women to complete the Medicaid enrollment process;_  
+|  _(6)_ _____evaluate the use of Medicare codes for Medicaid_  
+| _care coordination;_  
+|  _(7)_ _____study the impact of programs funded from the Teen_  
+| _Pregnancy Prevention Program federal grant and evaluate whether the_  
+| _state should continue funding the programs; and_  
+|  _(8)_ _____evaluate the use of telemedicine medical services_  
+| _for women during pregnancy and the postpartum period._  
+|  SECTION 6. Chapter 34, Health and Safety Code, is amended by  
+| adding Sections 34.019, 34.020, and 34.021 to read as follows:  
+|  _Sec._ ___34.019._ _____DATA COLLECTION. The task force, under the_  
+| _direction of the commission, shall annually collect information_  
+| _relating to maternity care and postpartum depression in this state._  
+| _The information must be based on statistics for the preceding year_  
+| _and include the:_  
+|  _(1) number of births by Medicaid recipients;_  
+|  _(2)_ _____number of births by women with health benefit plan_  
+| _coverage;_  
+|  _(3)_ _____number of Medicaid recipients screened for_  
+| _postpartum depression;_  
+|  _(4)_ _____number of women screened for postpartum depression_  
+| _under health benefit plan coverage;_  
+|  _(5)_ _____number of women treated for postpartum depression_  
+| _under health benefit plan coverage;_  
+|  _(6)_ _____number of women screened for postpartum depression_  
+| _under the Healthy Texas Women program;_  
+|  _(7)_ _____number of women treated for postpartum depression_  
+| _under the Healthy Texas Women program;_  
+|  _(8)_ _____number of claims for postpartum depression_  
+| _treatment paid by the Healthy Texas Women program;_  
+|  _(9)_ _____number of claims for postpartum depression_  
+| _treatment rejected by the Healthy Texas Women program;_  
+|  _(10)_ _____postpartum depression screening and treatment_  
+| _billing codes and the number of claims for each billing code under_  
+| _the Healthy Texas Women program;_  
+|  _(11)_ _____average number of days from the date of a_  
+| _postpartum depression screening to the date the patient begins_  
+| _treatment under Medicaid;_  
+|  _(12)_ _____average number of days from the date of a_  
+| _postpartum depression screening to the date the patient begins_  
+| _treatment under the Healthy Texas Women program;_  
+|  _(13)_ _____number of women who screened positive for_  
+| _postpartum depression under Medicaid and the average number of days_  
+| _following childbirth for the screening to occur;_  
+|  _(14)_ _____number of women who screened positive for_  
+| _postpartum depression under health benefit plan coverage and the_  
+| _average number of days following childbirth for the screening to_  
+| _occur; and_  
+|  _(15)_ _____number of women who screened positive for_  
+| _postpartum depression under the Healthy Texas Women program and the_  
+| _average number of days following childbirth for the screening to_  
+| _occur._  
+|  _Sec._ ___34.020._ _____PROGRAM TO DELIVER PRENATAL AND POSTPARTUM_  
+| _CARE THROUGH TELEHEALTH OR TELEMEDICINE MEDICAL SERVICES IN CERTAIN_  
+| _COUNTIES. (a) In this section:_  
+|  _(1)_ _____"Postpartum care" and "prenatal care" have the_  
+| _meanings assigned by Section 32.002._  
+|  _(2)_ _____"Telehealth service" and "telemedicine medical_  
+| _service" have the meanings assigned by Section 111.001, Occupations_  
+| _Code._  
+|  _(b)_ _____The commission, in consultation with the task force,_  
+| _shall develop a program to deliver prenatal and postpartum care_  
+| _through telehealth services or telemedicine medical services to_  
+| _pregnant women with a low risk of experiencing pregnancy-related_  
+| _complications. The commission shall implement the program in:_  
+|  _(1)_ _____at least two counties with populations of more_  
+| _than two million; and_  
+|  _(2)_ _____at least one rural county with high rates of_  
+| _maternal mortality and morbidity as determined by the commission in_  
+| _consultation with the task force._  
+|  _(c)_ _____The commission shall develop criteria for selecting_  
+| _participants for the program by analyzing information in the_  
+| _reports prepared by the task force under this chapter and the_  
+| _outcomes of the study conducted under Section 531.02163, Government_  
+| _Code._  
+|  _(d)_ _____Not later than January 1, 2021, the commission shall_  
+| _submit to the legislature a report on the program that evaluates the_  
+| _program's success in delivering prenatal and postpartum care_  
+| _through telehealth services or telemedicine medical services under_  
+| _Subsection (b)._  
+|  _Sec._ ___34.021._ _____APPLICATION FOR FEDERAL GRANTS. (a) The_  
+| _executive commissioner shall apply to the United States Department_  
+| _of Health and Human Services for grants under the federal_  
+| _Preventing Maternal Deaths Act of 2018 (Pub. L. No. 115-344)._  
+|  _(b) This section expires September 1, 2027._  
+|  SECTION 7. Chapter 1001, Health and Safety Code, is amended  
+| by adding Subchapter K to read as follows:  
+| _SUBCHAPTER K. HIGH-RISK MATERNAL CARE COORDINATION SERVICES PILOT_  
+| _PROGRAM_  
+|  _Sec. 1001.261. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Pilot program" means the high-risk maternal care_  
+| _coordination services pilot program established under this_  
+| _subchapter._  
+|  _(2)_ _____"Promotora" or "community health worker" has the_  
+| _meaning assigned by Section 48.001._  
+|  _Sec._ ___1001.262._ _____ESTABLISHMENT OF PILOT PROGRAM; RULES. (a)_  
+| _The department shall develop and implement a high-risk maternal_  
+| _care coordination services pilot program in one or more geographic_  
+| _areas in this state._  
+|  _(b)_ _____In implementing the pilot program, the department_  
+| _shall:_  
+|  _(1)_ _____conduct a statewide assessment of training courses_  
+| _provided by promotoras or community health workers that target_  
+| _women of childbearing age;_  
+|  _(2)_ _____study existing models of high-risk maternal care_  
+| _coordination services;_  
+|  _(3)_ _____identify, adapt, or create a risk assessment tool_  
+| _to identify pregnant women who are at a higher risk for poor_  
+| _pregnancy, birth, or postpartum outcomes; and_  
+|  _(4)_ _____create educational materials for promotoras and_  
+| _community health workers that include information on the:_  
+|  _(A)_ _____assessment tool described by Subdivision_  
+| _(3); and_  
+|  _(B) best practices for high-risk maternal care._  
+|  _(c)_ _____The executive commissioner shall adopt rules as_  
+| _necessary to implement this subchapter and prescribe the types of_  
+| _information to be collected during the course of the pilot program_  
+| _and included in the report described by Section 1001.264._  
+|  _Sec._ ___1001.263._ _____DUTIES OF DEPARTMENT. (a) The department_  
+| _shall provide to each geographic area selected for the pilot_  
+| _program the support, resources, technical assistance, training,_  
+| _and guidance necessary to:_  
+|  _(1)_ _____screen all or a sample of pregnant patients with_  
+| _the assessment tool described by Section 1001.262(b)(3); and_  
+|  _(2)_ _____integrate community health worker services for_  
+| _women with high-risk pregnancies in:_  
+|  _(A)_ _____providing patient education on_  
+| _health-enhancing behaviors and chronic disease management and_  
+| _prevention;_  
+|  _(B)_ _____facilitating care coordination and_  
+| _navigation activities; and_  
+|  _(C)_ _____identifying and reducing barriers to the_  
+| _women's access to health care._  
+|  _(b)_ _____The department shall develop training courses to_  
+| _prepare promotoras and community health workers in educating and_  
+| _supporting women at high risk for serious complications during the_  
+| _pregnancy and postpartum periods._  
+|  _Sec._ ___1001.264._ _____PILOT PROGRAM REPORT. (a) Not later than_  
+| _December 1 of each even-numbered year, the department shall prepare_  
+| _and submit a report on the pilot program to the executive_  
+| _commissioner and the chairs of the standing committees of the_  
+| _senate and the house of representatives with primary jurisdiction_  
+| _over public health and human services. The report may be submitted_  
+| _with the report required under Section 34.0156._  
+|  _(b)_ _____The report submitted under this section must include an_  
+| _evaluation from the commissioner of the pilot program's_  
+| _effectiveness._  
+|  _(c)_ _____The report submitted under this section must include a_  
+| _recommendation from the department on whether the pilot program_  
+| _should continue, be expanded, or be terminated._  
+|  _Sec._ ___1001.265._ _____EXPIRATION. This subchapter expires_  
+| _September 1, 2023._  
+|  SECTION 8. (a)  Except as provided by Subsection (b) of this  
+| section, not later than December 1, 2019, the executive  
+| commissioner of the Health and Human Services Commission shall  
+| adopt the rules required under Section 33.004(f), Health and Safety  
+| Code, as amended by this Act, and Section 1001.262(c), Health and  
+| Safety Code, as added by this Act.  
+|  (b) Notwithstanding Subchapter K, Chapter 1001, Health and  
+| Safety Code, as added by this Act, the Department of State Health  
+| Services and the executive commissioner of the Health and Human  
+| Services Commission are not required to comply with that subchapter  
+| unless a specific appropriation for the implementation of the  
+| subchapter is provided in a general appropriations act of the 86th  
+| Legislature.  
+|  SECTION 9. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall apply to the United States Department of  
+| Health and Human Services for grants as required by Section 34.021,  
+| Health and Safety Code, as added by this Act.  
+|  SECTION 10. If before implementing any provision of this  
+| Act a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 11. This Act takes effect immediately if it  
+| receives a vote of two-thirds of all the members elected to each  
+| house, as provided by Section 39, Article III, Texas Constitution.  
+| If this Act does not receive the vote necessary for immediate  
+| effect, this Act takes effect September 1, 2019.
+

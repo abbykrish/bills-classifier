@@ -1,0 +1,140 @@
+| 86R1124 CJC-F  
+---|---  
+|  By: Krause | H.B. No. 237  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to zero-based budgeting for certain entities funded by  
+| this state and submission of a zero-based budget by and performance  
+| of a financial audit of an agency undergoing review by the Sunset  
+| Advisory Commission.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 322.007, Government Code, is amended to  
+| read as follows:  
+|  Sec. 322.007. ESTIMATES AND REPORTS _; SCHEDULED ZERO-BASED_  
+| _BUDGET PLANNING_.  (a)  Each institution, department, agency,  
+| officer, employee, or agent of the state shall submit _to the board_  
+| any estimate or report relating to appropriations requested by the  
+| board or under the board's direction.  
+|  _(a-1)_ _____The board shall adopt a schedule for the submission of_  
+| _zero-based budget plans by institutions, departments, and agencies_  
+| _of this state so that:_  
+|  _(1)_ _____one-third of the entities, or as near as possible_  
+| _to one-third of the entities, are scheduled to submit a zero-based_  
+| _budget plan before each regular legislative session; and_  
+|  _(2)_ _____each entity is scheduled to submit a zero-based_  
+| _budget plan before every third regular legislative session._  
+|  _(a-2)_ _____Each institution, department, and agency of this_  
+| _state that receives an appropriation shall submit to the board a_  
+| _zero-based budget plan in accordance with the schedule adopted_  
+| _under Subsection (a-1)._ ___A zero-based budget plan must contain:_  
+|  _(1)_ _____a description of the discrete activities the_  
+| _entity is charged with conducting or performing, together with a_  
+| _justification for each activity by reference to a statute or other_  
+| _legal authority;_  
+|  _(2)_ _____for each activity identified under Subdivision_  
+| _(1), a quantitative estimate of any adverse effects that reasonably_  
+| _may be expected to result if the activity were discontinued,_  
+| _together with a description of the methods by which the adverse_  
+| _effects were estimated;_  
+|  _(3)_ _____for each activity identified under Subdivision_  
+| _(1), an itemized account of expenditures required to maintain the_  
+| _activity at the minimum level of service required by the statute or_  
+| _other legal authority, together with a concise statement of the_  
+| _quantity and quality of service required at that minimum level;_  
+|  _(4)_ _____for each activity identified under Subdivision_  
+| _(1), an itemized account of expenditures required to maintain the_  
+| _activity at the current level of service, together with a concise_  
+| _statement of the quantity and quality of service provided at that_  
+| _level; and_  
+|  _(5)_ _____a ranking of activities identified under_  
+| _Subdivision (1) that illustrates the relative importance of each_  
+| _activity to the overall goals and purposes of the institution,_  
+| _department, or agency at current service levels._  
+|  (b) Each _zero-based budget plan and each_ estimate or report  
+| shall be submitted at a time set by the board and in the manner and  
+| form prescribed by board rules.  
+|  (c) _Each zero-based budget plan and each_ [ ~~An~~ ] estimate or  
+| report required under this section is in addition to _a budget plan_  
+| _or_ an estimate or report required by other law, including those  
+| estimates or reports relating to appropriations required by Chapter  
+| 401.  
+|  SECTION 2. Section 322.008(a), Government Code, is amended  
+| to read as follows:  
+|  (a) _Based on information provided under Section 322.007,_  
+| _the_ [ ~~The~~ ] director, under the direction of the board, shall prepare  
+| the general appropriations bill for introduction at each regular  
+| legislative session.  
+|  SECTION 3. The heading to Section 325.007, Government Code,  
+| is amended to read as follows:  
+|  Sec. 325.007. AGENCY REPORT TO COMMISSION _; ZERO-BASED_  
+| _BUDGET REPORTS_.  
+|  SECTION 4. Section 325.007, Government Code, is amended by  
+| adding Subsection (a-1) and amending Subsection (b) to read as  
+| follows:  
+|  _(a-1)_ _____Before November 1 of the odd-numbered year before the_  
+| _year in which a state agency subject to this chapter is abolished,_  
+| _the agency shall present to the commission a zero-based budget for_  
+| _the state fiscal year that begins on the date the agency is_  
+| _scheduled to be abolished that:_  
+|  _(1)_ _____describes the discrete activities the agency is_  
+| _charged with conducting or performing, together with a_  
+| _justification for each activity by reference to a statute or other_  
+| _legal authority;_  
+|  _(2)_ _____for each activity identified under Subdivision_  
+| _(1), provides a quantitative estimate of any adverse effects that_  
+| _reasonably may be expected to result if the activity were_  
+| _discontinued, together with a description of the methods by which_  
+| _the adverse effects were estimated;_  
+|  _(3)_ _____for each activity identified under Subdivision_  
+| _(1), provides an itemized account of expenditures required to_  
+| _maintain the activity at the minimum level of service required by_  
+| _the statute or other legal authority, together with a concise_  
+| _statement of the quantity and quality of service required at that_  
+| _minimum level;_  
+|  _(4)_ _____for each activity identified under Subdivision_  
+| _(1), provides an itemized account of expenditures required to_  
+| _maintain the activity at the current level of service, together_  
+| _with a concise statement of the quantity and quality of service_  
+| _provided at that level; and_  
+|  _(5)_ _____ranks activities identified under Subdivision (1)_  
+| _in a manner that illustrates the relative importance of each_  
+| _activity to the overall goals and purposes of the agency at current_  
+| _service levels._  
+|  (b) The reports under _this section_ [ ~~Subsection (a)~~ ] must be  
+| submitted in electronic format only.  The commission shall  
+| prescribe the electronic format to be used.  
+|  SECTION 5. Chapter 325, Government Code, is amended by  
+| adding Section 325.0074 to read as follows:  
+|  _Sec._ ___325.0074._ _____FINANCIAL AUDIT._ ___The state auditor shall_  
+| _conduct a financial audit under Section 321.0131 of each state_  
+| _agency scheduled to be abolished on a date certain if not continued_  
+| _in accordance with this chapter._ ___The state auditor shall conduct_  
+| _the audit at a time so that the completed audit may be sent to the_  
+| _commission on September 1 of the odd-numbered year before the year_  
+| _the agency is scheduled to be abolished._  
+|  SECTION 6. Section 401.0445(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The governor shall compile the biennial appropriation  
+| budget using information:  
+|  (1) submitted to the governor in the uniform budget  
+| estimate forms; [ ~~and~~ ]  
+|  (2) obtained at public hearings, from inspections, and  
+| from other sources _; and_  
+|  _(3)_ _____submitted to the Legislative Budget Board under_  
+| _Section 322.007_.  
+|  SECTION 7. (a)  Sections 322.007, 322.008(a), and  
+| 401.0445(a), Government Code, as amended by this Act, apply only in  
+| regard to information for developing a biennial appropriation  
+| budget for a state fiscal biennium beginning on or after the  
+| effective date of this Act.  
+|  (b) Section 325.007, Government Code, as amended by this  
+| Act, and Section 325.0074, Government Code, as added by this Act,  
+| apply only in relation to the review by the Sunset Advisory  
+| Commission of agencies scheduled to be abolished on or after  
+| September 1, 2023, if not continued in accordance with Chapter 325,  
+| Government Code, and in relation to any other agencies that by law  
+| are reviewed during those review periods by the Sunset Advisory  
+| Commission.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

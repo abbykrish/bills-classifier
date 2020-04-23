@@ -1,0 +1,318 @@
+| 86R10463 PMO-F  
+---|---  
+|  By: Dutton | H.B. No. 3919  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prosecutorial transparency.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle C, Title 2, Government Code, is amended  
+| by adding Chapter 47 to read as follows:  
+| _CHAPTER 47. PROSECUTORIAL TRANSPARENCY_  
+|  _Sec. 47.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Case number" means the unique number assigned to_  
+| _a criminal case associated with a particular criminal charge._  
+|  _(2)_ _____"Charge" means any accusation of a crime by a_  
+| _prosecutor's office, including an ordinance, citation, summary,_  
+| _misdemeanor, felony, or other type of crime, and an accusation_  
+| _brought by ticket, citation, information, complaint, indictment,_  
+| _or other charging instrument._  
+|  _(3)_ _____"Disposition" means the conclusion of the_  
+| _prosecution of a charge, including an entry of nolle prosequi,_  
+| _diversion, dismissal, dismissal as part of plea bargain, conviction_  
+| _as part of plea bargain, conviction at trial, or acquittal._  
+|  _(4)_ _____"Policy" means any policy, procedure, guideline,_  
+| _manual, training material, direction, instruction, or other_  
+| _information, formal or informal, and written or unwritten, that_  
+| _contains guidance for employees of the prosecutor's office._  
+|  _(5)_ _____"Unique identifier" means a randomly generated_  
+| _number assigned in place of a defendant's name._  
+|  _Sec._ ___47.0002._ _____INFORMATION COLLECTED, MAINTAINED, AND_  
+| _DISCLOSED. (a) Except as provided by this section, a prosecutor's_  
+| _office shall collect and disclose the following information for_  
+| _each case prosecuted by the office:_  
+|  _(1) the case number;_  
+|  _(2) the indictment number;_  
+|  _(3) the docket number;_  
+|  _(4) the unique identifier;_  
+|  _(5) the defendant's race;_  
+|  _(6) the defendant's gender;_  
+|  _(7)_ _____the defendant's disability status, including, as_  
+| _applicable:_  
+|  _(A) mental disability;_  
+|  _(B) physical disability; or_  
+|  _(C) sensory disability;_  
+|  _(8)_ _____the source of the information in Subdivision (7),_  
+| _including, as applicable:_  
+|  _(A) the defendant's advocate or attorney;_  
+|  _(B) observation by defense attorney; or_  
+|  _(C) another source;_  
+|  _(9) the incident date;_  
+|  _(10) the arrest date;_  
+|  _(11) the district or neighborhood of the arrest;_  
+|  _(12) the primary arresting agency;_  
+|  _(13) other agencies involved in the arrest;_  
+|  _(14) the charges listed on arresting agency paperwork;_  
+|  _(15)_ _____if the prosecutor declines to prosecute the_  
+| _arrest, the reason for not prosecuting the alleged offense;_  
+|  _(16) any charges brought by the prosecutor;_  
+|  _(17) the prosecutor who approved each charge;_  
+|  _(18)_ _____the defendant's eligibility for court-appointed_  
+| _counsel and the proceeding in which the determination was made;_  
+|  _(19) the arraignment date;_  
+|  _(20) the charge modification date;_  
+|  _(21) the charge following modification;_  
+|  _(22) whether diversion was offered;_  
+|  _(23) the date diversion was offered;_  
+|  _(24)_ _____the judge's position on diversion if stated on the_  
+| _record;_  
+|  _(25)_ _____if diversion was offered, whether it was accepted_  
+| _by the defendant;_  
+|  _(26)_ _____the diversion terms, including the amount of any_  
+| _fees, the defendant must pay;_  
+|  _(27)_ _____whether the charge carried a mandatory minimum_  
+| _sentence;_  
+|  _(28) whether the charge was death penalty-eligible;_  
+|  _(29)_ _____the prosecutor's recommendation on amount of bail_  
+| _or bond, including release conditions;_  
+|  _(30)_ _____whether bail or bond was imposed on the_  
+| _defendant;_  
+|  _(31)_ _____whether bond was secured, unsecured, or another_  
+| _type of arrangement;_  
+|  _(32) the date bail or bond was imposed;_  
+|  _(33) any ordered release conditions;_  
+|  _(34) the date range of any pretrial detention;_  
+|  _(35)_ _____whether a risk assessment or other_  
+| _algorithm-based or quantitative tool was used in determining_  
+| _pretrial detention or the amount of bail or bond and, if so:_  
+|  _(A)_ _____the name of the office or agency that_  
+| _conducted the risk assessment; and_  
+|  _(B)_ _____the name of offices, agencies, individuals,_  
+| _or attorneys that received the risk assessment results;_  
+|  _(36)_ _____whether any statutory or constitutional rights of_  
+| _defendants were waived by stipulation or in the court's record and,_  
+| _if so:_  
+|  _(A) the dates of the waiver;_  
+|  _(B) the rights waived; and_  
+|  _(C)_ _____whether and which rights were waived as a_  
+| _condition of a plea bargain;_  
+|  _(37) whether a plea was offered;_  
+|  _(38)_ _____whether an acceptance time was included with a_  
+| _plea offer;_  
+|  _(39)_ _____the terms of all pleas offered to the defendant,_  
+| _including:_  
+|  _(A) any charges dismissed;_  
+|  _(B) the sentence ranges for charges dismissed;_  
+|  _(C) the charges in the plea;_  
+|  _(D) the sentence ranges for charges in the plea;_  
+|  _(E)_ _____any charges covered by the plea but not the_  
+| _conviction; and_  
+|  _(F)_ _____any penalties or sentence offered for_  
+| _accepting the plea;_  
+|  _(40) whether the plea was accepted or rejected;_  
+|  _(41)_ _____whether discovery was offered to the defendant_  
+| _before the plea;_  
+|  _(42)_ _____the date discovery was disclosed to the defense_  
+| _or defendant;_  
+|  _(43) the presiding judges for pretrial proceedings;_  
+|  _(44) the case's disposition, including:_  
+|  _(A)_ _____whether the case or charges were dropped by_  
+| _the prosecutor or dismissed on the motion of the prosecutor and the_  
+| _reason for the dismissal;_  
+|  _(B)_ _____the charges of which the defendant was_  
+| _convicted;_  
+|  _(C)_ _____if the defendant was convicted, whether by_  
+| _plea, jury trial, or bench trial; and_  
+|  _(D)_ _____if the case was dismissed by a judge, the_  
+| _reason for the dismissal;_  
+|  _(45) the presiding judge at disposition;_  
+|  _(46) the disposition date;_  
+|  _(47) the sentence type;_  
+|  _(48) the sentence length;_  
+|  _(49) the presiding judge at sentencing;_  
+|  _(50) the supervision terms;_  
+|  _(51)_ _____any services required or provided to the defense_  
+| _or defendant;_  
+|  _(52) any fines, fees, or surcharges imposed; and_  
+|  _(53) any forfeiture of property required._  
+|  _(b)_ _____The prosecutor's office shall maintain a record of the_  
+| _information required by Subsection (a) for each case until at least_  
+| _the 10th anniversary of the date of the alleged offense that is the_  
+| _subject of the case._  
+|  _(c)_ _____The prosecutor's office shall collect and publish all_  
+| _office policies including the policies listed in this subsection._  
+| _If the prosecutor's office does not maintain a policy related to any_  
+| _topics listed in this subsection, the prosecutor's office shall_  
+| _affirmatively disclose that fact. The policies may include:_  
+|  _(1) charge dismissal and charging;_  
+|  _(2) bail;_  
+|  _(3) sentencing;_  
+|  _(4) plea bargains;_  
+|  _(5) grand jury practices;_  
+|  _(6) discovery practices;_  
+|  _(7)_ _____witness treatment, including the timing and_  
+| _procedures to procure material witness warrants;_  
+|  _(8)_ _____the procedure for deciding whether to prosecute_  
+| _juveniles as adults;_  
+|  _(9) the manner in which fines and fees are assessed;_  
+|  _(10) criminal and civil forfeiture practices;_  
+|  _(11)_ _____mental health screening and mental health_  
+| _history;_  
+|  _(12) substance abuse screening and history;_  
+|  _(13) domestic violence survivors;_  
+|  _(14) diversion policies and practices;_  
+|  _(15)_ _____human resources, including hiring, evaluation,_  
+| _firing, promotion, and rotation among divisions or units in the_  
+| _prosecutor's office;_  
+|  _(16)_ _____internal discipline policies and procedures in_  
+| _the prosecutor's office;_  
+|  _(17) victim services;_  
+|  _(18) restorative justice programs;_  
+|  _(19)_ _____office trainings offered in the prosecutor's_  
+| _office in the preceding year;_  
+|  _(20)_ _____practices involving tracking and responding to_  
+| _prison inmates' applications for parole or resentencing; and_  
+|  _(21)_ _____policies specific to vulnerable populations,_  
+| _including members of the immigrant, lesbian, gay, bisexual,_  
+| _transgender, or queer communities._  
+|  _(d)_ _____The prosecutor's office shall collect and publish the_  
+| _following information for each attorney employed in the office,_  
+| _redacting the names and other personally identifying information or_  
+| _otherwise ensuring the anonymity of each attorney:_  
+|  _(1) age;_  
+|  _(2) gender;_  
+|  _(3) race;_  
+|  _(4) date hired;_  
+|  _(5) title; and_  
+|  _(6) disciplinary history._  
+|  _(e)_ _____The prosecutor's office must collect and publish the_  
+| _following information:_  
+|  _(1) the number of attorneys on staff;_  
+|  _(2)_ _____the number of cases handled by an attorney each_  
+| _year;_  
+|  _(3)_ _____the number of attorneys who worked for the office_  
+| _in a temporary or contract capacity during the preceding calendar_  
+| _year;_  
+|  _(4)_ _____the number of paralegals and administrative staff_  
+| _employed by the office;_  
+|  _(5)_ _____the number of investigators used during the_  
+| _preceding calendar year;_  
+|  _(6)_ _____the number of experts, on staff or in another_  
+| _capacity, used during the preceding calendar year; and_  
+|  _(7)_ _____the number of police or detectives who work_  
+| _directly for the prosecutor's office._  
+|  _Sec._ ___47.0003._ _____PUBLIC POSTING REQUIREMENTS. (a) A_  
+| _prosecutor's office shall make publicly available the information_  
+| _required by Section 47.0002(c)-(e) by posting the information on_  
+| _the office's Internet website and making the information available_  
+| _on request._  
+|  _(b)_ _____The information made available under Subsection (a)_  
+| _must include the effective date of the policy or the date the_  
+| _information was gathered. The prosecutor's office shall ensure_  
+| _that the office posts revised or newly drafted policies or newly_  
+| _collected information in a timely manner, and not less frequently_  
+| _than annually._  
+|  _Sec._ ___47.0004._ _____REPORT TO OFFICE OF COURT ADMINISTRATION._  
+| _(a) A prosecutor's office shall report the information required_  
+| _under Section 47.0002(a) to the Office of Court Administration of_  
+| _the Texas Judicial System._  
+|  _(b)_ _____The Office of Court Administration of the Texas Judicial_  
+| _System shall:_  
+|  _(1)_ _____determine the manner in which information required_  
+| _under Section 47.0002(a) is transmitted to the office by a_  
+| _prosecutor's office in a uniform and consistent fashion;_  
+|  _(2)_ _____determine an implementation schedule and plan for_  
+| _all prosecutors' offices in the state to report the information_  
+| _required under Section 47.0002(a). That plan may include, at the_  
+| _sole discretion of the office, implementation on a rolling basis_  
+| _that starts by prioritizing a subset of the information or starts by_  
+| _prioritizing reporting from prosecutors' offices from counties_  
+| _with the largest population;_  
+|  _(3)_ _____on May 1 of each year, publish on the office's_  
+| _Internet website the information collected under Section_  
+| _47.0002(a) in an open electronic format that is machine-readable,_  
+| _machine-searchable, and readily accessible to the public, provided_  
+| _the information does not contain personally identifying_  
+| _information about any person arrested or prosecuted;_  
+|  _(4)_ _____on September 1 of each year, produce an annual_  
+| _report that analyzes the information received from all prosecutors'_  
+| _offices, comparing and contrasting the practices and trends among_  
+| _prosecutors' offices in this state, and identifying any_  
+| _prosecutors' offices that are not in compliance with this chapter;_  
+| _and_  
+|  _(5)_ _____biannually publish issue-specific reports that_  
+| _provide a deeper analysis of one or more areas of prosecutorial_  
+| _decision-making, with at least one report each year focusing on_  
+| _racial disparities in prosecutorial decision-making._  
+|  _(c)_ _____In accordance with the plan implemented under_  
+| _Subsections (b)(1) and (2), on or before January 31 of each year, a_  
+| _prosecutor's office shall transmit information that does not_  
+| _contain any personally identifying information about a person_  
+| _arrested or prosecuted to the Office of Court Administration of the_  
+| _Texas Judicial System for the preceding calendar year._  
+|  _Sec._ ___47.0005._ _____ADVISORY BOARD. (a) A board is established_  
+| _to advise the Office of Court Administration of the Texas Judicial_  
+| _System under this chapter. The board shall meet at least quarterly_  
+| _with the office to provide comments and guidance to the office on_  
+| _any draft rules, policies, plans, reports, or other decisions made_  
+| _by the office related to this chapter._  
+|  _(b) The advisory board:_  
+|  _(1)_ _____is composed of at least seven members, appointed_  
+| _by the governor; and_  
+|  _(2) must include at least:_  
+|  _(A)_ _____two members who are public defenders or_  
+| _criminal defense attorneys; and_  
+|  _(B)_ _____two members who have direct experience being_  
+| _prosecuted in the state's criminal justice system._  
+|  _(c)_ _____An advisory board member is not entitled to compensation_  
+| _for service on the advisory board._  
+|  _Sec._ ___47.0006._ _____NONCOMPLIANCE. Notwithstanding any other_  
+| _law, if the Office of Court Administration of the Texas Judicial_  
+| _System determines that a prosecutor's office is not in compliance_  
+| _with this chapter, the prosecutor's office is ineligible to receive_  
+| _funding from the state's general revenue fund or other fund or any_  
+| _state grant program administered by the attorney general or other_  
+| _entity controlling grants to the prosecutor's office, and the_  
+| _office shall inform the comptroller and the Legislative Budget_  
+| _Board of the ineligibility. Eligibility for funding may be_  
+| _restored only after:_  
+|  _(1)_ _____the prosecutor's office fully complies with this_  
+| _chapter and provides the required information; and_  
+|  _(2)_ _____the Office of Court Administration of the Texas_  
+| _Judicial System certifies that the prosecutor's office is in_  
+| _compliance with this chapter._  
+|  _Sec._ ___47.0007._ _____RELATION TO PUBLIC RECORDS ACTS. (a) If the_  
+| _prosecutor's office is in compliance with this chapter and receives_  
+| _a request for information under Chapter 552 that the prosecutor's_  
+| _office reasonably and in good faith believes can be satisfied by_  
+| _reference to information publicly available under this chapter, the_  
+| _prosecutor's office may satisfy the obligation under Chapter 552 by_  
+| _referring the requesting party to the Internet website of the_  
+| _Office of Court Administration of the Texas Judicial System that_  
+| _contains the information and is not required to otherwise collect_  
+| _and disclose the requested information._  
+|  _(b)_ _____If the requesting party does not agree that the party's_  
+| _request can be satisfied with information collected and published_  
+| _under this chapter on the relevant website, the requesting party_  
+| _may file suit in accordance with Chapter 552 to compel disclosure._  
+|  SECTION 2. (a) Not later than March 1, 2020, a prosecutor's  
+| office shall post on the prosecutor's office's Internet website the  
+| initial information required under Section 47.0002(c)-(e),  
+| Government Code, as added by this Act.  
+|  (b) Not later than September 1, 2020, the Office of Court  
+| Administration of the Texas Judicial System shall make the initial  
+| determinations required under Sections 47.0004(b)(1) and (2),  
+| Government Code, as added by this Act.  
+|  (c) Not later than May 1, 2021, the Office of Court  
+| Administration of the Texas Judicial System shall post on the  
+| office's Internet website the initial information required under  
+| Section 47.0004(b)(3), Government Code, as added by this Act.  
+|  (d) Not later than September 1, 2021, the Office of Court  
+| Administration of the Texas Judicial System shall produce the  
+| initial reports required under Sections 47.0004(b)(4) and (5),  
+| Government Code, as added by this Act.  
+|  (e) Not later than December 1, 2020, the governor shall make  
+| the initial appointments to the advisory board required under  
+| Section 47.0005, Government Code, as added by this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

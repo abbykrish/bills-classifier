@@ -1,0 +1,40 @@
+| 86R11234 ATP-D  
+---|---  
+|  By: Zwiener | H.B. No. 2274  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the period during which certain voters receive ballots  
+| to be voted by mail for each election held in that period.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Section 86.0015, Election Code,  
+| is amended to read as follows:  
+|  Sec. 86.0015. [ ~~ANNUAL~~ ] BALLOTS BY MAIL _FOR MULTIPLE_  
+| _ELECTIONS FOLLOWING SINGLE APPLICATION_.  
+|  SECTION 2. Section 86.0015(b), Election Code, is amended to  
+| read as follows:  
+|  (b) An application described by Subsection (a) is  
+| considered to be an application for a ballot for each election,  
+| including any ensuing runoff:  
+|  (1) in which the applicant is eligible to vote; and  
+|  (2) that occurs before the earlier of:  
+|  (A) [ ~~except as provided by Subsection (b-2),~~ ] the  
+| end of the _next even-numbered calendar year in which a_  
+| _gubernatorial general election is held following the_ calendar year  
+| in which the application was submitted;  
+|  (B) the date the county clerk receives notice  
+| from the voter registrar under Subsection (f) that the voter has  
+| changed residence to another county; or  
+|  (C) the date the voter's registration is  
+| canceled.  
+|  SECTION 3. Section 86.0015(b-2), Election Code, is  
+| repealed.  
+|  SECTION 4. The change in law made by this Act to Section  
+| 86.0015, Election Code, applies only to an application for a ballot  
+| to be voted by mail submitted on or after the effective date of this  
+| Act. An application for a ballot to be voted by mail submitted  
+| before the effective date of this Act is governed by the law in  
+| effect when the application was submitted, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

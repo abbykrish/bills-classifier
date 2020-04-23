@@ -1,0 +1,176 @@
+| 86R489 CJC-F  
+---|---  
+|  By: Sanford | H.B. No. 3869  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the appraisal for ad valorem tax purposes of tangible  
+| personal property held for sale at retail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 23.12(a) and (f), Tax Code, are amended  
+| to read as follows:  
+|  (a) Except as provided by Sections 23.121, [ ~~23.1241,~~ ]  
+| 23.124, _23.1241, 23.1244,_ and 23.127, the market value of an  
+| inventory is the price for which it would sell as a unit to a  
+| purchaser who would continue the business. An inventory shall  
+| include residential real property which has never been occupied as  
+| a residence and is held for sale in the ordinary course of a trade or  
+| business, provided that the residential real property remains  
+| unoccupied, is not leased or rented, and produces no income.  
+|  (f) The owner of an inventory other than a dealer's motor  
+| vehicle inventory as that term is defined by Section 23.121, [ ~~a~~  
+|  ~~dealer's heavy equipment inventory as that term is defined by~~  
+|  ~~Section 23.1241, or~~ ] a dealer's vessel and outboard motor inventory  
+| as that term is defined by Section 23.124, _a dealer's heavy_  
+| _equipment inventory as that term is defined by Section 23.1241, a_  
+| _retail inventory as that term is defined by Section 23.1244,_ or a  
+| retail manufactured housing inventory as that term is defined by  
+| Section 23.127 may elect to have the inventory appraised at its  
+| market value as of September 1 of the year preceding the tax year to  
+| which the appraisal applies by filing an application with the chief  
+| appraiser requesting that the inventory be appraised as of  
+| September 1. The application must clearly describe the inventory  
+| to which it applies and be signed by the owner of the inventory. The  
+| application applies to the appraisal of the inventory in each tax  
+| year that begins after the next August 1 following the date the  
+| application is filed with the chief appraiser unless the owner of  
+| the inventory by written notice filed with the chief appraiser  
+| revokes the application or the ownership of the inventory changes.  
+| A notice revoking the application is effective for each tax year  
+| that begins after the next September following the date the notice  
+| of revocation is filed with the chief appraiser.  
+|  SECTION 2. Subchapter B, Chapter 23, Tax Code, is amended by  
+| adding Section 23.1244 to read as follows:  
+|  _Sec._ ___23.1244._ _____RETAILER'S RETAIL INVENTORY; VALUE. (a) In_  
+| _this section:_  
+|  _(1)_ _____"Chief appraiser" means the chief appraiser for_  
+| _the appraisal district in which a retailer's retail inventory is_  
+| _located._  
+|  _(2)_ _____"Declaration" means a retailer's retail inventory_  
+| _declaration form adopted by the comptroller under this section._  
+|  _(3)_ _____"Retailer" means a person who is engaged in the_  
+| _business in this state of selling retail inventory. For purposes of_  
+| _this section, the term does not include a bank, savings bank,_  
+| _savings and loan association, credit union, or other finance_  
+| _company. In addition, for purposes of taxation of a person's retail_  
+| _inventory in a tax year, the term does not include a person who_  
+| _renders the person's retail inventory in that tax year by filing a_  
+| _rendition statement or property report under Chapter 22._  
+|  _(4)_ _____"Retail inventory" means all tangible personal_  
+| _property that a retailer holds for sale in this state during a_  
+| _12-month period and for which the retailer is not otherwise_  
+| _entitled to an exemption from taxation. For purposes of this_  
+| _section, the term does not include:_  
+|  _(A) real property; or_  
+|  _(B)_ _____inventory that qualifies for appraisal under_  
+| _Section 23.121, 23.124, 23.1241, or 23.127._  
+|  _(5)_ _____"Sales price" means the total amount of money paid_  
+| _or to be paid to a retailer for the purchase of an item of retail_  
+| _inventory._  
+|  _(6)_ _____"Total annual sales" means the total of the sales_  
+| _price from every sale from a retailer's retail inventory for a_  
+| _12-month period._  
+|  _(b)_ _____For the purpose of the computation of property tax,_ _____the_  
+| _market value of a retailer's retail inventory on January 1 is the_  
+| _total annual sales, less sales at wholesale and sales to retailers,_  
+| _for the 12-month period corresponding to the preceding tax year,_  
+| _divided by 12._  
+|  _(b-1)_ _____Notwithstanding Subsection (b), for the nine-year_  
+| _period beginning January 1, 2020, and ending December 31, 2028, the_  
+| _market value of a retailer's retail inventory is the greater of:_  
+|  _(1)_ _____the market value of that retail inventory on_  
+| _January 1 of the applicable tax year as determined under Subsection_  
+| _(b); or_  
+|  _(2)_ _____the following percentages of the market value of_  
+| _that inventory on January 1 of the applicable tax year as determined_  
+| _under Section 23.12:_  
+|  _(A)_ _____for the 2020 tax year, 90 percent of the_  
+| _market value;_  
+|  _(B)_ _____for the 2021 tax year, 80 percent of the_  
+| _market value;_  
+|  _(C)_ _____for the 2022 tax year, 70 percent of the_  
+| _market value;_  
+|  _(D)_ _____for the 2023 tax year, 60 percent of the_  
+| _market value;_  
+|  _(E)_ _____for the 2024 tax year, 50 percent of the_  
+| _market value;_  
+|  _(F)_ _____for the 2025 tax year, 40 percent of the_  
+| _market value;_  
+|  _(G)_ _____for the 2026 tax year, 30 percent of the_  
+| _market value;_  
+|  _(H)_ _____for the 2027 tax year, 20 percent of the_  
+| _market value; and_  
+|  _(I)_ _____for the 2028 tax year, 10 percent of the_  
+| _market value._  
+|  _(c)_ _____For the purpose of the computation of property tax on_  
+| _the market value of the retail inventory of an owner who was not a_  
+| _retailer on January 1 of the preceding tax year, the chief appraiser_  
+| _shall estimate the market value of the retailer's retail inventory._  
+| _In making the estimate required by this subsection, the chief_  
+| _appraiser shall use sales data, if available, generated by sales_  
+| _from the retailer's retail inventory in the preceding tax year._  
+|  _(c-1)_ _____Notwithstanding Subsection (c), for the nine-year_  
+| _period beginning January 1, 2020, and ending December 31, 2028, the_  
+| _chief appraiser shall determine the market value of the retail_  
+| _inventory of an owner who was not a retailer on January 1 of the_  
+| _preceding tax year in the manner prescribed by Subsection (b-1) and_  
+| _shall use the estimated market value determined under Subsection_  
+| _(c) as the market value of the retail inventory for purposes of_  
+| _Subsection (b-1)(1)._  
+|  _(c-2)_ _____This subsection and Subsections (b-1) and (c-1)_  
+| _expire December 31, 2028._  
+|  _(d)_ _____Except for retail inventory, tangible personal property_  
+| _held by a retailer is appraised as provided by the other sections of_  
+| _this code. In the case of a retailer whose sales from the_  
+| _retailer's retail inventory are made predominately to other_  
+| _retailers, the chief appraiser shall appraise the retailer's retail_  
+| _inventory as provided by Section 23.12._  
+|  _(e)_ _____A retailer is presumed to be an owner of retail_  
+| _inventory on January 1 if, in the 12-month period ending on December_  
+| _31 of the preceding year, the retailer sold an item of retail_  
+| _inventory to a person other than a retailer._ _____The presumption is_  
+| _not rebutted by the fact that a retailer has no item of retail_  
+| _inventory physically on hand for sale from the retailer's retail_  
+| _inventory on January 1._  
+|  _(f)_ _____The comptroller by rule shall adopt a retailer's retail_  
+| _inventory declaration form. Not later than April 15 of each year,_  
+| _or, in the case of a retailer who was not in business on January 1,_  
+| _not later than 30 days after commencement of business, each_  
+| _retailer shall file a declaration with the chief appraiser for each_  
+| _location at which the retailer's retail inventory to be appraised_  
+| _as provided by this section is located. The declaration is_  
+| _sufficient to comply with this subsection if it sets forth:_  
+|  _(1)_ _____the name and business address of each location at_  
+| _which the retailer's retail inventory to be appraised as provided_  
+| _by this section is located;_  
+|  _(2)_ _____a statement that the retailer is the owner of_  
+| _retail inventory; and_  
+|  _(3)_ _____the market value of the retailer's retail_  
+| _inventory for the current tax year as computed under Subsection_  
+| _(b)._  
+|  _(g)_ _____As provided by this subsection, the chief appraiser may_  
+| _examine the books and records of a retailer. A request made under_  
+| _this subsection must be made in writing, be delivered personally to_  
+| _the custodian of the records at a location at which the retailer_  
+| _conducts business, provide a period of not less than 15 days for the_  
+| _person to respond to the request, and state that the person to whom_  
+| _the request is addressed has the right to seek judicial relief from_  
+| _compliance with the request. In a request made under this section,_  
+| _the chief appraiser may examine:_  
+|  _(1)_ _____documentation appropriate to allow the chief_  
+| _appraiser to ascertain the applicability of this section to the_  
+| _person; and_  
+|  _(2)_ _____sales records to substantiate information set_  
+| _forth in the declaration filed by the retailer._  
+|  _(h)_ _____A retailer who fails to timely file a declaration under_  
+| _Subsection (f) in a tax year waives any right to have the retailer's_  
+| _retail inventory appraised as provided by this section in that tax_  
+| _year._  
+|  _(i)_ _____Section 23.123 applies to a declaration filed under this_  
+| _section in the same manner in which that section applies to a_  
+| _declaration filed as required by Section 23.121._  
+|  SECTION 3. The changes in law made by this Act apply only to  
+| an ad valorem tax year that begins on or after the effective date of  
+| this Act.  
+|  SECTION 4. This Act takes effect January 1, 2020.
+

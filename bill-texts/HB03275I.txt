@@ -1,0 +1,69 @@
+| 86R4882 BEF-D  
+---|---  
+|  By: Gonzalez of Dallas | H.B. No. 3275  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the repeal of the exemption from the severance tax for  
+| flared or vented gas.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 201.052(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) The tax imposed by this chapter is at the rate of 7.5  
+| percent of the market value of gas produced [ ~~and saved~~ ] in this  
+| state by the producer.  
+|  SECTION 2. Section 201.053, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 201.053. GAS NOT TAXED. The tax imposed by this  
+| chapter does not apply to gas:  
+|  (1) injected into the earth in this state, unless sold  
+| for that purpose;  
+|  (2) [ ~~produced from oil wells with oil and lawfully~~  
+|  ~~vented or flared;~~  
+|  [ ~~(3)~~ ] used for lifting oil, unless sold for that  
+| purpose; or  
+|  _(3)_ [ ~~(4)~~ ] produced in this state from a well that  
+| qualifies under Section 202.056 or 202.060.  
+|  SECTION 3. Section 201.059(a)(3), Tax Code, is amended to  
+| read as follows:  
+|  (3) "Qualifying low-producing well" means a gas well  
+| whose production during a three-month period is no more than 90 mcf  
+| per day[ ~~, excluding gas flared pursuant to the rules of the~~  
+|  ~~commission~~ ]. For purposes of qualifying a gas well, production per  
+| well per day is determined by computing the average daily  
+| production from the well using the monthly well production report  
+| made to the commission.  
+|  SECTION 4. Sections 201.059(c), (d), and (e), Tax Code, are  
+| amended to read as follows:  
+|  (c) An operator of a qualifying low-producing well is  
+| entitled to a 25 percent credit on the tax otherwise due on gas  
+| produced [ ~~and saved~~ ] from that well during a month if the average  
+| taxable price of gas certified by the comptroller under Subsection  
+| (b) for the previous three-month period is more than $3 per mcf but  
+| not more than $3.50 per mcf.  
+|  (d) An operator of a qualifying low-producing well is  
+| entitled to a 50 percent credit on the tax otherwise due on gas  
+| produced [ ~~and saved~~ ] from that well during a month if the average  
+| taxable price of gas certified by the comptroller under Subsection  
+| (b) for the previous three-month period is more than $2.50 per mcf  
+| but not more than $3 per mcf.  
+|  (e) An operator of a qualifying low-producing well is  
+| entitled to a 100 percent credit on the tax otherwise due on gas  
+| produced [ ~~and saved~~ ] from that well during a month if the average  
+| taxable price of gas certified by the comptroller under Subsection  
+| (b) for the previous three-month period is not more than $2.50 per  
+| mcf.  
+|  SECTION 5. Section 201.201, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 201.201. TAX DUE. The tax imposed by this chapter for  
+| gas produced [ ~~and saved~~ ] is due at the office of the comptroller in  
+| Austin on the 20th day of the second month following the month of  
+| production.  
+|  SECTION 6. The change in law made by this Act does not  
+| affect tax liability accruing before the effective date of this  
+| Act. That liability continues in effect as if this Act had not been  
+| enacted, and the former law is continued in effect for the  
+| collection of taxes due and for civil and criminal enforcement of  
+| the liability for those taxes.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

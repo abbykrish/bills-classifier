@@ -1,0 +1,127 @@
+| 86R2536 MCK-D  
+---|---  
+|  By: Howard | H.B. No. 473  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Department of Family and Protective Services  
+| reporting certain information regarding youth in the managing  
+| conservatorship of the department who are pregnant or who are  
+| parents.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 264.017(b), Family Code, is amended to  
+| read as follows:  
+|  (b) The department shall provide the report required by  
+| Subsection (a) to the legislature and shall publish the report and  
+| make the report available electronically to the public not later  
+| than February 1 of each year. The report must include, with respect  
+| to the preceding year:  
+|  (1) information on the number and disposition of  
+| reports of child abuse and neglect received by the department;  
+|  (2) information on the number of clients for whom the  
+| department took protective action, including investigations,  
+| alternative responses, and court-ordered removals;  
+|  (3) information on the number of clients for whom the  
+| department provided services in each program administered by the  
+| child protective services division, including investigations,  
+| alternative responses, family-based safety services,  
+| conservatorship, post-adoption services, and transitional living  
+| services;  
+|  (4) the number of children in this state who died as a  
+| result of child abuse or neglect;  
+|  (5) the number of children described by Subdivision  
+| (4) for whom the department was the children's managing conservator  
+| at the time of death;  
+|  (6) information on the timeliness of the department's  
+| initial contact in an investigation or alternative response;  
+|  (7) information on the response time by the department  
+| in commencing services to families and children for whom an  
+| allegation of child abuse or neglect has been made;  
+|  (8) information regarding child protection staffing  
+| and caseloads by program area;  
+|  (9) information on the permanency goals in place and  
+| achieved for children in the managing conservatorship of the  
+| department, including information on the timeliness of achieving  
+| the goals, the stability of the children's placement in foster  
+| care, and the proximity of placements to the children's home  
+| counties;  
+|  (10) the number of children who suffer from a severe  
+| emotional disturbance and for whom the department is appointed  
+| managing conservator, including statistics on appointments as  
+| joint managing conservator, due to an individual voluntarily  
+| relinquishing custody of a child solely to obtain mental health  
+| services for the child;  
+|  (11) the _following information regarding_ [ ~~number of~~ ]  
+| children who are pregnant or _who are parents_ [ ~~a parent~~ ] while in the  
+| managing conservatorship of the department _:_  
+|  _(A)_ _____the number of pregnant female children in the_  
+| _managing conservatorship of the department who are at least 13_  
+| _years of age but younger than 18 years of age compared to the total_  
+| _number of female children in the managing conservatorship of the_  
+| _department who are at least 13 years of age but younger than 18_  
+| _years of age;_  
+|  _(B)_ _____the number of female children in the managing_  
+| _conservatorship of the department who are at least 13 years of age_  
+| _but younger than 18 years of age and who have given birth to a child_  
+| _compared to the total number of female children in the managing_  
+| _conservatorship of the department who are at least 13 years of age_  
+| _but younger than 18 years of age;_  
+|  _(C)_ _____the number of pregnant female youth in the_  
+| _managing conservatorship of the department who are younger than 22_  
+| _years of age and the following information for each youth:_  
+|  _(i) the youth's age;_  
+|  _(ii) the youth's race and ethnicity;_  
+|  _(iii) the youth's county of residence;_  
+|  _(iv)_ _____the time the youth has been in_  
+| _substitute care; and_  
+|  _(v)_ _____the type of substitute care in which the_  
+| _youth is placed;_  
+|  _(D)_ _____the number of youth in the managing_  
+| _conservatorship of the department who are younger than 22 years of_  
+| _age and who are parents and the following information for each_  
+| _youth:_  
+|  _(i) the youth's gender;_  
+|  _(ii) the youth's age;_  
+|  _(iii) the youth's race and ethnicity;_  
+|  _(iv) the youth's county of residence;_  
+|  _(v)_ _____the time the youth has been in_  
+| _substitute care; and_  
+|  _(vi)_ _____the type of substitute care in which_  
+| _the youth is placed;_  
+|  _(E)_ _____the number of youth in the managing_  
+| _conservatorship of the department who are parents of a child who is_  
+| _also in the managing conservatorship of the department and the_  
+| _following information for each youth:_  
+|  _(i)_ _____the type of substitute care in which the_  
+| _youth is placed; and_  
+|  _(ii)_ _____whether the youth and the child are_  
+| _placed together;_  
+|  _(F)_ _____for youth described by Paragraphs (C) and (D)_  
+| _who exit the department's conservatorship, the following_  
+| _information for each youth:_  
+|  _(i)_ _____whether the youth is adopted, reunited_  
+| _with the youth's family, or emancipated;_  
+|  _(ii)_ _____the youth's age on the date the youth_  
+| _exited the department's conservatorship; and_  
+|  _(iii)_ _____the time the youth spent in_  
+| _substitute care;_  
+|  _(G)_ _____the number of children in the managing_  
+| _conservatorship of the department who are at least 11 years of age_  
+| _but younger than 18 years of age and who are pregnant or who are_  
+| _parents at the time the child enters the conservatorship of the_  
+| _department; and_  
+|  _(H)_ _____the number of children in the managing_  
+| _conservatorship of the department who are at least 11 years of age_  
+| _but younger than 18 years of age and who become pregnant or who_  
+| _become parents while in the conservatorship of the department_ [ ~~and~~  
+|  ~~the number of the children born to a parent in the managing~~  
+|  ~~conservatorship of the department who are placed in the managing~~  
+|  ~~conservatorship of the department~~ ];  
+|  (12) the number of children who are missing from the  
+| children's substitute care provider while in the managing  
+| conservatorship of the department; and  
+|  (13) the number of children who were victims of  
+| trafficking under Chapter 20A, Penal Code, while in the managing  
+| conservatorship of the department.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

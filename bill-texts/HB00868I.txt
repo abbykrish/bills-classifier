@@ -1,0 +1,52 @@
+| 86R999 GRM-D  
+---|---  
+|  By: Anchia | H.B. No. 868  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to gas pipeline operator disclosure of the location of  
+| pipeline leaks; clarifying changes to related administrative  
+| penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 121.206(a) and (d), Utilities Code, are  
+| amended to read as follows:  
+|  (a) The railroad commission may assess an administrative  
+| penalty against a person who violates Section 121.201 or a safety  
+| standard or other rule prescribed or adopted under _this subchapter_  
+| [ ~~that section~~ ].  
+|  (d) The railroad commission by rule shall adopt guidelines  
+| to be used in determining the amount of a penalty under this  
+| subchapter. The guidelines shall include a penalty calculation  
+| worksheet that specifies the typical penalty for certain  
+| violations, circumstances justifying enhancement of a penalty and  
+| the amount of the enhancement, and circumstances justifying a  
+| reduction in a penalty and the amount of the reduction. The  
+| guidelines shall take into account:  
+|  (1) the person's history of previous violations of  
+| Section 121.201 or a safety standard or other rule prescribed or  
+| adopted under _this subchapter_ [ ~~that section~~ ], including the number  
+| of previous violations;  
+|  (2) the seriousness of the violation and of any  
+| pollution resulting from the violation;  
+|  (3) any hazard to the health or safety of the public;  
+|  (4) the degree of culpability;  
+|  (5) the demonstrated good faith of the person charged;  
+| and  
+|  (6) any other factor the commission considers  
+| relevant.  
+|  SECTION 2. Subchapter E, Chapter 121, Utilities Code, is  
+| amended by adding Section 121.218 to read as follows:  
+|  _Sec._ ___121.218._ _____DISCLOSURE OF LEAK LOCATIONS. The railroad_  
+| _commission by rule shall require a distribution gas pipeline_  
+| _facility operator to:_  
+|  _(1)_ _____report to the commission gas leaks from the_  
+| _operator's pipeline facilities and any other information the_  
+| _commission requires by rule; and_  
+|  _(2)_ _____publish on the operator's public Internet website_  
+| _the location of each leak reported under Subdivision (1), including_  
+| _the exact street address and the location of each leak on a map._  
+|  SECTION 3. The Railroad Commission of Texas shall adopt the  
+| rules required by Section 121.218, Utilities Code, as added by this  
+| Act, not later than December 31, 2019.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

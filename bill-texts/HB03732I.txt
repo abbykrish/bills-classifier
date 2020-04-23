@@ -1,0 +1,708 @@
+| 86R9117 JG-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 3732  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of an urban land bank by certain  
+| municipalities; granting authority to issue bonds.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 12, Local Government Code, is  
+| amended by adding Chapter 379F to read as follows:  
+| _CHAPTER_ ___379F._ ___URBAN LAND BANK PROGRAM IN MUNICIPALITY WITH_  
+| _POPULATION OF TWO MILLION OR MORE_  
+| _SUBCHAPTER A._ ___GENERAL PROVISIONS_  
+|  _Sec._ ___379F.001._ _____SHORT TITLE. This chapter may be cited as_  
+| _the Urban Land Bank Program for a Municipality with a Population of_  
+| _Two Million or More._  
+|  _Sec._ ___379F.002._ _____APPLICABILITY OF CHAPTER. This chapter_  
+| _applies only to a municipality with a population of two million or_  
+| _more._  
+|  _Sec. 379F.003. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Board" means the board of directors of a land_  
+| _bank._  
+|  _(2)_ _____"Land bank" means an entity established or_  
+| _approved by the governing body of a municipality under this_  
+| _chapter._  
+|  _(3)_ _____"Non-qualifying municipality" means a_  
+| _municipality to which this chapter does not apply and that is_  
+| _located in the same county in which a municipality to which this_  
+| _chapter does apply is predominantly located._  
+|  _(4)_ _____"Real property" means land, land under water, and_  
+| _any structure, easement, air rights, franchise, or incorporeal_  
+| _hereditament, every estate, interest, and right therein, legal and_  
+| _equitable, including terms for years and liens by way of judgment,_  
+| _mortgage, or otherwise, and any fixture or improvement located_  
+| _thereon._  
+|  _Sec._ ___379F.004._ _____APPLICABILITY OF OTHER LAW. A land bank_  
+| _created under this chapter:_  
+|  _(1) is:_  
+|  _(A)_ _____a governmental unit, as defined by Section_  
+| _101.001, Civil Practice and Remedies Code;_  
+|  _(B)_ _____a local government corporation, as defined by_  
+| _Section 431.003, Transportation Code; and_  
+|  _(C)_ _____a public nonprofit corporation that has and_  
+| _may exercise all of the rights, powers, privileges, authority, and_  
+| _functions given by the general laws of this state to nonprofit_  
+| _corporations in this state;_  
+|  _(2) is not:_  
+|  _(A)_ _____a program created or operating under Chapter_  
+| _373 or 374; or_  
+|  _(B)_ _____a housing finance corporation created under_  
+| _Chapter 394; and_  
+|  _(3)_ _____must comply with the requirements of Chapters 551_  
+| _and 552, Government Code._  
+|  _Sec._ ___379F.005._ _____PURPOSE. A land bank created under this_  
+| _chapter exists for the purpose of acquiring, managing, and_  
+| _disposing of vacant, abandoned, and deteriorated properties and_  
+| _returning those properties to productive uses, including_  
+| _affordable housing, workforce housing, public service housing,_  
+| _community-based economic development, food desert solutions,_  
+| _beautification and public art, parks and recreation, flood_  
+| _reduction and storm resiliency, and other uses necessary and_  
+| _appropriate to stabilize communities, improve living conditions,_  
+| _and protect against the displacement of residents of the_  
+| _municipality served by the land bank._  
+|  _Sec._ ___379F.006._ _____CONSTRUCTION. This chapter shall be_  
+| _construed liberally to carry out the intended purposes as a_  
+| _complete and independent authorization for the performance of each_  
+| _and every act and thing authorized by this chapter, and all powers_  
+| _granted shall be broadly interpreted to carry out the intended_  
+| _purposes and not as a limitation of powers._ ___Except as otherwise_  
+| _provided by this chapter, a land bank, in the exercise of its powers_  
+| _and duties under this chapter and with respect to real property held_  
+| _by the land bank, has the same amount of control as if the land bank_  
+| _represented a private property owner, and the land bank is not_  
+| _subject to restrictions imposed by the charter, ordinances, or_  
+| _resolutions of a local unit of government._  
+| _SUBCHAPTER B. BOARD OF DIRECTORS_  
+|  _Sec._ ___379F.051._ _____COMPOSITION OF BOARD. The size, membership,_  
+| _composition, and officers of the board of directors of a land bank,_  
+| _and methods of appointment to the board, must be established by the_  
+| _certificate of formation and the bylaws of the land bank._  
+|  _Sec._ ___379F.052._ _____ELIGIBILITY FOR MEMBERSHIP. (a) In this_  
+| _section, "public officer" means an individual who is elected to a_  
+| _municipal office._  
+|  _(b)_ _____A municipal employee is eligible to serve as a member of_  
+| _the board, and notwithstanding any law to the contrary, a public_  
+| _officer is eligible to serve as a member of the board and acceptance_  
+| _of the appointment will neither terminate nor impair service in the_  
+| _public office._  
+|  _Sec._ ___379F.053._ _____MEETINGS; ATTENDANCE. (a)_ _____The board shall_  
+| _meet in regular session according to a schedule adopted by the_  
+| _board._  
+|  _(b) The board may meet in a special session:_  
+|  _(1)_ _____convened by the president of the board in_  
+| _accordance with the bylaws of the board; or_  
+|  _(2)_ _____on written notice signed by a majority of the board_  
+| _members._  
+|  _(c)_ _____The presence of a majority of the board's total_  
+| _membership constitutes a quorum for any regular or special session._  
+|  _(d)_ _____The board shall establish rules related to the_  
+| _attendance and participation of members in regular or special_  
+| _meetings of the board. Rules adopted under this subsection may_  
+| _provide for the removal from office of a member for failure to_  
+| _comply with the rules if a majority of the remaining members of the_  
+| _board vote for the removal. Removal under this subsection takes_  
+| _effect the first day of the calendar month following the date of the_  
+| _vote. A person removed under this subsection is ineligible for_  
+| _reappointment to the board unless reappointment is confirmed_  
+| _unanimously by the board._  
+|  _Sec._ ___379F.054._ _____BOARD ACTIONS. (a)_ ___Subject to Subsection_  
+| _(b), actions of the board must be approved by the affirmative vote_  
+| _of a quorum of the board._  
+|  _(b)_ _____Action on the following matters requires approval by a_  
+| _majority of the total membership of the board:_  
+|  _(1)_ _____adoption of bylaws or rules for conduct of the_  
+| _business of the land bank for which the board serves;_  
+|  _(2)_ _____hiring or firing of any employee or contractor of_  
+| _the land bank for which the board serves;_  
+|  _(3) incurring debt;_  
+|  _(4) adoption or amendment of the annual budget; and_  
+|  _(5)_ _____sale, lease, encumbrance, or alienation of or_  
+| _improvements to real or personal property with a value of more than_  
+| _$50,000._  
+|  _(c)_ _____By majority vote, the board may delegate the hiring and_  
+| _firing of employees and contractors to a specific officer or_  
+| _committee of the land bank for which the board serves, under terms_  
+| _and to the extent specified by the board._  
+|  _(d) A board member may not vote by proxy._  
+|  _(e)_ _____A board member may request a recorded vote on any_  
+| _resolution or action of the land bank._  
+|  _Sec._ ___379F.055._ _____CONFLICT OF INTEREST. (a) A board member or_  
+| _employee of a land bank may not:_  
+|  _(1)_ _____acquire any direct or indirect interest in real_  
+| _property of the land bank, in any real property to be acquired by_  
+| _the land bank, or in any real property to be acquired from the land_  
+| _bank; or_  
+|  _(2)_ _____have any direct or indirect interest in any_  
+| _contract or proposed contract for materials or services to be_  
+| _furnished or used by the land bank._  
+|  _(b)_ _____The provisions of the former Texas Non-Profit_  
+| _Corporation Act (Article 1396-1.01 et seq., Vernon's Texas Civil_  
+| _Statutes) related to powers, standards of conduct, and interests in_  
+| _contracts apply to the directors and officers of the land bank._  
+|  _(c)_ _____The board may adopt supplemental rules addressing_  
+| _potential conflicts of interest and ethical guidelines for board_  
+| _members and land bank employees._  
+|  _Sec._ ___379F.056._ _____COMPENSATION; REIMBURSEMENT. (a) Board_  
+| _members serve without compensation._  
+|  _(b)_ _____The board may reimburse a member for expenses actually_  
+| _incurred in the performance of duties on behalf of the land bank._  
+| _SUBCHAPTER C. CREATION, OPERATION, AND DISSOLUTION OF LAND BANK_  
+|  _Sec._ ___379F.101._ _____CREATION OF LAND BANK._ _____The governing body_  
+| _of a municipality may create a land bank by the adoption of an_  
+| _ordinance approving the land bank's certificate of formation and_  
+| _bylaws._  
+|  _Sec._ ___379F.102._ _____GENERAL POWERS OF LAND BANK. (a)_ ___A land_  
+| _bank has all powers necessary to carry out the purposes of this_  
+| _chapter, including the power to:_  
+|  _(1)_ _____adopt, amend, and repeal bylaws for the regulation_  
+| _of the land bank's affairs and the conduct of the land bank's_  
+| _business;_  
+|  _(2)_ _____sue and be sued in the land bank's own name and_  
+| _plead and be interpleaded in all civil actions, including actions_  
+| _to clear title to real property of the land bank;_  
+|  _(3) adopt and alter a seal;_  
+|  _(4)_ _____borrow funds necessary for the operation of the_  
+| _land bank from private lenders, municipalities, this state, and the_  
+| _federal government;_  
+|  _(5)_ _____adopt any policy for procurement that is_  
+| _recognized under state law and permitted for governmental entities,_  
+| _including a policy recognized under Chapters 252 and 271 of this_  
+| _code, Chapter 431, Transportation Code, and Chapters 2254 and 2269,_  
+| _Government Code;_  
+|  _(6)_ _____issue negotiable revenue bonds and notes under_  
+| _this chapter;_  
+|  _(7)_ _____procure insurance or guarantees from this state or_  
+| _the federal government of the payments of any debts or parts of_  
+| _debts incurred by the land bank and pay premiums in connection with_  
+| _those debts;_  
+|  _(8)_ _____enter into contracts and other agreements_  
+| _necessary, incidental, or convenient to the performance of the land_  
+| _bank's duties and the exercise of the land bank's powers, including_  
+| _governmental agreements under Subchapter D, Chapter 431,_  
+| _Transportation Code, or interlocal contracts under Section_  
+| _791.011, Government Code, for the joint exercise of powers under_  
+| _this chapter;_  
+|  _(9)_ _____enter into contracts and other agreements with the_  
+| _municipality that created the land bank for the performance of_  
+| _services in accordance with Chapter 311, Tax Code;_  
+|  _(10)_ _____make and execute contracts and other instruments_  
+| _necessary or convenient to the exercise of the land bank's powers;_  
+|  _(11)_ _____procure insurance against losses in connection_  
+| _with the real property, assets, or activities of the land bank;_  
+|  _(12)_ _____invest money of the land bank, at the discretion_  
+| _of the board, in instruments, obligations, securities, or property_  
+| _determined proper by the board and name and use depositories for the_  
+| _land bank's money;_  
+|  _(13)_ _____enter into contracts for the management of,_  
+| _collection of rent from, or sale of real property of the land bank;_  
+|  _(14)_ _____design, develop, construct, demolish,_  
+| _reconstruct, rehabilitate, renovate, relocate, or otherwise_  
+| _improve real property of the land bank;_  
+|  _(15)_ _____set, charge, and collect rents, fees, and charges_  
+| _for the use of real property of the land bank and for services_  
+| _provided by the land bank;_  
+|  _(16)_ _____finance by loan, grant, lease, or otherwise_  
+| _refinance, construct, erect, assemble, purchase, acquire, own,_  
+| _repair, remodel, rehabilitate, modify, maintain, extend, improve,_  
+| _install, sell, equip, expand, add to, operate, or manage real_  
+| _property of the land bank and pay the costs of those activities from_  
+| _the proceeds of loans by persons, corporations, limited or general_  
+| _partnerships, and other entities;_  
+|  _(17)_ _____grant or acquire a license, easement, lease, as_  
+| _lessor or lessee, or option with respect to real property of the_  
+| _land bank;_  
+|  _(18)_ _____enter into partnerships, joint ventures, and_  
+| _other collaborative relationships with the municipality that_  
+| _created the land bank and other public and private entities for the_  
+| _ownership, management, development, and disposition of real_  
+| _property of the land bank;_  
+|  _(19)_ _____make application directly or indirectly to any_  
+| _federal, state, county, or municipal government or agency or to any_  
+| _other public or private source for loans, grants, guarantees, or_  
+| _other financial assistance in furtherance of the land bank's public_  
+| _purpose and accept and use the loans, grants, guarantees, or_  
+| _financial assistance on terms prescribed by that federal, state,_  
+| _county, or municipal government or agency or other source;_  
+|  _(20)_ _____as security for the repayment of any notes or_  
+| _other obligations of the land bank, pledge, mortgage, convey,_  
+| _assign, hypothecate, or otherwise encumber any property of the land_  
+| _bank, including real property, fixtures, personal property,_  
+| _revenue, and other funds, and execute any lease, trust indenture,_  
+| _trust agreement, agreement for the sale of the land bank's notes of_  
+| _other obligation, loan agreement, mortgage, security agreement, or_  
+| _other agreement necessary or desirable as determined by the land_  
+| _bank; and_  
+|  _(21)_ _____hold title to real property for purposes of_  
+| _establishing contracts with public and private nonprofit community_  
+| _land trusts, including long-term lease contracts._  
+|  _(b) A land bank may not:_  
+|  _(1) exercise the power of eminent domain; or_  
+|  _(2)_ _____acquire real property outside the geographical_  
+| _boundaries of the municipality that created the land bank._  
+|  _Sec._ ___379F.103._ _____RESOLUTION OF COMPLEX TITLE QUESTIONS. A_  
+| _land bank may provide assistance and guidance to owners of real_  
+| _property for which there are complex, highly divided fractional_  
+| _interests in the real property because of multigenerational_  
+| _intestate distributions, unknown heirs, and other interested_  
+| _parties for whom accurate information cannot be ascertained._  
+|  _Sec._ ___379F.104._ _____INTERLOCAL CONTRACTS. (a) A land bank may_  
+| _enter into an interlocal contract under Section 791.011, Government_  
+| _Code, with:_  
+|  _(1)_ _____a municipality for a program created by the_  
+| _municipality under Chapter 373 or 374; or_  
+|  _(2)_ _____a non-qualifying municipality for the purpose of_  
+| _the land bank conducting land bank activities on behalf of and_  
+| _within the geographical boundaries of the non-qualifying_  
+| _municipality._  
+|  _(b)_ _____Notwithstanding Section 379F.102(b)(2), a land bank may_  
+| _acquire real property within the geographical boundaries of a_  
+| _non-qualifying municipality with which it has entered into an_  
+| _agreement under Subsection (a)._  
+|  _Sec._ ___379F.105._ _____RECORDS AND REPORTS. (a)_ _____A land bank shall_  
+| _keep accurate minutes of the land bank's meetings and shall keep_  
+| _accurate records and books of account that conform with generally_  
+| _accepted principles of accounting and that clearly reflect the_  
+| _income and expenses of the land bank and all transactions in_  
+| _relation to the land bank's real property._  
+|  _(b)_ _____A land bank shall maintain and make available for public_  
+| _review and inspection:_  
+|  _(1)_ _____an inventory of all real property held by the land_  
+| _bank;_  
+|  _(2)_ _____a copy of the sale settlement statement for each_  
+| _real property sold or transferred to a third party; and_  
+|  _(3)_ _____a copy of the performance report filed under_  
+| _Subsection (e)._  
+|  _(c)_ _____Not later than the 90th day after the end of the fiscal_  
+| _year of the municipality that created the land bank, the land bank_  
+| _shall file with the municipality an annual audited financial_  
+| _statement prepared by a certified public accountant._  
+|  _(d)_ _____Financial transactions of a land bank are subject to_  
+| _audit by the municipality that created the land bank._  
+|  _(e)_ _____For purposes of evaluating the effectiveness of a land_  
+| _bank created under this chapter, a land bank shall submit an annual_  
+| _performance report to the municipality that created the land bank_  
+| _not later than November 1 of each year in which the land bank_  
+| _acquires or sells real property in accordance with this chapter._  
+|  _Sec._ ___379F.106._ _____STAFF. (a) A land bank may employ an_  
+| _executive director, counsel and legal staff, technical experts, and_  
+| _other agents and employees, permanent or temporary, that the land_  
+| _bank may require and may determine the qualifications and set the_  
+| _compensation and benefits of each of those persons._  
+|  _(b)_ _____A land bank may enter into contracts and agreements with_  
+| _municipalities for staffing services to be provided to the land_  
+| _bank by those municipalities or for the land bank to provide such_  
+| _staffing services to those municipalities._  
+|  _Sec._ ___379F.107._ _____ADVISORY COMMITTEE AND NEIGHBORHOOD_  
+| _CONSULTATION. (a)_ _____A land bank shall create one or more advisory_  
+| _committees to consult with and advise the land bank on:_  
+|  _(1)_ _____properties within the municipality served by the_  
+| _land bank that are imposing the greatest harm on neighborhoods and_  
+| _communities in the municipality;_  
+|  _(2)_ _____neighborhood priorities for new uses of those_  
+| _properties; and_  
+|  _(3)_ _____the range of potential transferees of those_  
+| _properties._  
+|  _(b)_ _____As appropriate to the location of the real property of_  
+| _the land bank, advisory committee membership and neighborhood_  
+| _consultations shall include formal and informal_  
+| _neighborhood-specific community associations, residents'_  
+| _associations, faith communities, community development_  
+| _corporations, and anchor institutions._  
+|  _Sec._ ___379F.108._ _____DISSOLUTION OF LAND BANK. (a) A land bank_  
+| _may be dissolved no earlier than the 60th day after the date an_  
+| _affirmative resolution to dissolve the land bank is approved by_  
+| _two-thirds of the membership of the board and confirmed by_  
+| _resolution of the municipality that created the land bank._  
+|  _(b)_ _____Not less than 60 days before the consideration of a_  
+| _resolution of dissolution by the board, the board shall:_  
+|  _(1)_ _____provide to the governing body of the municipality_  
+| _that created the land bank written notice of the board's intent to_  
+| _vote on a resolution for dissolution of the land bank;_  
+|  _(2)_ _____publish the notice in a local newspaper of general_  
+| _circulation; and_  
+|  _(3)_ _____send the notice by certified mail to the trustee of_  
+| _any outstanding bonds of the land bank._  
+|  _(c)_ _____On dissolution of the land bank, all real property,_  
+| _personal property, and other assets and obligations of the land_  
+| _bank become the assets and obligations of the municipality that_  
+| _created the land bank._  
+| _SUBCHAPTER D. ACQUISITION AND DISPOSITION OF PROPERTY_  
+|  _Sec._ ___379F.151._ _____TAX EXEMPT STATUS OF LAND BANK PROPERTY. The_  
+| _real property of a land bank, including real property held by a land_  
+| _bank under a long-term lease contract with a community land trust,_  
+| _and the land bank's income and operations are exempt as public_  
+| _property used for public purposes from all license fees, recording_  
+| _fees, and all other taxes imposed by this state or by political_  
+| _subdivisions of this state._  
+|  _Sec._ ___379F.152._ _____TITLE HELD BY LAND BANK. All real property_  
+| _acquired by a land bank must be held in the name of the land bank._  
+|  _Sec._ ___379F.153._ _____QUIET TITLE ACTIONS. (a) A land bank may_  
+| _file an action to quiet title as to any real property in which the_  
+| _land bank has an interest._ ___For purposes of a quiet title action,_  
+| _the land bank is considered to be the holder of sufficient legal and_  
+| _equitable interests and possessory rights to qualify the land bank_  
+| _as an adequate complainant in the action._  
+|  _(b)_ _____Before filing an action to quiet title, the land bank_  
+| _shall conduct an examination of title to determine the identity of_  
+| _all persons and entities possessing a claim or interest in or to the_  
+| _real property. Service of the complaint to quiet title shall be_  
+| _provided to the interested parties by the following methods:_  
+|  _(1)_ _____by first class mail to an identity and address as_  
+| _reasonably ascertainable by an inspection of public records;_  
+|  _(2)_ _____in the case of occupied real property, by_  
+| _registered or certified mail addressed to "occupant";_  
+|  _(3)_ _____by posting a copy of the notice on the real_  
+| _property;_  
+|  _(4)_ _____by publication in a newspaper of general_  
+| _circulation in the municipality in which the property is located;_  
+| _and_  
+|  _(5) by another method the court may order._  
+|  _(c)_ _____As part of the complaint to quiet title, a land bank_  
+| _shall file an affidavit identifying all parties potentially having_  
+| _an interest in the real property and the form of notice provided._  
+|  _(d) A court hearing an action under this section shall:_  
+|  _(1)_ _____schedule a hearing on the complaint not later than_  
+| _the 90th day after the date of the filing of the complaint; and_  
+|  _(2)_ _____issue a final judgment not later than the 120th day_  
+| _after the date of the filing of the complaint for all matters on_  
+| _which an answer was not filed by an interested party._  
+|  _(e)_ _____A land bank may join in a single complaint to quiet title_  
+| _for one or more parcels of real property._  
+|  _Sec._ ___379F.154._ _____ACQUISITION OF PROPERTY GENERALLY. (a)_ _____A_  
+| _land bank may acquire real property by gift, devise, transfer,_  
+| _exchange, foreclosure, purchase, purchase contracts, lease_  
+| _purchase agreements, installment sales contracts, land contracts,_  
+| _or transfers from a municipality on terms as agreed by the land bank_  
+| _and the municipality, or through any other means on terms and in a_  
+| _manner the land bank considers appropriate._  
+|  _(b)_ _____Notwithstanding any other law to the contrary, a_  
+| _municipality served by a land bank or a non-qualifying municipality_  
+| _that has entered into an interlocal contract with a land bank under_  
+| _Section 379F.104 may transfer to the land bank real property of the_  
+| _municipality or non-qualifying municipality on terms and according_  
+| _to procedures determined by the municipality or non-qualifying_  
+| _municipality._  
+|  _(c)_ _____A land bank may acquire real property from this state,_  
+| _the municipality served by the land bank, the county in which that_  
+| _municipality is located, a governmental entity within the county,_  
+| _the federal government, or an agency or department of the federal_  
+| _government._  
+|  _(d)_ _____A land bank shall maintain all of its real property in_  
+| _accordance with the laws and ordinances of the jurisdiction in_  
+| _which the real property is located._  
+|  _Sec._ ___379F.155._ _____ACQUISITION OF FORECLOSED OR SEIZED_  
+| _PROPERTY. (a) In this section, "taxing unit" has the meaning_  
+| _assigned by Section 1.04, Tax Code._  
+|  _(b)_ _____A land bank may submit a written bid to acquire real_  
+| _property at a tax sale conducted in accordance with Section 34.01,_  
+| _Tax Code. The bid:_  
+|  _(1)_ _____must be in an amount not less than the amount_  
+| _calculated under Section 34.01(b), Tax Code; and_  
+|  _(2)_ _____may be submitted in writing in advance of the_  
+| _auction or tendered in person at the auction._  
+|  _(c)_ _____If the bid submitted under Subsection (b) is the highest_  
+| _bid received at the sale, the land bank:_  
+|  _(1) shall:_  
+|  _(A)_ _____pay in cash the amount of the costs and_  
+| _expenses as described by Section 33.48, Tax Code, and any penalties_  
+| _described by Section 33.07 or 33.08, Tax Code; or_  
+|  _(B)_ _____remit payment of the amounts described by_  
+| _Paragraph (A) to the selling officer by check or electronic funds_  
+| _transfer not later than the seventh calendar day after the date of_  
+| _the auction; and_  
+|  _(2)_ _____is entitled to credit bid that portion of the bid_  
+| _amount consisting of the amount of the taxes, penalties, and_  
+| _interest set forth in the judgment._  
+|  _(d)_ _____A taxing unit that is a party to a judgment of_  
+| _foreclosure for property sold at auction may request that the_  
+| _selling officer bid off the property to the taxing unit in the_  
+| _manner provided by Section 34.01(j), Tax Code, and, if the request_  
+| _is granted, the transfer to the taxing unit prevails over a bid by_  
+| _the land bank if the land bank's bid is the only bid sufficient to_  
+| _satisfy the minimum bid described by Section 34.01(j), Tax Code._  
+|  _(e)_ _____The aggregate amount of all credit bids in a calendar_  
+| _year shall be considered satisfied by the aggregate expenditure in_  
+| _that calendar year of an amount equal to or greater than the credit_  
+| _bid amount, which expenditures are attributable directly and_  
+| _indirectly to maintenance, rehabilitation, construction,_  
+| _demolition, and remediation activities. As to any specific tract_  
+| _of property acquired by the credit bid and transferred by a land_  
+| _bank to a public entity described by Section 379F.158(a), the_  
+| _credit bid shall be considered satisfied by that transfer._  
+|  _(f)_ _____A land bank may submit a written request to a taxing unit_  
+| _at any time for the commencement of tax foreclosure proceedings for_  
+| _delinquent taxes on real property. The request must include a_  
+| _commitment to tender a bid in the amount specified under Subsection_  
+| _(b). On receipt of the written request, the taxing unit, or the_  
+| _governmental office acting on behalf of the taxing unit, shall_  
+| _commence enforcement proceedings in accordance with Section 33.41,_  
+| _Tax Code._  
+|  _(g)_ _____If there is no private third party bid in an amount more_  
+| _than the bid of the land bank, the real property must be sold to the_  
+| _land bank._  
+|  _(h)_ _____A sale to a land bank under this section is not a sale to_  
+| _a taxing unit under Section 34.01(j) or (p) or 34.21, Tax Code._  
+|  _(i)_ _____A land bank may bid an amount higher than the amount_  
+| _calculated under Section 34.01(b), Tax Code, and if that higher bid_  
+| _amount is the highest successful bid, the land bank shall pay the_  
+| _full amount of the bid in cash._  
+|  _(j)_ _____The deed to a land bank vests good and perfect title in_  
+| _the land bank to the right, title, and interest owned by the_  
+| _defendants included in the foreclosure judgment, including the_  
+| _defendants' right to the use and possession of the property,_  
+| _subject only to the defendants' right of redemption, the terms of a_  
+| _recorded restrictive covenant running with the land that was_  
+| _recorded before January 1 of the year in which the tax lien on the_  
+| _property arose, a recorded lien that arose under that restrictive_  
+| _covenant that was not extinguished by the judgment foreclosing the_  
+| _tax lien, and each easement of record as of the date of the sale that_  
+| _was recorded before January 1 of the year the tax lien arose._  
+|  _(k)_ _____A sale of real property to a land bank under this_  
+| _section:_  
+|  _(1)_ _____extinguishes each lien securing payment of the_  
+| _delinquent taxes, penalties, and interest against the property and_  
+| _included in the judgment; and_  
+|  _(2)_ _____does not affect the personal liability of any_  
+| _person for those taxes, penalties, and interest included in the_  
+| _judgment that are not satisfied from the proceeds of the sale._  
+|  _(l)_ _____A municipality, and any taxing unit levying property_  
+| _taxes within the geographical jurisdiction of the municipality, may_  
+| _convey tax foreclosed real property owned by the municipality or_  
+| _the taxing unit to the land bank on terms and for an amount of_  
+| _consideration determined by the transferor and the land bank._  
+|  _Sec._ ___379F.156._ _____REDEMPTION BY OWNER OF FORECLOSED PROPERTY._  
+| _(a)_ _____The owner of real property sold to a land bank under Section_  
+| _379F.155 may redeem the property in the manner prescribed for_  
+| _owners of real property sold at a tax sale to a purchaser other than_  
+| _a taxing unit under Section 34.21, Tax Code._  
+|  _(b)_ _____The price to be paid by the owner of real property sold_  
+| _to a land bank under this section to redeem the property shall be in_  
+| _the amounts set forth in Sections 34.21(a) and (e), Tax Code. For_  
+| _the purposes of calculating the price, the bid paid by the land bank_  
+| _shall be the aggregate amount of the land bank's bid as described by_  
+| _Section 379F.155(b)._  
+|  _(c)_ _____If the owner of real property sold to a land bank under_  
+| _Section 379F.155 redeems the property by paying to the land bank the_  
+| _full amount required to redeem as set forth in Sections 34.21(a) and_  
+| _(e), Tax Code, the land bank shall:_  
+|  _(1)_ _____retain an amount equal to the amount paid in cash_  
+| _by the land bank in accordance with Section 379F.155;_  
+|  _(2)_ _____retain any redemption premium and any reasonable_  
+| _costs the land bank may have expended on maintenance or_  
+| _environmental remediation of the property being redeemed; and_  
+|  _(3)_ _____remit to the county assessor-collector any_  
+| _remaining amounts to be distributed among the taxing units that_  
+| _were parties to the judgment of foreclosure in an amount equal to_  
+| _the proportion of each taxing unit's taxes, penalties, and interest_  
+| _due in accordance with the judgment of foreclosure._  
+|  _Sec._ ___379F.157._ _____DISPOSITION OF PROPERTY GENERALLY. (a)_ ___A_  
+| _land bank may convey, exchange, sell, transfer, lease as lessor,_  
+| _grant, release and demise, pledge, or hypothecate any interest in,_  
+| _on, or to real property of the land bank._  
+|  _(b)_ _____A municipality may, in the ordinance creating a land_  
+| _bank, require that a particular form of disposition of real_  
+| _property of the land bank, or any disposition of real property_  
+| _located within a specified jurisdiction of the municipality, be_  
+| _subject to specified voting and approval requirements of the board._  
+| _Unless restricted under this subsection, the board may delegate to_  
+| _officers and employees the authority to enter into and execute_  
+| _agreements, instruments of conveyance, and all other related_  
+| _documents pertaining to the conveyance of real property by the land_  
+| _bank._  
+|  _(c)_ _____A land bank shall determine the terms, conditions, form,_  
+| _and substance of consideration necessary and appropriate to convey,_  
+| _exchange, sell, transfer, lease as lessor, grant, or mortgage as_  
+| _mortgagor any interest in, on, or to real property of the land bank._  
+| _Consideration may take the form of monetary payments and secured_  
+| _financial obligations, covenants, and conditions related to the_  
+| _present and future use of the property, deed covenants and_  
+| _limitations, contractual commitments of the transferee, mortgage_  
+| _financing, defeasible fees, and other forms of consideration as_  
+| _determined by the board to be in the best interests of the land_  
+| _bank. The board shall determine and state in the land bank's_  
+| _policies and procedures the general terms for consideration to be_  
+| _received by the land bank for the transfer of real property of the_  
+| _land bank._  
+|  _(d)_ _____The board may authorize in the board's policies_  
+| _governing the disposition of land bank property a program for the_  
+| _disposition of land bank property to owners of contiguous_  
+| _properties._  
+|  _(e)_ _____A municipality may recommend that a land bank created by_  
+| _the municipality, and the land bank may in the land bank's own_  
+| _policies and procedures, establish a hierarchical ranking of_  
+| _priorities for the use of real property conveyed by the land bank,_  
+| _including use for:_  
+|  _(1) purely public spaces and places;_  
+|  _(2)_ _____flood reduction, storm water retention and_  
+| _drainage, and storm resiliency;_  
+|  _(3)_ _____affordable housing, workforce housing, or public_  
+| _service housing;_  
+|  _(4)_ _____community-based economic development, including_  
+| _retail, commercial, and industrial activities;_  
+|  _(5) food desert solutions;_  
+|  _(6)_ _____beautification and public art, parks, and_  
+| _recreation;_  
+|  _(7) conservation areas; and_  
+|  _(8) community land trusts or other public entities._  
+|  _Sec._ ___379F.158._ _____DISPOSITION OF PROPERTY FOR FLOOD CONTROL_  
+| _AND STORM WATER DRAINAGE AND PLANNING. (a) A land bank may convey_  
+| _to a public entity such as a flood control district or a municipal_  
+| _parks and recreation department real property held by the land_  
+| _bank:_  
+|  _(1)_ _____for which the highest and best use is flood control_  
+| _or storm water retention or drainage; and_  
+|  _(2)_ _____that, as a result of housing and building code_  
+| _restrictions, flood plain elevations, other local, state, or_  
+| _federal laws, or public or private agreements, conditions, and_  
+| _limitations, is no longer capable of being developed or_  
+| _redeveloped._  
+|  _(b)_ _____The transfer of real property by a land bank under this_  
+| _section may be:_  
+|  _(1)_ _____by grant, deed lease, or other conveyance and may_  
+| _include additional limitations, restrictions, and conditions_  
+| _determined by the land bank; and_  
+|  _(2)_ _____for nominal consideration, for consideration_  
+| _consisting of contractual commitments, for an exchange of real_  
+| _properties, or for other consideration determined by the land bank._  
+| _SUBCHAPTER E. FINANCING OF LAND BANK OPERATIONS_  
+|  _Sec._ ___379F.201._ _____GENERAL FINANCING. (a) A land bank may_  
+| _receive funding through grants and loans from the municipality that_  
+| _created the land bank, other municipalities, this state, the_  
+| _federal government, and other public or private sources._  
+|  _(b)_ _____A land bank may receive and retain payments for services_  
+| _rendered, for rents and leasehold payments received, for_  
+| _consideration for disposition of real and personal property, for_  
+| _proceeds of insurance coverage for losses incurred, for income from_  
+| _investments, and for any other asset or activity permitted under_  
+| _this chapter._  
+|  _Sec._ ___379F.202._ _____SALE OF LAND BANK PROPERTY. At the time a_  
+| _land bank sells or otherwise disposes of real property, the_  
+| _proceeds from the sale, if any, shall be allocated to operations and_  
+| _expenses of the land bank._  
+|  _Sec._ ___379F.203._ _____TAX PENALTY FINANCING. The governing_  
+| _authority of the municipality that created the land bank, and a_  
+| _taxing unit within the geographical boundaries of the municipality,_  
+| _may increase the amount of the penalty imposed for the nonpayment of_  
+| _real property taxes of the municipality levied within that_  
+| _jurisdiction under Section 33.01, Tax Code, by increasing the_  
+| _penalty amount on delinquent taxes on July 1, as described by_  
+| _Section 33.01(a), Tax Code, from 12 percent to 14 percent or a_  
+| _higher amount as determined by the municipality or taxing unit. The_  
+| _supplemental penalty authorized by this subsection applies only to_  
+| _properties not owned and occupied as a residence homestead as_  
+| _defined by Section 11.13(j)(1), Tax Code. If the supplemental_  
+| _penalty is authorized and collected, all such supplemental revenue_  
+| _must be transferred to the land bank._  
+|  _Sec._ ___379F.204._ _____COLLECTION OF TAXES ON PROPERTY CONVEYED BY_  
+| _LAND BANK. Not more than 75 percent of the real property taxes the_  
+| _municipality that created the land bank collected on real property,_  
+| _excluding any school district or county ad valorem tax, conveyed by_  
+| _a land bank under the laws of this state shall be remitted to the_  
+| _land bank. The real property taxes of any other taxing unit, as to_  
+| _real property of the land bank, may also be allocated to the land_  
+| _bank in a similar manner under an interlocal agreement between the_  
+| _other taxing unit and the land bank. The specific percentage of_  
+| _those taxes to be remitted shall be established by ordinance,_  
+| _resolution, or interlocal cooperation agreement of the land bank._  
+| _The allocation of property tax revenue shall begin with the first_  
+| _taxable year following the date of conveyance and shall continue_  
+| _for a period of five years. The funds shall be remitted to the land_  
+| _bank in accordance with the administrative procedures established_  
+| _by the assessor-collector of the county in which the land bank is_  
+| _located. The allocation of property tax revenue may not occur if_  
+| _those taxes have been previously allocated to a tax increment_  
+| _reinvestment zone, or to secure a debt of the municipality or other_  
+| _taxing unit, unless the municipality or other taxing unit enters_  
+| _into an agreement with the land bank for the remittance of those_  
+| _funds to the land bank. Any property tax revenue allocated to the_  
+| _land bank under this subsection shall be excluded from the_  
+| _calculation of ad valorem tax revenue under the municipality's_  
+| _charter._  
+|  _Sec._ ___379F.205._ _____ISSUANCE OF BONDS. (a) A land bank may_  
+| _issue bonds for the land bank's purposes. The principal and_  
+| _interest of bonds issued under this section are payable from the_  
+| _land bank's general revenue. Any bonds issued under this section_  
+| _may be secured by a pledge of any revenue, including grants or_  
+| _contributions from this state, the federal government, or any_  
+| _agency or instrumentality of this state or the federal government,_  
+| _or by a mortgage of any real property of the land bank._  
+|  _(b)_ _____Bonds issued by a land bank are negotiable instruments_  
+| _under the law._  
+|  _(c)_ _____Bonds of a land bank issued under this section and the_  
+| _income from those bonds shall at all times be free from taxation for_  
+| _state or local purposes under any provision of state law._  
+|  _(d)_ _____Bonds issued by a land bank must be authorized by_  
+| _resolution of the board and shall be limited obligations of the land_  
+| _bank._  
+|  _(e)_ _____The principal and interest, costs of issuance, and other_  
+| _costs incidental to bonds issued under this section shall be_  
+| _payable solely from the income and revenue derived from the sale,_  
+| _lease, or other disposition of the assets of the land bank._  
+|  _(f)_ _____In the discretion of the land bank, the bonds may be_  
+| _additionally secured by mortgage or other security device covering_  
+| _all or part of the project from which the revenue pledged may be_  
+| _derived._  
+|  _(g)_ _____Any refunding bonds issued shall be payable from any_  
+| _source described by this section or from the investment of any of_  
+| _the proceeds of the refunding bonds, may not constitute an_  
+| _indebtedness or pledge of the general credit of a municipality or_  
+| _any other governmental entity within the meaning of any_  
+| _constitutional or statutory limitation of indebtedness, and must_  
+| _contain a recital to that effect._  
+|  _(h)_ _____Bonds of the land bank may be issued in the form, may be_  
+| _in the denominations, may bear interest, may mature in the manner,_  
+| _and may be executed by one or more members of the board as provided_  
+| _by the resolution authorizing the issuance of the bonds. The bonds_  
+| _may be subject to redemption at the option of and in the manner_  
+| _determined by the board in the resolution authorizing the issuance_  
+| _of the bonds._  
+|  _(i)_ _____The municipality in which a land bank operates may_  
+| _guarantee, insure, or otherwise become primarily or secondarily_  
+| _obligated on the indebtedness of the land bank subject to all other_  
+| _provisions of state law applicable to municipal indebtedness._  
+|  _(j)_ _____Bonds issued by a land bank shall be issued, sold, and_  
+| _delivered in accordance with the terms and provisions of a_  
+| _resolution adopted by the board. The board of a land bank may sell_  
+| _the bonds in a manner, either at public or at private sale, and for a_  
+| _price as the board determines to be in the best interests of the_  
+| _land bank. The resolution issuing bonds shall be published in a_  
+| _newspaper of general circulation within the jurisdiction of the_  
+| _land bank._  
+|  _(k)_ _____A board member or a person executing the bonds is not_  
+| _liable personally on any bonds by reason of the issuance of the_  
+| _bonds. The bonds or other obligations of the land bank are not a_  
+| _debt of the municipality that created the land bank or of this state_  
+| _and must state so on their face. The municipality, this state, or_  
+| _any revenue or any property of a municipality or this state is not_  
+| _liable for the bond._  
+|  SECTION 2. Section 379E.002, Local Government Code, is  
+| amended to read as follows:  
+|  Sec. 379E.002. APPLICABILITY; CONSTRUCTION WITH OTHER LAW.  
+| This chapter applies only to a municipality:  
+|  (1) to which Chapter 379C _or 379F_ [ ~~or 379D~~ ] does not  
+| apply; and  
+|  (2) that has not ever adopted a homestead land bank  
+| program under Subchapter E, Chapter 373A.  
+|  SECTION 3. Chapter 379D, Local Government Code, is  
+| repealed.  
+|  SECTION 4. The Houston Land Bank, a public nonprofit  
+| corporation evidenced by its amended and restated Certificate of  
+| Formation dated September 26, 2018, as filed with the Secretary of  
+| State under File No. 155688901, under ordinance dated HCD 18-51,  
+| approved and adopted by the city council of the City of Houston on  
+| July 25, 2018, and originally created as the Land Assemblage  
+| Redevelopment Authority under Subchapter D, Chapter 431,  
+| Transportation Code, is a land bank under 379F, Local Government  
+| Code, as added by this Act, and shall continue to possess the  
+| statutory authorization by which it was originally created under  
+| Subchapter D, Chapter 431, Transportation Code. All actions of the  
+| board of directors and employees of the Houston Land Bank, all  
+| contracts, agreements, services, and real property acquisitions  
+| and dispositions taken before the effective date of this Act shall  
+| remain unaffected by the adoption of an ordinance under Chapter  
+| 379F, Local Government Code, as added by this Act.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

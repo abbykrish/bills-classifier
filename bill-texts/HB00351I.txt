@@ -1,0 +1,68 @@
+| 86R1489 JCG-D  
+---|---  
+|  By: Blanco | H.B. No. 351  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to emergency management for cyber attacks against this  
+| state.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 418.002, Government Code, is amended to  
+| read as follows:  
+|  Sec. 418.002. PURPOSES. The purposes of this chapter are  
+| to:  
+|  (1) reduce vulnerability of people and communities of  
+| this state to damage, injury, and loss of life and property  
+| resulting from natural or man-made catastrophes, riots, [ ~~or~~ ]  
+| hostile military or paramilitary action _, or cyber attacks_ ;  
+|  (2) prepare for prompt and efficient rescue, care, and  
+| treatment of persons victimized or threatened by disaster;  
+|  (3) provide a setting conducive to the rapid and  
+| orderly restoration and rehabilitation of persons and property  
+| affected by disasters;  
+|  (4) clarify and strengthen the roles of the governor,  
+| state agencies, the judicial branch of state government, and local  
+| governments in prevention of, preparation for, response to, and  
+| recovery from disasters;  
+|  (5) authorize and provide for cooperation in disaster  
+| mitigation, preparedness, response, and recovery;  
+|  (6) authorize and provide for coordination of  
+| activities relating to disaster mitigation, preparedness,  
+| response, and recovery by agencies and officers of this state, and  
+| similar state-local, interstate, federal-state, and foreign  
+| activities in which the state and its political subdivisions may  
+| participate;  
+|  (7) provide an emergency management system embodying  
+| all aspects of predisaster preparedness and postdisaster response;  
+|  (8) assist in mitigation of disasters caused or  
+| aggravated by inadequate planning for and regulation of public and  
+| private facilities and land use; and  
+|  (9) provide the authority and mechanism to respond to  
+| an energy emergency.  
+|  SECTION 2. Section 418.004, Government Code, is amended by  
+| amending Subdivision (1) and adding Subdivision (1-a) to read as  
+| follows:  
+|  (1) _"Cyber attack" means an attempt to damage,_  
+| _disrupt, or gain unauthorized access to a computer, computer_  
+| _network, or computer system._  
+|  _(1-a)_ "Disaster" means the occurrence or imminent  
+| threat of widespread or severe damage, injury, or loss of life or  
+| property resulting from any natural or man-made cause, including  
+| fire, flood, earthquake, wind, storm, wave action, oil spill or  
+| other water contamination, volcanic activity, epidemic, air  
+| contamination, blight, drought, infestation, explosion, riot,  
+| hostile military or paramilitary action, _cyber attack,_ extreme  
+| heat, other public calamity requiring emergency action, or energy  
+| emergency.  
+|  SECTION 3. Section 418.0195(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The governor may order the Department of Information  
+| Resources to disconnect a computer network from the Internet in the  
+| event of a _cyber attack or other_ substantial external threat to the  
+| computer network.  
+|  SECTION 4. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

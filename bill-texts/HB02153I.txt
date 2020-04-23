@@ -1,0 +1,165 @@
+| 86R2765 BEF-F  
+---|---  
+|  By: Burrows | H.B. No. 2153  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a single local use tax rate as an alternative to  
+| combined local use tax rates for computing the amount of local use  
+| taxes remote sellers are required to collect and to the allocation  
+| of tax revenue collected at that rate.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The purpose of this Act is to provide an  
+| optional, simplified means of computing the amount of local use tax  
+| remote sellers are required to collect following the decision of  
+| the United States Supreme Court in _South Dakota v. Wayfair, Inc._ ,  
+| 138 S. Ct. 2080 (2018).  
+|  SECTION 2. Subchapter C, Chapter 151, Tax Code, is amended  
+| by adding Section 151.0595 to read as follows:  
+|  _Sec._ ___151.0595._ _____SINGLE LOCAL TAX RATE FOR REMOTE SELLERS._  
+| _(a)_ ___In this section, "remote seller" means a seller whose only_  
+| _activities in this state are described by Section 151.107(a)(4) or_  
+| _(5)._  
+|  _(b)_ _____A remote seller required to collect and remit one or_  
+| _more local use taxes in connection with a sale of a taxable item_  
+| _made by the remote seller shall compute the amount to collect and_  
+| _remit using:_  
+|  _(1)_ _____the combined rate of all applicable local use_  
+| _taxes authorized or governed by Title 3; or_  
+|  _(2)_ _____at the remote seller's election, the single local_  
+| _use tax rate published in the Texas Register as required by_  
+| _Subsection (d)._  
+|  _(c)_ _____A remote seller who elects under Subsection (b)(2) to_  
+| _use the single local use tax rate shall notify the comptroller of_  
+| _the election before using that rate. The election applies to all_  
+| _sales of taxable items made by the remote seller unless the remote_  
+| _seller revokes the election by notifying the comptroller. Notice to_  
+| _the comptroller under this subsection must be in the form and manner_  
+| _provided by the comptroller._  
+|  _(d)_ _____The single local use tax rate effective in a calendar_  
+| _year is equal to the estimated average rate of local sales and use_  
+| _taxes imposed in this state during the preceding state fiscal year,_  
+| _as determined under Subsection (e). Before the beginning of a_  
+| _calendar year, the comptroller shall publish in the Texas Register_  
+| _notice of the single local use tax rate that will be in effect for_  
+| _that calendar year._  
+|  _(e)_ _____As soon as practicable after the end of a state fiscal_  
+| _year, the comptroller shall determine the estimated average rate of_  
+| _local sales and use taxes imposed in this state during the preceding_  
+| _state fiscal year by:_  
+|  _(1)_ _____dividing the total amount of net local sales and_  
+| _use taxes remitted to the comptroller under this section and Title 3_  
+| _during that state fiscal year by the total amount of net state sales_  
+| _and use taxes remitted to the comptroller under this chapter during_  
+| _that state fiscal year;_  
+|  _(2)_ _____multiplying the amount computed under Subdivision_  
+| _(1) by the rate provided by Section 151.051; and_  
+|  _(3)_ _____rounding the amount computed under Subdivision (2)_  
+| _to the nearest .0025._  
+|  _(f)_ _____Notwithstanding Section 111.104(b), a purchaser may_  
+| _annually apply for a refund of any amount by which the amount of use_  
+| _tax computed using the rate described by Subsection (b)(2) and paid_  
+| _by the purchaser exceeds the amount the purchaser would have paid if_  
+| _that tax had been computed using the rate described by Subsection_  
+| _(b)(1)._ ___The comptroller may adopt rules regarding the procedure_  
+| _and proof required for the refund._  
+|  _(g)_ _____A person storing, using, or consuming in this state a_  
+| _taxable item purchased from a remote seller is not liable for any_  
+| _additional amount of local use tax authorized or governed by Title 3_  
+| _if the remote seller elects under Subsection (b)(2) to use the_  
+| _single local use tax rate and the person pays to the remote seller_  
+| _the amount of local use tax computed on the purchase using the_  
+| _single local use tax rate._  
+|  _(h)_ _____The comptroller shall administer, collect, and enforce_  
+| _local use taxes computed using the single local use tax rate._  
+|  _(i)_ _____The comptroller shall apportion and distribute revenue_  
+| _from local use taxes computed using the single local use tax rate as_  
+| _provided by Section 403.107, Government Code._  
+|  _(j)_ _____The comptroller may adopt rules to administer this_  
+| _section._  
+|  SECTION 3. Section 403.107, Government Code, is reenacted  
+| and amended to read as follows:  
+|  Sec. 403.107. _SINGLE_ LOCAL _USE TAXES COLLECTED BY REMOTE_  
+| _SELLERS_ [ ~~SALES AND USE TAX FEES~~ ].  (a)  The comptroller shall  
+| deposit _revenue remitted to the comptroller from taxes computed_  
+| _using the single local use tax rate under Section 151.0595(b)(2)_  
+| [ ~~fees imposed under Section 151.059~~ ], Tax Code, in the state  
+| treasury and shall keep records of the amount of money _deposited_  
+| [ ~~collected~~ ] for each reporting period. _Money deposited under this_  
+| _subsection_ [ ~~Such fees~~ ] shall be held in trust _for the benefit of_  
+| _eligible taxing units, as determined under Subsection (b)_ [ ~~in the~~  
+|  ~~suspense account of each eligible taxing unit~~ ]. The comptroller  
+| shall distribute money _held in trust_ [ ~~in the suspense accounts~~ ]  
+| under this section to each eligible taxing unit in the amount and  
+| manner provided by [ ~~federal law or~~ ] this section.  
+|  (b) A local taxing unit is _an_ eligible _taxing unit for_  
+| _purposes of_ [ ~~to receive funds under~~ ] this section if it has adopted  
+| a sales and use tax _authorized or governed by Title 3, Tax Code_  
+| [ ~~under Chapter 321, Chapter 322, or Chapter 323, Tax Code, or has~~  
+|  ~~adopted a local sales and use tax governed in part by any provision~~  
+|  ~~of those chapters~~ ].  
+|  (c) _Subject to Subsection (d), the_ [ ~~The~~ ] comptroller shall  
+| transmit to each eligible taxing unit's treasurer, or to the  
+| officer performing the functions of that office, on a _monthly_  
+| [ ~~quarterly~~ ] basis, the taxing unit's share of _money held in trust_  
+| _under Subsection (a)_ [ ~~the fees remitted to the comptroller~~ ],  
+| together with the pro rata share of any penalty or interest on  
+| delinquent _taxes computed using the single local use tax rate_  
+| [ ~~fees~~ ] that may be collected. Before transmitting the funds, the  
+| comptroller shall deduct two percent of [ ~~the amount allocated to~~ ]  
+| each taxing _unit's share_ [ ~~unit~~ ] as a charge by the state for its  
+| services under this section and deposit that amount into the state  
+| treasury to the credit of the comptroller's operating fund.  
+| Interest earned on all deposits made in the state treasury under  
+| this section shall be credited to the general revenue fund.  
+|  (d) The comptroller shall retain [ ~~in the suspense account~~  
+|  ~~for a taxing unit~~ ] a portion of _each eligible_ [ ~~the~~ ] taxing
+unit's  
+| share of _money held in trust under Subsection (a)_ [ ~~the fees~~  
+|  ~~collected~~ ], not to exceed five percent of the amount _eligible to be_  
+| _transmitted_ [ ~~remitted~~ ] to the taxing unit _under Subsection (c)_.  
+| From the amounts retained [ ~~in a taxing unit's suspense account~~ ],  
+| the comptroller may make refunds for overpayments _of taxes computed_  
+| _using the single local use tax rate, make refunds to purchasers as_  
+| _provided by Section 151.0595(f), Tax Code, and_ [ ~~to the account and~~  
+|  ~~to~~ ] redeem dishonored checks and drafts deposited _under Subsection_  
+| _(a)_ [ ~~to the credit of the account~~ ].  
+|  (e) _The_ [ ~~Unless another method is required by federal law,~~  
+|  ~~the~~ ] comptroller shall compute for each calendar _month_ [ ~~quarter~~
+]  
+| the percentage of total sales and use tax allocations made pursuant  
+| to Title 3 _,_ [ ~~of the~~ ] Tax Code, including any local sales and use  
+| taxes governed by any provision of Title 3 _,_ [ ~~of the~~ ] Tax Code, to  
+| each eligible taxing unit _. The comptroller shall determine each_  
+| _eligible taxing unit's share of the money held in trust from_  
+| _deposits under Subsection (a) for that month by applying the_  
+| _percentage computed under this subsection for the eligible taxing_  
+| _unit_ [ ~~and shall apply that percentage~~ ] to the total _amount held in_  
+| _trust from deposits for that month_ [ ~~fees collected under Section~~  
+|  ~~151.059, Tax Code, and allocated to eligible taxing units in that~~  
+|  ~~quarter~~ ].  
+|  (f) The comptroller may combine an eligible taxing unit's  
+| share of the _money held in trust under Subsection (a)_ [ ~~fees remitted~~  
+|  ~~or collected under Section 151.059, Tax Code, a suspense account~~  
+|  ~~under this section, or an allocation made under this section~~ ] with  
+| other _money_ [ ~~trust or suspense accounts~~ ] held for that taxing unit  
+| [ ~~or other allocations made to that taxing unit under Title 3 of the~~  
+|  ~~Tax Code~~ ].  
+|  _(g)_ _____The comptroller may adopt rules to administer this_  
+| _section._  
+|  SECTION 4. Sections 151.059 and 151.107(c), Tax Code, as  
+| added by Chapter 291 (H.B. 2215), Acts of the 71st Legislature,  
+| Regular Session, 1989, are repealed.  
+|  SECTION 5. The changes in law made by this Act do not affect  
+| tax liability accruing before the effective date of this Act. That  
+| liability continues in effect as if this Act had not been enacted,  
+| and the former law is continued in effect for the collection of  
+| taxes due and for civil and criminal enforcement of the liability  
+| for those taxes.  
+|  SECTION 6. (a) Not later than October 1, 2019, the  
+| comptroller shall adopt any rules necessary to implement this Act.  
+|  (b) This Act does not require a remote seller, as defined by  
+| Section 151.0595, Tax Code, as added by this Act, to collect local  
+| use taxes on sales of taxable items made before October 1, 2019.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,50 @@
+| 86R7469 BRG-F  
+---|---  
+|  By: Phelan | H.B. No. 1397  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment of rates for certain non-ERCOT  
+| utilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 36.112(g), Utilities Code, is amended to  
+| read as follows:  
+|  (g) This section expires September 1, _2031_ [ ~~2023~~ ].  
+|  SECTION 2. Section 36.211(f), Utilities Code, is amended to  
+| read as follows:  
+|  (f) This section expires September 1, _2031_ [ ~~2023~~ ].  
+|  SECTION 3. Section 36.212(g), Utilities Code, is amended to  
+| read as follows:  
+|  (g) This section expires September 1, _2031_ [ ~~2023~~ ].  
+|  SECTION 4. Subchapter E, Chapter 36, Utilities Code, is  
+| amended by adding Section 36.213 to read as follows:  
+|  _Sec._ ___36.213._ _____RECOVERY OF GENERATION INVESTMENT BY NON-ERCOT_  
+| _UTILITIES._ ___(a)_ ___This section applies only to an electric utility_  
+| _that operates solely outside of ERCOT._  
+|  _(b)_ _____To encourage generation investment, an electric utility_  
+| _may file, and the commission may approve, an application for a rider_  
+| _to recover the electric utility's reasonable and necessary power_  
+| _generation investment and costs associated with that investment._  
+|  _(c)_ _____To enable full and timely recovery, an application under_  
+| _Subsection (b) may be filed by the electric utility and approved by_  
+| _the commission before the electric utility places the power_  
+| _generation investment in service._  
+|  _(d)_ _____Any rider approved under Subsection (b) shall take_  
+| _effect on the date the power generation investment begins providing_  
+| _service to the electric utility's customers._  
+|  _(e)_ _____A rider approved under Subsection (b) shall account for_  
+| _changes in the number of an electric utility's customers and the_  
+| _effects, on a weather-normalized basis, that energy consumption and_  
+| _energy demand have on the amount of revenue recovered through the_  
+| _electric utility's base rates._  
+|  _(f)_ _____The commission shall adopt rules as necessary to_  
+| _implement this section._  
+|  SECTION 5. Not later than September 1, 2020, the Public  
+| Utility Commission of Texas shall adopt rules required by Section  
+| 36.213(f), Utilities Code, as added by this Act.  
+|  SECTION 6. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

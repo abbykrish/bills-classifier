@@ -1,0 +1,68 @@
+| 86R8244 TJB-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 1299  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring the comptroller of public accounts to  
+| establish and maintain a political subdivision disaster  
+| expenditure database.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 403, Government Code, is  
+| amended by adding Section 403.0243 to read as follows:  
+|  _Sec._ ___403.0243._ _____POLITICAL SUBDIVISION DISASTER EXPENDITURE_  
+| _DATABASE. (a) In this section:_  
+|  _(1)_ _____"Disaster" has the meaning assigned by Section_  
+| _418.004._  
+|  _(2)_ _____"Political subdivision" means a county,_  
+| _municipality, school district, junior college district, other_  
+| _special district, or other subdivision of state government._  
+|  _(b)_ _____The comptroller shall establish and maintain on the_  
+| _Internet an electronically searchable database that contains the_  
+| _following information for each political subdivision:_  
+|  _(1)_ _____the total amount budgeted by the political_  
+| _subdivision for disaster preparedness, response, rebuilding, and_  
+| _mitigation in the most recent fiscal year of the political_  
+| _subdivision that is complete;_  
+|  _(2)_ _____the total amount spent by the political_  
+| _subdivision for disaster preparedness, response, rebuilding, and_  
+| _mitigation in the most recent fiscal year of the political_  
+| _subdivision that is complete; and_  
+|  _(3)_ _____the total amount received by the political_  
+| _subdivision for disaster preparedness, response, rebuilding, and_  
+| _mitigation in the most recent fiscal year of the political_  
+| _subdivision that is complete from the following categories, stated_  
+| _as a total amount and a per category amount:_  
+|  _(A) the federal government;_  
+|  _(B) the state government;_  
+|  _(C)_ _____another public entity, including another_  
+| _political subdivision; and_  
+|  _(D)_ _____a private entity, including an insurance_  
+| _company or nonprofit charitable organization._  
+|  _(c)_ _____The comptroller shall update the information in the_  
+| _database for a political subdivision not later than the 45th day_  
+| _after the date on which the comptroller receives a report from the_  
+| _political subdivision under Subsection (d)._  
+|  _(d)_ _____Each political subdivision shall, at the close of the_  
+| _political subdivision's fiscal year, prepare and file with the_  
+| _comptroller an annual report that contains for that fiscal year the_  
+| _information described by Subsection (b). Each political_  
+| _subdivision must file the report required by this subsection in a_  
+| _form and in the manner prescribed by the comptroller. The_  
+| _comptroller shall prepare a form for the report required by this_  
+| _subsection._  
+|  _(e)_ _____The comptroller shall establish procedures and adopt_  
+| _rules to implement this section._  
+|  SECTION 2. The comptroller of public accounts shall:  
+|  (1) prepare and make available the form required by  
+| Section 403.0243(d), Government Code, as added by this Act, not  
+| later than October 1, 2019; and  
+|  (2) establish and post on the Internet the database  
+| required by Section 403.0243, Government Code, as added by this  
+| Act, not later than September 1, 2020.  
+|  SECTION 3. The first report required of a political  
+| subdivision under Section 403.0243(d), Government Code, as added by  
+| this Act, must be filed with the comptroller of public accounts at  
+| the close of the political subdivision's 2019 fiscal year.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,57 @@
+| 86R2142 BEE-D  
+---|---  
+|  By: Minjarez | H.B. No. 119  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to liability for and reporting of accidents involving  
+| certain motor vehicles.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter J, Chapter 545, Transportation Code,  
+| is amended by adding Section 545.457 to read as follows:  
+|  _Sec._ ___545.457._ _____LIABILITY OF MANUFACTURER OF MODIFIED_  
+| _AUTOMATED MOTOR VEHICLE. (a) The manufacturer of an automated_  
+| _motor vehicle is not liable for damage that arises from an accident_  
+| _involving the vehicle if a person other than the manufacturer_  
+| _modified or attempted to modify the vehicle without the_  
+| _manufacturer's consent and:_  
+|  _(1)_ _____the modification or attempted modification of the_  
+| _vehicle was the direct cause of the accident; or_  
+|  _(2)_ _____the modification or attempted modification of the_  
+| _vehicle interfered with the normal operation of the vehicle._  
+|  _(b)_ _____Subsection (a) does not apply if the damage that arises_  
+| _from an accident involving an automated motor vehicle is caused by a_  
+| _defect that was present at the time of the vehicle's manufacture or_  
+| _first sale._  
+|  SECTION 2. Section 550.064(b), Transportation Code, is  
+| amended to read as follows:  
+|  (b) An accident report form prepared by the department must:  
+|  (1) require sufficiently detailed information to  
+| disclose the cause and conditions of and the persons and vehicles  
+| involved in an accident if the form is for the report to be made by a  
+| person investigating the accident;  
+|  (2) include a way to designate and identify a peace  
+| officer, firefighter, or emergency medical services employee who is  
+| involved in an accident while driving a law enforcement vehicle,  
+| fire department vehicle, or emergency medical services vehicle  
+| while performing the person's duties;  
+|  (3) require a statement by a person described by  
+| Subdivision (2) as to the nature of the accident; [ ~~and~~ ]  
+|  (4) include a way to designate whether an individual  
+| involved in an accident wants to be contacted by a person seeking to  
+| obtain employment as a professional described by Section 38.01(12),  
+| Penal Code _;_  
+|  _(5) include a way to indicate whether:_  
+|  _(A)_ _____an automated motor vehicle as defined by_  
+| _Section 545.451 was at fault or otherwise involved in the accident;_  
+| _and_  
+|  _(B)_ _____the owner of an automated motor vehicle_  
+| _involved in the accident was contacted; and_  
+|  _(6)_ _____include a way to indicate whether an oversize or_  
+| _overweight vehicle described by Subtitle E was at fault or_  
+| _otherwise involved in the accident_.  
+|  SECTION 3. Section 545.457, Transportation Code, as added  
+| by this Act, applies only to a cause of action that accrues on or  
+| after the effective date of this Act.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

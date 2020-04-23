@@ -1,0 +1,112 @@
+| 86R452 JRJ-D  
+---|---  
+|  By: Lang | H.B. No. 378  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the verification of citizenship of an applicant for  
+| voter registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.002(a), Election Code, is amended to  
+| read as follows:  
+|  (a) A person desiring to register to vote must submit an  
+| application to the registrar of the county in which the person  
+| resides. Except as provided by Subsection (e), an application must  
+| be submitted by personal delivery, by mail, or by telephonic  
+| facsimile machine in accordance with _Section 13.143(d-2)_ [ ~~Sections~~  
+|  ~~13.143(d) and (d-2)~~ ].  
+|  SECTION 2. Section 13.046(f), Election Code, is amended to  
+| read as follows:  
+|  (f) Except as provided by this subsection, Sections  
+| 13.039[ ~~, 13.041,~~ ] and 13.042 apply to the submission and delivery  
+| of registration applications under this section, and for that  
+| purpose, "volunteer deputy registrar" in those sections includes a  
+| high school deputy registrar. A high school deputy registrar may  
+| review an application for completeness out of the applicant's  
+| presence. A deputy may deliver a group of applications to the  
+| registrar by mail in an envelope or package, and, for the purpose of  
+| determining compliance with the delivery deadline, an application  
+| delivered by mail is considered to be delivered at the time of its  
+| receipt by the registrar.  
+|  SECTION 3. Section 13.071, Election Code, is amended to  
+| read as follows:  
+|  Sec. 13.071. REVIEW OF APPLICATION. (a) The registrar  
+| shall review each submitted application for registration to  
+| determine whether it complies with Section 13.002 and indicates  
+| that the applicant is _a United States citizen_ eligible for  
+| registration.  
+|  (b) _If the application is submitted to the Department of_  
+| _Public Safety in person with the proof of citizenship required by_  
+| _Section 20.063(e), the_ [ ~~The~~ ] registrar shall make the determination  
+| not later than the seventh day after the date the application is  
+| submitted to the registrar.  
+|  _(c)_ _____If the application is submitted in a manner other than_  
+| _the manner described by Subsection (b), the registrar shall forward_  
+| _the information relating to the applicant to the secretary of state_  
+| _for determining citizenship as provided by Section 13.0721._  
+|  SECTION 4. Subchapter C, Chapter 13, Election Code, is  
+| amended by adding Section 13.0721 to read as follows:  
+|  _Sec._ ___13.0721._ _____DETERMINATION OF CITIZENSHIP. (a)_ ___This_  
+| _section does not apply to an application for registration submitted_  
+| _to the Department of Public Safety in person with the proof of_  
+| _citizenship required by Section 20.063(e)._  
+|  _(b)_ _____The secretary of state shall verify with the Department_  
+| _of Public Safety the citizenship status of each applicant for voter_  
+| _registration whose information is forwarded to the secretary of_  
+| _state as provided by Section 13.071(c). If the department verifies_  
+| _the applicant's citizenship status, the secretary of state shall_  
+| _notify the registrar._ ___If the department does not have information_  
+| _regarding the citizenship status of the applicant or has_  
+| _information indicating that the applicant is not a citizen, the_  
+| _registrar and the applicant shall be notified as provided by_  
+| _secretary of state rule._  
+|  _(c)_ _____An applicant for voter registration who receives notice_  
+| _under Subsection (b) must provide proof of citizenship to the_  
+| _registrar not later than the 60th day after the date of receipt._  
+| _Except as provided by Subsection (d), this proof must be presented_  
+| _in person. The following is acceptable as proof of citizenship_  
+| _under this section:_  
+|  _(1) an unexpired passport issued to the person;_  
+|  _(2)_ _____a certified copy of a birth certificate or other_  
+| _document confirming the person's birth that is admissible in a_  
+| _court of law and establishes the person's identity, presented with_  
+| _a government-issued identification that contains the person's_  
+| _photograph; or_  
+|  _(3)_ _____United States citizenship papers issued to the_  
+| _person, presented with a government-issued identification that_  
+| _contains the person's photograph._  
+|  _(d)_ _____An applicant may mail a certified copy of a document_  
+| _described by Subsection (c)(2) or (3) with a copy of the person's_  
+| _government-issued photo identification to the registrar._  
+|  _(e)_ _____If an applicant does not provide proof of citizenship as_  
+| _required, the registrar shall reject the application and notify the_  
+| _secretary of state. The secretary of state shall keep a list of_  
+| _applicants of which the secretary receives notice under this_  
+| _subsection._  
+|  _(f)_ _____The secretary of state shall adopt rules and prescribe_  
+| _procedures to implement this section._  
+|  SECTION 5. Section 13.143(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Except as provided by _Subsection_ [ ~~Subsections~~ ] (b) [ ~~and~~  
+|  ~~(e)~~ ], if an applicant's registration application is approved, the  
+| registration becomes effective on the 30th day after the date the  
+| application is _approved_ [ ~~submitted to the registrar~~ ] or on the date  
+| the applicant becomes 18 years of age, whichever is later.  
+|  SECTION 6. Section 20.063, Election Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____A person who submits a voter registration application to_  
+| _the department in person shall at the time of submission present as_  
+| _proof of citizenship:_  
+|  _(1) an unexpired passport issued to the person;_  
+|  _(2)_ _____a certified copy of a birth certificate or other_  
+| _document confirming the person's birth that is admissible in a_  
+| _court of law and establishes the person's identity; or_  
+|  _(3)_ _____United States citizenship papers issued to the_  
+| _person._  
+|  SECTION 7. Sections 13.041 and 13.143(d) and (e), Election  
+| Code, are repealed.  
+|  SECTION 8. The changes in law made by this Act apply only to  
+| an application to register to vote submitted on or after the  
+| effective date of this Act.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

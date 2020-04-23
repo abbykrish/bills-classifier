@@ -1,0 +1,51 @@
+| 86R5355 SMH-F  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 4295  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to default under a deed of trust or contract lien on  
+| certain residential property for the delinquent payment of ad  
+| valorem taxes.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 51.0011, Property Code, is amended to  
+| read as follows:  
+|  Sec. 51.0011. DEFAULT ARISING FROM DELINQUENT AD VALOREM  
+| TAXES: INSTALLMENT AGREEMENTS _AND DEFERRAL OR ABATEMENT OF_  
+| _COLLECTION OF TAXES_. [ ~~(a)~~ ] Notwithstanding any agreement to the  
+| contrary _:_  
+|  _(1)_ [ ~~,~~ ] a debtor is not in default under a deed of  
+| trust or other contract lien on real property used as the debtor's  
+| residence for the delinquent payment of ad valorem taxes if:  
+|  _(A)_ [ ~~(1)~~ ] the debtor _has entered_ [ ~~gave notice to~~  
+|  ~~the mortgage servicer of the intent to enter~~ ] into an installment  
+| agreement with the taxing unit under Section 33.02, Tax Code, for  
+| the payment of the taxes [ ~~at least 10 days before the date the~~  
+|  ~~debtor entered into the agreement~~ ]; and  
+|  _(B)_ [ ~~(2)~~ ] the property is protected from seizure  
+| and sale and a suit may not be filed to collect a delinquent tax on  
+| the property as provided by Section 33.02(d), Tax Code _; and_  
+|  _(2)_ _____a debtor is not in default under a deed of trust or_  
+| _other contract lien on real property used as the debtor's residence_  
+| _homestead for the delinquent payment of ad valorem taxes if:_  
+|  _(A)_ _____the debtor has obtained a deferral or_  
+| _abatement of the collection of the ad valorem taxes on the property_  
+| _under Section 33.06, Tax Code; and_  
+|  _(B) the deferral or abatement remains in effect_.  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~A mortgage servicer who receives a notice described
+by~~  
+|  ~~Subsection (a)(1) may pay the taxes subject to the installment~~  
+|  ~~agreement at any time.~~  
+|  [ ~~(c)~~ ~~~~ ~~~~ ~~A mortgage servicer who receives a notice described
+by~~  
+|  ~~Subsection (a)(1) and gives the debtor notice that the mortgage~~  
+|  ~~servicer intends to accelerate the note securing the deed of trust~~  
+|  ~~or other contract lien as a result of the delinquency of the taxes~~  
+|  ~~that are subject to the installment agreement must rescind the~~  
+|  ~~notice if the debtor enters into the agreement not later than the~~  
+|  ~~30th day after the date the debtor delivers the notice.~~ ]  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a deed of trust or contract lien entered into on or after the  
+| effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

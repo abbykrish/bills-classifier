@@ -1,0 +1,191 @@
+| 86R3614 KFF-F  
+---|---  
+|  By: Klick | H.B. No. 2409  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to establishing supplemental payment programs for the  
+| reimbursement of certain ambulance providers under Medicaid.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 32, Human Resources Code, is amended by  
+| adding Subchapter H to read as follows:  
+| _SUBCHAPTER H. SUPPLEMENTAL PAYMENT PROGRAM FOR CERTAIN AMBULANCE_  
+| _PROVIDERS_  
+|  _Sec. 32.351. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Participating provider" means an ambulance_  
+| _provider that participates in a supplemental payment program._  
+|  _(2)_ _____"Supplemental payment program" means a_  
+| _supplemental payment program implemented under Section 32.352._  
+|  _Sec._ ___32.352._ _____AMBULANCE PROVIDER SUPPLEMENTAL PAYMENT_  
+| _PROGRAMS. The commission shall:_  
+|  _(1)_ _____develop and implement two programs, one under the_  
+| _Medicaid fee-for-service delivery model and one under the Medicaid_  
+| _managed care delivery model, designed to provide supplemental_  
+| _payments to eligible ambulance providers; and_  
+|  _(2)_ _____apply for and actively pursue from the federal_  
+| _Centers for Medicare and Medicaid Services or other appropriate_  
+| _federal agency any waiver or other authorization necessary to_  
+| _implement the programs required by this section._  
+|  _Sec._ ___32.353._ _____PROVIDER ELIGIBILITY. (a) An ambulance_  
+| _provider is eligible to participate in a supplemental payment_  
+| _program if the provider:_  
+|  _(1)_ _____provides ground emergency medical transportation_  
+| _services to Medicaid recipients;_  
+|  _(2)_ _____is enrolled as a Medicaid provider at the time_  
+| _services are provided; and_  
+|  _(3) meets one of the following conditions:_  
+|  _(A)_ _____is a state or local governmental entity,_  
+| _including a state or local governmental entity that employs or_  
+| _contracts with persons who are licensed to provide emergency_  
+| _medical services in this state; or_  
+|  _(B)_ _____contracts, under an interlocal agreement,_  
+| _with a local governmental entity, including a local fire protection_  
+| _district, to provide emergency medical services in this state._  
+|  _(b)_ _____Participation by a governmental entity in a_  
+| _supplemental payment program is voluntary._  
+|  _Sec._ ___32.354._ _____MEDICAID FEE-FOR-SERVICE SUPPLEMENTAL PAYMENT_  
+| _PROGRAM: REIMBURSEMENT REQUIREMENTS AND METHODOLOGY. (a) This_  
+| _section applies only to a supplemental payment program implemented_  
+| _under the Medicaid fee-for-service delivery model._  
+|  _(b)_ _____A governmental entity that is a participating provider_  
+| _or contracts with a participating provider as described by Section_  
+| _32.353(a)(3)(B) shall:_  
+|  _(1)_ _____certify that the expenditures claimed for the_  
+| _provision of ground emergency medical transportation services to_  
+| _Medicaid recipients are public funds eligible for federal financial_  
+| _participation in accordance with the requirements of 42 C.F.R._  
+| _Section 433.51;_  
+|  _(2)_ _____provide evidence supporting the certification of_  
+| _public funds in the manner determined by the commission;_  
+|  _(3)_ _____submit data required by the commission for_  
+| _purposes of determining the amounts the commission may claim as_  
+| _expenditures qualifying for federal financial participation; and_  
+|  _(4)_ _____maintain and have readily available for the_  
+| _commission any records related to the expenditure._  
+|  _(c)_ _____Under the supplemental payment program, the commission_  
+| _shall claim federal financial participation for expenditures_  
+| _described by Subsection (b)(1) that are allowable costs under the_  
+| _authorization to implement the supplemental payment program_  
+| _obtained under Section 32.352(2)._  
+|  _(d)_ _____A provider participating in the supplemental payment_  
+| _program shall receive, in addition to the rate of payment that the_  
+| _provider would otherwise receive for the provision of ground_  
+| _emergency medical transportation services to a Medicaid recipient,_  
+| _a supplemental reimbursement payment. The payment must:_  
+|  _(1)_ _____except as provided by Subsection (e), be equal to_  
+| _the amount of federal financial participation received by the_  
+| _commission for the service provided and claimed; and_  
+|  _(2)_ _____be paid on a per-transport basis or other_  
+| _federally permissible basis._  
+|  _(e)_ _____The amount certified under Subsection (b)(1), when_  
+| _combined with the amount received by a participating provider from_  
+| _all sources of reimbursement under Medicaid, may not exceed 100_  
+| _percent of the provider's actual costs for the provision of_  
+| _services. The commission shall reduce a payment to a participating_  
+| _provider to ensure compliance with this subsection._  
+|  _Sec._ ___32.355._ _____MEDICAID MANAGED CARE SUPPLEMENTAL PAYMENT_  
+| _PROGRAM: REIMBURSEMENT REQUIREMENTS AND METHODOLOGY. (a) In this_  
+| _section:_  
+|  _(1)_ _____"Managed care organization" has the meaning_  
+| _assigned by Section 533.001, Government Code._  
+|  _(2)_ _____"Medicaid managed care organization" means a_  
+| _managed care organization that contracts with the commission under_  
+| _Chapter 533, Government Code, to provide health care services to_  
+| _Medicaid recipients._  
+|  _(b)_ _____This section applies only to a supplemental payment_  
+| _program implemented under the Medicaid managed care delivery model._  
+|  _(c)_ _____The commission shall develop the supplemental payment_  
+| _program under the Medicaid managed care delivery model in_  
+| _consultation with providers eligible to participate in the_  
+| _supplemental payment program. The supplemental payment program_  
+| _must use intergovernmental transfers to finance increased_  
+| _capitation payments for the purpose of supplementing the_  
+| _reimbursement amount paid to participating providers._  
+|  _(d)_ _____To the extent intergovernmental transfers are_  
+| _voluntarily made by, and accepted from, a governmental entity that_  
+| _is a participating provider or contracts with a participating_  
+| _provider as described by Section 32.353(a)(3)(B), and the_  
+| _participating provider is a provider under a Medicaid managed care_  
+| _delivery model, the commission shall make increased capitation_  
+| _payments to the requisite Medicaid managed care organizations to be_  
+| _used to pay the participating provider in accordance with an_  
+| _enhanced fee schedule that establishes a minimum reimbursement_  
+| _rate._  
+|  _(e)_ _____The executive commissioner by rule shall adopt the_  
+| _enhanced fee schedule described by Subsection (d). The commission_  
+| _shall include a provision in each contract with a Medicaid managed_  
+| _care organization that requires the organization to pay_  
+| _reimbursement rates to participating providers in accordance with_  
+| _that schedule._  
+|  _(f)_ _____The increased capitation payments made under the_  
+| _supplemental payment program and the enhanced fee schedule adopted_  
+| _under Subsection (e) must allow for a supplemental payment to a_  
+| _participating provider that is at least comparable in amount to the_  
+| _supplemental payment the provider would receive if providing the_  
+| _same service under the supplemental payment program implemented_  
+| _under the Medicaid fee-for-service delivery model under Section_  
+| _32.354._  
+|  _(g)_ _____A managed care organization that receives an increased_  
+| _capitation payment under the supplemental payment program shall pay_  
+| _100 percent of the increase to the participating provider in_  
+| _accordance with the enhanced fee schedule adopted under Subsection_  
+| _(e)._  
+|  _(h)_ _____All federal matching money obtained as a result of an_  
+| _intergovernmental transfer under the supplemental payment program_  
+| _must be used to pay increased capitation payments and provide_  
+| _supplemental payments to participating providers._  
+|  _(i)_ _____To the extent that the commission determines that an_  
+| _intergovernmental transfer does not comply with the authorization_  
+| _obtained by the commission under Section 32.352(2), the commission_  
+| _may return the transfer, refuse to accept the transfer, or adjust_  
+| _the amount of the transfer as necessary to comply with the_  
+| _authorization._  
+|  _(j)_ _____A participating provider and governmental entity that_  
+| _contracts with a participating provider must agree to comply with_  
+| _any requests for information or data requirements imposed by the_  
+| _commission for purposes of obtaining supporting documentation_  
+| _necessary to claim federal financial participation or obtain_  
+| _federal approval for implementation of the supplemental payment_  
+| _program._  
+|  _(k)_ _____The commission shall ensure a Medicaid managed care_  
+| _organization complies with any request for information or similar_  
+| _requirements necessary to implement the supplemental payment_  
+| _program._  
+|  _Sec._ ___32.356._ _____FUNDING; USE OF GENERAL REVENUE PROHIBITED._  
+| _(a) The commission may not use general revenue to:_  
+|  _(1) administer a supplemental payment program; or_  
+|  _(2)_ _____provide reimbursements under a supplemental_  
+| _payment program._  
+|  _(b)_ _____A governmental entity that is a participating provider_  
+| _or contracts with a participating provider as described by Section_  
+| _32.353(a)(3)(B), as a condition of participating providers_  
+| _receiving supplemental payments under Section 32.354, must enter_  
+| _into and maintain an agreement with the commission to provide:_  
+|  _(1)_ _____the nonfederal share of the supplemental payments_  
+| _by certifying expenditures to the commission in accordance with_  
+| _Section 32.354(b); and_  
+|  _(2)_ _____funding necessary to pay the cost of administering_  
+| _the supplemental payment program under Section 32.354._  
+|  _(c)_ _____A governmental entity that is a participating provider_  
+| _or contracts with a participating provider as described by Section_  
+| _32.353(a)(3)(B), as a condition of participating providers_  
+| _receiving supplemental payments under Section 32.355, must enter_  
+| _into and maintain an agreement with the commission to provide:_  
+|  _(1)_ _____the nonfederal share of the increased capitation_  
+| _payments by making intergovernmental transfers as provided by_  
+| _Section 32.355; and_  
+|  _(2)_ _____funding necessary to pay the cost of administering_  
+| _the supplemental payment program under Section 32.355._  
+|  SECTION 2. (a) As soon as possible after the effective date  
+| of this Act, the Health and Human Services Commission shall seek any  
+| waiver or other authorization necessary to implement the  
+| supplemental payment programs required by Subchapter H, Chapter 32,  
+| Human Resources Code, as added by this Act.  
+|  (b) To the extent permitted by the waiver or other  
+| authorization necessary to implement the supplemental payment  
+| programs required by Subchapter H, Chapter 32, Human Resources  
+| Code, as added by this Act, the Health and Human Services Commission  
+| shall implement the supplemental payment program implemented under  
+| the Medicaid managed care program on a retroactive basis.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

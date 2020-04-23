@@ -1,0 +1,92 @@
+| 86R11847 JSC-F  
+---|---  
+|  By: Smith | H.B. No. 2421  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the issuance of certain warrants and orders for  
+| searches performed on wireless communications devices and for the  
+| installation and use of certain tracking equipment.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Articles 18.0215(b) and (c), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (b) A warrant under this article may be issued only by a  
+| judge in the same judicial district _or county_ as the site of:  
+|  (1) the law enforcement agency that employs the peace  
+| officer, if the cellular telephone or other wireless communications  
+| device is in the officer's possession; or  
+|  (2) the likely location of the telephone or device.  
+|  (c) A judge may issue a warrant under this article only on  
+| the application of a peace officer. An application must be written  
+| and signed and sworn to or affirmed before the judge. The  
+| application must:  
+|  (1) state the name, department, agency, and address of  
+| the applicant;  
+|  (2) identify the cellular telephone or other wireless  
+| communications device to be searched;  
+|  (3) state the name of the owner or possessor of the  
+| telephone or device to be searched;  
+|  (4) state the judicial district _or county, as_  
+| _applicable,_ in which:  
+|  (A) the law enforcement agency that employs the  
+| peace officer is located, if the telephone or device is in the  
+| officer's possession; or  
+|  (B) the telephone or device is likely to be  
+| located; and  
+|  (5) state the facts and circumstances that provide the  
+| applicant with probable cause to believe that:  
+|  (A) criminal activity has been, is, or will be  
+| committed; and  
+|  (B) searching the telephone or device is likely  
+| to produce evidence in the investigation of the criminal activity  
+| described in Paragraph (A).  
+|  SECTION 2. Article 18B.052, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.052. JURISDICTION. _(a) Except as otherwise_  
+| _provided by Subsection (b), an_ [ ~~An~~ ] application under this  
+| subchapter must be filed in a judicial district in which is located:  
+|  (1) the site of the proposed installation or use of the  
+| device or equipment;  
+|  (2) the site of the communication device on which the  
+| device or equipment is proposed to be installed or used;  
+|  (3) the billing, residential, or business address of  
+| the subscriber to the electronic communications service on which  
+| the device or equipment is proposed to be installed or used;  
+|  (4) the headquarters of:  
+|  (A) the office of the prosecutor filing an  
+| application under this subchapter; or  
+|  (B) a law enforcement agency that requests the  
+| prosecutor to file an application under this subchapter or that  
+| proposes to execute an order authorizing installation and use of  
+| the device or equipment; or  
+|  (5) the headquarters of a service provider ordered to  
+| install the device or equipment.  
+|  _(b)_ _____If a district judge in the judicial district described_  
+| _by Subsection (a) is not available, the application may be filed_  
+| _with a district judge in a judicial district for a county that is_  
+| _contiguous with a county containing any of the locations specified_  
+| _by Subsection (a)._  
+|  SECTION 3. Article 18B.203, Code of Criminal Procedure, is  
+| amended by amending Subsection (a) and adding Subsection (a-1) to  
+| read as follows:  
+|  (a) _As authorized under Subsection (a-1), a_ [ ~~A~~ ] district  
+| judge may issue an order for the installation and use of a mobile  
+| tracking device in the same judicial district as the site of:  
+|  (1) the investigation; or  
+|  (2) the person, vehicle, container, item, or object  
+| the movement of which will be tracked by the device.  
+|  _(a-1)_ _____An order under Subsection (a) may be issued by a_  
+| _district judge in a judicial district containing a location_  
+| _specified by that subsection or, if that district judge is not_  
+| _available, with a district judge in a judicial district for a county_  
+| _that is contiguous with a county containing any of the locations_  
+| _specified by Subsection (a)._  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| an application for a warrant or court order submitted on or after  
+| the effective date of this Act. An application for a warrant or  
+| court order submitted before the effective date of this Act is  
+| governed by the law in effect on the date the application was  
+| submitted, and the former law is continued in effect for that  
+| purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

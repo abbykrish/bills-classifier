@@ -1,0 +1,146 @@
+|  
+---|---  
+|  By: Goldman | H.B. No. 2850  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the confidentiality of complaints and investigations in  
+| certain occupational licensing programs of the Texas Department of  
+| Licensing and Regulation.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter E, Chapter 51, Occupations Code, is  
+| amended by adding Section 51.254 to read as follows:  
+|  _Sec._ ___51.254._ _____CONFIDENTIALITY OF COMPLAINT AND DISCIPLINARY_  
+| _INFORMATION. (a) In this section, unless the context requires_  
+| _otherwise:_  
+|  _(1)_ _____"Disciplinary action" includes, with respect to_  
+| _any person subject to regulation by the department or the_  
+| _commission:_  
+|  _(A)_ _____enforcement activity, prosecution,_  
+| _discipline, or penalization; and_  
+|  _(B)_ _____any related complaint, investigation, or_  
+| _resolution of a complaint or investigation._  
+|  _(2) "Patient" includes:_  
+|  _(A) a patient;_  
+|  _(B) a client; and_  
+|  _(C)_ _____an authorized representative of a patient or_  
+| _client._  
+|  _(b) This section applies only to the following professions:_  
+|  _(1) athletic trainers regulated under Chapter 451;_  
+|  _(2) behavior analysts regulated under Chapter 506;_  
+|  _(3) dietitians regulated under Chapter 701;_  
+|  _(4)_ _____dyslexia practitioners and dyslexia therapists_  
+| _regulated under Chapter 403;_  
+|  _(5)_ _____hearing instrument fitters and dispensers_  
+| _regulated under Chapter 402;_  
+|  _(6) massage therapists regulated under Chapter 455;_  
+|  _(7) midwives regulated under Chapter 203;_  
+|  _(8)_ _____orthotists and prosthetists regulated under_  
+| _Chapter 605;_  
+|  _(9) podiatrists regulated under Chapter 202; and_  
+|  _(10)_ _____speech-language pathologists and audiologists_  
+| _regulated under Chapter 401._  
+|  _(c)_ _____Except as otherwise provided by this section, a_  
+| _complaint and investigation concerning a person to whom this_  
+| _section applies and all information and materials subpoenaed or_  
+| _compiled by the department in connection with the complaint and_  
+| _investigation are confidential and not subject to:_  
+|  _(1) disclosure under Chapter 552, Government Code; or_  
+|  _(2)_ _____disclosure, discovery, subpoena, or other means of_  
+| _legal compulsion for their release to any person._  
+|  _(d)_ _____A complaint or investigation subject to this section and_  
+| _all information and materials subpoenaed or compiled by the_  
+| _department in connection with the complaint and investigation may_  
+| _be disclosed to:_  
+|  _(1)_ _____persons involved with the department in a_  
+| _disciplinary action;_  
+|  _(2)_ _____a respondent or the respondent's authorized_  
+| _representative;_  
+|  _(3) a governmental agency, if:_  
+|  _(A)_ _____the disclosure is required or permitted by_  
+| _law; and_  
+|  _(B)_ _____the agency obtaining the disclosure protects_  
+| _the identity of any patient whose records are examined;_  
+|  _(4)_ _____a professional licensing, credentialing, or_  
+| _disciplinary entity in another jurisdiction;_  
+|  _(5)_ _____a peer assistance program approved by the_  
+| _commission under Chapter 467, Health and Safety Code, including a_  
+| _properly established peer assistance program in another_  
+| _jurisdiction;_  
+|  _(6)_ _____a peer review committee reviewing a license_  
+| _holder's application for privileges or the license holder's_  
+| _qualifications related to retaining the privileges;_  
+|  _(7) a law enforcement agency; and_  
+|  _(8)_ _____a person engaged in bona fide research, if all_  
+| _individual-identifying information has been deleted._  
+|  _(e)_ _____Notwithstanding any other provision of this section, if_  
+| _a department investigation would be jeopardized by the release or_  
+| _disclosure, the department may temporarily withhold or otherwise_  
+| _refrain from releasing or disclosing to any person any information_  
+| _or materials that the department would otherwise be required to_  
+| _release or disclose._  
+|  _(f)_ _____The department may not be compelled to release or_  
+| _disclose complaint and investigation information or materials to a_  
+| _person listed in Subsection (d) if the department has not issued a_  
+| _notice of alleged violation related to the information or_  
+| _materials._  
+|  _(g)_ _____The department may release or disclose complaint and_  
+| _investigation information or materials in accordance with_  
+| _Subsection (d) at any stage of a disciplinary action._  
+|  _(h)_ _____The department shall protect the identity of any patient_  
+| _whose records are examined in connection with a disciplinary action_  
+| _against a license holder, other than a patient who:_  
+|  _(1) initiates the disciplinary action;_  
+|  _(2) is a witness in the disciplinary action; or_  
+|  _(3)_ _____has submitted a written consent to release the_  
+| _records._  
+|  _(i)_ _____Notices of alleged violation issued by the department_  
+| _against respondents, disciplinary proceedings of the department,_  
+| _commission, or executive director, and final disciplinary actions,_  
+| _including warnings and reprimands, by the department, commission,_  
+| _or executive director are not confidential and are subject to_  
+| _disclosure in accordance with Chapter 552, Government Code._  
+|  SECTION 2. Section 202.2032(c), Occupations Code, is  
+| amended to read as follows:  
+|  (c) Notwithstanding any confidentiality requirements under  
+| Chapter 552, Government Code, _Chapter 51,_ or this chapter, a  
+| complaint filed with the department by an insurance agent, insurer,  
+| pharmaceutical company, or third-party administrator against a  
+| license holder must include the name and address of the insurance  
+| agent, insurer, pharmaceutical company, or third-party  
+| administrator filing the complaint.  
+|  SECTION 3. Section 202.404(e), Occupations Code, is amended  
+| to read as follows:  
+|  (e) The department shall protect the identity of a patient  
+| whose podiatric records are examined or provided under Subsection  
+| (c) [ ~~or (d)~~ ], other than a patient who:  
+|  (1) is covered under Subsection (a)(1); or  
+|  (2) has submitted written consent to the release of  
+| the patient's podiatric records as provided by Section 202.406.  
+|  SECTION 4. Section 202.509(g), Occupations Code, is amended  
+| to read as follows:  
+|  (g) The department's disclosure of information under  
+| Subsection [ ~~(b), (d), or~~ ] (f) of this section, Section 202.2031, or  
+| Section 202.2032 does not constitute a waiver of privilege or  
+| confidentiality under this chapter or any other law.  
+|  SECTION 5. The following provisions of the Occupations Code  
+| are repealed:  
+|  (1) Section 202.404(d);  
+|  (2) Sections 202.509(a), (b), (c), (d), and (h);  
+|  (3) Section 401.2535;  
+|  (4) Section 402.154;  
+|  (5) Section 451.110;  
+|  (6) Section 506.202;  
+|  (7) Subchapter E, Chapter 605; and  
+|  (8) Subchapter E, Chapter 701.  
+|  SECTION 6. The changes in law made by this Act apply to a  
+| disciplinary action initiated before the effective date of this Act  
+| that has not resulted in a final order issued on or before the  
+| effective date of this Act and to a disciplinary action initiated on  
+| or after the effective date of this Act.  
+|  SECTION 7. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

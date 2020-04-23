@@ -1,0 +1,72 @@
+| 86R2702 JES-F  
+---|---  
+|  By: Krause | H.B. No. 649  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to disclosures by liability insurers and policyholders to  
+| third-party claimants; providing an administrative penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 542, Insurance Code, is amended by  
+| adding Subchapter C-2 to read as follows:  
+| _SUBCHAPTER C-2. DISCLOSURE OF POLICY INFORMATION TO THIRD-PARTY_  
+| _CLAIMANTS_  
+|  _Sec._ ___542.141._ _____DISCLOSURE BY INSURER. (a) This section_  
+| _applies to an insurer that receives:_  
+|  _(1)_ _____a written request for policy information from a_  
+| _claimant asserting a claim that is or might be covered under_  
+| _liability insurance coverage provided by the insurer to a_  
+| _policyholder against whom the claim is asserted; or_  
+|  _(2)_ _____a claimant's request for policy information_  
+| _forwarded under Section 542.142._  
+|  _(b)_ _____An insurer described by Subsection (a) shall provide to_  
+| _the claimant:_  
+|  _(1)_ _____a sworn statement of an officer or claims manager_  
+| _of the insurer that contains the following information for each_  
+| _policy known by the insurer that provides or may provide relevant_  
+| _coverage, including excess or umbrella coverage:_  
+|  _(A) the name of the insurer;_  
+|  _(B) the name of each insured;_  
+|  _(C) the limits of liability coverage; and_  
+|  _(D)_ _____any policy or coverage defense the insurer_  
+| _reasonably believes is available to the insurer at the time the_  
+| _sworn statement is made; and_  
+|  _(2)_ _____a copy of each policy described by Subdivision (1)_  
+| _under which the insurer provides coverage._  
+|  _(c)_ _____An insurer that fails to comply with this section is_  
+| _subject to an administrative penalty under Chapter 84 of not more_  
+| _than $500._  
+|  _Sec._ ___542.142._ _____DISCLOSURE BY POLICYHOLDER. (a)_ ___This_  
+| _section applies to a policyholder that receives a written request_  
+| _for policy information from a claimant asserting a claim against_  
+| _the policyholder that the policyholder believes is or may be_  
+| _covered under liability insurance coverage provided to the_  
+| _policyholder._  
+|  _(b)_ _____A policyholder described by Subsection (a) shall_  
+| _promptly:_  
+|  _(1)_ _____disclose to the claimant the name of and type of_  
+| _coverage provided by each insurer that provides or may provide_  
+| _liability coverage for the claim; and_  
+|  _(2)_ _____forward the claimant's request to each insurer_  
+| _included in the disclosure under Subdivision (1)._  
+|  _Sec._ ___542.143._ _____INSURER'S DEADLINE FOR PROVIDING REQUESTED_  
+| _INFORMATION. An insurer shall provide the information requested_  
+| _under Section 542.141 or 542.142 to the claimant not later than the_  
+| _30th day after the date the insurer receives the request from the_  
+| _claimant or policyholder._  
+|  _Sec._ ___542.144._ _____AMENDMENT OF STATEMENT. (a)_ ___An insurer that_  
+| _is aware of a material change that affects a fact stated in the_  
+| _insurer's sworn statement under Section 542.141 or a policyholder_  
+| _that is aware of a material change that affects a fact stated in the_  
+| _policyholder's disclosure under Section 542.142 shall provide to_  
+| _the claimant a written amended statement or disclosure, as_  
+| _applicable, stating the material change._  
+|  _(b)_ _____An amended statement provided by an insurer under_  
+| _Subsection (a) must be sworn and include a copy of each insurance_  
+| _policy relevant to the change._  
+|  _(c)_ _____The insurer or the policyholder must provide the amended_  
+| _statement or disclosure described by Subsection (a) not later than_  
+| _the second business day after the date the insurer or policyholder_  
+| _is aware of the material change._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

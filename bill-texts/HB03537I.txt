@@ -1,0 +1,45 @@
+| 86R13634 JSC-F  
+---|---  
+|  By: Shine | H.B. No. 3537  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the determination of whether a person is intoxicated  
+| for purposes of the Texas Workers' Compensation Act.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 401.013(a) and (c), Labor Code, are  
+| amended to read as follows:  
+|  (a) In this subtitle, "intoxication" means the state of:  
+|  (1) having an alcohol concentration to qualify as  
+| intoxicated under Section 49.01(2), Penal Code; or  
+|  (2) not having the normal use of mental or physical  
+| faculties _by reason of_ [ ~~resulting from~~ ] the [ ~~voluntary~~ ]  
+| introduction into the body of:  
+|  (A) an alcoholic beverage, as defined by Section  
+| 1.04, Alcoholic Beverage Code;  
+|  (B) a controlled substance or controlled  
+| substance analogue, as defined by Section 481.002, Health and  
+| Safety Code;  
+|  (C) a dangerous drug, as defined by Section  
+| 483.001, Health and Safety Code;  
+|  (D) an abusable _volatile chemical_ [ ~~glue or~~  
+|  ~~aerosol paint~~ ], as defined by Section 485.001, Health and Safety  
+| Code; or  
+|  (E) any similar substance, the use of which is  
+| regulated under state law.  
+|  (c) _A_ [ ~~On the voluntary introduction into the body of any~~  
+|  ~~substance listed under Subsection (a)(2)(B), based on a~~ ] blood test  
+| or urinalysis _of a specimen taken not later than four hours_  
+| _following an injury that shows the presence of a substance listed in_  
+| _Subsection (a)(2) creates_ [ ~~, it is~~ ] a rebuttable presumption that a  
+| person is intoxicated and does not have the normal use of mental or  
+| physical faculties.  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a claim for workers' compensation benefits based on a  
+| compensable injury that occurs on or after the effective date of  
+| this Act. A claim based on a compensable injury that occurs before  
+| that date is governed by the law as it existed on the date the  
+| compensable injury occurred, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

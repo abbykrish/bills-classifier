@@ -1,0 +1,85 @@
+| 86R887 MM-D  
+---|---  
+|  By: Guerra | H.B. No. 2062  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the provision and reimbursement of home telemonitoring  
+| services under Medicaid.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 531.02164, Government Code, is amended  
+| by amending Subsection (c) and adding Subsections (c-1) and (c-2)  
+| to read as follows:  
+|  (c) The program _established_ [ ~~required~~ ] under this section  
+| must:  
+|  (1) provide that home telemonitoring services are  
+| available only to _a person_ [ ~~persons~~ ] who:  
+|  (A) _is_ [ ~~are~~ ] diagnosed with one or more of the  
+| following conditions:  
+|  (i) pregnancy;  
+|  (ii) diabetes;  
+|  (iii) heart disease;  
+|  (iv) cancer;  
+|  (v) chronic obstructive pulmonary disease;  
+|  (vi) hypertension;  
+|  (vii) congestive heart failure;  
+|  (viii) mental illness or serious emotional  
+| disturbance;  
+|  (ix) asthma;  
+|  (x) myocardial infarction; or  
+|  (xi) stroke; and  
+|  (B) _exhibits_ [ ~~exhibit~~ ] two or more of the  
+| following risk factors:  
+|  (i) two or more hospitalizations in the  
+| prior 12-month period;  
+|  (ii) frequent or recurrent emergency room  
+| admissions;  
+|  (iii) a documented history of poor  
+| adherence to ordered medication regimens;  
+|  (iv) a documented history of falls in the  
+| prior six-month period;  
+|  (v) limited or absent informal support  
+| systems;  
+|  (vi) living alone or being home alone for  
+| extended periods of time; and  
+|  (vii) a documented history of care access  
+| challenges;  
+|  (2) ensure that clinical information gathered by a  
+| home and community support services agency or hospital while  
+| providing home telemonitoring services is shared with the patient's  
+| physician; [ ~~and~~ ]  
+|  (3) ensure that the program does not duplicate disease  
+| management program services provided under Section 32.057, Human  
+| Resources Code _; and_  
+|  _(4)_ _____provide reimbursement for home telemonitoring_  
+| _services in the event of an unsuccessful data transmission if the_  
+| _provider of the services attempts to communicate with the patient_  
+| _by telephone or in person to establish a successful data_  
+| _transmission_.  
+|  _(c-1)_ _____Notwithstanding Subsection (c)(1), the program_  
+| _established under this section may also provide that home_  
+| _telemonitoring services are available to pediatric patients with_  
+| _chronic or complex medical needs who:_  
+|  _(1)_ _____are being concurrently treated by at least three_  
+| _medical specialists;_  
+|  _(2) are diagnosed with end-stage solid organ disease;_  
+|  _(3) have received an organ transplant; or_  
+|  _(4) are diagnosed with severe asthma._  
+|  _(c-2)_ _____A provider that is reimbursed under Subsection (c)(4)_  
+| _for home telemonitoring services provided to a patient may not also_  
+| _be reimbursed for communicating with the patient by telephone or in_  
+| _person to establish a successful data transmission as described by_  
+| _Subsection (c)(4)._  
+|  SECTION 2. Section 531.02176, Government Code, is repealed.  
+|  SECTION 3. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall adopt necessary rules to implement the  
+| changes in law made by this Act.  
+|  SECTION 4. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,126 @@
+| 86R7514 JAM-D  
+---|---  
+|  By: Morrison | H.B. No. 3816  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulatory analysis of rules proposed by the Texas  
+| Commission on Environmental Quality.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2001.0225(a), Government Code, is  
+| amended to read as follows:  
+|  (a) This section applies only to a major environmental rule  
+| adopted by a state agency _other than the Texas Commission on_  
+| _Environmental Quality_ , the result of which is to:  
+|  (1) exceed a standard set by federal law, unless the  
+| rule is specifically required by state law;  
+|  (2) exceed an express requirement of state law, unless  
+| the rule is specifically required by federal law;  
+|  (3) exceed a requirement of a delegation agreement or  
+| contract between the state and an agency or representative of the  
+| federal government to implement a state and federal program; or  
+|  (4) adopt a rule solely under the general powers of the  
+| agency instead of under a specific state law.  
+|  SECTION 2. Section 382.051961(b), Health and Safety Code,  
+| is amended to read as follows:  
+|  (b) The commission may not adopt a new permit by rule or a  
+| new standard permit or amend an existing permit by rule or an  
+| existing standard permit relating to a facility to which this  
+| section applies unless the commission:  
+|  (1) conducts a regulatory analysis as provided by  
+| Section _5.1032, Water_ [ ~~2001.0225, Government~~ ] Code;  
+|  (2) determines, based on the evaluation of credible  
+| air quality monitoring data, that the emissions limits or other  
+| emissions-related requirements of the permit are necessary to  
+| ensure that the intent of this chapter is not contravened,  
+| including the protection of the public's health and physical  
+| property;  
+|  (3) establishes any required emissions limits or other  
+| emissions-related requirements based on:  
+|  (A) the evaluation of credible air quality  
+| monitoring data; and  
+|  (B) credible air quality modeling that is not  
+| based on the worst-case scenario of emissions or other worst-case  
+| modeling scenarios unless the actual air quality monitoring data  
+| and evaluation of that data indicate that the worst-case scenario  
+| of emissions or other worst-case modeling scenarios yield modeling  
+| results that reflect the actual air quality monitoring data and  
+| evaluation; and  
+|  (4) considers whether the requirements of the permit  
+| should be imposed only on facilities that are located in a  
+| particular geographic region of the state.  
+|  SECTION 3. Subchapter D, Chapter 5, Water Code, is amended  
+| by adding Section 5.1032 to read as follows:  
+|  _Sec._ ___5.1032._ _____ADOPTION OF ENVIRONMENTAL RULES. (a) In this_  
+| _section:_  
+|  _(1)_ _____"Cost" means a reasonably identifiable,_  
+| _significant, and direct or indirect negative economic effect._  
+|  _(2)_ _____"Environmental benefit" means a reasonably_  
+| _identifiable, significant, and direct effect, including a_  
+| _quantifiable environmental, health, or economic effect, that is_  
+| _expected to result from regulation of the pollutant or pollutants_  
+| _targeted by an environmental rule._ ___The term does not include_  
+| _incidental co-benefits expected to result from the implementation_  
+| _of an environmental rule, including the reduction of pollutants_  
+| _already regulated by separate environmental rules._  
+|  _(3)_ _____"Environmental rule" means a rule the specific_  
+| _intent of which is to protect the environment or reduce risks to_  
+| _human health from environmental exposure._  
+|  _(4)_ _____"Small business" means a business that employs not_  
+| _more than 250 individuals._  
+|  _(b)_ _____Before adopting an environmental rule, the commission_  
+| _shall conduct a regulatory analysis that:_  
+|  _(1)_ _____identifies the problem the rule is intended to_  
+| _address;_  
+|  _(2)_ _____determines whether a new rule is necessary to_  
+| _address the problem; and_  
+|  _(3)_ _____considers the benefits and costs of the proposed_  
+| _rule in relationship to state agencies, local governments, the_  
+| _public, the regulated community, and the environment._  
+|  _(c)_ _____When giving notice of an environmental rule, the_  
+| _commission shall incorporate into the fiscal note required by_  
+| _Section 2001.024, Government Code, a draft impact analysis_  
+| _describing the anticipated effects of the proposed rule. The draft_  
+| _impact analysis, at a minimum, must:_  
+|  _(1)_ _____identify the problem the rule is intended to_  
+| _address;_  
+|  _(2)_ _____identify the environmental benefits that the_  
+| _agency expects to result from implementation of and compliance with_  
+| _the rule, including the projected level of reduction of pollutants_  
+| _or contaminants in air, water, and soil media;_  
+|  _(3)_ _____identify and describe the costs that the agency_  
+| _expects that state agencies, local governments, the public, and the_  
+| _affected regulated entities, other than small businesses, will_  
+| _incur from implementation of and compliance with the rule; and_  
+|  _(4)_ _____identify and describe in a separate economic_  
+| _impact analysis the costs that the agency expects that small_  
+| _businesses will incur from implementation of and compliance with_  
+| _the rule._  
+|  _(d)_ _____In identifying the environmental benefits of an_  
+| _environmental rule under Subsection (c)(2), the commission shall_  
+| _include the modeled improvement for the criteria pollutant design_  
+| _value expected from implementation of the rule, if the rule will be_  
+| _included in the state implementation plan under the federal Clean_  
+| _Air Act (42 U.S.C. 7401 et seq.)._  
+|  _(e)_ _____After considering public comments submitted under_  
+| _Section 2001.029, Government Code, and determining that a proposed_  
+| _environmental rule should be adopted, the commission shall prepare_  
+| _a final regulatory analysis that complies with Section 2001.033,_  
+| _Government Code._  
+|  _(f)_ _____A person who submitted a comment in accordance with_  
+| _Section 2001.029, Government Code, may challenge the validity of an_  
+| _environmental rule that is not proposed and adopted in strict_  
+| _compliance with the procedural requirements of this section by_  
+| _filing an action for declaratory judgment as provided by Section_  
+| _2001.038, Government Code, not later than the 30th day after the_  
+| _effective date of the rule. If the court determines that an_  
+| _environmental rule was not proposed and adopted in strict_  
+| _compliance with the procedural requirements of this section, the_  
+| _rule is invalid._  
+|  SECTION 4. The change in law made by this Act applies only  
+| to an environmental rule proposed by the Texas Commission on  
+| Environmental Quality for which notice is given under Sections  
+| 2001.023 and 2001.024, Government Code, on or after December 1,  
+| 2019.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

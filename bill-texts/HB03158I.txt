@@ -1,0 +1,175 @@
+| 86R7244 SCL-F  
+---|---  
+|  By: Raymond | H.B. No. 3158  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to advance directives or health care or treatment  
+| decisions made by or on behalf of patients.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. This Act may be cited as the Respecting Texas  
+| Patients' Right to Life Act of 2019.  
+|  SECTION 2. The purpose of this Act is to protect the right  
+| of patients and their families to decide whether and under what  
+| circumstances to choose or reject life-sustaining treatment. This  
+| Act amends the applicable provisions of the Advance Directives Act  
+| (Chapter 166, Health and Safety Code) to ensure that, when an  
+| attending physician is unwilling to respect a patient's advance  
+| directive or a patient's or family's decision to choose the  
+| treatment necessary to prevent the patient's death,  
+| life-sustaining medical treatment will be provided until the  
+| patient can be transferred to a health care provider willing to  
+| honor the directive or treatment decision.  
+|  SECTION 3. Section 166.045(c), Health and Safety Code, is  
+| amended to read as follows:  
+|  (c) If an attending physician refuses to comply with a  
+| directive or treatment decision _to provide life-sustaining_  
+| _treatment to a patient_ [ ~~and does not wish to follow the procedure~~  
+|  ~~established under Section 166.046~~ ], life-sustaining treatment  
+| shall be provided to the patient[ ~~, but only~~ ] until [ ~~a reasonable~~  
+|  ~~opportunity has been afforded for the transfer of~~ ] the patient _is_  
+| _transferred_ to another physician or health care facility willing to  
+| comply with the directive or treatment decision _to provide_  
+| _life-sustaining treatment to the patient_.  
+|  SECTION 4. Sections 166.046(a), (b), (d), (e), (e-1), and  
+| (f), Health and Safety Code, are amended to read as follows:  
+|  (a) If an attending physician refuses to honor a patient's  
+| advance directive or a health care or treatment decision made by or  
+| on behalf of a patient, _other than a directive or decision to_  
+| _provide artificial nutrition and hydration to the patient,_ the  
+| physician's refusal shall be reviewed by an ethics or medical  
+| committee. The attending physician may not be a member of that  
+| committee. The patient shall be given life-sustaining treatment  
+| during the review _and until the patient is transferred to another_  
+| _physician or health care facility willing to comply with the_  
+| _directive or treatment decision to provide life-sustaining_  
+| _treatment to the patient_.  
+|  (b) The patient or the person responsible for the health  
+| care decisions of the individual who has made the decision  
+| regarding the directive or treatment decision:  
+|  (1) may be given a written description of the ethics or  
+| medical committee review process and any other policies and  
+| procedures related to this section adopted by the health care  
+| facility;  
+|  (2) shall be informed of the committee review process  
+| not less than 48 hours before the meeting called to discuss the  
+| patient's directive, unless the time period is waived by mutual  
+| agreement;  
+|  (3) at the time of being so informed, shall be  
+| provided[ ~~:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~a copy of the appropriate statement set~~  
+|  ~~forth in Section 166.052; and~~  
+|  [ ~~(B)~~ ] a copy of the registry list of health care  
+| providers and referral groups that have volunteered their readiness  
+| to consider accepting transfer or to assist in locating a provider  
+| willing to accept transfer that is posted on the website maintained  
+| by the department under Section 166.053; and  
+|  (4) is entitled to:  
+|  (A) attend the meeting;  
+|  (B) receive a written explanation of the  
+| _recommendations made_ [ ~~decision reached~~ ] during the review process;  
+|  (C) receive a copy of the portion of the  
+| patient's medical record related to the treatment received by the  
+| patient in the facility for the lesser of:  
+|  (i) the period of the patient's current  
+| admission to the facility; or  
+|  (ii) the preceding 30 calendar days; and  
+|  (D) receive a copy of all of the patient's  
+| reasonably available diagnostic results and reports related to the  
+| medical record provided under Paragraph (C).  
+|  (d) If the attending physician, the patient, or the person  
+| responsible for the health care decisions of the individual does  
+| not agree with the _recommendations made_ [ ~~decision reached~~ ] during  
+| the review process under Subsection (b), the physician shall make a  
+| reasonable effort to transfer the patient to a physician who is  
+| willing to comply with the directive. If the patient is a patient in  
+| a health care facility, the facility's personnel shall assist the  
+| physician in arranging the patient's transfer to:  
+|  (1) another physician;  
+|  (2) an alternative care setting within that facility;  
+| or  
+|  (3) another facility.  
+|  (e) If the patient or the person responsible for the health  
+| care decisions of the patient is requesting life-sustaining  
+| treatment that the attending physician [ ~~has decided~~ ] and the ethics  
+| or medical committee _consider_ [ ~~has affirmed is~~ ] medically  
+| inappropriate treatment, the patient shall be given available  
+| life-sustaining treatment pending transfer under Subsection (d).  
+| This subsection does not authorize withholding or withdrawing pain  
+| management medication, medical procedures necessary to provide  
+| comfort, or any other health care provided to alleviate a patient's  
+| pain.  _Artificially_ [ ~~The patient is responsible for any costs~~  
+|  ~~incurred in transferring the patient to another facility.~~ ~~~~ ~~The~~  
+|  ~~attending physician, any other physician responsible for the care~~  
+|  ~~of the patient, and the health care facility are not obligated to~~  
+|  ~~provide life-sustaining treatment after the 10th day after both the~~  
+|  ~~written decision and the patient's medical record required under~~  
+|  ~~Subsection (b) are provided to the patient or the person~~  
+|  ~~responsible for the health care decisions of the patient unless~~  
+|  ~~ordered to do so under Subsection (g), except that artificially~~ ]  
+| administered nutrition and hydration must be provided unless, based  
+| on reasonable medical judgment, providing artificially  
+| administered nutrition and hydration would:  
+|  (1) hasten the patient's death;  
+|  (2) be medically contraindicated such that the  
+| provision of the treatment seriously exacerbates life-threatening  
+| medical problems not outweighed by the benefit of the provision of  
+| the treatment;  
+|  (3) result in substantial irremediable physical pain  
+| not outweighed by the benefit of the provision of the treatment;  
+|  (4) be medically ineffective in prolonging life; or  
+|  (5) be contrary to the patient's or surrogate's  
+| clearly documented desire not to receive artificially administered  
+| nutrition or hydration.  
+|  (e-1) If during a previous admission to a facility a  
+| patient's attending physician and the review process under  
+| Subsection (b) have determined that life-sustaining treatment is  
+| inappropriate, and the patient is readmitted to the same facility  
+| within six months from the date of the _recommendations made_  
+| [ ~~decision reached~~ ] during the review process conducted upon the  
+| previous admission, Subsections (b) through (e) need not be  
+| followed if the patient's attending physician and a consulting  
+| physician who is a member of the ethics or medical committee of the  
+| facility document on the patient's readmission that the patient's  
+| condition either has not improved or has deteriorated since the  
+| review process was conducted.  
+|  (f) Life-sustaining treatment under this section may not be  
+| entered in the patient's medical record as medically unnecessary  
+| treatment [ ~~until the time period provided under Subsection (e) has~~  
+|  ~~expired~~ ].  
+|  SECTION 5. Section 166.051, Health and Safety Code, is  
+| amended to read as follows:  
+|  Sec. 166.051. LEGAL RIGHT OR RESPONSIBILITY NOT AFFECTED.  
+| This subchapter does not impair or supersede any legal right or  
+| responsibility a person may have to effect the withholding or  
+| withdrawal of life-sustaining treatment in a lawful manner,  
+| provided that if an attending physician or health care facility is  
+| unwilling to honor a patient's advance directive or a treatment  
+| decision to provide life-sustaining treatment, life-sustaining  
+| treatment _must_ [ ~~is required to~~ ] be provided _to_ the patient _in_  
+| _accordance with this chapter_ [ ~~, but only until a reasonable~~  
+|  ~~opportunity has been afforded for transfer of the patient to~~  
+|  ~~another physician or health care facility willing to comply with~~  
+|  ~~the advance directive or treatment decision~~ ].  
+|  SECTION 6. Section 25.0021(b), Government Code, is amended  
+| to read as follows:  
+|  (b) A statutory probate court as that term is defined in  
+| Section 22.007(c), Estates Code, has:  
+|  (1) the general jurisdiction of a probate court as  
+| provided by the Estates Code; and  
+|  (2) the jurisdiction provided by law for a county  
+| court to hear and determine actions, cases, matters, or proceedings  
+| instituted under:  
+|  (A) Section [ ~~166.046,~~ ] 192.027, 193.007,  
+| 552.015, 552.019, 711.004, or 714.003, Health and Safety Code;  
+|  (B) Chapter 462, Health and Safety Code; or  
+|  (C) Subtitle C or D, Title 7, Health and Safety  
+| Code.  
+|  SECTION 7. Sections 166.046(g) and 166.052, Health and  
+| Safety Code, are repealed.  
+|  SECTION 8. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

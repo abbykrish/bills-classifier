@@ -1,0 +1,338 @@
+| 86R6998 SCL-F  
+---|---  
+|  By: Bonnen of Galveston | H.B. No. 2387  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of utilization review and independent  
+| review for health benefit plan coverage.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 4201.002(12), Insurance Code, is amended  
+| to read as follows:  
+|  (12) "Provider of record" means the physician or other  
+| health care provider with primary responsibility for the _health_  
+| care[ ~~, treatment, and~~ ] services provided to _or requested on behalf_  
+| _of_ an enrollee _or the physician or other health care provider that_  
+| _has provided or has been requested to provide the health care_  
+| _services to the enrollee_. The term includes a health care facility  
+| _where the health care services are_ [ ~~if treatment is~~ ] provided on an  
+| inpatient or outpatient basis.  
+|  SECTION 2. Sections 4201.151 and 4201.152, Insurance Code,  
+| are amended to read as follows:  
+|  Sec. 4201.151. UTILIZATION REVIEW PLAN. A utilization  
+| review agent's utilization review plan, including reconsideration  
+| and appeal requirements, must be reviewed by a physician _licensed_  
+| _to practice medicine in this state_ and conducted in accordance with  
+| standards developed with input from appropriate health care  
+| providers and approved by a physician _licensed to practice medicine_  
+| _in this state_.  
+|  Sec. 4201.152. UTILIZATION REVIEW UNDER [ ~~DIRECTION OF~~ ]  
+| PHYSICIAN. A utilization review agent shall conduct utilization  
+| review under the _supervision and_ direction of a physician licensed  
+| to practice medicine _in this_ [ ~~by a~~ ] state [ ~~licensing agency in
+the~~  
+|  ~~United States~~ ].  
+|  SECTION 3. Subchapter D, Chapter 4201, Insurance Code, is  
+| amended by adding Section 4201.1525 to read as follows:  
+|  _Sec._ ___4201.1525._ _____UTILIZATION REVIEW BY PHYSICIAN. (a) A_  
+| _utilization review agent that uses a physician to conduct_  
+| _utilization review may only use a physician licensed to practice_  
+| _medicine in this state._  
+|  _(b)_ _____A payor that conducts utilization review on the payor's_  
+| _own behalf is subject to Subsection (a) as if the payor were a_  
+| _utilization review agent._  
+|  SECTION 4. Section 4201.153(d), Insurance Code, is amended  
+| to read as follows:  
+|  (d) Screening criteria must be used to determine only  
+| whether to approve the requested treatment. _Before issuing an_  
+| _adverse determination, a utilization review agent must obtain a_  
+| _determination of medical necessity by referring a proposed_ [ ~~A~~ ]  
+| denial of requested treatment [ ~~must be referred~~ ] to _:_  
+|  _(1)_ an appropriate physician, dentist, or other health  
+| care provider _; or_  
+|  _(2)_ _____if the treatment is requested, ordered, or_  
+| _provided by a physician, a physician licensed to practice medicine_  
+| _in this state who is of the same or similar specialty as that_  
+| _physician_ [ ~~to determine medical necessity~~ ].  
+|  SECTION 5. Sections 4201.155, 4201.206, and 4201.251,  
+| Insurance Code, are amended to read as follows:  
+|  Sec. 4201.155. LIMITATION ON NOTICE REQUIREMENTS AND REVIEW  
+| PROCEDURES. _(a)_ A utilization review agent may not establish or  
+| impose a notice requirement or other review procedure that is  
+| contrary to the requirements of the health insurance policy or  
+| health benefit plan.  
+|  _(b)_ _____This section may not be construed to release a health_  
+| _insurance policy or health benefit plan from full compliance with_  
+| _this chapter or other applicable law._  
+|  Sec. 4201.206. OPPORTUNITY TO DISCUSS TREATMENT BEFORE  
+| ADVERSE DETERMINATION. _(a)_ Subject to _Subsection (b) and_ the  
+| notice requirements of Subchapter G, before an adverse  
+| determination is issued by a utilization review agent who questions  
+| the medical necessity _, the_ [ ~~or~~ ] appropriateness, or the  
+| experimental or investigational nature[ ~~,~~ ] of a health care service,  
+| the agent shall provide the health care provider who ordered _,_  
+| _requested, or provided_ the service a reasonable opportunity to  
+| discuss with a physician _licensed to practice medicine in this_  
+| _state_ the patient's treatment plan and the clinical basis for the  
+| agent's determination.  
+|  _(b)_ _____If the health care service described by Subsection (a)_  
+| _was ordered, requested, or provided by a physician, the opportunity_  
+| _described by that subsection must be with a physician licensed to_  
+| _practice medicine in this state who is of the same or similar_  
+| _specialty as that physician._  
+|  Sec. 4201.251. DELEGATION OF UTILIZATION REVIEW. A  
+| utilization review agent may delegate utilization review to  
+| qualified personnel in the hospital or other health care facility  
+| in which the health care services to be reviewed were or are to be  
+| provided. The delegation does not release the agent from the full  
+| responsibility for compliance with this chapter _or other applicable_  
+| _law_ , including the conduct of those to whom utilization review has  
+| been delegated.  
+|  SECTION 6. Sections 4201.252(a) and (b), Insurance Code,  
+| are amended to read as follows:  
+|  (a) Personnel employed by or under contract with a  
+| utilization review agent to perform utilization review must be  
+| appropriately trained and qualified _and meet the requirements of_  
+| _this chapter and other applicable law, including licensing_  
+| _requirements_.  
+|  (b) Personnel, other than a physician _licensed to practice_  
+| _medicine in this state_ , who obtain oral or written information  
+| directly from a patient's physician or other health care provider  
+| regarding the patient's specific medical condition, diagnosis, or  
+| treatment options or protocols must be a nurse, physician  
+| assistant, or other health care provider qualified _and licensed or_  
+| _otherwise authorized by law and the appropriate licensing agency in_  
+| _this state_ to provide the requested service.  
+|  SECTION 7. Section 4201.356, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 4201.356. DECISION BY PHYSICIAN REQUIRED; SPECIALTY  
+| REVIEW. (a) The procedures for appealing an adverse determination  
+| must provide that a physician _licensed to practice medicine in this_  
+| _state_ makes the decision on the appeal, except as provided by  
+| Subsection (b) _or (c)_.  
+|  (b) _For a health care service ordered, requested, provided,_  
+| _or to be provided by a physician, the procedures for appealing an_  
+| _adverse determination must provide that a physician licensed to_  
+| _practice medicine in this state who is of the same or similar_  
+| _specialty as that physician makes the decision on appeal, except as_  
+| _provided by Subsection (c)._  
+|  _(c)_ If not later than the 10th working day after the date an  
+| appeal is denied the enrollee's health care provider states in  
+| writing good cause for having a particular type of specialty  
+| provider review the case, a health care provider who is of the same  
+| or a similar specialty as the health care provider who would  
+| typically manage the medical or dental condition, procedure, or  
+| treatment under consideration for review _and who is licensed or_  
+| _otherwise authorized by the appropriate licensing agency in this_  
+| _state to manage the medical or dental condition, procedure, or_  
+| _treatment_ shall review the decision denying the appeal. The  
+| specialty review must be completed within 15 working days of the  
+| date the health care provider's request for specialty review is  
+| received.  
+|  SECTION 8. Sections 4201.357(a), (a-1), and (a-2),  
+| Insurance Code, are amended to read as follows:  
+|  (a) The procedures for appealing an adverse determination  
+| must include, in addition to the written appeal, a procedure for an  
+| expedited appeal of a denial of emergency care or a denial of  
+| continued hospitalization. That procedure must include a review by  
+| a health care provider who:  
+|  (1) has not previously reviewed the case; [ ~~and~~ ]  
+|  (2) is of the same or a similar specialty as the health  
+| care provider who would typically manage the medical or dental  
+| condition, procedure, or treatment under review in the appeal _; and_  
+|  _(3) for a review of a health care service:_  
+|  _(A)_ _____ordered, requested, or provided by a health_  
+| _care provider who is not a physician, is licensed or otherwise_  
+| _authorized by the appropriate licensing agency in this state to_  
+| _provide the service in this state; or_  
+|  _(B)_ _____ordered, requested, or provided by a_  
+| _physician, is licensed to practice medicine in this state_.  
+|  (a-1) The procedures for appealing an adverse determination  
+| must include, in addition to the written appeal and the appeal  
+| described by Subsection (a), a procedure for an expedited appeal of  
+| a denial of prescription drugs or intravenous infusions for which  
+| the patient is receiving benefits under the health insurance  
+| policy. That procedure must include a review by a health care  
+| provider who:  
+|  (1) has not previously reviewed the case; [ ~~and~~ ]  
+|  (2) is of the same or a similar specialty as the health  
+| care provider who would typically manage the medical or dental  
+| condition, procedure, or treatment under review in the appeal _; and_  
+|  _(3) for a review of a health care service:_  
+|  _(A)_ _____ordered, requested, or provided by a health_  
+| _care provider who is not a physician, is licensed or otherwise_  
+| _authorized by the appropriate licensing agency in this state to_  
+| _provide the service in this state; or_  
+|  _(B)_ _____ordered, requested, or provided by a_  
+| _physician, is licensed to practice medicine in this state_.  
+|  (a-2) An adverse determination under Section 1369.0546 is  
+| entitled to an expedited appeal. The physician or, if appropriate,  
+| other health care provider deciding the appeal must consider  
+| atypical diagnoses and the needs of atypical patient populations.  
+| _The physician must be licensed to practice medicine in this state_  
+| _and the health care provider must be licensed or otherwise_  
+| _authorized by the appropriate licensing agency in this state._  
+|  SECTION 9. Section 4201.359, Insurance Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____A physician described by Subsection (b)(2) must comply_  
+| _with this chapter and other applicable laws and be licensed to_  
+| _practice medicine in this state. A health care provider described_  
+| _by Subsection (b)(2) must comply with this chapter and other_  
+| _applicable laws and be licensed or otherwise authorized by the_  
+| _appropriate licensing agency in this state._  
+|  SECTION 10. Sections 4201.453 and 4201.454, Insurance Code,  
+| are amended to read as follows:  
+|  Sec. 4201.453. UTILIZATION REVIEW PLAN. A specialty  
+| utilization review agent's utilization review plan, including  
+| reconsideration and appeal requirements, must be _:_  
+|  _(1)_ reviewed by a health care provider of the  
+| appropriate specialty _who is licensed or otherwise authorized to_  
+| _provide the specialty health care service in this state;_ and  
+|  _(2)_ conducted in accordance with standards developed  
+| with input from a health care provider of the appropriate specialty  
+| _who is licensed or otherwise authorized to provide the specialty_  
+| _health care service in this state_.  
+|  Sec. 4201.454. UTILIZATION REVIEW UNDER DIRECTION OF  
+| PROVIDER OF SAME SPECIALTY. A specialty utilization review agent  
+| shall conduct utilization review under the direction of a health  
+| care provider who is of the same specialty as the agent and who is  
+| licensed or otherwise authorized to provide the specialty health  
+| care service _in this_ [ ~~by a~~ ] state [ ~~licensing agency in the
+United~~  
+|  ~~States~~ ].  
+|  SECTION 11. Sections 4201.455(a) and (b), Insurance Code,  
+| are amended to read as follows:  
+|  (a) Personnel who are employed by or under contract with a  
+| specialty utilization review agent to perform utilization review  
+| must be appropriately trained and qualified _and meet the_  
+| _requirements of this chapter and other applicable law of this_  
+| _state, including licensing laws_.  
+|  (b) Personnel who obtain oral or written information  
+| directly from a physician or other health care provider must be a  
+| nurse, physician assistant, or other health care provider of the  
+| same specialty as the agent and who are licensed or otherwise  
+| authorized to provide the specialty health care service _in this_ [ ~~by~~  
+|  ~~a~~ ] state [ ~~licensing agency in the United States~~ ].  
+|  SECTION 12. Sections 4201.456 and 4201.457, Insurance Code,  
+| are amended to read as follows:  
+|  Sec. 4201.456. OPPORTUNITY TO DISCUSS TREATMENT BEFORE  
+| ADVERSE DETERMINATION. Subject to the notice requirements of  
+| Subchapter G, before an adverse determination is issued by a  
+| specialty utilization review agent who questions the medical  
+| necessity _, the_ [ ~~or~~ ] appropriateness, or the experimental or  
+| investigational nature[ ~~,~~ ] of a health care service, the agent shall  
+| provide the health care provider who ordered _, requested, or_  
+| _provided_ the service a reasonable opportunity to discuss the  
+| patient's treatment plan and the clinical basis for the agent's  
+| determination with a health care provider who is _:_  
+|  _(1)_ of the same specialty as the agent _; and_  
+|  _(2)_ _____licensed or otherwise authorized to provide the_  
+| _specialty health care service in this state_.  
+|  Sec. 4201.457. APPEAL DECISIONS. A specialty utilization  
+| review agent shall comply with the requirement that a physician or  
+| other health care provider who makes the decision in an appeal of an  
+| adverse determination must be _:_  
+|  _(1)_ of the same or a similar specialty as the health  
+| care provider who would typically manage the specialty condition,  
+| procedure, or treatment under review in the appeal _; and_  
+|  _(2)_ _____licensed or otherwise authorized to provide the_  
+| _health care service in this state_.  
+|  SECTION 13. Section 4202.002, Insurance Code, is amended by  
+| adding Subsection (b-1) to read as follows:  
+|  _(b-1) The standards adopted under Subsection (b)(3) must:_  
+|  _(1)_ _____ensure that personnel conducting independent_  
+| _review for a health care service are licensed or otherwise_  
+| _authorized to provide the same or similar health care service in_  
+| _this state; and_  
+|  _(2)_ _____be consistent with the licensing laws of this_  
+| _state._  
+|  SECTION 14. Subchapter B, Chapter 151, Occupations Code, is  
+| amended by adding Section 151.057 to read as follows:  
+|  _Sec._ ___151.057._ _____APPLICATION TO UTILIZATION REVIEW._ ___(a)_ ___In_  
+| _this section:_  
+|  _(1)_ _____"Adverse determination" means a determination_  
+| _that health care services provided or proposed to be provided to an_  
+| _individual in this state by a physician or at the request or order_  
+| _of a physician are not medically necessary or are experimental or_  
+| _investigational._  
+|  _(2)_ _____"Payor" has the meaning assigned by Section_  
+| _4201.002, Insurance Code._  
+|  _(3)_ _____"Utilization review" has the meaning assigned by_  
+| _Section 4201.002, Insurance Code, and the term includes a review_  
+| _of:_  
+|  _(A)_ _____a step therapy protocol exception request_  
+| _under Section 1369.0546, Insurance Code; and_  
+|  _(B)_ _____prescription drug benefits under Section_  
+| _1369.056, Insurance Code._  
+|  _(4) "Utilization review agent" means:_  
+|  _(A)_ _____an entity that conducts utilization review_  
+| _under Chapter 4201, Insurance Code;_  
+|  _(B)_ _____a payor that conducts utilization review on_  
+| _the payor's own behalf or on behalf of another person or entity;_  
+|  _(C)_ _____an independent review organization certified_  
+| _under Chapter 4202, Insurance Code; or_  
+|  _(D)_ _____a workers' compensation health care network_  
+| _certified under Chapter 1305, Insurance Code._  
+|  _(b)_ _____A person who does the following is considered to be_  
+| _engaged in the practice of medicine in this state and is subject to_  
+| _appropriate regulation by the board:_  
+|  _(1)_ _____makes on behalf of a utilization review agent or_  
+| _directs a utilization review agent to make an adverse_  
+| _determination, including:_  
+|  _(A)_ _____an adverse determination made on_  
+| _reconsideration of a previous adverse determination;_  
+|  _(B)_ _____an adverse determination in an independent_  
+| _review under Subchapter I, Chapter 4201, Insurance Code;_  
+|  _(C)_ _____a refusal to provide benefits for a_  
+| _prescription drug under Section 1369.056, Insurance Code; or_  
+|  _(D)_ _____a denial of a step therapy protocol exception_  
+| _request under Section 1369.0546, Insurance Code;_  
+|  _(2)_ _____serves as a medical director of an independent_  
+| _review organization certified under Chapter 4202, Insurance Code;_  
+|  _(3)_ _____reviews or approves a utilization review plan_  
+| _under Section 4201.151, Insurance Code;_  
+|  _(4)_ _____supervises and directs utilization review under_  
+| _Section 4201.152, Insurance Code; or_  
+|  _(5)_ _____discusses a patient's treatment plan and the_  
+| _clinical basis for an adverse determination before the adverse_  
+| _determination is issued, as provided by Section 4201.206, Insurance_  
+| _Code._  
+|  _(c)_ _____For purposes of Subsection (b), a denial of health care_  
+| _services based on the failure to request prospective or concurrent_  
+| _review is not considered an adverse determination._  
+|  SECTION 15. Section 1305.351(d), Insurance Code, is amended  
+| to read as follows:  
+|  (d) _A_ [ ~~Notwithstanding Section 4201.152, a~~ ] utilization  
+| review agent or an insurance carrier that uses doctors to perform  
+| reviews of health care services provided under this chapter,  
+| including utilization review, or peer reviews under Section  
+| 408.0231(g), Labor Code, may only use doctors licensed to practice  
+| in this state.  
+|  SECTION 16. Section 1305.355(d), Insurance Code, is amended  
+| to read as follows:  
+|  (d) The department shall assign the review request to an  
+| independent review organization. _An_ [ ~~Notwithstanding Section~~  
+|  ~~4202.002, an~~ ] independent review organization that uses doctors to  
+| perform reviews of health care services under this chapter may only  
+| use doctors licensed to practice in this state.  
+|  SECTION 17. Section 408.023(h), Labor Code, is amended to  
+| read as follows:  
+|  (h) _A_ [ ~~Notwithstanding Section 4201.152, Insurance Code, a~~ ]  
+| utilization review agent or an insurance carrier that uses doctors  
+| to perform reviews of health care services provided under this  
+| subtitle, including utilization review, may only use doctors  
+| licensed to practice in this state.  
+|  SECTION 18. Section 413.031(e-2), Labor Code, is amended to  
+| read as follows:  
+|  (e-2) _An_ [ ~~Notwithstanding Section 4202.002, Insurance Code,~~  
+|  ~~an~~ ] independent review organization that uses doctors to perform  
+| reviews of health care services provided under this title may only  
+| use doctors licensed to practice in this state.  
+|  SECTION 19. The change in law made by this Act applies only  
+| to utilization or independent review that was requested on or after  
+| the effective date of this Act. Utilization or independent review  
+| requested before the effective date of this Act is governed by the  
+| law as it existed immediately before the effective date of this Act,  
+| and that law is continued in effect for that purpose.  
+|  SECTION 20. This Act takes effect September 1, 2019.
+

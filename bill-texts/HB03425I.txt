@@ -1,0 +1,34 @@
+| 86R9916 MAW-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 3425  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the consideration of a subsequent writ of habeas corpus  
+| in certain felony cases.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 4(a), Article 11.07, Code of Criminal  
+| Procedure, is amended to read as follows:  
+|  (a) If a subsequent application for writ of habeas corpus is  
+| filed after final disposition of an initial application challenging  
+| the same conviction, a court may not consider the merits of or grant  
+| relief based on the subsequent application unless _the attorney_  
+| _representing the state consents in writing to that consideration or_  
+| _unless_ the application contains sufficient specific facts  
+| establishing that:  
+|  (1) the current claims and issues have not been and  
+| could not have been presented previously in an original application  
+| or in a previously considered application filed under this article  
+| because the factual or legal basis for the claim was unavailable on  
+| the date the applicant filed the previous application; or  
+|  (2) by a preponderance of the evidence, but for a  
+| violation of the United States Constitution no rational juror could  
+| have found the applicant guilty beyond a reasonable doubt.  
+|  SECTION 2. Section 4(a), Article 11.07, Code of Criminal  
+| Procedure, as amended by this Act, applies only to an application  
+| for a writ of habeas corpus filed on or after the effective date of  
+| this Act. An application filed before the effective date of this  
+| Act is governed by the law in effect on the date the application was  
+| filed, and the former law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,45 @@
+| 86R4062 JRJ-D  
+---|---  
+|  By: Swanson | H.B. No. 1107  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the signature required on an application for voter  
+| registration or for a ballot to be voted by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 13.002(a) and (b), Election Code, are  
+| amended to read as follows:  
+|  (a) A person desiring to register to vote must submit an  
+| application to the registrar of the county in which the person  
+| resides. Except as provided by Subsection (e), an application must  
+| be submitted by personal delivery _or_ [ ~~,~~ ] by mail[ ~~, or by
+telephonic~~  
+|  ~~facsimile machine in accordance with Sections 13.143(d) and (d-2)~~ ].  
+|  (b) A registration application must be in writing and signed  
+| by the applicant _using ink on paper_. _An electronic signature or_  
+| _photocopied signature is not permitted._  
+|  SECTION 2. Section 13.143(d), Election Code, is amended to  
+| read as follows:  
+|  (d) For purposes of determining the effective date of a  
+| registration, an application submitted by[ ~~:~~  
+|  [ ~~(1)~~ ] mail is considered to be submitted to the  
+| registrar on the date it is placed with postage prepaid and properly  
+| addressed in the United States mail[ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~telephonic facsimile machine is considered to be~~  
+|  ~~submitted to the registrar on the date the transmission is received~~  
+|  ~~by the registrar, subject to Subsection (d-2)~~ ].  
+|  SECTION 3. Section 84.001(b), Election Code, is amended to  
+| read as follows:  
+|  (b) An application must be in writing and signed by the  
+| applicant _using ink on paper_. An electronic signature _or_  
+| _photocopied signature_ is not permitted.  
+|  SECTION 4. Section 13.143(d-2), Election Code, is repealed.  
+|  SECTION 5. The change in law made by this Act applies to an  
+| application for voter registration or for a ballot to be voted by  
+| mail submitted on or after the effective date of this Act. An  
+| application for voter registration or for a ballot to be voted by  
+| mail submitted before the effective date of this Act is governed by  
+| the law in effect when the application was submitted, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

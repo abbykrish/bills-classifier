@@ -1,0 +1,134 @@
+| 86R2683 KSD-D  
+---|---  
+|  By: Schaefer | H.B. No. 4389  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to student success-based funding for certain public  
+| institutions of higher education.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 61.0593, Education Code, is amended by  
+| amending Subsections (d), (e), and (h) and adding Subsections  
+| (d-1), (d-2), (d-3), (d-4), and (d-5) to read as follows:  
+|  (d) This subsection applies only to a general academic  
+| teaching institution other than a public state college. In  
+| devising its funding formulas and making its recommendations to the  
+| legislature relating to institutional appropriations of funds  
+| under Section 61.059 for institutions to which this subsection  
+| applies, the board, [ ~~in the manner and to the extent the board~~  
+|  ~~considers appropriate and~~ ] in consultation with those  
+| institutions, shall _prescribe a formula for distributing funds to_  
+| _the institutions in proportion to the number of scaled points_  
+| _earned by each of the institutions according to the following_  
+| _performance metrics_ [ ~~incorporate the consideration of~~  
+|  ~~undergraduate student success measures achieved during the~~  
+|  ~~preceding state fiscal biennium by each of the institutions. At the~~  
+|  ~~time the board makes those recommendations, the board shall also~~  
+|  ~~make recommendations for incorporating the success measures, to the~~  
+|  ~~extent the board considers appropriate in consultation with those~~  
+|  ~~institutions, into the distribution of any incentive funds~~  
+|  ~~available for those institutions, including performance incentive~~  
+|  ~~funds under Subchapter D, Chapter 62. The board's recommendations~~  
+|  ~~must provide alternative approaches for applying the success~~  
+|  ~~measures and must compare the effects on funding of applying the~~  
+|  ~~success measures within the formula for base funding to applying~~  
+|  ~~the success measures as a separate formula. The success measures~~  
+|  ~~considered by the board under this subsection may include~~ ]:  
+|  (1) the total number of _undergraduate_ [ ~~bachelor's~~ ]  
+| degrees awarded by the institution;  
+|  (2) the total number of _undergraduate_ [ ~~bachelor's~~ ]  
+| degrees [ ~~in critical fields~~ ] awarded by the institution _, adjusted_  
+| _by the institution's:_  
+|  _(A) six-year graduation rate; or_  
+|  _(B)_ _____three-year graduation rate, if the_  
+| _institution offers only upper-division courses_ ;  
+|  (3) the total number of _undergraduate_ [ ~~bachelor's~~ ]  
+| degrees awarded by the institution _divided by the number of_  
+| _full-time undergraduate student equivalents enrolled in the fall_  
+| _semester, as reported in the board's higher education_  
+| _accountability system, the quotient of which is multiplied by 100_  
+| [ ~~to at-risk students~~ ]; [ ~~and~~ ]  
+|  (4) _the six-year graduation rate, or three-year_  
+| _graduation rate if the institution offers only upper-division_  
+| _courses, of at-risk students;_  
+|  _(5)_ _____retention rates of undergraduate students at the_  
+| _institution having successfully completed at least 25 percent of_  
+| _the student's degree requirements or having earned at least 30_  
+| _credit hours toward a 120-credit-hour degree, including hours_  
+| _earned toward the degree at another institution before transferring_  
+| _to the institution;_  
+|  _(6)_ _____retention rates of undergraduate students at the_  
+| _institution having successfully completed at least 50 percent of_  
+| _the student's degree requirements or having earned at least 60_  
+| _credit hours toward a 120-credit-hour degree, including hours_  
+| _earned toward the degree at another institution before transferring_  
+| _to the institution; and_  
+|  _(7)_ _____retention rates of undergraduate students at the_  
+| _institution having successfully completed at least 75 percent of_  
+| _the student's degree requirements or having earned at least 90_  
+| _credit hours toward a 120-credit-hour degree, including hours_  
+| _earned toward the degree at another institution before transferring_  
+| _to the institution_ [ ~~as determined by the board, the six-year~~  
+|  ~~graduation rate of undergraduate students of the institution who~~  
+|  ~~initially enrolled in the institution in the fall semester~~  
+|  ~~immediately following their graduation from a public high school in~~  
+|  ~~this state as compared to the six-year graduation rate predicted~~  
+|  ~~for those students based on the composition of the institution's~~  
+|  ~~student body~~ ].  
+|  _(d-1)_ _____In devising the formula under Subsection (d), the_  
+| _board shall:_  
+|  _(1)_ _____determine the appropriate scale for each metric;_  
+| _and_  
+|  _(2)_ _____compute each metric using the average of the_  
+| _applicable variables for the three most recent academic years for_  
+| _which the information is available, as determined on the January 1_  
+| _preceding the state fiscal biennium for which the metric is_  
+| _computed._  
+|  _(d-2)_ _____In the formula prescribed under Subsection (d),_  
+| _points may be assigned only for an institution's outcome on a metric_  
+| _and not based on the institution's increase in performance on the_  
+| _metric._  
+|  _(d-3)_ _____In computing an institution's graduation rate under_  
+| _Subsection (d), the board shall include each first-time, full-time,_  
+| _undergraduate degree-seeking student who enrolled in at least 12_  
+| _semester credit hours in the student's first fall semester at the_  
+| _institution and who graduated from the institution or from any_  
+| _other institution of higher education or private or independent_  
+| _institution of higher education._  
+|  _(d-4)_ _____The board's recommendations under Subsection (d) must_  
+| _provide alternative approaches for applying the performance_  
+| _metrics described by that subsection and must compare the effects_  
+| _on funding of applying the performance metrics within the formula_  
+| _for base funding to applying the performance metrics as a separate_  
+| _formula._  
+|  _(d-5)_ _____At the time the board makes its recommendations under_  
+| _Subsection (d) for institutions to which that subsection applies,_  
+| _the board shall also make recommendations for incorporating the_  
+| _performance metrics described by that subsection, to the extent the_  
+| _board considers appropriate in consultation with those_  
+| _institutions, into the distribution of any incentive funds_  
+| _available for those institutions, including performance incentive_  
+| _funds under Subchapter D, Chapter 62._  
+|  (e) Notwithstanding Subsection (d):  
+|  (1) not more than _20_ [ ~~10~~ ] percent of the total amount  
+| of general revenue appropriations of base funds for undergraduate  
+| education recommended by the board for all institutions to which  
+| Subsection (d) applies for a state fiscal biennium may be based on  
+| student success measures; and  
+|  (2) the board's recommendation for base funding for  
+| undergraduate education based on _performance metrics_ [ ~~student~~  
+|  ~~success measures~~ ] does not reduce or otherwise affect funding  
+| recommendations for graduate education.  
+|  (h) The board shall include in its findings and  
+| recommendations to the legislature under Section 61.059:  
+|  (1) an evaluation of the effectiveness of the  
+| _performance metrics and_ student success measures described by this  
+| section in achieving the purpose of this section during the  
+| preceding state fiscal biennium; and  
+|  (2) any related recommendations the board considers  
+| appropriate.  
+|  SECTION 2. The Texas Higher Education Coordinating Board  
+| shall adopt rules for the administration of Section 61.0593,  
+| Education Code, as amended by this Act, not later than May 1, 2020.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

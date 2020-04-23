@@ -1,0 +1,21 @@
+| 86R10937 ADM-F  
+---|---  
+|  By: Deshotel | H.B. No. 4430  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to electronic correction of voter registration  
+| information by a person on the suspense list.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 15.021(d), Election Code, is amended to  
+| read as follows:  
+|  (d) A voter _, including a voter on the suspense list,_ who  
+| continues to reside in the county in which the voter is registered  
+| may correct information under this section by digital transmission  
+| of the information under a program administered by the secretary of  
+| state and the Department of Information Resources. _A voter on the_  
+| _suspense list who submits a correction under this subsection is_  
+| _considered to have complied with the requirements of Section_  
+| _15.053._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

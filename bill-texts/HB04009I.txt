@@ -1,0 +1,418 @@
+| 86R10724 MEW-F  
+---|---  
+|  By: Toth | H.B. No. 4009  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment, operation, and funding of  
+| victim-offender mediation programs; authorizing fees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1, Article 28.01, Code of Criminal  
+| Procedure, is amended to read as follows:  
+|  Sec. 1. The court may set any criminal case for a pre-trial  
+| hearing before it is set for trial upon its merits, and direct the  
+| defendant and _the defendant's_ [ ~~his~~ ] attorney, if any of record, and  
+| the State's attorney, to appear before the court at the time and  
+| place stated in the court's order for a conference and hearing  
+| _regardless of whether the defendant has been formally charged_. The  
+| defendant must be present at the arraignment, and _the defendant's_  
+| [ ~~his~~ ] presence is required during any pre-trial proceeding. The  
+| pre-trial hearing shall be to determine any of the following  
+| matters:  
+|  (1) Arraignment of the defendant, if such be  
+| necessary; and appointment of counsel to represent the defendant,  
+| if such be necessary;  
+|  (2) Pleadings of the defendant;  
+|  (3) Special pleas, if any;  
+|  (4) Exceptions to the form or substance of the  
+| indictment or information;  
+|  (5) Motions for continuance either by the State or  
+| defendant; provided that grounds for continuance not existing or  
+| not known at the time may be presented and considered at any time  
+| before the defendant announces ready for trial;  
+|  (6) Motions to suppress evidence--When a hearing on  
+| the motion to suppress evidence is granted, the court may determine  
+| the merits of said motion on the motions themselves, or upon  
+| opposing affidavits, or upon oral testimony, subject to the  
+| discretion of the court;  
+|  (7) Motions for change of venue by the State or the  
+| defendant; provided, however, that such motions for change of  
+| venue, if overruled at the pre-trial hearing, may be renewed by the  
+| State or the defendant during the voir dire examination of the jury;  
+|  (8) Discovery;  
+|  (9) Entrapment; [ ~~and~~ ]  
+|  (10) Motion for appointment of interpreter _; and_  
+|  _(11)_ _____Motion to allow the defendant to enter a pretrial_  
+| _victim-offender mediation program established under Subchapter_  
+| _A-1, Chapter 56_.  
+|  SECTION 2. Chapter 56, Code of Criminal Procedure, is  
+| amended by adding Subchapter A-1 to read as follows:  
+| _SUBCHAPTER A-1._ ___PRETRIAL VICTIM-OFFENDER MEDIATION PROGRAM_  
+|  _Art._ ___56.21._ _____AUTHORITY TO ESTABLISH PROGRAM._ ___(a)_ ___The_  
+| _commissioners court of a county or governing body of a municipality_  
+| _may, in coordination with the office of the attorney representing_  
+| _the state in the county or municipality, establish a pretrial_  
+| _victim-offender mediation program for persons who:_  
+|  _(1)_ _____have been arrested for or charged with an offense_  
+| _other than an offense under one or more of the following sections of_  
+| _the Penal Code:_  
+|  _(A) Section 19.02 (murder);_  
+|  _(B) Section 19.03 (capital murder);_  
+|  _(C) Section 20.03 (kidnapping);_  
+|  _(D) Section 20.04 (aggravated kidnapping);_  
+|  _(E)_ _____Section 20A.03 (continuous trafficking of_  
+| _persons);_  
+|  _(F)_ _____Section 21.02 (continuous sexual abuse of_  
+| _young child or children);_  
+|  _(G) Section 21.11 (indecency with a child);_  
+|  _(H)_ _____Section 22.01(a)(1) (assault), if the_  
+| _offense involved family violence as defined by Section 71.004,_  
+| _Family Code;_  
+|  _(I) Section 22.011 (sexual assault);_  
+|  _(J) Section 22.02 (aggravated assault);_  
+|  _(K) Section 22.021 (aggravated sexual assault);_  
+|  _(L)_ _____Section 22.04 (injury to a child, elderly_  
+| _individual, or disabled individual); or_  
+|  _(M) Section 29.03 (aggravated robbery); and_  
+|  _(2)_ _____have not previously been convicted of a felony or a_  
+| _misdemeanor, other than a traffic offense punishable by fine only._  
+|  _(b)_ _____A court that implements a program under this subchapter_  
+| _may adopt administrative rules and local rules of procedure as_  
+| _necessary or appropriate to implement or operate the program._  
+|  _(c)_ _____The commissioners court of a county or governing body of_  
+| _a municipality that establishes a program under this subchapter_  
+| _may:_  
+|  _(1)_ _____with the consent of the attorney representing the_  
+| _state, allow for referral to the program of arrested persons_  
+| _described by Subsection (a) who have not yet been formally charged_  
+| _with an offense;_  
+|  _(2)_ _____adopt administrative rules and local rules of_  
+| _procedure as necessary or appropriate to implement or operate the_  
+| _program; and_  
+|  _(3)_ _____approve additional program requirements as_  
+| _recommended by the attorney representing the state._  
+|  _Art._ ___56.22._ _____PROGRAM._ ___(a)_ ___A pretrial victim-offender_  
+| _mediation program established under Article 56.21 on or after_  
+| _September 1, 2019, must require:_  
+|  _(1)_ _____the designation of individual defendants who are_  
+| _eligible to participate in the program, based on standards_  
+| _established by Article 56.21 and any local standards approved by_  
+| _the commissioners court of the county or the governing body of the_  
+| _municipality, as applicable;_  
+|  _(2)_ _____the attorney representing the state to consent to_  
+| _the referral of a defendant's matter to mediation under the_  
+| _program;_  
+|  _(3)_ _____the consent of the victim to be obtained and_  
+| _documented in the record of the court by the attorney representing_  
+| _the state before the case may proceed to pretrial victim-offender_  
+| _mediation; and_  
+|  _(4)_ _____the defendant to enter into a binding mediation_  
+| _agreement in accordance with Article 56.23 that requires the_  
+| _defendant to take responsibility for the defendant's actions and_  
+| _addresses the specific circumstances of the defendant's actions,_  
+| _which may:_  
+|  _(A) include an apology by the defendant; or_  
+|  _(B) require the defendant to:_  
+|  _(i) pay restitution to the victim;_  
+|  _(ii) perform community service; or_  
+|  _(iii)_ _____both pay restitution and perform_  
+| _community service._  
+|  _(b)_ _____A court that implements a pretrial victim-offender_  
+| _mediation program established before September 1, 2019, may elect_  
+| _to apply the provisions under Subsection (a) in implementing the_  
+| _program._  
+|  _(c)_ _____All communications made in a pretrial victim-offender_  
+| _mediation program are confidential and may not be introduced into_  
+| _evidence except in an open court proceeding instituted to determine_  
+| _the meaning of a mediation agreement._  
+|  _(d)_ _____A pretrial victim-offender mediation program may_  
+| _require the staff and other resources of pretrial services_  
+| _departments and community supervision and corrections departments_  
+| _to assist the court or the attorney representing the state in_  
+| _monitoring the defendant's compliance with a mediation agreement_  
+| _reached through the program._  
+|  _(e)_ _____A pretrial victim-offender mediation may be conducted_  
+| _by a court-appointed mediator who meets the training requirements_  
+| _provided by Sections 154.052(a) and (b), Civil Practice and_  
+| _Remedies Code, and has completed training in criminal justice_  
+| _mediation, or by any other appropriate person designated by the_  
+| _court._ ___Neither the attorney representing the state nor the_  
+| _attorney representing the defendant in the criminal action may_  
+| _serve as a mediator in the defendant's pretrial victim-offender_  
+| _mediation program._  
+|  _(f)_ _____If a defendant enters a pretrial victim-offender_  
+| _mediation program, the court may defer the proceedings without_  
+| _accepting a plea of guilty or nolo contendere or entering an_  
+| _adjudication of guilt._ ___The court may not require the defendant to_  
+| _admit guilt or enter a plea of guilty or nolo contendere to enter_  
+| _the program._  
+|  _(g)_ _____The case must be returned to the docket and proceed_  
+| _through the regular criminal justice system if:_  
+|  _(1)_ _____a pretrial victim-offender mediation does not_  
+| _result in a mediation agreement;_  
+|  _(2)_ _____the defendant fails to fulfill the terms of the_  
+| _mediation agreement successfully by the date specified in the_  
+| _mediation agreement; or_  
+|  _(3)_ _____the mediator determines, based on the mediator's_  
+| _training and experience, that:_  
+|  _(A)_ _____the victim or defendant no longer wants to_  
+| _participate or cooperate; or_  
+|  _(B) the mediation will be ineffective._  
+|  _(h)_ _____If a case is returned to the docket under Subsection_  
+| _(g), the defendant retains all of the rights that the defendant_  
+| _possessed before entering the pretrial victim-offender mediation_  
+| _program under this subchapter._ ___Notwithstanding any other law, for_  
+| _purposes of determining the duration and expiration of an_  
+| _applicable statute of limitation under Chapter 12, the running of_  
+| _the period of limitation is tolled while the defendant is enrolled_  
+| _in a program under this subchapter._  
+|  _(i)_ _____If the defendant successfully completes the mediation_  
+| _agreement as represented to the court by the attorney representing_  
+| _the state, after notice to the attorney representing the state and a_  
+| _hearing at which the court determines that a dismissal of any_  
+| _indictment or information charging the defendant with the_  
+| _commission of the offense is in the best interest of justice, the_  
+| _court shall dismiss the criminal action against the defendant._  
+|  _(j)_ _____The court or the attorney representing the state may_  
+| _extend the initial compliance period granted to the defendant._  
+|  _(k)_ _____A determination by the court regarding whether the_  
+| _mediation agreement has been successfully completed is final and_  
+| _may not be appealed._  
+|  _(l)_ _____If the defendant is not arrested or convicted of a_  
+| _subsequent felony or misdemeanor other than a traffic offense_  
+| _punishable by fine only on or before the first anniversary of the_  
+| _date the defendant successfully completed a mediation agreement_  
+| _under this subchapter, on the motion of the defendant, the court_  
+| _shall enter an order of nondisclosure of criminal history record_  
+| _information under Subchapter E-1, Chapter 411, Government Code, as_  
+| _if the defendant had received a discharge and dismissal under_  
+| _Article 42A.111, with respect to all records and files related to_  
+| _the defendant's arrest for the offense for which the defendant_  
+| _entered the pretrial victim-offender mediation program._  
+|  _Art._ ___56.23._ _____MEDIATION AGREEMENT._ ___(a)_ ___A mediation_  
+| _agreement under this subchapter must be in writing and:_  
+|  _(1) signed by the defendant and the victim; and_  
+|  _(2)_ _____ratified by the attorney representing the state in_  
+| _the attorney's request for a court order to document and approve the_  
+| _mediation agreement for the record._  
+|  _(b)_ _____A mediation agreement may require testing, counseling,_  
+| _and treatment of the defendant to address alcohol abuse, abuse of_  
+| _controlled substances, mental health, or anger management or any_  
+| _other service that is reasonably related to the offense for which_  
+| _the defendant was arrested or charged._  
+|  _(c)_ _____A mediation agreement is not valid for more than one_  
+| _year after the date on which the mediation agreement is ratified_  
+| _unless the court and the attorney representing the state approve_  
+| _the extension of the agreement._  
+|  _(d)_ _____A mediation agreement under this subchapter does not_  
+| _constitute a plea or legal admission of responsibility._  
+|  _Art._ ___56.24._ _____LEGISLATIVE REVIEW. The lieutenant governor_  
+| _and the speaker of the house of representatives may assign to_  
+| _appropriate legislative committees interim duties relating to the_  
+| _study, review, and evaluation of pretrial victim-offender_  
+| _mediation programs established under this subchapter, and those_  
+| _committees may make recommendations to the legislature for_  
+| _appropriate policies to monitor, improve, or provide state_  
+| _resources for those programs._  
+|  _Art._ ___56.25._ _____LOCAL REVIEW._ ___The commissioners court of a_  
+| _county or governing body of a municipality may request a_  
+| _management, operations, or financial or accounting audit of a_  
+| _pretrial victim-offender mediation program established under this_  
+| _subchapter._  
+|  _Art._ ___56.26._ _____FEES. (a)_ ___A pretrial victim-offender_  
+| _mediation program established under this subchapter shall collect_  
+| _from a defendant in the program a reasonable program participation_  
+| _fee in an amount necessary to cover the costs of the program,_  
+| _including alcohol or controlled substance testing, counseling, and_  
+| _treatment, if such testing, counseling, or treatment is required by_  
+| _the mediation agreement._  
+|  _(b)_ _____Fees collected under this article may be paid on a_  
+| _periodic basis or on a deferred payment schedule at the discretion_  
+| _of the judge, magistrate, or program director administering the_  
+| _pretrial victim-offender mediation program. The fees must be:_  
+|  _(1) based on the defendant's ability to pay; and_  
+|  _(2) used only for purposes specific to the program._  
+|  _Art._ ___56.27._ _____NOTICE. The office of an attorney representing_  
+| _the state that participates in a pretrial victim-offender mediation_  
+| _program established under this subchapter shall notify the public_  
+| _by posting information about the program on the office's website._  
+|  SECTION 3. Subchapter A, Chapter 102, Code of Criminal  
+| Procedure, is amended by adding Article 102.0179 to read as  
+| follows:  
+|  _Art._ ___102.0179._ _____COSTS ATTENDANT TO PRETRIAL VICTIM-OFFENDER_  
+| _MEDIATION. (a)_ ___A defendant who participates in a pretrial_  
+| _victim-offender mediation program established under Subchapter_  
+| _A-1, Chapter 56, on successful completion of the terms of the_  
+| _defendant's mediation agreement or on conviction, shall pay as_  
+| _court costs $15 plus the program participation fee as described by_  
+| _Article 56.26._  
+|  _(b)_ _____The court clerk shall collect the costs imposed under_  
+| _this article. The clerk shall keep a separate record of any money_  
+| _collected under this article and shall pay any money collected to_  
+| _the county or municipal treasurer, as appropriate, or to any other_  
+| _official who discharges the duties commonly delegated to a_  
+| _treasurer, for deposit in a fund to be known as the county pretrial_  
+| _victim-offender mediation program fund or in a fund to be known as_  
+| _the municipal pretrial victim-offender mediation program fund, as_  
+| _appropriate._  
+|  _(c)_ _____A county or municipality that collects court costs under_  
+| _this article shall use the money in a fund described by Subsection_  
+| _(b) exclusively for the maintenance of the pretrial victim-offender_  
+| _mediation program operated in the county or municipality._  
+|  SECTION 4. Chapter 54, Family Code, is amended by adding  
+| Section 54.035 to read as follows:  
+|  _Sec._ ___54.035._ _____VICTIM-OFFENDER MEDIATION._ ___(a) The Texas_  
+| _Juvenile Justice Board by rule shall establish guidelines_  
+| _permitting victim-offender mediation programs to be implemented_  
+| _and administered by juvenile boards._  
+|  _(b)_ _____In a mediation program authorized under this section,_  
+| _each victim to whom this section applies must be informed of the_  
+| _victim's right to request victim-offender mediation._  
+|  _(c)_ _____Participation in a victim-offender mediation program_  
+| _under this section by a child and by a victim must be voluntary. If a_  
+| _child's case is forwarded to the office of the prosecuting attorney_  
+| _under Section 53.01, the prosecuting attorney must consent to the_  
+| _mediation in which the child may participate under the program._  
+|  _(d)_ _____If an agreement is not reached between the victim and_  
+| _the child or if the child does not successfully complete the terms_  
+| _of the agreement, as determined by the juvenile court, the child's_  
+| _case shall proceed in accordance with the applicable provisions of_  
+| _this title._  
+|  SECTION 5. Section 57.002(a), Family Code, is amended to  
+| read as follows:  
+|  (a) A victim, guardian of a victim, or close relative of a  
+| deceased victim is entitled to the following rights within the  
+| juvenile justice system:  
+|  (1) the right to receive from law enforcement agencies  
+| adequate protection from harm and threats of harm arising from  
+| cooperation with prosecution efforts;  
+|  (2) the right to have the court or person appointed by  
+| the court take the safety of the victim or the victim's family into  
+| consideration as an element in determining whether the child should  
+| be detained before the child's conduct is adjudicated;  
+|  (3) the right, if requested, to be informed of  
+| relevant court proceedings, including appellate proceedings, and  
+| to be informed in a timely manner if those court proceedings have  
+| been canceled or rescheduled;  
+|  (4) the right to be informed, when requested, by the  
+| court or a person appointed by the court concerning the procedures  
+| in the juvenile justice system, including general procedures  
+| relating to:  
+|  (A) the preliminary investigation and deferred  
+| prosecution of a case; and  
+|  (B) the appeal of the case;  
+|  (5) the right to provide pertinent information to a  
+| juvenile court conducting a disposition hearing concerning the  
+| impact of the offense on the victim and the victim's family by  
+| testimony, written statement, or any other manner before the court  
+| renders its disposition;  
+|  (6) the right to receive information regarding  
+| compensation to victims as provided by Subchapter B, Chapter 56,  
+| Code of Criminal Procedure, including information related to the  
+| costs that may be compensated under that subchapter and the amount  
+| of compensation, eligibility for compensation, and procedures for  
+| application for compensation under that subchapter, the payment of  
+| medical expenses under _Article_ [ ~~Section~~ ] 56.06, Code of Criminal  
+| Procedure, for a victim of a sexual assault, and when requested, to  
+| referral to available social service agencies that may offer  
+| additional assistance;  
+|  (7) the right to be informed, upon request, of  
+| procedures for release under supervision or transfer of the person  
+| to the custody of the Texas Department of Criminal Justice for  
+| parole, to participate in the release or transfer for parole  
+| process, to be notified, if requested, of the person's release,  
+| escape, or transfer for parole proceedings concerning the person,  
+| to provide to the Texas Juvenile Justice Department for inclusion  
+| in the person's file information to be considered by the department  
+| before the release under supervision or transfer for parole of the  
+| person, and to be notified, if requested, of the person's release or  
+| transfer for parole;  
+|  (8) the right to be provided with a waiting area,  
+| separate or secure from other witnesses, including the child  
+| alleged to have committed the conduct and relatives of the child,  
+| before testifying in any proceeding concerning the child, or, if a  
+| separate waiting area is not available, other safeguards should be  
+| taken to minimize the victim's contact with the child and the  
+| child's relatives and witnesses, before and during court  
+| proceedings;  
+|  (9) the right to prompt return of any property of the  
+| victim that is held by a law enforcement agency or the attorney for  
+| the state as evidence when the property is no longer required for  
+| that purpose;  
+|  (10) the right to have the attorney for the state  
+| notify the employer of the victim, if requested, of the necessity of  
+| the victim's cooperation and testimony in a proceeding that may  
+| necessitate the absence of the victim from work for good cause;  
+|  (11) the right to be present at all public court  
+| proceedings related to the conduct of the child as provided by  
+| Section 54.08, subject to that section; [ ~~and~~ ]  
+|  (12) _for a victim to whom Section 54.035 applies, the_  
+| _right to request victim-offender mediation under that section; and_  
+|  _(13)_ any other right appropriate to the victim that a  
+| victim of criminal conduct has under Article 56.02 or 56.021, Code  
+| of Criminal Procedure.  
+|  SECTION 6. Subchapter C-1, Chapter 58, Family Code, is  
+| amended by adding Section 58.2561 to read as follows:  
+|  _Sec._ ___58.2561._ _____SEALING RECORDS ON COMPLETION OF_  
+| _VICTIM-OFFENDER MEDIATION PROGRAM._ ___(a)_ ___Notwithstanding Sections_  
+| _58.253 and 58.255 and subject to Section 58.256(d), a juvenile_  
+| _court may order the sealing of records concerning a child alleged to_  
+| _have engaged in delinquent conduct or conduct indicating a need for_  
+| _supervision if the child successfully completed a victim-offender_  
+| _mediation program under Section 54.035._ ___The court may:_  
+|  _(1)_ _____immediately order the sealing of the records_  
+| _without a hearing; or_  
+|  _(2)_ _____hold a hearing to determine whether to seal the_  
+| _records._  
+|  _(b)_ _____If the court orders the sealing of a child's records_  
+| _under Subsection (a), a prosecuting attorney or juvenile probation_  
+| _department may maintain until the child's 17th birthday a separate_  
+| _record of the child's name and date of birth, the allegation against_  
+| _the child, and the date the child successfully completed the_  
+| _victim-offender mediation program._ ___The prosecuting attorney or_  
+| _juvenile probation department, as applicable, shall send the record_  
+| _to the court as soon as practicable after the child's 17th birthday_  
+| _to be added to the child's other sealed records._  
+|  SECTION 7. Subchapter B, Chapter 102, Government Code, is  
+| amended by adding Section 102.0215 to read as follows:  
+|  _Sec._ ___102.0215._ _____ADDITIONAL COURT COSTS: CODE OF CRIMINAL_  
+| _PROCEDURE. A defendant who participates in a pretrial_  
+| _victim-offender mediation program established under Subchapter_  
+| _A-1, Chapter 56, Code of Criminal Procedure, shall pay on_  
+| _successful completion of the terms of the defendant's mediation_  
+| _agreement or on conviction, in addition to all other costs, to help_  
+| _fund pretrial victim-offender mediation programs established under_  
+| _that subchapter (Art. 102.0179, Code of Criminal Procedure) ._ ___._ ___._  
+| _$15 plus an additional program participation fee in an amount_  
+| _necessary to cover the costs of the program._  
+|  SECTION 8. Subchapter A, Chapter 221, Human Resources Code,  
+| is amended by adding Section 221.013 to read as follows:  
+|  _Sec._ ___221.013._ _____MEDIATION MONITORING. The department shall_  
+| _monitor the success of victim-offender mediation programs_  
+| _established under Section 54.035, Family Code._  
+|  SECTION 9. (a)  Subchapter A-1, Chapter 56, Code of Criminal  
+| Procedure, as added by this Act, applies to a defendant who enters a  
+| pretrial victim-offender mediation program under that subchapter  
+| regardless of whether the defendant committed the offense for which  
+| the defendant enters the program before, on, or after the effective  
+| date of this Act.  
+|  (b) Article 102.0179, Code of Criminal Procedure, and  
+| Section 102.0215, Government Code, as added by this Act, apply only  
+| to an offense committed on or after the effective date of this Act.  
+| An offense committed before the effective date of this Act is  
+| governed by the law in effect on the date the offense was committed,  
+| and the former law is continued in effect for that purpose. For  
+| purposes of this subsection, an offense was committed before the  
+| effective date of this Act if any element of the offense was  
+| committed before that date.  
+|  SECTION 10. (a)  Not later than December 1, 2019, the Texas  
+| Juvenile Justice Board shall establish guidelines for  
+| victim-offender mediation programs as required by Section 54.035,  
+| Family Code, as added by this Act.  
+|  (b) Section 54.035, Family Code, as added by this Act,  
+| applies only to a victim-offender mediation under that section that  
+| occurs on or after January 1, 2020, regardless of whether the  
+| conduct that is the basis of the mediation occurs before, on, or  
+| after that date.  
+|  SECTION 11. This Act takes effect September 1, 2019.
+

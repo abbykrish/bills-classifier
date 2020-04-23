@@ -1,0 +1,30 @@
+|  
+---|---  
+|  By: Dutton | H.B. No. 4035  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to technical corrections for certain children.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 101, Family Code, is amended by striking  
+| Subsection 101.003(c) and amending Subsections 101.003(c) and  
+| adding 101.003(d) to read as follows:  
+|  Sec. 101.003. CHILD OR MINOR; ADULT.  
+|  (a) "Child" or "minor" means a person under 18 years of age  
+| who is not and has not been married or who has not had the  
+| disabilities of minority removed for general purposes.  
+|  (b) In the context of child support, "child" includes a  
+| person over 18 years of age for whom a person may be obligated to pay  
+| child support.  
+|  ~~(c) "Adult" means a person who is not a child.~~  
+|  _(c)_ _____DEPENDENT ON THE COURT. A child under (a) or (b) is_  
+| _"Dependent on the Court" if a court has asserted jurisdiction under_  
+| _this Title and entered orders concerning conservatorship, support,_  
+| _or parental access after December 23, 2008._  
+|  _(d). "Adult" means a person who is not a child._  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

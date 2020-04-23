@@ -1,0 +1,85 @@
+| 86R11417 JSC-D  
+---|---  
+|  By: Hinojosa | H.B. No. 3801  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to authorizing a petitioner for a protective order to  
+| separate the petitioner's wireless telephone number from the  
+| respondent's wireless telephone service account.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 85, Family Code, is  
+| amended by adding Section 85.0225 to read as follows:  
+|  _Sec._ ___85.0225._ _____SEPARATION OF WIRELESS TELEPHONE ACCOUNT._  
+| _(a)_ ___A petitioner who is the primary user of a wireless telephone_  
+| _number associated with the respondent's wireless telephone service_  
+| _account may submit to the court that renders a protective order for_  
+| _the petitioner under this chapter a request for the court to order:_  
+|  _(1)_ _____the separation of that wireless telephone number_  
+| _from the respondent's wireless telephone service account; and_  
+|  _(2)_ _____if applicable, the separation of each wireless_  
+| _telephone number primarily used by a child in the petitioner's care_  
+| _or custody._  
+|  _(b)_ _____The request must include each telephone number for which_  
+| _the petitioner requests separation._  
+|  _(c)_ _____If the petitioner shows by a preponderance of the_  
+| _evidence that for each wireless telephone number listed in the_  
+| _request the petitioner or, if applicable, a child in the_  
+| _petitioner's care or custody is the primary user, the court shall_  
+| _render a separate order directing the wireless telephone service_  
+| _provider to transfer the billing responsibility and rights to each_  
+| _listed wireless telephone number to the petitioner._  
+|  _(d) The order under Subsection (c) must include:_  
+|  _(1)_ _____the name and billing telephone number of the_  
+| _account holder;_  
+|  _(2)_ _____each wireless telephone number to be transferred;_  
+| _and_  
+|  _(3)_ _____a statement requiring the wireless telephone_  
+| _service provider to transfer to the petitioner all financial_  
+| _responsibility for and the right to use each wireless telephone_  
+| _number transferred._  
+|  _(e)_ _____For purposes of Subsection (d)(3), financial_  
+| _responsibility includes the monthly service costs associated with_  
+| _any mobile device associated with the wireless telephone number._  
+|  SECTION 2. Title 12, Business & Commerce Code, is amended by  
+| adding Chapter 607 to read as follows:  
+| _CHAPTER 607. SEPARATION OF WIRELESS TELEPHONE SERVICE ACCOUNTS_  
+|  _Sec._ ___607.001._ _____SEPARATION BY COURT ORDER. (a)_ ___On receipt of_  
+| _a court order issued under Section 85.0225, Family Code, a wireless_  
+| _telephone service provider shall:_  
+|  _(1)_ _____terminate the named account holder's use of each_  
+| _telephone number listed in the order; and_  
+|  _(2)_ _____transfer to the petitioner named in the order the_  
+| _use of each telephone number listed in the order._  
+|  _(b)_ _____A wireless telephone service provider is not required to_  
+| _complete the transfer described by Subsection (a) if, not later_  
+| _than 72 hours after receiving the court order, the provider_  
+| _notifies the petitioner that:_  
+|  _(1)_ _____the account holder named in the order has_  
+| _terminated the account;_  
+|  _(2)_ _____a difference in network technology would prevent_  
+| _or impair the functionality of a device on a network if the transfer_  
+| _occurs;_  
+|  _(3)_ _____the transfer would cause a geographic or other_  
+| _limitation on the network or service provision to the petitioner;_  
+| _or_  
+|  _(4)_ _____another technological or operational issue would_  
+| _prevent or impair the use of the wireless telephone number if the_  
+| _transfer occurs._  
+|  _(c)_ _____A wireless telephone service provider may charge the_  
+| _petitioner routine and customary fees and impose routine and_  
+| _customary requirements for establishing a wireless telephone_  
+| _service account or for transferring a wireless telephone number,_  
+| _including requiring the petitioner to provide proof of_  
+| _identification, financial information, and customer references._  
+| _The provider may not impose a penalty for early termination of a_  
+| _contract in connection with separating an account under this_  
+| _section._  
+|  _(d)_ _____A wireless telephone service provider is not subject to_  
+| _civil liability for actions taken under this section as required by_  
+| _a court order issued under Section 85.0225, Family Code._  
+|  SECTION 3. The change in law made by this Act applies only  
+| to a petition for a protective order filed on or after the effective  
+| date of this Act.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

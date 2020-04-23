@@ -1,0 +1,368 @@
+| 86R70 CJC-D  
+---|---  
+|  By: Geren | H.B. No. 322  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment of a limitation on the total amount of  
+| ad valorem taxes that taxing units may impose on the residence  
+| homesteads of individuals who are disabled or elderly and their  
+| surviving spouses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Section 11.26, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 11.26. LIMITATION OF _TAXES_ [ ~~SCHOOL TAX~~ ] ON HOMESTEADS  
+| OF _INDIVIDUALS WHO ARE_ ELDERLY OR DISABLED.  
+|  SECTION 2. Sections 11.26(a), (a-1), (a-2), (a-3), (b),  
+| (c), (e), (g), (h), (i), (j), (k), and (o), Tax Code, are amended to  
+| read as follows:  
+|  (a) The tax officials shall appraise [ ~~the~~ ] property to which  
+| this section applies and calculate taxes as on other property, but  
+| if the tax [ ~~so~~ ] calculated exceeds the limitation imposed by this  
+| section, the tax imposed is the amount of the tax as limited by this  
+| section, except as otherwise provided by this section. A _taxing_  
+| _unit_ [ ~~school district~~ ] may not increase the total annual amount of  
+| ad valorem tax it imposes on the residence homestead of an  
+| individual 65 years of age or older or on the residence homestead of  
+| an individual who is disabled, as defined by Section 11.13, above  
+| the amount of the tax it imposed in the first tax year in which the  
+| individual qualified that residence homestead for the applicable  
+| exemption provided by Section 11.13(c) for an individual who is 65  
+| years of age or older or is disabled. If the individual qualified  
+| that residence homestead for the exemption after the beginning of  
+| that first year and the residence homestead remains eligible for  
+| the same exemption for the next year, and if the [ ~~school district~~ ]  
+| taxes imposed _by a taxing unit_ on the residence homestead in the  
+| next year are less than the amount of _those_ taxes imposed in that  
+| first year, _the taxing unit_ [ ~~a school district~~ ] may not  
+| subsequently increase the total annual amount of ad valorem taxes  
+| it imposes on the residence homestead above the amount it imposed in  
+| the year immediately following the first year for which the  
+| individual qualified that residence homestead for the same  
+| exemption, except as provided by Subsection (b). [ ~~If the first tax~~  
+|  ~~year the individual qualified the residence homestead for the~~  
+|  ~~exemption provided by Section 11.13(c) for individuals 65 years of~~  
+|  ~~age or older or disabled was a tax year before the 2015 tax year, the~~  
+|  ~~amount of the limitation provided by this section is the amount of~~  
+|  ~~tax the school district imposed for the 2014 tax year less an amount~~  
+|  ~~equal to the amount determined by multiplying $10,000 times the tax~~  
+|  ~~rate of the school district for the 2015 tax year, plus any 2015 tax~~  
+|  ~~attributable to improvements made in 2014, other than improvements~~  
+|  ~~made to comply with governmental regulations or repairs.~~ ]  
+|  (a-1) _If the first tax year the individual qualified the_  
+| _residence homestead for the exemption provided by Section 11.13(c)_  
+| _for individuals 65 years of age or older or disabled was a tax year_  
+| _before the 2020 tax year, the amount of the limitation on school_  
+| _district taxes provided by this section is the amount of those taxes_  
+| _imposed for the 2019 tax year plus any 2020 tax attributable to_  
+| _improvements made in 2019, other than improvements made to comply_  
+| _with governmental regulations or repairs_ [ ~~Notwithstanding the~~  
+|  ~~other provisions of this section, if in the 2007 tax year an~~  
+|  ~~individual qualifies for a limitation on tax increases provided by~~  
+|  ~~this section on the individual's residence homestead and the first~~  
+|  ~~tax year the individual or the individual's spouse qualified for an~~  
+|  ~~exemption under Section 11.13(c) for the same homestead was the~~  
+|  ~~2006 tax year, the amount of the limitation provided by this section~~  
+|  ~~on the homestead in the 2007 tax year is equal to the amount~~  
+|  ~~computed by:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~multiplying the amount of tax the school district~~  
+|  ~~imposed on the homestead in the 2006 tax year by a fraction the~~  
+|  ~~numerator of which is the tax rate of the district for the 2007 tax~~  
+|  ~~year and the denominator of which is the tax rate of the district~~  
+|  ~~for the 2006 tax year; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~adding any tax imposed in the 2007 tax year~~  
+|  ~~attributable to improvements made in the 2006 tax year as provided~~  
+|  ~~by Subsection (b) to the lesser of the amount computed under~~  
+|  ~~Subdivision (1) or the amount of tax the district imposed on the~~  
+|  ~~homestead in the 2006 tax year~~ ].  
+|  (a-2) _If the first tax year the individual qualified the_  
+| _residence homestead for the exemption provided by Section 11.13(c)_  
+| _for individuals 65 years of age or older or disabled was a tax year_  
+| _before the 2020 tax year and the homestead qualified for a_  
+| _limitation on county, municipal, or junior college district taxes_  
+| _under former Section 11.261, the amount of the limitation on_  
+| _county, municipal, or junior college district taxes, as applicable,_  
+| _provided by this section is the amount of the tax imposed by the_  
+| _applicable taxing unit for the 2019 tax year, plus any 2020 tax_  
+| _attributable to improvements made in 2019, other than improvements_  
+| _made to comply with governmental regulations or repairs_  
+| [ ~~Notwithstanding the other provisions of this section, if in the~~  
+|  ~~2007 tax year an individual qualifies for a limitation on tax~~  
+|  ~~increases provided by this section on the individual's residence~~  
+|  ~~homestead and the first tax year the individual or the individual's~~  
+|  ~~spouse qualified for an exemption under Section 11.13(c) for the~~  
+|  ~~same homestead was a tax year before the 2006 tax year, the amount~~  
+|  ~~of the limitation provided by this section on the homestead in the~~  
+|  ~~2007 tax year is equal to the amount computed by:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~multiplying the amount of tax the school district~~  
+|  ~~imposed on the homestead in the 2005 tax year by a fraction the~~  
+|  ~~numerator of which is the tax rate of the district for the 2006 tax~~  
+|  ~~year and the denominator of which is the tax rate of the district~~  
+|  ~~for the 2005 tax year;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~adding any tax imposed in the 2006 tax year~~  
+|  ~~attributable to improvements made in the 2005 tax year as provided~~  
+|  ~~by Subsection (b) to the lesser of the amount computed under~~  
+|  ~~Subdivision (1) or the amount of tax the district imposed on the~~  
+|  ~~homestead in the 2005 tax year;~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~multiplying the amount computed under~~  
+|  ~~Subdivision (2) by a fraction the numerator of which is the tax rate~~  
+|  ~~of the district for the 2007 tax year and the denominator of which~~  
+|  ~~is the tax rate of the district for the 2006 tax year; and~~  
+|  [ ~~(4)~~ ~~~~ ~~~~ ~~adding to the lesser of the amount computed under~~  
+|  ~~Subdivision (2) or (3) any tax imposed in the 2007 tax year~~  
+|  ~~attributable to improvements made in the 2006 tax year, as provided~~  
+|  ~~by Subsection (b)~~ ].  
+|  (a-3) Except as provided by Subsection _(a-2), for the_  
+| _purpose of calculating a limitation on tax increases by a taxing_  
+| _unit other than a school district under this section, an individual_  
+| _who qualified a residence homestead before January 1, 2020, for an_  
+| _exemption under Section 11.13(c) for individuals 65 years of age or_  
+| _older or disabled is considered to have qualified the homestead for_  
+| _that exemption on January 1, 2020_ [ ~~(b), a limitation on tax~~  
+|  ~~increases provided by this section on a residence homestead~~  
+|  ~~computed under Subsection (a-1) or (a-2) continues to apply to the~~  
+|  ~~homestead in subsequent tax years until the limitation expires~~ ].  
+|  (b) If an individual makes improvements to the individual's  
+| residence homestead, other than improvements required to comply  
+| with governmental requirements or repairs, _a taxing unit_ [ ~~the~~  
+|  ~~school district~~ ] may increase the tax on the homestead in the first  
+| year the value of the homestead is increased on the appraisal roll  
+| because of the enhancement of value by the improvements. The amount  
+| of the tax increase is determined by applying the _taxing unit's_  
+| current tax rate to the difference in the assessed value of the  
+| homestead with the improvements and the assessed value it would  
+| have had without the improvements. A limitation _under_ [ ~~imposed by~~ ]  
+| this section [ ~~then~~ ] applies to the increased amount of tax _in_  
+| _subsequent tax years_ until more improvements, if any, are made.  
+|  (c) The limitation on tax increases required by this section  
+| expires if on January 1:  
+|  (1) none of the owners of the structure who qualify for  
+| the exemption _under Section 11.13(c) for individuals 65 years of_  
+| _age or older or disabled_ and who owned the structure when the  
+| limitation first took effect is using the structure as a residence  
+| homestead; or  
+|  (2) none of the owners of the structure qualifies for  
+| the exemption _described by Subdivision (1)_.  
+|  (e) For each school district _participating_ in an appraisal  
+| district, the chief appraiser shall determine the portion of the  
+| appraised value of residence homesteads of individuals on which  
+| school district taxes are not imposed in a tax year because of the  
+| limitation on tax increases imposed by this section. That portion  
+| is calculated by determining the taxable value that, if multiplied  
+| by the tax rate adopted by the school district for the tax year,  
+| would produce an amount equal to the amount of tax that would have  
+| been imposed by the school district on those residence homesteads  
+| if the limitation on tax increases imposed by this section were not  
+| in effect, but that was not imposed because of that limitation. The  
+| chief appraiser shall determine that taxable value and certify it  
+| to the comptroller as soon as practicable for each tax year.  
+|  (g) Except as provided by Subsection (b), if an individual  
+| who receives a limitation on tax increases imposed by this section,  
+| including a surviving spouse who receives a limitation under  
+| Subsection (i), subsequently qualifies a different residence  
+| homestead for the same exemption under Section 11.13, a _taxing unit_  
+| [ ~~school district~~ ] may not impose ad valorem taxes on the  
+| subsequently qualified homestead in a year in an amount that  
+| exceeds the amount of taxes the _taxing unit_ [ ~~school district~~ ] would  
+| have imposed on the subsequently qualified homestead in the first  
+| year in which the individual receives that same exemption for the  
+| subsequently qualified homestead had the limitation on tax  
+| increases imposed by this section not been in effect, multiplied by  
+| a fraction the numerator of which is the total amount of [ ~~school~~  
+|  ~~district~~ ] taxes imposed _by a taxing unit of the same type_ on the  
+| former homestead in the last year in which the individual received  
+| that same exemption for the former homestead and the denominator of  
+| which is the total amount of [ ~~school district~~ ] taxes that would have  
+| been imposed _by the taxing unit of the same type_ on the former  
+| homestead in the last year in which the individual received that  
+| same exemption for the former homestead had the limitation on tax  
+| increases imposed by this section not been in effect. _A limitation_  
+| _under this subsection does not apply to a taxing unit if the former_  
+| _homestead was not subject to taxation by a taxing unit of the same_  
+| _type in the last year in which the individual received the exemption_  
+| _for the former homestead._  
+|  (h) An individual who receives a limitation on tax increases  
+| under this section, including a surviving spouse who receives a  
+| limitation under Subsection (i), and who subsequently qualifies a  
+| different residence homestead for an exemption under Section 11.13,  
+| or an agent of the individual, is entitled to receive from the chief  
+| appraiser of the appraisal district in which the former homestead  
+| was located a written certificate providing the information  
+| necessary to determine whether the individual may qualify for that  
+| same limitation on the subsequently qualified homestead under  
+| Subsection (g) and to calculate the amount of taxes the _taxing units_  
+| [ ~~school district~~ ] may impose on the subsequently qualified  
+| homestead.  
+|  (i) If an individual who _receives a limitation on tax_  
+| _increases under this section_ [ ~~qualifies for the exemption provided~~  
+|  ~~by Section 11.13(c) for an individual 65 years of age or older~~ ]  
+| dies, the surviving spouse of the individual is entitled to the  
+| limitation applicable to the residence homestead of the individual  
+| if:  
+|  (1) the surviving spouse is 55 years of age or older _or_  
+| _disabled_ when the individual dies; and  
+|  (2) the residence homestead of the individual:  
+|  (A) is the residence homestead of the surviving  
+| spouse on the date that the individual dies; and  
+|  (B) remains the residence homestead of the  
+| surviving spouse.  
+|  (j) If an individual who qualifies for an exemption provided  
+| by Section 11.13(c) for an individual 65 years of age or older dies  
+| in the first year in which the individual qualified for the  
+| exemption and the individual first qualified for the exemption  
+| after the beginning of that year, except as provided by Subsection  
+| (k), the amount to which the surviving spouse's [ ~~school district~~ ]  
+| taxes _imposed by a taxing unit_ are limited under Subsection (i) is  
+| the amount of [ ~~school district~~ ] taxes imposed _by the taxing unit_ on  
+| the residence homestead in that year determined as if the  
+| individual qualifying for the exemption had lived for the entire  
+| year.  
+|  (k) If in the first tax year after the year in which an  
+| individual dies in the circumstances described by Subsection (j)  
+| the amount of [ ~~school district~~ ] taxes imposed _by a taxing unit_ on  
+| the residence homestead of the surviving spouse is less than the  
+| amount of [ ~~school district~~ ] taxes imposed _by the taxing unit_ in the  
+| preceding year as limited by Subsection (j), in a subsequent tax  
+| year the [ ~~surviving spouse's school district~~ ] taxes _imposed by that_  
+| _taxing unit_ on that residence homestead are limited to the amount of  
+| taxes imposed by the district in that first tax year after the year  
+| in which the individual dies.  
+|  (o) Notwithstanding Subsections (a)[ ~~, (a-3),~~ ] and (b), an  
+| improvement to property that would otherwise constitute an  
+| improvement under Subsection (b) is not treated as an improvement  
+| under that subsection if the improvement is a replacement structure  
+| for a structure that was rendered uninhabitable or unusable by a  
+| casualty or by wind or water damage. For purposes of appraising the  
+| property in the tax year in which the structure would have  
+| constituted an improvement under Subsection (b), the replacement  
+| structure is considered to be an improvement under that subsection  
+| only if:  
+|  (1) the square footage of the replacement structure  
+| exceeds that of the replaced structure as that structure existed  
+| before the casualty or damage occurred; or  
+|  (2) the exterior of the replacement structure is of  
+| higher quality construction and composition than that of the  
+| replaced structure.  
+|  SECTION 3. Sections 23.19(b) and (g), Tax Code, are amended  
+| to read as follows:  
+|  (b) If an appraisal district receives a written request for  
+| the appraisal of real property and improvements of a cooperative  
+| housing corporation according to the separate interests of the  
+| corporation's stockholders, the chief appraiser shall separately  
+| appraise the interests described by Subsection (d) if the  
+| conditions required by Subsections (e) and (f) have been met.  
+| Separate appraisal under this section is for the purposes of  
+| administration of tax exemptions, determination of applicable  
+| limitations of taxes under Section 11.26 [ ~~or 11.261~~ ], and  
+| apportionment by a cooperative housing corporation of property  
+| taxes among its stockholders but is not the basis for determining  
+| value on which a tax is imposed under this title. A stockholder  
+| whose interest is separately appraised under this section may  
+| protest and appeal the appraised value in the manner provided by  
+| this title for protest and appeal of the appraised value of other  
+| property.  
+|  (g) A tax bill or a separate statement accompanying the tax  
+| bill to a cooperative housing corporation for which interests of  
+| stockholders are separately appraised under this section must  
+| state, in addition to the information required by Section 31.01,  
+| the appraised value and taxable value of each interest separately  
+| appraised. Each exemption claimed as provided by this title by a  
+| person entitled to the exemption shall also be deducted from the  
+| total appraised value of the property of the corporation. The total  
+| tax imposed by a _taxing unit_ [ ~~school district, county,~~  
+|  ~~municipality, or junior college district~~ ] shall be reduced by any  
+| amount that represents an increase in taxes attributable to  
+| separately appraised interests of the real property and  
+| improvements that are subject to _a_ [ ~~the~~ ] limitation of taxes  
+| prescribed by Section 11.26 [ ~~or 11.261~~ ]. The corporation shall  
+| apportion among its stockholders liability for reimbursing the  
+| corporation for property taxes according to the relative taxable  
+| values of their interests.  
+|  SECTION 4. Sections 26.012(6), (13), and (14), Tax Code,  
+| are amended to read as follows:  
+|  (6) "Current total value" means the total taxable  
+| value of property listed on the appraisal roll for the current year,  
+| including all appraisal roll supplements and corrections as of the  
+| date of the calculation, less the taxable value of property  
+| exempted for the current tax year for the first time under Section  
+| 11.31 or 11.315, except that:  
+|  (A) the current total value for a school district  
+| excludes:  
+|  (i) the total value of homesteads that  
+| qualify for a tax limitation as provided by Section 11.26; and  
+|  (ii) new property value of property that is  
+| subject to an agreement entered into under Chapter 313; and  
+|  (B) the current total value for a _taxing unit_  
+| _other than a school district_ [ ~~county, municipality, or junior~~  
+|  ~~college district~~ ] excludes the total value of homesteads that  
+| qualify for a tax limitation provided by Section _11.26_ [ ~~11.261~~ ].  
+|  (13) "Last year's levy" means the total of:  
+|  (A) the amount of taxes that would be generated  
+| by multiplying the total tax rate adopted by the governing body in  
+| the preceding year by the total taxable value of property on the  
+| appraisal roll for the preceding year, including:  
+|  (i) taxable value that was reduced in an  
+| appeal under Chapter 42; and  
+|  (ii) all appraisal roll supplements and  
+| corrections other than corrections made pursuant to Section  
+| 25.25(d), as of the date of the calculation _but excluding_ [ ~~, except~~  
+|  ~~that last year's taxable value for a school district excludes~~ ] the  
+| total value of homesteads that qualified for a tax limitation as  
+| provided by Section 11.26 [ ~~and last year's taxable value for a~~  
+|  ~~county, municipality, or junior college district excludes the total~~  
+|  ~~value of homesteads that qualified for a tax limitation as provided~~  
+|  ~~by Section 11.261~~ ]; and  
+|  (B) the amount of taxes refunded by the taxing  
+| unit in the preceding year for tax years before that year.  
+|  (14) "Last year's total value" means the total taxable  
+| value of property listed on the appraisal roll for the preceding  
+| year, including all appraisal roll supplements and corrections,  
+| other than corrections made pursuant to Section 25.25(d), as of the  
+| date of the calculation _but excluding_ [ ~~, except that:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~last year's taxable value for a school~~  
+|  ~~district excludes~~ ] the total value of homesteads that qualified for  
+| a tax limitation as provided by Section 11.26[ ~~; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~last year's taxable value for a county,~~  
+|  ~~municipality, or junior college district excludes the total value~~  
+|  ~~of homesteads that qualified for a tax limitation as provided by~~  
+|  ~~Section 11.261~~ ].  
+|  SECTION 5. Section 42.302(a-1), Education Code, is amended  
+| to read as follows:  
+|  (a-1) For purposes of Subsection (a), the dollar amount  
+| guaranteed level of state and local funds per weighted student per  
+| cent of tax effort ("GL") for a school district is:  
+|  (1) the greater of the amount of district tax revenue  
+| per weighted student per cent of tax effort that would be available  
+| to the Austin Independent School District, as determined by the  
+| commissioner in cooperation with the Legislative Budget Board, if  
+| the reduction of the limitation on tax increases as provided by  
+| Section 11.26(a-1), (a-2), or (a-3), Tax Code, _as those provisions_  
+| _existed on January 1, 2019,_ did not apply, or the amount of district  
+| tax revenue per weighted student per cent of tax effort used for  
+| purposes of this subdivision in the preceding school year, for the  
+| first six cents by which the district's maintenance and operations  
+| tax rate exceeds the rate equal to the sum of the product of the  
+| state compression percentage, as determined under Section 42.2516,  
+| multiplied by the maintenance and operations tax rate adopted by  
+| the district for the 2005 tax year and any additional tax effort  
+| included in calculating the district's compressed tax rate under  
+| Section 42.101(a-1); and  
+|  (2) $31.95, for the district's maintenance and  
+| operations tax effort that exceeds the amount of tax effort  
+| described by Subdivision (1).  
+|  SECTION 6. The following provisions of the Tax Code are  
+| repealed:  
+|  (1) Sections 11.26(l) and (m); and  
+|  (2) Section 11.261.  
+|  SECTION 7. Section 11.26, Tax Code, as amended by this Act,  
+| applies only to ad valorem taxes imposed for a tax year beginning on  
+| or after the effective date of this Act.  
+|  SECTION 8. This Act takes effect January 1, 2020, but only  
+| if the constitutional amendment proposed by the 86th Legislature,  
+| Regular Session, 2019, establishing a limitation on the total  
+| amount of ad valorem taxes that political subdivisions may impose  
+| on the residence homesteads of individuals who are disabled or  
+| elderly and their surviving spouses is approved by the voters. If  
+| that constitutional amendment is not approved by the voters, this  
+| Act has no effect.
+

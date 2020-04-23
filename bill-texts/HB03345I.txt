@@ -1,0 +1,58 @@
+| 86R12278 PMO-F  
+---|---  
+|  By: Price | H.B. No. 3345  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to health benefit coverage provided by certain health  
+| benefit plans for telemedicine medical services and telehealth  
+| services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1455.001, Insurance Code, is amended by  
+| adding Subdivision (2-a) to read as follows:  
+|  _(2-a) "Platform" means the technology, system,_  
+| _software, application, modality, or other method through which a_  
+| _health professional remotely interfaces with a patient when_  
+| _providing a health care service or procedure as a telemedicine_  
+| _medical service or telehealth service._  
+|  SECTION 2. Section 1455.004, Insurance Code, is amended by  
+| amending Subsection (a) and adding Subsections (b-1) and (d) to  
+| read as follows:  
+|  (a) A health benefit plan _:_  
+|  _(1)_ _____must provide coverage for a covered health care_  
+| _service or procedure delivered by a preferred or contracted health_  
+| _professional to a covered patient as a telemedicine medical service_  
+| _or telehealth service on the same basis and to the same extent that_  
+| _the plan provides coverage for the service or procedure in an_  
+| _in-person setting; and_  
+|  _(2)_ may not _:_  
+|  _(A)_ exclude from coverage a covered health care  
+| service or procedure delivered by a preferred or contracted health  
+| professional to a covered patient as a telemedicine medical service  
+| or a telehealth service solely because the covered health care  
+| service or procedure is not provided through an in-person  
+| consultation _; and_  
+|  _(B)_ _____subject to Subsection (c), limit, deny, or_  
+| _reduce coverage for a covered health care service or procedure_  
+| _delivered as a telemedicine medical service or telehealth service_  
+| _based on the health professional's choice of platform for_  
+| _delivering the service or procedure_.  
+|  _(b-1)_ _____Subsection (b) does not authorize a health benefit_  
+| _plan to charge a separate deductible that applies only to a covered_  
+| _health care service or procedure delivered as a telemedicine_  
+| _medical service or telehealth service._  
+|  _(d)_ _____A health benefit plan may not impose an annual or_  
+| _lifetime maximum on coverage for covered health care services or_  
+| _procedures delivered as telemedicine medical services or_  
+| _telehealth services other than the annual or lifetime maximum, if_  
+| _any, that applies in the aggregate to all items and services and_  
+| _procedures covered under the plan._  
+|  SECTION 3. The changes to Section 1455.004, Insurance Code,  
+| as amended by this Act, apply only to a health benefit plan  
+| delivered, issued for delivery, or renewed on or after January 1,  
+| 2020\. A health benefit plan delivered, issued for delivery, or  
+| renewed before January 1, 2020, is governed by the law as it existed  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

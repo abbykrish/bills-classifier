@@ -1,0 +1,28 @@
+| 86R13501 JXC-F  
+---|---  
+|  By: Zwiener | H.B. No. 3324  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to groundwater impact contingency planning by pipeline  
+| operators.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter J, Chapter 26, Water Code, is amended  
+| by adding Section 26.409 to read as follows:  
+|  _Sec._ ___26.409._ _____CONTINGENCY PLANNING FOR PIPELINES. (a) The_  
+| _commission by rule shall require the operator of a pipeline that is_  
+| _under the jurisdiction of the pipeline safety and regulatory_  
+| _program described by Section 81.071, Natural Resources Code, to_  
+| _submit to the commission a site-specific contingency plan that_  
+| _describes measures to be taken to control, contain, and collect any_  
+| _discharge of fluids from the pipeline to minimize impacts to_  
+| _groundwater in this state._  
+|  _(b)_ _____The commission may reject a plan submitted under_  
+| _Subsection (a), and require a new plan, if the commission_  
+| _determines that the submitted plan is insufficient to safeguard_  
+| _present and future groundwater supplies._  
+|  _(c)_ _____The commission shall send each plan accepted under this_  
+| _section to the Pipeline and Hazardous Materials Safety_  
+| _Administration or a successor agency._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

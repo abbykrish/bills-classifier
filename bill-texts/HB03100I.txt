@@ -1,0 +1,76 @@
+| 86R11233 SRS-D  
+---|---  
+|  By: Wray | H.B. No. 3100  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the confidentiality of certain registered voters.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.004(c), Election Code, is amended to  
+| read as follows:  
+|  (c) The following information furnished on a registration  
+| application is confidential and does not constitute public  
+| information for purposes of Chapter 552, Government Code:  
+|  (1) a social security number;  
+|  (2) a Texas driver's license number;  
+|  (3) a number of a personal identification card issued  
+| by the Department of Public Safety;  
+|  (4) an indication that an applicant is interested in  
+| working as an election judge;  
+|  (5) the residence address of the applicant, if the  
+| applicant is a federal judge or state judge, as defined by Section  
+| 13.0021, the spouse of a federal judge or state judge, _the spouse of_  
+| _a peace officer as defined by Article 2.12, Code of Criminal_  
+| _Procedure,_ or an individual to whom Section 552.1175, Government  
+| Code, applies and the applicant:  
+|  (A) included an affidavit with the registration  
+| application describing the applicant's status under this  
+| subdivision, including an affidavit under Section 13.0021 if the  
+| applicant is a federal judge or state judge or the spouse of a  
+| federal judge or state judge;  
+|  (B) provided the registrar with an affidavit  
+| describing the applicant's status under this subdivision,  
+| including an affidavit under Section 15.0215 if the applicant is a  
+| federal judge or state judge or the spouse of a federal judge or  
+| state judge; or  
+|  (C) provided the registrar with a completed form  
+| approved by the secretary of state for the purpose of notifying the  
+| registrar of the applicant's status under this subdivision;  
+|  (6) the residence address of the applicant, if the  
+| applicant, the applicant's child, or another person in the  
+| applicant's household is a victim of family violence as defined by  
+| Section 71.004, Family Code, who provided the registrar with:  
+|  (A) a copy of a protective order issued under  
+| Chapter 85, Family Code, or a magistrate's order for emergency  
+| protection issued under Article 17.292, Code of Criminal Procedure;  
+| or  
+|  (B) other independent documentary evidence  
+| necessary to show that the applicant, the applicant's child, or  
+| another person in the applicant's household is a victim of family  
+| violence;  
+|  (7) the residence address of the applicant, if the  
+| applicant, the applicant's child, or another person in the  
+| applicant's household is a victim of sexual assault or abuse,  
+| stalking, or trafficking of persons who provided the registrar  
+| with:  
+|  (A) a copy of a protective order issued under  
+| Chapter 7A or Article 6.09, Code of Criminal Procedure, or a  
+| magistrate's order for emergency protection issued under Article  
+| 17.292, Code of Criminal Procedure; or  
+|  (B) other independent documentary evidence  
+| necessary to show that the applicant, the applicant's child, or  
+| another person in the applicant's household is a victim of sexual  
+| assault or abuse, stalking, or trafficking of persons; or  
+|  (8) the residence address of the applicant, if the  
+| applicant:  
+|  (A) is a participant in the address  
+| confidentiality program administered by the attorney general under  
+| Subchapter C, Chapter 56, Code of Criminal Procedure; and  
+|  (B) provided the registrar with proof of  
+| certification under Article 56.84, Code of Criminal Procedure.  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

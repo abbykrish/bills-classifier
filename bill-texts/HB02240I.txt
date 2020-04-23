@@ -1,0 +1,53 @@
+| 86R3289 SMT-D  
+---|---  
+|  By: Murphy | H.B. No. 2240  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the payment of wages by an employer through a payroll  
+| card account.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 61.001, Labor Code, is amended by adding  
+| Subdivision (6-a) to read as follows:  
+|  _(6-a)_ _____"Payroll card account" means an account that is_  
+| _directly or indirectly established by an employer into which each_  
+| _participating employee's wages, salary, or other form of_  
+| _compensation is deposited on a recurring basis and for which the_  
+| _employee receives a payroll card to access the funds in the account._  
+|  SECTION 2. Section 61.016(a), Labor Code, is amended to  
+| read as follows:  
+|  (a) An employer shall pay wages to an employee:  
+|  (1) in United States currency;  
+|  (2) by a written instrument issued by the employer  
+| that is negotiable on demand at full face value for United States  
+| currency; or  
+|  (3) by the electronic transfer of funds _to:_  
+|  _(A) a bank account designated by the employee; or_  
+|  _(B)_ _____a payroll card account established by the_  
+| _employer_.  
+|  SECTION 3. Section 61.017, Labor Code, is amended by adding  
+| Subsection (d) to read as follows:  
+|  _(d)_ _____An employer may elect to pay wages to an employee_  
+| _through a payroll card account plan that uses electronic funds_  
+| _transfer to deposit wages in the employee's payroll card account._  
+| _An employer who desires to pay wages through a payroll card account_  
+| _shall:_  
+|  _(1)_ _____notify each affected employee in writing that the_  
+| _employer is adopting a payroll card account plan not later than:_  
+|  _(A)_ _____the 60th day before the date of the first_  
+| _electronic funds transfer to the payroll card account; or_  
+|  _(B)_ _____the first day of work for an employee hired_  
+| _after the date the employer adopts the plan;_  
+|  _(2)_ _____obtain from the employee any information required_  
+| _by the payroll card account issuer that is necessary to implement_  
+| _the electronic funds transfer;_  
+|  _(3)_ _____provide a complete list of all fees that may be_  
+| _deducted from the employee's payroll card account by the employer_  
+| _or payroll card account issuer in English, or, if the employer_  
+| _offers a payroll card account to an employee in a language other_  
+| _than English, in that other language; and_  
+|  _(4)_ _____provide a form the employee may use to request an_  
+| _alternate form of payment if the employee elects to opt out of the_  
+| _payroll card account plan._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

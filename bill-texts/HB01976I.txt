@@ -1,0 +1,37 @@
+| 86R11275 LED-F  
+---|---  
+|  By: Vo | H.B. No. 1976  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to liability for obtaining improper unemployment  
+| compensation benefits.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Section 214.002, Labor Code, is  
+| amended to read as follows:  
+|  Sec. 214.002. LIABILITY FOR [ ~~IMPROPERLY~~ ] OBTAINING  
+| _IMPROPER_ BENEFITS.  
+|  SECTION 2. Section 214.002(b), Labor Code, is amended to  
+| read as follows:  
+|  (b) In this section, "improper benefit" means _:_  
+|  _(1)_ the benefit obtained by a person:  
+|  _(A)_ [ ~~(1)~~ ] because of the nondisclosure or  
+| misrepresentation by the person or by another of a material fact,  
+| without regard to whether the nondisclosure or misrepresentation  
+| was known or fraudulent; and  
+|  _(B)_ [ ~~(2)~~ ] while:  
+|  _(i)_ [ ~~(A)~~ ] any condition imposed by this  
+| subtitle for the person's qualifying for the benefit was not  
+| fulfilled in the person's case; or  
+|  _(ii)_ [ ~~(B)~~ ] the person was disqualified from  
+| receiving benefits _; or_  
+|  _(2)_ _____the benefit obtained by a person because of_  
+| _commission error_.  
+|  SECTION 3. Section 214.002, Labor Code, as amended by this  
+| Act, applies only to a claim for unemployment compensation benefits  
+| filed with the Texas Workforce Commission on or after the effective  
+| date of this Act. A claim filed before the effective date of this  
+| Act is governed by the law in effect on the date the claim was filed,  
+| and the former law is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,101 @@
+| 86R877 KJE-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 557  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the protection of certain information from disclosure  
+| in suits affecting the parent-child relationship and to service of  
+| process in those suits on a party whose information is protected  
+| from disclosure.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 105.006(c), Family Code, is amended to  
+| read as follows:  
+|  (c) If a court finds after notice and hearing that requiring  
+| a party to provide the information required by this section to  
+| another party is likely to cause the child or a conservator  
+| harassment, abuse, serious harm, or injury, or to subject the child  
+| or a conservator to family violence, as defined by Section 71.004,  
+| the court may _omit the information from the final order and_ :  
+|  (1) order the information not to be disclosed to  
+| another party; or  
+|  (2) render any other order the court considers  
+| necessary.  
+|  SECTION 2. Subtitle A, Title 5, Family Code, is amended by  
+| adding Chapter 112 to read as follows:  
+| _CHAPTER 112. SERVICE OF PROCESS ON PARTY WHOSE INFORMATION IS_  
+| _PROTECTED FROM DISCLOSURE_  
+|  _Sec._ ___112.001._ _____UNAUTHORIZED DISCLOSURE OR DUPLICATION_  
+| _PROHIBITED; CONTEMPT._ ___(a)_ ___A party's information that is subject to_  
+| _an order of nondisclosure under Section 105.006(c) may be_  
+| _disclosed, copied, or otherwise duplicated only as provided by this_  
+| _chapter._  
+|  _(b)_ _____A person who violates the provisions of this chapter may_  
+| _be punished for contempt of court._  
+|  _Sec._ ___112.002._ _____REQUEST FOR DISCLOSURE. (a)_ ___A party who_  
+| _files any pleading seeking relief, including contempt, with respect_  
+| _to a final order under Section 105.006 against a party whose_  
+| _information is subject to an order of nondisclosure under Section_  
+| _105.006(c) may request disclosure of the other party's information_  
+| _to a person authorized to serve process under this chapter solely_  
+| _for purposes of notice and service of process._  
+|  _(b)_ _____A party requesting disclosure under Subsection (a) must_  
+| _state in writing that the party does not have information necessary_  
+| _to satisfy the due process requirements for notice and service of_  
+| _process to the other party._  
+|  _Sec._ ___112.003._ _____DISCLOSURE TO AUTHORIZED PERSON. (a)_ ___On_  
+| _receiving a request under Section 112.002, the clerk of the court_  
+| _shall provide to a person authorized to serve process under this_  
+| _chapter a written copy of the current residence address of the party_  
+| _whose information is subject to an order of nondisclosure under_  
+| _Section 105.006(c)._  
+|  _(b)_ _____The information may only be provided in person at the_  
+| _office of the clerk of the court._  
+|  _(c)_ _____If a citation is issued, the clerk of the court shall_  
+| _ensure that the respondent is identified on the citation by name_  
+| _only._  
+|  _Sec._ ___112.004._ _____PERSON AUTHORIZED TO SERVE PROCESS._  
+| _Notwithstanding any other law, a party to the suit or other filing_  
+| _is not authorized to serve process under this chapter._  
+|  _Sec._ ___112.005._ _____RETURN OF SERVICE. (a)_ ___The person who serves_  
+| _process under this chapter shall document that process was served_  
+| _by stating on the return of service that the respondent was served_  
+| _at "the residence address in the clerk's data sheet" or a similar_  
+| _statement. The statement satisfies the requirement of Rule_  
+| _107(b)(6), Texas Rules of Civil Procedure._  
+|  _(b)_ _____The person who serves process must return to the clerk_  
+| _of the court the copy of the information provided under Section_  
+| _112.003(a) with the return of service._  
+|  _(c)_ _____On receipt of the copy of the information provided under_  
+| _Section 112.003(a), the clerk of the court shall:_  
+|  _(1)_ _____notate on the court's docket the return of the_  
+| _copy; and_  
+|  _(2) destroy the copy._  
+|  _Sec._ ___112.006._ _____WARNING REQUIRED. The clerk of the court_  
+| _shall attach to a copy of information provided under Section_  
+| _112.003 the following prominently displayed statement in boldfaced_  
+| _type, in capital letters, or underlined:_  
+|  _"TO ANY PERSON AUTHORIZED TO SERVE PROCESS:_  
+|  _"THIS DOCUMENT CONTAINS INFORMATION SUBJECT TO A COURT ORDER_  
+| _OF NONDISCLOSURE AND IS PROVIDED TO YOU SOLELY FOR THE PURPOSE OF_  
+| _LOCATING AND EFFECTING SERVICE OF PROCESS ON THE NAMED PERSON. YOU_  
+| _MAY NOT DISPLAY THIS DOCUMENT OR DISCLOSE ANY OF THE INFORMATION_  
+| _CONTAINED IN THIS DOCUMENT TO ANY PERSON. YOU MAY NOT COPY OR_  
+| _OTHERWISE DUPLICATE THIS DOCUMENT OR THE INFORMATION IT CONTAINS._  
+| _ON THE RETURN OF SERVICE, YOU SHALL STATE THE PLACE OF SERVICE ONLY_  
+| _AS "THE RESIDENCE ADDRESS IN CLERK'S DATA SHEET" OR A SIMILAR_  
+| _STATEMENT. YOU MUST RETURN THIS DOCUMENT TO THE CLERK WITH THE_  
+| _RETURN OF SERVICE. VIOLATION OF ANY OF THESE DIRECTIVES MAY BE_  
+| _PUNISHED AS CONTEMPT OF COURT."_  
+|  SECTION 3. The change in law made by this Act to Section  
+| 105.006(c), Family Code, applies to a suit affecting the  
+| parent-child relationship pending in a trial court on or filed on or  
+| after the effective date of this Act.  
+|  SECTION 4. Chapter 112, Family Code, as added by this Act,  
+| applies only to a suit affecting the parent-child relationship that  
+| is filed on or after the effective date of this Act.  A suit filed  
+| before the effective date of this Act is governed by the law in  
+| effect on the date the suit is filed, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

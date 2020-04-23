@@ -1,0 +1,111 @@
+|  
+---|---  
+|  By: Nevarez | H.B. No. 4362  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to peer-to-peer vehicle sharing platforms, the  
+| collection, remittance, and administration of certain taxes on  
+| those platforms, and fees collected by those platforms.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle C, Title 5, Business & Commerce Code, is  
+| amended by adding Chapter 113 to read as follows:  
+| _CHAPTER 113._ ___PEER-TO-PEER VEHICLE SHARING PLATFORMS_  
+| _SUBCHAPTER A._ ___GENERAL PROVISIONS_  
+|  _Sec._ ___113.001._ _____DEFINITION._ ___In this chapter, "peer-to-peer_  
+| _vehicle sharing platform" means a platform that is in the business_  
+| _of connecting vehicle owners with drivers to enable the sharing of_  
+| _motor vehicles for financial consideration._  
+| _SUBCHAPTER B._ ___PLATFORM AGREEMENTS_  
+|  _Sec._ ___113.051._ _____REQUIRED DISCLOSURES. A peer-to-peer vehicle_  
+| _sharing platform agreement must state:_  
+|  _(1)_ _____the daily rate, fees, and any protection package_  
+| _or insurance costs that are charged to the shared vehicle owner or_  
+| _the shared vehicle driver; and_  
+|  _(2) the sharing period._  
+|  _Sec._ ___113.052._ _____CERTAIN FEES. A peer-to-peer vehicle sharing_  
+| _platform may charge a shared vehicle driver a separately stated fee_  
+| _to recover costs incurred by the peer-to-peer vehicle sharing_  
+| _platform from any concession fees paid to a government-owned or_  
+| _government-operated airport or other entity._  
+| _SUBCHAPTER C._ ___DUTIES OF PLATFORM AND VEHICLE OWNERS_  
+|  _Sec._ ___113.101._ _____DUTIES OF PLATFORM._ ___A peer-to-peer vehicle_  
+| _sharing platform shall verify that a motor vehicle does not have any_  
+| _safety recalls for which repairs have not been made before the_  
+| _motor vehicle is made available for sharing on the platform._  
+|  _Sec._ ___113.102._ _____DUTIES OF VEHICLE OWNER._ ___If a shared vehicle_  
+| _owner receives actual notice of a safety recall on the owner's_  
+| _vehicle after the motor vehicle is made available for sharing on a_  
+| _peer-to-peer vehicle sharing platform, the owner shall_  
+| _remove the vehicle from the platform until the safety recall repair_  
+| _has been made._  
+| _SUBCHAPTER D._ ___INSURANCE COVERAGE_  
+|  _Sec._ ___113.151._ _____INSURANCE COVERAGE DURING VEHICLE SHARING_  
+| _PERIOD. (a)_ ___A peer-to-peer vehicle sharing platform shall ensure_  
+| _that during each sharing period the shared motor vehicle is covered_  
+| _by a motor vehicle liability insurance policy that recognizes that_  
+| _the motor vehicle is a shared vehicle._  
+|  _(b)_ _____Coverage required by this section may be provided_  
+| _through:_  
+|  _(1)_ _____a commercial liability policy issued to the_  
+| _peer-to-peer vehicle sharing platform in an amount that is not less_  
+| _than the minimum amount of financial responsibility required under_  
+| _Chapter 601, Transportation Code; or_  
+|  _(2)_ _____a personal liability policy issued to the shared_  
+| _vehicle driver that is not less than the minimum amount of financial_  
+| _responsibility required under Chapter 601, Transportation Code._  
+|  _Sec._ ___113.152._ _____OWNER'S MOTOR VEHICLE INSURANCE._ ___An insurer_  
+| _may not deny, cancel, or nonrenew a motor vehicle liability_  
+| _insurance policy of a shared vehicle owner solely on the basis that_  
+| _a motor vehicle covered under the policy has been made available for_  
+| _sharing through a peer-to-peer vehicle sharing platform._  
+|  _Sec._ ___113.153._ _____DRIVER'S MOTOR VEHICLE INSURANCE._ ___Collision_  
+| _insurance coverage provided under a motor vehicle insurance policy_  
+| _delivered or issued for delivery in this state, including a policy_  
+| _issued by a county mutual insurance company, must cover a passenger_  
+| _vehicle operated by the insured under a peer-to-peer vehicle_  
+| _sharing platform._  
+| _SUBCHAPTER D._ ___LIABILITY_  
+|  _Sec._ ___113.201._ _____LIABILITY. (a)_ ___A peer-to-peer vehicle_  
+| _sharing platform shall assume the liability of a shared vehicle_  
+| _owner for any bodily injury or property damage to third parties_  
+| _during the vehicle sharing period up to the minimum amount of_  
+| _financial responsibility required under Chapter 601,_  
+| _Transportation Code._  
+|  _(b)_ _____The amount of liability assumed by the peer-to-peer_  
+| _vehicle sharing platform under Subsection (a) must be stated in the_  
+| _peer-to-peer vehicle sharing platform agreement._  
+|  SECTION 2. Section 152.001, Tax Code, is amended by  
+| amending Subdivision (9) and adding Subdivision (21) to read as  
+| follows:  
+|  (9) "Owner of a motor vehicle" means:  
+|  (A) a person named in the certificate of title as  
+| the owner of the vehicle; [ ~~or~~ ]  
+|  (B) a person who has the exclusive use of a motor  
+| vehicle by reason of a rental and holds the vehicle for re-rental _;_  
+| _or_  
+|  _(C)_ _____if the motor vehicle is shared through a_  
+| _peer-to-peer vehicle sharing platform, the peer-to-peer vehicle_  
+| _sharing platform_.  
+|  _(21)_ _____"Peer-to-peer vehicle sharing platform" has the_  
+| _meaning assigned by Section 113.001, Business & Commerce Code._  
+|  SECTION 3. Section 152.045, Tax Code, is amended by  
+| amending Subsection (a) and adding Subsection (a-1) to read as  
+| follows:  
+|  (a) Except as _otherwise provided by Subsection (a-1) or_  
+| _another provision of_ [ ~~inconsistent with this chapter and rules~~  
+|  ~~adopted under~~ ] this chapter, an owner of a motor vehicle subject to  
+| the tax on gross rental receipts shall _collect,_ report _,_ and pay the  
+| tax to the comptroller in the same manner as the _tax under Chapter_  
+| _151_ [ ~~Limited Sales, Excise and Use Tax~~ ] is _collected,_ reported _,_
+and  
+| paid by _a retailer_ [ ~~retailers~~ ] under _that chapter_ [ ~~Chapter 151
+of~~  
+|  ~~this code~~ ].  
+|  _(a-1)_ _____If the motor vehicle is shared through a peer-to-peer_  
+| _vehicle sharing platform, the peer-to-peer vehicle sharing_  
+| _platform shall collect, report, and pay the tax on gross rental to_  
+| _receipts the comptroller in the manner prescribed by Subsection_  
+|  _(a)._  
+| SECTION 4. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,25 @@
+| 86R13760 ATP-D  
+---|---  
+|  By: Bucy | H.B. No. 3354  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of an accessible absentee mail system by certain  
+| voters.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 81, Election Code, is amended by adding  
+| Section 81.006 to read as follows:  
+|  _Sec._ ___81.006._ _____ACCESSIBLE ABSENTEE BALLOT SYSTEM. (a) A_  
+| _person eligible for early voting by mail under Section 82.002 or_  
+| _Section 101.001 as a person described by Section 101.001(2)(A) may_  
+| _cast a ballot using an accessible absentee mail system,_  
+| _notwithstanding any other provision of this title._  
+|  _(b)_ _____An accessible absentee mail system must be an electronic_  
+| _system, including software, used for the sole purpose of enabling_  
+| _any voter, including a voter who has a disability, to mark the_  
+| _voter's ballot and print and submit the ballot in the manner_  
+| _required by law for a ballot marked by the voter._  
+|  _(c)_ _____The secretary of state shall adopt rules and prescribe_  
+| _procedures for the implementation of this section._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

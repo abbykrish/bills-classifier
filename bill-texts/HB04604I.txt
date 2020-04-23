@@ -1,0 +1,508 @@
+| 86R14272 JRR-F  
+---|---  
+|  By: White | H.B. No. 4604  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to pretrial diversion programs funded by the community  
+| justice assistance division of the Texas Department of Criminal  
+| Justice and the provision of training and technical assistance  
+| provided by the division.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 509.001(1), Government Code, is amended  
+| to read as follows:  
+|  (1) "Community corrections facility" means a physical  
+| structure, established by the judges described by Section 76.002  
+| after authorization of the establishment of the structure has been  
+| included in a department's strategic plan, that is operated by the  
+| department or operated for the department by an entity under  
+| contract with the department, for the purpose of treating persons  
+| who have been placed on community supervision or who are  
+| participating in a pretrial _diversion_ [ ~~intervention~~ ] program  
+| operated under Section 76.011 or a drug court program established  
+| under Chapter 123 or former law and providing services and programs  
+| to modify criminal behavior, deter criminal activity, protect the  
+| public, and restore victims of crime. The term includes:  
+|  (A) a restitution center;  
+|  (B) a court residential treatment facility;  
+|  (C) a substance abuse treatment facility;  
+|  (D) a custody facility or boot camp;  
+|  (E) a facility for an offender with a mental  
+| impairment, as defined by Section 614.001, Health and Safety Code;  
+| and  
+|  (F) an intermediate sanction facility.  
+|  SECTION 2. Section 509.003(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The division shall propose and the board shall adopt  
+| reasonable rules establishing:  
+|  (1) minimum standards for programs, community  
+| corrections facilities and other facilities, equipment, and other  
+| aspects of the operation of departments;  
+|  (2) a list and description of core services that  
+| should be provided by each department;  
+|  (3) methods for measuring the success of community  
+| supervision and corrections programs, including methods for  
+| measuring rates of diversion, program completion, and recidivism;  
+|  (4) a format for strategic plans; [ ~~and~~ ]  
+|  (5) minimum standards for the operation of substance  
+| abuse facilities and programs funded through the division _; and_  
+|  _(6)_ _____minimum standards for the operation of pretrial_  
+| _diversion programs funded through the division_.  
+|  SECTION 3. Chapter 509, Government Code, is amended by  
+| adding Section 509.0045 to read as follows:  
+|  _Sec._ ___509.0045._ _____PRETRIAL DIVERSION INFORMATION MANAGEMENT_  
+| _SYSTEM; REPORTING OF INFORMATION. (a) The division shall_  
+| _establish and operate an information management system to be used_  
+| _by departments, municipalities, and counties that receive funds_  
+| _under this chapter for pretrial diversion programs._  
+|  _(b)_ _____The system established under Subsection (a) must assist_  
+| _departments, municipalities, and counties in:_  
+|  _(1)_ _____identifying defendants who are eligible for_  
+| _pretrial diversion programs;_  
+|  _(2)_ _____collecting and accessing information relating to_  
+| _the defendants;_  
+|  _(3)_ _____selecting appropriate release conditions for the_  
+| _defendants;_  
+|  _(4)_ _____monitoring the defendants'_ ___compliance with release_  
+| _conditions; and_  
+|  _(5)_ _____performing other functions related to defendants_  
+| _participating in pretrial diversion programs._  
+|  _(c)_ _____The division shall require each department,_  
+| _municipality, and county that receives funds under this chapter for_  
+| _a pretrial diversion program to report, in the manner prescribed by_  
+| _the division, information requested by the division that relates_  
+| _to:_  
+|  _(1)_ _____the development or operation of the pretrial_  
+| _diversion program for which the recipient receives funds under this_  
+| _chapter; or_  
+|  _(2)_ _____a defendant participating in a pretrial diversion_  
+| _program described by Subdivision (1)._  
+|  SECTION 4. Section 509.0071(f), Government Code, is amended  
+| to read as follows:  
+|  (f) A department or regional partnership of departments may  
+| use funds received under Subsection (e) to provide any program or  
+| service that a department is authorized to provide under other law,  
+| including implementing, administering, and supporting  
+| evidence-based community supervision strategies, electronic  
+| monitoring, substance abuse and mental health counseling and  
+| treatment, specialized community supervision caseloads,  
+| intermediate sanctions, victims' services, restitution collection,  
+| short-term incarceration in county jails, specialized courts,  
+| pretrial services _, pretrial diversion_ [ ~~and intervention~~ ] programs,  
+| and work release and day reporting centers.  
+|  SECTION 5. Section 509.009, Government Code, is amended to  
+| read as follows:  
+|  Sec. 509.009. TRAINING. The division _shall_ [ ~~may~~ ] provide  
+| pre-service, in-service, and educational training and technical  
+| assistance to departments to promote compliance with the standards  
+| under this chapter and to assist departments in improving the  
+| operation of department services.  
+|  SECTION 6. Sections 509.011(a), (b), (e), and (f),  
+| Government Code, are amended to read as follows:  
+|  (a) If the division determines that a department complies  
+| with division standards and if the department has submitted a  
+| strategic plan under Section 509.007 and the supporting information  
+| required by the division and the division determines the plan and  
+| supporting information are acceptable, the division shall prepare  
+| and submit to the comptroller vouchers for payment to the  
+| department as follows:  
+|  (1) for per capita funding, a per diem amount for each  
+| felony defendant _on community supervision who is_ directly  
+| supervised by the department pursuant to lawful authority;  
+|  (2) for per capita funding, a per diem amount for a  
+| period not to exceed 182 days for each defendant _on community_  
+| _supervision who is_ supervised by the department pursuant to lawful  
+| authority, other than a [ ~~felony~~ ] defendant _described by Subdivision_  
+| _(1)_ ; [ ~~and~~ ]  
+|  (3) _for per capita funding, a per diem amount for each_  
+| _felony defendant participating in a pretrial diversion program who_  
+| _is directly supervised by the department pursuant to lawful_  
+| _authority;_  
+|  _(4)_ _____for per capita funding, a per diem amount for a_  
+| _period not to exceed 182 days for each defendant participating in a_  
+| _pretrial diversion program who is supervised by the department_  
+| _pursuant to lawful authority, other than a defendant described by_  
+| _Subdivision (3); and_  
+|  _(5)_ for formula funding, an annual amount as computed  
+| by multiplying a percentage determined by the allocation formula  
+| established under Subsection (f) times the total amount provided in  
+| the General Appropriations Act for payments under this subdivision.  
+|  (b) The division may use discretionary grant funds to  
+| further the purposes of this chapter by contracting for services  
+| with state agencies or nonprofit organizations. The division may  
+| also make discretionary grants to departments, municipalities, or  
+| counties for the following purposes:  
+|  (1) development and operation of pretrial and  
+| presentencing services;  
+|  (2) _development and operation of pretrial diversion_  
+| _programs that meet the standards adopted under Section_  
+| _509.003(a)(6);_  
+|  _(3)_ electronic monitoring services, surveillance  
+| supervision programs, and controlled substances testing services;  
+|  _(4)_ [ ~~(3)~~ ] research projects to evaluate the  
+| effectiveness of community corrections programs, if the research is  
+| conducted in cooperation with the Criminal Justice Policy Council;  
+|  _(5)_ [ ~~(4)~~ ] contract services for felony defendants;  
+|  _(6)_ [ ~~(5)~~ ] residential services for misdemeanor  
+| defendants who exhibit levels of risk or needs indicating a need for  
+| confinement and treatment, as described by Section 509.005(b);  
+|  _(7)_ [ ~~(6)~~ ] establishment or operation of county  
+| correctional centers under Subchapter H, Chapter 351, Local  
+| Government Code, or community corrections facilities for which the  
+| division has established standards under Section 509.006;  
+|  _(8)_ [ ~~(7)~~ ] development and operation of treatment  
+| alternative to incarceration programs under Section 76.017; and  
+|  _(9)_ [ ~~(8)~~ ] other purposes determined appropriate by  
+| the division and approved by the board.  
+|  (e) In establishing per diem payments authorized by  
+| Subsections (a)(1) _,_ [ ~~and~~ ] (a)(2) _, (a)(3), and (a)(4)_ , the
+division  
+| shall consider the amounts appropriated in the General  
+| Appropriations Act for basic supervision as sufficient to provide  
+| basic supervision in each year of the fiscal biennium.  
+|  (f) The division annually shall compute for each department  
+| for community corrections program formula funding a percentage  
+| determined by assigning equal weights to the percentage of the  
+| state's population residing in the counties served by the  
+| department and the department's percentage of all felony defendants  
+| in the state under direct community supervision _or pretrial_  
+| _diversion supervision_. The division shall use the most recent  
+| information available in making computations under this  
+| subsection. The board by rule may adopt a policy limiting for all  
+| departments the percentage of benefit or loss that may be realized  
+| as a result of the operation of the formula.  
+|  SECTION 7. Section 509.013, Government Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____In awarding a grant for the development or operation of_  
+| _a pretrial diversion program, the division shall give priority to_  
+| _programs that:_  
+|  _(1)_ _____establish pretrial diversion programs for state_  
+| _jail felony defendants;_  
+|  _(2)_ _____place eligible defendants into pretrial diversion_  
+| _programs as soon as practicable after each defendant's arrest; or_  
+|  _(3)_ _____seek to ensure that defendants successfully_  
+| _satisfy the requirements of the program in a timely and efficient_  
+| _manner._  
+|  SECTION 8. Article 42A.602(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) If a judge requires as a condition of community  
+| supervision or participation in a pretrial _diversion_  
+| [ ~~intervention~~ ] program operated under Section 76.011, Government  
+| Code, or a drug court program established under Chapter 123,  
+| Government Code, or former law that the defendant serve a term of  
+| confinement in a community corrections facility, the term may not  
+| exceed 24 months.  
+|  SECTION 9. Article 42A.604(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) As directed by the judge, the community corrections  
+| facility director shall file with the community supervision and  
+| corrections department director or administrator of a drug court  
+| program, as applicable, a copy of an evaluation made by the facility  
+| director of the defendant's behavior and attitude at the facility.  
+| The community supervision and corrections department director or  
+| program administrator shall examine the evaluation, make written  
+| comments on the evaluation that the director or administrator  
+| considers relevant, and file the evaluation and comments with the  
+| judge who granted community supervision to the defendant or placed  
+| the defendant in a pretrial _diversion_ [ ~~intervention~~ ] program or  
+| drug court program. If the evaluation indicates that the defendant  
+| has made significant progress toward compliance with court-ordered  
+| conditions of community supervision or objectives of placement in  
+| the program, as applicable, the judge may release the defendant  
+| from the community corrections facility. A defendant who served a  
+| term in the facility as a condition of community supervision shall  
+| serve the remainder of the defendant's community supervision under  
+| any terms and conditions the court imposes under this chapter.  
+|  SECTION 10. Article 55.01(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) A person who has been placed under a custodial or  
+| noncustodial arrest for commission of either a felony or  
+| misdemeanor is entitled to have all records and files relating to  
+| the arrest expunged if:  
+|  (1) the person is tried for the offense for which the  
+| person was arrested and is:  
+|  (A) acquitted by the trial court, except as  
+| provided by Subsection (c); or  
+|  (B) convicted and subsequently:  
+|  (i) pardoned for a reason other than that  
+| described by Subparagraph (ii); or  
+|  (ii) pardoned or otherwise granted relief  
+| on the basis of actual innocence with respect to that offense, if  
+| the applicable pardon or court order clearly indicates on its face  
+| that the pardon or order was granted or rendered on the basis of the  
+| person's actual innocence; or  
+|  (2) the person has been released and the charge, if  
+| any, has not resulted in a final conviction and is no longer pending  
+| and there was no court-ordered community supervision under Chapter  
+| 42A for the offense, unless the offense is a Class C misdemeanor,  
+| provided that:  
+|  (A) regardless of whether any statute of  
+| limitations exists for the offense and whether any limitations  
+| period for the offense has expired, an indictment or information  
+| charging the person with the commission of a misdemeanor offense  
+| based on the person's arrest or charging the person with the  
+| commission of any felony offense arising out of the same  
+| transaction for which the person was arrested:  
+|  (i) has not been presented against the  
+| person at any time following the arrest, and:  
+|  (a) at least 180 days have elapsed  
+| from the date of arrest if the arrest for which the expunction was  
+| sought was for an offense punishable as a Class C misdemeanor and if  
+| there was no felony charge arising out of the same transaction for  
+| which the person was arrested;  
+|  (b) at least one year has elapsed from  
+| the date of arrest if the arrest for which the expunction was sought  
+| was for an offense punishable as a Class B or A misdemeanor and if  
+| there was no felony charge arising out of the same transaction for  
+| which the person was arrested;  
+|  (c) at least three years have elapsed  
+| from the date of arrest if the arrest for which the expunction was  
+| sought was for an offense punishable as a felony or if there was a  
+| felony charge arising out of the same transaction for which the  
+| person was arrested; or  
+|  (d) the attorney representing the  
+| state certifies that the applicable arrest records and files are  
+| not needed for use in any criminal investigation or prosecution,  
+| including an investigation or prosecution of another person; or  
+|  (ii) if presented at any time following the  
+| arrest, was dismissed or quashed, and the court finds that the  
+| indictment or information was dismissed or quashed because:  
+|  (a) the person completed a veterans  
+| treatment court program created under Chapter 124, Government Code,  
+| or former law, subject to Subsection (a-3);  
+|  (b) the person completed a pretrial  
+| _diversion_ [ ~~intervention~~ ] program authorized under Section 76.011,  
+| Government Code, other than a veterans treatment court program  
+| created under Chapter 124, Government Code, or former law;  
+|  (c) the presentment had been made  
+| because of mistake, false information, or other similar reason  
+| indicating absence of probable cause at the time of the dismissal to  
+| believe the person committed the offense; or  
+|  (d) the indictment or information was  
+| void; or  
+|  (B) prosecution of the person for the offense for  
+| which the person was arrested is no longer possible because the  
+| limitations period has expired.  
+|  SECTION 11. Article 102.012, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 102.012. FEES FOR PRETRIAL _DIVERSION_ [ ~~INTERVENTION~~ ]  
+| PROGRAMS. (a) A court that authorizes a defendant to participate  
+| in a pretrial _diversion_ [ ~~intervention~~ ] program established under  
+| Section 76.011, Government Code, may order the defendant to pay to  
+| the court a supervision fee in an amount not more than $60 per month  
+| as a condition of participating in the program.  
+|  (b) In addition to or in lieu of the supervision fee  
+| authorized by Subsection (a), the court may order the defendant to  
+| pay or reimburse a community supervision and corrections department  
+| for any other expense that is:  
+|  (1) incurred as a result of the defendant's  
+| participation in the pretrial _diversion_ [ ~~intervention~~ ] program,  
+| other than an expense described by Article 102.0121; or  
+|  (2) necessary to the defendant's successful completion  
+| of the program.  
+|  SECTION 12. Article 102.0121, Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  Art. 102.0121. FEES FOR CERTAIN EXPENSES RELATED TO  
+| PRETRIAL _DIVERSION_ [ ~~INTERVENTION~~ ] PROGRAMS. (a) A district  
+| attorney, criminal district attorney, or county attorney may  
+| collect a fee in an amount not to exceed $500 to be used to reimburse  
+| a county for expenses, including expenses of the district  
+| attorney's, criminal district attorney's, or county attorney's  
+| office, related to a defendant's participation in a pretrial  
+| _diversion_ [ ~~intervention~~ ] program offered in that county.  
+|  (b) The district attorney, criminal district attorney, or  
+| county attorney may collect the fee from any defendant who  
+| participates in a pretrial _diversion_ [ ~~intervention~~ ] program  
+| administered in any part by the attorney's office.  
+|  (c) Fees collected under this article shall be deposited in  
+| the county treasury in a special fund to be used solely to  
+| administer the pretrial _diversion_ [ ~~intervention~~ ] program. An  
+| expenditure from the fund may be made only in accordance with a  
+| budget approved by the commissioners court.  
+|  SECTION 13. Sections 76.011(a) and (c), Government Code,  
+| are amended to read as follows:  
+|  (a) The department may operate programs for:  
+|  (1) the supervision and rehabilitation of persons in  
+| pretrial _diversion_ [ ~~intervention~~ ] programs;  
+|  (2) the supervision of persons released on bail under:  
+|  (A) Chapter 11, Code of Criminal Procedure;  
+|  (B) Chapter 17, Code of Criminal Procedure;  
+|  (C) Article 44.04, Code of Criminal Procedure; or  
+|  (D) any other law;  
+|  (3) the supervision of a person subject to, or the  
+| verification of compliance with, a court order issued under:  
+|  (A) Article 17.441, Code of Criminal Procedure,  
+| requiring a person to install a deep-lung breath analysis mechanism  
+| on each vehicle owned or operated by the person;  
+|  (B) Chapter 123 of this code or former law,  
+| issuing an occupational driver's license;  
+|  (C) Section 49.09(h), Penal Code, requiring a  
+| person to install a deep-lung breath analysis mechanism on each  
+| vehicle owned or operated by the person; or  
+|  (D) Subchapter L, Chapter 521, Transportation  
+| Code, granting a person an occupational driver's license; and  
+|  (4) the supervision of a person not otherwise  
+| described by Subdivision (1), (2), or (3), if a court orders the  
+| person to submit to the supervision of, or to receive services from,  
+| the department.  
+|  (c) A person in a pretrial _diversion_ [ ~~intervention~~ ] program  
+| operated by the department under Subsection (a) may be supervised  
+| for a period not to exceed two years.  
+|  SECTION 14. Section 103.021, Government Code, is amended to  
+| read as follows:  
+|  Sec. 103.021. ADDITIONAL FEES AND COSTS IN CRIMINAL OR  
+| CIVIL CASES: CODE OF CRIMINAL PROCEDURE. An accused or defendant,  
+| or a party to a civil suit, as applicable, shall pay the following  
+| fees and costs under the Code of Criminal Procedure if ordered by  
+| the court or otherwise required:  
+|  (1) a personal bond fee (Art. 17.42, Code of Criminal  
+| Procedure) . . . the greater of $20 or three percent of the amount  
+| of the bail fixed for the accused;  
+|  (2) cost of electronic monitoring as a condition of  
+| release on personal bond (Art. 17.43, Code of Criminal Procedure)  
+| . . . actual cost;  
+|  (3) a fee for verification of and monitoring of motor  
+| vehicle ignition interlock (Art. 17.441, Code of Criminal  
+| Procedure) . . . not to exceed $10;  
+|  (3-a) costs associated with operating a global  
+| positioning monitoring system as a condition of release on bond  
+| (Art. 17.49(b)(2), Code of Criminal Procedure) . . . actual costs,  
+| subject to a determination of indigency;  
+|  (3-b) costs associated with providing a defendant's  
+| victim with an electronic receptor device as a condition of the  
+| defendant's release on bond (Art. 17.49(b)(3), Code of Criminal  
+| Procedure) . . . actual costs, subject to a determination of  
+| indigency;  
+|  (4) repayment of reward paid by a crime stoppers  
+| organization on conviction of a felony (Art. 37.073, Code of  
+| Criminal Procedure) . . . amount ordered;  
+|  (5) reimbursement to general revenue fund for payments  
+| made to victim of an offense as condition of community supervision  
+| (Art. _42A.301(b)(17)_ [ ~~42A.301(17)~~ ], Code of Criminal Procedure)  
+| . . . not to exceed $50 for a misdemeanor offense or $100 for a  
+| felony offense;  
+|  (6) payment to a crime stoppers organization as  
+| condition of community supervision (Art. _42A.301(b)(20)_  
+| [ ~~42A.301(20)~~ ], Code of Criminal Procedure) . . . not to exceed $50;  
+|  (7) children's advocacy center fee (Art. 42A.455, Code  
+| of Criminal Procedure) . . . not to exceed $50;  
+|  (8) family violence center fee (Art. 42A.504(b), Code  
+| of Criminal Procedure) . . . $100;  
+|  (9) community supervision fee (Art. 42A.652(a), Code  
+| of Criminal Procedure) . . . not less than $25 or more than $60 per  
+| month;  
+|  (10) additional community supervision fee for certain  
+| offenses (Art. 42A.653(a), Code of Criminal Procedure) . . . $5 per  
+| month;  
+|  (11) for certain financially able sex offenders as a  
+| condition of community supervision, the costs of treatment,  
+| specialized supervision, or rehabilitation (Art. 42A.452, Code of  
+| Criminal Procedure) . . . all or part of the reasonable and  
+| necessary costs of the treatment, supervision, or rehabilitation as  
+| determined by the judge;  
+|  (12) fee for failure to appear for trial in a justice  
+| or municipal court if a jury trial is not waived (Art. 45.026, Code  
+| of Criminal Procedure) . . . costs incurred for impaneling the  
+| jury;  
+|  (13) costs of certain testing, assessments, or  
+| programs during a deferral period (Art. 45.051, Code of Criminal  
+| Procedure) . . . amount ordered;  
+|  (14) special expense on dismissal of certain  
+| misdemeanor complaints (Art. 45.051, Code of Criminal Procedure)  
+| . . . not to exceed amount of fine assessed;  
+|  (15) an additional fee:  
+|  (A) for a copy of the defendant's driving record  
+| to be requested from the Department of Public Safety by the judge  
+| (Art. 45.0511(c-1), Code of Criminal Procedure) . . . amount equal  
+| to the sum of the fee established by Section 521.048,  
+| Transportation Code, and the state electronic Internet portal fee;  
+|  (B) as an administrative fee for requesting a  
+| driving safety course or a course under the motorcycle operator  
+| training and safety program for certain traffic offenses to cover  
+| the cost of administering the article (Art. 45.0511(f)(1), Code of  
+| Criminal Procedure) . . . not to exceed $10; or  
+|  (C) for requesting a driving safety course or a  
+| course under the motorcycle operator training and safety program  
+| before the final disposition of the case (Art. 45.0511(f)(2), Code  
+| of Criminal Procedure) . . . not to exceed the maximum amount of the  
+| fine for the offense committed by the defendant;  
+|  (16) a request fee for teen court program (Art.  
+| 45.052, Code of Criminal Procedure) . . . $20, if the court  
+| ordering the fee is located in the Texas-Louisiana border region,  
+| but otherwise not to exceed $10;  
+|  (17) a fee to cover costs of required duties of teen  
+| court (Art. 45.052, Code of Criminal Procedure) . . . $20, if the  
+| court ordering the fee is located in the Texas-Louisiana border  
+| region, but otherwise $10;  
+|  (18) a mileage fee for officer performing certain  
+| services (Art. 102.001, Code of Criminal Procedure) . . . $0.15 per  
+| mile;  
+|  (19) certified mailing of notice of hearing date (Art.  
+| 102.006, Code of Criminal Procedure) . . . $1, plus postage;  
+|  (20) certified mailing of certified copies of an order  
+| of expunction (Art. 102.006, Code of Criminal Procedure) . . . $2,  
+| plus postage;  
+|  (20-a) a fee to defray the cost of notifying state  
+| agencies of orders of expungement (Art. 45.0216, Code of Criminal  
+| Procedure) . . . $30 per application;  
+|  (21) sight orders:  
+|  (A) if the face amount of the check or sight order  
+| does not exceed $10 (Art. 102.007, Code of Criminal Procedure)  
+| . . . not to exceed $10;  
+|  (B) if the face amount of the check or sight order  
+| is greater than $10 but does not exceed $100 (Art. 102.007, Code of  
+| Criminal Procedure) . . . not to exceed $15;  
+|  (C) if the face amount of the check or sight order  
+| is greater than $100 but does not exceed $300 (Art. 102.007, Code of  
+| Criminal Procedure) . . . not to exceed $30;  
+|  (D) if the face amount of the check or sight order  
+| is greater than $300 but does not exceed $500 (Art. 102.007, Code of  
+| Criminal Procedure) . . . not to exceed $50; and  
+|  (E) if the face amount of the check or sight order  
+| is greater than $500 (Art. 102.007, Code of Criminal Procedure)  
+| . . . not to exceed $75;  
+|  (22) fees for a pretrial _diversion_ [ ~~intervention~~ ]  
+| program:  
+|  (A) a supervision fee (Art. 102.012(a), Code of  
+| Criminal Procedure) . . . $60 a month plus expenses; and  
+|  (B) a district attorney, criminal district  
+| attorney, or county attorney administrative fee (Art. 102.0121,  
+| Code of Criminal Procedure) . . . not to exceed $500;  
+|  (23) parking fee violations for child safety fund in  
+| municipalities with populations:  
+|  (A) greater than 850,000 (Art. 102.014, Code of  
+| Criminal Procedure) . . . not less than $2 and not to exceed $5; and  
+|  (B) less than 850,000 (Art. 102.014, Code of  
+| Criminal Procedure) . . . not to exceed $5;  
+|  (24) an administrative fee for collection of fines,  
+| fees, restitution, or other costs (Art. 102.072, Code of Criminal  
+| Procedure) . . . not to exceed $2 for each transaction;  
+|  (25) a collection fee, if authorized by the  
+| commissioners court of a county or the governing body of a  
+| municipality, for certain debts and accounts receivable, including  
+| unpaid fines, fees, court costs, forfeited bonds, and restitution  
+| ordered paid (Art. 103.0031, Code of Criminal Procedure) . . . 30  
+| percent of an amount more than 60 days past due; and  
+|  (26) a cost on conviction for the truancy prevention  
+| and diversion fund (Art. 102.015, Code of Criminal Procedure) . . .  
+| $2.  
+|  SECTION 15. Section 351.184(a), Local Government Code, is  
+| amended to read as follows:  
+|  (a) To certify county correctional centers as eligible for  
+| state funding under Section _509.011(b)(7)_ [ ~~509.011(b)(6)~~ ],  
+| Government Code, the community justice assistance division of the  
+| Texas Department of Criminal Justice, with the assistance of the  
+| Commission on Jail Standards, shall develop standards for the  
+| physical plant and operations of county correctional centers.  
+|  SECTION 16. As soon as practicable after the effective date  
+| of this Act, the Texas Board of Criminal Justice shall adopt rules  
+| establishing minimum standards for the operation of a pretrial  
+| diversion program funded by the community justice assistance  
+| division of the Texas Department of Criminal Justice, as required  
+| by Section 509.003(a), Government Code, as amended by this Act.  
+|  SECTION 17. Section 509.011(a), Government Code, as amended  
+| by this Act, applies only to a payment to a community supervision  
+| and corrections department based on a voucher submitted to the  
+| comptroller on or after the effective date of this Act.  
+|  SECTION 18. This Act takes effect September 1, 2019.
+

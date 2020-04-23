@@ -1,0 +1,37 @@
+| 86R5231 SRS-D  
+---|---  
+|  By: Dutton | H.B. No. 657  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to electronic voter registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.002, Election Code, is amended by  
+| amending Subsection (a) and adding Subsection (e-1) to read as  
+| follows:  
+|  (a) A person desiring to register to vote must submit an  
+| application to the registrar of the county in which the person  
+| resides. Except as provided by _Subsections_ [ ~~Subsection~~ ] (e) _and_  
+| _(e-1)_ , an application must be submitted by personal delivery, by  
+| mail, or by telephonic facsimile machine in accordance with  
+| Sections 13.143(d) and (d-2).  
+|  _(e-1)_ _____A registrar shall adopt procedures to allow a person_  
+| _to complete a voter registration application over the Internet._  
+| _The secretary of state shall review any procedures adopted under_  
+| _this section to ensure the procedures comply with the provisions of_  
+| _this code._  
+|  SECTION 2. Section 13.072, Election Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____A registrar may not reject an application that was_  
+| _forwarded to the registrar under Subsection (d) because the_  
+| _application was submitted electronically._  
+|  SECTION 3. The voter registrar of a county must adopt  
+| procedures for the acceptance of voter registration applications  
+| under Section 13.002(e-1), Election Code, as added by this Act, not  
+| later than September 1, 2019.  
+|  SECTION 4. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

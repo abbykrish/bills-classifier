@@ -1,0 +1,245 @@
+| 86R490 CJC-D  
+---|---  
+|  By: Sanford | H.B. No. 3868  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the appraisal for ad valorem tax purposes of tangible  
+| personal property held for sale at retail and a franchise tax credit  
+| based on the ad valorem taxes paid on such property.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 23.12(a) and (f), Tax Code, are amended  
+| to read as follows:  
+|  (a) Except as provided by Sections 23.121, [ ~~23.1241,~~ ]  
+| 23.124, _23.1241, 23.1244,_ and 23.127, the market value of an  
+| inventory is the price for which it would sell as a unit to a  
+| purchaser who would continue the business. An inventory shall  
+| include residential real property which has never been occupied as  
+| a residence and is held for sale in the ordinary course of a trade or  
+| business, provided that the residential real property remains  
+| unoccupied, is not leased or rented, and produces no income.  
+|  (f) The owner of an inventory other than a dealer's motor  
+| vehicle inventory as that term is defined by Section 23.121, [ ~~a~~  
+|  ~~dealer's heavy equipment inventory as that term is defined by~~  
+|  ~~Section 23.1241, or~~ ] a dealer's vessel and outboard motor inventory  
+| as that term is defined by Section 23.124, _a dealer's heavy_  
+| _equipment inventory as that term is defined by Section 23.1241, a_  
+| _retail inventory as that term is defined by Section 23.1244,_ or a  
+| retail manufactured housing inventory as that term is defined by  
+| Section 23.127 may elect to have the inventory appraised at its  
+| market value as of September 1 of the year preceding the tax year to  
+| which the appraisal applies by filing an application with the chief  
+| appraiser requesting that the inventory be appraised as of  
+| September 1. The application must clearly describe the inventory  
+| to which it applies and be signed by the owner of the inventory. The  
+| application applies to the appraisal of the inventory in each tax  
+| year that begins after the next August 1 following the date the  
+| application is filed with the chief appraiser unless the owner of  
+| the inventory by written notice filed with the chief appraiser  
+| revokes the application or the ownership of the inventory changes.  
+| A notice revoking the application is effective for each tax year  
+| that begins after the next September following the date the notice  
+| of revocation is filed with the chief appraiser.  
+|  SECTION 2. Subchapter B, Chapter 23, Tax Code, is amended by  
+| adding Section 23.1244 to read as follows:  
+|  _Sec._ ___23.1244._ _____RETAILER'S RETAIL INVENTORY; VALUE. (a) In_  
+| _this section:_  
+|  _(1)_ _____"Chief appraiser" means the chief appraiser for_  
+| _the appraisal district in which a retailer's retail inventory is_  
+| _located._  
+|  _(2)_ _____"Declaration" means a retailer's retail inventory_  
+| _declaration form adopted by the comptroller under this section._  
+|  _(3)_ _____"Retail inventory" means all tangible personal_  
+| _property that a retailer holds for sale in this state during a_  
+| _12-month period and for which the retailer is not otherwise_  
+| _entitled to an exemption from taxation. For purposes of this_  
+| _section, the term does not include:_  
+|  _(A) real property; or_  
+|  _(B)_ _____inventory that qualifies for appraisal under_  
+| _Section 23.121, 23.124, 23.1241, or 23.127._  
+|  _(4)_ _____"Retailer" means a person who is engaged in the_  
+| _business in this state of selling retail inventory. For purposes of_  
+| _this section, the term does not include a bank, savings bank,_  
+| _savings and loan association, credit union, or other finance_  
+| _company._  
+|  _(5)_ _____"Sales price" means the total amount of money paid_  
+| _or to be paid to a retailer for the purchase of an item of retail_  
+| _inventory._  
+|  _(6)_ _____"Total annual sales" means the total of the sales_  
+| _price from every sale from a retailer's retail inventory for a_  
+| _12-month period._  
+|  _(b)_ _____For the purpose of the computation of property tax, the_  
+| _chief appraiser shall determine the market value of a retailer's_  
+| _retail inventory on January 1 to be the average of the following_  
+| _amounts:_  
+|  _(1)_ _____the market value of the retail inventory on that_  
+| _date as determined under Section 23.12; and_  
+|  _(2)_ _____the retailer's total annual sales, less sales at_  
+| _wholesale and sales to other retailers, for the 12-month period_  
+| _corresponding to the preceding tax year, divided by 12._  
+|  _(c)_ _____For the purpose of the computation of property tax on_  
+| _the market value of the retail inventory of an owner who was not a_  
+| _retailer on January 1 of the preceding tax year, the chief appraiser_  
+| _shall estimate the amount described by Subsection (b)(2). In_  
+| _making the estimate required by this subsection, the chief_  
+| _appraiser shall use sales data, if available, generated by sales_  
+| _from the retailer's retail inventory in the preceding tax year._  
+|  _(d)_ _____Except for retail inventory, tangible personal property_  
+| _held by a retailer is appraised as provided by the other sections of_  
+| _this code. In the case of a retailer whose sales from the_  
+| _retailer's retail inventory are made predominately to other_  
+| _retailers, the chief appraiser shall appraise the retailer's retail_  
+| _inventory as provided by Section 23.12._  
+|  _(e)_ _____A retailer is presumed to be an owner of retail_  
+| _inventory on January 1 if, in the 12-month period ending on December_  
+| _31 of the preceding year, the retailer sold an item of retail_  
+| _inventory to a person other than a retailer._ _____The presumption is_  
+| _not rebutted by the fact that a retailer has no item of retail_  
+| _inventory physically on hand for sale from the retailer's retail_  
+| _inventory on January 1._  
+|  _(f)_ _____The comptroller by rule shall adopt a retailer's retail_  
+| _inventory declaration form. Not later than April 15 of each year,_  
+| _or, in the case of a retailer who was not in business on January 1,_  
+| _not later than 30 days after commencement of business, each_  
+| _retailer shall file a declaration with the chief appraiser for each_  
+| _location at which the retailer's retail inventory to be appraised_  
+| _as provided by this section is located. The declaration is in_  
+| _addition to the rendition statement or property report filed by the_  
+| _retailer when rendering the retailer's retail inventory under_  
+| _Chapter 22. The declaration is sufficient to comply with this_  
+| _subsection if it sets forth:_  
+|  _(1)_ _____the name and business address of each location at_  
+| _which the retailer's retail inventory to be appraised as provided_  
+| _by this section is located;_  
+|  _(2)_ _____a statement that the retailer is the owner of_  
+| _retail inventory; and_  
+|  _(3)_ _____the retailer's total annual sales, less sales at_  
+| _wholesale and sales to other retailers, for the 12-month period_  
+| _corresponding to the preceding tax year._  
+|  _(g)_ _____As provided by this subsection, the chief appraiser may_  
+| _examine the books and records of a retailer. A request made under_  
+| _this subsection must be made in writing, be delivered personally to_  
+| _the custodian of the records at a location at which the retailer_  
+| _conducts business, provide a period of not less than 15 days for the_  
+| _person to respond to the request, and state that the person to whom_  
+| _the request is addressed has the right to seek judicial relief from_  
+| _compliance with the request. In a request made under this section,_  
+| _the chief appraiser may examine:_  
+|  _(1)_ _____documentation appropriate to allow the chief_  
+| _appraiser to ascertain the applicability of this section to the_  
+| _person; and_  
+|  _(2)_ _____sales records to substantiate information set_  
+| _forth in the declaration filed by the retailer._  
+|  _(h)_ _____A retailer who fails to timely file a declaration under_  
+| _Subsection (f) in a tax year waives any right to have the retailer's_  
+| _retail inventory appraised as provided by this section in that tax_  
+| _year, and the chief appraiser shall appraise the retailer's retail_  
+| _inventory as provided by Section 23.12._  
+|  _(i)_ _____Section 23.123 applies to a declaration filed under this_  
+| _section in the same manner in which that section applies to a_  
+| _declaration filed as required by Section 23.121._  
+|  SECTION 3. Chapter 171, Tax Code, is amended by adding  
+| Subchapter N to read as follows:  
+| _SUBCHAPTER N. TAX CREDIT FOR BUSINESS AD VALOREM TAX PAYMENTS ON_  
+| _INVENTORY_  
+|  _Sec. 171.701. DEFINITIONS. In this subchapter:_  
+|  _(1) "Qualified entity" means a taxable entity that:_  
+|  _(A) is a retailer; and_  
+|  _(B)_ _____pays ad valorem taxes on retail inventory_  
+| _owned by the entity and located in this state._  
+|  _(2)_ _____"Retail inventory" and "retailer" have the_  
+| _meanings assigned by Section 23.1244._  
+|  _Sec._ ___171.702._ _____ELIGIBILITY FOR CREDIT. A qualified entity_  
+| _is eligible to apply for a credit in the amount and under the_  
+| _conditions and limitations provided by this subchapter against the_  
+| _tax imposed under this chapter._  
+|  _Sec._ ___171.703._ _____AMOUNT OF CREDIT; LIMITATIONS. (a) Subject_  
+| _to Subsection (b), the total amount of the credit under this_  
+| _subchapter is equal to the difference between the following_  
+| _amounts:_  
+|  _(1)_ _____the amount of the ad valorem taxes paid by the_  
+| _qualified entity during the period on which a report is based that_  
+| _are derived from the taxable value of the entity's retail_  
+| _inventory; and_  
+|  _(2)_ _____the amount of the ad valorem taxes the entity would_  
+| _have paid during the period described by Subdivision (1) on the_  
+| _taxable value of the entity's retail inventory if the taxable value_  
+| _of that inventory were the amount determined under Section_  
+| _23.1244(b)(2)._  
+|  _(b)_ _____A qualified entity is not eligible for a credit under_  
+| _this subchapter for a year in which the amount described by_  
+| _Subsection (a)(2) is greater than the amount described by_  
+| _Subsection (a)(1)._  
+|  _(c)_ _____The total credit claimed for a report, including the_  
+| _amount of any carryforward under Section 171.704, may not exceed_  
+| _the amount of franchise tax due for the report after all other_  
+| _applicable tax credits._  
+|  _Sec._ ___171.704._ _____CARRYFORWARD. (a) If a qualified entity is_  
+| _eligible for a credit that exceeds the limitation under Section_  
+| _171.703(c), the entity may carry the unused credit forward for not_  
+| _more than three consecutive reports._  
+|  _(b)_ _____A carryforward is considered the remaining portion of a_  
+| _credit that cannot be claimed in the current year because of the_  
+| _limitation under Section 171.703(c). A carryforward is added to_  
+| _the next year's installment of the credit in determining the_  
+| _limitation for that year. A credit carryforward from a previous_  
+| _report is considered to be used before the current year_  
+| _installment._  
+|  _Sec._ ___171.705._ _____APPLICATION FOR CREDIT. (a) A qualified_  
+| _entity must apply for a credit under this subchapter on or with the_  
+| _report for the period for which the credit is claimed._  
+|  _(b)_ _____A qualified entity shall file with a report on which the_  
+| _credit is claimed any information required by the comptroller to_  
+| _sufficiently demonstrate that the entity is eligible for the_  
+| _credit._  
+|  _(c)_ _____The burden of establishing eligibility for and the value_  
+| _of the credit is on the qualified entity._  
+|  _Sec._ ___171.706._ _____SALE OR ASSIGNMENT OF CREDIT. (a) A_  
+| _qualified entity that earns a credit under this subchapter may sell_  
+| _or assign all or part of the credit, and any entity to which all or_  
+| _part of the credit is sold or assigned may sell or assign all or part_  
+| _of the credit to another entity._ ___There is no limit on the total_  
+| _number of transactions for the sale or assignment of all or part of_  
+| _the total credit authorized under this subchapter, however,_  
+| _collectively all transferred and retained credits claimed for a_  
+| _period are subject to the limitation under Section 171.703(c)._  
+|  _(b)_ _____An entity that sells or assigns a credit under this_  
+| _section and the entity to which the credit is sold or assigned shall_  
+| _jointly submit written notice of the sale or assignment to the_  
+| _comptroller on a form promulgated by the comptroller not later than_  
+| _the 30th day after the date of the sale or assignment. The notice_  
+| _must include:_  
+|  _(1) the date of the sale or assignment;_  
+|  _(2) the amount of the credit sold or assigned;_  
+|  _(3)_ _____the names and federal tax identification numbers_  
+| _of the entity that sold or assigned the credit or part of the credit_  
+| _and the entity to which the credit or part of the credit was sold or_  
+| _assigned; and_  
+|  _(4)_ _____the amount of the credit owned by the selling or_  
+| _assigning entity before the sale or assignment, and the amount the_  
+| _selling or assigning entity retained, if any, after the sale or_  
+| _assignment._  
+|  _(c)_ _____The sale or assignment of a credit in accordance with_  
+| _this section does not extend the period for which a credit may be_  
+| _carried forward and does not increase the total amount of the credit_  
+| _that may be claimed._  
+|  _Sec._ ___171.707._ _____RULES. The comptroller shall adopt rules_  
+| _necessary to implement this subchapter._  
+|  SECTION 4. The legislature finds that, because of the many  
+| different types of retail inventory and the differences in the  
+| period of time that items comprising different types of retail  
+| inventory are held for sale by retailers before being sold to  
+| purchasers, it is difficult to establish a method that reliably  
+| determines the market value of such inventory. Accordingly, the  
+| legislature has enacted Section 23.1244, Tax Code, to specify a  
+| fair and accurate method for determining the appraised value of  
+| retail inventory that recognizes the unique characteristics of  
+| different types of retail inventory that may affect its value.  
+|  SECTION 5. Section 23.1244, Tax Code, as added by this Act,  
+| applies only to an ad valorem tax year that begins on or after the  
+| effective date of this Act.  
+|  SECTION 6. Subchapter N, Chapter 171, Tax Code, as added by  
+| this Act, applies only to a report originally due on or after  
+| January 1, 2021.  
+|  SECTION 7. This Act takes effect January 1, 2020.
+

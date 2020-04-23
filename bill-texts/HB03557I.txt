@@ -1,0 +1,67 @@
+|  
+---|---  
+|  By: Paddie | H.B. No. 3557  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to civil liability for engaging in certain conduct  
+| involving a critical infrastructure facility.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. This Act shall be known as the Critical  
+| Infrastructure Protection Act.  
+|  SECTION 2. Subtitle B, Title 4, Government Code, is amended  
+| by adding Chapter 424 to read as follows:  
+| _CHAPTER 424. PROTECTION OF CRITICAL INFRASTRUCTURE FACILITIES_  
+|  _Sec._ ___424.001._ _____DEFINITION. In this chapter, "critical_  
+| _infrastructure facility" has the meaning assigned by Section_  
+| _30.05(b)(7), Penal Code, and also includes a critical_  
+| _infrastructure facility that is being constructed and all of the_  
+| _equipment and appurtenances used during that construction._  
+|  _Sec._ ___424.002._ _____LIABILITY FOR DAMAGE TO CRITICAL_  
+| _INFRASTRUCTURE FACILITY. (a) A defendant who engages in conduct_  
+| _constituting an offense under Section 30.05(d)(3)(A)(iii), Penal_  
+| _Code, and who also damages, destroys, vandalizes, defaces, or_  
+| _tampers with a critical infrastructure facility is liable to the_  
+| _property owner for damages arising from that conduct._  
+|  _(b)_ _____It is not a defense to liability under this section that_  
+| _a defendant has been acquitted or has not been prosecuted or_  
+| _convicted under Section 30.05(d)(3)(A)(iii), Penal Code, or has_  
+| _been convicted of a different offense or of a different type or_  
+| _class of offense, for the conduct that is alleged to give rise to_  
+| _liability under this section._  
+|  _Sec._ ___424.003._ _____CERTAIN VICARIOUS LIABILITY. Regardless of_  
+| _the relationship between the organization and the person, an_  
+| _organization that compensates a person for engaging in conduct_  
+| _occurring on the premises of a critical infrastructure facility is_  
+| _vicariously liable to the property owner, as provided by this_  
+| _chapter, for damages arising from the conduct if the conduct_  
+| _constituted an offense under Section 30.05(d)(3)(A)(iii), Penal_  
+| _Code._  
+|  _Sec._ ___424.004._ _____DAMAGES. (a) A claimant who prevails in a_  
+| _suit under Sections 424.002 or 424.003 shall be awarded:_  
+|  _(1)_ _____actual damages, including damages for mental_  
+| _anguish even if an injury other than mental anguish is not shown;_  
+|  _(2) court costs; and_  
+|  _(3) reasonable attorney's fees._  
+|  _(b)_ _____In addition to an award under Subsection (a) and_  
+| _notwithstanding Section 41.008(c), Civil Practices and Remedies_  
+| _Code, a claimant who prevails in a suit under Section 424.002 or_  
+| _424.003 may recover exemplary damages._  
+|  _Sec._ ___424.005._ _____CAUSE OF ACTION CUMULATIVE. The cause of_  
+| _action created by Sections 424.002 or 424.003 is cumulative of any_  
+| _other remedy provided by common law or statute._  
+|  _Sec._ ___424.006._ _____NONAPPLICABILITY. Chapter 27, Civil_  
+| _Practices and Remedies Code, does not apply to a cause of action_  
+| _under this chapter._  
+|  SECTION 3. The change in law made by this Act applies only  
+| to a cause of action that accrues on or after the effective date of  
+| this Act. A cause of action that accrues before the effective date  
+| of this Act is governed by the law in effect immediately before that  
+| date, and that law is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution.  
+| If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

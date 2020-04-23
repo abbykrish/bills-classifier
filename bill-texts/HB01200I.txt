@@ -1,0 +1,85 @@
+| 86R1153 ADM-D  
+---|---  
+|  By: Beckley | H.B. No. 1200  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the registration of voters at a polling place during  
+| early voting by personal appearance and related procedures.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 12, Election Code, is  
+| amended by adding Section 12.007 to read as follows:  
+|  _Sec._ ___12.007._ _____CERTAIN ELECTION OFFICERS ARE VOTER_  
+| _REGISTRARS._ ___An election officer serving a polling place for early_  
+| _voting by personal appearance is a deputy voter registrar and has_  
+| _the same authority as a regular deputy registrar._  
+|  SECTION 2. Section 65.054, Election Code, is amended by  
+| adding Subsection (b-1) to read as follows:  
+|  _(b-1)_ _____A provisional ballot cast under Section 85.0312 shall_  
+| _be accepted if the voter registrar determines the applicant is_  
+| _eligible for registration under Section 85.0312(d)._  
+|  SECTION 3. Subchapter B, Chapter 85, Election Code, is  
+| amended by adding Section 85.0312 to read as follows:  
+|  _Sec._ ___85.0312._ _____REGISTRATION AT POLLING PLACE DURING EARLY_  
+| _VOTING._ ___(a)_ ___A person who would be eligible to vote in an election_  
+| _under Section 11.001, but for the requirement to be a registered_  
+| _voter, shall be accepted during early voting by personal appearance_  
+| _for voting the ballot for the precinct of the person's residence as_  
+| _shown by the identification presented if, on the day the person_  
+| _offers to vote, the person:_  
+|  _(1)_ _____submits a voter registration application that_  
+| _complies with Section 13.002 to an election officer at the polling_  
+| _place; and_  
+|  _(2) presents as proof of residence:_  
+|  _(A)_ _____a Texas driver's license, including a_  
+| _temporary license or instruction permit, or personal_  
+| _identification card issued to the person by the Department of_  
+| _Public Safety that states the person's current address on the day_  
+| _the person seeks to vote; or_  
+|  _(B)_ _____a utility bill addressed to the person dated_  
+| _not earlier than the 30th day before the date the person seeks to_  
+| _vote, and:_  
+|  _(i)_ _____a driver's license or personal_  
+| _identification card issued to the person by the Department of_  
+| _Public Safety that has not expired or that expired no earlier than_  
+| _60 days before the date of presentation;_  
+|  _(ii)_ _____a United States military_  
+| _identification card that contains the person's photograph that has_  
+| _not expired or that expired no earlier than 60 days before the date_  
+| _of presentation;_  
+|  _(iii)_ _____a United States citizenship_  
+| _certificate issued to the person that contains the person's_  
+| _photograph;_  
+|  _(iv)_ _____a United States passport issued to the_  
+| _person that has not expired or that expired no earlier than 60 days_  
+| _before the date of presentation;_  
+|  _(v)_ _____a license to carry a handgun issued to_  
+| _the person by the Department of Public Safety that has not expired_  
+| _or that expired no earlier than 60 days before the date of_  
+| _presentation; or_  
+|  _(vi)_ _____a student identification card issued_  
+| _by a public or private institution of higher education located in_  
+| _this state that contains the person's photograph._  
+|  _(b)_ _____The election officer shall make a copy of the proof of_  
+| _residence submitted under Subsection (a)(2) and attach it to the_  
+| _registration application._ ___The election officer shall return the_  
+| _original proof of residence to the voter._  
+|  _(c)_ _____A person voting under this section shall vote a_  
+| _provisional ballot in the manner provided by Section 63.011 except_  
+| _that the person is not required to submit the affidavit under_  
+| _Section 63.011(a)._  
+|  _(d)_ _____For each registration corresponding to a ballot cast_  
+| _under this section, the voter registrar shall review the_  
+| _application and copy of the proof of residence and determine_  
+| _whether the applicant is eligible for registration as provided by_  
+| _Subchapter C, Chapter 13._ ___The registrar shall inform the early_  
+| _voting ballot board of a determination made under this subsection._ __  
+| _A registration approved under this subsection takes effect on the_  
+| _date the vote was cast._  
+|  _(e) The secretary of state may by rule:_  
+|  _(1)_ _____designate additional documents that a person may_  
+| _offer to prove the person's residence to register and vote under_  
+| _this section; and_  
+|  _(2) prescribe procedures to implement this section._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

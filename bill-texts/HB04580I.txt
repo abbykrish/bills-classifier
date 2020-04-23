@@ -1,0 +1,347 @@
+| 86R13502 AAF-D  
+---|---  
+|  By: Hefner | H.B. No. 4580  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to toll collection and enforcement by toll project  
+| entities; authorizing an administrative fee; imposing a civil  
+| penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. PAYMENT OF TOLLS  
+|  SECTION 1.01. Chapter 372, Transportation Code, is amended  
+| by adding Subchapter B-1 to read as follows:  
+| _SUBCHAPTER B-1. TOLL COLLECTION AND ENFORCEMENT_  
+|  _Sec._ ___372.071._ _____DEFINITION._ ___In this subchapter, "registered_  
+| _owner" means an owner as defined by Section 502.001._  
+|  _Sec._ ___372.072._ _____TOLL PAYMENT REQUIRED; EMERGENCY VEHICLES_  
+| _EXEMPT._ ___(a)_ ___The operator of a vehicle, other than an authorized_  
+| _emergency vehicle as defined by Section 541.201, that is driven or_  
+| _towed through a toll collection facility of a toll project shall pay_  
+| _the proper toll._ ___The exemption from payment of a toll for an_  
+| _authorized emergency vehicle applies regardless of whether the_  
+| _vehicle is:_  
+|  _(1) responding to an emergency;_  
+|  _(2) displaying a flashing light; or_  
+|  _(3) marked as an emergency vehicle._  
+|  _(b)_ _____Notwithstanding Subsection (a), a toll project entity_  
+| _may waive the requirement of the payment of a toll or may authorize_  
+| _the payment of a reduced toll for any vehicle or class of vehicles._  
+|  _Sec. 372.073._ _____TOLL NOT PAID AT TIME OF USE; INVOICE. (a)_ ___As_  
+| _an alternative to requiring payment of a toll at the time a vehicle_  
+| _is driven or towed through a toll collection facility, a toll_  
+| _project entity shall use video billing or other tolling methods to_  
+| _permit the registered owner of the vehicle to pay the toll at a_  
+| _later date._  
+|  _(b)_ _____A toll project entity may use automated enforcement_  
+| _technology, including video recordings, photography, electronic_  
+| _data, and transponders, or other tolling methods to identify the_  
+| _registered owner of the vehicle for purposes of billing,_  
+| _collection, and enforcement activities._  
+|  _(c)_ _____A toll project entity shall send by first class mail to_  
+| _the registered owner of a vehicle a written invoice containing an_  
+| _assessment for tolls incurred by the vehicle._  
+|  _(d)_ _____A toll project entity shall send the invoice required_  
+| _under Subsection (c) and related communications to:_  
+|  _(1)_ _____the registered owner's address as shown in the_  
+| _vehicle registration records of the Texas Department of Motor_  
+| _Vehicles or the analogous department or agency of another state or_  
+| _country; or_  
+|  _(2)_ _____an alternate address provided by the owner or_  
+| _derived through other reliable means._  
+|  _(e)_ _____A toll project entity may provide that the invoice_  
+| _required under Subsection (c), instead of being sent by first class_  
+| _mail, be sent as an electronic record to a registered owner that_  
+| _agrees to the terms of the electronic record transmission of the_  
+| _information._  
+|  _(f)_ _____A toll project entity that sends an initial invoice_  
+| _required under Subsection (c) may not assess an additional fee_  
+| _other than a postage fee to the amount owed by the owner of the_  
+| _vehicle._  
+|  _Sec._ ___372.074._ _____INVOICE REQUIREMENTS; PAYMENT DUE DATE._ ___An_  
+| _invoice containing an assessment for the use of a toll project must:_  
+|  _(1)_ _____require payment not later than the 30th day after_  
+| _the date the invoice is mailed; and_  
+|  _(2) conspicuously state:_  
+|  _(A) the amount due;_  
+|  _(B) the date by which the amount due must be paid;_  
+|  _(C)_ _____that failure to pay the amount due in the_  
+| _required period will result in the assessment of an administrative_  
+| _fee; and_  
+|  _(D)_ _____that failure to pay two or more invoices will_  
+| _result in a civil penalty._  
+|  _Sec._ ___372.075._ _____PAYMENT OF TOLL INVOICE; ADMINISTRATIVE FEE._ __  
+| _(a)_ ___A person who receives an invoice under this subchapter for the_  
+| _use of a toll project shall, not later than the due date specified_  
+| _in the invoice:_  
+|  _(1) pay the amount owed as stated in the invoice; or_  
+|  _(2)_ _____send a written request to the toll project entity_  
+| _for a review of the toll assessments contained in the invoice._  
+|  _(b)_ _____If a person fails to comply with Subsection (a), a toll_  
+| _project entity may add an administrative fee, not to exceed $6, to_  
+| _the amount the person owes._ ___The toll project entity:_  
+|  _(1)_ _____must set the administrative fee by rule in an_  
+| _amount that does not exceed the cost of collecting the toll; and_  
+|  _(2)_ _____may not charge a person more than $48 in_  
+| _administrative fees in a 12-month period._  
+|  _(c)_ _____A toll project entity other than a county under Chapter_  
+| _284 may contract, in accordance with Section 2107.003, Government_  
+| _Code, with a person to collect unpaid tolls and any applicable_  
+| _administrative fees from a person who has failed to pay at least six_  
+| _consecutive months of unpaid tolls before referring the matter to a_  
+| _court with jurisdiction over a civil penalty under Section 372.078._  
+|  _(d)_ _____A toll project entity may not collect unpaid tolls and_  
+| _administrative fees through an administrative adjudication hearing_  
+| _conducted by the toll project entity or a person who contracts with_  
+| _the toll project entity to conduct hearings._  
+|  _Sec._ ___372.076._ _____PAYMENT PLAN. In the second invoice for_  
+| _unpaid tolls sent to a person by a toll project entity, the toll_  
+| _project entity shall provide to the person the option to pay the_  
+| _tolls through a payment plan._  
+|  _Sec._ ___372.077._ _____NOTICE OF RETURNED PAYMENT. A toll project_  
+| _entity must immediately notify the holder of an electronic toll_  
+| _collection customer account that a payment by the credit card or_  
+| _debit card associated with the account was declined or could not_  
+| _otherwise be processed._  
+|  _Sec._ ___372.078._ _____CIVIL PENALTY FOR FAILURE TO PAY TWO OR MORE_  
+| _INVOICES._ ___(a)_ ___Except as provided by Subsection (c), a person who_  
+| _receives two or more invoices for unpaid tolls and who has not paid_  
+| _the amounts due on or before the due dates specified in the invoices_  
+| _is subject to a civil penalty of $25._ ___Only one civil penalty may be_  
+| _assessed in a six-month period._ ___An appropriate district or county_  
+| _attorney may sue to collect the civil penalty and the underlying_  
+| _toll and administrative fee._  
+|  _(b)_ _____In determining liability for a civil penalty under this_  
+| _section, it is presumed that the unpaid invoices were received on_  
+| _the fifth day after the date of mailing._  
+|  _(c)_ _____A person who enters into a payment plan under Section_  
+| _372.076 is subject to a civil penalty under Subsection (a) only if_  
+| _the person fails to make a payment required by the payment plan._  
+|  _(d)_ _____It is a defense to liability for a civil penalty under_  
+| _this section that the person:_  
+|  _(1)_ _____is not liable for payment of each toll assessed in_  
+| _the unpaid invoices; or_  
+|  _(2)_ _____paid the amount owed in the invoices pertaining to_  
+| _each toll assessed in the invoices for which the person is liable._  
+|  _(e)_ _____The court in which a person is found liable for a civil_  
+| _penalty under Subsection (a) shall collect the civil penalty,_  
+| _unpaid tolls, administrative fees, and any additional court costs_  
+| _and forward the amounts to the appropriate toll project entity._  
+|  _Sec._ ___372.079._ _____EXCEPTIONS TO TOLL LIABILITY:_ ___LEASED,_  
+| _TRANSFERRED, OR STOLEN VEHICLE._ ___(a)_ ___It is an exception to_  
+| _liability of a vehicle's registered owner for a toll incurred by the_  
+| _vehicle if the registered owner of the vehicle is a lessor of the_  
+| _vehicle and not later than the 30th day after the date the invoice_  
+| _containing an assessment of the toll is mailed provides to the_  
+| _appropriate toll project entity:_  
+|  _(1)_ _____a copy of the rental, lease, or other contract_  
+| _document covering the vehicle on the date the toll was incurred,_  
+| _with the name and address of the lessee clearly legible; or_  
+|  _(2)_ _____electronic data, in a format agreed on by the toll_  
+| _project entity and the lessor, other than a photocopy or scan of a_  
+| _rental or lease contract, that contains the information required_  
+| _under Sections 521.460(c)(1), (2), and (3) covering the vehicle on_  
+| _the date the toll was incurred._  
+|  _(b)_ _____If the lessor provides the required information within_  
+| _the period prescribed under Subsection (a), the toll project entity_  
+| _may send an invoice to the lessee at the address provided under_  
+| _Subsection (a) by first class mail not later than the 30th day after_  
+| _the date of receipt of the required information from the lessor._  
+|  _(c)_ _____It is an exception to liability of a vehicle's_  
+| _registered owner for a toll incurred by the vehicle if the_  
+| _registered owner of the vehicle:_  
+|  _(1)_ _____transferred ownership of the vehicle to another_  
+| _person before the toll was incurred;_  
+|  _(2)_ _____submitted written notice of the transfer to the_  
+| _Texas Department of Motor Vehicles in accordance with Section_  
+| _501.147; and_  
+|  _(3)_ _____not later than the 30th day after the date the_  
+| _invoice is mailed, provides to the appropriate toll project entity_  
+| _the name and address of the person to whom the vehicle was_  
+| _transferred._  
+|  _(d)_ _____If the former owner of the vehicle provides the required_  
+| _information within the period prescribed under Subsection (c), the_  
+| _toll project entity may send an invoice to the person to whom_  
+| _ownership of the vehicle was transferred at the address provided by_  
+| _the former owner by first class mail not later than the 30th day_  
+| _after the date of receipt of the required information from the_  
+| _former owner._  
+|  _(e)_ _____It is an exception to liability of a vehicle's_  
+| _registered owner for a toll incurred by the vehicle if:_  
+|  _(1)_ _____the vehicle in question was stolen before the toll_  
+| _was incurred and was not recovered by the time the toll was_  
+| _incurred; and_  
+|  _(2)_ _____the theft was reported to the appropriate law_  
+| _enforcement authority before the earlier of:_  
+|  _(A) the time the toll was incurred; or_  
+|  _(B) eight hours after the discovery of the theft._  
+|  _Sec._ ___372.080._ _____PRESUMPTION._ ___Proof that a vehicle passed_  
+| _through a toll collection facility without payment of the proper_  
+| _toll, together with proof that the invoice recipient was the_  
+| _registered owner or the driver of the vehicle when the toll was_  
+| _incurred, creates a presumption that the invoice recipient is_  
+| _liable for the toll incurred by the vehicle. The proof may be by a_  
+| _written statement of a peace officer or toll project entity_  
+| _employee, video surveillance, or any other reasonable evidence,_  
+| _including:_  
+|  _(1)_ _____evidence obtained by automated enforcement_  
+| _technology that the toll project entity determines is necessary,_  
+| _including automated enforcement technology described by Section_  
+| _372.073(b); or_  
+|  _(2)_ _____a copy of the rental, lease, or other contract_  
+| _document or the electronic data provided to the toll project entity_  
+| _under Section 372.079(a) that shows that the invoice recipient was_  
+| _the lessee of the vehicle when the toll was incurred._  
+|  _Sec._ ___372.081._ _____CONFIDENTIALITY OF INFORMATION RELATED TO_  
+| _TOLL COLLECTION AND ENFORCEMENT._ ___Information collected for the_  
+| _purposes of this subchapter, including contact, payment, and other_  
+| _account information and trip data, is confidential and not subject_  
+| _to disclosure under Chapter 552, Government Code._  
+| ARTICLE 2.  CONFORMING CHANGES  
+|  SECTION 2.01. Section 102.0213, Government Code, is amended  
+| to read as follows:  
+|  Sec. 102.0213. COURT COSTS ON CONVICTION: TRANSPORTATION  
+| CODE. A person convicted of an offense shall pay the following  
+| under the Transportation Code, in addition to all other costs:  
+|  (1) court cost on conviction of a misdemeanor under  
+| Subtitle C, Title 7, Transportation Code (Sec. 542.403,  
+| Transportation Code) . . . $3;  
+|  (2) cost for impoundment of vehicle (Sec. 601.263,  
+| Transportation Code) . . . $15 per day; and  
+|  (3) a civil [ ~~and criminal~~ ] enforcement cost on _a_  
+| _finding of liability for a civil penalty in connection with an_  
+| _assessed_ [ ~~conviction of an offense of, or related to, the~~  
+|  ~~nonpayment of a~~ ] toll in certain counties (Sec. 284.2031,  
+| Transportation Code) . . . $1.  
+|  SECTION 2.02. Section 228.059, Transportation Code, is  
+| amended to read as follows:  
+|  Sec. 228.059. TOLL COLLECTION AND ENFORCEMENT BY OTHER  
+| ENTITY. An entity operating a toll lane pursuant to Section  
+| 228.007(b) has, with regard to toll collection and enforcement for  
+| that toll lane, the same powers and duties as the department under  
+| this chapter _and Subchapter B-1, Chapter 372_. The entity may use  
+| revenues for improvement, extension, expansion, or maintenance of  
+| the toll lane.  
+|  SECTION 2.03. The heading to Subchapter D, Chapter 284,  
+| Transportation Code, is amended to read as follows:  
+| SUBCHAPTER D. _MISCELLANEOUS TOLL COLLECTION PROVISIONS_  
+| [ ~~UNAUTHORIZED USE OF TOLL ROADS IN CERTAIN COUNTIES~~ ]  
+|  SECTION 2.04. The heading to Section 284.2031,  
+| Transportation Code, is amended to read as follows:  
+|  Sec. 284.2031. CIVIL [ ~~AND CRIMINAL~~ ] ENFORCEMENT COST.  
+|  SECTION 2.05. Section 284.2031(a), Transportation Code, is  
+| amended to read as follows:  
+|  (a) A county may impose, in addition to other costs, $1 as a  
+| court cost on _the imposition of a civil penalty_ [ ~~conviction to a~~  
+|  ~~defendant convicted of an offense~~ ] under Section _372.078_ [
+~~284.070,~~  
+|  ~~284.0701, or 284.203~~ ] in an action brought by the county or district  
+| attorney.  
+|  SECTION 2.06. Section 366.038(h), Transportation Code, is  
+| amended to read as follows:  
+|  (h) For purposes of Subchapter C, Chapter 372, a toll  
+| project for which an authority provides tolling services under a  
+| tolling services agreement is considered a toll project of the  
+| authority and the authority is considered the toll project entity  
+| with respect to all rights and remedies arising under that  
+| subchapter regarding the toll project. The authority may not stop  
+| [ ~~, detain, or impound~~ ] a motor vehicle as authorized under that  
+| subchapter on a toll project's active traffic lanes unless a  
+| tolling service agreement addresses that action.  
+|  SECTION 2.07. Subchapter E, Chapter 366, Transportation  
+| Code, is amended by adding Section 366.186 to read as follows:  
+|  _Sec._ ___366.186._ _____OTHER POWERS AND DUTIES RELATED TO TOLL_  
+| _COLLECTION AND ENFORCEMENT. In addition to the other powers and_  
+| _duties provided by this chapter and Chapter 372, an authority has_  
+| _the same powers and duties as the department under Chapter 228, a_  
+| _county under Chapter 284, and a regional mobility authority under_  
+| _Chapter 370 regarding the authority's toll collection and_  
+| _enforcement powers for:_  
+|  _(1) the authority's turnpike projects; and_  
+|  _(2)_ _____other toll projects developed, financed,_  
+| _constructed, or operated under an agreement, including a_  
+| _comprehensive development agreement, with the authority._  
+|  SECTION 2.08. Subchapter E, Chapter 370, Transportation  
+| Code, is amended by adding Section 370.194 to read as follows:  
+|  _Sec._ ___370.194._ _____OTHER POWERS AND DUTIES RELATED TO TOLL_  
+| _COLLECTION AND ENFORCEMENT. In addition to the other powers and_  
+| _duties provided by this chapter and Chapter 372, an authority has_  
+| _the same powers and duties as the department under Chapter 228, a_  
+| _county under Chapter 284, and a regional tollway authority under_  
+| _Chapter 366 regarding the authority's toll collection and_  
+| _enforcement powers for:_  
+|  _(1) the authority's turnpike projects; and_  
+|  _(2)_ _____other toll projects developed, financed,_  
+| _constructed, or operated under an agreement with the authority or_  
+| _another entity._  
+|  SECTION 2.09. The heading to Subchapter C, Chapter 372,  
+| Transportation Code, is amended to read as follows:  
+| SUBCHAPTER C. _ADDITIONAL REMEDIES AND PROCEDURES FOR_ NONPAYMENT OF  
+| TOLLS _: CERTAIN TOLL PROJECT ENTITIES_ [ ~~; REMEDIES~~ ]  
+|  SECTION 2.10. The heading to Section 372.105,  
+| Transportation Code, is amended to read as follows:  
+|  Sec. 372.105. _INVOICES PROVIDED IN PERSON FOR USE OF TOLL_  
+| _PROJECT_ [ ~~NONPAYMENT~~ ] BY VEHICLES NOT REGISTERED IN THIS STATE.  
+|  SECTION 2.11. Sections 372.105(a) and (b), Transportation  
+| Code, are amended to read as follows:  
+|  (a) A toll project entity may, in lieu of mailing _an invoice_  
+| [ ~~a written notice of nonpayment~~ ], serve with _an invoice_ [ ~~a
+written~~  
+|  ~~notice of nonpayment~~ ] in person an owner of a vehicle that is not  
+| registered in this state, including the owner of a vehicle  
+| registered in another state of the United States, the United  
+| Mexican States, a state of the United Mexican States, or another  
+| country or territory.  _An invoice_ [ ~~A notice of nonpayment~~ ] may also  
+| be served by an employee of a governmental entity operating an  
+| international bridge at the time a vehicle with a record of  
+| nonpayment seeks to enter or leave this state.  
+|  (b) _An invoice_ [ ~~Each written notice of nonpayment~~ ] issued  
+| under Subsection (a) _must be paid not later than the due date_  
+| _specified in the invoice_ [ ~~shall include a warning that the failure~~  
+|  ~~to pay the amounts in the notice may result in the toll project~~  
+|  ~~entity's exercise of the habitual violator remedies under this~~  
+|  ~~subchapter~~ ].  
+|  SECTION 2.12. Section 541.201(13-a), Transportation Code,  
+| is amended to read as follows:  
+|  (13-a) "Police vehicle" means a vehicle used by a  
+| peace officer, as defined by Article 2.12, Code of Criminal  
+| Procedure, for law enforcement purposes that:  
+|  (A) is owned or leased by a governmental entity;  
+|  (B) is owned or leased by the police department  
+| of a private institution of higher education that commissions peace  
+| officers under Section 51.212, Education Code; or  
+|  (C) is:  
+|  (i) a private vehicle owned or leased by the  
+| peace officer; and  
+|  (ii) approved for use for law enforcement  
+| purposes by the head of the law enforcement agency that employs the  
+| peace officer, or by that person's designee, provided that use of  
+| the private vehicle must, if applicable, comply with any rule  
+| adopted by the commissioners court of a county under Section  
+| 170.001, Local Government Code, and that the private vehicle may  
+| not be considered an authorized emergency vehicle for exemption  
+| purposes under Section _372.072_ [ ~~228.054, 284.070, 366.178, or~~  
+|  ~~370.177~~ ], Transportation Code, unless the vehicle is marked.  
+| ARTICLE 3.  REPEALERS  
+|  SECTION 3.01. The following provisions of the  
+| Transportation Code are repealed:  
+|  (1) Sections 228.001(3-a), 228.054, 228.0545,  
+| 228.0546, 228.0547, 228.055, and 228.056;  
+|  (2) Sections 284.070, 284.0701, 284.0702, 284.202,  
+| 284.203, 284.2031(b), 284.2032, 284.204, 284.205, 284.206,  
+| 284.207, 284.208, 284.209, 284.210, 284.211, and 284.212;  
+|  (3) Section 366.178;  
+|  (4) Section 370.177;  
+|  (5) Sections 372.105(c), (d), (e), and (f);  
+|  (6) Sections 372.102, 372.106, 372.107, 372.108,  
+| 372.109, 372.110, 372.111, 372.112, 372.113, 372.114, and 372.115;  
+| and  
+|  (7) Section 502.011.  
+| ARTICLE 4.  TRANSITION; EFFECTIVE DATE  
+|  SECTION 4.01. The changes in law made by this Act apply only  
+| to a toll incurred on or after the effective date of this Act.  A  
+| toll incurred before the effective date of this Act is governed by  
+| the law in effect on the date the toll was incurred, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 4.02. This Act takes effect September 1, 2019.
+

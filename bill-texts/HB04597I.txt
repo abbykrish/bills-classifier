@@ -1,0 +1,111 @@
+|  
+---|---  
+|  By: Blanco | H.B. No. 4597  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to cybersecurity of state agencies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 552. 139 (b), Government Code, is  
+| amended to read as follows:  
+|  (b) The following information is confidential:  
+|  (1) a computer network vulnerability report;  
+|  (2) any other assessment of the extent to which data  
+| processing operations, a computer, a computer program, network,  
+| system, or system interface, or software of a governmental body or  
+| of a contractor of a governmental body is vulnerable to  
+| unauthorized access or harm, including an assessment of the extent  
+| to which the governmental body's or contractor's electronically  
+| stored information containing sensitive or critical information is  
+| vulnerable to alteration, damage, erasure, or inappropriate use;  
+|  (3) a photocopy of other copy of an identification  
+| badge issued to an official or employee of a governmental body;  
+| [ ~~and~~ ]  
+|  (4) information directly arising from a governmental  
+| body's routine to prevent, detect, investigate, or mitigate a  
+| computer security incident, including information contained in or  
+| derived from an information security log; _and_  
+|  _(5)_ _____information about a state agency's cybersecurity_  
+| _insurance coverage, including policy provisions and coverage_  
+| _limits._  
+|  SECTION 2. Subchapter N-1, Chapter 2054, Government Code,  
+| is amended by adding Section 2054.5172 to read as follows:  
+|  _Sec._ ___2054.5172._ _____CYBER RANGE. (a)_ ___In this section, "cyber_  
+| _range" means a virtual environment used for interactive training in_  
+| _the defense against and response to cyberwarfare and other_  
+| _cybersecurity incidents._  
+|  _(b)_ _____The department may create a cyber range for use by_  
+| _public sector employees with responsibility for cybersecurity to_  
+| _improve this state's cybersecurity capabilities._  
+|  SECTION 3. Subchapter N-1, Chapter 2054, Government Code,  
+| is amended by adding Section 2054.519, 2054.520, and 2054.521 to  
+| read as follows:  
+|  _Sec._ ___2054.519._ _____CYBERSECURITY RESOURCES PROGRAM FOR STATE_  
+| _AGENCIES. (a)_ ___The department may establish a program that provides_  
+| _to state agencies the use of information security officers and_  
+| _other cybersecurity resources to assist in managing the agencies'_  
+| _information security._  
+|  _(b)_ _____The department shall adopt rules to implement this_  
+| _section._  
+|  _Sec._ ___2054.520._ _____CYBERSECURITY INSURANCE. (a)_ ___The State_  
+| _Office of Risk Management shall evaluate the feasibility of_  
+| _providing cybersecurity insurance policies to state agencies._  
+|  _(b)_ _____The State Office of Risk Management shall develop_  
+| _guidance for state agencies regarding cybersecurity insurance_  
+| _coverage. The guidance must:_  
+|  _(1)_ _____be based on best practices for making_  
+| _cybersecurity insurance coverage decisions; and_  
+|  _(2) assist a state agency in determining whether:_  
+|  _(A)_ _____cybersecurity insurance coverage would be_  
+| _beneficial to the agency; and_  
+|  _(B)_ _____the agency should purchase a cybersecurity_  
+| _insurance policy from a third party or self-insure._  
+|  _(c)_ _____The department shall review and consider the guidance_  
+| _developed under this section in connection with the department's_  
+| _protection of statewide technology centers._  
+|  _Sec._ ___2054.521._ _____BUG BOUNTY PROGRAM. (a) The department by_  
+| _rule may establish a bug bounty program, using money available for_  
+| _that purpose from legislative appropriations, to pay bounties to_  
+| _persons who uncover or resolve security flaws in state websites and_  
+| _applications._  
+|  _(b)_ _____The department may determine eligibility criteria for_  
+| _receiving a bounty under this section and the amount of a bounty to_  
+| _be paid under this section._  
+|  _(c)_ _____An employee of or contractor with a state agency is not_  
+| _eligible to receive a bounty under this section._  
+|  _(d)_ _____The payment of a bounty under this section does not_  
+| _affect a person 's civil or criminal liability for prohibited_  
+| _conduct related to a state website or application._  
+|  SECTION 4. Section 2054.136, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2054.136. DESIGNATED INFORMATION SECURITY OFFICER;  
+| DUTIES.  _(a)_ ___In this section, "cloud computing service" has the_  
+| _meaning assigned by Section 2157.007._  
+|  _(b)_ Each state agency shall designate an information  
+| security officer who:  
+|  (1) reports to the agency 's executive-level  
+| management;  
+|  (2) has authority over information security for the  
+| entire agency;  
+|  (3) possesses the training and experience required to  
+| perform the duties required by department rules; and  
+|  (4) to the extent feasible, has information security  
+| duties as the officer 's primary duties.  
+|  _(c)_ _____A state agency 's information security officer must_  
+| _authorize the purchase of cloud computing services before the_  
+| _agency may enter into a contract for those services._  
+|  SECTION 5. Section 2054.1125, Government Code, is amended  
+| by adding Subsection (c) to read as follows:  
+|  _(c)_ _____Not later than the 10th business day after the date of_  
+| _the eradication, closure, and recovery from a breach, suspected_  
+| _breach, or unauthorized exposure, a state agency shall notify the_  
+| _department, including the chief information security officer, of_  
+| _the details of the event._  
+|  SECTION 6. The change in law made by this Act applies only  
+| to a contract for cloud computing services that is entered into on  
+| or after the effective date of this Act. A contract entered into  
+| before the effective date of this Act is governed by the law in  
+| effect on the date the contract was entered into, and the former law  
+| is continued in effect for that purpose.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,297 @@
+| 86R6912 CLG-F  
+---|---  
+|  By: Martinez Fischer | H.B. No. 3608  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to business entities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1.002, Business Organizations Code, is  
+| amended by amending Subdivisions (20-a) and (81) and adding  
+| Subdivision (20-b) to read as follows:  
+|  (20-a) _"Electronic data system" means an electronic_  
+| _network or database. The term includes a distributed electronic_  
+| _network or database employing blockchain or distributed ledger_  
+| _technology._  
+|  _(20-b)_ "Electronic transmission" means a form of  
+| communication _, including communication by use of or participation_  
+| _in one or more electronic data systems,_ that:  
+|  (A) does not directly involve the physical  
+| transmission of paper;  
+|  (B) creates a record that may be retained,  
+| retrieved, and reviewed by the recipient; and  
+|  (C) may be directly reproduced in paper form by  
+| the recipient through an automated process.  
+|  (81) "Shareholder" or "holder of shares" means:  
+|  (A) the person in whose name shares issued by a  
+| for-profit corporation, professional corporation, or real estate  
+| investment trust are registered in the share transfer records  
+| maintained by _or on behalf of_ the for-profit corporation,  
+| professional corporation, or real estate investment trust; or  
+|  (B) the beneficial owner of shares issued by a  
+| for-profit corporation, whose shares are held in a voting trust or  
+| by a nominee on the beneficial owner's behalf, to the extent of the  
+| rights granted by a nominee statement on file with the for-profit  
+| corporation in accordance with Sections 21.201(b) and (c).  
+|  SECTION 2. Sections 3.151(a) and (b), Business  
+| Organizations Code, are amended to read as follows:  
+|  (a) Each filing entity shall keep:  
+|  (1) books and records of accounts;  
+|  (2) minutes of the proceedings of the owners or  
+| members or governing authority of the filing entity and committees  
+| of the owners or members or governing authority of the filing  
+| entity;  
+|  (3) [ ~~at its registered office or principal place of~~  
+|  ~~business, or at the office of its transfer agent or registrar,~~ ] a  
+| current record of the name and mailing address of each owner or  
+| member of the filing entity; and  
+|  (4) other books and records as required by the title of  
+| this code governing the entity.  
+|  (b) The books, records, minutes, and ownership or  
+| membership records of any filing entity[ ~~, including those described~~  
+|  ~~in Subsection (a)(4),~~ ] may be _:_  
+|  _(1)_ in written paper form _;_ or  
+|  _(2)_ _____maintained by or on behalf of the filing entity on,_  
+| _or by means of, an information storage device or method or one or_  
+| _more electronic data systems, provided that any books, records,_  
+| _minutes, and ownership or membership records so maintained can be_  
+| [ ~~another form capable of being~~ ] converted into written paper form  
+| within a reasonable time.  
+|  SECTION 3. Sections 3.205(a) and (c), Business  
+| Organizations Code, are amended to read as follows:  
+|  (a) Except as provided by Subsection (c) and in accordance  
+| with Chapter 8, Business & Commerce Code, after _an issuance_  
+| [ ~~issuing~~ ] or _transfer of_ [ ~~transferring~~ ] an uncertificated  
+| ownership interest _in a domestic entity_ , [ ~~a domestic entity shall~~  
+|  ~~notify~~ ] the owner of the ownership interest _shall be notified_ in  
+| writing _or by electronic transmission_ of any information required  
+| under this subchapter to be stated on a certificate representing  
+| the ownership interest.  
+|  (c) _The owner of an uncertificated ownership interest in a_  
+| [ ~~A~~ ] domestic entity is not required to _be notified_ [ ~~send a
+notice~~ ]  
+| under Subsection (a) if:  
+|  (1) the required information is included in the  
+| governing documents of the entity; and  
+|  (2) the owner of the uncertificated ownership interest  
+| is provided with a copy of the governing documents.  
+|  SECTION 4. Sections 4.052, 4.053, 4.054, 4.055, and 4.056,  
+| Business Organizations Code, are amended to read as follows:  
+|  Sec. 4.052. DELAYED EFFECTIVENESS OF CERTAIN FILINGS. _(a)_  
+| Except as provided by Section 4.058, a filing instrument may take  
+| effect after the time the instrument would otherwise take effect as  
+| provided by this code for the entity filing the instrument _._  
+|  _(b)_ _____If the effectiveness of a filing instrument is to be_  
+| _delayed as permitted by this section, the filing instrument may_  
+| _take effect_ [ ~~and~~ ]:  
+|  (1) _at a specified date;_  
+|  _(2)_ at a specified date and time; [ ~~or~~ ]  
+|  _(3)_ [ ~~(2)~~ ] on the occurrence of a _specified_ future  
+| event or fact, including an act of any person _; or_  
+|  _(4)_ _____after the occurrence of a future event or fact,_  
+| _including the act of any person, at a specified date, at a specified_  
+| _date and time, or after the passage of a specified period of time_.  
+|  Sec. 4.053. CONDITIONS FOR DELAYED EFFECTIVENESS. (a) The  
+| _date, or the_ date and time _,_ at which a filing instrument takes  
+| effect is delayed if the instrument clearly and expressly states,  
+| in addition to any other required statement or information:  
+|  (1) the _specified date, or the specified_ [ ~~specific~~ ]  
+| date and time _,_ at which the instrument takes effect; or  
+|  (2) if the instrument takes effect on _or after_ the  
+| occurrence of a future event or fact that may occur:  
+|  (A) the [ ~~manner in which the~~ ] event or fact _that_  
+| will cause the instrument to take effect; [ ~~and~~ ]  
+|  (B) _when the filing instrument is to take effect,_  
+| _but only if the instrument is to take effect after the occurrence of_  
+| _a specified future event or fact; and_  
+|  _(C)_ the date of the 90th day after the date the  
+| instrument is signed.  
+|  (b) If _the effectiveness of_ a filing instrument is to _be_  
+| _delayed as permitted by Section 4.052_ [ ~~take effect on a specific~~  
+|  ~~date and time other than that provided by this code~~ ]:  
+|  (1) the _effective_ date may not be later than the 90th  
+| day after the date the instrument is signed; and  
+|  (2) the _specified_ [ ~~specific~~ ] time at which the  
+| instrument is to take effect may not be specified as "12:00 a.m." or  
+| "12:00 p.m."  
+|  Sec. 4.054. DELAYED EFFECTIVENESS ON FUTURE EVENT OR FACT.  
+| A filing instrument that is to take effect on _or after_ the  
+| occurrence of a future event or fact _in accordance with Section_  
+| _4.053(a)(2)_ [ ~~, other than the passage of time,~~ ] and for which the  
+| statement required by Section 4.055 is filed within the prescribed  
+| time[ ~~,~~ ] takes effect on _:_  
+|  _(1)_ the _date, or the_ date and time _,_ at which the [ ~~last~~  
+|  ~~specified~~ ] event or fact occurs _or is waived; or_  
+|  _(2)_ _____the specified date, the specified date and time,_  
+| _or the passage of the specified period of time after the occurrence_  
+| _or waiver of the event or fact_ [ ~~or the date and time at which a~~  
+|  ~~condition is satisfied or waived~~ ].  
+|  Sec. 4.055. STATEMENT OF EVENT OR FACT. An entity that  
+| files a filing instrument that takes effect on _or after_ the  
+| occurrence of a future event or fact _in accordance with Section_  
+| _4.053(a)(2)_ [ ~~, other than the passage of time,~~ ] must sign and file  
+| as provided by Subchapter A, not later than the 90th day after the  
+| date the filing instrument is filed, a statement that:  
+|  (1) confirms that each event or fact on which the  
+| effect of the instrument is conditioned has been satisfied or  
+| waived; [ ~~and~~ ]  
+|  (2) states the _date, or the_ date and time _,_ on which the  
+| condition was satisfied or waived _; and_  
+|  _(3)_ _____if the filing instrument was to take effect after_  
+| _the occurrence of a specified future event or fact, states the date,_  
+| _or the date and time, at which the filing instrument took effect_.  
+|  Sec. 4.056. FAILURE TO FILE STATEMENT. (a) If the [ ~~effect~~  
+|  ~~of a~~ ] filing instrument is _to take effect on or after_ [
+~~conditioned~~  
+|  ~~on~~ ] the occurrence of a future event or fact _in accordance with_  
+| _Section 4.053(a)(2)_ [ ~~, other than the passage of time,~~ ] and the  
+| statement required by Section 4.055 is not filed before the  
+| expiration of the prescribed time, the filing instrument does not  
+| take effect. This section does not preclude the filing of a  
+| subsequent filing instrument required by this code to make the  
+| action or transaction evidenced by the original filing instrument  
+| effective.  
+|  (b) If the [ ~~effect of a~~ ] filing instrument is _to take effect_  
+| _on or after_ [ ~~conditioned on~~ ] the occurrence of a future event or  
+| fact[ ~~, other than the passage of time,~~ ] and the specified event or  
+| fact does not occur and is not waived, the parties to the filing  
+| instrument must sign and file a certificate of abandonment as  
+| provided by Section 4.057.  
+|  SECTION 5. Section 4.057(e), Business Organizations Code,  
+| is amended to read as follows:  
+|  (e) If in the interim before a certificate of abandonment is  
+| filed the name of an entity that is a party to the action or  
+| transaction becomes _indistinguishable from_ [ ~~the same as or~~  
+|  ~~deceptively similar to~~ ] the name of another entity already on file  
+| or reserved or registered under this code, the filing officer may  
+| not file the certificate of abandonment unless the entity by or for  
+| whom the certificate is filed changes its name in the manner  
+| provided by this code for that entity.  
+|  SECTION 6. Section 4.059, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 4.059. ACKNOWLEDGMENT OF FILING WITH DELAYED  
+| EFFECTIVENESS. (a) An acknowledgment of filing issued or other  
+| action taken by the secretary of state affirming the filing of a  
+| filing instrument that has a specific delayed effective date _, or a_  
+| _specific delayed effective date and time,_ must state the _date, or_  
+| _the_ date and time _,_ at which the instrument takes effect.  
+|  (b) An acknowledgment of filing issued or other action taken  
+| by the secretary of state affirming the filing of a filing  
+| instrument the _effectiveness_ [ ~~effect~~ ] of which is delayed until _on_  
+| _or after_ the occurrence of a future event or fact must[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~state that the effective date and time of the~~  
+|  ~~filing instrument is conditioned on the occurrence of a future~~  
+|  ~~event or fact as described in the filing instrument; or~~  
+|  [ ~~(2) otherwise~~] indicate that the effective _date, or_  
+| _the effective_ date and time _,_ of the instrument is conditioned on the  
+| occurrence of a future event or fact.  
+|  SECTION 7. Section 6.205(b), Business Organizations Code,  
+| is amended to read as follows:  
+|  (b) Except as otherwise provided by an entity's governing  
+| documents, an electronic transmission of a consent by an owner,  
+| member, or governing person to the taking of an action by the entity  
+| is considered a signed writing if the transmission contains or is  
+| accompanied by information from which it can be determined:  
+|  (1) that the electronic transmission was transmitted  
+| by _or on behalf of_ the owner, member, or governing person; and  
+|  (2) the date on which _the electronic transmission was_  
+| _transmitted by or on behalf of_ the owner, member, or governing  
+| person [ ~~transmitted the electronic transmission~~ ].  
+|  SECTION 8. Section 101.302(c), Business Organizations  
+| Code, is amended to read as follows:  
+|  (c) The number of managers of a limited liability company  
+| may be increased or decreased by amendment to, or as provided by,  
+| the company agreement[ ~~, except that a decrease in the number of~~  
+|  ~~managers may not shorten the term of an incumbent manager~~ ].  
+|  SECTION 9. Section 101.501, Business Organizations Code, is  
+| amended by adding Subsection (d) to read as follows:  
+|  _(d)_ _____All books and records required to be maintained by a_  
+| _limited liability company under this section may be maintained in_  
+| _any form and manner permitted under Section 3.151(b)._  
+|  SECTION 10. Section 101.503(a), Business Organizations  
+| Code, is amended to read as follows:  
+|  (a) A limited liability company that refuses to allow a  
+| member _or an assignee of a membership interest_ to examine and copy,  
+| on written request that complies with Section 101.502(a), records  
+| or other information described by that section is liable to the  
+| member _or assignee_ for any cost or expense, including attorney's  
+| fees, incurred in enforcing the member's _or assignee's_ rights under  
+| Section 101.502. The liability imposed on a limited liability  
+| company under this subsection is in addition to any other damages or  
+| remedy afforded to the member _or assignee_ by law.  
+|  SECTION 11. Section 101.621, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.621. WINDING UP BY COURT ORDER. A district court  
+| in the county in which the registered office or principal place of  
+| business in this state of a domestic limited liability company is  
+| located, on application by or for a member associated with the  
+| series, has jurisdiction to order the winding up and termination of  
+| a series if the court determines that _:_  
+|  _(1)_ it is not reasonably practicable to carry on the  
+| business of the series in conformity with the company agreement _;_  
+|  _(2)_ _____the economic purpose of the series is likely to be_  
+| _unreasonably frustrated; or_  
+|  _(3)_ _____another member associated with the series has_  
+| _engaged in conduct relating to the series' business that makes it_  
+| _not reasonably practicable to carry on the business with that_  
+| _member_.  
+|  SECTION 12. Sections 152.306(b) and (c), Business  
+| Organizations Code, are amended to read as follows:  
+|  (b) Except as provided by Subsection (c), a creditor may  
+| proceed against [ ~~one or more partners or~~ ] the property of _one or_  
+| _more_ [ ~~the~~ ] partners to satisfy a judgment based on a claim against  
+| the partnership only if a judgment:  
+|  (1) is [ ~~also~~ ] obtained against the partner; and  
+|  (2) based on the same claim:  
+|  (A) is obtained against the partnership;  
+|  (B) has not been reversed or vacated; and  
+|  (C) remains unsatisfied for 90 days after:  
+|  (i) the date on which the judgment is  
+| entered; or  
+|  (ii) the date on which the stay expires, if  
+| the judgment is contested by appropriate proceedings and execution  
+| on the judgment is stayed.  
+|  (c) Subsection _(b)(2)_ [ ~~(b)~~ ] does not prohibit a creditor  
+| from proceeding directly against [ ~~one or more partners or~~ ] the  
+| property of _one or more_ [ ~~the~~ ] partners [ ~~without first seeking~~  
+|  ~~satisfaction from partnership property~~ ] if:  
+|  (1) the partnership is a debtor in bankruptcy;  
+|  (2) the creditor and the _partner or partners whose_  
+| _property is the subject of the proceeding brought by the creditor_  
+| [ ~~partnership~~ ] agreed that the creditor is not required to comply  
+| with Subsection _(b)(2)_ [ ~~(b)~~ ];  
+|  (3) a court orders otherwise, based on a finding that  
+| partnership property subject to execution in the state is clearly  
+| insufficient to satisfy the judgment or that compliance with  
+| Subsection _(b)(2)_ [ ~~(b)~~ ] is excessively burdensome; or  
+|  (4) liability is imposed on the partner by law _or_  
+| _contract_ independently of the person's status as a partner.  
+|  SECTION 13. Section 152.606, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 152.606. INDEMNIFICATION _OF WITHDRAWN PARTNER_ [ ~~FOR~~  
+|  ~~CERTAIN LIABILITY~~ ]. [ ~~(a)~~ ] A partnership shall indemnify a  
+| withdrawn partner _whose interest is redeemed_ against _all_ [ ~~a~~ ]  
+| partnership _obligations, whether_ [ ~~liability~~ ] incurred before _or_  
+| _after_ the date of withdrawal, except for _an obligation_ [ ~~a~~  
+|  ~~liability:~~  
+|  [ ~~(1) that is unknown to the partnership at the time; or~~  
+|  [ ~~(2)~~ ] incurred by an act of the withdrawn partner  
+| under Section 152.504.  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~For purposes of this section, a liability is unknown
+to~~  
+|  ~~the partnership if it is not known to a partner other than the~~  
+|  ~~withdrawn partner.~~ ]  
+|  SECTION 14. Sections 153.551(b) and (c), Business  
+| Organizations Code, are amended to read as follows:  
+|  (b) _All books and records required to be maintained by a_ [ ~~A~~ ]  
+| limited partnership _under this section may be maintained in any_  
+| _form and manner permitted under Section 3.151(b)_ [ ~~shall maintain~~  
+|  ~~its records in written form or in another form capable of being~~  
+|  ~~converted to written form in a reasonable time~~ ].  
+|  (c) A limited partnership shall keep in its registered  
+| office in this state and make available to a partner on reasonable  
+| request the street address of its principal office in the United  
+| States in which the records required by this section are maintained  
+| _or made available_.  
+|  SECTION 15. This Act takes effect September 1, 2019.
+

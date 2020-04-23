@@ -1,0 +1,61 @@
+| 86R2390 JCG-F  
+---|---  
+|  By: Harless | H.B. No. 738  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the entry of certain bond conditions into the Texas  
+| Crime Information Center.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 17, Code of Criminal Procedure, is  
+| amended by adding Article 17.50 to read as follows:  
+|  _Art._ ___17.50._ _____ENTRY OF BOND CONDITIONS INTO TEXAS CRIME_  
+| _INFORMATION CENTER; DUTIES OF MAGISTRATES, SHERIFFS, AND_  
+| _DEPARTMENT OF PUBLIC SAFETY. (a) In this article, "database" means_  
+| _the statewide law enforcement information system maintained by the_  
+| _Department of Public Safety, also known as the Texas Crime_  
+| _Information Center._  
+|  _(b)_ _____As soon as possible but not later than the next business_  
+| _day after the date a magistrate imposes a condition of bond on an_  
+| _arrested person under this chapter, the magistrate shall notify the_  
+| _sheriff of the condition and provide to the sheriff the following_  
+| _information:_  
+|  _(1)_ _____the name, sex, race, date of birth, personal_  
+| _descriptors, address, and county of residence of the person on whom_  
+| _the condition of bond is imposed;_  
+|  _(2)_ _____any known identifying number of the person on whom_  
+| _the condition of bond is imposed, including the person's social_  
+| _security number or driver's license number;_  
+|  _(3)_ _____the name and county of residence of any named_  
+| _person the condition of bond is intended to protect, and if_  
+| _different and applicable, the name and county of residence of the_  
+| _victim of the alleged offense; and_  
+|  _(4) the condition of bond imposed._  
+|  _(c)_ _____On receipt of the information described by Subsection_  
+| _(b), the sheriff shall enter the information into the database._  
+|  _(d)_ _____As soon as possible but not later than the next business_  
+| _day after the date a magistrate revokes a bond that contains a_  
+| _condition, modifies the terms of or removes a condition of bond, or_  
+| _disposes of the underlying criminal charges in the case, the_  
+| _magistrate shall notify the sheriff and provide the sheriff with_  
+| _information that is sufficient to enable the sheriff to update the_  
+| _database accordingly._  
+|  _(e)_ _____The Department of Public Safety shall modify the_  
+| _database to enable the database to accept and maintain detailed_  
+| _information regarding the requirements and status of a condition of_  
+| _bond imposed by a magistrate, including information described by_  
+| _Subsections (b) and (d)._  
+|  _(f)_ _____This article does not apply to a condition of bond_  
+| _imposed under Article 17.441._  
+|  SECTION 2. Not later than January 1, 2020, the Department of  
+| Public Safety of the State of Texas shall modify the statewide law  
+| enforcement information system maintained by the department, also  
+| known as the Texas Crime Information Center, to enable the database  
+| to accept and maintain detailed information regarding the  
+| requirements and status of a condition of bond imposed by a  
+| magistrate, as required by Article 17.50(e), Code of Criminal  
+| Procedure, as added by this Act.  
+|  SECTION 3. (a) Except as provided by Subsection (b) of this  
+| section, this Act takes effect January 1, 2020.  
+|  (b) Section 2 of this Act takes effect September 1, 2019.
+

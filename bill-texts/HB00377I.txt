@@ -1,0 +1,519 @@
+| 86R4339 ADM-D  
+---|---  
+|  By: Lang | H.B. No. 377  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring a voter to be affiliated with a political  
+| party to vote in that party's primary election or otherwise  
+| participate in that party's affairs; creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.002(c), Election Code, is amended to  
+| read as follows:  
+|  (c) A registration application must include:  
+|  (1) the applicant's first name, middle name, if any,  
+| last name, and former name, if any;  
+|  (2) the month, day, and year of the applicant's birth;  
+|  (3) a statement that the applicant is a United States  
+| citizen;  
+|  (4) a statement that the applicant is a resident of the  
+| county;  
+|  (5) a statement that the applicant has not been  
+| determined by a final judgment of a court exercising probate  
+| jurisdiction to be:  
+|  (A) totally mentally incapacitated; or  
+|  (B) partially mentally incapacitated without the  
+| right to vote;  
+|  (6) a statement that the applicant has not been  
+| finally convicted of a felony or that the applicant is a felon  
+| eligible for registration under Section 13.001;  
+|  (7) the applicant's residence address or, if the  
+| residence has no address, the address at which the applicant  
+| receives mail and a concise description of the location of the  
+| applicant's residence;  
+|  (8) the following information:  
+|  (A) the applicant's Texas driver's license number  
+| or the number of a personal identification card issued by the  
+| Department of Public Safety;  
+|  (B) if the applicant has not been issued a number  
+| described by Paragraph (A), the last four digits of the applicant's  
+| social security number; or  
+|  (C) a statement by the applicant that the  
+| applicant has not been issued a number described by Paragraph (A) or  
+| (B);  
+|  (9) if the application is made by an agent, a statement  
+| of the agent's relationship to the applicant; [ ~~and~~ ]  
+|  (10) the city and county in which the applicant  
+| formerly resided _; and_  
+|  _(11)_ _____the applicant's political party affiliation, if_  
+| _any_.  
+|  SECTION 2. Section 13.122(a), Election Code, is amended to  
+| read as follows:  
+|  (a) In addition to the other statements and spaces for  
+| entering information that appear on an officially prescribed  
+| registration application form, each official form must include:  
+|  (1) the statement: "I understand that giving false  
+| information to procure a voter registration is perjury and a crime  
+| under state and federal law.";  
+|  (2) a space for the applicant's registration number;  
+|  (3) a space for the applicant's Texas driver's license  
+| number or number of a personal identification card issued by the  
+| Department of Public Safety;  
+|  (4) a space for the applicant's telephone number;  
+|  (5) a space for the applicant's social security  
+| number;  
+|  (6) a space for the applicant's sex;  
+|  (7) a statement indicating that the furnishing of the  
+| applicant's telephone number and sex is optional;  
+|  (8) a space or box for indicating whether the  
+| applicant or voter is submitting new registration information or a  
+| change in current registration information;  
+|  (9) a statement instructing a voter who is using the  
+| form to make a change in current registration information to enter  
+| the voter's name and the changed information in the appropriate  
+| spaces on the form;  
+|  (10) a statement that if the applicant declines to  
+| register to vote, that fact will remain confidential and will be  
+| used only for voter registration purposes;  
+|  (11) a statement that if the applicant does register  
+| to vote, information regarding the agency or office to which the  
+| application is submitted will remain confidential and will be used  
+| only for voter registration purposes;  
+|  (12) a space or box for indicating whether the  
+| applicant is interested in working as an election judge;  
+|  (13) a statement warning that a conviction for making  
+| a false statement may result in imprisonment for up to the maximum  
+| amount of time provided by law, a fine of up to the maximum amount  
+| provided by law, or both the imprisonment and the fine; [ ~~and~~ ]  
+|  (14) _a space for the applicant's political party_  
+| _affiliation; and_  
+|  _(15)_ any other voter registration information  
+| required by federal law or considered appropriate and required by  
+| the secretary of state.  
+|  SECTION 3. Section 14.001, Election Code, is amended by  
+| adding Subsections (e) and (f) to read as follows:  
+|  _(e)_ _____Notwithstanding Subsection (a), the registrar may not_  
+| _issue a renewal certificate to a voter before December 31, 2019,_  
+| _unless the voter's political party affiliation, if any, appears on_  
+| _the list described by Section 18.005(a). The registrar must issue a_  
+| _renewal certificate to each voter entitled to a renewal certificate_  
+| _under this section not later than January 20, 2020. This subsection_  
+| _expires January 31, 2020._  
+|  _(f)_ _____A renewal certificate issued in January 2020 is_  
+| _considered to have been issued in the prior year for purposes of_  
+| _Subsection (c). This subsection expires December 31, 2021._  
+|  SECTION 4. Section 15.001(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Each voter registration certificate issued must  
+| contain:  
+|  (1) the voter's name in the form indicated by the  
+| voter, subject to applicable requirements prescribed by Section  
+| 13.002 and by rule of the secretary of state;  
+|  (2) the voter's residence address or, if the residence  
+| has no address, the address at which the voter receives mail and a  
+| concise description of the location of the voter's residence;  
+|  (3) the month, day, and year of the voter's birth;  
+|  (4) the number of the county election precinct in  
+| which the voter resides;  
+|  (5) the voter's effective date of registration if an  
+| initial certificate;  
+|  (6) the voter's registration number;  
+|  (7) an indication of the period for which the  
+| certificate is issued;  
+|  (8) a statement explaining the circumstances under  
+| which the voter will receive a new certificate;  
+|  (9) a space for _indicating_ [ ~~stamping~~ ] the voter's  
+| political party affiliation;  
+|  (10) a statement that voting with the certificate by a  
+| person other than the person in whose name the certificate is issued  
+| is a felony;  
+|  (11) a space for the voter's signature;  
+|  (12) a statement that the voter must sign the  
+| certificate personally, if able to sign, immediately on receipt;  
+|  (13) a space for the voter to correct the information  
+| on the certificate followed by a signature line;  
+|  (14) the statement: "If any information on this  
+| certificate changes or is incorrect, correct the information in the  
+| space provided, sign below, and return this certificate to the  
+| voter registrar.";  
+|  (15) the registrar's mailing address and telephone  
+| number; and  
+|  (16) the jurisdictional or distinguishing number for  
+| the following territorial units in which the voter resides, as  
+| determined by the voter registrar:  
+|  (A) congressional district;  
+|  (B) state senatorial district;  
+|  (C) state representative district;  
+|  (D) commissioners precinct;  
+|  (E) justice precinct;  
+|  (F) city election precinct; and  
+|  (G) school district election precinct.  
+|  SECTION 5. Section 15.025(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Except as provided by Subsections (b) and (d) _and_  
+| _Section 162.003(e)_ , the registration of a voter described by this  
+| subsection whose information is changed on the registration records  
+| becomes effective as to the change on the 30th day after:  
+|  (1) the date the voter submits to the registrar a  
+| notice of a change in registration information under Section 15.021  
+| or a response under Section 15.053, indicating the change; or  
+|  (2) the date the voter submits a statement of  
+| residence to an election officer under Section 63.0011 or a  
+| registration application or change of address to an agency employee  
+| under Chapter 20, indicating the change.  
+|  SECTION 6. Section 18.005(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Each original and supplemental list of registered  
+| voters must:  
+|  (1) contain the voter's name, date of birth, and  
+| registration number as provided by the statewide computerized voter  
+| registration list;  
+|  (2) contain the voter's residence address, except as  
+| provided by Subsections (b) and (c) or Section 18.0051;  
+|  (3) be arranged alphabetically by voter name; [ ~~and~~ ]  
+|  (4) contain the notation required by Section 15.111 _;_  
+| _and_  
+|  _(5)_ _____contain the political party affiliation of each_  
+| _voter, if any_.  
+|  SECTION 7. Section 63.011(a), Election Code, is amended to  
+| read as follows:  
+|  (a) A person to whom Section 63.001(g) _,_ [ ~~or~~ ] 63.009 _, or_  
+| _172.1115(c)_ applies may cast a provisional ballot if the person  
+| executes an affidavit stating that the person:  
+|  (1) is a registered voter in the precinct in which the  
+| person seeks to vote; and  
+|  (2) is eligible to vote in the election.  
+|  SECTION 8. Section 112.002, Election Code, is amended by  
+| adding Subsection (g) to read as follows:  
+|  _(g)_ _____If the voter seeks a limited ballot for a party primary_  
+| _election, the voter must indicate the political party the voter was_  
+| _affiliated with at the address where the voter was previously_  
+| _registered on the statement executed under Subsection (c). If the_  
+| _early voting clerk can establish the voter's affiliation from the_  
+| _previous registration, the voter is entitled to vote a limited_  
+| _ballot in that party's primary._  
+|  SECTION 9. Section 142.004(a), Election Code, is amended to  
+| read as follows:  
+|  (a) To be entitled to a place on the general election  
+| ballot, a candidate must _:_  
+|  _(1)_ make an application for a place on the ballot _; and_  
+|  _(2)_ _____not be affiliated with a political party at the_  
+| _time the application is made_.  
+|  SECTION 10. Section 142.008, Election Code, is amended to  
+| read as follows:  
+|  Sec. 142.008. STATEMENT ON PETITION. The following  
+| statement must appear at the top of each page of a candidate's  
+| petition: "I know the purpose of this petition. I _am not_  
+| _affiliated with a political party that holds a primary election_  
+| [ ~~have not voted in the general primary election or runoff primary~~  
+|  ~~election of any political party that has nominated, at either~~  
+|  ~~election, a candidate for the office of (insert office title) for~~  
+|  ~~which (insert candidate's name) is a candidate~~ ]."  
+|  SECTION 11. Section 142.009, Election Code, is amended to  
+| read as follows:  
+|  Sec. 142.009. PETITION TO BE CIRCULATED AFTER PRIMARY. A  
+| signature on a candidate's petition is invalid if the signer:  
+|  (1) signed the petition on or before general primary  
+| election day or, if a runoff primary is held for the office sought  
+| by the candidate, on or before runoff primary election day; or  
+|  (2) _is affiliated with a political party that holds a_  
+| _primary election_ [ ~~voted in the general or runoff primary election~~  
+|  ~~of a political party that made a nomination, at either primary, for~~  
+|  ~~the office sought by the candidate~~ ].  
+|  SECTION 12. Section 161.005(a), Election Code, is amended  
+| to read as follows:  
+|  (a) To be eligible to be a candidate for or to serve as a  
+| county or precinct chair of a political party, a person must:  
+|  (1) be a qualified voter of the county _and affiliated_  
+| _with that political party_ ; and  
+|  (2) except as provided by Subsection (c), not be a  
+| candidate for nomination or election to, or be the holder of, an  
+| elective office of the federal, state, or county government.  
+|  SECTION 13. Section 162.001(a), Election Code, is amended  
+| to read as follows:  
+|  (a) A person must be affiliated with a political party to be  
+| eligible:  
+|  (1) to serve as a delegate to or otherwise participate  
+| in a convention held by the party under this code;  
+|  (2) to be elected as a member of or be appointed to  
+| fill a vacancy on a state executive committee;  
+|  (3) to be appointed to fill a vacancy on a county  
+| executive committee;  
+|  _(4) to vote in the party's primary election;_  
+|  _(5) to be a candidate in the party's primary election;_  
+|  _(6)_ _____to be the party's nominee for an office elected at_  
+| _the general election for state and county officers;_  
+|  _(7)_ _____to be a presidential elector for the political_  
+| _party;_ or  
+|  _(8)_ [ ~~(4)~~ ] for any other purpose within the party as  
+| adopted by state party rules.  
+|  SECTION 14. Section 162.003, Election Code, is amended to  
+| read as follows:  
+|  Sec. 162.003. AFFILIATION _PROCEDURE_ [ ~~BY VOTING IN~~  
+|  ~~PRIMARY~~ ]. _(a)_ A person becomes affiliated with a political party  
+| _by notifying the registrar of the person's affiliation_ [ ~~when the~~  
+|  ~~person:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~is accepted to vote in the party's primary~~  
+|  ~~election; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~applies for and is provided an early voting or~~  
+|  ~~limited primary ballot to be voted by mail~~ ].  
+|  _(b) At the time a person registers to vote the person may:_  
+|  _(1)_ _____affiliate with a political party that holds a_  
+| _primary election or a political party that makes its nominations by_  
+| _convention regardless of whether the party has a state_  
+| _organization; or_  
+|  _(2) indicate no affiliation with any political party._  
+|  _(c)_ _____Affiliation under Subsection (b)(1) takes effect on the_  
+| _first anniversary of the date the person submits a registration_  
+| _application to the registrar._  
+|  _(d)_ _____A registered voter who does not indicate an affiliation_  
+| _with a political party of this state shall be listed as_  
+| _"independent" on the voter's registration certificate and on the_  
+| _list of registered voters._  
+|  _(e)_ _____A registered voter may change the voter's affiliation_  
+| _status by notifying the registrar as provided by Section 15.021._  
+| _The change becomes effective on the first anniversary of the date_  
+| _the voter submits notice of the change to the registrar under_  
+| _Section 15.021._  
+|  _(f)_ _____A person may also indicate a party affiliation at the_  
+| _time the person submits a federal postcard application under_  
+| _Chapter 101. The affiliation takes effect at the time provided for_  
+| _a change under Subsection (e)._  
+|  _(g)_ _____The secretary of state shall prescribe any additional_  
+| _procedures necessary to implement this section._  
+|  _(h)_ _____Notwithstanding Subsection (c), if a person is 18 years_  
+| _of age or younger at the time the person registers to vote,_  
+| _affiliation under Subsection (b)(1) takes effect on the first_  
+| _election at which the person is eligible to vote following the_  
+| _submission of the registration application._  
+|  _(i)_ _____Notwithstanding Subsections (c) and (e), if a person_  
+| _notifies the registrar of the person's affiliation not later than_  
+| _December 31, 2019, the affiliation takes effect on the first_  
+| _election at which the person is eligible to vote following the_  
+| _submission of the registration application or change, as_  
+| _applicable. This subsection expires December 31, 2020._  
+|  SECTION 15. Section 162.010(a), Election Code, is amended  
+| to read as follows:  
+|  (a) _A_ [ ~~Except as provided by Subsection (b), a~~ ] party  
+| affiliation expires _on cancellation of a voter's registration or at_  
+| _the time a change in affiliation takes effect under Section 162.003_  
+| [ ~~at the end of the voting year in which the person became~~  
+|  ~~affiliated~~ ].  
+|  SECTION 16. Section 162.013, Election Code, is amended to  
+| read as follows:  
+|  Sec. 162.013. VOID VOTE. A vote in a primary election is  
+| void if the voter _is not affiliated with the political party holding_  
+| _the primary_ [ ~~previously voted in a primary election of another~~  
+|  ~~party or participated in a convention of another party during the~~  
+|  ~~same voting year~~ ].  
+|  SECTION 17. Sections 162.014(a), (c), and (d), Election  
+| Code, are amended to read as follows:  
+|  (a) A person commits an offense if the person knowingly  
+| votes or attempts to vote in a primary election or participates or  
+| attempts to participate in a convention of a party _without being_  
+| _affiliated with that party_ [ ~~after having voted in a primary~~  
+|  ~~election or participated in a convention of another party during~~  
+|  ~~the same voting year~~ ].  
+|  (c) An offense under this section is a felony of the second  
+| degree if the conduct constituting an offense under Subsection (a)  
+| consists of knowingly voting in a primary election _without being_  
+| _affiliated with that party_ [ ~~after having voted in a primary~~  
+|  ~~election of another party during the same voting year~~ ].  
+|  (d) An offense under this section is a state jail felony if  
+| the conduct constituting an offense under Subsection (a) consists  
+| of knowingly attempting to vote in a primary election _without being_  
+| _affiliated with that party_ [ ~~after having voted in a primary~~  
+|  ~~election of another party during the same voting year~~ ].  
+|  SECTION 18. Section 162.017(e), Election Code, is amended  
+| to read as follows:  
+|  (e) The preregistration process must [ ~~include the statement~~  
+|  ~~described by Section 162.004(a) and~~ ] require a preregistering  
+| attendee to _be affiliated_ [ ~~affiliate~~ ] with the party [ ~~by taking
+the~~  
+|  ~~oath described in Section 162.007(b)~~ ].  
+|  SECTION 19. Section 172.021, Election Code, is amended by  
+| amending Subsection (b) and adding Subsections (b-3) and (h) to  
+| read as follows:  
+|  (b) _In_ [ ~~An application must, in~~ ] addition to complying with  
+| Section 141.031, _an application must:_  
+|  _(1)_ _____indicate that, at the time of the application, the_  
+| _applicant is affiliated with the political party whose nomination_  
+| _for office the candidate seeks; and_  
+|  _(2)_ be accompanied by the appropriate filing fee or a  
+| petition in lieu of the filing fee that satisfies the requirements  
+| prescribed by Section 141.062. [ ~~A political party may not require~~  
+|  ~~payment of a fee as a condition to applying for a place on the ballot~~  
+|  ~~as a candidate for county chair or precinct chair.~~ ]  
+|  _(b-3)_ _____A political party may not require payment of a fee_  
+| _under this section as a condition to applying for a place on the_  
+| _ballot as a candidate for county chair or precinct chair._  
+|  _(h)_ _____A signature on a petition under this section is not_  
+| _valid if at the time of signing the signer is affiliated with a_  
+| _political party other than the party whose nomination for office_  
+| _the candidate seeks. A signature on a petition under this section_  
+| _is valid if at the time of signing the signer is unaffiliated with a_  
+| _political party._  
+|  SECTION 20. Section 172.026, Election Code, is amended to  
+| read as follows:  
+|  Sec. 172.026. RESTRICTION ON PETITION SIGNER. On signing a  
+| petition to be filed under Section 172.021, the signer becomes  
+| ineligible to _affiliate with_ [ ~~vote in a primary election or~~  
+|  ~~participate in a convention of~~ ] another political party during the  
+| voting year in which the primary election is held.  
+|  SECTION 21. Section 172.027, Election Code, is amended to  
+| read as follows:  
+|  Sec. 172.027. STATEMENT ON PETITION. The following  
+| statement must appear at the top of each page of a petition to be  
+| filed under Section 172.021: "I know that the purpose of this  
+| petition is to entitle (insert candidate's name) to have his or her  
+| name placed on the ballot for the office of (insert office title,  
+| including any place number or other distinguishing number) for the  
+| (insert political party's name) primary election. I understand  
+| that by signing this petition I become ineligible to _affiliate with_  
+| _another political party or to_ vote [ ~~in a primary election~~ ] or  
+| participate in a _primary election or_ convention of another party,  
+| including a party not holding a primary election, during the voting  
+| year in which this primary election is held."  
+|  SECTION 22. Section 172.086, Election Code, is amended to  
+| read as follows:  
+|  Sec. 172.086. PLEDGE ON BALLOT. The following pledge shall  
+| be placed on the primary election ballot above the listing of  
+| candidates' names: "I am a (insert appropriate political party)  
+| and understand that I am ineligible to _affiliate with another_  
+| _political party or to_ vote or participate in another political  
+| party's primary election or convention during this voting year."  
+|  SECTION 23. Section 172.088(c), Election Code, is amended  
+| to read as follows:  
+|  (c) _A petition signer may not at the time of signing be_  
+| _affiliated with another political party._ A political party by rule  
+| may provide for _permitting voters who are not affiliated with any_  
+| _political party to be eligible to sign a petition under this section_  
+| [ ~~restricting petition signers on the basis of party alignment or~~  
+|  ~~preference~~ ].  
+|  SECTION 24. Subchapter E, Chapter 172, Election Code, is  
+| amended by adding Section 172.1115 to read as follows:  
+|  _Sec._ ___172.1115._ _____AFFILIATION WITH PARTY REQUIRED. (a) The_  
+| _signature roster for a primary election must state at the top of_  
+| _each page: "A person commits a criminal offense if the person_  
+| _knowingly votes in a primary election or participates in a_  
+| _convention of a party without being affiliated with that party."_  
+|  _(b)_ _____Except as provided by Subsection (c), a person may not_  
+| _be accepted for voting in a primary election of a political party_  
+| _unless:_  
+|  _(1)_ _____the list of registered voters indicates that the_  
+| _person is affiliated with that political party; or_  
+|  _(2)_ _____the voter's registration certificate indicates_  
+| _that the voter is affiliated with that political party._  
+|  _(c)_ _____A person who seeks to vote in a primary election but_  
+| _cannot establish the person's party affiliation under Subsection_  
+| _(b) may be accepted only for provisional voting under Section_  
+| _63.011._  
+|  SECTION 25. Section 172.126(g), Election Code, is amended  
+| to read as follows:  
+|  (g) A separate set of ballot boxes or other suitable  
+| containers approved by the secretary of state shall be used for each  
+| party's primary, except that one set of ballot boxes or other  
+| containers may be used in a joint primary using an electronic voting  
+| system in which the ballots are deposited by the voters directly  
+| into a unit of automatic tabulating equipment. [ ~~The lists of~~  
+|  ~~registered voters and the voters' registration certificates shall~~  
+|  ~~be marked and stamped to show the appropriate party affiliation for~~  
+|  ~~each voter.~~ ] A separate list of registered voters shall be used for  
+| each party's primary. The secretary of state by rule shall  
+| prescribe requirements to ensure that one party's ballot is readily  
+| distinguished from another's, which may include the use of  
+| different colors of ink.  
+|  SECTION 26. Sections 181.006(f) and (g), Election Code, are  
+| amended to read as follows:  
+|  (f) The following statement must appear at the top of each  
+| page of the petition: "I know that the purpose of this petition is  
+| to entitle the _______ Party to have its nominees placed on the  
+| ballot in the general election for state and county officers. _I am_  
+| _not affiliated with another political party._ [ ~~I have not voted in a~~  
+|  ~~primary election or participated in a convention of another party~~  
+|  ~~during this voting year, and I understand that I become ineligible~~  
+|  ~~to do so by signing this petition.~~ ] I understand that signing more  
+| than one petition to entitle a party to have its nominees placed on  
+| the general election ballot in the same election is prohibited."  
+|  (g) A person who _is affiliated with another political party_  
+| [ ~~has voted in a primary election or participated in a convention of~~  
+|  ~~another party during the voting year in which the petition is~~  
+|  ~~circulated~~ ] is ineligible to sign the petition, and the signature  
+| of such a person is invalid.  
+|  SECTION 27. Section 181.031(a), Election Code, is amended  
+| to read as follows:  
+|  (a) To be entitled to be considered for nomination by a  
+| convention held under this chapter, a person must _:_  
+|  _(1)_ make an application for nomination _; and_  
+|  _(2)_ _____be affiliated with the political party whose_  
+| _nomination for office the candidate seeks_.  
+|  SECTION 28. Section 181.065, Election Code, is amended to  
+| read as follows:  
+|  Sec. 181.065. PARTICIPANT TO BE _AFFILIATED WITH PARTY_  
+| [ ~~REGISTERED VOTER~~ ]. To be eligible to participate in a precinct  
+| convention held under this chapter, a person must be _affiliated_  
+| _with the political party_ [ ~~a registered voter of the precinct or a~~  
+|  ~~precinct resident who is eligible to vote a limited ballot~~ ].  
+|  SECTION 29. Section 182.0041(a), Election Code, is amended  
+| to read as follows:  
+|  (a) To be entitled to be considered for nomination by a  
+| convention held under this chapter, a person must _:_  
+|  _(1)_ make an application for nomination _; and_  
+|  _(2)_ _____be affiliated with the political party whose_  
+| _nomination for office the candidate seeks_.  
+|  SECTION 30. Sections 192.032(f) and (g), Election Code, are  
+| amended to read as follows:  
+|  (f) The following statement must appear at the top of each  
+| page of the petition: "I _am not affiliated with a political party_  
+| _that has held_ [ ~~did not vote this year in~~ ] a presidential primary  
+| election _this year_."  
+|  (g) A signature on the petition is invalid if the signer:  
+|  (1) signs the petition on or before the date of the  
+| presidential primary election in the presidential election year; or  
+|  (2) _is affiliated with a political party that has held_  
+| [ ~~voted in~~ ] a presidential primary election during the presidential  
+| election year.  
+|  SECTION 31. Section 203.011, Election Code, is amended to  
+| read as follows:  
+|  Sec. 203.011. PARTY ALIGNMENT ON BALLOT. The party  
+| alignment of each candidate shall be printed on the official ballot  
+| next to the candidate's name. _If a candidate is affiliated with a_  
+| _political party, that party shall be printed next to the_  
+| _candidate's name regardless of the party alignment provided on the_  
+| _application under Section 203.005(b)._  
+|  SECTION 32. Sections 162.001(b), 162.004, 162.005,  
+| 162.006, 162.007, 162.008, 162.009, 162.010(b), 162.011, 162.012,  
+| 172.1141, and 172.125, Election Code, are repealed.  
+|  SECTION 33. (a) Not later than October 1, 2019, the voter  
+| registrar of each county shall mail to each registered voter in the  
+| county notice of the affiliation requirement necessary to vote in a  
+| party primary election or to participate in the affairs of a  
+| political party. The notice must:  
+|  (1) inform the voter that to vote in a party primary  
+| election or to otherwise participate in the affairs of a political  
+| party the voter must be affiliated with that party;  
+|  (2) inform the voter of the process of affiliation  
+| with the voter registrar and state that if a voter does not provide  
+| an affiliation, the voter's next registration certificate will  
+| indicate that the voter is "independent" and unable to vote in a  
+| party's primary;  
+|  (3) include a postage paid postcard that may be  
+| returned to the voter registrar to indicate the voter's  
+| affiliation; and  
+|  (4) be in the form prescribed by the secretary of  
+| state.  
+|  (b) If a registered voter does not indicate a party  
+| affiliation before December 31, 2019, the voter registrar shall  
+| list the voter's initial affiliation status as "independent."  
+|  (c) The change in law made by Section 18.005(a), Election  
+| Code, as amended by this Act, requiring that each list of registered  
+| voters must indicate the political affiliation of each voter  
+| applies only to a list of registered voters produced by a voter  
+| registrar on or after December 31, 2019.  
+|  (d) The change in law made by Section 15.001(a), Election  
+| Code, as amended by this Act, requiring that each voter  
+| registration certificate must indicate the political affiliation  
+| of the voter applies only to a certificate effective for voting on  
+| or after January 1, 2020.  
+|  SECTION 34. This Act takes effect September 1, 2019.
+

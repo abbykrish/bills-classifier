@@ -1,0 +1,81 @@
+| 86R2143 BEE-F  
+---|---  
+|  By: Minjarez | H.B. No. 113  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the registration, operation, and inspection of  
+| automated motor vehicles.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 502, Transportation Code,  
+| is amended by adding Section 502.0431 to read as follows:  
+|  _Sec._ ___502.0431._ _____APPLICATION FOR REGISTRATION OF AUTOMATED_  
+| _MOTOR VEHICLE. An applicant for registration of an automated motor_  
+| _vehicle, as defined by Section 545.451, must indicate in the_  
+| _vehicle description required under Section 502.043(a) that the_  
+| _vehicle is an automated motor vehicle._  
+|  SECTION 2. Section 545.454(b), Transportation Code, is  
+| amended to read as follows:  
+|  (b) An automated motor vehicle may not operate on a highway  
+| in this state with the automated driving system engaged unless the  
+| vehicle is:  
+|  (1) capable of operating in compliance with applicable  
+| traffic and motor vehicle laws of this state, subject to this  
+| subchapter;  
+|  (2) equipped with a recording device, as defined by  
+| Section 547.615(a), installed by the manufacturer of the automated  
+| motor vehicle or automated driving system;  
+|  (3) equipped with an automated driving system in  
+| compliance with applicable federal law and federal motor vehicle  
+| safety standards;  
+|  (4) _equipped with the most recent software updates_  
+| _released by the manufacturer of the automated motor vehicle and_  
+| _automated driving system;_  
+|  _(5)_ _____equipped with a failure alert system that alerts_  
+| _the owner of the vehicle to a failure of the automated driving_  
+| _system;_  
+|  _(6)_ registered and titled in accordance with the laws  
+| of this state; and  
+|  _(7)_ [ ~~(5)~~ ] covered by motor vehicle liability coverage  
+| or self-insurance in an amount equal to the amount of coverage that  
+| is required under the laws of this state.  
+|  SECTION 3. Section 548.051(a), Transportation Code, is  
+| amended to read as follows:  
+|  (a) A motor vehicle, trailer, semitrailer, pole trailer, or  
+| mobile home, registered in this state, must have the following  
+| items inspected at an inspection station or by an inspector:  
+|  (1) tires;  
+|  (2) wheel assembly;  
+|  (3) safety guards or flaps, if required by Section  
+| 547.606;  
+|  (4) brake system, including power brake unit;  
+|  (5) steering system, including power steering;  
+|  (6) lighting equipment;  
+|  (7) horns and warning devices;  
+|  (8) mirrors;  
+|  (9) windshield wipers;  
+|  (10) sunscreening devices, unless the vehicle is  
+| exempt from sunscreen device restrictions under Section 547.613;  
+|  (11) front seat belts in vehicles on which seat belt  
+| anchorages were part of the manufacturer's original equipment;  
+|  (12) exhaust system;  
+|  (13) exhaust emission system;  
+|  (14) fuel tank cap, using pressurized testing  
+| equipment approved by department rule; [ ~~and~~ ]  
+|  (15) emissions control equipment as designated by  
+| department rule _; and_  
+|  _(16)_ _____if the vehicle is an automated motor vehicle as_  
+| _defined by Section 545.451:_  
+|  _(A) automated driving system; and_  
+|  _(B)_ _____failure alert system as required by Section_  
+| _545.454(b)(5)_.  
+|  SECTION 4. (a)  As soon as practicable after the effective  
+| date of this Act, the Department of Public Safety shall adopt rules  
+| governing the inspection of automated driving systems and failure  
+| alert systems, as required by Section 548.051(a)(16),  
+| Transportation Code, as added by this Act.  
+|  (b) The changes in law made by this Act to Section  
+| 548.051(a), Transportation Code, apply only to a vehicle inspected  
+| on or after September 1, 2020.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

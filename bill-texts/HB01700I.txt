@@ -1,0 +1,137 @@
+| 86R8904 BEF-F  
+---|---  
+|  By: Hunter | H.B. No. 1700  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to public information in the possession, custody, or  
+| control of a current or former officer or employee of a governmental  
+| body; creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 552.003, Government Code, is amended by  
+| adding Subdivision (7) to read as follows:  
+|  _(7)_ _____"Temporary custodian" means an officer or employee_  
+| _of a governmental body who, in the transaction of official_  
+| _business, creates or receives public information that the officer_  
+| _or employee has not provided to the officer for public information_  
+| _of the governmental body or the officer's agent. The term includes_  
+| _a former officer or employee of a governmental body who created or_  
+| _received public information in the officer's or employee's official_  
+| _capacity that has not been provided to the officer for public_  
+| _information of the governmental body or the officer's agent._  
+|  SECTION 2. Section 552.004, Government Code, is amended to  
+| read as follows:  
+|  Sec. 552.004. PRESERVATION OF INFORMATION. _(a)_ A  
+| governmental body or, for information of an elective county office,  
+| the elected county officer, may determine a time for which  
+| information that is not currently in use will be preserved, subject  
+| to _Subsection (b) and to_ any applicable rule or law governing the  
+| destruction and other disposition of state and local government  
+| records or public information.  
+|  _(b)_ _____A current or former officer or employee of a_  
+| _governmental body who maintains public information on a privately_  
+| _owned device shall:_  
+|  _(1)_ _____forward or transfer the public information to the_  
+| _governmental body or a governmental body server to be preserved as_  
+| _provided by Subsection (a); or_  
+|  _(2)_ _____preserve the public information in its original_  
+| _form on the privately owned device for the time required under_  
+| _Subsection (a)._  
+|  SECTION 3. Section 552.203, Government Code, is amended to  
+| read as follows:  
+|  Sec. 552.203. GENERAL DUTIES OF OFFICER FOR PUBLIC  
+| INFORMATION. Each officer for public information, subject to  
+| penalties provided in this chapter, shall:  
+|  (1) make public information available for public  
+| inspection and copying;  
+|  (2) carefully protect public information from  
+| deterioration, alteration, mutilation, loss, or unlawful removal;  
+| [ ~~and~~ ]  
+|  (3) repair, renovate, or rebind public information as  
+| necessary to maintain it properly _; and_  
+|  _(4)_ _____make reasonable efforts to obtain public_  
+| _information from a temporary custodian if:_  
+|  _(A)_ _____the information has been requested from the_  
+| _governmental body;_  
+|  _(B)_ _____the officer for public information is aware_  
+| _of facts sufficient to warrant a reasonable belief that the_  
+| _temporary custodian has possession, custody, or control of the_  
+| _information;_  
+|  _(C)_ _____the officer for public information is unable_  
+| _to comply with the duties imposed by this chapter without obtaining_  
+| _the information from the temporary custodian; and_  
+|  _(D)_ _____the temporary custodian has not provided the_  
+| _information to the officer for public information of the_  
+| _governmental body or the officer's agent_.  
+|  SECTION 4. Subchapter E, Chapter 552, Government Code, is  
+| amended by adding Section 552.234 to read as follows:  
+|  _Sec._ ___552.234._ _____OWNERSHIP OF PUBLIC INFORMATION. (a) A_  
+| _current or former officer or employee of a governmental body does_  
+| _not have, by virtue of the officer's or employee's position or_  
+| _former position, a personal or property right to public information_  
+| _the officer or employee created or received while acting in an_  
+| _official capacity._  
+|  _(b)_ _____A temporary custodian with possession, custody, or_  
+| _control of public information shall surrender or return the_  
+| _information to the governmental body not later than the 10th day_  
+| _after the date the officer for public information of the_  
+| _governmental body or the officer's agent requests the temporary_  
+| _custodian to surrender or return the information._  
+|  _(c)_ _____If a temporary custodian fails to surrender or return_  
+| _public information to a governmental body as required by Subsection_  
+| _(b), the officer for public information of the governmental body_  
+| _shall, not later than the 10th business day after the deadline to_  
+| _surrender or return information under Subsection (b), notify the_  
+| _attorney general in writing of the facts related to the failure and_  
+| _send a copy of the written notice to the requestor. On receipt of_  
+| _written notice from an officer for public information as provided_  
+| _by this subsection, the attorney general may sue for an injunction_  
+| _or writ of mandamus to compel a temporary custodian with_  
+| _possession, custody, or control of public information to surrender_  
+| _or return the information as required by Subsection (b). A suit_  
+| _filed under this subsection:_  
+|  _(1)_ _____must be filed in a district court for the county in_  
+| _which the main offices of the governmental body are located;_  
+|  _(2)_ _____may not proceed, and process may not be issued,_  
+| _until the court enters a written finding that the petition sets_  
+| _forth facts sufficient to warrant probable cause that the current_  
+| _or former officer or employee against whom the action is filed is in_  
+| _possession, custody, or control of public information that has not_  
+| _been made available to the governmental body that owns the_  
+| _information; and_  
+|  _(3)_ _____shall be dismissed, with prejudice except as_  
+| _provided by Subsection (e), if the current or former officer or_  
+| _employee files an answer containing a general denial supported by a_  
+| _sworn affidavit stating the current or former officer or employee_  
+| _is not in possession, custody, or control of public information_  
+| _responsive to the request at issue._  
+|  _(d)_ _____The attorney general shall send a copy of a petition_  
+| _filed under Subsection (c) to the requestor._  
+|  _(e)_ _____A suit dismissed under Subsection (c)(3) is dismissed_  
+| _without prejudice and may be refiled by the attorney general if the_  
+| _current or former officer or employee, in providing the affidavit_  
+| _authorized under Subsection (c)(3), engaged in conduct that is an_  
+| _offense under Section 37.02 or 37.03, Penal Code, and is arrested,_  
+| _charged, or indicted for that offense. Subsection (c)(3) does not_  
+| _apply to a suit refiled under this subsection._  
+|  _(f)_ _____For purposes of the application of Subchapter G to_  
+| _information surrendered or returned to a governmental body by a_  
+| _temporary custodian under Subsection (b) or as a result of a suit_  
+| _under Subsection (c), the governmental body is considered to_  
+| _receive the request for that information on the date the_  
+| _information is surrendered or returned to the governmental body._  
+|  SECTION 5. The heading to Section 552.353, Government Code,  
+| is amended to read as follows:  
+|  Sec. 552.353. FAILURE OR REFUSAL OF OFFICER FOR PUBLIC  
+| INFORMATION _OR TEMPORARY CUSTODIAN_ TO PROVIDE ACCESS TO OR COPYING  
+| OF PUBLIC INFORMATION.  
+|  SECTION 6. Section 552.353, Government Code, is amended by  
+| adding Subsection (a-1) to read as follows:  
+|  _(a-1)_ _____A temporary custodian who has possession, custody, or_  
+| _control of public information responsive to a request commits an_  
+| _offense if, with criminal negligence, the temporary custodian fails_  
+| _to surrender or return the information to the governmental body on_  
+| _request of the officer for public information or the officer's_  
+| _agent, as required by Section 552.234(b)._  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

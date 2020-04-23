@@ -1,0 +1,45 @@
+| 86R768 JAM-D  
+---|---  
+|  By: Raney | H.B. No. 4398  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the electronic transmission of an invoice or notice of  
+| toll nonpayment by a toll project entity.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 284, Transportation Code,  
+| is amended by adding Section 284.0703 to read as follows:  
+|  _Sec._ ___284.0703._ _____METHOD OF SENDING INVOICE OR NOTICE. As_  
+| _authorized under Section 322.008(d)(2), Business & Commerce Code, a _  
+| _county may provide an invoice or notice required under this chapter_  
+| _to be sent by first class mail instead as an electronic record:_  
+|  _(1)_ _____if the recipient of the information agrees to the_  
+| _transmission of the information as an electronic record; and_  
+|  _(2) on terms acceptable to the recipient._  
+|  SECTION 2. Section 370.177, Transportation Code, is amended  
+| by adding Subsection (n) to read as follows:  
+|  _(n)_ _____As authorized under Section 322.008(d)(2), Business & _  
+| _Commerce Code, an authority may provide an invoice or notice_  
+| _required under this section to be sent by first class mail instead_  
+| _as an electronic record:_  
+|  _(1)_ _____if the recipient of the information agrees to the_  
+| _transmission of the information as an electronic record; and_  
+|  _(2) on terms acceptable to the recipient._  
+|  SECTION 3. Subchapter C, Chapter 372, Transportation Code,  
+| is amended by adding Section 372.116 to read as follows:  
+|  _Sec._ ___372.116._ _____METHOD OF SENDING INVOICE OR NOTICE. As_  
+| _authorized under Section 322.008(d)(2), Business & Commerce Code, a _  
+| _toll project entity may provide an invoice or notice required under_  
+| _this subchapter to be sent by first class mail instead as an_  
+| _electronic record:_  
+|  _(1)_ _____if the recipient of the information agrees to the_  
+| _transmission of the information as an electronic record; and_  
+|  _(2) on terms acceptable to the recipient._  
+|  SECTION 4. The change in law made by this Act applies only  
+| to the collection of a toll incurred on or after the effective date  
+| of this Act. The collection of a toll incurred before the effective  
+| date of this Act is governed by the law in effect immediately before  
+| the effective date of this Act, and that law is continued in effect  
+| for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

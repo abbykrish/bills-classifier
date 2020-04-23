@@ -1,0 +1,499 @@
+| 86R10228 JG-D  
+---|---  
+|  By: Frank | H.B. No. 4178  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the operation and administration of certain health and  
+| human services programs, including the Medicaid managed care  
+| program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 531.001, Government Code, is amended by  
+| adding Subdivision (4-c) to read as follows:  
+|  _(4-c)_ _____"Medicaid managed care organization" means a_  
+| _managed care organization as defined by Section 533.001 that_  
+| _contracts with the commission under Chapter 533 to provide health_  
+| _care services to Medicaid recipients._  
+|  SECTION 2. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.02112 to read as follows:  
+|  _Sec._ ___531.02112._ _____PROCEDURE FOR IMPLEMENTING CHANGES TO_  
+| _PAYMENT RATES UNDER MEDICAID AND CHILD HEALTH PLAN PROGRAM. (a) In_  
+| _adopting rules and standards related to the determination of fees,_  
+| _charges, and rates for payments under Medicaid and the child health_  
+| _plan program, the executive commissioner, in consultation with the_  
+| _advisory committee established under Subsection (b), shall adopt_  
+| _rules to ensure that changes to the fees, charges, and rates are_  
+| _implemented in accordance with this section and in a way that_  
+| _minimizes administrative complexity and financial uncertainty._  
+|  _(b)_ _____The executive commissioner shall establish an advisory_  
+| _committee to provide input for the adoption of rules and standards_  
+| _that comply with this section. The advisory committee is composed_  
+| _of representatives of managed care organizations and providers_  
+| _under Medicaid and the child health plan program. The advisory_  
+| _committee is abolished on the date the rules that comply with this_  
+| _section are adopted. This subsection expires September 1, 2021._  
+|  _(c)_ _____Before implementing a change to the fees, charges, and_  
+| _rates for payments under Medicaid or the child health plan program,_  
+| _the commission shall:_  
+|  _(1)_ _____before or at the time notice of the proposed change_  
+| _is published under Subdivision (2), notify managed care_  
+| _organizations and the entity serving as the state's Medicaid claims_  
+| _administrator under the Medicaid fee-for-service delivery model of_  
+| _the proposed change;_  
+|  _(2) publish notice of the proposed change:_  
+|  _(A)_ _____for public comment in the Texas Register for_  
+| _a period of not less than 60 days; and_  
+|  _(B)_ _____on the commission's and state Medicaid claims_  
+| _administrator's Internet websites during the period specified_  
+| _under Paragraph (A);_  
+|  _(3)_ _____publish notice of a final determination to make_  
+| _the proposed change:_  
+|  _(A)_ _____in the Texas Register for a period of not less_  
+| _than 30 days before the change becomes effective; and_  
+|  _(B)_ _____on the commission's and state Medicaid claims_  
+| _administrator's Internet websites during the period specified_  
+| _under Paragraph (A); and_  
+|  _(4)_ _____provide managed care organizations and the entity_  
+| _serving as the state's Medicaid claims administrator under the_  
+| _Medicaid fee-for-service delivery model with a period of not less_  
+| _than 30 days before the effective date of the final change to make_  
+| _any necessary administrative or systems adjustments to implement_  
+| _the change._  
+|  _(d)_ _____If changes to the fees, charges, or rates for payments_  
+| _under Medicaid or the child health plan program are mandated by the_  
+| _legislature or federal government on a date that does not fall_  
+| _within the time frame for the implementation of those changes_  
+| _described by this section, the commission shall:_  
+|  _(1)_ _____prorate the amount of the change over the fee,_  
+| _charge, or rate period; and_  
+|  _(2)_ _____publish the proration schedule described by_  
+| _Subdivision (1) in the Texas Register along with the notice_  
+| _provided under Subsection (c)(3)._  
+|  _(e)_ _____This section does not apply to changes to the fees,_  
+| _charges, or rates for payments made to a nursing facility._  
+|  SECTION 3. Section 531.02118, Government Code, is amended  
+| by amending Subsection (c) and adding Subsections (e) and (f) to  
+| read as follows:  
+|  (c) In streamlining the Medicaid provider credentialing  
+| process under this section, the commission may designate a  
+| centralized credentialing entity and _, if a centralized_  
+| _credentialing entity is designated, shall_ [ ~~may~~ ]:  
+|  (1) share information in the database established  
+| under Subchapter C, Chapter 32, Human Resources Code, with the  
+| centralized credentialing entity _to reduce the submission of_  
+| _duplicative information or documents necessary for both Medicaid_  
+| _enrollment and credentialing_ ; and  
+|  (2) require all _Medicaid_ managed care organizations  
+| [ ~~contracting with the commission to provide health care services to~~  
+|  ~~Medicaid recipients under a managed care plan issued by the~~  
+|  ~~organization~~ ] to use the centralized credentialing entity as a hub  
+| for the collection and sharing of information.  
+|  _(e)_ _____To the extent permitted by federal law, the commission_  
+| _shall use available Medicare data to streamline the enrollment and_  
+| _credentialing of Medicaid providers by reducing the submission of_  
+| _duplicative information or documents._  
+|  _(f)_ _____The commission shall develop and implement a process to_  
+| _expedite the Medicaid provider enrollment process for a health care_  
+| _provider who is providing health care services through a single_  
+| _case agreement to a Medicaid recipient with primary insurance_  
+| _coverage. The commission shall use a provider's national provider_  
+| _identifier number to enroll a provider under this subsection. In_  
+| _this subsection, "national provider identifier number" has the_  
+| _meaning assigned by Section 531.021182._  
+|  SECTION 4. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.021182 to read as follows:  
+|  _Sec._ ___531.021182._ _____USE OF NATIONAL PROVIDER IDENTIFIER_  
+| _NUMBER. (a) In this section, "national provider identifier_  
+| _number" means the national provider identifier number required_  
+| _under Section 1128J(e), Social Security Act (42 U.S.C. Section_  
+| _1320a-7k(e))._  
+|  _(b) Beginning September 1, 2020, the commission:_  
+|  _(1)_ _____may not use a state-issued provider identifier_  
+| _number to identify a Medicaid provider;_  
+|  _(2)_ _____shall use only a national provider identifier_  
+| _number to identify a Medicaid provider; and_  
+|  _(3)_ _____must allow a Medicaid provider to bill for_  
+| _Medicaid services using the provider's national provider_  
+| _identifier number._  
+|  SECTION 5. Section 531.024(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The rules promulgated under Subsection (a)(7) must  
+| provide due process to an applicant for Medicaid services _or_  
+| _programs_ and to a Medicaid recipient who seeks a Medicaid service,  
+| including a service that requires prior authorization. The rules  
+| must provide the protections for applicants and recipients required  
+| by 42 C.F.R. Part 431, Subpart E, including requiring that:  
+|  (1) the written notice to an individual of the  
+| individual's right to a hearing must:  
+|  (A) contain _a clear_ [ ~~an~~ ] explanation of _:_  
+|  _(i) the adverse determination and_ the  
+| circumstances under which Medicaid is continued if a hearing is  
+| requested; and  
+|  _(ii)_ _____the fair hearing process, including_  
+| _the individual's ability to use an independent review process; and_  
+|  (B) be mailed at least 10 days before the date the  
+| individual's Medicaid eligibility or service is scheduled to be  
+| terminated, suspended, or reduced, except as provided by 42 C.F.R.  
+| Section 431.213 or 431.214; and  
+|  (2) if a hearing is requested before the date a  
+| Medicaid recipient's service, including a service that requires  
+| prior authorization, is scheduled to be terminated, suspended, or  
+| reduced, the agency may not take that proposed action before a  
+| decision is rendered after the hearing unless:  
+|  (A) it is determined at the hearing that the sole  
+| issue is one of federal or state law or policy; and  
+|  (B) the agency promptly informs the recipient in  
+| writing that services are to be terminated, suspended, or reduced  
+| pending the hearing decision.  
+|  SECTION 6. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Sections 531.024162, 531.0319, and 531.0602 to  
+| read as follows:  
+|  _Sec._ ___531.024162._ _____NOTICE REQUIREMENTS REGARDING DENIAL OF_  
+| _COVERAGE OR PRIOR AUTHORIZATION. The commission shall ensure that_  
+| _notice sent by the commission or a Medicaid managed care_  
+| _organization to a Medicaid recipient or provider regarding the_  
+| _denial of coverage or prior authorization for a service includes:_  
+|  _(1) information required by federal law;_  
+|  _(2)_ _____a clear and easy-to-understand explanation of the_  
+| _reason for the denial for the recipient; and_  
+|  _(3)_ _____a clinical explanation of the reason for the_  
+| _denial for the provider._  
+|  _Sec._ ___531.0319._ _____MEDICAID MEDICAL POLICY MANUAL. (a) The_  
+| _commission shall develop and publish on the commission's Internet_  
+| _website a Medicaid medical policy manual. The manual must:_  
+|  _(1) be updated monthly, as necessary;_  
+|  _(2)_ _____primarily address the managed care delivery model_  
+| _for Medicaid benefits;_  
+|  _(3)_ _____include a description of each service covered_  
+| _under Medicaid, including the scope, duration, and amount of_  
+| _coverage; and_  
+|  _(4)_ _____direct Medicaid providers to the Medicaid managed_  
+| _care manual that applies to the provider for specific prior_  
+| _authorization and billing policies._  
+|  _(b)_ _____The commission shall publish the Medicaid medical_  
+| _policy manual not later than January 1, 2020. Beginning on that_  
+| _date, the commission may not use any prior Medicaid procedures_  
+| _manual for providers. This subsection expires September 1, 2021._  
+|  _Sec._ ___531.0602._ _____MEDICALLY DEPENDENT CHILDREN (MDCP) WAIVER_  
+| _PROGRAM REASSESSMENTS._ ___To the extent allowed by federal law, the_  
+| _commission shall require that a child participating in the_  
+| _medically dependent children (MDCP) waiver program be reassessed to_  
+| _determine whether the child meets the level of care criteria for_  
+| _medical necessity for nursing facility care only if the child has a_  
+| _significant change in function that may affect the medical_  
+| _necessity for that level of care instead of requiring that the_  
+| _reassessment be made annually._  
+|  SECTION 7. Section 531.072(c), Government Code, is amended  
+| to read as follows:  
+|  (c) In making a decision regarding the placement of a drug  
+| on each of the preferred drug lists, the commission shall consider:  
+|  (1) the recommendations of the Drug Utilization Review  
+| Board under Section 531.0736;  
+|  (2) the clinical efficacy of the drug;  
+|  (3) the price of competing drugs after deducting any  
+| federal and state rebate amounts; [ ~~and~~ ]  
+|  (4) _the impact on recipient health outcomes and_  
+| _continuity of care; and_  
+|  _(5)_ program benefit offerings solely or in conjunction  
+| with rebates and other pricing information.  
+|  SECTION 8. Section 531.0736(c), Government Code, is amended  
+| to read as follows:  
+|  (c) The executive commissioner shall determine the  
+| composition of the board, which must:  
+|  (1) comply with applicable federal law, including 42  
+| C.F.R. Section 456.716;  
+|  (2) include _five_ [ ~~two~~ ] representatives of managed care  
+| organizations _to represent each managed care product_ [ ~~as nonvoting~~  
+|  ~~members~~ ], _at least_ one of whom must be a physician and one of whom  
+| must be a pharmacist;  
+|  (3) include at least 17 physicians and pharmacists  
+| who:  
+|  (A) provide services across the entire  
+| population of Medicaid recipients and represent different  
+| specialties, including at least one of each of the following types  
+| of physicians:  
+|  (i) a pediatrician;  
+|  (ii) a primary care physician;  
+|  (iii) an obstetrician and gynecologist;  
+|  (iv) a child and adolescent psychiatrist;  
+| and  
+|  (v) an adult psychiatrist; and  
+|  (B) have experience in either developing or  
+| practicing under a preferred drug list; and  
+|  (4) include a consumer advocate who represents  
+| Medicaid recipients.  
+|  SECTION 9. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Sections 533.00284 and 533.00285 to read as  
+| follows:  
+|  _Sec._ ___533.00284._ _____ADOPTION OF PRIOR AUTHORIZATION PRACTICE_  
+| _GUIDELINES; ACCESSIBILITY. (a) In developing medical policies and_  
+| _standards for making medical necessity determinations for prior_  
+| _authorizations, each Medicaid managed care organization shall:_  
+|  _(1)_ _____in consultation with health care providers in the_  
+| _organization's provider network, adopt practice guidelines that:_  
+|  _(A)_ _____are based on valid and reliable clinical_  
+| _evidence or the medical consensus among health care professionals_  
+| _who practice in the applicable field; and_  
+|  _(B)_ _____take into consideration the health care needs_  
+| _of the recipients enrolled in a managed care plan offered by the_  
+| _organization; and_  
+|  _(2)_ _____develop a written process describing the method_  
+| _for periodically reviewing and amending utilization management_  
+| _clinical review criteria._  
+|  _(b)_ _____A Medicaid managed care organization shall annually_  
+| _review and, as necessary, update the practice guidelines adopted_  
+| _under Subsection (a)(1)._  
+|  _(c)_ _____The executive commissioner by rule shall require each_  
+| _Medicaid managed care organization or other entity responsible for_  
+| _authorizing coverage for health care services under Medicaid to_  
+| _ensure that:_  
+|  _(1)_ _____coverage criteria and prior authorization_  
+| _requirements are:_  
+|  _(A)_ _____made available to recipients and providers on_  
+| _the organization's or entity's Internet website; and_  
+|  _(B)_ _____communicated in a clear, concise, and easily_  
+| _understandable manner;_  
+|  _(2)_ _____any necessary or supporting documents needed to_  
+| _obtain prior authorization are made available on a web page of the_  
+| _organization's or entity's Internet website accessible through a_  
+| _clearly marked link to the web page; and_  
+|  _(3)_ _____the process for contacting the organization or_  
+| _entity for clarification or assistance in obtaining prior_  
+| _authorization is not arduous or overly burdensome to a recipient or_  
+| _provider._  
+|  _Sec._ ___533.00285._ _____PRIOR AUTHORIZATION PROCEDURES. In_  
+| _addition to the requirements of Section 533.005, a contract between_  
+| _a Medicaid managed care organization and the commission described_  
+| _by that section must include:_  
+|  _(1)_ _____time frames for the prior authorization of health_  
+| _care services that enable Medicaid providers to:_  
+|  _(A)_ _____deliver those services in a timely manner;_  
+| _and_  
+|  _(B)_ _____request a peer review regarding the prior_  
+| _authorization before the organization makes a final decision on the_  
+| _prior authorization; and_  
+|  _(2) a requirement that the organization:_  
+|  _(A)_ _____has appropriate personnel reasonably_  
+| _available at a toll-free telephone number to receive prior_  
+| _authorization requests between 6 a.m. and 6 p.m. central time_  
+| _Monday through Friday on each day that is not a legal holiday and_  
+| _between 9 a.m. and noon central time on Saturday and Sunday; and_  
+|  _(B)_ _____has a telephone system capable of receiving_  
+| _and recording incoming telephone calls for prior authorization_  
+| _requests after 6 p.m. central time Monday through Friday and after_  
+| _noon central time on Saturday and Sunday._  
+|  SECTION 10. Section 533.0071, Government Code, is amended  
+| to read as follows:  
+|  Sec. 533.0071. ADMINISTRATION OF CONTRACTS. The commission  
+| shall make every effort to improve the administration of contracts  
+| with _Medicaid_ managed care organizations. To improve the  
+| administration of these contracts, the commission shall:  
+|  (1) ensure that the commission has appropriate  
+| expertise and qualified staff to effectively manage contracts with  
+| managed care organizations under the Medicaid managed care program;  
+|  (2) evaluate options for Medicaid payment recovery  
+| from managed care organizations if the enrollee dies or is  
+| incarcerated or if an enrollee is enrolled in more than one state  
+| program or is covered by another liable third party insurer;  
+|  (3) maximize Medicaid payment recovery options by  
+| contracting with private vendors to assist in the recovery of  
+| capitation payments, payments from other liable third parties, and  
+| other payments made to managed care organizations with respect to  
+| enrollees who leave the managed care program;  
+|  (4) decrease the administrative burdens of managed  
+| care for the state, the managed care organizations, and the  
+| providers under managed care networks to the extent that those  
+| changes are compatible with state law and existing Medicaid managed  
+| care contracts, including decreasing those burdens by:  
+|  (A) where possible, decreasing the duplication  
+| of administrative reporting and process requirements for the  
+| managed care organizations and providers, such as requirements for  
+| the submission of encounter data, quality reports, historically  
+| underutilized business reports, and claims payment summary  
+| reports;  
+|  (B) allowing managed care organizations to  
+| provide updated address information directly to the commission for  
+| correction in the state system;  
+|  (C) promoting consistency and uniformity among  
+| managed care organization policies, including policies relating to  
+| the preauthorization process, lengths of hospital stays, filing  
+| deadlines, levels of care, and case management services;  
+|  (D) reviewing the appropriateness of primary  
+| care case management requirements in the admission and clinical  
+| criteria process, such as requirements relating to including a  
+| separate cover sheet for all communications, submitting  
+| handwritten communications instead of electronic or typed review  
+| processes, and admitting patients listed on separate  
+| notifications; and  
+|  (E) providing a portal through which providers in  
+| any managed care organization's provider network may submit acute  
+| care services and long-term services and supports claims; and  
+|  (5) _ensure that the commission's fair hearing process_  
+| _and_ [ ~~reserve the right to amend~~ ] the managed care organization's  
+| process for resolving _recipient and_ provider appeals of denials  
+| based on medical necessity [ ~~to~~ ] include an independent review  
+| process established by the commission for final determination of  
+| these disputes.  
+|  SECTION 11. Section 533.0076(c), Government Code, is  
+| amended to read as follows:  
+|  (c) The commission shall allow a recipient who is enrolled  
+| in a managed care plan under this chapter to disenroll from that  
+| plan and enroll in another managed care plan[ ~~:~~  
+|  [ ~~(1)~~ ] at any time for cause in accordance with federal  
+| law[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~once for any reason after the periods described~~  
+|  ~~by Subsections (a) and (b)~~ ].  
+|  SECTION 12. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Sections 533.038 and 533.039 to read as follows:  
+|  _Sec._ ___533.038._ _____COORDINATION OF BENEFITS. (a)_ ___In this_  
+| _section, "Medicaid wrap-around benefit" means a Medicaid-covered_  
+| _service, including a pharmacy or medical benefit, that is provided_  
+| _to a recipient with both Medicaid and primary health benefit plan_  
+| _coverage when the recipient has exceeded the primary health benefit_  
+| _plan coverage limit or when the service is not covered by the_  
+| _primary health benefit plan issuer._  
+|  _(b)_ _____The commission, in coordination with Medicaid managed_  
+| _care organizations, shall develop and adopt a clear policy for a_  
+| _Medicaid managed care organization to ensure the coordination and_  
+| _timely delivery of Medicaid wrap-around benefits for recipients_  
+| _with both primary health benefit plan coverage and Medicaid_  
+| _coverage._  
+|  _(c)_ _____To further assist with the coordination of benefits, the_  
+| _commission, in coordination with Medicaid managed care_  
+| _organizations, shall develop and maintain a list of services that_  
+| _are not traditionally covered by primary health benefit plan_  
+| _coverage that a Medicaid managed care organization may approve_  
+| _without having to coordinate with the primary health benefit plan_  
+| _issuer and that can be resolved through third-party liability_  
+| _resolution processes._ ___The commission shall review and update the_  
+| _list quarterly._  
+|  _(d)_ _____A Medicaid managed care organization that in good faith_  
+| _and following commission policies provides coverage for a Medicaid_  
+| _wrap-around benefit shall include the cost of providing the benefit_  
+| _in the organization's financial reports._ ___The commission shall_  
+| _include the reported costs in computing capitation rates for the_  
+| _managed care organization._  
+|  _(e)_ _____If the commission determines that a recipient's primary_  
+| _health benefit plan issuer should have been the primary payor of a_  
+| _claim, the Medicaid managed care organization that paid the claim_  
+| _shall work with the commission on the recovery process and make_  
+| _every attempt to reduce health care provider and recipient_  
+| _abrasion._  
+|  _(f)_ _____The executive commissioner may seek a waiver from the_  
+| _federal government as needed to:_  
+|  _(1)_ _____address federal policies related to coordination_  
+| _of benefits and third-party liability; and_  
+|  _(2)_ _____maximize federal financial participation for_  
+| _recipients with both primary health benefit plan coverage and_  
+| _Medicaid coverage._  
+|  _(g)_ _____Notwithstanding Sections 531.073 and 533.005(a)(23) or_  
+| _any other law, the commission shall ensure that a prescription drug_  
+| _that is covered under the Medicaid vendor drug program or other_  
+| _applicable formulary and is prescribed to a recipient with primary_  
+| _health benefit plan coverage is not subject to any prior_  
+| _authorization requirement if the primary health benefit plan issuer_  
+| _will pay at least $0.01 on the prescription drug claim._ ___If the_  
+| _primary insurer will pay nothing on a prescription drug claim, the_  
+| _prescription drug is subject to any applicable Medicaid clinical or_  
+| _nonpreferred prior authorization requirement._  
+|  _(h)_ _____The commission shall ensure that the daily Medicaid_  
+| _managed care eligibility files indicate whether a recipient has_  
+| _primary health benefit plan coverage or health insurance premium_  
+| _payment coverage._ ___For a recipient who has that coverage, the files_  
+| _must include the following up-to-date, accurate information_  
+| _related to primary health benefit plan coverage:_  
+|  _(1)_ _____the health benefit plan issuer's name and address_  
+| _and the recipient's policy number;_  
+|  _(2)_ _____the primary health benefit plan coverage start and_  
+| _end dates;_  
+|  _(3)_ _____the primary health benefit plan coverage benefits,_  
+| _limits, copayment, and coinsurance information; and_  
+|  _(4)_ _____any additional information that would be useful to_  
+| _ensure the coordination of benefits._  
+|  _(i)_ _____The commission shall develop and implement processes_  
+| _and policies to allow a health care provider who is primarily_  
+| _providing services to a recipient through primary health benefit_  
+| _plan coverage to receive Medicaid reimbursement for services_  
+| _ordered, referred, prescribed, or delivered, regardless of whether_  
+| _the provider is enrolled as a Medicaid provider._ ___The commission_  
+| _shall allow a provider who is not enrolled as a Medicaid provider to_  
+| _order, refer, prescribe, or deliver services to a recipient based_  
+| _on the provider's national provider identifier number and may not_  
+| _require an additional state provider identifier number to receive_  
+| _reimbursement for the services._ ___The commission may seek a waiver of_  
+| _Medicaid provider enrollment requirements for providers of_  
+| _recipients with primary health benefit plan coverage to implement_  
+| _this subsection._  
+|  _(j)_ _____The commission shall develop and implement a clear and_  
+| _easy process to allow a recipient with complex medical needs who has_  
+| _established a relationship with a specialty provider in an area_  
+| _outside of the recipient's Medicaid managed care organization's_  
+| _service delivery area to continue receiving care from that provider_  
+| _if the provider will enter into a single-case agreement with the_  
+| _Medicaid managed care organization._ ___A single-case agreement with a_  
+| _provider outside of the organization's service delivery area in_  
+| _accordance with this subsection is not considered an_  
+| _out-of-network agreement and must be included in the organization's_  
+| _network adequacy determination._  
+|  _(k)_ _____The commission shall develop and implement processes_  
+| _to:_  
+|  _(1)_ _____reimburse a recipient with primary health benefit_  
+| _plan coverage who pays a copayment, coinsurance, or other_  
+| _cost-sharing amount out of pocket because the primary health_  
+| _benefit plan issuer refuses to enroll in Medicaid, enter into a_  
+| _single-case agreement, or bill the recipient's Medicaid managed_  
+| _care organization; and_  
+|  _(2)_ _____capture encounter data for the Medicaid_  
+| _wrap-around benefits provided by the Medicaid managed care_  
+| _organization under this subsection._  
+|  _Sec._ ___533.039._ _____COORDINATION OF BENEFITS FOR PERSONS DUALLY_  
+| _ELIGIBLE UNDER MEDICAID AND MEDICARE. (a) In this section,_  
+| _"Medicaid wrap-around benefit" means a Medicaid-covered service,_  
+| _including a pharmacy or medical benefit, that is provided to a_  
+| _recipient with both Medicaid and Medicare coverage when the_  
+| _recipient has exceeded the Medicare coverage limit or when the_  
+| _service is not covered by Medicare._  
+|  _(b)_ _____The executive commissioner, in consultation with_  
+| _Medicaid managed care organizations, by rule shall develop and_  
+| _implement a policy that ensures the coordinated and timely delivery_  
+| _of Medicaid wrap-around benefits. The policy must:_  
+|  _(1)_ _____include a benefits equivalency crosswalk or other_  
+| _method for mapping equivalent benefits under Medicaid and Medicare;_  
+| _and_  
+|  _(2)_ _____in a manner that is consistent with federal and_  
+| _state law, require sharing of information concerning third-party_  
+| _sources of coverage and reimbursement._  
+|  SECTION 13. (a)  Not later than December 31, 2019, the  
+| executive commissioner of the Health and Human Services Commission  
+| shall establish the advisory committee as required by Section  
+| 531.02112(b), Government Code, as added by this Act.  
+|  (b) The procedure for implementing changes to payment rates  
+| required by Section 531.02112, Government Code, as added by this  
+| Act, applies only to a change to a fee, charge, or rate that takes  
+| effect on or after January 1, 2021.  
+|  SECTION 14. Section 531.0602, Government Code, as added by  
+| this Act, applies only to a reassessment of a child's eligibility  
+| for the medically dependent children (MDCP) waiver program made on  
+| or after December 1, 2019.  
+|  SECTION 15. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall adopt rules necessary to implement the  
+| changes in law made by this Act.  
+|  SECTION 16. (a) Section 533.00285, Government Code, as  
+| added by this Act, applies only to a contract between the Health and  
+| Human Services Commission and a Medicaid managed care organization  
+| under Chapter 533, Government Code, that is entered into or renewed  
+| on or after the effective date of this Act.  
+|  (b) The Health and Human Services Commission shall seek to  
+| amend contracts entered into with Medicaid managed care  
+| organizations under Chapter 533, Government Code, before the  
+| effective date of this Act to include the provisions required by  
+| Section 533.00285, Government Code, as added by this Act.  
+|  SECTION 17. If before implementing any provision of this  
+| Act a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 18. This Act takes effect September 1, 2019.
+

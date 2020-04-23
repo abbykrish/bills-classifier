@@ -1,0 +1,40 @@
+| 86R13797 SLB-D  
+---|---  
+|  By: Wilson | H.B. No. 4002  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a contested case hearing to identify a sensitive  
+| feature related to an Edwards Aquifer protection plan.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter D, Chapter 26, Water Code, is amended  
+| by adding Section 26.138 to read as follows:  
+|  _Sec._ ___26.138._ _____CONTESTED CASE HEARING TO DETERMINE SENSITIVE_  
+| _FEATURE FOR PURPOSE OF EDWARDS AQUIFER PROTECTION PLAN. (a)_ ___In_  
+| _this section:_  
+|  _(1)_ _____"Protection plan" means a plan for which a fee may_  
+| _be imposed under Section 26.0461._  
+|  _(2)_ _____"Sensitive feature" means a permeable geologic or_  
+| _man-made feature located on the Edwards Aquifer recharge zone or_  
+| _transition zone where:_  
+|  _(A)_ _____a potential for hydraulic interconnectedness_  
+| _between the surface and the Edwards Aquifer exists; and_  
+|  _(B)_ _____rapid infiltration to the subsurface may_  
+| _occur._  
+|  _(b)_ _____If the commission identifies a sensitive feature in_  
+| _relation to a protection plan and a dispute is raised as to the_  
+| _applicability of rules relating to the Edwards Aquifer to that_  
+| _sensitive feature, the party questioning the identification of the_  
+| _sensitive feature may deliver to the commission a request for a_  
+| _contested case hearing to decide the matter._  
+|  _(c) A request under this section must include:_  
+|  _(1)_ _____two independent environmental studies from two_  
+| _different professional geologists; and_  
+|  _(2)_ _____a letter in support of the request from a_  
+| _legislator in whose district the sensitive feature is located._  
+|  _(d)_ _____The commission shall grant a request that complies with_  
+| _Subsection (c). The decision of a contested case hearing granted_  
+| _under this section is final as to the identification of a sensitive_  
+| _feature._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

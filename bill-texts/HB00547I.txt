@@ -1,0 +1,87 @@
+| 86R4224 SLB-D  
+---|---  
+|  By: Canales | H.B. No. 547  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to verification of hunting and fishing license  
+| information.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 42.006, Parks and Wildlife Code, is  
+| amended to read as follows:  
+|  Sec. 42.006. POSSESSION OF LICENSE _;_ [ ~~:~~ ] RULES. _(a)_ The  
+| commission by rule may prescribe requirements relating to  
+| possessing a license issued under this chapter.  
+|  _(b)_ _____Rules adopted under Subsection (a) must allow for a_  
+| _person to present for the purpose of verification of possession a_  
+| _hunting license as an image displayed on a wireless communication_  
+| _device. The image displayed may be either an image of information_  
+| _from the Internet website of the department or a photograph of a_  
+| _hunting license._  
+|  _(c)_ _____The display of an image that includes hunting license_  
+| _information on a wireless communication device under this section_  
+| _does not constitute effective consent for a law enforcement_  
+| _officer, or any other person, to access the contents of the wireless_  
+| _communication device except to view the hunting license_  
+| _information._  
+|  _(d)_ _____The authorization of the use of a wireless communication_  
+| _device to display hunting license information under Subsection (b)_  
+| _does not prevent a court of competent jurisdiction from requiring a_  
+| _person to provide a paper copy of the person's hunting license in a_  
+| _hearing or trial or in connection with discovery proceedings._  
+|  _(e)_ _____A telecommunications provider, as defined by Section_  
+| _51.002, Utilities Code, may not be held liable to the holder of a_  
+| _hunting license for the failure of a wireless communication device_  
+| _to display hunting license information under Subsection (b)._  
+|  SECTION 2. Section 46.0085, Parks and Wildlife Code, is  
+| amended by adding Subsections (d), (e), (f), and (g) to read as  
+| follows:  
+|  _(d)_ _____Rules adopted under Subsection (a) must allow for a_  
+| _person to present for the purpose of verification of possession a_  
+| _fishing license as an image displayed on a wireless communication_  
+| _device. The image displayed may be either an image of information_  
+| _from the Internet website of the department or a photograph of a_  
+| _fishing license._  
+|  _(e)_ _____The display of an image that includes fishing license_  
+| _information on a wireless communication device under this section_  
+| _does not constitute effective consent for a law enforcement_  
+| _officer, or any other person, to access the contents of the wireless_  
+| _communication device except to view the fishing license_  
+| _information._  
+|  _(f)_ _____The authorization of the use of a wireless communication_  
+| _device to display fishing license information under Subsection (d)_  
+| _does not prevent a court of competent jurisdiction from requiring a_  
+| _person to provide a paper copy of the person's fishing license in a_  
+| _hearing or trial or in connection with discovery proceedings._  
+|  _(g)_ _____A telecommunications provider, as defined by Section_  
+| _51.002, Utilities Code, may not be held liable to the holder of a_  
+| _fishing license for the failure of a wireless communication device_  
+| _to display fishing license information under Subsection (d)._  
+|  SECTION 3. Section 50.004, Parks and Wildlife Code, is  
+| amended by adding Subsections (c), (d), (e), and (f) to read as  
+| follows:  
+|  _(c)_ _____Rules adopted under Subsection (a) must allow for a_  
+| _person to present for the purpose of verification of possession a_  
+| _combination hunting and fishing license as an image displayed on a_  
+| _wireless communication device. The image displayed may be either an_  
+| _image of information from the Internet website of the department or_  
+| _a photograph of a combination hunting and fishing license._  
+|  _(d)_ _____The display of an image that includes combination_  
+| _hunting and fishing license information on a wireless communication_  
+| _device under this section does not constitute effective consent for_  
+| _a law enforcement officer, or any other person, to access the_  
+| _contents of the wireless communication device except to view the_  
+| _combination hunting and fishing license information._  
+|  _(e)_ _____The authorization of the use of a wireless communication_  
+| _device to display combination hunting and fishing license_  
+| _information under Subsection (c) does not prevent a court of_  
+| _competent jurisdiction from requiring a person to provide a paper_  
+| _copy of the person's combination hunting and fishing license in a_  
+| _hearing or trial or in connection with discovery proceedings._  
+|  _(f)_ _____A telecommunications provider, as defined by Section_  
+| _51.002, Utilities Code, may not be held liable to the holder of a_  
+| _combination hunting and fishing license for the failure of a_  
+| _wireless communication device to display combination hunting and_  
+| _fishing license information under Subsection (c)._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

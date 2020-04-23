@@ -1,0 +1,55 @@
+| 86R2935 BRG-D  
+---|---  
+|  By: Tinderholt | H.B. No. 400  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the security of the electric grid.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter Z, Chapter 39, Utilities Code, is  
+| amended by adding Section 39.917 to read as follows:  
+|  _Sec._ ___39.917._ _____GRID SECURITY COUNCIL. (a) The governor shall_  
+| _appoint members of the grid security council. Council membership_  
+| _must include at least one representative of each of the following:_  
+|  _(1) the commission;_  
+|  _(2)_ _____the independent organization certified under_  
+| _Section 39.151 for the ERCOT power region;_  
+|  _(3) the Texas Military Department;_  
+|  _(4) the Texas Division of Emergency Management;_  
+|  _(5) the State Office of Risk Management; and_  
+|  _(6) power generation companies._  
+|  _(b)_ _____The council shall monitor economic, environmental,_  
+| _regulatory, and technological developments that may affect the_  
+| _security of the electric grid._  
+|  _(c)_ _____Not later than the November 1 preceding each regular_  
+| _session of the legislature, the council shall prepare and submit a_  
+| _report to the legislature analyzing:_  
+|  _(1) the developments listed in Subsection (b); and_  
+|  _(2)_ _____the progress made towards implementing the_  
+| _council's previous grid security recommendations._  
+|  _(d)_ _____The governor shall designate a member of the council to_  
+| _serve as presiding officer._  
+|  _(e) A member of the council is not entitled to compensation._  
+|  SECTION 2. (a) The grid security council shall evaluate  
+| security vulnerabilities of the electric grid and strategies for  
+| securing the grid against:  
+|  (1) cyber threats;  
+|  (2) physical threats;  
+|  (3) weather threats;  
+|  (4) solar storm threats;  
+|  (5) threats of sabotage; and  
+|  (6) threats relating to electromagnetic pulses.  
+|  (b) Not later than November 1, 2020, the council shall  
+| prepare and submit a report to the legislature with recommendations  
+| for addressing the threats identified in Subsection (a) of this  
+| section. The council's report shall include recommendations for:  
+|  (1) state agency rule changes;  
+|  (2) legislation; and  
+|  (3) management changes at the Public Utility  
+| Commission of Texas, the Texas Military Department, the Texas  
+| Division of Emergency Management, and the State Office of Risk  
+| Management.  
+|  SECTION 3. The first report described by Section 39.917(c),  
+| Utilities Code, as added by this Act, is due November 1, 2022.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

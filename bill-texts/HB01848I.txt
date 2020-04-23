@@ -1,0 +1,52 @@
+| 86R3303 LED-F  
+---|---  
+|  By: Klick | H.B. No. 1848  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prevention of communicable diseases in certain  
+| long-term care facilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 81.003, Health and Safety Code, is  
+| amended by amending Subdivision (4-a) and adding Subdivision (4-b)  
+| to read as follows:  
+|  (4-a) _"Long-term care facility" means a facility_  
+| _licensed or regulated under Chapter 242, 247, or 252._  
+|  _(4-b)_ "Peace officer" has the meaning assigned by  
+| Article 2.12, Code of Criminal Procedure. The term includes a  
+| sheriff or constable.  
+|  SECTION 2. Subchapter A, Chapter 81, Health and Safety  
+| Code, is amended by adding Sections 81.014 and 81.015 to read as  
+| follows:  
+|  _Sec._ ___81.014._ _____LONG-TERM CARE FACILITY INFECTION PREVENTION_  
+| _AND CONTROL PROGRAM._ ___(a)_ ___Each long-term care facility's infection_  
+| _prevention and control program must include:_  
+|  _(1)_ _____monitoring of key infectious agents,_  
+| _including_ ___multidrug-resistant organisms;_  
+|  _(2)_ _____procedures for communicating the presence of_  
+| _multidrug-resistant organism infections when admitting a resident_  
+| _to or transferring a resident from the facility; and_  
+|  _(3)_ _____procedures for making rapid influenza diagnostic_  
+| _tests available to facility residents._  
+|  _(b)_ _____Subject to the confidentiality requirements of this_  
+| _chapter, the commission shall ensure that each long-term care_  
+| _facility's infection prevention and control program includes a_  
+| _requirement for the facility to report to the health authority or_  
+| _the department when two or more confirmed cases of influenza occur_  
+| _among facility residents within a 72-hour period._  
+|  _Sec._ ___81.015._ _____ANTIMICROBIAL STEWARDSHIP REGIONAL ADVISORY_  
+| _COMMITTEES. (a)_ ___The department shall establish a regional_  
+| _advisory committee in each public health region designated under_  
+| _Section 121.007 to address antimicrobial stewardship in long-term_  
+| _care facilities and to improve antimicrobial stewardship through_  
+| _collaborative action._  
+|  _(b)_ _____A regional advisory committee established under this_  
+| _section must include:_  
+|  _(1) physicians;_  
+|  _(2)_ _____directors of nursing or equivalent consultants_  
+| _with long-term care facilities;_  
+|  _(3)_ _____public health officials knowledgeable about_  
+| _antimicrobial stewardship; and_  
+|  _(4) other interested parties._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,111 @@
+| 86R2577 SMT-F  
+---|---  
+|  By: Hernandez | H.B. No. 640  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the requirement that certain employers provide advance  
+| notice of employee work schedules.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 3, Labor Code, is amended by adding Chapter  
+| 106 to read as follows:  
+| _CHAPTER 106. NOTICE OF EMPLOYEE WORK SCHEDULE_  
+|  _Sec._ ___106.001._ _____DEFINITION; APPLICABILITY. (a) In this_  
+| _chapter, "food and general retail establishment" means a retail_  
+| _sales establishment that has a physical location with in-person_  
+| _food or merchandise sales to ultimate consumers for personal,_  
+| _family, or household purposes, including a restaurant, a food_  
+| _retail store, a grocery store, a general merchandise store, a_  
+| _department store, and a health and personal care store._  
+|  _(b)_ _____Except as provided by Subsection (c), this chapter_  
+| _applies only to a food and general retail establishment that:_  
+|  _(1) employs at least 500 employees in this state;_  
+|  _(2)_ _____has at least 10 other retail sales establishments_  
+| _in states other than this state; and_  
+|  _(3) maintains at least two of the following:_  
+|  _(A) a standardized array of merchandise;_  
+|  _(B) a standardized facade;_  
+|  _(C) a standardized decor and color scheme;_  
+|  _(D) uniform apparel;_  
+|  _(E) standardized signage; or_  
+|  _(F) a trademark or a service mark._  
+|  _(c) This chapter does not apply to:_  
+|  _(1)_ _____a retail establishment at which the primary_  
+| _activity is providing customer service and the sale of merchandise_  
+| _is secondary or incidental to that service;_  
+|  _(2)_ _____an online retailer that does not have a physical_  
+| _location with in-person sales in this state; or_  
+|  _(3) a new motor vehicle dealer._  
+|  _Sec._ ___106.002._ _____NOTICE REQUIRED. Except as provided by_  
+| _Section 106.004, a food and general retail establishment shall_  
+| _notify each hourly employee of the employee's scheduled work shift_  
+| _at least two weeks before the time the shift is scheduled to begin._  
+|  _Sec._ ___106.003._ _____REMEDY FOR VIOLATION OF NOTICE REQUIREMENT._  
+| _(a) A food and general retail establishment that violates Section_  
+| _106.002 by canceling or moving an employee's work shift to another_  
+| _date or time shall pay the employee the following compensation for_  
+| _each previously scheduled shift that is canceled or moved:_  
+|  _(1)_ _____one hour of pay at the employee's regular hourly_  
+| _rate if the establishment notifies the employee less than seven_  
+| _days but more than 24 hours before the time of the scheduled shift;_  
+|  _(2)_ _____two hours of pay at the employee's regular hourly_  
+| _rate for each shift of four hours or less if the establishment_  
+| _notifies the employee less than 24 hours before the time of the_  
+| _scheduled shift; and_  
+|  _(3)_ _____four hours of pay at the employee's regular hourly_  
+| _rate for each shift of more than four hours if the establishment_  
+| _notifies the employee less than 24 hours before the time of the_  
+| _scheduled shift._  
+|  _(b)_ _____A food and general retail establishment that violates_  
+| _Section 106.002 by requiring an employee to work an unscheduled_  
+| _shift shall pay the employee the following compensation for each_  
+| _previously unscheduled shift that the establishment requires the_  
+| _employee to work, in addition to the employee's regular pay for that_  
+| _shift:_  
+|  _(1)_ _____one hour of pay at the employee's regular hourly_  
+| _rate if the establishment notifies the employee less than seven_  
+| _days but more than 24 hours before the time of the shift;_  
+|  _(2)_ _____two hours of pay at the employee's regular hourly_  
+| _rate for each shift of four hours or less if the establishment_  
+| _notifies the employee less than 24 hours before the time of the_  
+| _shift; and_  
+|  _(3)_ _____four hours of pay at the employee's regular hourly_  
+| _rate for each shift of more than four hours if the establishment_  
+| _notifies the employee less than 24 hours before the time of the_  
+| _shift._  
+|  _Sec._ ___106.004._ _____EXCEPTIONS TO NOTICE REQUIREMENT. A food and_  
+| _general retail establishment is not required to provide the notice_  
+| _under Section 106.002 if:_  
+|  _(1)_ _____the establishment's operations cannot begin or_  
+| _continue due to threats to employees or property, or because civil_  
+| _authorities recommend that work not begin or continue;_  
+|  _(2)_ _____the establishment's operations cannot begin or_  
+| _continue because public utilities fail to supply electricity,_  
+| _water, or gas to the establishment, or there is a failure in the_  
+| _public utility or sewer system at the establishment;_  
+|  _(3)_ _____the establishment's operations cannot begin or_  
+| _continue due to an act of God or another cause not within the_  
+| _establishment's control, including a state of emergency declared by_  
+| _a local government or the governor;_  
+|  _(4)_ _____another employee who was previously scheduled to_  
+| _work the previously unscheduled shift is unable to work and the_  
+| _establishment did not receive at least seven days' notice of the_  
+| _other employee's absence;_  
+|  _(5)_ _____another employee who was previously scheduled to_  
+| _work the previously unscheduled shift does not report to work on_  
+| _time or is fired, sent home, or told to stay home as a disciplinary_  
+| _action;_  
+|  _(6)_ _____the establishment requires the employee to work_  
+| _overtime, including mandatory overtime; or_  
+|  _(7)_ _____the employee works a previously unscheduled shift_  
+| _because the employee traded shifts with another employee or_  
+| _requested a change in shift, hours, or work schedule._  
+|  SECTION 2. Chapter 106, Labor Code, as added by this Act,  
+| applies only to an employee's work shift that is scheduled by an  
+| employer on or after the effective date of this Act. An employee's  
+| work shift that is scheduled by an employer before the effective  
+| date of this Act is governed by the law in effect immediately before  
+| the effective date of this Act, and that law is continued in effect  
+| for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

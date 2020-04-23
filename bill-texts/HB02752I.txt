@@ -1,0 +1,130 @@
+| 86R5895 AAF-F  
+---|---  
+|  By: Martinez | H.B. No. 2752  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to job order contracting.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2269.001, Government Code, is amended by  
+| adding Subdivision (5-a) to read as follows:  
+|  _(5-a) "Horizontal construction project" means:_  
+|  _(A)_ _____a highway, road, street, bridge, utility,_  
+| _water supply project, water plant, wastewater plant, water and_  
+| _wastewater distribution or conveyance facility, wharf, dock,_  
+| _airport runway or taxiway, drainage project, or related type of_  
+| _project associated with civil engineering construction; or_  
+|  _(B)_ _____work relating to a building or structure that_  
+| _is incidental to a project that is primarily a civil engineering_  
+| _construction project._  
+|  SECTION 2. Section 2269.004, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2269.004. _APPLICABILITY OF CHAPTER TO CERTAIN_  
+| _TRANSPORTATION CONTRACTS, PROJECTS, AND ENTITIES_ [ ~~EXEMPTION: TEXAS~~  
+|  ~~DEPARTMENT OF TRANSPORTATION; HIGHWAY PROJECTS~~ ].  _(a)_ ___Except as_  
+| _otherwise provided by Subsections (b) and (c), this_ [ ~~This~~ ] chapter  
+| does not apply to:  
+|  (1) a contract entered into by the Texas Department of  
+| Transportation; [ ~~or~~ ]  
+|  (2) a project that receives money from a state or  
+| federal highway fund _;_  
+|  _(3)_ _____a regional tollway authority under Chapter 366,_  
+| _Transportation Code;_  
+|  _(4)_ _____an improvement project undertaken by or through a_  
+| _local government corporation exempt from competitive bidding_  
+| _requirements or restrictions under Section 431.110, Transportation_  
+| _Code;_  
+|  _(5)_ _____a regional mobility authority under Chapter 370,_  
+| _Transportation Code;_  
+|  _(6)_ _____a coordinated county transportation authority_  
+| _under Chapter 460, Transportation Code; or_  
+|  _(7)_ _____a project of a county under Chapter 284,_  
+| _Transportation Code_.  
+|  _(b)_ _____Notwithstanding any other law, a contract, project, or_  
+| _entity described by Subsections (a)(1)-(6) may use job order_  
+| _contracting under Subchapter I for projects described by Section_  
+| _2269.403._  
+|  _(c)_ _____A county may adopt an order electing to be governed by_  
+| _this chapter for a project to be developed by the county under_  
+| _Chapter 284, Transportation Code._  
+|  SECTION 3. Section 2269.401, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2269.401. JOB ORDER CONTRACTING.  In this chapter,  
+| "job order contracting" is a procurement method used for  
+| maintenance, repair, alteration, renovation, remediation, or  
+| [ ~~minor~~ ] construction of a facility _or for a horizontal construction_  
+| _project_ when the [ ~~work is of a recurring nature but the delivery~~  
+|  ~~times,~~ ] type[ ~~,~~ ] and quantities of work required are indefinite.  
+|  SECTION 4. The heading to Section 2269.403, Government  
+| Code, is amended to read as follows:  
+|  Sec. 2269.403. REQUIREMENTS FOR JOB ORDER CONTRACTS [ ~~FOR~~  
+|  ~~FACILITIES~~ ].  
+|  SECTION 5. Section 2269.403(a), Government Code, is amended  
+| to read as follows:  
+|  (a) A governmental entity may award job order contracts for  
+| the maintenance, repair, alteration, renovation, remediation, or  
+| [ ~~minor~~ ] construction of a facility _or for a horizontal construction_  
+| _project_ if[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the work is of a recurring nature but the delivery~~  
+|  ~~times are indefinite; and~~  
+|  [ ~~(2)~~ ] indefinite quantities and orders are awarded  
+| substantially on the basis of predescribed and prepriced tasks.  
+|  SECTION 6. Section 2269.404, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2269.404. CONTRACTUAL UNIT PRICES. The governmental  
+| entity _shall_ [ ~~may~~ ] establish contractual unit prices for a job  
+| order contract by:  
+|  (1) specifying one or more published construction unit  
+| price books and the applicable divisions or line items; _and_ [ ~~or~~ ]  
+|  (2) providing a list of work items and requiring the  
+| offerors to propose one or more coefficients or multipliers to be  
+| applied to the price book or prepriced work items as the price  
+| proposal.  
+|  SECTION 7. Section 2269.405(c), Government Code, is amended  
+| to read as follows:  
+|  (c) The governmental entity may require offerors to submit  
+| information in addition to _the offeror's proposed coefficients or_  
+| _multipliers_ [ ~~rates~~ ], including experience, past performance, and  
+| proposed personnel and methodology.  
+|  SECTION 8. Section 2269.406, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2269.406. AWARDING OF JOB ORDER CONTRACTS.  The  
+| governmental entity may award _a_ job order _contract only_ [ ~~contracts~~
+]  
+| to one [ ~~or more~~ ] job order _contractor_ [ ~~contractors~~ ] in
+connection  
+| with each solicitation of proposals.  
+|  SECTION 9. Section 2269.408(b), Government Code, is amended  
+| to read as follows:  
+|  (b) Subsection (a) does not apply to a job order contract or  
+| an order issued under the contract [ ~~for industrialized housing,~~  
+|  ~~industrialized buildings, or relocatable educational facilities~~  
+|  ~~subject to and approved under Chapter 1202, Occupations Code,~~ ] if  
+| the contractor employs the services of an architect or engineer who  
+| approves the documents for the project.  
+|  SECTION 10. Section 2269.410, Government Code, is amended  
+| by amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) The order may be:  
+|  (1) a fixed price, lump-sum contract based  
+| [ ~~substantially~~ ] on contractual unit pricing applied to _the scope of_  
+| _work_ [ ~~estimated quantities~~ ]; or  
+|  (2) a unit price order based on the quantities and line  
+| items delivered.  
+|  _(c)_ _____The order under a job order contract for a construction_  
+| _project must include detailed line item descriptions, quantities,_  
+| _and prices for each construction task, including the associated_  
+| _coefficients or multipliers, to produce a lump-sum price of the_  
+| _project._  
+|  SECTION 11. Sections 2269.006, 2269.007, 2269.008,  
+| 2269.009, 2269.010, and 2269.402, Government Code, are repealed.  
+|  SECTION 12. The changes in law made by this Act apply only  
+| to a job order contract entered into or renewed on or after the  
+| effective date of this Act and any order for a job or project under  
+| that contract. A job order contract entered into or renewed before  
+| the effective date of this Act and any order for a job or project  
+| under that contract is governed by the law in effect immediately  
+| before the effective date of this Act, and that law is continued in  
+| effect for that purpose.  
+|  SECTION 13. This Act takes effect September 1, 2019.
+

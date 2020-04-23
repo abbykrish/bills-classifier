@@ -1,0 +1,41 @@
+| 86R5184 CAE-F  
+---|---  
+|  By: Clardy | H.B. No. 685  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to immunity from liability of a court clerk and county for  
+| the disclosure or release of certain court documents and  
+| information contained in the court documents.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter G, Chapter 51, Government Code, is  
+| amended by adding Section 51.609 to read as follows:  
+|  _Sec._ ___51.609._ _____IMMUNITY FROM LIABILITY FOR DISCLOSURE OR_  
+| _RELEASE OF COURT DOCUMENTS. (a) In this section:_  
+|  _(1)_ _____"Court clerk" means the clerk of a district court,_  
+| _county court, statutory county court, or probate court._  
+|  _(2)_ _____"State court document database" means a database_  
+| _accessible by the public and established or authorized by the_  
+| _supreme court for storing documents filed with a court in this_  
+| _state._  
+|  _(b)_ _____A court clerk is not responsible for the management or_  
+| _removal of a document from a state court document database and is_  
+| _not liable for damages resulting from the release of a document in_  
+| _the database if the clerk in good faith performs the duties as clerk_  
+| _as provided by law and the Texas Rules of Civil Procedure._  
+|  _(c)_ _____A court clerk, the county in which the court is located,_  
+| _and the commissioners court of the county in which the court is_  
+| _located are immune from suit and from liability for the release or_  
+| _disclosure by a third party of information that is confidential or_  
+| _otherwise prohibited from disclosure by law, rule, or court order_  
+| _and that is accessed from a state court document database._  
+|  _(d)_ _____A court clerk is not liable for the release of a sealed_  
+| _or confidential document in the clerk's custody unless the clerk_  
+| _acted intentionally, or with malice, reckless disregard, or gross_  
+| _negligence in the release of the document._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

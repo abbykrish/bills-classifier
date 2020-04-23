@@ -1,0 +1,54 @@
+| 86R5200 JSC-D  
+---|---  
+|  By: Dutton | H.B. No. 520  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to spoliation of evidence held for use in a criminal  
+| proceeding.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 38, Code of Criminal Procedure, is  
+| amended by adding Article 38.495 to read as follows:  
+|  _Art._ ___38.495._ _____SPOLIATION OF EVIDENCE. (a)_ ___Except as_  
+| _permitted under other law, the state shall preserve evidence in the_  
+| _possession, custody, or control of the state and may not permit the_  
+| _destruction, alteration, or loss of that evidence._  
+|  _(b)_ _____Subject to Subsection (c), evidence and testimony_  
+| _relating to an allegation that the state, by act or omission, caused_  
+| _the destruction, alteration, or loss of evidence held for use in a_  
+| _criminal proceeding are admissible and may be used by the defendant_  
+| _to make a showing of spoliation of evidence under this article._  
+|  _(c)_ _____In determining the admissibility of evidence or_  
+| _testimony relating to an allegation described by Subsection (b),_  
+| _the court shall determine, out of the presence of the jury and by a_  
+| _preponderance of the evidence, whether spoliation of evidence_  
+| _occurred in violation of Subsection (a)._ ___If practicable, the court_  
+| _shall make the determination under this subsection before trial_  
+| _using the procedures under Article 28.01 of this code and Rule 104,_  
+| _Texas Rules of Evidence._  
+|  _(d)_ _____The party alleging spoliation of evidence in violation_  
+| _of Subsection (a) is not required to show that:_  
+|  _(1)_ _____the actor's sole intent was to wrongfully cause the_  
+| _destruction, alteration, or loss of the evidence; or_  
+|  _(2)_ _____the actions of the actor constituted a criminal_  
+| _offense._  
+|  _(e)_ _____A conviction for an offense under Section 37.09, Penal_  
+| _Code, creates a presumption of spoliation of evidence under this_  
+| _article._  
+|  _(f)_ _____If it is shown during a proceeding under Subsection (c)_  
+| _that the violation of Subsection (a) was intentional, knowing,_  
+| _reckless, or negligent, at trial the court shall instruct the jury_  
+| _to presume that the destroyed, altered, or lost evidence would have_  
+| _been favorable to the defendant and unfavorable to the state._  
+|  _(g)_ _____If it is shown during a proceeding under Subsection (c)_  
+| _that the violation of Subsection (a) was intentional, the court may_  
+| _impose additional sanctions on the state or dismiss any criminal_  
+| _charges with prejudice._  
+|  SECTION 2. The change in law made by this Act applies to a  
+| criminal proceeding that commences on or after the effective date  
+| of this Act. A criminal proceeding that commences before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the proceeding commenced, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

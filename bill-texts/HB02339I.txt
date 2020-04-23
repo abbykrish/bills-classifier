@@ -1,0 +1,82 @@
+| 86R10804 ADM-D  
+---|---  
+|  By: Meza | H.B. No. 2339  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the entry into the Texas Crime Information Center of  
+| information concerning the release on bond of persons charged with  
+| committing a violent offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 17, Code of Criminal Procedure, is  
+| amended by adding Article 17.50 to read as follows:  
+|  _Art._ ___17.50._ _____ENTRY OF BOND STATUS INTO TEXAS CRIME_  
+| _INFORMATION CENTER; DUTIES OF MAGISTRATES, SHERIFFS, AND_  
+| _DEPARTMENT OF PUBLIC SAFETY. (a)_ ___In this article:_  
+|  _(1)_ _____"Database" means the statewide law enforcement_  
+| _information system maintained by the Department of Public Safety,_  
+| _also known as the Texas Crime Information Center._  
+|  _(2) "Violent offense" means:_  
+|  _(A)_ _____an offense under any of the following_  
+| _sections of the Penal Code:_  
+|  _(i) Section 19.02 (murder);_  
+|  _(ii) Section 19.03 (capital murder);_  
+|  _(iii) Section 20.03 (kidnapping);_  
+|  _(iv)_ _____Section 20.04 (aggravated_  
+| _kidnapping);_  
+|  _(v) Section 21.11 (indecency with a child);_  
+|  _(vi) Section 22.011 (sexual assault);_  
+|  _(vii) Section 22.02 (aggravated assault);_  
+|  _(viii)_ _____Section 22.021 (aggravated sexual_  
+| _assault);_  
+|  _(ix)_ _____Section 22.04 (injury to a child,_  
+| _elderly individual, or disabled individual);_  
+|  _(x) Section 29.03 (aggravated robbery);_  
+|  _(xi)_ _____Section 21.02 (continuous sexual abuse_  
+| _of young child or children); or_  
+|  _(xii)_ _____Section 20A.03 (continuous_  
+| _trafficking of persons); and_  
+|  _(B)_ _____any offense involving family violence as_  
+| _defined by Section 71.004, Family Code._  
+|  _(b)_ _____As soon as practicable but not later than the next_  
+| _business day after the date a magistrate releases on bond a person_  
+| _charged with committing a violent offense, the magistrate shall_  
+| _notify the sheriff of the release and provide to the sheriff the_  
+| _following information:_  
+|  _(1)_ _____the name, sex, race, date of birth, personal_  
+| _descriptors, address, and county of residence of the person_  
+| _released;_  
+|  _(2)_ _____any known identifying number of the person_  
+| _released, including the person's social security number or driver's_  
+| _license number; and_  
+|  _(3)_ _____if applicable, any condition of bond imposed, the_  
+| _name and county of residence of any named person the condition of_  
+| _bond is intended to protect, and the name and county of residence of_  
+| _the victim of the alleged offense._  
+|  _(c)_ _____On receipt of the information described by Subsection_  
+| _(b), the sheriff shall enter the information into the database._  
+|  _(d)_ _____As soon as practicable but not later than the next_  
+| _business day after the date a magistrate revokes the bond of a_  
+| _person charged with committing a violent offense, modifies the_  
+| _terms of or removes a condition of bond imposed on the person, or_  
+| _disposes of the underlying criminal charges in the person's case,_  
+| _the magistrate shall notify the sheriff and provide the sheriff_  
+| _with information that is sufficient to enable the sheriff to update_  
+| _the database accordingly._  
+|  _(e)_ _____The Department of Public Safety shall modify the_  
+| _database to enable the database to accept and maintain detailed_  
+| _information regarding the release on bond of a person charged with_  
+| _committing a violent offense and any associated conditions of bond,_  
+| _including information described by Subsections (b) and (d)._  
+|  SECTION 2. Not later than January 1, 2020, the Department of  
+| Public Safety of the State of Texas shall modify the statewide law  
+| enforcement information system maintained by the department, also  
+| known as the Texas Crime Information Center, to enable the database  
+| to accept and maintain detailed information regarding the release  
+| on bond of a person charged with committing a violent offense and  
+| any associated conditions of bond, as required by Article 17.50(e),  
+| Code of Criminal Procedure, as added by this Act.  
+|  SECTION 3. (a) Except as provided by Subsection (b) of this  
+| section, this Act takes effect January 1, 2020.  
+|  (b) Section 2 of this Act takes effect September 1, 2019.
+

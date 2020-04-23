@@ -1,0 +1,659 @@
+| 86R4751 SRS-D  
+---|---  
+|  By: Anchia | H.B. No. 1204  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to nonpartisan primary elections; authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 1.005(6) and (14), Election Code, are  
+| amended to read as follows:  
+|  (6) "General election" means an election, other than a  
+| primary election _held by a political party under Chapter 172 or a_  
+| _presidential primary election_ , that regularly recurs at fixed  
+| dates.  
+|  (14) "Primary election" means _, where the context_  
+| _indicates, a general_ [ ~~an~~ ] election held [ ~~by a political party
+under~~  
+|  ~~Chapter 172~~ ] to select _candidates_ [ ~~its nominees~~ ] for public
+office,  
+| and, unless the context indicates otherwise, the term includes _an_  
+| _election held by a political party under Chapter 172 to select party_  
+| _officers and_ a presidential primary election.  
+|  SECTION 2. Section 13.122(a), Election Code, is amended to  
+| read as follows:  
+|  (a) In addition to the other statements and spaces for  
+| entering information that appear on an officially prescribed  
+| registration application form, each official form must include:  
+|  (1) the statement: "I understand that giving false  
+| information to procure a voter registration is perjury and a crime  
+| under state and federal law.";  
+|  (2) a space for the applicant's registration number;  
+|  (3) a space for the applicant's Texas driver's license  
+| number or number of a personal identification card issued by the  
+| Department of Public Safety;  
+|  (4) a space for the applicant's telephone number;  
+|  (5) a space for the applicant's social security  
+| number;  
+|  (6) a space for the applicant's sex;  
+|  (7) a statement indicating that the furnishing of the  
+| applicant's telephone number and sex is optional;  
+|  (8) a space or box for indicating whether the  
+| applicant or voter is submitting new registration information or a  
+| change in current registration information;  
+|  (9) a statement instructing a voter who is using the  
+| form to make a change in current registration information to enter  
+| the voter's name and the changed information in the appropriate  
+| spaces on the form;  
+|  (10) a statement that if the applicant declines to  
+| register to vote, that fact will remain confidential and will be  
+| used only for voter registration purposes;  
+|  (11) a statement that if the applicant does register  
+| to vote, information regarding the agency or office to which the  
+| application is submitted will remain confidential and will be used  
+| only for voter registration purposes;  
+|  (12) a space or box for indicating whether the  
+| applicant is interested in working as an election judge;  
+|  (13) a statement warning that a conviction for making  
+| a false statement may result in imprisonment for up to the maximum  
+| amount of time provided by law, a fine of up to the maximum amount  
+| provided by law, or both the imprisonment and the fine;  
+|  _(14)_ _____a space or box for indicating the applicant's_  
+| _party affiliation or alignment, if any;_ and  
+|  _(15)_ [ ~~(14)~~ ] any other voter registration information  
+| required by federal law or considered appropriate and required by  
+| the secretary of state.  
+|  SECTION 3. Section 31.032(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The position of county elections administrator is  
+| filled by appointment of the county election commission, which  
+| consists of:  
+|  (1) the county judge, as chair;  
+|  (2) the county clerk, as vice chair;  
+|  (3) the county tax assessor-collector, as secretary;  
+| and  
+|  (4) the county chair of each political party that  
+| _holds a_ [ ~~made nominations by~~ ] primary election _in the year_ [ ~~for
+the~~  
+|  ~~last general election for state and county officers~~ ] preceding the  
+| date of the meeting at which the appointment is made.  
+|  SECTION 4. Section 31.124(b), Election Code, is amended to  
+| read as follows:  
+|  (b) A county election officer of each county shall deliver  
+| written notice of the time and place of the meeting required by  
+| Subsection (a) not later than 72 hours before the meeting date to  
+| the county chair of each political party that made nominations _in_  
+| _the most recent presidential_ [ ~~by~~ ] primary election [ ~~for the
+general~~  
+|  ~~election for state and county officers~~ ] preceding the date of the  
+| meeting.  
+|  SECTION 5. Section 31.153(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The joint elections commission consists of:  
+|  (1) from each county that has adopted an order to have  
+| its elections conducted by the joint elections administrator, the  
+| county judge, county clerk, and county tax assessor-collector;  
+|  (2) from each county described in Subdivision (1), the  
+| county chair of each political party that made nominations _in the_  
+| _most recent presidential_ [ ~~by~~ ] primary election [ ~~for the last~~  
+|  ~~general election for state and county officers~~ ] preceding the date  
+| of the meeting at which the appointment is made; and  
+|  (3) a representative from each participating entity  
+| other than a county.  
+|  SECTION 6. Section 32.002(c), Election Code, is amended to  
+| read as follows:  
+|  (c) The presiding judge and alternate presiding judge must  
+| be affiliated or aligned with different political parties, subject  
+| to this subsection. Before July of each year in a county to which  
+| Subsection (a)(1) applies or before August of each year in a county  
+| to which Subsection (a)(2) applies, the county chair of a political  
+| party whose candidate for _president_ [ ~~governor~~ ] received the highest  
+| or second highest number of votes in the county in the most recent  
+| _presidential_ [ ~~gubernatorial~~ ] general election shall submit in  
+| writing to the commissioners court a list of names of persons in  
+| order of preference for each precinct who are eligible for  
+| appointment as an election judge. The county chair may supplement  
+| the list of names of persons until the 20th day before a general  
+| election or the 15th day before a special election in case an  
+| appointed election judge becomes unable to serve. The  
+| commissioners court shall appoint the first person meeting the  
+| applicable eligibility requirements from the list submitted in  
+| compliance with this subsection by the party with the highest  
+| number of votes in the precinct _in the most recent presidential_  
+| _general election_ as the presiding judge and the first person  
+| meeting the applicable eligibility requirements from the list  
+| submitted in compliance with this subsection by the party with the  
+| second highest number of votes in the precinct as the alternate  
+| presiding judge. If the candidates for _president_ [ ~~governor~~ ] of two  
+| political parties received the same number of votes in the  
+| precinct, the first person meeting the applicable eligibility  
+| requirements from the list submitted by the party whose candidate  
+| for _president_ [ ~~governor~~ ] received the highest number of votes in  
+| the county shall be appointed as the presiding judge and the first  
+| person meeting the applicable eligibility requirements from the  
+| list submitted by the party whose candidate for _president_  
+| [ ~~governor~~ ] received the second highest number of votes in the  
+| county shall be appointed as the alternate presiding judge. The  
+| commissioners court may reject the list if the persons whose names  
+| are submitted on the list are determined not to meet the applicable  
+| eligibility requirements.  
+|  SECTION 7. Sections 32.034(b) and (e), Election Code, are  
+| amended to read as follows:  
+|  (b) The county chair of a political party whose candidate  
+| for _president_ [ ~~governor~~ ] received the highest or second highest  
+| number of votes in the county in the most recent _presidential_  
+| [ ~~gubernatorial~~ ] general election may, not later than the 25th day  
+| before a general election or the 10th day before a special election  
+| to which Subsection (a) applies, submit to a presiding judge a list  
+| containing the names of at least two persons who are eligible for  
+| appointment as a clerk. If a timely list is submitted, the presiding  
+| judge shall appoint at least one clerk from the list, except as  
+| provided by Subsection (c).  
+|  (e) If a presiding judge has not been appointed at the time  
+| the county chair of a political party is required to submit a list  
+| of names for the appointment of a clerk under this section, the list  
+| of names shall be submitted to the county chair of the political  
+| party whose candidate for _president_ [ ~~governor~~ ] received the most  
+| votes in the precinct in the most recent _presidential_  
+| [ ~~gubernatorial~~ ] election and to the commissioners court. The  
+| county chair, or the commissioners court in a county without a  
+| county chair, shall appoint clerks from the list in the same manner  
+| provided for a presiding judge to appoint clerks by this section.  
+|  SECTION 8. Sections 41.007(a) and (b), Election Code, are  
+| amended to read as follows:  
+|  (a) The _date for the_ general primary election _and for a_  
+| _primary election held by a political party under Chapter 172_ [ ~~date~~ ]  
+| is the first Tuesday in March in each even-numbered year.  
+|  (b) The runoff [ ~~primary~~ ] election date _for a primary_  
+| _election held by a political party under Chapter 172_ is the fourth  
+| Tuesday in May following the general primary election.  
+|  SECTION 9. Section 51.002(b), Election Code, is amended to  
+| read as follows:  
+|  (b) For the general election for state and county officers  
+| and for a special election for an officer regularly elected at the  
+| general election, the county election board consists of the county  
+| judge, county clerk, voter registrar, sheriff, and county chair of  
+| each political party _that holds a_ [ ~~required to nominate candidates~~  
+|  ~~by~~ ] primary election. For other elections, the board consists of  
+| the county judge, county clerk, voter registrar, and sheriff.  
+|  SECTION 10. Section 52.091(b), Election Code, is amended to  
+| read as follows:  
+|  (b) Columns of parties specified by Subsection (a)(1) shall  
+| be arranged in descending order of the number of votes received  
+| statewide by each party's candidate for _president_ [ ~~governor~~ ] in the  
+| most recent _presidential_ [ ~~gubernatorial~~ ] general election,  
+| beginning on the left with the party whose candidate received the  
+| highest number of votes. Columns of parties that did not have a  
+| candidate for _president_ [ ~~governor~~ ] in the most recent _presidential_  
+| [ ~~gubernatorial~~ ] general election shall appear after the columns of  
+| parties that had a candidate, and the order of their columns shall  
+| be determined by a drawing conducted by the secretary of state.  
+|  SECTION 11. Section 85.062(e), Election Code, is amended to  
+| read as follows:  
+|  (e) In an election covered by Subsection (d), a temporary  
+| branch polling place that is movable may be established only with  
+| the approval of the county clerk. If a movable temporary branch  
+| polling place is established on the request of a political party,  
+| each other political party whose nominee for _president_ [ ~~governor~~ ]  
+| in the most recent _presidential_ [ ~~gubernatorial~~ ] general election  
+| received more than 10 percent of the total number of votes received  
+| by all candidates for _president_ [ ~~governor~~ ] in the election is  
+| entitled to establishment of such a polling place. The election  
+| officers serving a polling place covered by this subsection must be  
+| affiliated or aligned with different political parties to the  
+| extent possible. The secretary of state, after consulting the state  
+| chair of each affected political party, shall prescribe the  
+| procedures necessary to implement this subsection.  
+|  SECTION 12. Sections 87.002(c) and (d), Election Code, are  
+| amended to read as follows:  
+|  (c) In the general election for state and county officers,  
+| each county chair of a political party with _an affiliated candidate_  
+| [ ~~nominees~~ ] on the general election ballot shall submit to the  
+| county election board a list of names of persons eligible to serve  
+| on the early voting ballot board. The county election board shall  
+| appoint at least one person from each list to serve as a member of  
+| the early voting ballot board. The same number of members must be  
+| appointed from each list.  
+|  (d) In addition to the members appointed under Subsection  
+| (c), the county election board shall appoint the presiding judge  
+| from the list provided under that subsection by the political party  
+| whose nominee for _president_ [ ~~governor~~ ] received the most votes in  
+| the county in the most recent _presidential_ [ ~~gubernatorial~~ ] general  
+| election.  
+|  SECTION 13. Section 87.027(d), Election Code, is amended to  
+| read as follows:  
+|  (d) The early voting clerk shall determine the number of  
+| members who are to compose the signature verification committee and  
+| shall state that number in the order calling for the committee's  
+| appointment. A committee must consist of not fewer than five  
+| members. In an election in which party alignment is indicated on the  
+| ballot, each county chair of a political party with a nominee or  
+| aligned candidate on the ballot shall submit to the appointing  
+| authority a list of names of persons eligible to serve on the  
+| signature verification committee. The authority shall appoint at  
+| least two persons from each list to serve as members of the  
+| committee. The same number of members must be appointed from each  
+| list. The authority shall appoint the chair of the committee from  
+| the list provided by the political party whose nominee for  
+| _president_ [ ~~governor~~ ] received the most votes in the county in the  
+| most recent _presidential_ [ ~~gubernatorial~~ ] general election. A  
+| vacancy on the committee shall be filled by appointment from the  
+| original list or from a new list submitted by the appropriate county  
+| chair.  
+|  SECTION 14. Section 141.001(a), Election Code, is amended  
+| to read as follows:  
+|  (a) To be eligible to be a candidate for, or elected or  
+| appointed to, a public elective office in this state, a person must:  
+|  (1) be a United States citizen;  
+|  (2) be 18 years of age or older on the first day of the  
+| term to be filled at the election or on the date of appointment, as  
+| applicable;  
+|  (3) have not been determined by a final judgment of a  
+| court exercising probate jurisdiction to be:  
+|  (A) totally mentally incapacitated; or  
+|  (B) partially mentally incapacitated without the  
+| right to vote;  
+|  (4) have not been finally convicted of a felony from  
+| which the person has not been pardoned or otherwise released from  
+| the resulting disabilities;  
+|  (5) have resided continuously in the state for 12  
+| months and in the territory from which the office is elected for six  
+| months immediately preceding the following date:  
+|  (A) for a candidate whose name is to appear on a  
+| general primary election ballot, the date of the regular filing  
+| deadline for a candidate's application for a place on the ballot;  
+|  (B) for _a_ [ ~~an independent~~ ] candidate _for office_  
+| _in an election where candidates are not nominated by primary_  
+| _election_ , the date of the regular filing deadline for a candidate's  
+| application for a place on the ballot;  
+|  (C) for a write-in candidate, the date of the  
+| election at which the candidate's name is written in;  
+|  (D) for a party nominee who is nominated by any  
+| method other than by primary election, the date the nomination is  
+| made; and  
+|  (E) for an appointee to an office, the date the  
+| appointment is made;  
+|  (6) on the date described by Subdivision (5), be  
+| registered to vote in the territory from which the office is  
+| elected; and  
+|  (7) satisfy any other eligibility requirements  
+| prescribed by law for the office.  
+|  SECTION 15. Subchapter A, Chapter 141, Election Code, is  
+| amended by adding Sections 141.005 and 141.006 to read as follows:  
+|  _Sec._ ___141.005._ _____PRIMARY ELECTION REQUIRED. (a) Except as_  
+| _otherwise provided by this code, candidates in the general election_  
+| _for offices of state and county government and the United States_  
+| _Congress must be chosen by primary election as provided by this_  
+| _code._  
+|  _(b)_ _____All eligible voters may vote in a primary election_  
+| _described by this section without regard to political party_  
+| _alignment._  
+|  _(c)_ _____A political party or state executive committee may not_  
+| _nominate candidates in the general election for offices of state_  
+| _and county government and the United States Congress. This_  
+| _subsection may not be interpreted to prohibit a political party or_  
+| _state executive committee from endorsing, supporting, or opposing_  
+| _those candidates._  
+|  _(d)_ _____The secretary of state shall adopt rules to implement_  
+| _this section._  
+|  _Sec._ ___141.006._ _____DETERMINATION OF CANDIDATES FOR GENERAL_  
+| _ELECTION. (a)_ ___Notwithstanding any other provision of this code,_  
+| _the two candidates who receive the highest and second highest_  
+| _number of votes in a primary election held to choose candidates for_  
+| _the general election for offices of state and county government and_  
+| _the United States Congress are the candidates for that election._  
+|  _(b)_ _____The secretary of state shall adopt rules to implement_  
+| _this section._  
+|  SECTION 16. Subchapter B, Chapter 141, Election Code, is  
+| amended by adding Section 141.030 to read as follows:  
+|  _Sec._ ___141.030._ _____APPLICATION REQUIRED. (a) To be entitled to_  
+| _a place on the general primary election ballot under Section_  
+| _141.005, a candidate must make an application for a place on the_  
+| _ballot._  
+|  _(b)_ _____An application must, in addition to complying with_  
+| _Section 141.031, be accompanied by the appropriate filing fee or a_  
+| _petition in lieu of the filing fee that satisfies the requirements_  
+| _prescribed by Section 141.062._  
+|  _(c)_ _____A candidate may indicate the candidate's party_  
+| _affiliation or alignment, if any, on the application._  
+|  _(d)_ _____An application filed by mail is considered to be filed_  
+| _at the time of its receipt by the appropriate authority._  
+|  _(e)_ _____The circulation of a petition to be filed under this_  
+| _subchapter in connection with a candidate's application for a place_  
+| _on the ballot does not constitute candidacy or an announcement of_  
+| _candidacy for purposes of the automatic resignation provisions of_  
+| _Section 65, Article XVI, or Section 11, Article XI, Texas_  
+| _Constitution._  
+|  _(f)_ _____A candidate for an office specified by Section_  
+| _141.0315(a)(8), (10), or (12), or for justice of the peace in a_  
+| _county with a population of more than 1.5 million, who chooses to_  
+| _pay the filing fee must also accompany the application with a_  
+| _petition for a place on the primary ballot as a candidate for_  
+| _judicial office that complies with the requirements prescribed for_  
+| _the petition authorized by Subsection (b), except that the minimum_  
+| _number of signatures that must appear on the petition required by_  
+| _this subsection is 250._ _____If the candidate chooses to file the_  
+| _petition authorized by Subsection (b) in lieu of the filing fee, the_  
+| _minimum number of signatures required for that petition is_  
+| _increased by 250._ _____Signatures on a petition filed under this_  
+| _subsection or Subsection (b) by a candidate covered by this_  
+| _subsection may not be obtained on the grounds of a county courthouse_  
+| _or courthouse annex._  
+|  _(g)_ _____A candidate for the office of chief justice or justice,_  
+| _supreme court, or presiding judge or judge, court of criminal_  
+| _appeals, who chooses to pay the filing fee must also accompany the_  
+| _application with a petition that complies with the requirements_  
+| _prescribed for a petition authorized by Subsection (b), except that_  
+| _the minimum number of signatures that must appear on the petition_  
+| _required by this subsection is 50 from each court of appeals_  
+| _district._  
+|  SECTION 17. Section 172.024, Election Code, is transferred  
+| to Subchapter B, Chapter 141, Election Code, and redesignated as  
+| Section 141.0315, Election Code, to read as follows:  
+|  Sec. _141.0315_ [ ~~172.024~~ ]. FILING FEE. (a)  The filing fee  
+| for a candidate for nomination in the general primary election is as  
+| follows:  
+|  (1) United States senator$5,000  
+|  (2) office elected statewide, except United States  
+| senator3,750  
+|  (3) United States representative3,125  
+|  (4) state senator1,250  
+|  (5) state representative750  
+|  (6) member, State Board of Education300  
+|  (7) chief justice or justice, court of appeals, other  
+| than a justice specified by Subdivision (8)1,875  
+|  (8) chief justice or justice of a court of appeals that  
+| serves a court of appeals district in which a county with a  
+| population of more than one million is wholly or partly  
+| situated2,500  
+|  (9) district judge or judge specified by Section  
+| 52.092(d) for which this schedule does not otherwise prescribe a  
+| fee1,500  
+|  (10) district or criminal district judge of a court in  
+| a judicial district wholly contained in a county with a population  
+| of more than 1.5 million2,500  
+|  (11) judge, statutory county court, other than a judge  
+| specified by Subdivision (12)1,500  
+|  (12) judge of a statutory county court in a county with  
+| a population of more than 1.5 million2,500  
+|  (13) district attorney, criminal district attorney,  
+| or county attorney performing the duties of a district  
+| attorney1,250  
+|  (14) county commissioner, district clerk, county  
+| clerk, sheriff, county tax assessor-collector, county treasurer,  
+| or judge, constitutional county court:  
+|  (A) county with a population of 200,000 or  
+| more1,250  
+|  (B) county  with  a  population of under  
+| 200,000750  
+|  (15) justice of the peace or constable:  
+|  (A) county with a population of 200,000 or  
+| more1,000  
+|  (B) county  with a  population of under  
+| 200,000375  
+|  (16) county surveyor75  
+|  (17) office of the county government for which this  
+| schedule does not otherwise prescribe a fee750  
+|  (b) If a fee prescribed by Subsection (a) is declared  
+| invalid by a final judgment of a court, the secretary of state shall  
+| prescribe a filing fee consistent with the judgment to replace the  
+| invalidated fee.  
+|  SECTION 18. Subchapter B, Chapter 141, Election Code, is  
+| amended by adding Section 141.0316 to read as follows:  
+|  _Sec._ ___141.0316._ _____NUMBER OF PETITION SIGNATURES REQUIRED. The_  
+| _minimum number of signatures that must appear on the petition_  
+| _authorized by Section 141.030(b) is:_  
+|  _(1) 5,000, for a statewide office; or_  
+|  _(2)_ _____for a district, county, or precinct office, the_  
+| _lesser of:_  
+|  _(A) 500; or_  
+|  _(B)_ _____two percent of the total vote received in the_  
+| _district, county, or precinct, as applicable, by all the candidates_  
+| _for governor in the most recent gubernatorial general election,_  
+| _unless that number is under 50, in which case the required number of_  
+| _signatures is the lesser of:_  
+|  _(i) 50; or_  
+|  _(ii) 20 percent of that total vote._  
+|  SECTION 19. Section 141.039, Election Code, is amended to  
+| read as follows:  
+|  Sec. 141.039. OFFICIAL APPLICATION FORM. In addition to  
+| the other statements and spaces for entering information that  
+| appear on an officially prescribed form for an application for a  
+| place on the ballot, each official form for an application that a  
+| candidate is required to file under this code must include:  
+|  (1) a space for indicating the form in which the  
+| candidate's name is to appear on the ballot;  
+|  (2) a space for the candidate's public mailing  
+| address;  
+|  (3) spaces for the candidate's home and office  
+| telephone numbers and e-mail address at which the candidate  
+| receives correspondence relating to the candidate's campaign;  
+| [ ~~and~~ ]  
+|  (4) a statement informing candidates that the  
+| furnishing of the telephone numbers is optional _; and_  
+|  _(5)_ _____in an election where nominating partisan_  
+| _candidates is authorized, space for the candidate to list a party_  
+| _affiliation_.  
+|  SECTION 20. Section 141.070(a), Election Code, is amended  
+| to read as follows:  
+|  (a) If, since the most recent _presidential_ [ ~~gubernatorial~~ ]  
+| general election, a district or precinct from which an officer of  
+| the federal, state, or county government is elected is created or  
+| has had its boundary changed, the number of votes received in the  
+| district or precinct by a political party's _presidential_  
+| [ ~~gubernatorial~~ ] candidate or by all the _presidential_  
+| [ ~~gubernatorial~~ ] candidates shall be estimated, as provided by this  
+| section, for the purpose of computing the number of signatures  
+| required on a candidate's petition.  
+|  SECTION 21. Section 145.001(e), Election Code, is amended  
+| to read as follows:  
+|  (e) This section does not apply to a candidate _:_  
+|  _(1)_ for president or vice-president of the United  
+| States _; or_  
+|  _(2) chosen by general primary election_.  
+|  SECTION 22. Sections 145.003(b) and (h), Election Code, are  
+| amended to read as follows:  
+|  (b) A candidate in the general election for state and county  
+| officers may be declared ineligible before the 30th day preceding  
+| election day by[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the party officer responsible for certifying the~~  
+|  ~~candidate's name for placement on the general election ballot, in~~  
+|  ~~the case of a candidate who is a political party's nominee; or~~  
+|  [ ~~(2)~~ ] the authority with whom the candidate's  
+| application for a place on the ballot is required to be filed[ ~~, in~~  
+|  ~~the case of an independent candidate~~ ].  
+|  (h) If a candidate is declared ineligible [ ~~after the~~  
+|  ~~deadline for omitting an ineligible candidate's name from the~~  
+|  ~~ballot~~ ], the authority making the declaration shall promptly  
+| certify in writing the declaration of ineligibility to the  
+| canvassing authority for the election.  
+|  SECTION 23. The heading to Subchapter D, Chapter 145,  
+| Election Code, is amended to read as follows:  
+| SUBCHAPTER D. CANDIDATE IN ELECTION _IN WHICH CANDIDATES ARE NOT_  
+| _CHOSEN BY_ [ ~~OTHER THAN~~ ] GENERAL _PRIMARY_ ELECTION [ ~~FOR STATE
+AND~~  
+|  ~~COUNTY OFFICERS~~ ]  
+|  SECTION 24. Section 146.0231(a), Election Code, is amended  
+| to read as follows:  
+|  (a) The filing fee for a write-in candidate is the amount  
+| prescribed by Section _141.0315_ [ ~~172.024~~ ] for a candidate [ ~~for~~  
+|  ~~nomination~~ ] for the same office in a general primary election.  
+|  SECTION 25. Section 146.0232, Election Code, is amended to  
+| read as follows:  
+|  Sec. 146.0232. NUMBER OF PETITION SIGNATURES REQUIRED. The  
+| minimum number of signatures that must appear on the petition  
+| authorized by Section 146.023(b) is the number prescribed by  
+| Section _141.0316_ [ ~~172.025~~ ] to appear on a petition of a candidate  
+| [ ~~for nomination~~ ] for the same office in a general primary election.  
+|  SECTION 26. Chapter 161, Election Code, is amended by  
+| adding Section 161.0035 to read as follows:  
+|  _Sec._ ___161.0035._ _____PARTY PRIMARY ELECTIONS. In this title, any_  
+| _reference to a general primary election, primary election, or_  
+| _nominating convention means an election or convention restricted to_  
+| _the selection of:_  
+|  _(1) party officers; or_  
+|  _(2)_ _____a party's nominees for president or_  
+| _vice-president._  
+|  SECTION 27. Section 163.006(d), Election Code, is amended  
+| to read as follows:  
+|  (d) Before January 15 of each year in which political  
+| parties hold precinct conventions under this title, the secretary  
+| of state shall deliver written notice of the requirements of this  
+| section to the state chair of each party that had a nominee for  
+| _president or vice-president_ [ ~~a statewide or district office~~ ] on the  
+| most recent general election ballot.  
+|  SECTION 28. The heading to Subtitle B, Title 10, Election  
+| Code, is amended to read as follows:  
+| SUBTITLE B. PARTIES _SELECTING PARTY OFFICERS_ [ ~~NOMINATING~~ ] BY  
+| PRIMARY ELECTION  
+|  SECTION 29. Section 172.002(c), Election Code, is amended  
+| to read as follows:  
+|  (c) For a political party to be entitled to hold a primary  
+| election [ ~~under this section~~ ], the state chair, not later than one  
+| year before general election day, must deliver written notice to  
+| the secretary of state that the party will hold a primary election  
+| in the general election year.  
+|  SECTION 30. Section 172.021(e), Election Code, is amended  
+| to read as follows:  
+|  (e) A candidate for an office specified by Section  
+| _141.0315(a)(8)_ [ ~~172.024(a)(8)~~ ], (10), or (12), or for justice of  
+| the peace in a county with a population of more than 1.5 million,  
+| who chooses to pay the filing fee must also accompany the  
+| application with a petition for a place on the primary ballot as a  
+| candidate for judicial office that complies with the requirements  
+| prescribed for the petition authorized by Subsection (b), except  
+| that the minimum number of signatures that must appear on the  
+| petition required by this subsection is 250. If the candidate  
+| chooses to file the petition authorized by Subsection (b) in lieu of  
+| the filing fee, the minimum number of signatures required for that  
+| petition is increased by 250. Signatures on a petition filed under  
+| this subsection or Subsection (b) by a candidate covered by this  
+| subsection may not be obtained on the grounds of a county courthouse  
+| or courthouse annex.  
+|  SECTION 31. Section 172.061(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Except for _Section_ [ ~~Sections 172.058(b),~~ ] 172.059(c),  
+| [ ~~and 172.060(b),~~ ] this subchapter applies to a candidate for county  
+| chair or precinct chair.  
+|  SECTION 32. Section 172.088(e), Election Code, is amended  
+| to read as follows:  
+|  (e) The minimum number of signatures that must appear on the  
+| petition is five percent of the total vote received by all  
+| candidates for _president_ [ ~~governor~~ ] in the party's most recent  
+| _presidential_ [ ~~gubernatorial~~ ] general primary election.  
+|  SECTION 33. Section 172.089, Election Code, is amended to  
+| read as follows:  
+|  Sec. 172.089. ORDER OF PARTY OFFICES ON BALLOT. The party  
+| offices of county chair and precinct chair shall be listed on the  
+| primary election ballot after the _candidates for the presidential_  
+| _and vice-presidential nomination_ [ ~~public offices~~ ] with the office  
+| of county chair listed first.  
+|  SECTION 34. Section 172.112, Election Code, is amended to  
+| read as follows:  
+|  Sec. 172.112. WRITE-IN VOTING. Write-in voting in a  
+| primary election is [ ~~not~~ ] permitted _only for the offices of county_  
+| _chair and precinct chair_.  
+|  SECTION 35. Section 172.126(b), Election Code, is amended  
+| to read as follows:  
+|  (b) The county clerk shall determine whether to consolidate  
+| election precincts under Section 42.009 and shall designate the  
+| location of the polling place in a consolidated precinct. To the  
+| extent possible, a polling place shall be designated that will  
+| accommodate the precinct conventions of each political party. [ ~~If a~~  
+|  ~~polling place, whether for a regular or consolidated precinct, is~~  
+|  ~~not suitable for more than one precinct convention, the polling~~  
+|  ~~place may be used by the party whose candidate for governor received~~  
+|  ~~the most votes in the county in the most recent gubernatorial~~  
+|  ~~general election.~~ ]  
+|  SECTION 36. Section 173.083(d), Election Code, is amended  
+| to read as follows:  
+|  (d) The final installment may not be paid until a report is  
+| filed in compliance with Section 173.084 [ ~~and, in the case of a~~  
+|  ~~county chair, a report is also filed in compliance with Section~~  
+|  ~~172.124~~ ]. On the filing of the report, the secretary of state shall  
+| calculate the amount of the final installment and prepare and  
+| deliver to the comptroller of public accounts a certified statement  
+| indicating that amount and the appropriate county or state chair's  
+| name.  
+|  SECTION 37. Section 191.001, Election Code, is amended to  
+| read as follows:  
+|  Sec. 191.001. PARTIES REQUIRED TO HOLD PRESIDENTIAL PRIMARY  
+| ELECTION. To be entitled to have its nominees for president and  
+| vice-president of the United States placed on the general election  
+| ballot in a particular presidential election year, a political  
+| party must hold a presidential primary election in this state if:  
+|  (1) [ ~~in the presidential election year, the party is~~  
+|  ~~required by this code to nominate its candidates for state and~~  
+|  ~~county offices by primary election;~~  
+|  [ ~~(2)~~ ] a presidential primary election is authorized  
+| under national party rules; and  
+|  _(2)_ [ ~~(3)~~ ] before January 1 of the presidential  
+| election year, the national party has determined that it will hold a  
+| national presidential nominating convention that year.  
+|  SECTION 38. The heading to Section 191.031, Election Code,  
+| is amended to read as follows:  
+|  Sec. 191.031. _NATIONAL PRESIDENTIAL NOMINATING CONVENTION_  
+| [ ~~PARTY HOLDING PRIMARY ELECTION~~ ].  
+|  SECTION 39. Sections 191.031(a) and (b), Election Code, are  
+| amended to read as follows:  
+|  (a) If a political party [ ~~holding a primary election in a~~  
+|  ~~presidential election year~~ ] desires to send delegates to a national  
+| presidential nominating convention of the party, the party shall  
+| select the delegates at a state convention convened on a date  
+| adopted by the state executive committee occurring in the  
+| presidential election year. [ ~~Before the date of the party's~~  
+|  ~~precinct conventions held under Chapter 174, the party's state~~  
+|  ~~executive committee shall choose the date, hour, and place for the~~  
+|  ~~state convention.~~ ]  
+|  (b) The state convention shall consist of delegates  
+| selected at the party's county and senatorial district conventions  
+| [ ~~held under Chapter 174~~ ].  
+|  SECTION 40. Section 202.004(a), Election Code, is amended  
+| to read as follows:  
+|  (a) A _candidate_ [ ~~political party's nominee~~ ] for an  
+| unexpired term must be _chosen_ [ ~~nominated~~ ] by primary election if[
+~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the political party is making nominations by~~  
+|  ~~primary election for the general election in which the vacancy is to~~  
+|  ~~be filled; and~~  
+|  [ ~~(2)~~ ] the vacancy occurs on or before the fifth day  
+| before the date of the regular deadline for candidates to file  
+| applications for a place on the general primary ballot.  
+|  SECTION 41. Section 203.005(b), Election Code, is amended  
+| to read as follows:  
+|  (b) An application must, in addition to complying with  
+| Section 141.031:  
+|  (1) state the political party with which the candidate  
+| is aligned or, if the candidate is not aligned with a party, state  
+| that fact; and  
+|  (2) be accompanied by:  
+|  (A) a filing fee in the amount prescribed by  
+| Section _141.0315_ [ ~~172.024~~ ] for a candidate for [ ~~nomination for~~
+] the  
+| same office in a general primary election; or  
+|  (B) a petition that satisfies the requirements  
+| prescribed by Section 141.062.  
+|  SECTION 42. Section 257.005(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Except as provided by this section, the following are  
+| subject to the requirements of this title that apply to a candidate  
+| for public office:  
+|  (1) a candidate for state chair of a political party  
+| with _an affiliated candidate_ [ ~~a nominee~~ ] on the ballot in the most  
+| recent gubernatorial general election; and  
+|  (2) a candidate for election to the office of county  
+| chair of a political party with _an affiliated candidate_ [ ~~a nominee~~ ]  
+| on the ballot in the most recent gubernatorial general election if  
+| the county has a population of 350,000 or more.  
+|  SECTION 43. The following provisions are repealed:  
+|  (1) Subtitle C, Title 10, Election Code;  
+|  (2) Chapter 142, Election Code;  
+|  (3) Subchapters B and C, Chapter 145, Election Code;  
+|  (4) Sections 161.008, 162.015, 162.016, 172.001,  
+| 172.117, 172.121, 172.122, 172.123, 172.124, 191.032, 202.005,  
+| 202.006, 202.007, 204.004, and 232.046, Election Code;  
+|  (5) Sections 172.002(a), 172.058(b), and 172.060(b),  
+| Election Code; and  
+|  (6) Section 572.027(d), Government Code.  
+|  SECTION 44. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,469 @@
+| 86R488 PMO-D  
+---|---  
+|  By: Oliverson | H.B. No. 2231  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the practices and operation of pharmacy benefit  
+| managers; providing administrative penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Subchapter H, Chapter 1369,  
+| Insurance Code, is amended to read as follows:  
+| SUBCHAPTER H. _PRICING AND REIMBURSEMENT PRACTICES; APPEALS AND_  
+| _COMPLAINTS_ [ ~~MAXIMUM ALLOWABLE COST~~ ]  
+|  SECTION 2. Subchapter H, Chapter 1369, Insurance Code, is  
+| amended by adding Sections 1369.3581, 1369.3582, and 1369.3583 to  
+| read as follows:  
+|  _Sec._ ___1369.3581._ _____PROHIBITED REIMBURSEMENT PRACTICES;_  
+| _RETROACTIVE REDUCTION OR DENIAL OF CLAIM. A pharmacy benefit_  
+| _manager may not on an aggregated basis or otherwise reduce or deny a_  
+| _claim for pharmacy services after adjudication of the claim unless_  
+| _the pharmacy benefit manager produces to the pharmacist or pharmacy_  
+| _prima facie evidence of:_  
+|  _(1)_ _____fraud or intentional misrepresentation related to_  
+| _the claim; and_  
+|  _(2)_ _____actual financial harm to the relevant enrollee or_  
+| _health benefit plan issuer._  
+|  _Sec._ ___1369.3582._ _____PRICING APPEALS GENERALLY. (a) The_  
+| _commissioner by rule shall:_  
+|  _(1)_ _____prescribe a standard procedure by which a_  
+| _pharmacist or pharmacy may appeal to the pharmacy benefit manager_  
+| _any pricing decision made by a pharmacy benefit manager;_  
+|  _(2)_ _____require a pharmacy benefit manager to use only the_  
+| _prescribed procedure for a pharmacist's or pharmacy's appeal of the_  
+| _pharmacy benefit manager's pricing decision; and_  
+|  _(3)_ _____require a pharmacy benefit manager who denies an_  
+| _appeal to:_  
+|  _(A)_ _____provide to the appealing pharmacist or_  
+| _pharmacy the National Drug Code number of the relevant drug sold at_  
+| _a price below the price subject to the appeal and the name of the_  
+| _national or regional pharmaceutical wholesalers operating in this_  
+| _state that currently stock the drug at the lower price; and_  
+|  _(B)_ _____if the lower price described by Paragraph (A)_  
+| _is more than the appealing pharmacist's or pharmacy's pharmacy_  
+| _acquisition cost of the relevant drug bought from a pharmaceutical_  
+| _wholesaler from which the pharmacist or pharmacy regularly_  
+| _purchases the majority of the pharmacist's or pharmacy's drugs for_  
+| _resale:_  
+|  _(i)_ _____adjust the Maximum Allowable Cost List_  
+| _price to an amount above the pharmacist's or pharmacy's pharmacy_  
+| _acquisition cost; and_  
+|  _(ii)_ _____permit the pharmacist or pharmacy to_  
+| _reverse and rebill each claim affected by the pharmacist's or_  
+| _pharmacy's inability to purchase the drug at a cost that is equal to_  
+| _or less than the price subject to the appeal._  
+|  _(b)_ _____In prescribing the procedure under this section, the_  
+| _commissioner shall consider:_  
+|  _(1) input from any interested party;_  
+|  _(2)_ _____any appeal procedure that is widely used_  
+| _commercially in this state or by the department or the Centers for_  
+| _Medicare and Medicaid Services; and_  
+|  _(3)_ _____any national standard or draft standard relating_  
+| _to the appeal of a pharmacy benefit manager's pricing decision._  
+|  _(c)_ _____The commissioner shall establish penalties for failure_  
+| _to use the procedure prescribed under this section in accordance_  
+| _with this subchapter._  
+|  _(d)_ _____A pharmacy benefit manager that violates this_  
+| _subchapter or a rule adopted under this subchapter commits an_  
+| _unfair practice in violation of Chapter 541 and is subject to_  
+| _sanctions under Chapter 82._  
+|  _Sec._ ___1369.3583._ _____COMPLAINT PROGRAM. (a) The department_  
+| _shall establish a program to facilitate resolution of complaints_  
+| _against a pharmacy benefit manger relating to the pharmacy benefit_  
+| _manager's reimbursement practices._  
+|  _(b)_ _____A pharmacist or pharmacy may file a complaint with the_  
+| _department under the program established under Subsection (a) if_  
+| _the complaint includes credible evidence that a pharmacy benefit_  
+| _manager engaged in an intentional course of conduct exhibited_  
+| _through a pattern or practice that:_  
+|  _(1) violates this chapter; or_  
+|  _(2)_ _____constitutes improper, fraudulent, or dishonest_  
+| _contract performance with the pharmacist or pharmacy._  
+|  _(c)_ _____The commissioner shall determine by rule the threshold_  
+| _for filing a complaint under Subsection (b)._  
+|  _(d)_ _____After receipt of a complaint satisfying the threshold_  
+| _established under Subsection (c), the commissioner shall provide_  
+| _notice to the pharmacy benefit manager that is the subject of the_  
+| _complaint and conduct a hearing to determine if the pharmacy_  
+| _benefit manager engaged in a course of conduct described by_  
+| _Subsection (b). The commissioner shall consider:_  
+|  _(1)_ _____the contract between the pharmacist or pharmacy_  
+| _and the pharmacy benefit manager;_  
+|  _(2)_ _____one or more independent nationwide drug pricing_  
+| _databases or reference materials, including National Average Drug_  
+| _Acquisition Cost reference data developed by the Centers for_  
+| _Medicare and Medicaid Services; and_  
+|  _(3) any other relevant information._  
+|  _(e)_ _____The commissioner shall take appropriate disciplinary_  
+| _action against the pharmacy benefit manager as provided by this_  
+| _code if the commissioner finds that the pharmacy benefit manager_  
+| _engaged in a course of conduct described by Subsection (b)._  
+|  SECTION 3. The heading to Subchapter I, Chapter 1369,  
+| Insurance Code, is amended to read as follows:  
+| SUBCHAPTER I. PHARMACY BENEFIT CLAIM ADJUDICATION _AND DISPUTE_  
+| _RESOLUTION_  
+|  SECTION 4. Subchapter I, Chapter 1369, Insurance Code, is  
+| amended by adding Sections 1369.403, 1369.404, 1369.405, 1369.406,  
+| 1369.407, 1369.408, 1369.409, 1369.410, and 1369.411 to read as  
+| follows:  
+|  _Sec._ ___1369.403._ _____REQUEST AND PRELIMINARY PROCEDURES FOR_  
+| _MANDATORY MEDIATION. (a) A pharmacist or pharmacy may request_  
+| _mandatory mediation under this subchapter._  
+|  _(b)_ _____A request for mandatory mediation must be provided to_  
+| _the department on a form prescribed by the commissioner and must_  
+| _include:_  
+|  _(1)_ _____the name of the pharmacist or pharmacy requesting_  
+| _mediation;_  
+|  _(2) a brief description of the claim to be mediated;_  
+|  _(3)_ _____contact information, including a telephone_  
+| _number, for the requesting pharmacist or pharmacy and the_  
+| _pharmacist's or pharmacy's counsel, if the pharmacist or pharmacy_  
+| _retains counsel;_  
+|  _(4)_ _____the name of the pharmacy benefit manager and name_  
+| _of the applicable health benefit plan issuer; and_  
+|  _(5)_ _____any other information the commissioner may require_  
+| _by rule._  
+|  _(c)_ _____On receipt of a request for mediation, the department_  
+| _shall notify the pharmacy benefit manager and applicable health_  
+| _benefit plan issuer of the request._  
+|  _(d)_ _____In an effort to settle the claim before mediation, all_  
+| _parties must participate in an informal settlement teleconference_  
+| _not later than the 30th day after the date on which the pharmacist_  
+| _or pharmacy submits a request for mediation under this section._  
+|  _(e)_ _____A dispute to be mediated under this subchapter that does_  
+| _not settle as a result of a teleconference conducted under_  
+| _Subsection (d) must be conducted in the county in which the_  
+| _pharmacist or pharmacy is located._  
+|  _Sec._ ___1369.404._ _____MEDIATOR QUALIFICATIONS. (a) Except as_  
+| _provided by Subsection (b), to qualify for an appointment as a_  
+| _mediator under this subchapter a person must have completed at_  
+| _least 40 classroom hours of training in dispute resolution_  
+| _techniques in a course conducted by an alternative dispute_  
+| _resolution organization or other dispute resolution organization_  
+| _approved by the chief administrative law judge._  
+|  _(b)_ _____A person not qualified under Subsection (a) may be_  
+| _appointed as a mediator on agreement of the parties._  
+|  _(c)_ _____A person may not act as mediator for a claim_  
+| _adjudication dispute if the person has been employed by, consulted_  
+| _for, or otherwise had a business relationship with a pharmacist,_  
+| _pharmacy, or pharmacy benefit manager during the three years_  
+| _immediately preceding the request for mediation._  
+|  _Sec._ ___1369.405._ _____APPOINTMENT OF MEDIATOR; FEES. (a) A_  
+| _mediation shall be conducted by one mediator._  
+|  _(b)_ _____The chief administrative law judge shall appoint the_  
+| _mediator through a random assignment from a list of qualified_  
+| _mediators maintained by the State Office of Administrative_  
+| _Hearings._  
+|  _(c)_ _____Notwithstanding Subsection (b), a person other than a_  
+| _mediator appointed by the chief administrative law judge may_  
+| _conduct the mediation on agreement of all of the parties and notice_  
+| _to the chief administrative law judge._  
+|  _(d)_ _____The mediator's fees shall be split evenly and paid by_  
+| _the pharmacist or pharmacy and the pharmacy benefit manager._  
+|  _Sec._ ___1369.406._ _____CONDUCT OF MEDIATION; CONFIDENTIALITY. (a)_  
+| _A mediator may not impose the mediator's judgment on a party about_  
+| _an issue that is a subject of the mediation._  
+|  _(b)_ _____A mediation session is under the control of the_  
+| _mediator._  
+|  _(c)_ _____Except as provided by this subchapter, the mediator must_  
+| _hold in strict confidence all information provided to the mediator_  
+| _by a party and all communications of the mediator with a party._  
+|  _(d)_ _____A party must have an opportunity during the mediation to_  
+| _speak and state the party's position._  
+|  _(e)_ _____Except on the agreement of the participating parties, a_  
+| _mediation may not last more than four hours._  
+|  _(f)_ _____Except at the request of a pharmacist or pharmacy, a_  
+| _mediation shall be held not later than the 180th day after the date_  
+| _of the request for mediation._  
+|  _Sec._ ___1369.407._ _____MATTERS CONSIDERED IN MEDIATION; AGREED_  
+| _RESOLUTION. (a) In a mediation under this subchapter, the parties_  
+| _shall evaluate the adjudicated claim amount and whether the amount_  
+| _is in accordance with this chapter and the pharmacy benefit_  
+| _contract between the pharmacist or pharmacy and the pharmacy_  
+| _benefit manager._  
+|  _(b)_ _____The parties shall consider one or more independent_  
+| _nationwide drug pricing databases or reference materials,_  
+| _including National Average Drug Acquisition Cost reference data_  
+| _developed by the Centers for Medicare and Medicaid Services._  
+|  _(c)_ _____Nothing in this subchapter prohibits mediation of more_  
+| _than one adjudicated claim between the parties at a mediation._  
+|  _(d)_ _____The goal of the mediation is to reach an agreement among_  
+| _the pharmacist or pharmacy, the pharmacy benefit manager, and the_  
+| _health benefit plan issuer as to the amount paid to the pharmacist_  
+| _or pharmacy._  
+|  _Sec._ ___1369.408._ _____NO AGREED RESOLUTION. (a) The mediator of_  
+| _an unsuccessful mediation under this subchapter shall report the_  
+| _outcome of the mediation to the department and the chief_  
+| _administrative law judge._  
+|  _(b)_ _____The chief administrative law judge shall enter an order_  
+| _of referral of a matter reported under Subsection (a) to a special_  
+| _judge under Chapter 151, Civil Practice and Remedies Code, that:_  
+|  _(1)_ _____names the special judge on whom the parties agreed_  
+| _or appoints the special judge if the parties did not agree on a_  
+| _judge;_  
+|  _(2)_ _____states the issues to be referred and_ _____the time and_  
+| _place on which the parties agree for the trial;_  
+|  _(3)_ _____requires each party to pay the party's_  
+| _proportionate share of the special judge's fee; and_  
+|  _(4)_ _____certifies that the parties have waived the right_  
+| _to trial by jury._  
+|  _(c)_ _____A trial by the special judge selected or appointed as_  
+| _described by Subsection (b) must proceed under Chapter 151, Civil_  
+| _Practice and Remedies Code, except that the special judge's verdict_  
+| _is not relevant or material to any other adjudicated claim and has_  
+| _no precedential value._  
+|  _(d)_ _____Notwithstanding any other provision of this section,_  
+| _Section 151.012, Civil Practice and Remedies Code, does not apply_  
+| _to a mediation under this subchapter._  
+|  _Sec._ ___1369.409._ _____REPORT OF MEDIATOR. The mediator shall_  
+| _report to the commissioner:_  
+|  _(1) the names of the parties to the mediation; and_  
+|  _(2)_ _____whether the parties reached an agreement or the_  
+| _mediator made a referral under Section 1369.408._  
+|  _Sec._ ___1369.410._ _____BAD FAITH. (a) The following conduct_  
+| _constitutes bad faith mediation for purposes of this subchapter:_  
+|  _(1) failing to participate in the mediation;_  
+|  _(2)_ _____failing to provide information the mediator_  
+| _believes is necessary to facilitate an agreement; or_  
+|  _(3)_ _____failing to designate a representative_  
+| _participating in the mediation with full authority to enter into_  
+| _any mediated agreement._  
+|  _(b)_ _____Failure to reach an agreement is not conclusive proof of_  
+| _bad faith mediation._  
+|  _Sec._ ___1369.411._ _____PENALTIES. (a) Bad faith mediation by a_  
+| _pharmacy benefit manager is grounds for imposition of an_  
+| _administrative penalty under Chapter 4151._  
+|  _(b)_ _____Except for good cause shown, on a report of a mediator_  
+| _and appropriate proof of bad faith mediation, the commissioner_  
+| _shall impose an administrative penalty._  
+|  SECTION 5. Chapter 1369, Insurance Code, is amended by  
+| adding Subchapter K to read as follows:  
+| _SUBCHAPTER K. PHARMACY BENEFIT MANAGERS_  
+|  _Sec. 1369.501. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Enrollee" means an individual who is covered_  
+| _under a health benefit plan, including a covered dependent._  
+|  _(2)_ _____"Health benefit plan" means an individual, group,_  
+| _blanket, or franchise insurance policy or insurance agreement, a_  
+| _group hospital service contract, or an individual or group_  
+| _subscriber contract or evidence of coverage or similar coverage_  
+| _document issued by a health maintenance organization, that provides_  
+| _health insurance or health benefits._  
+|  _(3)_ _____"Health benefit plan issuer" means an entity_  
+| _authorized under this code or another insurance law of this state_  
+| _that provides health insurance or health benefits through a health_  
+| _benefit plan in this state._  
+|  _(4)_ _____"Pharmacist service" means the provision of a_  
+| _product or good, patient care, or other clinical, professional, or_  
+| _administrative services in the practice of pharmacy._  
+|  _(5)_ _____"Pharmacy benefit manager" has the meaning_  
+| _assigned by Section 4151.151._  
+|  _(6)_ _____"Pharmacy benefit network" means a system for the_  
+| _delivery of pharmacy benefits and pharmacist services established_  
+| _by contract between a pharmacy benefit manager and a pharmacist or_  
+| _pharmacy._  
+|  _(7)_ _____"Rebate" means a discount or other concession,_  
+| _including an incentive, related to dispensing a prescription drug_  
+| _that is paid by a manufacturer or third party, directly or_  
+| _indirectly, to a pharmacy benefit manager._  
+|  _Sec._ ___1369.502._ _____CONTRACT REQUIREMENTS; CONTRACT ACCESS. (a)_  
+| _A pharmacy benefit manager may not sell, lease, or otherwise_  
+| _transfer information regarding the payment or reimbursement terms_  
+| _of a pharmacy benefit network contract without the express_  
+| _authority of and prior adequate notification to the pharmacists or_  
+| _pharmacies in the pharmacy benefit network. The prior adequate_  
+| _notification must be provided in the written format specified by_  
+| _the pharmacy benefit network contract._  
+|  _(b)_ _____A pharmacy benefit manager may not provide a person_  
+| _access to pharmacy services or contractual discounts under a_  
+| _pharmacy benefit network contract unless the contract_  
+| _specifically:_  
+|  _(1)_ _____allows the pharmacy benefit manager to provide to_  
+| _the person access to the pharmacy benefit manager's rights and_  
+| _responsibilities under the pharmacy benefit network contract; and_  
+|  _(2)_ _____makes the person's access contingent on the person_  
+| _complying with all applicable terms, limitations, and conditions of_  
+| _the pharmacy benefit network contract._  
+|  _(c)_ _____A pharmacy benefit network contract must require that,_  
+| _on the request of a pharmacist or pharmacy, the pharmacy benefit_  
+| _manager will timely provide information necessary for the_  
+| _pharmacist or pharmacy to determine whether a person is authorized_  
+| _to access the pharmacist's or pharmacy's services and contractual_  
+| _discounts._  
+|  _(d)_ _____A pharmacy benefit network contract must specify or_  
+| _reference a separate fee schedule. The fee schedule may be_  
+| _provided by any reasonable method, including electronically. The_  
+| _fee schedule may describe:_  
+|  _(1)_ _____specific services or procedures that the_  
+| _pharmacist or pharmacy may deliver and the amount of the_  
+| _corresponding payment;_  
+|  _(2)_ _____a methodology for calculating the amount of the_  
+| _payment based on a published fee schedule; or_  
+|  _(3)_ _____any other reasonable manner that provides an_  
+| _ascertainable amount for payment for services._  
+|  _(e)_ _____For the purposes of this section, a pharmacy benefit_  
+| _manager shall permit a pharmacist or pharmacy participating in a_  
+| _pharmacy benefit network reasonable access, including electronic_  
+| _access, during business hours to review the pharmacy benefit_  
+| _network contract. The information obtained during the review may_  
+| _be used or disclosed only for the purposes of complying with the_  
+| _terms of the contract, this subchapter, or other state or federal_  
+| _law._  
+|  _Sec._ ___1369.503._ _____FIDUCIARY DUTIES. (a) A pharmacy benefit_  
+| _manager of a health benefit plan issuer is a fiduciary of the health_  
+| _benefit plan issuer._  
+|  _(b) The pharmacy benefit manager shall:_  
+|  _(1)_ _____act in accordance with the standards of conduct_  
+| _applicable to a fiduciary in an enterprise of like character and_  
+| _with like aims;_  
+|  _(2)_ _____perform its duties with care, skill, prudence, and_  
+| _diligence; and_  
+|  _(3)_ _____comply with the fiduciary requirements of this_  
+| _section._  
+|  _(c)_ _____The pharmacy benefit manager shall notify the health_  
+| _benefit plan issuer in writing of any activity, policy, or practice_  
+| _of the pharmacy benefit manager that directly or indirectly_  
+| _presents a conflict of interest between the pharmacy benefit_  
+| _manager and the health benefit plan issuer._  
+|  _(d)_ _____The pharmacy benefit manager shall provide to a health_  
+| _benefit plan issuer all financial and utilization information_  
+| _requested by the health benefit plan issuer relating to the_  
+| _provision of benefits to the relevant enrollees and any financial_  
+| _and utilization information relating to the pharmacy benefit_  
+| _manager's services to the health benefit plan issuer._  
+|  _(e)_ _____If a pharmacy benefit manager substitutes a more_  
+| _expensive drug for a prescribed drug, the pharmacy benefit manager_  
+| _shall disclose to the health benefit plan issuer the cost of the_  
+| _prescribed drug and the substitute drug and the amount of any rebate_  
+| _the pharmacy benefit manager may receive, directly or indirectly,_  
+| _as a result of the substitution._  
+|  _(f)_ _____A pharmacy benefit manager shall transfer to the health_  
+| _benefit plan issuer the entire amount of any rebate that the_  
+| _pharmacy benefit manager receives, directly or indirectly, for any_  
+| _reason, including as the result of:_  
+|  _(1) a substitution described by Subsection (e);_  
+|  _(2)_ _____a substitution by the pharmacy benefit manager of_  
+| _a lower-priced generic and therapeutically equivalent drug for a_  
+| _higher-priced prescribed drug; or_  
+|  _(3)_ _____volume of sales of a drug or a class or brand of_  
+| _drug._  
+|  _(g)_ _____A pharmacy benefit manager shall disclose to a health_  
+| _benefit plan issuer all financial terms and arrangements for_  
+| _remuneration of any kind, including rebates, that the pharmacy_  
+| _benefit manager has with each drug manufacturer or relabeler, as_  
+| _defined by 21 C.F.R. Section 207.1, including formulary management_  
+| _and drug-switch programs, educational support, claims processing_  
+| _and pharmacy network fees that are charged from pharmacists and_  
+| _pharmacies, and data sales fees._  
+|  _Sec._ ___1369.504._ _____PHARMACY BENEFIT NETWORK STANDARDS. (a) The_  
+| _commissioner shall by rule adopt pharmacy benefit network adequacy_  
+| _standards that:_  
+|  _(1)_ _____are adapted to local markets in which a pharmacy_  
+| _benefit manager operates;_  
+|  _(2)_ _____ensure availability of, and accessibility to, a_  
+| _full range of contracted pharmacists and pharmacies to provide_  
+| _pharmacy services to enrollees; and_  
+|  _(3)_ _____on good cause shown, may allow departure from_  
+| _local market network adequacy standards if the commissioner posts_  
+| _on the department's Internet website the name of the pharmacy_  
+| _benefit manager, the health benefit plan issuer, and the affected_  
+| _local market._  
+|  _(b)_ _____The commissioner may not consider mail-order pharmacies_  
+| _in the determination of the pharmacy benefit network adequacy_  
+| _standards adopted by rule under Subsection (a)._  
+|  _Sec._ ___1369.505._ _____ANY WILLING PROVIDER. (a) A pharmacy_  
+| _benefit manager may not exclude a pharmacist or pharmacy from_  
+| _participation in a pharmacy benefit network if the pharmacist or_  
+| _pharmacy:_  
+|  _(1)_ _____accepts the terms, conditions, and reimbursement_  
+| _rates of the pharmacy benefit manager;_  
+|  _(2)_ _____meets all applicable federal and state licensure_  
+| _and permit requirements; and_  
+|  _(3)_ _____has not been terminated for cause as a provider in_  
+| _any federal or state program._  
+|  _(b)_ _____Except as required by the commissioner in coordination_  
+| _with the Texas State Board of Pharmacy, a pharmacy benefit manager_  
+| _may not require, as a condition of participating in a pharmacy_  
+| _benefit network, that a pharmacist or pharmacy obtain:_  
+|  _(1)_ _____accreditation, credentialing, or certification_  
+| _inconsistent with, more stringent than, or in addition to the_  
+| _requirements imposed by the Texas State Board of Pharmacy or state_  
+| _or federal law; or_  
+|  _(2)_ _____a performance or surety bond or other financial_  
+| _guarantee in excess of the requirements imposed by the Texas State_  
+| _Board of Pharmacy or state or federal law._  
+|  _Sec._ ___1369.506._ _____PROTECTED COMMUNICATION AND OTHER PRACTICES_  
+| _BY PHARMACISTS AND PHARMACIES. (a) In a participation contract_  
+| _between a pharmacy benefit manager and a pharmacist or pharmacy_  
+| _providing prescription drug coverage for a health benefit plan, a_  
+| _pharmacist or pharmacy may not be prohibited or restricted from or_  
+| _penalized in any way for disclosing to an enrollee any health care_  
+| _information that the pharmacist or pharmacy considers appropriate_  
+| _regarding:_  
+|  _(1)_ _____the nature of treatment, risks, or alternative_  
+| _therapies;_  
+|  _(2)_ _____the availability of alternate therapies,_  
+| _consultations, or tests;_  
+|  _(3)_ _____the decision of utilization reviewers or similar_  
+| _persons to authorize or deny services;_  
+|  _(4)_ _____the process used to authorize or deny health care_  
+| _services or benefits; or_  
+|  _(5)_ _____financial incentives and structures used by the_  
+| _relevant health benefit plan._  
+|  _(b)_ _____A pharmacist or pharmacy may provide to an enrollee_  
+| _information regarding the enrollee's total cost for a pharmacist_  
+| _service for a prescription drug._  
+|  _(c)_ _____A pharmacy benefit manager may not prohibit a pharmacist_  
+| _or pharmacy from:_  
+|  _(1)_ _____discussing information regarding the total cost_  
+| _for a pharmacist service for a prescription drug; or_  
+|  _(2)_ _____selling a more affordable alternative to the_  
+| _enrollee if a more affordable alternative is available._  
+|  _(d)_ _____A pharmacy benefit manager contract with a_  
+| _participating pharmacist or pharmacy may not prohibit, restrict, or_  
+| _limit disclosure of information to the commissioner, law_  
+| _enforcement, or state or federal governmental officials_  
+| _investigating or examining a complaint or conducting a review of a_  
+| _pharmacy benefit manager's compliance with the requirements of this_  
+| _subchapter._  
+|  _Sec._ ___1369.507._ _____RECOUPMENT LIMITATION. (a)_ ___A reimbursement_  
+| _made to a pharmacist or pharmacy by a pharmacy benefit manager may_  
+| _not be denied or reduced after adjudication of the claim, unless:_  
+|  _(1) the original claim was submitted fraudulently;_  
+|  _(2)_ _____the original claim payment was incorrect because_  
+| _the pharmacist or pharmacy had already been paid for the pharmacist_  
+| _service; or_  
+|  _(3)_ _____the pharmacist service was not properly rendered_  
+| _by the pharmacist or pharmacy._  
+|  _(b)_ _____A pharmacy benefit manager entitled to a recoupment on_  
+| _the basis of a discrepancy found during an audit related to a drug_  
+| _that was properly dispensed may only recover fees paid by the_  
+| _pharmacy benefit manager to the pharmacist or pharmacy associated_  
+| _with the audited claim and may not recoup the cost of the drug or_  
+| _other ingredient or any other amount related to the claim._  
+|  SECTION 6. The heading to Subchapter D, Chapter 4151,  
+| Insurance Code, is amended to read as follows:  
+| SUBCHAPTER D. PHARMACY _BENEFITS_ [ ~~BENEFIT PLANS~~ ]  
+|  SECTION 7. Subchapter D, Chapter 4151, Insurance Code, is  
+| amended by adding Section 4151.155 to read as follows:  
+|  _Sec._ ___4151.155._ _____BOARD OF PHARMACY REQUESTS. The_  
+| _commissioner shall provide to the Texas State Board of Pharmacy, on_  
+| _the board's request, a copy of any document related to an action_  
+| _taken under Subchapter G against a pharmacy benefit manager,_  
+| _including:_  
+|  _(1)_ _____a document or information or data submitted by a_  
+| _pharmacy benefit manager to the commissioner;_  
+|  _(2)_ _____correspondence between the pharmacy benefit_  
+| _manager and the commissioner; and_  
+|  _(3)_ _____a written notice, finding, or determination, or_  
+| _other document sent by the commissioner to the pharmacy benefit_  
+| _manager._  
+|  SECTION 8. Section 1369.357, Insurance Code, is repealed.  
+|  SECTION 9. Chapter 1369, Insurance Code, as amended by this  
+| Act, applies only to a contract between a pharmacy benefit manager  
+| and a pharmacist or pharmacy entered into or renewed on or after  
+| January 1, 2020. A contract entered into or renewed before January  
+| 1, 2020, is governed by the law as it existed immediately before the  
+| effective date of this Act, and that law is continued in effect for  
+| that purpose.  
+|  SECTION 10. This Act takes effect September 1, 2019.
+

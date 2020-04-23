@@ -1,0 +1,53 @@
+| 86R1902 SCL-F  
+---|---  
+|  By: Cyrier | H.B. No. 1185  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to adjudication of claims arising from certain written  
+| contracts with state agencies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 114.003, Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  Sec. 114.003. WAIVER OF IMMUNITY TO SUIT FOR CERTAIN  
+| CLAIMS.  A state agency that is authorized by statute or the  
+| constitution to enter into a contract and that enters into a  
+| contract subject to this chapter waives sovereign immunity to suit  
+| for the purpose of adjudicating a claim for breach [ ~~of an express~~  
+|  ~~provision~~ ] of the contract, subject to the terms and conditions of  
+| this chapter.  
+|  SECTION 2. Section 114.004, Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  Sec. 114.004. LIMITATIONS ON ADJUDICATION AWARDS.  (a)  The  
+| total amount of money awarded in an adjudication brought against a  
+| state agency for breach [ ~~of an express provision~~ ] of a contract  
+| subject to this chapter is limited to the following:  
+|  (1) the balance due and owed by the state agency under  
+| the contract as it may have been amended, including any amount owed  
+| as compensation for the increased cost to perform the work as a  
+| direct result of owner-caused delays or acceleration [ ~~if the~~  
+|  ~~contract expressly provides for that compensation~~ ];  
+|  (2) the amount owed for written change orders;  
+|  (3) reasonable and necessary attorney's fees _that are_  
+| _equitable and just_ [ ~~based on an hourly rate that are equitable and~~  
+|  ~~just if the contract expressly provides that recovery of attorney's~~  
+|  ~~fees is available to all parties to the contract~~ ]; and  
+|  (4) interest at the rate specified by the contract or,  
+| if a rate is not specified, the rate for postjudgment interest under  
+| Section 304.003(c), Finance Code, but not to exceed 10 percent.  
+|  (b) Damages awarded in an adjudication brought against a  
+| state agency arising under a contract subject to this chapter may  
+| not include:  
+|  (1) consequential damages _, except as expressly_  
+| _allowed under Subsection (a)(1)_ ;  
+|  (2) exemplary damages; or  
+|  (3) damages for unabsorbed home office overhead.  
+|  SECTION 3. Chapter 114, Civil Practice and Remedies Code,  
+| as amended by this Act, applies only to a claim arising under a  
+| contract executed on or after the effective date of this Act. A  
+| claim that arises under a contract executed before the effective  
+| date of this Act is governed by the law applicable to the claim  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

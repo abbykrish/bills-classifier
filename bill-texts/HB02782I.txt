@@ -1,0 +1,878 @@
+| 86R2875 MTB-F  
+---|---  
+|  By: Wray | H.B. No. 2782  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to decedents' estates, transfer on death deeds, and  
+| matters involving probate courts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 111, Estates Code, is amended by adding  
+| Subchapter C to read as follows:  
+| _SUBCHAPTER C. PROVISION OF CERTAIN INFORMATION ON DEATH_  
+|  _Sec. 111.101. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Contracting third party" has the meaning assigned_  
+| _by Section 111.051._  
+|  _(2) "Deceased party" means a deceased:_  
+|  _(A)_ _____party to a multiple-party account governed by_  
+| _Chapter 113;_  
+|  _(B)_ _____owner of property subject to a possible_  
+| _nontestamentary transfer as described by Section 111.051(1); or_  
+|  _(C) insured under an insurance contract._  
+|  _Sec._ ___111.102._ _____PROVISION OF INFORMATION TO PERSONAL_  
+| _REPRESENTATIVE OF DECEASED PARTY. To the extent not prohibited by_  
+| _federal or other state law, a contracting third party shall, on_  
+| _request, provide to the personal representative of a deceased_  
+| _party's estate all information the contracting third party would_  
+| _have provided to the deceased party as of the date of the deceased_  
+| _party's death, if the deceased party had requested the information,_  
+| _without regard to whether the deceased party's estate has an_  
+| _interest in the multiple-party account, the property subject to a_  
+| _possible nontestamentary transfer, or the insurance contract._  
+|  SECTION 2. Section 113.252(c), Estates Code, is amended to  
+| read as follows:  
+|  (c) Any proceeding by the personal representative of a  
+| deceased party to assert liability under Subsection (b) _:_  
+|  _(1)_ _____may be commenced only if the personal_  
+| _representative receives a written demand by a surviving spouse, a_  
+| _creditor, or a person acting on behalf of a minor child of the_  
+| _deceased party; and_  
+|  _(2)_ must be commenced on or before the second  
+| anniversary of the death of the deceased party.  
+|  SECTION 3. Section 114.102, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 114.102. EFFECT OF SUBSEQUENT CONVEYANCE ON TRANSFER  
+| ON DEATH DEED. An otherwise valid transfer on death deed is void as  
+| to any interest in real property that is conveyed by the transferor  
+| during the transferor's lifetime after the transfer on death deed  
+| is executed and recorded if:  
+|  (1) a valid instrument conveying the interest _or a_  
+| _memorandum sufficient to give notice of the conveyance of the_  
+| _interest_ is recorded in the deed records in the county clerk's  
+| office of the same county in which the transfer on death deed is  
+| recorded; and  
+|  (2) the recording of the instrument _or memorandum_  
+| occurs before the transferor's death.  
+|  SECTION 4. Section 201.003(c), Estates Code, is amended to  
+| read as follows:  
+|  (c) If the deceased spouse is survived by a child or other  
+| descendant who is not also a child or _other_ descendant of the  
+| surviving spouse, _the deceased spouse's undivided one-half_  
+| _interest in the community estate_ [ ~~one-half of the community estate~~  
+|  ~~is retained by the surviving spouse and the other one-half~~ ] passes  
+| to the deceased spouse's children or _other_ descendants. The  
+| descendants inherit only the portion of that estate to which they  
+| would be entitled under Section 201.101. In every case, the  
+| community estate passes charged with the debts against the  
+| community estate.  
+|  SECTION 5. Section 202.151, Estates Code, is amended by  
+| amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) _Except as provided by Subsection (c),_ [ ~~Testimony~~ ] in a  
+| proceeding to declare heirship _, testimony regarding a decedent's_  
+| _heirs and family history_ must be taken _from two disinterested and_  
+| _credible witnesses_ in open court, by deposition in accordance with  
+| Section 51.203, or in accordance with the Texas Rules of Civil  
+| Procedure.  
+|  _(c)_ _____If it is shown to the court's satisfaction in a_  
+| _proceeding to declare heirship that, after a diligent search was_  
+| _made, only one disinterested and credible witness can be found who_  
+| _can make the required proof in the proceeding, the testimony of that_  
+| _witness must be taken in open court, by deposition in accordance_  
+| _with Section 51.203, or in accordance with the Texas Rules of Civil_  
+| _Procedure._  
+|  SECTION 6. The heading to Chapter 254, Estates Code, is  
+| amended to read as follows:  
+| CHAPTER 254. [ ~~VALIDITY OF~~ ] CERTAIN PROVISIONS IN, AND CONTRACTS  
+| RELATING TO, WILLS  
+|  SECTION 7. Chapter 254, Estates Code, is amended by adding  
+| Section 254.006 to read as follows:  
+|  _Sec._ ___254.006._ _____DESIGNATION OF ADMINISTRATOR. (a) A_  
+| _testator in a will may grant to an executor named in the will or to_  
+| _another person identified by name, office, or function the_  
+| _authority to designate one or more persons to serve as_  
+| _administrator of the testator's estate._  
+|  _(b)_ _____To be effective, a designation of an administrator of a_  
+| _testator's estate as authorized by a will under Subsection (a) must_  
+| _be in writing and acknowledged before an officer authorized to take_  
+| _acknowledgments and administer oaths._  
+|  _(c)_ _____Unless the will provides otherwise, a person designated_  
+| _to serve as administrator of a testator's estate as provided by_  
+| _Subsection (a) is qualified to serve only if:_  
+|  _(1) each executor named in the testator's will:_  
+|  _(A) is deceased;_  
+|  _(B) is disqualified to serve as executor; or_  
+|  _(C)_ _____indicates by affidavit filed with the county_  
+| _clerk of the county in which the application for letters_  
+| _testamentary is filed or, if an application has not been filed, a_  
+| _county described by Section 33.001(a)(1) or (2) the executor's_  
+| _inability or unwillingness to serve as executor;_  
+|  _(2)_ _____the designation is effective as provided by_  
+| _Subsection (b); and_  
+|  _(3)_ _____the person is not disqualified from serving under_  
+| _Section 304.003._  
+|  _(d)_ _____Unless the will or designation provides otherwise, a_  
+| _person designated as administrator of a testator's estate as_  
+| _provided by this section has the same rights, powers, and duties as_  
+| _an executor named in the will, including the right to serve as an_  
+| _independent administrator with the power to sell property without_  
+| _the need for consent of the distributees under Section 401.002 or_  
+| _401.006._  
+|  SECTION 8. Subchapter J, Chapter 255, Estates Code, is  
+| amended by adding Section 255.456 to read as follows:  
+|  _Sec._ ___255.456._ _____TRANSFER OF PROCEEDING. (a) To the extent_  
+| _that this section conflicts with other provisions of this title,_  
+| _this section prevails._  
+|  _(b)_ _____In a county in which there is no statutory probate court_  
+| _or county court at law exercising original probate jurisdiction, if_  
+| _a personal representative petitions the county court to modify or_  
+| _reform the terms of a will, the judge of the county court may, on the_  
+| _judge's own motion, or shall, on the motion of any party to the_  
+| _proceeding, transfer the proceeding to the district court, which_  
+| _may then hear the proceeding as if originally filed in the district_  
+| _court. A district court to which a proceeding is transferred under_  
+| _this subsection has the jurisdiction and authority granted to a_  
+| _statutory probate court by Subtitle A._  
+|  _(c)_ _____In a county in which there is no statutory probate_  
+| _court, but in which there is a county court at law exercising_  
+| _original probate jurisdiction, if a personal representative_  
+| _petitions the county court to modify or reform the terms of a will,_  
+| _the judge of the county court may, on the judge's own motion, or_  
+| _shall, on the motion of any party to the proceeding, transfer the_  
+| _proceeding to the county court at law, which may then hear the_  
+| _proceeding as if originally filed in the county court at law._  
+|  _(d)_ _____The county court shall continue to exercise_  
+| _jurisdiction over the management of the estate, other than the_  
+| _modification or reformation proceeding, until final disposition of_  
+| _the modification or reformation proceeding is made in accordance_  
+| _with this subchapter._  
+|  _(e)_ _____On resolution of the modification or reformation_  
+| _proceeding, the district court or county court at law to which the_  
+| _proceeding is transferred under this section shall return the_  
+| _matter to the county court for further proceedings not inconsistent_  
+| _with the orders of the district court or county court at law._  
+|  _(f)_ _____The clerk of a district court to which a modification or_  
+| _reformation proceeding is transferred under this section may_  
+| _perform in relation to the proceeding any function a county clerk_  
+| _may perform with respect to that type of matter._  
+|  SECTION 9. Section 256.051(a), Estates Code, is amended to  
+| read as follows:  
+|  (a) An executor named in a will, _an administrator designated_  
+| _as authorized under Section 254.006,_ an independent administrator  
+| designated by all of the distributees of the decedent under Section  
+| 401.002(b), or an interested person may file an application with  
+| the court for an order admitting a will to probate, whether the will  
+| is:  
+|  (1) [ ~~written or unwritten;~~  
+|  [ ~~(2)~~ ] in the applicant's possession or not;  
+|  _(2)_ [ ~~(3)~~ ] lost;  
+|  _(3)_ [ ~~(4)~~ ] destroyed; or  
+|  _(4)_ [ ~~(5)~~ ] outside of this state.  
+|  SECTION 10. Section 256.052(a), Estates Code, is amended to  
+| read as follows:  
+|  (a) An application for the probate of a will must state and  
+| aver the following to the extent each is known to the applicant or  
+| can, with reasonable diligence, be ascertained by the applicant:  
+|  (1) each applicant's name and domicile;  
+|  (1-a) the last three numbers of each applicant's  
+| driver's license number and social security number, if _the_  
+| _applicant has been issued one_ [ ~~applicable~~ ];  
+|  (2) the testator's name, domicile, and, if known, age,  
+| on the date of the testator's death;  
+|  (2-a) the last three numbers of the testator's  
+| driver's license number and social security number;  
+|  (3) the fact, date, and place of the testator's death;  
+|  (4) facts showing that the court with which the  
+| application is filed has venue;  
+|  (5) that the testator owned property, including a  
+| statement generally describing the property and the property's  
+| probable value;  
+|  (6) the date of the will;  
+|  (7) the name, state of residence, and physical address  
+| where service can be had of the executor named in the will or other  
+| person to whom the applicant desires that letters be issued;  
+|  (8) the name of each subscribing witness to the will,  
+| if any;  
+|  (9) whether one or more children born to or adopted by  
+| the testator after the testator executed the will survived the  
+| testator and, if so, the name of each of those children;  
+|  (10) whether a marriage of the testator was ever  
+| dissolved after the will was made and, if so, when and from whom;  
+|  (11) whether the state, a governmental agency of the  
+| state, or a charitable organization is named in the will as a  
+| devisee; and  
+|  (12) that the executor named in the will, the  
+| applicant, or another person to whom the applicant desires that  
+| letters be issued is not disqualified by law from accepting the  
+| letters.  
+|  SECTION 11. Section 256.053(b), Estates Code, is amended to  
+| read as follows:  
+|  (b) A will filed under Subsection (a) must remain in the  
+| custody of the county clerk unless removed from the clerk's  
+| custody _:_  
+|  _(1)_ by a court order _under Section 256.202; or_  
+|  _(2)_ _____by a court order issued under Subchapter C,_  
+| _Chapter 33, in which case the clerk shall deliver the will directly_  
+| _to the clerk of the court to which the probate proceeding is_  
+| _transferred_.  
+|  SECTION 12. Section 256.202, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 256.202. CUSTODY OF PROBATED WILL. An original will  
+| and the probate of the will shall be deposited in the office of the  
+| county clerk of the county in which the will was probated. The will  
+| and probate of the will shall remain in that office except during a  
+| time the will and the probate of the will are removed for inspection  
+| to another place on an order of the court where the will was  
+| probated. If that court orders the original will to be removed to  
+| another place for inspection:  
+|  (1) the person removing the will shall give a receipt  
+| for the will; [ ~~and~~ ]  
+|  (2) the court clerk shall make and retain a copy of the  
+| will _; and_  
+|  _(3)_ _____the person removing the will shall deliver the_  
+| _will back to the office of the county clerk after the inspection is_  
+| _completed_.  
+|  SECTION 13. Section 257.051(a), Estates Code, is amended to  
+| read as follows:  
+|  (a) An application for the probate of a will as a muniment of  
+| title must state and aver the following to the extent each is known  
+| to the applicant or can, with reasonable diligence, be ascertained  
+| by the applicant:  
+|  (1) each applicant's name and domicile;  
+|  (1-a) the last three numbers of each applicant's  
+| driver's license number and social security number, if _the_  
+| _applicant has been issued one_ [ ~~applicable~~ ];  
+|  (2) the testator's name, domicile, and, if known, age,  
+| on the date of the testator's death;  
+|  (2-a) the last three numbers of the testator's  
+| driver's license number and social security number;  
+|  (3) the fact, date, and place of the testator's death;  
+|  (4) facts showing that the court with which the  
+| application is filed has venue;  
+|  (5) that the testator owned property, including a  
+| statement generally describing the property and the property's  
+| probable value;  
+|  (6) the date of the will;  
+|  (7) the name, state of residence, and physical address  
+| where service can be had of the executor named in the will;  
+|  (8) the name of each subscribing witness to the will,  
+| if any;  
+|  (9) whether one or more children born to or adopted by  
+| the testator after the testator executed the will survived the  
+| testator and, if so, the name of each of those children;  
+|  (10) that the testator's estate does not owe an unpaid  
+| debt, other than any debt secured by a lien on real estate, or that  
+| for another reason there is no necessity for administration of the  
+| estate;  
+|  (11) whether a marriage of the testator was ever  
+| dissolved after the will was made and, if so, when and from whom;  
+| and  
+|  (12) whether the state, a governmental agency of the  
+| state, or a charitable organization is named in the will as a  
+| devisee.  
+|  SECTION 14. Chapter 257, Estates Code, is amended by adding  
+| Subchapter D to read as follows:  
+| _SUBCHAPTER_ ___D._ _____SUBSEQUENT ESTATE ADMINISTRATION_  
+|  _Sec._ ___257.151._ _____APPOINTMENT OF PERSONAL REPRESENTATIVE AND_  
+| _OPENING OF ADMINISTRATION AFTER WILL ADMITTED TO PROBATE AS_  
+| _MUNIMENT OF TITLE. The issuance of a court order admitting a will_  
+| _to probate as a muniment of title under this chapter does not_  
+| _preclude the subsequent appointment of a personal representative_  
+| _and opening of an administration for the testator's estate if:_  
+|  _(1)_ _____an application under Chapter 301 is filed not_  
+| _later than the fourth anniversary of the testator's death; or_  
+|  _(2)_ _____the administration of the testator's estate is_  
+| _necessary for a reason provided by Section 301.002(b)._  
+|  _Sec._ ___257.152._ _____COMPUTATION OF CERTAIN PERIODS. If a_  
+| _personal representative is appointed for a testator's estate after_  
+| _the testator's will has been admitted to probate as a muniment of_  
+| _title, the periods prescribed by the following sections begin to_  
+| _run from the date of qualification of the personal representative_  
+| _rather than from the date the will is admitted to probate as a_  
+| _muniment of title:_  
+|  _(1) Section 306.001;_  
+|  _(2) Section 306.002(a)(2)(B)(ii);_  
+|  _(3) Section 308.002; and_  
+|  _(4) Section 308.004._  
+|  SECTION 15. Section 301.051, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 301.051. ELIGIBLE APPLICANTS FOR LETTERS. An  
+| executor named in a will, _an administrator designated as authorized_  
+| _under Section 254.006,_ an independent administrator designated by  
+| all of the distributees of the decedent under Section 401.002(b) or  
+| 401.003, or an interested person may file an application with the  
+| court for:  
+|  (1) the appointment of the executor named in the will;  
+|  _(1-a)_ _____the appointment of the designated_  
+| _administrator;_ or  
+|  (2) the appointment of an administrator, if:  
+|  (A) there is a will, but:  
+|  (i) no executor is named in the will; [ ~~or~~ ]  
+|  (ii) the executor named in the will is  
+| disqualified, refuses to serve, is dead, or resigns;  
+|  _(iii)_ _____a person designated to serve as_  
+| _administrator under Section 254.006 is disqualified, refuses to_  
+| _serve, or is dead; or_  
+|  _(iv)_ _____an authorized person other than the_  
+| _executor has not designated any person to serve as administrator_  
+| _under Section 254.006 as of the date of the filing of the_  
+| _application and notifies the court that the person has no intention_  
+| _of doing so;_ or  
+|  (B) there is no will.  
+|  SECTION 16. Section 301.052(a), Estates Code, is amended to  
+| read as follows:  
+|  (a) An application for letters of administration when no  
+| will is alleged to exist must state:  
+|  (1) the applicant's name, domicile, and, if any,  
+| relationship to the decedent;  
+|  (1-a) the last three numbers of:  
+|  (A) the applicant's driver's license number, if  
+| _the applicant has been issued one_ [ ~~applicable~~ ]; and  
+|  (B) the applicant's social security number, if  
+| _the applicant has been issued one_ [ ~~applicable~~ ];  
+|  (2) the decedent's name and that the decedent died  
+| intestate;  
+|  (2-a) if known by the applicant at the time the  
+| applicant files the application, the last three numbers of the  
+| decedent's driver's license number and social security number;  
+|  (3) the fact, date, and place of the decedent's death;  
+|  (4) facts necessary to show that the court with which  
+| the application is filed has venue;  
+|  (5) whether the decedent owned property and, if so,  
+| include a statement of the property's probable value;  
+|  (6) the name and address, if known, whether the heir is  
+| an adult or minor, and the relationship to the decedent of each of  
+| the decedent's heirs;  
+|  (7) if known by the applicant at the time the applicant  
+| files the application, whether one or more children were born to or  
+| adopted by the decedent and, if so, the name, birth date, and place  
+| of birth of each child;  
+|  (8) if known by the applicant at the time the applicant  
+| files the application, whether the decedent was ever divorced and,  
+| if so, when and from whom;  
+|  (9) that a necessity exists for administration of the  
+| decedent's estate and an allegation of the facts that show that  
+| necessity; and  
+|  (10) that the applicant is not disqualified by law  
+| from acting as administrator.  
+|  SECTION 17. Section 301.151, Estates Code, as amended by  
+| Chapters 576 (H.B. 3160) and 949 (S.B. 995), Acts of the 84th  
+| Legislature, Regular Session, 2015, is reenacted and amended to  
+| read as follows:  
+|  Sec. 301.151. GENERAL PROOF REQUIREMENTS. An applicant  
+| for the issuance of letters testamentary or of administration of an  
+| estate must prove to the court's satisfaction that:  
+|  (1) the person whose estate is the subject of the  
+| application is dead;  
+|  (2) except as provided by _Sections 301.002(b)(1) and_  
+| _(2)_ [ ~~Section 301.002(b)~~ ] with respect to administration necessary  
+| to receive or recover property _or to prevent real property of the_  
+| _estate from becoming a danger_ [ ~~due a decedent's estate~~ ], and  
+| Section 501.006 with respect to a foreign will, [ ~~except as provided~~  
+|  ~~by Section 301.002(b)(2),~~ ] four years have not elapsed since the  
+| date of the decedent's death and before the application;  
+|  (3) the court has jurisdiction and venue over the  
+| estate;  
+|  (4) citation has been served and returned in the  
+| manner and for the period required by this title; and  
+|  (5) the person for whom letters testamentary or of  
+| administration are sought is entitled by law to the letters and is  
+| not disqualified.  
+|  SECTION 18. Section 304.001(a), Estates Code, is amended to  
+| read as follows:  
+|  (a) The court shall grant letters testamentary or of  
+| administration to persons qualified to act, in the following order:  
+|  (1) the person named as executor in the decedent's  
+| will;  
+|  _(1-a)_ _____the person designated as administrator as_  
+| _authorized under Section 254.006;_  
+|  (2) the decedent's surviving spouse;  
+|  (3) the principal devisee of the decedent;  
+|  (4) any devisee of the decedent;  
+|  (5) the next of kin of the decedent;  
+|  (6) a creditor of the decedent;  
+|  (7) any person of good character residing in the  
+| county who applies for the letters;  
+|  (8) any other person who is not disqualified under  
+| Section 304.003; and  
+|  (9) any appointed public probate administrator.  
+|  SECTION 19. Subchapter C, Chapter 351, Estates Code, is  
+| amended by adding Section 351.106 to read as follows:  
+|  _Sec._ ___351.106._ _____DIGITAL ASSETS._ _____A personal representative_  
+| _of a decedent's estate may apply for and obtain a court order,_  
+| _either at the time the personal representative is appointed or at_  
+| _any time before the administration of the estate is closed, that:_  
+|  _(1)_ _____directs disclosure of the content of electronic_  
+| _communications of the decedent to the personal representative as_  
+| _provided by Section 2001.101 and that contains any court finding_  
+| _described by Section 2001.101(b)(3);_  
+|  _(2)_ _____with respect to a catalog of electronic_  
+| _communications sent or received by the decedent and other digital_  
+| _assets of the decedent, other than the content of an electronic_  
+| _communication, contains any court finding described by Section_  
+| _2001.102(b)(4); or_  
+|  _(3)_ _____directs under Section 2001.231 a custodian to_  
+| _comply with a request to disclose digital assets under Chapter_  
+| _2001._  
+|  SECTION 20. Sections 351.152(a) and (b), Estates Code, are  
+| amended to read as follows:  
+|  (a) _A_ [ ~~Except as provided by Subsection (b) and subject only~~  
+|  ~~to the approval of the court in which the estate is being~~  
+|  ~~administered, a~~ ] personal representative may _, without court_  
+| _approval,_ convey or enter into a contract to convey for attorney  
+| services a contingent interest in any property sought to be  
+| recovered, not to exceed a one-third interest in the property.  
+|  (b) A personal representative, including an independent  
+| executor or independent administrator, may convey or enter into a  
+| contract to convey for attorney services a contingent interest in  
+| any property sought to be recovered under this subchapter in an  
+| amount that exceeds a one-third interest in the property only on the  
+| approval of the court in which the estate is being administered.  
+| The court must approve a contract [ ~~entered into~~ ] or conveyance  
+| _described by_ [ ~~made under~~ ] this _subsection_ [ ~~section~~ ] before
+an  
+| attorney performs any legal services. A contract entered into or a  
+| conveyance made in violation of this _subsection_ [ ~~section~~ ] is void  
+| unless the court ratifies or reforms the contract or documents  
+| relating to the conveyance to the extent necessary to make the  
+| contract or conveyance meet the requirements of this _subsection_  
+| [ ~~section~~ ].  
+|  SECTION 21. The heading to Section 352.052, Estates Code,  
+| is amended to read as follows:  
+|  Sec. 352.052. ALLOWANCE FOR DEFENSE _OR SUCCESSFUL CONTEST_  
+| OF WILL.  
+|  SECTION 22. Section 352.052, Estates Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____In this subsection, "interested person" does not_  
+| _include a creditor or any other having a claim against the estate._  
+| _An interested person who, in good faith and with just cause,_  
+| _successfully prosecutes a proceeding to contest the validity of a_  
+| _will or alleged will offered for or admitted to probate may be_  
+| _allowed out of the estate the person's necessary expenses and_  
+| _disbursements in that proceeding, including reasonable attorney's_  
+| _fees._  
+|  SECTION 23. Sections 355.102(b) and (c), Estates Code, are  
+| amended to read as follows:  
+|  (b) Class 1 claims are composed of funeral expenses and  
+| expenses of the decedent's last illness _, including claims for_  
+| _reimbursement of those expenses,_ for a reasonable amount approved  
+| by the court, not to exceed [ ~~a total of~~ ] $15,000 _for funeral_  
+| _expenses and $15,000 for expenses of the decedent's last_  
+| _illness_. Any excess shall be classified and paid as other  
+| unsecured claims.  
+|  (c) Class 2 claims are composed of _:_  
+|  _(1)_ expenses of administration _;_  
+|  _(2)_ [ ~~,~~ ] expenses incurred in preserving, safekeeping,  
+| and managing the estate, including fees and expenses awarded under  
+| Section 352.052 _;_  
+|  _(3)_ [ ~~, and~~ ] unpaid expenses of administration awarded  
+| in a guardianship of the decedent _; and_  
+|  _(4)_ _____for an estate with respect to which a public_  
+| _probate administrator has taken any action under Chapter 455, court_  
+| _costs and commissions to which the administrator is entitled under_  
+| _Subchapter A, Chapter 352_.  
+|  SECTION 24. Section 355.103, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 355.103. PRIORITY OF CERTAIN PAYMENTS. When a  
+| personal representative has estate funds in the representative's  
+| possession, the representative shall pay in the following order:  
+|  (1) funeral expenses _in an amount not to exceed_  
+| _$15,000_ and expenses of the decedent's last illness[ ~~,~~ ] in an amount  
+| not to exceed $15,000;  
+|  (2) allowances made to the decedent's surviving spouse  
+| and children, or to either the surviving spouse or children;  
+|  (3) expenses of administration and expenses incurred  
+| in preserving, safekeeping, and managing the estate; and  
+|  (4) other claims against the estate in the order of the  
+| claims' classifications.  
+|  SECTION 25. Sections 355.1551(a) and (b), Estates Code, are  
+| amended to read as follows:  
+|  (a) A [ ~~claim~~ ] holder of a claim allowed and approved under  
+| Section 355.151(a)(2) who elects to take possession or sell the  
+| property securing the debt before final maturity in satisfaction of  
+| the [ ~~claim~~ ] holder's claim must do so within a reasonable time, as  
+| determined by the court.  
+|  (b) If the claim holder fails to take possession or sell  
+| secured property within _the_ [ ~~a reasonable~~ ] time _determined by the_  
+| _court_ under Subsection (a), on application by the personal  
+| representative, the court may require the sale of the property free  
+| of the lien and apply the proceeds to the payment of the whole debt  
+| _in full satisfaction of the claim_.  
+|  SECTION 26. Sections 356.105(a) and (b), Estates Code, are  
+| amended to read as follows:  
+|  (a) A sale of estate personal property shall be reported to  
+| the court.  The laws regulating the _approval_ [ ~~confirmation~~ ] or  
+| disapproval of a sale of real estate apply to the sale, except that  
+| a conveyance is not required.  
+|  (b) The court's order _approving_ [ ~~confirming~~ ] the sale of  
+| estate personal property:  
+|  (1) vests the right and title of the intestate's estate  
+| in the purchaser who has complied with the terms of the sale; and  
+|  (2) is prima facie evidence that all requirements of  
+| the law in making the sale have been met.  
+|  SECTION 27. Subchapters I and J, Chapter 356, Estates Code,  
+| are amended to read as follows:  
+| SUBCHAPTER I. SALE OF REAL ESTATE: PUBLIC _AUCTION_ [ ~~SALE~~ ]  
+|  Sec. 356.401. _METHOD OF SALE;_ REQUIRED NOTICE. (a) _A_  
+| _public sale of real estate of an estate shall be made at public_  
+| _auction._ Except as otherwise provided by Section 356.403(c), the  
+| personal representative of an estate shall advertise a public  
+| _auction_ [ ~~sale~~ ] of real estate of the estate by a notice published in  
+| the county in which the _real estate is located and in which the_  
+| _auction is to be held_ [ ~~estate is pending~~ ], as provided by this title  
+| for publication of notices or citations. The notice must:  
+|  (1) include a reference to the order of sale;  
+|  (2) include the time, place, and required terms of  
+| sale; and  
+|  (3) briefly describe the real estate to be sold.  
+|  (b) The notice required by Subsection (a) is not required to  
+| contain field notes, but if the real estate to be sold is rural  
+| property, the notice must include:  
+|  (1) the name of the original survey of the real estate;  
+|  (2) the number of acres comprising the real estate;  
+|  (3) the location of the real estate in the county; and  
+|  (4) any name by which the real estate is generally  
+| known.  
+|  Sec. 356.402. _COMPLETION_ [ ~~METHOD~~ ] OF _AUCTION_ [ ~~SALE~~ ]. A  
+| public _auction_ [ ~~sale~~ ] of real estate of an estate shall be
+_completed_  
+| _on the bid of_ [ ~~made at public auction to~~ ] the highest bidder.  
+|  Sec. 356.403. TIME AND PLACE OF _AUCTION_ [ ~~SALE~~ ]. (a) Except  
+| as provided by Subsection (c), a public _auction_ [ ~~sale~~ ] of real  
+| estate of an estate shall be _held_ [ ~~made~~ ] at:  
+|  (1) the courthouse door in the county in which the _real_  
+| _estate is located, or if the real estate is located in more than one_  
+| _county, the courthouse door in any county in which the real estate_  
+| _is located_ [ ~~proceedings are pending~~ ]; or  
+|  (2) another place in _a_ [ ~~that~~ ] county _described by_  
+| _Subdivision (1)_ at which _auctions_ [ ~~sales~~ ] of real estate are  
+| specifically authorized to be _held as designated by the_  
+| _commissioners court of the county under Section 51.002(a), Property_  
+| _Code_ [ ~~made~~ ].  
+|  (b) _Except as otherwise provided by this subsection, the_  
+| _auction_ [ ~~The sale~~ ] must occur between 10 a.m. and 4 p.m. on the  
+| first Tuesday of the month after publication of notice has been  
+| completed. _If the first Tuesday of the month occurs on January 1 or_  
+| _July 4, the auction must occur between 10 a.m. and 4 p.m. on the_  
+| _first Wednesday of the month._  
+|  (c) If the court considers it advisable, the court may order  
+| the _auction_ [ ~~sale~~ ] to be _held_ [ ~~made~~ ] in the county in which
+the  
+| _proceedings are pending_ [ ~~real estate is located~~ ], in which event  
+| notice shall be published both in that county and in the county in  
+| which the _real estate is located_ [ ~~proceedings are pending~~ ].  
+|  Sec. 356.404. CONTINUANCE OF _AUCTION_ [ ~~SALE~~ ]. (a) A public  
+| _auction_ [ ~~sale~~ ] of real estate of an estate that is not completed on  
+| the day advertised may be continued from day to day by an oral  
+| public announcement of the continuance made at the conclusion of  
+| the _auction_ [ ~~sale~~ ] each day.  
+|  (b) A continued _auction_ [ ~~sale~~ ] must occur within the hours  
+| prescribed by Section 356.403(b).  
+|  (c) The continuance of _an auction_ [ ~~a sale~~ ] under this  
+| section shall be shown in the report [ ~~of the sale~~ ] made to the court  
+| _under Section 356.551_.  
+|  Sec. 356.405. FAILURE OF BIDDER TO COMPLY. (a) If a person  
+| bids off real estate of the estate offered [ ~~for sale~~ ] at public  
+| auction and fails to comply with the terms of the _bid_ [ ~~sale~~ ], the  
+| property shall be readvertised and _auctioned_ [ ~~sold~~ ] without any  
+| further order.  
+|  (b) The person defaulting on a bid as described by  
+| Subsection (a) is liable for payment to the personal representative  
+| of the estate, for the estate's benefit, of:  
+|  (1) 10 percent of the amount of the bid; and  
+|  (2) the amount of any deficiency in price on the second  
+| _auction_ [ ~~sale~~ ].  
+|  (c) The personal representative may recover the amounts  
+| under Subsection (b) by suit in any court in the county in which the  
+| _auction_ [ ~~sale~~ ] was made that has jurisdiction of the amount  
+| claimed.  
+| SUBCHAPTER J. SALE OF REAL ESTATE: _CONTRACT FOR_ PRIVATE SALE  
+|  Sec. 356.451. _TERMS OF_ [ ~~MANNER OF~~ ] SALE. _The personal_  
+| _representative of an estate may enter into a contract for the_ [ ~~A~~ ]  
+| private sale of real estate of the estate [ ~~shall be~~ ] made in the  
+| manner the court directs in the order of sale. Unless the court  
+| directs otherwise, additional advertising, notice, or citation  
+| concerning the sale is not required.  
+|  SECTION 28. Section 356.502, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 356.502. PROCEDURE. The procedure for the sale of an  
+| easement or right-of-way authorized under Section 356.501 is the  
+| same as the procedure provided by law for a _private_ sale of estate  
+| real property _by contract_ [ ~~at private sale~~ ].  
+|  SECTION 29. The heading to Subchapter L, Chapter 356,  
+| Estates Code, is amended to read as follows:  
+| SUBCHAPTER L. _APPROVAL_ [ ~~CONFIRMATION~~ ] OF SALE OF REAL PROPERTY AND  
+| TRANSFER OF TITLE  
+|  SECTION 30. Section 356.551, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 356.551. REPORT. A _successful bid or contract for the_  
+| sale of estate real property shall be reported to the court ordering  
+| the sale not later than the 30th day after the date the _bid_ [ ~~sale~~ ]
+is  
+| made _or the property is placed under contract_. The report must:  
+|  (1) be sworn to, in writing, and filed with the clerk;  
+|  (2) include:  
+|  (A) the date of the order of sale;  
+|  (B) a description of the property _being_ sold;  
+|  (C) the time and place of _the auction or date the_  
+| _property is placed under contract_ [ ~~sale~~ ];  
+|  (D) the purchaser's name;  
+|  (E) the amount _of the successful bid or the_  
+| _purchase price_ for [ ~~which~~ ] each parcel of property or interest in  
+| property _auctioned or placed under contract_ [ ~~was sold~~ ];  
+|  (F) the terms of the sale;  
+|  (G) whether the sale _of the property is to be_  
+| [ ~~was~~ ] made at public auction or _by contract_ [ ~~privately~~ ]; and  
+|  (H) whether the purchaser is ready to comply with  
+| the order of sale; and  
+|  (3) be noted on the probate docket.  
+|  SECTION 31. Section 356.552, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 356.552. ACTION OF COURT ON REPORT [ ~~OF SALE~~ ]. After  
+| the expiration of five days from the date a report [ ~~of sale~~ ] is  
+| filed under Section 356.551, the court shall:  
+|  (1) inquire into the manner in which the _auction or_  
+| _contract described in the report_ [ ~~sale~~ ] was made;  
+|  (2) hear evidence in support of or against the report;  
+| and  
+|  (3) determine the sufficiency or insufficiency of the  
+| personal representative's general bond, if any has been required  
+| and given.  
+|  SECTION 32. Section 356.553, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 356.553. _APPROVAL_ [ ~~CONFIRMATION~~ ] OF SALE WHEN BOND NOT  
+| REQUIRED. If the personal representative of an estate is not  
+| required by this title to give a general bond, the court may _approve_  
+| [ ~~confirm~~ ] the sale of estate real property in the manner provided by  
+| Section 356.556(a) if the court finds that the sale is satisfactory  
+| and made in accordance with law.  
+|  SECTION 33. Sections 356.554(a), (b), and (c), Estates  
+| Code, are amended to read as follows:  
+|  (a) If the personal representative of an estate is required  
+| by this title to give a general bond, before the court _approves_  
+| [ ~~confirms~~ ] any sale of real estate, the court shall determine  
+| whether the bond is sufficient to protect the estate after the sale  
+| proceeds are received.  
+|  (b) If the court finds that the general bond is sufficient,  
+| the court may _approve_ [ ~~confirm~~ ] the sale as provided by Section  
+| 356.556(a).  
+|  (c) If the court finds that the general bond is  
+| insufficient, the court may not _approve_ [ ~~confirm~~ ] the sale until  
+| the general bond is increased to the amount required by the court,  
+| or an additional bond is given, and approved by the court.  
+|  SECTION 34. Section 356.556, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 356.556. _APPROVAL_ [ ~~CONFIRMATION~~ ] OR DISAPPROVAL  
+| ORDER. (a) If the court is satisfied that _the proposed sale of real_  
+| _property_ [ ~~a sale~~ ] reported under Section 356.551 _is_ [ ~~was~~ ]
+for a fair  
+| price, properly made, and in conformity with law, and the court has  
+| approved any increased or additional bond that the court found  
+| necessary to protect the estate, the court shall enter an order:  
+|  (1) _approving_ [ ~~confirming~~ ] the sale;  
+|  (2) showing conformity with this chapter;  
+|  (3) detailing the terms of the sale; and  
+|  (4) authorizing the personal representative to convey  
+| the property on the purchaser's compliance with the terms of the  
+| sale.  
+|  (b) If the court is not satisfied that the _proposed sale of_  
+| _real property is_ [ ~~sale was~~ ] for a fair price, properly made, and in  
+| conformity with law, the court shall enter an order setting aside  
+| the _bid or contract_ [ ~~sale~~ ] and ordering a new sale to be made, if  
+| necessary.  
+|  (c) The court's action in _approving_ [ ~~confirming~~ ] or  
+| disapproving a report _under Section 356.551_ [ ~~of a sale~~ ] has the  
+| effect of a final judgment. Any person interested in the estate or  
+| in the sale is entitled to have an order entered under this section  
+| reviewed as in other final judgments in probate proceedings.  
+|  SECTION 35. Section 356.557, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 356.557. DEED. Real estate of an estate that is sold  
+| shall be conveyed by a proper deed that refers to and identifies the  
+| court order _approving_ [ ~~confirming~~ ] the sale. The deed:  
+|  (1) vests in the purchaser all right and title of the  
+| estate to, and all interest of the estate in, the property; and  
+|  (2) is prima facie evidence that the sale has met all  
+| applicable requirements of the law.  
+|  SECTION 36. Section 356.558(a), Estates Code, is amended to  
+| read as follows:  
+|  (a) After the court has _approved_ [ ~~confirmed~~ ] a sale and the  
+| purchaser has complied with the terms of the sale, the personal  
+| representative of the estate shall promptly execute and deliver to  
+| the purchaser a proper deed conveying the property.  
+|  SECTION 37. Section 401.005, Estates Code, is amended by  
+| adding Subsection (a-1) to read as follows:  
+|  _(a-1)_ _____If a decedent's will does not contain language_  
+| _directing that no bond or security be required of a person named as_  
+| _executor, unless the court finds that it would not be in the best_  
+| _interest of the estate, the court may waive the requirement of a_  
+| _bond if all of the distributees of the decedent agree to the waiver_  
+| _of bond in:_  
+|  _(1)_ _____the application for probate of the decedent's_  
+| _will; or_  
+|  _(2)_ _____one or more separate documents consenting to the_  
+| _application for probate of the decedent's will._  
+|  SECTION 38. Subchapter A, Chapter 402, Estates Code, is  
+| amended by adding Section 402.003 to read as follows:  
+|  _Sec._ ___402.003._ _____DIGITAL ASSETS. The court, either at the time_  
+| _the independent executor of an estate is appointed or at any time_  
+| _before the administration of the estate is closed, may enter an_  
+| _order that:_  
+|  _(1)_ _____directs disclosure of the content of electronic_  
+| _communications of the decedent to the independent executor as_  
+| _provided by Section 2001.101 and that contains any court finding_  
+| _described by Section 2001.101(b)(3);_  
+|  _(2)_ _____with respect to a catalog of electronic_  
+| _communications sent or received by the decedent and other digital_  
+| _assets of the decedent, other than the content of an electronic_  
+| _communication, contains any court finding described by Section_  
+| _2001.102(b)(4); or_  
+|  _(3)_ _____directs under Section 2001.231 a custodian to_  
+| _comply with a request to disclose digital assets under Chapter_  
+| _2001._  
+|  SECTION 39. Subchapter B, Chapter 403, Estates Code, is  
+| amended by adding Section 403.05851 to read as follows:  
+|  _Sec._ ___403.05851._ _____OTHER CLAIM PROCEDURES APPLY TO MEDICAID_  
+| _ESTATE RECOVERY PROGRAM CLAIM. The procedural provisions of this_  
+| _title governing creditor claims in supervised administrations_  
+| _apply to a claim of the Medicaid estate recovery program under_  
+| _Section 531.077, Government Code, in an independent_  
+| _administration._  
+|  SECTION 40. Section 455.008(a), Estates Code, is amended to  
+| read as follows:  
+|  (a) If gross assets of an estate do not exceed _20_ [ ~~10~~ ]  
+| percent of the maximum amount authorized for a small estate  
+| affidavit under Section 205.001, the public probate administrator  
+| may act without issuance of letters testamentary or of  
+| administration if the court approves a statement of administration  
+| stating:  
+|  (1) the name and domicile of the decedent;  
+|  (2) the date and place of death of the decedent; and  
+|  (3) the name, address, and relationship of each known  
+| heir or devisee of the decedent.  
+|  SECTION 41. Section 455.009, Estates Code, is amended by  
+| adding Subsection (a-1) to read as follows:  
+|  _(a-1)_ _____The public probate administrator may file the_  
+| _affidavit as provided by Subsection (a) after the public probate_  
+| _administrator has acted under Section 455.007 or 455.008._  
+|  SECTION 42. Section 455.012, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 455.012. DEPOSIT OF FUNDS _IN COURT REGISTRY_ [ ~~INTO THE~~  
+|  ~~COUNTY TREASURY~~ ]. The public probate administrator shall deposit  
+| all funds coming into the custody of the administrator in the _court_  
+| _registry, except as provided by Section 455.003_ [ ~~county treasury~~ ].  
+| Funds deposited must be _disbursed_ [ ~~dispersed~~ ] at the direction of  
+| the public probate administrator and according to _an order issued_  
+| _by the statutory probate court judge who appointed the_  
+| _administrator_ [ ~~the guidelines of the county treasurer or auditor~~ ].  
+|  SECTION 43. Section 25.002201(b), Government Code, is  
+| amended to read as follows:  
+|  (b) If the judge who is the subject of an order of recusal or  
+| disqualification is the presiding judge of the statutory probate  
+| courts, the chief justice of the supreme court shall assign [ ~~a~~  
+|  ~~regional presiding judge,~~ ] a statutory probate judge[ ~~,~~ ] or a
+former  
+| or retired judge of a statutory probate court to hear the case.  
+|  SECTION 44. Section 25.00255(a), Government Code, is  
+| amended to read as follows:  
+|  (a) Notwithstanding any conflicting provision in the Texas  
+| Rules of Civil Procedure, Rules 18a and 18b, Texas Rules of Civil  
+| Procedure, apply to the recusal and disqualification of a statutory  
+| probate court judge except as otherwise provided by this section or  
+| another provision of this subchapter. The presiding judge:  
+|  (1) has the authority and shall perform the functions  
+| and duties of the presiding judge of the administrative judicial  
+| region under the rules, including the duty to hear or rule on a  
+| referred motion of recusal or disqualification or, subject to  
+| Subdivisions (2) and (3) [ ~~and to Section 25.002201~~ ], assign a judge  
+| to hear and rule on a referred motion of recusal or  
+| disqualification;  
+|  (2) may assign a presiding judge of the administrative  
+| judicial region to hear and rule on a referred motion of recusal or  
+| disqualification only with the consent of the presiding judge of  
+| the administrative judicial region; [ ~~and~~ ]  
+|  (3) may not assign a judge of a statutory probate court  
+| located in the same county as the statutory probate court served by  
+| the judge who is the subject of the motion of recusal or  
+| disqualification _; and_  
+|  _(4)_ _____if the presiding judge is the subject of the motion_  
+| _of recusal or disqualification, shall sign and file with the clerk_  
+| _an order referring the motion to the chief justice of the supreme_  
+| _court for assignment of a presiding judge of an administrative_  
+| _judicial region, a statutory probate court judge, or a former or_  
+| _retired judge of a statutory probate court to hear and rule on the_  
+| _motion, subject to Subdivisions (2) and (3)_.  
+|  SECTION 45. The following provisions of the Estates Code  
+| are repealed:  
+|  (1) Section 114.002(b); and  
+|  (2) Subchapter D, Chapter 114.  
+|  SECTION 46. (a)  Subchapter C, Chapter 111, Estates Code, as  
+| added by this Act, applies to an agreement, account, contract, or  
+| designation made or entered into before, on, or after the effective  
+| date of this Act, regardless of the date of the deceased party's  
+| death.  
+|  (b) Section 113.252(c), Estates Code, as amended by this  
+| Act, applies to a proceeding commenced on or after the effective  
+| date of this Act.  A proceeding commenced before the effective date  
+| of this Act is governed by the law in effect on the date the  
+| proceeding was commenced, and the former law is continued in effect  
+| for that purpose.  
+|  (c) The repeal of Subchapter D, Chapter 114, Estates Code,  
+| by this Act does not affect the validity of a transfer on death deed  
+| or a cancellation of a transfer on death deed executed before, on,  
+| or after the effective date of this Act.  
+|  (d) Section 202.151, Estates Code, as amended by this Act,  
+| applies only to a proceeding to declare heirship commenced on or  
+| after the effective date of this Act. A proceeding to declare  
+| heirship commenced before that date is governed by the law in effect  
+| on the date the proceeding was commenced, and the former law is  
+| continued in effect for that purpose.  
+|  (e) Section 255.456, Estates Code, as added by this Act,  
+| applies only to a petition filed on or after the effective date of  
+| this Act. A petition filed before the effective date of this Act is  
+| governed by the law in effect on the date the petition was filed,  
+| and the former law is continued in effect for that purpose.  
+|  (f) Sections 256.052(a), 256.053(b), and 257.051(a),  
+| Estates Code, as amended by this Act, and Section 401.005(a-1),  
+| Estates Code, as added by this Act, apply only to an application for  
+| the probate of a will filed on or after the effective date of this  
+| Act.  An application for the probate of a will filed before that  
+| date is governed by the law in effect on the date the application  
+| was filed, and the former law is continued in effect for that  
+| purpose.  
+|  (g) Section 301.052(a), Estates Code, as amended by this  
+| Act, applies only to an application for letters of administration  
+| filed on or after the effective date of this Act. An application  
+| for letters of administration filed before the effective date of  
+| this Act is governed by the law in effect on the date the  
+| application was filed, and the former law is continued in effect for  
+| that purpose.  
+|  (h) Sections 351.106 and 402.003, Estates Code, as added by  
+| this Act, apply only to the administration of a decedent's estate  
+| that is pending or commenced on or after the effective date of this  
+| Act.  
+|  (i) Sections 351.152(a) and (b), Estates Code, as amended by  
+| this Act, apply only to a contract entered into or a conveyance made  
+| on or after the effective date of this Act. A contract entered into  
+| or a conveyance made before the effective date of this Act is  
+| governed by the law in effect on the date the contract was entered  
+| into or the conveyance was made, and the former law is continued in  
+| effect for that purpose.  
+|  (j) Sections 352.052(c), 403.05851, and 455.009(a-1),  
+| Estates Code, as added by this Act, and Subchapters I and J, Chapter  
+| 356, and Sections 355.102(b) and (c), 355.103, 355.1551(a) and (b),  
+| 356.502, 356.551, 356.552, 356.553, 356.554(a), (b), and (c),  
+| 356.556, 356.557, 356.558(a), 455.008(a), and 455.012, Estates  
+| Code, as amended by this Act, apply only to the estate of a decedent  
+| who dies on or after the effective date of this Act. The estate of a  
+| decedent who dies before the effective date of this Act is governed  
+| by the law in effect on the date of the decedent's death, and the  
+| former law is continued in effect for that purpose.  
+|  (k) Section 25.00255(a), Government Code, as amended by  
+| this Act, applies only to a motion of recusal or disqualification  
+| made on or after the effective date of this Act. A motion of recusal  
+| or disqualification made before the effective date of this Act is  
+| governed by the law in effect on the date the motion was made, and  
+| the former law is continued in effect for that purpose.  
+|  SECTION 47. This Act takes effect September 1, 2019.
+

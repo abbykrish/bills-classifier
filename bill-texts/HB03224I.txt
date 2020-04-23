@@ -1,0 +1,35 @@
+| 86R12594 JRR-F  
+---|---  
+|  By: Lozano | H.B. No. 3224  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of a defense under the Solid Waste Disposal  
+| Act for persons engaged in certain recycling transactions.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 361.275(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) _Except as provided by Section 361.2755, a_ [ ~~A~~ ] person  
+| responsible for solid waste under Section 361.271 is liable under  
+| Section 361.272 or 361.273 unless the person can establish by a  
+| preponderance of the evidence that the release or threatened  
+| release was caused solely by:  
+|  (1) an act of God;  
+|  (2) an act of war;  
+|  (3) an act or omission of a third person; or  
+|  (4) any combination of Subdivisions (1), (2), and (3).  
+|  SECTION 2. Subchapter I, Chapter 361, Health and Safety  
+| Code, is amended by adding Section 361.2755 to read as follows:  
+|  _Sec._ ___361.2755._ _____RECYCLABLE MATERIAL; DEFENSE. (a) In this_  
+| _section, "recyclable material" has the meaning assigned by 42_  
+| _U.S.C. Section 9627(b)._  
+|  _(b)_ _____A person who arranges for recycling of recyclable_  
+| _material is not responsible for the recyclable material under_  
+| _Section 361.271(a)(3) or (4) if the person can establish by a_  
+| _preponderance of the evidence that the person would not be liable_  
+| _with respect to the recyclable material under 42 U.S.C. Section_  
+| _9607(a)(3) or (4) based on the person meeting the criteria_  
+| _established under 42 U.S.C. Section 9627 relating to transactions_  
+| _involving that type of recyclable material._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

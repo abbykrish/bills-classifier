@@ -1,0 +1,61 @@
+| 86R12792 MP-F  
+---|---  
+|  By: Gonzalez of El Paso | H.B. No. 3069  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment of a grant program for promoting  
+| computer science certification and professional development in  
+| coding, technology applications, and computer science for public  
+| school teachers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter J, Chapter 21, Education Code, is  
+| amended by adding Section 21.468 to read as follows:  
+|  _Sec._ ___21.468._ _____COMPUTER SCIENCE AND TECHNOLOGY APPLICATIONS_  
+| _PROFESSIONAL DEVELOPMENT GRANT PROGRAM. (a) The commissioner_  
+| _shall establish a professional development grant program to_  
+| _encourage teachers to:_  
+|  _(1) obtain computer science certification; and_  
+|  _(2)_ _____continue professional development in coding,_  
+| _computational thinking, and computer science education._  
+|  _(b)_ _____From funds appropriated for the purpose, the_  
+| _commissioner shall make grants to eligible providers that offer:_  
+|  _(1)_ _____professional development for elementary school_  
+| _and middle and junior high school teachers to ensure teachers_  
+| _maintain a working knowledge of current computer industry standard_  
+| _tools and resources; and_  
+|  _(2)_ _____training for computer science certification for_  
+| _teachers in accordance with certification requirements adopted by_  
+| _the State Board for Educator Certification._  
+|  _(c)_ _____To be eligible to receive a grant under this section, a_  
+| _provider must:_  
+|  _(1)_ _____be an institution of higher education, regional_  
+| _education service center, or school district or partnership of_  
+| _multiple school districts or a nonprofit entity approved by the_  
+| _commissioner that has demonstrated experience in providing_  
+| _professional development through a statewide network; and_  
+|  _(2)_ _____meet eligibility standards established by_  
+| _commissioner rule._  
+|  _(d)_ _____An eligible provider receiving a grant under this_  
+| _section must:_  
+|  _(1)_ _____provide the training or professional development_  
+| _described by Subsection (b) and establish professional development_  
+| _hubs in each education service center region;_  
+|  _(2) serve high-need campuses;_  
+|  _(3)_ _____have established partnerships with institution of_  
+| _higher education faculty with expertise in computing and computer_  
+| _science education; and_  
+|  _(4)_ _____develop partnerships with computer industry_  
+| _professionals._  
+|  _(e)_ _____The commissioner may adopt rules as necessary to_  
+| _implement this section._  
+|  SECTION 2. Not later than December 31, 2019, the  
+| commissioner of education shall establish the grant program  
+| required under Section 21.468, Education Code, as added by this  
+| Act.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

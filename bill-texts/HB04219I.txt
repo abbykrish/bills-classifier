@@ -1,0 +1,43 @@
+| 86R16328 AJA-F  
+---|---  
+|  By: Leman | H.B. No. 4219  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the enforceability of certain contracts to acquire real  
+| property for a high-speed rail project.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 112, Transportation Code,  
+| is amended by adding Section 112.0535 to read as follows:  
+|  _Sec._ ___112.0535._ _____CONTRACT TO ACQUIRE REAL PROPERTY UNDER_  
+| _FALSE REPRESENTATION OF EMINENT DOMAIN AUTHORITY. (a)_ ___In this_  
+| _section, "high-speed rail" has the meaning assigned by Section_  
+| _112.201._  
+|  _(b)_ _____A contract to acquire real property entered into by an_  
+| _entity proposing to build a high-speed rail project is voidable by_  
+| _the property owner if:_  
+|  _(1)_ _____before the execution of the contract, the entity_  
+| _represented to the property owner that the entity had the authority_  
+| _to acquire the property through eminent domain; and_  
+|  _(2)_ _____after the execution of the contract, a court_  
+| _enters a final judgment declaring that the entity does not have_  
+| _eminent domain authority._  
+|  _(c)_ _____A property owner who voids a contract under this section_  
+| _is entitled to retain any money paid by the entity to the property_  
+| _owner before the contract is voided._  
+|  _(d)_ _____Not later than the 90th day after the date of the final_  
+| _judgment described by Subsection (b)(2), the entity that is subject_  
+| _to the final judgment shall provide written notice by certified_  
+| _mail to each property owner with whom the entity entered into a_  
+| _contract described by Subsection (b) informing the property owner_  
+| _of the property owner's right to void the contract._  
+|  _(e)_ _____To void a contract under this section, a property owner_  
+| _must, not later than the 120th day after the date the property owner_  
+| _receives the notice required by Subsection (d), provide notice to_  
+| _the entity that the property owner is voiding the contract._  
+|  _(f)_ _____An entity subject to a final judgment described by_  
+| _Subsection (b)(2) may not exercise the entity's rights under a_  
+| _contract described by Subsection (b) before the expiration of the_  
+| _120-day period provided by Subsection (e)._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

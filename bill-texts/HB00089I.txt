@@ -1,0 +1,512 @@
+| 86R1547 MEW-F  
+---|---  
+|  By: Gonzalez of El Paso | H.B. No. 89  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the public school finance system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 29.918(a) and (b), Education Code, are  
+| amended to read as follows:  
+|  (a) Notwithstanding Section [ ~~39.234 or~~ ] 42.152, a school  
+| district or open-enrollment charter school with a high dropout  
+| rate, as determined by the commissioner, must submit a plan to the  
+| commissioner describing the manner in which the district or charter  
+| school intends to use the compensatory education allotment under  
+| Section 42.152 [ ~~and the high school allotment under Section 42.160~~ ]  
+| for developing and implementing research-based strategies for  
+| dropout prevention. The district or charter school shall submit  
+| the plan not later than December 1 of each school year preceding the  
+| school year in which the district or charter school will receive the  
+| compensatory education allotment [ ~~or high school allotment~~ ] to  
+| which the plan applies.  
+|  (b) A school district or open-enrollment charter school to  
+| which this section applies may not spend or obligate more than 25  
+| percent of the district's or charter school's compensatory  
+| education allotment [ ~~or high school allotment~~ ] unless the  
+| commissioner approves the plan submitted under Subsection (a). The  
+| commissioner shall complete an initial review of the district's or  
+| charter school's plan not later than March 1 of the school year  
+| preceding the school year in which the district or charter school  
+| will receive the compensatory education allotment [ ~~or high school~~  
+|  ~~allotment~~ ] to which the plan applies.  
+|  SECTION 2. Section 39.0233(a), Education Code, is amended  
+| to read as follows:  
+|  (a) The agency, in coordination with the Texas Higher  
+| Education Coordinating Board, shall adopt a series of questions to  
+| be included in an end-of-course assessment instrument administered  
+| under Section 39.023(c) to be used for purposes of Subchapter F-1,  
+| Chapter 51.  The questions adopted under this subsection must be  
+| developed in a manner consistent with any college readiness  
+| standards adopted under [ ~~Section 39.233 and~~ ] Subchapter F-1,  
+| Chapter 51.  
+|  SECTION 3. Section 41.002(a), Education Code, is amended to  
+| read as follows:  
+|  (a) A school district may not have a wealth per student that  
+| exceeds:  
+|  (1) the wealth per student that generates the amount  
+| of maintenance and operations tax revenue per weighted student  
+| available to a district with maintenance and operations tax revenue  
+| per cent of tax effort equal to the maximum amount provided per cent  
+| under Section 42.101(a) or (b), for the district's maintenance and  
+| operations tax effort equal to or less than the rate equal to the  
+| sum of the product of the state compression percentage, as  
+| determined under Section 42.2516, multiplied by the maintenance and  
+| operations tax rate adopted by the district for the 2005 tax year  
+| and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1);  
+|  (2) _the greater of_ the wealth per student that  
+| generates the amount of maintenance and operations tax revenue per  
+| weighted student available to the Austin Independent School  
+| District _or a district at the 95th percentile in wealth per student_ ,  
+| as determined by the commissioner in cooperation with the  
+| Legislative Budget Board, for the first six cents by which the  
+| district's maintenance and operations tax rate exceeds the rate  
+| equal to the sum of the product of the state compression percentage,  
+| as determined under Section 42.2516, multiplied by the maintenance  
+| and operations tax rate adopted by the district for the 2005 tax  
+| year and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1), subject  
+| to Section 41.093(b-1); or  
+|  (3) _the wealth per student specified under Subdivision_  
+| _(1)_ [ ~~$319,500~~ ], for the district's maintenance and operations tax  
+| effort that exceeds the amount of tax effort described by  
+| Subdivision (2).  
+|  SECTION 4. Effective September 1, 2020, Section 41.002(a),  
+| Education Code, is amended to read as follows:  
+|  (a) A school district may not have a wealth per student that  
+| exceeds:  
+|  (1) the wealth per student that generates the amount  
+| of maintenance and operations tax revenue per weighted student  
+| available to a district with maintenance and operations tax revenue  
+| per cent of tax effort equal to the maximum amount provided per cent  
+| under Section 42.101(a) _, (a-3),_ or (b), for the district's  
+| maintenance and operations tax effort equal to or less than the rate  
+| equal to the sum of the product of the state compression percentage,  
+| as determined under Section 42.2516, multiplied by the maintenance  
+| and operations tax rate adopted by the district for the 2005 tax  
+| year and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1);  
+|  (2) _the greater of_ the wealth per student that  
+| generates the amount of maintenance and operations tax revenue per  
+| weighted student available to the Austin Independent School  
+| District _or a district at the 95th percentile in wealth per student_ ,  
+| as determined by the commissioner in cooperation with the  
+| Legislative Budget Board, for the first six cents by which the  
+| district's maintenance and operations tax rate exceeds the rate  
+| equal to the sum of the product of the state compression percentage,  
+| as determined under Section 42.2516, multiplied by the maintenance  
+| and operations tax rate adopted by the district for the 2005 tax  
+| year and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1), subject  
+| to Section 41.093(b-1); or  
+|  (3) _the wealth per student specified under Subdivision_  
+| _(1)_ [ ~~$319,500~~ ], for the district's maintenance and operations tax  
+| effort that exceeds the amount of tax effort described by  
+| Subdivision (2).  
+|  SECTION 5. Section 41.093(b-1), Education Code, is amended  
+| to read as follows:  
+|  (b-1) If the guaranteed level of state and local funds per  
+| weighted student per cent of tax effort under Section  
+| 42.302(a-1)(1) for which state funds are appropriated for a school  
+| year is an amount at least equal to _the greater of_ the amount of  
+| revenue per weighted student per cent of tax effort available to the  
+| Austin Independent School District _or the amount available to a_  
+| _district at the 95th percentile in wealth per student_ , as  
+| determined by the commissioner in cooperation with the Legislative  
+| Budget Board, the commissioner, in computing the amounts described  
+| by Subsections (a)(1) and (2) and determining the cost of an  
+| attendance credit, shall exclude maintenance and operations tax  
+| revenue resulting from the tax rate described by Section  
+| 41.002(a)(2).  
+|  SECTION 6. Section 41.099(a), Education Code, is amended to  
+| read as follows:  
+|  (a) _Section_ [ ~~Sections 41.002(e),~~ ] 41.094 _applies_ [ ~~, 41.097,~~  
+|  ~~and 41.098 apply~~ ] only to a district that:  
+|  (1) executes an agreement to purchase all attendance  
+| credits necessary to reduce the district's wealth per student to  
+| the equalized wealth level;  
+|  (2) executes an agreement to purchase attendance  
+| credits and an agreement under Subchapter E to contract for the  
+| education of nonresident students who transfer to and are educated  
+| in the district but who are not charged tuition; or  
+|  (3) executes an agreement under Subchapter E to  
+| contract for the education of nonresident students:  
+|  (A) to an extent that does not provide more than  
+| 10 percent of the reduction in wealth per student required for the  
+| district to achieve a wealth per student that is equal to or less  
+| than the equalized wealth level; and  
+|  (B) under which all revenue paid by the district  
+| to other districts, in excess of the reduction in state aid that  
+| results from counting the weighted average daily attendance of the  
+| students served in the contracting district, is required to be used  
+| for funding a consortium of at least three districts in a county  
+| with a population of less than 40,000 that is formed to support a  
+| technology initiative.  
+|  SECTION 7. Subchapter A, Chapter 42, Education Code, is  
+| amended by adding Sections 42.010 and 42.011 to read as follows:  
+|  _Sec._ ___42.010._ _____COMPREHENSIVE REVIEW OF PUBLIC SCHOOL FINANCE_  
+| _WEIGHTS, ALLOTMENTS, AND ADJUSTMENTS. (a) The agency shall_  
+| _conduct a comprehensive review of weights, allotments, and_  
+| _adjustments under the public school finance system, including all_  
+| _current weights, allotments, and adjustments provided under this_  
+| _chapter and any additional weights, allotments, and adjustments_  
+| _that the agency determines may be appropriate._ ___The review must_  
+| _determine the effectiveness of existing weights, allotments, and_  
+| _adjustments in fulfilling the mission of the public education_  
+| _system stated in Section 4.001(a) and furthering the state policy_  
+| _stated in Section 42.001. At a minimum, the review must determine_  
+| _how closely and appropriately each of the following elements_  
+| _reflects and provides financing for costs beyond the control of_  
+| _school districts:_  
+|  _(1)_ _____adjustments for costs related to the geographic_  
+| _variation in known resource costs and costs of education,_  
+| _controlling for the impact of unequalized wealth and hold-harmless_  
+| _provisions, and properly reflecting the impact of high_  
+| _concentrations of poverty on the compensation that school districts_  
+| _must pay to attract and retain teachers of comparable or_  
+| _appropriate quality;_  
+|  _(2)_ _____adjustments for costs related to the size and_  
+| _diseconomies of scale of school districts;_  
+|  _(3)_ _____adjustments for costs related to the varying_  
+| _instructional needs and characteristics of students and the extent_  
+| _to which the adjustments provide each student with access to_  
+| _programs and services that are appropriate to the student's_  
+| _educational needs;_  
+|  _(4)_ _____other factors, in addition to economic status,_  
+| _that correlate to student at-risk status and the need for_  
+| _compensatory education, and the degree to which those factors_  
+| _correspond to additional educational costs; and_  
+|  _(5)_ _____the manner in which the cost adjustments are_  
+| _applied to and affect the overall school finance system._  
+|  _(b)_ _____The review of the adjustments described in Subsection_  
+| _(a)(1) must:_  
+|  _(1)_ _____address all uncontrollable costs that can_  
+| _reasonably be quantified;_  
+|  _(2)_ _____consider the qualifications, experience, and_  
+| _turnover rate of personnel and the impact of those factors on_  
+| _student achievement in considering the adequacy and comparability_  
+| _of salaries;_  
+|  _(3)_ _____properly address the impact of factors that have a_  
+| _large impact on certain types of school districts, such as extreme_  
+| _isolation, regardless of general state impact;_  
+|  _(4)_ _____include only factors for which a rational economic_  
+| _argument can be made;_  
+|  _(5)_ _____be carefully constructed to make sure that a cost_  
+| _factor does not significantly affect more than one variable; and_  
+|  _(6)_ _____not be artificially adjusted to meet predetermined_  
+| _outcomes and must not use arbitrary limits._  
+|  _(c)_ _____In determining whether any additional weights,_  
+| _allotments, and adjustments are appropriate under the public school_  
+| _finance system, as required by Subsection (a), the agency shall_  
+| _include consideration of an additional weight for educational_  
+| _services provided to students in prekindergarten on a half-day_  
+| _basis and on a full-day basis._  
+|  _(d)_ _____The agency may contract with one or more consultants if_  
+| _necessary to enable the agency to perform its duties under this_  
+| _section._  
+|  _(e)_ _____The Legislative Budget Board, the comptroller, the_  
+| _state auditor, and any other state agency, official, or personnel_  
+| _shall cooperate with the agency in carrying out its duties under_  
+| _this section._  
+|  _(f)_ _____Not later than December 1, 2020, the agency shall_  
+| _provide a report that:_  
+|  _(1)_ _____states the findings of the review conducted under_  
+| _this section; and_  
+|  _(2)_ _____includes recommendations for updated weights,_  
+| _allotments, and adjustments and any other statutory changes_  
+| _considered appropriate by the agency._  
+|  _(g) This section expires January 1, 2021._  
+|  _Sec._ ___42.011._ _____STUDY OF LEGISLATION ON SCHOOL FUNDING. (a)_  
+| _After each legislative session, the commissioner shall conduct a_  
+| _study assessing the manner in which any statute enacted or amended_  
+| _during that legislative session affects the equalized wealth level_  
+| _of a school district under Chapter 41 or the foundation school_  
+| _program under this chapter and whether the standard of neutrality_  
+| _described under Section 42.001(b) is maintained._  
+|  _(b) The study under this section must:_  
+|  _(1)_ _____include an analysis of the effects of legislation_  
+| _on each school district in the state; and_  
+|  _(2)_ _____indicate how a school district compares to other_  
+| _districts with respect to:_  
+|  _(A) property wealth per weighted student;_  
+|  _(B) revenue per weighted student;_  
+|  _(C) tax effort; and_  
+|  _(D) revenue per cent of tax effort._  
+|  _(c)_ _____The commissioner shall issue a report on the study's_  
+| _findings to the governor, the lieutenant governor, the speaker of_  
+| _the house of representatives, and the legislature._ ___The_  
+| _commissioner shall make the report available to the public on the_  
+| _agency's Internet website._  
+|  SECTION 8. Section 42.101(a), Education Code, is amended to  
+| read as follows:  
+|  (a) For each student in average daily attendance, not  
+| including the time students spend each day in special education  
+| programs in an instructional arrangement other than mainstream or  
+| career and technology education programs, for which an additional  
+| allotment is made under Subchapter C, a district is entitled to an  
+| allotment equal to the lesser of _$5,440_ [ ~~$4,765~~ ] or the amount that  
+| results from the following formula:  
+| A = _$5,440_ [ ~~$4,765~~ ] X (DCR/MCR)  
+| where:  
+|  "A" is the allotment to which a district is entitled;  
+|  "DCR" is the district's compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by the maintenance and operations tax  
+| rate adopted by the district for the 2005 tax year; and  
+|  "MCR" is the state maximum compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by $1.50.  
+|  SECTION 9. Effective September 1, 2020, Section 42.101,  
+| Education Code, is amended by amending Subsection (a) and adding  
+| Subsection (a-3) to read as follows:  
+|  (a) _Subject to adjustment under Subsection (a-3), for_ [ ~~For~~ ]  
+| each student in average daily attendance, not including the time  
+| students spend each day in special education programs in an  
+| instructional arrangement other than mainstream or career and  
+| technology education programs, for which an additional allotment is  
+| made under Subchapter C, a district is entitled to an allotment  
+| equal to the lesser of _$5,840_ [ ~~$4,765~~ ] or the amount that results  
+| from the following formula:  
+| A = _$5,840_ [ ~~$4,765~~ ] X (DCR/MCR)  
+| where:  
+|  "A" is the allotment to which a district is entitled;  
+|  "DCR" is the district's compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by the maintenance and operations tax  
+| rate adopted by the district for the 2005 tax year; and  
+|  "MCR" is the state maximum compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by $1.50.  
+|  _(a-3)_ _____Beginning with the 2021-2022 school year, the basic_  
+| _allotment provided to a district under Subsection (a) or (b) is_  
+| _adjusted annually to increase the allotment by the greater of:_  
+|  _(1)_ _____one percent of the amount of the allotment for the_  
+| _preceding school year; or_  
+|  _(2)_ _____the amount that results from applying the_  
+| _inflation rate, as determined by the comptroller on the basis of_  
+| _changes in the Consumer Price Index for All Urban Consumers_  
+| _published by the Bureau of Labor Statistics of the United States_  
+| _Department of Labor, to the allotment for the preceding school_  
+| _year._  
+|  SECTION 10. Sections 42.152(a) and (c), Education Code, are  
+| amended to read as follows:  
+|  (a) For each student who is educationally disadvantaged or  
+| who is a student who does not have a disability and resides in a  
+| residential placement facility in a district in which the student's  
+| parent or legal guardian does not reside, a district is entitled to  
+| an annual allotment equal to the adjusted basic allotment  
+| multiplied by _0.25_ [ ~~0.2~~ ], and by 2.41 for each full-time equivalent  
+| student who is in a _compensatory, intensive, or accelerated_  
+| [ ~~remedial and support~~ ] program under Section 29.081 because the  
+| student is pregnant.  
+|  (c) Funds allocated under this section shall be used to fund  
+| supplemental programs and services designed to eliminate any  
+| disparity in performance on assessment instruments administered  
+| under Subchapter B, Chapter 39, or disparity in the rates of high  
+| school completion between students at risk of dropping out of  
+| school, as defined by Section 29.081, and all other students.  
+| Specifically, the funds, other than an indirect cost allotment  
+| established under State Board of Education rule, which may not  
+| exceed _25_ [ ~~45~~ ] percent, may be used to meet the costs of providing a  
+| compensatory, intensive, or accelerated instruction program under  
+| Section 29.081 or a disciplinary alternative education program  
+| established under Section 37.008, to pay the costs associated with  
+| placing students in a juvenile justice alternative education  
+| program established under Section 37.011, or to support a program  
+| eligible under Title I of the Elementary and Secondary Education  
+| Act of 1965, as provided by Pub. L. No. 103-382 and its subsequent  
+| amendments, and by federal regulations implementing that Act, at a  
+| campus at which at least 40 percent of the students are  
+| educationally disadvantaged.  In meeting the costs of providing a  
+| compensatory, intensive, or accelerated instruction program under  
+| Section 29.081, a district's compensatory education allotment  
+| shall be used for costs supplementary to the regular education  
+| program, such as costs for program and student evaluation,  
+| instructional materials and equipment and other supplies required  
+| for quality instruction, supplemental staff expenses, salary for  
+| teachers of at-risk students, smaller class size, and  
+| individualized instruction.  A home-rule school district or an  
+| open-enrollment charter school must use funds allocated under  
+| Subsection (a) for a purpose authorized in this subsection but is  
+| not otherwise subject to Subchapter C, Chapter 29.  For purposes of  
+| this subsection, a program specifically designed to serve students  
+| at risk of dropping out of school, as defined by Section 29.081, is  
+| considered to be a program supplemental to the regular education  
+| program, and a district may use its compensatory education  
+| allotment for such a program.  
+|  SECTION 11. Sections 42.153(a) and (b), Education Code, are  
+| amended to read as follows:  
+|  (a) For each student in average daily attendance in a  
+| bilingual education or special language program under Subchapter B,  
+| Chapter 29, a district is entitled to an annual allotment equal to  
+| the adjusted basic allotment multiplied by _0.25_ [ ~~0.1~~ ].  
+|  (b) Funds allocated under this section, other than an  
+| indirect cost allotment established under State Board of Education  
+| rule, _which may not exceed 25 percent,_ must be used in providing  
+| bilingual education or special language programs under Subchapter  
+| B, Chapter 29, and must be accounted for under existing agency  
+| reporting and auditing procedures.  
+|  SECTION 12. Section 42.251(b), Education Code, is amended  
+| to read as follows:  
+|  (b) The program shall be financed by:  
+|  (1) ad valorem tax revenue generated by an equalized  
+| uniform school district effort;  
+|  (2) ad valorem tax revenue generated by local school  
+| district effort in excess of the equalized uniform school district  
+| effort; _and_  
+|  (3) [ ~~state available school funds distributed in~~  
+|  ~~accordance with law; and~~  
+|  [ ~~(4)~~ ] state funds appropriated for the purposes of  
+| public school education and allocated to each district in an amount  
+| sufficient to finance the cost of each district's Foundation School  
+| Program not covered by other funds specified in this subsection.  
+|  SECTION 13. Sections 42.253(a) and (c), Education Code, are  
+| amended to read as follows:  
+|  (a) For each school year the commissioner shall determine:  
+|  (1) the amount of money to which a school district is  
+| entitled under Subchapters B and C;  
+|  (2) the amount of money to which a school district is  
+| entitled under Subchapter F;  
+|  (3) [ ~~the amount of money allocated to the district~~  
+|  ~~from the available school fund;~~  
+|  [ ~~(4)~~ ] the amount of each district's tier one local  
+| share under Section 42.252; and  
+|  _(4)_ [ ~~(5)~~ ] the amount of each district's tier two local  
+| share under Section 42.302.  
+|  (c) Each school district is entitled to an amount equal to  
+| the difference for that district between the sum of Subsections  
+| (a)(1) and (a)(2) and the sum of Subsections (a)(3) _and_ [ ~~,~~ ] (a)(4)[
+~~,~~  
+|  ~~and (a)(5)~~ ].  
+|  SECTION 14. Sections 42.302(a) and (a-1), Education Code,  
+| are amended to read as follows:  
+|  (a) Each school district is guaranteed a specified amount  
+| per weighted student in state and local funds for each cent of tax  
+| effort over that required for the district's local fund assignment  
+| up to the maximum level specified in this subchapter. The amount  
+| of state support, subject only to the maximum amount under Section  
+| 42.303, is determined by the formula:  
+| GYA = (GL X WADA X DTR X 100) - LR  
+| where:  
+|  "GYA" is the guaranteed yield amount of state funds to be  
+| allocated to the district;  
+|  "GL" is the dollar amount guaranteed level of state and local  
+| funds per weighted student per cent of tax effort, which is an  
+| amount described by Subsection (a-1) or a greater amount for any  
+| year provided by appropriation;  
+|  "WADA" is the number of students in weighted average daily  
+| attendance, which is calculated by dividing the sum of the school  
+| district's allotments under Subchapters B and C, less any allotment  
+| to the district for transportation, any allotment under Section  
+| 42.158 [ ~~or 42.160~~ ], and 50 percent of the adjustment under Section  
+| 42.102, by the basic allotment for the applicable year;  
+|  "DTR" is the district enrichment tax rate of the school  
+| district, which is determined by subtracting the amounts specified  
+| by Subsection (b) from the total amount of maintenance and  
+| operations taxes collected by the school district for the  
+| applicable school year and dividing the difference by the quotient  
+| of the district's taxable value of property as determined under  
+| Subchapter M, Chapter 403, Government Code, or, if applicable,  
+| under Section 42.2521, divided by 100; and  
+|  "LR" is the local revenue, which is determined by multiplying  
+| "DTR" by the quotient of the district's taxable value of property as  
+| determined under Subchapter M, Chapter 403, Government Code, or, if  
+| applicable, under Section 42.2521, divided by 100.  
+|  (a-1) For purposes of Subsection (a), the dollar amount  
+| guaranteed level of state and local funds per weighted student per  
+| cent of tax effort ("GL") for a school district is:  
+|  (1) the greater of the amount of district tax revenue  
+| per weighted student per cent of tax effort that would be available  
+| to the Austin Independent School District _or the amount that would_  
+| _be available to a district at the 95th percentile in wealth per_  
+| _student_ , as determined by the commissioner in cooperation with the  
+| Legislative Budget Board, if the reduction of the limitation on tax  
+| increases as provided by Section 11.26(a-1), (a-2), or (a-3), Tax  
+| Code, did not apply, [ ~~or the amount of district tax revenue per~~  
+|  ~~weighted student per cent of tax effort used for purposes of this~~  
+|  ~~subdivision in the preceding school year,~~ ] for the first six cents  
+| by which the district's maintenance and operations tax rate exceeds  
+| the rate equal to the sum of the product of the state compression  
+| percentage, as determined under Section 42.2516, multiplied by the  
+| maintenance and operations tax rate adopted by the district for the  
+| 2005 tax year and any additional tax effort included in calculating  
+| the district's compressed tax rate under Section 42.101(a-1); and  
+|  (2) _the amount of district tax revenue per weighted_  
+| _student per cent of tax effort available to a district with_  
+| _maintenance and operations tax revenue per cent of tax effort equal_  
+| _to the maximum amount provided per cent under Section 42.101(a) or_  
+| _(b)_ [ ~~$31.95~~ ], for the district's maintenance and operations tax  
+| effort that exceeds the amount of tax effort described by  
+| Subdivision (1).  
+|  SECTION 15. Effective September 1, 2020, Section  
+| 42.302(a-1), Education Code, is amended to read as follows:  
+|  (a-1) For purposes of Subsection (a), the dollar amount  
+| guaranteed level of state and local funds per weighted student per  
+| cent of tax effort ("GL") for a school district is:  
+|  (1) the greater of the amount of district tax revenue  
+| per weighted student per cent of tax effort that would be available  
+| to the Austin Independent School District _or the amount that would_  
+| _be available to a district at the 95th percentile in wealth per_  
+| _student_ , as determined by the commissioner in cooperation with the  
+| Legislative Budget Board, if the reduction of the limitation on tax  
+| increases as provided by Section 11.26(a-1), (a-2), or (a-3), Tax  
+| Code, did not apply, [ ~~or the amount of district tax revenue per~~  
+|  ~~weighted student per cent of tax effort used for purposes of this~~  
+|  ~~subdivision in the preceding school year,~~ ] for the first six cents  
+| by which the district's maintenance and operations tax rate exceeds  
+| the rate equal to the sum of the product of the state compression  
+| percentage, as determined under Section 42.2516, multiplied by the  
+| maintenance and operations tax rate adopted by the district for the  
+| 2005 tax year and any additional tax effort included in calculating  
+| the district's compressed tax rate under Section 42.101(a-1); and  
+|  (2) _the amount of district tax revenue per weighted_  
+| _student per cent of tax effort available to a district with_  
+| _maintenance and operations tax revenue per cent of tax effort equal_  
+| _to the maximum amount provided per cent under Section 42.101(a),_  
+| _(a-3), or (b)_ [ ~~$31.95~~ ], for the district's maintenance and  
+| operations tax effort that exceeds the amount of tax effort  
+| described by Subdivision (1).  
+|  SECTION 16. Section 43.001, Education Code, is amended by  
+| amending Subsection (c) and adding Subsection (c-1) to read as  
+| follows:  
+|  (c) The term "scholastic population" in Subsection (b) or  
+| any other law governing the apportionment, distribution, and  
+| transfer of the available school fund means all students of school  
+| age enrolled in _weighted_ average daily attendance the preceding  
+| school year in the public elementary and high school grades of  
+| school districts within or under the jurisdiction of a county of  
+| this state.  
+|  _(c-1)_ _____The amount provided to a school district as a result_  
+| _of the annual apportionment of the available school fund in_  
+| _accordance with Subsection (b) is in addition to amounts to which_  
+| _the district is entitled under Chapter 42._  
+|  SECTION 17. Section 45.259(d), Education Code, is amended  
+| to read as follows:  
+|  (d) If money appropriated for the Foundation School Program  
+| is used for purposes of this subchapter and as a result there is  
+| insufficient money to fully fund the Foundation School Program, the  
+| commissioner shall, to the extent necessary, reduce each school  
+| district's foundation school fund allocations[ ~~, other than any~~  
+|  ~~portion appropriated from the available school fund,~~ ] in the same  
+| manner provided by Section 42.253(h) for a case in which school  
+| district entitlements exceed the amount appropriated. The  
+| following fiscal year, a district's entitlement under Section  
+| 42.253 is increased by an amount equal to the reduction under this  
+| subsection.  
+|  SECTION 18. The following provisions of the Education Code  
+| are repealed:  
+|  (1) Section 29.097(g);  
+|  (2) Section 29.098(e);  
+|  (3) Subchapter G, Chapter 29;  
+|  (4) Section 39.233;  
+|  (5) Section 39.234;  
+|  (6) Sections 41.002(e), (f), and (g);  
+|  (7) Section 41.097;  
+|  (8) Section 41.098;  
+|  (9) Section 42.157;  
+|  (10) Section 42.160; and  
+|  (11) Section 42.4101.  
+|  SECTION 19. Except as otherwise provided by this Act, this  
+| Act takes effect September 1, 2019.
+

@@ -1,0 +1,40 @@
+| 86R4748 ADM-F  
+---|---  
+|  By: Miller | H.B. No. 530  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an application for a ballot to be voted by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 86.0015(b) and (b-2), Election Code,  
+| are amended to read as follows:  
+|  (b) An application described by Subsection (a) is  
+| considered to be an application for a ballot for each election,  
+| including any ensuing runoff:  
+|  (1) in which the applicant is eligible to vote; and  
+|  (2) that occurs before the earlier of:  
+|  (A) except as provided by Subsection (b-2),  
+| _January 1 of_ the _first odd-numbered year after_ [ ~~end of~~ ] the
+calendar  
+| year in which the application was submitted;  
+|  (B) the date the county clerk receives notice  
+| from the voter registrar under Subsection (f) that the voter has  
+| changed residence to another county; or  
+|  (C) the date the voter's registration is  
+| canceled.  
+|  (b-2) An application is considered to be submitted in the  
+| following calendar year for purposes of this section if:  
+|  (1) the applicant is eligible to vote in an election  
+| occurring in January or February of the next calendar year; and  
+|  (2) the application is submitted in the last 60 days of  
+| _an even-numbered_ [ ~~a~~ ] calendar year but not earlier than the 60th day  
+| before the date of the January or February election.  
+|  SECTION 2. The change in law made by this Act applies only  
+| to an application for a ballot to be voted by mail received on or  
+| after January 1, 2019.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

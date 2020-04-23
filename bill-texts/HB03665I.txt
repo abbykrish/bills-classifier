@@ -1,0 +1,367 @@
+| 86R13950 JXC-D  
+---|---  
+|  By: Toth | H.B. No. 3665  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the elimination of regular mandatory vehicle safety  
+| inspections for noncommercial vehicles and the imposition of  
+| replacement fees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 382.0622(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) Clean Air Act fees consist of:  
+|  (1) fees collected by the commission under Sections  
+| 382.062, 382.0621, 382.202, and 382.302 and as otherwise provided  
+| by law;  
+|  (2) _the amount described by Section 548.510(c)(3)_ [ ~~$2~~  
+|  ~~from the portion of each fee collected for inspections of vehicles~~  
+|  ~~other than mopeds and remitted to the state under Sections 548.501~~  
+|  ~~and 548.503~~ ], Transportation Code; and  
+|  (3) fees collected that are required under Section 185  
+| of the federal Clean Air Act (42 U.S.C. Section 7511d).  
+|  SECTION 2. Section 382.202, Health and Safety Code, is  
+| amended by amending Subsection (d) and adding Subsection (e-1) to  
+| read as follows:  
+|  (d) On adoption of a resolution by the commission and after  
+| proper notice, the Department of Public Safety of the State of Texas  
+| shall implement a system that requires, [ ~~as a condition of~~  
+|  ~~obtaining a passing vehicle inspection report issued under~~  
+|  ~~Subchapter C, Chapter 548, Transportation Code,~~ ] in a county that  
+| is included in a vehicle emissions inspection and maintenance  
+| program under Subchapter F _, Chapter 548, Transportation Code_ [ ~~of~~  
+|  ~~that chapter~~ ], that _a motor vehicle registered in this state_ [
+~~the~~  
+|  ~~vehicle~~ ], unless the vehicle is not covered by the system, be  
+| annually or biennially inspected under the vehicle emissions  
+| inspection and maintenance program as required by the state's air  
+| quality state implementation plan. The Department of Public Safety  
+| shall implement such a system when it is required by any provision  
+| of federal or state law, including any provision of the state's air  
+| quality state implementation plan.  
+|  _(e-1)_ _____The portion of a fee imposed under Subsection (e) that_  
+| _is not authorized to be retained by an inspection station must be_  
+| _collected as provided by Section 548.509, Transportation Code._  
+|  SECTION 3. Section 382.203(c), Health and Safety Code, is  
+| amended to read as follows:  
+|  (c) The Department of Public Safety of the State of Texas by  
+| rule may waive program requirements, in accordance with standards  
+| adopted by the commission, for certain vehicles and vehicle owners,  
+| including:  
+|  (1) the registered owner of a vehicle who cannot  
+| afford to comply with the program, based on reasonable income  
+| standards;  
+|  (2) a vehicle that cannot be brought into compliance  
+| with emissions standards by performing repairs;  
+|  (3) a vehicle:  
+|  (A) on which at least $100 has been spent to bring  
+| the vehicle into compliance; and  
+|  (B) that the department[ ~~:~~  
+|  [ ~~(i)~~ ] can verify _is driven an average of_  
+| _less than 5,000 miles each year_ [ ~~was driven fewer than 5,000 miles~~  
+|  ~~since the last safety inspection; and~~  
+|  [ ~~(ii)~~ ~~~~ ~~~~ ~~reasonably determines will be driven~~  
+|  ~~fewer than 5,000 miles during the period before the next safety~~  
+|  ~~inspection is required~~ ]; and  
+|  (4) a vehicle for which parts are not readily  
+| available.  
+|  SECTION 4. Section 502.047(a), Transportation Code, is  
+| amended to read as follows:  
+|  (a) Except as provided by Chapter 548, the department and  
+| the Department of Public Safety shall ensure compliance with [ ~~the~~ ]  
+| motor vehicle inspection requirements under Chapter 548[ ~~,~~  
+|  ~~including compliance with the motor vehicle emissions inspection~~  
+|  ~~and maintenance program under Subchapter F of that chapter,~~ ]  
+| through a vehicle registration-based enforcement system.  
+|  SECTION 5. Section 502.092(c), Transportation Code, is  
+| amended to read as follows:  
+|  (c) A person may obtain a permit under this section by:  
+|  (1) applying to the department in a manner prescribed  
+| by the department;  
+|  (2) paying a fee equal to 1/12 the registration fee  
+| prescribed by this chapter for the vehicle;  
+|  (3) furnishing satisfactory evidence that the motor  
+| vehicle is insured under an insurance policy that complies with  
+| Section 601.072 and that is written by:  
+|  (A) an insurance company or surety company  
+| authorized to write motor vehicle liability insurance in this  
+| state; or  
+|  (B) with the department's approval, a surplus  
+| lines insurer that meets the requirements of Chapter 981, Insurance  
+| Code, and rules adopted by the commissioner of insurance under that  
+| chapter, if the applicant is unable to obtain insurance from an  
+| insurer described by Paragraph (A); and  
+|  (4) furnishing evidence that the vehicle has been  
+| inspected _if_ [ ~~as~~ ] required under Chapter 548.  
+|  SECTION 6. Section 502.094(e), Transportation Code, is  
+| amended to read as follows:  
+|  (e) A vehicle issued a permit under this section is subject  
+| to [ ~~Subchapters B and F,~~ ] Chapter 548, unless the vehicle:  
+|  (1) is registered in another state of the United  
+| States, in a province of Canada, or in a state of the United Mexican  
+| States; or  
+|  (2) is mobile drilling or servicing equipment used in  
+| the production of gas, crude petroleum, or oil, including a mobile  
+| crane or hoisting equipment, mobile lift equipment, forklift, or  
+| tug.  
+|  SECTION 7. Section 502.146(d), Transportation Code, is  
+| amended to read as follows:  
+|  (d) A vehicle described by Subsection (b) is exempt from the  
+| inspection requirements of _Subchapter_ [ ~~Subchapters B and~~ ] F,  
+| Chapter 548.  
+|  SECTION 8. Section 547.601, Transportation Code, is amended  
+| to read as follows:  
+|  Sec. 547.601. SAFETY BELTS REQUIRED. A motor vehicle  
+| [ ~~required by Chapter 548 to be inspected~~ ] shall be equipped with  
+| front safety belts if safety belt anchorages were part of the  
+| manufacturer's original equipment on the vehicle.  
+|  SECTION 9. The heading to Chapter 548, Transportation Code,  
+| is amended to read as follows:  
+| CHAPTER 548.  [ ~~COMPULSORY~~ ] INSPECTION OF VEHICLES  
+|  SECTION 10. Section 548.001(10), Transportation Code, is  
+| amended to read as follows:  
+|  (10) "Vehicle inspection report" means a report issued  
+| by an inspector or an inspection station for a vehicle that  
+| indicates whether the vehicle has passed _an inspection_ [ ~~the safety~~  
+|  ~~and, if applicable, emissions inspections~~ ] required by this  
+| chapter.  
+|  SECTION 11. Section 548.006(b), Transportation Code, is  
+| amended to read as follows:  
+|  (b) The members of the commission shall appoint seven  
+| members of the committee as follows:  
+|  (1) four persons to represent inspection station  
+| owners and operators[ ~~, with two of those persons from counties~~  
+|  ~~conducting vehicle emissions testing under Subchapter F and two of~~  
+|  ~~those persons from counties conducting safety only inspections~~ ];  
+|  (2) one person to represent manufacturers of motor  
+| vehicle emissions inspection devices;  
+|  (3) one person to represent independent vehicle  
+| equipment repair technicians; and  
+|  (4) one person to represent the public interest.  
+|  SECTION 12. Section 548.053, Transportation Code, is  
+| transferred to Subchapter E, Chapter 548, Transportation Code,  
+| redesignated as Section 548.255, Transportation Code, and amended  
+| to read as follows:  
+|  Sec. _548.255_ [ ~~548.053~~ ]. REINSPECTION OF VEHICLE REQUIRING  
+| ADJUSTMENT, CORRECTION, OR REPAIR. [ ~~(a)~~ ]  If an inspection  
+| discloses the necessity for adjustment, correction, or repair, an  
+| inspection station or inspector may not issue a passing vehicle  
+| inspection report until the adjustment, correction, or repair is  
+| made. The owner of the vehicle may have the adjustment, correction,  
+| or repair made by a qualified person of the owner's choice, subject  
+| to reinspection. The vehicle shall be reinspected once free of  
+| charge within 15 days after the date of the original inspection, not  
+| including the date the original inspection is made, at the same  
+| inspection station after the adjustment, correction, or repair is  
+| made.  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~A vehicle that is inspected and is subsequently~~  
+|  ~~involved in an accident affecting the safe operation of an item of~~  
+|  ~~inspection must be reinspected following repair. The reinspection~~  
+|  ~~must be at an inspection station and shall be treated and charged as~~  
+|  ~~an initial inspection.~~ ]  
+|  SECTION 13. Section 548.105, Transportation Code, is  
+| transferred to Subchapter E, Chapter 548, Transportation Code, and  
+| redesignated as Section 548.2521, Transportation Code, to read as  
+| follows:  
+|  Sec. _548.2521_ [ ~~548.105~~ ]. EVIDENCE OF FINANCIAL  
+| RESPONSIBILITY AS PREREQUISITE TO ISSUANCE OF PASSING VEHICLE  
+| INSPECTION REPORT. (a) An inspection station or inspector may not  
+| issue a passing vehicle inspection report for a vehicle unless the  
+| owner or operator furnishes evidence of financial responsibility at  
+| the time of inspection. Evidence of financial responsibility may  
+| be shown in the manner specified under Section 601.053(a). A  
+| personal automobile insurance policy used as evidence of financial  
+| responsibility must be written for a term of 30 days or more as  
+| required by Section 1952.054, Insurance Code.  
+|  (b) An inspection station is not liable to a person,  
+| including a third party, for issuing a passing vehicle inspection  
+| report in reliance on evidence of financial responsibility  
+| furnished to the station. An inspection station that is the seller  
+| of a motor vehicle may rely on an oral insurance binder.  
+|  SECTION 14. Sections 548.203(a) and (b), Transportation  
+| Code, are amended to read as follows:  
+|  (a) The commission by rule may exempt a type of commercial  
+| motor vehicle from the application of this subchapter if the  
+| vehicle:  
+|  (1) was manufactured before September 1, 1995;  
+|  (2) is operated only temporarily on a highway of this  
+| state and at a speed of less than 30 miles per hour; and  
+|  (3) complies with [ ~~Section 548.051 and~~ ] each  
+| applicable provision in Title 49, Code of Federal Regulations.  
+|  (b) _A_ [ ~~Notwithstanding Subchapter B, a~~ ] commercial motor  
+| vehicle is not subject to the inspection requirements of this  
+| chapter if the vehicle:  
+|  (1) is not domiciled in this state;  
+|  (2) is registered in this state or under the  
+| International Registration Plan as authorized by Section 502.091;  
+| and  
+|  (3) has been issued a certificate of inspection in  
+| compliance with federal motor carrier safety regulations.  
+|  SECTION 15. Subchapter E, Chapter 548, Transportation Code,  
+| is amended by adding Section 548.257 to read as follows:  
+|  _Sec._ ___548.257._ _____TIMING OF INSPECTION FOR REGISTRATION-BASED_  
+| _ENFORCEMENT._ ___The department shall require a vehicle required to be_  
+| _inspected under this chapter to pass the required inspection:_  
+|  _(1)_ _____for initial registration, not earlier than 90 days_  
+| _before the date of registration;_  
+|  _(2)_ _____for a renewal of registration, not earlier than 90_  
+| _days before the date of expiration of the vehicle's registration;_  
+|  _(3)_ _____if the vehicle is a used motor vehicle sold by a_  
+| _dealer, as defined by Section 503.001, in the 180 days preceding the_  
+| _date the dealer sells the vehicle; or_  
+|  _(4)_ _____if the vehicle is subject to the federal motor_  
+| _carrier safety regulations, in a period that complies with those_  
+| _regulations._  
+|  SECTION 16. Section 548.505(a), Transportation Code, is  
+| amended to read as follows:  
+|  (a) The department by rule may impose an inspection fee for  
+| a vehicle inspected under Section 548.301(a) in addition to _a fee_  
+| _adopted under Section 382.202, Health and Safety Code_ [ ~~the fee~~  
+|  ~~provided by Section 548.501, 548.502, 548.503, or 548.504~~ ]. A fee  
+| imposed under this subsection must be based on the costs of:  
+|  (1) providing inspections; and  
+|  (2) administering the program.  
+|  SECTION 17. Section 548.508, Transportation Code, is  
+| amended to read as follows:  
+|  Sec. 548.508. DISPOSITION OF FEES _TO TEXAS MOBILITY FUND_.  
+| Except as provided by Sections 382.0622 and 382.202, Health and  
+| Safety Code, and _Sections_ [ ~~Section~~ ] 548.5055 _and 548.510_ , each
+fee  
+| remitted to the comptroller under this subchapter shall be  
+| deposited to the credit of the Texas mobility fund.  
+|  SECTION 18. Section 548.509, Transportation Code, is  
+| amended to read as follows:  
+|  Sec. 548.509. COLLECTION OF FEE DURING REGISTRATION. _(a)_  
+| The Texas Department of Motor Vehicles or a county  
+| assessor-collector that registers a motor vehicle that is subject  
+| to an inspection fee under this chapter _or Section 382.202, Health_  
+| _and Safety Code, or a replacement fee under Section 548.510_ shall  
+| collect at the time of registration of the motor vehicle the portion  
+| of the inspection fee that is required to be remitted to the state.  
+|  _(b)_ The Texas Department of Motor Vehicles or the county  
+| assessor-collector shall remit the fee to the comptroller.  
+|  SECTION 19. Section 548.510, Transportation Code, is  
+| amended to read as follows:  
+|  Sec. 548.510. _INSPECTION PROGRAM REPLACEMENT_ FEE [ ~~FOR~~  
+|  ~~CERTAIN VEHICLES NOT SUBJECT TO INSPECTION; COLLECTION OF FEE~~  
+|  ~~DURING REGISTRATION~~ ]. (a)  _In addition to other fees imposed at the_  
+| _time of registration, at the time of application for initial_  
+| _registration or renewal of registration of a motor vehicle,_  
+| _trailer, semitrailer, pole trailer, or mobile home, the applicant_  
+| _shall pay an annual fee of $7.50._  
+|  _(b)_ _____Instead of the fee provided by Subsection (a), an_  
+| _applicant shall pay a one-time fee of $9.25 if the application is_  
+| _for the initial registration of a passenger car or light truck that:_  
+|  _(1)_ _____is sold in this state or purchased by a commercial_  
+| _fleet buyer described by Section 501.0234(b)(4) for use in this_  
+| _state;_  
+|  _(2)_ _____has not been previously registered in this or_  
+| _another state; and_  
+|  _(3)_ _____on the date of sale is of the current model year or_  
+| _preceding model year._  
+|  _(c)_ [ ~~A vehicle described by Section 548.052(3) that has an~~  
+|  ~~actual gross weight or registered gross weight of more than 4,500~~  
+|  ~~pounds is subject to a fee in the amount of $7.50.~~  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~The Texas Department of Motor Vehicles or a county~~  
+|  ~~assessor-collector that registers a vehicle described by~~  
+|  ~~Subsection (a) shall collect at the time of registration of the~~  
+|  ~~vehicle the fee prescribed by Subsection (a). The Texas Department~~  
+|  ~~of Motor Vehicles or the county assessor-collector, as applicable,~~  
+|  ~~shall remit the fee to the comptroller.~~ ]  Each fee remitted to the  
+| comptroller under _Subsection (a)_ [ ~~this section~~ ] shall be deposited  
+| as follows:  
+|  (1) $3.50 to the credit of the Texas mobility fund;  
+|  (2) $2 to the credit of the general revenue fund; and  
+|  (3) $2 to the credit of the clean air account.  
+|  _(d)_ _____Each fee remitted to the comptroller under Subsection_  
+| _(b) shall be deposited to the credit of the Texas mobility fund._  
+|  _(e) A_ [ ~~(c) The~~ ] fee collected under _this section_  
+| [ ~~Subsection (a)~~ ] is not a motor vehicle registration fee and the  
+| revenue collected from the fee is not required to be used for a  
+| purpose specified by Section 7-a, Article VIII, Texas Constitution.  
+|  SECTION 20. Subchapter H, Chapter 548, Transportation Code,  
+| is amended by adding Section 548.511 to read as follows:  
+|  _Sec._ ___548.511._ _____VEHICLES NOT SUBJECT TO INSPECTION PROGRAM_  
+| _REPLACEMENT FEE. Section 548.510 does not apply to:_  
+|  _(1)_ _____a vehicle that is being registered under the_  
+| _International Registration Plan as authorized by Section 502.091;_  
+|  _(2)_ _____a token trailer that is being registered under_  
+| _Section 502.255, including a token trailer that is being registered_  
+| _for an extended period under Section 502.0023;_  
+|  _(3)_ _____a vehicle that is issued a permit under Section_  
+| _502.094 and is described by Section 502.094(e)(1) or (2);_  
+|  _(4)_ _____a former military vehicle that is issued a_  
+| _specialty license plate under Section 504.502;_  
+|  _(5)_ _____a log loader vehicle that is issued a specialty_  
+| _license plate under Section 504.506;_  
+|  _(6)_ _____farm machinery, road-building equipment, a farm_  
+| _trailer, or a vehicle required to display a slow-moving-vehicle_  
+| _emblem under Section 547.703;_  
+|  _(7)_ _____a commercial motor vehicle that is required to be_  
+| _inspected under Subchapter D or that is subject to fees under_  
+| _Section 548.203(c);_  
+|  _(8)_ _____a vehicle that is being registered under Section_  
+| _548.256(b);_  
+|  _(9)_ _____a neighborhood electric vehicle, as defined by_  
+| _Section 551.301;_  
+|  _(10)_ _____a trailer, semitrailer, pole trailer, or mobile_  
+| _home that:_  
+|  _(A)_ _____has an actual gross weight or registered_  
+| _gross weight of 4,500 pounds or less; or_  
+|  _(B)_ _____will move under or bear a factory-delivery_  
+| _license plate or in-transit license plate;_  
+|  _(11)_ _____a vehicle that will move under or bear a paper_  
+| _dealer in-transit tag, machinery license, disaster license, parade_  
+| _license, prorate tab, one-trip permit, vehicle temporary transit_  
+| _permit, antique license, custom vehicle license, street rod_  
+| _license, temporary 24-hour permit, or permit license; or_  
+|  _(12)_ _____a vehicle qualified for a tax exemption under_  
+| _Section 152.092, Tax Code._  
+|  SECTION 21. Section 548.603(a), Transportation Code, is  
+| amended to read as follows:  
+|  (a) A person commits an offense if the person:  
+|  (1) presents to an official of this state or a  
+| political subdivision of this state a vehicle inspection report or  
+| insurance document knowing that the report or document is  
+| counterfeit, tampered with, altered, fictitious, issued for  
+| another vehicle, issued for a vehicle failing to meet all emissions  
+| inspection requirements, or issued in violation of:  
+|  (A) this chapter, rules adopted under this  
+| chapter, or other law of this state; or  
+|  (B) a law of another state, the United States,  
+| the United Mexican States, a state of the United Mexican States,  
+| Canada, or a province of Canada; _or_  
+|  (2) [ ~~with intent to circumvent the emissions~~  
+|  ~~inspection requirements seeks an inspection of a vehicle at a~~  
+|  ~~station not certified to perform an emissions inspection if the~~  
+|  ~~person knows that the vehicle is required to be inspected under~~  
+|  ~~Section 548.301; or~~  
+|  [ ~~(3)~~ ] knowingly does not comply with an emissions  
+| inspection requirement for a vehicle.  
+|  SECTION 22. Section 548.604(a), Transportation Code, is  
+| amended to read as follows:  
+|  (a) A person commits an offense if the person operates or  
+| moves a motor vehicle, trailer, semitrailer, pole trailer, or  
+| mobile home, or a combination of those vehicles, that is[ ~~:~~  
+|  [ ~~(1)~~ ] equipped in violation of this chapter or a rule  
+| adopted under this chapter[ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~in a mechanical condition that endangers a~~  
+|  ~~person, including the operator or an occupant, or property~~ ].  
+|  SECTION 23. The following provisions of the Transportation  
+| Code are repealed:  
+|  (1) the heading to Subchapter B, Chapter 548;  
+|  (2) Sections 548.051 and 548.052;  
+|  (3) the heading to Subchapter C, Chapter 548;  
+|  (4) Sections 548.101, 548.102, 548.103, and 548.104;  
+|  (5) Sections 548.301(d) and 548.3045(b); and  
+|  (6) Sections 548.501, 548.502, and 548.503.  
+|  SECTION 24. The change in law made by this Act applies only  
+| to an offense committed on or after the effective date of this Act.  
+| An offense committed before the effective date of this Act is  
+| governed by the law in effect on the date the offense was committed,  
+| and the former law is continued in effect for that purpose. For  
+| purposes of this section, an offense was committed before the  
+| effective date of this Act if any element of the offense occurred  
+| before that date.  
+|  SECTION 25. This Act takes effect January 1, 2020.
+

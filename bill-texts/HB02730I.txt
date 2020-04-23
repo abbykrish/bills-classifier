@@ -1,0 +1,137 @@
+|  
+---|---  
+|  By: Leach | H.B. No. 2730  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to civil actions involving the exercise of certain  
+| constitutional rights.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 27.001(2) and (6), Civil Practice and  
+| Remedies Code, are amended to read as follows:  
+|  (2) "Exercise of the _constitutional_ right _to petition,_  
+| _speak freely, or associate freely_ [ ~~of association~~ ]" means _the_  
+| _exercise of the right to petition, speak freely, or associate_  
+| _freely as those rights are provided by the constitutions of this_  
+| _state and the United States, as applied by the courts of this state_  
+| _and the United States_ [ ~~a communication between individuals who join~~  
+|  ~~together to collectively express, promote, pursue, or defend common~~  
+|  ~~interests~~ ].  
+|  (6) "Legal action" means a lawsuit, cause of action,  
+| petition, complaint, cross-claim, or counterclaim or any other  
+| judicial pleading or filing that requests _substantive relief,_  
+| _regardless of whether the relief is_ legal or equitable [ ~~relief~~ ].  
+| _The term does not include:_  
+|  _(A)_ _____a motion or action related to discovery made_  
+| _or taken under the Texas Rules of Civil Procedure, including a_  
+| _motion to compel, or objection to, discovery, a motion seeking a_  
+| _protective order related to discovery, or the issuance of a_  
+| _subpoena;_  
+|  _(B) a motion for summary judgment;_  
+|  _(C)_ _____a motion to dismiss a legal action under_  
+| _Section 27.003;_  
+|  _(D)_ _____a procedure that relates to enforcement of a_  
+| _final court order; or_  
+|  _(E)_ _____a motion for sanctions or award of attorney's_  
+| _fees._  
+|  SECTION 2. Section 27.002, Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  Sec. 27.002. PURPOSE. The purpose of this chapter is to  
+| _provide a set of procedures to_ encourage and safeguard the  
+| constitutional rights of persons to petition, speak freely,  
+| associate freely, and otherwise participate in government to the  
+| maximum extent permitted by law and, at the same time, protect the  
+| rights of a person to file meritorious lawsuits for demonstrable  
+| injury.  
+|  SECTION 3. Section 27.003(a), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (a) If a legal action is based on[ ~~, relates to,~~ ] or is in  
+| response to a party's exercise of the _constitutional_ right [ ~~of free~~  
+|  ~~speech, right~~ ] to petition, _speak freely,_ or _associate freely_  
+| [ ~~right of association~~ ], that party may file a motion to dismiss the  
+| legal action.  
+|  SECTION 4. Section 27.004, Civil Practice and Remedies  
+| Code, is amended by adding Subsections (d) and (e) to read as  
+| follows:  
+|  _(d)_ _____A hearing on a motion to dismiss filed under this_  
+| _chapter must be set not earlier than 21 days after service of the_  
+| _motion._  
+|  _(e)_ _____Each party must have at least 14 days' notice of a_  
+| _hearing on a motion to dismiss filed under this chapter._  
+|  SECTION 5. Section 27.005, Civil Practice and Remedies  
+| Code, is amended by amending Subsections (a), and (b), and adding  
+| Subsection (e) to read as follows:  
+|  (a) _Except as provided by Subsection (e), the_ [ ~~The~~ ] court  
+| must rule on a motion under Section 27.003 not later than the 30th  
+| day following the date of the hearing on the motion.  
+|  (b) Except as provided by Subsection (c), on the motion of a  
+| party under Section 27.003, a court shall dismiss a legal action  
+| against the moving party if the moving party shows by a  
+| preponderance of the evidence that the legal action is based on,  
+| [ ~~relates to,~~ ] or is in response to the party's exercise of _the_  
+| _constitutional right to petition, speak freely, or associate freely_  
+| [ ~~:~~  
+|  [ ~~(1) the right of free speech;~~  
+|  [ ~~(2) the right to petition; or~~  
+|  [ ~~(3) the right of association~~].  
+|  _(e)_ _____The court may not rule on a motion to dismiss filed under_  
+| _this chapter if the responding party files a nonsuit of the_  
+| _challenged legal action on or before the third day before the date_  
+| _of the hearing on the motion._  
+|  SECTION 6. Section 27.008, Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  Sec. 27.008. APPEAL. (a) If a court does not rule on a  
+| motion to dismiss under Section 27.003 in the time prescribed by  
+| Section _27.005(a)_ [ ~~27.005~~ ], the motion is considered to have been  
+| denied by operation of law and the moving party may appeal.  
+|  (b) An appellate court shall expedite an appeal or other  
+| writ, whether interlocutory or not, from a trial court order on a  
+| motion to dismiss a legal action under Section 27.003 or from a  
+| trial court's failure to rule on that motion in the time prescribed  
+| by Section _27.005(a)_ [ ~~27.005~~ ].  
+|  SECTION 7. Section 27.009, Civil Practice and Remedies  
+| Code, is amended by adding Subsection (c) to read as follows:  
+|  _(c)_ _____The court may not award any costs, fees, expenses, or_  
+| _sanctions for a motion to dismiss filed under this chapter if the_  
+| _responding party nonsuited the challenged legal action in the time_  
+| _prescribed by Section 27.005(e)._  
+|  SECTION 8. Section 27.010, Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  Sec. 27.010. EXEMPTIONS. [ ~~(a)~~ ] This chapter does not apply  
+| to:  
+|  _(1)_ an enforcement action that is brought in the name  
+| of this state or a political subdivision of this state by the  
+| attorney general, a district attorney, a criminal district  
+| attorney, or a county attorney;  
+|  _(2)_ ~~[(b) This chapter does not apply to]~~ a legal action  
+| brought against a person primarily engaged in the business of  
+| selling or leasing goods or services, if the statement or conduct  
+| arises out of the sale or lease of goods, services, or an insurance  
+| product, insurance services, or a commercial transaction in which  
+| the intended audience is an actual or potential buyer or customer _;_  
+|  _(3)_ [ ~~.~~  
+|  [ ~~(c) This chapter does not apply to~~] a legal action seeking  
+| recovery for bodily injury, wrongful death, or survival or to  
+| statements made regarding that legal action _;_  
+|  _(4)_ [ ~~.~~  
+|  [ ~~(d) This chapter does not apply to~~] a legal action brought  
+| under the Insurance Code or arising out of an insurance contract  
+| _;_  
+|  _(5)_ _____a compulsory counterclaim under the Texas Rules of_  
+| _Civil Procedure;_  
+|  _(6)_ _____a legal action filed under Title 1, 2, 4, or 5,_  
+| _Family Code, or an application for a protective order made under_  
+| _Chapter 7A, Code of Criminal Procedure; or_  
+|  _(7) a legal action to enforce:_  
+|  _(A) a noncompete agreement;_  
+|  _(B) a nondisclosure agreement; or_  
+|  _(C) a non-disparagement agreement._  
+|  SECTION 9. Sections 27.001(1), (3), (4), (5), (7), (8), and  
+| (9), Civil Practice and Remedies Code, are repealed.  
+|  SECTION 10. Chapter 27, Civil Practice and Remedies Code,  
+| as amended by this Act, applies only to an action filed on or after  
+| the effective date of this Act. An action filed before the effective  
+| date of this Act is governed by the law in effect immediately before  
+| that date, and that law is continued in effect for that purpose.  
+|  SECTION 11. This Act takes effect September 1, 2019.
+

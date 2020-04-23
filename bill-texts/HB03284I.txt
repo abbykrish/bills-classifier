@@ -1,0 +1,313 @@
+| 86R11548 JSC-D  
+---|---  
+|  By: Sheffield | H.B. No. 3284  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prescribing and dispensing controlled substances and  
+| monitoring the prescribing and dispensing of controlled substances  
+| under the Texas Controlled Substances Act; providing for  
+| administrative penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 481, Health and Safety  
+| Code, is amended by adding Sections 481.0751 and 481.0755 to read as  
+| follows:  
+|  _Sec._ ___481.0751._ _____DISPENSING VETERINARIANS. (a)_ ___This section_  
+| _applies to a veterinarian who holds a registration issued by the_  
+| _Federal Drug Enforcement Administration and dispenses Schedule II,_  
+| _III, IV, or V controlled substances directly to the owner or handler_  
+| _of an animal._  
+|  _(b)_ _____Not later than the 30th day after the date the_  
+| _veterinarian dispenses a controlled substance, the veterinarian_  
+| _shall submit to the board:_  
+|  _(1)_ _____the name, strength, and quantity of the substance_  
+| _dispensed;_  
+|  _(2) the date the substance was dispensed;_  
+|  _(3) the name of the animal;_  
+|  _(4)_ _____the species, gender, and actual or estimated date_  
+| _of birth of the animal;_  
+|  _(5) the name and address of the animal's owner; and_  
+|  _(6)_ _____the name, address, Federal Drug Enforcement_  
+| _Administration number, and telephone number of the veterinarian at_  
+| _the veterinarian's usual place of business._  
+|  _(c)_ _____A veterinarian shall retain a record of the information_  
+| _submitted to the board under Subsection (b) for a period of not less_  
+| _than two years after the date the substance is dispensed._  
+|  _(d)_ _____Failure to comply with this section is grounds for_  
+| _disciplinary action by the State Board of Veterinary Medical_  
+| _Examiners._  
+|  _Sec._ ___481.0755._ _____WRITTEN, ORAL, AND TELEPHONICALLY_  
+| _COMMUNICATED PRESCRIPTIONS. (a) Notwithstanding Sections_  
+| _481.073, 481.074, and 481.075, a person prescribing or dispensing a_  
+| _controlled substance must use the electronic prescription record_  
+| _and may not use a written, oral, or telephonically communicated_  
+| _prescription._  
+|  _(b)_ _____A prescriber may issue a written, oral, or_  
+| _telephonically communicated prescription for a controlled_  
+| _substance as authorized under this subchapter only if the_  
+| _prescription is issued:_  
+|  _(1) by a veterinarian;_  
+|  _(2)_ _____in circumstances in which electronic prescribing_  
+| _is not available due to temporary technological or electronic_  
+| _failure, as prescribed by board rule;_  
+|  _(3)_ _____by a practitioner to be dispensed by a pharmacy_  
+| _located outside this state, as prescribed by board rule;_  
+|  _(4)_ _____when the prescriber and dispenser are the same_  
+| _entity;_  
+|  _(5)_ _____in circumstances in which necessary elements are_  
+| _not supported by the most recent electronic prescription drug_  
+| _software;_  
+|  _(6)_ _____for a drug for which the United States Food and_  
+| _Drug Administration requires additional information in the_  
+| _prescription that is not possible with electronic prescribing;_  
+|  _(7)_ _____for a non-patient-specific prescription pursuant_  
+| _to a standing order, approved protocol for drug therapy,_  
+| _collaborative drug management, or comprehensive medication_  
+| _management, in response to a public health emergency or in other_  
+| _circumstances in which the practitioner may issue a_  
+| _non-patient-specific prescription;_  
+|  _(8) for a drug under a research protocol;_  
+|  _(9)_ _____by a practitioner who has received a waiver under_  
+| _Subsection (c) from the requirement to use electronic prescribing;_  
+| _or_  
+|  _(10)_ _____under circumstances in which the practitioner has_  
+| _the present ability to submit an electronic prescription but_  
+| _reasonably determines that it would be impractical for the patient_  
+| _to obtain the drugs prescribed under the electronic prescription in_  
+| _a timely manner and that a delay would adversely impact the_  
+| _patient's medical condition._  
+|  _(c)_ _____The board shall adopt rules establishing a process by_  
+| _which a practitioner may request and receive a waiver under_  
+| _Subsection (b)(9), not to exceed one year, from the requirement to_  
+| _use electronic prescribing. The board shall adopt rules_  
+| _establishing the eligibility for a waiver, including:_  
+|  _(1) economic hardship;_  
+|  _(2)_ _____technological limitations not reasonably within_  
+| _the control of the practitioner; or_  
+|  _(3)_ _____other exceptional circumstances demonstrated by_  
+| _the practitioner._  
+|  _(d)_ _____A written, oral, or telephonically communicated_  
+| _prescription must comply with the applicable requirements_  
+| _prescribed by Sections 481.074 and 481.075._  
+|  _(e)_ _____A dispensing pharmacist who receives a controlled_  
+| _substance prescription in a manner other than electronically is not_  
+| _required to verify that the prescription is exempt from the_  
+| _requirement that it be submitted electronically._  
+|  _(f) The board shall enforce this section._  
+|  SECTION 2. Sections 481.076(a), (f), (g), and (h), Health  
+| and Safety Code, are amended to read as follows:  
+|  (a) The board may not permit any person to have access to  
+| information submitted to the board under Section 481.074(q) or  
+| 481.075 except:  
+|  (1) the board, the Texas Medical Board, the Texas  
+| _Department of Licensing and Regulation, with respect to the_  
+| _regulation of podiatrists_ [ ~~State Board of Podiatric Medical~~  
+|  ~~Examiners~~ ], the State Board of Dental Examiners, the State Board of  
+| Veterinary Medical Examiners, the Texas Board of Nursing, or the  
+| Texas Optometry Board for the purpose of:  
+|  (A) investigating a specific license holder; or  
+|  (B) monitoring for potentially harmful  
+| prescribing or dispensing patterns or practices under Section  
+| 481.0762;  
+|  (2) an [ ~~authorized officer or member of the department~~  
+|  ~~or~~ ] authorized employee of the board engaged in the administration,  
+| investigation, or enforcement of this chapter or another law  
+| governing illicit drugs in this state or another state;  
+|  (3) the department _or other_ [ ~~on behalf of a~~ ] law  
+| enforcement or prosecutorial official engaged in the  
+| administration, investigation, or enforcement of this chapter or  
+| another law governing illicit drugs in this state or another state _,_  
+| _if the board is provided a warrant, subpoena, or other court order_  
+| _compelling the disclosure_ ;  
+|  (4) a medical examiner conducting an investigation;  
+|  (5) provided that accessing the information is  
+| authorized under the Health Insurance Portability and  
+| Accountability Act of 1996 (Pub. L. No. 104-191) and regulations  
+| adopted under that Act:  
+|  (A) a pharmacist or a pharmacy technician, as  
+| defined by Section 551.003, Occupations Code, acting at the  
+| direction of a pharmacist; or  
+|  (B) a practitioner who:  
+|  (i) is a physician, dentist, veterinarian,  
+| podiatrist, optometrist, or advanced practice nurse or is a  
+| physician assistant described by Section 481.002(39)(D) or an  
+| employee or other agent of a practitioner acting at the direction of  
+| a practitioner; and  
+|  (ii) is inquiring about a recent Schedule  
+| II, III, IV, or V prescription history of a particular patient of  
+| the practitioner;  
+|  (6) a pharmacist or practitioner who is inquiring  
+| about the person's own dispensing or prescribing activity; [ ~~or~~ ]  
+|  (7) one or more states or an association of states with  
+| which the board has an interoperability agreement, as provided by  
+| Subsection (j) _; or_  
+|  _(8)_ _____a health care facility certified by the federal_  
+| _Centers for Medicare and Medicaid Services_.  
+|  (f) If the _board accesses_ [ ~~director permits access to~~ ]  
+| information under Subsection (a)(2) relating to a person licensed  
+| or regulated by an agency listed in Subsection (a)(1), the _board_  
+| [ ~~director~~ ] shall notify and cooperate with that agency regarding  
+| the disposition of the matter before taking action against the  
+| person, unless the _board_ [ ~~director~~ ] determines that notification is  
+| reasonably likely to interfere with an administrative or criminal  
+| investigation or prosecution.  
+|  (g) If the _board provides_ [ ~~director permits~~ ] access to  
+| information under Subsection (a)(3) relating to a person licensed  
+| or regulated by an agency listed in Subsection (a)(1), the _board_  
+| [ ~~director~~ ] shall notify that agency of the disclosure of the  
+| information not later than the 10th working day after the date the  
+| information is disclosed.  
+|  (h) If the _board_ [ ~~director~~ ] withholds notification to an  
+| agency under Subsection (f), the _board_ [ ~~director~~ ] shall notify the  
+| agency of the disclosure of the information and the reason for  
+| withholding notification when the _board_ [ ~~director~~ ] determines that  
+| notification is no longer likely to interfere with an  
+| administrative or criminal investigation or prosecution.  
+|  SECTION 3. Subchapter C, Chapter 481, Health and Safety  
+| Code, is amended by adding Sections 481.07635, 481.07655, and  
+| 481.0768 to read as follows:  
+|  _Sec._ ___481.07635._ _____PRESCRIPTIONS OF OPIOIDS. (a) In this_  
+| _section, "acute pain" means pain with abrupt onset that is caused by_  
+| _an injury or other process that is not ongoing._  
+|  _(b)_ _____For the initial treatment of acute pain, a prescriber_  
+| _may not issue a prescription for an opioid in an amount that exceeds_  
+| _a 14-day supply._  
+|  _Sec._ ___481.07655._ _____LIMITATION OF LIABILITY._ ___(a)_ ___A
+prescriber_  
+| _or dispenser is not liable in a civil action for damages arising_  
+| _from the failure to access prescription drug information as_  
+| _required or authorized by Section 481.0764 or failure to submit the_  
+| _information to the board as required under Section 481.074(q) or_  
+| _481.075, unless the failure constitutes gross negligence or wilful_  
+| _misconduct and the prescriber or dispenser would be liable to the_  
+| _claimant under other law._  
+|  _(b) This section does not establish a standard of care._  
+|  _Sec._ ___481.0768._ _____ADMINISTRATIVE PENALTY:_ ___DISCLOSURE OR USE_  
+| _OF INFORMATION._ ___(a)_ ___A person authorized to receive information_  
+| _under Section 481.076(a) may not disclose or use the information in_  
+| _a manner not authorized by this subchapter or other law._  
+|  _(b)_ _____A regulatory agency that issues a license,_  
+| _certification, or registration to a prescriber or dispenser shall_  
+| _periodically update the administrative penalties, or any_  
+| _applicable disciplinary guidelines concerning the penalties,_  
+| _assessed by that agency for conduct that violates Subsection (a)._  
+|  _(c)_ _____The agency shall set the penalties in an amount_  
+| _sufficient to deter the conduct._  
+|  SECTION 4. Section 481.003(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) The director may adopt rules to administer and enforce  
+| this chapter, other than Sections 481.073, 481.074, 481.075,  
+| 481.076, 481.0761, 481.0762, 481.0763, _481.07635,_ 481.0764,  
+| 481.0765, _481.07655,_ [ ~~and~~ ] 481.0766 _, and 481.0768_.  The board may  
+| adopt rules to administer Sections 481.073, 481.074, 481.075,  
+| _481.0751, 481.0755,_ 481.076, 481.0761, 481.0762, 481.0763,  
+| _481.07635,_ 481.0764, 481.0765, _481.07655,_ [ ~~and~~ ] 481.0766 _, and_  
+| _481.0768_.  
+|  SECTION 5. Section 481.128(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) A registrant or dispenser commits an offense if the  
+| registrant or dispenser knowingly:  
+|  (1) distributes, delivers, administers, or dispenses  
+| a controlled substance in violation of _Subchapter C_ [ ~~Sections~~  
+|  ~~481.070-481.075~~ ];  
+|  (2) manufactures a controlled substance not  
+| authorized by the person's Federal Drug Enforcement Administration  
+| registration or distributes or dispenses a controlled substance not  
+| authorized by the person's registration to another registrant or  
+| other person;  
+|  (3) refuses or fails to make, keep, or furnish a  
+| record, report, notification, order form, statement, invoice, or  
+| information required by this chapter;  
+|  (4) prints, manufactures, possesses, or produces an  
+| official prescription form without the approval of the board;  
+|  (5) delivers or possesses a counterfeit official  
+| prescription form;  
+|  (6) refuses an entry into a premise for an inspection  
+| authorized by this chapter;  
+|  (7) refuses or fails to return an official  
+| prescription form as required by Section 481.075(k);  
+|  (8) refuses or fails to make, keep, or furnish a  
+| record, report, notification, order form, statement, invoice, or  
+| information required by a rule adopted by the director or the board;  
+| or  
+|  (9) refuses or fails to maintain security required by  
+| this chapter or a rule adopted under this chapter.  
+|  SECTION 6. Section 481.129(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) A person commits an offense if the person knowingly:  
+|  (1) distributes as a registrant or dispenser a  
+| controlled substance listed in Schedule I or II, unless the person  
+| distributes the controlled substance as authorized under the  
+| federal Controlled Substances Act (21 U.S.C. Section 801 et seq.);  
+|  (2) uses in the course of manufacturing, prescribing,  
+| or distributing a controlled substance a Federal Drug Enforcement  
+| Administration registration number that is fictitious, revoked,  
+| suspended, or issued to another person;  
+|  (3) issues a prescription bearing a forged or  
+| fictitious signature;  
+|  (4) uses a prescription issued to another person to  
+| prescribe a Schedule II controlled substance;  
+|  (5) possesses, obtains, or attempts to possess or  
+| obtain a controlled substance or an increased quantity of a  
+| controlled substance:  
+|  (A) by misrepresentation, fraud, forgery,  
+| deception, or subterfuge;  
+|  (B) through use of a fraudulent prescription  
+| form; [ ~~or~~ ]  
+|  (C) through use of a fraudulent oral or  
+| telephonically communicated prescription; or  
+|  _(D)_ _____through the use of a fraudulent electronic_  
+| _prescription; or_  
+|  (6) furnishes false or fraudulent material  
+| information in or omits material information from an application,  
+| report, record, or other document required to be kept or filed under  
+| this chapter.  
+|  SECTION 7. Section 554.051(a-1), Occupations Code, is  
+| amended to read as follows:  
+|  (a-1) The board may adopt rules to administer Sections  
+| 481.073, 481.074, 481.075, _481.0751, 481.0755,_ 481.076, 481.0761,  
+| 481.0762, 481.0763, _481.07635,_ 481.0764, 481.0765, _481.07655,_  
+| [ ~~and~~ ] 481.0766, _and 481.0768,_ Health and Safety Code.  
+|  SECTION 8. Section 565.003, Occupations Code, is amended to  
+| read as follows:  
+|  Sec. 565.003. ADDITIONAL GROUNDS FOR DISCIPLINE REGARDING  
+| APPLICANT FOR OR HOLDER OF NONRESIDENT PHARMACY LICENSE. Unless  
+| compliance would violate the pharmacy or drug statutes or rules in  
+| the state in which the pharmacy is located _,_ the board may discipline  
+| an applicant for or the holder of a nonresident pharmacy license if  
+| the board finds that the applicant or license holder has failed to  
+| comply with:  
+|  (1) Section _481.073,_ 481.074 _,_ [ ~~or~~ ] 481.075, _481.0751,_  
+| _481.0755, 481.076, 481.0761, 481.0762, 481.0763, 481.07635,_  
+| _481.0764, 481.0765, 481.07655, 481.0766, or 481.0768,_ Health and  
+| Safety Code;  
+|  (2) Texas substitution requirements regarding:  
+|  (A) the practitioner's directions concerning  
+| generic substitution;  
+|  (B) the patient's right to refuse generic  
+| substitution; or  
+|  (C) notification to the patient of the patient's  
+| right to refuse substitution;  
+|  (3) any board rule relating to providing drug  
+| information to the patient or the patient's agent in written form or  
+| by telephone; or  
+|  (4) any board rule adopted under Section 554.051(a)  
+| and determined by the board to be applicable under Section  
+| 554.051(b).  
+|  SECTION 9. Sections 481.076(a-3), (a-4), and (a-5), Health  
+| and Safety Code, are repealed.  
+|  SECTION 10. To the extent of any conflict, this Act prevails  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 11. Section 481.0751, Health and Safety Code, as  
+| added by this Act, applies only to a controlled substance dispensed  
+| on or after the effective date of this Act.  
+|  SECTION 12. Sections 481.0755, 481.07635, and 481.07655,  
+| Health and Safety Code, as added by this Act, apply only to a  
+| prescription issued on or after the effective date of this Act.  
+|  SECTION 13. Section 481.0768(a), Health and Safety Code, as  
+| added by this Act, applies only to conduct that occurs on or after  
+| the effective date of this Act.  
+|  SECTION 14. This Act takes effect September 1, 2019.
+

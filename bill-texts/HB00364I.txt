@@ -1,0 +1,192 @@
+| 86R1554 GCB-D  
+---|---  
+|  By: Tinderholt | H.B. No. 364  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of a central database containing  
+| information about defendants required to have an ignition interlock  
+| device installed on a motor vehicle and submission of information  
+| to and access to information in that database.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 17.441, Code of Criminal Procedure, is  
+| amended by adding Subsection (e) to read as follows:  
+|  _(e)_ _____A magistrate that restricts a defendant to the operation_  
+| _of a motor vehicle equipped with an ignition interlock device under_  
+| _Subsection (a) shall submit the name of the defendant and the date_  
+| _the restriction expires to the Department of Public Safety for_  
+| _inclusion in the central database maintained by the department_  
+| _under Section 411.02091, Government Code._  
+|  SECTION 2. Article 42A.408, Code of Criminal Procedure, is  
+| amended by adding Subsection (i) to read as follows:  
+|  _(i)_ _____A court that restricts a defendant to the operation of a_  
+| _motor vehicle equipped with an ignition interlock device under this_  
+| _article shall submit the name of the defendant and the date the_  
+| _restriction expires to the Department of Public Safety for_  
+| _inclusion in the central database maintained by the department_  
+| _under Section 411.02091, Government Code._  
+|  SECTION 3. Subchapter A, Chapter 411, Government Code, is  
+| amended by adding Section 411.02091 to read as follows:  
+|  _Sec._ ___411.02091._ _____CENTRAL DATABASE OF DEFENDANTS RESTRICTED_  
+| _TO USE OF MOTOR VEHICLE EQUIPPED WITH IGNITION INTERLOCK DEVICE._  
+| _(a) The department shall maintain a computerized central database_  
+| _containing information regarding defendants who are restricted to_  
+| _the use of a motor vehicle equipped with an ignition interlock_  
+| _device._  
+|  _(b) The database must include:_  
+|  _(1)_ _____the name of each defendant restricted to the_  
+| _operation of a motor vehicle equipped with an ignition interlock_  
+| _device under Article 17.441 or 42A.408, Code of Criminal Procedure,_  
+| _Section 49.09(h), Penal Code, or Section 521.246, Transportation_  
+| _Code, and the date each restriction expires; and_  
+|  _(2)_ _____the information provided to the department by a_  
+| _vendor of an ignition interlock device under Section 521.2476,_  
+| _Transportation Code, for each defendant described by Subdivision_  
+| _(1) for whom the vendor has installed an ignition interlock device_  
+| _on the appropriate vehicle._  
+|  _(c)_ _____The department shall remove a defendant's name from the_  
+| _central database on the expiration of the ignition interlock_  
+| _restriction for that defendant._  
+|  _(d) The central database must:_  
+|  _(1)_ _____provide the information in a format that allows a_  
+| _law enforcement agency to make the information available to a peace_  
+| _officer through a mobile data terminal; and_  
+|  _(2)_ _____promptly reflect any updated information as_  
+| _necessary to ensure a defendant whose ignition interlock_  
+| _restriction has expired is not indicated through the mobile data_  
+| _terminal as a person who is restricted to the operation of a motor_  
+| _vehicle equipped with an ignition interlock device._  
+|  SECTION 4. Section 509.004(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The division shall require each department to:  
+|  (1) keep financial and statistical records determined  
+| necessary by the division;  
+|  (2) submit a strategic plan and all supporting  
+| information requested by the division;  
+|  (3) present data requested by the division as  
+| necessary to determine the amount of state aid for which the  
+| department is eligible; _and_  
+|  (4) submit periodic financial audits and statistical  
+| reports to the division[ ~~; and~~  
+|  [ ~~(5)~~ ~~~~ ~~~~ ~~submit to the Department of Public Safety the~~  
+|  ~~full name, address, date of birth, social security number, and~~  
+|  ~~driver's license number of each person restricted to the operation~~  
+|  ~~of a motor vehicle equipped with a device that uses a deep-lung~~  
+|  ~~breath analysis mechanism to make impractical the operation of the~~  
+|  ~~motor vehicle if ethyl alcohol is detected in the breath of the~~  
+|  ~~restricted operator~~ ].  
+|  SECTION 5. Section 49.09(h), Penal Code, is amended to read  
+| as follows:  
+|  (h) This subsection applies only to a person convicted of a  
+| second or subsequent offense relating to the operating of a motor  
+| vehicle while intoxicated committed within five years of the date  
+| on which the most recent preceding offense was committed.  The court  
+| shall enter an order that requires the defendant to have _an ignition_  
+| _interlock_ [ ~~a~~ ] device installed, on each motor vehicle owned or  
+| operated by the defendant, that uses a deep-lung breath analysis  
+| mechanism to make impractical the operation of the motor vehicle if  
+| ethyl alcohol is detected in the breath of the operator, and that  
+| requires that before the first anniversary of the ending date of the  
+| period of license suspension under Section 521.344, Transportation  
+| Code, the defendant not operate any motor vehicle that is not  
+| equipped with _an ignition interlock_ [ ~~that~~ ] device. The court shall  
+| require the defendant to obtain the _ignition interlock_ device at  
+| the defendant's own cost on or before that ending date, require the  
+| defendant to provide evidence to the court on or before that ending  
+| date that the _ignition interlock_ device has been installed on each  
+| appropriate vehicle, and order the _ignition interlock_ device to  
+| remain installed on each vehicle until the first anniversary of  
+| that ending date. If the court determines the offender is unable to  
+| pay for the _ignition interlock_ device, the court may impose a  
+| reasonable payment schedule not to extend beyond the first  
+| anniversary of the date of installation. The Department of Public  
+| Safety shall approve _ignition interlock_ devices for use under this  
+| subsection. Section 521.247, Transportation Code, applies to the  
+| approval of _an ignition interlock_ [ ~~a~~ ] device under this subsection  
+| and the consequences of that approval.  Failure to comply with an  
+| order entered under this subsection is punishable by contempt. For  
+| the purpose of enforcing this subsection, the court that enters an  
+| order under this subsection retains jurisdiction over the defendant  
+| until the date on which the _ignition interlock_ device is no longer  
+| required to remain installed. _A court that restricts a defendant to_  
+| _the operation of a motor vehicle equipped with an ignition_  
+| _interlock device under this subsection shall submit the name of the_  
+| _defendant and the date the restriction expires to the Department of_  
+| _Public Safety for inclusion in the central database maintained by_  
+| _the department under Section 411.02091, Government Code._ To the  
+| extent of a conflict between this subsection and Subchapter I,  
+| Chapter 42A, Code of Criminal Procedure, this subsection controls.  
+|  SECTION 6. Section 521.246, Transportation Code, is amended  
+| by adding Subsection (g) to read as follows:  
+|  _(g)_ _____A judge that restricts a person to the operation of a_  
+| _motor vehicle equipped with an ignition interlock device under_  
+| _Subsection (a) shall submit the name of the person and the date the_  
+| _restriction expires to the Department of Public Safety for_  
+| _inclusion in the central database maintained by the department_  
+| _under Section 411.02091, Government Code._  
+|  SECTION 7. Section 521.2476(b), Transportation Code, is  
+| amended to read as follows:  
+|  (b) The minimum standards shall require each vendor to:  
+|  (1) be authorized by the department to do business in  
+| this state;  
+|  (2) install _an ignition interlock_ [ ~~a~~ ] device only if  
+| the _ignition interlock_ device is approved under Section 521.247;  
+|  (3) obtain liability insurance providing coverage for  
+| damages arising out of the operation or use of _ignition interlock_  
+| devices in amounts and under the terms specified by the department;  
+|  (4) install the _ignition interlock_ device and activate  
+| any anticircumvention feature of the _ignition interlock_ device  
+| within a reasonable time after the vendor receives notice that  
+| installation is ordered by a court;  
+|  _(4-a) submit to the department for inclusion in the_  
+| _central database maintained by the department under Section_  
+| _411.02091, Government Code, the make, model, vehicle_  
+| _identification number, and license plate number of the motor_  
+| _vehicle on which the vendor installs the ignition interlock device,_  
+| _and the name of the person who is the subject of the court order_  
+| _requiring installation of the ignition interlock device on the_  
+| _motor vehicle;_  
+|  (5) install and inspect the _ignition interlock_ device  
+| in accordance with any applicable court order;  
+|  (6) repair or replace _an ignition interlock_ [ ~~a~~ ] device  
+| not later than 48 hours after receiving notice of a complaint  
+| regarding the operation of the _ignition interlock_ device;  
+|  (7) submit a written report of any violation of a court  
+| order to that court and to the person's supervising officer, if any,  
+| not later than 48 hours after the vendor discovers the violation;  
+|  (8) maintain a record of each action taken by the  
+| vendor with respect to each _ignition interlock_ device installed by  
+| the vendor, including each action taken as a result of an attempt to  
+| circumvent the _ignition interlock_ device, until at least the fifth  
+| anniversary after the date of installation;  
+|  (9) make a copy of the record available for inspection  
+| by or send a copy of the record to any court, supervising officer,  
+| or the department on request; and  
+|  (10) annually provide to the department a written  
+| report of each service and ignition interlock device feature made  
+| available by the vendor.  
+|  SECTION 8. The Department of Public Safety of the State of  
+| Texas shall design and implement the central database required by  
+| Section 411.02091, Government Code, as added by this Act, not later  
+| than January 1, 2020.  
+|  SECTION 9. Articles 17.441 and 42A.408, Code of Criminal  
+| Procedure, Section 49.09, Penal Code, and Section 521.246,  
+| Transportation Code, as amended by this Act, apply only to a  
+| magistrate, court, or judge that orders that a defendant be  
+| restricted to the operation of a motor vehicle equipped with an  
+| ignition interlock device on or after January 1, 2020. A  
+| restriction ordered before January 1, 2020, is governed by the law  
+| in effect immediately before the effective date of this Act, and the  
+| former law is continued in effect for that purpose.  
+|  SECTION 10. Section 521.2476, Transportation Code, as  
+| amended by this Act, applies only to the installation of an ignition  
+| interlock device that occurs on or after January 1, 2020. An  
+| installation that occurs before January 1, 2020, is governed by the  
+| law in effect immediately before the effective date of this Act, and  
+| the former law is continued in effect for that purpose.  
+|  SECTION 11. This Act takes effect immediately if it  
+| receives a vote of two-thirds of all the members elected to each  
+| house, as provided by Section 39, Article III, Texas Constitution.  
+| If this Act does not receive the vote necessary for immediate  
+| effect, this Act takes effect September 1, 2019.
+

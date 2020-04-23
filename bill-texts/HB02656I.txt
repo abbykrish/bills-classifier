@@ -1,0 +1,74 @@
+| 86R9129 AJZ-D  
+---|---  
+|  By: Rosenthal | H.B. No. 2656  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of a school district to implement a school  
+| bus monitoring system that records images of vehicles that pass a  
+| stopped school bus; authorizing a civil penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 545, Transportation Code, is amended by  
+| adding Subchapter K to read as follows:  
+| _SUBCHAPTER K._ ___SCHOOL BUS MONITORING SYSTEM_  
+|  _Sec. 545.501. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Owner of a motor vehicle" means the owner of a_  
+| _motor vehicle as shown on the motor vehicle registration records of_  
+| _the Texas Department of Motor Vehicles or the analogous department_  
+| _or agency of another state or country._  
+|  _(2)_ _____"School bus monitoring system" means a system_  
+| _authorized by Section 547.701(b)(3)._  
+|  _Sec._ ___545.502._ _____AUTHORITY TO PROVIDE FOR PENALTY. (a)_ ___The_  
+| _board of trustees of a school district by resolution may provide_  
+| _that the owner of a motor vehicle is liable to the school district_  
+| _for a civil penalty if the vehicle passes a school bus in violation_  
+| _of Section 545.066._ ___The resolution must establish the amount of the_  
+| _civil penalty._  
+|  _(b)_ _____A school district may impose a civil penalty under this_  
+| _section on the owner of a motor vehicle based solely on a_  
+| _photographic image of the vehicle that:_  
+|  _(1)_ _____was taken by a camera installed on the school bus_  
+| _for the purpose of detecting violations of Section 545.066;_  
+|  _(2) includes the vehicle's license plate; and_  
+|  _(3) shows the vehicle violating Section 545.066._  
+|  _(c)_ _____A school district is entitled to all of the proceeds of_  
+| _the civil penalties collected by the school district under this_  
+| _section._  
+|  _(d)_ _____Civil penalties collected under this section may be used_  
+| _by a school district to cover the cost of installing, operating, and_  
+| _maintaining the school bus monitoring system._  
+|  _Sec._ ___545.503._ _____OPERATION OF SCHOOL BUS MONITORING SYSTEM._  
+| _(a)_ ___A school district that implements a school bus monitoring_  
+| _system under this subchapter may contract for the installation,_  
+| _operation, administration, or enforcement of the system._  
+|  _(b)_ _____All images and data produced from a school bus_  
+| _monitoring system under this subchapter shall be destroyed not_  
+| _later than the seventh day after the date of collection unless the_  
+| _image or data is evidence in a civil proceeding under this_  
+| _subchapter._ ___Images or data used in a civil proceeding under this_  
+| _subchapter shall be destroyed not later than the first anniversary_  
+| _of the date of collection._  
+|  SECTION 2. Section 547.701(b), Transportation Code, is  
+| amended to read as follows:  
+|  (b) A school bus may be equipped with:  
+|  (1) rooftop warning lamps:  
+|  (A) that conform to and are placed on the bus in  
+| accordance with specifications adopted under Section 34.002,  
+| Education Code; and  
+|  (B) that are operated under rules adopted by the  
+| school district; [ ~~and~~ ]  
+|  (2) movable stop arms:  
+|  (A) that conform to regulations adopted under  
+| Section 34.002, Education Code; and  
+|  (B) that may be operated only when the bus is  
+| stopped to load or unload students _; and_  
+|  _(3) a monitoring system that:_  
+|  _(A)_ _____is capable of taking photographic,_  
+| _electronic, video, or digital images of vehicles that pass the bus_  
+| _for the purpose of detecting violations of Section 545.066;_  
+|  _(B)_ _____conforms to regulations adopted under_  
+| _Section 34.002, Education Code; and_  
+|  _(C)_ _____may be operated only when the bus is stopped_  
+| _on a highway to load or unload students_.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

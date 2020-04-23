@@ -1,0 +1,63 @@
+| 86R13542 AAF-D  
+---|---  
+|  By: Zwiener | H.B. No. 3592  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to qualifying projects for public-private partnerships.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2267.001(10), Government Code, is  
+| amended to read as follows:  
+|  (10) "Qualifying project" means:  
+|  (A) any ferry, mass transit facility, vehicle  
+| parking facility, port facility, power generation facility, fuel  
+| supply facility, oil or gas pipeline, water supply facility, public  
+| work, waste treatment facility, hospital, school, medical or  
+| nursing care facility, recreational facility, public building,  
+| technology facility, or other similar facility currently available  
+| or to be made available to a governmental entity for public use,  
+| including any structure, parking area, appurtenance, and other  
+| property required to operate the structure or facility and any  
+| technology infrastructure installed in the structure or facility  
+| that is essential to the project's purpose; [ ~~or~~ ]  
+|  (B) any improvements necessary or desirable to  
+| real property owned by a governmental entity _; or_  
+|  _(C)_ _____any information technology infrastructure,_  
+| _including broadband or telecommunications infrastructure,_  
+| _installed in a structure or facility owned by a governmental_  
+| _entity_.  
+|  SECTION 2. Section 2267.003, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2267.003. APPLICABILITY. This chapter does not apply  
+| to:  
+|  (1) the financing, design, construction, maintenance,  
+| or operation of a highway in the state highway system;  
+|  (2) a transportation authority operating under  
+| Chapter 451, 452, 453, or 460, Transportation Code, other than a  
+| metropolitan rapid transit authority operating under Chapter 451,  
+| Transportation Code, in which the principal municipality has a  
+| population of 1.9 million or more; _or_  
+|  (3) [ ~~any telecommunications, cable television, video~~  
+|  ~~service, or broadband infrastructure other than technology~~  
+|  ~~installed as part of a qualifying project that is essential to the~~  
+|  ~~project; or~~  
+|  [ ~~(4)~~ ] except as provided by Section 2165.259, a  
+| qualifying project located in the Capitol Complex, as defined by  
+| Section 443.0071.  
+|  SECTION 3. Subchapter A, Chapter 2267, Government Code, is  
+| amended by adding Section 2267.0053 to read as follows:  
+|  _Sec._ ___2267.0053._ _____PROHIBITED ACTION BY GOVERNMENTAL ENTITY._  
+| _A governmental entity that approves as a qualifying project the_  
+| _installation of information technology infrastructure and enters_  
+| _into a contract for the development or operation of the qualifying_  
+| _project may not compete with a private entity in providing_  
+| _telecommunications services._  
+|  SECTION 4. Section 2267.001(10), Government Code, as  
+| amended by this Act, applies only to a qualifying project for which  
+| an agreement is entered into on or after the effective date of this  
+| Act.  A qualifying project for which an agreement was entered into  
+| before the effective date of this Act is governed by the law as it  
+| existed on the date the agreement was entered into, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

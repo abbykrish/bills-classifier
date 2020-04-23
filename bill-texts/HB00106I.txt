@@ -1,0 +1,116 @@
+| 86R1907 SMT-F  
+---|---  
+|  By: Rodriguez of Travis | H.B. No. 106  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to employer retaliation against employees who seek  
+| recovery of unpaid wages and procedures in wage claim hearings  
+| conducted by the Texas Workforce Commission.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 61, Labor Code, is amended  
+| by adding Sections 61.021 and 61.022 to read as follows:  
+|  _Sec._ ___61.021._ _____EMPLOYER RETALIATION PROHIBITED; CAUSE OF_  
+| _ACTION. (a)_ ___An employer may not suspend or terminate the_  
+| _employment of or in any other manner discipline, discriminate_  
+| _against, or retaliate against an employee who in good faith seeks to_  
+| _recover wages owed to the employee by:_  
+|  _(1) filing a complaint with a governmental entity;_  
+|  _(2)_ _____seeking or accepting the assistance of a nonprofit_  
+| _organization, an employee rights organization, or an attorney;_  
+|  _(3)_ _____exercising or attempting to exercise a right or_  
+| _remedy granted to the employee by a contract, local ordinance or_  
+| _order, or federal or state law; or_  
+|  _(4) filing a wage claim under Subchapter D._  
+|  _(b)_ _____An employee who is the subject of an adverse employment_  
+| _action prohibited under Subsection (a) may bring suit against the_  
+| _employer, including an action in a district court for appropriate_  
+| _injunctive relief._  
+|  _(c)_ _____An employee who prevails in a suit brought under this_  
+| _section:_  
+|  _(1) may recover:_  
+|  _(A)_ _____reasonable damages incurred by the employee_  
+| _as a result of the adverse employment action;_  
+|  _(B)_ _____additional damages in an amount equal to the_  
+| _average wages the employee earns during a two-week period, plus_  
+| _$500; and_  
+|  _(C)_ _____court costs and reasonable attorney's fees_  
+| _incurred by the employee in the suit; and_  
+|  _(2) is entitled to:_  
+|  _(A)_ _____reinstatement to the employee's former_  
+| _position or a position that is comparable in terms of compensation,_  
+| _benefits, and other conditions of employment; and_  
+|  _(B)_ _____reinstatement of any benefits and seniority_  
+| _rights lost because of the adverse employment action._  
+|  _Sec._ ___61.022._ _____COMPLAINTS REGARDING EMPLOYER RETALIATION._  
+| _(a) A person who has reason to believe that an employer has_  
+| _violated Section 61.021 may file a complaint with the commission._  
+|  _(b)_ _____On receipt of a complaint, the commission shall_  
+| _investigate and dispose of the complaint in the same manner as a_  
+| _wage claim under Subchapter D._ ___The commission may incorporate the_  
+| _investigation into any ongoing investigation of an underlying wage_  
+| _claim filed by the employee, if applicable._  
+|  _(c)_ _____The commission shall ensure that information regarding_  
+| _the complaint process is available on the commission's Internet_  
+| _website._  
+|  SECTION 2. Section 61.053(a), Labor Code, is amended to  
+| read as follows:  
+|  (a) If the commission examiner, a wage claim appeal  
+| tribunal, or the commission determines that an employer acted in  
+| bad faith in not paying wages as required by this chapter, the  
+| examiner, tribunal, or commission, in addition to ordering the  
+| payment of the wages, _shall_ [ ~~may~~ ] assess an administrative penalty  
+| against the employer.  
+|  SECTION 3. Subchapter D, Chapter 61, Labor Code, is amended  
+| by adding Section 61.0531 to read as follows:  
+|  _Sec._ ___61.0531._ _____RETALIATION; DAMAGES. (a)_ ___If, after an_  
+| _investigation of a complaint under Section 61.022, the commission_  
+| _examiner, a wage claim appeal tribunal, or the commission_  
+| _determines that an employer violated Section 61.021(a), the_  
+| _examiner, tribunal, or commission shall_ ___order the employer to pay_  
+| _to the employee damages in an amount equal to the greater of $1,000_  
+| _or the amount of wages owed to the employee._  
+|  _(b)_ _____Damages under Subsection (a) are in addition to any_  
+| _payment of wages ordered under this subchapter._  
+|  SECTION 4. The heading to Section 61.058, Labor Code, is  
+| amended to read as follows:  
+|  Sec. 61.058. HEARING PROCEDURES _; PRESUMPTION_.  
+|  SECTION 5. Section 61.058, Labor Code, is amended by  
+| amending Subsection (a) and adding Subsections (c) and (d) to read  
+| as follows:  
+|  (a) _Except as provided by Subsections (c) and (d), a_ [ ~~A~~ ]  
+| hearing conducted under this subchapter is subject to the rules and  
+| hearings procedures used by the commission in the determination of  
+| a claim for unemployment compensation benefits.  
+|  _(c)_ _____In a hearing under this subchapter, an employer's_  
+| _failure to comply with Section 62.003 or the recordkeeping_  
+| _requirements of the Fair Labor Standards Act of 1938 (29 U.S.C._  
+| _Section 201 et seq.) applicable to an employee creates a rebuttable_  
+| _presumption that the employee's hours worked, pay rate, and_  
+| _earnings are equal to those amounts provided in the employee's_  
+| _testimony or records presented at the hearing._  
+|  _(d)_ _____A presumption under Subsection (c) may be rebutted by_  
+| _clear and convincing evidence provided by the employer of the_  
+| _employee's hours worked, pay rate, and earnings._  
+|  SECTION 6. Not later than December 1, 2019, the Texas  
+| Workforce Commission shall adopt rules necessary to implement  
+| Section 61.022, Labor Code, as added by this Act.  
+|  SECTION 7. Sections 61.021 and 61.022, Labor Code, as added  
+| by this Act, apply only to an adverse employment action that is  
+| taken by an employer against an employee on or after the effective  
+| date of this Act.  An adverse employment action taken before that  
+| date is governed by the law in effect on the date the action was  
+| taken, and the former law is continued in effect for that purpose.  
+|  SECTION 8. Section 61.0531, Labor Code, as added by this  
+| Act, applies only to conduct that occurs on or after the effective  
+| date of this Act. Conduct that occurs before that date is governed  
+| by the law in effect on the date the conduct occurred, and the  
+| former law is continued in effect for that purpose.  
+|  SECTION 9. Section 61.058, Labor Code, as amended by this  
+| Act, applies only to a hearing that commences on or after the  
+| effective date of this Act.  A hearing that commences before that  
+| date is governed by the law in effect on the date the hearing  
+| commenced, and the former law is continued in effect for that  
+| purpose.  
+|  SECTION 10. This Act takes effect September 1, 2019.
+

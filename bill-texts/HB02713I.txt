@@ -1,0 +1,19 @@
+| 86R6780 SRA-D  
+---|---  
+|  By: Burrows | H.B. No. 2713  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to eliminating the fee for electronic access to certain  
+| information maintained by the secretary of state.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 405.018(d), Government Code, is amended  
+| to read as follows:  
+|  (d) [ ~~The secretary of state shall set and charge a fee for~~  
+|  ~~access to information under Subsection (a) in an amount reasonable~~  
+|  ~~and necessary to cover the costs of establishing and administering~~  
+|  ~~the system under that subsection.~~ ] The secretary of state may  
+| assess a reasonable fee for a transfer of software under Subsection  
+| (b).  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

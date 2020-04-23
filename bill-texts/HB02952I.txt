@@ -1,0 +1,109 @@
+| 86R12242 AAF-D  
+---|---  
+|  By: Guillen | H.B. No. 2952  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment of an emergency radio infrastructure  
+| revolving loan program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter N, Chapter 411, Government Code, is  
+| amended by adding Section 411.4015 to read as follows:  
+|  _Sec._ ___411.4015._ _____LOANS TO FINANCE INTEROPERABLE STATEWIDE_  
+| _EMERGENCY RADIO INFRASTRUCTURE. (a)_ ___The department shall provide_  
+| _loans to finance interoperable statewide emergency radio_  
+| _infrastructure in accordance with Section 411.402._  
+|  _(b)_ _____The department shall determine the terms under which a_  
+| _loan may be made under this section and shall set the interest rate_  
+| _for a loan at a low rate that the department determines is_  
+| _sufficient to recover the cost of administering the loan program._  
+|  _(c)_ _____Payments on loans made under this section shall be made_  
+| _to the department. The department shall use the repayments of loan_  
+| _principal by entities described by Section 411.402(a)(4) to make_  
+| _new loans as provided by this subchapter._  
+|  _(d)_ _____The department may make a forgivable loan at a zero_  
+| _percent interest rate for a period of five years to an entity_  
+| _described by Section 411.402(a)(4). The department may not forgive_  
+| _an amount greater than one-fifth of the forgivable loan amount each_  
+| _year._  
+|  _(e)_ _____The department shall adopt rules to administer this_  
+| _section._  
+|  SECTION 2. Section 411.402, Government Code, is amended to  
+| read as follows:  
+|  Sec. 411.402. USE OF _LOAN_ [ ~~REVENUE~~ ].  (a)  _A loan provided_  
+| _under Section 411.4015_ [ ~~Fees collected under Section~~  
+|  ~~133.102(e)(11), Local Government Code,~~ ] may only:  
+|  (1) be used for the planning, development, provision,  
+| enhancement, or ongoing maintenance of an interoperable statewide  
+| emergency radio infrastructure;  
+|  (2) be used in accordance with the statewide  
+| integrated public safety radio communications plan developed under  
+| Subchapter F, Chapter 421;  
+|  (3) be used for the development of a regional or state  
+| interoperable radio communication system;  
+|  (4) be _made_ [ ~~distributed as grants by the department~~ ]  
+| to:  
+|  (A) regional councils of government that have  
+| entered into interlocal agreements authorized under state law; and  
+|  (B) state agencies requiring emergency radio  
+| infrastructure; or  
+|  (5) be used for other public safety purposes.  
+|  (b) _A loan provided under Section 411.4015_ [ ~~Fees collected~~  
+|  ~~and distributed as provided by this subchapter~~ ] may not be used to  
+| purchase or maintain radio subscriber equipment.  
+|  SECTION 3. The heading to Section 411.403, Government Code,  
+| is amended to read as follows:  
+|  Sec. 411.403. EMERGENCY RADIO INFRASTRUCTURE _REVOLVING_  
+| _LOAN_ ACCOUNT.  
+|  SECTION 4. Sections 411.403(a), (b), and (c), Government  
+| Code, are amended to read as follows:  
+|  (a) The emergency radio infrastructure _revolving loan_  
+| account is an account in the general revenue fund.  
+|  (b) The account consists of:  
+|  (1) fees deposited in the account as provided by  
+| Section _133.102(e)(9)_ [ ~~133.102(e)(11)~~ ], Local Government Code;  
+|  _(2) payments on loans made under Section 411.4015;_ and  
+|  _(3)_ [ ~~(2)~~ ] notwithstanding Section 404.071, all  
+| interest attributable to money held in the account.  
+|  (c) Money in the account may be _used only for loans made_  
+| _under this subchapter_ [ ~~appropriated to the department for the~~  
+|  ~~purposes described by Section 411.402~~ ].  
+|  SECTION 5. Section 133.102(e), Local Government Code, is  
+| amended to read as follows:  
+|  (e) The comptroller shall allocate the court costs received  
+| under this section to the following accounts and funds so that each  
+| receives to the extent practicable, utilizing historical data as  
+| applicable, the same amount of money the account or fund would have  
+| received if the court costs for the accounts and funds had been  
+| collected and reported separately, except that the account or fund  
+| may not receive less than the following percentages:  
+|  (1) crime stoppers assistance0.2581 percent;  
+|  (2) breath alcohol testing0.5507 percent;  
+|  (3) Bill Blackwood Law Enforcement Management  
+| Institute2.1683 percent;  
+|  (4) law enforcement officers standards and  
+| education5.0034 percent;  
+|  (5) law enforcement and custodial officer  
+| supplemental retirement fund11.1426 percent;  
+|  (6) criminal justice planning12.5537 percent;  
+|  (7) an account in the state treasury to be used only  
+| for the establishment and operation of the Center for the Study and  
+| Prevention of Juvenile Crime and Delinquency at Prairie View A&M  
+| University1.2090 percent;  
+|  (8) compensation to victims of crime fund  
+| 37.6338 percent;  
+|  (9) emergency radio infrastructure _revolving loan_  
+| account5.5904 percent;  
+|  (10) judicial and court personnel training fund  
+| 4.8362 percent;  
+|  (11) an account in the state treasury to be used for  
+| the establishment and operation of the Correctional Management  
+| Institute of Texas and Criminal Justice Center Account  
+| 1.2090 percent; and  
+|  (12) fair defense account17.8448 percent.  
+|  SECTION 6. On the effective date of this Act, all money in  
+| the emergency radio infrastructure account is transferred to the  
+| emergency radio infrastructure revolving loan account under  
+| Section 411.403, Government Code, as amended by this Act.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

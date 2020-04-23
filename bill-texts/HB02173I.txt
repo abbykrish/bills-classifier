@@ -1,0 +1,250 @@
+| 86R11590 ATP-F  
+---|---  
+|  By: Murphy | H.B. No. 2173  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of state banks, state trust companies,  
+| and third-party service providers of state banks and state trust  
+| companies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 31.002(a)(55-a), Finance Code, is  
+| amended to read as follows:  
+|  (55-a) "Third-party service provider" means a person  
+| who performs activities relating to the business of banking on  
+| behalf of a depository institution for the depository institution's  
+| customers or on behalf of another person directly engaged in  
+| providing financial services for the person's customers. The term:  
+|  (A) includes a person who:  
+|  (i) provides data processing services;  
+|  (ii) performs activities in support of the  
+| provision of financial services, including lending, transferring  
+| funds, fiduciary activities, trading activities, and deposit  
+| taking activities; [ ~~or~~ ]  
+|  (iii) _engages wholly or partly in the_  
+| _practice of assembling or evaluating consumer credit information or_  
+| _other information on consumers for the purpose of furnishing_  
+| _consumer reports to third parties, including depository_  
+| _institutions; or_  
+|  _(iv)_ provides Internet-related services,  
+| including web services, processing electronic bill payments,  
+| developing and maintaining mobile applications, system and  
+| software development and maintenance, and security monitoring; and  
+|  (B) does not include a provider of an interactive  
+| computer service or a general audience Internet or communications  
+| platform, except to the extent that the service or platform is  
+| specially designed or adapted for the business of banking and  
+| activities relating to the business of banking.  
+|  SECTION 2. Section 31.105, Finance Code, is amended by  
+| adding Subsections (f) and (g) to read as follows:  
+|  _(f)_ _____Except to the extent disclosure is necessary to locate_  
+| _and produce responsive records or obtain legal representation and_  
+| _subject to Subsection (g), a subpoena issued under this section may_  
+| _provide that the person to whom the subpoena is directed or any_  
+| _person who comes into receipt of the subpoena may not:_  
+|  _(1) disclose that the subpoena has been issued;_  
+|  _(2)_ _____disclose or describe any records requested in the_  
+| _subpoena;_  
+|  _(3)_ _____disclose whether records have been furnished in_  
+| _response to the subpoena; or_  
+|  _(4)_ _____if the subpoena requires a person to be examined_  
+| _under oath, disclose or describe the examination, including the_  
+| _questions asked, the testimony given, or the transcript produced._  
+|  _(g)_ _____A subpoena issued under this section may prohibit the_  
+| _disclosure of information described by Subsection (f) only if the_  
+| _banking commissioner finds, and the subpoena states, that:_  
+|  _(1)_ _____the subpoena, the examination, or the records_  
+| _relate to an ongoing investigation; and_  
+|  _(2)_ _____the disclosure could significantly impede or_  
+| _jeopardize the investigation._  
+|  SECTION 3. Section 31.107, Finance Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____A third-party service provider that refuses to submit to_  
+| _examination or to pay an assessed fee for examination under this_  
+| _section is subject to an enforcement action under Chapter 35. With_  
+| _respect to a third-party service provider's refusal to submit to_  
+| _examination, the banking commissioner may notify all state banks of_  
+| _the refusal and warn that continued use of the third-party service_  
+| _provider may constitute an unsafe and unsound banking practice._  
+|  SECTION 4. Section 33.005, Finance Code, is amended to read  
+| as follows:  
+|  Sec. 33.005. EXEMPTIONS. The following acquisitions are  
+| exempt from Section 33.001:  
+|  (1) an acquisition of securities in connection with  
+| the exercise of a security interest or otherwise in full or partial  
+| satisfaction of a debt previously contracted for in good faith and  
+| the acquiring person files written notice of acquisition with the  
+| banking commissioner before the person votes the securities  
+| acquired;  
+|  (2) an acquisition of voting securities in any class  
+| or series by a controlling person who has previously complied with  
+| and received approval under this subchapter or who was identified  
+| as a controlling person in a prior application filed with and  
+| approved by the banking commissioner;  
+|  (3) an acquisition or transfer by operation of law,  
+| will, or intestate succession and the acquiring person files  
+| written notice of acquisition with the banking commissioner before  
+| the person votes the securities acquired;  
+|  (4) a transaction subject to Chapter 202 _if:_  
+|  _(A)_ _____the acquiring bank holding company currently_  
+| _owns and controls a state bank; or_  
+|  _(B) the post-transaction controlling person:_  
+|  _(i)_ _____has previously complied with and_  
+| _received approval as a controlling person under this subchapter; or_  
+|  _(ii)_ _____is identified as the controlling_  
+| _person in a merger or other acquisition-related application filed_  
+| _with the banking commissioner concurrently with the submission_  
+| _required by Section 202.001_ ; and  
+|  (5) a transaction exempted by the banking commissioner  
+| or by rules adopted under this subtitle because the transaction is  
+| not within the purposes of this subchapter or the regulation of the  
+| transaction is not necessary or appropriate to achieve the  
+| objectives of this subchapter.  
+|  SECTION 5. Section 35.010(c), Finance Code, is amended to  
+| read as follows:  
+|  (c) If the banking commissioner determines after the  
+| hearing that the alleged conduct occurred and that the conduct  
+| constitutes a violation, the banking commissioner may impose an  
+| administrative penalty against a bank or other person, as  
+| applicable, in an amount:  
+|  (1) if imposed against a bank, [ ~~not less than $500 and~~ ]  
+| not more than $10,000 for each violation for each day the violation  
+| continues, except that the maximum administrative penalty that may  
+| be imposed is the lesser of $500,000 or one percent of the bank's  
+| assets; or  
+|  (2) if imposed against a person other than a bank, [ ~~not~~  
+|  ~~less than $500 and~~ ] not more than $5,000 for each violation for each  
+| day the violation continues, except that the maximum administrative  
+| penalty that may be imposed is $250,000.  
+|  SECTION 6. Section 35.203, Finance Code, is amended by  
+| adding Subsections (h) and (i) to read as follows:  
+|  _(h)_ _____Except to the extent disclosure is necessary to locate_  
+| _and produce responsive records or obtain legal representation and_  
+| _subject to Subsection (i), a subpoena issued under this section may_  
+| _provide that the person to whom the subpoena is directed or any_  
+| _person who comes into receipt of the subpoena may not:_  
+|  _(1) disclose that the subpoena has been issued;_  
+|  _(2)_ _____disclose or describe any records requested in the_  
+| _subpoena;_  
+|  _(3)_ _____disclose whether records have been furnished in_  
+| _response to the subpoena; or_  
+|  _(4)_ _____if the subpoena requires a person to be examined_  
+| _under oath, disclose or describe the examination, including the_  
+| _questions asked, the testimony given, or the transcript produced._  
+|  _(i)_ _____A subpoena issued under this section may prohibit the_  
+| _disclosure of information described by Subsection (h) only if the_  
+| _banking commissioner finds, and the subpoena states, that:_  
+|  _(1)_ _____the subpoena, the examination, or the records_  
+| _relate to an ongoing investigation; and_  
+|  _(2)_ _____the disclosure could significantly impede or_  
+| _jeopardize the investigation._  
+|  SECTION 7. Sections 181.002(a)(47-b) and (49), Finance  
+| Code, are amended to read as follows:  
+|  (47-b) "Third-party service provider" means a person  
+| who performs activities relating to the trust business on behalf of  
+| a trust institution for the trust institution's customers or on  
+| behalf of another person directly engaged in providing financial  
+| services for the person's customers. The term:  
+|  (A) includes a person who:  
+|  (i) provides data processing services;  
+|  (ii) performs activities in support of the  
+| provision of financial services, including lending, transferring  
+| funds, fiduciary activities, trading activities, and deposit  
+| taking activities; [ ~~or~~ ]  
+|  (iii) _engages wholly or partly in the_  
+| _practice of assembling or evaluating consumer credit information or_  
+| _other information on consumers for the purpose of furnishing_  
+| _consumer reports to third parties, including trust institutions; or_  
+|  _(iv)_ provides Internet-related services,  
+| including web services, processing electronic bill payments,  
+| developing and maintaining mobile applications, system and  
+| software development and maintenance, and security monitoring; and  
+|  (B) does not include a provider of an interactive  
+| computer service or a general audience Internet or communications  
+| platform, except to the extent that the service or platform is  
+| specially designed or adapted for the trust business and activities  
+| relating to the trust business.  
+|  (49) "Trust business" means the business of a company  
+| holding itself out to the public as a fiduciary for hire or  
+| compensation to hold or administer accounts. The term includes:  
+|  (A) the business of a trustee or custodian of an  
+| individual retirement account described by Section 408(a),  
+| Internal Revenue Code of 1986; and  
+|  (B) the business of an administrator or servicer  
+| of individual retirement accounts described by Section 408(a),  
+| Internal Revenue Code of 1986, who [ ~~possesses or controls any~~  
+|  ~~assets, including cash, of those accounts and who~~ ] makes the  
+| administrator's or servicer's services available to the public for  
+| hire or compensation.  
+|  SECTION 8. Section 181.104, Finance Code, is amended by  
+| adding Subsections (h) and (i) to read as follows:  
+|  _(h)_ _____Except to the extent disclosure is necessary to locate_  
+| _and produce responsive records or obtain legal representation and_  
+| _subject to Subsection (i), a subpoena issued under this section may_  
+| _provide that the person to whom the subpoena is directed or any_  
+| _person who comes into receipt of the subpoena may not:_  
+|  _(1) disclose that the subpoena has been issued;_  
+|  _(2)_ _____disclose or describe any records requested in the_  
+| _subpoena;_  
+|  _(3)_ _____disclose whether records have been furnished in_  
+| _response to the subpoena; or_  
+|  _(4)_ _____if the subpoena requires a person to be examined_  
+| _under oath, disclose or describe the examination, including the_  
+| _questions asked, the testimony given, or the transcript produced._  
+|  _(i)_ _____A subpoena issued under this section may prohibit the_  
+| _disclosure of information described by Subsection (h) only if the_  
+| _banking commissioner finds, and the subpoena states, that:_  
+|  _(1)_ _____the subpoena, the examination, or the records_  
+| _relate to an ongoing investigation; and_  
+|  _(2)_ _____the disclosure could significantly impede or_  
+| _jeopardize the investigation._  
+|  SECTION 9. Section 181.106, Finance Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____A third-party service provider that refuses to submit to_  
+| _examination or to pay an assessed fee for examination under this_  
+| _section is subject to an enforcement action under Chapter 185. With_  
+| _respect to a third-party service provider's refusal to submit to_  
+| _examination, the banking commissioner may notify all state trust_  
+| _companies of the refusal and warn that continued use of the_  
+| _third-party service provider may constitute an unsafe and unsound_  
+| _fiduciary practice._  
+|  SECTION 10. Section 185.010(c), Finance Code, is amended to  
+| read as follows:  
+|  (c) If the banking commissioner determines after the  
+| hearing that the alleged conduct occurred and that the conduct  
+| constitutes a violation, the banking commissioner may impose an  
+| administrative penalty against a state trust company or other  
+| person, as applicable, in an amount:  
+|  (1) if imposed against a state trust company, [ ~~not~~  
+|  ~~less than $500 and~~ ] not more than $10,000 for each violation for  
+| each day the violation continues, except that the maximum  
+| administrative penalty that may be imposed is the lesser of  
+| $500,000 or one percent of the state trust company's assets; or  
+|  (2) if imposed against a person other than a state  
+| trust company, [ ~~not less than $500 and~~ ] not more than $5,000 for  
+| each violation for each day the violation continues, except that  
+| the maximum administrative penalty that may be imposed is $250,000.  
+|  SECTION 11. Section 185.202, Finance Code, is amended by  
+| adding Subsections (h) and (i) to read as follows:  
+|  _(h)_ _____Except to the extent disclosure is necessary to locate_  
+| _and produce responsive records or obtain legal representation and_  
+| _subject to Subsection (i), a subpoena issued under this section may_  
+| _provide that the person to whom the subpoena is directed or any_  
+| _person who comes into receipt of the subpoena may not:_  
+|  _(1) disclose that the subpoena has been issued;_  
+|  _(2)_ _____disclose or describe any records requested in the_  
+| _subpoena;_  
+|  _(3)_ _____disclose whether records have been furnished in_  
+| _response to the subpoena; or_  
+|  _(4)_ _____if the subpoena requires a person to be examined_  
+| _under oath, disclose or describe the examination, including the_  
+| _questions asked, the testimony given, or the transcript produced._  
+|  _(i)_ _____A subpoena issued under this section may prohibit the_  
+| _disclosure of information described by Subsection (h) only if the_  
+| _banking commissioner finds, and the subpoena states, that:_  
+|  _(1)_ _____the subpoena, the examination, or the records_  
+| _relate to an ongoing investigation; and_  
+|  _(2)_ _____the disclosure could significantly impede or_  
+| _jeopardize the investigation._  
+|  SECTION 12. This Act takes effect September 1, 2019.
+

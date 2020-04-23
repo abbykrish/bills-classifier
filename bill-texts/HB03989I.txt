@@ -1,0 +1,93 @@
+| 86R10801 MEW-D  
+---|---  
+|  By: Leach | H.B. No. 3989  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a pilot program for the provision of health coverage for  
+| school district employees in certain school districts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 1579, Insurance Code, is amended by  
+| adding Subchapter H to read as follows:  
+| _SUBCHAPTER H. PILOT PROGRAM_  
+|  _Sec._ ___1579.351._ _____ELIGIBILITY FOR PILOT PROGRAM. A school_  
+| _district, including a school district required to participate in_  
+| _the program under Section 1579.151, is eligible to participate in_  
+| _the pilot program under this subchapter, provided that the school_  
+| _district meets the requirements imposed by this subchapter for_  
+| _participation in the pilot program._  
+|  _Sec._ ___1579.352._ _____CONSORTIUM. School districts considering_  
+| _participating in the pilot program under this subchapter shall_  
+| _establish a consortium to consider alternative health benefit plan_  
+| _coverage for employees of consortium districts._  
+|  _Sec._ ___1579.353._ _____DISTRICT REQUEST FOR PROGRAM INFORMATION._  
+| _(a) On request of a school district that is a member of a consortium_  
+| _established under Section 1579.352, and subject to Subsection (b),_  
+| _the trustee shall provide to the consortium school district any_  
+| _historical claims data, enrollment information, or other relevant_  
+| _information available to the trustee as requested by the district_  
+| _in connection with a search for alternative health benefit plan_  
+| _coverage for the district's employees and the employees'_  
+| _dependents. The information provided must include, for each tier_  
+| _of group coverage and for the five-year period preceding the date of_  
+| _the request:_  
+|  _(1) the monthly claims experience history;_  
+|  _(2)_ _____information concerning the type of illness or_  
+| _injury and the ongoing status of the illness or injury for:_  
+|  _(A) each medical claim that exceeds $50,000; and_  
+|  _(B)_ _____each related series of medical claims for the_  
+| _same covered individual and for the same diagnosis that exceeds_  
+| _$50,000;_  
+|  _(3)_ _____any other information requested by the district_  
+| _concerning covered individuals who are responsible for a claim or_  
+| _claims that total a large amount, as specified by the requesting_  
+| _district;_  
+|  _(4)_ _____information concerning prescription drug claims_  
+| _and costs; and_  
+|  _(5) plan enrollment._  
+|  _(b)_ _____The information provided by the trustee under this_  
+| _section may not include any personally identifying information of a_  
+| _covered individual, including any information that would identify a_  
+| _named covered individual as having a particular medical condition._  
+|  _(c)_ _____The trustee shall provide the information requested_  
+| _under this section at no cost to the requesting school district._  
+|  _(d)_ _____If the trustee does not comply with the requirements of_  
+| _this section, the requesting school district may bring a suit in a_  
+| _district court in Travis County or in the county in which the_  
+| _district is located to compel the trustee's compliance._  
+|  _(e)_ _____If the school district prevails, the trustee shall pay_  
+| _all court costs and attorney's fees incurred by the district in_  
+| _connection with a suit brought under Subsection (d)._  
+|  _Sec._ ___1579.354._ _____PARTICIPATION IN PILOT PROGRAM; WITHDRAWAL_  
+| _FROM GROUP PROGRAM. (a) After a consortium of school districts_  
+| _established under Section 1579.352 obtains options for alternative_  
+| _health benefit plan coverage for employees of consortium districts,_  
+| _each school district in the consortium may elect to withdraw from_  
+| _the uniform group coverage program established under this chapter_  
+| _by notifying the trustee in writing that the school district is_  
+| _withdrawing from the group program and may participate in the pilot_  
+| _program under this subchapter._  
+|  _(b)_ _____Each consortium district that withdraws from the group_  
+| _program to participate in the pilot program under this subchapter:_  
+|  _(1)_ _____must obtain health coverage for the district's_  
+| _employees through the open market; and_  
+|  _(2)_ _____may use any purchasing method, including an_  
+| _interlocal cooperative purchasing agreement, to purchase health_  
+| _coverage for the district's employees._  
+|  _Sec._ ___1579.355._ _____MIXED METHOD STUDY. (a) Consortium school_  
+| _districts that withdraw from the group program under Section_  
+| _1579.354 must create a mixed method study, using qualitative and_  
+| _quantitative data, of the health coverage provided to the_  
+| _district's employees under the pilot program._  
+|  _(b)_ _____A consortium school district must report to the_  
+| _legislature the results of the district's study under Subsection_  
+| _(a) and, based on the results of the study, provide information_  
+| _regarding the viability of providing health coverage using a_  
+| _regional cohort method for school districts across the state._  
+|  _Sec._ ___1579.356._ _____RETURN TO GROUP PROGRAM. A school district_  
+| _that withdraws from the group program under Section 1579.354 and_  
+| _participates in the pilot program under this subchapter may resume_  
+| _participation in the group program effective not earlier than the_  
+| _fourth anniversary of the effective date of withdrawal._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

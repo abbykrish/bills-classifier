@@ -1,0 +1,48 @@
+| 86R10684 EAS-F  
+---|---  
+|  By: Rose | H.B. No. 3536  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the admission, examination, and discharge of a person  
+| for voluntary mental health services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 572.0025, Health and Safety Code, is  
+| amended by amending Subsections (f) and (g) and adding Subsection  
+| (f-1) to read as follows:  
+|  (f) A prospective voluntary patient may not be formally  
+| accepted for treatment in a facility unless:  
+|  (1) the facility has a physician's order admitting the  
+| prospective patient, which order may be issued orally,  
+| electronically, or in writing, signed by the physician, provided  
+| that, in the case of an oral order or an electronically transmitted  
+| unsigned order, a signed original is presented to the mental health  
+| facility within 24 hours of the initial order; the order must be  
+| from:  
+|  (A) an admitting physician who has, either in  
+| person or through the use of audiovisual or other  
+| telecommunications technology, conducted a physical and  
+| psychiatric examination within _:_  
+|  _(i)_ 72 hours _before_ [ ~~of the~~ ] admission; or  
+|  _(ii) 24 hours after admission; or_  
+|  (B) an admitting physician who has consulted with  
+| a physician who has, either in person or through the use of  
+| audiovisual or other telecommunications technology, conducted an  
+| examination within _:_  
+|  _(i)_ 72 hours _before_ [ ~~of the~~ ] admission; _or_  
+|  _(ii) 24 hours after admission;_ and  
+|  (2) the facility administrator or a person designated  
+| by the administrator has agreed to accept the prospective patient  
+| and has signed a statement to that effect.  
+|  _(f-1)_ _____A person who is admitted to a facility before the_  
+| _performance of the physical and psychiatric examination required by_  
+| _Subsection (f) must be discharged by the physician if the physician_  
+| _conducting the physical and psychiatric examination determines the_  
+| _person does not meet the clinical standards to receive inpatient_  
+| _mental health services._  
+|  (g) An assessment conducted as required by rules adopted  
+| under this section does not satisfy a statutory or regulatory  
+| requirement for a personal evaluation of a patient or a prospective  
+| patient by a physician [ ~~before admission~~ ].  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

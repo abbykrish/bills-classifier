@@ -1,0 +1,253 @@
+| 86R4254 KKR-F  
+---|---  
+|  By: Collier | H.B. No. 995  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring certain employers to provide paid leave to  
+| employees; providing administrative penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle D, Title 2, Labor Code, is amended by  
+| adding Chapter 83 to read as follows:  
+| _CHAPTER 83. EARNED PAID LEAVE_  
+|  _Sec. 83.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Commission" means the Texas Workforce_  
+| _Commission._  
+|  _(2)_ _____"Employee" means a person employed by an employer._ __  
+| _The term does not include a person who is:_  
+|  _(A) an unpaid volunteer;_  
+|  _(B) an independent contractor; or_  
+|  _(C)_ _____a participant in a work-study program that_  
+| _provides employment opportunities for compensation or vocational_  
+| _training to students attending a secondary or post-secondary_  
+| _educational institution._  
+|  _(3)_ _____"Employer" means a person who is engaged in an_  
+| _industry affecting commerce and who has 50 or more employees for_  
+| _each working day in each of 20 or more calendar weeks in the current_  
+| _or preceding calendar year._  
+|  _Sec._ ___83.002._ _____APPLICABILITY OF CHAPTER. This chapter does_  
+| _not apply to:_  
+|  _(1) an employee who is:_  
+|  _(A)_ _____entitled to unemployment benefits or_  
+| _allowances under the Railroad Unemployment Insurance Act (45 U.S.C._  
+| _Section 351 et seq.);_  
+|  _(B)_ _____covered under the Railway Labor Act (45_  
+| _U.S.C. 151 et seq.); or_  
+|  _(C)_ _____employed by the employee's parent, spouse, or_  
+| _child; or_  
+|  _(2) an employer who is:_  
+|  _(A)_ _____a state agency or political subdivision, as_  
+| _those terms are defined by Section 21.002;_  
+|  _(B) an agency of the federal government; or_  
+|  _(C)_ _____a charitable or religious organization_  
+| _exempt from taxation under Section 501(c), Internal Revenue Code of_  
+| _1986._  
+|  _Sec._ ___83.003._ _____PAID LEAVE REQUIRED. (a)_ ___Each employer shall_  
+| _provide paid leave annually to each employee in this state under the_  
+| _terms of this chapter._  
+|  _(b)_ _____Notwithstanding Subsection (a), an employer with not_  
+| _more than 75 employees is not required to provide paid leave under_  
+| _this chapter before the second anniversary of the date the employer_  
+| _hires the employer's first employee._  
+|  _Sec._ ___83.004._ _____PAID LEAVE ACCRUAL AND CARRYOVER. (a)_ ___Paid_  
+| _leave under this chapter accrues beginning on the date of hire:_  
+|  _(1)_ _____at a rate of one hour of paid leave for each 30_  
+| _hours worked by an employee; and_  
+|  _(2) up to a maximum of 40 hours per calendar year._  
+|  _(b)_ _____Each employee is entitled to carry over not more than 40_  
+| _unused accrued hours of paid leave from the current calendar year to_  
+| _the following calendar year unless the employer elects to pay the_  
+| _employee for any unused paid leave at the end of the year at the rate_  
+| _described by Section 83.007._  
+|  _(c)_ _____Leave hours carried over from a previous calendar year_  
+| _must be immediately available to the employee in the following_  
+| _calendar year._  
+|  _Sec._ ___83.005._ _____ENTITLEMENT TO USE PAID LEAVE; LIMITATIONS._  
+| _(a)_ ___An employee is entitled to use accrued paid leave under this_  
+| _chapter 90 calendar days after the date of hire, unless the employer_  
+| _agrees to an earlier date._  
+|  _(b)_ _____An employee is not entitled to use accrued paid leave_  
+| _under this chapter if the employee did not work an average of 18 or_  
+| _more hours a week for the employer in the most recent complete_  
+| _calendar year._  
+|  _(c)_ _____An employee is not entitled to use more than 40 hours of_  
+| _accrued paid leave under this chapter in any calendar year._  
+|  _(d)_ _____An employer may make immediately available to an_  
+| _employee at the beginning of a year, quarter, or other period the_  
+| _entire amount of paid leave that the employee is expected to accrue_  
+| _during the year, quarter, or other period._  
+|  _(e)_ _____At the employer's discretion, an employer may loan paid_  
+| _leave time to an employee in advance of accrual by the employee._  
+|  _(f)_ _____On the mutual consent of the employee and employer, an_  
+| _employee who chooses to work additional hours or shifts during the_  
+| _same or following pay period, instead of hours or shifts missed,_  
+| _does not use accrued paid leave._  
+|  _(g)_ _____Unless an employee policy or collective bargaining_  
+| _agreement provides for the payment of accrued fringe benefits on_  
+| _termination, an employee is not entitled to payment of unused_  
+| _accrued paid leave under this chapter on termination of employment._  
+|  _Sec._ ___83.006._ _____EMPLOYER COMPLIANCE. (a)_ ___An employer is_  
+| _considered to be in compliance with this chapter if the employer_  
+| _offers one or more other types of paid leave that:_  
+|  _(1) may be used for any purpose; and_  
+|  _(2)_ _____is accrued at a rate equal to or greater than the_  
+| _rate described by Section 83.004._  
+|  _(b)_ _____For the purposes of this section, other types of paid_  
+| _leave include paid vacation, personal days, and paid time off._  
+|  _Sec._ ___83.007._ _____PAY RATE FOR LEAVE. (a)_ ___Each employer shall_  
+| _pay each employee for paid leave time taken at a pay rate equal to_  
+| _the normal hourly wage for that employee._  
+|  _(b)_ _____For any employee whose hourly wage varies depending on_  
+| _the work performed by the employee, the normal hourly wage is_  
+| _considered to be the average hourly wage of the employee in the pay_  
+| _period preceding the pay period in which the employee uses paid_  
+| _leave._  
+|  _(c)_ _____If an employee receives gratuity in the course of_  
+| _employment to the extent that the gratuity is considered wages in_  
+| _the computation of taxes under the Federal Unemployment Tax Act (26_  
+| _U.S.C. Section 3301 et seq.), the employee's normal hourly wage may_  
+| _not be less than the amount required by Section 62.051._  
+|  _(d)_ _____If the employee's normal hourly wage cannot be_  
+| _determined, the employer shall pay the employee for leave under_  
+| _this chapter at an hourly wage that may not be less than the amount_  
+| _required by Section 62.051._  
+|  _Sec._ ___83.008._ _____USE OF PAID LEAVE._ ___An employee may use paid_  
+| _leave accrued under this chapter for any purpose, and is not_  
+| _required to disclose the reason for taking leave to the employer._  
+|  _Sec._ ___83.009._ _____NOTICE TO EMPLOYER. (a)_ ___If an employee's need_  
+| _to use paid leave under this chapter is foreseeable, an employer may_  
+| _require advance notice of the intention to use paid leave not more_  
+| _than seven days before the date the leave is to begin._  
+|  _(b)_ _____If an employee's need for paid leave is not foreseeable,_  
+| _an employer may require the employee to give notice of the intention_  
+| _to use paid leave under this chapter as soon as practicable._  
+|  _Sec._ ___83.010._ _____NOTICE TO EMPLOYEES._ ___(a)_ ___Each employer_  
+| _subject to this chapter shall, at the time of hiring, provide notice_  
+| _in both English and Spanish to each employee:_  
+|  _(1)_ _____of the employee's entitlement to paid leave, the_  
+| _amount of paid leave provided to employees, and the terms under_  
+| _which paid leave may be used under this chapter;_  
+|  _(2)_ _____that retaliation by the employer against the_  
+| _employee for requesting or using paid leave to which the employee is_  
+| _entitled is prohibited; and_  
+|  _(3)_ _____that the employee has a right to file a complaint_  
+| _with the commission or bring a civil action for damages for any_  
+| _violation of this chapter._  
+|  _(b)_ _____An employer may comply with this section by displaying a_  
+| _poster in a conspicuous place, accessible to employees, at the_  
+| _employer's place of business that contains in both English and_  
+| _Spanish the information required by this section._  
+|  _(c)_ _____The notice under this section must also be provided in a_  
+| _language other than English or Spanish if that language is the first_  
+| _language spoken by at least 30 percent of the employer's workforce._  
+|  _(d)_ _____The commission may adopt rules to establish additional_  
+| _requirements concerning the means by which employers provide notice_  
+| _required under this section._  
+|  _Sec._ ___83.011._ _____BREAK IN SERVICE. (a)_ ___Termination of an_  
+| _employee's employment by an employer, regardless of whether_  
+| _voluntary or involuntary, is considered a break in service for_  
+| _purposes of this chapter._  
+|  _(b)_ _____An employee who is subsequently rehired by the employer_  
+| _following a break in service:_  
+|  _(1)_ _____begins to accrue paid leave under this chapter;_  
+| _and_  
+|  _(2)_ _____is not entitled to any unused hours of paid leave_  
+| _that had accrued before the employee's break in service, unless the_  
+| _employee is rehired within 30 days of separation or the employer_  
+| _agrees to reinstate some or all of the employee's previously_  
+| _accrued paid leave._  
+|  _Sec._ ___83.012._ _____TRANSFER OF EMPLOYEE. (a)_ ___The transfer of an_  
+| _employee to a separate division, entity, or location of the same_  
+| _employer is not considered to be a break in service for purposes of_  
+| _this chapter._  
+|  _(b)_ _____Following a transfer described by Subsection (a), the_  
+| _transferred employee is entitled to:_  
+|  _(1)_ _____retain all accrued paid leave under this chapter;_  
+| _and_  
+|  _(2)_ _____immediately access the retained paid leave time_  
+| _without any waiting period._  
+|  _Sec._ ___83.013._ _____SUCCESSOR EMPLOYER. If an employer succeeds_  
+| _or takes the place of an existing employer, employees of the former_  
+| _employer who are employed by the successor are entitled to:_  
+|  _(1)_ _____retain all accrued paid leave under this chapter;_  
+| _and_  
+|  _(2)_ _____immediately access the retained paid leave time_  
+| _without any waiting period._  
+|  _Sec._ ___83.014._ _____LIMITATIONS OF CHAPTER._ ___This chapter does_  
+| _not:_  
+|  _(1)_ _____prevent an employer from providing more paid leave_  
+| _than is required under this chapter;_  
+|  _(2)_ _____prohibit an employer that provides paid leave in_  
+| _addition to the paid leave required under this chapter from_  
+| _restricting the purposes for which an employee may take that_  
+| _additional leave; or_  
+|  _(3)_ _____diminish any rights provided to any employee under_  
+| _a collective bargaining agreement._  
+|  _Sec._ ___83.015._ _____COLLECTIVE BARGAINING AGREEMENTS. A_  
+| _collective bargaining agreement may waive the requirements of this_  
+| _chapter by clear and unambiguous language within the agreement._  
+|  _Sec._ ___83.016._ _____RETALIATION PROHIBITED._ ___An employer may not_  
+| _take retaliatory personnel action or otherwise discriminate_  
+| _against an employee because the employee:_  
+|  _(1)_ _____requests or uses paid leave in accordance with_  
+| _this chapter; or_  
+|  _(2)_ _____files a complaint with the commission alleging the_  
+| _employer's violation of this chapter._  
+|  _Sec._ ___83.017._ _____COMPLAINT; HEARING; PENALTY. (a)_ ___Any_  
+| _employee aggrieved by a violation of this chapter may file a claim_  
+| _with the commission in the manner prescribed by Subchapter D,_  
+| _Chapter 61._  
+|  _(b)_ _____On receipt of a complaint, the commission shall_  
+| _investigate and dispose of the complaint in the same manner as a_  
+| _wage claim under Subchapter D, Chapter 61._  
+|  _(c)_ _____An employer who is found by the commission, by a_  
+| _preponderance of the evidence, to have violated Section 83.016 is_  
+| _liable to the commission for an administrative penalty of $500 for_  
+| _each violation._  
+|  _(d)_ _____An employer who is found by the commission, by a_  
+| _preponderance of the evidence, to have violated a provision under_  
+| _this chapter other than Section 83.016 is liable to the commission_  
+| _for an administrative penalty of not more than $100 for each_  
+| _violation._  
+|  _(e)_ _____The commission may award the employee all appropriate_  
+| _relief, including payment for used paid leave, rehiring or_  
+| _reinstatement to the employee's previous job, payment of back_  
+| _wages, and reestablishment of employee benefits for which the_  
+| _employee otherwise would have been eligible if the employee had not_  
+| _been subject to retaliatory personnel action or other_  
+| _discrimination._  
+|  _(f)_ _____A party may appeal a final decision of the commission by_  
+| _filing suit in district court._  
+|  _Sec._ ___83.018._ _____CIVIL ACTION BY EMPLOYEE. (a) An employee_  
+| _aggrieved by a violation of this chapter may bring a civil action to_  
+| _enforce rights protected by this chapter, including an action for_  
+| _appropriate injunctive relief, in the district court in the county_  
+| _in which the alleged violation occurred or in which the alleged_  
+| _violator's residence or principal place of business is located._  
+|  _(b)_ _____An action under this section must be brought not later_  
+| _than the third anniversary of the date of the violation._  
+|  _(c)_ _____The employer of an employee who prevails in a civil_  
+| _action under this section is liable to the affected employee for_  
+| _damages equal to the amount of any wages, salary, employment_  
+| _benefits, or other compensation denied or lost to the employee by_  
+| _reason of the violation or, if wages, salary, employment benefits,_  
+| _or other compensation has not been denied or lost, any actual_  
+| _monetary losses sustained by the employee as a direct result of the_  
+| _violation._  
+|  _(d)_ _____An employer described by Subsection (c) is also liable_  
+| _for equitable relief as appropriate, including reinstatement and_  
+| _promotion._  
+|  _(e)_ _____In addition to any judgment awarded to an employee, the_  
+| _court may require the employer to pay reasonable attorney's fees,_  
+| _reasonable expert witness fees, and other costs._  
+|  SECTION 2. (a)  The change in law made by this Act applies to  
+| an employee hired on or after January 1, 2021.  For an employee  
+| hired before January 1, 2021, paid leave under Chapter 83, Labor  
+| Code, as added by this Act, begins to accrue on that date, and the  
+| employee may begin to use the paid leave 90 calendar days after that  
+| date, unless the employer agrees to an earlier date.  
+|  (b) Chapter 83, Labor Code, as added by this Act, does not  
+| preempt or override the terms of any collective bargaining  
+| agreement effective before January 1, 2021.  
+|  SECTION 3. This Act takes effect January 1, 2021.
+

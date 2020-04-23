@@ -1,0 +1,48 @@
+|  
+---|---  
+|  By: Wilson | H.B. No. 4409  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+|  
+| relating to monitoring emissions of air contaminants from certain  
+| mining-related facilities; imposing of a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 382, Health and Safety  
+| Code, is amended by adding Section 382.069 to read as follows:  
+|  _Sec._ ___382.069._ _____MONITORING OF EMISSIONS FROM MINING-RELATED_  
+| _FACILITIES; FEES DEPOSITED TO FUND._ ___(a)_ ___This section applies only_  
+| _to a person who holds a permit issued under this chapter relating_  
+| _to:_  
+|  _(1)_ _____the production of aggregates, as defined by_  
+| _Section 28A.001, Water Code;_  
+|  _(2)_ _____the operation of a concrete plant that performs_  
+| _wet batching, dry batching, or central mixing; or_  
+|  _(3) the operation of a hot mix asphalt plant._  
+|  _(b)_ _____The commission by rule shall require as a condition of a_  
+| _permit that the permit holder install and maintain equipment to_  
+| _monitor in real time emissions of air contaminants from the_  
+| _permitted facility._ ___The rules must require that:_  
+|  _(1) the equipment monitor emissions at the point on_  
+|  _(c)_ _____The commission shall maintain a publicly accessible_  
+| _Internet website to provide data collected under this section to_  
+| _the public._  
+|  _(d)_ _____The commission shall adopt, charge, and collect a fee_  
+| _from permit holders to cover the costs of operating the Internet_  
+| _website._  
+|  _(e)_ _____The mining monitoring fees account is an account in the_  
+| _general revenue fund. The account is composed of fees collected_  
+| _under this section._  
+|  _(f) Fees collected under this section:_  
+|  _(1)_ _____shall be deposited in the state treasury to the_  
+| _credit of the mining monitoring fees account;_  
+|  _(2)_ _____may not be commingled with any fees in the clean_  
+| _air account or with any other money in the state treasury; and_  
+|  _(3)_ _____may be appropriated to the commission only for the_  
+| _purposes described by Subsection (d)._  
+|  SECTION 2. As soon as practicable after the effective date  
+| of this Act, the Texas Commission on Environmental Quality shall  
+| adopt rules as necessary to implement Section 382.069, Health and  
+| Safety Code, as added by this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,138 @@
+|  
+---|---  
+|  By: Capriglione | H.B. No. 2706  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to local government public investment of funds.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2256.010(b), Government Code, is amended  
+| to read as follows:  
+|  (b) In addition to the authority to invest funds in  
+| certificates of deposit under Subsection (a), an investment in  
+| certificates of deposit made in accordance with the following  
+| conditions is an authorized investment under this subchapter:  
+|  (1) the funds are invested by an investing entity  
+| through:  
+|  (A) a broker that has its main office or a branch  
+| office in this state and is selected from a list adopted by the  
+| investing entity as required by Section 2256.025; or  
+|  (B) a depository institution that has its main  
+| office or a branch office in this state and that is selected by the  
+| investing entity;  
+|  (2) the broker or the depository institution selected  
+| by the investing entity under Subdivision (1) arranges for the  
+| deposit of the funds in certificates of deposit in one or more  
+| federally insured depository institutions, wherever located, for  
+| the account of the investing entity;  
+|  (3) the full amount of the principal and accrued  
+| interest of each of the certificates of deposit _:_  
+|  _(A)_ is insured by the United States or an  
+| instrumentality of the United States; _or_  
+|  _(B)_ _____has a stated maturity of 365 days or fewer_  
+| _from the date of its issuance; and_  
+|  _(i)_ _____is rated not less than A-1 or P-1 or an_  
+| _equivalent rating by at least two nationally recognized credit_  
+| _rating agencies; or_  
+|  _(ii)_ _____one nationally recognized credit_  
+| _rating agency and is fully secured by an irrevocable letter of_  
+| _credit issues by a bank organized and existing under the laws of the_  
+| _United States or any state._  
+|  (4) the investing entity appoints the depository  
+| institution selected by the investing entity under Subdivision (1),  
+| an entity described by Section 2257.041(d), or a clearing  
+| broker-dealer registered with the Securities and Exchange  
+| Commission and operating pursuant to Securities and Exchange  
+| Commission Rule 15c3-3 (17 C.F.R. Section 240.15c3-3) as custodian  
+| for the investing entity with respect to the certificates of  
+| deposit issued for the account of the investing entity.  
+|  SECTION 2. Subsections (a) and (b), Section 2256.011,  
+| Government Code, are amended to read as follows:  
+|  (a) A fully collateralized repurchase agreement is an  
+| authorized investment under this subchapter if the repurchase  
+| agreement:  
+|  (1) has a defined termination date;  
+|  (2) is secured by a combination of cash and  
+| obligations described by Section 2256.009(a)(1) _, Section 2256.013,_  
+| _or Section 2256.0204_ ; and  
+|  (3) requires the securities being purchased by the  
+| entity or cash held by the entity to be pledged to the entity, held  
+| in the entity's name, and deposited at the time the investment is  
+| made with the entity or with a third party selected and approved by  
+| the entity; and  
+|  (4) is placed through a primary government securities  
+| dealer, as defined by the Federal Reserve, or a financial  
+| institution doing business in this state.  
+|  (b) In this section, "repurchase agreement" means a  
+| simultaneous agreement to buy, hold for a specified time, and sell  
+| back at a future date obligations described by Section  
+| 2256.009(a)(1), _Section 2256.013, or Section 2256.0204,_ at a market  
+| value at the time the funds are disbursed of not less than the  
+| principal amount of the funds disbursed. The term includes a direct  
+| security repurchase agreement and a reverse security repurchase  
+| agreement.  
+|  SECTION 3. Section 2256.013, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2256.013. AUTHORIZED INVESTMENTS: COMMERCIAL PAPER.  
+| Commercial paper is an authorized investment under this subchapter  
+| if the commercial paper:  
+|  (1) has a stated maturity of _365_ [ ~~270~~ ] days or fewer  
+| from the date of its issuance; and  
+|  (2) is rated not less than A-1 or P-1 or an equivalent  
+| rating by at least:  
+|  (A) two nationally recognized credit rating  
+| agencies; or  
+|  (B) one nationally recognized credit rating  
+| agency and is fully secured by an irrevocable letter of credit  
+| issued by a bank organized and existing under the laws of the United  
+| States or any state.  
+|  SECTION 4. Subsections (e) and (f), Section 2256.016,  
+| Government Code, are amended to read as follows:  
+|  (e) In this section, _for pools that intend to maintain a_  
+| _$1.00 net asset value,_ "yield" shall be calculated in accordance  
+| with regulations governing the registration of open-end management  
+| investment companies under the Investment Company Act of 1940, as  
+| promulgated from time to time by the federal Securities and  
+| Exchange Commission.  
+|  (f) To be eligible to receive funds from and invest funds on  
+| behalf of an entity under this chapter, a public funds investment  
+| pool that uses amortized cost or fair value accounting must mark its  
+| portfolio to market daily, and, to the extent reasonably possible,  
+| _pools that used amortized cost will_ stabilize at a $1.00 net asset  
+| value, when rounded and expressed to two decimal places.  _For pools_  
+| _that use amortized cost, if_ [ ~~If~~ ] the ratio of the market value of  
+| the portfolio divided by the book value of the portfolio is less  
+| than 0.995 or greater than 1.005, the governing body of the public  
+| funds investment pool shall take action as the body determines  
+| necessary to eliminate or reduce to the extent reasonably  
+| practicable any dilution or unfair result to existing participants,  
+| including a sale of portfolio holdings to attempt to maintain the  
+| ratio between 0.995 and 1.005. In addition to the requirements of  
+| its investment policy and any other forms of reporting, a public  
+| funds investment pool that uses amortized cost shall report yield  
+| to its investors in accordance with regulations of the federal  
+| Securities and Exchange Commission applicable to reporting by money  
+| market funds.  
+|  SECTION 5. Section 2256.0204, Government Code, is amended  
+| to read as follows:  
+|  (b) This section applies only to an independent school  
+| district [ ~~that qualifies~~ ~~~~ ~~as an issuer as defined by~~ ~~~~
+~~Section~~  
+|  ~~1371.001~~ ].  
+|  SECTION 6. Chapter 2256, Government Code, is amended to add  
+| Section 2256.0207 to read as follows:  
+|  _Sec._ ___2256.0207._ _____BOND PROCEEDS INVESTMENTS. Money held by a_  
+| _trustee or fiscal agent and pledged to the payment or security of_  
+| _bonds or other indebtedness, or obligations under a lease,_  
+| _installation sale, or other agreement of a local agency, or_  
+| _certificates of participation in those bonds, indebtedness, or_  
+| _lease installment sale, or other agreements, may be invested:_  
+|  _(1)_ _____in accordance with the statutory provisions_  
+| _governing the issuance of those bonds, indebtedness, or lease_  
+| _installment sales, or other agreement; or_  
+|  _(2)_ _____to the extent not inconsistent with or if there are_  
+| _no specific statutory provisions, in accordance with the investment_  
+| _policy the local government provides for the bond issuance._  
+|  SECTION 7. Chapter 2256.0204(g) is repealed.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

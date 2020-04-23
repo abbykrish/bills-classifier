@@ -1,0 +1,251 @@
+| 86R360 KFF-D  
+---|---  
+|  By: Anchia | H.B. No. 1170  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prohibiting the investment of certain state retirement  
+| system funds in companies that manufacture firearms or firearm  
+| ammunition.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 8, Government Code, is amended  
+| by adding Chapter 809 to read as follows:  
+| _CHAPTER 809. PROHIBITION ON INVESTMENT IN COMPANIES THAT_  
+| _MANUFACTURE FIREARMS OR FIREARM AMMUNITION_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 809.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Company" means a for-profit sole proprietorship,_  
+| _organization, association, corporation, partnership, joint_  
+| _venture, limited partnership, limited liability partnership, or_  
+| _limited liability company, including a wholly owned subsidiary,_  
+| _majority-owned subsidiary, parent company, or affiliate of those_  
+| _entities or business associations that exists to make a profit._  
+|  _(2)_ _____"Direct holdings" means, with respect to a_  
+| _company, all securities of that company held directly by a state_  
+| _retirement system in an account or fund in which a state retirement_  
+| _system owns all shares or interests._  
+|  _(3)_ _____"Firearm" has the meaning assigned by Section_  
+| _46.01, Penal Code._  
+|  _(4)_ _____"Firearm ammunition" means ammunition or_  
+| _cartridge cases, primers, bullets, or propellant powder designed_  
+| _for use in a firearm._  
+|  _(5)_ _____"Indirect holdings" means, with respect to a_  
+| _company, all securities of that company held in an account or fund,_  
+| _such as a mutual fund, managed by one or more persons not employed_  
+| _by a state retirement system, in which the state retirement system_  
+| _owns shares or interests together with other investors not subject_  
+| _to the provisions of this chapter. The term does not include money_  
+| _invested under a plan described by Section 401(k) or 457 of the_  
+| _Internal Revenue Code of 1986._  
+|  _(6)_ _____"Listed company" means a company listed by the_  
+| _comptroller under Section 809.051._  
+|  _(7) "State retirement system" means:_  
+|  _(A)_ _____the Employees Retirement System of Texas,_  
+| _including a retirement system administered by that system;_  
+|  _(B) the Teacher Retirement System of Texas;_  
+|  _(C) the Texas Municipal Retirement System; and_  
+|  _(D)_ _____the Texas County and District Retirement_  
+| _System._  
+|  _Sec._ ___809.002._ _____OTHER LEGAL OBLIGATIONS._ ___With respect to_  
+| _actions taken in compliance with this chapter, including all good_  
+| _faith determinations regarding companies as required by this_  
+| _chapter, a state retirement system and the comptroller are exempt_  
+| _from any conflicting statutory or common law obligations, including_  
+| _any obligations with respect to making investments, divesting from_  
+| _any investment, preparing or maintaining any list of companies, or_  
+| _choosing asset managers, investment funds, or investments for the_  
+| _state retirement system's securities portfolios._  
+|  _Sec._ ___809.003._ _____INDEMNIFICATION OF STATE GOVERNMENTAL_  
+| _ENTITIES, EMPLOYEES, AND OTHERS._ ___In a cause of action based on an_  
+| _action, inaction, decision, divestment, investment, company_  
+| _communication, report, or other determination made or taken in_  
+| _connection with this chapter, the state shall, without regard to_  
+| _whether the person performed services for compensation, indemnify_  
+| _and hold harmless for actual damages, court costs, and attorney's_  
+| _fees adjudged against, and defend:_  
+|  _(1)_ _____an employee, a member of the governing body, or any_  
+| _other officer of a state retirement system;_  
+|  _(2) a contractor of a state retirement system;_  
+|  _(3)_ _____a former employee, a former member of the_  
+| _governing body, or any other former officer of a state retirement_  
+| _system who was an employee, member of the governing body, or other_  
+| _officer when the act or omission on which the damages are based_  
+| _occurred;_  
+|  _(4)_ _____a former contractor of a state retirement system_  
+| _who was a contractor when the act or omission on which the damages_  
+| _are based occurred; and_  
+|  _(5) a state retirement system._  
+|  _Sec._ ___809.004._ _____NO PRIVATE CAUSE OF ACTION. (a)_ _____A person,_  
+| _including a member, retiree, or beneficiary of a state retirement_  
+| _system to which this chapter applies, an association, a research_  
+| _firm, a company, or any other person may not sue or pursue a private_  
+| _cause of action against the state, a state retirement system, a_  
+| _current or former employee, a member of the governing body, or any_  
+| _other officer of a state retirement system, or a contractor of a_  
+| _state retirement system, for any claim or cause of action,_  
+| _including breach of fiduciary duty, or for violation of any_  
+| _constitutional, statutory, or regulatory requirement in connection_  
+| _with any action, inaction, decision, divestment, investment,_  
+| _company communication, report, or other determination made or taken_  
+| _in connection with this chapter._  
+|  _(b)_ _____A person who files suit against the state, a state_  
+| _retirement system, an employee, a member of the governing body, or_  
+| _any other officer of a state retirement system, or a contractor of a_  
+| _state retirement system, is liable for paying the costs and_  
+| _attorney's fees of a person sued in violation of this section._  
+|  _Sec._ ___809.005._ _____INAPPLICABILITY OF REQUIREMENTS INCONSISTENT_  
+| _WITH FIDUCIARY RESPONSIBILITIES AND RELATED DUTIES._ ___A state_  
+| _retirement system is not subject to a requirement of this chapter if_  
+| _the state retirement system determines that the requirement would_  
+| _be inconsistent with its fiduciary responsibility with respect to_  
+| _the investment of system assets or other duties imposed by law_  
+| _relating to the investment of system assets, including the duty of_  
+| _care established under Section 67, Article XVI, Texas Constitution._  
+|  _Sec._ ___809.006._ _____RELIANCE ON COMPANY RESPONSE._ ___The_  
+| _comptroller and a state retirement system may rely on a company's_  
+| _response to a notice or communication made under this chapter_  
+| _without conducting any further investigation, research, or_  
+| _inquiry._  
+| _SUBCHAPTER B. DUTIES REGARDING INVESTMENTS_  
+|  _Sec._ ___809.051._ _____LISTED COMPANIES. (a)_ _____The comptroller shall_  
+| _prepare and maintain, and provide to each state retirement system,_  
+| _a list of all companies that manufacture firearms or firearm_  
+| _ammunition. In maintaining the list, the comptroller may review_  
+| _and rely, as appropriate in the comptroller's judgment, on publicly_  
+| _available information regarding companies, including information_  
+| _provided by the state, nonprofit organizations, research firms,_  
+| _international organizations, and governmental entities._  
+|  _(b)_ _____The comptroller shall update the list annually or more_  
+| _often as the comptroller considers necessary, but not more often_  
+| _than quarterly, based on information from, among other sources,_  
+| _those listed in Subsection (a)._  
+|  _(c)_ _____Not later than the 30th day after the date the list of_  
+| _companies that manufacture firearms or firearm ammunition is first_  
+| _provided or updated, the comptroller shall file the list with the_  
+| _presiding officer of each house of the legislature and the attorney_  
+| _general and post the list on a publicly available website._  
+|  _Sec._ ___809.052._ _____IDENTIFICATION OF INVESTMENT IN LISTED_  
+| _COMPANIES._ ___Not later than the 30th day after the date a state_  
+| _retirement system receives the list provided under Section 809.051,_  
+| _the state retirement system shall notify the comptroller of the_  
+| _listed companies in which the state retirement system owns direct_  
+| _holdings or indirect holdings._  
+|  _Sec._ ___809.053._ _____ACTIONS RELATING TO LISTED COMPANY. (a)_ _____For_  
+| _each listed company identified under Section 809.052, the state_  
+| _retirement system shall send a written notice informing the company_  
+| _of its status as a listed company and warning the company that it_  
+| _may become subject to divestment by state retirement systems._  
+|  _(b)_ _____Not later than the 90th day after the date the company_  
+| _receives notice under Subsection (a), the company must cease_  
+| _manufacturing firearms or firearm ammunition, as applicable, in_  
+| _order to avoid qualifying for divestment by state retirement_  
+| _systems._  
+|  _(c)_ _____If, during the time provided by Subsection (b), the_  
+| _company ceases manufacturing firearms or firearm ammunition, as_  
+| _applicable, the comptroller shall remove the company from the list_  
+| _maintained under Section 809.051 and this chapter will no longer_  
+| _apply to the company unless it resumes manufacturing firearms or_  
+| _firearm ammunition, as applicable._  
+|  _(d)_ _____If, after the period provided by Subsection (b) expires,_  
+| _the company continues manufacturing firearms or firearm_  
+| _ammunition, as applicable, the state retirement system shall sell,_  
+| _redeem, divest, or withdraw all publicly traded securities of the_  
+| _company, except securities described by Section 809.055, according_  
+| _to the schedule provided by Section 809.054._  
+|  _Sec._ ___809.054._ _____DIVESTMENT OF ASSETS. (a) A state retirement_  
+| _system required to sell, redeem, divest, or withdraw all publicly_  
+| _traded securities of a listed company shall comply with the_  
+| _following schedule:_  
+|  _(1)_ _____at least 50 percent of those assets must be removed_  
+| _from the state retirement system's assets under management not_  
+| _later than the 180th day after the date the company receives notice_  
+| _under Section 809.053 or Subsection (b) unless the state retirement_  
+| _system determines, based on a good faith exercise of its fiduciary_  
+| _discretion and subject to Subdivision (2), that a later date is more_  
+| _prudent; and_  
+|  _(2)_ _____100 percent of those assets must be removed from_  
+| _the state retirement system's assets under management not later_  
+| _than the 360th day after the date the company receives notice under_  
+| _Section 809.053 or Subsection (b)._  
+|  _(b)_ _____If a company that ceased manufacturing firearms or_  
+| _firearm ammunition, as applicable, after receiving notice under_  
+| _Section 809.053 resumes its manufacturing of firearms or firearm_  
+| _ammunition, as applicable, the state retirement system shall send a_  
+| _written notice to the company informing it that the state_  
+| _retirement system will sell, redeem, divest, or withdraw all_  
+| _publicly traded securities of the company according to the schedule_  
+| _in Subsection (a)._  
+|  _(c)_ _____Except as provided by Subsection (a), a state retirement_  
+| _system may delay the schedule for divestment under that subsection_  
+| _only to the extent that the state retirement system determines, in_  
+| _the state retirement system's good faith judgment, and consistent_  
+| _with the system's fiduciary duty, that divestment from listed_  
+| _companies will likely result in a loss in value or a benchmark_  
+| _deviation described by Section 809.056(a)._ ___If a state retirement_  
+| _system delays the schedule for divestment, the state retirement_  
+| _system shall submit a report to the presiding officer of each house_  
+| _of the legislature and the attorney general stating the reasons and_  
+| _justification for the state retirement system's delay in divestment_  
+| _from listed companies._ ___The report must include documentation_  
+| _supporting its determination that the divestment would result in a_  
+| _loss in value or a benchmark deviation described by Section_  
+| _809.056(a), including objective numerical estimates._ ___The state_  
+| _retirement system shall update the report every six months._  
+|  _Sec._ ___809.055._ _____INVESTMENTS EXEMPTED FROM DIVESTMENT. A_  
+| _state retirement system is not required to divest from any indirect_  
+| _holdings in actively or passively managed investment funds or_  
+| _private equity funds. The state retirement system shall submit_  
+| _letters to the managers of each investment fund containing listed_  
+| _companies requesting that they remove those companies from the fund_  
+| _or create a similar actively or passively managed fund with_  
+| _indirect holdings devoid of listed companies. If a manager creates_  
+| _a similar fund with substantially the same management fees and same_  
+| _level of investment risk and anticipated return, the state_  
+| _retirement system may replace all applicable investments with_  
+| _investments in the similar fund in a time frame consistent with_  
+| _prudent fiduciary standards but not later than the 450th day after_  
+| _the date the fund is created._  
+|  _Sec._ ___809.056._ _____AUTHORIZED INVESTMENT IN LISTED COMPANIES._  
+| _(a)_ _____A state retirement system may cease divesting from one or more_  
+| _listed companies only if clear and convincing evidence shows that:_  
+|  _(1)_ _____the state retirement system has suffered or will_  
+| _suffer a loss in the hypothetical value of all assets under_  
+| _management by the state retirement system as a result of having to_  
+| _divest from listed companies under this chapter; or_  
+|  _(2)_ _____an individual portfolio that uses a_  
+| _benchmark-aware strategy would be subject to an aggregate expected_  
+| _deviation from its benchmark as a result of having to divest from_  
+| _listed companies under this chapter._  
+|  _(b)_ _____A state retirement system may cease divesting from a_  
+| _listed company as provided by this section only to the extent_  
+| _necessary to ensure that the state retirement system does not_  
+| _suffer a loss in value or deviate from its benchmark as described by_  
+| _Subsection (a)._  
+|  _(c)_ _____Before a state retirement system may cease divesting_  
+| _from a listed company under this section, the state retirement_  
+| _system must provide a written report to the comptroller, the_  
+| _presiding officer of each house of the legislature, and the_  
+| _attorney general setting forth the reason and justification,_  
+| _supported by clear and convincing evidence, for deciding to cease_  
+| _divestment or to remain invested in a listed company._  
+|  _(d)_ _____The state retirement system shall update the report_  
+| _required by Subsection (c) semiannually, as applicable._  
+|  _(e)_ _____This section does not apply to reinvestment in a company_  
+| _that is no longer a listed company._  
+|  _Sec._ ___809.057._ _____PROHIBITED INVESTMENTS. Except as provided_  
+| _by Section 809.056, a state retirement system may not acquire_  
+| _securities of a listed company._  
+| _SUBCHAPTER C. REPORT; ENFORCEMENT_  
+|  _Sec._ ___809.101._ _____REPORT. Not later than January 5 of each_  
+| _year, each state retirement system shall file a publicly available_  
+| _report with the presiding officer of each house of the legislature_  
+| _and the attorney general that:_  
+|  _(1)_ _____identifies all securities sold, redeemed,_  
+| _divested, or withdrawn in compliance with Section 809.054;_  
+|  _(2)_ _____identifies all prohibited investments under_  
+| _Section 809.057; and_  
+|  _(3) summarizes any changes made under Section 809.055._  
+|  _Sec._ ___809.102._ _____ENFORCEMENT. The attorney general may bring_  
+| _any action necessary to enforce this chapter._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

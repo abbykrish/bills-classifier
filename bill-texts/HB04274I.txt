@@ -1,0 +1,37 @@
+| 86R13486 SRA-D  
+---|---  
+|  By: Zedler | H.B. No. 4274  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to informed consent to immunizations for children.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 32.102(a) and (c), Family Code, are  
+| amended to read as follows:  
+|  (a) _Before administering an immunization to a child, a_  
+| _health care provider must obtain the informed consent of a_ [ ~~A~~ ]  
+| person authorized to consent to [ ~~the~~ ] immunization of _the_ [ ~~a~~ ]
+child  
+| [ ~~has the responsibility to ensure that the consent, if given, is an~~  
+|  ~~informed consent~~ ]. The person authorized to consent is not  
+| required to be present when [ ~~the~~ ] immunization of the child is  
+| requested if a consent form that meets the requirements of Section  
+| 32.002 has been given to the health care provider.  
+|  (c) As part of the information given in the counseling for  
+| informed consent, the health care provider shall provide  
+| [ ~~information to inform~~ ] the person authorized to consent to  
+| immunization _information regarding:_  
+|  _(1)_ _____the benefits and risks of immunization, including_  
+| _any vaccine information statement required by the National_  
+| _Childhood Vaccine Injury Act of 1986 (42 U.S.C. Section 300aa-1 et_  
+| _seq.);_  
+|  _(2)_ [ ~~of~~ ] the procedures available under the National  
+| Childhood Vaccine Injury Act of 1986 (42 U.S.C. Section 300aa-1 et  
+| seq.) to seek possible recovery for unreimbursed expenses for  
+| certain injuries arising out of the administration of certain  
+| vaccines _; and_  
+|  _(3)_ _____the vaccine excipient and media summary published_  
+| _by the Centers for Disease Control and Prevention for each_  
+| _immunization to be administered_.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

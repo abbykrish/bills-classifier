@@ -1,0 +1,95 @@
+| 86R4332 AJZ-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 482  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a limitation on the authority to arrest a person for  
+| certain misdemeanors punishable by fine only.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 2, Code of Criminal Procedure, is  
+| amended by adding Article 2.1309 to read as follows:  
+|  _Art._ ___2.1309._ _____CITE AND RELEASE POLICY. (a) In this article,_  
+| _"law enforcement agency" means an agency of the state or an agency_  
+| _of a political subdivision of the state authorized by law to employ_  
+| _peace officers._  
+|  _(b)_ _____Each law enforcement agency shall adopt a written policy_  
+| _regarding the issuance of citations for misdemeanor offenses,_  
+| _including traffic offenses, that are punishable by fine only. The_  
+| _policy must provide a procedure for a peace officer employed by the_  
+| _agency to verify a person's identity and issue a citation to a_  
+| _person who fails to present proof of identification._  
+|  SECTION 2. Article 14.01, Code of Criminal Procedure, is  
+| amended by adding Subsection (c) to read as follows:  
+|  _(c)_ _____Notwithstanding Subsection (a) or (b), a peace officer_  
+| _or any other person may not, without a warrant, arrest an offender_  
+| _for a misdemeanor punishable by fine only, other than an offense_  
+| _under Section 22.01(a)(2) or (3), Penal Code, or Section 49.02,_  
+| _Penal Code._  
+|  SECTION 3. Article 14.03, Code of Criminal Procedure, is  
+| amended by adding Subsection (h) to read as follows:  
+|  _(h)_ _____Notwithstanding Subsection (a), (d), or (g), a peace_  
+| _officer may not, without a warrant, arrest a person who only commits_  
+| _one or more offenses punishable by fine only, other than an offense_  
+| _under Section 22.01(a)(2) or (3), Penal Code, or Section 49.02,_  
+| _Penal Code._  
+|  SECTION 4. Article 14.06, Code of Criminal Procedure, is  
+| amended by amending Subsection (b) and adding Subsection (b-1) to  
+| read as follows:  
+|  (b) A peace officer who is charging a person, including a  
+| child, with committing an offense that is a [ ~~Class C~~ ] misdemeanor  
+| _punishable by fine only_ , other than an offense under Section 49.02,  
+| Penal Code, _shall_ [ ~~may~~ ], instead of taking the person before a  
+| magistrate, issue a citation to the person that contains:  
+|  (1) written notice of the time and place the person  
+| must appear before a magistrate;  
+|  (2) the name and address of the person charged;  
+|  (3) the offense charged;  
+|  (4) information regarding the alternatives to the full  
+| payment of any fine or costs assessed against the person, if the  
+| person is convicted of the offense and is unable to pay that amount;  
+| and  
+|  (5) the following admonishment, in boldfaced or  
+| underlined type or in capital letters:  
+|  "If you are convicted of a misdemeanor offense involving  
+| violence where you are or were a spouse, intimate partner, parent,  
+| or guardian of the victim or are or were involved in another,  
+| similar relationship with the victim, it may be unlawful for you to  
+| possess or purchase a firearm, including a handgun or long gun, or  
+| ammunition, pursuant to federal law under 18 U.S.C. Section  
+| 922(g)(9) or Section 46.04(b), Texas Penal Code. If you have any  
+| questions whether these laws make it illegal for you to possess or  
+| purchase a firearm, you should consult an attorney."  
+|  _(b-1)_ _____A peace officer who is charging a person, including a_  
+| _child, with committing an offense that is a misdemeanor under_  
+| _Section 22.01(a)(2) or (3), Penal Code, punishable by fine only_  
+| _may, instead of taking the person before a magistrate, issue a_  
+| _citation to the person that contains all of the information_  
+| _required for a citation issued under Subsection (b)._  
+|  SECTION 5. Section 543.001, Transportation Code, is amended  
+| to read as follows:  
+|  Sec. 543.001. ARREST WITHOUT WARRANT AUTHORIZED. Any peace  
+| officer may arrest without warrant a person found committing a  
+| violation of this subtitle _, other than a person found only_  
+| _committing one or more misdemeanors punishable by fine only_.  
+|  SECTION 6. Section 543.004(a), Transportation Code, is  
+| amended to read as follows:  
+|  (a) An officer shall issue a written notice to appear if:  
+|  (1) the offense charged is _a misdemeanor under this_  
+| _subtitle that is punishable by fine only_ [ ~~:~~  
+|  [ ~~(A) speeding;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~the use of a wireless communication device~~  
+|  ~~under Section 545.4251; or~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~a violation of the open container law,~~  
+|  ~~Section 49.031, Penal Code~~ ]; and  
+|  (2) the person makes a written promise to appear in  
+| court as provided by Section 543.005.  
+|  SECTION 7. The changes in law made by this Act apply only to  
+| an offense committed on or after the effective date of this Act. An  
+| offense committed before the effective date of this Act is governed  
+| by the law in effect on the date the offense was committed, and the  
+| former law is continued in effect for that purpose. For purposes of  
+| this section, an offense was committed before the effective date of  
+| this Act if any element of the offense occurred before that date.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

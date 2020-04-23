@@ -1,0 +1,27 @@
+| 86R8309 PMO-F  
+---|---  
+|  By: Beckley | H.B. No. 1036  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to mandatory sales price disclosure in real property  
+| sales; providing a civil penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 12, Property Code, is amended by adding  
+| Section 12.0013 to read as follows:  
+|  _Sec._ ___12.0013._ _____MANDATORY SALES PRICE DISCLOSURE._ ___(a)_ ___A_  
+| _person may not file for record or have recorded in the county_  
+| _clerk's office an instrument conveying real property under a_  
+| _contract for sale unless the instrument discloses the sales price_  
+| _of the property._  
+|  _(b)_ _____The purchaser of any property for which an instrument is_  
+| _recorded in violation of Subsection (a) is liable to the state for a_  
+| _civil penalty for each violation in an amount equal to five percent_  
+| _of the sales price of the property._  
+|  _(c)_ _____The attorney general or the county or district attorney_  
+| _for the county in which the property is located may bring suit to_  
+| _recover a penalty under this section._  
+|  _(d)_ _____This section does not apply to an instrument conveying_  
+| _only a mineral interest in real property._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

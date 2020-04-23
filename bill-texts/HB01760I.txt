@@ -1,0 +1,244 @@
+| 86R6529 EAS-D  
+---|---  
+|  By: White | H.B. No. 1760  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the confidentiality, sharing, sealing, and destruction  
+| of juvenile records and certain records of at-risk youth.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 58.005, Family Code, is amended by  
+| amending Subsection (a-1) and adding Subsection (c) to read as  
+| follows:  
+|  (a-1) Except as provided by Article 15.27, Code of Criminal  
+| Procedure, the records and information to which this section  
+| applies may be disclosed only to:  
+|  (1) the professional staff or consultants of the  
+| agency or institution;  
+|  (2) the judge, probation officers, and professional  
+| staff or consultants of the juvenile court;  
+|  (3) an attorney for the child;  
+|  (4) a governmental agency if the disclosure is  
+| required or authorized by law;  
+|  (5) _an individual_ [ ~~a person~~ ] or entity to whom the  
+| child is referred for treatment or services _, including assistance_  
+| _in transitioning the child to the community after the child's_  
+| _release or discharge from a juvenile facility_ [ ~~if the agency or~~  
+|  ~~institution disclosing the information has entered into a written~~  
+|  ~~confidentiality agreement with the person or entity regarding the~~  
+|  ~~protection of the disclosed information~~ ];  
+|  (6) the Texas Department of Criminal Justice and the  
+| Texas Juvenile Justice Department for the purpose of maintaining  
+| statistical records of recidivism and for diagnosis and  
+| classification; [ ~~or~~ ]  
+|  (7) _a prosecuting attorney;_  
+|  _(8)_ _____a parent, guardian, or custodian with whom a child_  
+| _will reside after the child's release or discharge from a juvenile_  
+| _facility;_  
+|  _(9)_ _____a governmental agency or court if the record is_  
+| _necessary for an administrative or legal proceeding and the_  
+| _personally identifiable information about the child is redacted_  
+| _before the record is disclosed; or_  
+|  _(10)_ with permission from the juvenile court, any  
+| other _individual_ [ ~~person~~ ], agency, or institution having a  
+| legitimate interest in the proceeding or in the work of the court.  
+|  _(c)_ _____An individual or entity that receives confidential_  
+| _information under this section may not disclose the information_  
+| _unless otherwise authorized by law._  
+|  SECTION 2. Subsection (b-1), Section 58.0052, Family Code,  
+| as added by Chapter 1021 (H.B. 1521), Acts of the 85th Legislature,  
+| Regular Session, 2017, is redesignated as Subsection (b-3), Section  
+| 58.0052, Family Code, to read as follows:  
+|  _(b-3)_ [ ~~(b-1)~~ ] At the request of a state or local juvenile  
+| justice agency, the Department of Family and Protective Services or  
+| a single source continuum contractor who contracts with the  
+| department to provide foster care services shall, not later than  
+| the 14th business day after the date of the request, share with the  
+| juvenile justice agency information in the possession of the  
+| department or contractor that is necessary to improve and maintain  
+| community safety or that assists the agency in the continuation of  
+| services for or providing services to a multi-system youth who:  
+|  (1) is or has been in the temporary or permanent  
+| managing conservatorship of the department;  
+|  (2) is or was the subject of a family-based safety  
+| services case with the department;  
+|  (3) has been reported as an alleged victim of abuse or  
+| neglect to the department;  
+|  (4) is the perpetrator in a case in which the  
+| department investigation concluded that there was a reason to  
+| believe that abuse or neglect occurred; or  
+|  (5) is a victim in a case in which the department  
+| investigation concluded that there was a reason to believe that  
+| abuse or neglect occurred.  
+|  SECTION 3. Section 58.007, Family Code, is amended by  
+| amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) Except as provided by Section 54.051(d-1) and by Article  
+| 15.27, Code of Criminal Procedure, the records, whether physical or  
+| electronic, of a juvenile court, a clerk of court, a juvenile  
+| probation department, or a prosecuting attorney relating to a child  
+| who is a party to a proceeding under this title may be inspected or  
+| copied only by:  
+|  (1) the judge, probation officers, and professional  
+| staff or consultants of the juvenile court;  
+|  (2) a juvenile justice agency as that term is defined  
+| by Section 58.101;  
+|  (3) an attorney representing _the child's parent_ [ ~~a~~  
+|  ~~party~~ ] in a proceeding under this title;  
+|  (4) _an attorney representing the child;_  
+|  _(5) a prosecuting attorney;_  
+|  _(6) an individual_ [ ~~a person~~ ] or entity to whom the  
+| child is referred for treatment or services _, including assistance_  
+| _in transitioning the child to the community after the child's_  
+| _release or discharge from a juvenile facility_ [ ~~, if the agency or~~  
+|  ~~institution disclosing the information has entered into a written~~  
+|  ~~confidentiality agreement with the person or entity regarding the~~  
+|  ~~protection of the disclosed information~~ ];  
+|  _(7)_ [ ~~(5)~~ ] a public or private agency or institution  
+| providing supervision of the child by arrangement of the juvenile  
+| court, or having custody of the child under juvenile court order; or  
+|  _(8)_ [ ~~(6)~~ ] with permission from the juvenile court, any  
+| other _individual_ [ ~~person~~ ], agency, or institution having a  
+| legitimate interest in the proceeding or in the work of the court.  
+|  _(c)_ _____An individual or entity that receives confidential_  
+| _information under this section may not disclose the information_  
+| _unless otherwise authorized by law._  
+|  SECTION 4. Section 58.008(b), Family Code, is amended to  
+| read as follows:  
+|  (b) Except as provided by Subsection _(c)_ [ ~~(d)~~ ], law  
+| enforcement records concerning a child and information concerning a  
+| child that are stored by electronic means or otherwise and from  
+| which a record could be generated may not be disclosed to the public  
+| and shall be:  
+|  (1) if maintained on paper or microfilm, kept separate  
+| from adult records;  
+|  (2) if maintained electronically in the same computer  
+| system as adult records, accessible only under controls that are  
+| separate and distinct from the controls to access electronic data  
+| concerning adults; and  
+|  (3) maintained on a local basis only and not sent to a  
+| central state or federal depository, except as provided by  
+| Subsection (c) or Subchapter B, D, or E.  
+|  SECTION 5. Sections 58.009(d) and (f), Family Code, are  
+| amended to read as follows:  
+|  (d) The Texas Juvenile Justice Department may grant the  
+| following _individuals or_ entities access to juvenile justice  
+| information only for a purpose beneficial to and approved by the  
+| department to:  
+|  (1) _an individual or entity_ [ ~~a person~~ ] working on a  
+| research or statistical project that:  
+|  (A) is funded in whole or in part by state or  
+| federal funds; and  
+|  (B) meets the requirements of and is approved by  
+| the department; or  
+|  (2) _an individual or entity_ [ ~~a person working on a~~  
+|  ~~research or statistical project~~ ] that:  
+|  (A) _is working on a research or statistical_  
+| _project that_ meets the requirements of and is approved by the  
+| department; and  
+|  (B) has a specific agreement with the department  
+| that:  
+|  (i) specifically authorizes access to  
+| information;  
+|  (ii) limits the use of information to the  
+| purposes for which the information is given;  
+|  (iii) ensures the security and  
+| confidentiality of the information; and  
+|  (iv) provides for sanctions if a  
+| requirement imposed under Subparagraph (i), (ii), or (iii) is  
+| violated.  
+|  (f) The Texas Juvenile Justice Department may not release  
+| juvenile justice information in identifiable form, except for  
+| information released under Subsection (c)(1), (2), [ ~~or~~ ] (3) _, or (4)_  
+| or under the terms of an agreement entered into under Subsection  
+| (d)(2).  For purposes of this subsection, identifiable information  
+| means information that contains a juvenile offender's name or other  
+| personal identifiers or that can, by virtue of sample size or other  
+| factors, be reasonably interpreted as referring to a particular  
+| juvenile offender.  
+|  SECTION 6. Section 58.255(a), Family Code, is amended to  
+| read as follows:  
+|  (a) A person who was referred to a juvenile _court_ [ ~~probation~~  
+|  ~~department~~ ] for conduct indicating a need for supervision is  
+| entitled to have all records related to all conduct indicating a  
+| need for supervision matters sealed without applying to the  
+| juvenile court if the person:  
+|  (1) _has records relating to the conduct filed with the_  
+| _court clerk;_  
+|  _(2)_ is at least 18 years of age;  
+|  _(3)_ [ ~~(2)~~ ] has not been referred to the juvenile  
+| probation department for delinquent conduct;  
+|  _(4)_ [ ~~(3)~~ ] has not as an adult been convicted of a  
+| felony; and  
+|  _(5)_ [ ~~(4)~~ ] does not have any pending charges as an  
+| adult for a felony or a misdemeanor punishable by confinement in  
+| jail.  
+|  SECTION 7. Subchapter C-1, Chapter 58, Family Code, is  
+| amended by adding Section 58.2551 to read as follows:  
+|  _Sec._ ___58.2551._ _____SEALING RECORDS WITHOUT APPLICATION: FINDING_  
+| _OF NOT TRUE. A juvenile court, on the court's own motion and_  
+| _without a hearing, shall immediately order the sealing of all_  
+| _records related to the alleged conduct if the court enters a finding_  
+| _that the allegations are not true._  
+|  SECTION 8. Section 58.256(c), Family Code, is amended to  
+| read as follows:  
+|  (c) Except as provided by Subsection (d), the juvenile court  
+| may order the sealing of records related to all matters for which  
+| the person was referred to the juvenile probation department if the  
+| person:  
+|  (1) is at least _17_ [ ~~18~~ ] years of age, or is younger  
+| than _17_ [ ~~18~~ ] years of age and at least _one year has_ [ ~~two years
+have~~ ]  
+| elapsed after the date of final discharge in each matter for which  
+| the person was referred to the juvenile probation department;  
+|  (2) does not have any delinquent conduct matters  
+| pending with any juvenile probation department or juvenile court;  
+|  (3) was not transferred by a juvenile court to a  
+| criminal court for prosecution under Section 54.02;  
+|  (4) has not as an adult been convicted of a felony; and  
+|  (5) does not have any pending charges as an adult for a  
+| felony or a misdemeanor punishable by confinement in jail.  
+|  SECTION 9. Section 58.258(c), Family Code, is amended to  
+| read as follows:  
+|  (c) On entry of the order, all adjudications relating to the  
+| person are vacated and the proceedings are dismissed and treated  
+| for all purposes as though the proceedings had never occurred. The  
+| clerk of court shall:  
+|  (1) seal all court records relating to the  
+| proceedings, including any records created in the clerk's case  
+| management system; and  
+|  (2) send copies of the order to all entities listed in  
+| the order _by any reasonable method, including certified mail,_  
+| _regular mail, or e-mail_.  
+|  SECTION 10. Section 58.263, Family Code, is amended to read  
+| as follows:  
+|  Sec. 58.263. DESTRUCTION OF RECORDS: NO PROBABLE CAUSE.  
+| The court shall order the destruction of the records relating to the  
+| conduct for which a child is taken into custody _or referred to_  
+| _juvenile court without being taken into custody_ , including records  
+| contained in the juvenile justice information system, if:  
+|  (1) a determination is made under Section 53.01 that  
+| no probable cause exists to believe the child engaged in the conduct  
+| and the case is not referred to a prosecutor for review under  
+| Section 53.012; or  
+|  (2) a determination that no probable cause exists to  
+| believe the child engaged in the conduct is made by a prosecutor  
+| under Section 53.012.  
+|  SECTION 11. Section 203.0065, Human Resources Code, is  
+| amended by adding Subsections (g) and (h) to read as follows:  
+|  _(g)_ _____The records related to a youth who was provided_  
+| _prevention and intervention services under this section are_  
+| _confidential and may only be inspected or copied by an individual or_  
+| _entity to whom the youth is referred for treatment or services._  
+|  _(h)_ _____An individual or entity that receives information under_  
+| _this section may not disclose the information unless otherwise_  
+| _authorized by law._  
+|  SECTION 12. The following provisions of the Family Code are  
+| repealed:  
+|  (1) Section 58.003(c-3);  
+|  (2) Section 58.0053; and  
+|  (3) Section 58.007(j).  
+|  SECTION 13. The changes in law made by this Act apply to  
+| records created before, on, or after the effective date of this Act.  
+|  SECTION 14. This Act takes effect September 1, 2019.
+

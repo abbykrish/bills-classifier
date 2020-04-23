@@ -1,0 +1,69 @@
+| 86R13978 TSS-D  
+---|---  
+|  By: Moody | H.B. No. 3335  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to extending the length of time for which an affidavit  
+| establishing probable cause for a search warrant may be sealed.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 18.011, Code of Criminal Procedure, is  
+| amended by amending Subsections (a) and (b) and adding Subsections  
+| (b-1), (b-2), and (b-3) to read as follows:  
+|  (a) An attorney representing the state in the prosecution of  
+| felonies may request a district judge or the judge of an appellate  
+| court to seal an affidavit presented under Article 18.01(b).  The  
+| judge may order the affidavit sealed if the attorney establishes a  
+| compelling state interest in that:  
+|  (1) public disclosure of the affidavit would  
+| jeopardize the safety of a victim, witness, or confidential  
+| informant or cause the destruction of evidence; [ ~~or~~ ]  
+|  (2) _the suspect has not been apprehended or indicted_  
+| _and the affidavit contains information that, if released, may_  
+| _jeopardize the state's ability to apprehend the suspect or continue_  
+| _the investigation of the offense; or_  
+|  _(3)_ the affidavit contains information obtained from a  
+| court-ordered wiretap that has not expired at the time the attorney  
+| representing the state requests the sealing of the affidavit.  
+|  (b) _Except as provided by Subsections (b-1) and (b-2), an_  
+| [ ~~An~~ ] order sealing an affidavit under this _article_ [ ~~section~~ ]  
+| expires on the 31st day after the date on which the search warrant  
+| for which the affidavit was presented is executed.  
+|  _(b-1)_ After an original order sealing an affidavit is issued  
+| under this article, an attorney representing the state in the  
+| prosecution of felonies may request, and a judge may grant, before  
+| the 31st day after the date on which the search warrant for which  
+| the affidavit was presented is executed, on a new finding of  
+| compelling state interest _under Subsection (a)_ , one 30-day  
+| extension of the original order.  
+|  _(b-2)_ _____After a 30-day extension is granted under Subsection_  
+| _(b-1), an attorney representing the state in the prosecution of_  
+| _felonies may request, and a judge may grant before the expiration of_  
+| _the extension on a new finding of compelling state interest under_  
+| _Subsection (a), an order sealing the affidavit until the earliest_  
+| _of:_  
+|  _(1) the apprehension of the suspect;_  
+|  _(2) the indictment of the suspect; or_  
+|  _(3)_ _____the expiration of all limitations periods for all_  
+| _offenses with which the suspect could be charged as determined by_  
+| _the judge and stated in the order at the time the order sealing the_  
+| _affidavit is entered._  
+|  _(b-3) For orders granted under Subsection (b-2):_  
+|  _(1)_ _____the court shall create and the court clerk shall_  
+| _make publicly accessible a notation that an order sealing an_  
+| _affidavit under Subsection (b-2) has been entered; and_  
+|  _(2)_ _____any interested person may file with the court a_  
+| _motion to reconsider that order._  
+|  SECTION 2. Article 18.011, Code of Criminal Procedure, as  
+| amended by this Act, applies only to an affidavit initially sealed  
+| under that article on or after the effective date of this Act.  An  
+| affidavit sealed under Article 18.011, Code of Criminal Procedure,  
+| before the effective date of this Act is governed by the law in  
+| effect on the date the affidavit was sealed, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

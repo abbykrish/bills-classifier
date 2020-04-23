@@ -1,0 +1,50 @@
+| 86R7127 SRS-F  
+---|---  
+|  By: Gonzalez of Dallas | H.B. No. 1462  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the deadline for returning a ballot voted by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 86.007(a) and (e), Election Code, are  
+| amended to read as follows:  
+|  (a) _A_ [ ~~Except as provided by Subsection (d), a~~ ] marked  
+| ballot voted by mail must arrive at the address on the carrier  
+| envelope:  
+|  (1) before the time the polls are required to close on  
+| election day; or  
+|  (2) not later than _the fifth day after the date of the_  
+| _election_ [ ~~5 p.m. on the day after election day~~ ], if the carrier  
+| envelope was placed for delivery by mail or common or contract  
+| carrier before election day and bears a cancellation mark of a  
+| common or contract carrier or a courier indicating a time not later  
+| than 7 p.m. at the location of the election on election day.  
+|  (e) A delivery under Subsection (a)(2) [ ~~or (d)~~ ] is timely,  
+| except as otherwise provided by this title, if the carrier envelope  
+| or, if applicable, the envelope containing the carrier envelope:  
+|  (1) is properly addressed with postage or handling  
+| charges prepaid; and  
+|  (2) bears a cancellation mark of a recognized postal  
+| service or a receipt mark of a common or contract carrier or a  
+| courier indicating a time before the deadline.  
+|  SECTION 2. Sections 87.125(a) and (a-1), Election Code, are  
+| amended to read as follows:  
+|  (a) The early voting ballot board shall convene to count  
+| ballots voted by mail _that arrive at the address on the carrier_  
+| _envelope after 5 p.m. on the day after election day and are timely_  
+| _under Section 86.007_ [ ~~described by Section 86.007(d)~~ ] at the time  
+| set by the presiding judge of the board on the ninth day after the  
+| date of an election or on an earlier day if the early voting clerk  
+| certifies that all ballots _voted by mail_ [ ~~mailed from outside the~~  
+|  ~~United States~~ ] have been received.  
+|  (a-1) Notwithstanding Subsection (a), for an election held  
+| on the date of the general election for state and county officers,  
+| the early voting ballot board shall convene to count ballots voted  
+| by mail _that arrive at the address on the carrier envelope after 5_  
+| _p.m. on the day after election day and are timely under Section_  
+| _86.007_ [ ~~described by Sections 86.007(d) and (d-1)~~ ] not later than  
+| the 13th day after the date of the election.  
+|  SECTION 3. Sections 86.007(d) and (g), Election Code, are  
+| repealed.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

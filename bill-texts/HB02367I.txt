@@ -1,0 +1,47 @@
+| 86R10291 MEW-D  
+---|---  
+|  By: Bonnen of Galveston | H.B. No. 2367  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a prohibition on bids by certain insurance and health  
+| benefit providers to administer or provide coverage under certain  
+| group benefit plans for governmental employees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter E, Chapter 1551, Insurance Code, is  
+| amended by adding Section 1551.2131 to read as follows:  
+|  _Sec._ ___1551.2131._ _____CERTAIN CARRIERS PROHIBITED FROM BIDDING._  
+| _A carrier is prohibited from submitting a bid under Section_  
+| _1551.212 or 1551.213 for two competitive bidding cycles if the_  
+| _board of trustees finds that the carrier has terminated a contract_  
+| _with a physician or provider for the provision of services solely_  
+| _because the physician or provider informed an enrollee in a health_  
+| _benefit plan offered or administered by the carrier of the full_  
+| _range of physicians and providers, including out-of-network_  
+| _providers, available to the enrollee._  
+|  SECTION 2. Subchapter C, Chapter 1575, Insurance Code, is  
+| amended by adding Section 1575.1061 to read as follows:  
+|  _Sec._ ___1575.1061._ _____CERTAIN HEALTH CARE PROVIDERS PROHIBITED_  
+| _FROM BIDDING. A health care provider described by Section 1575.109_  
+| _is prohibited from submitting a bid under Section 1575.106 for two_  
+| _competitive bidding cycles if the trustee finds that the health_  
+| _care provider has terminated a contract with a physician or_  
+| _provider for the provision of services solely because the physician_  
+| _or provider informed an enrollee in a health benefit plan offered or_  
+| _administered by the health care provider of the full range of_  
+| _physicians and providers, including out-of-network providers,_  
+| _available to the enrollee._  
+|  SECTION 3. Subchapter B, Chapter 1579, Insurance Code, is  
+| amended by adding Section 1579.0541 to read as follows:  
+|  _Sec._ ___1579.0541._ _____CERTAIN HEALTH CARE AND BENEFIT PROVIDERS_  
+| _PROHIBITED FROM BIDDING. A health care or benefit provider is_  
+| _prohibited from submitting a bid under Section 1579.054 for two_  
+| _competitive bidding cycles if the trustee finds that the health_  
+| _care or benefit provider has terminated a contract with a physician_  
+| _or provider for the provision of services solely because the_  
+| _physician or provider informed an enrollee in a health coverage_  
+| _plan offered or administered by the health care or benefit provider_  
+| _of the full range of physicians and providers, including_  
+| _out-of-network providers, available to the enrollee._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,306 @@
+| 86R10018 CJC-D  
+---|---  
+|  By: Button | H.B. No. 3779  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the collection of state, municipal, and county hotel  
+| occupancy taxes by a short-term rental marketplace.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 156, Tax Code, is amended  
+| by adding Section 156.054 to read as follows:  
+|  _Sec._ ___156.054._ _____TAX COLLECTION BY SHORT-TERM RENTAL_  
+| _MARKETPLACE. (a) For purposes of this section:_  
+|  _(1)_ _____"Booking charge" means the charge imposed on a_  
+| _person by a host for the purpose of renting a short-term rental in_  
+| _this state and includes any fees charged by the host, regardless of_  
+| _whether separately itemized. The booking charge is considered the_  
+| _price paid for a room or space in a hotel for purposes of the_  
+| _imposition of a hotel occupancy tax._  
+|  _(2)_ _____"Host" means a person who owns a short-term rental_  
+| _and offers the short-term rental for rent through a short-term_  
+| _rental marketplace or, if applicable, that person's authorized_  
+| _agent who offers the short-term rental for rent through a_  
+| _short-term rental marketplace._  
+|  _(3)_ _____"Short-term rental" has the meaning assigned by_  
+| _Section 156.001._  
+|  _(4)_ _____"Short-term rental marketplace" means a_  
+| _marketplace, Internet website, mobile application, or other_  
+| _platform:_  
+|  _(A)_ _____through which a host offers a short-term_  
+| _rental for rent; and_  
+|  _(B)_ _____that collects the booking charge for the_  
+| _rental of the short-term rental._  
+|  _(b) Notwithstanding Section 156.053 or any other law:_  
+|  _(1) a short-term rental marketplace:_  
+|  _(A)_ _____shall collect the appropriate amount of the_  
+| _tax imposed under this chapter on each booking charge with respect_  
+| _to a short-term rental located in this state;_  
+|  _(B)_ _____shall report and remit all taxes collected by_  
+| _the short-term rental marketplace under Paragraph (A) in the manner_  
+| _required:_  
+|  _(i)_ _____of a person owning, operating,_  
+| _managing, or controlling a hotel under this chapter; or_  
+|  _(ii)_ _____if applicable, by an agreement under_  
+| _Subsection (c); and_  
+|  _(C)_ _____is considered to be the person owning,_  
+| _operating, managing, or controlling the short-term rental for_  
+| _purposes of the collection and enforcement of the tax imposed under_  
+| _this chapter; and_  
+|  _(2)_ _____the host may not collect and is not liable for a_  
+| _tax imposed by this chapter on a booking charge for a rental made_  
+| _through the short-term rental marketplace._  
+|  _(c)_ _____A short-term rental marketplace may enter into an_  
+| _agreement with a third-party vendor to remit to the comptroller the_  
+| _taxes imposed by this chapter that the short-term rental_  
+| _marketplace collects. During the period the agreement is in_  
+| _effect:_  
+|  _(1)_ _____the short-term rental marketplace shall report and_  
+| _remit all taxes collected by the short-term rental marketplace_  
+| _under Subsection (b) to the third-party vendor on a schedule_  
+| _determined by the vendor; and_  
+|  _(2)_ _____the vendor shall report and remit the taxes_  
+| _described by Subdivision (1) to the comptroller in the manner a_  
+| _person owning, operating, managing, or controlling a hotel is_  
+| _required to report and remit taxes under this chapter._  
+|  _(d)_ _____The comptroller may adopt rules to implement and_  
+| _administer this section._  
+|  SECTION 2. Subchapter A, Chapter 351, Tax Code, is amended  
+| by adding Section 351.0043 to read as follows:  
+|  _Sec._ ___351.0043._ _____TAX COLLECTION BY SHORT-TERM RENTAL_  
+| _MARKETPLACE. (a) For purposes of this section:_  
+|  _(1)_ _____"Booking charge," "host," and "short-term rental_  
+| _marketplace" have the meanings assigned by Section 156.054._  
+|  _(2)_ _____"Short-term rental" has the meaning assigned by_  
+| _Section 156.001._  
+|  _(b) Notwithstanding Section 351.004 or any other law:_  
+|  _(1) a short-term rental marketplace:_  
+|  _(A)_ _____shall collect the appropriate amount of the_  
+| _tax imposed under this chapter by a municipality in which a_  
+| _short-term rental is located on each booking charge with respect to_  
+| _that short-term rental;_  
+|  _(B)_ _____shall report and remit all taxes collected by_  
+| _the short-term rental marketplace under Paragraph (A) in the manner_  
+| _required:_  
+|  _(i)_ _____of a person owning, operating,_  
+| _managing, or controlling a hotel under this chapter and in_  
+| _accordance with the ordinance adopted by the municipality imposing_  
+| _the tax; or_  
+|  _(ii)_ _____if applicable, by an agreement under_  
+| _this section; and_  
+|  _(C)_ _____is considered to be the person owning,_  
+| _operating, managing, or controlling the short-term rental for_  
+| _purposes of the collection and enforcement of the tax imposed under_  
+| _this chapter; and_  
+|  _(2)_ _____the host may not collect and is not liable for a_  
+| _tax imposed by this chapter on a booking charge for a rental made_  
+| _through the short-term rental marketplace._  
+|  _(c) A short-term rental marketplace may:_  
+|  _(1)_ _____enter into an agreement with the comptroller to_  
+| _collect and remit to the comptroller the taxes imposed by a_  
+| _municipality under this chapter on each booking charge for a rental_  
+| _made through the short-term rental marketplace; or_  
+|  _(2)_ _____enter into an agreement with a third-party vendor_  
+| _to remit to the municipality the taxes described by Subdivision (1)_  
+| _that the short-term rental marketplace collects._  
+|  _(d)_ _____To be effective, an agreement described by Subsection_  
+| _(c)(2) must be approved by the governing body of the municipality._  
+| _During the period an agreement described by Subsection (c) is in_  
+| _effect, the short-term rental marketplace shall report and remit_  
+| _all taxes collected by the short-term rental marketplace under_  
+| _Subsection (b) to:_  
+|  _(1)_ _____the comptroller on a schedule determined by the_  
+| _comptroller, if the agreement in effect is with the comptroller; or_  
+|  _(2)_ _____the third-party vendor on a schedule determined by_  
+| _the vendor, if the agreement in effect is with a vendor._  
+|  _(e)_ _____The comptroller or third-party vendor, as applicable,_  
+| _shall promulgate a form a short-term rental marketplace must use to_  
+| _report the taxes collected by the short-term rental marketplace_  
+| _under this section if an agreement under Subsection (c) is in_  
+| _effect. The form must include the following information:_  
+|  _(1)_ _____the total receipts from the rental during the_  
+| _reporting period of all short-term rentals located in any_  
+| _municipality that has approved an agreement under this section and_  
+| _offered for rent through the short-term rental marketplace,_  
+| _categorized by municipality in which those short-term rentals are_  
+| _located;_  
+|  _(2)_ _____the total amount of booking charges from the_  
+| _rental during the reporting period of all short-term rentals_  
+| _located in any municipality that has approved an agreement under_  
+| _this section and offered for rent through the short-term rental_  
+| _marketplace, categorized by municipality in which those short-term_  
+| _rentals are located;_  
+|  _(3)_ _____the rate of the tax imposed under this chapter in_  
+| _each municipality identified under Subdivision (2); and_  
+|  _(4)_ _____the total receipts and the total amount of booking_  
+| _charges from the rental during the reporting period of all_  
+| _short-term rentals located in a project financing zone as defined_  
+| _by Section 351.1015 and offered for rent through the short-term_  
+| _rental marketplace, categorized by project financing zone._  
+|  _(f)_ _____The form described by Subsection (e) may not require the_  
+| _identification of a specific guest or the host of a short-term_  
+| _rental._  
+|  _(g)_ _____If the short-term rental marketplace collects and_  
+| _remits to the comptroller the taxes imposed by the municipality_  
+| _under this chapter in accordance with an agreement under Subsection_  
+| _(c)(1), the comptroller shall:_  
+|  _(1)_ _____deposit the taxes remitted to the comptroller_  
+| _under this section in trust in the separate suspense account of the_  
+| _municipality in which short-term rentals with respect to which the_  
+| _taxes were collected are located; and_  
+|  _(2)_ _____send to the municipal treasurer or to the person_  
+| _who performs the office of the municipal treasurer payable to the_  
+| _municipality the municipality's share of the taxes remitted to the_  
+| _comptroller under this chapter at least 12 times during each state_  
+| _fiscal year._  
+|  _(h)_ _____A suspense account described by Subsection (g)(1) is_  
+| _outside the treasury and the comptroller may make a payment from the_  
+| _account without the necessity of an appropriation._  
+|  _(i)_ _____Before sending any money to a municipality under_  
+| _Subsection (g) and subject to the limitation provided by this_  
+| _subsection, the comptroller shall deduct and deposit to the credit_  
+| _of the general revenue fund an amount equal to one percent of the_  
+| _amount of the taxes collected from rentals of short-term rentals_  
+| _located in the municipality under this section during the period_  
+| _for which a distribution is made as the state's charge for services_  
+| _provided by the state under this section. The comptroller may not_  
+| _deduct from the distributions to a municipality more than $50,000_  
+| _in each state fiscal year under this subsection._  
+|  _(j)_ _____If the short-term rental marketplace enters into an_  
+| _agreement with a third-party vendor under Subsection (c)(2), the_  
+| _vendor shall report and remit to a municipality that approved the_  
+| _agreement all taxes imposed by the municipality under this chapter_  
+| _and collected by the short-term rental marketplace on rentals of_  
+| _short-term rentals located in that municipality at the times and in_  
+| _the manner provided by the agreement._  
+|  _(k)_ _____Notwithstanding any other law, this section applies to_  
+| _the collection, remittance, and distribution of taxes imposed by a_  
+| _political subdivision that is authorized to impose a hotel_  
+| _occupancy tax under a provision of the Special District Local Laws_  
+| _Code or civil statutes in the same manner the section applies to a_  
+| _municipality authorized to impose a hotel occupancy tax under this_  
+| _chapter._  
+|  _(l)_ _____The comptroller may adopt rules to implement and_  
+| _administer this section._  
+|  SECTION 3. Subchapter A, Chapter 352, Tax Code, is amended  
+| by adding Section 352.0042 to read as follows:  
+|  _Sec._ ___352.0042._ _____TAX COLLECTION BY SHORT-TERM RENTAL_  
+| _MARKETPLACE. (a) For purposes of this section:_  
+|  _(1)_ _____"Booking charge," "host," and "short-term rental_  
+| _marketplace" have the meanings assigned by Section 156.054._  
+|  _(2)_ _____"Short-term rental" has the meaning assigned by_  
+| _Section 156.001._  
+|  _(b) Notwithstanding Section 352.004 or any other law:_  
+|  _(1) a short-term rental marketplace:_  
+|  _(A)_ _____shall collect the appropriate amount of the_  
+| _tax imposed under this chapter by a county in which a short-term_  
+| _rental is located on each booking charge with respect to that_  
+| _short-term rental;_  
+|  _(B)_ _____shall report and remit all taxes collected by_  
+| _the short-term rental marketplace under Paragraph (A) in the manner_  
+| _required:_  
+|  _(i)_ _____of a person owning, operating,_  
+| _managing, or controlling a hotel under this chapter and in_  
+| _accordance with the order adopted by the county imposing the tax; or_  
+|  _(ii)_ _____if applicable, by an agreement under_  
+| _this section; and_  
+|  _(C)_ _____is considered to be the person owning,_  
+| _operating, managing, or controlling the short-term rental for_  
+| _purposes of the collection and enforcement of the tax imposed under_  
+| _this chapter; and_  
+|  _(2)_ _____the host may not collect and is not liable for a_  
+| _tax imposed by this chapter on a booking charge for a rental made_  
+| _through the short-term rental marketplace._  
+|  _(c) A short-term rental marketplace may:_  
+|  _(1)_ _____enter into an agreement with the comptroller to_  
+| _collect and remit to the comptroller the taxes imposed by a county_  
+| _under this chapter on each booking charge for a rental made through_  
+| _the short-term rental marketplace; or_  
+|  _(2)_ _____enter into an agreement with a third-party vendor_  
+| _to remit to the county the taxes described by Subdivision (1) that_  
+| _the short-term rental marketplace collects._  
+|  _(d)_ _____To be effective, an agreement described by Subsection_  
+| _(c)(2) must be approved by the commissioners court of the county._  
+| _During the period an agreement described by Subsection (c) is in_  
+| _effect, the short-term rental marketplace shall report and remit_  
+| _all taxes collected by the short-term rental marketplace under_  
+| _Subsection (b) to:_  
+|  _(1)_ _____the comptroller on a schedule determined by the_  
+| _comptroller, if the agreement in effect is with the comptroller; or_  
+|  _(2)_ _____the third-party vendor on a schedule determined by_  
+| _the vendor, if the agreement in effect is with a vendor._  
+|  _(e)_ _____The comptroller or third-party vendor, as applicable,_  
+| _shall promulgate a form a short-term rental marketplace must use to_  
+| _report the taxes collected by the short-term rental marketplace_  
+| _under this section if an agreement under Subsection (c) is in_  
+| _effect. The form must include the following information:_  
+|  _(1)_ _____the total receipts from the rental during the_  
+| _reporting period of all short-term rentals located in any county_  
+| _that has approved an agreement under this section and offered for_  
+| _rent through the short-term rental marketplace, categorized by_  
+| _county in which those short-term rentals are located;_  
+|  _(2)_ _____the total amount of booking charges from the_  
+| _rental during the reporting period of all short-term rentals_  
+| _located in any county that has approved an agreement under this_  
+| _section and offered for rent through the short-term rental_  
+| _marketplace, categorized by county in which those short-term_  
+| _rentals are located; and_  
+|  _(3)_ _____the rate of the tax imposed under this chapter in_  
+| _each county identified under Subdivision (2)._  
+|  _(f)_ _____The form described by Subsection (e) may not require the_  
+| _identification of a specific guest or the host of a short-term_  
+| _rental._  
+|  _(g)_ _____If the short-term rental marketplace collects and_  
+| _remits to the comptroller the taxes imposed by the county under this_  
+| _chapter in accordance with an agreement under Subsection (c)(1),_  
+| _the comptroller shall:_  
+|  _(1)_ _____deposit the taxes remitted to the comptroller_  
+| _under this section in trust in the separate suspense account of the_  
+| _county in which short-term rentals with respect to which the taxes_  
+| _were collected are located; and_  
+|  _(2)_ _____send to the county treasurer payable to the county_  
+| _the county's share of the taxes remitted to the comptroller under_  
+| _this chapter at least 12 times during each state fiscal year._  
+|  _(h)_ _____A suspense account described by Subsection (g)(1) is_  
+| _outside the treasury and the comptroller may make a payment from the_  
+| _account without the necessity of an appropriation._  
+|  _(i)_ _____Before sending any money to a county under Subsection_  
+| _(g) and subject to the limitation provided by this subsection, the_  
+| _comptroller shall deduct and deposit to the credit of the general_  
+| _revenue fund an amount equal to one percent of the amount of the_  
+| _taxes collected from rentals of short-term rentals located in the_  
+| _county under this section during the period for which a_  
+| _distribution is made as the state's charge for services provided by_  
+| _the state under this section. The comptroller may not deduct from_  
+| _the distributions to a county more than $50,000 in each state fiscal_  
+| _year under this subsection._  
+|  _(j)_ _____If the short-term rental marketplace enters into an_  
+| _agreement with a third-party vendor under Subsection (c)(2), the_  
+| _vendor shall report and remit to a county that approved the_  
+| _agreement all taxes imposed by the county under this chapter and_  
+| _collected by the short-term rental marketplace on rentals of_  
+| _short-term rentals located in that county at the times and in the_  
+| _manner provided by the agreement._  
+|  _(k)_ _____Notwithstanding any other law, this section applies to_  
+| _the collection, remittance, and distribution of taxes imposed by a_  
+| _political subdivision that is authorized to impose a hotel_  
+| _occupancy tax under a provision of the Special District Local Laws_  
+| _Code or civil statutes in the same manner the section applies to a_  
+| _county authorized to impose a hotel occupancy tax under this_  
+| _chapter._  
+|  _(l)_ _____The comptroller may adopt rules to implement and_  
+| _administer this section._  
+|  SECTION 4. Sections 334.253(a) and (b), Local Government  
+| Code, are amended to read as follows:  
+|  (a) Sections 351.002(c), 351.004, 351.0041, _351.0043,_  
+| 351.005, and 351.006, Tax Code, govern the imposition, computation,  
+| administration, collection, and remittance of a municipal tax  
+| authorized under this subchapter except as inconsistent with this  
+| subchapter.  
+|  (b) Sections 352.002(c), 352.004, 352.0041, _352.0042,_  
+| 352.005, and 352.007, Tax Code, govern the imposition, computation,  
+| administration, collection, and remittance of a county tax  
+| authorized under this subchapter except as inconsistent with this  
+| subchapter.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

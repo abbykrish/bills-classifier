@@ -1,0 +1,26 @@
+| 86R1073 MAW-D  
+---|---  
+|  By: Canales | H.B. No. 155  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to notice provided to a court regarding a defendant  
+| confined in a state jail felony facility.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 42A.558, Code of Criminal Procedure, is  
+| amended by adding Subsection (b-1) to read as follows:  
+|  _(b-1)_ _____Not later than the 60th day after the date a defendant_  
+| _is received into the custody of a state jail felony facility, the_  
+| _Texas Department of Criminal Justice shall notify the sentencing_  
+| _court of the date on which the defendant will have served 75 days in_  
+| _the facility. The notice must be provided by e-mail or other_  
+| _electronic communication._  
+|  SECTION 2. The change in law made by this Act to Article  
+| 42A.558, Code of Criminal Procedure, applies only to a defendant  
+| who receives a sentence of confinement in a state jail on or after  
+| the effective date of this Act. A defendant who receives a sentence  
+| of confinement in a state jail before the effective date of this Act  
+| is governed by the law in effect at the time of sentencing, and the  
+| former law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

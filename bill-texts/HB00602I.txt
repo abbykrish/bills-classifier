@@ -1,0 +1,35 @@
+| 86R5615 MAW-D  
+---|---  
+|  By: Zedler | H.B. No. 602  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain duties of the Texas Medical Board regarding an  
+| alleged violation by a license holder.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 164.007, Occupations Code, is amended by  
+| amending Subsection (a-1) and adding Subsection (a-2) to read as  
+| follows:  
+|  (a-1) _Subject to the board's authority to obtain judicial_  
+| _review under Subsection (a-2), if the administrative law judge_  
+| _determines that the alleged violation that is the subject of the_  
+| _contested case did not occur, the board shall, as applicable:_  
+|  _(1)_ _____if the board reported the alleged violation to the_  
+| _National Practitioner Data Bank, submit a supplemental report to_  
+| _the data bank stating that the violation did not occur; and_  
+|  _(2) remove from the board's Internet website:_  
+|  _(A) any description of the alleged violation; and_  
+|  _(B)_ _____any previous board order regarding the_  
+| _alleged violation._  
+|  _(a-2)_ Notwithstanding Section 2001.058(e), Government  
+| Code, the board may not change a finding of fact or conclusion of  
+| law or vacate or modify an order of the administrative law judge.  
+| The board may obtain judicial review of any finding of fact or  
+| conclusion of law issued by the administrative law judge as  
+| provided by Section 2001.058(f)(5), Government Code.  For each  
+| case, the board has the sole authority and discretion to determine  
+| the appropriate action or sanction, and the administrative law  
+| judge may not make any recommendation regarding the appropriate  
+| action or sanction.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

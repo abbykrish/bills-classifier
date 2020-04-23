@@ -1,0 +1,122 @@
+| 86R9063 BEF-F  
+---|---  
+|  By: Burrows | H.B. No. 1525  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the administration and collection of sales and use  
+| taxes applicable to sales involving marketplace providers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 151.008(b), Tax Code, is amended to read  
+| as follows:  
+|  (b) "Seller" and "retailer" include:  
+|  (1) a person in the business of making sales at auction  
+| of tangible personal property owned by the person or by another;  
+|  (2) a person who makes more than two sales of taxable  
+| items during a 12-month period, including sales made in the  
+| capacity of an assignee for the benefit of creditors or receiver or  
+| trustee in bankruptcy;  
+|  (3) a person regarded by the comptroller as a seller or  
+| retailer under Section 151.024;  
+|  (4) a hotel, motel, or owner or lessor of an office or  
+| residential building or development that contracts and pays for  
+| telecommunications services for resale to guests or tenants;  
+|  (5) a person who engages in regular or systematic  
+| solicitation of sales of taxable items in this state by the  
+| distribution of catalogs, periodicals, advertising flyers, or  
+| other advertising, by means of print, radio, or television media,  
+| or by mail, telegraphy, telephone, computer data base, cable,  
+| optic, microwave, or other communication system for the purpose of  
+| effecting sales of taxable items; [ ~~and~~ ]  
+|  (6) a person who, under an agreement with another  
+| person, is:  
+|  (A) entrusted with possession of tangible  
+| personal property with respect to which the other person has title  
+| or another ownership interest; and  
+|  (B) authorized to sell, lease, or rent the  
+| property without additional action by the person having title to or  
+| another ownership interest in the property _; and_  
+|  _(7)_ _____a person who is a marketplace provider under_  
+| _Section 151.0242_.  
+|  SECTION 2. Subchapter B, Chapter 151, Tax Code, is amended  
+| by adding Section 151.0242 to read as follows:  
+|  _Sec._ ___151.0242._ _____MARKETPLACE PROVIDERS AND MARKETPLACE_  
+| _SELLERS. (a)_ ___In this section:_  
+|  _(1)_ _____"Marketplace" means a physical or electronic_  
+| _medium through which persons other than the owner or operator of the_  
+| _medium make sales of taxable items._ ___The term includes a store,_  
+| _Internet website, software application, or catalog._  
+|  _(2)_ _____"Marketplace provider" means a person who owns or_  
+| _operates a marketplace and directly or indirectly processes sales_  
+| _or payments for marketplace sellers._  
+|  _(3)_ _____"Marketplace seller" means a seller, other than_  
+| _the marketplace provider, who makes a sale of a taxable item through_  
+| _a marketplace._  
+|  _(b)_ _____Except as otherwise provided by this section, a_  
+| _marketplace provider has the rights and duties of a seller or_  
+| _retailer under this chapter with respect to sales made through the_  
+| _marketplace._  
+|  _(c) A marketplace provider shall:_  
+|  _(1)_ _____certify to each marketplace seller that the_  
+| _marketplace provider assumes the rights and duties of a seller or_  
+| _retailer under this chapter with respect to sales made by the_  
+| _marketplace seller through the marketplace;_  
+|  _(2)_ _____report under Subchapter I all sales made through_  
+| _the marketplace; and_  
+|  _(3)_ _____collect in the manner provided by Subchapters C_  
+| _and D and remit the taxes imposed under this chapter on sales of_  
+| _taxable items made through the marketplace._  
+|  _(d)_ _____A marketplace seller who in good faith accepts a_  
+| _marketplace provider's certification under Subsection (c)(1) shall_  
+| _exclude sales made through the marketplace from the marketplace_  
+| _seller's report under Subchapter I, notwithstanding Section_  
+| _151.406._  
+|  _(e)_ _____A marketplace seller shall retain records for all_  
+| _marketplace sales as required by Section 151.025._  
+|  _(f)_ _____A marketplace seller shall furnish to the marketplace_  
+| _provider information that is required to correctly collect and_  
+| _remit taxes imposed under this chapter._ ___The information may_  
+| _include a certification of taxability that an item being sold is a_  
+| _taxable item, is not a taxable item, or is exempt from taxation._  
+|  _(g)_ _____Except as provided by Subsection (h), a marketplace_  
+| _provider is not liable for failure to collect and remit the correct_  
+| _amount of taxes imposed under this chapter if the marketplace_  
+| _provider demonstrates that the failure resulted from the_  
+| _marketplace provider's good faith reliance on incorrect_  
+| _information provided by the marketplace seller._ ___The marketplace_  
+| _seller is liable for a deficiency resulting from incorrect_  
+| _information provided by the marketplace seller._  
+|  _(h)_ _____A marketplace provider and marketplace seller that are_  
+| _affiliates or associates, as defined by Section 1.002, Business_  
+| _Organizations Code, are jointly and severally liable for a_  
+| _deficiency resulting from a sale made by the marketplace seller_  
+| _through the marketplace._  
+|  _(i)_ _____This section does not affect the tax liability of a_  
+| _purchaser under Section 151.052 or 151.102._  
+|  _(j)_ _____A court may not certify an action brought against a_  
+| _marketplace provider concerning this section as a class action._  
+|  _(k)_ _____The comptroller may adopt rules and forms to implement_  
+| _this section and by rule except certain small marketplace providers_  
+| _from some or all of the requirements of this section._  
+|  SECTION 3. Section 321.203, Tax Code, is amended by adding  
+| Subsection (e-1) to read as follows:  
+|  _(e-1)_ _____Notwithstanding any other provision of this section,_  
+| _a sale of a taxable item made by a marketplace seller through a_  
+| _marketplace as provided by Section 151.0242 is consummated at the_  
+| _location in this state to which the item is shipped or delivered or_  
+| _at which possession is taken by the purchaser._  
+|  SECTION 4. Section 323.203, Tax Code, is amended by adding  
+| Subsection (e-1) to read as follows:  
+|  _(e-1)_ _____Notwithstanding any other provision of this section,_  
+| _a sale of a taxable item made by a marketplace seller through a_  
+| _marketplace as provided by Section 151.0242 is consummated at the_  
+| _location in this state to which the item is shipped or delivered or_  
+| _at which possession is taken by the purchaser._  
+|  SECTION 5. The changes in law made by this Act do not affect  
+| tax liability accruing before the effective date of this Act. That  
+| liability continues in effect as if this Act had not been enacted,  
+| and the former law is continued in effect for the collection of  
+| taxes due and for civil and criminal enforcement of the liability  
+| for those taxes.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

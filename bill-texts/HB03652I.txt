@@ -1,0 +1,42 @@
+| 86R11451 JRJ-D  
+---|---  
+|  By: Turner of Tarrant | H.B. No. 3652  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of a state repository for open educational  
+| resources by the Texas Higher Education Coordinating Board.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 61, Education Code, is  
+| amended by adding Section 61.0670 to read as follows:  
+|  _Sec._ ___61.0670._ _____STATE REPOSITORY OF OPEN EDUCATIONAL_  
+| _RESOURCES. (a)_ _____In this section, "open educational resource" has_  
+| _the meaning assigned by Section 51.451._  
+|  _(b)_ _____The board shall contract with a high-quality open_  
+| _educational resource repository to develop and maintain a web_  
+| _portal customized to meet the needs of individual institutions of_  
+| _higher education, students, and others who may benefit from access_  
+| _to open educational resources._  
+|  _(c)_ _____Open educational resources available through the portal_  
+| _must be searchable by course or learning outcome, program or field_  
+| _of study, marketable skills, college readiness, and other topics as_  
+| _determined by the board._  
+|  _(d)_ _____The portal must provide access to repositories_  
+| _maintaining a wide range of open educational resources, including_  
+| _textbooks, full courses, course materials, modules, images,_  
+| _videos, assessment software, and any other tools, materials, or_  
+| _techniques used to support learning._  
+|  _(e)_ _____Resources developed with state funds shall be made_  
+| _available under a Creative Commons license and submitted for use as_  
+| _an open educational resource through a repository available through_  
+| _the portal. A publisher may submit instructional materials for_  
+| _inclusion in a repository available through the portal._  
+|  _(f)_ _____The board may request the assistance of the Learning_  
+| _Technology Advisory Committee to establish, maintain, and market_  
+| _the web portal required under this section._  
+|  SECTION 2. Not later than September 1, 2020, the Texas  
+| Higher Education Coordinating Board shall develop the web portal  
+| required under Section 61.0670, Education Code, as added by this  
+| Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

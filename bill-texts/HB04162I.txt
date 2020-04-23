@@ -1,0 +1,188 @@
+| 86R14092 JAM-D  
+---|---  
+|  By: Swanson | H.B. No. 4162  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the system by which an application for a low income  
+| housing tax credit is scored.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2306.6710, Government Code, is amended  
+| by amending Subsections (b) and (f) and adding Subsections (b-1),  
+| (g), and (h) to read as follows:  
+|  (b) If an application satisfies the threshold criteria, the  
+| department shall score and rank the application using a point  
+| system that:  
+|  (1) prioritizes in descending order criteria  
+| regarding:  
+|  (A) financial feasibility of the development  
+| based on the supporting financial data required in the application  
+| that will include a project underwriting pro forma from the  
+| permanent or construction lender;  
+|  (B) quantifiable community participation with  
+| respect to the development, evaluated on the basis of a resolution  
+| concerning the development that is voted on and adopted by the  
+| following, as applicable:  
+|  (i) the governing body of a municipality in  
+| which the proposed development site is to be located;  
+|  (ii) subject to Subparagraph (iii), the  
+| commissioners court of a county in which the proposed development  
+| site is to be located, if the proposed site is to be located in an  
+| area of a county that is not part of a municipality; or  
+|  (iii) the commissioners court of a county  
+| in which the proposed development site is to be located and the  
+| governing body of the applicable municipality, if the proposed site  
+| is to be located in the extraterritorial jurisdiction of a  
+| municipality;  
+|  (C) the income levels of tenants of the  
+| development;  
+|  (D) the size and quality of the units;  
+|  (E) the rent levels of the units;  
+|  (F) _the level of community support for the_  
+| _application, evaluated on the basis of a written statement from the_  
+| _state representative who represents the district containing the_  
+| _proposed development site;_  
+|  _(G)_ the cost of the development by square foot;  
+|  _(H)_ [ ~~(G)~~ ] the services to be provided to tenants  
+| of the development _, including quality social services_ ;  
+|  [ ~~(H)~~ ~~~~ ~~~~ ~~whether, at the time the complete~~  
+|  ~~application is submitted or at any time within the two-year period~~  
+|  ~~preceding the date of submission, the proposed development site is~~  
+|  ~~located in an area declared to be a disaster under Section 418.014;~~ ]  
+|  (I) quantifiable community participation with  
+| respect to the development, evaluated on the basis of written  
+| statements from any neighborhood organizations on record with the  
+| state or county in which the development is to be located and whose  
+| boundaries contain the proposed development site; [ ~~and~~ ]  
+|  (J) _demonstrated community and neighborhood_  
+| _support other than that described by Paragraphs (B), (F), and (I);_  
+|  _(K)_ _____whether the proposed project is consistent_  
+| _with sound underwriting practices and when economically feasible,_  
+| _serves individuals and families of extremely low income by_  
+| _leveraging private and state and federal resources, including_  
+| _federal HOPE VI grants received through the United States_  
+| _Department of Housing and Urban Development;_  
+|  _(L)_ _____whether the proposed project serves_  
+| _traditionally underserved populations;_  
+|  _(M)_ _____demonstrated support from local political_  
+| _subdivisions based on the subdivisions' commitment of development_  
+| _funding;_  
+|  _(N)_ _____whether the proposed project rehabilitates_  
+| _or performs an adaptive reuse of a certified historic structure, as_  
+| _defined by Section 171.901(1), Tax Code, as part of the_  
+| _development;_  
+|  _(O)_ _____whether the proposed project remains_  
+| _affordable to qualified tenants for an extended, economically_  
+| _feasible period; and_  
+|  _(P)_ _____whether the proposed project complies with_  
+| _the accessibility standards that are required under Section 504,_  
+| _Rehabilitation Act of 1973 (29 U.S.C. Section 794), and specified_  
+| _under 24 C.F.R. Part 8, Subpart C_ [ ~~the level of community support~~  
+|  ~~for the application, evaluated on the basis of a written statement~~  
+|  ~~from the state representative who represents the district~~  
+|  ~~containing the proposed development site~~ ];  
+|  (2) uses criteria imposing penalties on applicants or  
+| affiliates who have requested extensions of department deadlines  
+| relating to developments supported by housing tax credit  
+| allocations made in the application round preceding the current  
+| round or a developer or principal of the applicant that has been  
+| removed by the lender, equity provider, or limited partners for its  
+| failure to perform its obligations under the loan documents or  
+| limited partnership agreement; [ ~~and~~ ]  
+|  (3) encourages applicants to provide free notary  
+| public service to the residents of the developments for which the  
+| allocation of housing tax credits is requested _; and_  
+|  _(4)_ _____provides appropriate incentives to reward_  
+| _applicants who agree to:_  
+|  _(A)_ _____equip the development that is the basis of_  
+| _the application with energy saving devices that meet the standards_  
+| _established by the state energy conservation office or provide to a_  
+| _qualified entity, in a land use restriction agreement in accordance_  
+| _with Section 2306.6726, a right of first refusal to purchase the_  
+| _development at the minimum price provided in, and in accordance_  
+| _with the requirements of, Section 42(i)(7), Internal Revenue Code_  
+| _of 1986 (26 U.S.C. Section 42(i)(7)); and_  
+|  _(B) locate the development in:_  
+|  _(i)_ _____a census tract in which there are no_  
+| _other existing developments supported by housing tax credits; or_  
+|  _(ii)_ _____an area that will serve residents of_  
+| _the development without displacing established communities_.  
+|  _(b-1)_ _____For each scoring criterion, the department shall use a_  
+| _range of points to evaluate the degree to which a proposed project_  
+| _satisfies the criterion._ _____The department may not award:_  
+|  _(1)_ _____a number of points for a scoring criterion that is_  
+| _disproportionate to the degree to which a proposed project complies_  
+| _with that criterion; or_  
+|  _(2)_ _____to a proposed project for the general population a_  
+| _number of points for a scoring criterion that is different than the_  
+| _number of points awarded for that criterion to a proposed project_  
+| _reserved for elderly persons if the proposed project complies with_  
+| _the criterion to the same degree._  
+|  (f) In evaluating the level of community support for an  
+| application under Subsection _(b)(1)(F)_ [ ~~(b)(1)(J)~~ ], the department  
+| shall award:  
+|  (1) positive points for positive written statements  
+| received;  
+|  (2) negative points for negative written statements  
+| received; and  
+|  (3) zero points for neutral _written_ statements  
+| received.  
+|  _(g)_ _____On awarding housing tax credit allocations, the board_  
+| _shall document the reasons for each project's selection, including_  
+| _an explanation of:_  
+|  _(1)_ _____all discretionary factors used in making its_  
+| _determination; and_  
+|  _(2)_ _____the reasons for any decision that conflicts with_  
+| _the recommendations of department staff under Section 2306.6731._  
+|  _(h)_ _____For purposes of evaluating applications submitted under_  
+| _this subchapter, the department may adopt only a scoring criterion_  
+| _that is specified in this section._  
+|  SECTION 2. Sections 2306.6726(a), (b), and (c), Government  
+| Code, are amended to read as follows:  
+|  (a) An owner of a development subject to a right of first  
+| refusal under Section _2306.6710(b)(4)_ [ ~~2306.6725~~ ] who intends to  
+| sell the development at any time after the expiration of the  
+| compliance period shall notify the department and the tenants of  
+| the development of the owner's intent to sell and, if applicable,  
+| shall specifically identify to the department any qualified entity  
+| that is the owner's intended recipient of the right of first refusal  
+| in the land use restriction agreement.  
+|  (b) The owner of a development subject to a right of first  
+| refusal under Section _2306.6710(b)(4)_ [ ~~2306.6725~~ ] may:  
+|  (1) during the first 60-day period after notice is  
+| provided under Subsection (a-1), negotiate or enter into a purchase  
+| agreement only with a qualified entity that is:  
+|  (A) a community housing development organization  
+| as defined by the federal HOME investment partnership program; or  
+|  (B) controlled by an entity described by  
+| Paragraph (A);  
+|  (2) during the second 60-day period after notice is  
+| provided under Subsection (a-1), negotiate or enter into a purchase  
+| agreement with a qualified entity that:  
+|  (A) is described by Section 2306.6706;  
+|  (B) is controlled by an entity described by  
+| Paragraph (A); or  
+|  (C) is a tenant organization; and  
+|  (3) during the last 60-day period after notice is  
+| provided under Subsection (a-1), negotiate or enter into a purchase  
+| agreement with any other qualified entity.  
+|  (c) Beginning on the 181st day after the date the department  
+| posts notice under Subsection (a-1), an owner of a development  
+| subject to a right of first refusal under Section _2306.6710(b)(4)_  
+| [ ~~2306.6725~~ ] may sell to any purchaser a development to which the  
+| right of first refusal applies if a qualified entity does not offer  
+| to purchase the development for a price that the department  
+| determines to be reasonable.  
+|  SECTION 3. Section 2306.6725, Government Code, is repealed.  
+|  SECTION 4. The change in law made by this Act applies only  
+| to an application for low income housing tax credits that is  
+| submitted to the Texas Department of Housing and Community Affairs  
+| during an application cycle that is based on the 2020 qualified  
+| allocation plan or a subsequent plan adopted by the governing board  
+| of the department under Section 2306.67022, Government Code. An  
+| application that is submitted during an application cycle that is  
+| based on an earlier qualified allocation plan is governed by the law  
+| in effect on the date the application cycle began, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

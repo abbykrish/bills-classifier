@@ -1,0 +1,195 @@
+| 86R3624 GRM-D  
+---|---  
+|  By: Reynolds | H.B. No. 740  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to straight-party voting.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1.005, Election Code, as effective  
+| September 1, 2020, is amended by adding Subdivision (20) to read as  
+| follows:  
+|  _(20)_ _____"Straight-party vote" means a vote by a single_  
+| _mark, punch, or other action by the voter for all the nominees of_  
+| _one political party and for no other candidates._  
+|  SECTION 2. Section 31.012(a), Election Code, as effective  
+| September 1, 2020, is amended to read as follows:  
+|  (a) The secretary of state and the voter registrar of each  
+| county that maintains a website shall provide notice of the  
+| identification requirements for voting prescribed by Chapter 63  
+| [ ~~and that straight ticket voting has been eliminated pursuant to~~  
+|  ~~H.B. 25, Acts of the 85th Legislature, Regular Session, 2017~~ ] on  
+| each entity's respective website in each language in which voter  
+| registration [ ~~and election~~ ] materials are available.  The secretary  
+| of state shall prescribe the wording of the notice to be included on  
+| the websites.  
+|  SECTION 3. Subchapter C, Chapter 52, Election Code, as  
+| effective September 1, 2020, is amended by adding Section 52.071 to  
+| read as follows:  
+|  _Sec._ ___52.071._ _____VOTING SQUARE AND INSTRUCTION FOR_  
+| _STRAIGHT-PARTY VOTE._ ___(a)_ ___On a ballot on which a party column_  
+| _appears, a square larger than the square prescribed by Section_  
+| _52.070(a) shall be printed to the left of each political party's_  
+| _name._  
+|  _(b)_ _____The following instruction shall be added to the_  
+| _instruction required by Section 52.070(b):_ ___"You may cast a_  
+| _straight-party vote (that is, cast a vote for all the nominees of_  
+| _one party) by placing an 'X' in the square beside the name of the_  
+| _party of your choice._ ___If you cast a straight-party vote for all the_  
+| _nominees of one party and also cast a vote for an opponent of one of_  
+| _that party's nominees, your vote for the opponent will be counted as_  
+| _well as your vote for all the other nominees of the party for which_  
+| _the straight-party vote was cast."_  
+|  SECTION 4. Section 62.011(c), Election Code, as effective  
+| September 1, 2020, is amended to read as follows:  
+|  (c) The poster must include instructions applicable to the  
+| election on:  
+|  (1) marking and depositing the ballot;  
+|  (2) voting for a write-in candidate;  
+|  (3) casting a provisional ballot; [ ~~and~~ ]  
+|  (4) securing an additional ballot if the voter's  
+| original ballot is spoiled _; and_  
+|  _(5) casting a straight-party vote_.  
+|  SECTION 5. Subchapter A, Chapter 64, Election Code, as  
+| effective September 1, 2020, is amended by adding Section 64.004 to  
+| read as follows:  
+|  _Sec._ ___64.004._ _____MARKING THE BALLOT FOR STRAIGHT-PARTY VOTE._ __  
+| _In an election in which a single square is provided on the ballot_  
+| _for casting a straight-party vote, a straight-party vote must be_  
+| _indicated by placing an "X" or other mark that clearly shows the_  
+| _voter's intent in the square beside the name of the appropriate_  
+| _political party._  
+|  SECTION 6. Subchapter A, Chapter 65, Election Code, as  
+| effective September 1, 2020, is amended by adding Section 65.007 to  
+| read as follows:  
+|  _Sec._ ___65.007._ _____TALLYING STRAIGHT-PARTY VOTES._ ___(a)_ ___In an_  
+| _election in which a single square is provided on the ballot for_  
+| _casting a straight-party vote, the tally lists shall contain spaces_  
+| _for tallying those votes._  
+|  _(b)_ _____Except as provided by Subsection (c) or (d), each_  
+| _straight-party vote shall be tallied for the party receiving the_  
+| _vote instead of being tallied for the individual candidates of the_  
+| _party. The total number of straight-party votes tallied for each_  
+| _party shall be added to the total votes received for each of the_  
+| _party nominees individually._  
+|  _(c)_ _____If a ballot indicates a straight-party vote and a vote_  
+| _for an opponent of one or more of that party's nominees, a vote_  
+| _shall be counted for the opponent and for each of the party's other_  
+| _nominees whether or not any of those nominees have received_  
+| _individual votes._  
+|  _(d)_ _____If a ballot indicates straight-party votes for more than_  
+| _one party, those votes may not be tallied and a vote shall be_  
+| _counted for each candidate receiving an individual vote if no other_  
+| _individual votes are received in that race. If no candidate_  
+| _receives an individual vote, the portion of the ballot for offices_  
+| _may not be counted._  
+|  SECTION 7. Section 65.011, Election Code, as effective  
+| September 1, 2020, is amended to read as follows:  
+|  Sec. 65.011. OVERVOTING.  _Except as provided by Section_  
+| _65.007(c) or (d), if_ [ ~~If~~ ] a voter marks the ballot for more  
+| candidates for an office than the number of persons to be elected  
+| for that office, none of the votes may be counted for that office.  
+|  SECTION 8. Section 105.002(c), Election Code, as effective  
+| September 1, 2020, is amended to read as follows:  
+|  (c) The secretary of state shall prescribe the form of the  
+| ballot to allow a voter to cast a vote in each federal, state, or  
+| local race in the election.  The ballot must allow a voter to write  
+| in the name of a candidate _or, if applicable, cast a straight-party_  
+| _vote_.  
+|  SECTION 9. Section 122.001, Election Code, as effective  
+| September 1, 2020, is amended by amending Subsection (a) and adding  
+| Subsection (b) to read as follows:  
+|  (a) A voting system may not be used in an election unless the  
+| system:  
+|  (1) preserves the secrecy of the ballot;  
+|  (2) is suitable for the purpose for which it is  
+| intended;  
+|  (3) operates safely, efficiently, and accurately and  
+| complies with the voting system standards adopted by the Election  
+| Assistance Commission;  
+|  (4) is safe from fraudulent or unauthorized  
+| manipulation;  
+|  (5) permits voting on all offices and measures to be  
+| voted on at the election;  
+|  (6) prevents counting votes on offices and measures on  
+| which the voter is not entitled to vote;  
+|  (7) prevents counting votes by the same voter for more  
+| than one candidate for the same office or, in elections in which a  
+| voter is entitled to vote for more than one candidate for the same  
+| office, prevents counting votes for more than the number of  
+| candidates for which the voter is entitled to vote;  
+|  (8) prevents counting a vote on the same office or  
+| measure more than once;  
+|  (9) permits write-in voting; [ ~~and~~ ]  
+|  (10) is capable of providing records from which the  
+| operation of the voting system may be audited _; and_  
+|  _(11) is capable of permitting straight-party voting_.  
+|  _(b)_ _____A voting system may not be used in an election in which_  
+| _straight-party voting is permitted unless the system permits or_  
+| _prevents, as applicable, counting votes in accordance with Sections_  
+| _65.007(c) and (d)._  
+|  SECTION 10. Subchapter A, Chapter 124, Election Code, as  
+| effective September 1, 2020, is amended by adding Section 124.001  
+| to read as follows:  
+|  _Sec._ ___124.001._ _____STRAIGHT-PARTY ARRANGEMENT._ ___In an election_  
+| _in which voters are entitled to cast straight-party votes, the_  
+| _voting system ballot shall be arranged to permit the voters to do_  
+| _so._  
+|  SECTION 11. Section 124.003, Election Code, as effective  
+| September 1, 2020, is amended by adding Subsection (d) to read as  
+| follows:  
+|  _(d)_ _____The requirement that the ballot be arranged to permit_  
+| _straight-party voting does not apply to candidates listed under the_  
+| _uncontested races heading._  
+|  SECTION 12. Section 124.063, Election Code, as effective  
+| September 1, 2020, is amended by adding Subsection (d) to read as  
+| follows:  
+|  _(d)_ _____The electronic system ballot for an election in which_  
+| _straight-party voting is allowed must contain the instruction_  
+| _prescribed by Section 52.071(b) with the language relating to_  
+| _placing an "X" in the party square changed as appropriate to_  
+| _accommodate the method by which the voter indicates a vote._  
+|  __SECTION 13. Section 129.023(c), Election Code, as effective  
+| September 1, 2020, is amended to read as follows:  
+|  (c) The general custodian of election records shall adopt  
+| procedures for testing that:  
+|  (1) direct the testing board to cast votes;  
+|  (2) verify that each contest position, as well as each  
+| precinct and ballot style, on the ballot can be voted and is  
+| accurately counted;  
+|  (3) include overvotes and undervotes for each race, if  
+| applicable to the system being tested;  
+|  (4) include write-in votes, when applicable to the  
+| election;  
+|  (5) include provisional votes, if applicable to the  
+| system being tested;  
+|  (6) calculate the expected results from the test  
+| ballots;  
+|  (7) ensure that each voting machine has any public  
+| counter reset to zero and presented to the testing board for  
+| verification before testing;  
+|  (8) require that, for each feature of the system that  
+| allows disabled voters to cast a ballot, at least one vote be cast  
+| and verified by a two-person testing board team using that feature;  
+| [ ~~and~~ ]  
+|  (9) require that, when all votes are cast, the general  
+| custodian of election records and the testing board observe the  
+| tabulation of all ballots and compare the actual results to the  
+| expected results _; and_  
+|  _(10)_ _____include straight-party votes and crossover_  
+| _votes_.  
+|  SECTION 14. Section 232.050, Election Code, as effective  
+| September 1, 2020, is amended by adding Subsection (d) to read as  
+| follows:  
+|  _(d)_ _____The requirement that a ballot on which a party nominee_  
+| _appears must be arranged to permit casting a straight-party vote_  
+| _does not apply to the ballot for the new election if fewer than_  
+| _three offices are to appear on the ballot._  
+|  SECTION 15. Sections 31.012(b-1) and (d), Election Code, as  
+| effective September 1, 2020, are repealed.  
+|  SECTION 16. This Act takes effect immediately if it  
+| receives a vote of two-thirds of all the members elected to each  
+| house, as provided by Section 39, Article III, Texas Constitution.  
+| If this Act does not receive the vote necessary for immediate  
+| effect, this Act takes effect September 1, 2019.
+

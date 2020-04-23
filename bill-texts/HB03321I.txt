@@ -1,0 +1,134 @@
+| 86R13804 LED-F  
+---|---  
+|  By: Burns | H.B. No. 3321  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to reporting requirements by certain physicians for  
+| abortion complications.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 171.006, Health and Safety Code, as  
+| added by Chapter 4 (H.B. 13), Acts of the 85th Legislature, 1st  
+| Called Session, 2017, is redesignated as Section 171.007, Health  
+| and Safety Code, and amended to read as follows:  
+|  Sec. _171.007_ [ ~~171.006~~ ]. ABORTION COMPLICATION REPORTING  
+| REQUIREMENTS; CIVIL PENALTY. (a) In this section "abortion  
+| complication" means any harmful event or adverse outcome with  
+| respect to a patient related to an abortion that is performed on the  
+| patient and that is diagnosed or treated by a health care  
+| practitioner or at a health care facility and includes:  
+|  (1) shock;  
+|  (2) uterine perforation;  
+|  (3) cervical laceration;  
+|  (4) hemorrhage;  
+|  (5) aspiration or allergic response;  
+|  (6) infection;  
+|  (7) sepsis;  
+|  (8) death of the patient;  
+|  (9) incomplete abortion;  
+|  (10) damage to the uterus; or  
+|  (11) an infant born alive after the abortion.  
+|  (b) The reporting requirements of this section apply only  
+| to:  
+|  (1) a physician who:  
+|  (A) performs at an abortion facility an abortion  
+| that results in an abortion complication diagnosed or treated by  
+| that physician; [ ~~or~~ ]  
+|  (B) diagnoses or treats at an abortion facility  
+| an abortion complication that is the result of an abortion  
+| performed by another physician at the facility; or  
+|  _(C)_ _____diagnoses or treats at a public health_  
+| _clinic, hospital, or other health care facility an abortion_  
+| _complication that the physician knows or reasonably believes is the_  
+| _result of an abortion performed by another physician; or_  
+|  (2) a health care facility that is a hospital,  
+| abortion facility, freestanding emergency medical care facility,  
+| or health care facility that provides emergency medical care, as  
+| defined by Section 773.003.  
+|  (c) A physician described by Subsection (b)(1) shall  
+| electronically submit to the commission in the form and manner  
+| prescribed by commission rule a report on each abortion  
+| complication diagnosed or treated by that physician not later than  
+| the end of the third business day after the date on which the  
+| complication is diagnosed or treated. Each health care facility  
+| described by Subsection (b)(2) shall electronically submit to the  
+| commission in the form and manner prescribed by commission rule a  
+| report on each abortion complication diagnosed or treated at the  
+| facility not later than the 30th day after the date on which the  
+| complication is diagnosed or treatment is provided for the  
+| complication.  
+|  (d) The commission shall develop a form for reporting an  
+| abortion complication under Subsection (c) and publish the form on  
+| the commission's Internet website. The executive commissioner by  
+| rule may adopt procedures to reduce duplication in reporting under  
+| this section.  
+|  (e) A report under this section may not identify by any  
+| means the physician performing an abortion, other than a physician  
+| described by Subsection (b)(1), or the patient on whom the abortion  
+| was performed.  
+|  (f) A report under this section must identify the name of  
+| the physician submitting the report or the name and type of health  
+| care facility submitting the report and must include, if known, for  
+| each abortion complication:  
+|  (1) the date of the abortion that caused or may have  
+| caused the complication;  
+|  (2) the type of abortion that caused or may have caused  
+| the complication;  
+|  (3) the gestational age of the fetus at the time the  
+| abortion was performed;  
+|  (4) the name and type of the facility in which the  
+| abortion was performed;  
+|  (5) the date the complication was diagnosed or  
+| treated;  
+|  (6) the name and type of any facility other than the  
+| reporting facility in which the complication was diagnosed or  
+| treated;  
+|  (7) a description of the complication;  
+|  (8) the patient's year of birth, race, marital status,  
+| and state and county of residence;  
+|  (9) the date of the first day of the patient's last  
+| menstrual period that occurred before the date of the abortion that  
+| caused or may have caused the complication;  
+|  (10) the number of previous live births of the  
+| patient; and  
+|  (11) the number of previous induced abortions of the  
+| patient.  
+|  (g) Except as provided by Section 245.023, all information  
+| and records held by the commission under this section are  
+| confidential and are not open records for the purposes of Chapter  
+| 552, Government Code. That information may not be released or made  
+| public on subpoena or otherwise, except release may be made:  
+|  (1) for statistical purposes, but only if a person,  
+| patient, or health care facility is not identified;  
+|  (2) with the consent of each person, patient, and  
+| facility identified in the information released;  
+|  (3) to medical personnel, appropriate state agencies,  
+| or county and district courts to enforce this chapter; or  
+|  (4) to appropriate state licensing boards to enforce  
+| state licensing laws.  
+|  (h) A report submitted under this section must include the  
+| most specific, accurate, and complete reporting for the highest  
+| level of specificity.  
+|  (i) The commission shall develop and publish on the  
+| commission's Internet website an annual report that aggregates on a  
+| statewide basis each abortion complication required to be reported  
+| under Subsection (f) for the previous calendar year. The annual  
+| report may not include any duplicative data.  
+|  (j) A physician described by Subsection (b)(1) or health  
+| care facility that violates this section is subject to a civil  
+| penalty of $500 for each violation. The attorney general, at the  
+| request of the commission or appropriate licensing agency, may file  
+| an action to recover a civil penalty assessed under this subsection  
+| and may recover attorney's fees and costs incurred in bringing the  
+| action. Each day of a continuing violation constitutes a separate  
+| ground for recovery.  
+|  (k) The third separate violation of this section  
+| constitutes cause for the revocation or suspension of a physician's  
+| or health care facility's license, permit, registration,  
+| certificate, or other authority or for other disciplinary action  
+| against the physician or facility by the appropriate licensing  
+| agency.  
+|  (l) The commission shall notify the Texas Medical Board of  
+| any violations of this section by a physician.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

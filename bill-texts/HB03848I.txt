@@ -1,0 +1,253 @@
+| 86R6027 MTB-F  
+---|---  
+|  By: Longoria | H.B. No. 3848  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to adoption of the Electronic Wills Act.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle F, Title 2, Estates Code, is amended by  
+| adding Chapter 259 to read as follows:  
+| _CHAPTER 259._ _____ELECTRONIC WILLS_  
+|  _Sec._ ___259.001._ _____SHORT TITLE._ _____This chapter may be cited as_  
+| _the Electronic Wills Act._  
+|  _Sec. 259.002. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Electronic" means relating to technology having_  
+| _electrical, digital, magnetic, wireless, optical, electromagnetic,_  
+| _or similar capabilities._  
+|  _(2)_ _____"Electronic notarial certificate" has the meaning_  
+| _assigned by Section 406.101, Government Code._  
+|  _(3)_ _____"Electronic will" means a will executed in_  
+| _compliance with Section 259.005._  
+|  _(4)_ _____"Online notary public" has the meaning assigned by_  
+| _Section 406.101, Government Code._  
+|  _(5)_ _____"Record" means information that is inscribed on a_  
+| _tangible medium or that is stored in an electronic or other medium_  
+| _and is retrievable in perceivable form._  
+|  _(6)_ _____"Sign" means, with present intent to authenticate_  
+| _or adopt a record:_  
+|  _(A) to execute or adopt a tangible symbol; or_  
+|  _(B)_ _____to affix to or logically associate with the_  
+| _record an electronic symbol, sound, or process._  
+|  _Sec._ ___259.0025._ _____ELECTRONIC PRESENCE. For purposes of this_  
+| _chapter, two individuals are in each other's "electronic presence"_  
+| _if the individuals are in different physical locations but able to_  
+| _communicate simultaneously by sight and sound, with accommodation_  
+| _for a testator or witness who has limited ability in sight or_  
+| _hearing._  
+|  _Sec._ ___259.003._ _____COMMON LAW AND PRINCIPLES OF EQUITY._ _____The_  
+| _common law and principles of equity supplement this chapter except_  
+| _to the extent modified by this chapter or state law other than this_  
+| _chapter._  
+|  _Sec._ ___259.004._ _____WHO MAY MAKE AN ELECTRONIC WILL._ _____An_  
+| _individual who may make a will under the law of this state other_  
+| _than this chapter may make an electronic will._  
+|  _Sec._ ___259.005._ _____EXECUTION OF ELECTRONIC WILL._ _____(a)_ _____An_  
+| _electronic will must be in a record perceivable as text that is:_  
+|  _(1)_ _____signed, with the intent that the record be the_  
+| _testator's electronic will, by:_  
+|  _(A) the testator; or_  
+|  _(B)_ _____another individual in the testator's name, in_  
+| _the testator's conscious physical or electronic presence, and at_  
+| _the testator's direction; and_  
+|  _(2)_ _____signed by at least two credible individuals who_  
+| _are at least 14 years of age, each of whom signed in the physical or_  
+| _electronic presence of the testator._  
+|  _(b)_ _____Intent of a testator that a record be the testator's_  
+| _electronic will may be established by extrinsic evidence._  
+|  _Sec._ ___259.006._ _____ELECTRONIC WILL MADE SELF-PROVING IF ALL_  
+| _WITNESSES PHYSICALLY PRESENT._ _____(a)_ _____An electronic will with all_  
+| _attesting witnesses physically present in the same location as the_  
+| _testator may be made self-proving by acknowledgment of the testator_  
+| _and affidavits of the witnesses._  
+|  _(b)_ _____An acknowledgment and the affidavits under Subsection_  
+| _(a) must be:_  
+|  _(1)_ _____made before an officer authorized to administer_  
+| _oaths under law of the state in which execution occurs, who is_  
+| _physically present in the same location as the testator and_  
+| _attesting witnesses; and_  
+|  _(2)_ _____evidenced by the officer's certificate under_  
+| _official seal logically associated with the electronic will._  
+|  _(c)_ _____The acknowledgment and affidavits under Subsection (a)_  
+| _must be in substantially the following form:_  
+|  _Before me, the undersigned authority, on this day personally_  
+| _appeared _____________, _____________, and _____________, known to_  
+| _me to be the testator and witnesses, respectively, who signed their_  
+| _names to this record in their respective capacities, and all of said_  
+| _persons being by me duly sworn, the said _____________, testator,_  
+| _declared to me and to the said witnesses in my presence that this_  
+| _record is [his/her] electronic will, and that [he/she] had_  
+| _willingly made and executed it as [his/her] free act and deed; and_  
+| _the said witnesses, each on [his/her] oath stated to me, in the_  
+| _physical presence and hearing of the said testator, that the said_  
+| _testator had declared to them that this record is [his/her]_  
+| _electronic will, and that [he/she] executed same as such and wanted_  
+| _each of them to sign it as a witness; and upon their oaths each_  
+| _witness stated further that they did sign the same as witnesses in_  
+| _the presence of the said testator and at [his/her] request; that_  
+| _[he/she] was at that time eighteen years of age or over (or being_  
+| _under such age, was or had been lawfully married, or was then a_  
+| _member of the armed forces of the United States, or an auxiliary of_  
+| _the armed forces of the United States, or the United States Maritime_  
+| _Service) and was of sound mind; and that each of said witnesses was_  
+| _then at least fourteen years of age._  
+|  _____________________________  
+|  _Testator_  
+|  _____________________________  
+|  _Witness_  
+|  _____________________________  
+|  _Witness_  
+|  _Subscribed and sworn to before me by the said _________,_  
+| _testator, and by the said _____________ and ______________,_  
+| _witnesses, this _____ day of __________, 20___._  
+|  _(SEAL)_  
+|  _(Signed) ____________________  
+|  _(Official Capacity of Officer)_  
+|  _Sec._ ___259.007._ _____ELECTRONIC WILL MADE SELF-PROVING WHERE ALL_  
+| _WITNESSES NOT PHYSICALLY PRESENT. (a) In this section,_  
+| _"authorized person" means:_  
+|  _(1)_ _____an individual licensed to practice law in the_  
+| _United States; or_  
+|  _(2) a court clerk._  
+|  _(b)_ _____An electronic will without all attesting witnesses_  
+| _physically present in the same location as the testator may be made_  
+| _self-proving by:_  
+|  _(1)_ _____acknowledgment of the testator and affidavits of_  
+| _the witnesses:_  
+|  _(A) made before an online notary public; and_  
+|  _(B)_ _____evidenced by the online notary public's_  
+| _electronic notarial certificate; or_  
+|  _(2)_ _____an authorized person's certification in writing_  
+| _under Subsection (e) that:_  
+|  _(A) the person is an authorized person;_  
+|  _(B)_ _____the testator declared that the record is the_  
+| _testator's electronic will and that the testator understands the_  
+| _will's contents;_  
+|  _(C)_ _____the testator signed the electronic will in_  
+| _the electronic or physical presence of each individual who signed_  
+| _the record as a witness;_  
+|  _(D)_ _____the authorized person is satisfied as to the_  
+| _identity of the testator and the witnesses; and_  
+|  _(E)_ _____to the best of the authorized person's_  
+| _knowledge the testator:_  
+|  _(i)_ _____was, at the time of the signing of the_  
+| _electronic will, 18 years of age or older or, being under such age,_  
+| _was or had been lawfully married or was then a member of the armed_  
+| _forces of the United States, or an auxiliary of the armed forces of_  
+| _the United States, or the United States Maritime Service;_  
+|  _(ii) was of sound mind; and_  
+|  _(iii)_ _____willingly made and executed the_  
+| _electronic will as the testator's free act and deed._  
+|  _(c)_ _____An heir of the testator or a beneficiary under an_  
+| _electronic will may not act as an authorized person under this_  
+| _section._  
+|  _(d)_ _____An authorized person under this section submits to the_  
+| _jurisdiction of the court in the county in which the testator_  
+| _executes the electronic will._  
+|  _(e)_ _____A certification made under Subsection (b)(2) must be in_  
+| _substantially the following form:_  
+|  _I, ______________________, an authorized person, certify_  
+| _that on this ______ day of __________, 20____, at ______________,_  
+| _______________(city, state), the testator declared the attached_  
+| _record to be the electronic will of the testator and declared that_  
+| _the testator understands the contents of the electronic will. I_  
+| _further certify that the testator, in the electronic or physical_  
+| _presence of each individual who signed the electronic will as a_  
+| _witness, signed the electronic will. I further certify that I am_  
+| _satisfied as to the identity of the testator and the witnesses and_  
+| _that to the best of my knowledge the testator was, at the time of the_  
+| _signing of the electronic will, eighteen years of age or over or,_  
+| _being under such age, was or had been lawfully married or was then a_  
+| _member of the armed forces of the United States, or an auxiliary of_  
+| _the armed forces of the United States, or the United States Maritime_  
+| _Service, was of sound mind, and willingly made and executed the_  
+| _electronic will as the testator's free act and deed._  
+|  _____________________________  
+|  _(Signed)_  
+|  _Sec._ ___259.008._ _____ELECTRONIC WILL MADE SELF-PROVING AFTER_  
+| _EXECUTION._ _____(a)_ _____An electronic will with all attesting witnesses_  
+| _physically present in the same location as the testator may be made_  
+| _self-proving at any time after its execution by the acknowledgment_  
+| _of the testator and the affidavits of the witnesses._  
+|  _(b)_ _____An acknowledgment and affidavits under Subsection (a)_  
+| _must be:_  
+|  _(1)_ _____made before an officer authorized to administer_  
+| _oaths under the law of the state in which the acknowledgment occurs;_  
+| _and_  
+|  _(2)_ _____evidenced by the officer's certificate under_  
+| _official seal, logically associated with the electronic will, in_  
+| _substantially the following form:_  
+|  _I, ______________________, the testator, and we,_  
+| _______________________ and ______________________, witnesses,_  
+| _whose names are signed to the attached or preceding electronic_  
+| _will, being sworn, declare to the undersigned officer that the_  
+| _testator signed the record as the testator's electronic will, the_  
+| _testator willingly made and executed it as the testator's free act_  
+| _and deed, each of the witnesses, in the physical presence and_  
+| _hearing of the testator, signed the electronic will as witnesses to_  
+| _the testator's signing, to the best of each witness's knowledge the_  
+| _testator was at that time eighteen years of age or over (or being_  
+| _under such age, was or had been lawfully married, or was then a_  
+| _member of the armed forces of the United States, or an auxiliary of_  
+| _the armed forces of the United States, or the United States Maritime_  
+| _Service) and was of sound mind, and each of the witnesses was then_  
+| _at least fourteen years of age._  
+|  _____________________________  
+|  _Testator_  
+|  _____________________________  
+|  _Witness_  
+|  _____________________________  
+|  _Witness_  
+|  _State of ___________________  
+|  _County of __________________  
+|  _Subscribed and sworn to before me by the said _________,_  
+| _testator, and by the said _____________ and ______________,_  
+| _witnesses, this _____ day of __________, 20____._  
+|  _(SEAL)_  
+|  _(Signed) ___________________  
+|  _(Official Capacity of Officer)_  
+|  _Sec._ ___259.009._ _____PROOF OF ELECTRONIC WILL._ _____A signature_  
+| _physically or electronically affixed to an affidavit attached to an_  
+| _electronic will under this chapter is considered a signature_  
+| _affixed to the electronic will if necessary to prove the will's_  
+| _execution._  
+|  _Sec._ ___259.010._ _____CHOICE OF LAW AS TO EXECUTION._ _____An
+electronic_  
+| _will is validly executed if executed in compliance with the law of_  
+| _the place where:_  
+|  _(1)_ _____the testator is physically located at the time of_  
+| _execution; or_  
+|  _(2)_ _____at the time of execution or at the time of death,_  
+| _the testator is domiciled, resides, or is a citizen._  
+|  _Sec._ ___259.011._ _____REVOCATION._ _____(a)_ _____An electronic will or
+part_  
+| _of an electronic will is revoked by:_  
+|  _(1)_ _____a subsequent will, including an electronic will,_  
+| _that revokes the previous will or part of the previous will_  
+| _expressly or by inconsistency; or_  
+|  _(2)_ _____a revocatory act, if it is established by clear and_  
+| _convincing evidence that:_  
+|  _(A)_ _____the testator performed the act with the_  
+| _intent and for the purpose of revoking the will or part of the will;_  
+| _or_  
+|  _(B)_ _____another individual performed the act in the_  
+| _testator's physical or electronic presence and by the testator's_  
+| _direction._  
+|  _(b)_ _____An electronic will may revoke a will that is not an_  
+| _electronic will._  
+|  _Sec._ ___259.012._ _____UNIFORMITY OF APPLICATION AND CONSTRUCTION._  
+| _In applying and construing this chapter, consideration must be_  
+| _given to the need to promote uniformity of the law with respect to_  
+| _its subject matter among states that enact it._  
+|  _Sec._ ___259.013._ _____RELATION TO ELECTRONIC SIGNATURES IN GLOBAL_  
+| _AND NATIONAL COMMERCE ACT. This chapter modifies, limits, or_  
+| _supersedes the Electronic Signatures in Global and National_  
+| _Commerce Act (15 U.S.C. Section 7001 et seq.) but does not modify,_  
+| _limit, or supersede Section 101(c) of that Act (15 U.S.C. Section_  
+| _7001(c)) or authorize electronic delivery of any of the notices_  
+| _described in Section 103(b) of that Act (15 U.S.C. Section_  
+| _7003(b))._  
+|  SECTION 2. This Act applies to the will of a decedent whose  
+| death is on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

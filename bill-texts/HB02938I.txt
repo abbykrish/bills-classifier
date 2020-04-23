@@ -1,0 +1,31 @@
+| 86R12000 EAS-F  
+---|---  
+|  By: Hinojosa | H.B. No. 2938  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of the commissioners court of a county to  
+| employ attorneys as mental health public defenders and to the  
+| reimbursement of an attorney who represents an indigent proposed  
+| patient in certain mental health proceedings.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 571, Health and Safety Code, is amended  
+| by adding Sections 571.0168 and 571.0169 to read as follows:  
+|  _Sec._ ___571.0168._ _____MENTAL HEALTH PUBLIC DEFENDERS. The_  
+| _commissioners court of a county may employ attorneys as mental_  
+| _health public defenders to provide proposed patients with legal_  
+| _representation in a proceeding under Chapter 574._  
+|  _Sec._ ___571.0169._ _____REPRESENTATION OF PROPOSED PATIENT. The_  
+| _court may appoint a mental health public defender described by_  
+| _Section 571.0168, a public defender other than a mental health_  
+| _public defender, or a private attorney to represent a proposed_  
+| _patient in any proceeding under Chapter 574._  
+|  SECTION 2. Section 574.010(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) If the court determines that the proposed patient is  
+| indigent, the court may authorize reimbursement to the attorney  
+| _representing the proposed patient_ [ ~~ad litem~~ ] for court-approved  
+| expenses incurred in obtaining expert testimony and may order the  
+| proposed patient's county of residence to pay the expenses.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

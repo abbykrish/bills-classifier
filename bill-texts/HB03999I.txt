@@ -1,0 +1,55 @@
+| 86R11332 LED-D  
+---|---  
+|  By: Turner of Tarrant | H.B. No. 3999  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to reimbursement for health care services provided to  
+| certain first responders; creating a civil penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle G, Title 4, Health and Safety Code, is  
+| amended by adding Chapter 327 to read as follows:  
+| _CHAPTER 327. PROVISION OF HEALTH CARE SERVICES TO FIRST RESPONDERS_  
+|  _Sec. 327.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"First responder" means law enforcement, fire_  
+| _protection, or emergency medical services personnel who are_  
+| _employed full-time by this state or a political subdivision of this_  
+| _state._  
+|  _(2)_ _____"Health care facility" means a hospital, an_  
+| _outpatient facility, or a clinic._ ___The term does not include a_  
+| _physician's office._  
+|  _Sec._ ___327.0002._ _____APPLICABILITY. This chapter applies to the_  
+| _health care services provided to:_  
+|  _(1) a first responder;_  
+|  _(2)_ _____a retired first responder who is younger than 65_  
+| _years of age; and_  
+|  _(3) a qualified dependent of a first responder._  
+|  _Sec._ ___327.0003._ _____REIMBURSEMENT RATE FOR HEALTH CARE SERVICES._  
+| _A health care facility that provides a health care service to which_  
+| _this chapter applies must accept as payment in full an amount equal_  
+| _to the Medicare reimbursement rate for the service provided,_  
+| _regardless of whether an individual, a health benefit plan issuer,_  
+| _a third-party administrator, this state, or a political subdivision_  
+| _of this state is responsible for the claim._  
+|  _Sec._ ___327.0004._ _____CIVIL PENALTY. (a)_ ___A health care facility_  
+| _that fails to comply with Section 327.0003 or that refuses to_  
+| _provide necessary medical treatment to a first responder that the_  
+| _health care facility is otherwise capable of providing is liable to_  
+| _the state for a civil penalty of $1,000 for each violation._ ___Each_  
+| _day of a continuing violation constitutes a separate violation._  
+|  _(b) The attorney general may sue to collect the penalty._  
+|  _(c)_ _____The attorney general shall file an action under this_  
+| _section in a district court in Travis County or the county in which_  
+| _the violation occurred._  
+|  _(d)_ _____The attorney general may recover reasonable expenses_  
+| _incurred in obtaining injunctive relief or a civil penalty under_  
+| _this section, including court costs, attorney's fees,_  
+| _investigative costs, witness fees, and deposition expenses._  
+|  SECTION 2. Chapter 327, Health and Safety Code, as added by  
+| this Act, applies only to a service provided by a health care  
+| facility on or after January 1, 2020. A service provided before  
+| January 1, 2020, is governed by the law as it existed immediately  
+| before the effective date of this Act, and that law is continued in  
+| effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

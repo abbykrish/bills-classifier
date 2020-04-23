@@ -1,0 +1,38 @@
+| 86R14214 MM-F  
+---|---  
+|  By: VanDeaver | H.B. No. 4324  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the submission and use of electronic student records in  
+| the electronic student records system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 7.010(b) and (c), Education Code, are  
+| amended to read as follows:  
+|  (b) Each school district, open-enrollment charter school,  
+| and institution of higher education shall participate in an  
+| electronic student records system that satisfies standards  
+| approved by the commissioner of education and the commissioner of  
+| higher education. _The commissioner of education and the_  
+| _commissioner of higher education may specify an approved format for_  
+| _submission of electronic student records._  
+|  (c) The electronic student records system must permit an  
+| authorized state or district official or an authorized  
+| representative of an institution of higher education to  
+| electronically transfer _student transcripts_ to and from an  
+| educational institution in which the student is enrolled _, to_  
+| _extract data elements from_ [ ~~and retrieve~~ ] student transcripts _in
+an_  
+| _efficient and effective manner, and to provide those data elements_  
+| _for import into an electronic data system._ ___The data elements may_  
+| _include_ [ ~~, including~~ ] information concerning a student's:  
+|  (1) course or grade completion;  
+|  (2) teachers of record;  
+|  (3) assessment instrument results;  
+|  (4) receipt of special education services, including  
+| placement in a special education program and the individualized  
+| education program developed; and  
+|  (5) personal graduation plan as described by Section  
+| 28.0212 or 28.02121, as applicable.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,218 @@
+| 86R8717 JRR-D  
+---|---  
+|  By: White | H.B. No. 1653  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain criminal justice reforms, including measures  
+| related to reentry and reintegration of state jail felony  
+| defendants and pretrial intervention programs that provide an  
+| alternative to incarceration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 2, Code of Criminal Procedure, is  
+| amended by adding Article 2.026 to read as follows:  
+|  _Art._ ___2.026._ _____REPORTING FINAL DISPOSITION OF OFFENSE_  
+| _INVOLVING PLACEMENT IN PRETRIAL INTERVENTION PROGRAM. As soon as_  
+| _practicable after final disposition of an offense for which the_  
+| _defendant was placed in a pretrial intervention program, the_  
+| _attorney representing the state in the defendant's case shall_  
+| _report the disposition of the offense to the Office of Court_  
+| _Administration of the Texas Judicial System._  
+|  SECTION 2. Subchapter B, Chapter 507, Government Code, is  
+| amended by adding Section 507.035 to read as follows:  
+|  _Sec._ ___507.035._ _____REENTRY AND REINTEGRATION GRANT PROGRAM. (a)_  
+| _The department shall establish a grant program to provide grants to_  
+| _community-based nonprofit organizations that provide reentry and_  
+| _reintegration services to defendants released from state jail_  
+| _felony facilities._  
+|  _(b)_ _____The department shall contract with a nonprofit_  
+| _organization to administer the grant program. In administering the_  
+| _grant program, the nonprofit organization shall:_  
+|  _(1)_ _____give priority in awarding grants to_  
+| _community-based nonprofit organizations serving communities in_  
+| _which the rate of state jail felony arrests significantly exceeds_  
+| _the statewide average;_  
+|  _(2)_ _____provide technical and administrative assistance,_  
+| _as appropriate, to grant recipients;_  
+|  _(3)_ _____establish performance and reporting standards for_  
+| _grant recipients, subject to approval by the department; and_  
+|  _(4)_ _____regularly report to the department information_  
+| _regarding the results of the grant program and any other_  
+| _information required by the department._  
+|  _(c)_ _____Reentry and reintegration services provided by a_  
+| _recipient of a grant under this section:_  
+|  _(1) must include peer support services; and_  
+|  _(2)_ _____may include educational, vocational, housing, or_  
+| _other services designed to reduce recidivism and support the_  
+| _successful reentry and reintegration of defendants released from_  
+| _state jail felony facilities._  
+|  _(d)_ _____Not later than December 31 of each year, the department_  
+| _shall submit to the governor, lieutenant governor, and speaker of_  
+| _the house of representatives a report on the administration of the_  
+| _grant program. The report must include information on the_  
+| _recidivism rates of defendants released from state jail felony_  
+| _facilities who received reentry and reintegration services from a_  
+| _recipient of a grant under this section._  
+|  _(e)_ _____The department shall adopt any rules necessary to_  
+| _implement this section._  
+|  SECTION 3. Section 509.003(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The division shall propose and the board shall adopt  
+| reasonable rules establishing:  
+|  (1) minimum standards for programs, community  
+| corrections facilities and other facilities, equipment, and other  
+| aspects of the operation of departments;  
+|  (2) a list and description of core services that  
+| should be provided by each department;  
+|  (3) methods for measuring the success of community  
+| supervision and corrections programs, including methods for  
+| measuring rates of diversion, program completion, and recidivism;  
+|  (4) a format for strategic plans; [ ~~and~~ ]  
+|  (5) minimum standards for the operation of substance  
+| abuse facilities and programs funded through the division _; and_  
+|  _(6)_ _____minimum standards for the operation of pretrial_  
+| _intervention programs funded through the division_.  
+|  SECTION 4. Section 509.011, Government Code, is amended by  
+| amending Subsections (a), (e), and (f) and adding Subsections (a-1)  
+| and (f-1) to read as follows:  
+|  (a) If the division determines that a department complies  
+| with division standards and if the department has submitted a  
+| strategic plan under Section 509.007 and the supporting information  
+| required by the division and the division determines the plan and  
+| supporting information are acceptable, the division shall prepare  
+| and submit to the comptroller vouchers for payment to the  
+| department as follows:  
+|  (1) for per capita funding, a per diem amount for each  
+| [ ~~felony~~ ] defendant directly supervised by the department pursuant  
+| to lawful authority _for an offense punishable as:_  
+|  _(A) a felony; or_  
+|  _(B)_ _____a misdemeanor under Section 30.04,_  
+| _31.03(e)(3), 43.02(c), 49.04, 49.05, 49.06, or 49.065, Penal Code_ ;  
+|  (2) for per capita funding, a per diem amount for a  
+| period not to exceed 182 days for each defendant supervised by the  
+| department pursuant to lawful authority _for a misdemeanor_  
+| _offense_ [ ~~,~~ ] other than _an offense described by Subdivision (1)(B)_
+[ ~~a~~  
+|  ~~felony defendant~~ ]; and  
+|  (3) for formula funding, an annual amount as computed  
+| by multiplying a percentage determined by the allocation formula  
+| established under Subsection (f) times the total amount provided in  
+| the General Appropriations Act for payments under this subdivision.  
+|  _(a-1)_ _____The division may provide to a department,_  
+| _municipality, or county operating a pretrial intervention program_  
+| _that meets the standards adopted under Section 509.003(a)(6) per_  
+| _capita funding that is a per diem amount for each felony defendant_  
+| _participating in the program._  
+|  (e) In establishing per diem payments authorized by  
+| Subsections (a)(1) _,_ [ ~~and~~ ] (a)(2) _, and (a-1)_ , the division shall  
+| consider the amounts appropriated in the General Appropriations Act  
+| for basic supervision as sufficient to provide basic supervision in  
+| each year of the fiscal biennium.  
+|  (f) The division annually shall compute for each department  
+| for community corrections program formula funding a percentage  
+| determined by assigning equal weights to _:_  
+|  _(1)_ the percentage of the state's population residing  
+| in the counties served by the department _;_ and  
+|  _(2)_ the [ ~~department's~~ ] percentage of all felony  
+| defendants in the state _who are:_  
+|  _(A) on_ [ ~~under direct~~ ] community supervision _and_  
+| _directly supervised by the department; and_  
+|  _(B)_ _____participating in a pretrial intervention_  
+| _program that is funded wholly or partly by the division and that is_  
+| _located in a county served by the department, regardless of whether_  
+| _the program is operated by the department_.  
+|  _(f-1)_ The division shall use the most recent information  
+| available in making computations under _Subsection (f)_ [ ~~this~~  
+|  ~~subsection~~ ]. The board by rule may adopt a policy limiting for all  
+| departments the percentage of benefit or loss that may be realized  
+| as a result of the operation of the _allocation_ formula _established_  
+| _under Subsection (f)_.  
+|  SECTION 5. Chapter 509, Government Code, is amended by  
+| adding Section 509.0135 to read as follows:  
+|  _Sec._ ___509.0135._ _____ADDITIONAL REQUIREMENTS FOR CERTAIN GRANT_  
+| _PROGRAMS. (a) This section applies only to a grant awarded under a_  
+| _grant program, as that term is defined by Section 509.013, for the_  
+| _purpose of providing pretrial intervention programs as_  
+| _alternatives to incarceration._  
+|  _(b)_ _____In awarding a grant described by Subsection (a), the_  
+| _division shall give priority to departments that serve counties_  
+| _that:_  
+|  _(1)_ _____establish pretrial intervention programs for_  
+| _state jail felony defendants;_  
+|  _(2)_ _____place eligible defendants into pretrial_  
+| _intervention programs as soon as practicable after each defendant's_  
+| _arrest; or_  
+|  _(3)_ _____reduce and minimize the average amount of time_  
+| _that defendants spend confined pending trial or placement into a_  
+| _pretrial intervention program._  
+|  _(c)_ _____If applicable, the division shall consider a_  
+| _department's performance with respect to the goals established_  
+| _under Subsection (f) in determining whether to award a grant to the_  
+| _department._  
+|  _(d)_ _____Each grant recipient shall report to the division, in_  
+| _the manner prescribed by the division, program-specific outcome_  
+| _data for pretrial intervention programs administered by the_  
+| _recipient or a county served by the recipient, as applicable,_  
+| _including:_  
+|  _(1)_ _____the following information, disaggregated by race_  
+| _and ethnicity:_  
+|  _(A)_ _____the average amount of time a defendant who is_  
+| _eligible for placement into a pretrial intervention program spends_  
+| _confined pending trial or placement into the program, as_  
+| _applicable; and_  
+|  _(B)_ _____the percentage of eligible defendants who are_  
+| _placed into a pretrial intervention program;_  
+|  _(2)_ _____the revocation rates of defendants placed on_  
+| _community supervision; and_  
+|  _(3)_ _____the percentage of state jail felony defendants who_  
+| _are confined in a state jail felony facility as a condition of_  
+| _community supervision or whose sentence is executed wholly or_  
+| _partly._  
+|  _(e)_ _____Not later than December 31 of each year, the division_  
+| _shall:_  
+|  _(1)_ _____submit to the governor, lieutenant governor, and_  
+| _speaker of the house of representatives a report summarizing the_  
+| _information received by the division under Subsection (d) for the_  
+| _preceding fiscal year; and_  
+|  _(2)_ _____publish the report on the division's Internet_  
+| _website._  
+|  _(f) The division shall:_  
+|  _(1)_ _____establish performance goals for grant recipients_  
+| _in the categories described by Subsection (d);_  
+|  _(2)_ _____require a grant recipient who does not achieve a_  
+| _goal set by the division under Subdivision (1) to develop and submit_  
+| _to the division a corrective action plan establishing the measures_  
+| _the recipient will take to improve the recipient's performance with_  
+| _respect to the goal; and_  
+|  _(3)_ _____reduce the rate of any per capita funding provided_  
+| _under this chapter to a recipient that:_  
+|  _(A)_ _____is required to submit a corrective action_  
+| _plan under Subdivision (2); and_  
+|  _(B)_ _____does not improve the recipient's performance_  
+| _with respect to the applicable goal._  
+|  _(g)_ _____The board shall provide notice and a hearing in a manner_  
+| _consistent with the procedures adopted by the board under Section_  
+| _509.012(b) in a case in which the division proposes to reduce the_  
+| _rate of per capita funding under Subsection (f)(3)._  
+|  _(h)_ _____The board shall adopt any rules necessary to implement_  
+| _this section._  
+|  SECTION 6. (a) As soon as practicable after the effective  
+| date of this Act:  
+|  (1) the Texas Department of Criminal Justice shall  
+| establish the grant program required by Section 507.035, Government  
+| Code, as added by this Act, and the Texas Board of Criminal Justice  
+| shall adopt any rules necessary to implement that program; and  
+|  (2) the Texas Board of Criminal Justice shall adopt:  
+|  (A) rules establishing minimum standards for the  
+| operation of a pretrial intervention program funded by the  
+| community justice assistance division of the Texas Department of  
+| Criminal Justice, as required by Section 509.003(a), Government  
+| Code, as amended by this Act; and  
+|  (B) any rules necessary to implement Section  
+| 509.0135, Government Code, as added by this Act.  
+|  (b) Section 509.011(a), Government Code, as amended by this  
+| Act, applies only to a payment to a community supervision and  
+| corrections department based on a voucher submitted to the  
+| comptroller on or after the effective date of this Act.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

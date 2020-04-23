@@ -1,0 +1,34 @@
+| 86R2264 SLB-D  
+---|---  
+|  By: Hinojosa | H.B. No. 137  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to reports by the Texas Commission on Environmental  
+| Quality about dams that have certain hazard classifications.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 12.052, Water Code, is amended by adding  
+| Subsection (e-3) to read as follows:  
+|  _(e-3)_ _____For purposes of this subsection, the emergency_  
+| _management director for a political subdivision is the person_  
+| _designated the subdivision's emergency management director by_  
+| _Section 418.1015, Government Code. The commission shall provide a_  
+| _report of a dam that has a hazard classification of high or_  
+| _significant to the emergency management director for the political_  
+| _subdivision in which the dam is located. The commission shall make a_  
+| _report to the emergency management director not later than:_  
+|  _(1)_ _____the 48th hour after the time of the designation of_  
+| _a dam as a high hazard classification; or_  
+|  _(2)_ _____the 30th day after the date of the designation of a_  
+| _dam as a significant hazard classification._  
+|  SECTION 2. For each dam that, as of the effective date of  
+| this Act, the executive director of the Texas Commission on  
+| Environmental Quality maintains a classification of high or  
+| significant hazard, the commission shall provide a report regarding  
+| the hazard classification of the dam to the emergency management  
+| director for the political subdivision in which the dam is located  
+| as provided by Section 12.052(e-3), Water Code, as added by this  
+| Act. Each report must be provided as soon as practicable and not  
+| later than March 1, 2020.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

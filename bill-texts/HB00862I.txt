@@ -1,0 +1,21 @@
+| 86R995 GRM-D  
+---|---  
+|  By: Anchia | H.B. No. 862  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the calculation of charges for a gas utility customer  
+| after a leak is detected.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter F, Chapter 104, Utilities Code, is  
+| amended by adding Section 104.2571 to read as follows:  
+|  _Sec._ ___104.2571._ _____ADJUSTMENT OF CHARGES ON DETECTION OF LEAK._  
+| _(a)_ ___A gas distribution utility that detects a leak in the utility's_  
+| _distribution system shall recompute charges for customers not later_  
+| _than the 60th day after the date the leak was detected to ensure_  
+| _that the customers are not charged for gas that was not delivered as_  
+| _a result of the leak._  
+|  _(b)_ _____The regulatory authority may adopt rules necessary to_  
+| _implement this section._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

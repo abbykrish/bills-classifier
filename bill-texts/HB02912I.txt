@@ -1,0 +1,141 @@
+| 86R13109 JCG-D  
+---|---  
+|  By: Zerwas | H.B. No. 2912  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain images captured by an unmanned aircraft.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 423.002(a), Government Code, is amended  
+| to read as follows:  
+|  (a) It is lawful to capture an image using an unmanned  
+| aircraft in this state:  
+|  (1) for the purpose of professional or scholarly  
+| research and development or for another academic purpose by a  
+| person acting on behalf of an institution of higher education or a  
+| private or independent institution of higher education, as those  
+| terms are defined by Section 61.003, Education Code, including a  
+| person who:  
+|  (A) is a professor, employee, or student of the  
+| institution; or  
+|  (B) is under contract with or otherwise acting  
+| under the direction or on behalf of the institution;  
+|  (2) in airspace designated as a test site or range  
+| authorized by the Federal Aviation Administration for the purpose  
+| of integrating unmanned aircraft systems into the national  
+| airspace;  
+|  (3) as part of an operation, exercise, or mission of  
+| any branch of the United States military;  
+|  (4) if the image is captured by a satellite for the  
+| purposes of mapping;  
+|  (5) if the image is captured by or for an electric or  
+| natural gas utility or a telecommunications provider:  
+|  (A) for operations and maintenance of utility or  
+| telecommunications facilities for the purpose of maintaining  
+| utility or telecommunications system reliability and integrity;  
+|  (B) for inspecting utility or telecommunications  
+| facilities to determine repair, maintenance, or replacement needs  
+| during and after construction of such facilities;  
+|  (C) for assessing vegetation growth for the  
+| purpose of maintaining clearances on utility or telecommunications  
+| easements; and  
+|  (D) for utility or telecommunications facility  
+| routing and siting for the purpose of providing utility or  
+| telecommunications service;  
+|  (6) with the consent of the individual who owns or  
+| lawfully occupies the real property captured in the image;  
+|  (7) pursuant to a valid search or arrest warrant;  
+|  (8) if the image is captured by a law enforcement  
+| authority or a person who is under contract with or otherwise acting  
+| under the direction or on behalf of a law enforcement authority:  
+|  (A) in immediate pursuit of a person law  
+| enforcement officers have reasonable suspicion or probable cause to  
+| suspect has committed an offense, not including misdemeanors or  
+| offenses punishable by a fine only;  
+|  (B) for the purpose of documenting a crime scene  
+| where an offense, not including misdemeanors or offenses punishable  
+| by a fine only, has been committed;  
+|  (C) for the purpose of investigating the scene  
+| of:  
+|  (i) a human fatality;  
+|  (ii) a motor vehicle accident causing death  
+| or serious bodily injury to a person; or  
+|  (iii) any motor vehicle accident on a state  
+| highway or federal interstate or highway;  
+|  (D) in connection with the search for a missing  
+| person;  
+|  (E) for the purpose of conducting a high-risk  
+| tactical operation that poses a threat to human life;  
+|  (F) of private property that is generally open to  
+| the public where the property owner consents to law enforcement  
+| public safety responsibilities; or  
+|  (G) of real property or a person on real property  
+| that is within 25 miles of the United States border for the sole  
+| purpose of ensuring border security;  
+|  (9) if the image is captured by state or local law  
+| enforcement authorities, or a person who is under contract with or  
+| otherwise acting under the direction or on behalf of state  
+| authorities, for the purpose of:  
+|  (A) surveying the scene of a catastrophe or other  
+| damage to determine whether a state of emergency should be  
+| declared;  
+|  (B) preserving public safety, protecting  
+| property, or surveying damage or contamination during a lawfully  
+| declared state of emergency; or  
+|  (C) conducting routine air quality sampling and  
+| monitoring, as provided by state or local law;  
+|  (10) at the scene of a spill, or a suspected spill, of  
+| hazardous materials;  
+|  (11) for the purpose of fire suppression;  
+|  (12) for the purpose of rescuing a person whose life or  
+| well-being is in imminent danger;  
+|  (13) if the image is captured by a Texas licensed real  
+| estate broker in connection with the marketing, sale, or financing  
+| of real property, provided that no individual is identifiable in  
+| the image;  
+|  (14) from a height no more than eight feet above  
+| ground level in a public place, if the image was captured without  
+| using any electronic, mechanical, or other means to amplify the  
+| image beyond normal human perception;  
+|  (15) of public real property or a person on that  
+| property;  
+|  (16) if the image is captured by the owner or operator  
+| of an oil, gas, water, or other pipeline for the purpose of  
+| inspecting, maintaining, or repairing pipelines or other related  
+| facilities, and is captured without the intent to conduct  
+| surveillance on an individual or real property located in this  
+| state;  
+|  (17) in connection with oil pipeline safety and rig  
+| protection;  
+|  (18) in connection with port authority surveillance  
+| and security;  
+|  (19) if the image is captured by a registered  
+| professional land surveyor in connection with the practice of  
+| professional surveying, as those terms are defined by Section  
+| 1071.002, Occupations Code, provided that no individual is  
+| identifiable in the image;  
+|  (20) if the image is captured by a professional  
+| engineer licensed under Subchapter G, Chapter 1001, Occupations  
+| Code, in connection with the practice of engineering, as defined by  
+| Section 1001.003, Occupations Code, provided that no individual is  
+| identifiable in the image; [ ~~or~~ ]  
+|  (21) if:  
+|  (A) the image is captured by an employee of an  
+| insurance company or of an affiliate of the company in connection  
+| with the underwriting of an insurance policy, or the rating or  
+| adjusting of an insurance claim, regarding real property or a  
+| structure on real property; and  
+|  (B) the operator of the unmanned aircraft is  
+| authorized by the Federal Aviation Administration to conduct  
+| operations within the airspace from which the image is captured _; or_  
+|  _(22)_ _____if the image is captured for the purpose of_  
+| _disaster preparedness, including for the inspection, maintenance,_  
+| _or repair of public infrastructure, by:_  
+|  _(A)_ _____a county with a population of 550,000 or more_  
+| _that is adjacent to a county with a population of 3.3 million or_  
+| _more; or_  
+|  _(B)_ _____a person who is under contract with or_  
+| _otherwise acting under the direction or on behalf of a county_  
+| _described by Paragraph (A)_.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

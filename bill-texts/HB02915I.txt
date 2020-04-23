@@ -1,0 +1,1093 @@
+| 86R10430 SMT/CJC/GCB/JRR-D  
+---|---  
+|  By: Springer | H.B. No. 2915  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to state and local taxes and fees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. PROVISIONS RELATED TO DECREASING PROPERTY TAX LIABILITY  
+|  SECTION 1.01. Section 42.2516(a), Education Code, is  
+| amended to read as follows:  
+|  (a) In this title, "state compression percentage" means the  
+| percentage of a school district's adopted maintenance and  
+| operations tax rate for the 2005 tax year that serves as the basis  
+| for state funding _. The compression percentage is the lower of:_  
+|  _(1)_ _____the following compression percentages, based on_  
+| _the district's maintenance and operations tax for the 2020 tax_  
+| _year:_  
+|  _(A)_ _____if a district's maintenance and operations_  
+| _tax is equal to or greater than $1.00 per hundred dollars of_  
+| _valuation, 60 percent;_  
+|  _(B)_ _____if a district's maintenance and operations_  
+| _tax is equal to or greater than $0.90 but less than $1.00 per_  
+| _hundred dollars of valuation, a compression percentage determined_  
+| _by the commissioner for that district that will compress the_  
+| _district's maintenance and operations tax to $0.90 per hundred_  
+| _dollars of valuation; or_  
+|  _(C)_ _____if a district's maintenance and operations_  
+| _tax is $0.90 or less per hundred dollars of valuation, 66.67_  
+| _percent; or_  
+|  _(2)_ _____a compression percentage established by_  
+| _appropriation for a school year_. [ ~~If the state compression~~  
+|  ~~percentage is not established by appropriation for a school year,~~  
+|  ~~the commissioner shall determine the state compression percentage~~  
+|  ~~for each school year based on the percentage by which a district is~~  
+|  ~~able to reduce the district's maintenance and operations tax rate~~  
+|  ~~for that year, as compared to the district's adopted maintenance~~  
+|  ~~and operations tax rate for the 2005 tax year, as a result of state~~  
+|  ~~funds appropriated for that year from the property tax relief fund~~  
+|  ~~established under Section 403.109, Government Code, or from another~~  
+|  ~~funding source available for school district property tax relief.~~ ]  
+|  SECTION 1.02. Section 403.302(d), Government Code, is  
+| amended to read as follows:  
+|  (d) For the purposes of this section, "taxable value" means  
+| the market value of all taxable property less:  
+|  (1) the total dollar amount of any residence homestead  
+| exemptions lawfully granted under Section 11.13(b) _,_ [ ~~or~~ ] (c), _or_  
+| _(s),_ Tax Code, in the year that is the subject of the study for each  
+| school district;  
+|  (2) one-half of the total dollar amount of any  
+| residence homestead exemptions granted under Section 11.13(n), Tax  
+| Code, in the year that is the subject of the study for each school  
+| district;  
+|  (3) the total dollar amount of any exemptions granted  
+| before May 31, 1993, within a reinvestment zone under agreements  
+| authorized by Chapter 312, Tax Code;  
+|  (4) subject to Subsection (e), the total dollar amount  
+| of any captured appraised value of property that:  
+|  (A) is within a reinvestment zone created on or  
+| before May 31, 1999, or is proposed to be included within the  
+| boundaries of a reinvestment zone as the boundaries of the zone and  
+| the proposed portion of tax increment paid into the tax increment  
+| fund by a school district are described in a written notification  
+| provided by the municipality or the board of directors of the zone  
+| to the governing bodies of the other taxing units in the manner  
+| provided by former Section 311.003(e), Tax Code, before May 31,  
+| 1999, and within the boundaries of the zone as those boundaries  
+| existed on September 1, 1999, including subsequent improvements to  
+| the property regardless of when made;  
+|  (B) generates taxes paid into a tax increment  
+| fund created under Chapter 311, Tax Code, under a reinvestment zone  
+| financing plan approved under Section 311.011(d), Tax Code, on or  
+| before September 1, 1999; and  
+|  (C) is eligible for tax increment financing under  
+| Chapter 311, Tax Code;  
+|  (5) the total dollar amount of any captured appraised  
+| value of property that:  
+|  (A) is within a reinvestment zone:  
+|  (i) created on or before December 31, 2008,  
+| by a municipality with a population of less than 18,000; and  
+|  (ii) the project plan for which includes  
+| the alteration, remodeling, repair, or reconstruction of a  
+| structure that is included on the National Register of Historic  
+| Places and requires that a portion of the tax increment of the zone  
+| be used for the improvement or construction of related facilities  
+| or for affordable housing;  
+|  (B) generates school district taxes that are paid  
+| into a tax increment fund created under Chapter 311, Tax Code; and  
+|  (C) is eligible for tax increment financing under  
+| Chapter 311, Tax Code;  
+|  (6) the total dollar amount of any exemptions granted  
+| under Section 11.251 or 11.253, Tax Code;  
+|  (7) the difference between the comptroller's estimate  
+| of the market value and the productivity value of land that  
+| qualifies for appraisal on the basis of its productive capacity,  
+| except that the productivity value estimated by the comptroller may  
+| not exceed the fair market value of the land;  
+|  (8) the portion of the appraised value of residence  
+| homesteads of individuals who receive a tax limitation under  
+| Section 11.26, Tax Code, on which school district taxes are not  
+| imposed in the year that is the subject of the study, calculated as  
+| if the residence homesteads were appraised at the full value  
+| required by law;  
+|  (9) a portion of the market value of property not  
+| otherwise fully taxable by the district at market value because of:  
+|  (A) action required by statute or the  
+| constitution of this state, other than Section 11.311, Tax Code,  
+| that, if the tax rate adopted by the district is applied to it,  
+| produces an amount equal to the difference between the tax that the  
+| district would have imposed on the property if the property were  
+| fully taxable at market value and the tax that the district is  
+| actually authorized to impose on the property, if this subsection  
+| does not otherwise require that portion to be deducted; or  
+|  (B) action taken by the district under Subchapter  
+| B or C, Chapter 313, Tax Code, before the expiration of the  
+| subchapter;  
+|  (10) the market value of all tangible personal  
+| property, other than manufactured homes, owned by a family or  
+| individual and not held or used for the production of income;  
+|  (11) the appraised value of property the collection of  
+| delinquent taxes on which is deferred under Section 33.06, Tax  
+| Code;  
+|  (12) the portion of the appraised value of property  
+| the collection of delinquent taxes on which is deferred under  
+| Section 33.065, Tax Code; and  
+|  (13) the amount by which the market value of a  
+| residence homestead to which Section 23.23, Tax Code, applies  
+| exceeds the appraised value of that property as calculated under  
+| that section.  
+|  SECTION 1.03. Section 11.13, Tax Code, is amended by  
+| amending Subsection (i) and adding Subsections (s) and (t) to read  
+| as follows:  
+|  (i) The assessor and collector for a taxing unit may  
+| disregard the exemptions authorized by Subsection (b), (c), (d),  
+| [ ~~or~~ ] (n) _, or (s)_ [ ~~of this section~~ ] and assess and collect a
+tax  
+| pledged for payment of debt without deducting the amount of the  
+| exemption if:  
+|  (1) prior to adoption of the exemption, the unit  
+| pledged the taxes for the payment of a debt; and  
+|  (2) granting the exemption would impair the obligation  
+| of the contract creating the debt.  
+|  _(s)_ _____In addition to any other exemptions provided by this_  
+| _section, an individual is entitled to an exemption from taxation by_  
+| _a school district of a portion of the appraised value of the_  
+| _individual's residence homestead in an amount equal to the lesser_  
+| _of:_  
+|  _(1) 50 percent of the difference between:_  
+|  _(A)_ _____the total appraised value of the individual's_  
+| _residence homestead; and_  
+|  _(B)_ _____the total dollar amount of all other_  
+| _exemptions for which the individual qualifies the residence_  
+| _homestead under this section; or_  
+|  _(2)_ _____150 percent of the median appraised value of all_  
+| _single family residences in this state in the preceding year as_  
+| _determined by the comptroller under Subsection (t)._  
+|  _(t)_ _____Not later than January 1 of each year, the comptroller_  
+| _shall determine the median appraised value of all single-family_  
+| _residences in this state in the preceding year and publish that_  
+| _value in the Texas Register._  
+|  SECTION 1.04. Subchapter B, Chapter 11, Tax Code, is  
+| amended by adding Section 11.35 to read as follows:  
+|  _Sec._ ___11.35._ _____INVENTORY. (a)_ ___In this section, "inventory"_  
+| _means:_  
+|  _(1) a finished good held for sale or resale; or_  
+|  _(2)_ _____a raw or finished material held to be incorporated_  
+| _into or attached to tangible personal property to create a finished_  
+| _good._  
+|  _(b)_ _____A person is entitled to an exemption from taxation of_  
+| _the appraised value of the person's inventory._  
+|  SECTION 1.05. This article applies only to an ad valorem tax  
+| year that begins on or after the effective date of this Act.  
+| ARTICLE 2. PROVISIONS RELATED TO INCREASING STATE AND LOCAL REVENUE  
+|  SECTION 2.01. Subchapter A, Chapter 2301, Occupations Code,  
+| is amended by adding Section 2301.008 to read as follows:  
+|  _Sec._ ___2301.008._ _____ANNUAL REPORT ON WARRANTIES ISSUED FOR_  
+| _CERTAIN OFF-HIGHWAY VEHICLES PURCHASED OUTSIDE THIS STATE. (a) In_  
+| _this section:_  
+|  _(1)_ _____"Off-highway vehicle" has the meaning assigned by_  
+| _Section 501.0301, Transportation Code._  
+|  _(2)_ _____"Retailer" has the meaning assigned by Section_  
+| _151.008, Tax Code._  
+|  _(b)_ _____Not later than March 1 of each year, a manufacturer of_  
+| _off-highway vehicles shall submit to the department a report_  
+| _listing each warranty issued by the manufacturer for a new_  
+| _off-highway vehicle that was, during the preceding calendar year,_  
+| _sold to a resident of this state by a retailer located outside this_  
+| _state. The report must:_  
+|  _(1) be in a form prescribed by the department; and_  
+|  _(2)_ _____contain, at a minimum, the following information_  
+| _for each warranty:_  
+|  _(A)_ _____the vehicle identification number of the_  
+| _vehicle;_  
+|  _(B)_ _____the make, model, and model year of the_  
+| _vehicle;_  
+|  _(C)_ _____the name and address of the purchaser of the_  
+| _vehicle; and_  
+|  _(D) the sales price of the vehicle._  
+|  _(c) The department shall:_  
+|  _(1)_ _____review each report submitted under this section to_  
+| _determine whether the report is complete; and_  
+|  _(2)_ _____require a manufacturer to submit any additional_  
+| _information necessary to meet the requirements of this section if_  
+| _the department determines that the report submitted by the_  
+| _manufacturer is incomplete._  
+|  _(d)_ _____As soon as practicable after receiving a report_  
+| _submitted under this section that the department determines is_  
+| _complete, the department shall forward the report to the_  
+| _comptroller. The comptroller may use information contained in the_  
+| _report for the purpose of investigating and collecting any unpaid_  
+| _taxes imposed under Subchapter D, Chapter 151, Tax Code, on a new_  
+| _off-highway vehicle described in the report._  
+|  _(e)_ _____The board may adopt rules as necessary to implement this_  
+| _section._  
+|  _(f)_ _____Information contained in a report submitted under this_  
+| _section is confidential and not subject to disclosure under Chapter_  
+| _552, Government Code._  
+|  SECTION 2.02. Sections 23.1241(a)(1), (2), (7), (8), and  
+| (9), Tax Code, are amended to read as follows:  
+|  (1) "Dealer" means a person engaged in the business in  
+| this state of selling[ ~~, leasing, or renting~~ ] heavy equipment. The  
+| term does not include a bank, savings bank, savings and loan  
+| association, credit union, or other finance company. In addition,  
+| for purposes of taxation of a person's inventory of heavy equipment  
+| in a tax year, the term does not include a person who renders the  
+| person's inventory of heavy equipment for taxation in that tax year  
+| by filing a rendition statement or property report in accordance  
+| with Chapter 22.  
+|  (2) "Dealer's heavy equipment inventory" means all  
+| items of heavy equipment that a dealer holds for sale _at retail_ [ ~~,~~  
+|  ~~lease, or rent~~ ] in this state [ ~~during a 12-month period~~ ].  _The
+term_  
+| _includes items of heavy equipment that are leased or rented but_  
+| _subject to a purchase option by the lessee or renter._  
+|  (7) "Sales price" means:  
+|  (A) the total amount of money paid or to be paid  
+| to a dealer for the purchase of an item of heavy equipment; or  
+|  (B) for a lease or rental _with an option to_  
+| _purchase_ , the total amount of the lease or rental payments _plus any_  
+| _final consideration, excluding interest_.  
+|  (8) "Subsequent sale" means a dealer-financed sale of  
+| an item of heavy equipment that, at the time of the sale, has been  
+| the subject of a dealer-financed sale from the same dealer's heavy  
+| equipment inventory in the same calendar year. [ ~~The term does not~~  
+|  ~~include a rental or lease with an unexercised purchase option or~~  
+|  ~~without a purchase option.~~ ]  
+|  (9) "Total annual sales" means the total of the[ ~~:~~  
+|  [ ~~(A)~~ ] sales price for each sale from a dealer's  
+| heavy equipment inventory in a 12-month period[ ~~; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~lease and rental payments received for each~~  
+|  ~~lease or rental of heavy equipment inventory in a 12-month period~~ ].  
+|  SECTION 2.03. Sections 23.1241(b) and (e), Tax Code, are  
+| amended to read as follows:  
+|  (b) For the purpose of the computation of property tax _:_  
+|  _(1)_ [ ~~,~~ ] the market value of a dealer's heavy equipment  
+| inventory on January 1 is the total annual sales, less sales to  
+| dealers, fleet transactions, and subsequent sales, for the 12-month  
+| period corresponding to the preceding tax year, divided by 12 _; and_  
+|  _(2)_ _____a sale is considered to occur when possession of an_  
+| _item of heavy equipment is transferred from the dealer to the_  
+| _purchaser_.  
+|  (e) A dealer is presumed to be an owner of a dealer's heavy  
+| equipment inventory on January 1 if, in the 12-month period ending  
+| on December 31 of the preceding year, the dealer sold[ ~~, leased, or~~  
+|  ~~rented~~ ] an item of heavy equipment to a person other than a  
+| dealer. The presumption is not rebutted by the fact that a dealer  
+| has no item of heavy equipment physically on hand for sale from the  
+| dealer's heavy equipment inventory on January 1.  
+|  SECTION 2.04. Sections 23.1242(b), (e), and (f), Tax Code,  
+| are amended to read as follows:  
+|  (b) Except for an item of heavy equipment sold to a dealer,  
+| an item of heavy equipment included in a fleet transaction, _or_ an  
+| item of heavy equipment that is the subject of a subsequent sale,  
+| [ ~~or an item of heavy equipment that is subject to a lease or~~  
+|  ~~rental,~~ ] an owner or a person who has agreed by contract to pay the  
+| owner's current year property taxes levied against the owner's  
+| heavy equipment inventory shall assign a unit property tax to each  
+| item of heavy equipment sold from a dealer's heavy equipment  
+| inventory. [ ~~In the case of a lease or rental, the owner shall~~  
+|  ~~assign a unit property tax to each item of heavy equipment leased or~~  
+|  ~~rented.~~ ] The unit property tax of each item of heavy equipment is  
+| determined by multiplying the sales price of the item [ ~~or the~~  
+|  ~~monthly lease or rental payment received for the item, as~~  
+|  ~~applicable,~~ ] by the unit property tax factor. [ ~~If the transaction~~  
+|  ~~is a lease or rental, the owner shall collect the unit property tax~~  
+|  ~~from the lessee or renter at the time the lessee or renter submits~~  
+|  ~~payment for the lease or rental.~~ ~~~~ ~~~~ ~~The owner of the equipment
+shall~~  
+|  ~~state the amount of the unit property tax assigned as a separate~~  
+|  ~~line item on an invoice.~~ ] On or before the 20th day of each month  
+| the owner shall, together with the statement filed by the owner as  
+| required by this section, deposit with the collector an amount  
+| equal to the total of unit property tax assigned to all items of  
+| heavy equipment sold[ ~~, leased, or rented~~ ] from the dealer's heavy  
+| equipment inventory in the preceding month to which a unit property  
+| tax was assigned. The money shall be deposited by the collector to  
+| the credit of the owner's escrow account for prepayment of property  
+| taxes as provided by this section. An escrow account required by  
+| this section is used to pay property taxes levied against the  
+| dealer's heavy equipment inventory, and the owner shall fund the  
+| escrow account as provided by this subsection.  
+|  (e) The comptroller by rule shall adopt a dealer's heavy  
+| equipment inventory tax statement form. Each month, a dealer shall  
+| complete the form regardless of whether an item of heavy equipment  
+| is sold[ ~~, leased, or rented~~ ]. A dealer may use no other form for  
+| that purpose. The statement may include the information the  
+| comptroller considers appropriate but shall include at least the  
+| following:  
+|  (1) a description of each item of heavy equipment  
+| sold, [ ~~leased, or rented~~ ] including any unique identification or  
+| serial number affixed to the item by the manufacturer;  
+|  (2) the sales price of [ ~~or lease or rental payment~~  
+|  ~~received for~~ ] the item of heavy equipment[ ~~, as applicable~~ ];  
+|  (3) the unit property tax of the item of heavy  
+| equipment, if any; and  
+|  (4) the reason no unit property tax is assigned if no  
+| unit property tax is assigned.  
+|  (f) On or before the 20th day of each month, a dealer shall  
+| file with the collector the statement covering the sale[ ~~, lease, or~~  
+|  ~~rental~~ ] of each item of heavy equipment sold[ ~~, leased, or rented~~
+] by  
+| the dealer in the preceding month. On or before the 20th day of a  
+| month following a month in which a dealer does not sell[ ~~, lease, or~~  
+|  ~~rent~~ ] an item of heavy equipment, the dealer must file the statement  
+| with the collector and indicate that no sales[ ~~, leases, or rentals~~ ]  
+| were made in the prior month. A dealer shall file a copy of the  
+| statement with the chief appraiser and retain documentation  
+| relating to the disposition of each item of heavy equipment sold  
+| [ ~~and the lease or rental of each item of heavy equipment~~ ]. A chief  
+| appraiser or collector may examine documents held by a dealer as  
+| provided by this subsection in the same manner, and subject to the  
+| same conditions, as provided by Section 23.1241(g).  
+|  SECTION 2.05. Subchapter A, Chapter 151, Tax Code, is  
+| amended by adding Section 151.0023 to read as follows:  
+|  _Sec._ ___151.0023._ _____"ACCOUNTING AND AUDIT SERVICES"._  
+| _"Accounting and audit services" means the making and recording of_  
+| _business financial records and statements, the creation and_  
+| _implementation of accounting or bookkeeping systems, cost_  
+| _accounting or bookkeeping services, and services provided by a_  
+| _certified public accountant, enrolled agent, or bookkeeping firm in_  
+| _connection with the preparation of financial and auditing reports._  
+| _The term includes financial planning services, tax return_  
+| _preparation, and budgeting services._  
+|  SECTION 2.06. Section 151.0028, Tax Code, is amended to  
+| read as follows:  
+|  Sec. 151.0028. "AMUSEMENT SERVICES". (a) "Amusement  
+| services" means the provision of amusement, entertainment,  
+| _tanning,_ or recreation, but does not include the provision of  
+| educational or health services if prescribed by a licensed  
+| practitioner of the healing arts for the primary purpose of  
+| education or health maintenance or improvement.  
+|  (b) "Amusement services" includes membership in a private  
+| club or organization that provides entertainment, _tanning,_  
+| recreational, sports, dining, or social facilities to its members.  
+|  SECTION 2.07. Subchapter A, Chapter 151, Tax Code, is  
+| amended by adding Sections 151.0029, 151.00295, 151.00352,  
+| 151.00365, 151.00375, and 151.00378 to read as follows:  
+|  _Sec._ ___151.0029._ _____"AUTOMOTIVE SERVICES"._ ___"Automotive_  
+| _services" means services performed on or to a motor vehicle,_  
+| _including washing, waxing, painting, lubrication, rustproofing,_  
+| _and undercoating._  
+|  _Sec._ ___151.00295._ _____"BARBERING OR COSMETOLOGY SERVICES"._ __  
+| _"Barbering or cosmetology services" means acts or activities that_  
+| _constitute "barbering," as that term is defined by Section_  
+| _1601.002, Occupations Code, or "cosmetology," as that term is_  
+| _defined by Section 1602.002, Occupations Code, and any other act or_  
+| _activity provided to a client of a person who holds a license,_  
+| _certificate, permit, or other credential issued under Chapter 1601,_  
+| _1602, or 1603, Occupations Code, authorizing the person to practice_  
+| _or perform the activity._  
+|  _Sec._ ___151.00352._ _____"DATING SERVICES"._ ___"Dating services" means_  
+| _services to arrange romantic or social dates between individuals,_  
+| _to offer potential romantic or social dates to individuals, or to_  
+| _allow individuals to contact other individuals for the purpose of_  
+| _arranging romantic or social dates._  
+|  _Sec._ ___151.00365._ _____"DEBT MANAGEMENT SERVICES"._ ___"Debt_  
+| _management services" means acts or activities that constitute a_  
+| _"debt management service," as that term is defined by Section_  
+| _394.202, Finance Code, and any other act or activity provided to a_  
+| _client of a provider, as that term is defined by that section._  
+|  _Sec._ ___151.00375._ _____"FUNERAL SERVICES"._ ___"Funeral services"_  
+| _means acts or activities that constitute "funeral directing," as_  
+| _that term is defined by Section 651.001, Occupations Code, and_  
+| _services provided by a funeral director, embalmer, or funeral_  
+| _establishment, as those terms are defined by that section, or by an_  
+| _employee of one of those persons._  
+|  _Sec._ ___151.00378._ _____"HUNTING OR FISHING GUIDE SERVICES"._ __  
+| _"Hunting or fishing guide services" means guiding a person who is_  
+| _hunting or fishing._  
+|  SECTION 2.08. The heading to Section 151.0038, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 151.0038. "INFORMATION _SERVICES"_ [ ~~SERVICE"~~ ].  
+|  SECTION 2.09. Section 151.0038(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) In this section, "newspaper" _means a publication that is_  
+| _printed on newsprint, the average sales price of which for each copy_  
+| _over a 30-day period does not exceed $3, and that is printed and_  
+| _distributed at a daily, weekly, or other short interval for the_  
+| _dissemination of news of a general character and of a general_  
+| _interest._ ___"Newspaper" does not include a magazine, handbill,_  
+| _circular, flyer, sales catalog, or similar printed item unless the_  
+| _printed item is printed for distribution as a part of a newspaper_  
+| _and is actually distributed as a part of a newspaper._ ___For the_  
+| _purposes of this section, an advertisement is news of a general_  
+| _character and of a general interest._ ___Notwithstanding any other_  
+| _provision of this subsection, "newspaper" includes:_  
+|  _(1)_ _____a publication containing articles and essays of_  
+| _general interest by various writers and advertisements that is_  
+| _produced for the operator of a licensed and certified carrier of_  
+| _persons and distributed by the operator to its customers during_  
+| _their travel on the carrier; and_  
+|  _(2)_ _____a publication for the dissemination of news of a_  
+| _general character and of a general interest that is printed on_  
+| _newsprint and distributed to the general public free of charge at a_  
+| _daily, weekly, or other short interval_ [ ~~has the meaning assigned by~~  
+|  ~~Section 151.319(f)~~ ].  
+|  SECTION 2.10. Subchapter A, Chapter 151, Tax Code, is  
+| amended by adding Sections 151.00391, 151.00425, 151.0044, and  
+| 151.00442 to read as follows:  
+|  _Sec._ ___151.00391._ _____"INTERIOR DESIGN OR INTERIOR DECORATING_  
+| _SERVICES". "Interior design or interior decorating services" means_  
+| _an act or activity provided by a person who represents that the_  
+| _person is a "registered interior designer" under Section 1053.151,_  
+| _Occupations Code, in connection with the act or activity or the_  
+| _selection or provision of advice regarding the selection of_  
+| _furnishings, materials, or finishing for a residential or_  
+| _commercial space._  
+|  _Sec._ ___151.00425._ _____"MASSAGE THERAPY SERVICES". "Massage_  
+| _therapy services" means acts or activities that constitute "massage_  
+| _therapy," as that term is defined by Section 455.001, Occupations_  
+| _Code, and any other acts or activities performed for a massage_  
+| _therapist's client in relation to massage therapy._  
+|  _Sec._ ___151.0044._ _____"PACKING SERVICES". "Packing services"_  
+| _means packing, crating, or wrapping. The term includes gift and_  
+| _package wrapping._  
+|  _Sec._ ___151.00442._ _____"PERSONAL INSTRUCTION SERVICES". "Personal_  
+| _instruction services" means coaching or instruction in an_  
+| _individual skill, including dance, golf, or tennis._  
+|  SECTION 2.11. Section 151.0047, Tax Code, is amended to  
+| read as follows:  
+|  Sec. 151.0047. "REAL PROPERTY _CONSTRUCTION SERVICES"_  
+| [ ~~REPAIR AND REMODELING"~~ ]. [ ~~(a)~~ ] "Real property _construction_  
+| _services_ [ ~~repair and remodeling~~ ]" means the _construction,_ repair,  
+| restoration, remodeling, or modification of an improvement to real  
+| property [ ~~other than:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~a structure or separate part of a structure used~~  
+|  ~~as a residence;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~an improvement immediately adjacent to a~~  
+|  ~~structure described by Subdivision (1) of this section and used in~~  
+|  ~~the residential occupancy of the structure or separate part of the~~  
+|  ~~structure by the person using the structure or part as a residence;~~  
+|  ~~or~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~an improvement to a manufacturing or processing~~  
+|  ~~production unit in a petrochemical refinery or chemical plant that~~  
+|  ~~provides increased capacity in the production unit~~ ].  
+|  [ ~~(b) In this section:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~"Increased capacity" means the capability to~~  
+|  ~~produce:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~additional products or services as measured~~  
+|  ~~by units per hour or units per year; or~~  
+|  [ ~~(B) a new product or service.~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~"Production unit" means a group of manufacturing~~  
+|  ~~and processing machines and ancillary equipment that together are~~  
+|  ~~necessary to create or produce a physical or chemical change~~  
+|  ~~beginning with the first processing of the raw material and ending~~  
+|  ~~with the finished product.~~  
+|  [ ~~(3) "New product" means a product that:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~has different product properties and a~~  
+|  ~~different commercial application than the product previously~~  
+|  ~~manufactured or processed by the production unit that produced the~~  
+|  ~~previous product; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~is not created by straining or purifying an~~  
+|  ~~existing product or by making cosmetic changes, such as adding or~~  
+|  ~~removing color or odor, to or from an existing product.~~ ]  
+|  SECTION 2.12. Section 151.006(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) "Sale for resale" means a sale of:  
+|  (1) tangible personal property or a taxable service to  
+| a purchaser who acquires the property or service for the purpose of  
+| reselling it with or as a taxable item as defined by Section 151.010  
+| in the United States of America or a possession or territory of the  
+| United States of America or in the United Mexican States in the  
+| normal course of business in the form or condition in which it is  
+| acquired or as an attachment to or integral part of other tangible  
+| personal property or taxable service;  
+|  (2) tangible personal property to a purchaser for the  
+| sole purpose of the purchaser's leasing or renting it in the United  
+| States of America or a possession or territory of the United States  
+| of America or in the United Mexican States in the normal course of  
+| business to another person, but not if incidental to the leasing or  
+| renting of real estate;  
+|  (3) tangible personal property to a purchaser who  
+| acquires the property for the purpose of transferring it in the  
+| United States of America or a possession or territory of the United  
+| States of America or in the United Mexican States as an integral  
+| part of a taxable service;  
+|  (4) a taxable service _, other than a transport service,_  
+| performed on tangible personal property that is held for sale by the  
+| purchaser of the taxable service; or  
+|  (5) except as provided by Subsection (c), tangible  
+| personal property to a purchaser who acquires the property for the  
+| purpose of transferring it as an integral part of performing a  
+| contract, or a subcontract of a contract, with the federal  
+| government only if the purchaser:  
+|  (A) allocates and bills to the contract the cost  
+| of the property as a direct or indirect cost; and  
+|  (B) transfers title to the property to the  
+| federal government under the contract and applicable federal  
+| acquisition regulations.  
+|  SECTION 2.13. Section 151.0101(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) "Taxable services" means:  
+|  (1) amusement services;  
+|  (2) cable television services;  
+|  (3) personal services;  
+|  (4) motor vehicle parking and storage services;  
+|  (5) the repair, remodeling, maintenance, and  
+| restoration of tangible personal property, except:  
+|  (A) aircraft;  
+|  (B) a ship, boat, or other vessel, other than:  
+|  (i) a taxable boat or motor as defined by  
+| Section 160.001;  
+|  (ii) a sports fishing boat; or  
+|  (iii) any other vessel used for pleasure;  
+| _and_  
+|  (C) [ ~~the repair, maintenance, and restoration of~~  
+|  ~~a motor vehicle; and~~  
+|  [ ~~(D)~~ ] the repair, maintenance, creation, and  
+| restoration of a computer program, including its development and  
+| modification, not sold by the person performing the repair,  
+| maintenance, creation, or restoration service;  
+|  (6) telecommunications services;  
+|  (7) credit reporting services;  
+|  (8) debt collection services;  
+|  (9) insurance services;  
+|  (10) information services;  
+|  (11) real property services;  
+|  (12) data processing services;  
+|  (13) real property _construction services, except to_  
+| _the extent prohibited by Section 29, Article VIII, Texas_  
+| _Constitution_ [ ~~repair and remodeling~~ ];  
+|  (14) security services;  
+|  (15) telephone answering services;  
+|  (16) Internet access service; [ ~~and~~ ]  
+|  (17) a sale by a transmission and distribution  
+| utility, as defined in Section 31.002, Utilities Code, of  
+| transmission or delivery of service directly to an electricity  
+| end-use customer whose consumption of electricity is subject to  
+| taxation under this chapter _;_  
+|  _(18) accounting and audit services;_  
+|  _(19) automotive services;_  
+|  _(20) barbering or cosmetology services;_  
+|  _(21) dating services;_  
+|  _(22) debt management services;_  
+|  _(23) funeral services;_  
+|  _(24) hunting or fishing guide services;_  
+|  _(25) interior design or interior decorating services;_  
+|  _(26) massage therapy services;_  
+|  _(27) packing services;_  
+|  _(28) personal instruction services;_  
+|  _(29) transport services; and_  
+|  _(30) veterinary services_.  
+|  SECTION 2.14. Subchapter A, Chapter 151, Tax Code, is  
+| amended by adding Sections 151.0108 and 151.013 to read as follows:  
+|  _Sec._ ___151.0108._ _____"TRANSPORT SERVICES". "Transport services"_  
+| _means private mail or package delivery or courier service sold to a_  
+| _person in this state._  
+|  _Sec._ ___151.013._ _____"VETERINARY SERVICES". "Veterinary_  
+| _services" means an act or activity constituting the "practice of_  
+| _veterinary medicine," as that term is defined by Section 801.002,_  
+| _Occupations Code, and any other act or activity provided to a_  
+| _veterinarian's client in relation to the practice of veterinary_  
+| _medicine. The term also includes:_  
+|  _(1)_ _____prescribed medications, artificial insemination,_  
+| _breeding services, boarding, and training provided by a_  
+| _veterinarian or a person employed by a veterinarian; and_  
+|  _(2)_ _____medical tests performed on an animal or on tissue,_  
+| _fluids, or other substances removed from an animal in connection_  
+| _with diagnosis or treatment._  
+|  SECTION 2.15. Section 151.1551(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) This section applies to an exemption provided by:  
+|  (1) Section 151.316(a)(6), (7), (8), (10), (11), (12),  
+| or (14);  
+|  (2) Section 151.316(b) for tangible personal property  
+| used in the production of agricultural products for sale;  
+|  (3) Section 151.3162(b) for tangible personal  
+| property used in the production of timber for sale;  
+|  (4) Sections _151.317(a)(4) and (10)_ [ ~~151.317(a)(5)~~  
+|  ~~and (11)~~ ] for electricity used in agriculture or timber operations;  
+| and  
+|  (5) Section 151.3111 for services performed on  
+| tangible personal property exempted under Section 151.316(a)(6),  
+| (7), (8), (10), (11), or (12), 151.316(b), or 151.3162(b).  
+|  SECTION 2.16. Section 151.313(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) The following items are exempted from the taxes imposed  
+| by this chapter:  
+|  (1) a drug or medicine, other than insulin, if  
+| prescribed or dispensed for a human or animal by a licensed  
+| practitioner of the healing arts;  
+|  (2) insulin;  
+|  (3) [ ~~a drug or medicine that is required to be labeled~~  
+|  ~~with a "Drug Facts" panel in accordance with regulations of the~~  
+|  ~~federal Food and Drug Administration, without regard to whether it~~  
+|  ~~is prescribed or dispensed by a licensed practitioner of the~~  
+|  ~~healing arts;~~  
+|  [ ~~(4)~~ ] a hypodermic syringe or needle;  
+|  _(4)_ [ ~~(5)~~ ] a brace; hearing aid or audio loop;  
+| orthopedic, dental, or prosthetic device; ileostomy, colostomy, or  
+| ileal bladder appliance; or supplies or replacement parts for the  
+| listed items;  
+|  _(5)_ [ ~~(6)~~ ] a therapeutic appliance, device, and any  
+| related supplies specifically designed for those products, if  
+| dispensed or prescribed by a licensed practitioner of the healing  
+| arts, when those items are purchased and used by an individual for  
+| whom the items listed in this subdivision were dispensed or  
+| prescribed;  
+|  _(6)_ [ ~~(7)~~ ] corrective lens and necessary and related  
+| supplies, if dispensed or prescribed by an ophthalmologist or  
+| optometrist;  
+|  _(7)_ [ ~~(8)~~ ] specialized printing or signalling  
+| equipment used by the deaf for the purpose of enabling the deaf to  
+| communicate through the use of an ordinary telephone and all  
+| materials, paper, and printing ribbons used in that equipment;  
+|  _(8)_ [ ~~(9)~~ ] a braille wristwatch, braille writer,  
+| braille paper and braille electronic equipment that connects to  
+| computer equipment, and the necessary adaptive devices and adaptive  
+| computer software;  
+|  _(9)_ [ ~~(10)~~ ] each of the following items if purchased  
+| for use by the blind to enable them to function more independently:  
+| a slate and stylus, print enlarger, light probe, magnifier, white  
+| cane, talking clock, large print terminal, talking terminal, or  
+| harness for guide dog;  
+|  _(10)_ [ ~~(11)~~ ] hospital beds;  
+|  _(11)_ [ ~~(12)~~ ] blood glucose monitoring test strips;  
+|  _(12)_ [ ~~(13)~~ ] an adjustable eating utensil used to  
+| facilitate independent eating if purchased for use by a person,  
+| including a person who is elderly or physically disabled, has had a  
+| stroke, or is a burn victim, who does not have full use or control of  
+| the person's hands or arms;  
+|  _(13)_ [ ~~(14)~~ ] subject to Subsection (d), a dietary  
+| supplement; and  
+|  _(14)_ [ ~~(15)~~ ] intravenous systems, supplies, and  
+| replacement parts designed or intended to be used in the diagnosis  
+| or treatment of humans.  
+|  SECTION 2.17. Sections 151.314(b), (c), (c-2), (c-3), and  
+| (d), Tax Code, are amended to read as follows:  
+|  (b) "Food products" shall include, except as otherwise  
+| provided herein, but shall not be limited to cereals and cereal  
+| products; milk and milk products[ ~~, including ice cream~~ ];  
+| oleomargarine; meat and meat products; poultry and poultry  
+| products; fish and fish products; eggs and egg products; vegetables  
+| and vegetable products; fruit and fruit products; spices,  
+| condiments, and salt; sugar and sugar products; coffee and coffee  
+| substitutes; tea; cocoa products; [ ~~snack items;~~ ] or any combination  
+| of the above.  
+|  (c) "Food products" shall not include:  
+|  (1) drugs, medicines, tonics, vitamins, dietary  
+| supplements, and medicinal preparations in any form;  
+|  (2) carbonated and noncarbonated packaged soft  
+| drinks, which are nonalcoholic beverages that contain natural or  
+| artificial sweeteners;  
+|  (3) ice; [ ~~or~~ ]  
+|  (4) candy _;_  
+|  _(5) bakery items; or_  
+|  _(6) snack items_.  
+|  (c-2) The exemption provided by Subsection (a) does not  
+| include the following prepared food:  
+|  (1) [ ~~except as provided by Subsection (c-3)(1),~~ ] food,  
+| food products, and drinks, including meals, milk and milk products,  
+| fruit and fruit products, sandwiches, salads, processed meats and  
+| seafoods, _and_ vegetable juice[ ~~, and ice cream in cones or small~~  
+|  ~~cups,~~ ] served, prepared, or sold ready for immediate consumption by  
+| restaurants, lunch counters, cafeterias, delis, vending machines,  
+| hotels, or like places of business or sold ready for immediate  
+| consumption from pushcarts, motor vehicles, or any other form of  
+| vehicle;  
+|  (2) [ ~~except as provided by Subsection (c-3)(1),~~ ] food  
+| sold in a heated state or heated by the seller; or  
+|  (3) two or more food ingredients mixed or combined by  
+| the seller for sale as a single item, including items that are sold  
+| in an unheated state by weight or volume as a single item, but not  
+| including food that is only cut, repackaged, or pasteurized by the  
+| seller.  
+|  (c-3) The exemption provided by Subsection (a) includes[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~bakery items sold by a bakery, regardless of~~  
+|  ~~whether the items are:~~  
+|  [ ~~(A) heated by the consumer or seller; or~~  
+|  [ ~~(B) served with plates or other eating utensils;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~bakery items sold at a retail location other than~~  
+|  ~~a bakery without plates or other eating utensils; and~~  
+|  [ ~~(3)~~ ] eggs, fish, meat, and poultry, and foods  
+| containing these raw animal foods, that require cooking by the  
+| consumer as recommended by the Food and Drug Administration in  
+| Chapter 3, Section 401.11 of its Food Code to prevent food-borne  
+| illness and any other food that requires cooking by the consumer  
+| before the food is edible.  
+|  (d) Food products, meals, soft drinks, _bakery items, snack_  
+| _items,_ and candy for human consumption are exempted from the taxes  
+| imposed by this chapter if:  
+|  (1) served by a public or private school, school  
+| district, student organization, booster club or other school  
+| support organization, or parent-teacher association under an  
+| agreement with the proper school authorities in an elementary or  
+| secondary school during the regular school day or by a  
+| parent-teacher association during a fund-raising sale the proceeds  
+| of which do not benefit an individual;  
+|  (2) sold by a church or at a function of a church;  
+|  (3) served to a patient or inmate of a hospital or  
+| other institution licensed by the state for the care of humans;  
+|  (4) served to a permanent resident of a retirement  
+| facility which provides permanent housing and residence to  
+| individuals, a majority of whom are 60 years or older; or  
+|  (5) sold during an event sponsored or sanctioned by an  
+| elementary or secondary school or school district at a concession  
+| stand operated by a booster club or other school support  
+| organization formed to support the school or school district, but  
+| only if the proceeds from the sales benefit the school or school  
+| district.  
+|  SECTION 2.18. Section 151.314(e), Tax Code, as amended by  
+| Chapters 209 (H.B. 2424) and 1310 (H.B. 2425), Acts of the 78th  
+| Legislature, 2003, is reenacted and amended to read as follows:  
+|  (e) Food products, candy, _snack items, bakery items,_ and  
+| soft drinks are exempted from the taxes imposed by this chapter if  
+| sold at an exempt sale qualifying under this subsection or if stored  
+| or used by the purchaser of the item at the exempt sale. A sale is  
+| exempted under this subsection if[ ~~:~~  
+|  [ ~~(1)~~ ] the sale is made by a member of or volunteer for  
+| a nonprofit organization devoted to the exclusive purpose of  
+| education or religious or physical training or by a group  
+| associated with a public or private elementary or secondary school  
+| _and:_  
+|  _(1)_ [ ~~;~~  
+|  [ ~~(2)~~ ] the sale is made as a part of a fund-raising  
+| drive sponsored by the organization or group; and  
+|  _(2)_ [ ~~(3)~~ ] all net proceeds from the sale go to the  
+| organization or group for its exclusive use.  
+|  SECTION 2.19. Sections 151.317(a) and (d), Tax Code, are  
+| amended to read as follows:  
+|  (a) Subject to Sections 151.1551, 151.359, and 151.3595 and  
+| Subsection (d) of this section, gas and electricity are exempted  
+| from the taxes imposed by this chapter when sold for:  
+|  (1) [ ~~residential use;~~  
+|  [ ~~(2)~~ ] use in powering equipment exempt under Section  
+| 151.318 or 151.3185 by a person processing tangible personal  
+| property for sale as tangible personal property, other than  
+| preparation or storage of prepared food described by Section  
+| 151.314(c-2);  
+|  _(2)_ [ ~~(3)~~ ] use in lighting, cooling, and heating in the  
+| manufacturing area during the actual manufacturing or processing of  
+| tangible personal property for sale as tangible personal property,  
+| other than preparation or storage of prepared food described by  
+| Section 151.314(c-2);  
+|  _(3)_ [ ~~(4)~~ ] use directly in exploring for, producing, or  
+| transporting, a material extracted from the earth;  
+|  _(4)_ [ ~~(5)~~ ] use in agriculture, including dairy or  
+| poultry operations and pumping for farm or ranch irrigation;  
+|  _(5)_ [ ~~(6)~~ ] use directly in electrical processes, such  
+| as electroplating, electrolysis, and cathodic protection;  
+|  _(6)_ [ ~~(7)~~ ] use directly in the off-wing processing,  
+| overhaul, or repair of a jet turbine engine or its parts for a  
+| certificated or licensed carrier of persons or property;  
+|  _(7)_ [ ~~(8)~~ ] use directly in providing, under contracts  
+| with or on behalf of the United States government or foreign  
+| governments, defense or national security-related electronics,  
+| classified intelligence data processing and handling systems, or  
+| defense-related platform modifications or upgrades;  
+|  _(8)_ [ ~~(9)~~ ] use directly by a data center or large data  
+| center project that is certified by the comptroller as a qualifying  
+| data center under Section 151.359 or a qualifying large data center  
+| project under Section 151.3595 in the processing, storage, and  
+| distribution of data;  
+|  _(9)_ [ ~~(10)~~ ] a direct or indirect use, consumption, or  
+| loss of electricity by an electric utility engaged in the purchase  
+| of electricity for resale; or  
+|  _(10)_ [ ~~(11)~~ ] use in timber operations, including  
+| pumping for irrigation of timberland.  
+|  (d) To qualify for the exemptions in Subsections _(a)(1)-(8)_  
+| [ ~~(a)(2)-(9)~~ ], the gas or electricity must be sold to the person  
+| using the gas or electricity in the exempt manner. For purposes of  
+| this subsection, the use of gas or electricity in an exempt manner  
+| by an independent contractor engaged by the purchaser of the gas or  
+| electricity to perform one or more of the exempt activities  
+| identified in Subsections _(a)(1)-(8)_ [ ~~(a)(2)-(9)~~ ] is considered  
+| use by the purchaser of the gas or electricity.  
+|  SECTION 2.20. Section 151.350(d), Tax Code, is amended to  
+| read as follows:  
+|  (d) In this section, "restore" means:  
+|  (1) launder, clean, repair, treat, or apply protective  
+| chemicals to an item, to the extent the service is a personal  
+| service as defined in Section 151.0045; and  
+|  (2) repair, restore, or remodel, to the extent the  
+| service is:  
+|  (A) _considered to be the_ [ ~~a real property~~ ]  
+| repair _, restoration,_ [ ~~or~~ ] remodeling _, or modification of an_  
+| _improvement to real property under_ [ ~~service as defined in~~ ] Section  
+| 151.0047; or  
+|  (B) defined as a taxable service in Section  
+| 151.0101(a)(5).  
+|  SECTION 2.21. Section 151.401(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) The taxes imposed by this chapter are due and payable to  
+| the comptroller on or before the 20th day of the month following the  
+| end of each calendar month unless a taxpayer qualifies as a  
+| quarterly filer under Subsection (b) [ ~~of this section or unless the~~  
+|  ~~taxpayer prepays the tax on a quarterly basis as permitted by~~  
+|  ~~Section 151.424 of this code~~ ].  
+|  SECTION 2.22. Section 151.425, Tax Code, is amended to read  
+| as follows:  
+|  Sec. 151.425. FORFEITURE OF [ ~~DISCOUNT OR~~ ] REIMBURSEMENT.  
+| If a taxpayer fails to file a report required by this chapter when  
+| due or to pay the tax when due, the taxpayer forfeits any claim to a  
+| deduction [ ~~or discount~~ ] allowed under Section 151.423 [ ~~or Section~~  
+|  ~~151.424 of this code~~ ].  
+|  SECTION 2.23. Section 151.428(c), Tax Code, is amended to  
+| read as follows:  
+|  (c) The reporting, collection, refund, and penalty  
+| provisions of this chapter and Subtitle B of this title apply to the  
+| payments required by this section, except that _Section_ [ ~~Sections~~ ]  
+| 151.423 _does_ [ ~~and 151.424 of this code do~~ ] not apply to this  
+| section.  
+|  SECTION 2.24. Section 152.047(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) Except as inconsistent with this chapter and rules  
+| adopted under this chapter, the seller of a motor vehicle shall  
+| report and pay the tax imposed on a seller-financed sale to the  
+| comptroller on the seller's receipts from seller-financed sales in  
+| the same manner as the sales tax is reported and paid by a retailer  
+| under Sections 151.401, 151.402, 151.405, 151.406, 151.409,  
+| 151.423, [ ~~151.424,~~ ] and 151.425.  
+|  SECTION 2.25. The heading to Section 162.014, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 162.014. OTHER MOTOR FUEL _EXCISE OR OCCUPATION_ TAXES  
+| PROHIBITED.  
+|  SECTION 2.26. Subtitle E, Title 2, Tax Code, is amended by  
+| adding Chapter 164 to read as follows:  
+| _CHAPTER 164. TAX ON SALE OF GASOLINE OR DIESEL FUEL_  
+|  _Sec. 164.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Diesel fuel" and "gasoline" have the meanings_  
+| _assigned by Section 162.001._  
+|  _(2) "Motor fuel" means diesel fuel or gasoline._  
+|  _Sec._ ___164.0002._ _____RULES. The comptroller may adopt rules_  
+| _necessary for the administration of this chapter._  
+|  _Sec._ ___164.0003._ _____SALES TAX IMPOSED. (a) A tax is imposed on_  
+| _each sale at retail of motor fuel in this state._  
+|  _(b)_ _____The rate of the tax is 6.25 percent of the sales price of_  
+| _the motor fuel._  
+|  _Sec._ ___164.0004._ _____APPLICABILITY OF OTHER LAW. (a) Except as_  
+| _otherwise provided by this chapter:_  
+|  _(1)_ _____the tax imposed by this chapter is administered,_  
+| _collected, and enforced in the same manner as the tax under Chapter_  
+| _151 is administered, collected, and enforced; and_  
+|  _(2)_ _____Chapter 151 applies to the tax imposed by this_  
+| _chapter in the same manner as Chapter 151 applies to the tax imposed_  
+| _under Section 151.051._  
+|  _(b)_ _____The tax imposed by this chapter is in addition to any_  
+| _other tax imposed by state law._  
+|  _(c)_ _____Motor fuel subject to the tax imposed under this chapter_  
+| _is exempt from the taxes imposed under Subtitle C, Title 3._  
+|  _Sec._ ___164.0005._ _____ALLOCATION OF TAX. The comptroller shall_  
+| _allocate the net revenue derived from the tax imposed by this_  
+| _chapter as follows:_  
+|  _(1)_ _____25 percent to the credit of the available school_  
+| _fund; and_  
+|  _(2)_ _____the remainder to the credit of the state highway_  
+| _fund._  
+|  SECTION 2.27. Subtitle E, Title 2, Tax Code, is amended by  
+| adding Chapter 165 to read as follows:  
+| _CHAPTER 165. TAX ON E-CIGARETTE VAPOR PRODUCTS_  
+|  _Sec. 165.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"E-cigarette" has the meaning assigned by Section_  
+| _161.081, Health and Safety Code._  
+|  _(2)_ _____"Vapor product" means a consumable nicotine liquid_  
+| _solution or other material containing nicotine suitable for use in_  
+| _an e-cigarette._  
+|  _Sec._ ___165.0002._ _____E-CIGARETTE VAPOR PRODUCT SALES TAX. (a) A_  
+| _tax is imposed on each sale of a vapor product in this state._  
+|  _(b)_ _____The tax rate is 10 cents for each milliliter or_  
+| _fractional part of a milliliter of vapor product sold._  
+|  _(c)_ _____The tax imposed under this section is in addition to the_  
+| _tax imposed under Subchapter C, Chapter 151. The tax imposed under_  
+| _this section does not apply to a sale unless the tax imposed under_  
+| _Subchapter C, Chapter 151, applies to the sale._  
+|  _Sec._ ___165.0003._ _____E-CIGARETTE VAPOR PRODUCT USE TAX. (a)_ ___A_  
+| _tax is imposed on the storage, use, or other consumption in this_  
+| _state of a vapor product purchased from a retailer for storage, use,_  
+| _or other consumption in this state._  
+|  _(b)_ _____The tax rate is 10 cents for each milliliter or_  
+| _fractional part of a milliliter of vapor product stored, used, or_  
+| _otherwise consumed in this state._  
+|  _(c)_ _____The tax imposed under this section is in addition to the_  
+| _tax imposed under Subchapter D, Chapter 151. The tax imposed under_  
+| _this section does not apply to the storage, use, or other_  
+| _consumption of a vapor product unless the tax imposed under_  
+| _Subchapter D, Chapter 151, applies to the storage, use, or other_  
+| _consumption._  
+|  _Sec._ ___165.0004._ _____APPLICATION OF OTHER PROVISIONS OF CODE._  
+| _(a) Except as provided by this chapter:_  
+|  _(1)_ _____the taxes imposed under this chapter are_  
+| _administered, imposed, collected, and enforced in the same manner_  
+| _as the taxes under Chapter 151 are administered, imposed,_  
+| _collected, and enforced; and_  
+|  _(2)_ _____the provisions of Chapter 151 applicable to the_  
+| _sales tax imposed under Subchapter C, Chapter 151, and the use tax_  
+| _imposed under Subchapter D, Chapter 151, apply to the sales and use_  
+| _taxes imposed under this chapter._  
+|  _(b)_ _____A change in the law relating to the taxation of the sale_  
+| _or use of a vapor product under Chapter 151 also applies to the_  
+| _sales or use tax imposed under this chapter._  
+|  _Sec._ ___165.0005._ _____REPORTS. (a) A person required to file a_  
+| _report under Section 151.403 who is also required to collect or pay_  
+| _a tax under this chapter shall file with the comptroller a report_  
+| _stating:_  
+|  _(1)_ _____for sales tax purposes, the volume of vapor_  
+| _products sold by the seller during the reporting period;_  
+|  _(2)_ _____for use tax purposes, the volume of vapor products_  
+| _sold by the retailer during the reporting period for storage, use,_  
+| _or other consumption in this state;_  
+|  _(3)_ _____the volume of vapor products subject to the use tax_  
+| _that were acquired during the reporting period for storage, use, or_  
+| _other consumption in this state by a purchaser who did not pay the_  
+| _tax to a retailer;_  
+|  _(4)_ _____the amount of the taxes due under this chapter for_  
+| _the reporting period; and_  
+|  _(5) any other information required by the comptroller._  
+|  _(b)_ _____The report required by this section for a reporting_  
+| _period is due on the same date that the tax payment for the period is_  
+| _due._  
+|  _Sec._ ___165.0006._ _____RECORDS. A person required to file a report_  
+| _under Section 151.403 who is also required to collect or pay a tax_  
+| _under this chapter shall keep a complete record of:_  
+|  _(1)_ _____the volume of vapor products sold in this state_  
+| _during each reporting period;_  
+|  _(2)_ _____the volume of vapor products, including the_  
+| _constituent parts of vapor products, purchased from every source_  
+| _during each reporting period;_  
+|  _(3)_ _____all sales and use taxes, and any money represented_  
+| _to be sales or use tax, collected during each reporting period; and_  
+|  _(4) any other information required by the comptroller._  
+|  _Sec._ ___165.0007._ _____DISPOSITION OF PROCEEDS. The comptroller_  
+| _shall deposit the proceeds from taxes imposed under this chapter to_  
+| _the credit of the general revenue fund._  
+|  SECTION 2.28. Section 171.1012, Tax Code, is amended by  
+| adding Subsection (u) to read as follows:  
+|  _(u)_ _____Notwithstanding any other provision of this section, a_  
+| _taxable entity that employs a professional athlete and that elects_  
+| _to subtract costs of goods sold may not include the cost to employ_  
+| _the professional athlete as labor costs when calculating the_  
+| _entity's costs of goods sold to the extent the amount paid to the_  
+| _athlete exceeds the limit on wage and cash compensation under_  
+| _Section 171.1013(c) as applied to the athlete. In this subsection,_  
+| _"professional athlete" has the meaning assigned by Section 406.095,_  
+| _Labor Code._  
+|  SECTION 2.29. Section 183.043(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) _Section_ [ ~~Sections~~ ] 151.423 _does_ [ ~~and 151.424 do~~ ] not  
+| apply to the tax imposed by this subchapter.  
+|  SECTION 2.30. Section 313.021(2), Tax Code, is amended to  
+| read as follows:  
+|  (2) "Qualified property" means:  
+|  (A) land:  
+|  (i) that is located in an area designated as  
+| a reinvestment zone under Chapter 311 or 312 or as an enterprise  
+| zone under Chapter 2303, Government Code;  
+|  (ii) on which a person proposes to  
+| construct a new building or erect or affix a new improvement that  
+| does not exist before the date the person submits a complete  
+| application for a limitation on appraised value under this  
+| subchapter;  
+|  (iii) that is not subject to a tax abatement  
+| agreement entered into by a school district under Chapter 312; and  
+|  (iv) on which, in connection with the new  
+| building or new improvement described by Subparagraph (ii), the  
+| owner or lessee of, or the holder of another possessory interest in,  
+| the land proposes to:  
+|  (a) make a qualified investment in an  
+| amount equal to at least the minimum amount required by Section  
+| 313.023; and  
+|  (b) create at least 25 new qualifying  
+| jobs;  
+|  (B) the new building or other new improvement  
+| described by Paragraph (A)(ii); and  
+|  (C) tangible personal property:  
+|  (i) that is not subject to a tax abatement  
+| agreement entered into by a school district under Chapter 312; _and_  
+|  (ii) [ ~~for which a sales and use tax refund~~  
+|  ~~is not claimed under Section 151.3186; and~~  
+|  [ ~~(iii)~~ ] except for new equipment described  
+| in Section 151.318(q) or (q-1), that is first placed in service in  
+| the new building, in the newly expanded building, or in or on the  
+| new improvement described by Paragraph (A)(ii), or on the land on  
+| which that new building or new improvement is located, if the  
+| personal property is ancillary and necessary to the business  
+| conducted in that new building or in or on that new improvement.  
+|  SECTION 2.31. Section 321.203(n), Tax Code, is amended to  
+| read as follows:  
+|  (n) A sale of a service described by Section 151.0047 to  
+| _construct, repair, restore,_ remodel, [ ~~repair,~~ ] or _modify an_  
+| _improvement to_ [ ~~restore nonresidential~~ ] real property is  
+| consummated at the location of the job site.  
+|  SECTION 2.32. Section 323.203(m), Tax Code, is amended to  
+| read as follows:  
+|  (m) A sale of a service described by Section 151.0047 to  
+| _construct, repair, restore,_ remodel, [ ~~repair,~~ ] or _modify an_  
+| _improvement to_ [ ~~restore nonresidential~~ ] real property is  
+| consummated at the location of the job site.  
+|  SECTION 2.33. Subchapter B, Chapter 501, Transportation  
+| Code, is amended by adding Section 501.0301 to read as follows:  
+|  _Sec._ ___501.0301._ _____CERTAIN OFF-HIGHWAY VEHICLES PURCHASED_  
+| _OUTSIDE THIS STATE. (a) In this section:_  
+|  _(1) "Off-highway vehicle" means:_  
+|  _(A)_ _____an all-terrain vehicle or recreational_  
+| _off-highway vehicle, as those terms are defined by Section 502.001;_  
+|  _(B)_ _____a motorcycle, as that term is defined by_  
+| _Section 541.201, other than a motorcycle described by Section_  
+| _521.001, that is designed by the manufacturer for off-highway use_  
+| _only; or_  
+|  _(C)_ _____a utility vehicle, as that term is defined by_  
+| _Section 663.001._  
+|  _(2)_ _____"Retailer" has the meaning assigned by Section_  
+| _151.008, Tax Code._  
+|  _(b)_ _____A county assessor-collector may not issue a title_  
+| _receipt and the department may not issue a certificate of title for_  
+| _an off-highway vehicle purchased from a retailer located outside_  
+| _this state unless the applicant for the title delivers to the_  
+| _assessor-collector or the department, as applicable, satisfactory_  
+| _evidence showing that the applicant:_  
+|  _(1)_ _____has paid to the comptroller the applicable use tax_  
+| _imposed on the vehicle under Subchapter D, Chapter 151, Tax Code; or_  
+|  _(2)_ _____is not required to pay any taxes described by_  
+| _Subdivision (1)._  
+|  SECTION 2.34. Subchapter F, Chapter 502, Transportation  
+| Code, is amended by adding Sections 502.257 and 502.258 to read as  
+| follows:  
+|  _Sec._ ___502.257._ _____FEE; ELECTRIC MOTOR VEHICLE._ ___The fee for a_  
+| _registration year for registration of a motor vehicle that uses_  
+| _electricity as its only source of motor power is the greater of:_  
+|  _(1) $225; or_  
+|  _(2) the applicable fee under Section 502.253._  
+|  _Sec._ ___502.258._ _____FEE; HYBRID MOTOR VEHICLE._ ___(a)_ ___In this_  
+| _section, "hybrid motor vehicle"_ ___means a motor vehicle that draws_  
+| _propulsion energy from both gasoline or conventional diesel fuel_  
+| _and a rechargeable energy storage system._  
+|  _(b)_ _____The fee for a registration year for registration of a_  
+| _hybrid motor vehicle is the greater of:_  
+|  _(1) $125; or_  
+|  _(2) the applicable fee under Section 502.253._  
+|  SECTION 2.35. The following provisions of the Tax Code are  
+| repealed:  
+|  (1) Section 23.1241(b-1);  
+|  (2) Section 151.314(h);  
+|  (3) Section 151.315;  
+|  (4) Section 151.317(c);  
+|  (5) Section 151.3186;  
+|  (6) Section 151.319;  
+|  (7) Section 151.320;  
+|  (8) Section 151.335; and  
+|  (9) Section 151.424.  
+|  SECTION 2.36. Not later than March 1, 2020, a manufacturer  
+| shall submit the first report required by Section 2301.008,  
+| Occupations Code, as added by this article.  
+|  SECTION 2.37. This article applies only to ad valorem taxes  
+| imposed for a tax year beginning on or after the effective date of  
+| this Act.  
+|  SECTION 2.38. The changes in law made by this article do not  
+| affect tax liability accruing before the effective date of this  
+| Act. That liability continues in effect as if this Act had not been  
+| enacted, and the former law is continued in effect for the  
+| collection of taxes due and for civil and criminal enforcement of  
+| the liability for those taxes.  
+|  SECTION 2.39. Section 501.0301, Transportation Code, as  
+| added by this article, applies only to an application for title that  
+| is filed on or after the effective date of this Act. An application  
+| for title that is filed before the effective date of this Act is  
+| governed by the law in effect on the date the application was filed,  
+| and the former law is continued in effect for that purpose.  
+| ARTICLE 3. EFFECTIVE DATE  
+|  SECTION 3.01. This Act takes effect January 1, 2020, but  
+| only if the constitutional amendment proposed by the 86th  
+| Legislature, Regular Session, 2019, authorizing the legislature to  
+| exempt from ad valorem taxation by a school district a portion of  
+| the appraised value of an individual's residence homestead in an  
+| amount equal to the lesser of 50 percent of the appraised value of  
+| the residence homestead after all other applicable exemptions for  
+| which the individual has qualified the homestead are applied or 150  
+| percent of the median appraised value of all single-family  
+| residences in the state and authorizing the legislature to exempt  
+| from ad valorem taxation by one or more political subdivisions of  
+| this state inventory held for sale at retail is approved by the  
+| voters. If that constitutional amendment is not approved by the  
+| voters, this Act has no effect.
+

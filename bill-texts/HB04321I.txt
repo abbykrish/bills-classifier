@@ -1,0 +1,65 @@
+| 86R13551 PMO-F  
+---|---  
+|  By: Davis of Dallas | H.B. No. 4321  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain conflicts of interest of the commissioner of  
+| insurance and employees of the Texas Department of Insurance;  
+| requiring registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 33, Insurance Code, is amended by adding  
+| Section 33.008 to read as follows:  
+|  _Sec._ ___33.008._ _____PROHIBITION AGAINST ACCEPTANCE OF GIFTS,_  
+| _GRATUITIES, OR OTHER THING OF VALUE; EXCEPTION. (a) Except as_  
+| _provided by Subsections (b) and (d), the commissioner or an_  
+| _employee of the department may not accept a gift, gratuity, or other_  
+| _thing of value, including transportation and travel expenses, from_  
+| _a person who:_  
+|  _(1)_ _____is employed by or participates in the management_  
+| _of an entity or other organization that is regulated by the_  
+| _department;_  
+|  _(2)_ _____owns or controls, directly or indirectly, more_  
+| _than a 10 percent interest of a business entity or other_  
+| _organization that is regulated by the department;_  
+|  _(3)_ _____is related within the second degree of_  
+| _consanguinity to a person described by Subdivision (1) or (2); or_  
+|  _(4)_ _____is an agent, representative, attorney, employee,_  
+| _officer, owner, director, or partner of an entity, organization, or_  
+| _person described by Subdivision (1), (2), or (3)._  
+|  _(b)_ _____Notwithstanding any other law, the commissioner or an_  
+| _employee of the department may accept from a person described by_  
+| _Subsection (a)(1), (2), or (4) a gift, gratuity, or other thing of_  
+| _value if:_  
+|  _(1)_ _____the person is registered under Chapter 305,_  
+| _Government Code;_  
+|  _(2)_ _____the gift, gratuity, or other thing of value has a_  
+| _value of $50 or less;_  
+|  _(3)_ _____the registrant states, on the registrant's report_  
+| _under Section 305.006, Government Code:_  
+|  _(A)_ _____that the gift, gratuity, or other thing of_  
+| _value was given by or on behalf of the registrant to the_  
+| _commissioner or the employee of the department;_  
+|  _(B)_ _____a general description of the gift, gratuity,_  
+| _or other thing of value; and_  
+|  _(C)_ _____the amount of the expenditure by appropriate_  
+| _category of amount, as determined by the Texas Ethics Commission;_  
+| _and_  
+|  _(4)_ _____the gift, gratuity, or other thing of value does_  
+| _not violate Section 36.08 or 36.09, Penal Code, as described by_  
+| _Section 36.10, Penal Code._  
+|  _(c)_ _____Notwithstanding Section 305.003, Government Code, a_  
+| _person described by Subsection (a)(1), (2), or (4) shall register_  
+| _with the Texas Ethics Commission under Chapter 305, Government_  
+| _Code, if the person gives to the commissioner or an employee of the_  
+| _department a gift, gratuity, or other thing of value the value of_  
+| _which is $50 or less._  
+|  _(d)_ _____The commissioner or an employee of the department may_  
+| _not accept from a person described by Subsection (a)(1), (2), or (4)_  
+| _gifts, gratuities, or other things of value the aggregate value of_  
+| _which exceeds $2,000 during a calendar year._  
+|  SECTION 2. Section 33.008, Insurance Code, as added by this  
+| Act, applies only to a gift, gratuity, or thing of value accepted or  
+| given on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

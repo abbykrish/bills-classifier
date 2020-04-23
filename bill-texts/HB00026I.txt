@@ -1,0 +1,172 @@
+| 86R145 SLB-F  
+---|---  
+|  By: Metcalf | H.B. No. 26  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of an alert system to notify affected  
+| persons of certain releases of water from certain dams.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 12, Water Code, is amended by adding  
+| Subchapter F to read as follows:  
+| _SUBCHAPTER F. DAMS_  
+|  _Sec. 12.1500. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Alert system" means the Texas Dam Release Alert_  
+| _System._  
+|  _(2)_ _____"Dam operator" means a political subdivision that_  
+| _operates a dam._  
+|  _Sec._ ___12.1501._ _____TEXAS DAM RELEASE ALERT SYSTEM. (a) With the_  
+| _cooperation of the Texas Department of Transportation, the office_  
+| _of the governor, dam operators, and other appropriate emergency_  
+| _response agencies, the commission shall implement the Texas Dam_  
+| _Release Alert System to be activated on behalf of a dam operator to_  
+| _warn potentially affected persons of possible floods._  
+|  _(b)_ _____The alert system may be operated in conjunction with any_  
+| _other emergency alert system required by federal or state law. The_  
+| _alert system must be designed to notify potentially affected_  
+| _persons of a dam release through available means including:_  
+|  _(1)_ _____public and commercial television or radio_  
+| _broadcasts;_  
+|  _(2)_ _____a system of dynamic message signs located across_  
+| _the state;_  
+|  _(3)_ _____posting on a website operated by a dam operator;_  
+| _and_  
+|  _(4)_ _____reverse 9-1-1 calls, text messages, e-mails,_  
+| _social media, and other instant messaging systems._  
+|  _Sec._ ___12.1502._ _____ADMINISTRATION; RULES. (a) The executive_  
+| _director is the coordinator of the alert system and shall ensure_  
+| _effective implementation of the system._  
+|  _(b)_ _____The commission shall adopt rules to ensure effective_  
+| _implementation of the alert system. The rules must include_  
+| _instructions on the procedures for activating and deactivating the_  
+| _alert system and updating alerts made by the system._  
+|  _(c)_ _____The executive director shall prescribe forms for use by_  
+| _dam operators in requesting activation of the alert system._  
+|  _Sec._ ___12.1503._ _____PARTICIPATION BY OTHER PERSONS. (a) The_  
+| _executive director shall recruit public and commercial television_  
+| _and radio broadcasters, private commercial entities, state or local_  
+| _governmental entities, the public, and other appropriate persons to_  
+| _assist in developing and implementing the alert system._  
+|  _(b)_ _____The commission may enter into agreements with_  
+| _participants in the alert system to provide necessary support for_  
+| _the alert system._  
+|  _Sec._ ___12.1504._ _____ACTIONS OF DAM OPERATORS. (a) A dam operator_  
+| _must request activation of the alert system, when practicable, at_  
+| _least two hours before a release of water that the dam operator_  
+| _reasonably believes will meet the criteria described by Section_  
+| _12.1505(a)._  
+|  _(b)_ _____The dam operator must provide to the commission_  
+| _information regarding the expected duration of the release, the_  
+| _time of the release, the expected level of flooding that will_  
+| _result, the name of the dam from which the release will occur, the_  
+| _name of the affected river basin, and the county in which the dam is_  
+| _located._  
+|  _Sec._ ___12.1505._ _____ACTIVATION OF ALERT SYSTEM. (a) On the_  
+| _request of a dam operator, the executive director shall activate_  
+| _the alert system if:_  
+|  _(1)_ _____a release of water from the dam operated by the dam_  
+| _operator is to take place;_  
+|  _(2)_ _____flooding is a reasonable result from the release_  
+| _of water; and_  
+|  _(3)_ _____flooding is likely to cause damage to life or_  
+| _property._  
+|  _(b)_ _____The commission may modify the criteria described by_  
+| _Subsection (a) as necessary for the implementation of the alert_  
+| _system._  
+|  _Sec._ ___12.1506._ _____REQUIRED CONTENT OF ALERT MESSAGE. A_  
+| _notification issued under the alert system must include the_  
+| _following:_  
+|  _(1)_ _____the name of the dam from which the release is to_  
+| _occur;_  
+|  _(2) the county in which the dam is located;_  
+|  _(3) the affected river basin;_  
+|  _(4) the time of the release;_  
+|  _(5) the expected duration of the release;_  
+|  _(6)_ _____the potential level of flooding that will result_  
+| _downstream; and_  
+|  _(7)_ _____any roadways or bridges that will be potentially_  
+| _affected by flooding as a result of the release._  
+|  _Sec._ ___12.1507._ _____STATE AGENCIES. (a) A state agency_  
+| _participating in the alert system shall:_  
+|  _(1)_ _____cooperate with the commission and assist in_  
+| _developing and implementing the alert system; and_  
+|  _(2)_ _____establish a plan for providing relevant_  
+| _information to its officers, investigators, or employees, as_  
+| _appropriate, once the alert system has been activated._  
+|  _(b)_ _____In addition to the requirements of Subsection (a), the_  
+| _Texas Department of Transportation shall establish a plan for_  
+| _providing relevant information to the public through an existing_  
+| _system of dynamic message signs located across the state._  
+|  _Sec._ ___12.1508._ _____TERMINATION. The executive director shall_  
+| _terminate an activation of the alert system when the release of_  
+| _water has been completed._  
+|  SECTION 2. Section 12.052, Water Code, is transferred to  
+| Subchapter F, Chapter 12, Water Code, as added by this Act,  
+| redesignated as Section 12.1509, Water Code, and amended to read as  
+| follows:  
+|  Sec. _12.1509_ [ ~~12.052~~ ]. DAM SAFETY. (a) The commission  
+| shall make and enforce rules and orders and shall perform all other  
+| acts necessary to provide for the safe construction, maintenance,  
+| repair, and removal of dams located in this state. In performing  
+| the commission's duties under this subsection, the commission shall  
+| identify and focus on the most hazardous dams in the state.  
+|  (b) Rules and orders made by the commission shall be made  
+| after proper notice and hearing as provided in the rules of the  
+| commission.  
+|  (b-1) The commission may enter into an agreement with an  
+| owner of a dam who is required to reevaluate the adequacy of an  
+| existing dam or spillway. The agreement may include timelines to  
+| achieve compliance with the commission's design criteria and may  
+| authorize deferral of compliance with the criteria, as appropriate.  
+|  (c) If the owner of a dam that is required to be constructed,  
+| reconstructed, repaired, or removed in order to comply with the  
+| rules and orders promulgated under Subsection (a) of this section  
+| wilfully fails or refuses to comply within the 30-day period  
+| following the date of the commission's final, nonappealable order  
+| to do so or if a person wilfully fails to comply with any rule or  
+| other order issued by the commission under this section within the  
+| 30-day period following the effective date of the order, he is  
+| liable to a penalty of not more than $5,000 a day for each day he  
+| continues to violate this section. The state may recover the  
+| penalty by suit brought for that purpose in the district court of  
+| Travis County.  
+|  (d) If the commission determines that the existing  
+| condition of the dam is creating or will cause extensive or severe  
+| property damage or economic loss to others or is posing an immediate  
+| and serious threat to human life or health and that other procedures  
+| available to the commission to remedy or prevent the occurrence of  
+| the situation will result in unreasonable delay, the commission may  
+| issue an emergency order, either mandatory or prohibitory in  
+| nature, directing the owner of a dam to repair, modify, maintain,  
+| dewater, or remove the dam which the commission determines is  
+| unsafe. The emergency order may be issued without notice to the dam  
+| owner or with notice the commission considers practicable under the  
+| circumstances. The notice does not have to comply with Chapter  
+| 2001, Government Code.  
+|  (e) If the commission issues an emergency order under  
+| authority of this section without notice to the dam owner, the  
+| commission shall fix a time and place for a hearing which shall be  
+| held as soon as practicable to affirm, modify, or set aside the  
+| emergency order. The notice does not have to comply with Chapter  
+| 2001, Government Code. If the nature of the commission's action  
+| requires further proceedings, those proceedings shall be conducted  
+| as appropriate under Chapter 2001, Government Code.  
+|  (e-1) The commission shall exempt an owner of a dam located  
+| on private property from meeting requirements related to dam safety  
+| if the dam:  
+|  (1) at maximum capacity impounds less than 500  
+| acre-feet;  
+|  (2) has a hazard classification of low or significant;  
+|  (3) is located in a county with a population of less  
+| than 350,000; and  
+|  (4) is not located inside the corporate limits of a  
+| municipality.  
+|  (e-2) Notwithstanding Subsection (e-1), an owner of a dam  
+| shall comply with operation and maintenance requirements  
+| established by commission rule.  
+|  (f) Nothing in this section or in rules or orders made by the  
+| commission shall be construed to relieve an owner or operator of a  
+| dam or reservoir of the legal duties, obligations, or liabilities  
+| incident to ownership or operation.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

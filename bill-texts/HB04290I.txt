@@ -1,0 +1,101 @@
+| 86R7376 TSR-D  
+---|---  
+|  By: Flynn | H.B. No. 4290  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring certain public retirement systems to  
+| implement funding soundness plans.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 801.209(a), Government Code, is amended  
+| to read as follows:  
+|  (a) For each public retirement system, the board shall post  
+| on the board's Internet website, or on a publicly available website  
+| that is linked to the board's website, the most recent data from  
+| reports received under Sections 802.101, 802.103, 802.104,  
+| 802.105, 802.108, 802.2015, [ ~~and~~ ] 802.2016 _, and 802.2017_.  
+|  SECTION 2. Sections 802.002(a) and (c), Government Code,  
+| are amended to read as follows:  
+|  (a) Except as provided by Subsection (b), the Employees  
+| Retirement System of Texas, the Teacher Retirement System of Texas,  
+| the Texas County and District Retirement System, the Texas  
+| Municipal Retirement System, and the Judicial Retirement System of  
+| Texas Plan Two are exempt from Sections 802.101(a), 802.101(b),  
+| 802.101(d), 802.102, 802.103(a), 802.103(b), 802.2015, 802.2016,  
+| _802.2017,_ 802.202, 802.203, 802.204, 802.205, 802.206, and  
+| 802.207.  The Judicial Retirement System of Texas Plan One is exempt  
+| from all of Subchapters B and C except Sections 802.104 and 802.105.  
+| The optional retirement program governed by Chapter 830 is exempt  
+| from all of Subchapters B and C except Section 802.106.  
+|  (c) Notwithstanding any other law, a defined contribution  
+| plan is exempt from Sections 802.101, 802.1012, 802.1014, 802.103,  
+| 802.104, _802.2017,_ and 802.202(d).  This subsection may not be  
+| construed to exempt any plan from Section 802.105 or 802.106(h).  
+|  SECTION 3. Subchapter C, Chapter 802, Government Code, is  
+| amended by adding Section 802.2017 to read as follows:  
+|  _Sec._ ___802.2017._ _____FUNDING SOUNDNESS PLANS FOR CERTAIN PUBLIC_  
+| _RETIREMENT SYSTEMS. (a)_ ___In this section, "governmental entity"_  
+| _has the meaning assigned by Section 802.1012._  
+|  _(b)_ _____If, on September 1, 2019, a public retirement system's_  
+| _most recent actuarial valuation indicates that the system's_  
+| _amortization period for the system's unfunded actuarial accrued_  
+| _liability exceeds 30 years but does not exceed 40 years:_  
+|  _(1)_ _____the governing body of the system shall notify its_  
+| _associated governmental entity in writing of that fact; and_  
+|  _(2)_ _____the governing body of the system and its_  
+| _associated governmental entity jointly, or, if the system is_  
+| _governed by Article 6243i, Revised Statutes, the system's_  
+| _associated governmental entity solely, shall develop a written plan_  
+| _that identifies specific measures that the system and its_  
+| _associated governmental entity shall, in accordance with the_  
+| _system's governing statute, implement to achieve an amortization_  
+| _period that is within 30 years not later than the last day of the_  
+| _system's fiscal year ending in 2022._  
+|  _(c)_ _____If, on or after the date prescribed by Subsection_  
+| _(b)(2), a public retirement system subject to this section receives_  
+| _an actuarial valuation indicating that the system's actual_  
+| _contributions:_  
+|  _(1)_ _____are sufficient to amortize the system's unfunded_  
+| _actuarial accrued liability within 30 years, the system has_  
+| _satisfied its obligations under this section and shall immediately_  
+| _notify its associated governmental entity in writing of that fact;_  
+| _or_  
+|  _(2)_ _____are not sufficient to amortize the system's_  
+| _unfunded actuarial accrued liability within 30 years:_  
+|  _(A)_ _____the governing body of the system shall_  
+| _notify its associated governmental entity in writing of that fact;_  
+| _and_  
+|  _(B)_ _____the governing body of the system and its_  
+| _associated governmental entity jointly, or, if the system is_  
+| _governed by Article 6243i, Revised Statutes, the system's_  
+| _associated governmental entity solely, shall formulate a funding_  
+| _soundness restoration plan under Subsection (d)._  
+|  _(d)_ _____A funding soundness restoration plan formulated under_  
+| _this section must:_  
+|  _(1)_ _____be developed by the public retirement system and_  
+| _the associated governmental entity jointly, or, if the system is_  
+| _governed by Article 6243i, Revised Statutes, by the system's_  
+| _associated governmental entity solely, in accordance with the_  
+| _system's governing statute; and_  
+|  _(2)_ _____be designed to achieve a contribution rate that_  
+| _will be sufficient to amortize the unfunded actuarial accrued_  
+| _liability within 30 years not later than the sixth anniversary of_  
+| _the date on which the final version of a funding soundness_  
+| _restoration plan is formulated._  
+|  _(e)_ _____A public retirement system and an associated_  
+| _governmental entity that formulate a funding soundness restoration_  
+| _plan shall report any updates of progress made by the entities_  
+| _toward improved actuarial soundness to the board each year._  
+|  _(f)_ _____Each public retirement system and its associated_  
+| _governmental entity or each associated governmental entity, as_  
+| _applicable, that formulates a funding soundness restoration plan as_  
+| _provided by this section shall submit a copy of that plan to the_  
+| _board not later than the 31st day after the date on which the plan is_  
+| _formulated._  
+|  _(g)_ _____The board may adopt rules necessary to implement this_  
+| _section, including rules that allow a public retirement system and_  
+| _an associated governmental entity to amend a funding soundness_  
+| _restoration plan formulated under this section._  
+|  _(h) This section expires September 1, 2029._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

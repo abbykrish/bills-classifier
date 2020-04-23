@@ -1,0 +1,171 @@
+| 86R9601 PMO-F  
+---|---  
+|  By: Oliverson | H.B. No. 2536  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to transparency related to drug costs.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 6, Health and Safety Code, is  
+| amended by adding Chapter 441 to read as follows:  
+| _CHAPTER 441. DRUG COST TRANSPARENCY_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 441.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Pharmaceutical drug manufacturer" means a person_  
+| _engaged in the business of producing, preparing, propagating,_  
+| _compounding, converting, processing, packaging, labeling, or_  
+| _distributing a drug. The term does not include a wholesale_  
+| _distributor or retailer of prescription drugs or a pharmacist_  
+| _licensed under Subtitle J, Title 3, Occupations Code._  
+|  _(2)_ _____"Prescription drug" and "drug"_ ___have the meanings_  
+| _assigned by Section 551.003, Occupations Code, except that the term_  
+| _"prescription drug"_ ___does not include a device._  
+|  _(3)_ _____"Wholesale acquisition cost" means, with respect_  
+| _to a drug, the pharmaceutical drug manufacturer's list price for_  
+| _the drug charged to wholesalers or direct purchasers in the United_  
+| _States, as reported in wholesale price guides or other publications_  
+| _of drug pricing data._ ___The cost does not include any rebates, prompt_  
+| _pay or other discounts, or other reductions in price._  
+|  _Sec._ ___441.0002._ _____DISCLOSURE OF DRUG PRICING INFORMATION. (a)_ __  
+| _Not later than the 15th day of each calendar year, a pharmaceutical_  
+| _drug manufacturer shall submit a report to the executive_  
+| _commissioner stating the current wholesale acquisition cost_  
+| _information for the United States Food and Drug_  
+| _Administration-approved drugs sold in or into this state by that_  
+| _manufacturer._  
+|  _(b)_ _____The executive commissioner shall develop an Internet_  
+| _website to provide to the general public drug price information_  
+| _submitted under Subsection (a)._ ___The Internet website shall be made_  
+| _available on the Health and Human Services Commission's Internet_  
+| _website with a dedicated link that is prominently displayed on the_  
+| _home page or by a separate easily identifiable Internet address._  
+|  _(c)_ _____Not later than the 30th day after the effective date of_  
+| _an increase of 50 percent or more in wholesale acquisition cost of a_  
+| _drug with a wholesale acquisition cost of at least $100 for a 30-day_  
+| _supply, a pharmaceutical drug manufacturer shall submit a report to_  
+| _the executive commissioner._ ___The report must include the following_  
+| _information:_  
+|  _(1) the name of the drug;_  
+|  _(2) whether the drug is a brand name or generic;_  
+|  _(3)_ _____the effective date of the change in wholesale_  
+| _acquisition cost;_  
+|  _(4)_ _____aggregate, company-level research and development_  
+| _costs for the previous calendar year;_  
+|  _(5)_ _____the name of each of the manufacturer's_  
+| _prescription drugs approved by the United States Food and Drug_  
+| _Administration in the previous five calendar years; and_  
+|  _(6)_ _____the name of each of the manufacturer's_  
+| _prescription drugs that lost patent exclusivity in the United_  
+| _States in the previous five calendar years._  
+|  _(d)_ _____The quality and types of information and data that a_  
+| _pharmaceutical drug manufacturer submits to the executive_  
+| _commissioner under Subsection (c) must be consistent with the_  
+| _quality and types of information and data that the manufacturer_  
+| _includes in the manufacturer's annual consolidated report on_  
+| _Securities and Exchange Commission Form 10-K or any other public_  
+| _disclosure._  
+|  _(e)_ _____Not later than the 60th day after receipt of the report_  
+| _submitted under Subsection (c), the executive commissioner shall_  
+| _publish the report on the Health and Human Services Commission's_  
+| _Internet website described by Subsection (b)._  
+|  _(f)_ _____A pharmaceutical drug manufacturer shall notify the_  
+| _executive commissioner in writing if the manufacturer introduces a_  
+| _new prescription drug to market with a wholesale acquisition cost_  
+| _that exceeds the threshold set for a specialty drug under the_  
+| _Medicare Part D program._ ___The manufacturer shall provide the_  
+| _written notice not later than the third day after the date of the_  
+| _release of the drug in the commercial market._ ___A manufacturer may_  
+| _make the notification pending approval by the United States Food_  
+| _and Drug Administration if commercial availability is expected not_  
+| _later than three calendar days following the approval._  
+|  _(g)_ _____The executive commissioner may adopt rules to implement_  
+| _this section._  
+|  SECTION 2. Chapter 1369, Insurance Code, is amended by  
+| adding Subchapter K to read as follows:  
+| _SUBCHAPTER K._ ___PRESCRIPTION DRUG COST TRANSPARENCY_  
+|  _Sec. 1369.501. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Health benefit plan" means an individual,_  
+| _blanket, or group plan, policy, or contract for health care_  
+| _services issued or delivered by a health benefit plan issuer in this_  
+| _state._  
+|  _(2)_ _____"Health benefit plan issuer" means an insurance_  
+| _company, a health maintenance organization, or a hospital and_  
+| _medical service corporation._  
+|  _(3)_ _____"Pharmaceutical drug manufacturer" means a person_  
+| _engaged in the business of producing, preparing, propagating,_  
+| _compounding, converting, processing, packaging, labeling, or_  
+| _distributing a prescription drug. The term does not include a_  
+| _wholesale distributor or retailer of prescription drugs or a_  
+| _pharmacist licensed under Subtitle J, Title 3, Occupations Code._  
+|  _(4)_ _____"Pharmacy benefit manager" has the meaning_  
+| _assigned by Section 4151.151._  
+|  _(5)_ _____"Prescription drug"_ ___has the meaning assigned by_  
+| _Section 551.003, Occupations Code, except that the term_  
+| _"prescription drug"_ ___does not include a device._  
+|  _(6)_ _____"Rebate" means a discount or concession that_  
+| _affects the price of a prescription drug to a pharmacy benefit_  
+| _manager or health benefit plan issuer for a prescription drug_  
+| _manufactured by the pharmaceutical drug manufacturer._  
+|  _(7)_ _____"Specialty drug" means a prescription drug covered_  
+| _under Medicare Part D that exceeds the specialty tier cost_  
+| _threshold established by the Centers for Medicare and Medicaid_  
+| _Services._  
+|  _(8)_ _____"Utilization management" means a set of formal_  
+| _techniques designed to monitor the use of, or evaluate the medical_  
+| _necessity, appropriateness, efficacy, or efficiency of, health_  
+| _care services, procedures, or settings._  
+|  _Sec._ ___1369.502._ _____PHARMACY BENEFIT MANAGER INFORMATION. (a)_ __  
+| _Not later than February 1 of each year, each pharmacy benefit_  
+| _manager shall file a report with the commissioner._ ___The report must_  
+| _state for the immediately preceding calendar year:_  
+|  _(1)_ _____the aggregated rebates, fees, price protection_  
+| _payments, and any other payments collected from pharmaceutical drug_  
+| _manufacturers; and_  
+|  _(2)_ _____the aggregated dollar amount of rebates, fees,_  
+| _price protection payments, and any other payments collected from_  
+| _pharmaceutical drug manufacturers that were passed to:_  
+|  _(A) health benefit plan issuers; or_  
+|  _(B)_ _____enrollees at the point of sale of a_  
+| _prescription drug._  
+|  _(b)_ _____A report submitted by a pharmacy benefit manager may not_  
+| _disclose the identity of a specific health benefit plan or_  
+| _enrollee, the price charged for a specific prescription drug or_  
+| _class of prescription drugs, or the amount of any rebate or fee_  
+| _provided for a specific prescription drug or class of prescription_  
+| _drugs._  
+|  _(c)_ _____Not later than the 60th day after receipt, the_  
+| _commissioner shall publish the report in an appropriate location on_  
+| _the department's Internet website._  
+|  _Sec._ ___1369.503._ _____HEALTH BENEFIT PLAN ISSUER INFORMATION. (a)_ __  
+| _Not later than February 1 of each year, each health benefit plan_  
+| _issuer shall submit to the commissioner a report that states for the_  
+| _immediately preceding calendar year:_  
+|  _(1)_ _____the names of the 25 most frequently prescribed_  
+| _prescription drugs across all plans;_  
+|  _(2)_ _____the percent increase in annual net spending for_  
+| _prescription drugs across all plans;_  
+|  _(3)_ _____the percent increase in premiums that were_  
+| _attributable to prescription drugs across all plans;_  
+|  _(4)_ _____the percentage of specialty drugs with utilization_  
+| _management requirements across all plans; and_  
+|  _(5)_ _____the premium reductions that were attributable to_  
+| _specialty drug utilization management._  
+|  _(b)_ _____A report submitted by a health benefit plan issuer may_  
+| _not disclose the identity of a specific health benefit plan or the_  
+| _price charged for a specific prescription drug or class of_  
+| _prescription drugs._  
+|  _(c)_ _____Not later than the 60th day after receipt, the_  
+| _commissioner shall publish the report in an appropriate location on_  
+| _the department's Internet website._  
+|  _Sec._ ___1369.504._ _____RULES._ ___The commissioner may adopt rules to_  
+| _implement this subchapter._  
+|  SECTION 3. Notwithstanding Chapter 441, Health and Safety  
+| Code, as added by this Act, and Subchapter K, Chapter 1369,  
+| Insurance Code, as added by this Act, a pharmaceutical drug  
+| manufacturer, pharmacy benefit manager, or health benefit plan  
+| issuer is not required to submit a summary report as required by  
+| Chapter 441, Health and Safety Code, as added by this Act, or  
+| Subchapter K, Chapter 1369, Insurance Code, as added by this Act, as  
+| applicable, before January 1, 2020.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

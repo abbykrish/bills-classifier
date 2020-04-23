@@ -1,0 +1,30 @@
+| 86R4968 SMT-D  
+---|---  
+|  By: Bell of Montgomery | H.B. No. 1060  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of a property owner to request that notice  
+| of a protest hearing before the appraisal review board be delivered  
+| by certified mail or electronic mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1.085, Tax Code, is amended by adding  
+| Subsection (m) to read as follows:  
+|  _(m)_ _____Notwithstanding any other provision of this section, a_  
+| _property owner need not enter into an agreement under this section_  
+| _to be entitled to electronic delivery of a notice of a protest_  
+| _hearing under Section 41.46._  
+|  SECTION 2. Section 41.46, Tax Code, is amended by adding  
+| Subsections (d) and (e) to read as follows:  
+|  _(d)_ _____The appraisal review board shall deliver notice of the_  
+| _hearing by certified mail if, in the notice of protest under Section_  
+| _41.44, the property owner requests delivery by certified mail._ ___The_  
+| _board may require the property owner to pay the cost of postage_  
+| _under this subsection._  
+|  _(e)_ _____Notwithstanding Section 1.085, the appraisal review_  
+| _board shall deliver notice of the hearing by electronic mail if, in_  
+| _the notice of protest under Section 41.44, the property owner_  
+| _requests delivery by electronic mail and provides a valid_  
+| _electronic mail address._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,67 @@
+| 86R8535 SMT-D  
+---|---  
+|  By: Lucio III | H.B. No. 3299  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the applicability of mediation requirements for balance  
+| billing to certain health benefit plans.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1467.001, Insurance Code, is amended by  
+| amending Subdivisions (1), (2-a), (2-b), and (3) and adding  
+| Subdivision (2-c) to read as follows:  
+|  (1) "Administrator" means:  
+|  (A) an administering firm for a health benefit  
+| plan providing coverage under Chapter 1551, 1575, or 1579; [ ~~and~~ ]  
+|  (B) if applicable, the claims administrator for  
+| the health benefit plan _; and_  
+|  _(C)_ _____if applicable, an administrating firm for an_  
+| _eligible plan for which an election is made under Section_  
+| _1467.0021_.  
+|  (2-a) _"Eligible plan" means a managed care plan that_  
+| _is a self-funded or self-insured employee welfare benefit plan that_  
+| _provides health benefits and is established in accordance with the_  
+| _Employee Retirement Income Security Act of 1974 (29 U.S.C. Section_  
+| _1001 et seq.)._  
+|  _(2-b)_ "Emergency care" has the meaning assigned by  
+| Section 1301.155.  
+|  _(2-c)_ [ ~~(2-b)~~ ] "Emergency care provider" means a  
+| physician, health care practitioner, facility, or other health care  
+| provider who provides and bills an enrollee, administrator, or  
+| health benefit plan for emergency care.  
+|  (3) "Enrollee" means an individual who is eligible to  
+| receive benefits through a [ ~~preferred provider benefit plan or a~~ ]  
+| health benefit plan _subject to this chapter_ [ ~~under Chapter 1551,~~  
+|  ~~1575, or 1579~~ ].  
+|  SECTION 2. Section 1467.002, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.002. APPLICABILITY OF CHAPTER. This chapter  
+| applies to:  
+|  (1) a preferred provider benefit plan offered by an  
+| insurer under Chapter 1301; [ ~~and~~ ]  
+|  (2) an administrator of a health benefit plan, other  
+| than a health maintenance organization plan, under Chapter 1551,  
+| 1575, or 1579 _; and_  
+|  _(3)_ _____an eligible plan for which the plan sponsor makes_  
+| _an election under Section 1467.0021_.  
+|  SECTION 3. Subchapter A, Chapter 1467, Insurance Code, is  
+| amended by adding Section 1467.0021 to read as follows:  
+|  _Sec._ ___1467.0021._ _____ELECTIVE APPLICABILITY._ ___(a) A plan_  
+| _sponsor of an eligible plan may elect on an annual basis for this_  
+| _chapter to apply to the plan. A sponsor making an election shall_  
+| _provide written notice of the election to the department in the form_  
+| _and manner required by department rule._  
+|  _(b)_ _____An administrator of an eligible plan for which an_  
+| _election is made under Subsection (a) shall ensure that the plan and_  
+| _any evidence of coverage complies with this chapter._  
+|  SECTION 4. The Texas Department of Insurance shall adopt  
+| rules necessary to implement Section 1467.0021, Insurance Code, as  
+| added by this Act, not later than December 31, 2019.  
+|  SECTION 5. The changes in law made by this Act apply only to  
+| a managed care plan that is delivered, issued for delivery, or  
+| renewed on or after January 1, 2020. A managed care plan delivered,  
+| issued for delivery, or renewed before January 1, 2020, is governed  
+| by the law as it existed immediately before the effective date of  
+| this Act, and that law is continued in effect for that purpose.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

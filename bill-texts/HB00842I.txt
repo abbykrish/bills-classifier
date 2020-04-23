@@ -1,0 +1,116 @@
+| 86R6373 KJE-F  
+---|---  
+|  By: Hernandez | H.B. No. 842  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a central database containing information about  
+| offenders who have committed certain violent offenses against  
+| children or offenses involving family or dating violence.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 42.015(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) In the trial of an offense under _Title 5_ [ ~~Section 20.02,~~  
+|  ~~20.03, or 20.04~~ ], Penal Code, or an attempt, conspiracy, or  
+| solicitation to commit one of those offenses, the judge shall make  
+| an affirmative finding of fact and enter the affirmative finding in  
+| the judgment in the case if the judge determines that the victim or  
+| intended victim was younger than 17 years of age at the time of the  
+| offense.  
+|  SECTION 2. Section 411.088(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The department may not charge for processing an  
+| electronic inquiry _, made through the use of the Internet,_ for  
+| information described as public information under _:_  
+|  _(1) Section 411.1355; or_  
+|  _(2)_ Article 62.005, Code of Criminal Procedure[ ~~, made~~  
+|  ~~through the use of the Internet~~ ].  
+|  SECTION 3. Section 411.135(a), Government Code, is amended  
+| to read as follows:  
+|  (a) Any person is entitled to obtain from the department:  
+|  (1) any information described as public information  
+| under Chapter 62, Code of Criminal Procedure, including, to the  
+| extent available, a recent photograph of each person subject to  
+| registration under that chapter; [ ~~and~~ ]  
+|  (2) criminal history record information maintained by  
+| the department that relates to the conviction of or a grant of  
+| deferred adjudication to a person for any criminal offense,  
+| including arrest information that relates to the conviction or  
+| grant of deferred adjudication _; and_  
+|  _(3)_ _____any information described as public information_  
+| _under Section 411.1355_.  
+|  SECTION 4. Subchapter F, Chapter 411, Government Code, is  
+| amended by adding Section 411.1355 to read as follows:  
+|  _Sec._ ___411.1355._ _____CENTRAL DATABASE OF OFFENDERS WHO HAVE_  
+| _COMMITTED CERTAIN VIOLENT OFFENSES._ ___(a)_ ___The department shall_  
+| _maintain a computerized central database containing information_  
+| _regarding persons who:_  
+|  _(1) on three or more occasions have been convicted of:_  
+|  _(A)_ _____an offense for which an affirmative finding_  
+| _was made under Article 42.013 or 42.015, Code of Criminal_  
+| _Procedure;_  
+|  _(B)_ _____an offense under Section 21.16, Penal Code;_  
+| _or_  
+|  _(C)_ _____any combination of offenses described by_  
+| _Paragraph (A) or (B); and_  
+|  _(2)_ _____were 17 years of age or older on the date at least_  
+| _three of the offenses described by Subdivision (1) were committed._  
+|  _(b)_ _____The information contained in the database is public_  
+| _information, with the exception of any information:_  
+|  _(1)_ _____regarding the person's social security number,_  
+| _driver's license number, or telephone number; or_  
+|  _(2) that would identify the victim of the offense._  
+|  _(c)_ _____The database maintained by the department under this_  
+| _section must contain, to the extent the information is available to_  
+| _the department:_  
+|  _(1)_ _____the person's full name, each alias used by the_  
+| _person, and the person's date of birth;_  
+|  _(2)_ _____a physical description and recent photograph of_  
+| _the person;_  
+|  _(3)_ _____a list of offenses described by Subsection (a) for_  
+| _which the person was convicted, the date of conviction for each_  
+| _offense, and the punishment prescribed for each offense; and_  
+|  _(4)_ _____an indication as to whether the person was_  
+| _discharged, placed on community supervision, or released on parole_  
+| _or to mandatory supervision following the conviction for each_  
+| _offense._  
+|  _(d)_ _____The department shall permit a person whose name is_  
+| _included in the database established under this section to petition_  
+| _the department for removal of the person's name from the database,_  
+| _and the department shall remove the person's name from the database_  
+| _in response to the petition if:_  
+|  _(1)_ _____an order of expunction is issued under Chapter 55,_  
+| _Code of Criminal Procedure, with respect to one of the offenses_  
+| _described by Subsection (a), unless the person has three or more_  
+| _other convictions for an offense described by that subsection; or_  
+|  _(2)_ _____during the seven-year period preceding the date of_  
+| _the petition, the person is not convicted of an offense described by_  
+| _Subsection (a)._  
+|  _(e)_ _____On the Internet website through which a person may_  
+| _search the database described by this section, the department shall_  
+| _include information regarding:_  
+|  _(1)_ _____the manner in which a person may petition the_  
+| _department for removal of the person's name from the database;_  
+|  _(2)_ _____the circumstances under which the department will_  
+| _grant the petition; and_  
+|  _(3)_ _____contact information for family violence_  
+| _organizations._  
+|  _(f)_ _____The department shall consult with a representative of a_  
+| _statewide advocacy organization for issues related to family_  
+| _violence regarding implementation of the database and the_  
+| _information required to be included on the database website under_  
+| _Subsection (e)(3)._  
+|  SECTION 5. The central database required by Section  
+| 411.1355, Government Code, as added by this Act, must be designed  
+| and implemented not later than January 1, 2020, and may only include  
+| information concerning persons convicted of at least one offense  
+| described by Subsection (a) of that section committed on or after  
+| the effective date of this Act.  For purposes of this section, an  
+| offense was committed on or after the effective date of this Act if  
+| each element of the offense occurred on or after that date.  
+|  SECTION 6. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

@@ -1,0 +1,144 @@
+| 86R1132 TJB-F  
+---|---  
+|  By: Middleton | H.B. No. 3241  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the system for appraising property for ad valorem tax  
+| purposes.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 403.302(a) and (a-2), Government Code,  
+| are amended to read as follows:  
+|  (a) _Every two years, the_ [ ~~The~~ ] comptroller shall conduct a  
+| study using comparable sales and generally accepted auditing and  
+| sampling techniques to determine the total taxable value of all  
+| property in each school district. The study shall determine the  
+| taxable value of all property and of each category of property in  
+| the district and the productivity value of all land that qualifies  
+| for appraisal on the basis of its productive capacity and for which  
+| the owner has applied for and received a productivity appraisal.  
+| The comptroller shall make appropriate adjustments in the study to  
+| account for actions taken under Chapter 41, Education Code.  
+|  (a-2) _In a_ [ ~~If in any~~ ] year _in which_ the comptroller does not  
+| conduct a study _for a school district_ , the _taxable value of property_  
+| _in the district is presumed to be:_  
+|  _(1) the_ [ ~~school~~ ] district's local value for that year __  
+| _if the most recent study for the district resulted in a_  
+| _determination by the comptroller that the district's local value_  
+| _was:_  
+|  _(A) valid; or_  
+|  _(B)_ _____not valid and exceeded the comptroller's_  
+| _value for the district; or_  
+|  _(2)_ _____the comptroller's value for the district from the_  
+| _most recent study if the study resulted in a determination by the_  
+| _comptroller that the district's local value was not valid and did_  
+| _not exceed the comptroller's value_ [ ~~is considered to be valid~~ ].  
+|  SECTION 2. Section 5.10(a), Tax Code, is amended to read as  
+| follows:  
+|  (a) _Every_ [ ~~At least once every~~ ] two years, the comptroller  
+| shall conduct a study in each appraisal district to determine the  
+| degree of uniformity of and the median level of appraisals by the  
+| appraisal district within each major category of property.  The  
+| comptroller shall publish a report of the findings of the study,  
+| including in the report the median levels of appraisal for each  
+| major category of property, the coefficient of dispersion around  
+| the median level of appraisal for each major category of property,  
+| and any other standard statistical measures that the comptroller  
+| considers appropriate.  In conducting the study, the comptroller  
+| shall apply appropriate standard statistical analysis techniques  
+| to data collected as part of the study of school district taxable  
+| values required by Section 403.302, Government Code.  
+|  SECTION 3. Section 23.01, Tax Code, is amended by amending  
+| Subsection (e) and adding Subsection (h) to read as follows:  
+|  (e) Notwithstanding any provision of this subchapter to the  
+| contrary, if the appraised value of property in a tax year is  
+| lowered under Subtitle F, the appraised value of the property as  
+| finally determined under that subtitle is considered to be the  
+| appraised value of the property for that tax year.  [ ~~In the~~  
+|  ~~following tax year, the chief appraiser may not increase the~~  
+|  ~~appraised value of the property unless the increase by the chief~~  
+|  ~~appraiser is reasonably supported by substantial evidence when all~~  
+|  ~~of the reliable and probative evidence in the record is considered~~  
+|  ~~as a whole.~~ ~~~~ ~~If the appraised value is finally determined in a~~  
+|  ~~protest under Section 41.41(a)(2) or an appeal under Section 42.26,~~  
+|  ~~the chief appraiser may satisfy the requirement to reasonably~~  
+|  ~~support by substantial evidence an increase in the appraised value~~  
+|  ~~of the property in the following tax year by presenting evidence~~  
+|  ~~showing that the inequality in the appraisal of property has been~~  
+|  ~~corrected with regard to the properties that were considered in~~  
+|  ~~determining the value of the subject property.~~ ~~~~ ~~The burden of
+proof~~  
+|  ~~is on the chief appraiser to support an increase in the appraised~~  
+|  ~~value of property under the circumstances described by this~~  
+|  ~~subsection.~~ ]  
+|  _(h)_ _____The chief appraiser has the burden of supporting an_  
+| _increase in the appraised value of property from the preceding tax_  
+| _year._  
+|  SECTION 4. Section 23.013(b), Tax Code, is amended to read  
+| as follows:  
+|  (b) A sale is not considered to be a comparable sale unless  
+| the sale occurred within 24 months of the date as of which the  
+| market value of the subject property is to be determined[ ~~, except~~  
+|  ~~that a sale that did not occur during that period may be considered~~  
+|  ~~to be a comparable sale if enough comparable properties were not~~  
+|  ~~sold during that period to constitute a representative sample~~ ].  
+|  SECTION 5. Section 25.18, Tax Code, is amended by amending  
+| Subsection (b) and adding Subsections (b-1), (b-2), (b-3), and  
+| (b-4) to read as follows:  
+|  (b) The plan shall provide for the following reappraisal  
+| activities for all real and personal property in the district at  
+| least once every three years _, except as provided by Subsections_  
+| _(b-1), (b-2), (b-3), and (b-4)_ :  
+|  (1) identifying properties to be appraised through  
+| physical inspection or by other reliable means of identification,  
+| including deeds or other legal documentation, aerial photographs,  
+| land-based photographs, surveys, maps, and property sketches;  
+|  (2) identifying and updating relevant characteristics  
+| of each property in the appraisal records;  
+|  (3) defining market areas in the district;  
+|  (4) identifying property characteristics that affect  
+| property value in each market area, including:  
+|  (A) the location and market area of property;  
+|  (B) physical attributes of property, such as  
+| size, age, and condition;  
+|  (C) legal and economic attributes; and  
+|  (D) easements, covenants, leases, reservations,  
+| contracts, declarations, special assessments, ordinances, or legal  
+| restrictions;  
+|  (5) developing an appraisal model that reflects the  
+| relationship among the property characteristics affecting value in  
+| each market area and determines the contribution of individual  
+| property characteristics;  
+|  (6) applying the conclusions reflected in the model to  
+| the characteristics of the properties being appraised; and  
+|  (7) reviewing the appraisal results to determine  
+| value.  
+|  _(b-1)_ _____The plan shall provide for the reappraisal of all real_  
+| _and personal property in the district not more often than once every_  
+| _two years._  
+|  _(b-2)_ _____Notwithstanding Subsection (b-1), at any time during_  
+| _a tax year before the date the chief appraiser submits the completed_  
+| _appraisal records to the appraisal review board under Section_  
+| _25.22, an owner of real or personal property is entitled to a_  
+| _reappraisal of the owner's property for that year on written_  
+| _request delivered to the chief appraiser._  
+|  _(b-3)_ _____Notwithstanding Subsection (b-1), the plan must allow_  
+| _the chief appraiser, for a tax year in which real property is not_  
+| _reappraised, to add to the market value of the property the amount_  
+| _of any increase in the value of the property attributable to an_  
+| _improvement to the property made during the preceding tax year._  
+|  _(b-4)_ _____Subsection (b-1) does not apply to the appraisal of a_  
+| _residence homestead in the tax year in which a limitation on_  
+| _appraised value under Section 23.23(a) expires._  
+|  SECTION 6. Section 403.302(a-1), Government Code, is  
+| repealed.  
+|  SECTION 7. The changes in law made by this Act to Sections  
+| 23.01, 23.013, and 25.18, Tax Code, apply only to the appraisal of  
+| property for a tax year beginning on or after the effective date of  
+| this Act.  
+|  SECTION 8. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

@@ -1,0 +1,67 @@
+| 86R12130 AAF-F  
+---|---  
+|  By: Bernal | H.B. No. 3921  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain contracting requirements for the provision of  
+| broadband Internet access service to governmental entities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 2252, Government Code, is amended by  
+| adding Subchapter H to read as follows:  
+| _SUBCHAPTER H._ ___CONTRACTS WITH CERTAIN INTERNET SERVICE PROVIDERS_  
+|  _Sec. 2252.221. DEFINITIONS. (a)  In this subchapter:_  
+|  _(1)_ _____"Broadband Internet access service" means_  
+| _service, other than dial-up Internet access service, that is:_  
+|  _(A)_ _____a mass-market retail Internet access service_  
+| _provided by wire or radio that enables a person to transmit and_  
+| _receive data between the person's customer premises equipment,_  
+| _including mobile devices, and substantially all Internet_  
+| _endpoints; or_  
+|  _(B)_ _____a service that is incidental to or that_  
+| _enables the operation of the service described in Paragraph (A)._  
+|  _(2)_ _____"Broadband Internet access service provider"_  
+| _means a person that provides broadband Internet access service._  
+|  _(3)_ _____"Governmental entity"_ ___has the meaning assigned by_  
+| _Section 2252.001._  
+|  _(4)_ _____"Paid prioritization" means a broadband Internet_  
+| _access service provider's management of its network to directly or_  
+| _indirectly favor certain traffic over other traffic, including_  
+| _through traffic shaping, prioritization, resource reservation, or_  
+| _other forms of preferential traffic management, either in exchange_  
+| _for consideration from a third party or to benefit an affiliated_  
+| _entity._  
+|  _(b)_ _____For the purposes of this subchapter, broadband Internet_  
+| _access service includes the functional equivalent of a service_  
+| _described by Subsection (a)(1)(A) as determined by the Department_  
+| _of Information Resources._  
+|  _Sec._ ___2252.222._ _____MANAGEMENT._ ___For purposes of Section_  
+| _2252.223, an activity described by Section 2252.223(1) or (2) does_  
+| _not include reasonable network management._ ___A practice is_  
+| _considered to be reasonable network management if the practice:_  
+|  _(1) has a technical network management justification;_  
+|  _(2) does not include other business practices; and_  
+|  _(3)_ _____is tailored to achieve a legitimate network_  
+| _management purpose, taking into account the particular network_  
+| _architecture and technology of the broadband Internet access_  
+| _service._  
+|  _Sec._ ___2252.223._ _____REQUIREMENTS FOR CONTRACTS WITH PROVIDERS._  
+| _A governmental entity may not contract with a broadband Internet_  
+| _access service provider unless the contract contains a written_  
+| _verification from the provider that the provider does not:_  
+|  _(1)_ _____block lawful content, applications, or services or_  
+| _the use of non-harmful devices;_  
+|  _(2)_ _____impair or degrade lawful Internet traffic for the_  
+| _purpose of discriminating against or favoring certain Internet_  
+| _content, applications, or services or the use of non-harmful_  
+| _devices; or_  
+|  _(3) engage in paid prioritization._  
+|  _Sec._ ___2252.224._ _____ENFORCEMENT. The attorney general may bring_  
+| _any action necessary to enforce this subchapter._  
+|  SECTION 2. The changes in law made by this Act apply only to  
+| a contract entered into on or after the effective date of this Act.  
+| A contract entered into before that date is governed by the law in  
+| effect immediately before the effective date of this Act, and the  
+| former law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

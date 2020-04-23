@@ -1,0 +1,62 @@
+| 86R10208 SLB-D  
+---|---  
+|  By: Cyrier | H.B. No. 4568  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the consideration of floodplain maps in the permitting  
+| of certain solid waste facilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 16, Water Code, is amended by adding  
+| Subchapter L to read as follows:  
+| _SUBCHAPTER L. FLOODPLAIN MAPPING_  
+|  _Sec. 16.501. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Local flood map" means a map created and_  
+| _certified under this subchapter._  
+|  _(2)_ _____"Local floodplain manager" means the individual_  
+| _responsible for carrying out a local government's floodplain_  
+| _studies and mapping programs of floodplains, flood-prone areas, and_  
+| _flood-risk zones under Section 16.316._  
+|  _(3)_ _____"National flood map" means a map approved for use_  
+| _in the National Flood Insurance Program._  
+|  _(4)_ _____"Political subdivision" has the meaning assigned_  
+| _by Section 16.313._  
+|  _Sec._ ___16.502._ _____LOCAL FLOOD MAP._ ___A local floodplain manager_  
+| _who has information regarding a floodplain, flood-prone area, or_  
+| _flood-risk zone in the manager's political subdivision that is more_  
+| _recent than the information in the national flood map used in the_  
+| _political subdivision may deliver to the board:_  
+|  _(1)_ _____a local flood map that represents the more recent_  
+| _information;_  
+|  _(2)_ _____information relevant to the creation of the local_  
+| _flood map; and_  
+|  _(3)_ _____a sworn statement that the information represented_  
+| _in the local flood map is accurate to the best of the local_  
+| _floodplain manager's knowledge._  
+|  _Sec._ ___16.503._ _____CERTIFICATION AND PUBLICATION OF LOCAL FLOOD_  
+| _MAP._ ___On receipt of an updated local flood map and sworn statement_  
+| _under Section 16.502, the board shall certify the map and make it_  
+| _available on the board's Internet website._  
+|  _Sec._ ___16.504._ _____LIABILITY. A local floodplain manager is not_  
+| _personally liable for damages arising from the use of information_  
+| _in a local flood map._  
+|  _Sec._ ___16.505._ _____RULES. The board shall adopt rules to_  
+| _implement this subchapter._  
+|  SECTION 2. Subchapter C, Chapter 361, Health and Safety  
+| Code, is amended by adding Section 361.1235 to read as follows:  
+|  _Sec._ ___361.1235._ _____MUNICIPAL SOLID WASTE LANDFILLS AND TRANSFER_  
+| _STATIONS IN FLOODPLAIN. (a)_ ___In this section, "local flood map" has_  
+| _the meaning assigned by Section 16.501, Water Code._  
+|  _(b)_ _____The commission shall consider a local flood map in_  
+| _determining whether to issue a permit for a municipal solid waste_  
+| _landfill or transfer station to be located in a floodplain._  
+|  SECTION 3. Section 361.1235, Health and Safety Code, as  
+| added by this Act, applies only to an application for a municipal  
+| solid waste permit that is filed with the Texas Commission on  
+| Environmental Quality on or after the effective date of this Act.  
+| An application for a municipal solid waste permit that is pending on  
+| the effective date of this Act is governed by the law in effect at  
+| the time the application was filed, and the former law is continued  
+| in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

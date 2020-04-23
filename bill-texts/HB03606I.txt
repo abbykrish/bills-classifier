@@ -1,0 +1,496 @@
+| 86R7984 CLG-F  
+---|---  
+|  By: Martinez Fischer | H.B. No. 3606  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to ratification of defective corporate acts of nonprofit  
+| corporations.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 22, Business Organizations Code, is  
+| amended by adding Subchapter J to read as follows:  
+| _SUBCHAPTER J. RATIFICATION OF DEFECTIVE CORPORATE ACTS;_  
+| _PROCEEDINGS_  
+|  _Sec. 22.501. DEFINITIONS.  In this subchapter:_  
+|  _(1)_ _____"Corporate statute," with respect to an action or_  
+| _filing, means this code, the former Texas Non-Profit Corporation_  
+| _Act (Article 1396-1.01 et seq., Vernon's Texas Civil Statutes), or_  
+| _any predecessor statute of this state that governed the action or_  
+| _the filing._  
+|  _(2) "Defective corporate act" means:_  
+|  _(A)_ _____an election or appointment of directors that_  
+| _is void or voidable due to a failure of authorization; or_  
+|  _(B)_ _____any act or transaction purportedly taken by_  
+| _or on behalf of the corporation that is, and at the time the act or_  
+| _transaction was purportedly taken would have been, within the power_  
+| _of a corporation to take under the corporate statute, but is void or_  
+| _voidable due to a failure of authorization._  
+|  _(3) "District court" means a district court in:_  
+|  _(A)_ _____the county in which the corporation's_  
+| _principal office in this state is located; or_  
+|  _(B)_ _____the county in which the corporation's_  
+| _registered office in this state is located, if the corporation does_  
+| _not have a principal office in this state._  
+|  _(4) "Failure of authorization" means:_  
+|  _(A)_ _____the failure to authorize or effect an act or_  
+| _transaction in compliance with the provisions of the corporate_  
+| _statute, the governing documents of the corporation, a corporate_  
+| _resolution, or any plan or agreement to which the corporation is a_  
+| _party, if and to the extent the failure would render the act or_  
+| _transaction void or voidable; or_  
+|  _(B)_ _____the failure of the board of directors or an_  
+| _officer of the corporation to authorize or approve an act or_  
+| _transaction taken by or on behalf of the corporation that required_  
+| _the prior authorization or approval of the board of directors or the_  
+| _officer._  
+|  _(5)_ _____"Time of the defective corporate act" means the_  
+| _date and time the defective corporate act was purported to have been_  
+| _taken or the approximate date and time, if the exact date is_  
+| _unknown._  
+|  _(6)_ _____"Validation effective time" or "effective time of_  
+| _the validation," with respect to any defective corporate act_  
+| _ratified under this subchapter, means the latest of:_  
+|  _(A)_ _____the time at which the defective corporate act_  
+| _submitted to the members for approval under Section 22.505 is_  
+| _approved by the members or, if the corporation has no members or_  
+| _has no members with voting rights or if no member approval is_  
+| _required, the time at which the board of directors adopts the_  
+| _resolutions required by Section 22.503;_  
+|  _(B)_ _____if a certificate of validation is not_  
+| _required to be filed under Section 22.508, the time, if any,_  
+| _specified by the board of directors or the members in the_  
+| _resolutions adopted under Section 22.503, which may not precede the_  
+| _time at which the resolutions are adopted; or_  
+|  _(C)_ _____the time at which any certificate of_  
+| _validation filed under Section 22.508 takes effect in accordance_  
+| _with Chapter 4._  
+|  _Sec._ ___22.502._ _____RATIFICATION OF DEFECTIVE CORPORATE_  
+| _ACT._ _____Subject to Section 22.509, a defective corporate act is not_  
+| _void or voidable solely as a result of a failure of authorization if_  
+| _the act is:_  
+|  _(1) ratified in accordance with this subchapter; or_  
+|  _(2)_ _____validated by the district court in a proceeding_  
+| _brought under Section 22.512._  
+|  _Sec._ ___22.503._ _____RATIFICATION OF DEFECTIVE CORPORATE ACT;_  
+| _ADOPTION OF RESOLUTIONS._ _____(a)_ _____To ratify one or more defective_  
+| _corporate acts, the board of directors of the corporation shall_  
+| _adopt resolutions stating:_  
+|  _(1)_ _____the defective corporate act or acts to be_  
+| _ratified;_  
+|  _(2) the date of each defective corporate act;_  
+|  _(3)_ _____the nature of the failure of authorization with_  
+| _respect to each defective corporate act to be ratified; and_  
+|  _(4)_ _____that the board of directors approves the_  
+| _ratification of the defective corporate act or acts._  
+|  _(b)_ _____If the corporation has members with voting rights, a_  
+| _resolution may also state that, notwithstanding member approval of_  
+| _the ratification of a defective corporate act that is a subject of_  
+| _the resolution, the board of directors may, with respect to the_  
+| _defective corporate act, abandon the ratification of the defective_  
+| _corporate act at any time before the validation effective time_  
+| _without further member action._  
+|  _(c)_ _____If the management of the affairs of the corporation is_  
+| _vested in its members under Section 22.202, the members of the_  
+| _corporation shall adopt resolutions stating:_  
+|  _(1)_ _____the defective corporate act or acts to be_  
+| _ratified;_  
+|  _(2) the date of each defective corporate act;_  
+|  _(3)_ _____the nature of the failure of authorization with_  
+| _respect to each corporate act to be ratified; and_  
+|  _(4)_ _____that the members approve the ratification of the_  
+| _defective corporate act or acts._  
+|  _Sec._ ___22.504._ _____QUORUM AND VOTING REQUIREMENTS FOR ADOPTION OF_  
+| _RESOLUTIONS._ ___(a)_ ___The quorum and voting requirements applicable to_  
+| _the adoption of the resolutions to ratify a defective corporate act_  
+| _under Section 22.503 are the same as the quorum and voting_  
+| _requirements applicable at the time of the adoption of the_  
+| _resolutions for the type of defective corporate act proposed to be_  
+| _ratified._  
+|  _(b)_ _____Notwithstanding Subsection (a) and except as provided_  
+| _by Subsection (c), if in order for a quorum to be present or to_  
+| _approve the defective corporate act, the presence or approval of a_  
+| _larger number or portion of the governing authority would have been_  
+| _required by the governing documents of the corporation, any plan or_  
+| _agreement to which the corporation was a party, or any provision of_  
+| _the corporate statute, each as in effect at the time of the_  
+| _defective corporate act, then the presence or approval of the_  
+| _larger number or portion of such governing authority must be_  
+| _required for a quorum to be present or to adopt the resolutions to_  
+| _ratify the defective corporate act, as applicable._  
+|  _(c)_ _____If the corporation has members with voting rights or if_  
+| _the corporation had members with voting rights at the time of the_  
+| _taking of the defective corporate act, the presence or approval of_  
+| _any director elected, appointed, or nominated by a class of members_  
+| _that no longer exists, or by any person that is no longer a member,_  
+| _shall not be required for a quorum to be present or to adopt the_  
+| _resolutions._  
+|  _Sec._ ___22.505._ _____APPROVAL OF RATIFIED DEFECTIVE CORPORATE ACT_  
+| _BY MEMBERS WITH VOTING RIGHTS REQUIRED; EXCEPTION._ ___If the_  
+| _corporation has members with voting rights, each defective_  
+| _corporate act ratified under Section 22.503(a) must be submitted to_  
+| _such members of the corporation for approval as provided by_  
+| _Sections 22.506 and 22.507, unless no other provision of the_  
+| _corporate statute, no provision of the corporation's governing_  
+| _documents, and no provision of any plan or agreement to which the_  
+| _corporation is a party would have required approval by such members_  
+| _of:_  
+|  _(1)_ _____the defective corporate act to be ratified at the_  
+| _time of that defective corporate act; or_  
+|  _(2)_ _____the type of defective corporate act to be ratified_  
+| _at the time the board of directors adopts the resolutions ratifying_  
+| _that defective corporate act under Section 22.503._  
+|  _Sec._ ___22.506._ _____NOTICE REQUIREMENTS FOR RATIFIED DEFECTIVE_  
+| _CORPORATE ACT SUBMITTED FOR APPROVAL OF MEMBERS WITH VOTING RIGHTS._ __  
+| _(a)_ ___If a corporation has members with voting rights and if the_  
+| _ratification of a defective corporate act is required to be_  
+| _submitted to such members for approval under Section 22.505, notice_  
+| _of the time, place, if any, and purpose of the meeting shall be_  
+| _given at least 20 days before the date of the meeting to:_  
+|  _(1)_ _____each member with voting rights as of the record_  
+| _date of the meeting, at the address of the member as it appears or_  
+| _most recently appeared, as appropriate, on the corporation's_  
+| _records; and_  
+|  _(2)_ _____each member with voting rights as of the time of_  
+| _the defective corporate act, except that notice is not required to_  
+| _be given to a member whose identity or address cannot be ascertained_  
+| _from the corporation's records._  
+|  _(b) The notice must contain:_  
+|  _(1)_ _____copies of the resolutions adopted by the board of_  
+| _directors under Section 22.503 or the information required by_  
+| _Sections 22.503(a)(1)-(4); and_  
+|  _(2)_ _____a statement that, on member approval of the_  
+| _ratification of the defective corporate act made in accordance with_  
+| _this subchapter, the member's right to challenge the defective_  
+| _corporate act is limited to an action claiming that a court of_  
+| _appropriate jurisdiction, in its discretion, should declare:_  
+|  _(A)_ _____that the ratification not take effect or that_  
+| _it take effect only on certain conditions, if that action is filed_  
+| _with the court not later than the 120th day after the applicable_  
+| _validation effective time; or_  
+|  _(B)_ _____that the ratification was not accomplished in_  
+| _accordance with this subchapter._  
+|  _Sec._ ___22.507._ _____QUORUM AND VOTING FOR APPROVAL OF RATIFIED_  
+| _DEFECTIVE CORPORATE ACT AT MEETING OF MEMBERS WITH VOTING RIGHTS._ __  
+| _(a)_ ___If the corporation has members with voting rights, at the_  
+| _meeting of such members, the quorum and voting requirements_  
+| _applicable to the approval of the ratification of a defective_  
+| _corporate act under Section 22.505 are the same as the quorum and_  
+| _voting requirements applicable at the time of the approval by the_  
+| _members of the ratification for the type of ratified defective_  
+| _corporate act proposed to be approved, except as provided by this_  
+| _section._  
+|  _(b)_ _____If the presence or approval of a larger number of_  
+| _members or of any class of members would have been required for a_  
+| _quorum to be present or to approve the defective corporate act, as_  
+| _applicable, by the corporation's governing documents, any plan or_  
+| _agreement to which the corporation was a party, or any provision of_  
+| _the corporate statute, each as in effect at the time of the_  
+| _defective corporate act, then the presence or approval of the_  
+| _larger number of members or of the class of members shall be_  
+| _required for a quorum to be present or to approve the ratification_  
+| _of the defective corporate act, as applicable, except that the_  
+| _presence or approval of any class that is no longer in existence or_  
+| _has no members, or of any person that is no longer a member with_  
+| _voting rights, is not required._  
+|  _(c)_ _____The approval by the members with voting rights of the_  
+| _ratification of the election of a director requires the affirmative_  
+| _vote of the majority of members present at the meeting and entitled_  
+| _to vote on the election of the director at the time of the approval,_  
+| _unless the governing documents of the corporation then in effect or_  
+| _in effect at the time of the defective election require or required_  
+| _a larger number of members with voting rights or of any class of_  
+| _members with voting rights to elect the director, in which case the_  
+| _affirmative vote of the larger number of members or of the class of_  
+| _members is required to ratify the election of the director, except_  
+| _that the presence or approval of any class that is no longer in_  
+| _existence or has no members, or of any person that is no longer a_  
+| _member with voting rights, is not required._  
+|  _Sec._ ___22.508._ _____CERTIFICATE OF VALIDATION._ ___(a)_ ___If a
+defective_  
+| _corporate act ratified under this subchapter would have required_  
+| _under any other provision of the corporate statute the filing of a_  
+| _filing instrument or other document with the filing officer, the_  
+| _corporation shall file a certificate of validation with respect to_  
+| _the defective corporate act in accordance with Chapter 4,_  
+| _regardless of whether a filing instrument or other document was_  
+| _previously filed with respect to the defective corporate act. The_  
+| _filing of another filing instrument or document is not required._  
+|  _(b)_ _____A separate certificate of validation is required for_  
+| _each defective corporate act for which a certificate of validation_  
+| _is required under this section, except that two or more defective_  
+| _corporate acts may be included in a single certificate of_  
+| _validation if the corporation filed, or to comply with the_  
+| _applicable provisions of this code could have filed, a single_  
+| _filing instrument or other document under another provision of this_  
+| _code to effect the acts._  
+|  _(c) The certificate of validation must include:_  
+|  _(1)_ _____each defective corporate act that is a subject of_  
+| _the certificate of validation, including:_  
+|  _(A) the date of the defective corporate act; and_  
+|  _(B)_ _____the nature of the failure of authorization_  
+| _with respect to the defective corporate act;_  
+|  _(2)_ _____a statement that each defective corporate act was_  
+| _ratified in accordance with this subchapter, including:_  
+|  _(A)_ _____the date on which the board of directors_  
+| _ratified each defective corporate act; and_  
+|  _(B)_ _____if the corporation has members with voting_  
+| _rights, the date, if any, on which the members approved the_  
+| _ratification of each defective corporate act or, if the management_  
+| _of the affairs of the corporation is vested in its members under_  
+| _Section 22.202, the date on which the members ratified each_  
+| _defective corporate act; and_  
+|  _(3) as appropriate:_  
+|  _(A)_ _____if a filing instrument was previously filed_  
+| _with a filing officer under the corporate statute with respect to_  
+| _the defective corporate act and no change to the filing instrument_  
+| _is required to give effect to the defective corporate act as_  
+| _ratified in accordance with this subchapter:_  
+|  _(i)_ _____the name, title, and filing date of the_  
+| _previously filed filing instrument and of any certificate of_  
+| _correction to the filing instrument; and_  
+|  _(ii)_ _____a statement that a copy of the_  
+| _previously filed filing instrument, together with any certificate_  
+| _of correction to the filing instrument, is attached as an exhibit to_  
+| _the certificate of validation;_  
+|  _(B)_ _____if a filing instrument was previously filed_  
+| _with a filing officer under the corporate statute with respect to_  
+| _the defective corporate act and the filing instrument requires any_  
+| _change to give effect to the defective corporate act as ratified in_  
+| _accordance with this subchapter, including a change to the date and_  
+| _time of the effectiveness of the filing instrument:_  
+|  _(i)_ _____the name, title, and filing date of the_  
+| _previously filed filing instrument and of any certificate of_  
+| _correction to the filing instrument;_  
+|  _(ii)_ _____a statement that a filing instrument_  
+| _containing all the information required to be included under the_  
+| _applicable provisions of this code to give effect to the ratified_  
+| _defective corporate act is attached as an exhibit to the_  
+| _certificate of validation; and_  
+|  _(iii)_ _____the date and time that the attached_  
+| _filing instrument is considered to have become effective under this_  
+| _subchapter; or_  
+|  _(C)_ _____if a filing instrument was not previously_  
+| _filed with a filing officer under the corporate statute with_  
+| _respect to the defective corporate act and the defective corporate_  
+| _act as ratified under this subchapter would have required under the_  
+| _other applicable provisions of this code the filing of a filing_  
+| _instrument in accordance with Chapter 4, if the defective corporate_  
+| _act had occurred when this code was in effect:_  
+|  _(i)_ _____a statement that a filing instrument_  
+| _containing all the information required to be included under the_  
+| _applicable provisions of this code to give effect to the defective_  
+| _corporate act, as if the defective corporate act had occurred when_  
+| _this code was in effect, is attached as an exhibit to the_  
+| _certificate of validation; and_  
+|  _(ii)_ _____the date and time that the attached_  
+| _filing instrument is considered to have become effective under this_  
+| _subchapter._  
+|  _(d)_ _____A filing instrument attached to a certificate of_  
+| _validation under Subsection (c)(3)(B) or (C) does not need to be_  
+| _executed separately and does not need to include any statement_  
+| _required by any other provision of this code that the instrument has_  
+| _been approved and adopted in accordance with that provision._  
+|  _Sec._ ___22.509._ _____ADOPTION OF RESOLUTIONS; EFFECT ON DEFECTIVE_  
+| _CORPORATE ACT._ _____On or after the validation effective time, unless_  
+| _determined otherwise in an action brought under Section 22.512,_  
+| _each defective corporate act ratified in accordance with this_  
+| _subchapter may not be considered void or voidable as a result of the_  
+| _failure of authorization described by the resolutions adopted under_  
+| _Sections 22.503 and 22.504, and the effect shall be retroactive to_  
+| _the time of the defective corporate act._  
+|  _Sec._ ___22.510._ _____NOTICE TO MEMBERS FOLLOWING RATIFICATION OF_  
+| _DEFECTIVE CORPORATE ACT._ _____(a)_ _____If the management of the affairs
+of_  
+| _a corporation is vested in its members under Section 22.202 or if a_  
+| _corporation has members with voting rights, for each defective_  
+| _corporate act ratified by the governing authority under Sections_  
+| _22.503 and 22.504, notice of the ratification shall be given_  
+| _promptly to:_  
+|  _(1)_ _____each member having voting rights as of the date the_  
+| _governing authority adopted the resolutions ratifying the_  
+| _defective corporate act; or_  
+|  _(2)_ _____each member having voting rights as of a date not_  
+| _later than the 60th day after the date of adoption, as established_  
+| _by the governing authority._  
+|  _(b)_ _____Notice under this section shall be sent to the address_  
+| _of a member described by Subsection (a)(1) or (a)(2) as the address_  
+| _appears or most recently appeared, as appropriate, on the records_  
+| _of the corporation._  
+|  _(c)_ _____Notice under this section shall also be given to each_  
+| _member having voting rights as of the time of the defective_  
+| _corporate act, except that notice is not required to be given to a_  
+| _member whose identity or address cannot be ascertained from the_  
+| _corporation's records._  
+|  _(d) The notice must contain:_  
+|  _(1)_ _____copies of the resolutions adopted by the governing_  
+| _authority under Section 22.503 or the information required by_  
+| _Section 22.503(a)(1)-(4) or 22.503(c)(1)-(4), as applicable; and_  
+|  _(2)_ _____a statement that, on ratification of the defective_  
+| _corporate act made in accordance with this subchapter, the member's_  
+| _right to challenge the defective corporate act is limited to an_  
+| _action claiming that a court of appropriate jurisdiction, in its_  
+| _discretion, should declare:_  
+|  _(A)_ _____that the ratification not take effect or that_  
+| _it take effect only on certain conditions, if the action is filed_  
+| _not later than the 120th day after the later of the applicable_  
+| _validation effective time or the time at which the notice required_  
+| _by this section is given; or_  
+|  _(B)_ _____that the ratification was not accomplished in_  
+| _accordance with this subchapter._  
+|  _(e)_ _____Notwithstanding Subsections (a)-(d), notice is not_  
+| _required to be given under this section to a person if notice of the_  
+| _ratification of the defective corporate act is given to that person_  
+| _in accordance with Section 22.506._  
+|  _(f)_ _____For purposes of Sections 22.505, 22.506, and 22.507 and_  
+| _this section, notice to members with voting rights as of the time of_  
+| _the defective corporate act shall be treated as notice to such_  
+| _members for purposes of Sections 6.051, 6.052, 6.053, 6.201, 6.202,_  
+| _6.203, 6.204, 6.205, and 22.156._  
+|  _(g)_ _____If the ratification of a defective corporate act has_  
+| _been approved by the members acting under Section 6.202, the notice_  
+| _required by this section may be included in any notice required to_  
+| _be given under Section 6.202(d) and, if included:_  
+|  _(1)_ _____shall be sent to the members entitled to the notice_  
+| _under Section 6.202(d) and all other members otherwise entitled to_  
+| _the notice under Subsection (a); and_  
+|  _(2)_ _____is not required to be sent to members who signed a_  
+| _consent described by Section 6.202(b)._  
+|  _Sec._ ___22.511._ _____RATIFICATION PROCEDURES OR COURT PROCEEDINGS_  
+| _CONCERNING VALIDATION NOT EXCLUSIVE._ ___(a)_ ___Ratification of an act or_  
+| _transaction under this subchapter or validation of an act or_  
+| _transaction as provided by Sections 22.512 through 22.515 is not_  
+| _the exclusive means of ratifying or validating any act or_  
+| _transaction taken by or on behalf of the corporation, including any_  
+| _defective corporate act, or of adopting or endorsing any act or_  
+| _transaction taken by or in the name of the corporation before the_  
+| _corporation exists._  
+|  _(b)_ _____The absence or failure of ratification of an act or_  
+| _transaction in accordance with this subchapter or of validation of_  
+| _an act or transaction as provided by Sections 22.512 through 22.515_  
+| _does not, of itself, affect the validity or effectiveness of any act_  
+| _or transaction properly ratified under common law or otherwise, nor_  
+| _does it create a presumption that any such act or transaction is or_  
+| _was a defective corporate act._  
+|  _Sec._ ___22.512._ _____PROCEEDING REGARDING VALIDITY OF DEFECTIVE_  
+| _CORPORATE ACTS._ _____(a)_ _____The following may bring an action under
+this_  
+| _section:_  
+|  _(1) the corporation;_  
+|  _(2) any successor entity to the corporation;_  
+|  _(3)_ _____any member of the corporation's board of_  
+| _directors;_  
+|  _(4) any member with voting rights;_  
+|  _(5)_ _____any record member with voting rights as of the time_  
+| _a defective corporate act was ratified in accordance with this_  
+| _subchapter; or_  
+|  _(6)_ _____any other person claiming to be substantially and_  
+| _adversely affected by a ratification under this subchapter._  
+|  _(b)_ _____Subject to Section 22.515, the district court, on_  
+| _application by a person described by Subsection (a), may:_  
+|  _(1)_ _____determine the validity and effectiveness of any_  
+| _defective corporate act ratified in accordance with this_  
+| _subchapter;_  
+|  _(2)_ _____determine the validity and effectiveness of the_  
+| _ratification of any defective corporate act in accordance with this_  
+| _subchapter;_  
+|  _(3) determine the validity and effectiveness of:_  
+|  _(A)_ _____any defective corporate act not ratified_  
+| _under this subchapter; or_  
+|  _(B)_ _____any defective corporate act not ratified_  
+| _effectively under this subchapter;_  
+|  _(4)_ _____determine the validity of any corporate act or_  
+| _transaction; and_  
+|  _(5)_ _____modify or waive any of the procedures set forth in_  
+| _Sections 22.501 through 22.511 to ratify a defective corporate act._  
+|  _(c)_ _____In connection with an action brought under this section,_  
+| _the district court may:_  
+|  _(1)_ _____declare that a ratification in accordance with and_  
+| _pursuant to this subchapter is not effective or that the_  
+| _ratification is effective only at a time or on conditions as_  
+| _specified by the district court;_  
+|  _(2)_ _____validate and declare effective any defective_  
+| _corporate act and impose conditions on such a validation;_  
+|  _(3)_ _____require measures to remedy or avoid harm to any_  
+| _person substantially and adversely affected by a ratification under_  
+| _this subchapter or from any order of the district court pursuant to_  
+| _this section, excluding any harm that would have resulted had the_  
+| _defective corporate act been valid when approved or effectuated;_  
+|  _(4)_ _____order the filing officer to accept for filing an_  
+| _instrument with an effective date and time as specified by the_  
+| _court, which may be before or subsequent to the time of the order;_  
+|  _(5)_ _____if the corporation has members with voting rights,_  
+| _order that a meeting of such members be held and determine the right_  
+| _and power of persons to vote at the meeting;_  
+|  _(6)_ _____declare that a defective corporate act validated_  
+| _by the court is effective as of the time of the defective corporate_  
+| _act or at such other time as determined by the court; and_  
+|  _(7)_ _____make any other order regarding such matters as the_  
+| _court considers appropriate under the circumstances._  
+|  _(d)_ _____In connection with the resolution of matters under_  
+| _Subsections (b) and (c), the district court may consider:_  
+|  _(1)_ _____whether the defective corporate act was originally_  
+| _approved or effectuated with the belief that the approval or_  
+| _effectuation was in compliance with the provisions of the corporate_  
+| _statute or the governing documents of the corporation;_  
+|  _(2)_ _____whether the corporation and the corporation's_  
+| _board of directors have treated the defective corporate act as a_  
+| _valid act or transaction and whether any person has acted in_  
+| _reliance on the public record that the defective corporate act was_  
+| _valid;_  
+|  _(3)_ _____whether any person will be or was harmed by the_  
+| _ratification or validation of the defective corporate act,_  
+| _excluding any harm that would have resulted had the defective_  
+| _corporate act been valid when it was approved or took effect;_  
+|  _(4)_ _____whether any person will be harmed by the failure to_  
+| _ratify or validate the defective corporate act; and_  
+|  _(5)_ _____any other factors or considerations the district_  
+| _court considers just and equitable._  
+|  _Sec._ ___22.513._ _____EXCLUSIVE JURISDICTION._ ___The district court_  
+| _has exclusive jurisdiction to hear and determine any action brought_  
+| _under Section 22.512._  
+|  _Sec._ ___22.514._ _____SERVICE._ _____(a)_ ___Service of an application
+filed_  
+| _under Section 22.512 on the registered agent of a corporation or in_  
+| _any other manner permitted by applicable law is considered to be_  
+| _service on the corporation, and no other party need be joined in_  
+| _order for the district court to adjudicate the matter._  
+|  _(b)_ _____If an action is brought by a corporation under Section_  
+| _22.512, the district court may require that notice of the action be_  
+| _provided to other persons identified by the court and permit those_  
+| _other persons to intervene in the action._  
+|  _Sec._ ___22.515._ _____STATUTE OF LIMITATIONS._ ___(a)_ ___This section
+does_  
+| _not apply to:_  
+|  _(1)_ _____an action asserting that a ratification was not_  
+| _accomplished in accordance with this subchapter; or_  
+|  _(2)_ _____any person to whom notice of the ratification was_  
+| _not given as required by Sections 22.506 and 22.510._  
+|  _(b) Notwithstanding any other provision of this subchapter:_  
+|  _(1)_ _____an action claiming that a defective corporate act_  
+| _is void or voidable due to a failure of authorization identified in_  
+| _the resolutions adopted in accordance with Section 22.503 may not_  
+| _be filed in or must be dismissed by any court after the applicable_  
+| _validation effective time; and_  
+|  _(2)_ _____an action claiming that a court of appropriate_  
+| _jurisdiction, in its discretion, should declare that a ratification_  
+| _in accordance with this subchapter not take effect or that the_  
+| _ratification take effect only on certain conditions may not be_  
+| _filed with the court after the expiration of the 120th day after the_  
+| _later of the validation effective time or the time that any notice_  
+| _required to be given under Section 22.510 is given with respect to_  
+| _the ratification._  
+|  _(c)_ _____Except as otherwise provided by a corporation's_  
+| _governing documents, for purposes of this section, notice under_  
+| _Section 22.510 that is:_  
+|  _(1)_ _____mailed is considered to be given on the date the_  
+| _notice is deposited in the United States mail with postage paid in_  
+| _an envelope addressed to the member at the member's address_  
+| _appearing or most recently appearing, as appropriate, in the_  
+| _records of the corporation; and_  
+|  _(2)_ _____transmitted by facsimile or electronic message is_  
+| _considered to be given when the facsimile or electronic message is_  
+| _transmitted to a facsimile number or an electronic message address_  
+| _provided by the member, or to which the member consents, for the_  
+| _purpose of receiving notice._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

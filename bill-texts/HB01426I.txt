@@ -1,0 +1,21 @@
+| 86R5411 SRA-D  
+---|---  
+|  By: Guerra | H.B. No. 1426  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to mobile Internet service access in an area subject to a  
+| declared state of disaster.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter H, Chapter 418, Government Code, is  
+| amended by adding Section 418.194 to read as follows:  
+|  _Sec._ ___418.194._ _____MOBILE INTERNET SERVICE IN AREA SUBJECT TO_  
+| _DISASTER DECLARATION. (a)_ ___In this section, "mobile Internet_  
+| _service provider" means a person who provides mobile Internet_  
+| _service to a wireless communication device as defined by Section_  
+| _545.425, Transportation Code._  
+|  _(b)_ _____A mobile Internet service provider may not impair or_  
+| _degrade lawful mobile Internet service access in an area subject to_  
+| _a declared state of disaster under Section 418.014._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

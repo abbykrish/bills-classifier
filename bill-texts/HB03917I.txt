@@ -1,0 +1,169 @@
+| 86R6641 TJB-F  
+---|---  
+|  By: Wray | H.B. No. 3917  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the collection of delinquent ad valorem taxes.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 31.06, Tax Code, is amended by amending  
+| Subsection (a) and adding Subsection (e) to read as follows:  
+|  (a) Except as provided by Section 31.061, taxes are payable  
+| only as provided by this section. _Except as provided by Subsection_  
+| _(e), a_ [ ~~A~~ ] collector shall accept United States currency or a check  
+| or money order in payment of taxes and shall accept payment by  
+| credit card or electronic funds transfer.  
+|  _(e)_ _____A collector may adopt a written policy that requires_  
+| _payment of taxes, penalties, interest, attorney's fees, court_  
+| _costs, and other costs and expenses, including costs and expenses_  
+| _under Section 33.48, only with United States currency, a cashier's_  
+| _check, or a certified check if the payment relates to:_  
+|  _(1)_ _____personal property seized under Subchapter B,_  
+| _Chapter 33;_  
+|  _(2)_ _____property subject to an order of sale under_  
+| _Subchapter C, Chapter 33; or_  
+|  _(3)_ _____real property seized under Subchapter E, Chapter_  
+| _33._  
+|  SECTION 2. Section 33.56, Tax Code, is amended by amending  
+| Subsections (c), (d), (e), and (f) and adding Subsection (g) to read  
+| as follows:  
+|  (c) _If_ [ ~~The taxing unit may not file a petition if~~ ] a tax  
+| sale of the property _subject to a petition filed under this section_  
+| has _not_ occurred _, a copy of the petition must be served in a manner_  
+| _authorized by Rule 21a, Texas Rules of Civil Procedure, on each_  
+| _party named in the judgment for foreclosure of the tax lien on the_  
+| _property. The court in which the petition is filed may grant the_  
+| _petition only if no party named in the judgment files an objection_  
+| _to granting the petition with the court on or before the 30th day_  
+| _after the date the notice is served on each party_ [ ~~unless:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the tax sale has been vacated by an order of a~~  
+|  ~~court;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the property was bid off to a taxing unit under~~  
+|  ~~Section 34.01(j) and has not been resold; or~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~the tax sale or resale purchaser, or the~~  
+|  ~~purchaser's heirs, successors, or assigns, consents to the~~  
+|  ~~petition~~ ].  
+|  (d) _If a tax sale of the property subject to a petition filed_  
+| _under this section has occurred, the court in which the petition is_  
+| _filed must conduct a hearing on the petition unless the purchaser of_  
+| _the property at the tax sale or from the taxing unit to which the_  
+| _property was bid off, as applicable, consents to the court's_  
+| _granting of the petition_ [ ~~Consent of the purchaser to a petition may~~  
+|  ~~be shown by:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~a written memorandum signed by the purchaser and~~  
+|  ~~filed with the court;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the purchaser's joinder in the taxing unit's~~  
+|  ~~petition;~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~a statement of the purchaser made in open court on~~  
+|  ~~the record in a hearing on the petition; or~~  
+|  [ ~~(4)~~ ~~~~ ~~~~ ~~the purchaser's signature of approval to an~~  
+|  ~~agreed order to grant the petition~~ ].  
+|  (e) _For the purpose of Subsection (d), the consent of a_  
+| _purchaser may be demonstrated by:_  
+|  _(1)_ _____a written memorandum or answer of the purchaser_  
+| _filed with the court;_  
+|  _(2) the purchaser's joinder in the petition; or_  
+|  _(3)_ _____the signature of the purchaser to an agreed order_  
+| _to grant the petition_ [ ~~A copy of the petition must be served in a~~  
+|  ~~manner authorized by Rule 21a, Texas Rules of Civil Procedure, on~~  
+|  ~~each party to the delinquent tax suit~~ ].  
+|  (f) If the _purchaser does not consent to the granting of a_  
+| _petition filed under this section, a copy of the petition shall be_  
+| _served on the purchaser in:_  
+|  _(1)_ _____the manner provided by Rule 106, Texas Rules of_  
+| _Civil Procedure; or_  
+|  _(2)_ _____a manner provided by the Civil Practice and_  
+| _Remedies Code, the Business Organizations Code, or the Estates_  
+| _Code._  
+|  _(g) If a_ court grants _a_ [ ~~the~~ ] petition _filed under this_  
+| _section_ , the court shall enter an order providing that:  
+|  (1) the judgment, any tax sale based on that judgment,  
+| and any subsequent resale are vacated;  
+|  (2) any applicable tax deed or applicable resale deed  
+| is canceled;  
+|  (3) the delinquent tax suit is revived; [ ~~and~~ ]  
+|  (4) except in a case in which judgment is vacated under  
+| Subsection (a)(4), the taxes, penalties, interest, and attorney's  
+| fees and costs, and the liens that secure each of those items, are  
+| reinstated _; and_  
+|  _(5)_ _____if the property subject to the petition has been_  
+| _sold at a tax sale or by the taxing unit to which the property was_  
+| _bid off, the purchaser is refunded the amount paid for the property_  
+| _at the sale or to the taxing unit not later than the 60th day after_  
+| _the date the order is signed_.  
+|  SECTION 3. Section 34.01, Tax Code, is amended by amending  
+| Subsections (a), (b), (f), and (r) and adding Subsection (r-3) to  
+| read as follows:  
+|  (a) Real _or personal_ property seized under a tax warrant  
+| issued under Subchapter _B or_ E, Chapter 33, or ordered sold pursuant  
+| to _a judgment for_ foreclosure of a tax lien shall be sold by the  
+| officer charged with selling the property, unless otherwise  
+| directed by the taxing unit that requested the warrant or order of  
+| sale or by an authorized agent or attorney for that unit. The sale  
+| shall be conducted in the manner similar property is sold under  
+| execution except as otherwise provided by this subtitle.  
+|  (b) On receipt of an order of sale of real _or personal_  
+| property, the officer charged with selling the property shall  
+| endorse on the order the date and exact time when the officer  
+| received the order. The endorsement is a levy on the property  
+| without necessity for going upon the ground. The officer shall  
+| calculate the total amount due under the judgment, including all  
+| taxes, penalties, and interest, plus any other amount awarded by  
+| the judgment, court costs, and the costs of the sale. The costs of a  
+| sale include the costs of advertising, and _any_ deed recording fees  
+| anticipated to be paid in connection with the sale of the property.  
+| To assist the officer in making the calculation, the collector of  
+| any taxing unit that is party to the judgment may provide the  
+| officer with a certified tax statement showing the amount of the  
+| taxes included in the judgment that remain due that taxing unit and  
+| all penalties, interest, and attorney's fees provided by the  
+| judgment as of the date of the proposed sale. If a certified tax  
+| statement is provided to the officer, the officer shall rely on the  
+| amount included in the statement and is not responsible or liable  
+| for the accuracy of the applicable portion of the calculation. A  
+| certified tax statement is not required to be sworn to and is  
+| sufficient if the tax collector or the collector's deputy signs the  
+| statement.  
+|  (f) A notice of sale _of real property_ is not required to  
+| include field notes describing the property. A description of the  
+| property is sufficient if the notice:  
+|  (1) states the number of acres and identifies the  
+| original survey;  
+|  (2) as to property located in a platted subdivision or  
+| addition, regardless of whether the subdivision or addition is  
+| recorded, states the name by which the land is generally known with  
+| reference to that subdivision or addition; or  
+|  (3) by reference adopts the description of the  
+| property contained in the judgment.  
+|  (r) Except as provided by Subsection (a-1) and this  
+| subsection, a sale of real property under this section must take  
+| place at the county courthouse in the county in which the _real_  
+| _property_ [ ~~land~~ ] is located.  The commissioners court of the county  
+| may designate an area other than an area at the county courthouse  
+| where sales under this section will take place that is in a public  
+| place within a reasonable proximity of the county courthouse as  
+| determined by the commissioners court and in a location as  
+| accessible to the public as the courthouse door.  The commissioners  
+| court shall record that designation in the real property records of  
+| the county.  A designation by a commissioners court under this  
+| section is not a ground for challenging or invalidating any sale.  A  
+| sale must be held at an area designated under this subsection if the  
+| sale is held on or after the 90th day after the date the designation  
+| is recorded.  
+|  _(r-3)_ _____Notwithstanding Subsection (r), the sale of personal_  
+| _property, including a manufactured home, may be conducted at the_  
+| _same place as the sale of real property under Subsection (r) or at_  
+| _the location of the personal property._  
+|  SECTION 4. Section 33.56, Tax Code, as amended by this Act,  
+| applies only to a petition to vacate a judgment for foreclosure of a  
+| tax lien that is filed under that section on or after the effective  
+| date of this Act. A petition to vacate a judgment for foreclosure of  
+| a tax lien that is filed before the effective date of this Act is  
+| governed by the law in effect on the date the petition is filed, and  
+| the former law is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

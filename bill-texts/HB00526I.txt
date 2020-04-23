@@ -1,0 +1,340 @@
+| 86R2304 JRJ-D  
+---|---  
+|  By: Israel | H.B. No. 526  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requirements to vote, including presenting proof of  
+| identification.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 15.022(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The registrar shall make the appropriate corrections in  
+| the registration records, including, if necessary, deleting a  
+| voter's name from the suspense list:  
+|  (1) after receipt of a notice of a change in  
+| registration information under Section 15.021;  
+|  (2) after receipt of a voter's reply to a notice of  
+| investigation given under Section 16.033;  
+|  (3) after receipt of any affidavits executed under  
+| Section _63.007_ [ ~~63.006~~ ], following an election;  
+|  (4) after receipt of a voter's statement of residence  
+| executed under Section 63.0011;  
+|  (5) before the effective date of the abolishment of a  
+| county election precinct or a change in its boundary;  
+|  (6) after receipt of United States Postal Service  
+| information indicating an address reclassification;  
+|  (7) after receipt of a voter's response under Section  
+| 15.053; or  
+|  (8) after receipt of a registration application or  
+| change of address under Chapter 20.  
+|  SECTION 2. Sections 31.012(a), (b), and (b-1), Election  
+| Code, as effective September 1, 2020, are amended to read as  
+| follows:  
+|  (a) The secretary of state and the voter registrar of each  
+| county that maintains a website shall provide notice [ ~~of the~~  
+|  ~~identification requirements for voting prescribed by Chapter 63~~  
+|  ~~and~~ ] that straight ticket voting has been eliminated pursuant to  
+| H.B. 25, Acts of the 85th Legislature, Regular Session, 2017 on each  
+| entity's respective website in each language in which voter  
+| registration and election materials are available.  The secretary  
+| of state shall prescribe the wording of the notice to be included on  
+| the websites.  
+|  (b) [ ~~The secretary of state shall conduct a statewide effort~~  
+|  ~~to educate voters regarding the identification requirements for~~  
+|  ~~voting prescribed by Chapter 63.~~  
+|  [ ~~(b-1)~~ ] As soon as practicable after September 1, 2020, the  
+| secretary of state shall distribute electronically to each county  
+| election administrator and the county chair of each political party  
+| notice that straight ticket voting has been eliminated pursuant to  
+| H.B. 25, Acts of the 85th Legislature, Regular Session, 2017.  
+|  SECTION 3. Section 32.114(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The county clerk shall provide one or more sessions of  
+| training using the standardized training program and materials  
+| developed and provided by the secretary of state under Section  
+| 32.111 for the election judges and clerks appointed to serve in  
+| elections ordered by the governor or a county authority.  Each  
+| election judge shall complete the training program.  [ ~~Each election~~  
+|  ~~clerk shall complete the part of the training program relating to~~  
+|  ~~the acceptance and handling of the identification presented by a~~  
+|  ~~voter to an election officer under Section 63.001.~~ ]  
+|  SECTION 4. Sections 63.001(b), (c), (d), (e), and (f),  
+| Election Code, are amended to read as follows:  
+|  (b) _On_ [ ~~Except as provided by Subsection (h), on~~ ] offering  
+| to vote, a voter must present _the voter's voter registration_  
+| _certificate_ to an election officer at the polling place[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~one form of photo identification listed in~~  
+|  ~~Section 63.0101(a); or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~one form of identification listed in Section~~  
+|  ~~63.0101(b) accompanied by the declaration described by Subsection~~  
+|  ~~(i)~~ ].  
+|  (c) On presentation of _a registration certificate_ [ ~~the~~  
+|  ~~documentation required under Subsection (b)~~ ], an election officer  
+| shall determine whether the voter's name on the _registration_  
+| _certificate_ [ ~~documentation~~ ] is on the list of registered voters for  
+| the precinct.  [ ~~If in making a determination under this subsection~~  
+|  ~~the election officer determines under standards adopted by the~~  
+|  ~~secretary of state that the voter's name on the documentation is~~  
+|  ~~substantially similar to but does not match exactly with the name on~~  
+|  ~~the list, the voter shall be accepted for voting under Subsection~~  
+|  ~~(d) if the voter submits an affidavit stating that the voter is the~~  
+|  ~~person on the list of registered voters.~~ ]  
+|  (d) If[ ~~, as determined under Subsection (c),~~ ] the voter's  
+| name is on the precinct list of registered voters [ ~~and the voter's~~  
+|  ~~identity can be verified from the documentation presented under~~  
+|  ~~Subsection (b)~~ ], the voter shall be accepted for voting.  [ ~~An~~  
+|  ~~election officer may not question the reasonableness of an~~  
+|  ~~impediment sworn to by a voter in a declaration described by~~  
+|  ~~Subsection (i).~~ ]  
+|  (e) On accepting a voter, an election officer shall indicate  
+| beside the voter's name on the list of registered voters that the  
+| voter is accepted for voting.  [ ~~If the voter executes a declaration~~  
+|  ~~of reasonable impediment to meet the requirement for identification~~  
+|  ~~under Subsection (b), the election officer must affix the voter's~~  
+|  ~~voter registration number to the declaration either in numeric or~~  
+|  ~~bar code form.~~ ]  
+|  (f) After determining whether to accept a voter, an election  
+| officer shall return the voter's _registration certificate_  
+| [ ~~documentation~~ ] to the voter.  
+|  SECTION 5. Section 63.0011(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Before a voter may be accepted for voting, an election  
+| officer shall ask the voter if the voter's residence address on the  
+| precinct list of registered voters is current and whether the voter  
+| has changed residence within the county. If the voter's address is  
+| omitted from the precinct list under Section 18.005(c), the officer  
+| shall ask the voter if the voter's residence _as_ [ ~~, if~~ ] listed [
+~~,~~ ] on  
+| _the voter's voter registration certificate_ [ ~~identification~~  
+|  ~~presented by the voter under Section 63.001(b)~~ ] is current and  
+| whether the voter has changed residence within the county.  
+|  SECTION 6. Section 63.004(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The secretary of state may prescribe forms that combine  
+| the poll list, the signature roster, or any other form used in  
+| connection with the acceptance of voters at polling places with  
+| each other or with the list of registered voters.  The secretary  
+| shall prescribe any special instructions necessary for using the  
+| combination forms.  [ ~~The combination forms must include space for~~  
+|  ~~an election officer to indicate whether a voter executed a~~  
+|  ~~declaration of reasonable impediment under Section 63.001(i).~~ ]  
+|  SECTION 7. Section 63.006, Election Code, is amended to  
+| read as follows:  
+|  Sec. 63.006. VOTER WITH _CORRECT CERTIFICATE_ [ ~~REQUIRED~~  
+|  ~~DOCUMENTATION~~ ] WHO IS NOT ON LIST. (a) A voter who, when offering to  
+| vote, presents _a voter registration certificate indicating that the_  
+| _voter is currently registered in the precinct in which the voter is_  
+| _offering to vote,_ [ ~~the documentation required under Section~~  
+|  ~~63.001(b)~~ ] but whose name is not on the precinct list of registered  
+| voters _,_ shall be accepted for voting [ ~~if the voter also presents a~~  
+|  ~~voter registration certificate indicating that the voter is~~  
+|  ~~currently registered:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~in the precinct in which the voter is offering to~~  
+|  ~~vote; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~in a different precinct in the same county as the~~  
+|  ~~precinct in which the voter is offering to vote and the voter~~  
+|  ~~executes an affidavit stating that the voter:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~is a resident of the precinct in which the~~  
+|  ~~voter is offering to vote or is otherwise entitled by law to vote in~~  
+|  ~~that precinct;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~was a resident of the precinct in which the~~  
+|  ~~voter is offering to vote at the time the information on the voter's~~  
+|  ~~residence address was last provided to the voter registrar;~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~did not deliberately provide false~~  
+|  ~~information to secure registration in a precinct in which the voter~~  
+|  ~~does not reside; and~~  
+|  [ ~~(D) is voting only once in the election~~].  
+|  (b) After the voter is accepted, an election officer shall  
+| [ ~~:~~  
+|  [ ~~(1)~~ ] indicate beside the voter's name on the poll list  
+| that the voter was accepted under this section[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~enter the voter's name on the registration~~  
+|  ~~omissions list~~ ].  
+|  SECTION 8. Chapter 63, Election Code, is amended by adding  
+| Sections 63.007 and 63.008 to read as follows:  
+|  _Sec._ ___63.007._ _____VOTER WITH INCORRECT CERTIFICATE WHO IS NOT ON_  
+| _LIST. (a) A voter who, when offering to vote, presents a voter_  
+| _registration certificate indicating that the voter is currently_  
+| _registered in a different precinct from the one in which the voter_  
+| _is offering to vote, and whose name is not on the precinct list of_  
+| _registered voters, shall be accepted for voting if the voter_  
+| _executes an affidavit stating that the voter:_  
+|  _(1)_ _____is a resident of the precinct in which the voter is_  
+| _offering to vote or is otherwise entitled by law to vote in that_  
+| _precinct;_  
+|  _(2)_ _____was a resident of the precinct in which the voter_  
+| _is offering to vote at the time the information on the voter's_  
+| _residence address was last provided to the voter registrar;_  
+|  _(3)_ _____did not deliberately provide false information to_  
+| _secure registration in a precinct in which the voter does not_  
+| _reside; and_  
+|  _(4) is voting only once in the election._  
+|  _(b)_ _____After the voter is accepted, an election officer shall_  
+| _indicate beside the voter's name on the poll list that the voter was_  
+| _accepted under this section._  
+|  _Sec._ ___63.008._ _____VOTER WITHOUT CERTIFICATE WHO IS ON LIST. (a) A_  
+| _voter who does not present a voter registration certificate when_  
+| _offering to vote, but whose name is on the list of registered voters_  
+| _for the precinct in which the voter is offering to vote, shall be_  
+| _accepted for voting if the voter executes an affidavit stating that_  
+| _the voter does not have the voter's voter registration certificate_  
+| _in the voter's possession at the polling place at the time of_  
+| _offering to vote and the voter presents proof of identification in a_  
+| _form described by Section 63.0101._  
+|  _(b)_ _____If the requirements prescribed by Subsection (a) are not_  
+| _met, the voter may be accepted for provisional voting only under_  
+| _Section 63.011._  
+|  SECTION 9. Section 63.009, Election Code, is amended to  
+| read as follows:  
+|  Sec. 63.009. VOTER WITHOUT CERTIFICATE WHO IS NOT ON LIST.  
+| _(a) Except as provided by Subsection (b), a_ [ ~~A~~ ] voter who does not  
+| present a voter registration certificate when offering to vote, and  
+| whose name is not on the list of registered voters for the precinct  
+| in which the voter is offering to vote, shall be accepted for  
+| provisional voting if the voter executes an affidavit in accordance  
+| with Section 63.011.  
+|  _(b)_ _____If an election officer can determine from the voter_  
+| _registrar that the person is a registered voter of the county and_  
+| _the person presents proof of identification, the affidavits_  
+| _required by Sections 63.007 and 63.008 are substituted for the_  
+| _affidavit required by Section 63.011 in complying with that_  
+| _section. After the voter is accepted under this subsection, an_  
+| _election officer shall also indicate beside the voter's name on the_  
+| _poll list that the voter was accepted under this section._  
+|  SECTION 10. Section 63.0101(a), Election Code, is amended  
+| to read as follows:  
+|  (a) The following documentation is [ ~~an~~ ] acceptable _as proof_  
+| [ ~~form~~ ] of [ ~~photo~~ ] identification under this chapter:  
+|  (1) a driver's license[ ~~, election identification~~  
+|  ~~certificate,~~ ] or personal identification card issued to the person  
+| by the Department of Public Safety _or a similar document issued to_  
+| _the person by an agency of another state, regardless of whether the_  
+| _license or card_ [ ~~that~~ ] has [ ~~not~~ ] expired [ ~~or that expired
+no earlier~~  
+|  ~~than four years before the date of presentation~~ ];  
+|  (2) a _form of identification containing the person's_  
+| _photograph that establishes the person's identity_ [ ~~United States~~  
+|  ~~military identification card that contains the person's photograph~~  
+|  ~~that has not expired or that expired no earlier than four years~~  
+|  ~~before the date of presentation~~ ];  
+|  (3) a _birth certificate or other document confirming_  
+| _birth that is admissible in a court of law and establishes the_  
+| _person's identity;_  
+|  _(4)_ United States citizenship _papers_ [ ~~certificate~~  
+|  ~~issued to the person that contains the person's photograph~~ ];  
+|  _(5)_ [ ~~(4)~~ ] a United States passport book or card issued  
+| to the person [ ~~that has not expired or that expired no earlier than~~  
+|  ~~four years before the date of presentation~~ ];  
+|  _(6)_ _____official mail addressed to the person by name from_  
+| _a governmental entity;_  
+|  _(7)_ _____a copy of a current utility bill, bank statement,_  
+| _government check, paycheck, or other government document that shows_  
+| _the name and address of the voter; or_  
+|  _(8)_ _____any other form of identification prescribed by the_  
+| _secretary of state_ [ ~~or~~  
+|  [ ~~(5)~~ ~~~~ ~~~~ ~~a license to carry a handgun issued to the person~~  
+|  ~~by the Department of Public Safety that has not expired or that~~  
+|  ~~expired no earlier than four years before the date of~~  
+|  ~~presentation~~ ].  
+|  SECTION 11. Sections 63.011(a) and (b), Election Code, are  
+| amended to read as follows:  
+|  (a) A person to whom Section _63.008(b) or 63.009(a)_  
+| [ ~~63.001(g) or 63.009~~ ] applies may cast a provisional ballot if the  
+| person executes an affidavit stating that the person:  
+|  (1) is a registered voter in the precinct in which the  
+| person seeks to vote; and  
+|  (2) is eligible to vote in the election.  
+|  (b) A form for an affidavit required by this section must be  
+| printed on an envelope in which the provisional ballot voted by the  
+| person may be placed and must include[ ~~:~~  
+|  [ ~~(1)~~ ] a space for entering the identification number  
+| of the provisional ballot voted by the person[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~a space for an election officer to indicate~~  
+|  ~~whether the person presented a form of identification described by~~  
+|  ~~Section 63.0101~~ ].  
+|  SECTION 12. Section 64.012(b), Election Code, is amended to  
+| read as follows:  
+|  (b) An offense under this section is a felony of the _third_  
+| [ ~~second~~ ] degree unless the person is convicted of an attempt. In  
+| that case, the offense is a _Class A misdemeanor_ [ ~~state jail felony~~ ].  
+|  SECTION 13. Section 65.054(b), Election Code, is amended to  
+| read as follows:  
+|  (b) A provisional ballot _may_ [ ~~shall~~ ] be accepted _only_ if the  
+| board determines that[ ~~:~~  
+|  [ ~~(1)~~ ] from the information in the affidavit or  
+| contained in public records, the person is eligible to vote in the  
+| election and has not previously voted in that election[ ~~;~~  
+|  [ ~~(2) the person:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~meets the identification requirements of~~  
+|  ~~Section 63.001(b) at the time the ballot was cast or in the period~~  
+|  ~~prescribed under Section 65.0541;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~notwithstanding Chapter 110, Civil Practice~~  
+|  ~~and Remedies Code, executes an affidavit under penalty of perjury~~  
+|  ~~that states the voter has a religious objection to being~~  
+|  ~~photographed and the voter has consistently refused to be~~  
+|  ~~photographed for any governmental purpose from the time the voter~~  
+|  ~~has held this belief; or~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~executes an affidavit under penalty of~~  
+|  ~~perjury that states the voter does not have any identification~~  
+|  ~~meeting the requirements of Section 63.001(b) as a result of a~~  
+|  ~~natural disaster that was declared by the president of the United~~  
+|  ~~States or the governor, occurred not earlier than 45 days before the~~  
+|  ~~date the ballot was cast, and caused the destruction of or inability~~  
+|  ~~to access the voter's identification; and~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~the voter has not been challenged and voted a~~  
+|  ~~provisional ballot solely because the voter did not meet the~~  
+|  ~~requirements for identification prescribed by Section 63.001(b)~~ ].  
+|  SECTION 14. Section 66.0241, Election Code, is amended to  
+| read as follows:  
+|  Sec. 66.0241. CONTENTS OF ENVELOPE NO. 4. Envelope no. 4  
+| must contain:  
+|  (1) the precinct list of registered voters;  
+|  (2) the registration correction list;  
+|  (3) any statements of residence executed under Section  
+| 63.0011; and  
+|  (4) any affidavits executed under Section _63.007_  
+| [ ~~63.006~~ ] or 63.011.  
+|  SECTION 15. Section 272.011(b), Election Code, is amended  
+| to read as follows:  
+|  (b) The secretary of state shall prepare the translation for  
+| election materials required to be provided in a language other than  
+| English or Spanish for the following state prescribed voter forms:  
+|  (1) voter registration application form required by  
+| Section 13.002;  
+|  (2) the confirmation form required by Section 15.051;  
+|  (3) the voting instruction poster required by Section  
+| 62.011;  
+|  (4) [ ~~the reasonable impediment declaration required~~  
+|  ~~by Section 63.001(b);~~  
+|  [ ~~(5)~~ ] the statement of residence form required by  
+| Section 63.0011;  
+|  _(5)_ [ ~~(6)~~ ] the provisional ballot affidavit required  
+| by Section 63.011;  
+|  _(6)_ [ ~~(7)~~ ] the application for a ballot by mail  
+| required by Section 84.011;  
+|  _(7)_ [ ~~(8)~~ ] the carrier envelope and voting  
+| instructions required by Section 86.013; and  
+|  _(8)_ [ ~~(9)~~ ] any other voter forms that the secretary of  
+| state identifies as frequently used and for which state resources  
+| are otherwise available.  
+|  SECTION 16. (a) The following provisions of the Election  
+| Code are repealed:  
+|  (1) Section 13.002(i);  
+|  (2) Section 15.001(c);  
+|  (3) Section 15.005;  
+|  (4) Section 31.013;  
+|  (5) Section 32.111(c);  
+|  (6) Section 62.016;  
+|  (7) Sections 63.001(c-1), (g), (h), and (i);  
+|  (8) Section 63.0013, as added by Section 3, Chapter  
+| 410 (S.B. 5), Acts of the 85th Legislature, Regular Session, 2017;  
+|  (9) Sections 63.0101(b) and (c); and  
+|  (10) Section 65.0541.  
+|  (b) Chapter 521A, Transportation Code, is repealed.  
+|  SECTION 17. This Act takes effect immediately if it  
+| receives a vote of two-thirds of all the members elected to each  
+| house, as provided by Section 39, Article III, Texas Constitution.  
+| If this Act does not receive the vote necessary for immediate  
+| effect, this Act takes effect September 1, 2019.
+

@@ -1,0 +1,64 @@
+| 86R9478 MAW-F  
+---|---  
+|  By: Smithee | H.B. No. 4202  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of a court to grant a motion for a new  
+| trial in certain criminal cases.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 40, Code of Criminal Procedure, is  
+| amended by adding Article 40.002 to read as follows:  
+|  _Art._ ___40.002._ _____NEW TRIAL ON MOTION BY AGREEMENT OF PARTIES._  
+| _(a) At any time during the period of a term of imprisonment of more_  
+| _than three years or at any time after the imposition of the penalty_  
+| _of death, a defendant may, with the written consent of the attorney_  
+| _representing the state, file a motion for a new trial with the_  
+| _convicting court. The court may, after a hearing, grant the_  
+| _defendant a new trial in the interest of justice._  
+|  _(b)_ _____Notwithstanding any other law, a defendant who is_  
+| _granted a new trial under this article may be prosecuted and_  
+| _punished in accordance with the statutory provisions criminalizing_  
+| _and prescribing punishment for the applicable conduct that were in_  
+| _effect at the time the conduct occurred or under the applicable_  
+| _statutory provisions in effect at the time the new trial is granted._  
+|  _(c)_ _____Neither the attorney representing the state nor the_  
+| _defendant is entitled to make an interlocutory appeal from the_  
+| _court's decision to grant or deny a motion for a new trial under_  
+| _this article._  
+|  _(d)_ _____The attorney representing the state may condition the_  
+| _attorney's consent to a motion for a new trial on any appropriate_  
+| _reason, including a requirement that the defendant:_  
+|  _(1) plead guilty and accept a specific punishment;_  
+|  _(2)_ _____waive the defendant's parole eligibility as part_  
+| _of any punishment agreement; or_  
+|  _(3) waive the defendant's right to appeal._  
+|  _(e)_ _____Until the trial court has granted the motion under this_  
+| _article, the defendant may withdraw the motion or the attorney_  
+| _representing the state may withdraw consent to the motion. If the_  
+| _motion or consent is withdrawn, the court may not grant a new trial_  
+| _in the case based on that motion._  
+|  SECTION 2. Section 5, Article 11.07, Code of Criminal  
+| Procedure, is amended to read as follows:  
+|  Sec. 5. The Court of Criminal Appeals may deny relief upon  
+| the findings and conclusions of the hearing judge without docketing  
+| the cause, or may direct that the cause be docketed and heard as  
+| though originally presented to said court or as an appeal. Upon  
+| reviewing the record the court shall enter its judgment remanding  
+| the applicant to custody or ordering his release, as the law and  
+| facts may justify. The mandate of the court shall issue to the  
+| court issuing the writ, as in other criminal cases. After  
+| conviction _, except as otherwise provided by Article 40.002,_ the  
+| procedure outlined in this _article_ [ ~~Act~~ ] shall be exclusive and any  
+| other proceeding shall be void and of no force and effect in  
+| discharging the prisoner.  
+|  SECTION 3. Section 1, Article 11.071, Code of Criminal  
+| Procedure, is amended to read as follows:  
+|  Sec. 1. APPLICATION TO DEATH PENALTY CASE.  Notwithstanding  
+| any other provision of this chapter, this article establishes the  
+| procedures for an application for a writ of habeas corpus in which  
+| the applicant seeks relief from a judgment imposing a penalty of  
+| death. _This article does not affect the authority of a court to_  
+| _grant a motion for a new trial under Article 40.002._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

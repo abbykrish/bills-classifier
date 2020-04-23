@@ -1,0 +1,101 @@
+| 86R11456 BRG-F  
+---|---  
+|  By: Stucky | H.B. No. 2042  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to postpayment audits conducted by the comptroller and  
+| annual financial reports submitted by state agencies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 403.071, Government Code, is amended by  
+| amending Subsections (g) and (h) and adding Subsections (i) and (j)  
+| to read as follows:  
+|  (g) Notwithstanding Subsection (a), the comptroller [ ~~and a~~  
+|  ~~state agency~~ ] may [ ~~contract in writing for the comptroller to~~ ]  
+| audit claims presented by the state agency after the comptroller  
+| prepares warrants or uses the electronic funds transfer system to  
+| pay the claims. [ ~~If the comptroller and a state agency execute a~~  
+|  ~~contract, the comptroller may decide the types of claims that will~~  
+|  ~~be audited after payment.~~ ]  
+|  (h) [ ~~This subsection applies if the comptroller and a state~~  
+|  ~~agency have contracted in accordance with Subsection (g). The~~  
+|  ~~comptroller shall audit claims after payment in the same way that~~  
+|  ~~the comptroller audits claims before payment under Subsection (a).~~ ]  
+| The comptroller may establish requirements and adopt rules  
+| concerning the time that a state agency must retain documentation  
+| in its files to enable a postpayment audit.  If a postpayment audit  
+| by the comptroller shows that a claim presented by a state agency  
+| was invalid, the comptroller may:  
+|  (1) implement procedures to ensure that similar  
+| invalid claims from the state agency are not paid in the future;  
+|  (2) report to the governor, the lieutenant governor,  
+| the speaker of the house of representatives, the state auditor, and  
+| the Legislative Budget Board the results of the audit;  
+|  (3) require the state agency to obtain a refund of the  
+| monies from the payee; _and_  
+|  (4) [ ~~cancel the contract with the state agency; and~~  
+|  [ ~~(5)~~ ] reduce the state agency's remaining  
+| appropriations by the amount of the claim.  
+|  _(i)_ _____The comptroller may access the books, accounts,_  
+| _confidential or nonconfidential reports, vouchers, electronic_  
+| _data, or other records or information of a state agency subject to a_  
+| _postpayment audit._ ___If information may not be released under_  
+| _federal law, the comptroller may not access the information without_  
+| _approval of the appropriate federal agency._  
+|  _(j)_ _____The comptroller shall use reasonable efforts to avoid_  
+| _hindering the daily operations of a state agency subject to a_  
+| _postpayment audit by coordinating requests for access to books,_  
+| _accounts, reports, vouchers, electronic data, or other records or_  
+| _information of the audited agency._  
+|  SECTION 2. Sections 2101.011(b) and (c), Government Code,  
+| are amended to read as follows:  
+|  (b) Not later than November 20 of each year _or an earlier_  
+| _date designated by the comptroller_ , a state agency shall submit an  
+| annual financial report regarding the agency's use of appropriated  
+| money during the preceding fiscal year to:  
+|  (1) the governor;  
+|  (2) the comptroller;  
+|  (3) the Legislative Reference Library;  
+|  (4) the state auditor; and  
+|  (5) the Legislative Budget Board.  
+|  (c) A state agency's annual financial report must include  
+| _information on_ [ ~~a detailed statement of~~ ] all assets, liabilities,  
+| and fund balances, including:  
+|  (1) cash on hand and on deposit in banks and accounts  
+| in the state treasury;  
+|  (2) [ ~~the value of consumable supplies and postage;~~  
+|  [ ~~(3)~~ ] the value of the agency's inventory of movable  
+| equipment and other fixed assets;  
+|  _(3)_ [ ~~(4) all other assets;~~  
+|  [ ~~(5)~~ ] an itemization of the investments, bonds, notes,  
+| and other securities owned by any special funds under the agency's  
+| jurisdiction, including the amount and value of the securities;  
+|  _(4)_ [ ~~(6)~~ ] all money due the agency from any source;  
+|  _(5)_ [ ~~(7)~~ ] all outstanding commitments of the agency,  
+| including amounts due for services or goods received by the agency;  
+|  _(6)_ [ ~~(8)~~ ] a summary by source of all revenue collected  
+| or accruing through the agency;  
+|  _(7)_ [ ~~(9)~~ ] a summary of all appropriations,  
+| expenditures, bona fide encumbrances, and other disbursements by  
+| the agency; and  
+|  _(8)_ [ ~~(10)~~ ] any other financial information requested  
+| by the comptroller.  
+|  SECTION 3. Section 2101.012(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The procedures must[ ~~:~~  
+|  [ ~~(1) comply with generally accepted accounting~~  
+|  ~~principles as established by the Governmental Accounting Standards~~  
+|  ~~Board and the American Institute of Certified Public Accountants or~~  
+|  ~~their successors; and~~  
+|  [ ~~(2)~~ ] include the requirements for compliance with the  
+| federal Single Audit Act of 1984 and Office of Management and Budget  
+| Circular A-133 and any subsequent changes or amendments that will  
+| fulfill the audit requirements for a statewide single audit.  
+|  SECTION 4. Section 403.071, Government Code, as amended by  
+| this Act, applies to a claim presented by a state agency to the  
+| warrant clerk on or after the effective date of this Act.  A claim  
+| presented before the effective date of this Act is governed by the  
+| law in effect on the date the claim is presented, and the former law  
+| is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

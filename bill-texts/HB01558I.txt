@@ -1,0 +1,106 @@
+| 86R3262 SMT-F  
+---|---  
+|  By: Paddie | H.B. No. 1558  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the severance tax exemption for oil and gas produced  
+| from certain inactive wells.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 202.056(a)(4), Tax Code, is amended to  
+| read as follows:  
+|  (4) "Two-year inactive well" means a well that has not  
+| produced oil or gas in more than one month in the two years  
+| preceding the date of application for severance tax exemption under  
+| this section. _The term does not include a well that is:_  
+|  _(A)_ _____part of an enhanced oil recovery project, as_  
+| _defined by Section 89.002, Natural Resources Code; or_  
+|  _(B)_ _____drilled but not completed and that does not_  
+| _have a record of hydrocarbon production reported to the commission._  
+|  SECTION 2. Section 202.056, Tax Code, is amended by  
+| amending Subsections (b), (c), (d), (e), (h), and (i) and adding  
+| Subsections (j) and (k) to read as follows:  
+|  (b) Hydrocarbons produced from a well qualify for a  
+| _five-year_ [ ~~10-year~~ ] severance tax exemption if the commission  
+| designates the well as a [ ~~three-year inactive well or a~~ ] two-year  
+| inactive well. The commission may require an applicant to provide  
+| the commission with any relevant information required to administer  
+| this section. The commission may require additional well tests to  
+| determine well capability as _the commission_ [ ~~it~~ ] deems necessary.  
+| The commission shall notify the comptroller in writing immediately  
+| if _the commission_ [ ~~it~~ ] determines that the operation of the  
+| [ ~~three-year inactive well or~~ ] two-year inactive well has been  
+| terminated or if _the commission_ [ ~~it~~ ] discovers any information that  
+| affects the taxation of the production from the designated well.  
+|  (c) [ ~~If the commission designates a three-year inactive~~  
+|  ~~well under this section, it shall issue a certificate designating~~  
+|  ~~the well as a three-year inactive well as defined by Subsection~~  
+|  ~~(a)(3) of this section. The commission may not designate a~~  
+|  ~~three-year inactive well under this section after February 29,~~  
+|  ~~1996.~~ ] If the commission designates a two-year inactive well under  
+| this section, _the commission_ [ ~~it~~ ] shall issue a certificate  
+| designating the well as a two-year inactive well [ ~~as defined by~~  
+|  ~~Subsection (a)(4) of this section. The commission may not~~  
+|  ~~designate a two-year inactive well under this section after~~  
+|  ~~February 28, 2010~~ ].  
+|  (d) [ ~~An application for three-year inactive well~~  
+|  ~~certification shall be made during the period of September 1, 1993,~~  
+|  ~~through August 31, 1995, to qualify for the tax exemption under this~~  
+|  ~~section.~~ ] An application for two-year inactive well certification  
+| _must be made to the commission_ [ ~~shall be made during the period~~  
+|  ~~September 1, 1997, through August 31, 2009,~~ ] to qualify for the tax  
+| exemption under this section. Hydrocarbons sold after the date of  
+| certification are eligible for the tax exemption.  
+|  (e) The commission may revoke a certificate if information  
+| indicates that a certified well was not a [ ~~three-year inactive well~~  
+|  ~~or a~~ ] two-year inactive well[ ~~, as appropriate,~~ ] or if other
+lease  
+| production is credited to the certified well. Upon notice to the  
+| operator from the commission that the certificate for tax exemption  
+| under this section has been revoked, the tax exemption may not be  
+| applied to hydrocarbons sold from that well from the date of  
+| revocation.  
+|  (h) If the tax is paid at the full rate provided by Section  
+| 201.052(a) _or_ [ ~~, 201.052(b),~~ ] 202.052(a)[ ~~, or 202.052(b)~~ ]
+before  
+| the comptroller approves an application for an exemption provided  
+| for in this chapter, the operator is entitled to a credit against  
+| taxes imposed by this chapter in an amount equal to the tax paid. To  
+| receive a credit, the operator must apply to the comptroller for the  
+| credit before the expiration of the applicable period for filing a  
+| tax refund claim under Section 111.104.  
+|  (i) _A_ [ ~~Penalties~~  
+|  [ ~~(1) Any~~] person who makes or subscribes any  
+| application, report, or other document and submits _the application,_  
+| _report, or other document_ [ ~~it~~ ] to the commission to form the basis  
+| for an application for a tax exemption under this section, knowing  
+| that the application, report, or other document is false or untrue  
+| in a material fact, may be subject to the penalties imposed by  
+| Chapters 85 and 91, Natural Resources Code.  
+|  _(j) On_ [ ~~(2) Upon~~] notice from the commission that the  
+| certification for a [ ~~three-year inactive well or a~~ ] two-year  
+| inactive well has been revoked, the tax exemption shall not apply to  
+| oil or gas production sold after the date of notification. _A_ [ ~~Any~~ ]  
+| person who violates this subsection is liable to the state for a  
+| civil penalty if the person applies or attempts to apply the tax  
+| exemption allowed by this chapter after the certification for a  
+| [ ~~three-year inactive well or a~~ ] two-year inactive well is revoked.  
+| The amount of the penalty may not exceed the sum of:  
+|  _(1)_ [ ~~(A)~~ ] $10,000; and  
+|  _(2)_ [ ~~(B)~~ ] the difference between the amount of taxes  
+| paid or attempted to be paid and the amount of taxes due.  
+|  _(k)_ [ ~~(3)~~ ] The attorney general may recover a penalty under  
+| _Subsection (j)_ [ ~~Subdivision (2) of this subsection~~ ] in a suit  
+| brought on behalf of the state. Venue for the suit is in Travis  
+| County.  
+|  SECTION 3. Section 202.056(a)(3), Tax Code, is repealed.  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| an oil or gas well designated by the Railroad Commission of Texas as  
+| a two-year inactive well on or after the effective date of this Act.  
+| An oil or gas well designated by the Railroad Commission of Texas as  
+| a two-year inactive well, or as a three-year inactive well, before  
+| the effective date of this Act is governed by the law in effect  
+| immediately before that date, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

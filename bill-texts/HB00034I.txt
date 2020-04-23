@@ -1,0 +1,76 @@
+| 86R80 LED-D  
+---|---  
+|  By: Raymond | H.B. No. 34  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a statewide disaster alert system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 418, Government Code, is amended by  
+| adding Subchapter I to read as follows:  
+| _SUBCHAPTER I. STATEWIDE DISASTER ALERT SYSTEM_  
+|  _Sec._ ___418.201._ _____DEFINITION. In this subchapter, "alert_  
+| _system" means the statewide disaster alert system developed and_  
+| _implemented under this subchapter._  
+|  _Sec._ ___418.202._ _____ESTABLISHMENT OF ALERT SYSTEM. (a) With the_  
+| _cooperation of the office of the governor and other appropriate_  
+| _agencies in this state, the division shall develop and implement a_  
+| _statewide alert system to be activated in the event of a disaster_  
+| _affecting any location in this state._  
+|  _(b)_ _____The alert system may be operated in conjunction with any_  
+| _other emergency alert system required by federal or state law. The_  
+| _alert system must notify persons statewide of a disaster affecting_  
+| _any location in this state. The notification must be provided_  
+| _through:_  
+|  _(1)_ _____public and commercial television or radio_  
+| _broadcasts;_  
+|  _(2)_ _____a system of dynamic message signs located across_  
+| _the state; and_  
+|  _(3)_ _____reverse 9-1-1 calls, text messages, e-mails,_  
+| _social media, and other instant messaging systems._  
+|  _(c)_ _____The division shall allow persons to register for a_  
+| _preferred method of receiving the notification described by_  
+| _Subsection (b)(3)._  
+|  _Sec._ ___418.203._ _____ACTIVATION OF ALERT SYSTEM. (a) When the_  
+| _division determines that a disaster has occurred or that the_  
+| _occurrence or threat of disaster is imminent or is notified of a_  
+| _declaration of disaster under Section 418.014, the division shall_  
+| _immediately activate the alert system under this subchapter._  
+|  _(b)_ _____The division shall issue updated notifications for the_  
+| _duration of the disaster._  
+|  _Sec._ ___418.204._ _____CONTENT OF ALERT SYSTEM NOTIFICATION. (a) A_  
+| _notification issued under the alert system must include all_  
+| _information necessary to:_  
+|  _(1)_ _____enable a person who may be affected by the disaster_  
+| _to make informed decisions regarding the person's safety; and_  
+|  _(2)_ _____enable a person in another location in this state_  
+| _to assist an affected person._  
+|  _(b) The notification must include:_  
+|  _(1)_ _____real-time information regarding the availability_  
+| _of gas, food, lodging, 24-hour pharmacy services, and medical care_  
+| _and the disposition of a deceased individual;_  
+|  _(2)_ _____for a hurricane, the category classification of_  
+| _the hurricane, including updated information on changes in the_  
+| _category classification, the expected time and location of landfall_  
+| _for the hurricane, and other detailed information about the_  
+| _hurricane; and_  
+|  _(3)_ _____other information the division determines_  
+| _appropriate._  
+|  _Sec._ ___418.205._ _____TERMINATION OF ALERT SYSTEM. The division_  
+| _shall terminate the activation of the alert system when:_  
+|  _(1) the division determines that:_  
+|  _(A) the threat or danger has passed; or_  
+|  _(B)_ _____the disaster has been addressed to the extent_  
+| _that emergency conditions no longer exist; or_  
+|  _(2)_ _____the governor terminates the state of disaster_  
+| _declared under Section 418.014._  
+|  SECTION 2. As soon as practicable after the effective date  
+| of this Act, the public safety director of the Texas Division of  
+| Emergency Management shall implement Subchapter I, Chapter 418,  
+| Government Code, as added by this Act.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

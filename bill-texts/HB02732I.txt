@@ -1,0 +1,100 @@
+| 86R174 EES-D  
+---|---  
+|  By: Burrows | H.B. No. 2732  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prohibited reporting of information regarding debt  
+| incurred for nonemergency medical care.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Chapter 20, Business & Commerce  
+| Code, is amended to read as follows:  
+| CHAPTER 20. REGULATION OF CONSUMER CREDIT REPORTING [ ~~AGENCIES~~ ]  
+|  SECTION 2. Section 20.05(a), Business & Commerce Code, is  
+| amended to read as follows:  
+|  (a) Except as provided by Subsection (b), a consumer  
+| reporting agency may not furnish a consumer report containing  
+| information related to:  
+|  (1) a case under Title 11 of the United States Code or  
+| under the federal Bankruptcy Act in which the date of entry of the  
+| order for relief or the date of adjudication predates the consumer  
+| report by more than 10 years;  
+|  (2) a suit or judgment in which the date of entry  
+| predates the consumer report by more than seven years or the  
+| governing statute of limitations, whichever is longer;  
+|  (3) a tax lien in which the date of payment predates  
+| the consumer report by more than seven years;  
+|  (4) a record of arrest, indictment, or conviction of a  
+| crime in which the date of disposition, release, or parole predates  
+| the consumer report by more than seven years; [ ~~or~~ ]  
+|  (5) another item or event that predates the consumer  
+| report by more than seven years _; or_  
+|  _(6)_ _____an unpaid debt incurred by a consumer for_  
+| _nonemergency medical care, as defined by Section 20.51, provided to_  
+| _the consumer or a person to whom the consumer has a legal obligation_  
+| _to provide support, unless the reporting of that debt complies with_  
+| _Subchapter F_.  
+|  SECTION 3. Section 20.11(a), Business & Commerce Code, is  
+| amended to read as follows:  
+|  (a) The attorney general may file a suit against a person  
+| for:  
+|  (1) injunctive relief to prevent or restrain a  
+| violation of this chapter _other than Subchapter F_ ; or  
+|  (2) a civil penalty in an amount not to exceed $2,000  
+| for each violation of this chapter _other than Subchapter F_.  
+|  SECTION 4. Section 20.12, Business & Commerce Code, is  
+| amended to read as follows:  
+|  Sec. 20.12. DECEPTIVE TRADE PRACTICE. A violation of this  
+| chapter _other than Subchapter F_ is a false, misleading, or  
+| deceptive act or practice under Subchapter E, Chapter 17.  
+|  SECTION 5. Section 20.13, Business & Commerce Code, is  
+| amended to read as follows:  
+|  Sec. 20.13. VENUE. An action brought under this chapter  
+| _other than Subchapter F_ shall be filed in a district court:  
+|  (1) in Travis County;  
+|  (2) in any county in which the violation occurred; or  
+|  (3) in the county in which the victim resides,  
+| regardless of whether the alleged violator has resided, worked, or  
+| done business in the county in which the victim resides.  
+|  SECTION 6. Chapter 20, Business & Commerce Code, is amended  
+| by adding Subchapter F to read as follows:  
+| _SUBCHAPTER F. PROHIBITED REPORTING OF CERTAIN MEDICAL DEBT_  
+|  _Sec. 20.51. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Health care provider" has the meaning assigned by_  
+| _Section 1452.101, Insurance Code._  
+|  _(2)_ _____"Nonemergency medical care" means any health care_  
+| _services that are not emergency care as defined by Section_  
+| _1301.155(a), Insurance Code._  
+|  _Sec._ ___20.52._ _____REPORTING OF INFORMATION RELATED TO DEBT_  
+| _ARISING FROM NONEMERGENCY MEDICAL CARE; TIME FOR REPORTING. (a) A_  
+| _health care provider or other person may not provide to a consumer_  
+| _reporting agency information regarding an unpaid debt incurred by a_  
+| _consumer for nonemergency medical care provided to the consumer or_  
+| _a person to whom the consumer has a legal obligation to provide_  
+| _support unless:_  
+|  _(1)_ _____the consumer or the consumer's guardian or other_  
+| _legal representative is presented with and signs at the time of_  
+| _receipt a disclosure form concerning the medical charges as_  
+| _prescribed by Subsection (b) before the medical care is provided;_  
+| _and_  
+|  _(2)_ _____the information is provided to the agency at least_  
+| _180 days after the date the consumer receives the medical bill for_  
+| _the charges._  
+|  _(b)_ _____The executive commissioner of the Health and Human_  
+| _Services Commission by rule shall prescribe the form and content of_  
+| _the disclosure required by this section and the Department of State_  
+| _Health Services shall publish the disclosure form on the_  
+| _department's Internet website. The disclosure form must be in_  
+| _plain language and include:_  
+|  _(1)_ _____an itemized statement of the amounts to be billed_  
+| _for the nonemergency medical care;_  
+|  _(2)_ _____an explanation of the restrictions on providing_  
+| _information under Subsection (a); and_  
+|  _(3)_ _____any other information the department considers_  
+| _necessary._  
+|  SECTION 7. The changes in law made by this Act apply only to  
+| debt incurred by a consumer for nonemergency medical care, as  
+| defined by Section 20.51, Business & Commerce Code, as added by this  
+| Act, provided on or after the effective date of this Act.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

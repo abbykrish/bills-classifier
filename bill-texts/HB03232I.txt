@@ -1,0 +1,37 @@
+| 86R13778 SCL-D  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 3232  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of health benefit plan issuers to require  
+| utilization review for a health care service provided by network  
+| physicians or providers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter J, Chapter 843, Insurance Code, is  
+| amended by adding Section 843.355 to read as follows:  
+|  _Sec._ ___843.355._ _____UTILIZATION REVIEW FOR PARTICIPATING_  
+| _PHYSICIAN OR PROVIDER PROHIBITED. A health maintenance_  
+| _organization may not require utilization review, including a_  
+| _preauthorization determination that a health care service is_  
+| _medically necessary and appropriate, of a health care service_  
+| _provided to an enrollee by a participating physician or provider._  
+|  SECTION 2. Subchapter C-1, Chapter 1301, Insurance Code, is  
+| amended by adding Section 1301.140 to read as follows:  
+|  _Sec._ ___1301.140._ _____UTILIZATION REVIEW FOR PREFERRED PHYSICIAN_  
+| _OR PROVIDER PROHIBITED. (a) In this section, "utilization review"_  
+| _has the meaning assigned by Section 4201.002._  
+|  _(b)_ _____An insurer may not require utilization review,_  
+| _including preauthorization, of a medical care or health care_  
+| _service provided to an insured by a preferred physician or_  
+| _provider._  
+|  SECTION 3. Sections 843.348 and 1301.135, Insurance Code,  
+| are repealed.  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| a health benefit plan delivered, issued for delivery, or renewed on  
+| or after January 1, 2020. A health benefit plan delivered, issued  
+| for delivery, or renewed before January 1, 2020, is governed by the  
+| law as it existed immediately before the effective date of this Act,  
+| and that law is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

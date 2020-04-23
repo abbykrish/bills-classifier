@@ -1,0 +1,121 @@
+| 86R3197 KFF-D  
+---|---  
+|  By: Phelan | H.B. No. 1250  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to electronic benefits transfer cards used by or for  
+| recipients of benefits under certain assistance programs.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Sections 531.0911 and 531.0912 to read as  
+| follows:  
+|  _Sec._ ___531.0911._ _____PHOTOGRAPH AND OTHER INFORMATION ON CERTAIN_  
+| _ELECTRONIC BENEFITS TRANSFER CARDS. (a)_ ___In this section:_  
+|  _(1)_ _____"Financial assistance program" means the_  
+| _financial assistance program established under Chapter 31, Human_  
+| _Resources Code._  
+|  _(2)_ _____"Recipient" means a person who receives benefits_  
+| _under the financial assistance program or the supplemental_  
+| _nutrition assistance program._  
+|  _(3)_ _____"Supplemental nutrition assistance program" has_  
+| _the meaning assigned by Section 33.0005, Human Resources Code._  
+|  _(b)_ _____Subject to Subsection (d), the commission shall ensure_  
+| _that the front side of each electronic benefits transfer card used_  
+| _by a recipient or other person authorized on the recipient's_  
+| _account for purposes of receiving benefits under the financial_  
+| _assistance program or the supplemental nutrition assistance_  
+| _program displays:_  
+|  _(1)_ _____the name and photograph of the recipient or other_  
+| _authorized person, as appropriate;_  
+|  _(2)_ _____the words "Fraud Hotline"_ ___followed by the_  
+| _telephone number of the commission's toll-free hotline for_  
+| _reporting suspected fraud required under Section 531.108(b)(2);_  
+| _and_  
+|  _(3)_ _____the Internet website address maintained by the_  
+| _commission for the purpose of allowing persons to report suspected_  
+| _fraud in either the financial assistance program or the_  
+| _supplemental nutrition assistance program._  
+|  _(c)_ _____The Department of Public Safety shall provide to the_  
+| _commission the photographs of a recipient and each person_  
+| _authorized on the recipient's account that the department has in_  
+| _its records._ ___The commission shall use the photographs for purposes_  
+| _of complying with Subsection (b)(1). The commission and the_  
+| _department may enter into a memorandum of understanding for_  
+| _purposes of this subsection._  
+|  _(d)_ _____A recipient or other person authorized on the_  
+| _recipient's account is exempt from the photograph requirement_  
+| _imposed by Subsection (b) if:_  
+|  _(1) the recipient or other authorized person is:_  
+|  _(A) 65 years of age or older;_  
+|  _(B) younger than 19 years of age;_  
+|  _(C) blind;_  
+|  _(D) disabled;_  
+|  _(E) a victim of domestic violence;_  
+|  _(F) homeless; or_  
+|  _(G)_ _____issued the electronic benefits transfer card_  
+| _at a field, regional, or other local commission office; or_  
+|  _(2)_ _____the Department of Public Safety does not provide a_  
+| _photograph of the recipient or other authorized person to the_  
+| _commission under Subsection (c)._  
+|  _(e)_ _____The executive commissioner may adopt rules necessary to_  
+| _implement this section._  
+|  _Sec._ ___531.0912._ _____MONITORING AND REPORTING OF ELECTRONIC_  
+| _BENEFITS TRANSFER CARD REPLACEMENT REQUESTS. (a) In this section_  
+| _"financial assistance program," "recipient," and "supplemental_  
+| _nutrition assistance program" have the meanings assigned by Section_  
+| _531.0911._  
+|  _(b)_ _____The commission shall monitor the frequency with which_  
+| _recipients request replacements of their electronic benefits_  
+| _transfer cards used for purposes of receiving benefits under the_  
+| _financial assistance program or the supplemental nutrition_  
+| _assistance program._ ___Not later than December 1 of each year, the_  
+| _commission shall submit a report regarding that frequency to the_  
+| _standing committees of the house of representatives and the senate_  
+| _with jurisdiction over the financial assistance and supplemental_  
+| _nutrition assistance programs._  
+|  SECTION 2. Section 730.007(c), Transportation Code, is  
+| amended to read as follows:  
+|  (c) This section does not:  
+|  (1) prohibit the disclosure of a person's photographic  
+| image to:  
+|  (A) a law enforcement agency, the Texas  
+| Department of Motor Vehicles, a county tax assessor-collector, or a  
+| criminal justice agency for an official purpose;  
+|  (B) an agency of this state investigating an  
+| alleged violation of a state or federal law relating to the  
+| obtaining, selling, or purchasing of a benefit authorized by  
+| Chapter 31 or 33, Human Resources Code; [ ~~or~~ ]  
+|  (C) an agency of this state investigating an  
+| alleged violation of a state or federal law under authority  
+| provided by Title 4, Labor Code; or  
+|  _(D)_ _____the Health and Human Services Commission for_  
+| _use on an electronic benefits transfer card as required by Section_  
+| _531.0911, Government Code; or_  
+|  (2) prevent a court from compelling by subpoena the  
+| production of a person's photographic image.  
+|  SECTION 3. Notwithstanding Section 531.0911, Government  
+| Code, as added by this Act, the Health and Human Services  
+| Commission:  
+|  (1) is not required to issue electronic benefits  
+| transfer cards that comply with that section until September 1,  
+| 2020, but is required to begin issuing cards that comply with that  
+| section beginning on that date; and  
+|  (2) shall ensure that on or before August 31, 2022,  
+| each electronic benefits transfer card used to deliver benefits to  
+| recipients under the financial assistance program under Chapter 31,  
+| Human Resources Code, or the supplemental nutrition assistance  
+| program under Chapter 33, Human Resources Code, conforms to Section  
+| 531.0911, Government Code, as added by this Act.  
+|  SECTION 4. Notwithstanding Section 531.0912, Government  
+| Code, as added by this Act, the Health and Human Services Commission  
+| shall submit the first report required by that section not later  
+| than December 1, 2020.  
+|  SECTION 5. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

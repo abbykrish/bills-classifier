@@ -1,0 +1,527 @@
+| 86R4305 KFF-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 1295  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to early childhood intervention and rehabilitative and  
+| habilitative services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.00521 to read as follows:  
+|  _Sec._ ___533.00521._ _____STAR HEALTH PROGRAM: EARLY CHILDHOOD_  
+| _INTERVENTION SERVICES. (a) A managed care organization that_  
+| _contracts with the commission to provide health care services to_  
+| _recipients under the STAR Health program may not require prior_  
+| _authorization for the provision of early childhood intervention_  
+| _program services under Chapter 73, Human Resources Code, to a child_  
+| _eligible for the program, including services specified in the_  
+| _child's individualized family service plan issued by the commission_  
+| _under the program._  
+|  _(b)_ _____A contract between a managed care organization and the_  
+| _commission for the organization to provide health care services to_  
+| _recipients under the STAR Health program must contain a requirement_  
+| _that the organization:_  
+|  _(1)_ _____proactively review and monitor recipient access_  
+| _and utilization of early childhood intervention services under_  
+| _Chapter 73, Human Resources Code; and_  
+|  _(2)_ _____demonstrate to the commission that the_  
+| _organization is in compliance with Subsection (a), including a_  
+| _requirement that the organization submit quarterly reports to the_  
+| _commission that verify that the organization did not include a_  
+| _prior authorization request for early childhood intervention_  
+| _services under Chapter 73, Human Resources Code, as part of a_  
+| _medical necessity determination._  
+|  SECTION 2. Section 73.001, Human Resources Code, is amended  
+| by adding Subdivision (5) to read as follows:  
+|  _(5)_ _____"Medicaid" means the medical assistance program_  
+| _established under Chapter 32, Human Resources Code._  
+|  SECTION 3. Section 73.0051(l), Human Resources Code, is  
+| redesignated as Section 73.0052, Human Resources Code, and amended  
+| to read as follows:  
+|  _Sec._ ___73.0052._ _____SYSTEM OF PAYMENTS. (a) Subject to the_  
+| _requirements of this section, the_ [ ~~(l) The~~] executive  
+| commissioner by rule may establish a system of payments by families  
+| of children receiving services under this chapter, including a  
+| schedule of sliding fees, in a manner consistent with 34 C.F.R.  
+| Sections 303.13(a)(3), 303.520, and 303.521.  
+|  _(b)_ _____In adopting a system of payments under this section and_  
+| _to the extent permitted by federal law, the executive commissioner_  
+| _shall require that if a child has private health benefits coverage,_  
+| _the health benefits plan provider that provides the coverage is the_  
+| _primary payor of services provided under this chapter, except as_  
+| _provided by Subsection (c)._  
+|  _(c)_ _____If the child covered by private health benefits coverage_  
+| _described by Subsection (b) would be required to pay any amount_  
+| _out-of-pocket for a service provided under this chapter, including_  
+| _any deductible, copayment, coinsurance, or other cost-sharing_  
+| _payment, the executive commissioner shall ensure the claim for_  
+| _services is paid using money from the following sources in the_  
+| _following order:_  
+|  _(1)_ _____federal funds received under Part C, Individuals_  
+| _with Disabilities Education Act (IDEA) (20 U.S.C. Section 1431 et_  
+| _seq.);_  
+|  _(2) Medicaid, if applicable; and_  
+|  _(3)_ _____to the extent money is appropriated for that_  
+| _purpose, general revenue._  
+|  SECTION 4. Chapter 73, Human Resources Code, is amended by  
+| adding Sections 73.00521 and 73.00522 to read as follows:  
+|  _Sec._ ___73.00521._ _____DELIVERY OF SERVICES. (a) Notwithstanding_  
+| _any other law and except as provided by Subsection (b), the_  
+| _commission shall provide services under this chapter to each_  
+| _eligible child through the STAR Kids managed care program_  
+| _established under Section 533.00253, Government Code, regardless_  
+| _of the child's Medicaid eligibility._  
+|  _(b)_ _____Notwithstanding any other law, the commission shall_  
+| _provide through the STAR Health program services under this chapter_  
+| _to each eligible child who is in the conservatorship of the_  
+| _Department of Family and Protective Services._  
+|  _Sec._ ___73.00522._ _____OMBUDSMAN FOR CERTAIN STAR KIDS MANAGED CARE_  
+| _PROGRAM ENROLLEES. (a) In this section, "ombudsman" means the_  
+| _individual designated as the ombudsman for children receiving early_  
+| _childhood intervention services through the STAR Kids managed care_  
+| _program under Section 73.00521(a)._  
+|  _(b)_ _____The executive commissioner shall designate an ombudsman_  
+| _for children receiving early childhood intervention services_  
+| _through the STAR Kids managed care program under Section_  
+| _73.00521(a)._  
+|  _(c)_ _____The ombudsman's office is administratively attached to_  
+| _the office of the ombudsman of the commission._  
+|  _(d)_ _____The commission may use an alternate title for the_  
+| _ombudsman in consumer-directed materials if the commission_  
+| _determines that the alternate title would benefit consumers'_  
+| _understanding of or access to ombudsman services._  
+|  _(e)_ _____The ombudsman serves as a neutral party to assist_  
+| _children who are eligible to receive or receiving early childhood_  
+| _intervention services through the STAR Kids managed care program_  
+| _under Section 73.00521(a) and their parents and guardians in_  
+| _resolving issues related to applying for and receiving those_  
+| _services._  
+|  _(f)_ _____The ombudsman shall for children and the parents and_  
+| _guardians of children eligible to receive or receiving early_  
+| _childhood intervention services through the STAR Kids managed care_  
+| _program under Section 73.00521(a):_  
+|  _(1)_ _____provide dispute and complaint resolution_  
+| _services;_  
+|  _(2)_ _____perform consumer protection and advocacy_  
+| _functions; and_  
+|  _(3) collect inquiry and complaint data._  
+|  _(g)_ _____The executive commissioner by rule shall adopt and_  
+| _ensure the use of procedures for the reporting, monitoring, and_  
+| _resolution of disputes and complaints described by Subsection (f)_  
+| _that are consistent with the procedures adopted and used under_  
+| _Medicaid._  
+|  SECTION 5. Section 73.009(a), Human Resources Code, is  
+| amended to read as follows:  
+|  (a) The _commission_ [ ~~department~~ ] shall develop and the  
+| executive commissioner shall establish policies concerning  
+| services described by this section. A child under three years of  
+| age and the child's _parent, guardian, or other legally authorized_  
+| _representative:_  
+|  _(1)_ [ ~~family~~ ] may be referred for services described by  
+| this section if the child is:  
+|  _(A)_ [ ~~(1)~~ ] identified as having a developmental  
+| delay;  
+|  _(B)_ [ ~~(2)~~ ] suspected of having a developmental  
+| delay; or  
+|  _(C)_ [ ~~(3)~~ ] considered at risk of developmental  
+| delay _; and_  
+|  _(2)_ _____shall be referred for services described by this_  
+| _section if the child is:_  
+|  _(A)_ _____in the conservatorship of the Department of_  
+| _Family and Protective Services; and_  
+|  _(B)_ _____at least one year of age unless an earlier_  
+| _referral for services is made_.  
+|  SECTION 6. Chapter 73, Human Resources Code, is amended by  
+| adding Sections 73.0105, 73.0111, and 73.012 to read as follows:  
+|  _Sec._ ___73.0105._ _____COMBINED OR CONCURRENT APPOINTMENTS. The_  
+| _commission shall ensure that:_  
+|  _(1)_ _____the parent, guardian, or other legally authorized_  
+| _representative of siblings who are eligible for the same service_  
+| _under this chapter is allowed to elect to have the siblings receive_  
+| _the service from the same provider at the same appointment if the_  
+| _provider agrees that the provision of services in this manner is_  
+| _appropriate treatment for the needs of each child; or_  
+|  _(2)_ _____if the siblings'_ ___parent, guardian, or other_  
+| _legally authorized representative does not make the election under_  
+| _Subdivision (1) or the siblings are eligible for different services_  
+| _under this chapter that are available from the same provider, the_  
+| _parent, guardian, or legally authorized representative may_  
+| _schedule the appointments for the services near in time to each_  
+| _other._  
+|  _Sec._ ___73.0111._ _____PROVIDER OMBUDSMAN. (a) In this section,_  
+| _"ombudsman" means the individual designated as the ombudsman for_  
+| _providers of services authorized under this chapter._  
+|  _(b)_ _____The executive commissioner shall designate an ombudsman_  
+| _for providers of services authorized under this chapter._  
+|  _(c)_ _____The ombudsman's office is administratively attached to_  
+| _the office of the ombudsman of the commission._  
+|  _(d)_ _____The commission may use an alternate title for the_  
+| _ombudsman in provider-directed materials if the commission_  
+| _determines that the alternate title would benefit providers'_  
+| _understanding of or access to ombudsman services._  
+|  _(e)_ _____The ombudsman serves as a neutral party to assist_  
+| _providers of services authorized under this chapter in resolving_  
+| _issues related to providing early childhood intervention services_  
+| _under this chapter, including through the STAR Kids managed care_  
+| _program._  
+|  _(f) The ombudsman shall:_  
+|  _(1)_ _____provide dispute and complaint resolution_  
+| _services;_  
+|  _(2)_ _____perform provider protection and advocacy_  
+| _functions; and_  
+|  _(3) collect inquiry and complaint data._  
+|  _(g)_ _____The executive commissioner by rule shall adopt and_  
+| _ensure the use of procedures for the reporting, monitoring, and_  
+| _resolution of disputes and complaints described by Subsection (f)_  
+| _that are consistent with the procedures adopted and used under_  
+| _Medicaid._  
+|  _Sec._ ___73.012._ _____REIMBURSEMENT METHODOLOGY FOR CASE MANAGEMENT_  
+| _SERVICES. (a) The executive commissioner shall:_  
+|  _(1)_ _____apply for and actively pursue from the federal_  
+| _Centers for Medicare and Medicaid Services or other appropriate_  
+| _federal agency any waiver or other authorization necessary to_  
+| _provide reimbursement under Medicaid for case management services_  
+| _provided under this chapter; and_  
+|  _(2)_ _____pending authorization under Subdivision (1),_  
+| _request clear direction and guidance from the federal Centers for_  
+| _Medicare and Medicaid Services on the reimbursement methodology_  
+| _that may be used for the provision of case management services under_  
+| _this chapter, including direction on allowable and unallowable_  
+| _costs._  
+|  _(b)_ _____If appropriate and based on the guidance received under_  
+| _Subsection (a), the executive commissioner shall amend rules_  
+| _governing reimbursement for the provision of case management_  
+| _services under this chapter to ensure providers are reimbursed for_  
+| _all allowable costs._  
+|  _(c) This section expires September 1, 2021._  
+|  SECTION 7. Subtitle B, Title 3, Human Resources Code, is  
+| amended by adding Chapter 74 to read as follows:  
+| _CHAPTER 74. TELE-CONNECTIVE PILOT PROGRAM_  
+|  _Sec. 74.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Commission" means the Health and Human Services_  
+| _Commission._  
+|  _(2)_ _____"Developmental delay" has the meaning assigned by_  
+| _Section 73.001._  
+|  _(3)_ _____"Eligible child" means a child who is eligible for_  
+| _early childhood intervention services under Chapter 73._  
+|  _(4)_ _____"Executive commissioner" means the executive_  
+| _commissioner of the Health and Human Services Commission._  
+|  _(5)_ _____"Tele-connective pilot program" means the program_  
+| _developed and implemented under Section 74.0002._  
+|  _(6)_ _____"Telehealth service" and "telemedicine medical_  
+| _service" have the meanings assigned by Section 111.001, Occupations_  
+| _Code._  
+|  _Sec._ ___74.0002._ _____TELE-CONNECTIVE PILOT PROGRAM. The_  
+| _commission shall develop and implement a pilot program to provide_  
+| _early childhood intervention services under Chapter 73 to eligible_  
+| _children through the provision of telehealth and telemedicine_  
+| _medical services delivered using access points established in_  
+| _school districts selected to participate in the program._  
+|  _Sec._ ___74.0003._ _____SCHOOL DISTRICT SELECTION. The commission in_  
+| _cooperation with the Texas Education Agency shall select the school_  
+| _districts in which to implement the tele-connective pilot program._  
+| _In determining the school districts in which to implement the_  
+| _program, the commission and the Texas Education Agency:_  
+|  _(1)_ _____shall consider each school district in which there_  
+| _is:_  
+|  _(A)_ _____a low or inadequate number of service_  
+| _providers authorized under Chapter 73; or_  
+|  _(B)_ _____a significant risk of losing service_  
+| _providers authorized under Chapter 73; and_  
+|  _(2)_ _____may implement the program only in school districts_  
+| _in which the implementation is reasonable and feasible._  
+|  _Sec._ ___74.0004._ _____PROVIDER PARTICIPATION. (a) The commission_  
+| _shall ensure that providers of services under Chapter 73 other than_  
+| _school districts are allowed to participate as providers in the_  
+| _tele-connective pilot program and provide services outside the_  
+| _school-based setting._  
+|  _(b)_ _____The commission shall collaborate with the Texas_  
+| _Education Agency to establish school-based provider access points_  
+| _for the program._  
+|  _Sec._ ___74.0005._ _____ADEQUATE NETWORK OF ACCESS POINTS. The_  
+| _commission and the Texas Education Agency shall ensure that an_  
+| _adequate number of school-based and non-school-based_  
+| _tele-connective pilot program access points are established in a_  
+| _school district participating in the program._  
+|  _Sec._ ___74.0006._ _____AUTOMATIC AND VOLUNTARY PARTICIPATION OF_  
+| _CERTAIN ELIGIBLE CHILDREN. (a) Subject to Subsection (b) and_  
+| _notwithstanding Section 73.0051(j), the commission shall_  
+| _automatically enroll an eligible child in the tele-connective pilot_  
+| _program if the child has a developmental delay of at least 30_  
+| _percent but less than 70 percent in only one area. An eligible_  
+| _child may not be enrolled in the tele-connective pilot program and_  
+| _may receive services in an in-person setting if the child has a_  
+| _developmental delay:_  
+|  _(1) in any degree in at least two areas; or_  
+|  _(2) of at least 70 percent in one area._  
+|  _(b)_ _____The parent, guardian, or other legally authorized_  
+| _representative of an eligible child may, at any time, elect to opt_  
+| _the child out of the tele-connective pilot program._  
+|  _Sec._ ___74.0007._ _____SCHOOL DISTRICT EMPLOYEE TRAINING. The Texas_  
+| _Education Agency shall develop a training course on the_  
+| _tele-connective pilot program to be given to appropriate school_  
+| _district employees._  
+|  _Sec._ ___74.0008._ _____INITIAL SCREENING AND EVALUATION. (a) An_  
+| _initial screening or evaluation under the tele-connective pilot_  
+| _program must:_  
+|  _(1) be an in-person consultation; and_  
+|  _(2)_ _____have the parent, guardian, or other legally_  
+| _authorized representative of the eligible child present._  
+|  _(b)_ _____The parent, guardian, or other legally authorized_  
+| _representative of an eligible child must be given the opportunity_  
+| _to opt the child out of the tele-connective pilot program at the_  
+| _time of the child's initial screening or evaluation._  
+|  _(c)_ _____Notwithstanding any other law, after a child is enrolled_  
+| _in the tele-connective pilot program, health care services,_  
+| _including any initial treatment or prescription, that are delivered_  
+| _or issued by a physician or by a health care provider acting under_  
+| _the delegation or supervision of the physician or under the health_  
+| _care provider's license may be provided using telecommunications or_  
+| _other information technology._  
+|  _Sec._ ___74.0009._ _____PROVIDER REIMBURSEMENT. The executive_  
+| _commissioner in adopting rules governing the tele-connective pilot_  
+| _program shall ensure that provider reimbursement for a telehealth_  
+| _or telemedicine medical service is made at a rate that is comparable_  
+| _to the rate paid under private health benefit plans._  
+|  _Sec._ ___74.0010._ _____CONFIDENTIALITY OF INFORMATION. The_  
+| _commission shall ensure that the tele-connective pilot program_  
+| _complies with federal and state law regarding confidentiality of_  
+| _medical information, including the Health Insurance Portability_  
+| _and Accountability Act of 1996 (42 U.S.C. Section 1320d et seq.) and_  
+| _the Family Educational Rights and Privacy Act of 1974 (20 U.S.C._  
+| _Section 1232g)._  
+|  _Sec._ ___74.0011._ _____ACCESS POINT EVALUATION. Not later than_  
+| _September 1, 2020, the commission shall conduct an evaluation of_  
+| _the tele-connective pilot program to ensure that an adequate number_  
+| _of access points have been established in each school district_  
+| _participating in the program. This section expires January 1,_  
+| _2021._  
+|  _Sec._ ___74.0012._ _____REPORT. Not later than January 1, 2021, the_  
+| _commission shall submit an initial report to the governor, the_  
+| _lieutenant governor, the speaker of the house of representatives,_  
+| _and the presiding officers of the standing committees of the senate_  
+| _and house of representatives having primary jurisdiction over the_  
+| _early childhood intervention program authorized by Chapter 73. The_  
+| _report must evaluate the operation of the tele-connective pilot_  
+| _program and make recommendations regarding the continuation or_  
+| _expansion of the program._  
+|  _Sec._ ___74.0013._ _____FUNDING. The commission shall actively seek_  
+| _and apply for any available federal money to support the_  
+| _tele-connective pilot program, including federal money made_  
+| _available by the:_  
+|  _(1)_ _____Federal Communications Commission, including_  
+| _money available under the federal Rural Health Care Program;_  
+|  _(2)_ _____United States Health Resources and Services_  
+| _Administration's Office for the Advancement of Telehealth; and_  
+|  _(3)_ _____United States Department of Agriculture,_  
+| _including the Distance Learning and Telemedicine Grant Program_  
+| _established under 7 C.F.R. Part 1734._  
+|  _Sec._ ___74.0014._ _____EXPIRATION. This chapter expires September_  
+| _1, 2023._  
+|  SECTION 8. The heading to Subchapter E, Chapter 1367,  
+| Insurance Code, is amended to read as follows:  
+| SUBCHAPTER E. _EARLY CHILDHOOD INTERVENTION SERVICES AND_  
+| DEVELOPMENTAL DELAYS  
+|  SECTION 9. Section 1367.201, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1367.201. DEFINITION. In this subchapter,  
+| rehabilitative and habilitative therapies _and related services_  
+| include:  
+|  (1) occupational therapy evaluations and services;  
+|  (2) physical therapy evaluations and services;  
+|  (3) speech therapy evaluations and services; [ ~~and~~ ]  
+|  (4) dietary or nutritional evaluations _;_  
+|  _(5)_ _____specialized skills training by a person certified_  
+| _as an early intervention specialist;_  
+|  _(6)_ _____applied behavior analysis treatment by a board_  
+| _certified behavior analyst or licensed psychologist; and_  
+|  _(7)_ _____case management provided by a person certified as_  
+| _an early intervention specialist_.  
+|  SECTION 10. Section 1367.202, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1367.202. APPLICABILITY OF SUBCHAPTER.  _(a)_ This  
+| subchapter applies only to a health benefit plan that:  
+|  (1) provides benefits for medical or surgical expenses  
+| incurred as a result of a health condition, accident, or sickness,  
+| including an individual, group, blanket, or franchise insurance  
+| policy or insurance agreement, a group hospital service contract,  
+| or an individual or group evidence of coverage that is offered by:  
+|  (A) an insurance company;  
+|  (B) a group hospital service corporation  
+| operating under Chapter 842;  
+|  (C) a fraternal benefit society operating under  
+| Chapter 885;  
+|  (D) a stipulated premium company operating under  
+| Chapter 884;  
+|  (E) a health maintenance organization operating  
+| under Chapter 843; or  
+|  (F) a multiple employer welfare arrangement  
+| subject to regulation under Chapter 846;  
+|  (2) is offered by an approved nonprofit health  
+| corporation that holds a certificate of authority under Chapter  
+| 844; or  
+|  (3) provides health and accident coverage through a  
+| risk pool created under Chapter 172, Local Government Code,  
+| notwithstanding Section 172.014, Local Government Code, or any  
+| other law.  
+|  _(b)_ _____Notwithstanding any other law, this subchapter also_  
+| _applies to a standard health benefit plan provided under Chapter_  
+| _1507._  
+|  _(c)_ _____Notwithstanding any provision in Chapter 1575 or 1579 or_  
+| _any other law, this subchapter applies to:_  
+|  _(1) a basic plan under Chapter 1575; and_  
+|  _(2) a primary care coverage plan under Chapter 1579._  
+|  SECTION 11. Section 1367.203, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1367.203. EXCEPTION.  _(a)_ This subchapter does not  
+| apply to:  
+|  (1) a plan that provides coverage:  
+|  (A) only for a specified disease or for another  
+| limited benefit;  
+|  (B) only for accidental death or dismemberment;  
+|  (C) for wages or payments in lieu of wages for a  
+| period during which an employee is absent from work because of  
+| sickness or injury;  
+|  (D) as a supplement to a liability insurance  
+| policy;  
+|  (E) for credit insurance;  
+|  (F) only for dental or vision care; or  
+|  (G) only for indemnity for hospital confinement;  
+|  (2) a small employer health benefit plan written under  
+| Chapter 1501;  
+|  (3) a Medicare supplemental policy as defined by  
+| Section 1882(g)(1), Social Security Act (42 U.S.C. Section 1395ss);  
+|  (4) a workers' compensation insurance policy;  
+|  (5) medical payment insurance coverage provided under  
+| a motor vehicle insurance policy; or  
+|  (6) a long-term care insurance policy, including a  
+| nursing home fixed indemnity policy, unless the commissioner  
+| determines that the policy provides benefit coverage so  
+| comprehensive that the policy is a health benefit plan as described  
+| by Section 1367.202.  
+|  _(b)_ _____This subchapter does not apply to a qualified health_  
+| _plan to the extent that a determination is made under 45 C.F.R._  
+| _Section 155.170 that:_  
+|  _(1)_ _____this subchapter requires the plan to offer_  
+| _benefits in addition to the essential health benefits required_  
+| _under 42 U.S.C. Section 18022(b); and_  
+|  _(2)_ _____this state is required to defray the cost of the_  
+| _benefits mandated under this subchapter._  
+|  SECTION 12. Section 1367.204, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1367.204. _PROVISION_ [ ~~OFFER~~ ] OF COVERAGE REQUIRED.  
+| [ ~~(a)~~ ]  A health benefit plan issuer must _provide_ [ ~~offer~~ ]
+coverage  
+| that complies with this subchapter.  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~The individual or group policy or contract holder
+may~~  
+|  ~~reject coverage required to be offered under this section.~~ ]  
+|  SECTION 13. Section 1367.205, Insurance Code, is amended by  
+| amending Subsections (a) and (b) and adding Subsection (d) to read  
+| as follows:  
+|  (a) A health benefit plan _required to provide_ [ ~~that~~  
+|  ~~provides~~ ] coverage for rehabilitative and habilitative therapies  
+| _and related services_ under this subchapter may not prohibit or  
+| restrict payment for covered services provided to a child and  
+| determined to be necessary to and provided in accordance with an  
+| individualized family service plan issued by the _Health and Human_  
+| _Services Commission_ [ ~~Interagency Council on Early Childhood~~  
+|  ~~Intervention~~ ] under Chapter 73, Human Resources Code.  
+|  (b) Rehabilitative and habilitative therapies _and related_  
+| _services_ described by Subsection (a) must be covered in the amount,  
+| duration, scope, and service setting established in the child's  
+| individualized family service plan.  
+|  _(d)_ _____A health benefit plan prior authorization requirement,_  
+| _or another requirement that a service be authorized, otherwise_  
+| _applicable to a covered rehabilitative or habilitative therapy_  
+| _service or a related service is satisfied if the service is_  
+| _specified in a child's individualized family service plan._  
+|  SECTION 14. Section 1367.206, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1367.206. PROHIBITED ACTIONS. Under the coverage  
+| required to be _provided_ [ ~~offered~~ ] under this subchapter, a health  
+| benefit plan issuer may not:  
+|  (1) apply the cost of rehabilitative and habilitative  
+| therapies _and related services_ described by Section 1367.205(a) to  
+| an annual or lifetime maximum plan benefit or similar provision  
+| under the plan; or  
+|  (2) use the cost of rehabilitative or habilitative  
+| therapies _and related services_ described by Section 1367.205(a) as  
+| the sole justification for:  
+|  (A) increasing plan premiums; or  
+|  (B) terminating the insured's or enrollee's  
+| participation in the plan.  
+|  SECTION 15. Subchapter A, Chapter 302, Labor Code, is  
+| amended by adding Section 302.0061 to read as follows:  
+|  _Sec._ ___302.0061._ _____WORKFORCE DEVELOPMENT GRANTS FOR PROVIDERS_  
+| _UNDER EARLY CHILDHOOD INTERVENTION PROGRAM. (a)_ ___In this section,_  
+| _"early childhood intervention program" means the program_  
+| _established under Chapter 73, Human Resources Code, to provide_  
+| _early childhood intervention services in accordance with Part C,_  
+| _Individuals with Disabilities Education Act (IDEA)(20 U.S.C._  
+| _Section 1431 et seq.)._  
+|  _(b)_ _____The commission shall actively seek and apply for federal_  
+| _funding to establish a program designed to provide workforce_  
+| _development grants to providers participating in the early_  
+| _childhood intervention program for purposes of improving the_  
+| _provision of program services by offering providers appropriate_  
+| _education and training._  
+|  SECTION 16. (a) The Health and Human Services Commission,  
+| after consulting with the Texas Education Agency, other appropriate  
+| state agencies, and the advisory committee established under  
+| Section 73.004, Human Resources Code, shall conduct a financial  
+| evaluation of the early childhood intervention services provided  
+| under Chapter 73, Human Resources Code, and report on that  
+| evaluation. The report must quantify the amount by which providing  
+| early childhood intervention services in this state affects other  
+| budget strategies.  
+|  (b) Not later than September 1, 2020, the Health and Human  
+| Services Commission shall submit the report prepared under  
+| Subsection (a) of this section to the governor, the lieutenant  
+| governor, the speaker of the house of representatives, and the  
+| presiding officers of the standing committees of the senate and  
+| house of representatives having primary jurisdiction over the early  
+| childhood intervention program authorized by Chapter 73, Human  
+| Resources Code.  
+|  SECTION 17. Not later than December 1, 2019, the Health and  
+| Human Services Commission shall issue guidance to health benefit  
+| plan issuers clarifying that providers of early childhood  
+| intervention services under Chapter 73, Human Resources Code, as  
+| amended by this Act, must file claims using the national provider  
+| identifier number and Texas provider identifier number.  
+|  SECTION 18. Section 533.00521(b), Government Code, as added  
+| by this Act, applies to a contract entered into or renewed on or  
+| after the effective date of this Act. A contract entered into or  
+| renewed before that date is governed by the law in effect on the  
+| date the contract was entered into or renewed, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 19. Subchapter E, Chapter 1367, Insurance Code, as  
+| amended by this Act, applies only to a health benefit plan  
+| delivered, issued for delivery, or renewed on or after January 1,  
+| 2020\. A health benefit plan delivered, issued for delivery, or  
+| renewed before January 1, 2020, is governed by the law as it existed  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 20. (a) As soon as practicable after the effective  
+| date of this Act, but not later than January 1, 2020, the Health and  
+| Human Services Commission shall develop and implement the  
+| tele-connective pilot program required by Chapter 74, Human  
+| Resources Code, as added by this Act.  
+|  (b) Immediately after the effective date of this Act, the  
+| Health and Human Services Commission shall apply for and actively  
+| pursue from the federal Centers for Medicare and Medicaid Services  
+| or other appropriate federal agency any waiver or other  
+| authorization necessary to implement Section 73.00521, Human  
+| Resources Code, as added by this Act. The commission may delay  
+| implementing Section 73.00521, Human Resources Code, as added by  
+| this Act, until the waiver or authorization is granted.  
+|  (c) If before implementing any provision of this Act other  
+| than Sections 73.00521 and 73.012(a)(1), Human Resources Code, as  
+| added by this Act, a state agency determines that a waiver or  
+| authorization from a federal agency is necessary for implementation  
+| of that provision, the agency affected by the provision shall  
+| request the waiver or authorization and may delay implementing that  
+| provision until the waiver or authorization is granted.  
+|  SECTION 21. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,27 @@
+| 86R5016 PMO-D  
+---|---  
+|  By: Zedler | H.B. No. 1273  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to denial of payment for preauthorized health care  
+| services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Chapter 1217, Insurance Code, is  
+| amended to read as follows:  
+| CHAPTER 1217. [ ~~STANDARD REQUEST FORM FOR~~ ] PRIOR AUTHORIZATION OF  
+| HEALTH CARE SERVICES  
+|  SECTION 2. Chapter 1217, Insurance Code, is amended by  
+| adding Section 1217.008 to read as follows:  
+|  _Sec._ ___1217.008._ _____PROHIBITION OF DENIAL OF PAYMENT FOR_  
+| _PREAUTHORIZED HEALTH CARE SERVICES._ ___If a health benefit plan_  
+| _issuer has given prior authorization for health care services to be_  
+| _performed by a physician or health care provider, the health_  
+| _benefit plan issuer may not deny or reduce payment to the physician_  
+| _or health care provider for those services based on medical_  
+| _necessity or appropriateness of care unless the physician or_  
+| _provider materially misrepresented the proposed health care_  
+| _services or substantially failed to perform the proposed health_  
+| _care services._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

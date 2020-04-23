@@ -1,0 +1,31 @@
+| 86R5220 AJZ-D  
+---|---  
+|  By: Dutton | H.B. No. 479  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to asset forfeiture proceedings under the Code of Criminal  
+| Procedure.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 59.05(d), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (d) A final conviction for an underlying offense is _required_  
+| [ ~~not a requirement~~ ] for forfeiture under this chapter. _The court_  
+| _shall dismiss a forfeiture proceeding on proof_ [ ~~An owner or~~  
+|  ~~interest holder may present evidence~~ ] of a dismissal or acquittal  
+| of _the_ [ ~~an~~ ] underlying offense [ ~~in a forfeiture proceeding, and~~  
+|  ~~evidence of an acquittal raises a presumption that the property or~~  
+|  ~~interest that is the subject of the hearing is nonforfeitable. This~~  
+|  ~~presumption can be rebutted by evidence that the owner or interest~~  
+|  ~~holder knew or should have known that the property was contraband~~ ].  
+|  SECTION 2. The change in law made by this Act applies only  
+| to property subject to forfeiture on the basis of an offense  
+| committed on or after the effective date of this Act. Property  
+| subject to forfeiture on the basis of an offense committed before  
+| the effective date of this Act is governed by the law in effect on  
+| the date the offense was committed, and the former law is continued  
+| in effect for that purpose. For purposes of this section, an  
+| offense was committed before the effective date of this Act if any  
+| element of the offense occurred before that date.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

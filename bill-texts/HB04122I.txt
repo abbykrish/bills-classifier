@@ -1,0 +1,21 @@
+| 86R14236 AJA-D  
+---|---  
+|  By: Johnson of Harris | H.B. No. 4122  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the award of attorney's fees to a financial institution  
+| that answers a writ of garnishment.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 276.002, Finance Code, is amended by  
+| adding Subsection (d-1) to read as follows:  
+|  _(d-1)_ _____Notwithstanding the Texas Rules of Civil Procedure or_  
+| _any other law, if a financial institution timely files an answer to_  
+| _a writ of garnishment, a court may not award attorney's fees to the_  
+| _financial institution unless the garnishor unsuccessfully contests_  
+| _the answer._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a writ of garnishment issued on or after the effective date of  
+| this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

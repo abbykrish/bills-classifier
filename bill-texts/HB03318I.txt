@@ -1,0 +1,169 @@
+| 86R4589 JTS-D  
+---|---  
+|  By: Burns | H.B. No. 3318  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a permit requirement for the land application of  
+| domestic septage.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Section 361.121, Health and  
+| Safety Code, is amended to read as follows:  
+|  Sec. 361.121. LAND APPLICATION OF CERTAIN SLUDGE _OR_  
+| _DOMESTIC SEPTAGE_ ; PERMIT REQUIRED.  
+|  SECTION 2. Sections 361.121(a), (b), (c), (d), (g), (h),  
+| (i), (k), and (l), Health and Safety Code, are amended to read as  
+| follows:  
+|  (a) In this section:  
+|  (1) "Class B sludge" is sewage sludge that meets one of  
+| the pathogen reduction requirements of 30 T.A.C. 312.82(b).  
+|  _(1-a) "Domestic septage" means liquid or solid material_  
+| _removed from a septic tank, cesspool, portable toilet, marine_  
+| _sanitation device, or similar treatment works that receives only_  
+| _domestic sewage. The term does not include:_  
+|  _(A)_ _____liquid or solid material removed from a_  
+| _septic tank, cesspool, or similar treatment works that receives_  
+| _either commercial wastewater or industrial wastewater; or_  
+|  _(B) grease removed from a grease trap._  
+|  (2) "Land application unit" means an area where wastes  
+| are applied onto or incorporated into the soil surface for  
+| agricultural purposes or for treatment and disposal. The term does  
+| not include manure spreading operations.  
+|  (3) "Responsible person" means the person with  
+| ultimate responsibility for the land application of the Class B  
+| sludge _or domestic septage_ at a land application unit. The  
+| responsible person is:  
+|  (A) the owner of the land application unit if the  
+| sludge _or septage_ being land applied was generated outside this  
+| state; or  
+|  (B) the person who is land applying the sludge _or_  
+| _septage_ if the sludge _or septage_ being land applied was generated in  
+| this state.  
+|  (b) Except as provided by Subsection (m), a responsible  
+| person may not apply Class B sludge _or domestic septage_ on a land  
+| application unit unless the responsible person has obtained a  
+| permit for that land application unit issued by the commission  
+| under this section [ ~~on or after September 1, 2003~~ ].  
+|  (c) The notice and hearing provisions of Subchapter M,  
+| Chapter 5, Water Code, [ ~~as added by Chapter 1350, Acts of the 76th~~  
+|  ~~Legislature, Regular Session, 1999,~~ ] apply to an application under  
+| this section for a permit, a permit amendment, or a permit renewal.  
+| In addition, at the time published notice of intent to obtain a  
+| permit is required under Section 5.552, Water Code, an applicant  
+| for a permit, permit amendment, or permit renewal under this  
+| section must notify by registered or certified mail each owner of  
+| land located within one-quarter mile of the proposed land  
+| application unit who lives on that land of the intent to obtain the  
+| permit, amendment, or renewal. Notice to landowners must include  
+| the information required by Section 5.552(c), Water Code, and  
+| information regarding the anticipated date of the first application  
+| of the sludge _or domestic septage_ to the proposed land application  
+| unit. An owner of land located within one-quarter mile of the  
+| proposed land application unit who lives on that land is an affected  
+| person for purposes of Section 5.115, Water Code.  
+|  (d) In each permit, the commission shall prescribe the  
+| conditions under which it is issued, including:  
+|  (1) the duration of the permit;  
+|  (2) the location of the land application unit;  
+|  (3) the maximum quantity of Class B sludge _or domestic_  
+| _septage_ that may be applied or disposed of under the permit;  
+|  (4) a requirement that the permit holder submit  
+| quarterly to the commission a computer-generated report that  
+| includes, at a minimum, information regarding:  
+|  (A) the source, quality, and quantity of sludge  
+| _or septage_ applied to the land application unit;  
+|  (B) the location of the land application unit,  
+| either in terms of longitude and latitude or by physical address,  
+| including the county;  
+|  (C) the date of delivery of Class B sludge _or_  
+| _septage_ ;  
+|  (D) the date of application of Class B sludge _or_  
+| _septage_ ;  
+|  (E) the cumulative amount of metals applied to  
+| the land application unit through the application of Class B sludge  
+| _or septage_ ;  
+|  (F) crops grown at the land application unit  
+| site; and  
+|  (G) the suggested agronomic application rate for  
+| the Class B sludge _or septage_ ;  
+|  (5) a requirement that the permit holder submit  
+| annually to the commission evidence that the permit holder is  
+| complying with the nutrient management plan and the practice  
+| standards described by Subsection (h)(4);  
+|  (6) a requirement that the permit holder post a sign  
+| that is visible from a road or sidewalk that is adjacent to the  
+| premises on which the land application unit is located stating that  
+| a beneficial application site is located on the premises;  
+|  (7) any other monitoring and reporting requirements  
+| prescribed by the commission for the permit holder; and  
+|  (8) a requirement that the permit holder must report  
+| to the commission any noncompliance by the permit holder with the  
+| permit conditions or applicable commission rules.  
+|  (g) The commission shall charge a fee for the issuance of a  
+| permit under this section in an amount not less than $1,000 and not  
+| more than $5,000. In determining the fee under this subsection, the  
+| commission shall consider the amount of sludge _or domestic septage_  
+| to be applied under the permit.  
+|  (h) The commission by rule shall require an applicant for a  
+| permit under this section to submit with the application, at a  
+| minimum:  
+|  (1) information regarding:  
+|  (A) the applicant;  
+|  (B) the source, quality, and quantity of sludge  
+| _or domestic septage_ to be applied; and  
+|  (C) the hydrologic characteristics of the  
+| surface water and groundwater at and within one-quarter of a mile of  
+| the land application unit;  
+|  (2) proof evidencing that the applicant has a  
+| commercial liability insurance policy that:  
+|  (A) is issued by an insurance company authorized  
+| to do business in this state that has a rating by the A. M. Best  
+| Company of A- or better;  
+|  (B) designates the commission as an additional  
+| insured; and  
+|  (C) is in an amount of not less than $3 million;  
+|  (3) proof evidencing that the applicant has an  
+| environmental impairment insurance policy or similar insurance  
+| policy that:  
+|  (A) is issued by an insurance company authorized  
+| to do business in this state that has a rating by the A. M. Best  
+| Company of A- or better;  
+|  (B) designates the commission as an additional  
+| insured; and  
+|  (C) is in an amount of not less than $3 million;  
+| and  
+|  (4) proof that the applicant has minimized the risk of  
+| water quality impairment caused by nitrogen applied to the land  
+| application unit through the application of Class B sludge _or_  
+| _domestic septage_ by having had a nutrient management plan prepared  
+| by a certified nutrient management specialist in accordance with  
+| the practice standards of the Natural Resources Conservation  
+| Service of the United States Department of Agriculture.  
+|  (i) The commission may expand the definition of Class B  
+| sludge _or domestic septage_ only by expanding the definition to  
+| include sludge _or septage_ that meets more stringent pathogen  
+| reduction requirements.  
+|  (k) The commission shall create and operate a tracking  
+| system for the land application of Class B sludge _or domestic_  
+| _septage_. The commission shall require a permit holder to report  
+| deliveries and applications of Class B sludge _or domestic septage_  
+| using the tracking system and shall post the reported information  
+| on its website. The tracking system must allow a permit holder to  
+| report electronically:  
+|  (1) the date of delivery of Class B sludge _or domestic_  
+| _septage_ to a land application unit; and  
+|  (2) for each application of Class B sludge _or domestic_  
+| _septage_ to a land application unit:  
+|  (A) the date of the application; and  
+|  (B) the source, quality, and quantity of the  
+| sludge _or septage_ applied.  
+|  (l) A permit holder may not accept Class B sludge _or_  
+| _domestic septage_ unless the sludge _or septage_ has been transported  
+| to the land application unit in a covered container with the  
+| covering firmly secured at the front and back.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

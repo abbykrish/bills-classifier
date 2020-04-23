@@ -1,0 +1,418 @@
+| 86R780 CLG-F  
+---|---  
+|  By: Ortega | H.B. No. 90  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to residential mortgage loans, including the financing of  
+| residential real estate purchases by means of a wrap mortgage loan;  
+| providing licensing requirements; authorizing an administrative  
+| penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 156.202, Finance Code, is amended by  
+| amending Subsection (a-1) and adding Subsection (b) to read as  
+| follows:  
+|  (a-1) The following entities are exempt from this chapter:  
+|  (1) a nonprofit organization:  
+|  (A) providing self-help housing that originates  
+| zero interest residential mortgage loans for borrowers who have  
+| provided part of the labor to construct the dwelling securing the  
+| loan; or  
+|  (B) that has designation as a Section 501(c)(3)  
+| organization by the Internal Revenue Service and originates  
+| residential mortgage loans for borrowers who, through a self-help  
+| program, have provided at least 200 labor hours or 65 percent of the  
+| labor to construct the dwelling securing the loan;  
+|  (2) a mortgage banker registered under Chapter 157;  
+|  (3) _subject to Subsection (b),_ any owner of  
+| residential real estate who in any 12-consecutive-month period  
+| makes no more than five residential mortgage loans to purchasers of  
+| the property for all or part of the purchase price of the  
+| residential real estate against which the mortgage is secured; and  
+|  (4) an entity that is:  
+|  (A) a depository institution;  
+|  (B) a subsidiary of a depository institution that  
+| is:  
+|  (i) owned and controlled by the depository  
+| institution; and  
+|  (ii) regulated by a federal banking agency;  
+| or  
+|  (C) an institution regulated by the Farm Credit  
+| Administration.  
+|  _(b)_ _____In determining eligibility for an exemption under_  
+| _Subsection (a-1)(3), two or more owners of residential real estate_  
+| _are considered a single owner for the purpose of computing the_  
+| _number of mortgage loans made within the period specified by that_  
+| _subdivision if any of the owners are affiliates, as defined by_  
+| _Section 1.002(1), Business Organizations Code, or if any of the_  
+| _owners have substantially common ownership, as determined by the_  
+| _commissioner._  
+|  SECTION 2. Section 157.0121, Finance Code, is amended by  
+| amending Subsection (c) and adding Subsection (f) to read as  
+| follows:  
+|  (c) Employees of the following entities, when acting for the  
+| benefit of those entities, are exempt from the licensing and other  
+| requirements of this chapter applicable to residential mortgage  
+| loan originators:  
+|  (1) a nonprofit organization:  
+|  (A) providing self-help housing that originates  
+| zero interest residential mortgage loans for borrowers who have  
+| provided part of the labor to construct the dwelling securing the  
+| loan; or  
+|  (B) that has designation as a Section 501(c)(3)  
+| organization by the Internal Revenue Service and originates  
+| residential mortgage loans for borrowers who, through a self-help  
+| program, have provided at least 200 labor hours or 65 percent of the  
+| labor to construct the dwelling securing the loan;  
+|  (2) _subject to Subsection (f),_ any owner of  
+| residential real estate who in any 12-consecutive-month period  
+| makes no more than five residential mortgage loans to purchasers of  
+| the property for all or part of the purchase price of the  
+| residential real estate against which the mortgage is secured; and  
+|  (3) an entity that is:  
+|  (A) a depository institution;  
+|  (B) a subsidiary of a depository institution that  
+| is:  
+|  (i) owned and controlled by the depository  
+| institution; and  
+|  (ii) regulated by a federal banking agency;  
+| or  
+|  (C) an institution regulated by the Farm Credit  
+| Administration.  
+|  _(f)_ _____In determining eligibility for an exemption under_  
+| _Subsection (c)(2), two or more owners of residential real estate_  
+| _are considered a single owner for the purpose of computing the_  
+| _number of mortgage loans made within the period specified by that_  
+| _subdivision if any of the owners are affiliates, as defined by_  
+| _Section 1.002(1), Business Organizations Code, or if any of the_  
+| _owners have substantially common ownership, as determined by the_  
+| _commissioner._  
+|  SECTION 3. Subtitle E, Title 3, Finance Code, is amended by  
+| adding Chapter 159 to read as follows:  
+| _CHAPTER 159. WRAP MORTGAGE LOAN FINANCING_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+| _Sec. 159.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Commissioner"_ ___means the savings and mortgage_  
+| _lending commissioner._  
+|  _(2)_ _____"Finance commission"_ ___means the Finance Commission_  
+| _of Texas._  
+|  _(3)_ _____"Residential mortgage loan" has the meaning_  
+| _assigned by Section 180.002._  
+|  _(4)_ _____"Residential real estate" has the meaning assigned_  
+| _by Section 180.002._  
+|  _(5)_ _____"Wrap borrower" means a person obligated to pay a_  
+| _wrap mortgage loan._  
+|  _(6) "Wrap lender" means:_  
+|  _(A) a person who makes a wrap mortgage loan; or_  
+|  _(B)_ _____an owner of residential real estate who_  
+| _contracts with another person to make a wrap mortgage loan to a wrap_  
+| _borrower on the owner's behalf to finance the purchase of the_  
+| _owner's residential real estate._  
+|  _(7)_ _____"Wrap mortgage loan" means a residential mortgage_  
+| _loan:_  
+|  _(A)_ _____made to finance the purchase of residential_  
+| _real estate that will continue to be subject to an unreleased lien_  
+| _that:_  
+|  _(i)_ _____attached to the residential real estate_  
+| _before the loan was made; and_  
+|  _(ii)_ _____secures a debt incurred by a person_  
+| _other than the wrap borrower that was not paid off at the time the_  
+| _loan was made; and_  
+|  _(B)_ _____obligating the wrap borrower to the wrap_  
+| _lender for payment of a debt the principal amount of which includes:_  
+|  _(i)_ _____the outstanding balance of the debt_  
+| _described by Paragraph (A)(ii); and_  
+|  _(ii)_ _____any remaining amount of the purchase_  
+| _price financed by the wrap lender._  
+|  _Sec._ ___159.002._ _____INAPPLICABILITY OF CHAPTER. (a)_ _____In this_  
+| _section, "unimproved residential real estate" means residential_  
+| _real estate on which a dwelling has not been constructed._  
+|  _(b)_ _____Notwithstanding any other provision of this chapter,_  
+| _this chapter does not apply to a wrap mortgage loan made by or on_  
+| _behalf of an owner of unimproved residential real estate to a_  
+| _purchaser of that residential real estate if:_  
+|  _(1)_ _____the residential real estate purchased will not_  
+| _continue to be subject to any unreleased lien described by Section_  
+| _159.001(7)(A) that secures a debt that is subject to a due-on-sale_  
+| _clause in connection with which the lienholder may foreclose the_  
+| _lien; or_  
+|  _(2)_ _____the residential real estate purchased will_  
+| _continue to be subject to an unreleased lien described by_  
+| _Subdivision (1) and the holder of that unreleased lien has_  
+| _consented to the sale of the residential real estate._  
+|  _Sec._ ___159.003._ _____EXEMPTIONS. (a)_ _____The following persons are_  
+| _exempt from this chapter:_  
+|  _(1)_ _____a federally insured bank, savings bank, savings_  
+| _and loan association, Farm Credit System Institution, or credit_  
+| _union;_  
+|  _(2)_ _____a subsidiary of a federally insured bank, savings_  
+| _bank, savings and loan association, Farm Credit System Institution,_  
+| _or credit union;_  
+|  _(3) an authorized lender licensed under Chapter 342;_  
+|  _(4)_ _____the state or a governmental agency, political_  
+| _subdivision, or other instrumentality of the state, or an employee_  
+| _of the state or a governmental agency, political subdivision, or_  
+| _instrumentality of the state who is acting within the scope of the_  
+| _person's employment; or_  
+|  _(5)_ _____subject to Subsection (b), an owner of residential_  
+| _real estate if the owner does not in any 12-consecutive-month_  
+| _period make, or contract with another person to make, more than five_  
+| _wrap mortgage loans to purchasers of the property for all or part of_  
+| _the purchase price of the residential real estate against which the_  
+| _mortgage is secured._  
+|  _(b)_ _____In determining eligibility for an exemption under_  
+| _Subsection (a)(5), two or more owners of residential real estate_  
+| _are considered a single owner for the purpose of computing the_  
+| _number of wrap mortgage loans made within the period specified by_  
+| _that subdivision if any of the owners are affiliates, as defined by_  
+| _Section 1.002(1), Business Organizations Code, or if any of the_  
+| _owners have substantially common ownership, as determined by the_  
+| _commissioner._  
+| _SUBCHAPTER B. LICENSING_  
+|  _Sec._ ___159.051._ _____LICENSE REQUIRED. (a)_ _____A person may not_  
+| _originate or make a wrap mortgage loan unless the person is licensed_  
+| _to originate or make residential mortgage loans under Chapter 156_  
+| _or 157 or is exempt from licensing as provided under an applicable_  
+| _provision of those chapters._  
+|  _(b)_ _____The requirement to hold a license under Subsection (a)_  
+| _applies to a person originating or making a wrap mortgage loan_  
+| _regardless of whether the person engages in a specific activity for_  
+| _which a license is required under Chapter 156 or 157 in connection_  
+| _with the originating or making of the loan._  
+| _SUBCHAPTER C. TRANSACTION REQUIREMENTS; REMEDIES_  
+|  _Sec._ ___159.101._ _____DISCLOSURE STATEMENT. (a)_ _____A wrap lender not_  
+| _otherwise required to provide a written disclosure statement to the_  
+| _wrap borrower under Section 5.016, Property Code, must, on or_  
+| _before the seventh day before the wrap mortgage loan agreement is_  
+| _entered into, provide to the wrap borrower a separate written_  
+| _disclosure statement in at least 12-point type that contains the_  
+| _information required for a written disclosure statement under_  
+| _Section 5.016, Property Code._  
+|  _(b)_ _____Regardless of whether the wrap lender provides a written_  
+| _disclosure statement under Subsection (a) or under Section 5.016,_  
+| _Property Code, the wrap lender's disclosure statement to the wrap_  
+| _borrower must include a statement in a form substantially similar_  
+| _to the following:_  
+| _NOTICE REGARDING PROPERTY INSURANCE: ANY INSURANCE MAINTAINED BY A_  
+| _SELLER, LENDER, OR OTHER PERSON WHO IS NOT THE BUYER OF THIS_  
+| _PROPERTY MAY NOT PROVIDE COVERAGE TO THE BUYER IF THE BUYER SUFFERS_  
+| _A LOSS OR INCURS LIABILITY IN CONNECTION WITH THE PROPERTY. TO_  
+| _ENSURE THE BUYER'S INTERESTS ARE PROTECTED, THE BUYER SHOULD_  
+| _PURCHASE THE BUYER'S OWN PROPERTY INSURANCE. BEFORE PURCHASING_  
+| _THIS PROPERTY, YOU MAY WISH TO CONSULT AN INSURANCE AGENT REGARDING_  
+| _THE INSURANCE COVERAGE AVAILABLE TO YOU AS A BUYER OF THE PROPERTY._  
+|  _Sec._ ___159.102._ _____FOREIGN LANGUAGE REQUIREMENT. Regardless of_  
+| _whether the wrap lender provides a written disclosure statement_  
+| _under Section 159.101 or under Section 5.016, Property Code, if the_  
+| _negotiations that precede the execution of the wrap mortgage loan_  
+| _agreement are conducted primarily in a language other than English,_  
+| _the wrap lender shall provide a copy of the required disclosure_  
+| _statement in that language to the wrap borrower._  
+|  _Sec._ ___159.103._ _____FAILURE TO PROVIDE DISCLOSURE:_ ___TOLLING OF_  
+| _LIMITATIONS. If a wrap lender fails to provide the disclosure_  
+| _statement as required by Section 159.101 or fails to provide the_  
+| _disclosure statement in the language required by Section 159.102,_  
+| _the limitations period applicable to any cause of action of the wrap_  
+| _borrower against the wrap lender arising out of the wrap lender's_  
+| _violation of a law of this state in connection with the wrap_  
+| _mortgage loan transaction is tolled until the 120th day after the_  
+| _date the required disclosure statement is provided._  
+|  _Sec._ ___159.104._ _____ENFORCEABILITY OF WRAP LIEN. A lien securing_  
+| _a wrap mortgage loan is void unless:_  
+|  _(1)_ _____the residential real estate was conveyed to the_  
+| _purchaser with the written consent of each holder of an unreleased_  
+| _lien described by Section 159.001(7)(A) and a copy of each_  
+| _lienholder's written consent is attached to the recorded instrument_  
+| _conveying the residential real estate; and_  
+|  _(2)_ _____the wrap mortgage loan and the conveyance of the_  
+| _residential real estate securing the loan are closed by an attorney_  
+| _or a title company and an affidavit of a person knowledgeable of the_  
+| _facts regarding the closing location that confirms the closing_  
+| _location is attached to the recorded instrument conveying the_  
+| _residential real estate._  
+|  _Sec._ ___159.105._ _____BORROWER'S RIGHT OF ACTION. (a)_ _____A wrap_  
+| _borrower may bring an action to:_  
+|  _(1)_ _____obtain declaratory or injunctive relief to enforce_  
+| _this subchapter;_  
+|  _(2)_ _____recover any actual damages suffered by the wrap_  
+| _borrower as a result of a violation of this subchapter; or_  
+|  _(3)_ _____obtain other remedies available in an action under_  
+| _Section 17.50, Business & Commerce Code, as otherwise authorized _  
+| _under this subchapter._  
+|  _(b)_ _____A wrap borrower who prevails in an action under this_  
+| _section may recover court costs and reasonable attorney's fees._  
+|  _Sec._ ___159.106._ _____WAIVER OR AVOIDANCE PROHIBITED. (a)_ _____Any_  
+| _purported waiver of a right of a wrap borrower under this subchapter_  
+| _or purported exemption of a person from liability for a violation of_  
+| _this subchapter is void._  
+|  _(b)_ _____A person who is a party to a residential real estate_  
+| _transaction may not evade the application of this subchapter by any_  
+| _device, subterfuge, or pretense, and any attempt to do so is void_  
+| _and a deceptive trade practice under Subchapter E, Chapter 17,_  
+| _Business & Commerce Code, and is actionable under that subchapter._  
+|  _Sec._ ___159.107._ _____RULEMAKING AUTHORITY. The finance commission_  
+| _may adopt and enforce rules necessary for the intent of or to ensure_  
+| _compliance with this subchapter._  
+| _SUBCHAPTER D._ ___DUTIES OWED TO WRAP BORROWER_  
+|  _Sec._ ___159.151._ _____MONEY HELD IN TRUST. A person who collects or_  
+| _receives a payment from a wrap borrower under the terms of a wrap_  
+| _mortgage loan holds the money in trust for the benefit of the_  
+| _borrower._  
+|  _Sec._ ___159.152._ _____FIDUCIARY DUTY. A person who collects or_  
+| _receives a payment from a wrap borrower under the terms of or in_  
+| _connection with a wrap mortgage loan owes a fiduciary duty to the_  
+| _wrap borrower to use the payment to satisfy the wrap lender's_  
+| _obligations under each debt described by Section 159.001(7)(A)(ii)_  
+| _and any other obligation affecting the residential real estate for_  
+| _which the wrap lender is responsible._  
+| _SUBCHAPTER E._ ___WRAP BORROWER'S RIGHTS_  
+|  _Sec._ ___159.201._ _____APPLICABILITY OF SUBCHAPTER. (a)_ _____Subject to_  
+| _Subsection (b), this subchapter applies only to a wrap mortgage_  
+| _loan for a purchase of residential real estate to be used as the_  
+| _wrap borrower's residence._  
+|  _(b)_ _____This subchapter does not apply to a wrap mortgage loan_  
+| _for a sale of residential real estate that is the wrap lender's_  
+| _homestead._  
+|  _Sec._ ___159.202._ _____WRAP BORROWER'S RIGHT TO DEDUCT. The wrap_  
+| _borrower, without taking judicial action, may deduct from any_  
+| _amount owed to the wrap lender under the terms of the wrap mortgage_  
+| _loan:_  
+|  _(1)_ _____the amount of any payment made by the wrap borrower_  
+| _to an obligee of a debt described by Section 159.001(7)(A)(ii) to_  
+| _cure a default by the wrap lender caused by the lender's failure to_  
+| _make payments for which the lender is responsible under the terms of_  
+| _the wrap mortgage loan; or_  
+|  _(2)_ _____any other amount for which the wrap lender is_  
+| _liable to the wrap borrower under the terms of the wrap mortgage_  
+| _loan._  
+| _SUBCHAPTER F._ ___ENFORCEMENT OF CERTAIN REGISTRATION REQUIREMENTS_  
+|  _Sec._ ___159.251._ _____APPLICABILITY OF SUBCHAPTER. This subchapter_  
+| _applies only to a wrap lender who is required to register as a_  
+| _residential mortgage loan servicer under Chapter 158._  
+|  _Sec._ ___159.252._ _____INSPECTION; INVESTIGATION. (a)_ _____The_  
+| _commissioner may conduct an inspection of a wrap lender registered_  
+| _under Chapter 158 as the commissioner determines necessary to_  
+| _determine whether the wrap lender is complying with that chapter_  
+| _and applicable rules._ ___The inspection may include an inspection of_  
+| _the books, records, documents, operations, and facilities of the_  
+| _wrap lender._ ___The commissioner may share evidence of criminal_  
+| _activity gathered during an inspection or investigation with any_  
+| _state or federal law enforcement agency._  
+|  _(b)_ _____For reasonable cause, the commissioner at any time may_  
+| _investigate a wrap lender registered under Chapter 158 to determine_  
+| _whether the lender is complying with that chapter and applicable_  
+| _rules._  
+|  _(c)_ _____The commissioner may conduct an undercover or covert_  
+| _investigation only if the commissioner, after due consideration of_  
+| _the circumstances, determines that the investigation is necessary_  
+| _to prevent immediate harm and to carry out the purposes of Chapter_  
+| _158._  
+|  _(d)_ _____The finance commission by rule shall provide guidelines_  
+| _to govern an inspection or investigation under this section,_  
+| _including rules to:_  
+|  _(1)_ _____determine the information and records of the wrap_  
+| _lender to which the commissioner may demand access during an_  
+| _inspection or investigation; and_  
+|  _(2)_ _____establish what constitutes reasonable cause for an_  
+| _investigation._  
+|  _(e)_ _____Information obtained by the commissioner during an_  
+| _inspection or investigation under this section is confidential_  
+| _unless disclosure of the information is permitted or required by_  
+| _other law._  
+|  _(f)_ _____The commissioner may share information gathered during_  
+| _an investigation under this section with a state or federal agency._ __  
+| _The commissioner may share information gathered during an_  
+| _inspection with a state or federal agency only if the commissioner_  
+| _determines there is a valid reason for the sharing._  
+|  _(g)_ _____The commissioner may require reimbursement of expenses_  
+| _for each examiner for an on-site examination or inspection of a_  
+| _registered wrap lender under this section if records are located_  
+| _out of state and are not made available for examination or_  
+| _inspection by the examiner in this state._ ___The finance commission by_  
+| _rule shall set the maximum amount for the reimbursement of expenses_  
+| _authorized under this subsection._  
+|  _Sec._ ___159.253._ _____ISSUANCE AND ENFORCEMENT OF SUBPOENA._  
+| _(a)_ _____During an investigation conducted under this subchapter, the_  
+| _commissioner may issue a subpoena that is addressed to a peace_  
+| _officer of this state or other person authorized by law to serve_  
+| _citation or perfect service._ ___The subpoena may require a person to_  
+| _give a deposition, produce documents, or both._  
+|  _(b)_ _____If a person disobeys a subpoena or if a person appearing_  
+| _in a deposition in connection with the investigation refuses to_  
+| _testify, the commissioner may petition a district court in Travis_  
+| _County to issue an order requiring the person to obey the subpoena,_  
+| _testify, or produce documents relating to the matter._ ___The court_  
+| _shall promptly set an application to enforce a subpoena issued_  
+| _under Subsection (a) for hearing and shall cause notice of the_  
+| _application and the hearing to be served on the person to whom the_  
+| _subpoena is directed._  
+| _SUBCHAPTER G._ ___ENFORCEMENT OF CHAPTER_  
+|  _Sec._ ___159.301._ _____CEASE AND DESIST ORDER. (a)_ _____The_  
+| _commissioner, if the commissioner has reasonable cause to believe_  
+| _that a wrap lender or wrap mortgage loan originator to whom this_  
+| _chapter applies has violated or is about to violate this chapter,_  
+| _may issue without notice and hearing an order to cease and desist_  
+| _from continuing a particular action or an order to take affirmative_  
+| _action, or both, to enforce compliance with this chapter._  
+|  _(b)_ _____An order issued under Subsection (a) must contain a_  
+| _reasonably detailed statement of the facts on which the order is_  
+| _made. If a person against whom the order is made requests a_  
+| _hearing, the commissioner shall set and give notice of a hearing_  
+| _before the commissioner or a hearings officer. The hearing shall be_  
+| _governed by Chapter 2001, Government Code. Based on the findings of_  
+| _fact, conclusions of law, and recommendations of the hearings_  
+| _officer, the commissioner by order may find a violation has_  
+| _occurred or not occurred._  
+|  _(c)_ _____If a hearing is not requested under Subsection (b) not_  
+| _later than the 30th day after the date on which an order is made, the_  
+| _order is considered final and not appealable._  
+|  _(d)_ _____The commissioner, after giving notice and an_  
+| _opportunity for hearing, may impose against a person who violates a_  
+| _cease and desist order an administrative penalty in an amount not to_  
+| _exceed $1,000 for each day of the violation. In addition to any_  
+| _other remedy provided by law, the commissioner may institute in_  
+| _district court a suit for injunctive relief and to collect the_  
+| _administrative penalty._ _____A bond is not required of the commissioner_  
+| _with respect to injunctive relief granted under this subsection._  
+|  SECTION 4. Section 180.003, Finance Code, is amended by  
+| amending Subsection (a) and adding Subsection (d) to read as  
+| follows:  
+|  (a) The following persons are exempt from this chapter:  
+|  (1) a registered mortgage loan originator when acting  
+| for an entity described by Section 180.002(16)(A)(i), (ii), or  
+| (iii);  
+|  (2) an individual who offers or negotiates terms of a  
+| residential mortgage loan with or on behalf of an immediate family  
+| member of the individual;  
+|  (3) a licensed attorney who negotiates the terms of a  
+| residential mortgage loan on behalf of a client as an ancillary  
+| matter to the attorney's representation of the client, unless the  
+| attorney:  
+|  (A) takes a residential mortgage loan  
+| application; and  
+|  (B) offers or negotiates the terms of a  
+| residential mortgage loan;  
+|  (4) an individual who offers or negotiates terms of a  
+| residential mortgage loan secured by a dwelling that serves as the  
+| individual's residence;  
+|  (5) _subject to Subsection (d),_ an owner of residential  
+| real estate who in any 12-consecutive-month period makes no more  
+| than five residential mortgage loans to purchasers of the property  
+| for all or part of the purchase price of the residential real estate  
+| against which the mortgage is secured; and  
+|  (6) _subject to Subsection (d),_ an owner of a dwelling  
+| who in any 12-consecutive-month period makes no more than five  
+| residential mortgage loans to purchasers of the property for all or  
+| part of the purchase price of the dwelling against which the  
+| mortgage or security interest is secured.  
+|  _(d)_ _____In determining eligibility for an exemption under_  
+| _Subsection (a)(5) or (6), two or more owners of residential real_  
+| _estate or a dwelling, as applicable, are considered a single owner_  
+| _for the purpose of computing the number of mortgage loans made_  
+| _within the period specified by those subdivisions if any of the_  
+| _owners are affiliates, as defined by Section 1.002(1), Business_  
+| _Organizations Code, or if any of the owners have substantially_  
+| _common ownership, as determined by the savings and mortgage lending_  
+| _commissioner._  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

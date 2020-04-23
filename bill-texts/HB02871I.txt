@@ -1,0 +1,292 @@
+| 86R5681 JXC-D  
+---|---  
+|  By: Biedermann | H.B. No. 2871  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of certain aggregate production  
+| operations by the Railroad Commission of Texas; authorizing a fee;  
+| providing administrative penalties and other civil remedies;  
+| creating criminal offenses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 4, Natural Resources Code, is amended by  
+| adding Chapter 135 to read as follows:  
+| _CHAPTER 135. AGGREGATE PRODUCTION OPERATIONS_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 135.0001. DEFINITIONS. In this chapter:_  
+|  _(1) "Affected land" means:_  
+|  _(A)_ _____the area from which any materials are to be or_  
+| _have been displaced in an aggregate production operation;_  
+|  _(B)_ _____the area on which any materials that are_  
+| _displaced are to be or have been deposited;_  
+|  _(C)_ _____the haul roads and impoundment basins within_  
+| _the aggregate production operation; and_  
+|  _(D)_ _____other land whose natural state has been or_  
+| _will be disturbed as a result of the aggregate production_  
+| _operations._  
+|  _(2)_ _____"Aggregate production operation" means an_  
+| _extraction operation at an aggregate production operation site_  
+| _described by Section 28A.001(1), Water Code._  
+|  _(3)_ _____"Commission" means the Railroad Commission of_  
+| _Texas._  
+|  _(4)_ _____"Operator" and "responsible party" have the_  
+| _meanings assigned by Section 28A.001, Water Code._  
+|  _Sec._ ___135.0002._ _____APPLICABILITY. This chapter applies only to_  
+| _an aggregate production operation that includes a facility for_  
+| _which a permit is required under Chapter 382, Health and Safety_  
+| _Code._  
+|  _Sec._ ___135.0003._ _____REPORT. The commission shall provide to the_  
+| _governor, the lieutenant governor, and the speaker of the house of_  
+| _representatives an annual report with information regarding the_  
+| _implementation of this chapter, including:_  
+|  _(1)_ _____the results of the survey to locate unregistered_  
+| _active aggregate production operations under Section 135.0102;_  
+|  _(2)_ _____the number and general location of the registered_  
+| _aggregate production operations;_  
+|  _(3)_ _____the number of inspectors trained in multiple areas_  
+| _related to the inspection of aggregate production operations;_  
+|  _(4) the number of inspections conducted; and_  
+|  _(5) the results of the inspections._  
+|  _Sec._ ___135.0004._ _____AGGREGATE PRODUCTION OPERATION REGULATION_  
+| _ACCOUNT. (a) The aggregate production operation regulation_  
+| _account is created as an account in the general revenue fund of the_  
+| _state treasury._  
+|  _(b)_ _____Money in the aggregate production operation regulation_  
+| _account may be used only by the commission or its employees or_  
+| _agents for the purposes of this chapter._  
+|  _Sec._ ___135.0005._ _____MEMORANDUM OF UNDERSTANDING. The commission_  
+| _may enter into a memorandum of understanding with the Texas_  
+| _Commission on Environmental Quality as necessary to administer and_  
+| _enforce this chapter._  
+| _SUBCHAPTER B. POWERS AND DUTIES OF COMMISSION_  
+|  _Sec._ ___135.0051._ _____GENERAL AUTHORITY OF COMMISSION. To_  
+| _accomplish the purposes of this chapter, the commission may:_  
+|  _(1)_ _____adopt, amend, and enforce rules pertaining to_  
+| _aggregate production operations consistent with this chapter;_  
+|  _(2) issue permits under this chapter;_  
+|  _(3)_ _____conduct hearings under this chapter and Chapter_  
+| _2001, Government Code;_  
+|  _(4)_ _____issue orders requiring a person to take actions_  
+| _necessary to comply with this chapter or rules adopted under this_  
+| _chapter;_  
+|  _(5) issue orders modifying previous orders;_  
+|  _(6)_ _____issue a final order revoking the permit of a person_  
+| _who has not complied with a commission order to take action required_  
+| _by this chapter or rules adopted under this chapter;_  
+|  _(7)_ _____hire employees, adopt standards for employment,_  
+| _and hire or authorize the hiring of outside contractors to assist in_  
+| _carrying out this chapter;_  
+|  _(8)_ _____accept, receive, and administer grants, gifts,_  
+| _loans, or other money made available from any source for the_  
+| _purposes of this chapter; and_  
+|  _(9)_ _____perform any other duty or act required by or_  
+| _provided for in this chapter._  
+|  _Sec._ ___135.0052._ _____MONITORING, REPORTING, AND INSPECTIONS. (a)_  
+| _The commission may:_  
+|  _(1) require monitoring and reporting;_  
+|  _(2)_ _____enter and inspect aggregate production_  
+| _operations; and_  
+|  _(3)_ _____take other actions necessary to administer,_  
+| _enforce, or evaluate the administration of this chapter._  
+|  _(b)_ _____For purposes of this section, the commission or its_  
+| _authorized representative:_  
+|  _(1)_ _____without advance notice and on presentation of_  
+| _appropriate credentials, has the right to enter:_  
+|  _(A) an aggregate production operation; or_  
+|  _(B)_ _____premises on which records required to be_  
+| _maintained are located; and_  
+|  _(2)_ _____at reasonable times and without delay, may have_  
+| _access to and copy records required under this chapter or rules_  
+| _adopted under this chapter or inspect any monitoring equipment or_  
+| _method of operation required under this chapter or rules adopted_  
+| _under this chapter._  
+|  _(c)_ _____The commission shall inspect each active aggregate_  
+| _production operation in this state for compliance with any_  
+| _applicable environmental laws and rules under the jurisdiction of_  
+| _the commission at least once every three years._  
+|  _(d)_ _____The commission may conduct an inspection only after_  
+| _providing notice to the responsible party in accordance with_  
+| _commission policy._  
+|  _(e)_ _____Except as provided by Subsection (f), an inspection must_  
+| _be conducted by one or more inspectors trained in the regulatory_  
+| _requirements under the jurisdiction of the commission that are_  
+| _applicable to an active aggregate production operation. If the_  
+| _inspection is conducted by more than one inspector, each inspector_  
+| _is not required to be trained in each of the applicable regulatory_  
+| _requirements, but the combined training of the inspectors must_  
+| _include each of the applicable regulatory requirements._  
+|  _(f)_ _____An investigation in response to a complaint satisfies_  
+| _the requirement of an inspection under this section if a potential_  
+| _noncompliance issue not related to the complaint is observed and_  
+| _is:_  
+|  _(1)_ _____not within an area of expertise of the_  
+| _investigator but is referred by the investigator to the commission_  
+| _for further investigation; or_  
+|  _(2)_ _____within an area of expertise of the inspector and is_  
+| _appropriately investigated and appropriately addressed in the_  
+| _investigation report._  
+| _SUBCHAPTER C. REGISTRATION AND SURVEY_  
+|  _Sec._ ___135.0101._ _____REGISTRATION. (a) The responsible party_  
+| _for an aggregate production operation shall register the operation_  
+| _with the commission not later than the 10th business day before the_  
+| _beginning date of extraction activities and shall renew the_  
+| _registration annually as extraction activities continue._  
+|  _(b)_ _____After extraction activities at an aggregate production_  
+| _operation have ceased and the operator has notified the commission_  
+| _in writing that the operations have ceased, the requirements of_  
+| _this subchapter are not applicable to the aggregate production_  
+| _operation._  
+|  _(c)_ _____The commission may not register an aggregate production_  
+| _operation unless the commission has issued a reclamation permit for_  
+| _the operation under Subchapter D._  
+|  _(d)_ _____The commission may not register an aggregate production_  
+| _operation unless the responsible party provides to the commission_  
+| _documentation of any required permit issued for the operation by_  
+| _each groundwater conservation district in which the operation is_  
+| _located._  
+|  _Sec._ ___135.0102._ _____SURVEY. (a) The commission annually shall_  
+| _conduct a physical survey of the state to:_  
+|  _(1)_ _____identify all active aggregate production_  
+| _operations in this state; and_  
+|  _(2)_ _____ensure that each active aggregate production_  
+| _operation in this state is registered with the commission._  
+|  _(b)_ _____The commission may contract with or seek assistance from_  
+| _a governmental entity or other person to conduct the annual survey_  
+| _required by Subsection (a) to identify active aggregate production_  
+| _operations that are not registered under this chapter._  
+|  _Sec._ ___135.0103._ _____FEES. (a) A person who registers an_  
+| _aggregate production operation under this subchapter shall pay_  
+| _annually an aggregate production operation registration fee to the_  
+| _commission in an amount established by commission rule._  
+|  _(b)_ _____The commission shall set the annual registration fee in_  
+| _an amount sufficient to maintain a registry of active aggregate_  
+| _production operations in this state and implement this chapter, not_  
+| _to exceed $1,000._  
+|  _(c)_ _____Registration fees collected under this section shall be_  
+| _deposited in the aggregate production operation regulation account_  
+| _and may be used only to implement this chapter._  
+|  _Sec._ ___135.0104._ _____REGISTRATION PENALTY. The commission may_  
+| _assess a penalty of not less than $5,000 and not more than $10,000_  
+| _for each year in which an aggregate production operation operates_  
+| _without being registered under this subchapter. The total penalty_  
+| _under this section may not exceed $25,000 for an aggregate_  
+| _production operation that is operated in three or more years_  
+| _without being registered._  
+| _SUBCHAPTER D. RECLAMATION PERMIT_  
+|  _Sec._ ___135.0151._ _____RECLAMATION OBJECTIVE. (a) The basic_  
+| _objective of reclamation is to reestablish on a continuing basis,_  
+| _where required, vegetation and other natural conditions consistent_  
+| _with the anticipated subsequent use of the affected land._  
+|  _(b)_ _____The process of reclamation may require contouring,_  
+| _terracing, grading, backfilling, resoiling, revegetation,_  
+| _compaction and stabilization and settling ponds, water_  
+| _impoundments, diversion ditches, and other water treatment_  
+| _facilities in order to minimize water diminution to existing water_  
+| _sources, pollution, soil and wind erosion, or flooding resulting_  
+| _from extraction or any other activity that may be considered_  
+| _necessary to accomplish the reclamation of the affected land to a_  
+| _substantially beneficial condition._  
+|  _Sec._ ___135.0152._ _____RECLAMATION PERMIT REQUIRED. (a) A person_  
+| _may not conduct an aggregate production operation without first_  
+| _obtaining a reclamation permit for that operation from the_  
+| _commission under this subchapter._  
+|  _(b)_ _____The commission by rule shall establish requirements for_  
+| _obtaining a permit. The requirements must:_  
+|  _(1)_ _____ensure that the permit holder is capable of_  
+| _completing a reclamation process for the permit area in a manner_  
+| _that is compatible with the objective described by Section_  
+| _135.0151; and_  
+|  _(2)_ _____be modeled on the reclamation requirements for_  
+| _surface mining of uranium and uranium ore under Chapter 131 and_  
+| _surface coal mining under Chapter 134, including the submission of_  
+| _a reclamation plan and a performance bond._  
+|  _Sec._ ___135.0153._ _____PERMIT APPLICATION AND ISSUANCE. (a) The_  
+| _commission by rule shall establish requirements for submitting a_  
+| _permit application._  
+|  _(b)_ _____Chapter 2001, Government Code, applies to a permit_  
+| _application under this subchapter._  
+|  _(c)_ _____On the basis of a complete application for a permit, the_  
+| _commission shall approve, require modification of, or deny a permit_  
+| _application._  
+|  _(d)_ _____An applicant for a permit has the burden of establishing_  
+| _that the application complies with this subchapter and rules_  
+| _adopted under this chapter._  
+|  _Sec._ ___135.0154._ _____PERMIT REVISIONS. (a) The commission by_  
+| _rule shall require that a permit holder:_  
+|  _(1)_ _____notify the commission of any significant changes_  
+| _in a condition that the commission evaluated as part of the permit_  
+| _application process that occur after the permit was issued; and_  
+|  _(2)_ _____apply for a permit revision if the commission_  
+| _determines a revision is appropriate._  
+|  _(b)_ _____A permit revision application is subject to the same_  
+| _requirements for issuance as an initial permit._  
+|  _Sec._ ___135.0155._ _____CIVIL OR ADMINISTRATIVE ENFORCEMENT._  
+| _Subchapter H, Chapter 134, applies to the civil or administrative_  
+| _enforcement of this subchapter or a rule, order, or permit adopted_  
+| _or issued under this subchapter in the same manner as Subchapter H,_  
+| _Chapter 134, applies to the civil or administrative enforcement of_  
+| _that chapter or a rule, order, or permit adopted or issued under_  
+| _that chapter._  
+|  _Sec._ ___135.0156._ _____CRIMINAL PENALTY FOR WILFUL AND KNOWING_  
+| _VIOLATION. (a) A person commits an offense if the person wilfully_  
+| _and knowingly violates a condition of a permit issued under this_  
+| _subchapter or does not comply with an order issued under this_  
+| _subchapter, except an order incorporated in a decision issued by_  
+| _the commission under Section 134.175, as applicable under Section_  
+| _135.0155._  
+|  _(b) An offense under this section is punishable by:_  
+|  _(1) a fine of not more than $10,000;_  
+|  _(2) imprisonment for not more than one year; or_  
+|  _(3) both the fine and the imprisonment._  
+|  _Sec._ ___135.0157._ _____CRIMINAL PENALTY FOR FALSE STATEMENT,_  
+| _REPRESENTATION, OR CERTIFICATION. (a) A person commits an offense_  
+| _if the person knowingly makes a false statement, representation, or_  
+| _certification, or knowingly fails to make a statement,_  
+| _representation, or certification, in an application, record,_  
+| _report, or other document filed or required to be maintained under_  
+| _this subchapter or under an order of decision issued by the_  
+| _commission under this subchapter._  
+|  _(b) An offense under this section is punishable by:_  
+|  _(1) a fine of not more than $10,000;_  
+|  _(2) imprisonment for not more than one year; or_  
+|  _(3) both the fine and the imprisonment._  
+|  SECTION 2. Subchapter A, Chapter 28A, Water Code, is  
+| amended by adding Section 28A.002 to read as follows:  
+|  _Sec._ ___28A.002._ _____APPLICABILITY. This chapter applies only to_  
+| _an aggregate production operation that does not include a facility_  
+| _for which a permit is required under Chapter 382, Health and Safety_  
+| _Code._  
+|  SECTION 3. (a) The Texas Commission on Environmental  
+| Quality shall continue to carry out the commission's powers and  
+| duties that are transferred by this Act until the commission and the  
+| Railroad Commission of Texas adopt the memorandum of understanding  
+| required by this section, complete the transfer of the items  
+| specified in the memorandum, and publicly announce that the  
+| transfer is complete.  
+|  (b) The Railroad Commission of Texas and the Texas  
+| Commission on Environmental Quality shall enter into a memorandum  
+| of understanding that:  
+|  (1) identifies in detail the applicable powers and  
+| duties that are transferred by this Act;  
+|  (2) establishes a plan for the identification and  
+| transfer of any records, personnel, property, and unspent  
+| appropriations of the Texas Commission on Environmental Quality  
+| that are used solely for purposes of the powers and duties that are  
+| transferred by this Act; and  
+|  (3) establishes a plan for the transfer of any pending  
+| applications, hearings, rulemaking proceedings, and orders  
+| relating to the powers and duties that are transferred by this Act.  
+|  (c) The executive directors of the Railroad Commission of  
+| Texas and the Texas Commission on Environmental Quality may agree  
+| in the memorandum of understanding under this section to transfer  
+| to the Railroad Commission of Texas any personnel of the Texas  
+| Commission on Environmental Quality whose functions predominantly  
+| involve powers and duties related to the powers and duties that are  
+| transferred by this Act.  
+|  (d) A rule, form, policy, procedure, or decision of the  
+| Texas Commission on Environmental Quality related to a power or  
+| duty transferred under this Act continues in effect as a rule, form,  
+| policy, procedure, or decision of the Railroad Commission of Texas  
+| and remains in effect until amended or replaced by that agency.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

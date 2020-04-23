@@ -1,0 +1,75 @@
+| 86R14342 BEF-D  
+---|---  
+|  By: Deshotel | H.B. No. 3091  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the confidentiality of and prohibiting disclosure of  
+| the location or physical layout of a family violence shelter center  
+| or victims of trafficking shelter center; creating a criminal  
+| offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 552.138, Government Code, is amended by  
+| amending Subsections (b) and (c) and adding Subsection (b-1) to  
+| read as follows:  
+|  (b) Information maintained by a family violence shelter  
+| center, victims of trafficking shelter center, or sexual assault  
+| program is excepted from the requirements of Section 552.021 if it  
+| is information that relates to:  
+|  (1) the home address, home telephone number, or social  
+| security number of an employee or a volunteer worker of a family  
+| violence shelter center, victims of trafficking shelter center, or  
+| sexual assault program, regardless of whether the employee or  
+| worker complies with Section 552.024;  
+|  (2) [ ~~the location or physical layout of a family~~  
+|  ~~violence shelter center or victims of trafficking shelter center;~~  
+|  [ ~~(3)~~ ] the name, home address, home telephone number,  
+| or numeric identifier of a current or former client of a family  
+| violence shelter center, victims of trafficking shelter center, or  
+| sexual assault program;  
+|  _(3)_ [ ~~(4)~~ ] the provision of services, including  
+| counseling and sheltering, to a current or former client of a family  
+| violence shelter center, victims of trafficking shelter center, or  
+| sexual assault program;  
+|  _(4)_ [ ~~(5)~~ ] the name, home address, or home telephone  
+| number of a private donor to a family violence shelter center,  
+| victims of trafficking shelter center, or sexual assault program;  
+| or  
+|  _(5)_ [ ~~(6)~~ ] the home address or home telephone number of  
+| a member of the board of directors or the board of trustees of a  
+| family violence shelter center, victims of trafficking shelter  
+| center, or sexual assault program, regardless of whether the board  
+| member complies with Section 552.024.  
+|  _(b-1)_ _____Information that relates to the location or physical_  
+| _layout of a family violence shelter center or victims of_  
+| _trafficking shelter center is confidential._  
+|  (c) A governmental body may redact information maintained  
+| by a family violence shelter center, victims of trafficking shelter  
+| center, or sexual assault program that may be withheld under  
+| Subsection (b)(1) or _(5) or that is confidential under Subsection_  
+| _(b-1)_ [ ~~(6)~~ ] from any information the governmental body discloses  
+| under Section 552.021 without the necessity of requesting a  
+| decision from the attorney general under Subchapter G.  
+|  SECTION 2. Chapter 42, Penal Code, is amended by adding  
+| Section 42.075 to read as follows:  
+|  _Sec._ ___42.075._ _____DISCLOSURE OF CONFIDENTIAL INFORMATION_  
+| _REGARDING FAMILY VIOLENCE OR VICTIMS OF TRAFFICKING SHELTER CENTER._  
+| _(a) In this section, "family violence shelter center" and "victims_  
+| _of trafficking shelter center" have the meanings assigned by_  
+| _Section 552.138, Government Code._  
+|  _(b)_ _____A person commits an offense if the person, with the_  
+| _intent to threaten the safety of any inhabitant of a family violence_  
+| _shelter center or victims of trafficking shelter center, discloses_  
+| _or publicizes the location or physical layout of the center._  
+|  _(c) An offense under this section is a Class B misdemeanor._  
+|  _(d)_ _____If conduct constituting an offense under this section_  
+| _also constitutes an offense under Section 552.352, Government Code,_  
+| _the actor may be prosecuted under either section._  
+|  SECTION 3. The change in law made by this Act applies only  
+| to a request for public information received on or after the  
+| effective date of this Act. A request received before the effective  
+| date of this Act is governed by the law in effect on the date the  
+| request was received, and the former law is continued in effect for  
+| that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

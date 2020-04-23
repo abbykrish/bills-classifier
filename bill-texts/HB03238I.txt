@@ -1,0 +1,41 @@
+|  
+---|---  
+|  By: Landgraf | H.B. No. 3238  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a motion to transfer venue based on the joinder of  
+| certain defendants.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter D, Chapter 15, Civil Practice and  
+| Remedies Code, is amended by adding Section 15.0635 to read as  
+| follows:  
+|  _Sec._ ___15.0635._ _____TRANSFER DUE TO IMPROPER JOINDER. (a)_ ___On_  
+| _motion of a defendant filed and served concurrently with or before_  
+| _the filing of the defendant's answer, a court shall transfer an_  
+| _action to another county of proper venue if the court finds, based_  
+| _on the petition and affidavits submitted by the parties, that:_  
+|  _(1)_ _____a defendant was joined in the action for the_  
+| _primary purpose of establishing venue in a county that would not_  
+| _otherwise be a county of proper venue; or_  
+|  _(2)_ _____the facts pleaded concerning a defendant whose_  
+| _connection to a county is the primary basis for establishing venue_  
+| _in the county are materially false._  
+|  _(b)_ _____In determining whether a defendant was joined for the_  
+| _primary purpose of establishing venue in a particular county under_  
+| _Subsection (a)(1), the court may consider whether:_  
+|  _(1)_ _____a trier of fact would impose significant liability_  
+| _on the defendant; or_  
+|  _(2)_ _____the plaintiff that joined the defendant has a good_  
+| _faith intention to prosecute the action and seek judgment against_  
+| _the defendant._  
+|  _(c)_ _____A court's decision to grant or deny a transfer under_  
+| _Subsection (a) may be reversible error._  
+|  SECTION 2. Section 15.0635, Civil Practice and Remedies  
+| Code, as added by this Act, applies only to an action filed on or  
+| after the effective date of this Act.  An action filed before the  
+| effective date of this Act is governed by the law in effect  
+| immediately before that date, and that law is continued in effect  
+| for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

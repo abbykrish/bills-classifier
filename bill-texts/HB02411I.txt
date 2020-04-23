@@ -1,0 +1,109 @@
+| 86R4730 GRM-F  
+---|---  
+|  By: Hinojosa | H.B. No. 2411  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an early voting ballot voted by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 84.011, Election Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____In addition to the requirements imposed by Subsection_  
+| _(a), the officially prescribed application form for an early voting_  
+| _ballot must include a space for the voter to provide a change of_  
+| _residence address within the county, if applicable._  
+|  SECTION 2. Section 84.032(c), Election Code, is amended to  
+| read as follows:  
+|  (c) An applicant may submit a request after the close of  
+| early voting by personal appearance by appearing in person and:  
+|  (1) returning the ballot to be voted by mail to the  
+| early voting clerk; or  
+|  (2) executing an affidavit that the applicant:  
+|  (A) has not received the ballot to be voted by  
+| mail; [ ~~or~~ ]  
+|  (B) never requested a ballot to be voted by mail _;_  
+| _or_  
+|  _(C)_ _____received notice of a defect under Section_  
+| _87.0271(b) or 87.0411(b)_.  
+|  SECTION 3. Section 86.001, Election Code, is amended by  
+| adding Subsection (f) to read as follows:  
+|  _(f)_ _____If the application includes a change of address within_  
+| _the county, the early voting clerk shall notify the voter registrar_  
+| _of the change and the registrar shall update the voter's_  
+| _registration accordingly._  
+|  SECTION 4. Section 86.002, Election Code, is amended by  
+| adding Subsection (a-1) to read as follows:  
+|  _(a-1)_ _____Notwithstanding Subsection (a), the clerk is not_  
+| _required to provide a form for a statement of residence to a voter_  
+| _who indicated a change of address within the county on the voter's_  
+| _application for an early voting ballot to be voted by mail._  
+|  SECTION 5. Subchapter B, Chapter 87, Election Code, is  
+| amended by adding Section 87.0271 to read as follows:  
+|  _Sec._ ___87.0271._ _____OPPORTUNITY TO CORRECT DEFECT: SIGNATURE_  
+| _VERIFICATION COMMITTEE. (a) This section applies to an early_  
+| _voting ballot voted by mail:_  
+|  _(1)_ _____for which the voter did not sign the carrier_  
+| _envelope certificate;_  
+|  _(2)_ _____for which it cannot immediately be determined_  
+| _whether the signature on the carrier envelope certificate is that_  
+| _of the voter;_  
+|  _(3) missing any required statement of residence; or_  
+|  _(4)_ _____containing incomplete information with respect to_  
+| _a witness._  
+|  _(b)_ _____Before deciding whether to accept or reject a timely_  
+| _delivered ballot under Section 87.027, the signature verification_  
+| _committee may:_  
+|  _(1)_ _____return the carrier envelope to the voter by mail,_  
+| _if the signature verification committee determines that it would be_  
+| _possible to correct the defect and return the carrier envelope_  
+| _before the time the polls are required to close on election day; or_  
+|  _(2)_ _____notify the voter of the defect by telephone or_  
+| _e-mail and inform the voter that the voter may come to the early_  
+| _voting clerk's office in person to:_  
+|  _(A) correct the defect; or_  
+|  _(B)_ _____request to have the voter's application to_  
+| _vote by mail canceled under Section 84.032._  
+|  _(c)_ _____If the signature verification committee takes an action_  
+| _described by Subsection (b), the committee must take either action_  
+| _described by that subsection with respect to each ballot in the_  
+| _election to which this section applies._  
+|  _(d)_ _____A poll watcher is entitled to observe an action taken_  
+| _under Subsection (b)._  
+|  _(e)_ _____The secretary of state may prescribe any procedures_  
+| _necessary to implement this section._  
+|  SECTION 6. Subchapter C, Chapter 87, Election Code, is  
+| amended by adding Section 87.0411 to read as follows:  
+|  _Sec._ ___87.0411._ _____OPPORTUNITY TO CORRECT DEFECT: EARLY VOTING_  
+| _BALLOT BOARD. (a) This section applies to an early voting ballot_  
+| _voted by mail:_  
+|  _(1)_ _____for which the voter did not sign the carrier_  
+| _envelope certificate;_  
+|  _(2)_ _____for which it cannot immediately be determined_  
+| _whether the signature on the carrier envelope certificate is that_  
+| _of the voter;_  
+|  _(3) missing any required statement of residence; or_  
+|  _(4)_ _____containing incomplete information with respect to_  
+| _a witness._  
+|  _(b)_ _____Before deciding whether to accept or reject a timely_  
+| _delivered ballot under Section 87.041, the early voting ballot_  
+| _board may:_  
+|  _(1)_ _____return the carrier envelope to the voter by mail,_  
+| _if the early voting ballot board determines that it would be_  
+| _possible to correct the defect and return the carrier envelope_  
+| _before the time the polls are required to close on election day; or_  
+|  _(2)_ _____notify the voter of the defect by telephone or_  
+| _e-mail and inform the voter that the voter may come to the early_  
+| _voting clerk's office in person to:_  
+|  _(A) correct the defect; or_  
+|  _(B)_ _____request to have the voter's application to_  
+| _vote by mail canceled under Section 84.032._  
+|  _(c)_ _____If the early voting ballot board takes an action_  
+| _described by Subsection (b), the board must take either action_  
+| _described by that subsection with respect to each ballot in the_  
+| _election to which this section applies._  
+|  _(d)_ _____A poll watcher is entitled to observe an action taken_  
+| _under Subsection (b)._  
+|  _(e)_ _____The secretary of state may prescribe any procedures_  
+| _necessary to implement this section._  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,52 @@
+| 86R12165 JXC-F  
+---|---  
+|  By: Phelan | H.B. No. 3535  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the payment of certain fees to municipalities by  
+| entities that provide telecommunications and cable or video  
+| services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 283.051, Local Government Code, is  
+| amended by adding Subsection (d) to read as follows:  
+|  _(d)_ _____In this subsection, "affiliated group" has the meaning_  
+| _assigned by Section 171.0001, Tax Code._ ___A certificated_  
+| _telecommunications provider is not required to pay any compensation_  
+| _under Subsection (a) for a given year if the provider determines_  
+| _that the sum of the compensation due from the provider and any_  
+| _member of the provider's affiliated group to all municipalities in_  
+| _this state under Subsection (a) is less than the sum of the fees due_  
+| _from the provider and any member of the provider's affiliated group_  
+| _to all municipalities in this state under Section 66.005, Utilities_  
+| _Code._ ___The determination under this subsection for a given year must_  
+| _be based on amounts actually paid, or amounts that would have been_  
+| _paid notwithstanding this subsection, during the immediately_  
+| _preceding calendar year by the provider and any member of the_  
+| _provider's affiliated group._ ___In the case of a conflict between this_  
+| _subsection and Section 283.055, this subsection prevails._  
+|  SECTION 2. Section 66.005, Utilities Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____In this subsection, "affiliated group" has the meaning_  
+| _assigned by Section 171.0001, Tax Code._ ___A holder of a state-issued_  
+| _certificate of franchise authority is not subject to the fee_  
+| _imposed under Subsection (a) for a given year if the holder_  
+| _determines that the sum of fees due from the holder and any member_  
+| _of the holder's affiliated group to all municipalities in this_  
+| _state under Subsection (a) is less than the sum of the compensation_  
+| _due from the holder and any member of the holder's affiliated group_  
+| _to all municipalities in this state under Section 283.051, Local_  
+| _Government Code._ ___The determination under this subsection for a_  
+| _given year must be based on amounts actually paid, or amounts that_  
+| _would have been paid notwithstanding this subsection, during the_  
+| _immediately preceding calendar year by the provider and any member_  
+| _of the provider's affiliated group._ ___In the case of a conflict_  
+| _between this subsection and Section 283.055, Local Government Code,_  
+| _this subsection prevails._  
+|  SECTION 3. The change in law made by this Act applies only  
+| to a payment made on or after the effective date of this Act. A  
+| payment made before the effective date of this Act is governed by  
+| the law in effect on the date the payment was made, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

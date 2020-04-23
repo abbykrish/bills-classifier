@@ -1,0 +1,60 @@
+| 86R10965 SCL-F  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 2374  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to claims settlement for automobile insurance.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle C, Title 10, Insurance Code, is amended  
+| by adding Chapter 1955 to read as follows:  
+| _CHAPTER 1955. CLAIMS SETTLEMENT FOR AUTOMOBILE INSURANCE_  
+|  _Sec._ ___1955.0001._ _____PURPOSE. The purpose of this chapter is to_  
+| _protect those injured by motorists from predatory practices engaged_  
+| _in by personal and commercial automobile insurers that seek to_  
+| _induce injured motorists into settling and releasing their legal_  
+| _claims for an amount that is insufficient to compensate their_  
+| _losses at a time when these losses are not known with any certainty,_  
+| _resulting in costs both to the injured person and medical providers_  
+| _whose care and services may go uncompensated as a result of those_  
+| _predatory insurance practices._  
+|  _Sec. 1955.0002. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Claimant" means an individual who has a claim for_  
+| _an injury against another individual or an entity._  
+|  _(2) "Injury" means a bodily or psychological injury._  
+|  _(3)_ _____"Release" means a written or oral contract under_  
+| _which a claimant releases, wholly or partly, one or more of the_  
+| _claimant's claims arising out of an injury for which an insurer may_  
+| _be liable under an automobile insurance policy in exchange for_  
+| _money or other consideration paid by any releasee._  
+|  _(4)_ _____"Releasee" means an individual, entity, or insurer_  
+| _released from a claimant's claim in a release._  
+|  _Sec._ ___1955.0003._ _____APPLICABILITY OF CHAPTER. This chapter_  
+| _applies to an insurer writing personal or commercial automobile_  
+| _insurance in this state, including an insurance company,_  
+| _corporation, reciprocal or interinsurance exchange, mutual_  
+| _insurance company, association, Lloyd's plan, or other insurer._  
+|  _Sec._ ___1955.0004._ _____VOIDABLE RELEASE OF CLAIMS. (a)_ ___A release_  
+| _is voidable by the claimant in accordance with this section if:_  
+|  _(1)_ _____the claimant entered into the release on or before_  
+| _the 45th day after the date the cause of action that is the basis for_  
+| _the released claim accrued; and_  
+|  _(2)_ _____the claimant was not represented by an attorney at_  
+| _the time the claimant entered into the release._  
+|  _(b)_ _____Not later than the first anniversary after the date the_  
+| _release was entered into, a claimant may void a release under this_  
+| _section by providing written notice of the claimant's intent to_  
+| _void the release to each releasee._  
+|  _(c)_ _____Any consideration paid to the claimant by or on behalf_  
+| _of the releasee in exchange for a release voided under this section_  
+| _must be credited against any award or payment made in connection_  
+| _with a claim against the releasee arising from the cause of action_  
+| _that is the basis for the previously released claim._  
+|  SECTION 2. The changes in law made by this Act apply only to  
+| an automobile insurance policy delivered, issued for delivery, or  
+| renewed on or after January 1, 2020. A policy delivered, issued for  
+| delivery, or renewed before January 1, 2020, is governed by the law  
+| as it existed immediately before the effective date of this Act, and  
+| that law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

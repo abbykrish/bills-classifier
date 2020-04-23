@@ -1,0 +1,90 @@
+| 86R3252 GRM-D  
+---|---  
+|  By: Murphy | H.B. No. 424  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the residence address of a person for purposes of a  
+| response to a confirmation notice sent by the voter registrar.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 15.052(b), Election Code, is amended to  
+| read as follows:  
+|  (b) The official confirmation notice response form must:  
+|  (1) provide spaces for the voter to include all of the  
+| information that a person must include in an application to  
+| register to vote under Section 13.002; [ ~~and~~ ]  
+|  (2) _describe the requirements of Section 15.054,_  
+| _provide a space for the voter to indicate if the voter is exempt_  
+| _from those requirements, and provide a space to indicate the reason_  
+| _for an exemption, if any; and_  
+|  _(3)_ be postage prepaid and preaddressed for delivery  
+| to the registrar.  
+|  SECTION 2. Section 15.053(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Not later than the 30th day after the date a  
+| confirmation notice is mailed, the voter shall submit to the  
+| registrar a written, signed response to the notice that confirms  
+| the voter's current residence. The response must contain _:_  
+|  _(1)_ all of the information that a person must include  
+| in an application to register to vote under Section 13.002 _; and_  
+|  _(2)_ _____evidence that the voter's residence address is_  
+| _established in compliance with Section 15.054 or an indication that_  
+| _the voter is exempt from those requirements_.  
+|  SECTION 3. Subchapter C, Chapter 15, Election Code, is  
+| amended by adding Section 15.054 to read as follows:  
+|  _Sec._ ___15.054._ _____RESIDENCE FOR PURPOSES OF CONFIRMATION NOTICE_  
+| _RESPONSE._ ___(a)_ ___For purposes of Section 15.053, a person's residence_  
+| _is established at the first residence address, beginning with_  
+| _Subdivision (1) and continuing through Subdivision (6), in the_  
+| _following list that is applicable to the person:_  
+|  _(1)_ _____the address stated on a driver's license issued to_  
+| _the person by the Department of Public Safety that has not expired_  
+| _or, if the person has notified the department of a change of address_  
+| _under Section 521.054, Transportation Code, the new address_  
+| _contained in the notification;_  
+|  _(2)_ _____the address stated on a personal identification_  
+| _card issued to the person by the Department of Public Safety that_  
+| _has not expired or, if the person has notified the department of a_  
+| _change of address under Section 521.054, Transportation Code, the_  
+| _new address contained in the notification;_  
+|  _(3)_ _____the address stated on a license to carry a_  
+| _concealed handgun issued to the person by the Department of Public_  
+| _Safety that has not expired or, if the person has notified the_  
+| _department of a change of address under Section 411.181, Government_  
+| _Code, the new address contained in the notification;_  
+|  _(4)_ _____an address corresponding to a residence at which_  
+| _the person receives mail;_  
+|  _(5)_ _____the address the person claims as a homestead in_  
+| _this state; or_  
+|  _(6)_ _____the registration address of a vehicle the person_  
+| _owns._  
+|  _(b)_ _____A person whose residence in this state has no address_  
+| _may establish residence under this section by executing an_  
+| _affidavit stating that the person's residence in this state has no_  
+| _address, providing a concise description of the location of the_  
+| _person's residence, and delivering the affidavit to the registrar_  
+| _with the person's response to the confirmation notice._  
+|  _(c)_ _____The address described by Subsection (a)(4) may not be a_  
+| _commercial post office box or similar location that does not_  
+| _correspond to a residence._  
+|  _(d) This section does not apply to:_  
+|  _(1)_ _____a person who is a member of the armed forces of the_  
+| _United States or the spouse or a dependent of a member;_  
+|  _(2)_ _____a person enrolled as a full-time student at an_  
+| _institution of higher education;_  
+|  _(3)_ _____a person whose address is confidential under_  
+| _Subchapter C, Chapter 56, Code of Criminal Procedure;_  
+|  _(4)_ _____a federal judge, state judge, or spouse of a_  
+| _federal or state judge whose driver's license includes the street_  
+| _address of a courthouse under Section 521.121, Transportation Code;_  
+| _or_  
+|  _(5)_ _____a peace officer whose driver's license omits the_  
+| _officer's actual residence address under Section 521.1211,_  
+| _Transportation Code._  
+|  _(e)_ _____Subsection (a)(1) does not apply to a person who holds a_  
+| _commercial driver's license under Subchapter C, Chapter 522,_  
+| _Transportation Code._  
+|  _(f)_ _____The secretary of state shall adopt rules as necessary to_  
+| _implement this section._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

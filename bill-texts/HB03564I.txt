@@ -1,0 +1,135 @@
+| 86R6239 PMO-F  
+---|---  
+|  By: Farrar | H.B. No. 3564  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to remedies after certain casualty losses to residential  
+| rental premises.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 92.054, Property Code, is amended by  
+| amending Subsections (b) and (c) and adding Subsections (b-1),  
+| (b-2), (b-3), (b-4), (b-5), (d), (e), (f), and (g) to read as  
+| follows:  
+|  (b) If after a casualty loss the rental premises are as a  
+| practical matter totally unusable for residential purposes and if  
+| the casualty loss is not caused by the negligence or fault of the  
+| tenant, a member of the tenant's family, or a guest or invitee of  
+| the tenant, either the landlord or the tenant may terminate the  
+| lease by giving written notice to the other any time before repairs  
+| are completed.  
+|  _(b-1) A notice described by Subsection (b) must be provided:_  
+|  _(1) to a landlord:_  
+|  _(A)_ _____by hand delivery or mail to a forwarding_  
+| _address that the landlord provides to the tenant by e-mail or_  
+| _otherwise; or_  
+|  _(B)_ _____if a forwarding address has not been provided_  
+| _as described by Paragraph (A):_  
+|  _(i)_ _____by hand delivery to the landlord or the_  
+| _landlord's representative at another location; or_  
+|  _(ii)_ _____by mail to the place where the tenant's_  
+| _rent is normally paid; or_  
+|  _(2) to a tenant:_  
+|  _(A)_ _____by hand delivery or mail to a forwarding_  
+| _address that the tenant provides to the landlord by e-mail or_  
+| _otherwise; or_  
+|  _(B)_ _____if a forwarding address has not been provided_  
+| _as described by Paragraph (A):_  
+|  _(i)_ _____by hand delivery to the tenant at_  
+| _another location; or_  
+|  _(ii)_ _____by mail to the tenant's rental_  
+| _premises._  
+|  _(b-2)_ _____A termination of a lease as authorized by Subsection_  
+| _(b) may not take effect before the 15th day after the date the_  
+| _notice is delivered. If more than one method under Subsection (b-1)_  
+| _is used to provide notice, the method under which the notice was_  
+| _delivered on the earliest date applies for purposes of this_  
+| _subsection._  
+|  _(b-3)_ _____A landlord may not charge rent for the rental premises_  
+| _and rent for the rental premises may not accrue after the date the_  
+| _premises became as a practical matter totally unusable for_  
+| _residential purposes as a result of a casualty loss._  
+|  _(b-4)_ _____Subject to Subsection (b-5) and notwithstanding that_  
+| _the termination of the lease has not taken effect under Subsection_  
+| _(b-2), if a notice to terminate_ [ ~~If~~ ] the lease is _provided under_  
+| _this section_ [ ~~terminated~~ ], the _landlord shall pay to the_ tenant
+_not_  
+| _later than the fifth day after the date the notice is delivered:_  
+|  _(1) a refund of any prepaid rent;_  
+|  _(2)_ [ ~~is entitled only to~~ ] a pro rata refund of rent  
+| from the date the _rental premises became as a practical matter_  
+| _totally unusable for residential purposes as a result of a casualty_  
+| _loss;_ [ ~~tenant moves out~~ ] and  
+|  _(3)_ [ ~~to~~ ] a _full_ refund of any security deposit  
+| [ ~~otherwise required by law~~ ].  
+|  _(b-5)_ _____If a tenant has not provided the landlord a forwarding_  
+| _address as described by Subsection (b-1)(2)(A), the period for_  
+| _providing the refund amounts specified by Subsection (b-4) is_  
+| _tolled until the tenant provides the landlord a written statement_  
+| _by e-mail or otherwise of the tenant's forwarding address for the_  
+| _purpose of refunding those amounts. A tenant that provides notice_  
+| _under Subsection (b) may provide the written statement of the_  
+| _tenant's forwarding address in that notice. A landlord that_  
+| _provides notice under Subsection (b) must include a statement_  
+| _informing the tenant of the requirement of this subsection._  
+|  (c) If after a casualty loss the rental premises are  
+| partially unusable for residential purposes and if the casualty  
+| loss is not caused by the negligence or fault of the tenant, a  
+| member of the tenant's family, or a guest or invitee of the tenant,  
+| the tenant is entitled to reduction in the rent _for the month in_  
+| _which the casualty loss occurs and any subsequent months in the_  
+| _lease term in which the rental premises are partially unusable for_  
+| _residential purposes. The tenant is entitled to determine the_  
+| _amount of the reduction in the rent, provided that the tenant must_  
+| _determine_ [ ~~in~~ ] an amount _that is_ proportionate to the extent the  
+| premises are unusable because of the casualty _loss_ [ ~~, but only on~~  
+|  ~~judgment of a county or district court~~ ]. _A tenant entitled to a_  
+| _reduction in rent may deduct and withhold from a rent payment the_  
+| _amount determined by the tenant_ [ ~~A landlord and tenant may agree~~  
+|  ~~otherwise in a written lease~~ ].  
+|  _(d)_ _____It is a defense in a proceeding to recover unpaid rent_  
+| _for a rental premises, including a proceeding to recover possession_  
+| _of a rental premises for nonpayment of rent, that a rent payment was_  
+| _reduced, deducted, and withheld in accordance with Subsection (c)._  
+|  _(e)_ _____If a tenant asserts a defense under Subsection (d), the_  
+| _court shall determine the amount of the reduction in the rent that_  
+| _is proportionate to the extent the premises are unusable because of_  
+| _the casualty._ ___If the tenant withheld an amount less than the amount_  
+| _determined by the court, the court shall enter a judgment for the_  
+| _tenant in an amount equal to the amount the tenant overpaid._ ___If the_  
+| _tenant withheld an amount greater than the amount determined by the_  
+| _court, the court:_  
+|  _(1)_ _____may assess late fees in accordance with the lease_  
+| _if the court finds that the tenant acted in bad faith in reducing or_  
+| _withholding the rent payment;_  
+|  _(2)_ _____shall order the tenant to pay into the registry of_  
+| _the court or, if the landlord consents in writing, directly to the_  
+| _landlord:_  
+|  _(A)_ _____an amount equal to the amount the tenant_  
+| _underpaid; and_  
+|  _(B) any late fees assessed under Subdivision (1);_  
+|  _(3)_ _____may not enter a final judgment in the proceeding_  
+| _before the 10th business day after the date the court issued the_  
+| _order of payment under Subdivision (2); and_  
+|  _(4)_ _____shall dismiss the proceeding against the tenant if_  
+| _the tenant complies with the order of payment under Subdivision (2)_  
+| _before the 10th business day after the date the court issued the_  
+| _order of payment under Subdivision (2)._  
+|  _(f)_ _____It is a defense in a proceeding to recover possession of_  
+| _a rental premises after the landlord terminates a lease under this_  
+| _section that the premises are totally or partially usable for_  
+| _residential purposes._  
+|  _(g)_ _____A provision of a lease is void if the provision purports_  
+| _to:_  
+|  _(1)_ _____waive a right or exempt a party from a liability or_  
+| _duty under this section; or_  
+|  _(2)_ _____expand a party's right to unilaterally terminate a_  
+| _lease under this section._  
+|  SECTION 2. The changes to law made by this Act apply only to  
+| a lease entered into or renewed on or after the effective date of  
+| this Act. A lease entered into or renewed before the effective date  
+| of this Act is governed by the law as it existed immediately before  
+| the effective date of this Act, and that law is continued in effect  
+| for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

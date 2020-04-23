@@ -1,0 +1,164 @@
+| 86R3426 JCG-F  
+---|---  
+|  By: Landgraf | H.B. No. 629  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to establishing a protective order registry and the duties  
+| of courts in regard to the registry.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 72, Government Code, is amended by  
+| adding Subchapter F to read as follows:  
+| _SUBCHAPTER F. PROTECTIVE ORDER REGISTRY_  
+|  _Sec. 72.151. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Authorized user" means a person to whom the_  
+| _office has given permission and the means to submit, modify, or_  
+| _remove records in the registry._ ___The term does not include members_  
+| _of the public who may only request and view through the registry's_  
+| _Internet website certain information regarding protective orders_  
+| _entered into the registry._  
+|  _(2)_ _____"Peace officer" has the meaning assigned by_  
+| _Article 2.12, Code of Criminal Procedure._  
+|  _(3)_ _____"Protective order" means an injunction or other_  
+| _order issued by a court in this state to prevent an individual from_  
+| _engaging in violent or threatening acts against, harassing,_  
+| _contacting or communicating with, or being in physical proximity to_  
+| _another individual._ ___The term includes a magistrate's order for_  
+| _emergency protection issued under Article 17.292, Code of Criminal_  
+| _Procedure._  
+|  _(4)_ _____"Protective order registry" or "registry" means_  
+| _the protective order registry established under Section 72.153._  
+|  _(5)_ _____"Race or ethnicity" means a particular descent,_  
+| _including Caucasian, African, Hispanic, Asian, or Native American_  
+| _descent._  
+|  _Sec._ ___72.152._ _____APPLICABILITY. This subchapter applies only_  
+| _to:_  
+|  _(1)_ _____an application for a protective order filed under_  
+| _Chapter 82, Family Code, or Article 17.292, Code of Criminal_  
+| _Procedure; and_  
+|  _(2)_ _____a protective order issued under Chapter 83 or 85,_  
+| _Family Code, or Article 17.292, Code of Criminal Procedure._  
+|  _Sec._ ___72.153._ _____PROTECTIVE ORDER REGISTRY. (a) In_  
+| _consultation with the Department of Public Safety and the courts of_  
+| _this state, the office shall establish and maintain a central,_  
+| _computerized, and Internet-based registry for applications for_  
+| _protective orders filed in this state and protective orders issued_  
+| _in this state._  
+|  _(b)_ _____The office shall establish and maintain the registry in_  
+| _a manner that allows municipal and county case management systems_  
+| _to easily interface with the registry._  
+|  _Sec._ ___72.154._ _____PUBLIC ACCESS TO PROTECTIVE ORDER REGISTRY._  
+| _(a)_ ___The office shall establish and maintain the registry in a_  
+| _manner that allows any person, free of charge, to electronically_  
+| _search for and receive publicly accessible information contained in_  
+| _the registry regarding each protective order issued in this state._ __  
+| _The registry must be searchable by:_  
+|  _(1) the county of issuance;_  
+|  _(2)_ _____the name of a person who is the subject of the_  
+| _protective order; and_  
+|  _(3)_ _____the birth year of a person who is the subject of_  
+| _the protective order._  
+|  _(b)_ _____Publicly accessible information regarding each_  
+| _protective order must consist of the following:_  
+|  _(1) the court that issued the protective order;_  
+|  _(2) the case number;_  
+|  _(3)_ _____the full name, county of residence, birth year,_  
+| _and race or ethnicity of the person who is the subject of the_  
+| _protective order;_  
+|  _(4)_ _____the dates the protective order was issued and_  
+| _served;_  
+|  _(5)_ _____the date the protective order was vacated, if_  
+| _applicable; and_  
+|  _(6)_ _____the date the protective order expired or will_  
+| _expire, as applicable._  
+|  _(c)_ _____A member of the public may only access the information_  
+| _in the registry described by Subsection (b)._  
+|  _Sec._ ___72.155._ _____RESTRICTED ACCESS TO PROTECTIVE ORDER_  
+| _REGISTRY. (a)_ ___The registry must include a copy of each application_  
+| _for a protective order filed in this state and a copy of each_  
+| _protective order issued in this state, including a vacated or_  
+| _expired order._ ___Only an authorized user, district attorney,_  
+| _criminal district attorney, county attorney, municipal attorney,_  
+| _or peace officer may access that information under the registry._  
+|  _(b)_ _____The office shall ensure that a district attorney,_  
+| _criminal district attorney, county attorney, municipal attorney,_  
+| _or peace officer is able to search for and receive a copy of a filed_  
+| _application for a protective order or a copy of an issued protective_  
+| _order through the registry's Internet website._  
+|  _Sec._ ___72.156._ _____ENTRY OF APPLICATIONS. (a)_ ___Except as provided_  
+| _by Subsection (b), as soon as possible but not later than 12 hours_  
+| _after the time an application for a protective order is filed, the_  
+| _court shall enter a copy of the application into the registry._  
+|  _(b)_ _____A court may delay entering information under Subsection_  
+| _(a) into the registry only to the extent that the court lacks the_  
+| _specific information required to be entered._  
+|  _(c)_ _____The office shall ensure that a member of the public is_  
+| _not able to view through the registry's Internet website the_  
+| _application or any information related to the application entered_  
+| _into the registry under Subsection (a)._  
+|  _Sec._ ___72.157._ _____ENTRY OF ORDERS. (a) Except as provided by_  
+| _Subsection (c) and Section 72.158, as soon as possible but not later_  
+| _than 12 hours after the time a court issues an original or modified_  
+| _protective order or extends the duration of a protective order, the_  
+| _court shall enter into the registry:_  
+|  _(1)_ _____a copy of the order and, if applicable, a notation_  
+| _regarding any modification or extension of the order; and_  
+|  _(2) the information required under Section 72.154(b)._  
+|  _(b)_ _____For a protective order that is vacated or that has_  
+| _expired, the applicable court shall modify the record of the order_  
+| _in the registry to reflect the order's status as vacated or expired._  
+|  _(c)_ _____A court may delay entering information under Subsection_  
+| _(a) into the registry only to the extent that the court lacks the_  
+| _specific information required to be entered._  
+|  _Sec._ ___72.158._ _____REQUEST FOR REMOVAL OF PUBLIC ACCESS._ ___(a)_
+___A_  
+| _person protected by an order or member of the family or household of_  
+| _a person protected by an order, other than the person who is the_  
+| _subject of the order, may request the office to remove the ability_  
+| _of a member of the public to view through the registry's Internet_  
+| _website information about the record as described by Section_  
+| _72.154(b)._  
+|  _(b) The office shall ensure that:_  
+|  _(1)_ _____the public access to the information is removed as_  
+| _soon as practicable after a request is made; and_  
+|  _(2)_ _____after public access is removed, an authorized_  
+| _user, district attorney, criminal district attorney, county_  
+| _attorney, municipal attorney, or peace officer remains able to_  
+| _search for and receive a copy of the order or information about the_  
+| _order._  
+|  _(c)_ _____The office may prescribe a form for use by a person_  
+| _requesting the removal of public access to information under_  
+| _Subsection (a)._  
+|  _Sec._ ___72.159._ _____USE OF STAFF. A court may use any available_  
+| _staff and resources to carry out the court's duties under this_  
+| _subchapter._  
+|  SECTION 2. (a) Except as provided by Subsection (b) of this  
+| section, not later than June 1, 2020, the Office of Court  
+| Administration of the Texas Judicial System shall establish the  
+| protective order registry required by Section 72.153, Government  
+| Code, as added by this Act.  
+|  (b) The Office of Court Administration of the Texas Judicial  
+| System may delay establishing the protective order registry  
+| described by Subsection (a) of this section for a period not to  
+| exceed 90 days if the delay is authorized by resolution of the Texas  
+| Judicial Council.  
+|  (c) Not later than June 1, 2020, the Office of Court  
+| Administration of the Texas Judicial System shall establish and  
+| supervise a training program for magistrates, court staff, and  
+| peace officers on the use of the protective order registry  
+| described by Subsection (a) of this section.  The training program  
+| must make all materials for use in the training program available to  
+| magistrates, court staff, and peace officers.  
+|  SECTION 3. Notwithstanding Section 2 of this Act, the  
+| Office of Court Administration of the Texas Judicial System may not  
+| allow a member of the public to view before September 1, 2020,  
+| publicly accessible information described by Section 72.154(b),  
+| Government Code, as added by this Act, through the Internet website  
+| of the protective order registry established under Subchapter F,  
+| Chapter 72, Government Code, as added by this Act.  
+|  SECTION 4. Subchapter F, Chapter 72, Government Code, as  
+| added by this Act, applies only to an application for a protective  
+| order filed or a protective order issued on or after September 1,  
+| 2020.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

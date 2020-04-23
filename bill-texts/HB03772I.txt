@@ -1,0 +1,168 @@
+| 86R10866 KFF-F  
+---|---  
+|  By: Raymond | H.B. No. 3772  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a demonstration project that allows federally qualified  
+| health centers to test innovative health care delivery systems and  
+| data sharing under certain public benefits programs.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle I, Title 4, Government Code, is amended  
+| by adding Chapter 539A to read as follows:  
+| _CHAPTER 539A. INNOVATIVE HEALTH CARE DELIVERY SYSTEM DEMONSTRATION_  
+| _PROJECT_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 539A.0001. DEFINITIONS.  In this chapter:_  
+|  _(1)_ _____"Demonstration project" means the demonstration_  
+| _project established under Section 539A.0051._  
+|  _(2)_ _____"Federally qualified health center" has the_  
+| _meaning assigned by 42 U.S.C. Section 1396d(l)(2)(B)._  
+|  _(3)_ _____"Federally qualified health center services" has_  
+| _the meaning assigned by 42 U.S.C. Section 1396d(l)(2)(A)._  
+|  _Sec._ ___539A.0002._ _____REPORTING. Not later than December 1,_  
+| _2020, the commission shall submit a report to the legislature_  
+| _regarding the commission's progress in establishing and operating_  
+| _the demonstration project and recommendations on continuing or_  
+| _expanding the demonstration project._  
+|  _Sec._ ___539A.0003._ _____EXPIRATION. This chapter expires September_  
+| _1, 2021._  
+| _SUBCHAPTER B. DEMONSTRATION PROJECT_  
+|  _Sec._ ___539A.0051._ _____DEMONSTRATION PROJECT TO TEST ALTERNATIVE_  
+| _AND INNOVATIVE HEALTH CARE DELIVERY SYSTEMS AND DATA SHARING. The_  
+| _commission shall develop and implement a demonstration project to_  
+| _test alternative and innovative health care delivery systems,_  
+| _including data sharing and alternative payment systems under_  
+| _Medicaid, the child health plan program, and other health benefits_  
+| _programs administered by the commission or other health and human_  
+| _services agencies. Under the demonstration project, the commission_  
+| _shall provide services covered under health benefits programs to a_  
+| _specific patient population under an agreed-on shared savings_  
+| _arrangement with federally qualified health centers._  
+|  _Sec._ ___539A.0052._ _____FEDERALLY QUALIFIED HEALTH CENTERS_  
+| _PARTICIPATION; CREATION OF INNOVATIVE HEALTH CARE DELIVERY_  
+| _SYSTEMS. (a) In establishing the demonstration project, the_  
+| _commission shall, in consultation with federally qualified health_  
+| _centers, develop a request for proposals for participation in the_  
+| _demonstration project and formation of innovative health care_  
+| _delivery systems. To be eligible to participate in the_  
+| _demonstration project a federally qualified health center must:_  
+|  _(1)_ _____be a provider under an applicable public benefits_  
+| _program capable of providing services that are covered by the_  
+| _program;_  
+|  _(2)_ _____meet minimum quality standards established by the_  
+| _commission; and_  
+|  _(3)_ _____adopt cost-effective methods of care delivery and_  
+| _coordination, which may include the use of allied health_  
+| _professionals, telemedicine providers, patient educators, care_  
+| _coordinators, community health care workers, and services and_  
+| _providers that are not covered or reimbursed under a health_  
+| _benefits program._  
+|  _(b)_ _____An innovative health care delivery system may be formed_  
+| _by federally qualified health centers in this state. A federally_  
+| _qualified health center may contract with a third party to provide_  
+| _secure transfer and administrative services under the delivery_  
+| _system._  
+|  _(c)_ _____The commission may require federally qualified health_  
+| _centers that have established innovative health care delivery_  
+| _systems to enter into additional contracts with third parties for_  
+| _risk assessment and for the purchase of stop-loss coverage or_  
+| _another form of risk management insurance related to the delivery_  
+| _system established under the demonstration project._  
+|  _Sec._ ___539A.0053._ _____PATIENT PARTICIPATION. A person eligible_  
+| _for a public benefits program, including Medicaid and the child_  
+| _health plan program, is eligible for attribution to an innovative_  
+| _health care delivery system._  
+|  _Sec._ ___539A.0054._ _____DATA SHARING PROGRAM. (a) As part of the_  
+| _demonstration project, the commission shall develop and implement a_  
+| _program to test data sharing for innovative health care delivery_  
+| _systems and alternative payment systems. Under the data sharing_  
+| _program and to the extent permitted by federal law, the commission_  
+| _shall securely provide federally qualified health centers_  
+| _participating in the demonstration project, or the centers'_  
+| _designee, data regarding the centers' patients eligible to_  
+| _participate in the demonstration project, either individually or as_  
+| _a group._  
+|  _(b)_ _____Under the data sharing program, a participating_  
+| _federally qualified health center shall provide to the commission_  
+| _the names of patients who are enrolled in a public benefits program_  
+| _to whom the center has provided services in the preceding 12-month_  
+| _period. After receiving the names of patients under this_  
+| _subsection, the commission shall immediately provide the federally_  
+| _qualified health centers, or the centers' designee, a claims data_  
+| _file that includes information relating to the claims that have_  
+| _been received under a public benefits program for each patient. The_  
+| _claims data file must include:_  
+|  _(1)_ _____the claims made by or on behalf of the patient_  
+| _during the 36-month period preceding the date the commission_  
+| _received the names of patients under this subsection;_  
+|  _(2)_ _____patient demographic data, including each patient's_  
+| _name, address, date of birth, and gender;_  
+|  _(3)_ _____patient health benefits coverage information,_  
+| _including any unique identifier or number assigned to the patient_  
+| _under a public benefits program, including each patient's Medicaid_  
+| _number, if applicable;_  
+|  _(4)_ _____attribution information of each patient,_  
+| _including the names of the public benefits program each patient is_  
+| _enrolled in, the effective date of enrollment, and if the patient is_  
+| _enrolled in Medicaid:_  
+|  _(A)_ _____whether the patient is enrolled in a managed_  
+| _care program, and if so, the name of the program; and_  
+|  _(B) each patient's primary care provider;_  
+|  _(5)_ _____the individual provider codes associated with each_  
+| _provider who has provided services to the patient, including the_  
+| _provider's:_  
+|  _(A)_ _____federal and state, if applicable, tax_  
+| _identification numbers;_  
+|  _(B) national provider identifiers;_  
+|  _(C) health care provider taxonomy codes;_  
+|  _(D) professional license numbers; and_  
+|  _(E)_ _____other identifiers collected with respect to_  
+| _the provider; and_  
+|  _(6) patient claims data, including:_  
+|  _(A)_ _____any benefits covered by a public benefits_  
+| _program when provided by an enrolled provider, including:_  
+|  _(i)_ _____the names of primary care providers,_  
+| _urgent care providers, specialty care providers, emergency room_  
+| _providers, and hospital providers; and_  
+|  _(ii)_ _____the type of benefits provided,_  
+| _including the provision of hospital observation services, hospital_  
+| _inpatient services, home health services, skilled nursing_  
+| _services, lab and radiological services, pharmacy benefits,_  
+| _including prescription information and drug pricing, ambulance_  
+| _services, care plan oversight services, spinal manipulation_  
+| _services, early and period screening, diagnosis, and treatment_  
+| _services, anesthesia services, durable medical equipment, hospice_  
+| _services, therapy services, and obstetric services; and_  
+|  _(B)_ _____onset of illness date, dates of service,_  
+| _locations at which services were provided, names of service_  
+| _providers, diagnostic and Current Procedural Terminology codes and_  
+| _related cause codes, and reimbursement amounts paid._  
+|  _Sec._ ___539A.0055._ _____REIMBURSEMENT SYSTEM. (a) In developing a_  
+| _reimbursement system for innovative health care delivery systems,_  
+| _the executive commissioner shall establish a reimbursement_  
+| _methodology that:_  
+|  _(1)_ _____is based on a total cost of care benchmark adjusted_  
+| _for patient acuity; and_  
+|  _(2) is designed to achieve determinable savings._  
+|  _(b)_ _____The reimbursement system may include incentive payments_  
+| _to innovative health care delivery systems that meet or exceed_  
+| _annual quality and performance targets._  
+|  _Sec._ ___539A.0056._ _____FUNDING. The commission may apply for any_  
+| _available grants or federal funding that would further the purposes_  
+| _of or assist in the establishment of the demonstration project or_  
+| _innovative health care delivery systems established under the_  
+| _demonstration project._  
+|  SECTION 2. As soon as possible after the effective date of  
+| this Act, the Health and Human Services Commission shall apply for  
+| and actively pursue from the federal Centers for Medicare and  
+| Medicaid Services or other appropriate federal agency any waiver or  
+| other authorization necessary to implement Chapter 539A,  
+| Government Code, as added by this Act. The commission may delay  
+| implementing this Act until the waiver or authorization is granted.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

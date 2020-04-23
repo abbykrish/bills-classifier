@@ -1,0 +1,29 @@
+| 86R972 ATP-F  
+---|---  
+|  By: Davis of Harris | H.B. No. 777  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to required disclosures on certain mailed political  
+| advertising; providing a civil penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 255, Election Code, is amended by adding  
+| Section 255.009 to read as follows:  
+|  _Sec._ ___255.009._ _____REQUIRED DISCLOSURE ON SLATE MAILER. (a) In_  
+| _this section, "slate mailer" means a mass mailing that supports or_  
+| _opposes four or more candidates._  
+|  _(b)_ _____This section does not apply to a slate mailer produced_  
+| _by a general-purpose committee._  
+|  _(c)_ _____In addition to the disclosure statement required by_  
+| _Section 255.001 or 255.008, as applicable, the first page of a slate_  
+| _mailer must indicate the full name and address of each person with_  
+| _final decision-making authority as to which candidates are_  
+| _supported or opposed in the slate mailer._  
+|  _(d)_ _____A person may not knowingly cause to be published or_  
+| _distributed a slate mailer that does not include the disclosure_  
+| _required by Subsection (c)._  
+|  _(e)_ _____A person who violates this section is liable to this_  
+| _state for a civil penalty in an amount determined by the commission_  
+| _not to exceed $4,000._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

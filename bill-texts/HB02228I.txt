@@ -1,0 +1,33 @@
+| 86R7510 SRA-F  
+---|---  
+|  By: Geren | H.B. No. 2228  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the inspection of certain boilers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 755.026, Health and Safety Code, is  
+| amended by amending Subsection (a) and adding Subsection (c-1) to  
+| read as follows:  
+|  (a) With the approval of the executive director and the  
+| inspection agency that has jurisdiction for the power boiler, the  
+| interval between internal inspections may be extended to a period  
+| not exceeding a total of 60 months. For unfired steam boilers or  
+| steam collection or liberation drums of process steam generators,  
+| the inspection interval may be extended to the next scheduled  
+| downtime of the boiler, but not exceeding a total of:  
+|  (1) 84 months for unfired steam boilers; [ ~~or~~ ]  
+|  (2) 120 months for steam collection or liberation  
+| drums of process steam generators _manufactured before January 1,_  
+| _1970; or_  
+|  _(3)_ _____144 months for steam collection or liberation_  
+| _drums of process steam generators manufactured on or after January_  
+| _1, 1970_.  
+|  _(c-1)_ _____The executive director and the inspection agency on_  
+| _request may grant an extension for a period not to exceed 24 months_  
+| _in addition to the extension authorized under Subsection (a)(2)._ __  
+| _The request must include a report issued by an engineer licensed by_  
+| _the Texas Board of Professional Engineers stating the conditions_  
+| _imposed under Subsection (b) are satisfied._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,426 @@
+| 86R10376 SCL-F  
+---|---  
+|  By: Oliverson | H.B. No. 2967  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prohibited balance billing and an independent dispute  
+| resolution program for out-of-network coverage under certain  
+| managed care plans; authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle C, Title 8, Insurance Code, is amended  
+| by adding Chapter 1275 to read as follows:  
+| _CHAPTER 1275. ENROLLEE RESPONSIBILITY FOR COVERED OUT-OF-NETWORK_  
+| _SERVICES_  
+|  _Sec. 1275.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Enrollee" means an individual who is eligible for_  
+| _coverage under a health benefit plan._  
+|  _(2)_ _____"Health benefit plan" means an individual, group,_  
+| _blanket, or franchise insurance policy or insurance agreement, a_  
+| _group hospital service contract, or an individual or group evidence_  
+| _of coverage or similar coverage document that provides benefits for_  
+| _health care services. The term does not include:_  
+|  _(A)_ _____the state Medicaid program, including the_  
+| _Medicaid managed care program operated under Chapter 533,_  
+| _Government Code;_  
+|  _(B)_ _____the child health plan program operated under_  
+| _Chapter 62, Health and Safety Code;_  
+|  _(C) Medicare benefits; or_  
+|  _(D)_ _____benefits designated as excepted benefits_  
+| _under 42 U.S.C. Section 300gg-91(c)._  
+|  _(3)_ _____"Health benefit plan issuer" means an entity_  
+| _authorized to engage in business under this code or another_  
+| _insurance law of this state that issues or offers to issue a health_  
+| _benefit plan in this state, including:_  
+|  _(A) an insurance company;_  
+|  _(B)_ _____a group hospital service corporation_  
+| _operating under Chapter 842;_  
+|  _(C)_ _____a health maintenance organization operating_  
+| _under Chapter 843; and_  
+|  _(D)_ _____a stipulated premium company operating under_  
+| _Chapter 884._  
+|  _(4)_ _____"Health care facility" means a hospital, emergency_  
+| _clinic, outpatient clinic, birthing center, ambulatory surgical_  
+| _center, or other facility licensed to provide health care services._  
+|  _(5)_ _____"Health care practitioner" means an individual who_  
+| _is licensed to provide and provides health care services._  
+|  _(6)_ _____"Health care provider" means a health care_  
+| _practitioner or health care facility._  
+|  _(7)_ _____"Managed care plan" means a health benefit plan_  
+| _under which health care services are provided to enrollees through_  
+| _contracts with health care providers and that requires enrollees to_  
+| _use participating providers or that provides a different level of_  
+| _coverage for enrollees who use participating providers. The term_  
+| _includes a health benefit plan issued by:_  
+|  _(A) a health maintenance organization;_  
+|  _(B) a preferred provider benefit plan issuer; or_  
+|  _(C) any other health benefit plan issuer._  
+|  _(8)_ _____"Out-of-network provider" means a health care_  
+| _provider who is not a participating provider._  
+|  _(9)_ _____"Participating provider" means a health care_  
+| _provider, including a preferred provider, who has contracted with a_  
+| _health benefit plan issuer to provide services to enrollees._  
+|  _(10)_ _____"Usual, customary, and reasonable rate"_ ___has the_  
+| _meaning assigned by Section 1467.201._  
+|  _Sec._ ___1275.0002._ _____APPLICABILITY OF CHAPTER. This chapter_  
+| _applies only with respect to a managed care plan._  
+|  _Sec._ ___1275.0003._ _____CERTAIN PLANS EXCLUDED._ ___This chapter does_  
+| _not apply to a service covered by a health benefit plan subject to_  
+| _Subchapter B, Chapter 1467._  
+|  _Sec._ ___1275.0004._ _____BALANCE BILLING PROHIBITED. (a) A health_  
+| _benefit plan issuer shall pay for a covered service performed for an_  
+| _enrollee under the health benefit plan by an out-of-network_  
+| _provider at the usual, customary, and reasonable rate or at an_  
+| _agreed rate._  
+|  _(b)_ _____An out-of-network provider may not bill an enrollee in,_  
+| _and the enrollee has no financial responsibility for, an amount_  
+| _greater than the enrollee's responsibility under the enrollee's_  
+| _managed care plan, including an applicable copayment, coinsurance,_  
+| _or deductible._  
+|  SECTION 2. Chapter 1467, Insurance Code, is amended by  
+| adding Subchapter E to read as follows:  
+| _SUBCHAPTER E. INDEPENDENT DISPUTE RESOLUTION PROGRAM_  
+|  _Sec. 1467.201. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Health benefit plan" means an individual, group,_  
+| _blanket, or franchise insurance policy or insurance agreement, a_  
+| _group hospital service contract, or an individual or group evidence_  
+| _of coverage or similar coverage document that provides benefits for_  
+| _health care services. The term does not include:_  
+|  _(A)_ _____the state Medicaid program, including the_  
+| _Medicaid managed care program operated under Chapter 533,_  
+| _Government Code;_  
+|  _(B)_ _____the child health plan program operated under_  
+| _Chapter 62, Health and Safety Code;_  
+|  _(C) Medicare benefits; or_  
+|  _(D)_ _____benefits designated as excepted benefits_  
+| _under 42 U.S.C. Section 300gg-91(c)._  
+|  _(2)_ _____"Health benefit plan issuer" means an entity_  
+| _authorized to engage in business under this code or another_  
+| _insurance law of this state that issues or offers to issue a health_  
+| _benefit plan in this state, including:_  
+|  _(A) an insurance company;_  
+|  _(B)_ _____a group hospital service corporation_  
+| _operating under Chapter 842;_  
+|  _(C)_ _____a health maintenance organization operating_  
+| _under Chapter 843; and_  
+|  _(D)_ _____a stipulated premium company operating under_  
+| _Chapter 884._  
+|  _(3)_ _____"Health care facility" means a hospital, emergency_  
+| _clinic, outpatient clinic, birthing center, ambulatory surgical_  
+| _center, or other facility licensed to provide health care services._  
+|  _(4)_ _____"Health care provider" means a health care_  
+| _practitioner or health care facility._  
+|  _(5)_ _____"Managed care plan" means a health benefit plan_  
+| _under which health care services are provided to enrollees through_  
+| _contracts with health care providers and that requires enrollees to_  
+| _use participating providers or that provides a different level of_  
+| _coverage for enrollees who use participating providers. The term_  
+| _includes a health benefit plan issued by:_  
+|  _(A) a health maintenance organization;_  
+|  _(B) a preferred provider benefit plan issuer; or_  
+|  _(C) any other health benefit plan issuer._  
+|  _(6)_ _____"Out-of-network provider" means a health care_  
+| _provider who is not a participating provider._  
+|  _(7)_ _____"Participating provider" means a health care_  
+| _provider who has contracted with a health benefit plan issuer to_  
+| _provide services to enrollees._  
+|  _(8)_ _____"Usual, customary, and reasonable rate" means the_  
+| _80th percentile of all charges for a particular health care service_  
+| _performed by a health care provider in the same or similar specialty_  
+| _and provided in the same geographical area as reported in a_  
+| _benchmarking database described by Section 1467.203._  
+|  _Sec._ ___1467.202._ _____APPLICABILITY OF SUBCHAPTER. This_  
+| _subchapter applies only with respect to a managed care plan._  
+|  _Sec._ ___1467.203._ _____BENCHMARKING DATABASE. (a) The_  
+| _commissioner shall select a nonprofit organization to maintain a_  
+| _benchmarking database that contains information necessary to_  
+| _calculate the usual, customary, and reasonable rate for each_  
+| _geographical area in this state._  
+|  _(b)_ _____The commissioner may not select under Subsection (a) a_  
+| _nonprofit organization that is financially affiliated with a health_  
+| _benefit plan issuer._  
+|  _Sec._ ___1467.204._ _____ESTABLISHMENT AND ADMINISTRATION OF_  
+| _PROGRAM. (a) The commissioner shall establish and administer an_  
+| _independent dispute resolution program to resolve disputes over_  
+| _out-of-network provider charges, including balance billing, in_  
+| _accordance with this subchapter._  
+|  _(b) The commissioner:_  
+|  _(1)_ _____shall adopt rules, forms, and procedures necessary_  
+| _for the implementation and administration of the independent_  
+| _dispute resolution program;_  
+|  _(2)_ _____may impose a fee on the parties participating in_  
+| _the program as necessary to cover the cost of implementation and_  
+| _administration of the program; and_  
+|  _(3)_ _____shall maintain a list of qualified reviewers for_  
+| _the program._  
+|  _Sec._ ___1467.205._ _____ISSUE TO BE ADDRESSED; BASIS FOR_  
+| _DETERMINATION. (a) The only issue that an independent reviewer may_  
+| _determine in a hearing under the independent dispute resolution_  
+| _program is the reasonable charge for the health care services_  
+| _provided to the enrollee by an out-of-network provider._  
+|  _(b) The determination must take into account:_  
+|  _(1)_ _____whether there is a gross disparity between the fee_  
+| _charged by the out-of-network provider and:_  
+|  _(A)_ _____fees paid to the out-of-network provider for_  
+| _the same services rendered by the provider to other enrollees for_  
+| _which the provider is an out-of-network provider; and_  
+|  _(B)_ _____fees paid by the health benefit plan issuer_  
+| _to reimburse similarly qualified out-of-network providers for the_  
+| _same services in the same region;_  
+|  _(2)_ _____the level of training, education, and experience_  
+| _of the out-of-network provider;_  
+|  _(3)_ _____the out-of-network provider's usual charge for_  
+| _comparable services with regard to other enrollees for which the_  
+| _provider is an out-of-network provider;_  
+|  _(4)_ _____the circumstances and complexity of the enrollee's_  
+| _particular case, including the time and place of the service;_  
+|  _(5) individual enrollee characteristics; and_  
+|  _(6)_ _____the usual, customary, and reasonable rate for the_  
+| _health care service._  
+|  _Sec._ ___1467.206._ _____INITIATION OF PROCESS. (a) A health benefit_  
+| _plan issuer or out-of-network provider may initiate an independent_  
+| _dispute resolution process in the form and manner provided by_  
+| _commissioner rule to determine the amount of reimbursement for a_  
+| _health care service provided by the provider._  
+|  _(b)_ _____A party may respond to the claims made by the party_  
+| _initiating the independent dispute resolution process under_  
+| _Subsection (a) not later than the 15th day after the date the_  
+| _process is initiated. If the responding party fails to respond,_  
+| _that party accepts the claims made by the initiating party._  
+|  _Sec._ ___1467.207._ _____SELECTION AND APPROVAL OF INDEPENDENT_  
+| _REVIEWERS. (a) If the parties do not select an independent_  
+| _reviewer by mutual agreement on or before the 30th day after the_  
+| _date the independent dispute resolution process is initiated, the_  
+| _commissioner shall select a reviewer from the commissioner's list_  
+| _of qualified reviewers._  
+|  _(b)_ _____To be eligible to serve as an independent reviewer, an_  
+| _individual must be knowledgeable and experienced in applicable_  
+| _principles of contract and insurance law and the health care_  
+| _industry generally._  
+|  _(c)_ _____In approving an individual as an independent reviewer,_  
+| _the commissioner shall ensure that the individual does not have a_  
+| _conflict of interest that would adversely impact the individual's_  
+| _independence and impartiality in rendering a decision in an_  
+| _independent dispute resolution process. A conflict of interest_  
+| _includes current or recent ownership or employment of the_  
+| _individual or a close family member in a health benefit plan issuer_  
+| _or out-of-network provider that may be involved in the process._  
+|  _(d)_ _____The commissioner shall immediately terminate the_  
+| _approval of an independent reviewer who no longer meets the_  
+| _requirements under this subchapter and rules adopted under this_  
+| _subchapter to serve as an independent reviewer._  
+|  _Sec._ ___1467.208._ _____PROCEDURES. (a) A party to an independent_  
+| _dispute resolution process may request an oral hearing._  
+|  _(b)_ _____If an oral hearing is not requested, the independent_  
+| _reviewer shall set a date for submission of all information to be_  
+| _considered by the reviewer._  
+|  _(c)_ _____A party to an independent dispute resolution process_  
+| _shall submit a binding award amount to the independent reviewer._  
+|  _(d)_ _____An independent reviewer may make procedural rulings_  
+| _during an oral hearing._  
+|  _(e)_ _____A party may not engage in discovery in connection with_  
+| _an independent dispute resolution process._  
+|  _Sec._ ___1467.209._ _____DECISION. (a) Not later than the 10th day_  
+| _after the date of an oral hearing or the deadline for submission of_  
+| _information, as applicable, an independent reviewer shall provide_  
+| _the parties with a written decision in which the reviewer_  
+| _determines which binding award amount submitted under Section_  
+| _1467.208 is the closest to the reasonable charge for the services_  
+| _provided in accordance with Section 1467.205(b)._  
+|  _(b)_ _____An independent reviewer may not modify the binding award_  
+| _amount selected under Subsection (a)._  
+|  _(c)_ _____The decision described by Subsection (a) is binding and_  
+| _final. The prevailing party may seek enforcement of the decision in_  
+| _any court of competent jurisdiction._  
+|  _Sec._ ___1467.210._ _____ATTORNEY'S FEES AND COSTS. Unless otherwise_  
+| _agreed by the parties to an independent dispute resolution process,_  
+| _each party shall:_  
+|  _(1) bear the party's own attorney's fees and costs; and_  
+|  _(2)_ _____equally split the fees and costs of the_  
+| _independent reviewer._  
+|  SECTION 3. Sections 1467.001(3), (5), and (7), Insurance  
+| Code, are amended to read as follows:  
+|  (3) "Enrollee" means an individual who is eligible to  
+| receive benefits through [ ~~a preferred provider benefit plan or~~ ] a  
+| health benefit plan [ ~~under Chapter 1551, 1575, or 1579~~ ].  
+|  (5) "Mediation" means a process in which an impartial  
+| mediator facilitates and promotes agreement between _an_ [ ~~the insurer~~  
+|  ~~offering a preferred provider benefit plan or the~~ ] administrator  
+| and a facility-based provider or emergency care provider or the  
+| provider's representative to settle a health benefit claim of an  
+| enrollee.  
+|  (7) "Party" means _a health_ [ ~~an insurer offering a~~  
+|  ~~preferred provider~~ ] benefit plan _issuer_ , an administrator, or a  
+| facility-based provider or emergency care provider or the  
+| provider's representative who participates in a mediation  
+| conducted under this chapter. The enrollee is also considered a  
+| party to the mediation.  
+|  SECTION 4. Section 1467.002, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.002. APPLICABILITY OF CHAPTER. _Except as_  
+| _provided by Subchapter E, this_ [ ~~This~~ ] chapter applies _only_ to[
+~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~a preferred provider benefit plan offered by an~~  
+|  ~~insurer under Chapter 1301; and~~  
+|  [ ~~(2)~~ ] an administrator of a health benefit plan, other  
+| than a health maintenance organization plan, under Chapter 1551,  
+| 1575, or 1579.  
+|  SECTION 5. Section 1467.005, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.005. REFORM. This chapter may not be construed to  
+| prohibit:  
+|  (1) an [ ~~insurer offering a preferred provider benefit~~  
+|  ~~plan or~~ ] administrator from, at any time, offering a reformed claim  
+| settlement; or  
+|  (2) a facility-based provider or emergency care  
+| provider from, at any time, offering a reformed charge for health  
+| care or medical services or supplies.  
+|  SECTION 6. Sections 1467.051(a) and (b), Insurance Code,  
+| are amended to read as follows:  
+|  (a) An enrollee may request mediation of a settlement of an  
+| out-of-network health benefit claim if:  
+|  (1) the amount for which the enrollee is responsible  
+| to a facility-based provider or emergency care provider, after  
+| copayments, deductibles, and coinsurance, including the amount  
+| unpaid by the administrator [ ~~or insurer~~ ], is greater than $500; and  
+|  (2) the health benefit claim is for:  
+|  (A) emergency care; or  
+|  (B) a health care or medical service or supply  
+| provided by a facility-based provider in a facility that is a  
+| preferred provider or that has a contract with the administrator.  
+|  (b) Except as provided by Subsections (c) and (d), if an  
+| enrollee requests mediation under this subchapter, the  
+| facility-based provider or emergency care provider, or the  
+| provider's representative, and [ ~~the insurer or~~ ] the  
+| administrator[ ~~, as appropriate,~~ ] shall participate in the  
+| mediation.  
+|  SECTION 7. Section 1467.0511, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.0511. NOTICE AND INFORMATION PROVIDED TO  
+| ENROLLEE. (a)  A bill sent to an enrollee by a facility-based  
+| provider or emergency care provider or an explanation of benefits  
+| sent to an enrollee by an [ ~~insurer or~~ ] administrator for an  
+| out-of-network health benefit claim eligible for mediation under  
+| this chapter must contain, in not less than 10-point boldface type,  
+| a conspicuous, plain-language explanation of the mediation process  
+| available under this chapter, including information on how to  
+| request mediation and a statement that is substantially similar to  
+| the following:  
+|  "You may be able to reduce some of your out-of-pocket costs  
+| for an out-of-network medical or health care claim that is eligible  
+| for mediation by contacting the Texas Department of Insurance at  
+| (website) and (phone number)."  
+|  (b) If an enrollee contacts an [ ~~insurer,~~ ] administrator,  
+| facility-based provider, or emergency care provider about a bill  
+| that may be eligible for mediation under this chapter, the  
+| [ ~~insurer,~~ ] administrator, facility-based provider, or emergency  
+| care provider is encouraged to:  
+|  (1) inform the enrollee about mediation under this  
+| chapter; and  
+|  (2) provide the enrollee with the department's  
+| toll-free telephone number and Internet website address.  
+|  SECTION 8. Section 1467.052(c), Insurance Code, is amended  
+| to read as follows:  
+|  (c) A person may not act as mediator for a claim settlement  
+| dispute if the person has been employed by, consulted for, or  
+| otherwise had a business relationship with [ ~~an insurer offering the~~  
+|  ~~preferred provider benefit plan or~~ ] a physician, health care  
+| practitioner, or other health care provider during the three years  
+| immediately preceding the request for mediation.  
+|  SECTION 9. Section 1467.053(d), Insurance Code, is amended  
+| to read as follows:  
+|  (d) The mediator's fees shall be split evenly and paid by  
+| the [ ~~insurer or~~ ] administrator and the facility-based provider or  
+| emergency care provider.  
+|  SECTION 10. Sections 1467.054(b) and (c), Insurance Code,  
+| are amended to read as follows:  
+|  (b) A request for mandatory mediation must be provided to  
+| the department on a form prescribed by the commissioner and must  
+| include:  
+|  (1) the name of the enrollee requesting mediation;  
+|  (2) a brief description of the claim to be mediated;  
+|  (3) contact information, including a telephone  
+| number, for the requesting enrollee and the enrollee's counsel, if  
+| the enrollee retains counsel;  
+|  (4) the name of the facility-based provider or  
+| emergency care provider and name of the [ ~~insurer or~~ ] administrator;  
+| and  
+|  (5) any other information the commissioner may require  
+| by rule.  
+|  (c) On receipt of a request for mediation, the department  
+| shall notify the facility-based provider or emergency care provider  
+| and [ ~~insurer or~~ ] administrator of the request.  
+|  SECTION 11. Section 1467.055(i), Insurance Code, is amended  
+| to read as follows:  
+|  (i) A health care or medical service or supply provided by a  
+| facility-based provider or emergency care provider may not be  
+| summarily disallowed.  This subsection does not require an [ ~~insurer~~  
+|  ~~or~~ ] administrator to pay for an uncovered service or supply.  
+|  SECTION 12. Sections 1467.056(a), (b), and (d), Insurance  
+| Code, are amended to read as follows:  
+|  (a) In a mediation under this chapter, the parties shall:  
+|  (1) evaluate whether:  
+|  (A) the amount charged by the facility-based  
+| provider or emergency care provider for the health care or medical  
+| service or supply is excessive; and  
+|  (B) the amount paid by the [ ~~insurer or~~ ]  
+| administrator represents the usual and customary rate for the  
+| health care or medical service or supply or is unreasonably low; and  
+|  (2) as a result of the amounts described by  
+| Subdivision (1), determine the amount, after copayments,  
+| deductibles, and coinsurance are applied, for which an enrollee is  
+| responsible to the facility-based provider or emergency care  
+| provider.  
+|  (b) The facility-based provider or emergency care provider  
+| may present information regarding the amount charged for the health  
+| care or medical service or supply.  The [ ~~insurer or~~ ] administrator  
+| may present information regarding the amount paid by the [ ~~insurer~~  
+|  ~~or~~ ] administrator.  
+|  (d) The goal of the mediation is to reach an agreement among  
+| the enrollee, the facility-based provider or emergency care  
+| provider, and the [ ~~insurer or~~ ] administrator[ ~~, as applicable,~~ ]
+as  
+| to the amount paid by the [ ~~insurer or~~ ] administrator to the  
+| facility-based provider or emergency care provider, the amount  
+| charged by the facility-based provider or emergency care provider,  
+| and the amount paid to the facility-based provider or emergency  
+| care provider by the enrollee.  
+|  SECTION 13. Section 1467.058, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.058. CONTINUATION OF MEDIATION. After a referral  
+| is made under Section 1467.057, the facility-based provider or  
+| emergency care provider and the [ ~~insurer or~~ ] administrator may  
+| elect to continue the mediation to further determine their  
+| responsibilities. Continuation of mediation under this section  
+| does not affect the amount of the billed charge to the enrollee.  
+|  SECTION 14. Section 1467.151(b), Insurance Code, is amended  
+| to read as follows:  
+|  (b) The department and the Texas Medical Board or other  
+| appropriate regulatory agency shall maintain information:  
+|  (1) on each complaint filed that concerns a claim or  
+| mediation subject to this chapter; and  
+|  (2) related to a claim that is the basis of an enrollee  
+| complaint, including:  
+|  (A) the type of services that gave rise to the  
+| dispute;  
+|  (B) the type and specialty, if any, of the  
+| facility-based provider or emergency care provider who provided the  
+| out-of-network service;  
+|  (C) the county and metropolitan area in which the  
+| health care or medical service or supply was provided;  
+|  (D) whether the health care or medical service or  
+| supply was for emergency care; and  
+|  (E) any other information about:  
+|  (i) the [ ~~insurer or~~ ] administrator that the  
+| commissioner by rule requires; or  
+|  (ii) the facility-based provider or  
+| emergency care provider that the Texas Medical Board or other  
+| appropriate regulatory agency by rule requires.  
+|  SECTION 15. The changes in law made by this Act apply only  
+| to a health benefit plan delivered, issued for delivery, or renewed  
+| on or after January 1, 2020. A health benefit plan delivered,  
+| issued for delivery, or renewed before January 1, 2020, is governed  
+| by the law as it existed immediately before the effective date of  
+| this Act, and that law is continued in effect for that purpose.  
+|  SECTION 16. This Act takes effect September 1, 2019.
+

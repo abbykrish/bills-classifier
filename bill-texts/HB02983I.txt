@@ -1,0 +1,283 @@
+|  
+---|---  
+|  By: Huberty | H.B. No. 2983  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the administration to public school students in certain  
+| grades of state-administered assessment instruments.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 39.023, Education Code, is amended by  
+| amending Subsections (a), (a-1), (a-2), (b), (c-1), (c-3), (e),  
+| (l), (m), (n), and (p) and adding Subsections (a-3), (a-4), (a-5),  
+| (a-6), (a-7), (a-8), and (a-9) to read as follows:  
+|  (a) The agency shall adopt or develop appropriate  
+| criterion-referenced assessment instruments designed to assess  
+| essential knowledge and skills in reading, writing, mathematics,  
+| social studies, and science. Except as provided by Subsection  
+| (a-2), all students, other than students assessed under Subsection  
+| (b) or (l) or exempted under Section 39.027, shall be assessed in:  
+|  (1) mathematics, [ ~~annually~~ ] in grades three _and five_  
+| [ ~~through seven~~ ] without the aid of technology and in grade eight  
+| with the aid of technology on any assessment instrument that  
+| includes algebra;  
+|  (2) reading, [ ~~annually~~ ] in grades three _, five, and_  
+| [ ~~through~~ ] eight;  
+|  (3) writing, including spelling and grammar, in grades  
+| _five and eight_ [ ~~four and seven~~ ];  
+|  (4) social studies, in grade eight; _and_  
+|  (5) science, in grades five and eight[ ~~; and~~  
+|  [ ~~(6)~~ ~~~~ ~~~~ ~~any other subject and grade required by federal~~  
+|  ~~law~~ ].  
+|  (a-1) The agency shall develop assessment instruments  
+| required under _Subsections (a), (a-4), (a-5), and (a-6)_ [ ~~Subsection~~  
+|  ~~(a)~~ ] in a manner that allows, to the extent practicable:  
+|  (1) the score a student receives to provide reliable  
+| information relating to a student's satisfactory performance for  
+| each performance standard under Section 39.0241; and  
+|  (2) an appropriate range of performances to serve as a  
+| valid indication of growth in student achievement.  
+|  (a-2) A student is not required to be assessed in a subject  
+| otherwise assessed at the student's grade level under Subsection  
+| (a) if the student:  
+|  (1) is enrolled in a course in the subject intended for  
+| students above the student's grade level and will be administered  
+| an assessment instrument adopted or developed under Subsection (a) _,_  
+| _(a-4), (a-5), or (a-6)_ that aligns with the curriculum for the  
+| course in which the student is enrolled; or  
+|  (2) is enrolled in a course in the subject for which  
+| the student will receive high school academic credit and will be  
+| administered an end-of-course assessment instrument adopted under  
+| Subsection (c) for the course.  
+|  (a-3) The agency may not adopt or develop a criterion-  
+| referenced assessment instrument under this section based on common  
+| core state standards as defined by Section 28.002(b-1). This  
+| subsection does not prohibit the use of college advanced placement  
+| tests or international baccalaureate examinations as those terms  
+| are defined by Section 28.051.  
+|  _(a-4)_ _____For each assessment instrument administered under_  
+| _Subsection (a) or (a-5), the agency shall determine, based on_  
+| _available information for that assessment instrument, the minimum_  
+| _satisfactory adjusted scale score. The minimum satisfactory_  
+| _adjusted scale score is the sum of the scale score that indicates_  
+| _satisfactory performance on that assessment instrument, as_  
+| _determined by the commissioner under Section 39.0241(a), plus the_  
+| _minimum number of points that when added to the scale score produces_  
+| _a score that, within a three percent margin of error, is predictive_  
+| _that a student achieving that score would achieve satisfactory_  
+| _performance on an assessment instrument in the same subject_  
+| _administered to the student during the following school year._  
+|  _(a-5)_ _____A student shall be assessed in grade four in a subject_  
+| _for which an assessment instrument is administered under Subsection_  
+| _(a) in grade three if, on the final assessment instrument in that_  
+| _subject administered under Subsection (a) to the student in grade_  
+| _three during the preceding school year, the student did not achieve_  
+| _a score equal to or greater than the minimum satisfactory adjusted_  
+| _scale score for that assessment instrument, as determined under_  
+| _Subsection (a-3)._  
+|  _(a-6)_ _____A student shall be assessed in grade six in a subject_  
+| _for which an assessment instrument is administered under Subsection_  
+| _(a)(1) or (2) in grade five if, on the final assessment instrument_  
+| _in that subject administered under Subsection (a)(1) or (2) to the_  
+| _student in grade five during the preceding school year, the student_  
+| _did not achieve a score equal to or greater than the minimum_  
+| _satisfactory adjusted scale score for that assessment instrument,_  
+| _as determined under Subsection (a-3)._  
+|  _(a-7)_ _____A student shall be assessed in grade seven in a_  
+| _subject for which an assessment instrument was administered under_  
+| _Subsection (a-5) to the student in grade six if, on the final_  
+| _assessment instrument in that subject administered to the student_  
+| _in grade six during the preceding school year, the student did not_  
+| _achieve a score equal to or greater than the minimum satisfactory_  
+| _adjusted scale score for that assessment instrument, as determined_  
+| _under Subsection (a-3)._  
+|  _(a-8)_ _____A student assessed in mathematics under Subsection_  
+| _(a-4), (a-5), or (a-6) shall be assessed without the aid of_  
+| _technology._  
+|  _(a-9)_ _____A school district or open-enrollment charter school_  
+| _may, for its own use in determining whether students are performing_  
+| _at a satisfactory level, administer to a student at the appropriate_  
+| _grade level, other than a student required to be assessed, an_  
+| _assessment instrument developed for purposes of Subsection (a-4),_  
+| _(a-5), or (a-6). At the request of a district or open-enrollment_  
+| _charter school, the agency shall provide, allow for the_  
+| _administration of, and score each assessment instrument_  
+| _administered under this subsection in the same manner and at the_  
+| _same cost as for assessment instruments required to be administered_  
+| _under the applicable subsection. The results of an assessment_  
+| _instrument administered under this subsection may not be included_  
+| _as an indicator of student achievement under Section 39.053 or any_  
+| _other provision._  
+|  _(a-10)_ _____If there is a conflict between this section and a_  
+| _federal law or regulation as a result of forgoing under this section_  
+| _certain administration of assessment instruments to students who_  
+| _have recently performed successfully on assessment instruments_  
+| _assessing the same subject, the commissioner shall seek a waiver_  
+| _from the application of the conflicting federal law or regulation._  
+| _In seeking a waiver, the commissioner shall submit all relevant_  
+| _data, including data relating to:_  
+|  _(1)_ _____the likelihood that a student who achieves a score_  
+| _on an assessment instrument equal to or greater than the minimum_  
+| _satisfactory adjusted scale score for that assessment instrument,_  
+| _as determined under Subsection (a-3), will, in subsequent years,_  
+| _perform satisfactorily on assessment instruments in the same_  
+| _subject;_  
+|  _(2)_ _____the costs associated with ongoing assessment of_  
+| _students who have proven likely to perform successfully on_  
+| _subsequent assessment instruments; and_  
+|  _(3)_ _____the benefit of redirecting resources from_  
+| _assessment of students who have proven likely to perform_  
+| _successfully on subsequent assessment instruments toward enabling_  
+| _lower performing students to perform successfully on assessment_  
+| _instruments after one school year._  
+|  (a-11) Before an assessment instrument adopted or developed  
+| under Subsection (a) may be administered under that subsection, the  
+| assessment instrument must, on the basis of empirical evidence, be  
+| determined to be valid and reliable by an entity that is independent  
+| of the agency and of any other entity that developed the assessment  
+| instrument.  
+|  (a-12) An assessment instrument adopted or developed under  
+| Subsection (a) must be designed so that:  
+|  (1) if administered to students in grades three  
+| through five, 85 percent of students will be able to complete the  
+| assessment instrument within 120 minutes; and  
+|  (2) if administered to students in grades six through  
+| eight, 85 percent of students will be able to complete the  
+| assessment instrument within 180 minutes.  
+|  (a-13) The amount of time allowed for administration of an  
+| assessment instrument adopted or developed under Subsection (a) may  
+| not exceed eight hours, and the administration may occur on only one  
+| day.  
+|  (b) The agency shall develop or adopt appropriate  
+| criterion-referenced alternative assessment instruments to be  
+| administered to _a_ [ ~~each~~ ] student in a special education program  
+| under Subchapter A, Chapter 29, for whom an assessment instrument  
+| adopted under Subsection (a) _or, to the extent applicable,_  
+| _Subsection (a-4), (a-5), or (a-6)_ , even with allowable  
+| accommodations, would not provide an appropriate measure of student  
+| achievement, as determined by the student's admission, review, and  
+| dismissal committee, including assessment instruments approved by  
+| the commissioner that measure growth. The assessment instruments  
+| developed or adopted under this subsection, including the  
+| assessment instruments approved by the commissioner, must, to the  
+| extent allowed under federal law, provide a district with options  
+| for the assessment of students under this subsection. The agency  
+| may not adopt a performance standard that indicates that a  
+| student's performance on the alternate assessment does not meet  
+| standards if the lowest level of the assessment accurately  
+| represents the student's developmental level as determined by the  
+| student's admission, review, and dismissal committee.  
+|  (c-1) _To the greatest extent practicable, the_ [ ~~The~~ ] agency  
+| shall develop any assessment instrument required under this section  
+| in a manner that allows for the measurement of annual improvement in  
+| student achievement as required by Sections 39.034(c) and (d).  
+|  (c-3) In adopting a schedule for the administration of  
+| assessment instruments under this section, the State Board of  
+| Education shall require:  
+|  (1) assessment instruments administered under  
+| _Subsections (a), (a-4), (a-5), and (a-6)_ [ ~~Subsection (a)~~ ] to be  
+| administered on a schedule so that the first assessment instrument  
+| is administered at least two weeks later than the date on which the  
+| first assessment instrument was administered under Subsection (a)  
+| during the 2006-2007 school year; and  
+|  (2) the spring administration of end-of-course  
+| assessment instruments under Subsection (c) to occur in each school  
+| district not earlier than the first full week in May, except that  
+| the spring administration of the end-of-course assessment  
+| instruments in English I, English II, and English III must be  
+| permitted to occur at an earlier date.  
+|  (e) Under rules adopted by the State Board of Education,  
+| every third year, the agency shall release the questions and answer  
+| keys to each assessment instrument administered under Subsection  
+| (a), _(a-4), (a-5), (a-6),_ (b), (c), (d), or (l), excluding any  
+| assessment instrument administered to a student for the purpose of  
+| retaking the assessment instrument, after the last time the  
+| instrument is administered for that school year. To ensure a valid  
+| bank of questions for use each year, the agency is not required to  
+| release a question that is being field-tested and was not used to  
+| compute the student's score on the instrument. The agency shall  
+| also release, under board rule, each question that is no longer  
+| being field-tested and that was not used to compute a student's  
+| score. ~~During the 2014-2015 and 2015-2016 school years, the agency~~  
+|  ~~shall release the questions and answer keys to assessment~~  
+|  ~~instruments as described by this subsection each year.~~  
+|  (l) The State Board of Education shall adopt rules for the  
+| administration of the assessment instruments adopted under  
+| Subsection (a) _and, to the extent applicable, the assessment_  
+| _instruments adopted under Subsection (a-4)_ in Spanish to students  
+| in grades three _, four, and_ [ ~~through~~ ] five who are of limited
+English  
+| proficiency, as defined by Section 29.052, whose primary language  
+| is Spanish, and who are not otherwise exempt from the  
+| administration of an assessment instrument under Section  
+| 39.027(a)(1) or (2). Each student of limited English proficiency  
+| whose primary language is Spanish, other than a student to whom  
+| Subsection (b) applies, may be assessed using assessment  
+| instruments in Spanish under this subsection for up to three years  
+| or assessment instruments in English under Subsection (a) _and, as_  
+| _applicable, Subsection (a-4)_. The language proficiency assessment  
+| committee established under Section 29.063 shall determine which  
+| students are administered assessment instruments in Spanish under  
+| this subsection.  
+|  (m) The commissioner by rule shall develop procedures under  
+| which the language proficiency assessment committee established  
+| under Section 29.063 shall determine which students are exempt from  
+| the administration of the assessment instruments under Section  
+| 39.027(a)(1) or (2). The rules adopted under this subsection shall  
+| ensure that the language proficiency assessment committee provides  
+| that the exempted students are administered the assessment  
+| instruments under Subsections (a) and (c) _and, to the extent_  
+| _applicable, Subsections (a-4), (a-5), and (a-6)_ at the earliest  
+| practical date.  
+|  (n) This subsection applies only to a student who is  
+| determined to have dyslexia or a related disorder and who is an  
+| individual with a disability under 29 U.S.C. Section 705(20) and  
+| its subsequent amendments. The agency shall adopt or develop  
+| appropriate criterion-referenced assessment instruments designed  
+| to assess the ability of and to be administered to each student to  
+| whom this subsection applies for whom the assessment instruments  
+| adopted under Subsection (a) _and, to the extent applicable, the_  
+| _assessment instruments adopted under Subsections (a-4), (a-5), and_  
+| _(a-6)_ , even with allowable modifications, would not provide an  
+| appropriate measure of student achievement, as determined by the  
+| committee established by the board of trustees of the district to  
+| determine the placement of students with dyslexia or related  
+| disorders. The committee shall determine whether any allowable  
+| modification is necessary in administering to a student an  
+| assessment instrument required under this subsection. The  
+| assessment instruments required under this subsection shall be  
+| administered on the same schedule as the assessment instruments  
+| administered under _Subsections (a), (a-4), (a-5), and (a-6), as_  
+| _applicable_ [ ~~Subsection (a)~~ ].  
+|  (p) On or before September 1 of each year, the commissioner  
+| shall make the following information available on the agency's  
+| Internet website for each assessment instrument administered under  
+| Subsection (a), _(a-4), (a-5), (a-6),_ (c), or (l):  
+|  (1) the number of questions on the assessment  
+| instrument;  
+|  (2) the number of questions that must be answered  
+| correctly to achieve satisfactory performance as determined by the  
+| commissioner under Section 39.0241(a);  
+|  (3) the number of questions that must be answered  
+| correctly to achieve satisfactory performance under the college  
+| readiness performance standard as provided by Section 39.0241; and  
+|  (4) the corresponding scale scores.  
+|  SECTION 2. (a) This Act takes effect on any date not later  
+| than September 1, 2021, on which the commissioner of education:  
+|  (1) obtains any necessary waiver from the application  
+| of federal law or regulation conflicting with Section 39.023,  
+| Education Code, as amended by this Act, as required by Section  
+| 39.023(a-9), Education Code, as added by this Act; or  
+|  (2) receives written notification from the United  
+| States Department of Education that a waiver is not required.  
+|  (b) This Act applies beginning with the first school year  
+| that begins after the date on which this Act takes effect under  
+| Subsection (a) of this section.  
+|  (c) If the commissioner of education obtains any necessary  
+| waiver or receives written notification as described by Subsection  
+| (a) of this section, the commissioner shall certify that the  
+| commissioner has obtained the waiver or received notification that  
+| a waiver is not required, as applicable, and shall publish notice of  
+| that fact in the Texas Register as soon as practicable after  
+| obtaining the waiver or receiving notification.
+

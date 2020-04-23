@@ -1,0 +1,425 @@
+| 86R6850 SRS-F  
+---|---  
+|  By: Leach | H.B. No. 3336  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the jurisdiction of, and practices and procedures in  
+| civil cases before, justice courts, county courts, statutory county  
+| courts, and district courts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 22.004(h), Government Code, is amended  
+| to read as follows:  
+|  (h) The supreme court shall adopt rules to promote the  
+| prompt, efficient, and cost-effective resolution of civil  
+| actions. The rules shall apply to civil actions in district  
+| courts, county courts at law, and statutory probate courts in which  
+| the amount in controversy[ ~~, inclusive of all claims for damages of~~  
+|  ~~any kind, whether actual or exemplary, a penalty, attorney's fees,~~  
+|  ~~expenses, costs, interest, or any other type of damage of any kind,~~ ]  
+| does not exceed _$250,000_ [ ~~$100,000~~ ]. The rules shall address the  
+| need for lowering discovery costs in these actions and the  
+| procedure for ensuring that these actions will be expedited in the  
+| civil justice system. The supreme court may not adopt rules under  
+| this subsection that conflict with _other statutory law_ [ ~~a provision~~  
+|  ~~of:~~  
+|  [ ~~(1) Chapter 74, Civil Practice and Remedies Code;~~  
+|  [ ~~(2) the Family Code;~~  
+|  [ ~~(3) the Property Code; or~~  
+|  [ ~~(4) the Tax Code~~].  
+|  SECTION 2. Subchapter A, Chapter 22, Government Code, is  
+| amended by adding Section 22.023 to read as follows:  
+|  _Sec._ ___22.023._ _____PILOT PROGRAM TO ENHANCE CIVIL JUSTICE SYSTEM._  
+| _(a) Subject to the legislature providing adequate funding, the_  
+| _supreme court shall select 10 counties in this state for the_  
+| _establishment of pilot programs that allow the trial courts in a_  
+| _county to experiment with practices and procedures to enhance_  
+| _access by persons in this state to the civil justice system._ ___The_  
+| _goal of establishing the pilot programs is to identify specific_  
+| _practices and procedures to:_  
+|  _(1) lower the cost of civil cases; and_  
+|  _(2) decrease the time required to resolve civil cases._  
+|  _(b)_ _____The supreme court shall require at least one pilot_  
+| _program to:_  
+|  _(1)_ _____reduce the amount of discovery allowed before_  
+| _trial in civil cases; and_  
+|  _(2)_ _____restrict the number of and reasons for requests_  
+| _for continuances for civil cases._  
+|  _(c)_ _____The supreme court, in cooperation with the Office of_  
+| _Court Administration of the Texas Judicial System, shall collect_  
+| _and maintain the information necessary to determine for each pilot_  
+| _program established under this section the success of the program_  
+| _in enhancing access to the civil justice system._  
+|  _(d)_ _____Not later than December 1 of each even-numbered year,_  
+| _the supreme court shall submit a report describing each pilot_  
+| _program and detailing the program's results to the:_  
+|  _(1) governor;_  
+|  _(2) lieutenant governor; and_  
+|  _(3) speaker of the house of representatives._  
+|  _(e)_ _____The supreme court shall promulgate temporary rules of_  
+| _administration and civil procedure as necessary to implement this_  
+| _section. Nothing in this section impairs the ability of the supreme_  
+| _court to adopt rules it considers necessary under its existing_  
+| _statutory and constitutional authority._  
+|  _(f) This section expires September 1, 2025._  
+|  SECTION 3. Section 25.0003(c), Government Code, is amended  
+| to read as follows:  
+|  (c) In addition to other jurisdiction provided by law, a  
+| statutory county court exercising civil jurisdiction concurrent  
+| with the constitutional jurisdiction of the county court has  
+| concurrent jurisdiction with the district court in:  
+|  (1) civil cases in which the matter in controversy  
+| exceeds $500 but does not exceed _$250,000_ [ ~~$200,000~~ ], excluding  
+| interest, statutory or punitive damages and penalties, and  
+| attorney's fees and costs, as alleged on the face of the petition;  
+| and  
+|  (2) appeals of final rulings and decisions of the  
+| division of workers' compensation of the Texas Department of  
+| Insurance regarding workers' compensation claims, regardless of  
+| the amount in controversy.  
+|  SECTION 4. Section 25.0007, Government Code, is amended by  
+| amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) Practice in a statutory county court is that prescribed  
+| by law for county courts, except that practice, procedure, rules of  
+| evidence, issuance of process and writs, _the drawing of jury_  
+| _panels, the selection of jurors,_ and all other matters pertaining  
+| to the conduct of trials and hearings in the statutory county  
+| courts[ ~~, other than the number of jurors,~~ ] that involve those  
+| matters of concurrent jurisdiction with district courts are  
+| governed by the laws and rules pertaining to _the_ district courts _in_  
+| _the county in which the statutory county court is located_. This  
+| section does not affect local rules of administration adopted under  
+| Section 74.093.  
+|  _(c)_ _____In a civil case pending in a statutory county court in_  
+| _which the matter in controversy is $250,000 or more, the jury shall_  
+| _be composed of 12 members unless all of the parties agree to a jury_  
+| _composed of a lesser number of jurors._  
+|  SECTION 5. Section 25.0052(a), Government Code, as amended  
+| by Chapters 614 (S.B. 1428) and 746 (H.B. 66), Acts of the 72nd  
+| Legislature, Regular Session, 1991, is reenacted and amended to  
+| read as follows:  
+|  (a) In addition to the jurisdiction provided by Section  
+| 25.0003 and other law, a county court at law in Angelina County has:  
+|  (1) concurrent with the county court, the probate  
+| jurisdiction provided by general law for county courts; and  
+|  (2) concurrent jurisdiction with the district court  
+| in[ ~~:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~civil cases in which the matter in~~  
+|  ~~controversy exceeds $500 but does not exceed $50,000, excluding~~  
+|  ~~interest; and~~  
+|  [ ~~(B)~~ ] family law cases and proceedings.  
+|  SECTION 6. Section 25.0102(h), Government Code, is amended  
+| to read as follows:  
+|  (h) If a family law case or proceeding is tried before a  
+| jury, the jury shall be composed of 12 members; in all other cases  
+| the jury shall be composed of six members _except as provided by the_  
+| _constitution, Section 25.0007(c), or other law_.  
+|  SECTION 7. Section 25.0202(a), Government Code, is amended  
+| to read as follows:  
+|  (a) In addition to the jurisdiction provided by Section  
+| 25.0003 and other law, a county court at law in Bosque County has  
+| concurrent jurisdiction with the district court in:  
+|  (1) family law cases and proceedings; _and_  
+|  (2) [ ~~civil cases in which the matter in controversy~~  
+|  ~~exceeds $500 but does not exceed $200,000, excluding interest,~~  
+|  ~~court costs, and attorney's fees; and~~  
+|  [ ~~(3)~~ ] contested probate matters under Section 32.003,  
+| Estates Code.  
+|  SECTION 8. Section 25.0222(m), Government Code, is amended  
+| to read as follows:  
+|  (m) When a jury trial is requested in a case of concurrent  
+| jurisdiction between the district courts and statutory county  
+| courts, and the case was instituted in district court, the jury  
+| shall be composed of 12 members. In all other cases in which a jury  
+| trial is requested in the statutory county courts the jury shall be  
+| composed of six jurors _except as provided by the constitution,_  
+| _Section 25.0007(c), or other law_.  
+|  SECTION 9. Section 25.0362(f), Government Code, is amended  
+| to read as follows:  
+|  (f) Except as otherwise provided by this subsection, a jury  
+| in a county court at law shall be composed of six members _except as_  
+| _provided by_ [ ~~unless~~ ] the constitution _, Section 25.0007(c), or
+other_  
+| _law_ [ ~~requires a 12-member jury~~ ]. Failure to object before a  
+| six-member jury is seated and sworn constitutes a waiver of a  
+| 12-member jury. In matters in which the constitution _or other law_  
+| does not require a 12-member jury and the county court at law has  
+| concurrent jurisdiction with the district court, the jury may be  
+| composed of 12 members if a party to the suit requests a 12-member  
+| jury [ ~~and the judge of the court consents~~ ]. In a civil case tried  
+| in a county court at law, the parties may, by mutual agreement [ ~~and~~  
+|  ~~with the consent of the judge~~ ], agree to try the case with any  
+| number of jurors and have a verdict rendered and returned by the  
+| vote of any number of those jurors that is less than the total  
+| number of jurors.  
+|  SECTION 10. Section 25.0722(i), Government Code, is amended  
+| to read as follows:  
+|  (i) If a family law case or proceeding is tried before a  
+| jury, the jury shall be composed of 12 members. In all other cases  
+| the jury shall be composed of six members _except as provided by the_  
+| _constitution, Section 25.0007(c), or other law_.  
+|  SECTION 11. Section 25.0812(k), Government Code, is amended  
+| to read as follows:  
+|  (k) If a jury trial is requested in a case of concurrent  
+| jurisdiction between the district courts and the county courts at  
+| law, and the case was instituted in the district court, the jury  
+| shall be composed of 12 members. In all other cases in which a jury  
+| trial is requested in the county courts at law, the jury shall be  
+| composed of six members _except as provided by the constitution,_  
+| _Section 25.0007(c), or other law_.  
+|  SECTION 12. Section 25.0862(n), Government Code, is amended  
+| to read as follows:  
+|  (n) If a jury trial is requested in a case that is in a  
+| county court at law's jurisdiction as provided by Subsection (a),  
+| the jury shall be composed of six members unless the constitution _,_  
+| _Section 25.0007(c), or other law_ requires a 12-member jury.  
+| Failure to object before a six-member jury is seated and sworn  
+| constitutes a waiver of a 12-member jury.  
+|  SECTION 13. Section 25.0942(l), Government Code, is amended  
+| to read as follows:  
+|  (l) Except as otherwise provided by this subsection, a jury  
+| in a county court at law shall be composed of six members, unless  
+| the constitution _, Section 25.0007(c), or other law_ requires a  
+| 12-member jury. Failure to object before a six-member jury is  
+| seated and sworn constitutes a waiver of a 12-member jury. In  
+| matters in which the constitution _or other law_ does not require a  
+| 12-member jury and the county court at law has concurrent  
+| jurisdiction with the district court, the jury shall be composed of  
+| 12 members if a party to the suit requests a 12-member jury. In a  
+| civil case tried in a county court at law, the parties may, by  
+| mutual agreement [ ~~and with the consent of the judge~~ ], agree to try  
+| the case with any number of jurors and have a verdict rendered and  
+| returned by the vote of any number of those jurors that is less than  
+| the total number of jurors.  
+|  SECTION 14. Section 25.1042(h), Government Code, is amended  
+| to read as follows:  
+|  (h) A jury must be composed of 12 members in[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~any civil case pending in which the amount in~~  
+|  ~~controversy is $200,000 or more; and~~  
+|  [ ~~(2)~~ ] any felony case.  
+|  SECTION 15. Sections 25.1132(c) and (o), Government Code,  
+| are amended to read as follows:  
+|  (c) A county court at law in Hood County has concurrent  
+| jurisdiction with the district court in:  
+|  (1) [ ~~civil cases in which the matter in controversy~~  
+|  ~~exceeds $500 but does not exceed $250,000, excluding interest;~~  
+|  [ ~~(2)~~ ] family law cases and related proceedings;  
+|  _(2)_ [ ~~(3)~~ ] contested probate matters under Section  
+| 32.003(a), Estates Code; and  
+|  _(3)_ [ ~~(4)~~ ] contested matters in guardianship  
+| proceedings under Section 1022.003(a), Estates Code.  
+|  (o) If a family law case or proceeding is tried before a jury  
+| in a county court at law, the jury shall be composed of 12 members.  
+| In all other cases, the jury shall be composed of six members _except_  
+| _as provided by the constitution, Section 25.0007(c), or other law_.  
+|  SECTION 16. Section 25.1142(b), Government Code, is amended  
+| to read as follows:  
+|  (b) A county court at law does not have jurisdiction of:  
+|  (1) [ ~~civil cases in which the amount in controversy~~  
+|  ~~exceeds $200,000, excluding interest;~~  
+|  [ ~~(2)~~ ] felony jury trials;  
+|  _(2)_ [ ~~(3)~~ ] suits on behalf of the state to recover  
+| penalties or escheated property;  
+|  _(3)_ [ ~~(4)~~ ] misdemeanors involving official misconduct;  
+| or  
+|  _(4)_ [ ~~(5)~~ ] contested elections.  
+|  SECTION 17. Sections 25.1252(j) and (m), Government Code,  
+| are amended to read as follows:  
+|  (j) _If a family law case or proceeding is tried before a jury_  
+| _in a county court at law, the jury shall be composed of 12 members._  
+| _In all other cases, the jury shall be composed of six members except_  
+| _as provided by the constitution, Section 25.0007(c), or other law_  
+| [ ~~A county court at law may exercise the jurisdiction vested in the~~  
+|  ~~district court for the drawing, selection, and service of jurors. A~~  
+|  ~~panel not exceeding 24 jurors shall be drawn for any one week of a~~  
+|  ~~court, and the juries selected may not exceed six~~ ].  
+|  (m) _Section_ [ ~~Sections~~ ] 25.0006 _does_ [ ~~and 25.0007 do~~ ] not  
+| apply to the county courts at law of Jefferson County.  
+|  SECTION 18. Sections 25.1272(b) and (h), Government Code,  
+| are amended to read as follows:  
+|  (b) A county court at law in Jim Wells County has concurrent  
+| jurisdiction with the district court in:  
+|  (1) [ ~~civil cases in which the matter in controversy~~  
+|  ~~exceeds $500 but does not exceed $200,000, excluding interest;~~  
+|  [ ~~(2)~~ ] family law cases and proceedings;  
+|  _(2)_ [ ~~(3)~~ ] Class A and Class B misdemeanors;  
+|  _(3)_ [ ~~(4)~~ ] juvenile cases; and  
+|  _(4)_ [ ~~(5)~~ ] appeals from justice and municipal courts.  
+|  (h) If a jury trial is requested in a case that is in a  
+| county court at law's jurisdiction, the jury shall be composed of  
+| six members unless the constitution _, Section 25.0007(c), or other_  
+| _law_ requires a 12-member jury. Failure to object before a  
+| six-member jury is seated and sworn constitutes a waiver of a  
+| 12-member jury.  
+|  SECTION 19. Sections 25.1412(a) and (p), Government Code,  
+| are amended to read as follows:  
+|  (a) In addition to the jurisdiction provided by Section  
+| 25.0003 and other law, a county court at law in Lamar County has:  
+|  (1) concurrent jurisdiction with the district court  
+| in:  
+|  (A) probate matters and proceedings, including  
+| will contests;  
+|  (B) family law cases and proceedings, including  
+| juvenile cases; _and_  
+|  (C) felony cases to conduct arraignments and  
+| pretrial hearings and to accept guilty pleas; and  
+|  [ ~~(D)~~ ~~~~ ~~~~ ~~civil cases in which the amount in~~  
+|  ~~controversy does not exceed $200,000, excluding interest; and~~ ]  
+|  (2) concurrent jurisdiction with the county and  
+| district courts over all suits arising under the Family Code.  
+|  (p) Except as otherwise provided by this subsection, a jury  
+| in a county court at law shall be composed of six members unless the  
+| constitution _, Section 25.0007(c), or other law_ requires a 12-member  
+| jury. Failure to object before a six-member jury is seated and  
+| sworn constitutes a waiver of a 12-member jury. In matters in  
+| which the constitution _or other law_ does not require a 12-member  
+| jury and the county court at law has concurrent jurisdiction with  
+| the district court, the jury may be composed of 12 members if a  
+| party to the suit requests a 12-member jury and the judge of the  
+| court consents. In a civil case tried in a county court at law, the  
+| parties may, by mutual agreement [ ~~and with the consent of the~~  
+|  ~~judge~~ ], agree to try the case with any number of jurors and have a  
+| verdict rendered and returned by the vote of any number of those  
+| jurors that is less than the total number of jurors.  
+|  SECTION 20. Section 25.1722(f), Government Code, is amended  
+| to read as follows:  
+|  (f) Except as otherwise provided by this subsection, _the_  
+| _constitution, Section 25.0007(c), or other law,_ juries in a county  
+| court at law shall be composed of six members. Juries in family law  
+| cases and proceedings shall be composed of 12 members, unless the  
+| parties agree to a six-member jury.  
+|  SECTION 21. Section 25.1732(l), Government Code, is amended  
+| to read as follows:  
+|  (l) A jury in a county court at law is composed of six  
+| persons _unless the constitution, Section 25.0007(c), or other law_  
+| _requires a 12-member jury_.  
+|  SECTION 22. Section 25.1802(o), Government Code, is amended  
+| to read as follows:  
+|  (o) If a jury trial is requested in a case that is in a  
+| county court at law's jurisdiction, the jury shall be composed of  
+| six members unless the constitution _, Section 25.0007(c), or other_  
+| _law_ requires a 12-member jury. Failure to object before a  
+| six-member jury is seated and sworn constitutes a waiver of a  
+| 12-member jury.  
+|  SECTION 23. Section 25.1862(k), Government Code, is amended  
+| to read as follows:  
+|  (k) If a jury trial is requested in a case that is in a  
+| county court at law's jurisdiction as provided by Subsection (a),  
+| the jury shall be composed of six members unless the constitution _,_  
+| _Section 25.0007(c), or other law_ requires a 12-member jury.  
+| Failure to object before a six-member jury is seated and sworn  
+| constitutes a waiver of a 12-member jury.  
+|  SECTION 24. Section 25.2142(v), Government Code, is amended  
+| to read as follows:  
+|  (v) Except as otherwise provided by this section, _the_  
+| _constitution, Section 25.0007(c), or other law,_ juries in a county  
+| court at law shall be composed of six members. In matters of  
+| concurrent jurisdiction with the district court _to which Section_  
+| _25.0007(c) does not apply_ , if a party to the suit requests a  
+| 12-member jury, the jury shall be composed of 12 members. In a  
+| civil case tried in a county court at law, the parties may, by  
+| mutual agreement [ ~~and with the consent of the judge~~ ], agree to try  
+| the case with any number of jurors and agree to have a verdict  
+| rendered and returned by the vote of any number of jurors less than  
+| all those hearing the case.  
+|  SECTION 25. Section 25.2232(a), Government Code, is amended  
+| to read as follows:  
+|  (a) In addition to the jurisdiction provided by Section  
+| 25.0003 and other law, a county court at law in Taylor County has[ ~~:~~  
+|  [ ~~(1)~~ ] concurrent jurisdiction with the county court in  
+| the trial of cases involving insanity and approval of applications  
+| for admission to state hospitals and special schools if admission  
+| is by application[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~concurrent jurisdiction with the district court~~  
+|  ~~in civil cases in which the matter in controversy exceeds $500 but~~  
+|  ~~does not exceed $200,000, excluding interest~~ ].  
+|  SECTION 26. Section 25.2292(d), Government Code, is amended  
+| to read as follows:  
+|  (d) In civil cases, the jury is composed of six members  
+| _except as otherwise provided by the constitution, Section_  
+| _25.0007(c), or other law._ ___Failure to object before a six-member_  
+| _jury is seated and sworn constitutes a waiver of a 12-member jury_  
+| [ ~~unless:~~  
+|  [ ~~(1) the amount in controversy exceeds $100,000; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~a party to the case files a written request for a~~  
+|  ~~12-member jury not later than the 30th day before the date of the~~  
+|  ~~trial~~ ].  
+|  SECTION 27. Section 25.2362(i), Government Code, is amended  
+| to read as follows:  
+|  (i) If a jury trial is requested in a case that is in a  
+| county court at law's jurisdiction, the jury shall be composed of  
+| six members unless the constitution _or other law_ requires a  
+| 12-member jury.  
+|  SECTION 28. Section 25.2412(j), Government Code, is amended  
+| to read as follows:  
+|  (j) If a case or proceeding in which a county court at law  
+| has concurrent jurisdiction with a district court is tried before a  
+| jury, the jury shall be composed of 12 members _, except as provided_  
+| _by Section 25.0007(c)_. In all other cases, the jury shall be  
+| composed of six members _except as provided by the constitution or_  
+| _other law_.  
+|  SECTION 29. Section 25.2462(k), Government Code, is amended  
+| to read as follows:  
+|  (k) A jury in a county court at law shall be composed of six  
+| members _except as provided by the constitution, Section 25.0007(c),_  
+| _or other law_.  
+|  SECTION 30. Section 25.2482(l), Government Code, is amended  
+| to read as follows:  
+|  (l) A jury in a county court at law shall be composed of six  
+| members _except as provided by the constitution, Section 25.0007(c),_  
+| _or other law_.  
+|  SECTION 31. Section 25.2512(a), Government Code, is amended  
+| to read as follows:  
+|  (a) In addition to the jurisdiction provided by Section  
+| 25.0003 and other law, a county court at law in Wise County has:  
+|  (1) concurrent with the county court, the probate  
+| jurisdiction provided by general law for county courts; and  
+|  (2) concurrent jurisdiction with the district court  
+| in:  
+|  (A) eminent domain cases; _and_  
+|  (B) [ ~~civil cases in which the amount in~~  
+|  ~~controversy exceeds $500, but does not exceed $200,000, excluding~~  
+|  ~~interest and attorney's fees; and~~  
+|  [ ~~(C)~~ ] family law cases and proceedings.  
+|  SECTION 32. Section 26.042(a), Government Code, is amended  
+| to read as follows:  
+|  (a) A county court has concurrent jurisdiction with the  
+| justice courts in civil cases in which the matter in controversy  
+| exceeds $200 in value but does not exceed _$20,000_ [ ~~$10,000~~ ],  
+| exclusive of interest.  
+|  SECTION 33. Section 27.031(a), Government Code, is amended  
+| to read as follows:  
+|  (a) In addition to the jurisdiction and powers provided by  
+| the constitution and other law, the justice court has original  
+| jurisdiction of:  
+|  (1) civil matters in which exclusive jurisdiction is  
+| not in the district or county court and in which the amount in  
+| controversy is not more than _$20,000_ [ ~~$10,000~~ ], exclusive of  
+| interest;  
+|  (2) cases of forcible entry and detainer;  
+|  (3) foreclosure of mortgages and enforcement of liens  
+| on personal property in cases in which the amount in controversy is  
+| otherwise within the justice court's jurisdiction; and  
+|  (4) cases arising under Chapter 707, Transportation  
+| Code, outside a municipality's territorial limits.  
+|  SECTION 34. Section 62.301, Government Code, is amended to  
+| read as follows:  
+|  Sec. 62.301. NUMBER OF JURORS. The jury in the county  
+| courts and in the justice courts is composed of six persons _except_  
+| _as provided by the constitution or other law_.  
+|  SECTION 35. The following provisions of the Government Code  
+| are repealed:  
+|  (1) Section 25.0007(a);  
+|  (2) Section 25.1092(p);  
+|  (3) Sections 25.2292(a) and (m); and  
+|  (4) Section 25.2392(i).  
+|  SECTION 36. Not later than January 1, 2020, the Supreme  
+| Court of Texas shall adopt rules as necessary to implement Section  
+| 22.004(h), Government Code, as amended by this Act.  
+|  SECTION 37. This Act applies only to a cause of action filed  
+| on or after the effective date of this Act. A cause of action filed  
+| before that date is governed by the law in effect immediately before  
+| that date, and that law is continued in effect for that purpose.  
+|  SECTION 38. This Act takes effect September 1, 2019.
+

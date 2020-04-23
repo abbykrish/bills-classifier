@@ -1,0 +1,87 @@
+| 86R8595 GRM-F  
+---|---  
+|  By: Calanni | H.B. No. 3200  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the submission by telephonic facsimile machine or  
+| electronic transmission of an application for a ballot to be voted  
+| by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 84.007(b-1) and (d), Election Code, are  
+| amended to read as follows:  
+|  (b-1) For an application for ballot by mail submitted by  
+| telephonic facsimile machine or electronic transmission to be  
+| effective, the application also must be submitted by mail and be  
+| received by the early voting clerk not later than the _deadline for_  
+| _ballots to be returned under Section 86.007. This subsection may_  
+| _not be construed to delay the time for providing a ballot to a voter_  
+| _under Section 86.004_ [ ~~fourth business day after the transmission by~~  
+|  ~~telephonic facsimile machine or electronic transmission is~~  
+|  ~~received~~ ].  
+|  (d) An application _, including an application submitted by_  
+| _telephonic facsimile machine or electronic transmission,_ is  
+| considered to be submitted at the time of its receipt by the clerk.  
+|  SECTION 2. Section 84.014, Election Code, is amended to  
+| read as follows:  
+|  Sec. 84.014. ACTION BY EARLY VOTING CLERK ON CERTAIN  
+| APPLICATIONS. _(a)_ If an applicant provides a date of birth,  
+| driver's license number, or social security number on the  
+| applicant's application for an early voting ballot to be voted by  
+| mail that is different from or in addition to the information  
+| maintained by the voter registrar in accordance with Title 2, the  
+| early voting clerk shall notify the voter registrar. The voter  
+| registrar shall update the voter's record with the information  
+| provided by the applicant.  
+|  _(b)_ _____For an application submitted by telephonic facsimile_  
+| _machine or electronic transmission, the early voting clerk shall_  
+| _immediately respond in the format in which the application was_  
+| _submitted to:_  
+|  _(1)_ _____confirm receipt of the transmission of the_  
+| _application; and_  
+|  _(2)_ _____issue a statement that the applicant is required_  
+| _to submit the application by mail or common or contract carrier to_  
+| _the address of the early voting clerk by the deadline for returning_  
+| _a marked ballot under Section 86.007._  
+|  SECTION 3. Section 86.001(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The early voting clerk shall review each application for  
+| a ballot to be voted by mail _, including an application submitted by_  
+| _telephonic facsimile machine or electronic transmission_.  
+|  SECTION 4. Section 87.041(b), Election Code, is amended to  
+| read as follows:  
+|  (b) A ballot may be accepted only if:  
+|  (1) the carrier envelope certificate is properly  
+| executed;  
+|  (2) neither the voter's signature on the ballot  
+| application nor the signature on the carrier envelope certificate  
+| is determined to have been executed by a person other than the  
+| voter, unless signed by a witness;  
+|  (3) the voter's ballot application states a legal  
+| ground for early voting by mail;  
+|  (4) the voter is registered to vote, if registration  
+| is required by law;  
+|  (5) the address to which the ballot was mailed to the  
+| voter, as indicated by the application, was outside the voter's  
+| county of residence, if the ground for early voting is absence from  
+| the county of residence;  
+|  (6) for a voter to whom a statement of residence form  
+| was required to be sent under Section 86.002(a), the statement of  
+| residence is returned in the carrier envelope and indicates that  
+| the voter satisfies the residence requirements prescribed by  
+| Section 63.0011; [ ~~and~~ ]  
+|  (7) the address to which the ballot was mailed to the  
+| voter is an address that is otherwise required by Sections 84.002  
+| and 86.003 _; and_  
+|  _(8)_ _____for a voter who submitted an application for a_  
+| _ballot to be voted by mail by telephonic facsimile machine or_  
+| _electronic transmission, the application is effective under_  
+| _Section 84.007(b-1)_.  
+|  SECTION 5. The change in law made by this Act applies only  
+| to an application for a ballot to be voted by mail submitted on or  
+| after the effective date of this Act. An application for a ballot  
+| to be voted by mail submitted before the effective date of this Act  
+| is governed by the law in effect when the application was submitted,  
+| and the former law is continued in effect for that purpose.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

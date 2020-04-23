@@ -1,0 +1,36 @@
+| 86R13904 JG-F  
+---|---  
+|  By: Frank | H.B. No. 3332  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to revocation of do-not-resuscitate orders for patients  
+| admitted to a health care facility or hospital.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 166.205(a), (b), and (c), Health and  
+| Safety Code, are amended to read as follows:  
+|  (a) A physician providing direct care to a patient for whom  
+| a DNR order is issued shall revoke the patient's DNR order if _:_  
+|  _(1)_ _____the advance directive on which the DNR order is_  
+| _based is revoked in accordance with this chapter; or_  
+|  _(2)_ the patient or _the individual whose direction or_  
+| _treatment decision was the basis for issuing the DNR order_ [ ~~, as~~  
+|  ~~applicable, the patient's agent under a medical power of attorney~~  
+|  ~~or the patient's legal guardian if the patient is incompetent:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~effectively revokes an advance directive, in~~  
+|  ~~accordance with Section 166.042, for which a DNR order is issued~~  
+|  ~~under Section 166.203(a); or~~  
+|  [ ~~(2)~~ ] expresses to any person providing direct care to  
+| the patient a revocation of consent to or intent to revoke a DNR  
+| order issued under Section 166.203(a).  
+|  (b) A person providing direct care to a patient under the  
+| supervision of a physician shall notify the physician of _:_  
+|  _(1)_ the _revocation of the advance directive described_  
+| _by Subsection (a)(1); or_  
+|  _(2) the_ request to revoke a DNR order under Subsection  
+| _(a)(2)_ [ ~~(a)~~ ].  
+|  (c) _The_ [ ~~A patient's attending~~ ] physician _who issued_ [ ~~may at~~  
+|  ~~any time revoke~~ ] a DNR order issued under Section 166.203(a)(2) _may_  
+| _at any time revoke the DNR order_.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

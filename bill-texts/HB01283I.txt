@@ -1,0 +1,28 @@
+| 86R647 MTB-F  
+---|---  
+|  By: Hernandez | H.B. No. 1283  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of the Department of Information  
+| Resources to provide telecommunications services through statewide  
+| technology centers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2054.376(a), Government Code, is amended  
+| to read as follows:  
+|  (a) This subchapter applies to all information resources  
+| technologies[ ~~, other than telecommunications service, advanced~~  
+|  ~~communications services, or information service, as those terms are~~  
+|  ~~defined by 47 U.S.C. Section 153,~~ ] that are:  
+|  (1) obtained by a state agency using state money;  
+|  (2) used by a state agency; or  
+|  (3) used by a participating local government.  
+|  SECTION 2. Section 2054.378, Government Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____The department, on a cost-sharing basis, may provide_  
+| _telecommunications service, advanced communications services, or_  
+| _information service, as those terms are defined by 47 U.S.C._  
+| _Section 153, through a statewide technology center under this_  
+| _subchapter._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

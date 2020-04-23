@@ -1,0 +1,219 @@
+| 86R179 LHC-D  
+---|---  
+|  By: Minjarez | H.B. No. 152  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the collection, storage, and analysis of sexual assault  
+| evidence and evidence of other sex offenses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 420.003(1-a), (1-d), (7), and (8),  
+| Government Code, are amended to read as follows:  
+|  (1-a) "Active criminal case" means a case:  
+|  (A) in which:  
+|  (i) a sexual assault _or other sex offense_  
+| has been reported to a law enforcement agency; and  
+|  (ii) physical evidence of the _offense_  
+| [ ~~assault~~ ] has been submitted to the agency or an accredited crime  
+| laboratory under this chapter for analysis; and  
+|  (B) for which:  
+|  (i) the statute of limitations has not run  
+| with respect to the prosecution of the _offense_ [ ~~sexual assault~~ ]; or  
+|  (ii) a DNA profile was obtained that is  
+| eligible under Section 420.043 for comparison with DNA profiles in  
+| the state database or CODIS DNA database.  
+|  (1-d) "Law enforcement agency" means a state or local  
+| law enforcement agency in this state with jurisdiction over the  
+| investigation of a sexual assault _or other sex offense_.  
+|  (7) "Sexual assault program" means any local public or  
+| private nonprofit corporation, independent of a law enforcement  
+| agency or prosecutor's office, that is operated as an independent  
+| program or as part of a municipal, county, or state agency and that  
+| provides the minimum services to adult survivors of stranger and  
+| non-stranger _sex offenses_ [ ~~sexual assault~~ ].  
+|  (8) "Survivor" means an individual who is a victim of a  
+| sexual assault _or other sex offense_ , regardless of whether a report  
+| or conviction is made in the incident.  
+|  SECTION 2. Section 420.033, Government Code, is amended to  
+| read as follows:  
+|  Sec. 420.033. CHAIN OF CUSTODY. Medical, law enforcement,  
+| department, and laboratory personnel who handle [ ~~sexual assault~~ ]  
+| evidence _of a sexual assault or other sex offense_ under this chapter  
+| or other law shall maintain the chain of custody of the evidence  
+| from the time the evidence is collected until the time the evidence  
+| is destroyed.  
+|  SECTION 3. Section 420.034(c), Government Code, is amended  
+| to read as follows:  
+|  (c) The tracking system must:  
+|  (1) track the location and status of each item of  
+| evidence through the criminal justice process, including the  
+| initial collection of the item of evidence in a forensic medical  
+| examination, _assignment of a unique number to the item of evidence,_  
+| receipt and storage of the item of evidence at a law enforcement  
+| agency, receipt and analysis of the item of evidence at an  
+| accredited crime laboratory, and storage and destruction of the  
+| item of evidence after the item is analyzed;  
+|  (2) allow a facility or entity performing a forensic  
+| medical examination of a survivor, law enforcement agency,  
+| accredited crime laboratory, prosecutor, or other entity providing  
+| a chain of custody for an item of evidence to update and track the  
+| status and location of the item; and  
+|  (3) allow a survivor to anonymously track or receive  
+| updates regarding the status and location of each item of evidence  
+| collected in relation to the offense.  
+|  SECTION 4. Subchapter B, Chapter 420, Government Code, is  
+| amended by adding Section 420.035 to read as follows:  
+|  _Sec._ ___420.035._ _____EVIDENCE RELEASE AND STORAGE. (a) If a_  
+| _health care facility or other entity that performs a medical_  
+| _examination to collect evidence of a sexual assault or other sex_  
+| _offense receives signed, written consent to release the evidence as_  
+| _provided by Section 420.0735, the facility or entity shall notify_  
+| _either the law enforcement agency investigating the alleged_  
+| _offense, if known, or the local law enforcement agency not later_  
+| _than 24 hours after receiving consent._  
+|  _(b)_ _____A law enforcement agency that receives notice from a_  
+| _health care facility or other entity under Subsection (a) shall_  
+| _take possession of the evidence not later than the 14th day after_  
+| _the date the law enforcement agency receives notice._  
+|  _(c)_ _____If a law enforcement agency that takes possession of_  
+| _evidence under Subsection (b) determines that the agency does not_  
+| _have jurisdiction over the investigation of the alleged sexual_  
+| _assault or other sex offense, the law enforcement agency shall_  
+| _notify the law enforcement agency with jurisdiction over the_  
+| _investigation not later than the 14th day after the date that_  
+| _determination is made._  
+|  _(d)_ _____A law enforcement agency that receives notice from_  
+| _another law enforcement agency under Subsection (c) shall take_  
+| _possession of the evidence not later than the 14th day after the_  
+| _date the law enforcement agency receives notice._  
+|  _(e)_ _____A health care facility or other entity that performs a_  
+| _medical examination to collect evidence of a sexual assault or_  
+| _other sex offense that has not obtained signed, written consent as_  
+| _provided by Section 420.0735 shall provide the survivor with_  
+| _information relating to:_  
+|  _(1)_ _____the facility's or entity's policy regarding_  
+| _storage of evidence of a sexual assault or other sex offense,_  
+| _including a statement of the period for which the evidence will be_  
+| _stored before the evidence is destroyed; and_  
+|  _(2)_ _____the ways in which the survivor can request the_  
+| _release of the evidence to a law enforcement agency._  
+|  _(f)_ _____A health care facility or other entity that performs a_  
+| _medical examination to collect evidence as described by this_  
+| _section must store until at least the first anniversary of the date_  
+| _of collection any evidence that is not released to a law enforcement_  
+| _agency._  
+|  _(g)_ _____The failure of a health care facility or other entity or_  
+| _a law enforcement agency to comply with the requirements of this_  
+| _section does not constitute grounds in a criminal proceeding for:_  
+|  _(1)_ _____a defendant to challenge the validity of a DNA_  
+| _match obtained by comparison under Section 420.043; or_  
+|  _(2) a court to exclude evidence based on a DNA profile._  
+|  _(h)_ _____A person accused or convicted of committing a sexual_  
+| _assault or other sex offense against the survivor does not have_  
+| _standing to object to the failure of a health care facility or other_  
+| _entity or a law enforcement agency to comply with the requirements_  
+| _of this section. Failure of a facility, entity, or agency to comply_  
+| _with the requirements of this section does not constitute grounds_  
+| _for setting aside the conviction of a person convicted of_  
+| _committing a sexual assault or other sex offense against the_  
+| _survivor._  
+|  SECTION 5. Subchapter B-1, Chapter 420, Government Code, is  
+| amended to read as follows:  
+| SUBCHAPTER B-1. ANALYSIS OF [ ~~SEXUAL ASSAULT~~ ] EVIDENCE _OF SEXUAL_  
+| _ASSAULT OR OTHER SEX OFFENSE_  
+|  Sec. 420.041. APPLICABILITY OF SUBCHAPTER. This subchapter  
+| applies only to physical evidence of a sexual assault _or other sex_  
+| _offense that is collected_ with respect to an active criminal case.  
+|  Sec. 420.042. ANALYSIS OF [ ~~SEXUAL ASSAULT~~ ] EVIDENCE. (a) A  
+| law enforcement agency that receives [ ~~sexual assault~~ ] evidence _of a_  
+| _sexual assault or other sex offense that is_ collected under this  
+| chapter or other law shall submit that evidence to a public  
+| accredited crime laboratory for analysis not later than the _14th_  
+| [ ~~30th~~ ] day after the date on which that evidence was received.  
+|  (b) A person who submits [ ~~sexual assault~~ ] evidence _of a_  
+| _sexual assault or other sex offense_ to a public accredited crime  
+| laboratory under this chapter or other law shall provide the  
+| following signed, written certification with each submission:  
+| "This evidence is being submitted by (name of person making  
+| submission) in connection with a criminal investigation."  
+|  (c) If sufficient personnel and resources are available, a  
+| public accredited crime laboratory _,_ as soon as practicable _but not_  
+| _later than the 60th day after the date on which the laboratory_  
+| _received the evidence,_ shall complete its analysis of _any_ [ ~~sexual~~  
+|  ~~assault~~ ] evidence _of a sexual assault or other sex offense that is_  
+| submitted under this chapter or other law.  
+|  (d) To ensure the expeditious completion of analyses, the  
+| department and other applicable public accredited crime  
+| laboratories may contract with private accredited crime  
+| laboratories as appropriate to perform those analyses, subject to  
+| the necessary quality assurance reviews by the public accredited  
+| crime laboratories.  
+|  (e) The failure of a law enforcement agency to _take_  
+| _possession of evidence of a sexual assault or other sex offense_  
+| _within the period required by Section 420.035 or to_ submit _that_  
+| [ ~~sexual assault~~ ] evidence within the period required by this  
+| section does not affect the authority of:  
+|  (1) _the agency to take possession of the evidence;_  
+|  _(2)_ the agency to submit the evidence to an accredited  
+| crime laboratory for analysis; [ ~~or~~ ]  
+|  _(3)_ [ ~~(2)~~ ] an accredited crime laboratory to analyze  
+| the evidence or provide the results of that analysis to appropriate  
+| persons _; or_  
+|  _(4)_ _____the department to compare the DNA profile obtained_  
+| _from the biological evidence with DNA profiles in a database under_  
+| _Section 420.043_.  
+|  _(f)_ _____The failure of a law enforcement agency or public_  
+| _accredited crime laboratory to comply with the requirements of this_  
+| _section does not constitute grounds in a criminal proceeding for:_  
+|  _(1)_ _____a defendant to challenge the validity of a DNA_  
+| _match obtained by comparison under Section 420.043; or_  
+|  _(2) a court to exclude DNA evidence._  
+|  _(g)_ _____A person accused or convicted of committing a sexual_  
+| _assault or other sex offense against the survivor does not have_  
+| _standing to object to the failure of a law enforcement agency or_  
+| _public accredited crime laboratory to comply with the requirements_  
+| _of this section. Failure of an agency or laboratory to comply with_  
+| _the requirements of this section does not constitute grounds for_  
+| _setting aside the conviction of a person convicted of committing a_  
+| _sexual assault or other sex offense against the survivor._  
+|  Sec. 420.043. DATABASE COMPARISON REQUIRED. _After_ [ ~~On the~~  
+|  ~~request of any appropriate person and after~~ ] an evidence collection  
+| kit containing biological evidence has been analyzed by an  
+| accredited crime laboratory and any necessary quality assurance  
+| reviews have been performed, the department shall compare the DNA  
+| profile obtained from the biological evidence with DNA profiles  
+| maintained in:  
+|  (1) state databases, including the DNA database  
+| maintained under Subchapter G, Chapter 411, if the amount and  
+| quality of the analyzed sample meet the requirements of the state  
+| database comparison policies; and  
+|  (2) the CODIS DNA database established by the Federal  
+| Bureau of Investigation, if the amount and quality of the analyzed  
+| sample meet the requirements of the bureau's CODIS comparison  
+| policies.  
+|  SECTION 6. (a) Except as provided by Subsections (b) and  
+| (c) of this section, the changes in law made by this Act apply only  
+| to sexual assault evidence and evidence of other sex offenses  
+| collected on or after the effective date of this Act. Evidence  
+| collected before the effective date of this Act is governed by the  
+| law in effect on the date the evidence was collected, and the former  
+| law is continued in effect for that purpose.  
+|  (b) The change in law made by this Act to Section  
+| 420.042(a), Government Code, applies only to sexual assault  
+| evidence and evidence of other sex offenses received by a law  
+| enforcement agency not earlier than the 14th day before the  
+| effective date of this Act.  Evidence received by a law enforcement  
+| agency earlier than the 14th day before the effective date of this  
+| Act is governed by the law in effect on the date the evidence was  
+| received, and the former law is continued in effect for that  
+| purpose.  
+|  (c) The change in law made by this Act to Section  
+| 420.042(c), Government Code, applies only to sexual assault  
+| evidence and evidence of other sex offenses received by a public  
+| accredited crime laboratory on or after the effective date of this  
+| Act.  Evidence received by a public accredited crime laboratory  
+| before the effective date of this Act is governed by the law in  
+| effect on the date the evidence was received, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,84 @@
+| 86R3648 BRG-F  
+---|---  
+|  By: Hernandez | H.B. No. 3378  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an advisory body on the security of the electric grid.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter Z, Chapter 39, Utilities Code, is  
+| amended by adding Section 39.917 to read as follows:  
+|  _Sec._ ___39.917._ _____TEXAS ELECTRIC GRID SECURITY COUNCIL. (a) The_  
+| _legislature finds that there is a public interest in mitigating the_  
+| _risk of cyber and physical attacks that may affect the reliability_  
+| _of electric systems operating in Texas. The Texas Electric Grid_  
+| _Security Council is established as an advisory body to facilitate_  
+| _the creation, aggregation, coordination, and dissemination of best_  
+| _security practices for the electric industry, including the_  
+| _generation, transmission, and delivery of electricity._  
+|  _(b) The Texas Electric Grid Security Council is composed of:_  
+|  _(1)_ _____the commissioner designated as presiding officer_  
+| _of the commission under Section 12.052 or a representative_  
+| _designated by the commissioner;_  
+|  _(2)_ _____the chief executive officer of the independent_  
+| _organization certified under Section 39.151 for the ERCOT power_  
+| _region or a representative designated by the chief executive_  
+| _officer; and_  
+|  _(3)_ _____the governor or a representative designated by the_  
+| _governor._  
+|  _(c)_ _____The member of the council designated by Subsection_  
+| _(b)(1) shall serve as presiding officer._  
+|  _(d)_ _____The council shall convene at the call of the presiding_  
+| _officer._  
+|  _(e)_ _____A member of the council is not entitled to compensation._  
+| _Members are entitled to reimbursement for travel and other_  
+| _necessary expenses related to the activities of the council as_  
+| _provided by the General Appropriations Act._  
+|  _(f)_ _____A member of the council may apply for a secret security_  
+| _clearance or an interim security clearance granted by the United_  
+| _States government. A member of the council may not access_  
+| _classified information or participate in a briefing or meeting_  
+| _involving classified information unless the member has a secret_  
+| _security clearance._  
+|  _(g)_ _____The independent organization certified under Section_  
+| _39.151 shall provide information and resources requested by the_  
+| _council._  
+|  _(h)_ _____In carrying out its functions, the council may consult_  
+| _and coordinate with:_  
+|  _(1) the Texas Division of Emergency Management;_  
+|  _(2) the United States Department of Energy;_  
+|  _(3) the United States Department of Homeland Security;_  
+|  _(4)_ _____the North American Electric Reliability_  
+| _Corporation;_  
+|  _(5) federal and state agencies;_  
+|  _(6) members of the electric industry; and_  
+|  _(7) grid security experts._  
+|  _(i)_ _____On a request by the governor, the lieutenant governor,_  
+| _the chair of the house of representatives committee having_  
+| _jurisdiction over energy utility regulation, or the chair of the_  
+| _senate committee having jurisdiction over energy utility_  
+| _regulation, the council shall issue to the requestor_  
+| _recommendations regarding:_  
+|  _(1) the development of a grid security workforce;_  
+|  _(2)_ _____the development and implementation of grid_  
+| _security standards and practices;_  
+|  _(3)_ _____preparation for events that threaten grid_  
+| _security; and_  
+|  _(4)_ _____amendments to the state emergency management plan_  
+| _to ensure coordinated and adaptable response and recovery efforts_  
+| _after events that threaten grid security._  
+|  _(j)_ _____The council may prepare a report outlining grid security_  
+| _response efforts that do not involve classified information. If the_  
+| _council prepares the report, the council shall deliver the report_  
+| _to the governor, lieutenant governor, and legislature on or before_  
+| _the December 1 immediately preceding a regular session of the_  
+| _legislature._  
+|  _(k)_ _____The meetings, recommendations, work, and findings of_  
+| _the council are not subject to the requirements of Chapters 551 or_  
+| _552, Government Code._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

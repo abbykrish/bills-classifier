@@ -1,0 +1,47 @@
+| 86R9110 ADM-D  
+---|---  
+|  By: Dean | H.B. No. 1817  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to assistance provided to a person applying for an early  
+| voting ballot or voting an early voting ballot by mail; increasing a  
+| criminal penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 84.003(c), Election Code, is amended to  
+| read as follows:  
+|  (c) An offense under this section is a _state jail felony_  
+| [ ~~Class A misdemeanor~~ ].  
+|  SECTION 2. Sections 86.010(c) and (e), Election Code, are  
+| amended to read as follows:  
+|  (c) The person assisting the voter must sign a written oath  
+| [ ~~prescribed by Section 64.034~~ ] that is part of the certificate on  
+| the official carrier envelope. _The text of the oath must read as_  
+| _follows:_  
+|  _"I swear (or affirm) that I will not suggest, by word, sign,_  
+| _or gesture, how the voter should vote; I will confine my assistance_  
+| _to answering the voter's questions, to stating propositions on the_  
+| _ballot, and to naming candidates and, if listed, their political_  
+| _parties; I will prepare the voter's ballot as the voter directs; and_  
+| _I am not the voter's employer, an agent of the voter's employer, or_  
+| _an officer or agent of a labor union to which the voter belongs. I_  
+| _understand that if I violate these requirements, I am committing a_  
+| _criminal offense."_  
+|  (e) A person who assists a voter to prepare a ballot to be  
+| voted by mail shall enter the person's signature, printed name,  
+| [ ~~and~~ ] residence address _, and the manner in which the person_  
+| _assisted the voter_ on the official carrier envelope of the voter.  
+|  SECTION 3. Section 86.013(b), Election Code, is amended to  
+| read as follows:  
+|  (b) Spaces must appear on the reverse side of the official  
+| carrier envelope for:  
+|  (1) indicating the identity and date of the election;  
+| [ ~~and~~ ]  
+|  (2) entering the signature, printed name, and  
+| residence address of a person other than the voter who deposits the  
+| carrier envelope in the mail or with a common or contract carrier _;_  
+| _and_  
+|  _(3)_ _____indicating the manner of any assistance provided_  
+| _by a person assisting the voter_.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,167 @@
+| 86R12183 JCG-F  
+---|---  
+|  By: Cole | H.B. No. 3494  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the prosecution of the offense of operation of an  
+| unmanned aircraft over certain facilities and to the regulation of  
+| unmanned aircraft by certain political subdivisions.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 423.0045(a)(1), Government Code, as  
+| amended by Chapters 824 (H.B. 1643) and 1010 (H.B. 1424), Acts of  
+| the 85th Legislature, Regular Session, 2017, is reenacted to read  
+| as follows:  
+|  (1) "Correctional facility" means:  
+|  (A) a confinement facility operated by or under  
+| contract with any division of the Texas Department of Criminal  
+| Justice;  
+|  (B) a municipal or county jail;  
+|  (C) a confinement facility operated by or under  
+| contract with the Federal Bureau of Prisons; or  
+|  (D) a secure correctional facility or secure  
+| detention facility, as defined by Section 51.02, Family Code.  
+|  SECTION 2. Section 423.0045(a)(1-a), Government Code, is  
+| reenacted to conform to the changes made to Section 423.0045(a)(1),  
+| Government Code, by Chapter 824 (H.B. 1643), Acts of the 85th  
+| Legislature, Regular Session, 2017, and is further amended to read  
+| as follows:  
+|  (1-a) "Critical infrastructure facility" means:  
+|  (A) one of the following, if completely enclosed  
+| by a fence or other physical barrier that is obviously designed to  
+| exclude intruders, or if clearly marked with a sign or signs that  
+| are posted on the property, are reasonably likely to come to the  
+| attention of intruders, and indicate that entry is forbidden:  
+|  (i) a petroleum or alumina refinery;  
+|  (ii) an electrical power generating  
+| facility, substation, switching station, or electrical control  
+| center;  
+|  (iii) a chemical, polymer, or rubber  
+| manufacturing facility;  
+|  (iv) a water intake structure, water  
+| treatment facility, wastewater treatment plant, or pump station;  
+|  (v) a natural gas compressor station;  
+|  (vi) a liquid natural gas terminal or  
+| storage facility;  
+|  (vii) a telecommunications central  
+| switching office or any structure used as part of a system to  
+| provide wired or wireless telecommunications services;  
+|  (viii) a port, railroad switching yard,  
+| trucking terminal, or other freight transportation facility;  
+|  (ix) a gas processing plant, including a  
+| plant used in the processing, treatment, or fractionation of  
+| natural gas;  
+|  (x) a transmission facility used by a  
+| federally licensed radio or television station;  
+|  (xi) a steelmaking facility that uses an  
+| electric arc furnace to make steel;  
+|  (xii) a dam that is classified as a high  
+| hazard by the Texas Commission on Environmental Quality; [ ~~or~~ ]  
+|  (xiii) a concentrated animal feeding  
+| operation, as defined by Section 26.048, Water Code; or  
+|  _(xiv)_ _____an airport, as defined by Section_  
+| _22.001, Transportation Code, that serves commercial air carriers;_  
+| _or_  
+|  (B) if enclosed by a fence or other physical  
+| barrier obviously designed to exclude intruders:  
+|  (i) any portion of an aboveground oil, gas,  
+| or chemical pipeline;  
+|  (ii) an oil or gas drilling site;  
+|  (iii) a group of tanks used to store crude  
+| oil, such as a tank battery;  
+|  (iv) an oil, gas, or chemical production  
+| facility;  
+|  (v) an oil or gas wellhead; or  
+|  (vi) any oil and gas facility that has an  
+| active flare.  
+|  SECTION 3. Section 423.0045(c), Government Code, as amended  
+| by Chapters 824 (H.B. 1643) and 1010 (H.B. 1424), Acts of the 85th  
+| Legislature, Regular Session, 2017, is reenacted to read as  
+| follows:  
+|  (c) This section does not apply to:  
+|  (1) conduct described by Subsection (b) that involves  
+| a correctional facility, detention facility, or critical  
+| infrastructure facility and is committed by:  
+|  (A) the federal government, the state, or a  
+| governmental entity;  
+|  (B) a person under contract with or otherwise  
+| acting under the direction or on behalf of the federal government,  
+| the state, or a governmental entity;  
+|  (C) a law enforcement agency;  
+|  (D) a person under contract with or otherwise  
+| acting under the direction or on behalf of a law enforcement agency;  
+| or  
+|  (E) an operator of an unmanned aircraft that is  
+| being used for a commercial purpose, if the operation is conducted  
+| in compliance with:  
+|  (i) each applicable Federal Aviation  
+| Administration rule, restriction, or exemption; and  
+|  (ii) all required Federal Aviation  
+| Administration authorizations; or  
+|  (2) conduct described by Subsection (b) that involves  
+| a critical infrastructure facility and is committed by:  
+|  (A) an owner or operator of the critical  
+| infrastructure facility;  
+|  (B) a person under contract with or otherwise  
+| acting under the direction or on behalf of an owner or operator of  
+| the critical infrastructure facility;  
+|  (C) a person who has the prior written consent of  
+| the owner or operator of the critical infrastructure facility; or  
+|  (D) the owner or occupant of the property on  
+| which the critical infrastructure facility is located or a person  
+| who has the prior written consent of the owner or occupant of that  
+| property.  
+|  SECTION 4. Section 423.009, Government Code, is amended to  
+| read as follows:  
+|  Sec. 423.009. REGULATION OF UNMANNED AIRCRAFT BY _COUNTY OR_  
+| _MUNICIPALITY_ [ ~~POLITICAL SUBDIVISION~~ ]. (a)  _A county or_  
+| _municipality_ [ ~~In this section:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~"Political subdivision" includes a county, a~~  
+|  ~~joint board created under Section 22.074, Transportation Code, and~~  
+|  ~~a municipality.~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~"Special event" means a festival, celebration, or~~  
+|  ~~other gathering that:~~  
+|  [ ~~(A) involves:~~  
+|  [ ~~(i)~~ ~~~~ ~~~~ ~~the reservation and temporary use of~~  
+|  ~~all or a portion of a public park, road, or other property of a~~  
+|  ~~political subdivision; and~~  
+|  [ ~~(ii)~~ ~~~~ ~~~~ ~~entertainment, the sale of~~  
+|  ~~merchandise, food, or beverages, or mass participation in a sports~~  
+|  ~~event; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~requires a significant use or coordination~~  
+|  ~~of a political subdivision's services.~~  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~Except as provided by Subsection (c), a political~~  
+|  ~~subdivision~~ ] may not adopt or enforce any ordinance, order, or  
+| other similar measure regarding the operation of an unmanned  
+| aircraft.  
+|  _(b)_ [ ~~(c)~~ ~~~~ ~~~~ ~~A political subdivision may adopt and enforce
+an~~  
+|  ~~ordinance, order, or other similar measure regarding:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the use of an unmanned aircraft during a special~~  
+|  ~~event;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the political subdivision's use of an unmanned~~  
+|  ~~aircraft; or~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~the use of an unmanned aircraft near a facility or~~  
+|  ~~infrastructure owned by the political subdivision, if the political~~  
+|  ~~subdivision:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~applies for and receives authorization from~~  
+|  ~~the Federal Aviation Administration to adopt the regulation; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~after providing reasonable notice, holds a~~  
+|  ~~public hearing on the political subdivision's intent to apply for~~  
+|  ~~the authorization.~~  
+|  [ ~~(d)~~ ] An ordinance, order, or other similar measure that  
+| violates Subsection _(a)_ [ ~~(b)~~ ] is void and unenforceable.  
+|  SECTION 5. Section 423.0045, Government Code, as amended by  
+| this Act, applies only to an offense committed on or after the  
+| effective date of this Act. An offense committed before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the offense was committed, and the former law is continued in  
+| effect for that purpose. For purposes of this section, an offense  
+| was committed before the effective date of this Act if any element  
+| of the offense occurred before that date.  
+|  SECTION 6. To the extent of any conflict, this Act prevails  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,72 @@
+| 86R13957 SLB-D  
+---|---  
+|  By: Raymond | H.B. No. 3770  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a pilot project conducted by the Texas Water  
+| Development Board regarding the real-time monitoring of the  
+| inundation and water quality of certain portions of the Rio Grande.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 2, Water Code, is amended by adding  
+| Subtitle G to read as follows:  
+| _SUBTITLE G. PILOT PROJECT_  
+| _CHAPTER 39. RIO GRANDE MONITORING PILOT PROJECT_  
+|  _Sec._ ___39.0101._ _____PURPOSE. It is the policy of this state and_  
+| _the purpose of this chapter to:_  
+|  _(1)_ _____implement a pilot project on the Rio Grande to_  
+| _better provide for the public's interests and needs regarding that_  
+| _river;_  
+|  _(2)_ _____demonstrate new tools in water quality monitoring_  
+| _and early flood warning that will be transferable to other areas of_  
+| _this state; and_  
+|  _(3)_ _____provide more efficient and effective_  
+| _administration of the conservation of this state's natural_  
+| _resources and protection of the public and the environment._  
+|  _Sec. 39.0102. DEFINITIONS. In this chapter:_  
+|  _(1) "Board" means the Texas Water Development Board._  
+|  _(2)_ _____"Commission"_ ___means the Texas Commission on_  
+| _Environmental Quality._  
+|  _(3)_ _____"Pilot project" means the Rio Grande monitoring_  
+| _pilot project._  
+|  _Sec._ ___39.0103._ _____RIO GRANDE MONITORING PILOT PROJECT. (a)_ ___The_  
+| _board and the commission jointly shall conduct a river monitoring_  
+| _pilot project on the Rio Grande between Columbia and Falcon Lake as_  
+| _described by this section._  
+|  _(b)_ _____The pilot project must include improvements to or_  
+| _installation of monitoring sites at the following locations:_  
+|  _(1) Colombia Solidarity Bridge;_  
+|  _(2) World Trade International Bridge;_  
+|  _(3) Juarez-Lincoln International Bridge;_  
+|  _(4) US Geological Survey Site 084592000; and_  
+|  _(5) a site in San Ygnacio upstream from Falcon Lake._  
+|  _(c) The board shall:_  
+|  _(1)_ _____enhance the stream gaging network that monitors_  
+| _stream flow in the Rio Grande; and_  
+|  _(2)_ _____develop a flood inundation modeling system for the_  
+| _Rio Grande._  
+|  _(d)_ _____The commission shall establish a continuous, real-time_  
+| _water quality observation network for the segment of the Rio Grande_  
+| _described by Subsection (b), including a program of periodic water_  
+| _sampling to determine the levels of:_  
+|  _(1) turbidity;_  
+|  _(2) acidity;_  
+|  _(3) temperature;_  
+|  _(4) dissolved oxygen;_  
+|  _(5) nitrates; and_  
+|  _(6) total dissolved solids._  
+|  _(e)_ _____The commission and the board may post information_  
+| _obtained in the pilot project on the commission's or board's_  
+| _Internet website._  
+|  _(f)_ _____The board may contract or cooperate with any person_  
+| _necessary to complete the pilot project, including the United_  
+| _States Geological Survey Texas Water Science Center._  
+|  _Sec._ ___39.0104._ _____PILOT PROJECT REPORT. Not later than_  
+| _September 1, 2024, the board shall deliver a report to the governor,_  
+| _lieutenant governor, speaker of the house of representatives, and_  
+| _standing committees of the senate and house of representatives_  
+| _having jurisdiction over matters related to water development. The_  
+| _report must include a summary of the methods used and the results_  
+| _obtained for each element of the pilot project._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

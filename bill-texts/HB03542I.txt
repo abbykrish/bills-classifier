@@ -1,0 +1,122 @@
+| 86R13595 GRM-D  
+---|---  
+|  By: Phelan | H.B. No. 3542  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the valuation of a retail public utility or its  
+| facilities as part of a voluntary acquisition.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter H, Chapter 13, Water Code, is amended  
+| by adding Section 13.305 to read as follows:  
+|  _Sec._ ___13.305._ _____VOLUNTARY VALUATION OF ACQUIRED UTILITY OR_  
+| _FACILITIES. (a) In this section:_  
+|  _(1)_ _____"Acquiring utility" means a Class A utility that_  
+| _is acquiring a selling utility, or facilities of a selling utility,_  
+| _as the result of a voluntary arm's-length transaction._  
+|  _(2)_ _____"Ratemaking rate base" means the dollar value of a_  
+| _selling utility that is incorporated into the rate base of the_  
+| _acquiring utility for postacquisition ratemaking purposes._  
+|  _(3)_ _____"Selling utility" means a retail public utility_  
+| _that is being purchased by an acquiring utility, or is selling_  
+| _facilities to an acquiring utility, as the result of a voluntary_  
+| _arm's-length transaction._  
+|  _(b)_ _____The utility commission shall maintain a list of experts_  
+| _qualified to conduct economic valuations of utilities for the_  
+| _purposes of this section._  
+|  _(c)_ _____An acquiring utility and a selling utility may agree to_  
+| _determine by the following process the fair market value of the_  
+| _selling utility or the facilities to be sold, as applicable:_  
+|  _(1)_ _____the acquiring utility and the selling utility_  
+| _shall notify the utility commission of their intent to determine_  
+| _the fair market value under this section;_  
+|  _(2)_ _____not later than the 30th day after the date the_  
+| _utility commission receives notice under Subdivision (1), the_  
+| _utility commission shall select three utility valuation experts_  
+| _from the list maintained under Subsection (b);_  
+|  _(3)_ _____each utility valuation expert shall perform an_  
+| _appraisal in compliance with Uniform Standards of Professional_  
+| _Appraisal Practice, employing the cost, market, and income_  
+| _approaches, to determine the fair market value; and_  
+|  _(4)_ _____the three utility valuation experts selected under_  
+| _Subdivision (2) jointly shall retain a licensed engineer to conduct_  
+| _an assessment of the tangible assets of the selling utility, or the_  
+| _facilities to be sold, as applicable, and each utility valuation_  
+| _expert shall:_  
+|  _(A)_ _____incorporate the assessment into the_  
+| _appraisal under the cost approach required under Subdivision (3);_  
+| _and_  
+|  _(B)_ _____provide the completed appraisal to the_  
+| _acquiring utility and the selling utility in a reasonable and_  
+| _timely manner._  
+|  _(d)_ _____A utility valuation expert described by Subsection (b)_  
+| _may not:_  
+|  _(1)_ _____derive any material financial benefit from the_  
+| _sale other than fees for services rendered; or_  
+|  _(2)_ _____be or have been within the year preceding the date_  
+| _the service contract is executed an immediate family member of a_  
+| _director, officer, or employee of the acquiring utility or the_  
+| _selling utility._  
+|  _(e)_ _____A fee paid to a utility valuation expert may be included_  
+| _in the transaction and closing costs associated with the_  
+| _acquisition by the acquiring utility. A fee may not exceed the_  
+| _lesser of:_  
+|  _(1) five percent of the fair market value; or_  
+|  _(2) a fee amount approved by the utility commission._  
+|  _(f)_ _____For the purposes of the acquisition, the fair market_  
+| _value is the average of the three utility valuation expert_  
+| _appraisals conducted under Subsection (c)._  
+|  _(g)_ _____For an acquisition of a selling utility, the ratemaking_  
+| _rate base of the selling utility is the lesser of the purchase price_  
+| _negotiated by the acquiring utility and the selling utility or the_  
+| _fair market value._ ___The ratemaking rate base of the selling utility_  
+| _shall be incorporated into the rate base of the acquiring utility_  
+| _during the utility's next rate base case under Subchapter F._  
+|  _(h)_ _____If the acquiring utility and the selling utility use the_  
+| _process for establishing fair market value in Subsection (c), the_  
+| _acquiring utility shall submit as attachments to an application_  
+| _required under Section 13.301:_  
+|  _(1)_ _____copies of the three appraisals performed by the_  
+| _utility valuation experts under Subsection (c);_  
+|  _(2)_ _____the purchase price agreed to by the acquiring_  
+| _utility and the selling utility;_  
+|  _(3)_ _____if applicable, the ratemaking rate base determined_  
+| _under Subsection (g);_  
+|  _(4)_ _____if applicable, the transaction and closing costs_  
+| _incurred by the acquiring utility that will be included in the_  
+| _utility's rate base; and_  
+|  _(5)_ _____if applicable, a tariff containing a rate equal to_  
+| _the existing rates of the selling utility at the time of the_  
+| _acquisition._  
+|  _(i)_ _____If the utility commission approves the application for_  
+| _acquisition under Section 13.301, the utility commission shall_  
+| _issue an order that includes:_  
+|  _(1)_ _____the ratemaking rate base of the selling utility as_  
+| _determined under Subsection (g); and_  
+|  _(2)_ _____any additional conditions for the acquisition the_  
+| _utility commission requires._  
+|  _(j)_ _____A tariff submitted under Subsection (h)(5) shall remain_  
+| _in effect until the utility commission approves new rates as part of_  
+| _a rate base case proceeding._  
+|  _(k)_ _____The original sources of funding for any part of the_  
+| _water or sewer assets of the selling utility are not relevant to_  
+| _determine the value of the selling utility's assets._ ___The selling_  
+| _utility's cost of service shall be incorporated into the revenue_  
+| _requirement of the acquiring utility's next rate base case_  
+| _proceeding._  
+|  _(l)_ _____In this subsection, "allowance of funds used during_  
+| _construction" means an accounting practice that recognizes the_  
+| _capital costs, including debt and equity funds, that are used to_  
+| _finance the construction costs of an improvement to a selling_  
+| _utility's assets by an acquiring utility._ ___An acquiring utility's_  
+| _postacquisition improvements shall accrue an allowance of funds_  
+| _used during construction after the date the cost was incurred until_  
+| _the earlier of:_  
+|  _(1)_ _____the fourth anniversary of the date the asset_  
+| _entered into service; or_  
+|  _(2)_ _____the inclusion of the asset in the acquiring_  
+| _utility's next rate base case._  
+|  _(m)_ _____Depreciation on an acquiring utility's postacquisition_  
+| _improvements shall be deferred for book and ratemaking purposes._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

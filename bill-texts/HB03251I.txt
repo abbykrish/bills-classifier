@@ -1,0 +1,40 @@
+| 86R9075 ADM-D  
+---|---  
+|  By: Allen | H.B. No. 3251  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to signature verification on an early voting ballot voted  
+| by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 87.027, Election Code, is amended by  
+| adding Subsection (i-1) to read as follows:  
+|  _(i-1)_ _____In making the determination under Subsection (i), the_  
+| _Signature Verification committee may only determine whether the_  
+| _handwriting on the certificate and application indicates that the_  
+| _same person executed both signatures. The committee may not_  
+| _determine that two signatures were not executed by the same person_  
+| _on the basis of which version of the same name the person used,_  
+| _including:_  
+|  _(1)_ _____the inclusion of a middle name or initial in one_  
+| _signature that is omitted in the other;_  
+|  _(2)_ _____the use of a common nickname in one signature and a_  
+| _formal name in the other; or_  
+|  _(3)_ _____a variation between the two signatures of the_  
+| _order of the person's first, middle, and last name._  
+|  SECTION 2. Section 87.041, Election Code, is amended by  
+| adding Subsection (h) to read as follows:  
+|  _(h)_ _____In making the determination under Subsection (b)(2),_  
+| _the board may only determine whether the handwriting on the_  
+| _certificate and application indicates that the same person executed_  
+| _both signatures. The board may not determine that two signatures_  
+| _were not executed by the same person on the basis of which version_  
+| _of the same name the person used, including:_  
+|  _(1)_ _____the inclusion of a middle name or initial in one_  
+| _signature that is omitted in the other;_  
+|  _(2)_ _____the use of a common nickname in one signature and a_  
+| _formal name in the other; or_  
+|  _(3)_ _____a variation between the two signatures of the_  
+| _order of the person's first, middle, and last name._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

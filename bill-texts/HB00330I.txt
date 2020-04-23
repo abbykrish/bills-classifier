@@ -1,0 +1,50 @@
+| 86R2060 CAE-D  
+---|---  
+|  By: VanDeaver | H.B. No. 330  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to excluding certain students from the computation of  
+| dropout and completion rates for purposes of public school  
+| accountability.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 39.053(g-1), Education Code, is amended  
+| to read as follows:  
+|  (g-1) In computing dropout and completion rates such as high  
+| school graduation rates under Subsection (c)(1)(B)(ix), the  
+| commissioner shall exclude:  
+|  (1) students who are ordered by a court to attend a  
+| high school equivalency certificate program but who have not yet  
+| earned a high school equivalency certificate;  
+|  (2) students who were previously reported to the state  
+| as dropouts, including a student who is reported as a dropout,  
+| reenrolls, and drops out again, regardless of the number of times of  
+| reenrollment and dropping out;  
+|  (3) students in attendance who are not in membership  
+| for purposes of average daily attendance;  
+|  (4) students whose initial enrollment in a school in  
+| the United States in grades 7 through 12 was as an unschooled asylee  
+| or refugee as defined by Section 39.027(a-1);  
+|  (5) students who are detained at a county  
+| pre-adjudication or post-adjudication juvenile detention facility  
+| and:  
+|  (A) in the district exclusively as a function of  
+| having been detained at the facility but are otherwise not students  
+| of the district in which the facility is located; or  
+|  (B) provided services by an open-enrollment  
+| charter school exclusively as the result of having been detained at  
+| the facility; [ ~~and~~ ]  
+|  (6) students who are incarcerated in state jails and  
+| federal penitentiaries as adults and as persons certified to stand  
+| trial as adults _; and_  
+|  _(7)_ _____students who have suffered a condition, injury, or_  
+| _illness that requires substantial medical care and leaves the_  
+| _student unable to attend school_.  
+|  SECTION 2. This Act applies beginning with the 2019-2020  
+| school year.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

@@ -1,0 +1,43 @@
+| 86R9606 TSR-D  
+---|---  
+|  By: Dean | H.B. No. 3052  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the revocation of a pharmacy license for failure to  
+| operate as a pharmacy.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 565, Occupations Code, is  
+| amended by adding Section 565.0591 to read as follows:  
+|  _Sec._ ___565.0591._ _____AUTOMATIC REVOCATION OF CERTAIN PHARMACY_  
+| _LICENSES. (a) On discovery by the board that a pharmacy licensed_  
+| _under Chapter 560 has ceased to operate for a period of 30 days or_  
+| _longer, the board shall notify the pharmacy that the license will be_  
+| _revoked._  
+|  _(b) The notice must:_  
+|  _(1)_ _____include a statement that the pharmacy license is_  
+| _being revoked for violation of Section 565.002(a)(7); and_  
+|  _(2)_ _____inform the license holder of the license holder's_  
+| _right to a hearing to contest the revocation._  
+|  _(c)_ _____Not later than the 20th day after the date the license_  
+| _holder receives the notice of revocation under this section, the_  
+| _license holder may submit a written request for a hearing to contest_  
+| _the revocation._  
+|  _(d)_ _____If the license holder does not request a hearing within_  
+| _the period prescribed by Subsection (c), the board shall:_  
+|  _(1) enter an order revoking the license; and_  
+|  _(2) notify the license holder of the order._  
+|  _(e)_ _____If the license holder requests a hearing within the_  
+| _period prescribed by Subsection (c), a panel of three board members_  
+| _appointed by the president of the board shall conduct the hearing._  
+| _At the hearing the panel shall determine whether the license holder_  
+| _has violated Section 565.002(a)(7)._  
+|  _(f)_ _____If the panel determines that the license holder_  
+| _committed the violation, the board shall promptly:_  
+|  _(1) enter an order revoking the license; and_  
+|  _(2) notify the license holder of the order._  
+|  _(g)_ _____Notwithstanding Chapter 2001, Government Code, a_  
+| _determination under Subsection (e) is not subject to judicial_  
+| _review._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

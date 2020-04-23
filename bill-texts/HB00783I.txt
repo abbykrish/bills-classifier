@@ -1,0 +1,203 @@
+| 86R978 ATP-F  
+---|---  
+|  By: Davis of Harris | H.B. No. 783  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the contents of and recordkeeping requirements relating  
+| to personal financial statements filed with the Texas Ethics  
+| Commission.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 572.023(b), Government Code, as  
+| effective January 8, 2019, is amended to read as follows:  
+|  (b) The account of financial activity consists of:  
+|  (1) a list of all sources of occupational income,  
+| identified by employer, or if self-employed, by the nature of the  
+| occupation, including identification of a person or other  
+| organization from which the individual or a business in which the  
+| individual has a substantial interest received a fee as a retainer  
+| for a claim on future services in case of need, as distinguished  
+| from a fee for services on a matter specified at the time of  
+| contracting for or receiving the fee, if professional or  
+| occupational services are not actually performed during the  
+| reporting period equal to or in excess of the amount of the  
+| retainer, and the category of the amount of the fee;  
+|  (2) identification by name and the category of the  
+| _greatest_ number of shares of stock of any _nonpublicly traded_  
+| business entity held or acquired, and if sold, the category of the  
+| amount of net gain or loss realized from the sale;  
+|  _(2-a) identification by stock symbol and the category_  
+| _of the number of shares of stock of any publicly traded corporation_  
+| _held;_  
+|  (3) a list of all bonds, notes, and other commercial  
+| paper held or acquired, and if sold, the category of the amount of  
+| net gain or loss realized from the sale;  
+|  (4) identification of each source and the category of  
+| the amount of income in excess of $500 derived from each source from  
+| interest, dividends, royalties, and rents;  
+|  (5) identification of each guarantor of a loan and  
+| identification of each person or financial institution to whom a  
+| personal note or notes or lease agreement for a total financial  
+| liability in excess of $1,000 existed at any time during the year  
+| and the category of the amount of the liability;  
+|  (6) identification by description of all beneficial  
+| interests in real property and business entities held or acquired,  
+| and if sold, the category of the amount of the net gain or loss  
+| realized from the sale;  
+|  (7) identification of a person or other organization  
+| from which the individual or the individual's spouse or dependent  
+| children received a gift of anything of value in excess of $250 and  
+| a description of each gift, except:  
+|  (A) a gift received from an individual related to  
+| the individual at any time within the second degree by  
+| consanguinity or affinity, as determined under Subchapter B,  
+| Chapter 573;  
+|  (B) a political contribution that was reported as  
+| required by Chapter 254, Election Code; and  
+|  (C) an expenditure required to be reported by a  
+| person required to be registered under Chapter 305;  
+|  (8) identification of the source and the category of  
+| the amount of all income received as beneficiary of a trust, other  
+| than a blind trust that complies with Subsection (c), and  
+| identification of each trust asset, if known to the beneficiary,  
+| from which income was received by the beneficiary in excess of $500;  
+|  (9) identification:  
+|  (A) by description of a corporation, firm,  
+| partnership, limited partnership, limited liability partnership,  
+| professional corporation, professional association, joint venture,  
+| or other business association in which five percent or more of the  
+| outstanding ownership was held, acquired, or sold; and  
+|  (B) by description and the category of the amount  
+| of all assets and liabilities of a corporation, firm, partnership,  
+| limited partnership, limited liability partnership, professional  
+| corporation, professional association, joint venture, or other  
+| business association in which 50 percent or more of the outstanding  
+| ownership was held, acquired, or sold;  
+|  (10) a list of all boards of directors of which the  
+| individual is a member and executive positions that the individual  
+| holds in corporations, firms, partnerships, limited partnerships,  
+| limited liability partnerships, professional corporations,  
+| professional associations, joint ventures, or other business  
+| associations or proprietorships, stating the name of each  
+| corporation, firm, partnership, limited partnership, limited  
+| liability partnership, professional corporation, professional  
+| association, joint venture, or other business association or  
+| proprietorship and the position held;  
+|  (11) identification of any person providing  
+| transportation, meals, or lodging expenses permitted under Section  
+| 36.07(b), Penal Code, and the amount of those expenses, other than  
+| expenditures required to be reported under Chapter 305;  
+|  (12) any corporation, firm, partnership, limited  
+| partnership, limited liability partnership, professional  
+| corporation, professional association, joint venture, or other  
+| business association, excluding a publicly held corporation, in  
+| which both the individual and a person registered under Chapter 305  
+| have an interest;  
+|  (13) identification by name and the category of the  
+| number of shares of any mutual fund held or acquired, and if sold,  
+| the category of the amount of net gain or loss realized from the  
+| sale;  
+|  (14) identification of each blind trust that complies  
+| with Subsection (c), including:  
+|  (A) the category of the fair market value of the  
+| trust;  
+|  (B) the date the trust was created;  
+|  (C) the name and address of the trustee; and  
+|  (D) a statement signed by the trustee, under  
+| penalty of perjury, stating that:  
+|  (i) the trustee has not revealed any  
+| information to the individual, except information that may be  
+| disclosed under Subdivision (8); and  
+|  (ii) to the best of the trustee's knowledge,  
+| the trust complies with this section;  
+|  (15) if the aggregate cost of goods or services sold  
+| under one or more written contracts described by this subdivision  
+| exceeds $10,000 in the year covered by the report, identification  
+| of each written contract, including the name of each party to the  
+| contract:  
+|  (A) for the sale of goods or services in the  
+| amount of $2,500 or more;  
+|  (B) to which the individual, the individual's  
+| spouse, the individual's dependent child, or any business entity of  
+| which the individual, the individual's spouse, or the individual's  
+| dependent child, independently or in conjunction with one or more  
+| persons described by this subsection, has at least a 50 percent  
+| ownership interest is a party; and  
+|  (C) with:  
+|  (i) a governmental entity; or  
+|  (ii) a person who contracts with a  
+| governmental entity, if the individual or entity described by  
+| Paragraph (B) performs work arising out of the contract,  
+| subcontract, or agreement between the person and the governmental  
+| entity for a fee; and  
+|  (16) if the individual is a member of the legislature  
+| and provides bond counsel services to an issuer, as defined by  
+| Section 1201.002(1), identification of the following for each  
+| issuance for which the individual served as bond counsel:  
+|  (A) the amount of the issuance;  
+|  (B) the name of the issuer;  
+|  (C) the date of the issuance;  
+|  (D) the amount of fees paid to the individual,  
+| and whether the amount is:  
+|  (i) less than $5,000;  
+|  (ii) at least $5,000 but less than $10,000;  
+|  (iii) at least $10,000 but less than  
+| $25,000; or  
+|  (iv) $25,000 or more; and  
+|  (E) the amount of fees paid to the individual's  
+| firm, if applicable, and whether the amount is:  
+|  (i) less than $5,000;  
+|  (ii) at least $5,000 but less than $10,000;  
+|  (iii) at least $10,000 but less than  
+| $25,000; or  
+|  (iv) $25,000 or more.  
+|  SECTION 2. Subchapter B, Chapter 572, Government Code, is  
+| amended by adding Section 572.0292 to read as follows:  
+|  _Sec._ ___572.0292._ _____RECORDKEEPING REQUIRED. (a) Each_  
+| _individual who files with the commission a financial statement_  
+| _required by this subchapter shall maintain a record of the_  
+| _information that is necessary for filing the financial statement._  
+|  _(b)_ _____An individual required to maintain a record under this_  
+| _section shall preserve the record for at least three years_  
+| _beginning on the filing deadline for the financial statement_  
+| _containing the information in the record._  
+|  SECTION 3. Section 572.032, Government Code, is amended by  
+| amending Subsection (a) and adding Subsection (d) to read as  
+| follows:  
+|  (a) Financial statements filed under this subchapter are  
+| public records. The commission shall maintain the statements in  
+| separate alphabetical files and in a manner that is accessible to  
+| the public during regular office hours _and make the statements_  
+| _available to the public on the commission's website not later than_  
+| _the 15th day after the date the statement is required to be filed or_  
+| _is actually filed, whichever is later_.  
+|  _(d)_ _____The commission is not required to continue to make_  
+| _available on its website a financial statement that may be_  
+| _destroyed under Subsection (c). The commission may not make_  
+| _available on its website a financial statement that the commission_  
+| _is required to destroy under Subsection (c)._  
+|  SECTION 4. Section 572.032(a-1), Government Code, as  
+| amended by Chapters 34 (S.B. 1576) and 983 (H.B. 776), Acts of the  
+| 85th Legislature, Regular Session, 2017, is reenacted and amended  
+| to read as follows:  
+|  (a-1) The commission shall remove the home address, the  
+| telephone number, and the names of the dependent children of an  
+| individual from a financial statement filed by the individual under  
+| this subchapter before:  
+|  (1) permitting a member of the public to view the  
+| statement;  
+|  (2) providing a copy of the statement to a member of  
+| the public; or  
+|  (3) making the statement available to the public on  
+| the commission's Internet website[ ~~, if the commission makes~~  
+|  ~~statements filed under this subchapter available on its website~~ ].  
+|  SECTION 5. Section 572.032(b), Government Code, is  
+| repealed.  
+|  SECTION 6. The changes in law made by this Act apply only to  
+| a financial statement due on or after the effective date of this  
+| Act. A financial statement due before the effective date of this  
+| Act is governed by the law in effect on the date the financial  
+| statement was due, and the former law is continued in effect for  
+| that purpose.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,28 @@
+| 86R1846 ADM-D  
+---|---  
+|  By: Romero, Jr. | H.B. No. 22  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of direct recording electronic voting machines.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 129, Election Code, is  
+| amended by adding Section 129.003 to read as follows:  
+|  _Sec._ ___129.003._ _____PAPER AUDIT TRAIL REQUIRED. (a)_ ___In this_  
+| _section, "auditable voting system" means a voting system that:_  
+|  _(1) uses a paper record; or_  
+|  _(2)_ _____produces a paper receipt by which a voter can_  
+| _verify that the voter's ballot will be counted accurately._  
+|  _(b)_ _____Except as provided by Subsection (d), a voting system_  
+| _that consists of direct recording electronic voting machines may_  
+| _not be used in an election unless the system is an auditable voting_  
+| _system._  
+|  _(c)_ _____Except for a recount under Title 13, the electronic vote_  
+| _is the official record of the ballot. For a recount of ballots cast_  
+| _on a system involving direct recording electronic voting machines,_  
+| _the paper record or receipt copy is the official record of the vote_  
+| _cast._  
+|  _(d)_ _____This section does not apply to an election held before_  
+| _September 1, 2021._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,76 @@
+| 86R16878 JES-D  
+---|---  
+|  By: Stephenson | H.B. No. 3829  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the adjustment of the limitation on the amount of ad  
+| valorem taxes imposed by a school district on the residence  
+| homestead of an elderly or disabled person if the school district  
+| adopts, changes the amount of, or rescinds a local option residence  
+| homestead exemption.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 11.26, Tax Code, is amended by adding  
+| Subsections (a-4), (a-5), (a-6), and (a-7) to read as follows:  
+|  _(a-4)_ _____Notwithstanding the other provisions of this section,_  
+| _if in the 2020 tax year or a subsequent tax year a school district_  
+| _adopts an exemption under Section 11.13(n) for the first time, the_  
+| _amount of the limitation on tax increases provided by this section_  
+| _on the residence homestead of an individual who qualifies for the_  
+| _limitation and who qualified for an exemption under Section_  
+| _11.13(c) for that homestead for the preceding tax year is, for the_  
+| _tax year in which the exemption is adopted, equal to the amount_  
+| _computed by:_  
+|  _(1)_ _____multiplying the dollar amount of the appraised_  
+| _value of the homestead exempted under Section 11.13(n) by the tax_  
+| _rate of the district for the current tax year;_  
+|  _(2)_ _____subtracting the amount computed under Subdivision_  
+| _(1) from the amount of tax the district imposed on the homestead in_  
+| _the preceding tax year; and_  
+|  _(3)_ _____adding to the amount computed under Subdivision_  
+| _(2) any tax imposed by the district on the homestead in the current_  
+| _tax year attributable to improvements made in the preceding tax_  
+| _year, as provided by Subsection (b)._  
+|  _(a-5)_ _____Except as provided by Subsections (a-6) and (b), a_  
+| _limitation on tax increases provided by this section on a residence_  
+| _homestead computed under Subsection (a-4) continues to apply to the_  
+| _homestead in subsequent tax years until the limitation expires._  
+|  _(a-6)_ _____Notwithstanding the other provisions of this section,_  
+| _if a school district increases, decreases, or rescinds an exemption_  
+| _under Section 11.13(n) that the district adopted for the first time_  
+| _in the 2020 tax year or a subsequent tax year, the amount of the_  
+| _limitation on tax increases provided by this section on the_  
+| _residence homestead of an individual who qualifies for the_  
+| _limitation and who qualified for an exemption under Section_  
+| _11.13(c) for that homestead for the preceding tax year is, for the_  
+| _tax year in which the exemption is increased, decreased, or_  
+| _rescinded, equal to the amount computed by:_  
+|  _(1)_ _____multiplying the change, expressed as a positive_  
+| _amount, in the dollar amount of the appraised value of the homestead_  
+| _exempted under Section 11.13(n) as a result of the increase,_  
+| _decrease, or rescission of that exemption by the tax rate of the_  
+| _district for the current tax year;_  
+|  _(2)_ _____subtracting the amount computed under Subdivision_  
+| _(1) from, or adding the amount computed under that subdivision to,_  
+| _as applicable, the amount of tax the district imposed on the_  
+| _homestead in the preceding tax year; and_  
+|  _(3)_ _____adding to the amount computed under Subdivision_  
+| _(2) any tax imposed by the district on the homestead in the current_  
+| _tax year attributable to improvements made in the preceding tax_  
+| _year, as provided by Subsection (b)._  
+|  _(a-7)_ _____Except as provided by Subsection (b), a limitation on_  
+| _tax increases provided by this section on a residence homestead_  
+| _computed under Subsection (a-6) continues to apply to the homestead_  
+| _in subsequent tax years until the limitation expires._  
+|  SECTION 2. The changes in law made by this Act apply only to  
+| an ad valorem tax year that begins on or after January 1, 2020.  
+|  SECTION 3. This Act takes effect January 1, 2020, but only  
+| if the constitutional amendment proposed by the 86th Legislature,  
+| Regular Session, 2019, authorizing the legislature to provide for  
+| the adjustment of the limitation on the amount of ad valorem taxes  
+| imposed by a school district on the residence homestead of an  
+| elderly or disabled person if the school district adopts, changes  
+| the amount of, or rescinds a local option residence homestead  
+| exemption is approved by the voters. If that constitutional  
+| amendment is not approved by the voters, this Act has no effect.
+

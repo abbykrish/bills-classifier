@@ -1,0 +1,41 @@
+| 86R6250 PMO-D  
+---|---  
+|  By: Leman | H.B. No. 1987  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to reporting requirements regarding eminent domain  
+| authority.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2206.154, Government Code, is amended by  
+| amending Subsection (c) and adding Subsections (d) and (e) to read  
+| as follows:  
+|  (c) In addition to the annual report required under  
+| Subsection (a), an entity described by Section 2206.151 shall  
+| report to the comptroller _:_  
+|  _(1)_ any changes to the entity's eminent domain  
+| authority information reported under this section not later than  
+| the 90th day after the date on which the change occurred _, except as_  
+| _provided by Subdivision (3);_  
+|  _(2)_ _____any court proceeding filed to determine the_  
+| _validity or extent of the entity's eminent domain authority not_  
+| _later than the 30th day after the date the proceeding is filed,_  
+| _including the number and style of the proceeding and the court in_  
+| _which the proceeding is pending; and_  
+|  _(3)_ _____the outcome of the court proceeding reported under_  
+| _Subdivision (2) not later than the 30th day after the date the_  
+| _proceeding is completed_.  
+|  _(d)_ _____If an entity reports information under Subsection_  
+| _(c)(2), the comptroller shall reflect the entity's challenged_  
+| _eminent domain status by including the entity on a separately_  
+| _maintained list of entities with challenged status and in any other_  
+| _manner determined appropriate by the comptroller._ ___The separately_  
+| _maintained list required under this subsection must include with_  
+| _respect to each entity the information reported by the entity under_  
+| _Subsection (c)(2)._  
+|  _(e)_ _____As soon as practicable after receiving information_  
+| _reported under Subsection (c)(3), the comptroller shall update the_  
+| _information in the eminent domain database as the comptroller_  
+| _determines appropriate._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

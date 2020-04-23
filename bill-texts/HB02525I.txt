@@ -1,0 +1,104 @@
+| 86R9507 SCL-F  
+---|---  
+|  By: Burrows | H.B. No. 2525  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to participation in the health care market by enrollees of  
+| certain governmental managed care plans.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle H, Title 8, Insurance Code, is amended  
+| by adding Chapter 1580 to read as follows:  
+| _CHAPTER 1580. HEALTH CARE MARKET PARTICIPATION FOR CERTAIN_  
+| _GOVERNMENTAL MANAGED CARE PLANS_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 1580.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Enrollee" means an individual who is eligible to_  
+| _receive benefits for health care services through a health benefit_  
+| _plan._  
+|  _(2)_ _____"Health benefit plan" means a plan to which this_  
+| _chapter applies under Section 1580.0002._  
+|  _(3)_ _____"Health care provider" means a physician,_  
+| _hospital, pharmacy, pharmacist, laboratory, or other person or_  
+| _organization that furnishes health care services and that is_  
+| _licensed or otherwise authorized to practice in this state._  
+|  _(4)_ _____"Health care service" means a service for the_  
+| _diagnosis, prevention, treatment, cure, or relief of a health_  
+| _condition, illness, injury, or disease._  
+|  _(5)_ _____"Managed care plan" means a health benefit plan_  
+| _under which health care services are provided to enrollees through_  
+| _contracts with health care providers and that requires enrollees to_  
+| _use participating providers or that provides a different level of_  
+| _coverage for enrollees who use participating providers._  
+|  _(6)_ _____"Participating provider" means a health care_  
+| _provider who has contracted with a health benefit plan issuer or_  
+| _administrator to provide health care services to enrollees._  
+|  _Sec._ ___1580.0002._ _____APPLICABILITY OF CHAPTER. (a) This_  
+| _chapter applies only with respect to nonemergency health care_  
+| _services covered under a managed care plan._  
+|  _(b)_ _____Notwithstanding any provision in Chapter 1551, 1575, or_  
+| _1579 or any other law, this chapter applies only to:_  
+|  _(1) a basic coverage plan under Chapter 1551;_  
+|  _(2) a basic plan under Chapter 1575; and_  
+|  _(3) a health coverage plan under Chapter 1579._  
+|  _(c)_ _____Notwithstanding any other law, this chapter applies to_  
+| _an independent administrator, manager, or third-party_  
+| _administrator of a health benefit plan described by this section._  
+|  _Sec._ ___1580.0003._ _____RULES. The board of trustees of the_  
+| _Employees Retirement System of Texas or Teacher Retirement System_  
+| _of Texas, as applicable, may adopt rules to implement this chapter._  
+| _SUBCHAPTER B. TRANSPARENCY TOOLS_  
+|  _Sec._ ___1580.0051._ _____AVAILABILITY OF PRICE AND QUALITY_  
+| _INFORMATION. (a)_ ___A health benefit plan issuer or administrator_  
+| _shall provide by a toll-free telephone number and on its publicly_  
+| _available Internet website an interactive mechanism that, for a_  
+| _specific health care service, allows an enrollee to request and_  
+| _obtain from the issuer or administrator:_  
+|  _(1)_ _____information on the payments made by the issuer or_  
+| _administrator to participating providers under the enrollee's_  
+| _health benefit plan sufficient for the enrollee to compare costs_  
+| _for that service among participating providers, including costs for_  
+| _that service among participating providers after an enrollee has_  
+| _exceeded the enrollee's deductible;_  
+|  _(2)_ _____quality data on participating providers to the_  
+| _extent that data is available; and_  
+|  _(3)_ _____an estimate of the enrollee's out-of-pocket costs_  
+| _under the enrollee's health benefit plan._  
+|  _(b)_ _____A health benefit plan issuer or administrator may_  
+| _contract with a third-party vendor to satisfy the requirements of_  
+| _this section._  
+|  _Sec._ ___1580.0052._ _____NOTICE TO ENROLLEES. A health benefit plan_  
+| _issuer or administrator shall inform an enrollee requesting an_  
+| _estimate under Section 1580.0051 that any out-of-pocket amount_  
+| _provided is only an estimate and that the actual amount of the cost_  
+| _and the amount the enrollee is responsible to pay for the service_  
+| _may vary based upon unforeseen issues that arise in connection with_  
+| _the proposed service._  
+|  _Sec._ ___1580.0053._ _____EFFECT OF SUBCHAPTER. This subchapter does_  
+| _not prohibit a health benefit plan issuer or administrator from_  
+| _imposing deductibles, copayments, or coinsurance under the health_  
+| _benefit plan for a health care service that was not included in the_  
+| _original estimate provided under Section 1580.0051._  
+| _SUBCHAPTER C. SHARED SAVINGS INCENTIVE PROGRAM_  
+|  _Sec._ ___1580.0101._ _____ESTABLISHMENT OF INCENTIVE PROGRAM. A_  
+| _health benefit plan issuer or administrator shall establish a_  
+| _shared savings incentive program for all enrollees of the health_  
+| _benefit plan. The program must provide an incentive paid in_  
+| _accordance with this subchapter to an enrollee who elects to_  
+| _receive a health care service from a participating provider who_  
+| _provides a high-quality service at a reasonable cost, as determined_  
+| _by the Employees Retirement System of Texas or the Teacher_  
+| _Retirement System of Texas, as applicable._  
+|  _Sec._ ___1580.0102._ _____NOTICE TO ENROLLEES. The health benefit_  
+| _plan issuer or administrator shall annually provide written notice_  
+| _to enrollees about the program._  
+|  _Sec._ ___1580.0103._ _____INCENTIVE PAYMENTS. A health benefit plan_  
+| _issuer or administrator may pay a program incentive in the form and_  
+| _manner approved by the Employees Retirement System of Texas or_  
+| _Teacher Retirement System of Texas, as applicable._  
+|  SECTION 2. Chapter 1580, Insurance Code, as added by this  
+| Act, applies only to a health benefit plan for a plan year that  
+| begins after the first open enrollment period that occurs on or  
+| after January 1, 2020.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

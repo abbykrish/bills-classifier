@@ -1,0 +1,46 @@
+| 86R922 TSR-D  
+---|---  
+|  By: Martinez | H.B. No. 56  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a cost-of-living increase applicable to benefits paid  
+| by the Teacher Retirement System of Texas.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter H, Chapter 824, Government Code, is  
+| amended by adding Section 824.703 to read as follows:  
+|  _Sec._ ___824.703._ _____COST-OF-LIVING ADJUSTMENT; ANNUAL_  
+| _DETERMINATION._ ___(a)_ ___Notwithstanding any other law, the amount of a_  
+| _service retirement benefit, disability retirement benefit, or_  
+| _death benefit paid under this chapter is adjusted in accordance_  
+| _with this section as necessary to reflect inflation._  
+|  _(b)_ _____Each year, during the last seven days of October, the_  
+| _board of trustees shall set the rate of the adjustment for the next_  
+| _calendar year to equal the percentage increase, if any, in the_  
+| _Consumer Price Index for Urban Wage Earners and Clerical Workers_  
+| _(CPI-W) most recently published by the Bureau of Labor Statistics_  
+| _of the United States Department of Labor that is used by the United_  
+| _States Social Security Administration to provide a cost-of-living_  
+| _adjustment for social security benefit payments payable beginning_  
+| _in January of the next year._  
+|  _(c)_ _____Subject to Subsection (d), the board of trustees shall_  
+| _increase the amount of a benefit payable under this chapter by_  
+| _applying the adjustment rate set by the board of trustees under_  
+| _Subsection (b) to the amount otherwise required to be paid as_  
+| _determined in accordance with the other applicable provisions of_  
+| _this chapter._  
+|  _(d)_ _____The board of trustees may not pay a benefit increase_  
+| _under this section in any calendar year unless the board finds that_  
+| _the retirement system is actuarially sound and has money available_  
+| _to pay increased benefits in that year. If the board of trustees_  
+| _finds that the retirement system is actuarially sound, but that the_  
+| _amount of money available is not sufficient to pay the full amount_  
+| _of the adjustment under Subsection (b), the board shall compute the_  
+| _largest rate of adjustment possible for the amount of money_  
+| _available while maintaining the actuarial soundness of the system_  
+| _and shall use that rate in increasing benefits under Subsection (c)_  
+| _for that calendar year._  
+|  SECTION 2. This Act applies only to a benefit paid by the  
+| Teacher Retirement System of Texas on or after January 1, 2020.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

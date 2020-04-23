@@ -1,0 +1,80 @@
+| 86R11128 ADM-F  
+---|---  
+|  By: Perez | H.B. No. 2625  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to creating the criminal offense of mass fraudulent use or  
+| possession of credit card or debit card information.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 32, Penal Code, is amended  
+| by adding Section 32.315 to read as follows:  
+|  _Sec._ ___32.315._ _____MASS FRAUDULENT USE OR POSSESSION OF CREDIT_  
+| _CARD OR DEBIT CARD INFORMATION. (a) In this section:_  
+|  _(1)_ _____"Counterfeit credit card or debit card" means a_  
+| _credit card or debit card that:_  
+|  _(A)_ _____purports on its face to have been issued by an_  
+| _issuer that did not issue the card;_  
+|  _(B)_ _____has been altered to contain a digital imprint_  
+| _other than that which was placed on the card by the issuer;_  
+|  _(C)_ _____contains a digital imprint with account_  
+| _information or account holder information differing from that which_  
+| _is printed or embossed on the card; or_  
+|  _(D)_ _____has been altered to change the account_  
+| _information or account holder information on the face of the card_  
+| _from that which was printed or embossed on the card by the issuer._  
+|  _(2)_ _____"Credit card" and "debit card" have the meanings_  
+| _assigned by Section 32.31._  
+|  _(3)_ _____"Digital imprint" means the digital data placed on_  
+| _a credit card or debit card by the issuer._  
+|  _(b)_ _____A person commits an offense if the person, with the_  
+| _intent to harm or defraud another, obtains, possesses, transfers,_  
+| _or uses:_  
+|  _(1)_ _____five or more counterfeit credit cards or debit_  
+| _cards;_  
+|  _(2)_ _____the numbers and expiration dates of five or more_  
+| _credit cards or debit cards without the consent of the account_  
+| _holder; and_  
+|  _(3)_ _____the data stored on the digital imprint of five or_  
+| _more credit cards or debit cards without the consent of the account_  
+| _holder._  
+|  _(c)_ _____If an actor possessed five or more of an item described_  
+| _by Subsection (b)(2) or (3), a rebuttable presumption exists that_  
+| _the actor possessed each item without the consent of the account_  
+| _holder._  
+|  _(d)_ _____The presumption established under Subsection (c) does_  
+| _not apply to a business or other commercial entity or a government_  
+| _agency that is engaged in a business activity or governmental_  
+| _function that does not violate a penal law of this state._  
+|  _(e) An offense under this section is:_  
+|  _(1)_ _____a felony of the third degree if the number of items_  
+| _obtained, possessed, transferred, or used is five or more but less_  
+| _than 10;_  
+|  _(2)_ _____a felony of the second degree if the number of_  
+| _items obtained, possessed, transferred, or used is 10 or more but_  
+| _less than 50; or_  
+|  _(3)_ _____a felony of the first degree if the number of items_  
+| _obtained, possessed, transferred, or used is 50 or more._  
+|  _(f)_ _____An offense described for purposes of punishment by_  
+| _Subsection (e)(1) or (2) is increased to the next higher category of_  
+| _offense if it is shown on the trial of the offense that the offense_  
+| _was committed against one or more elderly individuals as defined by_  
+| _Section 22.04._  
+|  _(g)_ _____If a court orders a defendant convicted of an offense_  
+| _under this section to make restitution to a victim of the offense,_  
+| _the court may order the defendant to reimburse the victim for lost_  
+| _income or other expenses, other than attorney's fees, incurred as a_  
+| _result of the offense._  
+|  _(h)_ _____If conduct that constitutes an offense under this_  
+| _section also constitutes an offense under any other law, the actor_  
+| _may be prosecuted under this section, the other law, or both._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to an offense committed on or after the effective date of this Act.  
+| An offense committed before the effective date of this Act is  
+| governed by the law in effect on the date the offense was committed,  
+| and the former law is continued in effect for that purpose. For  
+| purposes of this section, an offense was committed before the  
+| effective date of this Act if any element of the offense occurred  
+| before that date.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

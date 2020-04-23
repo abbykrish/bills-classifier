@@ -1,0 +1,75 @@
+| 86R11228 MEW-D  
+---|---  
+|  By: Meyer | H.B. No. 4593  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the equalized wealth level and the guaranteed yield  
+| under the school finance system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 41.002(a), Education Code, is amended to  
+| read as follows:  
+|  (a) A school district may not have a wealth per student that  
+| exceeds:  
+|  (1) the wealth per student that generates the amount  
+| of maintenance and operations tax revenue per weighted student  
+| available to a district with maintenance and operations tax revenue  
+| per cent of tax effort equal to the maximum amount provided per cent  
+| under Section 42.101(a) or (b), for the district's maintenance and  
+| operations tax effort equal to or less than the rate equal to the  
+| sum of the product of the state compression percentage, as  
+| determined under Section 42.2516, multiplied by the maintenance and  
+| operations tax rate adopted by the district for the 2005 tax year  
+| and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1);  
+|  (2) the wealth per student that generates the amount  
+| of maintenance and operations tax revenue per weighted student  
+| available to the Austin Independent School District, as determined  
+| by the commissioner in cooperation with the Legislative Budget  
+| Board, for the first _eight_ [ ~~six~~ ] cents by which the district's  
+| maintenance and operations tax rate exceeds the rate equal to the  
+| sum of the product of the state compression percentage, as  
+| determined under Section 42.2516, multiplied by the maintenance and  
+| operations tax rate adopted by the district for the 2005 tax year  
+| and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1), subject  
+| to Section 41.093(b-1); or  
+|  (3) $319,500, for the district's maintenance and  
+| operations tax effort that exceeds the amount of tax effort  
+| described by Subdivision (2).  
+|  SECTION 2. Section 42.101(a-1), Education Code, is amended  
+| to read as follows:  
+|  (a-1) Notwithstanding Subsection (a), for a school district  
+| that adopted a maintenance and operations tax rate for the 2005 tax  
+| year below the maximum rate permitted by law for that year, the  
+| district's compressed tax rate ("DCR") includes the portion of the  
+| district's current maintenance and operations tax rate in excess of  
+| the first _eight_ [ ~~six~~ ] cents above the district's compressed tax  
+| rate, as defined by Subsection (a), until the district's compressed  
+| tax rate computed in accordance with this subsection is equal to the  
+| state maximum compressed tax rate ("MCR").  
+|  SECTION 3. Section 42.302(a-1), Education Code, is amended  
+| to read as follows:  
+|  (a-1) For purposes of Subsection (a), the dollar amount  
+| guaranteed level of state and local funds per weighted student per  
+| cent of tax effort ("GL") for a school district is:  
+|  (1) the greater of the amount of district tax revenue  
+| per weighted student per cent of tax effort that would be available  
+| to the Austin Independent School District, as determined by the  
+| commissioner in cooperation with the Legislative Budget Board, if  
+| the reduction of the limitation on tax increases as provided by  
+| Section 11.26(a-1), (a-2), or (a-3), Tax Code, did not apply, or the  
+| amount of district tax revenue per weighted student per cent of tax  
+| effort used for purposes of this subdivision in the preceding  
+| school year, for the first _eight_ [ ~~six~~ ] cents by which the district's  
+| maintenance and operations tax rate exceeds the rate equal to the  
+| sum of the product of the state compression percentage, as  
+| determined under Section 42.2516, multiplied by the maintenance and  
+| operations tax rate adopted by the district for the 2005 tax year  
+| and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1); and  
+|  (2) $31.95, for the district's maintenance and  
+| operations tax effort that exceeds the amount of tax effort  
+| described by Subdivision (1).  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

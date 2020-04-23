@@ -1,0 +1,87 @@
+| 86R616 SMT-F  
+---|---  
+|  By: Raymond | H.B. No. 317  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of clinical decision support software and  
+| laboratory benefits management programs by physicians and health  
+| care providers in connection with provision of clinical laboratory  
+| services to certain managed care plan enrollees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 1451, Insurance Code, is amended by  
+| adding Subchapter L to read as follows:  
+| _SUBCHAPTER L. CLINICAL LABORATORIES_  
+|  _Sec. 1451.551. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Clinical decision support software" means_  
+| _computer software that compares patient characteristics to a_  
+| _database of clinical knowledge to produce patient-specific_  
+| _assessments or recommendations to assist a physician or health care_  
+| _provider in making clinical decisions._  
+|  _(2)_ _____"Clinical laboratory service" means the_  
+| _examination of a specimen taken from a human body ordered by a_  
+| _physician or health care provider for use in the diagnosis,_  
+| _prevention, or treatment of a disease or the identification or_  
+| _assessment of a medical or physical condition._  
+|  _(3)_ _____"Enrollee" means an individual enrolled in a_  
+| _managed care plan._  
+|  _(4)_ _____"Laboratory benefits management program" means a_  
+| _managed care plan issuer protocol or program administered by the_  
+| _managed care plan issuer or another entity under contract with the_  
+| _managed care plan issuer that dictates, directs, or limits decision_  
+| _making of a physician or health care provider who is authorized to_  
+| _order clinical laboratory services._  
+|  _(5)_ _____"Managed care plan"_ ___means a health plan provided_  
+| _by a health maintenance organization under Chapter 843 or a_  
+| _preferred provider or exclusive provider plan provided by an_  
+| _insurer under Chapter 1301._  
+|  _(6)_ _____"Managed care plan issuer"_ ___means a health_  
+| _maintenance organization or an insurer that provides a managed care_  
+| _plan._  
+|  _Sec._ ___1451.552._ _____CERTAIN REQUIREMENTS FOR USE OF CLINICAL_  
+| _LABORATORIES AND LABORATORY SERVICES PROHIBITED._ ___(a)_ ___A managed_  
+| _care plan issuer may not by contract or otherwise require the use of_  
+| _clinical decision support software or a laboratory benefits_  
+| _management program by an enrollee's physician or health care_  
+| _provider before, at the time, or after the physician or health care_  
+| _provider orders a clinical laboratory service for the enrollee._  
+|  _(b)_ _____A managed care plan issuer may not by contract or_  
+| _otherwise direct or limit an enrollee's physician or health care_  
+| _provider in the physician's or provider's clinical decision making_  
+| _relating to the use of a clinical laboratory service or the referral_  
+| _of a patient specimen to a clinical laboratory._  
+|  _(c)_ _____A managed care plan issuer may not by contract or_  
+| _otherwise require, steer, encourage, or otherwise direct an_  
+| _enrollee's physician or health care provider to refer a patient_  
+| _specimen to a particular clinical laboratory in the managed care_  
+| _plan's provider network designated by the managed care plan issuer_  
+| _other than the clinical laboratory in the network selected by the_  
+| _physician or health care provider._  
+|  _(d)_ _____A managed care plan issuer may not by contract or_  
+| _otherwise limit or deny payment of a claim for a clinical laboratory_  
+| _service based on whether the ordering physician or health care_  
+| _provider uses or fails to use clinical decision support software or_  
+| _a laboratory benefits management program._  
+|  _(e)_ _____Nothing in this section prohibits a managed care plan_  
+| _issuer from requiring a prior authorization for clinical laboratory_  
+| _services provided that the managed care plan issuer imposes the_  
+| _requirement uniformly to all laboratories providing clinical_  
+| _laboratory services in the managed care plan's provider network._  
+|  _Sec._ ___1451.553._ _____APPLICABILITY OF SUBCHAPTER TO ENTITIES_  
+| _CONTRACTING WITH MANAGED CARE PLAN ISSUER. This subchapter applies_  
+| _to a person with whom a managed care plan issuer contracts to:_  
+|  _(1) manage or administer laboratory benefits;_  
+|  _(2) process or pay claims;_  
+|  _(3)_ _____obtain the services of physicians or other_  
+| _providers to provide health care services to enrollees; or_  
+|  _(4) issue verifications or preauthorizations._  
+|  SECTION 2. Subchapter L, Chapter 1451, Insurance Code, as  
+| added by this Act, applies only to a contract between a managed care  
+| plan issuer and a physician or provider that is entered into or  
+| renewed on or after the effective date of this Act. A contract  
+| entered into or renewed before the effective date of this Act is  
+| governed by the law as it existed immediately before the effective  
+| date of this Act, and that law is continued in effect for that  
+| purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,52 @@
+|  
+---|---  
+|  By: Paddie | H.B. No. 4150  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to safety and inspection reporting requirements for  
+| certain utilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 38, Utilities Code, is amended by adding  
+| Section 38.102 to read as follows:  
+|  _Sec._ ___38.102._ _____REPORT ON SAFETY PROCESSES AND INSPECTION._  
+| _(a) Not later than May 1, 2020 each utility owning or operating_  
+| _transmission or distribution assets shall complete a report, as_  
+| _prescribed by the Public Utility Commission of Texas, which_  
+| _includes, but is not limited to the following:_  
+|  (1) _a summary description of the utility's hazard_  
+| _recognition training program(s) for transmission and distribution_  
+| _facilities provided by the utility to its employees and_  
+| _contractors;_  
+|  (2) _a summary description of the training programs_  
+| _provided by the utility to its employees and contractors related to_  
+| _the National Electric Safety Code and United States Corps of_  
+| _Engineers regulations and design requirements for the construction_  
+| _of electric transmission and distribution lines._  
+|  _A utility is required to update this report within 30_  
+| _days of finalizing a change to any of the programs or plans_  
+| _described in (1) or (2)._  
+|  _(b)_ _____Not later than May 1st of each year, beginning on May 1,_  
+| _2020, each utility owning or operating transmission or distribution_  
+| _assets shall complete a report, as prescribed by the Public Utility_  
+| _Commission of Texas, which includes, but is not limited to the_  
+| _following:_  
+|  _(1)_ _____percentage of transmission and/or distribution_  
+| _system or assets inspected in the prior calendar year;_  
+|  _(2)_ _____percentage of transmission and/or distribution_  
+| _system anticipated to by inspected in the current calendar year;_  
+|  _(3)_ _____number of incidents reported by employees or the_  
+| _public regarding transmission or distribution assets that are not_  
+| _in compliance with the National Electric Safety Code, in whatever_  
+| _manner they are reported;_  
+|  _(4)_ _____if the utility is aware of any portion of its_  
+| _transmission or distribution system that is not in compliance with_  
+| _the National Electric Safety Code;_  
+|  _(5)_ _____if the utility is aware of a violation of any_  
+| _easement agreements, including but not limited to easement_  
+| _agreements with the Army Corps of Engineers; and_  
+|  _(6)_ _____the number of fatalities or injuries resulting_  
+| _from transmission or distribution assets that are out of compliance_  
+| _with the National Electric Safety Code or any easement agreement._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

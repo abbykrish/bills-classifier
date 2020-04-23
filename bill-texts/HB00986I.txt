@@ -1,0 +1,38 @@
+| 86R4361 GRM-D  
+---|---  
+|  By: Price | H.B. No. 986  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the deployment of advanced metering and meter  
+| information networks by certain non-ERCOT utilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 39.402, Utilities Code, is amended by  
+| adding Subsections (e) and (f) to read as follows:  
+|  _(e)_ _____Notwithstanding Subsection (a), an electric utility_  
+| _subject to this subchapter that elects to deploy advanced metering_  
+| _and meter information networks may recover reasonable and necessary_  
+| _costs incurred in deploying advanced metering and meter information_  
+| _networks. An electric utility that elects to deploy advanced_  
+| _metering or meter information networks is subject to commission_  
+| _rules adopted under Sections 39.107(h) and (k). The commission_  
+| _shall ensure that any deployment plan approved under this section_  
+| _and any related customer surcharge:_  
+|  _(1)_ _____are not applicable to customer accounts that_  
+| _receive service at transmission voltage; and_  
+|  _(2)_ _____are consistent with commission rules related to_  
+| _advanced metering systems regarding:_  
+|  _(A) customer protections;_  
+|  _(B) data security, privacy, and ownership; and_  
+|  _(C)_ _____options given consumers to continue to_  
+| _receive service through a non-advanced meter._  
+|  _(f)_ _____An electric utility subject to this subchapter that_  
+| _elects to deploy an advanced meter information network shall deploy_  
+| _the network as rapidly as practicable to allow customers to better_  
+| _manage energy use and control costs._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

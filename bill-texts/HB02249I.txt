@@ -1,0 +1,46 @@
+| 86R5787 SLB-F  
+---|---  
+|  By: Lucio III | H.B. No. 2249  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to regulation of production of wells for retail public  
+| utilities by a groundwater conservation district.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 36.116(c), Water Code, is amended to  
+| read as follows:  
+|  (c) In regulating the production of groundwater based on  
+| tract size or acreage, a district _shall_ [ ~~may~~ ] consider the [
+~~service~~  
+|  ~~needs or~~ ] service area of a retail public utility _that serves the_  
+| _territory where production is regulated by the district in_  
+| _accordance with this section and Section 36.1161_.  _To determine the_  
+| _service area of a retail public utility for consideration under_  
+| _this section, a district shall determine the number of acres in the_  
+| _retail public utility's service area that overlie the aquifer from_  
+| _which a completed or proposed well owned by the retail public_  
+| _utility will produce groundwater and deduct from that number the_  
+| _number of acres in that portion of the service area that the_  
+| _district has permitted to landowners._ ___On the anniversary of the_  
+| _date the permit was issued to the retail public utility, the_  
+| _district shall adjust the permit held by the retail public utility_  
+| _to account for the number of acres permitted to landowners in that_  
+| _portion of the service area since the most recent determination of_  
+| _acreage of the service area._ For the purposes of this subsection,  
+| "retail public utility" _has_ [ ~~shall have~~ ] the meaning _assigned_  
+| [ ~~provided~~ ] by Section 13.002.  
+|  SECTION 2. Subchapter D, Chapter 36, Water Code, is amended  
+| by adding Section 36.1161 to read as follows:  
+|  _Sec._ ___36.1161._ _____REGULATION OF PRODUCTION BY RETAIL PUBLIC_  
+| _UTILITIES. (a)_ ___In this section, "retail public utility" has the_  
+| _meaning assigned by Section 13.002._  
+|  _(b)_ _____This section applies only to a district that regulates_  
+| _production under Section 36.116 based on tract size or acreage._  
+|  _(c)_ _____A district may not deny a permit for the production of_  
+| _groundwater to a landowner because of the location of a well owned_  
+| _by a retail public utility._  
+|  _(d)_ _____A retail public utility may not file a protest or_  
+| _objection to a landowner's application for a permit if the proposed_  
+| _well is located in the retail public utility's service area._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

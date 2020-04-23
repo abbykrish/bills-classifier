@@ -1,0 +1,298 @@
+| 86R9174 MEW-F  
+---|---  
+|  By: Smithee | H.B. No. 3306  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the disclosure of information concerning the corporate  
+| governance structure of certain insurers and related entities;  
+| providing an administrative penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle B, Title 6, Insurance Code, is amended  
+| by adding Chapter 831 to read as follows:  
+| _CHAPTER 831. CORPORATE GOVERNANCE ANNUAL DISCLOSURE_  
+|  _Sec._ ___831.0001._ _____APPLICABILITY AND PURPOSE. (a)_ ___The purpose_  
+| _of this chapter is to promote the public interest by:_  
+|  _(1)_ _____requiring annual disclosure of an insurer or_  
+| _insurance group's corporate governance structure, policies, and_  
+| _practices to permit the commissioner to gain and maintain an_  
+| _understanding of the insurer's corporate governance framework; and_  
+|  _(2)_ _____providing for the confidential treatment of the_  
+| _corporate governance annual disclosure and related information as_  
+| _the disclosure and related information will contain confidential_  
+| _and sensitive information related to an insurer or insurance_  
+| _group's internal operations and proprietary and trade-secret_  
+| _information which, if made public, could potentially cause the_  
+| _insurer or insurance group competitive harm or disadvantage._  
+|  _(b)_ _____This chapter may not be construed to prescribe or impose_  
+| _corporate governance standards and internal procedures beyond that_  
+| _which is required under applicable state corporate law._  
+|  _(c)_ _____Notwithstanding Subsection (b), this chapter may not be_  
+| _construed to limit the commissioner's authority, or the rights or_  
+| _obligations of third parties, under Chapter 401._  
+|  _(d)_ _____This chapter applies to each insurer domiciled in this_  
+| _state, except that this chapter does not apply to a domestic insurer_  
+| _that is authorized, admitted, or eligible to engage in the business_  
+| _of insurance only in this state. For the purposes of this chapter,_  
+| _an insurer is not considered to be authorized, admitted, or_  
+| _eligible to engage in the business of insurance only in this state_  
+| _if the insurer is a member of an insurance group that writes or_  
+| _assumes insurance in any manner in another state._  
+|  _Sec. 831.0002. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Disclosure" means the confidential corporate_  
+| _governance annual disclosure filed by the insurer or insurance_  
+| _group in accordance with the requirements of this chapter._  
+|  _(2)_ _____"Insurance group" means the insurers and_  
+| _affiliates included within an insurance holding company system as_  
+| _described by Section 823.006._  
+|  _(3)_ _____"Insurer" has the meaning assigned by Section_  
+| _823.002._ ___The term includes a health maintenance organization_  
+| _authorized to engage in business under Chapter 843._  
+|  _Sec._ ___831.0003._ _____DISCLOSURE REQUIRED. (a)_ ___Except as_  
+| _provided by Subsection (b), an insurer, or the insurance group of_  
+| _which the insurer is a member, shall, not later than June 1 of each_  
+| _calendar year, submit to the commissioner a corporate governance_  
+| _annual disclosure that contains the information described by_  
+| _Section 831.0008(c)._  
+|  _(b)_ _____Notwithstanding any request from the commissioner under_  
+| _Subsection (d), an insurer that is a member of an insurance group_  
+| _shall submit the report required by Subsection (a) to the_  
+| _commissioner of the lead state for the insurance group, in_  
+| _accordance with the laws of the lead state, as determined by the_  
+| _procedures adopted by the National Association of Insurance_  
+| _Commissioners._  
+|  _(c)_ _____The disclosure must include a signature of the insurer_  
+| _or insurance group's chief executive officer or corporate secretary_  
+| _attesting to the best of that individual's belief and knowledge_  
+| _that the insurer has implemented the corporate governance practices_  
+| _described in the disclosure and that a copy of the disclosure has_  
+| _been provided to the insurer's board of directors or the_  
+| _appropriate committee of the insurer's board of directors._  
+|  _(d)_ _____An insurer not otherwise required to submit a disclosure_  
+| _under this chapter shall submit a disclosure on the commissioner's_  
+| _request._  
+|  _Sec._ ___831.0004._ _____LEVEL OF REPORTING. (a)_ ___For purposes of_  
+| _completing the disclosure under Section 831.0003, an insurer or_  
+| _insurance group may provide information regarding corporate_  
+| _governance at the ultimate controlling parent level, an_  
+| _intermediate holding company level, or the individual legal entity_  
+| _level, depending on how the insurer or insurance group has_  
+| _structured the insurer's or insurance group's system of corporate_  
+| _governance._  
+|  _(b)_ _____An insurer or insurance group is encouraged to make the_  
+| _disclosure:_  
+|  _(1)_ _____at the level at which the insurer's or insurance_  
+| _group's risk appetite is determined;_  
+|  _(2)_ _____at the level at which the earnings, capital,_  
+| _liquidity, operations, and reputation of the insurer are overseen_  
+| _collectively and at which the supervision of those factors are_  
+| _coordinated and exercised; or_  
+|  _(3)_ _____at the level at which legal liability for failure_  
+| _of general corporate governance duties would be placed._  
+|  _(c)_ _____If an insurer or insurance group determines the level of_  
+| _reporting based on the criteria described by Subsection (b), the_  
+| _insurer or insurance group shall indicate which of the three_  
+| _criteria was used to determine the level of reporting and explain_  
+| _any subsequent changes in level of reporting._  
+|  _Sec._ ___831.0005._ _____REVIEW OF DISCLOSURE; REQUEST FOR ADDITIONAL_  
+| _INFORMATION. The review of the disclosure and any additional_  
+| _requests for information shall be made through the lead state as_  
+| _determined by the procedures adopted by the National Association of_  
+| _Insurance Commissioners described by Section 831.0003(b)._  
+|  _Sec._ ___831.0006._ _____SUBSTANTIALLY SIMILAR INFORMATION. An_  
+| _insurer that provides information substantially similar to the_  
+| _information required by this chapter in other documents provided to_  
+| _the commissioner, including proxy statements filed in conjunction_  
+| _with Form B requirements or other state or federal filings provided_  
+| _to the department, is not required to duplicate that information in_  
+| _the disclosure but is required only to cross-reference the document_  
+| _in which the information is included._  
+|  _Sec._ ___831.0007._ _____PART OF EXAMINATION PROCESS. The disclosure_  
+| _and any additional information requested by the commissioner and_  
+| _provided to the department as described by this chapter is_  
+| _considered part of the process of examination of insurers under_  
+| _this code, including Chapter 401._  
+|  _Sec._ ___831.0008._ _____CONTENTS OF DISCLOSURE. (a)_ ___An insurer or_  
+| _insurance group has discretion over the responses to the disclosure_  
+| _inquiries, provided the disclosure must contain the material_  
+| _information necessary to permit the commissioner to gain an_  
+| _understanding of the insurer's or insurance group's corporate_  
+| _governance structure, policies, and practices._  
+|  _(b)_ _____The commissioner may request additional information_  
+| _that the commissioner considers material and necessary to provide_  
+| _the commissioner with a clear understanding of:_  
+|  _(1) the corporate governance policies; and_  
+|  _(2)_ _____the reporting, information system, or controls_  
+| _implementing those policies._  
+|  _(c)_ _____Notwithstanding Subsections (a) and (b), the disclosure_  
+| _shall be prepared consistent with rules adopted by the_  
+| _commissioner. Documentation and supporting information must be_  
+| _maintained and made available on examination or on request of the_  
+| _commissioner._  
+|  _Sec._ ___831.0009._ _____CONFIDENTIALITY. (a)_ ___Documents, materials,_  
+| _or other information, including a disclosure, in the possession or_  
+| _control of the department that is obtained by, created by, or_  
+| _disclosed to the commissioner or any other person under this_  
+| _chapter is confidential and privileged and is:_  
+|  _(1)_ _____not subject to disclosure under Chapter 552,_  
+| _Government Code;_  
+|  _(2) not subject to subpoena; and_  
+|  _(3)_ _____not subject to discovery or admissible in evidence_  
+| _in any private civil action._  
+|  _(b)_ _____Documents, materials, or other information, including a_  
+| _disclosure, in the possession or control of the department that is_  
+| _obtained by, created by, or disclosed to the commissioner or any_  
+| _other person under this chapter is recognized by this state as being_  
+| _proprietary and to contain trade secrets._  
+|  _(c)_ _____The commissioner may use the documents, materials, or_  
+| _other information described in this section to further any_  
+| _regulatory or legal action brought as part of the commissioner's_  
+| _official duties._ ___The commissioner may not otherwise make the_  
+| _documents, materials, or other information public without the prior_  
+| _written consent of the insurer._ ___Nothing in this section may be_  
+| _construed to require written consent of the insurer before the_  
+| _commissioner may share or receive documents, materials, or other_  
+| _information under Subsection (e)._  
+|  _(d)_ _____The commissioner and any other person who receives_  
+| _documents, materials, or other information under this chapter,_  
+| _through examination, or otherwise under any other law, while acting_  
+| _under the authority of the commissioner, or with whom the_  
+| _documents, materials, or other information is shared under this_  
+| _chapter may not testify or be required to testify in any private_  
+| _civil action concerning any documents, materials, or other_  
+| _information subject to Subsection (a) or (b)._  
+|  _(e)_ _____In order to assist in the performance of the_  
+| _commissioner's regulatory duties, the commissioner may, on_  
+| _request, share documents, materials, or other information,_  
+| _including confidential and privileged documents, materials, or_  
+| _information subject to Subsection (a) or (b) and proprietary and_  
+| _trade-secret documents, materials, or information, with:_  
+|  _(1)_ _____other state, federal, and international financial_  
+| _regulatory agencies, including members of a supervisory college_  
+| _described by Section 823.0145;_  
+|  _(2)_ _____the National Association of Insurance_  
+| _Commissioners; and_  
+|  _(3) a third-party consultant under Section 831.0012._  
+|  _(f)_ _____Before the commissioner may share information under_  
+| _this section, the recipient shall:_  
+|  _(1)_ _____agree in writing to maintain the confidential and_  
+| _privileged status of the documents, materials, or other information_  
+| _shared under this section; and_  
+|  _(2)_ _____verify in writing the recipient's legal authority_  
+| _to maintain the confidential and privileged status of that_  
+| _information._  
+|  _(g)_ _____In order to assist in the performance of the_  
+| _commissioner's regulatory duties, the commissioner may receive_  
+| _documents, materials, or other governance-related information,_  
+| _including confidential and privileged documents, materials, or_  
+| _information and proprietary and trade-secret documents, materials,_  
+| _or information from:_  
+|  _(1)_ _____regulatory officials of other state, federal, and_  
+| _international financial regulatory agencies, including members of_  
+| _a supervisory college described by Section 823.0145; and_  
+|  _(2)_ _____the National Association of Insurance_  
+| _Commissioners._  
+|  _(h)_ _____The commissioner shall maintain as confidential or_  
+| _privileged any documents, materials, or information received under_  
+| _Subsection (g) with notice or the understanding that it is_  
+| _confidential or privileged under the laws of the jurisdiction that_  
+| _is the source of the document, material, or information._  
+|  _Sec._ ___831.0010._ _____AUTHORITY OF COMMISSIONER NOT AFFECTED. The_  
+| _sharing of documents, materials, or other information by the_  
+| _commissioner under this chapter does not constitute a delegation of_  
+| _regulatory authority or rulemaking, and the commissioner is solely_  
+| _responsible for the administration, execution, and enforcement of_  
+| _the provisions of this chapter._  
+|  _Sec._ ___831.0011._ _____PRIVILEGE AND CONFIDENTIALITY NOT WAIVED. A_  
+| _waiver of an applicable privilege or claim of confidentiality in_  
+| _documents, materials, or other information, including proprietary_  
+| _and trade-secret materials, does not occur as a result of_  
+| _disclosure of the document, materials, or information to the_  
+| _commissioner under this chapter or as a result of sharing as_  
+| _authorized by this chapter._  
+|  _Sec._ ___831.0012._ _____NATIONAL ASSOCIATION OF INSURANCE_  
+| _COMMISSIONERS AND THIRD-PARTY CONSULTANTS. (a) The commissioner_  
+| _may retain, at the insurer's expense, third-party consultants,_  
+| _including attorneys, actuaries, accountants, and other experts not_  
+| _otherwise part of the commissioner's staff as may be reasonably_  
+| _necessary to assist the commissioner in reviewing the disclosure_  
+| _and related information or the insurer's compliance with this_  
+| _chapter._  
+|  _(b)_ _____A person retained under Subsection (a) is under the_  
+| _direction and control of the commissioner and acts in a purely_  
+| _advisory capacity._  
+|  _(c)_ _____The National Association of Insurance Commissioners and_  
+| _a third-party consultant are subject to the same confidentiality_  
+| _standards and requirements as the commissioner._  
+|  _(d)_ _____As part of the retention process, a third-party_  
+| _consultant shall verify to the commissioner, with notice to the_  
+| _insurer, that the consultant:_  
+|  _(1) is free of a conflict of interest; and_  
+|  _(2) has internal procedures in place to:_  
+|  _(A) monitor compliance with a conflict; and_  
+|  _(B)_ _____comply with the confidentiality standards_  
+| _and requirements of this chapter._  
+|  _(e)_ _____A written agreement with the National Association of_  
+| _Insurance Commissioners or a third-party consultant governing_  
+| _sharing and use of information provided under this chapter must_  
+| _expressly require the written consent of the insurer before_  
+| _information provided under this chapter is made public and contain:_  
+|  _(1)_ _____specific procedures and protocols for maintaining_  
+| _the confidentiality and security of disclosure-related information_  
+| _shared with the National Association of Insurance Commissioners or_  
+| _the third-party consultant under this chapter;_  
+|  _(2)_ _____procedures and protocols for the sharing by the_  
+| _National Association of Insurance Commissioners of_  
+| _disclosure-related documents, materials, or other information only_  
+| _with other state regulators from states in which an affected_  
+| _insurance group has domiciled insurers, including a requirement_  
+| _that the recipient agrees in writing to maintain the confidential_  
+| _and privileged status of the shared documents, materials, or other_  
+| _information and has verified in writing the recipient's legal_  
+| _authority to maintain the confidential and privileged status of_  
+| _that information;_  
+|  _(3)_ _____a provision specifying that ownership of_  
+| _disclosure-related documents, materials, or other information_  
+| _shared with the National Association of Insurance Commissioners or_  
+| _a third-party consultant remains with the department and the use of_  
+| _the information by the National Association of Insurance_  
+| _Commissioners or third-party consultant is subject to the direction_  
+| _of the commissioner;_  
+|  _(4)_ _____a provision that prohibits the National_  
+| _Association of Insurance Commissioners or third-party consultant_  
+| _from storing disclosure-related documents, materials, or other_  
+| _information shared under this chapter in a permanent database after_  
+| _the underlying analysis is completed;_  
+|  _(5)_ _____a provision requiring the National Association of_  
+| _Insurance Commissioners or third-party consultant to provide_  
+| _prompt notice to the commissioner and to the insurer or insurance_  
+| _group regarding any subpoena, request for disclosure, or request_  
+| _for production of the insurer's disclosure-related documents,_  
+| _materials, or other information; and_  
+|  _(6)_ _____a requirement that the National Association of_  
+| _Insurance Commissioners or third-party consultant consents to_  
+| _intervention by an insurer in any judicial or administrative action_  
+| _in which the National Association of Insurance Commissioners or_  
+| _third-party consultant may be required to disclose confidential_  
+| _information about the insurer shared with the National Association_  
+| _of Insurance Commissioners or third-party consultant under this_  
+| _chapter._  
+|  _Sec._ ___831.0013._ _____ADMINISTRATIVE PENALTY. (a)_ ___An insurer_  
+| _that, without good cause, fails to timely file the disclosure as_  
+| _required by this chapter commits a violation subject to an_  
+| _administrative penalty under Chapter 84._  
+|  _(b)_ _____Each day the violation continues is a separate violation_  
+| _for purposes of this section._  
+|  _(c)_ _____The commissioner may reduce the amount of the penalty_  
+| _assessed under this section if the insurer demonstrates to the_  
+| _commissioner that the imposition of the penalty would constitute a_  
+| _financial hardship to the insurer._  
+|  _Sec._ ___831.0014._ _____RULES. (a)_ ___The commissioner shall adopt_  
+| _rules as necessary to enforce this chapter._  
+|  _(b)_ _____A rule adopted under Subsection (a) is not subject to_  
+| _Section 2001.0045, Government Code._  
+|  SECTION 2. An insurer is not required to file a corporate  
+| governance annual disclosure under Chapter 831, Insurance Code, as  
+| added by this Act, before June 1, 2020.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,93 @@
+| 86R2569 CJC-F  
+---|---  
+|  By: Capriglione | H.B. No. 1096  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the modernization of state agency information  
+| technology systems.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter G, Chapter 403, Government Code, is  
+| amended by adding Section 403.1105 to read as follows:  
+|  _Sec._ ___403.1105._ _____STATE TECHNOLOGY MODERNIZATION ACCOUNT. (a)_  
+| _In this section:_  
+|  _(1)_ _____"Account" means the state technology_  
+| _modernization account._  
+|  _(2)_ _____"Cloud computing service" has the meaning assigned_  
+| _by Section 2157.007._  
+|  _(3)_ _____"Information technology system" means any_  
+| _equipment or interconnected system or subsystem of equipment used_  
+| _by a state agency, or a person under a contract with a state agency_  
+| _if the contract requires use of the equipment, to acquire, store,_  
+| _analyze, evaluate, manipulate, manage, move, control, display,_  
+| _switch, interchange, transmit, or receive data or other_  
+| _information. The term:_  
+|  _(A)_ _____includes a computer, ancillary computer_  
+| _equipment such as imaging peripherals and input, output, and_  
+| _storage devices necessary for security and surveillance,_  
+| _peripheral equipment designed to be controlled by the central_  
+| _processing unit of a computer, software and firmware and similar_  
+| _procedures, and services, including support services, and related_  
+| _resources; and_  
+|  _(B)_ _____does not include equipment acquired by a_  
+| _contractor incidental to a state contract._  
+|  _(4)_ _____"Legacy information technology system" means an_  
+| _information technology system that is operated with obsolete or_  
+| _inefficient hardware or software technology._  
+|  _(5)_ _____"State agency" has the meaning assigned by Section_  
+| _2254.151._  
+|  _(b)_ _____The state technology modernization account is a_  
+| _dedicated account in the general revenue fund._  
+|  _(c) The account consists of:_  
+|  _(1)_ _____money appropriated, credited, or transferred to_  
+| _the account by the legislature;_  
+|  _(2)_ _____any federal money appropriated, credited, or_  
+| _transferred to the account;_  
+|  _(3)_ _____money deposited to the account by the comptroller_  
+| _in the manner prescribed by Subsection (e); and_  
+|  _(4)_ _____interest and other earnings earned on deposits and_  
+| _investments of money in the account._  
+|  _(d)_ _____Except as provided by Subsection (f), money in the_  
+| _account may be appropriated to a state agency only for the purposes_  
+| _of:_  
+|  _(1)_ _____replacing the agency's information technology_  
+| _systems;_  
+|  _(2)_ _____transitioning the agency's legacy information_  
+| _technology systems to a cloud computing service;_  
+|  _(3)_ _____assisting the agency's efforts to provide_  
+| _adequate, risk-based, and cost-effective information technology_  
+| _responses to threats to the agency's information security; and_  
+|  _(4)_ _____subject to the approval of the chief information_  
+| _officer of the agency to which the money is appropriated,_  
+| _reimbursing the account for any money appropriated to the agency_  
+| _that exceeds the amount of money needed by the agency for the_  
+| _purposes described by Subdivisions (1)-(3)._  
+|  _(e)_ _____At the end of each state fiscal year, on the written_  
+| _request of a state agency, the comptroller shall deposit to the_  
+| _credit of the account the unexpended balance of any money_  
+| _appropriated to the agency for that state fiscal year that is_  
+| _budgeted by the agency for information technology services or_  
+| _cybersecurity purposes._  
+|  _(f)_ _____The comptroller shall separately account for the amount_  
+| _of money deposited to the credit of the account at the request of_  
+| _each state agency under Subsection (e). Money deposited to the_  
+| _credit of the account under Subsection (e) and any interest and_  
+| _other earnings on that money may be appropriated only to the state_  
+| _agency for which the comptroller deposited the money to the account_  
+| _and may be used by the agency only for a purpose described by_  
+| _Subsection (d)._  
+|  _(g)_ _____Any money deposited to the credit of the account at the_  
+| _request of a state agency under Subsection (e) that is not_  
+| _appropriated to the agency within two years from the date the money_  
+| _is deposited is no longer dedicated for the purposes described by_  
+| _Subsection (d), and the comptroller shall make that money available_  
+| _in the general revenue fund to be used in accordance with_  
+| _legislative appropriation._  
+|  _(h)_ _____A state agency that receives an appropriation from the_  
+| _account may collaborate with one or more other state agencies that_  
+| _receive such an appropriation to purchase information technology_  
+| _systems that may be shared between the agencies._  
+|  _(i)_ _____The comptroller may adopt rules to implement and_  
+| _administer this section._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

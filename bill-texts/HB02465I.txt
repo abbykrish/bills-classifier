@@ -1,0 +1,103 @@
+| 86R9066 TSR-D  
+---|---  
+|  By: Gutierrez | H.B. No. 2465  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the retirement eligibility of certain peace officers  
+| who are members of the Teacher Retirement System of Texas.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 824.202, Government Code, is amended by  
+| amending Subsections (a-2), (b-2), and (d-2) and adding Subsections  
+| (a-3), (b-3), and (d-3) to read as follows:  
+|  (a-2) _Except as provided by Subsection (a-3), this_ [ ~~This~~ ]  
+| subsection applies only to a person who does not have at least five  
+| years of service credit in the retirement system on or before August  
+| 31, 2014, or who becomes a member of the retirement system on or  
+| after September 1, 2014. A member subject to this subsection is  
+| eligible to retire and receive a standard service retirement  
+| annuity if:  
+|  (1) the member is at least 65 years old and has at  
+| least five years of service credit in the retirement system; or  
+|  (2) the member is at least 62 years old and has at  
+| least five years of service credit in the retirement system and the  
+| sum of the member's age and amount of service credit in the  
+| retirement system equals the number 80.  
+|  _(a-3)_ _____Subsection (a-2) does not apply to a member who is a_  
+| _peace officer licensed under Subchapter G, Chapter 1701,_  
+| _Occupations Code, and who is employed and commissioned as a peace_  
+| _officer under Section 37.081 or 51.203, Education Code, and_  
+| _assigned to the duty of a peace officer at the time the member_  
+| _retires._ ___A person described by this subsection is subject to_  
+| _Subsection (a) or (a-1), as appropriate._ ___This subsection does not_  
+| _apply to a member who is employed as security personnel under_  
+| _Section 37.081, Education Code, and assigned to the duty of_  
+| _security personnel at the time the member retires._  
+|  (b-2) _Except as provided by Subsection (b-3), this_ [ ~~This~~ ]  
+| subsection applies only to a person who does not have at least five  
+| years of service credit in the retirement system on or before August  
+| 31, 2014, or who becomes a member of the retirement system on or  
+| after September 1, 2014. If a member subject to this subsection is  
+| at least 55 years old and has at least five years of service credit  
+| in the retirement system, but does not meet the requirements under  
+| Subsection (d-2), the member is eligible to retire and receive a  
+| service retirement annuity reduced from the standard service  
+| retirement annuity available under Subsection (a-2)(1), to a  
+| percentage derived from the following table:  
+|  | Age at date of retirement | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 |
+64 | 65  
+---|---|---|---|---|---|---|---|---|---|---|---  
+|  | Age at date of retirement | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 |
+64 | 65  
+---|---|---|---|---|---|---|---|---|---|---|---  
+|  | Percentage of standard annuity receivable | 47% | 51% | 55% | 59% | 63% |
+67% | 73% | 80% | 87% | 93% | 100%  
+---|---|---|---|---|---|---|---|---|---|---|---  
+|  | Percentage of standard annuity receivable | 47% | 51% | 55% | 59% | 63% |
+67% | 73% | 80% | 87% | 93% | 100%  
+---|---|---|---|---|---|---|---|---|---|---|---  
+|  | Percentage of standard annuity receivable | 47% | 51% | 55% | 59% | 63% |
+67% | 73% | 80% | 87% | 93% | 100%  
+---|---|---|---|---|---|---|---|---|---|---|---  
+|  _(b-3)_ _____Subsection (b-2) does not apply to a member who is a_  
+| _peace officer licensed under Subchapter G, Chapter 1701,_  
+| _Occupations Code, and who is employed and commissioned as a peace_  
+| _officer under Section 37.081 or 51.203, Education Code, and_  
+| _assigned to the duty of a peace officer at the time the member_  
+| _retires._ ___A person described by this subsection is subject to_  
+| _Subsection (b) or (b-1), as appropriate._ ___This subsection does not_  
+| _apply to a member who is employed as security personnel under_  
+| _Section 37.081, Education Code, and assigned to the duty of_  
+| _security personnel at the time the member retires._  
+|  (d-2) _Except as provided by Subsection (d-3), this_ [ ~~This~~ ]  
+| subsection applies only to a person who does not have at least five  
+| years of service credit in the retirement system on or before August  
+| 31, 2014, or who becomes a member of the retirement system on or  
+| after September 1, 2014. If the sum of the member's age and amount  
+| of service credit in the retirement system equals the number 80,  
+| with at least five years of service credit, or if the member has at  
+| least 30 years of service credit in the retirement system, the  
+| member is eligible to retire regardless of age and receive a service  
+| retirement annuity consisting of the standard service retirement  
+| annuity available under Subsection (a-2)(2) decreased by five  
+| percent for each year of age under 62 years.  
+|  _(d-3)_ _____Subsection (d-2) does not apply to a member who is a_  
+| _peace officer licensed under Subchapter G, Chapter 1701,_  
+| _Occupations Code, and who is employed and commissioned as a peace_  
+| _officer under Section 37.081 or 51.203, Education Code, and_  
+| _assigned to the duty of a peace officer at the time the member_  
+| _retires._ ___A person described by this subsection is subject to_  
+| _Subsection (d) or (d-1), as appropriate._ ___This subsection does not_  
+| _apply to a member who is employed as security personnel under_  
+| _Section 37.081, Education Code, and assigned to the duty of_  
+| _security personnel at the time the member retires._  
+|  SECTION 2. Section 824.202, Government Code, as amended by  
+| this Act, applies only to a peace officer who is a member of the  
+| Teacher Retirement System of Texas and who retires on or after the  
+| effective date of this Act. A peace officer who is a member of the  
+| Teacher Retirement System of Texas and who retires before the  
+| effective date of this Act is subject to the law in effect on the  
+| date the peace officer retired, and that law is continued in effect  
+| for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

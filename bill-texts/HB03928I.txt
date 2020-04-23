@@ -1,0 +1,393 @@
+| 86R11066 JRJ-F  
+---|---  
+|  By: Neave | H.B. No. 3928  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Texas Redistricting Commission.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 42.032, Election Code, is amended to  
+| read as follows:  
+|  Sec. 42.032. REDISTRICTING: BOUNDARY CHANGES. If changes  
+| in county election precinct boundaries are necessary to give effect  
+| to a redistricting plan under Article III, Section _28a_ [ ~~28~~ ], [
+~~of~~  
+|  ~~the~~ ] Texas Constitution, each commissioners court shall order the  
+| changes before October 1 of the year in which the redistricting is  
+| done.  
+|  SECTION 2. The heading to Title 5, Government Code, is  
+| amended to read as follows:  
+| TITLE 5. OPEN GOVERNMENT; ETHICS _; REDISTRICTING_  
+|  SECTION 3. Title 5, Government Code, is amended by adding  
+| Subtitle C to read as follows:  
+| _SUBTITLE C. REDISTRICTING_  
+| _CHAPTER 581. TEXAS REDISTRICTING COMMISSION_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 581.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Census year," "commission," "majority party,"_  
+| _and "minority party"_ ___have the meanings assigned by Section 28b(a),_  
+| _Article III, Texas Constitution._  
+|  _(2)_ _____"Immediate family member" means a person's parent,_  
+| _child, sibling, in-law, or other individual with whom the person_  
+| _has a bona fide family relationship established through blood or_  
+| _legal relation._  
+|  _Sec._ ___581.002._ _____COMPUTATION OF TIME. For purposes of this_  
+| _chapter, a day means a calendar day, except that if the final day of_  
+| _a period within which an action may or must be performed is a_  
+| _Saturday, Sunday, national holiday, or state holiday, the period is_  
+| _extended to the next day that is not a Saturday, Sunday, or holiday._  
+|  _Sec._ ___581.003._ _____RETALIATION FOR ATTENDING COMMISSION MEETING_  
+| _PROHIBITED. Notwithstanding any other law, an employer may not_  
+| _discharge, threaten to discharge, intimidate, coerce, or retaliate_  
+| _against an employee because of the employee's attendance or_  
+| _scheduled attendance at any meeting of the commission._  
+| _SUBCHAPTER B. SELECTION OF COMMISSION MEMBERS_  
+|  _Sec._ ___581.051._ _____APPLICATIONS. (a) Not later than January 1_  
+| _of each census year, the state auditor shall initiate an_  
+| _application process for commission members._  
+|  _(b)_ _____The process must be open to all registered voters of_  
+| _this state and promote a diverse and qualified applicant pool._  
+|  _Sec._ ___581.052._ _____APPLICANT REVIEW PANEL. (a) The state_  
+| _auditor shall establish an applicant review panel consisting of_  
+| _three interested citizens to screen applicants. The state auditor_  
+| _shall randomly draw the names of three interested citizens from a_  
+| _pool consisting of all citizens who have applied under procedures_  
+| _established by the state auditor to serve on the applicant review_  
+| _panel. The state auditor shall draw until the names of three_  
+| _interested citizens have been drawn, including:_  
+|  _(1)_ _____one who would qualify as a majority party member of_  
+| _the commission under Section 28b(e)(1), Article III, Texas_  
+| _Constitution;_  
+|  _(2)_ _____one who would qualify as a minority party member of_  
+| _the commission under Section 28b(e)(2), Article III, Texas_  
+| _Constitution; and_  
+|  _(3)_ _____one who would qualify as an independent member of_  
+| _the commission under Section 28b(e)(3), Article III, Texas_  
+| _Constitution._  
+|  _(b)_ _____After the drawing under Subsection (a), the state_  
+| _auditor shall notify the three citizens whose names have been drawn_  
+| _that they have been selected to serve on the panel. If any of the_  
+| _three citizens decline to serve on the panel, the state auditor_  
+| _shall resume the random drawing until three citizens who meet the_  
+| _requirements of Subsection (a) have agreed to serve on the panel._  
+|  _(c)_ _____An individual may not serve on the panel if the_  
+| _individual has a conflict of interest described by Section 581.053._  
+|  _(d)_ _____A member of the panel may not receive compensation but_  
+| _is entitled to reimbursement of the travel expenses incurred by the_  
+| _member while conducting the business of the panel, as provided in_  
+| _the General Appropriations Act. A member's residence is considered_  
+| _to be the member's place of employment for purposes of_  
+| _reimbursement of expenses._  
+|  _Sec._ ___581.053._ _____CONFLICTS OF INTEREST. (a) The state auditor_  
+| _shall remove an applicant with a conflict of interest from the_  
+| _applicant pool, including an applicant:_  
+|  _(1)_ _____who at any point during the 10 years preceding the_  
+| _application date:_  
+|  _(A)_ _____was appointed or elected to, or was a_  
+| _candidate for, federal or state office;_  
+|  _(B)_ _____served as an officer, employee, or paid_  
+| _consultant of a political party or of the campaign committee of a_  
+| _candidate for elective federal or state office;_  
+|  _(C)_ _____served as an elected or appointed member of a_  
+| _political party's executive committee;_  
+|  _(D) was a registered lobbyist;_  
+|  _(E)_ _____served as a paid staff member for Congress,_  
+| _the legislature, or the State Board of Education; or_  
+|  _(F)_ _____contributed at least $2,000 or the amount_  
+| _provided by Subsection (b) to any congressional, state, or local_  
+| _candidate for elective public office in any year;_  
+|  _(2)_ _____with an immediate family member who would be_  
+| _disqualified as an applicant under Subdivision (1); or_  
+|  _(3)_ _____who is an employee of, a consultant to, party to a_  
+| _contract with, or an immediate family member of the governor, a_  
+| _member of the legislature, a member of the State Board of Education,_  
+| _or a member of Congress._  
+|  _(b)_ _____Beginning in 2029, on January 1 of each year ending in_  
+| _the numeral 9, the contribution amount prescribed by Subsection_  
+| _(a)(1)(F) is increased or decreased by an amount equal to the amount_  
+| _prescribed by that subsection on December 31 of the preceding year_  
+| _multiplied by the percentage increase or decrease during the_  
+| _preceding decade in the Consumer Price Index for All Urban_  
+| _Consumers (CPI-U), U.S. City Average, as published by the United_  
+| _States Bureau of Labor Statistics or its successor in function._  
+|  _Sec._ ___581.054._ _____SELECTION OF APPLICANT SUBPOOLS. (a) After_  
+| _removing individuals with conflicts of interest from the applicant_  
+| _pool under Section 581.053, the state auditor shall, not later than_  
+| _August 1 of each census year, publicize the names of individuals in_  
+| _the applicant pool._  
+|  _(b)_ _____From the applicant pool described by Subsection (a), the_  
+| _applicant review panel shall select:_  
+|  _(1)_ _____a majority subpool consisting of 20 of the most_  
+| _qualified applicants who would qualify as majority party members_  
+| _under Section 28b(e)(1), Article III, Texas Constitution;_  
+|  _(2)_ _____a minority subpool consisting of 20 of the most_  
+| _qualified applicants who would qualify as minority party members_  
+| _under Section 28b(e)(2), Article III, Texas Constitution; and_  
+|  _(3)_ _____an independent subpool consisting of 20 of the_  
+| _most qualified applicants who would qualify as independent members_  
+| _under Section 28b(e)(3), Article III, Texas Constitution._  
+|  _(c)_ _____The applicant review panel shall select the members of_  
+| _the applicant subpools based on relevant analytical skills, ability_  
+| _to be impartial, and appreciation for this state's diverse_  
+| _demographics and geography._  
+|  _(d)_ _____Not later than October 1 of each census year, the_  
+| _applicant review panel shall present the members of the applicant_  
+| _subpools to the caucus leaders of the majority party and minority_  
+| _party of each house of the legislature as described by Section_  
+| _581.055._  
+|  _(e)_ _____Before presenting the applicant subpools as provided by_  
+| _Subsection (d), a member of the applicant review panel may not_  
+| _communicate with:_  
+|  _(1)_ _____a member, or a representative of a member, of the_  
+| _senate, the house of representatives, the State Board of Education,_  
+| _or Congress about any matter related to the selection process; or_  
+|  _(2) a member of the applicant pool._  
+|  _Sec._ ___581.055._ _____STRIKES BY CAUCUS LEADERS. (a) Not later_  
+| _than November 15 of each census year, the caucus leaders of the_  
+| _majority party and minority party of each house of the legislature_  
+| _may each strike up to two applicants from each applicant subpool_  
+| _under Section 581.054(b), for a total of eight possible strikes per_  
+| _applicant subpool._  
+|  _(b)_ _____After all strikes have been made as provided by_  
+| _Subsection (a), the caucus leaders shall present the remaining_  
+| _members of each applicant subpool to the state auditor._  
+|  _Sec._ ___581.056._ _____DRAWING TO SELECT FIRST EIGHT COMMISSION_  
+| _MEMBERS. Not later than November 20 of each census year, the state_  
+| _auditor shall select the first eight members of the commission by_  
+| _randomly drawing:_  
+|  _(1)_ _____three applicants from the majority subpool who_  
+| _were not struck under Section 581.055;_  
+|  _(2)_ _____three applicants from the minority subpool who_  
+| _were not struck under Section 581.055; and_  
+|  _(3)_ _____two applicants from the independent subpool who_  
+| _were not struck under Section 581.055._  
+|  _Sec._ ___581.057._ _____APPOINTMENT OF SECOND SIX COMMISSION MEMBERS._  
+| _(a) Not later than December 31 of each census year, the eight_  
+| _commission members selected under Section 581.056 shall review the_  
+| _remaining names in each applicant subpool and appoint to the_  
+| _commission:_  
+|  _(1)_ _____two remaining applicants from the majority subpool_  
+| _who were not struck under Section 581.055;_  
+|  _(2)_ _____two remaining applicants from the minority subpool_  
+| _who were not struck under Section 581.055; and_  
+|  _(3)_ _____two remaining applicants from the independent_  
+| _subpool who were not struck under Section 581.055._  
+|  _(b)_ _____An appointment under Subsection (a) must be approved by_  
+| _at least five affirmative votes of commission members selected_  
+| _under Section 581.056, including at least two votes of commission_  
+| _members drawn from the majority subpool, at least two votes of_  
+| _commission members drawn from the minority subpool, and at least_  
+| _one vote of a commission member drawn from the independent subpool._  
+|  _(c)_ _____In making appointments under Subsection (a), the_  
+| _commission members shall ensure that the commission reflects this_  
+| _state's diversity, including racial, ethnic, geographic, and_  
+| _gender diversity. However, the legislature does not intend that_  
+| _formulas or specific ratios be applied for this purpose._  
+|  _(d)_ _____Appointments under Subsection (a) shall also be made_  
+| _based on relevant analytical skills and the ability to be_  
+| _impartial._  
+| _SUBCHAPTER C. ORGANIZATION OF COMMISSION_  
+|  _Sec._ ___581.101._ _____OFFICERS. The commission shall select by a_  
+| _vote of at least two-thirds of its members one member as chair and_  
+| _one member as vice chair. The chair and vice chair may not both be_  
+| _majority party members, minority party members, or independent_  
+| _members as described by Section 28b(e), Article III, Texas_  
+| _Constitution._  
+|  _Sec._ ___581.102._ _____REMOVAL OF COMMISSION MEMBER. (a) After_  
+| _having been served written notice and provided with an opportunity_  
+| _for a response, a commission member may be removed by the governor_  
+| _with the concurrence of two-thirds of the members of the senate for_  
+| _substantial neglect of duty, gross misconduct in office, or_  
+| _inability to discharge the duties of office._  
+|  _(b)_ _____A commission member removed for substantial neglect of_  
+| _duty or gross misconduct in office may be referred to the attorney_  
+| _general for criminal investigation or to an appropriate_  
+| _administrative agency for investigation._  
+|  _Sec._ ___581.103._ _____VACANCY. (a) A vacancy on the commission_  
+| _shall be filled, not later than the 30th day after the date the_  
+| _vacancy occurs, by appointment by the commission of a remaining_  
+| _applicant who was not struck under Section 581.055 from the same_  
+| _applicant subpool as the vacating member._  
+|  _(b)_ _____If a vacancy on the commission occurs and no applicant_  
+| _from the same applicant subpool as the vacating member is available_  
+| _for appointment to the commission, the state auditor and an_  
+| _applicant review panel shall solicit and select an appropriate_  
+| _number of new applicants for the applicable subpool using, to the_  
+| _extent practicable, the procedures provided by Sections 581.051,_  
+| _581.052, 581.053, and 581.054(a)-(c) but disregarding the_  
+| _deadlines provided by those sections. The commission shall fill the_  
+| _vacancy as soon as practicable by appointment of one of the new_  
+| _applicants described by this subsection._  
+| _SUBCHAPTER D. COMMISSION POWERS AND DUTIES_  
+|  _Sec._ ___581.151._ _____OPEN MEETINGS. (a) The commission is a_  
+| _governmental body for purposes of Chapter 551._  
+|  _(b)_ _____Notwithstanding Chapter 551, the secretary of state_  
+| _must post notice on the Internet of a meeting of the commission for_  
+| _at least:_  
+|  _(1)_ _____14 days before the date of a meeting, other than a_  
+| _meeting described by Subdivision (2); or_  
+|  _(2)_ _____three days before the date of a meeting held in_  
+| _September of a year following a census year._  
+|  _(c)_ _____Except in a closed meeting authorized by Subchapter D,_  
+| _Chapter 551, a member or employee of the commission may not_  
+| _communicate with or knowingly receive communications about a_  
+| _redistricting matter from anyone outside of an open meeting._  
+|  _Sec._ ___581.152._ _____PUBLIC INFORMATION. (a) The commission is a_  
+| _governmental body for purposes of Chapter 552._  
+|  _(b)_ _____The commission shall post information relating to_  
+| _redistricting and all data considered by the commission in a manner_  
+| _that ensures immediate and widespread public access._  
+|  _Sec._ ___581.153._ _____EMPLOYEES AND CONTRACTORS. (a) The_  
+| _commission may hire employees and hire or contract with legal_  
+| _counsel and consultants as needed in the manner provided by this_  
+| _section._  
+|  _(b)_ _____The commission must make hiring, removal, or_  
+| _contracting decisions for employees, legal counsel, and_  
+| _consultants by the affirmative vote of at least nine members,_  
+| _including at least three majority party members, at least three_  
+| _minority party members, and at least three independent members as_  
+| _described by Section 28b(e), Article III, Texas Constitution._  
+|  _(c)_ _____The commission shall ensure that at least one of the_  
+| _legal counsel hired by the commission has demonstrated extensive_  
+| _experience and expertise in implementing and enforcing the federal_  
+| _Voting Rights Act (52 U.S.C. Sec. 10101 et seq.)._  
+|  _(d)_ _____The commission shall establish for individuals_  
+| _described by Subsection (a):_  
+|  _(1) clear criteria for hiring and removal;_  
+|  _(2) communication protocols; and_  
+|  _(3) a code of conduct._  
+|  _(e)_ _____To the extent practicable, the commission shall avoid_  
+| _selecting employees, legal counsel, or consultants who would be_  
+| _disqualified from commission membership because of a conflict of_  
+| _interest described by Section 581.053(a)._  
+|  _Sec._ ___581.154._ _____PUBLIC OUTREACH. (a) The commission shall_  
+| _establish and implement an open hearing process for public input_  
+| _and deliberation that is subject to public notice and promoted_  
+| _through a thorough outreach program to solicit broad public_  
+| _participation in the redistricting public review process._  
+|  _(b)_ _____The hearing process must include hearings to receive_  
+| _public input before the commission draws any maps and hearings_  
+| _following the drawing and display of any commission maps. In_  
+| _addition, the commission shall supplement hearings with other_  
+| _appropriate activities to further increase opportunities for the_  
+| _public to observe and participate in the review process._  
+|  _(c)_ _____The commission shall display maps for public comment in_  
+| _a manner designed to achieve the widest public access reasonably_  
+| _possible._  
+|  _(d)_ _____The commission shall publicly display preliminary maps_  
+| _for congressional, senate, house of representatives, and State_  
+| _Board of Education districts and shall accept public comment for at_  
+| _least 14 days after the date the preliminary maps are first publicly_  
+| _displayed. The commission may not display any other maps for public_  
+| _comment during that 14-day period._  
+|  _Sec._ ___581.155._ _____PROCUREMENT AND CONTRACTING. The commission,_  
+| _with fiscal oversight from the comptroller, has procurement and_  
+| _contracting authority._  
+| _SUBCHAPTER E. ADMINISTRATIVE SUPPORT AND OTHER RESOURCES_  
+|  _Sec._ ___581.201._ _____ADMINISTRATIVE SUPPORT BY SECRETARY OF STATE._  
+| _Following the appointment of new commission members in each census_  
+| _year, the secretary of state shall provide administrative support_  
+| _to the commission until the commission's staff and office are fully_  
+| _functional._  
+|  _Sec._ ___581.202._ _____COMPUTER RESOURCES. The legislature shall_  
+| _ensure that a complete and accurate computerized database is_  
+| _available for redistricting and that procedures are in place to_  
+| _provide the public with ready access to redistricting data and_  
+| _computer software for drawing maps. The legislature shall_  
+| _coordinate these efforts with the commission from the time the_  
+| _commission is formed until the commission dissolves._  
+|  _Sec._ ___581.203._ _____PER DIEM AND EXPENSES. (a) A commission_  
+| _member is entitled to a per diem of $300 or the amount provided by_  
+| _Subsection (b) for each day the member is engaged in commission_  
+| _business._  
+|  _(b)_ _____Beginning in 2030, on January 1 of each census year the_  
+| _per diem amount prescribed by Subsection (a) is increased or_  
+| _decreased by an amount equal to the amount prescribed by that_  
+| _subsection on December 31 of the preceding year multiplied by the_  
+| _percentage increase or decrease during the preceding decade in the_  
+| _Consumer Price Index for All Urban Consumers (CPI-U), U.S. City_  
+| _Average, as published by the United States Bureau of Labor_  
+| _Statistics or its successor in function._  
+|  _(c)_ _____A commission member is eligible for reimbursement of_  
+| _expenses incurred in connection with the member's performance of_  
+| _duties under this chapter and under Sections 28a, 28b, and 28c,_  
+| _Article III, Texas Constitution._  
+|  _(d)_ _____For purposes of calculating expense reimbursement, a_  
+| _member's residence is considered to be the member's place of_  
+| _employment._  
+|  SECTION 4. Section 24.945(e), Government Code, is amended  
+| to read as follows:  
+|  (e) The legislature, the Judicial Districts Board, or the  
+| _Texas_ [ ~~Legislative~~ ] Redistricting _Commission_ [ ~~Board~~ ] may not  
+| redistrict the judicial districts to provide for any judicial  
+| district smaller in size than an entire county except as provided by  
+| this subsection. Judicial districts smaller in size than the  
+| entire county may be created subsequent to a general election in  
+| which a majority of the persons voting on the proposition adopt the  
+| proposition "to allow the division of ____________________ County  
+| into judicial districts composed of parts of ____________________  
+| County." A redistricting plan may not be proposed or adopted by the  
+| legislature, the Judicial Districts Board, or the _Texas_  
+| [ ~~Legislative~~ ] Redistricting _Commission_ [ ~~Board~~ ] in anticipation
+of  
+| a future action by the voters of any county.  
+|  SECTION 5. Section 24.946(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The board shall meet in accordance with its own rules.  
+| The board shall meet at least once in each interim between regular  
+| sessions of the legislature and shall exercise its reapportionment  
+| powers only in the interims between regular legislative sessions.  
+| Meetings of the board shall be subject to the provisions of Chapter  
+| 551, except as otherwise provided by this subchapter. A  
+| reapportionment may not be ordered in the interim immediately  
+| following a regular session of the legislature in which a valid and  
+| subsisting statewide reapportionment of judicial districts is  
+| enacted by the legislature. Unless the legislature enacts a  
+| statewide reapportionment of the judicial districts following each  
+| federal decennial census, the board shall convene not later than  
+| the first Monday of June of the third year following the year in  
+| which the federal decennial census is taken to make a statewide  
+| reapportionment of the districts. The board shall complete its  
+| work on the reapportionment and file its order with the secretary of  
+| state not later than August 31 of the same year. If the Judicial  
+| Districts Board fails to make a statewide apportionment by that  
+| date, the _Texas_ [ ~~Legislative~~ ] Redistricting _Commission_ [ ~~Board~~
+]  
+| established by Article III, Section _28b_ [ ~~28~~ ], [ ~~of the~~ ] Texas  
+| Constitution shall make a statewide reapportionment of the judicial  
+| districts not later than the _90th_ [ ~~150th~~ ] day after the final day  
+| for the Judicial Districts Board to make the reapportionment, and  
+| that apportionment takes effect as provided by Sections 24.948 and  
+| 24.949.  
+|  SECTION 6. Section 2058.002(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The legislature or the _Texas_ [ ~~Legislative~~ ]  
+| Redistricting _Commission_ [ ~~Board~~ ] under Article III, Section _28b_  
+| [ ~~28~~ ], [ ~~of the~~ ] Texas Constitution may officially recognize or
+act  
+| on a federal decennial census before September 1 of the year after  
+| the calendar year during which the census was taken.  
+|  SECTION 7. (a) Notwithstanding the deadline provided by  
+| Section 581.051(a), Government Code, as added by this Act, the  
+| state auditor shall initiate the initial application process  
+| described by that subsection as soon as practicable after January  
+| 1, 2020.  
+|  (b) Notwithstanding the deadline provided by Section  
+| 581.054(a), Government Code, as added by this Act, the state  
+| auditor shall publicize the names of individuals in the initial  
+| applicant pool described by that subsection not later than May 1,  
+| 2020.  
+|  SECTION 8. (a) Except as otherwise provided by Subsections  
+| (b) and (c) of this section, this Act takes effect January 1, 2020.  
+|  (b) Except as otherwise provided by Subsection (c) of this  
+| section, Section 42.032, Election Code, as amended by this Act, and  
+| Sections 24.945(e), 24.946(a), and 2058.002(a), Government Code,  
+| as amended by this Act, take effect January 1, 2021.  
+|  (c) This Act takes effect only if the constitutional  
+| amendment proposed by the 86th Legislature, Regular Session, 2019,  
+| establishing the Texas Redistricting Commission to redistrict the  
+| Texas Legislature, Texas congressional districts, and State Board  
+| of Education districts and revising procedures for redistricting is  
+| approved by the voters. If that proposed constitutional amendment  
+| is not approved by the voters, this Act has no effect.
+

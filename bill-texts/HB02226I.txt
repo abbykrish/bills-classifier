@@ -1,0 +1,40 @@
+| 86R7222 BRG-D  
+---|---  
+|  By: Patterson | H.B. No. 2226  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to procedures for imposing certain administrative  
+| penalties or disgorgement orders by the Public Utility Commission  
+| of Texas.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 15.024(e) and (f), Utilities Code, are  
+| amended to read as follows:  
+|  (e) If the person accepts the executive director's  
+| determination and recommended penalty _or fails to timely respond to_  
+| _the notice_ , the commission by order shall approve the determination  
+| and impose the recommended penalty _or order a hearing on the_  
+| _determination and the recommended penalty_.  
+|  (f) If the person requests a hearing or _the commission_  
+| _orders a hearing under Subsection (e)_ [ ~~fails to timely respond to~~  
+|  ~~the notice~~ ], the executive director shall set a hearing and give  
+| notice of the hearing to the person.  The parties to a proceeding  
+| under this subchapter shall be limited to the person and the  
+| commission, including the independent market monitor.  The hearing  
+| shall be held by an administrative law judge of the State Office of  
+| Administrative Hearings.  The administrative law judge shall make  
+| findings of fact and conclusions of law and promptly issue to the  
+| commission a proposal for a decision about the occurrence of the  
+| violation and the amount of a proposed penalty.  Based on the  
+| findings of fact, conclusions of law, and proposal for a decision,  
+| the commission by order may find that a violation has occurred and  
+| impose a penalty or disgorgement order or may find that no violation  
+| occurred.  
+|  SECTION 2. The changes in law made by this Act apply only to  
+| a person who receives notice under Section 15.024(b), Utilities  
+| Code, on or after the effective date of this Act.  A person who  
+| receives notice before the effective date of this Act is governed by  
+| the law in effect on the date the person received notice, and the  
+| former law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,58 @@
+| 86R2566 BRG-D  
+---|---  
+|  By: Anchia | H.B. No. 863  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to gas pipeline operator reporting of pipeline incidents;  
+| clarifying changes to related administrative penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 121.206(a) and (d), Utilities Code, are  
+| amended to read as follows:  
+|  (a) The railroad commission may assess an administrative  
+| penalty against a person who violates Section 121.201 or a safety  
+| standard or other rule prescribed or adopted under _this subchapter_  
+| [ ~~that section~~ ].  
+|  (d) The railroad commission by rule shall adopt guidelines  
+| to be used in determining the amount of a penalty under this  
+| subchapter. The guidelines shall include a penalty calculation  
+| worksheet that specifies the typical penalty for certain  
+| violations, circumstances justifying enhancement of a penalty and  
+| the amount of the enhancement, and circumstances justifying a  
+| reduction in a penalty and the amount of the reduction. The  
+| guidelines shall take into account:  
+|  (1) the person's history of previous violations of  
+| Section 121.201 or a safety standard or other rule prescribed or  
+| adopted under _this subchapter_ [ ~~that section~~ ], including the number  
+| of previous violations;  
+|  (2) the seriousness of the violation and of any  
+| pollution resulting from the violation;  
+|  (3) any hazard to the health or safety of the public;  
+|  (4) the degree of culpability;  
+|  (5) the demonstrated good faith of the person charged;  
+| and  
+|  (6) any other factor the commission considers  
+| relevant.  
+|  SECTION 2. Subchapter E, Chapter 121, Utilities Code, is  
+| amended by adding Section 121.214 to read as follows:  
+|  _Sec._ ___121.214._ _____PIPELINE INCIDENT NOTIFICATION. (a)_ ___The_  
+| _railroad commission by rule shall require a distribution gas_  
+| _pipeline facility operator to notify the commission of each event_  
+| _involving a release of gas from its pipelines that results in one or_  
+| _more of the following consequences:_  
+|  _(1)_ _____a death or a personal injury necessitating_  
+| _inpatient hospitalization;_  
+|  _(2)_ _____estimated property damage of $50,000 or more,_  
+| _including loss to the operator, loss to others, or both, but_  
+| _excluding cost of gas lost; or_  
+|  _(3)_ _____unintentional estimated gas loss of three million_  
+| _cubic feet or more._  
+|  _(b)_ _____The rules must require that the distribution gas_  
+| _pipeline facility operator notify the commission of an event before_  
+| _the expiration of two hours following the operator's discovery of_  
+| _the event._  
+|  SECTION 3. The Railroad Commission of Texas shall adopt the  
+| rules required by Section 121.214, Utilities Code, as added by this  
+| Act, not later than December 31, 2019.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

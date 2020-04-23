@@ -1,0 +1,79 @@
+| 86R3158 SCL-F  
+---|---  
+|  By: Thompson of Brazoria | H.B. No. 259  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to named driver insurance policies and certain related  
+| exclusions.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 1952, Insurance Code, is amended by  
+| adding Subchapter H to read as follows:  
+| _SUBCHAPTER H. NAMED DRIVER POLICIES_  
+|  _Sec. 1952.351. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Household" means a unit composed of individuals_  
+| _living together in the same dwelling, without regard to whether_  
+| _they are related to each other. The term includes a unit composed_  
+| _of individuals living together in:_  
+|  _(A) a home or mobile home;_  
+|  _(B)_ _____a duplex unit, apartment unit, or condominium_  
+| _unit; or_  
+|  _(C)_ _____any dwelling unit in a multiunit residential_  
+| _structure._  
+|  _(2)_ _____"Named driver exclusion" means a provision or_  
+| _endorsement of an automobile insurance policy that excludes_  
+| _specified drivers from coverage under the policy._  
+|  _(3)_ _____"Named driver policy" means an automobile_  
+| _insurance policy that provides any type of coverage for individuals_  
+| _named on the policy but that does not provide coverage for every_  
+| _individual residing in a named insured's household._  
+|  _(4)_ _____"Operator's policy"_ ___means an automobile insurance_  
+| _policy that, in accordance with Section 601.077, Transportation_  
+| _Code, provides coverage for the named insured when operating an_  
+| _automobile the insured does not own._  
+|  _Sec._ ___1952.352._ _____APPLICABILITY. This subchapter applies to_  
+| _an insurer writing automobile insurance in this state, including an_  
+| _insurance company, corporation, reciprocal or interinsurance_  
+| _exchange, mutual insurance company, capital stock company,_  
+| _association, county mutual insurance company, Lloyd's plan, and any_  
+| _other insurer._  
+|  _Sec._ ___1952.353._ _____NAMED DRIVER POLICIES PROHIBITED; CERTAIN_  
+| _NAMED DRIVER EXCLUSIONS AUTHORIZED. (a) An insurer may not_  
+| _deliver, issue for delivery, or renew a named driver policy unless_  
+| _the named driver policy is an operator's policy._  
+|  _(b)_ _____An insurer may use a named driver exclusion only if the_  
+| _exclusion specifically names each excluded driver and does not_  
+| _exclude a class of drivers and the named insured accepts the_  
+| _exclusion in writing._  
+|  SECTION 2. Section 912.152(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) A county mutual insurance company is subject to:  
+|  (1) Sections 1952.051-1952.055;  
+|  _(2) Subchapter H, Chapter 1952;_  
+|  _(3)_ [ ~~(2)~~ ] Subchapter B, Chapter 2002;  
+|  _(4)_ [ ~~(3)~~ ] Chapter 2301; and  
+|  _(5)_ [ ~~(4)~~ ] Articles 5.06 and 5.35.  
+|  SECTION 3. Section 601.081(b), Transportation Code, is  
+| amended to read as follows:  
+|  (b) A standard proof of motor vehicle liability insurance  
+| form prescribed by the Texas Department of Insurance must include:  
+|  (1) the name of the insurer;  
+|  (2) the insurance policy number;  
+|  (3) the policy period;  
+|  (4) the name and address of each insured;  
+|  (5) the policy limits or a statement that the coverage  
+| of the policy complies with the minimum amounts of motor vehicle  
+| liability insurance required by this chapter; _and_  
+|  (6) the make and model of each covered vehicle[ ~~; and~~  
+|  [ ~~(7)~~ ~~~~ ~~~~ ~~for a named driver policy, the required~~  
+|  ~~disclosure under Section 1952.0545, Insurance Code~~ ].  
+|  SECTION 4. Section 1952.0545, Insurance Code, and Section  
+| 601.081(a), Transportation Code, are repealed.  
+|  SECTION 5. The change in law made by this Act applies only  
+| to an insurance policy that is delivered, issued for delivery, or  
+| renewed on or after January 1, 2020. A policy delivered, issued for  
+| delivery, or renewed before January 1, 2020, is governed by the law  
+| as it existed immediately before the effective date of this Act, and  
+| that law is continued in effect for that purpose.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

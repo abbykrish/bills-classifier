@@ -1,0 +1,34 @@
+| 86R1769 ATP-D  
+---|---  
+|  By: Meyer | H.B. No. 444  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the criminal penalties for insider trading and other  
+| misuse of official information by public servants.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 39.06, Penal Code, is amended by  
+| amending Subsection (e) and adding Subsection (g) to read as  
+| follows:  
+|  (e) Except as provided by Subsection _(g)_ [ ~~(f)~~ ], an offense  
+| under this section is a felony of the third degree.  
+|  _(g)_ _____If the commission of an offense under this section_  
+| _results in a net pecuniary gain to the person committing the_  
+| _offense, the offense is:_  
+|  _(1)_ _____a felony of the third degree if the net pecuniary_  
+| _gain is less than $150,000;_  
+|  _(2)_ _____a felony of the second degree if the net pecuniary_  
+| _gain is $150,000 or more but less than $300,000; or_  
+|  _(3)_ _____a felony of the first degree if the net pecuniary_  
+| _gain is $300,000 or more._  
+|  SECTION 2. Section 39.06(f), Penal Code, is repealed.  
+|  SECTION 3. (a) The change in law made by this Act applies  
+| only to an offense committed on or after the effective date of this  
+| Act. For purposes of this section, an offense is committed before  
+| the effective date of this Act if any element of the offense occurs  
+| before the effective date.  
+|  (b) An offense committed before the effective date of this  
+| Act is covered by the law in effect when the offense was committed,  
+| and the former law is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

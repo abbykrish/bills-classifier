@@ -1,0 +1,52 @@
+| 86R6527 AAF-F  
+---|---  
+|  By: Capriglione | H.B. No. 1352  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requirements for vendors providing certain services  
+| involving computers to governmental entities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter Z, Chapter 2252, Government Code, is  
+| amended by adding Section 2252.909 to read as follows:  
+|  _Sec._ ___2252.909._ _____REQUIREMENTS FOR CERTAIN CONTRACTS_  
+| _INVOLVING COMPUTERS. (a)_ ___In this section, "governmental entity"_ __  
+| _has the meaning assigned by Section 2252.001._  
+|  _(b)_ _____This section applies only to a contract with a value of_  
+| _$100,000 or more._  
+|  _(c)_ _____A governmental entity that contracts with a vendor at an_  
+| _hourly rate for professional or technical information technology_  
+| _services performed using a computer shall require the vendor to use_  
+| _software that verifies the work performed during the hours billed._  
+|  _(d) Software required by Subsection (c) must:_  
+|  _(1)_ _____allow the governmental entity or an auditor of the_  
+| _entity to have real-time and retroactive access to data to verify_  
+| _the hours of work performed under the contract by the vendor using a_  
+| _computer;_  
+|  _(2)_ _____automatically track total keystroke frequency and_  
+| _computer mouse movement;_  
+|  _(3)_ _____capture an image of the computer screen at least_  
+| _once every three minutes;_  
+|  _(4)_ _____provide continuous, automated updates of the_  
+| _real-time cost for each task being performed by the vendor using a_  
+| _computer;_  
+|  _(5)_ _____allow the governmental entity to provide immediate_  
+| _feedback to the vendor on the progress of the work being performed_  
+| _by the vendor using a computer;_  
+|  _(6)_ _____protect all data that is private or confidential;_  
+| _and_  
+|  _(7)_ _____be purchased by the vendor from a third-party_  
+| _entity._  
+|  _(e)_ _____Any data collected by the software system is considered_  
+| _accounting records of the vendor._ ___The vendor shall retain the data_  
+| _for at least seven years and shall provide the contracting_  
+| _governmental entity or an auditor of the entity access to the data_  
+| _on request free of charge._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a contract for professional or technical services that is  
+| entered into on or after the effective date of this Act. A contract  
+| entered into before the effective date of this Act is governed by  
+| the law in effect on the date the contract was entered into, and the  
+| former law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

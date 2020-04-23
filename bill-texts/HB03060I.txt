@@ -1,0 +1,107 @@
+| 86R7305 BEE-F  
+---|---  
+|  By: Parker | H.B. No. 3060  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the recording by a county clerk of certain documents  
+| concerning real or personal property.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 193.003(b), Local Government Code, is  
+| amended to read as follows:  
+|  (b) The index must be a cross-index that contains the names  
+| of the grantors and grantees in alphabetical order. If a deed is  
+| made by a sheriff, the index entry must contain the name of the  
+| sheriff and the defendant in execution. If a deed is made by an  
+| executor, administrator, or guardian, the index entry must contain  
+| the name of that person and the name of the person's testator,  
+| intestate, or ward. If a deed is made by an attorney, the index  
+| entry must contain the name of the attorney and the attorney's  
+| constituents. If a deed is made by a commissioner or trustee, the  
+| index entry must contain the name of the commissioner or trustee and  
+| the name of the person whose estate is conveyed. The index entry  
+| for a correction instrument must contain the names of the grantors  
+| and grantees as stated in the correction instrument. _The index_  
+| _entry for a paper document described by Section 12.0011(b)(3),_  
+| _Property Code, must contain the names of the grantors and grantees._  
+|  SECTION 2. Section 12.0011(b), Property Code, is amended to  
+| read as follows:  
+|  (b) A paper document concerning real or personal property  
+| may not be recorded or serve as notice of the paper document unless:  
+|  (1) the paper document contains an original signature  
+| or signatures that are acknowledged, sworn to with a proper jurat,  
+| or proved according to law; [ ~~or~~ ]  
+|  (2) the paper document is attached as an exhibit to a  
+| paper affidavit or other document that has an original signature or  
+| signatures that are acknowledged, sworn to with a proper jurat, or  
+| proved according to law _; or_  
+|  _(3)_ _____the paper document is a tangible copy of an_  
+| _electronic record certified as provided by Section 12.0013 by a_  
+| _notary public or other officer who may take an acknowledgment or_  
+| _proof of a written instrument under Section 121.001, Civil Practice_  
+| _and Remedies Code_.  
+|  SECTION 3. Chapter 12, Property Code, is amended by adding  
+| Section 12.0013 to read as follows:  
+|  _Sec._ ___12.0013._ _____RECORDATION OF PAPER OR TANGIBLE COPY OF_  
+| _ELECTRONIC RECORD. (a) In this section:_  
+|  _(1)_ _____"Document" means information that is inscribed on_  
+| _a tangible medium or that is stored in an electronic or other medium_  
+| _and is retrievable in perceivable form._  
+|  _(2)_ _____"Electronic," "electronic record," and_  
+| _"electronic signature" have the meanings assigned by Section_  
+| _322.002, Business & Commerce Code._  
+|  _(b)_ _____A county clerk shall record a paper or tangible copy of_  
+| _an electronic record that is otherwise eligible under state law to_  
+| _be recorded in the real property records if the paper or tangible_  
+| _copy of the electronic record:_  
+|  _(1)_ _____contains an electronic signature or signatures_  
+| _that are acknowledged, sworn to with a proper jurat, or proved_  
+| _according to law; and_  
+|  _(2)_ _____has been certified by a notary public or other_  
+| _officer who may take an acknowledgment or proof under Section_  
+| _121.001, Civil Practice and Remedies Code, to be a true and correct_  
+| _copy of the electronic record as provided by Subsection (d)._  
+|  _(c)_ _____A document that is a paper or tangible copy of an_  
+| _electronic record and is printed and certified to be a true and_  
+| _correct copy as provided by Subsection (d) satisfies any_  
+| _requirement of law that, as a condition for recording, the_  
+| _document:_  
+|  _(1) be an original or be in writing;_  
+|  _(2)_ _____be signed or contain an original signature, if the_  
+| _document contains an electronic signature of the person required to_  
+| _sign the document; and_  
+|  _(3)_ _____be notarized, acknowledged, verified, witnessed,_  
+| _made under oath, sworn to with a proper jurat, or proved according_  
+| _to law, if the document contains an electronic signature of the_  
+| _person authorized to perform that act and all other information_  
+| _required to be included._  
+|  _(d)_ _____A notary public or other officer who may take an_  
+| _acknowledgment or proof under Section 121.001, Civil Practice and_  
+| _Remedies Code, may certify that a paper or tangible copy of an_  
+| _electronic record is a true and correct copy of an electronic record_  
+| _by:_  
+|  _(1)_ _____executing and attaching an official seal to a_  
+| _tangible paper certificate under penalty of perjury; and_  
+|  _(2)_ _____affixing or attaching the certificate to the_  
+| _printed paper or tangible copy of an electronic record._  
+|  _(e)_ _____The form of certificate required under Subsection (d)_  
+| _must be substantially as follows:_  
+| _DECLARATION OF AUTHENTICITY_  
+| _State of _________________  
+| _County of ________________  
+|  _I certify that the attached document,_  
+| _________________(insert title), dated ____________ and containing_  
+| ___ pages, is a true and correct copy of an electronic record printed_  
+| _by me or under my supervision. I further certify that, at the time_  
+| _of printing, no security features present on the electronic record_  
+| _indicated any changes or errors in an electronic signature or other_  
+| _information in the electronic record after the electronic record's_  
+| _creation or execution. This certification is made under penalty of_  
+| _perjury._  
+| _Signed this ____ day of ________, ____._  
+| _________________(signature of notary public or other officer)_  
+| _(seal of office)_  
+| _________________(printed name of notary public or other officer)_  
+| _My commission expires: _______________  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

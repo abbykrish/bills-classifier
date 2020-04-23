@@ -1,0 +1,324 @@
+| 86R4328 TJB-D  
+---|---  
+|  By: Gutierrez | H.B. No. 4338  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a limitation on increases in the appraised value for ad  
+| valorem tax purposes of commercial real property.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1.12(d), Tax Code, is amended to read as  
+| follows:  
+|  (d) For purposes of this section, the appraisal ratio of a  
+| homestead to which Section 23.23 applies _or of commercial real_  
+| _property to which Section 23.231 applies_ is the ratio of the  
+| property's market value as determined by the appraisal district or  
+| appraisal review board, as applicable, to the market value of the  
+| property according to law. The appraisal ratio is not calculated  
+| according to the appraised value of the property as limited by  
+| Section 23.23 _or 23.231_.  
+|  SECTION 2. Subchapter B, Chapter 23, Tax Code, is amended by  
+| adding Section 23.231 to read as follows:  
+|  _Sec._ ___23.231._ _____LIMITATION ON APPRAISED VALUE OF COMMERCIAL_  
+| _REAL PROPERTY. (a) In this section:_  
+|  _(1)_ _____"Commercial real property" means real property_  
+| _zoned or otherwise authorized for and actually used for a purpose_  
+| _other than single-family use, multifamily use, heavy industrial_  
+| _use, or use as a quarry._  
+|  _(2)_ _____"New improvement" means an improvement to_  
+| _commercial real property made after the most recent appraisal of_  
+| _the property that increases the market value of the property and the_  
+| _value of which is not included in the appraised value of the_  
+| _property for the preceding tax year. The term does not include_  
+| _repairs to or ordinary maintenance of an existing structure or the_  
+| _grounds or another feature of the property._  
+|  _(b)_ _____This section does not apply to property appraised under_  
+| _Subchapter C, D, E, F, G, or H._  
+|  _(c)_ _____Notwithstanding the requirements of Section 25.18 and_  
+| _regardless of whether the appraisal office has appraised the_  
+| _property and determined the market value of the property for the tax_  
+| _year, an appraisal office may increase the appraised value of a_  
+| _parcel of commercial real property for a tax year to an amount not_  
+| _to exceed the lesser of:_  
+|  _(1)_ _____the market value of the property for the most_  
+| _recent tax year that the market value was determined by the_  
+| _appraisal office; or_  
+|  _(2) the sum of:_  
+|  _(A)_ _____10 percent of the appraised value of the_  
+| _property for the preceding tax year;_  
+|  _(B)_ _____the appraised value of the property for the_  
+| _preceding tax year; and_  
+|  _(C)_ _____the market value of all new improvements to_  
+| _the property._  
+|  _(d)_ _____When appraising a parcel of commercial real property,_  
+| _the chief appraiser shall:_  
+|  _(1) appraise the property at its market value; and_  
+|  _(2)_ _____include in the appraisal records both the market_  
+| _value of the property and the amount computed under Subsection_  
+| _(c)(2)._  
+|  _(e)_ _____The limitation provided by Subsection (c) takes effect_  
+| _as to a parcel of commercial real property on January 1 of the tax_  
+| _year following the first tax year in which the owner owns the_  
+| _property on January 1 and in which the property meets the definition_  
+| _of commercial real property._ ___The limitation expires on January 1 of_  
+| _the tax year following the first tax year in which the owner of the_  
+| _property ceases to own the property or the property no longer meets_  
+| _the definition of commercial real property._  
+|  _(f)_ _____Notwithstanding Subsections (a)(2) and (c) and except_  
+| _as provided by Subdivision (2) of this subsection, an improvement_  
+| _to property that would otherwise constitute a new improvement is_  
+| _not treated as a new improvement if the improvement is a replacement_  
+| _structure for a structure that was rendered unusable by a casualty_  
+| _or by wind or water damage. For purposes of appraising the property_  
+| _under Subsection (c) in the tax year in which the structure would_  
+| _have constituted a new improvement:_  
+|  _(1)_ _____the appraised value the property would have had in_  
+| _the preceding tax year if the casualty or damage had not occurred is_  
+| _considered to be the appraised value of the property for that year,_  
+| _regardless of whether that appraised value exceeds the actual_  
+| _appraised value of the property for that year as limited by_  
+| _Subsection (c); and_  
+|  _(2)_ _____the replacement structure is considered to be a_  
+| _new improvement only if:_  
+|  _(A)_ _____the square footage of the replacement_  
+| _structure exceeds that of the replaced structure as that structure_  
+| _existed before the casualty or damage occurred; or_  
+|  _(B)_ _____the exterior of the replacement structure is_  
+| _of higher quality construction and composition than that of the_  
+| _replaced structure._  
+|  _(g)_ _____In this subsection, "disaster recovery program" means a_  
+| _disaster recovery program funded with community development block_  
+| _grant disaster recovery money authorized by federal law._ __  
+| _Notwithstanding Subsection (f)(2), and only to the extent necessary_  
+| _to satisfy the requirements of a disaster recovery program, a_  
+| _replacement structure described by that subdivision is not_  
+| _considered to be a new improvement if to satisfy the requirements of_  
+| _the disaster recovery program it was necessary that:_  
+|  _(1)_ _____the square footage of the replacement structure_  
+| _exceed that of the replaced structure as that structure existed_  
+| _before the casualty or damage occurred; or_  
+|  _(2)_ _____the exterior of the replacement structure be of_  
+| _higher quality construction and composition than that of the_  
+| _replaced structure._  
+|  SECTION 3. Sections 25.19(b) and (g), Tax Code, are amended  
+| to read as follows:  
+|  (b) The chief appraiser shall separate real from personal  
+| property and include in the notice for each:  
+|  (1) a list of the taxing units in which the property is  
+| taxable;  
+|  (2) the appraised value of the property in the  
+| preceding year;  
+|  (3) the taxable value of the property in the preceding  
+| year for each taxing unit taxing the property;  
+|  (4) the appraised value of the property for the  
+| current year, the kind and amount of each exemption and partial  
+| exemption, if any, approved for the property for the current year  
+| and for the preceding year, and, if an exemption or partial  
+| exemption that was approved for the preceding year was canceled or  
+| reduced for the current year, the amount of the exemption or partial  
+| exemption canceled or reduced;  
+|  _(4-a)_ _____a statement of whether the property qualifies_  
+| _for the limitation on appraised value provided by Section 23.231;_  
+|  (5) if the appraised value is greater than it was in  
+| the preceding year, the amount of tax that would be imposed on the  
+| property on the basis of the tax rate for the preceding year;  
+|  (6) in italic typeface, the following  
+| statement: "The Texas Legislature does not set the amount of your  
+| local taxes. Your property tax burden is decided by your locally  
+| elected officials, and all inquiries concerning your taxes should  
+| be directed to those officials";  
+|  (7) a detailed explanation of the time and procedure  
+| for protesting the value;  
+|  (8) the date and place the appraisal review board will  
+| begin hearing protests; and  
+|  (9) a brief explanation that the governing body of  
+| each taxing unit decides whether or not taxes on the property will  
+| increase and the appraisal district only determines the value of  
+| the property.  
+|  (g) By April 1 or as soon thereafter as practicable if the  
+| property is a single-family residence that qualifies for an  
+| exemption under Section 11.13, or by May 1 or as soon thereafter as  
+| practicable in connection with any other property, the chief  
+| appraiser shall deliver a written notice to the owner of each  
+| property not included in a notice required to be delivered under  
+| Subsection (a), if the property was reappraised in the current tax  
+| year, if the ownership of the property changed during the preceding  
+| year, or if the property owner or the agent of a property owner  
+| authorized under Section 1.111 makes a written request for the  
+| notice. The chief appraiser shall separate real from personal  
+| property and include in the notice for each property:  
+|  (1) the appraised value of the property in the  
+| preceding year;  
+|  (2) the appraised value of the property for the  
+| current year and the kind of each partial exemption, if any,  
+| approved for the current year;  
+|  _(2-a)_ _____a statement of whether the property qualifies_  
+| _for the limitation on appraised value provided by Section 23.231;_  
+|  (3) a detailed explanation of the time and procedure  
+| for protesting the value; and  
+|  (4) the date and place the appraisal review board will  
+| begin hearing protests.  
+|  SECTION 4. Section 41.41(a), Tax Code, is amended to read as  
+| follows:  
+|  (a) A property owner is entitled to protest before the  
+| appraisal review board the following actions:  
+|  (1) determination of the appraised value of the  
+| owner's property or, in the case of land appraised as provided by  
+| Subchapter C, D, E, or H, Chapter 23, determination of its appraised  
+| or market value;  
+|  (2) unequal appraisal of the owner's property;  
+|  (3) inclusion of the owner's property on the appraisal  
+| records;  
+|  (4) denial to the property owner in whole or in part of  
+| a partial exemption;  
+|  _(4-a)_ _____determination that the owner's property does not_  
+| _qualify for the limitation on appraised value provided by Section_  
+| _23.231;_  
+|  (5) determination that the owner's land does not  
+| qualify for appraisal as provided by Subchapter C, D, E, or H,  
+| Chapter 23;  
+|  (6) identification of the taxing units in which the  
+| owner's property is taxable in the case of the appraisal district's  
+| appraisal roll;  
+|  (7) determination that the property owner is the owner  
+| of property;  
+|  (8) a determination that a change in use of land  
+| appraised under Subchapter C, D, E, or H, Chapter 23, has occurred;  
+| or  
+|  (9) any other action of the chief appraiser, appraisal  
+| district, or appraisal review board that applies to and adversely  
+| affects the property owner.  
+|  SECTION 5. Section 42.26(d), Tax Code, is amended to read as  
+| follows:  
+|  (d) For purposes of this section, the value of the property  
+| subject to the suit and the value of a comparable property or sample  
+| property that is used for comparison must be the market value  
+| determined by the appraisal district when the property is [ ~~a~~  
+|  ~~residence homestead~~ ] subject to the limitation on appraised value  
+| imposed by Section 23.23 _or 23.231_.  
+|  SECTION 6. Sections 403.302(d) and (i), Government Code,  
+| are amended to read as follows:  
+|  (d) For the purposes of this section, "taxable value" means  
+| the market value of all taxable property less:  
+|  (1) the total dollar amount of any residence homestead  
+| exemptions lawfully granted under Section 11.13(b) or (c), Tax  
+| Code, in the year that is the subject of the study for each school  
+| district;  
+|  (2) one-half of the total dollar amount of any  
+| residence homestead exemptions granted under Section 11.13(n), Tax  
+| Code, in the year that is the subject of the study for each school  
+| district;  
+|  (3) the total dollar amount of any exemptions granted  
+| before May 31, 1993, within a reinvestment zone under agreements  
+| authorized by Chapter 312, Tax Code;  
+|  (4) subject to Subsection (e), the total dollar amount  
+| of any captured appraised value of property that:  
+|  (A) is within a reinvestment zone created on or  
+| before May 31, 1999, or is proposed to be included within the  
+| boundaries of a reinvestment zone as the boundaries of the zone and  
+| the proposed portion of tax increment paid into the tax increment  
+| fund by a school district are described in a written notification  
+| provided by the municipality or the board of directors of the zone  
+| to the governing bodies of the other taxing units in the manner  
+| provided by former Section 311.003(e), Tax Code, before May 31,  
+| 1999, and within the boundaries of the zone as those boundaries  
+| existed on September 1, 1999, including subsequent improvements to  
+| the property regardless of when made;  
+|  (B) generates taxes paid into a tax increment  
+| fund created under Chapter 311, Tax Code, under a reinvestment zone  
+| financing plan approved under Section 311.011(d), Tax Code, on or  
+| before September 1, 1999; and  
+|  (C) is eligible for tax increment financing under  
+| Chapter 311, Tax Code;  
+|  (5) the total dollar amount of any captured appraised  
+| value of property that:  
+|  (A) is within a reinvestment zone:  
+|  (i) created on or before December 31, 2008,  
+| by a municipality with a population of less than 18,000; and  
+|  (ii) the project plan for which includes  
+| the alteration, remodeling, repair, or reconstruction of a  
+| structure that is included on the National Register of Historic  
+| Places and requires that a portion of the tax increment of the zone  
+| be used for the improvement or construction of related facilities  
+| or for affordable housing;  
+|  (B) generates school district taxes that are paid  
+| into a tax increment fund created under Chapter 311, Tax Code; and  
+|  (C) is eligible for tax increment financing under  
+| Chapter 311, Tax Code;  
+|  (6) the total dollar amount of any exemptions granted  
+| under Section 11.251 or 11.253, Tax Code;  
+|  (7) the difference between the comptroller's estimate  
+| of the market value and the productivity value of land that  
+| qualifies for appraisal on the basis of its productive capacity,  
+| except that the productivity value estimated by the comptroller may  
+| not exceed the fair market value of the land;  
+|  (8) the portion of the appraised value of residence  
+| homesteads of individuals who receive a tax limitation under  
+| Section 11.26, Tax Code, on which school district taxes are not  
+| imposed in the year that is the subject of the study, calculated as  
+| if the residence homesteads were appraised at the full value  
+| required by law;  
+|  (9) a portion of the market value of property not  
+| otherwise fully taxable by the district at market value because of:  
+|  (A) action required by statute or the  
+| constitution of this state, other than Section 11.311, Tax Code,  
+| that, if the tax rate adopted by the district is applied to it,  
+| produces an amount equal to the difference between the tax that the  
+| district would have imposed on the property if the property were  
+| fully taxable at market value and the tax that the district is  
+| actually authorized to impose on the property, if this subsection  
+| does not otherwise require that portion to be deducted; or  
+|  (B) action taken by the district under Subchapter  
+| B or C, Chapter 313, Tax Code, before the expiration of the  
+| subchapter;  
+|  (10) the market value of all tangible personal  
+| property, other than manufactured homes, owned by a family or  
+| individual and not held or used for the production of income;  
+|  (11) the appraised value of property the collection of  
+| delinquent taxes on which is deferred under Section 33.06, Tax  
+| Code;  
+|  (12) the portion of the appraised value of property  
+| the collection of delinquent taxes on which is deferred under  
+| Section 33.065, Tax Code; and  
+|  (13) the amount by which the market value of _property_  
+| [ ~~a residence homestead~~ ] to which Section 23.23 _or 23.231_ , Tax Code,  
+| applies exceeds the appraised value of that property as calculated  
+| under _Section 23.23 or 23.231, Tax Code, as applicable_ [ ~~that~~  
+|  ~~section~~ ].  
+|  (i) If the comptroller determines in the study that the  
+| market value of property in a school district as determined by the  
+| appraisal district that appraises property for the school district,  
+| less the total of the amounts and values listed in Subsection (d) as  
+| determined by that appraisal district, is valid, the comptroller,  
+| in determining the taxable value of property in the school district  
+| under Subsection (d), shall for purposes of Subsection (d)(13)  
+| subtract from the market value as determined by the appraisal  
+| district of _properties_ [ ~~residence homesteads~~ ] to which Section  
+| 23.23 _or 23.231_ , Tax Code, applies the amount by which that amount  
+| exceeds the appraised value of those properties as calculated by  
+| the appraisal district under Section 23.23 _or 23.231_ , Tax Code _, as_  
+| _applicable_. If the comptroller determines in the study that the  
+| market value of property in a school district as determined by the  
+| appraisal district that appraises property for the school district,  
+| less the total of the amounts and values listed in Subsection (d) as  
+| determined by that appraisal district, is not valid, the  
+| comptroller, in determining the taxable value of property in the  
+| school district under Subsection (d), shall for purposes of  
+| Subsection (d)(13) subtract from the market value as estimated by  
+| the comptroller of _properties_ [ ~~residence homesteads~~ ] to which  
+| Section 23.23 _or 23.231_ , Tax Code, applies the amount by which that  
+| amount exceeds the appraised value of those properties as  
+| calculated by the appraisal district under Section 23.23 _or 23.231_ ,  
+| Tax Code _, as applicable_.  
+|  SECTION 7. This Act applies only to the appraisal of  
+| commercial real property for ad valorem tax purposes for a tax year  
+| that begins on or after the effective date of this Act.  
+|  SECTION 8. This Act takes effect January 1, 2020, but only  
+| if the constitutional amendment proposed by the 86th Legislature,  
+| Regular Session, 2019, to authorize the legislature to limit  
+| increases in the appraised value of commercial real property for ad  
+| valorem tax purposes to 10 percent or more of the appraised value of  
+| the property for the preceding tax year is approved by the voters.  
+| If that amendment is not approved by the voters, this Act has no  
+| effect.
+

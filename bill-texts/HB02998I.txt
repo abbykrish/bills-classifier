@@ -1,0 +1,244 @@
+| 86R8046 SLB-D  
+---|---  
+|  By: Talarico | H.B. No. 2998  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to lead in drinking water at schools and child care  
+| facilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 341.040, Health and Safety Code, is  
+| amended to read as follows:  
+|  Sec. 341.040. _DEFINITIONS_ [ ~~DEFINITION~~ ]. In this  
+| subchapter _:_  
+|  _(1)_ _____"Child care facility" has the meaning assigned by_  
+| _Section 88.001._  
+|  _(2) "Commission"_ [ ~~, "commission"~~ ] means the Texas  
+| Commission on Environmental Quality.  
+|  _(3)_ _____"Drinking water outlet" means any water fountain,_  
+| _faucet, or tap regularly used for drinking or food preparation,_  
+| _including ice-making and hot drink machines._  
+|  _(4)_ _____"Elevated lead level" means a lead concentration_  
+| _in drinking water that exceeds one part per billion._  
+|  _(5)_ _____"Executive director" means the executive director_  
+| _of the commission._  
+|  _(6)_ _____"Lead service line" means a pipe and its fittings,_  
+| _which are not lead free as defined by the federal Safe Drinking_  
+| _Water Act (42 U.S.C. Section 300g-6), that connect a drinking water_  
+| _main to a drinking water outlet._  
+|  _(7)_ _____"Local health department" has the meaning assigned_  
+| _by Section 88.001._  
+|  _(8)_ _____"Open-enrollment charter school" and "private_  
+| _school" have the meanings assigned by Section 5.001, Education_  
+| _Code._  
+|  _(9)_ _____"Public water system" has the meaning assigned by_  
+| _Section 15.602, Water Code._  
+|  SECTION 2. Subchapter C, Chapter 341, Health and Safety  
+| Code, is amended by adding Sections 341.051, 341.052, 341.053,  
+| 341.054, and 341.055 to read as follows:  
+|  _Sec._ ___341.051._ _____LEAD SERVICE LINE REPLACEMENT. (a) Each_  
+| _public water system shall fully replace lead service lines in each_  
+| _public school, private school, or child care facility that is_  
+| _served by the public water system. The replacement shall be paid_  
+| _for by the public water system, regardless of ownership of any_  
+| _portion of the service line, and shall be performed in coordination_  
+| _with the relevant municipality, school, or child care facility. The_  
+| _replacement must conform to the commission's technical guidance_  
+| _under Section 341.055._  
+|  _(b)_ _____A public water system shall provide each school_  
+| _district, open-enrollment charter school, private school, and_  
+| _child care facility that the public water system serves any_  
+| _information in its possession relating to the location of lead_  
+| _service lines. Each school district, open-enrollment charter_  
+| _school, private school, and child care facility shall determine_  
+| _which of its buildings receive drinking water through lead service_  
+| _lines and report the information to the commission._  
+|  _(c)_ _____The commission shall ensure that lead service lines are_  
+| _disposed of in accordance with hazardous waste laws and not_  
+| _disposed of in a landfill or incinerated._  
+|  _Sec._ ___341.052._ _____PREVENTING LEAD CONTAMINATION. (a) Each_  
+| _public school, private school, and child care facility shall_  
+| _develop and adopt a plan of action to prevent elevated lead levels_  
+| _in all water used for drinking or cooking. The plan of action must_  
+| _include:_  
+|  _(1)_ _____installing and maintaining filters certified by_  
+| _the National Sanitation Foundation at all drinking water outlets in_  
+| _each school or facility building; and_  
+|  _(2)_ _____an inventory of lead-bearing parts within the_  
+| _school or facility's water delivery system, including fixtures and_  
+| _plumbing with lead soldering._  
+|  _(b)_ _____A public school, private school, or child care facility_  
+| _may, if consistent with other obligations in law, remove some_  
+| _drinking water outlets from operation, instead of installing_  
+| _filters on those outlets, if every child has reasonable access to_  
+| _free, safe drinking water._  
+|  _(c)_ _____To the extent that replacement is both feasible and_  
+| _cost-effective, each public school, private school, or child care_  
+| _facility shall replace the items identified in the_ ___lead-bearing_  
+| _parts inventory under Subsection (a)(2)._  
+|  _(d)_ _____The plan of action adopted under Subsection (a) may_  
+| _include any other measures to reduce lead contamination of drinking_  
+| _water outlets, consistent with the commission's technical guidance_  
+| _under Section 341.055._  
+|  _(e)_ _____A public school, private school, or child care facility_  
+| _may revise the school or facility's plan of action, especially in_  
+| _response to public input, if the plan of action complies with the_  
+| _commission's technical guidance under Section 341.055._  
+|  _(f)_ _____A public school, private school, or child care facility_  
+| _may seek the assistance of a local health department, a public water_  
+| _system, or the commission to comply with the provisions of this_  
+| _section._  
+|  _(g)_ _____Nothing in this section prevents a public school,_  
+| _private school, or child care facility from conducting more_  
+| _immediate lead remediation when a test indicates that a drinking_  
+| _water outlet has an elevated lead level, as provided by Section_  
+| _341.053(c)._  
+|  _Sec._ ___341.053._ _____TESTING AND REMEDIATION. (a) Each public_  
+| _school, private school, or child care facility shall undertake_  
+| _periodic testing of the drinking water outlets in each school or_  
+| _child care facility for the presence of lead. Each test for lead_  
+| _shall be conducted by a laboratory certified for this purpose by the_  
+| _executive director, in accordance with the sampling and testing_  
+| _methods specified in the technical guidance under Section 341.055._  
+| _Each school or child care facility shall perform the testing_  
+| _required by this section at least once per year, unless the_  
+| _executive director determines, on a_ ___case-by-case basis, that a_  
+| _greater or lesser frequency of testing is necessary or sufficient_  
+| _to ensure the public health, including timely testing after_  
+| _replacement of lead service lines._  
+|  _(b)_ _____Nothing in this section prevents a public school,_  
+| _private school, or child care facility from conducting more_  
+| _frequent testing than required under this section._  
+|  _(c)_ _____If testing reveals an elevated lead level at a drinking_  
+| _water outlet, the public school, private school, or child care_  
+| _facility shall, not later than 24 hours after receiving the test_  
+| _results, close off access to the drinking water outlet and report_  
+| _the test results to the commission. Not later than the 30th day_  
+| _after receiving test results showing one or more drinking water_  
+| _outlets have elevated levels of lead, the public school, private_  
+| _school, or child care facility must either:_  
+|  _(1)_ _____permanently shut or close off access to the_  
+| _affected drinking water outlets and provide an alternative source_  
+| _of safe water without elevated lead levels; or_  
+|  _(2)_ _____install and maintain filters certified by the_  
+| _National Sanitation Foundation at the drinking water outlets that_  
+| _have elevated lead levels._  
+|  _(d)_ _____A public school, private school, or child care facility_  
+| _shall take additional measures if necessary to eliminate elevated_  
+| _lead levels at the drinking water outlets, consistent with the_  
+| _technical guidance under Section 341.055._  
+|  _Sec._ ___341.054._ _____TRANSPARENCY AND PUBLIC RIGHT TO KNOW. (a)_  
+| _Each public school, private school, or child care facility shall:_  
+|  _(1)_ _____submit to the commission, the Texas Education_  
+| _Agency, and the department:_  
+|  _(A)_ _____the plan of action adopted under Section_  
+| _341.052 and any modifications to the plan; and_  
+|  _(B)_ _____information on testing activities conducted_  
+| _under Section 341.053, including:_  
+|  _(i) the date the testing was completed;_  
+|  _(ii)_ _____the location and type of each drinking_  
+| _water outlet tested;_  
+|  _(iii)_ _____the complete results of each test;_  
+| _and_  
+|  _(iv)_ _____any measures being taken under Section_  
+| _341.053(c) to remediate a drinking water outlet found to have an_  
+| _elevated lead level;_  
+|  _(2)_ _____maintain copies of information submitted under_  
+| _Subdivision (1) in a suitable location for inspection by the public_  
+| _and on the Internet website of the school or facility;_  
+|  _(3)_ _____notify parent, teacher, and employee_  
+| _organizations of the availability of the submitted information; and_  
+|  _(4)_ _____designate a person to serve as the contact person_  
+| _for communications with the commission and the public regarding the_  
+| _lead testing and remediation activities._  
+|  _(b)_ _____If testing conducted under Section 341.053 reveals an_  
+| _elevated lead level at a drinking water outlet, the public school,_  
+| _private school, or child care facility shall, within one business_  
+| _day, directly notify teachers, school personnel, and the parent of_  
+| _or person standing in parental relation to each student through_  
+| _written notice, electronic mail, or other means approved by the_  
+| _commission. The notification must include:_  
+|  _(1)_ _____a summary of the results of the testing and_  
+| _information on the availability of the complete test results for_  
+| _public inspection at a suitable location and on the Internet_  
+| _website of the school or facility;_  
+|  _(2)_ _____a description of any remedial measures being taken_  
+| _under Section 341.053;_  
+|  _(3)_ _____general information on the public health effects_  
+| _and risks posed by lead in drinking water and information on the_  
+| _availability of additional resources concerning lead in drinking_  
+| _water, as outlined in the technical guidance under Section 341.055;_  
+| _and_  
+|  _(4)_ _____the name and contact information of the person_  
+| _designated under Subsection (a)(4) to communicate with the public._  
+|  _(c)_ _____At each drinking water outlet, the public school,_  
+| _private school, or child care facility shall post an electronically_  
+| _accessible code with information on testing and remediation for_  
+| _that outlet. The information must include the maintenance schedule_  
+| _and log for installed filters certified by the National Sanitation_  
+| _Foundation, unless the drinking water outlet is equipped with a_  
+| _clearly visible indicator for filter replacement._  
+|  _Sec._ ___341.055._ _____TECHNICAL GUIDANCE. (a) The commission shall_  
+| _issue technical guidance that is at least as protective of the_  
+| _public health as the technical guidance for reducing lead in_  
+| _drinking water at schools issued by the United States Environmental_  
+| _Protection Agency. Provisions of the technical guidance related to_  
+| _testing to determine the presence and level of lead in water must be_  
+| _designed to maximize detection of lead in water and must prohibit_  
+| _sampling or testing methods that tend to mask lead contamination,_  
+| _including pre-stagnation flushing and removal of aerators prior to_  
+| _sampling._  
+|  _(b)_ _____The commission shall provide the technical guidance_  
+| _described by Subsection (a), a list of laboratories certified to_  
+| _conduct lead testing, and any other information the commission_  
+| _considers appropriate to each school district, open-enrollment_  
+| _charter school, private school, and child care facility._  
+|  SECTION 3. (a) Not later than December 1, 2019, the Texas  
+| Commission on Environmental Quality shall order each public water  
+| system to replace all lead service lines at each public school,  
+| private school, and child care facility as required by Section  
+| 341.051(a), Health and Safety Code, as added by this Act.  
+|  (b) Not later than September 1, 2022, each public water  
+| system shall fully replace lead service lines at all public  
+| schools, private schools, and child care facilities that it serves,  
+| as required by Section 341.051(a), Health and Safety Code, as added  
+| by this Act.  
+|  (c) Not later than October 1, 2019, each public water system  
+| shall provide school districts, open-enrollment charter schools,  
+| private schools, and child care facilities that it serves with  
+| information relating to the location of lead service lines, as  
+| required by Section 341.051(b), Health and Safety Code, as added by  
+| this Act.  
+|  (d) Not later than November 1, 2019, each school district,  
+| open-enrollment charter school, private school, and child care  
+| facility shall inform the Texas Commission on Environmental Quality  
+| which buildings are served by lead service lines as required by  
+| Section 341.051(b), Health and Safety Code, as added by this Act.  
+|  (e) Not later than March 1, 2020, each public school,  
+| private school, and child care facility shall adopt a plan of action  
+| to prevent elevated lead levels in all water used for drinking or  
+| cooking as required by Section 341.052(a), Health and Safety Code,  
+| as added by this Act.  
+|  (f) Not later than March 1, 2021, each public school,  
+| private school, and child care facility shall install and maintain  
+| filters certified by the National Sanitation Foundation, as  
+| required by Section 341.052(a), Health and Safety Code, as added by  
+| this Act.  
+|  (g) Not later than September 1, 2021, each public school,  
+| private school, and child care facility shall replace the items  
+| identified in the lead-bearing parts inventory, as required by  
+| Section 341.052(c), Health and Safety Code, as added by this Act.  
+|  (h) Not later than December 1, 2019, each public school,  
+| private school, or child care facility shall perform an initial  
+| test of each drinking water outlet, as required by Section  
+| 341.053(a), Health and Safety Code, as added by this Act.  
+|  (i) Not later than October 15, 2019, the Texas Commission on  
+| Environmental Quality shall post the technical guidance required by  
+| Section 341.055, Health and Safety Code, as added by this Act, on  
+| the commission's Internet website.  
+|  SECTION 4. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

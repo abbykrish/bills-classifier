@@ -1,0 +1,40 @@
+| 86R13544 JCG-F  
+---|---  
+|  By: Murphy | H.B. No. 3082  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to investigating and prosecuting the criminal offense of  
+| operating an unmanned aircraft over or near certain facilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 423.0045, Government Code, is amended by  
+| amending Subsection (b) and adding Subsection (e) to read as  
+| follows:  
+|  (b) A person commits an offense if the person _with criminal_  
+| _negligence_ [ ~~intentionally or knowingly~~ ]:  
+|  (1) operates an unmanned aircraft over a correctional  
+| facility, detention facility, or critical infrastructure facility  
+| and the unmanned aircraft is not higher than 400 feet above ground  
+| level;  
+|  (2) allows an unmanned aircraft to make contact with a  
+| correctional facility, detention facility, or critical  
+| infrastructure facility, including any person or object on the  
+| premises of or within the facility; or  
+|  (3) allows an unmanned aircraft to come within a  
+| distance of a correctional facility, detention facility, or  
+| critical infrastructure facility that is close enough to interfere  
+| with the operations of or cause a disturbance to the facility.  
+|  _(e)_ _____A peace officer who investigates an offense under this_  
+| _section shall notify the Department of Public Safety of the_  
+| _investigation. The department may require further information from_  
+| _the officer as the department determines necessary._  
+|  SECTION 2. Section 423.0045, Government Code, as amended by  
+| this Act, applies only to an offense committed on or after the  
+| effective date of this Act. An offense committed before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the offense was committed, and the former law is continued in  
+| effect for that purpose. For purposes of this section, an offense  
+| was committed before the effective date of this Act if any element  
+| of the offense occurred before that date.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

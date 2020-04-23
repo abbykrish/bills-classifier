@@ -1,0 +1,53 @@
+| 86R9652 LED-D  
+---|---  
+|  By: Cortez | H.B. No. 2414  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to participation by certain state employees in a default  
+| investment product under a deferred compensation plan.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 609.007(c), Government Code, is amended  
+| to read as follows:  
+|  (c) _To_ [ ~~Except as provided by Section 609.5025, to~~ ]  
+| participate in a deferred compensation plan, an employee must  
+| consent in the contract to automatic payroll deductions in an  
+| amount equal to the deferred amount.  
+|  SECTION 2. The heading to Section 609.5025, Government  
+| Code, is amended to read as follows:  
+|  Sec. 609.5025. _VOLUNTARY_ [ ~~AUTOMATIC~~ ] PARTICIPATION;  
+| _PROVISION OF INFORMATION_ [ ~~DEFAULT INVESTMENT PRODUCT~~ ].  
+|  SECTION 3. Sections 609.5025(b) and (h), Government Code,  
+| are amended to read as follows:  
+|  (b) An employee _may elect to participate_ [ ~~participates~~ ] in a  
+| 401(k) plan [ ~~unless the employee affirmatively elects not to~~  
+|  ~~participate in the plan~~ ]. _An_ [ ~~Notwithstanding Sections
+609.007(b)~~  
+|  ~~and (c), an~~ ] employee is [ ~~not~~ ] required to affirmatively
+contract  
+| for and consent to participation in a plan under _Sections_  
+| _609.007(b) and (c)_ [ ~~this section~~ ].  
+|  (h) Within existing resources, a state agency participating  
+| in a 401(k) plan shall inform new hires of their _option to enroll_  
+| [ ~~automatic enrollment~~ ] in a 401(k) account and their right to  
+| opt-out of enrollment. Within existing resources, this information  
+| shall be included as part of the new employee orientation process.  
+| [ ~~State agencies participating in a 401(k) plan shall maintain a~~  
+|  ~~record of a new hire's acknowledgement of receipt of information~~  
+|  ~~regarding the ability to opt-out of enrollment in a 401(k) plan.~~ ]  
+|  SECTION 4. Section 659.102(a), Government Code, is amended  
+| to read as follows:  
+|  (a) An employee of a state agency may authorize in writing a  
+| deduction each pay period from the employee's salary or wage  
+| payment for coverage of the employee under an eligible supplemental  
+| optional benefits program. A deduction may be made each pay period  
+| from the employee's salary or wage payment [ ~~without authorization~~  
+|  ~~in writing from the employee~~ ] for participation in a 401(k) plan as  
+| provided by Section 609.5025.  
+|  SECTION 5. Sections 609.5025(c) and (g), Government Code,  
+| are repealed.  
+|  SECTION 6. The change in law made by this Act applies only  
+| to an officer or state employee who initially takes office or begins  
+| employment on or after the effective date of this Act.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

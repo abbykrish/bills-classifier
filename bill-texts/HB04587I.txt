@@ -1,0 +1,88 @@
+| 86R8952 TSR-F  
+---|---  
+|  By: Smithee | H.B. No. 4587  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to optional annuity increases for certain retirees and  
+| beneficiaries of the Texas Municipal Retirement System and related  
+| distribution requirements.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 853.404, Government Code, is amended by  
+| amending Subsection (c) and adding Subsection (f) to read as  
+| follows:  
+|  (c) The governing body of a participating municipality that  
+| adopts an ordinance under Section 854.203 providing for increased  
+| annuities effective January 1 of a designated year may further  
+| provide in the ordinance that increases in annuities will be  
+| credited effective January 1 of each year following the designated  
+| year based on recomputations made as provided by Section _854.203(b)_  
+| [ ~~854.203(b)(1)~~ ] for each year following the initial computation,  
+| and using the fraction specified in the ordinance as required under  
+| Section _854.203(b)_ [ ~~854.203(b)(2)~~ ] in the recomputations.  
+|  _(f)_ _____If an ordinance described by Subsection (c) will cease_  
+| _to be in effect for a future year, or if an increase in annuities_  
+| _specified in an ordinance described by Subsection (c) will be_  
+| _changed or discontinued as provided by this section, the governing_  
+| _body of the participating municipality shall notify members and_  
+| _annuitants by regular mail not later than the 60th day before the_  
+| _date on which the ordinance will cease to be in effect or the_  
+| _increase will be changed or discontinued. For an annuitant who_  
+| _receives a periodic check or advice of deposit from the retirement_  
+| _system by regular mail, the notice required by this subsection must_  
+| _be included with the annuitant's check or advice of deposit._  
+|  SECTION 2. Section 854.203, Government Code, is amended by  
+| amending Subsections (b) and (f) and adding Subsection (b-1) to  
+| read as follows:  
+|  (b) The amount of annuity increase under this section is  
+| computed _by one of the following methods:_  
+|  _(1)_ as the sum of the prior and current service  
+| annuities on the effective date of retirement of the person on whose  
+| service the annuities are based, multiplied by:  
+|  _(A)_ [ ~~(1)~~ ] the percentage change in the Consumer  
+| Price Index for All Urban Consumers, published by the Bureau of  
+| Labor Statistics of the United States Department of Labor, from  
+| December of the year immediately preceding the effective date of  
+| the person's retirement to the December that is 13 months before the  
+| effective date of the ordinance providing the increase; and  
+|  _(B)_ [ ~~(2)~~ ] 30 percent, 50 percent, or 70 percent,  
+| as specified by the governing body in the ordinance, except that if  
+| the governing body has specified a different percentage in an  
+| ordinance adopted under Section 853.404(c) and in effect on  
+| December 31, 1999, the percentage used in computing annuity  
+| increases for retirees of that municipality remains in effect until  
+| changed or discontinued under Section 853.404 _; or_  
+|  _(2)_ _____as the sum of the prior and current service_  
+| _annuities of the person on whose service the annuities are based on_  
+| _the effective date of the annuity increase multiplied by the_  
+| _percentage increase specified in the ordinance adopted by the_  
+| _governing body, except that an adjustment to an annuity after the_  
+| _annuity starting date for an increase under this subdivision may_  
+| _not cause an annuitant's annuity to exceed the amount to which the_  
+| _annuitant would have been entitled to had the maximum amount of the_  
+| _increase allowed under Subdivision (1) been applied to the_  
+| _annuitant's annuity_.  
+|  _(b-1)_ _____An increase under Subsection (b)(2) applies to all_  
+| _annuities for which the effective date of retirement of the person_  
+| _on whose service the annuity is based is at least 12 months before_  
+| _the effective date of the increase._ ___Notwithstanding any other_  
+| _provision of this subtitle, each distribution of a benefit under_  
+| _this subtitle must be determined and made in accordance with_  
+| _Section 401(a)(9), Internal Revenue Code of 1986. The board of_  
+| _trustees may adopt rules it considers necessary to comply with the_  
+| _distribution requirements._  
+|  (f) _An increase granted to an annuitant under Subsection_  
+| _(b)(2), or the_ [ ~~The~~ ] amount by which an increase under _Subsection_  
+| _(b)(1)_ [ ~~this section~~ ] exceeds all previously granted increases to  
+| an annuitant _,_ is _:_  
+|  _(1)_ payable as a prior service annuity _;_  
+|  _(2)_ [ ~~, is~~ ] an obligation of the municipality's account  
+| in the benefit accumulation fund _;_ [ ~~,~~ ] and  
+|  _(3)_ [ ~~is~~ ] subject to reduction under Section  
+| 855.308(f).  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

@@ -1,0 +1,989 @@
+|  
+---|---  
+|  By: Price | H.B. No. 18  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to consideration of the mental health of public school  
+| students in training requirements for certain school employees,  
+| curriculum requirements, counseling programs, educational  
+| programs, state and regional programs and services, and health care  
+| services for students and to mental health first aid program  
+| training and reporting regarding local mental health authority and  
+| school district personnel.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. MENTAL HEALTH OF STUDENTS IN PUBLIC SCHOOLS  
+|  SECTION 1.01. Section 5.001, Education Code, is amended by  
+| adding Subdivision (9) to read as follows:  
+|  _(9)_ _____"Substance abuse" means a patterned use of a_  
+| _substance, including a controlled substance, as defined by Chapter_  
+| _481, Health and Safety Code, and alcohol, in which the person_  
+| _consumes the substance in amounts or with methods that are harmful_  
+| _to the person's self or to others._  
+|  SECTION 1.02. Section 11.252(a), Education Code, is amended  
+| to read as follows:  
+|  (a) Each school district shall have a district improvement  
+| plan that is developed, evaluated, and revised annually, in  
+| accordance with district policy, by the superintendent with the  
+| assistance of the district-level committee established under  
+| Section 11.251. The purpose of the district improvement plan is to  
+| guide district and campus staff in the improvement of student  
+| performance for all student groups in order to attain state  
+| standards in respect to the achievement indicators adopted under  
+| Section 39.053(c). The district improvement plan must include  
+| provisions for:  
+|  (1) a comprehensive needs assessment addressing  
+| district student performance on the achievement indicators, and  
+| other appropriate measures of performance, that are disaggregated  
+| by all student groups served by the district, including categories  
+| of ethnicity, socioeconomic status, sex, and populations served by  
+| special programs, including students in special education programs  
+| under Subchapter A, Chapter 29;  
+|  (2) measurable district performance objectives for  
+| all appropriate achievement indicators for all student  
+| populations, including students in special education programs  
+| under Subchapter A, Chapter 29, and other measures of student  
+| performance that may be identified through the comprehensive needs  
+| assessment;  
+|  (3) strategies for improvement of student performance  
+| that include:  
+|  (A) instructional methods for addressing the  
+| needs of student groups not achieving their full potential;  
+|  (B) ~~methods~~ _evidence-based practices_ for  
+| addressing the needs of students for special programs, including:  
+|  (i) suicide prevention programs, in  
+| accordance with Subchapter _G_ [ ~~O-1~~ ], Chapter _38_ [ ~~161, Health
+and~~  
+|  ~~Safety Code~~ ], which _include_ [ ~~includes~~ ] a parental or guardian  
+| notification procedure;  
+|  (ii) conflict resolution programs;  
+|  (iii) violence prevention programs; and  
+|  (iv) dyslexia treatment programs;  
+|  (C) dropout reduction;  
+|  (D) integration of technology in instructional  
+| and administrative programs;  
+|  (E) _positive behavior interventions and support,_  
+| _including interventions and support that integrate best practices_  
+| _on grief-informed and trauma-informed care_ [ ~~discipline~~  
+|  ~~management~~ ];  
+|  (F) staff development for professional staff of  
+| the district;  
+|  (G) career education to assist students in  
+| developing the knowledge, skills, and competencies necessary for a  
+| broad range of career opportunities; [ ~~and~~ ]  
+|  (H) accelerated education; _and_  
+|  _(I)_ _____implementation of a comprehensive school_  
+| _counseling program under Section 33.005;_  
+|  (4) strategies for providing to _elementary school,_  
+| middle school, junior high school, and high school students, those  
+| students' teachers and school counselors, and those students'  
+| parents information about:  
+|  (A) higher education admissions and financial  
+| aid opportunities _, including state financial aid opportunities_  
+| _such as_ [ ~~;~~  
+|  [ ~~(B)~~ ] the TEXAS grant program and the Teach for  
+| Texas grant program established under Chapter 56;  
+|  _(B)_ [ ~~(C)~~ ] the need for students to make informed  
+| curriculum choices to be prepared for success beyond high school;  
+| and  
+|  _(C)_ [ ~~(D)~~ ] sources of information on higher  
+| education admissions and financial aid;  
+|  (5) resources needed to implement identified  
+| strategies;  
+|  (6) staff responsible for ensuring the accomplishment  
+| of each strategy;  
+|  (7) timelines for ongoing monitoring of the  
+| implementation of each improvement strategy;  
+|  (8) formative evaluation criteria for determining  
+| periodically whether strategies are resulting in intended  
+| improvement of student performance; and  
+|  (9) the policy under Section 38.0041 addressing sexual  
+| abuse and other maltreatment of children.  
+|  SECTION 1.03. Section 21.044(c-1), Education Code, is  
+| amended to read as follows:  
+|  (c-1) Any minimum academic qualifications for a certificate  
+| specified under Subsection (a) that require a person to possess a  
+| bachelor's degree must also require that the person receive, as  
+| part of the training required to obtain that certificate,  
+| instruction regarding mental health, substance abuse, and youth  
+| suicide. The instruction required must:  
+|  (1) be provided through _:_  
+|  _(A)_ a program selected from the list of  
+| recommended best practice-based programs and research-based  
+| practices established under Section _38.351; or_  
+|  _(B)_ _____a course offered by any accredited public or_  
+| _private postsecondary educational institution as part of a degree_  
+| _program_ [ ~~161.325, Health and Safety Code~~ ]; and  
+|  (2) include effective strategies [ ~~for teaching and~~  
+|  ~~intervening with students with mental or emotional disorders~~ ],  
+| including de-escalation techniques and positive behavioral  
+| interventions and supports _, for teaching and intervening with_  
+| _students with mental health conditions or who engage in substance_  
+| _abuse_.  
+|  SECTION 1.04. Sections 21.054(d), (d-2), (e), (e-2), (f),  
+| and (g), Education Code, are amended to read as follows:  
+|  (d) Continuing education requirements for a classroom  
+| teacher must provide that _at least_ [ ~~not more than~~ ] 25 percent of the  
+| training required every five years include instruction regarding:  
+|  (1) collecting and analyzing information that will  
+| improve effectiveness in the classroom;  
+|  (2) recognizing early warning indicators that a  
+| student may be at risk of dropping out of school;  
+|  (3) digital learning, digital teaching, and  
+| integrating technology into classroom instruction;  
+|  (4) educating diverse student populations, including:  
+|  (A) students _who are eligible to participate in_  
+| _special education programs under Subchapter A, Chapter 29_ [ ~~with~~  
+|  ~~disabilities, including mental health disorders~~ ];  
+|  (B) _students who are eligible to receive_  
+| _educational services required under Section 504, Rehabilitation_  
+| _Act of 1973 (29 U.S.C. Section 794);_  
+|  _(C)_ _____students with mental health conditions or who_  
+| _engage in substance abuse;_  
+|  _(D)_ _____students with intellectual or developmental_  
+| _disabilities;_  
+|  _(E)_ students who are educationally  
+| disadvantaged;  
+|  _(F)_ [ ~~(C)~~ ] students of limited English  
+| proficiency; and  
+|  _(G)_ [ ~~(D)~~ ] students at risk of dropping out of  
+| school; [ ~~and~~ ]  
+|  (5) understanding appropriate relationships,  
+| boundaries, and communications between educators and students _;_  
+| _and_ [ ~~.~~ ]  
+|  _(6)_ [ ~~(d-2)~~ ~~~~ ~~~~ ~~Continuing education requirements for a~~  
+|  ~~classroom teacher may include instruction regarding~~ ] how _mental_  
+| _health conditions, including_ grief and trauma _,_ affect student  
+| learning and behavior and how evidence-based, grief-informed, and  
+| trauma-informed strategies support the academic success of  
+| students affected by grief and trauma.  
+|  _(d-2)_ _____The instruction required under Subsection (d)(6) must_  
+| _be:_  
+|  _(1)_ _____based on relevant best practice-based programs and_  
+| _research-based practices; and_  
+|  _(2)_ _____approved by the commissioner, in consultation with_  
+| _the Health and Human Services Commission._  
+|  (e) Continuing education requirements for a principal must  
+| provide that _at least_ [ ~~not more than~~ ] 25 percent of the training  
+| required every five years include instruction regarding:  
+|  (1) effective and efficient management, including:  
+|  (A) collecting and analyzing information;  
+|  (B) making decisions and managing time; and  
+|  (C) supervising student discipline and managing  
+| behavior;  
+|  (2) recognizing early warning indicators that a  
+| student may be at risk of dropping out of school;  
+|  (3) digital learning, digital teaching, and  
+| integrating technology into campus curriculum and instruction;  
+|  (4) _effective implementation of a comprehensive_  
+| _school counseling program under Section 33.005;_  
+|  _(5)_ _____mental health programs addressing a mental health_  
+| _condition;_  
+|  _(6)_ educating diverse student populations, including:  
+|  (A) students _who are eligible to participate in_  
+| _special education programs under Subchapter A, Chapter 29_ [ ~~with~~  
+|  ~~disabilities, including mental health disorders~~ ];  
+|  (B) _students with intellectual or developmental_  
+| _disabilities;_  
+|  _(C)_ _____students who are eligible to receive_  
+| _educational services required under Section 504, Rehabilitation_  
+| _Act of 1973 (29 U.S.C. Section 794);_  
+|  _(D)_ _____students with mental health conditions or who_  
+| _engage in substance abuse;_  
+|  _(E)_ students who are educationally  
+| disadvantaged;  
+|  _(F)_ [ ~~(C)~~ ] students of limited English  
+| proficiency; and  
+|  _(G)_ [ ~~(D)~~ ] students at risk of dropping out of  
+| school; [ ~~and~~ ]  
+|  _(7)_ [ ~~(5)~~ ] preventing, recognizing, and reporting any  
+| sexual conduct between an educator and student that is prohibited  
+| under Section 21.12, Penal Code, or for which reporting is required  
+| under Section 21.006 of this code _; and_ [ ~~.~~ ]  
+|  (8) [ ~~(e-2)~~ ~~~~ ~~~~ ~~Continuing education requirements for a~~  
+|  ~~principal may include instruction regarding~~ ] how _mental health_  
+| _conditions, including_ grief and trauma _,_ affect student learning and  
+| behavior and how evidence-based, grief-informed, and  
+| trauma-informed strategies support the academic success of  
+| students affected by grief and trauma.  
+|  _(e-2)_ _____The instruction required under Subsection (e)(8) must_  
+| _be:_  
+|  _(1)_ _____based on relevant best practice-based programs and_  
+| _research-based practices; and_  
+|  _(2)_ _____approved by the commissioner, in consultation with_  
+| _the Health and Human Services Commission._  
+|  (f) Continuing education requirements for a counselor must  
+| provide that _at least_ [ ~~not more than~~ ] 25 percent of training  
+| required every five years include instruction regarding:  
+|  (1) assisting students in developing high school  
+| graduation plans;  
+|  (2) implementing dropout prevention strategies; [ ~~and~~ ]  
+|  (3) informing students concerning:  
+|  (A) college admissions, including college  
+| financial aid resources and application procedures; and  
+|  (B) career opportunities _;_  
+|  _(4)_ _____counseling students concerning mental health_  
+| _conditions and substance abuse, including through the use of_  
+| _grief-informed and trauma-informed interventions and crisis_  
+| _management and suicide prevention strategies; and_  
+|  _(5)_ _____effective implementation of a comprehensive_  
+| _school counseling program under Section 33.005_.  
+|  (g) The board shall adopt rules that allow an educator to  
+| fulfill [ ~~up to 12 hours of~~ ] continuing education _requirements_ by  
+| participating in a mental health first aid training program ~~offered~~  
+|  ~~by a local mental health authority under Section 1001.203, Health~~  
+|  ~~and Safety Code~~.  _The rules adopted under this subsection must allow_  
+| _an educator to complete an evidence-based mental health first aid_  
+| _training program or evidence-based trauma-informed and_  
+| _grief-informed care program described by this subsection and_  
+| _receive credit toward continuing education requirements for twice_  
+| _the number of hours of instruction provided under that program, not_  
+| _to exceed 16 hours. The program must be offered through a classroom_  
+| _instruction format that requires in-person attendance._ [ ~~The number~~  
+|  ~~of hours of continuing education an educator may fulfill under this~~  
+|  ~~subsection may not exceed the number of hours the educator actually~~  
+|  ~~spends participating in a mental health first aid training~~  
+|  ~~program.~~ ]  
+|  SECTION 1.05. Sections 21.451(d) and (d-1), Education Code,  
+| are amended to read as follows:  
+|  (d) The staff development:  
+|  (1) may include training in:  
+|  (A) technology;  
+|  (B) _positive behavior intervention and support_  
+| [ ~~conflict resolution;~~  
+|  [ ~~(C) discipline~~] strategies, including classroom  
+| management, district discipline policies, and the student code of  
+| conduct adopted under [ ~~Section 37.001 and~~ ] Chapter 37;  
+|  [ ~~(D)~~ ~~~~ ~~~~ ~~preventing, identifying, responding to, and~~  
+|  ~~reporting incidents of bullying;~~ ] and  
+|  (C) [ ~~(E)~~ ] digital learning;  
+|  (2) subject to Subsection (e) and to Section 21.3541  
+| and rules adopted under that section, must include training that is  
+| evidence-based, as defined by Section 8101, Every Student Succeeds  
+| Act (20 U.S.C. Section 7801), _and_ that:  
+|  (A) relates to instruction of students with  
+| disabilities _, including students with disabilities who also have_  
+| _other intellectual or mental health conditions_ ; and  
+|  (B) is designed for educators who work primarily  
+| outside the area of special education; and  
+|  (3) must include [ ~~suicide prevention~~ ] training _on:_  
+|  _(A) suicide prevention;_  
+|  _(B)_ _____recognizing signs of mental health_  
+| _conditions and substance abuse;_  
+|  _(C)_ _____strategies for establishing and maintaining_  
+| _positive relationships among students, including conflict_  
+| _resolution;_  
+|  _(D)_ _____how grief and trauma affect student learning_  
+| _and behavior and how evidence-based, grief-informed, and_  
+| _trauma-informed strategies support the academic success of_  
+| _students affected by grief and trauma; and_  
+|  _(E)_ _____preventing, identifying, responding to, and_  
+| _reporting incidents of bullying._  
+|  _(d-1) The training required by Subsection (d)(3)_ [ ~~that~~ ]  
+| must _:_  
+|  _(1)_ be provided:  
+|  (A) on an annual basis, as part of a new employee  
+| orientation, to all new school district and open-enrollment charter  
+| school educators; and  
+|  (B) to existing school district and  
+| open-enrollment charter school educators on a schedule adopted by  
+| the agency by rule _; and_ [ ~~.~~ ]  
+|  _(2)_ [ ~~(d-1) The suicide prevention training required by~~  
+|  ~~Subsection (d)(3) must~~ ] use a best practice-based program  
+| recommended by the _Health and Human Services Commission_ [ ~~Department~~  
+|  ~~of State Health Services~~ ] in coordination with the agency under  
+| Section _38.351_ [ ~~161.325, Health and Safety Code~~ ].  
+|  SECTION 1.06. Section 21.462, Education Code, is amended to  
+| read as follows:  
+|  Sec. 21.462. RESOURCES REGARDING STUDENTS WITH MENTAL  
+| HEALTH _OR SUBSTANCE ABUSE CONDITIONS_ [ ~~NEEDS~~ ]. The agency, in  
+| coordination with the Health and Human Services Commission, shall  
+| establish and maintain an Internet website to provide resources for  
+| school district or open-enrollment charter school employees  
+| regarding working with students with mental health conditions _or_  
+| _who engage in substance abuse_. The agency must include on the  
+| Internet website information about:  
+|  (1) grief-informed and trauma-informed practices;  
+|  (2) building skills related to managing emotions,  
+| establishing and maintaining positive relationships, and  
+| responsible decision-making;  
+|  (3) positive behavior interventions and supports; and  
+|  (4) a safe and supportive school climate.  
+|  SECTION 1.07. Sections 28.002(a) and (r), Education Code,  
+| are amended to read as follows:  
+|  (a) Each school district that offers kindergarten through  
+| grade 12 shall offer, as a required curriculum:  
+|  (1) a foundation curriculum that includes:  
+|  (A) English language arts;  
+|  (B) mathematics;  
+|  (C) science; and  
+|  (D) social studies, consisting of Texas, United  
+| States, and world history, government, economics, with emphasis on  
+| the free enterprise system and its benefits, and geography; and  
+|  (2) an enrichment curriculum that includes:  
+|  (A) to the extent possible, languages other than  
+| English;  
+|  (B) health, with emphasis on _:_  
+|  _(i) physical health, including_ the  
+| importance of proper nutrition and exercise _; and_  
+|  _(ii)_ _____mental health, including instruction_  
+| _about mental health conditions, substance abuse, skills to manage_  
+| _emotions, establishing and maintaining positive relationships, and_  
+| _responsible decision-making_ ;  
+|  (C) physical education;  
+|  (D) fine arts;  
+|  (E) career and technology education;  
+|  (F) technology applications;  
+|  (G) religious literature, including the Hebrew  
+| Scriptures (Old Testament) and New Testament, and its impact on  
+| history and literature; and  
+|  (H) personal financial literacy.  
+|  (r) In adopting the essential knowledge and skills for the  
+| health curriculum under Subsection (a)(2)(B), the State Board of  
+| Education shall adopt essential knowledge and skills that address  
+| the _science, risk factors, causes,_ dangers, [ ~~causes,~~ ]  
+| consequences, signs, symptoms, and treatment of _substance abuse,_  
+| _including the use of illegal drugs, abuse of prescription drugs,_  
+| _abuse of alcohol such as by_ binge drinking _or other excessive_  
+| _drinking resulting in_ [ ~~and~~ ] alcohol poisoning _, inhaling solvents,_  
+| _and other forms of substance abuse_. The agency shall compile a list  
+| of evidence-based _substance abuse_ [ ~~alcohol~~ ] awareness programs  
+| from which a school district shall choose a program to use in the  
+| district's middle school, junior high school, and high school  
+| health curriculum. In this subsection, "evidence-based _substance_  
+| _abuse_ [ ~~alcohol~~ ] awareness program" means a program, practice, or  
+| strategy that has been proven to effectively prevent _substance_  
+| _abuse_ [ ~~or delay alcohol use~~ ] among students, as determined by  
+| evaluations that _are evidence-based_ [ ~~use valid and reliable~~  
+|  ~~measures and that are published in peer-reviewed journals~~ ].  
+|  SECTION 1.08. Sections 28.004(c), (d), and (k), Education  
+| Code, are amended to read as follows:  
+|  (c) The local school health advisory council's duties  
+| include recommending:  
+|  (1) the number of hours of instruction to be provided  
+| in:  
+|  _(A)_ health education _in kindergarten through_  
+| _grade eight; and_  
+|  _(B)_ _____if the school district requires health_  
+| _education for high school graduation, health education, including_  
+| _physical health education and mental health education, in grades 9_  
+| _through 12_ ;  
+|  (2) policies, procedures, strategies, and curriculum  
+| appropriate for specific grade levels designed to prevent _physical_  
+| _health concerns, including_ obesity, cardiovascular disease, Type 2  
+| diabetes, and mental health concerns through coordination of:  
+|  (A) health education _, which must address_  
+| _physical health concerns and mental health concerns to ensure the_  
+| _integration of physical health education and mental health_  
+| _education_ ;  
+|  (B) physical education and physical activity;  
+|  (C) nutrition services;  
+|  (D) parental involvement;  
+|  (E) instruction _on substance abuse prevention_  
+| [ ~~to prevent the use of e-cigarettes, as defined by Section 161.081,~~  
+|  ~~Health and Safety Code, and tobacco~~ ];  
+|  (F) school health services _, including mental_  
+| _health services_ ;  
+|  (G) _a comprehensive school_ counseling _program_  
+| _under Section 33.005_ [ ~~and guidance services~~ ];  
+|  (H) a safe and healthy school environment; and  
+|  (I) school employee wellness;  
+|  (3) appropriate grade levels and methods of  
+| instruction for human sexuality instruction;  
+|  (4) strategies for integrating the curriculum  
+| components specified by Subdivision (2) with the following elements  
+| in a coordinated school health program for the district:  
+|  (A) school health services _, including physical_  
+| _health services and mental health services, if provided at a campus_  
+| _by the district or by a third party under a contract with the_  
+| _district_ ;  
+|  (B) _a comprehensive school_ counseling _program_  
+| _under Section 33.005_ [ ~~and guidance services~~ ];  
+|  (C) a safe and healthy school environment; and  
+|  (D) school employee wellness; and  
+|  (5) if feasible, joint use agreements or strategies  
+| for collaboration between the school district and community  
+| organizations or agencies.  
+|  (d) The board of trustees shall appoint at least five  
+| members to the local school health advisory council. A majority of  
+| the members must be persons who are parents of students enrolled in  
+| the district and who are not employed by the district. One of those  
+| members shall serve as chair or co-chair of the council. The board  
+| of trustees also may appoint one or more persons from each of the  
+| following groups or a representative from a group other than a group  
+| specified under this subsection:  
+|  (1) _classroom_ [ ~~public school~~ ] teachers _employed by the_  
+| _district_ ;  
+|  (2) _school counselors certified under Subchapter B,_  
+| _Chapter 21, employed by the district;_  
+|  _(3)_ [ ~~public~~ ] school administrators _employed by the_  
+| _district_ ;  
+|  _(4)_ [ ~~(3)~~ ] district students;  
+|  _(5)_ [ ~~(4)~~ ] health care professionals _licensed or_  
+| _certified to practice in this state, including medical or mental_  
+| _health professionals_ ;  
+|  _(6)_ [ ~~(5)~~ ] the business community;  
+|  _(7)_ [ ~~(6)~~ ] law enforcement;  
+|  _(8)_ [ ~~(7)~~ ] senior citizens;  
+|  _(9)_ [ ~~(8)~~ ] the clergy;  
+|  _(10)_ [ ~~(9)~~ ] nonprofit health organizations; and  
+|  _(11)_ [ ~~(10)~~ ] local domestic violence programs.  
+|  (k) A school district shall publish in the student handbook  
+| and post on the district's Internet website, if the district has an  
+| Internet website:  
+|  (1) _a statement of the policies and procedures adopted_  
+| _to promote the physical health and mental health of students, the_  
+| _physical health and mental health resources available at each_  
+| _campus, contact information for the nearest providers of essential_  
+| _public health services under Chapter 121, Health and Safety Code,_  
+| _and the contact information for the nearest local mental health_  
+| _authority;_  
+|  _(2)_ a statement of the policies adopted to ensure that  
+| elementary school, middle school, and junior high school students  
+| engage in at least the amount and level of physical activity  
+| required by Section 28.002(l);  
+|  _(3)_ [ ~~(2)~~ ] a statement of:  
+|  (A) the number of times during the preceding year  
+| the district's school health advisory council has met;  
+|  (B) whether the district has adopted and enforces  
+| policies to ensure that district campuses comply with agency  
+| vending machine and food service guidelines for restricting student  
+| access to vending machines; and  
+|  (C) whether the district has adopted and enforces  
+| policies and procedures that prescribe penalties for the use of  
+| e-cigarettes, as defined by Section 38.006, and tobacco products by  
+| students and others on school campuses or at school-sponsored or  
+| school-related activities; and  
+|  _(4)_ [ ~~(3)~~ ] a statement providing notice to parents that  
+| they can request in writing their child's physical fitness  
+| assessment results at the end of the school year ~~.~~ _; and_  
+|  _(5)_ _____a statement providing notice to parents if the_  
+| _campus does not employ a full-time school counselor or nurse._  
+|  SECTION 1.09. Section 29.012(d), Education Code, is amended  
+| to read as follows:  
+|  (d) The _agency_ [ ~~Texas Education Agency~~ ], the _Health and_  
+| _Human Services Commission, the Texas Workforce Commission, and the_  
+| _Department of Family and Protective Services_ [ ~~Texas Department of~~  
+|  ~~Mental Health and Mental Retardation, the Texas Department of Human~~  
+|  ~~Services, the Texas Department of Health, the Department of~~  
+|  ~~Protective and Regulatory Services, the Interagency Council on~~  
+|  ~~Early Childhood Intervention, the Texas Commission on Alcohol and~~  
+|  ~~Drug Abuse, and the Texas Juvenile Justice Department~~ ] by a  
+| cooperative effort shall develop and by rule adopt a memorandum of  
+| understanding. The memorandum must:  
+|  (1) establish the respective responsibilities of  
+| school districts and of residential facilities for the provision of  
+| a free, appropriate public education, as required by the  
+| Individuals with Disabilities Education Act (20 U.S.C. Section 1400  
+| et seq.) and its subsequent amendments, including each requirement  
+| for children with disabilities who reside in those facilities;  
+|  (2) coordinate regulatory and planning functions of  
+| the parties to the memorandum;  
+|  (3) establish criteria for determining when a public  
+| school will provide educational services;  
+|  (4) provide for appropriate educational space when  
+| education services will be provided at the residential facility;  
+|  (5) establish measures designed to ensure the safety  
+| of students and teachers; and  
+|  (6) provide for binding arbitration consistent with  
+| Chapter 2009, Government Code, and Section 154.027, Civil Practice  
+| and Remedies Code.  
+|  SECTION 1.10. Section 30.0015(b), Education Code, is  
+| amended to read as follows:  
+|  (b) The agency by rule shall develop and annually  
+| disseminate standards for a school district's transfer of an  
+| assistive technology device to an entity listed in this subsection  
+| when a student with a disability using the device changes the school  
+| of attendance in the district or ceases to attend school in the  
+| district that purchased the device and the student's parents, or  
+| the student if the student has the legal capacity to enter into a  
+| contract, agrees to the transfer. The device may be transferred to:  
+|  (1) the school or school district in which the student  
+| enrolls;  
+|  (2) a state agency, including the _Health and Human_  
+| _Services_ [ ~~Texas Rehabilitation~~ ] Commission and the Texas _Workforce_  
+| _Commission_ [ ~~Department of Mental Health and Mental Retardation~~ ],  
+| that provides services to the student following the student's  
+| graduation from high school; or  
+|  (3) the student's parents, or the student if the  
+| student has the legal capacity to enter into a contract.  
+|  SECTION 1.11. Section 30.002(b), Education Code, is amended  
+| to read as follows:  
+|  (b) The agency shall:  
+|  (1) develop standards and guidelines for all special  
+| education services for children with visual impairments that it is  
+| authorized to provide or support under this code;  
+|  (2) supervise regional education service centers and  
+| other entities in assisting school districts in serving children  
+| with visual impairments more effectively;  
+|  (3) develop and administer special education services  
+| for students with both serious visual and auditory impairments;  
+|  (4) evaluate special education services provided for  
+| children with visual impairments by school districts and approve or  
+| disapprove state funding of those services; and  
+|  (5) maintain an effective liaison between special  
+| education programs provided for children with visual impairments by  
+| school districts and related initiatives of the _Health and Human_  
+| _Services Commission_ [ ~~Department of Assistive and Rehabilitative~~  
+|  ~~Services Division for Blind Services~~ ], the Department of State  
+| Health Services Mental Health and Substance Abuse Division, the  
+| Texas _Workforce Commission_ [ ~~School for the Blind and Visually~~  
+|  ~~Impaired~~ ], and other related programs, agencies, or facilities as  
+| appropriate.  
+|  SECTION 1.12. Section 33.004(b), Education Code, is amended  
+| to read as follows:  
+|  (b) Each school, before implementing a comprehensive _school_  
+| [ ~~and developmental guidance and~~ ] counseling program _under Section_  
+| _33.005_ , shall annually conduct a preview of the program for parents  
+| and guardians. All materials, including curriculum to be used  
+| during the year, must be available for a parent or guardian to  
+| preview during school hours. Materials or curriculum not included  
+| in the materials available on the campus for preview may not be  
+| used.  
+|  SECTION 1.13. Section 33.005, Education Code, is amended to  
+| read as follows:  
+|  Sec. 33.005. _COMPREHENSIVE SCHOOL_ [ ~~DEVELOPMENTAL GUIDANCE~~  
+|  ~~AND~~ ] COUNSELING PROGRAMS. A school counselor shall work with the  
+| school faculty and staff, students, parents, and the community to  
+| plan, implement, and evaluate a _comprehensive school_  
+| [ ~~developmental guidance and~~ ] counseling program _that conforms to_  
+| _the most recent edition of the Texas Model for Comprehensive School_  
+| _Counseling Programs developed by the Texas Counseling Association_.  
+| The school counselor shall design the program to include:  
+|  (1) a guidance curriculum to help students develop  
+| their full educational potential, including the student's  
+| interests and career objectives;  
+|  (2) a responsive services component to intervene on  
+| behalf of any student whose immediate personal concerns or problems  
+| put the student's continued educational, career, personal, or  
+| social development at risk;  
+|  (3) an individual planning system to guide a student  
+| as the student plans, monitors, and manages the student's own  
+| educational, career, personal, and social development; and  
+|  (4) system support to support the efforts of teachers,  
+| staff, parents, and other members of the community in promoting the  
+| educational, career, personal, and social development of students.  
+|  SECTION 1.14. Subchapter A, Chapter 38, Education Code, is  
+| amended by adding Section 38.0101 to read as follows:  
+|  _Sec._ ___38.0101._ _____AUTHORITY TO EMPLOY OR CONTRACT WITH_  
+| _NONPHYSICIAN MENTAL HEALTH PROFESSIONAL. (a) A school district may_  
+| _employ or contract with one or more nonphysician mental health_  
+| _professionals._  
+|  _(b)_ _____In this section, "nonphysician mental health_  
+| _professional" means:_  
+|  _(1)_ _____a psychologist licensed to practice in this state_  
+| _and designated as a health-service provider;_  
+|  _(2)_ _____a registered nurse with a master's or doctoral_  
+| _degree in psychiatric nursing;_  
+|  _(3) a licensed clinical social worker;_  
+|  _(4)_ _____a professional counselor licensed to practice in_  
+| _this state; or_  
+|  _(5)_ _____a marriage and family therapist licensed to_  
+| _practice in this state._  
+|  SECTION 1.15. Section 38.013(a), Education Code, is amended  
+| to read as follows:  
+|  (a) The agency shall make available to each school district  
+| one or more coordinated health programs [ ~~designed to prevent~~  
+|  ~~obesity, cardiovascular disease, oral diseases, and Type 2~~  
+|  ~~diabetes~~ ] in elementary school, middle school, and junior high  
+| school [ ~~students~~ ]. Each program must provide for coordinating  
+| _education and services related to_ :  
+|  (1) _physical_ health education, including _programs_  
+| _designed to prevent obesity, cardiovascular disease, oral_  
+| _diseases, and Type 2 diabetes and programs designed to promote the_  
+| _role of proper nutrition_ [ ~~oral health education~~ ];  
+|  (2) _mental health education, including education_  
+| _about mental health conditions, mental health well-being, skills to_  
+| _manage emotions, establishing and maintaining positive_  
+| _relationships, and responsible decision-making;_  
+|  _(3)_ _____substance abuse education, including education_  
+| _about alcohol abuse, prescription drug abuse, and abuse of other_  
+| _controlled substances;_  
+|  _(4)_ physical education and physical activity; _and_  
+|  _(5)_ [ ~~(3) nutrition services; and~~  
+|  [ ~~(4)~~ ] parental involvement.  
+|  SECTION 1.16. Sections 38.016(a) and (c), Education Code,  
+| are amended to read as follows:  
+|  (a) In this section:  
+|  (1) _"Nonphysician mental health professional" has the_  
+| _meaning assigned by Section 38.0101._  
+|  _(2)_ "Parent" includes a guardian or other person  
+| standing in parental relation.  
+|  _(3)_ [ ~~(2)~~ ] "Psychotropic drug" means a substance that  
+| is:  
+|  (A) used in the diagnosis, treatment, or  
+| prevention of a disease or as a component of a medication; and  
+|  (B) intended to have an altering effect on  
+| perception, emotion, or behavior.  
+|  (c) Subsection (b) does not:  
+|  (1) prevent an appropriate referral under the child  
+| find system required under 20 U.S.C. Section 1412, as amended; [ ~~or~~ ]  
+|  (2) prohibit a school district employee _, or an_  
+| _employee of an entity with which the district contracts,_ who is a  
+| registered nurse, advanced nurse practitioner, physician, or  
+| _nonphysician mental health professional licensed or_ certified _to_  
+| _practice in this state_ [ ~~or appropriately credentialed mental health~~  
+|  ~~professional~~ ] from recommending that a child be evaluated by _a_  
+| _physician or nonphysician mental health professional_ [ ~~an~~  
+|  ~~appropriate medical practitioner~~ ]; or  
+|  (3) prohibit a school employee from discussing any  
+| aspect of a child's behavior or academic progress with the child's  
+| parent or another school district employee.  
+|  SECTION 1.17. Section 38.051(b), Education Code, is amended  
+| to read as follows:  
+|  (b) On the recommendation of an advisory council  
+| established under Section 38.058 _or on the initiative of the board_  
+| _of trustees or the governing body of an open-enrollment charter_  
+| _school_ , a school district _or open-enrollment charter school_ may  
+| establish a school-based health center at one or more campuses [ ~~in~~  
+|  ~~the district~~ ] to meet the health care needs of students and their  
+| families.  
+|  SECTION 1.18. Section 38.054, Education Code, is amended to  
+| read as follows:  
+|  Sec. 38.054. CATEGORIES OF SERVICES. The permissible  
+| categories of services are:  
+|  (1) family and home support;  
+|  (2) _physical_ health care, including immunizations;  
+|  (3) dental health care;  
+|  (4) health education; [ ~~and~~ ]  
+|  (5) preventive health strategies _;_  
+|  _(6) treatment for mental health conditions; and_  
+|  _(7) treatment for substance abuse_.  
+|  SECTION 1.19. Section 38.057(b), Education Code, is amended  
+| to read as follows:  
+|  (b) If it is determined that a student is in need of a  
+| referral for _physical health services or_ mental health services,  
+| the staff of the center shall notify the person whose consent is  
+| required under Section 38.053 verbally and in writing of the basis  
+| for the referral. The referral may not be provided unless the person  
+| provides written consent for the type of service to be provided and  
+| provides specific written consent for each treatment occasion _or_  
+| _for a course of treatment that includes multiple treatment_  
+| _occasions of the same type of service_.  
+|  SECTION 1.20. Section 38.058, Education Code, is amended to  
+| read as follows:  
+|  Sec. 38.058. HEALTH EDUCATION AND HEALTH CARE ADVISORY  
+| COUNCIL. (a) The board of trustees of a school district _or the_  
+| _governing body of an open-enrollment charter school_ may establish  
+| and appoint members to a local health education and health care  
+| advisory council to make recommendations to the district _or school_  
+| on the establishment of school-based health centers and to assist  
+| the district _or school_ in ensuring that local community values are  
+| reflected in the operation of each center and in the provision of  
+| health education.  
+|  (b) A majority of the members of the council must be parents  
+| of students enrolled in the _school_ district _or open-enrollment_  
+| _charter school_. In addition to the appointees who are parents of  
+| students, the board of trustees _or governing body_ shall also  
+| appoint at least one person from each of the following groups:  
+|  (1) _classroom_ teachers;  
+|  (2) school administrators;  
+|  (3) _school counselors;_  
+|  _(4)_ [ ~~licensed~~ ] health care professionals _licensed or_  
+| _certified to practice in this state_ ;  
+|  _(5)_ [ ~~(4)~~ ] the clergy;  
+|  _(6)_ [ ~~(5)~~ ] law enforcement;  
+|  _(7)_ [ ~~(6)~~ ] the business community;  
+|  _(8)_ [ ~~(7)~~ ] senior citizens; and  
+|  _(9)_ [ ~~(8)~~ ] students.  
+|  SECTION 1.21. Subchapter B, Chapter 38, Education Code, is  
+| amended by adding Section 38.0591 to read as follows:  
+|  _Sec._ ___38.0591._ _____ACCESS TO MENTAL HEALTH SERVICES. The_  
+| _agency, in cooperation with the Health and Human Services_  
+| _Commission, shall develop guidelines for school districts_  
+| _regarding:_  
+|  _(1)_ _____partnering with a local mental health authority_  
+| _and with community or other private mental health services_  
+| _providers and substance abuse services providers to increase_  
+| _student access to mental health services; and_  
+|  _(2)_ _____obtaining mental health services through the_  
+| _medical assistance program under Chapter 32, Human Resources Code._  
+|  SECTION 1.22. Section 38.060(c), Education Code, is amended  
+| to read as follows:  
+|  (c) The _school district or open-enrollment charter school_  
+| [ ~~council~~ ] shall keep a record of efforts made to coordinate with  
+| existing providers.  
+|  SECTION 1.23. Subchapter O-1, Chapter 161, Health and  
+| Safety Code, as amended by Chapter 522 (S.B. 179) and Chapter 714  
+| (H.B. 4056), Acts of the 85th Legislature, Regular Session, 2017,  
+| is transferred to Chapter 38, Education Code, redesignated as  
+| Subchapter G, Chapter 38, Education Code, reenacted, and amended to  
+| read as follows:  
+| SUBCHAPTER _G_ [ ~~O-1~~ ]. MENTAL HEALTH, SUBSTANCE ABUSE, AND YOUTH  
+| SUICIDE  
+|  Sec. _38.351_ [ ~~161.325~~ ]. MENTAL HEALTH PROMOTION AND  
+| INTERVENTION, SUBSTANCE ABUSE PREVENTION AND INTERVENTION, AND  
+| SUICIDE PREVENTION.  (a)  The _agency_ [ ~~department~~ ], in coordination  
+| with the _Health and Human Services Commission_ [ ~~Texas Education~~  
+|  ~~Agency~~ ] and regional education service centers, shall provide and  
+| annually update a list of recommended best practice-based programs  
+| and research-based practices in the areas specified under  
+| Subsection _(c)_ [ ~~(a-1)~~ ] for implementation in public elementary,  
+| junior high, middle, and high schools within the general education  
+| setting.  
+|  _(b)_ Each school district may select from the list _provided_  
+| _under Subsection (a)_ a program or programs appropriate for  
+| implementation in the district.  
+|  _(c)_ [ ~~(a-1)~~ ] The list _provided under Subsection (a)_ must  
+| include programs and practices in the following areas:  
+|  (1) early mental health intervention;  
+|  (2) building skills related to managing emotions,  
+| establishing and maintaining positive relationships, and  
+| responsible decision-making;  
+|  [ ~~(2) mental health promotion;~~]  
+|  (3) substance abuse prevention _and intervention_ ;  
+|  (4) [ ~~substance abuse intervention;~~  
+|  [ ~~(5)~~ ] suicide prevention;  
+|  _(5)_ [ ~~(6) trauma-informed practices;~~  
+|  [ ~~(6)~~ ] grief-informed and trauma-informed practices;  
+|  _(6)_ [ ~~(7)~~ ~~~~ ~~~~ ~~building skills related to managing~~  
+|  ~~emotions, establishing and maintaining positive relationships, and~~  
+|  ~~responsible decision-making;~~  
+|  [ ~~(7)~~ ] positive school climates; [ ~~and~~ ]  
+|  _(7)_ [ ~~(8)~~ ] positive behavior _interventions and_  
+| supports;  
+|  (8) [ ~~positive behavior interventions and supports~~  
+|  ~~and~~ ] positive youth development; and  
+|  (9) safe and supportive school climate.  
+|  _(d)_ [ ~~(a-2)~~ ~~~~ ~~~~ ~~The department, the Texas Education Agency,
+and~~  
+|  ~~each regional education service center shall make the list easily~~  
+|  ~~accessible on their websites.~~  
+|  [ ~~(a-3)~~ ] For purposes of Subsection _(c)_ [ ~~(a-1)~~ ], "school  
+| climate" means the quality and character of school life, including  
+| interpersonal relationships, teaching and learning practices, and  
+| organizational structures, as experienced by students enrolled in  
+| the school district, parents of those students, and personnel  
+| employed by the district.  
+|  _(e)_ [ ~~(b)~~ ] The suicide prevention programs on the list  
+| _provided under Subsection (a)_ must include components that provide  
+| for training _school_ counselors, teachers, nurses, administrators,  
+| and other staff, as well as law enforcement officers and social  
+| workers who regularly interact with students, to:  
+|  (1) recognize students at risk of _attempting_  
+| [ ~~committing~~ ] suicide, including students who are or may be the  
+| victims of or who engage in bullying;  
+|  (2) recognize students displaying early warning signs  
+| and a possible need for early mental health or substance abuse  
+| intervention, which warning signs may include declining academic  
+| performance, depression, anxiety, isolation, unexplained changes  
+| in sleep or eating habits, and destructive behavior toward self and  
+| others; and  
+|  (3) intervene effectively with students described by  
+| Subdivision (1) or (2) by providing notice and referral to a parent  
+| or guardian so appropriate action, such as seeking mental health or  
+| substance abuse services, may be taken by a parent or guardian.  
+|  _(f)_ [ ~~(c)~~ ] In developing the list of best practice-based  
+| programs and research-based practices, the _agency_ [ ~~department~~ ] and  
+| the _Health and Human Services Commission_ [ ~~Texas Education Agency~~ ]  
+| shall consider:  
+|  (1) any existing suicide prevention method developed  
+| by a school district; and  
+|  (2) any Internet or online course or program developed  
+| in this state or another state that is based on best practices  
+| recognized by the Substance Abuse and Mental Health Services  
+| Administration or the Suicide Prevention Resource Center.  
+|  _(g)_ [ ~~(c-1)~~ ] Except as otherwise provided by this  
+| subsection, each school district shall provide training described  
+| in the components set forth under Subsection _(e)_ [ ~~(b)~~ ] for  
+| teachers, _school_ counselors, principals, and all other appropriate  
+| personnel.  A school district is required to provide the training at  
+| an elementary school campus only to the extent that sufficient  
+| funding and programs are available. A school district may  
+| implement a program on the list to satisfy the requirements of this  
+| subsection.  
+|  _(h)_ [ ~~(c-2)~~ ] If a school district provides the training  
+| under Subsection _(g)_ [ ~~(c-1)~~ ]:  
+|  (1) a school district employee described under that  
+| subsection must participate in the training at least one time; and  
+|  (2) the school district shall maintain records that  
+| include the name of each district employee who participated in the  
+| training.  
+|  _(i)_ [ ~~(d)~~ ] A school district _shall_ [ ~~may~~ ] develop practices  
+| and procedures concerning each area listed in Subsection _(c)_  
+| [ ~~(a-1)~~ ], including mental health promotion and intervention,  
+| substance abuse prevention and intervention, and suicide  
+| prevention, that:  
+|  (1) include a procedure for providing notice of a  
+| recommendation for early mental health or substance abuse  
+| intervention regarding a student to a parent or guardian of the  
+| student within a reasonable amount of time after the identification  
+| of early warning signs as described by Subsection _(e)(2)_ [ ~~(b)(2)~~ ];  
+|  (2) include a procedure for providing notice of a  
+| student identified as at risk of _attempting_ [ ~~committing~~ ] suicide to  
+| a parent or guardian of the student within a reasonable amount of  
+| time after the identification of early warning signs as described  
+| by Subsection _(e)(2)_ [ ~~(b)(2)~~ ];  
+|  (3) establish that the district may develop a  
+| reporting mechanism and may designate at least one person to act as  
+| a liaison officer in the district for the purposes of identifying  
+| students in need of early mental health or substance abuse  
+| intervention or suicide prevention; and  
+|  (4) set out available counseling alternatives for a  
+| parent or guardian to consider when their child is identified as  
+| possibly being in need of early mental health or substance abuse  
+| intervention or suicide prevention.  
+|  _(j)_ [ ~~(e)~~ ] The practices and procedures developed under  
+| Subsection _(i):_  
+|  _(1)_ _____may address multiple areas listed in Subsection_  
+| _(c) together; and_  
+|  _(2)_ [ ~~(d)~~ ] must prohibit the use without the prior  
+| consent of a student's parent or guardian of a medical screening of  
+| the student as part of the process of identifying whether the  
+| student is possibly in need of early mental health or substance  
+| abuse intervention or suicide prevention.  
+|  _(k)_ [ ~~(f)~~ ] The practices and procedures developed under  
+| Subsection _(i)_ [ ~~(d)~~ ] must be included in:  
+|  (1) the annual student handbook; and  
+|  (2) the district improvement plan under Section  
+| 11.252[ ~~, Education Code~~ ].  
+|  _(l)_ _____The agency shall develop and make available to school_  
+| _districts guiding principles on the coordination of programs and_  
+| _practices in areas listed under Subsection (c)._  
+|  _(m)_ [ ~~(g)~~ ] The _agency, the Health and Human Services_  
+| _Commission, and each regional education service center:_  
+|  _(1)_ [ ~~department~~ ] may accept donations for purposes of  
+| this section from sources without a conflict of interest _; and_  
+|  _(2)_ [ ~~. The department~~ ] may not accept donations for  
+| purposes of this section from an anonymous source.  
+|  _(n)_ [ ~~(i)~~ ] Nothing in this section is intended to interfere  
+| with the rights of parents or guardians and the decision-making  
+| regarding the best interest of the child.  Practices and procedures  
+| developed in accordance with this section are intended to notify a  
+| parent or guardian of a need for mental health or substance abuse  
+| intervention so that a parent or guardian may take appropriate  
+| action.  Nothing in this section shall be construed as giving school  
+| districts the authority to prescribe medications.  Any and all  
+| medical decisions are to be made by a parent or guardian of a  
+| student.  
+|  Sec. _38.352_ [ ~~161.326~~ ]. IMMUNITY.  This subchapter does not:  
+|  (1) waive any immunity from liability of a school  
+| district or of district school officers or employees;  
+|  (2) create any liability for a cause of action against  
+| a school district or against district school officers or employees;  
+| or  
+|  (3) waive any immunity from liability under Section  
+| 74.151, Civil Practice and Remedies Code.  
+| ARTICLE 2. MENTAL HEALTH FIRST AID PROGRAM TRAINING AND REPORTING  
+|  SECTION 2.01. Section 1001.205, Health and Safety Code, is  
+| amended to read as follows:  
+|  Sec. 1001.205. REPORTS. (a)  Not later than September 30 of  
+| each year, a local mental health authority shall provide to the  
+| department the number of:  
+|  (1) employees and contractors of the authority who  
+| were trained as mental health first aid trainers under Section  
+| 1001.202 during the preceding fiscal year _, the number of trainers_  
+| _who left the program for any reason during the preceding fiscal_  
+| _year, and the number of active trainers_ ;  
+|  (2) university employees, school district employees,  
+| and school resource officers who completed a mental health first  
+| aid training program offered by the authority under Section  
+| 1001.203 during the preceding fiscal year _categorized by local_  
+| _mental health authority region, university or school district, as_  
+| _applicable, and category of personnel_ ; and  
+|  (3) individuals who are not university employees,  
+| school district employees, or school resource officers who  
+| completed a mental health first aid training program offered by the  
+| authority during the preceding fiscal year.  
+|  (b) Not later than December 1 of each year, the department  
+| shall compile the information submitted by local mental health  
+| authorities as required by Subsection (a) and submit a report to the  
+| legislature containing [ ~~the number of~~ ]:  
+|  (1) _the number of_ authority employees and contractors  
+| trained as mental health first aid trainers during the preceding  
+| fiscal year _, the number of trainers who left the program for any_  
+| _reason during the preceding fiscal year, and the number of active_  
+| _trainers_ ;  
+|  (2) _the number of_ university employees, school  
+| district employees, and school resource officers who completed a  
+| mental health first aid training program provided by an authority  
+| during the preceding fiscal year _categorized by local mental health_  
+| _authority region, university or school district, as applicable, and_  
+| _category of personnel_ ; [ ~~and~~ ]  
+|  (3) _the number of_ individuals who are not university  
+| employees, school district employees, or school resource officers  
+| who completed a mental health first aid training program provided  
+| by an authority during the preceding fiscal year _; and_  
+|  _(4)_ _____a detailed accounting of expenditures of money_  
+| _appropriated for the purpose of implementing this subchapter_.  
+|  SECTION 2.02. Subchapter H, Chapter 1001, Health and Safety  
+| Code, is amended by adding Section 1001.207 to read as follows:  
+|  _Sec._ ___1001.207._ _____PROGRAM PROMOTION. (a)_ ___The commission_  
+| _shall make available on its official Internet website information_  
+| _about the mental health first aid training program for the purpose_  
+| _of promoting public awareness of the program._ ___An electronic link to_  
+| _an outside source of information is not sufficient._  
+|  _(b)_ _____The Texas Education Agency shall make available on its_  
+| _official Internet website information about the mental health first_  
+| _aid training program for the purpose of promoting public awareness_  
+| _of the program._ ___An electronic link to an outside source of_  
+| _information is not sufficient._  
+| ARTICLE 3. CONFORMING AMENDMENTS  
+|  SECTION 3.01. Section 74.151(e), Civil Practice and  
+| Remedies Code, is amended to read as follows:  
+|  (e) Except as provided by this subsection, this section does  
+| not apply to a person whose negligent act or omission was a  
+| producing cause of the emergency for which care is being  
+| administered.  This subsection does not apply to liability of a  
+| school district or district school officer or employee arising from  
+| an act or omission under a program or _practice_ [ ~~policy~~ ] or procedure  
+| _developed_ [ ~~adopted~~ ] under Subchapter _G, Chapter 38, Education_ [
+~~O-1,~~  
+|  ~~Chapter 161, Health and Safety~~ ] Code, other than liability arising  
+| from wilful or intentional misconduct.  
+|  SECTION 3.02. Section 38.0141(a), Education Code, is  
+| amended to read as follows:  
+|  (a) Each school district shall provide to the agency  
+| information as required by the commissioner, including statistics  
+| and data, relating to student health and physical activity and  
+| information described by _Sections 28.004(k)(2), (3), and (4)_  
+| [ ~~Section 28.004(k),~~ ] presented in a form determined by the  
+| commissioner.  The district shall provide the information required  
+| by this subsection for the district and for each campus in the  
+| district.  
+| ARTICLE 4. REPEALER; TRANSITION; EFFECTIVE DATE  
+|  SECTION 4.01. The following provisions of the Education  
+| Code are repealed:  
+|  (1) Section 21.463; and  
+|  (2) Section 28.002(w).  
+|  SECTION 4.02. (a)  Not later than May 1, 2020:  
+|  (1) the State Board for Educator Certification shall  
+| propose rules under Section 21.054, Education Code, to comply with  
+| the changes in law made to that section by this Act; and  
+|  (2) the Texas Education Agency, in cooperation with  
+| the Health and Human Services Commission, shall develop the  
+| guidelines required by Section 38.0591, Education Code, as added by  
+| this Act.  
+|  (b) Not later than August 1, 2020, the Texas Education  
+| Agency, in coordination with the Health and Human Services  
+| Commission and regional education service centers, shall provide a  
+| list of recommended best practice-based programs as required by  
+| Section 38.351, Education Code, as transferred, redesignated,  
+| reenacted, and amended by this Act.  
+|  SECTION 4.03. Any change in law made by this Act that  
+| imposes a new duty or requirement on a school district or an  
+| open-enrollment charter school applies beginning with the  
+| 2020-2021 school year.  
+|  SECTION 4.04. (a)  Section 1001.205(a), Health and Safety  
+| Code, as amended by this Act, applies only to a report due under  
+| that subsection after December 31, 2019.  A report due under that  
+| subsection before that date is governed by the law in effect  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  (b) Section 1001.205(b), Health and Safety Code, as amended  
+| by this Act, applies only to a report due under that subsection  
+| after March 1, 2020.  A report due under that subsection before that  
+| date is governed by the law in effect immediately before the  
+| effective date of this Act, and that law is continued in effect for  
+| that purpose.  
+|  (c) Not later than May 1, 2020, the Health and Human  
+| Services Commission shall prescribe a form for the report required  
+| of a local mental health authority under Section 1001.205(aa),  
+| Health and Safety Code, as amended by this Act, that includes  
+| categories of personnel to be reported.  
+|  SECTION 4.05. Not later than March 1, 2020, the Health and  
+| Human Services Commission and the Texas Education Agency shall  
+| update their Internet websites to include the information required  
+| by Section 1001.207, Health and Safety Code, as added by this Act.  
+|  SECTION 4.06. This Act takes effect December 1, 2019.
+

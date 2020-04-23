@@ -1,0 +1,139 @@
+| 86R4792 SRS-D  
+---|---  
+|  By: Bucy | H.B. No. 2550  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the electronic transmission of a ballot to a voter  
+| voting early by mail on the ground of absence from the county of  
+| residence.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 84.002(a), Election Code, is amended to  
+| read as follows:  
+|  (a) An early voting ballot application must include:  
+|  (1) the applicant's name and the address at which the  
+| applicant is registered to vote;  
+|  (2) for an application for a ballot to be voted by mail  
+| on the ground of absence from the county of residence, the address  
+| outside the applicant's county of residence to which the ballot is  
+| to be mailed _or an e-mail address for the applicant to which the_  
+| _ballot is sent by electronic transmission_ ;  
+|  (3) for an application for a ballot to be voted by mail  
+| on the ground of age or disability, the address of the hospital,  
+| nursing home or other long-term care facility, or retirement  
+| center, or of a person related to the applicant within the second  
+| degree by affinity or the third degree by consanguinity, as  
+| determined under Chapter 573, Government Code, if the applicant is  
+| living at that address and that address is different from the  
+| address at which the applicant is registered to vote;  
+|  (4) for an application for a ballot to be voted by mail  
+| on the ground of confinement in jail, the address of the jail or of a  
+| person related to the applicant within the degree described by  
+| Subdivision (3);  
+|  (5) for an application for a ballot to be voted by mail  
+| on any ground, an indication of each election for which the  
+| applicant is applying for a ballot; and  
+|  (6) an indication of the ground of eligibility for  
+| early voting.  
+|  SECTION 2. Section 84.011(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The officially prescribed application form for an early  
+| voting ballot must include:  
+|  (1) immediately preceding the signature space the  
+| statement: "I certify that the information given in this  
+| application is true, and I understand that giving false information  
+| in this application is a crime.";  
+|  (2) a statement informing the applicant of the  
+| offenses prescribed by Sections 84.003 and 84.004;  
+|  (3) spaces for entering an applicant's voter  
+| registration number and county election precinct of registration,  
+| with a statement informing the applicant that failure to furnish  
+| that information does not invalidate the application; and  
+|  (4) on an application for a ballot to be voted by mail:  
+|  (A) a space for an applicant applying on the  
+| ground of absence from the county of residence to _:_  
+|  _(i)_ indicate the date on or after which the  
+| applicant can receive mail at the address outside the county; _or_  
+|  _(ii)_ _____indicate that the applicant wishes to_  
+| _receive the balloting materials by electronic transmission and_  
+| _provide an e-mail address;_  
+|  (B) a space for indicating the fact that an  
+| applicant whose application is signed by a witness cannot make the  
+| applicant's mark and a space for indicating the relationship or  
+| lack of relationship of the witness to the applicant;  
+|  (C) a space for entering an applicant's telephone  
+| number, with a statement informing the applicant that failure to  
+| furnish that information does not invalidate the application;  
+|  (D) a space or box for an applicant applying on  
+| the ground of age or disability to indicate that the address to  
+| which the ballot is to be mailed is the address of a facility or  
+| relative described by Section 84.002(a)(3), if applicable;  
+|  (E) a space or box for an applicant applying on  
+| the ground of confinement in jail to indicate that the address to  
+| which the ballot is to be mailed is the address of a relative  
+| described by Section 84.002(a)(4), if applicable;  
+|  (F) a space for an applicant applying on the  
+| ground of age or disability to indicate if the application is an  
+| application under Section 86.0015;  
+|  (G) spaces for entering the signature, printed  
+| name, and residence address of any person assisting the applicant;  
+|  (H) a statement informing the applicant of the  
+| condition prescribed by Section 81.005; and  
+|  (I) a statement informing the applicant of the  
+| requirement prescribed by Section 86.003(c).  
+|  SECTION 3. Section 86.003(a), Election Code, is amended to  
+| read as follows:  
+|  (a) _Except as provided by Section 86.0031, the_ [ ~~The~~ ]  
+| balloting materials for voting by mail shall be provided to the  
+| voter by mail. A ballot provided by any other method may not be  
+| counted.  
+|  SECTION 4. Chapter 86, Election Code, is amended by adding  
+| Section 86.0031 to read as follows:  
+|  _Sec._ ___86.0031._ _____ELECTRONIC METHOD OF PROVIDING_  
+| _BALLOT._ _____(a)_ _____A voter voting by mail based on the ground of
+absence_  
+| _from the county of residence may elect to receive the balloting_  
+| _materials by electronic transmission on the voter's application for_  
+| _an early voting ballot to be voted by mail._  
+|  _(b)_ _____Balloting materials to be sent by electronic_  
+| _transmission under this section include:_  
+|  _(1) the appropriate ballot;_  
+|  _(2)_ _____ballot instructions, including instructions that_  
+| _inform a voter that the ballot must be returned by mail to be_  
+| _counted;_  
+|  _(3)_ _____instructions prescribed by the secretary of state_  
+| _on how to create a ballot envelope and carrier envelope or signature_  
+| _sheet for the ballot; and_  
+|  _(4)_ _____a list of certified write-in candidates, if_  
+| _applicable._  
+|  _(c)_ _____The balloting materials may be provided by e-mail to the_  
+| _voter:_  
+|  _(1)_ _____in a portable document format or similar file type_  
+| _or through a scanned format; or_  
+|  _(2)_ _____by any other method of electronic transmission_  
+| _authorized by the secretary of state in writing._  
+|  _(d)_ _____An e-mail address used under this section to request_  
+| _balloting materials is confidential and does not constitute public_  
+| _information for purposes of Chapter 552, Government Code. An early_  
+| _voting clerk shall ensure that a voter's e-mail address provided_  
+| _under this section is excluded from public disclosure._  
+|  _(e)_ _____The secretary of state shall prescribe procedures to_  
+| _implement this section._  
+|  SECTION 5. Section 86.006, Election Code, is amended by  
+| amending Subsection (a) and adding Subsection (a-2) to read as  
+| follows:  
+|  (a) _Except as provided by Subsection (a-2), a_ [ ~~A~~ ] marked  
+| ballot voted under this chapter must be returned to the early voting  
+| clerk in the official carrier envelope. The carrier envelope may be  
+| delivered in another envelope and must be transported and delivered  
+| only by:  
+|  (1) mail;  
+|  (2) common or contract carrier; or  
+|  (3) subject to Subsection (a-1), in-person delivery by  
+| the voter who voted the ballot.  
+|  _(a-2)_ _____A marked ballot received through electronic_  
+| _transmission as provided by Section 86.0031 shall be returned to_  
+| _the early voting clerk by mail or common or contract carrier through_  
+| _the procedures prescribed by the secretary of state._  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

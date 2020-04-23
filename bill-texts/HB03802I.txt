@@ -1,0 +1,103 @@
+|  
+---|---  
+|  By: Guillen | H.B. No. 3802  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of a zero-emissions vehicle program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. CHAPTER 386, HEALTH AND SAFETY CODE, is amended  
+| by adding Subchapter G. ZERO EMISSION VEHICLE PROGRAM to read as  
+| follows:  
+|  _SUBCHAPTER G. ZERO EMISSION VEHICLE PROGRAM_  
+|  _Sec. 386.301. DEFINITIONS._  
+|  _In this subchapter:_  
+|  _(1)_ _____"Program" means the zero-emission vehicle program_  
+| _established under this subchapter._  
+|  _(2)_ _____"Retrofit" means to equip an exhaust system with_  
+| _new emissions-reducing parts or technology verified by the United_  
+| _States Environmental Protection Agency after manufacture of the_  
+| _original engine and fuel system._  
+|  _(3)_ _____"Zero emission vehicle" is defined as a vehicle that_  
+| _produces no more than 2% pollutants; Carbon Dioxide, Carbon_  
+| _Monoxide, Nitrogen dioxide, Sulfur Dioxide emitted as emissions_  
+| _from its tailpipe, as determined by the Commission._  
+|  _(4)_ _____"Governmental entity" has the meaning assigned to_  
+| _Section 2252.001(2), Government Code._  
+|  _Sec. 386.002. PROGRAM._  
+|  _(a)_ _____The commission shall establish and administer a_  
+| _zero-emissions vehicle program designed to reduce the total volume_  
+| _of emissions expelled from vehicle tailpipes in Texas. Under the_  
+| _program, the commission shall provide grants for eligible projects_  
+| _to offset the incremental cost of projects that lead to the_  
+| _creation, through retrofitting or modification of existing_  
+| _vehicles, of additional zero emission vehicles as defined under_  
+| _this chapter._  
+|  _(b)_ _____Projects that may be considered for a grant under the_  
+| _program include:_  
+|  _(1)_ _____the purchase and use of emission reducing add-on_  
+| _equipment for vehicles, including devices that reduce tailpipe_  
+| _emissions;_  
+|  _(2)_ _____the cost retrofitting of vehicles operated by_  
+| _state, county, or municipal with equipment to convert them to zero_  
+| _emission vehicles; and_  
+|  _(3)_ _____other technologies that the commission finds will_  
+| _facilitate the conversion of vehicles into zero emission vehicles_  
+| _under this subchapter._  
+|  _Sec._ ___386.003._ _____APPLICATION FOR GRANT. (a)_ ___A government_  
+| _entity in this state that operates one or more vehicles may apply_  
+| _for and receive a grant under the program._  
+|  _(b)_ _____The commission may adopt guidelines to allow a regional_  
+| _planning commission, council of governments, or similar regional_  
+| _planning agency created under Chapter 391, Local Government Code,_  
+| _or a private nonprofit organization to also apply for and receive a_  
+| _grant to improve the ability of the program to achieve its goals._  
+|  _(c)_ _____An application for a grant under this chapter must be_  
+| _made on a form provided by the commission and must contain the_  
+| _information required by the commission._  
+|  _Sec._ ___386.004._ _____ELIGIBILITY OF PROJECTS FOR GRANTS. (a)_ ___The_  
+| _commission by rule shall establish criteria for setting priorities_  
+| _for projects eligible to receive grants under this chapter._ ___The_  
+| _commission shall review and may modify the criteria and priorities_  
+| _as appropriate._  
+|  _(b)_ _____A vehicle proposed for retrofit must be used by a_  
+| _government entity, or other eligible entity as defined under_  
+| _386.003(b) of this subchapter, have at least five years of useful_  
+| _life remaining unless the applicant agrees to remove the retrofit_  
+| _device at the end of the life of the vehicle and reinstall the_  
+| _device on another vehicle, where applicable._  
+|  _(c) A vehicle proposed for retrofitting must:_  
+|  _(1) be of model year 2006 or earlier;_  
+|  _(2)_ _____have been owned or leased and operated by the_  
+| _applicant for at least the two years before submission of the grant_  
+| _application;_  
+|  _(3) be in good operational condition; and_  
+|  _(4)_ _____be currently used no less than once a month by the_  
+| _applicant._  
+|  _Sec._ ___386.005._ _____RESTRICTION ON USE OF GRANT. (a)_ ___A recipient_  
+| _of a grant under this chapter shall use the grant to pay the_  
+| _incremental costs of the project for which the grant is made, which_  
+| _may include the reasonable and necessary expenses incurred for the_  
+| _labor needed to install emissions eliminating equipment. The_  
+| _recipient may not use the grant to pay the recipient's_  
+| _administrative expenses._  
+|  _(b)_ _____A vehicle acquired to replace an existing vehicle must_  
+| _be purchased and the grant recipient must agree to own and operate_  
+| _the vehicle no less than once a month for at least five years after a_  
+| _start date established by the commission, based on the date the_  
+| _commission accepts documentation of the permanent destruction or_  
+| _permanent removal of the vehicle being replaced._  
+|  _(c)_ _____A vehicle replaced under this program must be rendered_  
+| _permanently inoperable by crushing the vehicle, by making a hole in_  
+| _the engine block and permanently destroying the frame of the_  
+| _vehicle, or by another method approved by the commission, or be_  
+| _permanently removed from operation in this state._ ___The commission_  
+| _shall establish criteria for ensuring the permanent destruction or_  
+| _permanent removal of the engine or vehicle. The commission shall_  
+| _enforce the destruction and removal requirements._  
+|  _(d)_ _____In this section, "permanent removal" means the_  
+| _permanent export of a vehicle or the engine of a vehicle to a_  
+| _destination outside of the United States, Canada, or the United_  
+| _Mexican States._  
+|  SECTION 2. This Act takes effect on Sept. 1, 2019.
+

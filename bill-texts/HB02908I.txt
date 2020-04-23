@@ -1,0 +1,34 @@
+| 86R11213 JXC-F  
+---|---  
+|  By: Patterson | H.B. No. 2908  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to electricity pricing rules and operating procedures that  
+| eliminate or compensate for market distortion caused by certain  
+| federal tax credits.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter D, Chapter 39, Utilities Code, is  
+| amended by adding Section 39.159 to read as follows:  
+|  _Sec._ ___39.159._ _____MARKET DISTORTION RESPONSE. (a) The_  
+| _commission and the ERCOT independent system operator shall adopt_  
+| _rules, operating procedures, and protocols to eliminate or_  
+| _compensate for any distortion in electricity pricing in the ERCOT_  
+| _power region caused by a federal tax credit provided under 26 U.S.C._  
+| _Section 45._  
+|  _(b)_ _____Rules, operating procedures, and protocols adopted_  
+| _under this section must ensure that costs imposed on the system by_  
+| _the sale of electricity that is eligible for a federal tax credit_  
+| _provided under 26 U.S.C. Section 45, including costs of maintaining_  
+| _sufficient capacity to serve load at the summer peak demand caused_  
+| _by the loss of new investment from below-market prices, are paid by_  
+| _the parties that impose the costs._  
+|  _(c)_ _____In conjunction with adopting rules, operating_  
+| _procedures, and protocols under this section, the commission and_  
+| _the ERCOT independent system operator shall eliminate any rules,_  
+| _operating procedures, or protocols that attempt to adjust_  
+| _electricity prices to reflect the value of reserves at different_  
+| _reserve levels based on the probability of reserves falling below_  
+| _the minimum contingency level and the value of lost load._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,41 @@
+| 86R2877 BEE-F  
+---|---  
+|  By: Wray | H.B. No. 2246  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the fiduciary status of a directed trust advisor.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 114.0031, Property Code, is amended by  
+| amending Subsection (e) and adding Subsection (e-1) to read as  
+| follows:  
+|  (e) If the terms of a trust give a person the authority to  
+| direct, consent to, or disapprove a trustee's actual or proposed  
+| investment decisions, distribution decisions, or other decisions,  
+| the person is [ ~~considered to be~~ ] an advisor _. An advisor is_ [
+~~and~~ ] a  
+| fiduciary _regardless of trust terms to the contrary_ [ ~~when~~  
+|  ~~exercising that authority~~ ] except that the trust terms may provide  
+| that an advisor acts in a nonfiduciary capacity _if:_  
+|  _(1)_ _____the advisor's only power is to remove and appoint_  
+| _trustees, advisors, trust committee members, or other protectors;_  
+| _and_  
+|  _(2)_ _____the advisor does not exercise that power to_  
+| _appoint the advisor's self to a position described by Subdivision_  
+| _(1)_.  
+|  _(e-1)_ _____Subsection (e) does not prohibit the exercise of a_  
+| _power in a nonfiduciary capacity as required by the Internal_  
+| _Revenue Code for a grantor or other person to be treated as the_  
+| _owner of any portion of the trust for federal income tax purposes._  
+|  SECTION 2. (a) Except as specifically provided by a trust  
+| term in effect before September 1, 2019, the changes in law made by  
+| this Act apply to a trust created before, on, or after September 1,  
+| 2019, with respect to an action taken or not taken on or after  
+| September 1, 2019, by a trustee, custodian, or other person with  
+| respect to the trust.  
+|  (b) An action taken or not taken with respect to a trust  
+| before September 1, 2019, is governed by the law that applied to the  
+| action taken or not taken immediately before September 1, 2019, and  
+| that law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

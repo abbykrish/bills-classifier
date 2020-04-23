@@ -1,0 +1,234 @@
+| 86R6237 SCL-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 1298  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prescription drug cost increases; imposing a civil  
+| penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 6, Health and Safety Code, is  
+| amended by adding Chapter 441 to read as follows:  
+| _CHAPTER 441. PRESCRIPTION DRUG COST TRANSPARENCY_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 441.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Commission" means the Health and Human Services_  
+| _Commission._  
+|  _(2)_ _____"Health benefit plan issuer" means an insurer,_  
+| _health maintenance organization, or other entity authorized to_  
+| _provide health benefit coverage under the laws of this state._  
+|  _(3)_ _____"Manufacturer" means a person engaged in the_  
+| _business of producing, preparing, propagating, compounding,_  
+| _converting, processing, packaging, labeling, or distributing a_  
+| _prescription drug. The term does not include a wholesale_  
+| _distributor or retailer of prescription drugs or a pharmacist_  
+| _licensed under Subtitle J, Title 3, Occupations Code._  
+|  _(4)_ _____"Prescription drug" has the meaning assigned by_  
+| _Section 551.003, Occupations Code._  
+|  _Sec._ ___441.0002._ _____REQUEST FOR INFORMATION. The commission or_  
+| _attorney general may request information necessary to carry out the_  
+| _purposes of this chapter from another state agency. A state agency_  
+| _receiving a request under this section shall provide the requested_  
+| _information in a reasonable time._  
+| _SUBCHAPTER B. LISTS OF PRESCRIPTION DRUGS_  
+|  _Sec._ ___441.0051._ _____COMMISSION LIST BY WHOLESALE ACQUISITION_  
+| _COST. (a) The commission shall annually compile a list of_  
+| _prescription drugs by wholesale acquisition cost._  
+|  _(b) The list described by Subsection (a) must:_  
+|  _(1) include 10 prescription drugs:_  
+|  _(A)_ _____on which the commission or another state_  
+| _agency spends a significant amount of money under a health benefit_  
+| _plan administered by the agency; and_  
+|  _(B)_ _____for which the wholesale acquisition cost has_  
+| _increased by at least:_  
+|  _(i)_ _____50 percent during the previous five_  
+| _calendar years; or_  
+|  _(ii)_ _____15 percent during the previous_  
+| _calendar year;_  
+|  _(2)_ _____include at least one generic and one brand name_  
+| _drug;_  
+|  _(3)_ _____indicate which drugs on the list are specialty_  
+| _drugs;_  
+|  _(4)_ _____include the percentage increase of the wholesale_  
+| _acquisition cost for each drug on the list during the previous_  
+| _calendar year and during the previous five calendar years;_  
+|  _(5)_ _____rank the drugs on the list from those with the_  
+| _largest increase in wholesale acquisition cost to those with the_  
+| _smallest increase in wholesale acquisition cost based on the_  
+| _previous calendar year;_  
+|  _(6)_ _____state whether each drug on the list was included on_  
+| _the list because of the wholesale acquisition cost increase over_  
+| _the past five years or during the previous calendar year or both;_  
+| _and_  
+|  _(7)_ _____provide the state's total expenditure for each_  
+| _drug on the list during the previous calendar year._  
+|  _Sec._ ___441.0052._ _____COMMISSION LIST BY STATE COST. (a) In_  
+| _addition to the list described by Section 441.0051, the commission_  
+| _shall annually compile a list of prescription drugs by state cost._  
+|  _(b) The list described by Subsection (a) must:_  
+|  _(1) include 10 prescription drugs:_  
+|  _(A)_ _____on which the commission or another state_  
+| _agency spends a significant amount of money under a health benefit_  
+| _plan administered by the agency; and_  
+|  _(B)_ _____for which the cost to the agency, excluding_  
+| _any rebate or other price concession, has increased by at least:_  
+|  _(i)_ _____50 percent during the previous five_  
+| _calendar years; or_  
+|  _(ii)_ _____15 percent during the previous_  
+| _calendar year;_  
+|  _(2)_ _____include at least one generic and one brand name_  
+| _drug;_  
+|  _(3)_ _____indicate which drugs on the list are specialty_  
+| _drugs;_  
+|  _(4)_ _____rank the drugs on the list from those with the_  
+| _largest increase in net cost to those with the smallest increase_  
+| _based on the previous calendar year; and_  
+|  _(5)_ _____state whether each drug on the list was included on_  
+| _the list because of the cost increase over the past five years or_  
+| _during the previous calendar year or both._  
+|  _Sec._ ___441.0053._ _____MAJOR HEALTH BENEFIT PLAN ISSUER LIST;_  
+| _REPORT. (a) This section applies only to a health benefit plan_  
+| _issuer that is authorized to write a health benefit plan in this_  
+| _state and that provides health benefit plan coverage for at least_  
+| _5,000 enrollees._  
+|  _(b)_ _____A health benefit plan issuer shall annually compile a_  
+| _list of prescription drugs by cost._  
+|  _(c) The list described by Subsection (b) must:_  
+|  _(1) include 10 prescription drugs:_  
+|  _(A)_ _____on which the health benefit plan issuer_  
+| _spends a significant amount of money; and_  
+|  _(B)_ _____for which the cost to the issuer's health_  
+| _benefit plans, excluding any rebate or other price concession, has_  
+| _increased by at least:_  
+|  _(i)_ _____50 percent during the previous five_  
+| _calendar years; or_  
+|  _(ii)_ _____15 percent during the previous_  
+| _calendar year;_  
+|  _(2)_ _____include at least one generic and one brand name_  
+| _drug;_  
+|  _(3)_ _____indicate which drugs on the list are specialty_  
+| _drugs;_  
+|  _(4)_ _____rank the drugs on the list from those with the_  
+| _largest increase in net cost to those with the smallest increase_  
+| _based on the previous calendar year; and_  
+|  _(5)_ _____state whether each drug on the list was included on_  
+| _the list because of the cost increase over the past five years or_  
+| _during the previous calendar year or both._  
+|  _(d)_ _____A health benefit plan issuer shall provide to the_  
+| _attorney general an annual written report on the list described by_  
+| _Subsection (b) that states:_  
+|  _(1)_ _____the percentage by which the net cost to the_  
+| _issuer's health benefit plans has increased during the previous_  
+| _calendar year and during the previous five calendar years for each_  
+| _prescription drug on the list; and_  
+|  _(2)_ _____the issuer's total expenditure, excluding any_  
+| _rebate or other price concession, for each drug on the list during_  
+| _the previous calendar year._  
+|  _(e)_ _____Except as provided by Section 441.0054(b), information_  
+| _provided to the attorney general under Subsection (d) is_  
+| _confidential and excepted from disclosure under Chapter 552,_  
+| _Government Code._  
+|  _(f)_ _____The commissioner of insurance, in consultation with the_  
+| _executive commissioner, may adopt rules necessary to implement this_  
+| _section, including rules:_  
+|  _(1)_ _____designating which prescription drugs are_  
+| _considered to be specialty drugs for purposes of this chapter; and_  
+|  _(2)_ _____governing the manner in which a health benefit_  
+| _plan issuer identifies a drug as a specialty drug for purposes of_  
+| _this chapter._  
+|  _Sec._ ___441.0054._ _____REPORT TO ATTORNEY GENERAL. (a) Not later_  
+| _than June 1 of each year, the commission and each health benefit_  
+| _plan issuer to which Section 441.0053 applies shall provide each_  
+| _list required under this subchapter to the attorney general._  
+|  _(b)_ _____The attorney general and commission shall post the lists_  
+| _described by Subsection (a) on the attorney general's and_  
+| _commission's Internet websites._  
+| _SUBCHAPTER C. PRICE JUSTIFICATION_  
+|  _Sec._ ___441.0101._ _____ATTORNEY GENERAL LIST. (a) Using the lists_  
+| _provided under Section 441.0054 and except as provided by_  
+| _Subsection (b), the attorney general shall compile an aggregate_  
+| _list of 15 prescription drugs for which the greatest amount of money_  
+| _was spent across all payers during the previous calendar year._  
+|  _(b)_ _____If fewer than 15 prescription drugs appear on more than_  
+| _one payer's list, the attorney general shall rank the remaining_  
+| _drugs based on the amount of money spent by any one payer during the_  
+| _previous calendar year, in descending order, and may select as many_  
+| _of the drugs based on that ranking as necessary to reach a total of_  
+| _15 drugs required under Subsection (a)._  
+|  _(c)_ _____The attorney general shall provide written notice to_  
+| _each manufacturer of a prescription drug on the list described by_  
+| _Subsection (a) of the drug's placement on the list and the_  
+| _manufacturer's duties under this subchapter._  
+|  _Sec._ ___441.0102._ _____PRICE JUSTIFICATION REQUIRED. (a) On_  
+| _receipt of the notice described by Section 441.0101(c), a_  
+| _manufacturer shall provide to the attorney general in the form and_  
+| _manner prescribed by the attorney general a written report on the_  
+| _prescription drug described by the notice._  
+|  _(b) The report described by Subsection (a) must include:_  
+|  _(1)_ _____a justification for the increase in the net cost of_  
+| _the prescription drug for the commission, a health benefit plan_  
+| _issuer, or both; and_  
+|  _(2)_ _____all relevant information and supporting_  
+| _documentation necessary to support the justification described by_  
+| _Subdivision (1), including:_  
+|  _(A)_ _____each factor that specifically caused the net_  
+| _cost increase;_  
+|  _(B)_ _____the percentage of the total cost increase_  
+| _attributable to each factor; and_  
+|  _(C)_ _____an explanation of the role of each factor in_  
+| _contributing to the cost increase._  
+|  _(c)_ _____A manufacturer shall provide the report described by_  
+| _Subsection (a) in the form and manner prescribed by the attorney_  
+| _general to the attorney general._  
+|  _(d)_ _____A manufacturer shall provide additional information_  
+| _concerning a listed prescription drug or a cost increase to the_  
+| _attorney general on request by the attorney general._  
+|  _(e)_ _____A manufacturer may request a portion of the information_  
+| _provided to be excepted from publication and held as confidential_  
+| _in accordance with Section 552.110, Government Code, or other_  
+| _applicable law, and shall provide an explanation for each request_  
+| _to the attorney general. If the attorney general finds that the_  
+| _request is justified, the information shall:_  
+|  _(1)_ _____be redacted from the report provided under this_  
+| _section;_  
+|  _(2) be confidential; and_  
+|  _(3)_ _____be excepted from disclosure under Chapter 552,_  
+| _Government Code._  
+|  _(f)_ _____The attorney general may adopt rules necessary to_  
+| _implement this section._  
+|  _Sec._ ___441.0103._ _____ATTORNEY GENERAL REPORT TO LEGISLATURE. (a)_  
+| _Not later than December 1 of each year, the attorney general shall_  
+| _provide a written report to the legislature on the manufacturer_  
+| _reports described by Section 441.0102 received by the attorney_  
+| _general during the previous calendar year._  
+|  _(b)_ _____The attorney general and commission shall post the_  
+| _report described by Subsection (a) and each copy of a_  
+| _manufacturer's report provided under Section 441.0102, redacted as_  
+| _necessary, on the attorney general's and commission's Internet_  
+| _websites. The attorney general and commission may inform the_  
+| _public of the availability of the reports posted under this_  
+| _subsection._  
+|  _Sec._ ___441.0104._ _____CONSTRUCTION OF SUBCHAPTER. This subchapter_  
+| _may not be construed to restrict the legal ability of a manufacturer_  
+| _to increase prescription drug prices in accordance with federal_  
+| _law._  
+|  _Sec._ ___441.0105._ _____ENFORCEMENT. A manufacturer that violates_  
+| _Section 441.0102 or a rule adopted under this chapter is liable to_  
+| _the state for a civil penalty of not more than $10,000 for each_  
+| _violation. Each failure to provide information to the attorney_  
+| _general is a separate violation. The attorney general may bring_  
+| _suit to provide for injunctive relief or to recover a civil penalty,_  
+| _or both._ ___The attorney general may recover court costs and_  
+| _reasonable attorney's fees._  
+|  SECTION 2. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall identify, provide to the attorney  
+| general, and post on the commission's Internet website the list of  
+| prescription drugs and manufacturers required by Sections 441.0051  
+| and 441.0052, Health and Safety Code, as added by this Act.  
+|  SECTION 3. Notwithstanding Section 441.0103, Health and  
+| Safety Code, as added by this Act, the attorney general is not  
+| required to submit the initial report required by that section  
+| before December 1, 2020.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

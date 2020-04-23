@@ -1,0 +1,545 @@
+| 86R14273 MAW-F  
+---|---  
+|  By: Pacheco | H.B. No. 3512  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to community supervision.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 5.08, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 5.08. MEDIATION IN FAMILY VIOLENCE  
+| CASES. Notwithstanding Article 26.13(g) or _42A.301(b)(12)_  
+| [ ~~42A.301(15)~~ ], in a criminal prosecution arising from family  
+| violence, as that term is defined by Section 71.004, Family Code, a  
+| court shall not refer or order the victim or the defendant involved  
+| to mediation, dispute resolution, arbitration, or other similar  
+| procedures.  
+|  SECTION 2. Article 42A.052(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) A judge who places a defendant on community supervision  
+| may authorize the supervision officer supervising the defendant or  
+| a magistrate appointed by the district courts in the county that  
+| give preference to criminal cases to modify the conditions of  
+| community supervision for the limited _purposes_ [ ~~purpose~~ ] of _:_  
+|  _(1)_ transferring the defendant to different programs  
+| within the community supervision continuum of programs and  
+| sanctions _; or_  
+|  _(2)_ _____prioritizing the conditions ordered by the court_  
+| _according to:_  
+|  _(A)_ _____the defendant's needs as determined by a risk_  
+| _and needs assessment; and_  
+|  _(B) the defendant's progress under supervision_.  
+|  SECTION 3. Articles 42A.301(b) and (c), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (b) Conditions of community supervision may include  
+| conditions requiring the defendant to:  
+|  (1) commit no offense against the laws of this state or  
+| of any other state or of the United States;  
+|  (2) [ ~~avoid injurious or vicious habits;~~  
+|  [ ~~(3)~~ ] avoid persons or places of disreputable or  
+| harmful character _to the extent indicated by the results of the_  
+| _assessment conducted under Subsection (a) and the evaluation_  
+| _conducted under Subsection (c)_ [ ~~, including any person, other than~~  
+|  ~~a family member of the defendant, who is an active member of a~~  
+|  ~~criminal street gang~~ ];  
+|  _(3)_ [ ~~(4)~~ ] report to the supervision officer as  
+| directed by the judge or supervision officer and obey all rules and  
+| regulations of the community supervision and corrections  
+| department;  
+|  _(4)_ [ ~~(5)~~ ] permit the supervision officer to visit the  
+| defendant at the defendant's home or elsewhere;  
+|  _(5)_ [ ~~(6)~~ ] work faithfully at suitable employment to  
+| the extent possible;  
+|  _(6)_ [ ~~(7)~~ ] remain within a specified place;  
+|  _(7)_ [ ~~(8)~~ ] pay in one or more amounts:  
+|  (A) the defendant's fine, if one is assessed; and  
+|  (B) all court costs, regardless of whether a fine  
+| is assessed;  
+|  _(8)_ [ ~~(9) support the defendant's dependents;~~  
+|  [ ~~(10)~~ ~~~~ ~~~~ ~~participate, for a period specified by the~~  
+|  ~~judge, in any community-based program, including a community~~  
+|  ~~service project under Article 42A.304;~~  
+|  [ ~~(11)~~ ] if the judge determines that the defendant has  
+| financial resources that enable the defendant to offset in part or  
+| in whole the costs of the legal services provided to the defendant  
+| in accordance with Article 1.051(c) or (d), including any expenses  
+| and costs, reimburse the county in which the prosecution was  
+| instituted for the costs of the legal services in an amount that the  
+| judge finds the defendant is able to pay, except that the defendant  
+| may not be ordered to pay an amount that exceeds:  
+|  (A) the actual costs, including any expenses and  
+| costs, paid by the county for the legal services provided by an  
+| appointed attorney; or  
+|  (B) if the defendant was represented by a public  
+| defender's office, the actual amount, including any expenses and  
+| costs, that would have otherwise been paid to an appointed attorney  
+| had the county not had a public defender's office;  
+|  _(9)_ [ ~~(12)~~ ] if under custodial supervision in a  
+| community corrections facility:  
+|  (A) remain under that supervision;  
+|  (B) obey all rules and regulations of the  
+| facility; and  
+|  (C) pay a percentage of the defendant's income  
+| to:  
+|  (i) the facility for room and board; and  
+|  (ii) the defendant's dependents for their  
+| support during the period of custodial supervision;  
+|  _(10)_ [ ~~(13)~~ ] submit to testing for alcohol or  
+| controlled substances _but only if:_  
+|  _(A)_ _____the judge determines, based on the results of_  
+| _the assessment conducted under Subsection (a) and the evaluation_  
+| _conducted under Subsection (c), that testing is necessary to_  
+| _protect or restore the community or the victim or to punish,_  
+| _rehabilitate, or reform the defendant; or_  
+|  _(B)_ _____the defendant's offense was related to drug_  
+| _or alcohol abuse_ ;  
+|  _(11)_ [ ~~(14)~~ ] attend counseling sessions for substance  
+| abusers or participate in substance abuse treatment services in a  
+| program or facility approved or licensed by the Department of State  
+| Health Services _but only if:_  
+|  _(A)_ _____the judge determines, based on the results of_  
+| _the assessment conducted under Subsection (a) and the evaluation_  
+| _conducted under Subsection (c), that counseling or treatment is_  
+| _necessary to protect or restore the community or the victim or to_  
+| _punish, rehabilitate, or reform the defendant; or_  
+|  _(B)_ _____the defendant's offense was related to drug_  
+| _or alcohol abuse_ ;  
+|  _(12)_ [ ~~(15)~~ ] with the consent of the victim of a  
+| misdemeanor offense or of any offense under Title 7, Penal Code,  
+| participate in victim-defendant mediation;  
+|  _(13)_ [ ~~(16)~~ ] submit to electronic monitoring;  
+|  _(14)_ [ ~~(17)~~ ] reimburse the compensation to victims of  
+| crime fund for any amounts paid from that fund to or on behalf of a  
+| victim, as defined by Article 56.32, of the offense or if no  
+| reimbursement is required, make one payment to the compensation to  
+| victims of crime fund in an amount not to exceed $50 if the offense  
+| is a misdemeanor or not to exceed $100 if the offense is a felony;  
+|  _(15)_ [ ~~(18)~~ ] reimburse a law enforcement agency for the  
+| analysis, storage, or disposal of raw materials, controlled  
+| substances, chemical precursors, drug paraphernalia, or other  
+| materials seized in connection with the offense;  
+|  _(16)_ [ ~~(19)~~ ] pay all or part of the reasonable and  
+| necessary costs incurred by the victim for psychological counseling  
+| made necessary by the offense or for counseling and education  
+| relating to acquired immune deficiency syndrome or human  
+| immunodeficiency virus made necessary by the offense;  
+|  _(17)_ [ ~~(20)~~ ] make one payment in an amount not to  
+| exceed $50 to a crime stoppers organization, as defined by Section  
+| 414.001, Government Code, and as certified by the Texas Crime  
+| Stoppers Council;  
+|  _(18)_ [ ~~(21)~~ ] submit a DNA sample to the Department of  
+| Public Safety under Subchapter G, Chapter 411, Government Code, for  
+| the purpose of creating a DNA record of the defendant;  
+|  [ ~~(22)~~ ~~~~ ~~~~ ~~in any manner required by the judge, provide in~~  
+|  ~~the county in which the offense was committed public notice of the~~  
+|  ~~offense for which the defendant was placed on community~~  
+|  ~~supervision;~~ ] and  
+|  _(19)_ [ ~~(23)~~ ] reimburse the county in which the  
+| prosecution was instituted for compensation paid to any interpreter  
+| in the case.  
+|  (c) Before the judge may require as a condition of community  
+| supervision that the defendant _submit to testing for alcohol or_  
+| _controlled substances, attend counseling sessions for substance_  
+| _abuse, or_ receive treatment in a state-funded substance abuse  
+| treatment program, including an inpatient or outpatient program, a  
+| substance abuse felony program under Article 42A.303, or a program  
+| provided to the defendant while confined in a community corrections  
+| facility as defined by Article 42A.601, the judge must consider the  
+| results of an evaluation conducted to determine the appropriate  
+| type and level of treatment necessary to address the defendant's  
+| alcohol or drug dependency.  
+|  SECTION 4. Article 42A.303(e), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (e) The Department of State Health Services _or the community_  
+| _supervision and corrections department supervising the defendant_  
+| shall develop the continuum of care treatment plan described by  
+| Subsection (d)(1).  
+|  SECTION 5. Articles 42A.403(d-1) and (e), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (d-1) The judge shall waive the educational program  
+| requirement if the defendant successfully completes [ ~~equivalent~~ ]  
+| education at a residential treatment facility under Article  
+| 42A.4045.  
+|  (e) The judge shall set out in the judgment, as applicable:  
+|  (1) the finding of good cause for waiver; or  
+|  (2) the finding that the defendant has successfully  
+| completed [ ~~equivalent~~ ] education as provided by Article 42A.4045.  
+|  SECTION 6. Articles 42A.404(b-1) and (c), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (b-1) The judge shall waive the educational program  
+| requirement if the defendant successfully completes [ ~~equivalent~~ ]  
+| education at a residential treatment facility under Article  
+| 42A.4045.  
+|  (c) The judge shall set out in the judgment, as applicable:  
+|  (1) the finding of good cause for waiver; or  
+|  (2) the finding that the defendant has successfully  
+| completed [ ~~equivalent~~ ] education as provided by Article 42A.4045.  
+|  SECTION 7. Articles 42A.4045(a) and (b), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (a) A judge shall waive the educational requirement under  
+| Article 42A.403 or 42A.404 for a defendant who is required to  
+| receive treatment as a resident of a substance abuse treatment  
+| facility as a condition of community supervision if the defendant  
+| successfully completes [ ~~equivalent~~ ] education while the defendant  
+| is confined to the residential treatment facility.  
+|  (b) The Department of State Health Services shall approve  
+| [ ~~equivalent~~ ] education provided at substance abuse treatment  
+| facilities.  
+|  SECTION 8. Articles 42A.406(a) and (b-1), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (a) If a defendant is required as a condition of community  
+| supervision to attend an educational program under Article 42A.403  
+| or 42A.404, or if the court waives the educational program  
+| requirement under Article 42A.403 or the defendant successfully  
+| completes [ ~~equivalent~~ ] education under Article 42A.4045, the court  
+| clerk shall immediately report that fact to the Department of  
+| Public Safety, on a form prescribed by the department, for  
+| inclusion in the defendant's driving record. If the court grants  
+| an extension of time in which the defendant may complete the  
+| educational program under Article 42A.403, the court clerk shall  
+| immediately report that fact to the Department of Public Safety on a  
+| form prescribed by the department. The clerk's report under this  
+| subsection must include the beginning date of the defendant's  
+| community supervision.  
+|  (b-1) Upon release from a residential treatment facility at  
+| which the person successfully completed [ ~~equivalent~~ ] education  
+| under Article 42A.4045, at the request of the court clerk, the  
+| director of the residential treatment facility shall give notice to  
+| the Department of Public Safety for inclusion in the person's  
+| driving record.  
+|  SECTION 9. Articles 42A.651(a) and (c), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (a) A judge may not order a defendant to make a payment as a  
+| term or condition of community supervision, except for:  
+|  (1) the payment of fines, court costs, or restitution  
+| to the victim;  
+|  (2) reimbursement of a county as described by Article  
+| _42A.301(b)(8)_ [ ~~42A.301(11)~~ ]; or  
+|  (3) a payment ordered as a condition that relates  
+| personally to the rehabilitation of the defendant or that is  
+| otherwise expressly authorized by law.  
+|  (c) A judge may not impose a condition of community  
+| supervision requiring a defendant to reimburse a county for the  
+| costs of legal services as described by Article _42A.301(b)(8)_  
+| [ ~~42A.301(11)~~ ] if the defendant has already satisfied that  
+| obligation under Article 26.05(g).  
+|  SECTION 10. Article 42A.655, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 42A.655. ABILITY TO PAY. _(a)_ _____Notwithstanding any_  
+| _other provision of this chapter, the_ [ ~~The~~ ] court shall _inquire as
+to_  
+| _whether the defendant has sufficient resources or income_ [ ~~consider~~  
+|  ~~the defendant's ability~~ ] to pay before ordering the defendant to  
+| make any payments under this chapter.  
+|  _(b)_ _____For a defendant who is ordered to make payments under_  
+| _this chapter, the court shall reconsider whether the defendant has_  
+| _sufficient resources or income to pay:_  
+|  _(1)_ _____at least annually or at any time the defendant's_  
+| _financial status or required payments change in such a way that the_  
+| _defendant's ability to make a payment previously ordered by the_  
+| _court is substantially hindered; and_  
+|  _(2) at any hearing held under Article 42A.751(d)._  
+|  _(c)_ _____If the court determines that the defendant does not have_  
+| _sufficient resources or income to make any payment ordered by the_  
+| _court, including a payment required under Article 42A.652, the_  
+| _judge shall determine whether all or a portion of the payment should_  
+| _be:_  
+|  _(1)_ _____required to be paid at a later date or in a_  
+| _specified portion at designated intervals;_  
+|  _(2)_ _____waived completely or partially under Article_  
+| _43.091 or 45.0491;_  
+|  _(3)_ _____discharged by performing community service under_  
+| _Article 42A.304 or 45.049, as applicable; or_  
+|  _(4)_ _____satisfied through any combination of methods under_  
+| _Subdivisions (1)-(3)._  
+|  SECTION 11. Article 42A.701, Code of Criminal Procedure, is  
+| amended by amending Subsections (a), (b), and (d) and adding  
+| Subsections (b-1) and (c-1) to read as follows:  
+|  (a) At any time after the _defendant's time served on_  
+| _community supervision plus time credits received under Article_  
+| _42A.702 equals_ [ ~~defendant has satisfactorily completed~~ ] one-third  
+| of the original community supervision period or two years [ ~~of~~  
+|  ~~community supervision~~ ], whichever is less, the judge may reduce or  
+| terminate the period of community supervision.  
+|  (b) _Once a defendant's time served on community supervision_  
+| _plus time credits received under Article 42A.702 equals_ [ ~~On~~  
+|  ~~completion of~~ ] one-half of the original community supervision  
+| period or two years [ ~~of community supervision~~ ], whichever is more,  
+| the judge shall review the defendant's record and consider whether  
+| to reduce or terminate the period of community supervision, unless  
+| the defendant:  
+|  (1) is delinquent in paying required [ ~~costs, fines,~~  
+|  ~~fees, or~~ ] restitution that the defendant has the ability to pay; or  
+|  (2) has not completed court-ordered counseling or  
+| treatment.  
+|  _(b-1)_ _____The supervision officer shall notify the court not_  
+| _later than the 30th day after the date a defendant who at the time of_  
+| _the review required by Subsection (b) was delinquent in paying_  
+| _restitution or had not completed court-ordered counseling or_  
+| _treatment, completes the remaining court-ordered counseling or_  
+| _treatment and makes the delinquent restitution payments, as_  
+| _applicable._ ___The court shall review the defendant's record and_  
+| _consider whether to reduce or terminate the period of community_  
+| _supervision._  
+|  _(c-1)_ _____If, at the time a court conducts a review of a_  
+| _defendant's record under this article, the defendant has been_  
+| _compliant with the terms of community supervision for the preceding_  
+| _six months, the judge shall terminate the period of community_  
+| _supervision and discharge the defendant, unless the judge makes a_  
+| _finding that there is a substantial and compelling objective reason_  
+| _to deny early termination._ ___Substantial and compelling reasons are_  
+| _limited to the following circumstances:_  
+|  _(1)_ _____the defendant has exhibited a pattern of behavior_  
+| _while on community supervision indicating the defendant would be a_  
+| _substantial risk to public safety, including major violations of_  
+| _conditions of community supervision or additional criminal_  
+| _convictions;_  
+|  _(2)_ _____there is verified objective evidence of_  
+| _substantial risk of harm to a victim of the offense for which the_  
+| _defendant is on community supervision;_  
+|  _(3)_ _____the defendant has threatened harm to another_  
+| _person;_  
+|  _(4)_ _____the defendant is a suspect in an active criminal_  
+| _investigation; or_  
+|  _(5)_ _____the defendant is the subject of a pending felony_  
+| _charge._  
+|  (d) If the judge determines that the defendant has _not been_  
+| _compliant with the terms_ [ ~~failed to satisfactorily fulfill the~~  
+|  ~~conditions~~ ] of community supervision _for the preceding six months,_  
+| _or if the judge makes a finding under Subsection (c-1)(1) or (2)_ ,  
+| the judge shall advise the defendant in writing of the requirements  
+| for satisfactorily fulfilling those conditions.  _As soon as_  
+| _practicable after the 180th day after the date the judge advises the_  
+| _defendant under this subsection, but not later than the 270th day_  
+| _after that date, the judge shall review the defendant's record and_  
+| _again consider whether to reduce or terminate the period of_  
+| _community supervision._  
+|  SECTION 12. Articles 42A.702(a), (c), and (d), Code of  
+| Criminal Procedure, are amended to read as follows:  
+|  (a) This article applies only to a defendant who[ ~~:~~  
+|  [ ~~(1)~~ ] is granted community supervision, including  
+| deferred adjudication community supervision, for an offense  
+| punishable as a state jail felony or a felony of the third degree,  
+| other than an offense:  
+|  _(1)_ [ ~~(A)~~ ] included as a "reportable conviction or  
+| adjudication" under Article 62.001(5);  
+|  _(2)_ [ ~~(B)~~ ~~~~ ~~~~ ~~involving family violence as defined by~~  
+|  ~~Section 71.004, Family Code;~~  
+|  [ ~~(C)~~ ] under Section 20.03 or 28.02, Penal Code;  
+| or  
+|  _(3)_ [ ~~(D)~~ ] under Chapter 49, Penal Code[ ~~;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~is not delinquent in paying required costs,~~  
+|  ~~fines, or fees; and~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~has fully satisfied any order to pay restitution~~  
+|  ~~to a victim~~ ].  
+|  (c) A defendant is entitled to time credits toward the  
+| completion of the defendant's period of community supervision for  
+| the full payment of court costs, fines, attorney's fees, and  
+| restitution as follows:  
+|  (1) court costs: _60_ [ ~~15~~ ] days;  
+|  (2) fines: _90_ [ ~~30~~ ] days;  
+|  (3) attorney's fees: _90_ [ ~~30~~ ] days; and  
+|  (4) restitution: _120_ [ ~~60~~ ] days.  
+|  (d) A defendant is entitled to time credits toward the  
+| completion of the defendant's period of community supervision for  
+| the successful completion of treatment or rehabilitation programs  
+| as follows:  
+|  (1) parenting class or parental responsibility  
+| program: _90_ [ ~~30~~ ] days;  
+|  (2) anger management program: _90_ [ ~~30~~ ] days;  
+|  (3) life skills training program: _90_ [ ~~30~~ ] days;  
+|  (4) vocational, technical, or career education or  
+| training program: _120_ [ ~~60~~ ] days; [ ~~and~~ ]  
+|  (5) alcohol or substance abuse counseling or  
+| treatment: _120_ [ ~~90~~ ] days _; and_  
+|  _(6)_ _____any other faith-based, volunteer, or_  
+| _community-based program ordered or approved by the court: 90 days_.  
+|  SECTION 13. Article 42A.751(i), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (i) In a revocation hearing at which it is alleged only that  
+| the defendant violated the conditions of community supervision by  
+| failing to pay community supervision fees or court costs or by  
+| failing to pay the costs of legal services as described by Article  
+| _42A.301(b)(8)_ [ ~~42A.301(11)~~ ], the state must prove by a  
+| preponderance of the evidence that the defendant was able to pay and  
+| did not pay as ordered by the judge.  
+|  SECTION 14. Section 103.021, Government Code, is amended to  
+| read as follows:  
+|  Sec. 103.021. ADDITIONAL FEES AND COSTS IN CRIMINAL OR  
+| CIVIL CASES: CODE OF CRIMINAL PROCEDURE. An accused or  
+| defendant, or a party to a civil suit, as applicable, shall pay the  
+| following fees and costs under the Code of Criminal Procedure if  
+| ordered by the court or otherwise required:  
+|  (1) a personal bond fee (Art. 17.42, Code of Criminal  
+| Procedure) . . . the greater of $20 or three percent of the amount  
+| of the bail fixed for the accused;  
+|  (2) cost of electronic monitoring as a condition of  
+| release on personal bond (Art. 17.43, Code of Criminal Procedure)  
+| . . . actual cost;  
+|  (3) a fee for verification of and monitoring of motor  
+| vehicle ignition interlock (Art. 17.441, Code of Criminal  
+| Procedure) . . . not to exceed $10;  
+|  (3-a) costs associated with operating a global  
+| positioning monitoring system as a condition of release on bond  
+| (Art. 17.49(b)(2), Code of Criminal Procedure) . . . actual costs,  
+| subject to a determination of indigency;  
+|  (3-b) costs associated with providing a defendant's  
+| victim with an electronic receptor device as a condition of the  
+| defendant's release on bond (Art. 17.49(b)(3), Code of Criminal  
+| Procedure) . . . actual costs, subject to a determination of  
+| indigency;  
+|  (4) repayment of reward paid by a crime stoppers  
+| organization on conviction of a felony (Art. 37.073, Code of  
+| Criminal Procedure) . . . amount ordered;  
+|  (5) reimbursement to general revenue fund for payments  
+| made to victim of an offense as condition of community supervision  
+| (Art. _42A.301(b)(14)_ [ ~~42A.301(17)~~ ], Code of Criminal Procedure)  
+| . . . not to exceed $50 for a misdemeanor offense or $100 for a  
+| felony offense;  
+|  (6) payment to a crime stoppers organization as  
+| condition of community supervision (Art. _42A.301(b)(17)_  
+| [ ~~42A.301(20)~~ ], Code of Criminal Procedure) . . . not to exceed $50;  
+|  (7) children's advocacy center fee (Art. 42A.455, Code  
+| of Criminal Procedure) . . . not to exceed $50;  
+|  (8) family violence center fee (Art. 42A.504(b), Code  
+| of Criminal Procedure) . . . $100;  
+|  (9) community supervision fee (Art. 42A.652(a), Code  
+| of Criminal Procedure) . . . not less than $25 or more than $60 per  
+| month;  
+|  (10) additional community supervision fee for certain  
+| offenses (Art. 42A.653(a), Code of Criminal Procedure) . . . $5 per  
+| month;  
+|  (11) for certain financially able sex offenders as a  
+| condition of community supervision, the costs of treatment,  
+| specialized supervision, or rehabilitation (Art. 42A.452, Code of  
+| Criminal Procedure) . . . all or part of the reasonable and  
+| necessary costs of the treatment, supervision, or rehabilitation as  
+| determined by the judge;  
+|  (12) fee for failure to appear for trial in a justice  
+| or municipal court if a jury trial is not waived (Art. 45.026, Code  
+| of Criminal Procedure) . . . costs incurred for impaneling the  
+| jury;  
+|  (13) costs of certain testing, assessments, or  
+| programs during a deferral period (Art. 45.051, Code of Criminal  
+| Procedure) . . . amount ordered;  
+|  (14) special expense on dismissal of certain  
+| misdemeanor complaints (Art. 45.051, Code of Criminal Procedure)  
+| . . . not to exceed amount of fine assessed;  
+|  (15) an additional fee:  
+|  (A) for a copy of the defendant's driving record  
+| to be requested from the Department of Public Safety by the judge  
+| (Art. 45.0511(c-1), Code of Criminal Procedure) . . . amount equal  
+| to the sum of the fee established by Section 521.048,  
+| Transportation Code, and the state electronic Internet portal fee;  
+|  (B) as an administrative fee for requesting a  
+| driving safety course or a course under the motorcycle operator  
+| training and safety program for certain traffic offenses to cover  
+| the cost of administering the article (Art. 45.0511(f)(1), Code of  
+| Criminal Procedure) . . . not to exceed $10; or  
+|  (C) for requesting a driving safety course or a  
+| course under the motorcycle operator training and safety program  
+| before the final disposition of the case (Art. 45.0511(f)(2), Code  
+| of Criminal Procedure) . . . not to exceed the maximum amount of the  
+| fine for the offense committed by the defendant;  
+|  (16) a request fee for teen court program (Art.  
+| 45.052, Code of Criminal Procedure) . . . $20, if the court  
+| ordering the fee is located in the Texas-Louisiana border region,  
+| but otherwise not to exceed $10;  
+|  (17) a fee to cover costs of required duties of teen  
+| court (Art. 45.052, Code of Criminal Procedure) . . . $20, if the  
+| court ordering the fee is located in the Texas-Louisiana border  
+| region, but otherwise $10;  
+|  (18) a mileage fee for officer performing certain  
+| services (Art. 102.001, Code of Criminal Procedure) . . . $0.15 per  
+| mile;  
+|  (19) certified mailing of notice of hearing date (Art.  
+| 102.006, Code of Criminal Procedure) . . . $1, plus postage;  
+|  (20) certified mailing of certified copies of an order  
+| of expunction (Art. 102.006, Code of Criminal Procedure) . . . $2,  
+| plus postage;  
+|  (20-a) a fee to defray the cost of notifying state  
+| agencies of orders of expungement (Art. 45.0216, Code of Criminal  
+| Procedure) . . . $30 per application;  
+|  (21) sight orders:  
+|  (A) if the face amount of the check or sight order  
+| does not exceed $10 (Art. 102.007, Code of Criminal Procedure)  
+| . . . not to exceed $10;  
+|  (B) if the face amount of the check or sight order  
+| is greater than $10 but does not exceed $100 (Art. 102.007, Code of  
+| Criminal Procedure) . . . not to exceed $15;  
+|  (C) if the face amount of the check or sight order  
+| is greater than $100 but does not exceed $300 (Art. 102.007, Code of  
+| Criminal Procedure) . . . not to exceed $30;  
+|  (D) if the face amount of the check or sight order  
+| is greater than $300 but does not exceed $500 (Art. 102.007, Code of  
+| Criminal Procedure) . . . not to exceed $50; and  
+|  (E) if the face amount of the check or sight order  
+| is greater than $500 (Art. 102.007, Code of Criminal Procedure)  
+| . . . not to exceed $75;  
+|  (22) fees for a pretrial intervention program:  
+|  (A) a supervision fee (Art. 102.012(a), Code of  
+| Criminal Procedure) . . . $60 a month plus expenses; and  
+|  (B) a district attorney, criminal district  
+| attorney, or county attorney administrative fee (Art. 102.0121,  
+| Code of Criminal Procedure) . . . not to exceed $500;  
+|  (23) parking fee violations for child safety fund in  
+| municipalities with populations:  
+|  (A) greater than 850,000 (Art. 102.014, Code of  
+| Criminal Procedure) . . . not less than $2 and not to exceed $5; and  
+|  (B) less than 850,000 (Art. 102.014, Code of  
+| Criminal Procedure) . . . not to exceed $5;  
+|  (24) an administrative fee for collection of fines,  
+| fees, restitution, or other costs (Art. 102.072, Code of Criminal  
+| Procedure) . . . not to exceed $2 for each transaction;  
+|  (25) a collection fee, if authorized by the  
+| commissioners court of a county or the governing body of a  
+| municipality, for certain debts and accounts receivable, including  
+| unpaid fines, fees, court costs, forfeited bonds, and restitution  
+| ordered paid (Art. 103.0031, Code of Criminal Procedure) . . . 30  
+| percent of an amount more than 60 days past due; and  
+|  (26) a cost on conviction for the truancy prevention  
+| and diversion fund (Art. 102.015, Code of Criminal Procedure) . . .  
+| $2.  
+|  SECTION 15. Section 509.011(e), Government Code, is amended  
+| to read as follows:  
+|  (e) In establishing per diem payments authorized by  
+| Subsections (a)(1) and (a)(2), the division shall consider the  
+| amounts appropriated in the General Appropriations Act for basic  
+| supervision as sufficient to provide basic supervision in each year  
+| of the fiscal biennium. _For purposes of funding distributed for a_  
+| _defendant described by Subsection (a)(1), the division shall adopt_  
+| _provisions to award additional per capita funding based on each_  
+| _felony defendant supervised by a department who receives a_  
+| _discharge following:_  
+|  _(1)_ _____the successful completion of the period of_  
+| _community supervision; or_  
+|  _(2)_ _____an early termination of community supervision_  
+| _under Article 42A.111 or 42A.701, Code of Criminal Procedure, as_  
+| _applicable._  
+|  SECTION 16. To the extent of any conflict, this Act prevails  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 17. Section 509.011, Government Code, as amended by  
+| this Act, applies only to a payment based on an appropriation made  
+| for any state fiscal year beginning on or after September 1, 2020.  
+|  SECTION 18. (a) Except as provided by Subsection (b) of  
+| this section, the change in law made by this Act to Chapter 42A,  
+| Code of Criminal Procedure, applies to a person on community  
+| supervision on or after the effective date of this Act, regardless  
+| of whether the person was placed on community supervision before,  
+| on, or after the effective date of this Act.  
+|  (b) The change in law made by this Act to the amount of a  
+| time credit to which a defendant is entitled under Article  
+| 42A.702(d), Code of Criminal Procedure, for successfully  
+| completing a treatment or rehabilitation program described by that  
+| article, applies only to a program that is completed on or after the  
+| effective date of this Act, regardless of whether the program began  
+| before, on, or after the effective date of this Act. The amount of a  
+| time credit for a program that was completed before the effective  
+| date of this Act is governed by the law in effect on the date the  
+| program was completed, and the former law is continued in effect for  
+| that purpose.  
+|  SECTION 19. This Act takes effect September 1, 2019.
+

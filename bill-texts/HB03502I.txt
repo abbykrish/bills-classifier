@@ -1,0 +1,45 @@
+| 86R12516 AJZ-F  
+---|---  
+|  By: Gonzalez of Dallas | H.B. No. 3502  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the disposal of exhibits used in criminal proceedings.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 2.21, Code of Criminal Procedure, is  
+| amended by amending Subsections (d) and (e) and adding Subsection  
+| (e-1) to read as follows:  
+|  (d) In this article, "eligible exhibit" means an exhibit  
+| filed with the clerk that:  
+|  (1) is not a firearm or contraband;  
+|  (2) has not been ordered by the court to be returned to  
+| its owner; and  
+|  (3) is not an exhibit in _any other_ [ ~~another pending~~ ]  
+| criminal action _that is pending final disposition_.  
+|  (e) An eligible exhibit may be disposed of as provided by  
+| this article:  
+|  (1) on or after the first anniversary of the date on  
+| which a conviction becomes final in the case, if the case is a  
+| misdemeanor [ ~~or a felony for which the sentence imposed by the court~~  
+|  ~~is five years or less~~ ];  
+|  (2) on or after the second anniversary of the date on  
+| which a conviction becomes final in the case, if the case is a  
+| [ ~~non-capital~~ ] felony for which the sentence imposed by the court is  
+| [ ~~greater than~~ ] five years _or less_ ;  
+|  (3) _on or after the 10th anniversary of the date on_  
+| _which a conviction becomes final in the case, if the case is a_  
+| _noncapital felony for which the sentence imposed by the court is_  
+| _greater than five years;_  
+|  _(4)_ on or after the first anniversary of the date of  
+| the acquittal of a defendant; or  
+|  _(5)_ [ ~~(4)~~ ] on or after the first anniversary of the  
+| date of the death of a defendant.  
+|  _(e-1)_ _____Notwithstanding Subsection (e), if the exhibit is_  
+| _filed in the trial of more than one criminal case, an eligible_  
+| _exhibit may be disposed of beginning on the expiration of the_  
+| _longest period that remains applicable, calculated for each trial_  
+| _according to the dates specified under Subsection (e)(1), (2), (3),_  
+| _(4), or (5), on the date the exhibit becomes an eligible exhibit_  
+| _under Subsection (d)._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

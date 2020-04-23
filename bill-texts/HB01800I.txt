@@ -1,0 +1,678 @@
+| 86R5960 SLB-F  
+---|---  
+|  By: Bonnen of Galveston | H.B. No. 1800  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Texas resilience infrastructure fund; authorizing  
+| the issuance of revenue bonds; making an appropriation.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 15, Water Code, is amended by adding  
+| Subchapter J-1 to read as follows:  
+| _SUBCHAPTER J-1. TEXAS RESILIENCE INFRASTRUCTURE FUND_  
+|  _Sec. 15.651. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Advisory committee" means the Texas Resilience_  
+| _Infrastructure Fund Advisory Committee._  
+|  _(2) "Coastal public land" means state-owned:_  
+|  _(A) submerged land; and_  
+|  _(B)_ _____islands or portions of islands in the coastal_  
+| _area._  
+|  _(3)_ _____"Historically underutilized business"_ ___has the_  
+| _meaning assigned by Section 2161.001, Government Code._  
+|  _(4)_ _____"Infrastructure fund" means the Texas resilience_  
+| _infrastructure fund._  
+|  _(5)_ _____"Project sponsor" means a political subdivision_  
+| _that has the authority and financial capability to implement,_  
+| _operate, and maintain a resilience project._  
+|  _(6)_ _____"Resilience project" means a project or program in_  
+| _this state and the coastal public land that prevents flooding or_  
+| _mitigates the damage from flooding related to a rainstorm, tropical_  
+| _storm or depression, hurricane, or storm surge affecting:_  
+|  _(A) public health, safety, or welfare;_  
+|  _(B) public property, including infrastructure;_  
+|  _(C)_ _____privately owned commercial, agricultural, or_  
+| _residential property; or_  
+|  _(D) fish or wildlife habitat._  
+|  _(7)_ _____"Trust company" means the Texas Treasury_  
+| _Safekeeping Trust Company._  
+|  _Sec._ ___15.652._ _____INFRASTRUCTURE FUND. (a)_ ___The Texas_  
+| _resilience infrastructure fund is a special fund in the state_  
+| _treasury outside the general revenue fund._  
+|  _(b)_ _____The infrastructure fund may be used by the board,_  
+| _without further legislative appropriation, only as provided by this_  
+| _subchapter._  
+|  _(c)_ _____Money deposited to the credit of the infrastructure fund_  
+| _may be used only as provided by this subchapter._  
+|  _(d)_ _____The board may establish separate accounts in the_  
+| _infrastructure fund._  
+|  _(e)_ _____The infrastructure fund and the infrastructure fund's_  
+| _accounts are kept and held by the trust company for and in the name_  
+| _of the board. The board has legal title to money and investments in_  
+| _the infrastructure fund until money is disbursed from the fund as_  
+| _provided by this subchapter and board rules._  
+|  _(f) The infrastructure fund consists of:_  
+|  _(1)_ _____money transferred or deposited to the credit of_  
+| _the infrastructure fund by law;_  
+|  _(2) proceeds from the sale of revenue bonds:_  
+|  _(A)_ _____issued by the board under this subchapter;_  
+| _and_  
+|  _(B)_ _____designated by the board for the purpose of_  
+| _providing a loan award from the infrastructure fund in accordance_  
+| _with Section 15.654;_  
+|  _(3)_ _____loan repayments related to the issuance of an_  
+| _award from the infrastructure fund;_  
+|  _(4)_ _____any tax, fee, or other revenue that the_  
+| _legislature by statute dedicates for deposit to the credit of the_  
+| _infrastructure fund;_  
+|  _(5)_ _____investment earnings and interest earned on amounts_  
+| _credited to the infrastructure fund; and_  
+|  _(6) any gift or grant to the infrastructure fund._  
+|  _(g)_ _____The Legislative Budget Board must give prior approval of_  
+| _each expenditure or emergency transfer made from the infrastructure_  
+| _fund by the board._  
+|  _Sec._ ___15.653._ _____MANAGEMENT AND INVESTMENT OF INFRASTRUCTURE_  
+| _FUND. (a)_ ___The trust company shall hold and invest the_  
+| _infrastructure fund, and any accounts established in the fund, for_  
+| _and in the name of the board, taking into account the purposes for_  
+| _which money in the fund may be used._  
+|  _(b)_ _____At all times the trust company shall hold in the_  
+| _infrastructure fund a reserve of not less than 10 percent of the_  
+| _aggregate principal amount of revenue bonds issued by the board_  
+| _under this subchapter._  
+|  _(c)_ _____The trust company may invest not more than 15 percent of_  
+| _the total balance of the infrastructure fund not held in reserve._ __  
+| _The infrastructure fund may be invested with the state treasury_  
+| _pool._ ___The overall objective for the investment of the_  
+| _infrastructure fund is to maintain sufficient liquidity to meet the_  
+| _needs of the fund while striving to preserve the awarding power of_  
+| _the fund._  
+|  _(d)_ _____The trust company has any power necessary to accomplish_  
+| _the purposes of managing and investing the assets of the_  
+| _infrastructure fund. In managing the assets of the infrastructure_  
+| _fund, through procedures and subject to restrictions the trust_  
+| _company considers appropriate, the trust company may acquire,_  
+| _exchange, sell, supervise, manage, or retain any kind of investment_  
+| _that a prudent investor, exercising reasonable care, skill, and_  
+| _caution, would acquire or retain in light of the purposes, terms,_  
+| _distribution requirements, and other circumstances of the_  
+| _infrastructure fund then prevailing, taking into consideration the_  
+| _investment of all the assets of the fund rather than a single_  
+| _investment._  
+|  _(e)_ _____The trust company may charge the infrastructure fund to_  
+| _cover its costs incurred in managing and investing the fund. The_  
+| _charge must be consistent with the fees the trust company charges_  
+| _other state and local governmental entities for which it provides_  
+| _investment management services. The trust company may recover_  
+| _charges under this subsection only from the earnings of the_  
+| _infrastructure fund._  
+|  _(f)_ _____The trust company annually shall provide a written_  
+| _report to the board and to the advisory committee with respect to_  
+| _the investment of the infrastructure fund. The trust company shall_  
+| _contract with a certified public accountant to conduct an_  
+| _independent audit of the infrastructure fund annually and shall_  
+| _present the results of each annual audit to the board and to the_  
+| _advisory committee. This subsection does not affect the state_  
+| _auditor's authority to conduct an audit of the infrastructure fund_  
+| _under Chapter 321, Government Code._  
+|  _(g)_ _____The trust company shall adopt a written investment_  
+| _policy that is appropriate for the infrastructure fund._ ___The trust_  
+| _company shall present the investment policy to the investment_  
+| _advisory board established under Section 404.028, Government Code._  
+| _The investment advisory board shall submit to the trust company_  
+| _recommendations regarding the policy._  
+|  _(h) The board shall provide to the trust company:_  
+|  _(1)_ _____an annual forecast of the cash flows into and out_  
+| _of the infrastructure fund; and_  
+|  _(2)_ _____updates to the forecasts as appropriate to ensure_  
+| _that the trust company is able to achieve the objective specified by_  
+| _Subsection (c)._  
+|  _(i)_ _____Subject to Subsection (b), the trust company shall_  
+| _disburse money from the infrastructure fund as directed by the_  
+| _board._  
+|  _(j)_ _____An investment-related contract entered into under this_  
+| _section is not subject to Chapter 2260, Government Code._  
+|  _Sec._ ___15.654._ _____USE OF INFRASTRUCTURE FUND. (a)_ ___The board may_  
+| _use money from the infrastructure fund to provide financing for_  
+| _resilience projects._  
+|  _(b)_ _____The board may award money from the infrastructure fund_  
+| _for a resilience project only in the form of:_  
+|  _(1) a grant to a receiving project sponsor; or_  
+|  _(2) a loan as provided by Subsection (e)._  
+|  _(c)_ _____Money from the infrastructure fund may be awarded to_  
+| _several project sponsors of a single resilience project._  
+|  _(d) An award issued as a grant may finance:_  
+|  _(1)_ _____not more than 75 percent of the total cost of a_  
+| _resilience project; or_  
+|  _(2)_ _____up to 100 percent of the local matching funds for a_  
+| _federally qualifying resilience project._  
+|  _(e)_ _____A project sponsor receiving a grant for a resilience_  
+| _project also may receive a loan from the infrastructure fund to_  
+| _finance the remaining cost of the project if the project sponsor can_  
+| _certify a source of loan repayment through governmental funding_  
+| _agreements approved by the attorney general._ ___The project sponsor_  
+| _must repay to the infrastructure fund any subsequent reimbursements_  
+| _received by the project sponsor related to the approved funding_  
+| _agreement until the loan principal and related interest is repaid_  
+| _in full._ ___In addition, the board may award money from the_  
+| _infrastructure fund in the form of a loan instead of a grant at any_  
+| _time the balance of the fund is less than $200 million. The terms of_  
+| _a loan made under this subsection must be in accordance with board_  
+| _rules governing the terms of loans for resilience projects._  
+|  _(f)_ _____The board may award money from the infrastructure fund_  
+| _to finance portions of a resilience project necessary for_  
+| _construction and implementation of the project, including mapping,_  
+| _studies, design, right-of-way acquisition, permitting, the_  
+| _purchase or contracting of goods and services, and administrative_  
+| _costs._  
+|  _(g)_ _____The board may award money from the infrastructure fund_  
+| _to finance regular updates and enhancements to the State of Texas_  
+| _Hazard Mitigation Plan, as well as to finance the development of_  
+| _hazard mitigation plans of political subdivisions, under_  
+| _guidelines issued by the Federal Emergency Management Agency and_  
+| _the Texas Division of Emergency Management._  
+|  _(h)_ _____On recommendation by the advisory committee, the board_  
+| _shall transfer money from the infrastructure fund to another state_  
+| _agency to support resilience projects._ ___Not more than a total of 10_  
+| _percent of the available and unencumbered infrastructure fund, as_  
+| _certified by the comptroller at the beginning of a state fiscal_  
+| _biennium, may be transferred in that biennium under this_  
+| _subsection._  
+|  _(i)_ _____The board shall ensure that every effort is made to use_  
+| _money from the infrastructure fund to obtain federal, local, and_  
+| _private financing for a resilience project._  
+|  _(j)_ _____Money from the infrastructure fund may not be used for_  
+| _ongoing operation and maintenance costs of a resilience project._  
+|  _Sec._ ___15.655._ _____EMERGENCY USE OF INFRASTRUCTURE FUND. (a)_ __  
+| _Notwithstanding Section 15.654, on the issuance of an executive_  
+| _order or proclamation declaring a state of disaster related to_  
+| _flooding in accordance with Chapter 418, Government Code, the board_  
+| _may expend an amount not to exceed five percent of the available and_  
+| _unencumbered infrastructure fund balance at the time of a disaster_  
+| _declaration for disaster recovery purposes._  
+|  _(b)_ _____The board may expend an additional amount not to exceed_  
+| _2.5 percent of the available and unencumbered infrastructure fund_  
+| _balance at the time of a renewal by the governor of a state of_  
+| _disaster related to flooding for disaster recovery purposes._  
+|  _(c)_ _____Notwithstanding Subsections (a) and (b), the board may_  
+| _not expend from the infrastructure fund for disaster recovery_  
+| _purposes during a state fiscal year an amount that exceeds 10_  
+| _percent of the available and unencumbered infrastructure fund_  
+| _balance at the time of the first flooding-related disaster_  
+| _declaration made during that fiscal year._  
+|  _Sec._ ___15.656._ _____PARTNERSHIPS. (a)_ ___A project sponsor may enter_  
+| _into a partnership with a nongovernmental entity to finance the_  
+| _construction, implementation, operation, and maintenance of a_  
+| _resilience project._ ___Only a project sponsor may enter into an_  
+| _agreement with the board for an award from the infrastructure fund._  
+|  _(b)_ _____A project sponsor must include full disclosure of any_  
+| _partnership between the project sponsor and a nongovernmental_  
+| _entity in an application for an award from the infrastructure fund._  
+|  _Sec._ ___15.657._ _____APPLICATION REVIEW PROCEDURES. (a) The board_  
+| _shall review an application for an award for a resilience project_  
+| _immediately on receipt of the application._ ___If the board determines_  
+| _that an application is incomplete, the board shall notify the_  
+| _applicant with an explanation of what is missing from the_  
+| _application._ ___The board shall evaluate the completed application_  
+| _according to the appropriate project criteria._ ___The board shall_  
+| _make a final determination on an application as soon as possible._  
+|  _(b)_ _____The board shall make every effort to expedite the_  
+| _application review process and to award grants or loans to project_  
+| _sponsors in a timely manner._  
+|  _(c)_ _____At any time the balance of the infrastructure fund is_  
+| _less than $200 million, the board shall notify all applicants with_  
+| _applications pending and provide them with the option to apply for a_  
+| _loan from the fund._  
+|  _(d)_ _____If the board determines that an applicant should receive_  
+| _an award of money from the infrastructure fund, the board must_  
+| _submit the application to the advisory committee for review and_  
+| _comments._  
+|  _(e)_ _____The advisory committee shall review each application_  
+| _submitted by the board and deliver comments on the application to_  
+| _the board not later than the 30th day after the date on which the_  
+| _board received the application._  
+|  _(f)_ _____If revenue bonds are to be issued for the purpose of_  
+| _awarding to an applicant money from the infrastructure fund, the_  
+| _board must submit the application and comments from the advisory_  
+| _committee to the bond review board and the attorney general for_  
+| _approval._  
+|  _(g)_ _____After an application has been reviewed and received_  
+| _comments from the advisory committee and, if applicable, has been_  
+| _approved by the bond review board and the attorney general, the_  
+| _board shall submit the application and all related comments and_  
+| _approvals to the lieutenant governor and speaker of the house of_  
+| _representatives for approval._  
+|  _Sec._ ___15.658._ _____AWARD APPROVAL. (a)_ ___The board may award money_  
+| _from the infrastructure fund for a resilience project only after:_  
+|  _(1)_ _____the advisory committee has reviewed and commented_  
+| _on the project; and_  
+|  _(2)_ _____the expenditure is approved by the Legislative_  
+| _Budget Board._  
+|  _(b)_ _____For purposes of Subsection (a), an award of money from_  
+| _the infrastructure fund is considered disapproved by the_  
+| _Legislative Budget Board if that agency does not approve the_  
+| _proposal to issue the award before the 31st day after the date of_  
+| _receipt of the proposal from the board._ ___The Legislative Budget_  
+| _Board may extend the review deadline applicable to that agency for_  
+| _an additional 14 days by submitting a written notice to that effect_  
+| _to the board before the expiration of the initial review period._  
+|  _Sec._ ___15.659._ _____REPAYMENT OF AWARDS. (a)_ ___If an award_  
+| _recipient has not used or obligated money awarded from the_  
+| _infrastructure fund for the purposes for which the award was_  
+| _intended before a date provided in the award agreement, the_  
+| _recipient must repay to the credit of the fund that amount and pay_  
+| _to the credit of the fund any related interest at a rate and on terms_  
+| _as provided by the award agreement._  
+|  _(b)_ _____All payments of principal and interest on a loan awarded_  
+| _from the infrastructure fund shall be deposited to the credit of the_  
+| _fund._  
+|  _Sec._ ___15.660._ _____REVENUE BONDS. (a)_ ___The board may issue_  
+| _revenue bonds to provide the principal for loan financing of a_  
+| _resilience project when the balance of the infrastructure fund is_  
+| _less than $200 million._  
+|  _(b)_ _____Revenue bonds issued under this subchapter are special_  
+| _obligations of the board payable only from and secured by_  
+| _designated income and receipts of the infrastructure fund, or of_  
+| _one or more accounts in the fund, including principal of and_  
+| _interest paid and to be paid on fund assets or income from accounts_  
+| _created within the fund by the board, as determined by the board._  
+|  _(c)_ _____Revenue bonds issued under this subchapter do not_  
+| _constitute indebtedness of the state as prohibited by the_  
+| _constitution._  
+|  _(d)_ _____The board may require a project sponsor to make charges,_  
+| _impose taxes that the project sponsor is otherwise authorized to_  
+| _impose, or otherwise provide for sufficient money to pay acquired_  
+| _obligations related to an award financed through a revenue bond_  
+| _issued under this subchapter._  
+|  _(e)_ _____Revenue bonds issued under this subchapter must be_  
+| _authorized by resolution of the board and must have the form and_  
+| _characteristics and bear the designations as the resolution_  
+| _provides._  
+|  _(f) Revenue bonds issued under this subchapter may:_  
+|  _(1)_ _____bear interest at the rate or rates payable_  
+| _annually or otherwise;_  
+|  _(2) be dated;_  
+|  _(3)_ _____mature at the time or times, serially, as term_  
+| _revenue bonds, or otherwise in not more than the 50th year from the_  
+| _date the revenue bonds were issued;_  
+|  _(4)_ _____be callable before stated maturity on the terms_  
+| _and at the prices, be in the denominations, be in the form, either_  
+| _coupon or registered, carry registration privileges as to principal_  
+| _only or as to both principal and interest and as to successive_  
+| _exchange of coupon for registered bonds or one denomination for_  
+| _bonds of other denominations, and successive exchange of registered_  
+| _revenue bonds for coupon revenue bonds, be executed in the manner,_  
+| _and be payable at the place or places inside or outside the state,_  
+| _as provided by the resolution; and_  
+|  _(5) be issued in temporary or permanent form._  
+|  _(g)_ _____Section 17.955 applies to revenue bonds issued under_  
+| _this subchapter in the same manner as that section applies to water_  
+| _financial assistance bonds._  
+|  _(h)_ _____The board shall deposit the proceeds from the sale of_  
+| _revenue bonds issued under this subchapter to the credit of the_  
+| _infrastructure fund._ ___Money deposited under this subsection may be_  
+| _used only to finance a resilience project under this subchapter._  
+|  _(i)_ _____Each revenue bond authorization and issuance under this_  
+| _subchapter must be authorized and issued for a single resilience_  
+| _project._  
+|  _(j)_ _____On approval by the bond review board and the attorney_  
+| _general, the board may authorize and issue revenue bonds to finance_  
+| _multiple resilience project awards if the awards will all be_  
+| _received by the same project sponsor or sponsors for a single_  
+| _resilience project._  
+|  _(k)_ _____The aggregate principal amount of revenue bonds issued_  
+| _by the board for resilience projects may not exceed the lesser of $2_  
+| _billion or 1,000 percent of the amount of the infrastructure fund_  
+| _that the trust company holds in reserve._  
+|  _(l)_ _____A revenue bond may not be issued by the board for a_  
+| _resilience project unless:_  
+|  _(1)_ _____the revenue bond is approved by the bond review_  
+| _board in accordance with Chapter 1231, Government Code; and_  
+|  _(2)_ _____the attorney general approves the issuance of the_  
+| _bond after finding that the bonds have been authorized in_  
+| _accordance with the law and that the project sponsor receiving an_  
+| _award from the infrastructure fund has the legal authority to_  
+| _implement a resilience project._  
+|  _(m)_ _____The comptroller shall register all revenue bonds issued_  
+| _by the board for resilience projects._  
+|  _(n)_ _____Following registration of the bonds, revenue bonds_  
+| _issued by the board for resilience projects are incontestable in_  
+| _any court or other forum for any reason and are valid and binding_  
+| _obligations in accordance with their terms for all purposes._  
+|  _Sec._ ___15.661._ _____DEFAULT, REMEDIES, AND ENFORCEMENT. (a)_ ___In_  
+| _this section, "Default" means:_  
+|  _(1)_ _____default in payment of the principal of or interest_  
+| _on an award issued as a loan from the infrastructure fund;_  
+|  _(2)_ _____a failure to perform any of the terms of a loan,_  
+| _grant, or other financing agreement; or_  
+|  _(3)_ _____any other failure to perform an obligation, breach_  
+| _of a term of an agreement, or default as provided by any proceeding_  
+| _or agreement evidencing an obligation or agreement of a recipient,_  
+| _beneficiary, or guarantor of financial assistance provided by the_  
+| _board._  
+|  _(b)_ _____In the event of a default by a project sponsor and on_  
+| _request by the board, the attorney general shall seek:_  
+|  _(1)_ _____a writ of mandamus to compel a project sponsor or_  
+| _the project sponsor's officers, agents, and employees to cure the_  
+| _default; and_  
+|  _(2)_ _____any other legal or equitable remedy the board and_  
+| _the attorney general consider necessary and appropriate._  
+|  _(c)_ _____A proceeding authorized by this section shall be brought_  
+| _and venue is in a district court in Travis County._  
+|  _(d)_ _____In a proceeding under this section, the attorney general_  
+| _may recover reasonable attorney's fees, investigative costs, and_  
+| _court costs incurred on behalf of the state in the proceeding in the_  
+| _same manner as provided by general law for a private litigant._  
+|  _Sec._ ___15.662._ _____PRIORITIZATION OF PROJECTS. (a) The board may_  
+| _not prioritize a resilience project under this section unless the_  
+| _political subdivision benefiting from the proposed resiliency_  
+| _project is implementing current floodplain regulations._  
+|  _(b)_ _____The board shall establish a point system for_  
+| _prioritizing resilience projects for which money from the_  
+| _infrastructure fund is sought. The system must include a standard_  
+| _for the board to apply in determining whether a resilience project_  
+| _qualifies for funding at the time the application for funding is_  
+| _filed with the board._  
+|  _(c)_ _____The board shall give the highest consideration in_  
+| _awarding points to a resilience project that will have a_  
+| _substantial effect, including a resilience project that:_  
+|  _(1) has been awarded federal money;_  
+|  _(2)_ _____is being studied by the United States Army Corps of_  
+| _Engineers at the time of the project application;_  
+|  _(3)_ _____is included in a signed United States Army Corps of_  
+| _Engineers Chief's Report at the time of the project application;_  
+|  _(4)_ _____aligns with the priorities and goals of the State_  
+| _of Texas Hazard Mitigation Plan;_  
+|  _(5)_ _____will serve a political subdivision that has a_  
+| _completed hazard mitigation plan approved by the Texas Division of_  
+| _Emergency Management and the Federal Emergency Management Agency;_  
+|  _(6) will serve diverse urban and rural populations;_  
+|  _(7)_ _____will serve a metropolitan statistical area with a_  
+| _population greater than 250,000;_  
+|  _(8) will contribute to regionalization in resiliency;_  
+|  _(9)_ _____is included in the Texas Coastal Resiliency Master_  
+| _Plan;_  
+|  _(10)_ _____is included in the State Flood Assessment or a_  
+| _statewide flood plan;_  
+|  _(11)_ _____will serve a political subdivision that has_  
+| _received multiple state disaster declarations made under Chapter_  
+| _418, Government Code, or multiple federal major disaster_  
+| _declarations under the Robert T. Stafford Disaster Relief and_  
+| _Emergency Assistance Act (42 U.S.C. 5121 et seq.), during the five_  
+| _years before the date the board receives an application for the_  
+| _resilience project under consideration; or_  
+|  _(12)_ _____includes a substantial water supply or water_  
+| _management benefit._  
+|  _(d)_ _____In addition to the criteria provided by Subsection (c),_  
+| _the board must also consider at least the following criteria in_  
+| _prioritizing projects:_  
+|  _(1)_ _____the contribution to be made by the applicant to_  
+| _finance the resilience project, including the up-front capital to_  
+| _be provided by the applicant;_  
+|  _(2)_ _____the ability of the board and the applicant to use_  
+| _state financing to obtain local and federal funding;_  
+|  _(3)_ _____whether there is an emergency need for the_  
+| _resilience project;_  
+|  _(4)_ _____whether federal funding for which the resilience_  
+| _project is eligible has been used or sought;_  
+|  _(5)_ _____whether the applicant is ready to proceed with the_  
+| _resilience project at the time of the application, including_  
+| _whether:_  
+|  _(A)_ _____all preliminary planning and design work_  
+| _associated with the resilience project has been completed;_  
+|  _(B)_ _____the applicant has acquired right-of-way_  
+| _associated with the resilience project;_  
+|  _(C)_ _____the applicant has secured funding for the_  
+| _resilience project from other sources; and_  
+|  _(D)_ _____the applicant is able to begin implementing_  
+| _or constructing the resilience project;_  
+|  _(6)_ _____the resilience project's cost-to-benefit ratio as_  
+| _calculated according to board rules; and_  
+|  _(7)_ _____if applicable, the ability of the applicant to_  
+| _repay a loan awarded from the infrastructure fund._  
+|  _Sec._ ___15.663._ _____REPORTING AND TRANSPARENCY REQUIREMENTS. (a)_ __  
+| _Not later than December 1 of each even-numbered year, the board_  
+| _shall provide to the governor, lieutenant governor, speaker of the_  
+| _house of representatives, and members of the legislature a report_  
+| _regarding the use of the infrastructure fund._  
+|  _(b)_ _____The board shall post the following information on the_  
+| _board's Internet website regarding the use of the infrastructure_  
+| _fund and regularly update the information posted:_  
+|  _(1)_ _____the progress made in developing resilience_  
+| _projects statewide;_  
+|  _(2)_ _____a description of each resilience project that_  
+| _receives money from the infrastructure fund, including:_  
+|  _(A)_ _____the expected date of completion of the_  
+| _resilience project;_  
+|  _(B) the current status of the resilience project;_  
+|  _(C)_ _____the proposed benefit of the resilience_  
+| _project;_  
+|  _(D)_ _____the initial total cost estimate of the_  
+| _resilience project and variances to the initial cost estimate_  
+| _exceeding five percent;_  
+|  _(E)_ _____a listing of the project sponsor receiving_  
+| _money from the infrastructure fund;_  
+|  _(F)_ _____a listing of each political subdivision_  
+| _served by each resilience project;_  
+|  _(G)_ _____an estimate of matching funds that will be_  
+| _available for the resilience project resulting from the use of the_  
+| _infrastructure fund;_  
+|  _(H)_ _____if applicable, the amount of bonds issued and_  
+| _the terms of the bonds; and_  
+|  _(I)_ _____the status of repayment of each loan provided_  
+| _in connection with a resilience project, including an assessment of_  
+| _the risk of default based on a standard risk rating system;_  
+|  _(3)_ _____a description of the investment portfolio of the_  
+| _infrastructure fund;_  
+|  _(4)_ _____the expenses incurred in investing money in the_  
+| _infrastructure fund;_  
+|  _(5)_ _____the rate of return on the investment of money in_  
+| _the infrastructure fund;_  
+|  _(6)_ _____a description of the point system for prioritizing_  
+| _resilience projects established by the board under Section 15.662_  
+| _and the number of points awarded by the board for each resilience_  
+| _project;_  
+|  _(7)_ _____any nonconfidential information submitted to the_  
+| _board as part of an application for funding under this subchapter_  
+| _that is approved by the board;_  
+|  _(8)_ _____the administrative and operating expenses_  
+| _incurred by the board in administering the infrastructure fund; and_  
+|  _(9) any other information required by board rule._  
+|  _(c)_ _____In addition to the information described by Subsection_  
+| _(b), the report described by Subsection (a) must also include:_  
+|  _(1)_ _____the policies and procedures used for any_  
+| _procurement of property or services related to a resilience_  
+| _project, including any policies and procedures meant to increase_  
+| _participation by historically underutilized businesses;_  
+|  _(2)_ _____the written standards of conduct covering_  
+| _conflicts of interest and governing the performance of the board's_  
+| _staff who engage in the review, recommendation, and administration_  
+| _of awards from the infrastructure fund;_  
+|  _(3)_ _____all direct and indirect administrative costs_  
+| _related to the administration of the infrastructure fund;_  
+|  _(4)_ _____the cost-to-benefit ratio related to each_  
+| _resilience project;_  
+|  _(5)_ _____the end of fiscal year balance of the_  
+| _infrastructure fund as estimated by the comptroller; and_  
+|  _(6)_ _____a record of all transfers made from the_  
+| _infrastructure fund to other state agencies, including:_  
+|  _(A) an account of each receiving state agency;_  
+|  _(B) the amount of each transfer;_  
+|  _(C)_ _____a description of each receiving state_  
+| _agency's program that supports resilience projects; and_  
+|  _(D)_ _____an account of all disbursements made by_  
+| _receiving state agencies in support of resilience projects during_  
+| _the fiscal year._  
+|  _Sec._ ___15.664._ _____TEXAS RESILIENCE INFRASTRUCTURE FUND ADVISORY_  
+| _COMMITTEE. (a) The Texas Resilience Infrastructure Fund Advisory_  
+| _Committee is composed of the following five members:_  
+|  _(1)_ _____the comptroller, or a person designated by the_  
+| _comptroller;_  
+|  _(2)_ _____two members of the senate appointed by the_  
+| _lieutenant governor, including:_  
+|  _(A)_ _____a member of the committee of the senate_  
+| _having primary jurisdiction over matters relating to finance; and_  
+|  _(B)_ _____a member of the committee of the senate_  
+| _having primary jurisdiction over agriculture, water, and rural_  
+| _affairs; and_  
+|  _(3)_ _____two members of the house of representatives_  
+| _appointed by the speaker of the house of representatives,_  
+| _including:_  
+|  _(A)_ _____a member of the committee of the house of_  
+| _representatives having primary jurisdiction over appropriations;_  
+| _and_  
+|  _(B)_ _____a member of the committee of the house of_  
+| _representatives having primary jurisdiction over natural_  
+| _resources._  
+|  _(b)_ _____The lieutenant governor shall appoint a co-presiding_  
+| _officer of the advisory committee from among the members appointed_  
+| _by the lieutenant governor, and the speaker of the house of_  
+| _representatives shall appoint a co-presiding officer of the_  
+| _committee from among the members appointed by the speaker._  
+|  _(c)_ _____The advisory committee may hold public hearings, formal_  
+| _meetings, or work sessions. Either co-presiding officer of the_  
+| _advisory committee may call a public hearing, formal meeting, or_  
+| _work session of the advisory committee at any time. The advisory_  
+| _committee may not take formal action at a public hearing, formal_  
+| _meeting, or work session unless a quorum of the committee is_  
+| _present._  
+|  _(d)_ _____Except as otherwise provided by this subsection, a_  
+| _member of the advisory committee is not entitled to receive_  
+| _compensation for service on the committee or reimbursement for_  
+| _expenses incurred in the performance of official duties as a member_  
+| _of the committee._ ___Service on the advisory committee by a member of_  
+| _the senate or house of representatives is considered legislative_  
+| _service for which the member is entitled to reimbursement and other_  
+| _benefits in the same manner and to the same extent as for other_  
+| _legislative service._  
+|  _(e)_ _____The advisory committee shall submit comments and_  
+| _recommendations to the board regarding the use of money in the_  
+| _infrastructure fund for use by the board in adopting rules,_  
+| _policies, and procedures. The submission must include:_  
+|  _(1)_ _____comments and recommendations on rulemaking_  
+| _related to the prioritization of resilience projects;_  
+|  _(2)_ _____comments and recommendations on rulemaking_  
+| _related to establishing standards for determining whether_  
+| _resilience projects meet the criteria provided by Section 15.658;_  
+|  _(3)_ _____an evaluation of the use of money by the board to_  
+| _provide funding for resilience projects, including meeting federal_  
+| _and local matching requirements;_  
+|  _(4)_ _____an evaluation of methods for encouraging_  
+| _participation in the procurement process by companies domiciled in_  
+| _this state or that employ a significant number of residents of this_  
+| _state; and_  
+|  _(5)_ _____an evaluation of the overall operation, function,_  
+| _and structure of the infrastructure fund._  
+|  _(f)_ _____The advisory committee shall review the overall_  
+| _operation, function, and structure of the infrastructure fund at_  
+| _least semiannually and may provide comments and recommendations to_  
+| _the board on any matter._  
+|  _(g)_ _____The advisory committee may adopt rules, procedures, and_  
+| _policies as needed to administer this section and implement its_  
+| _responsibilities._  
+|  _(h)_ _____Chapter 2110, Government Code, does not apply to the_  
+| _size, composition, or duration of the advisory committee._  
+|  _(i)_ _____The advisory committee shall make recommendations to_  
+| _the board regarding information to be posted on the board's_  
+| _Internet website._  
+|  _(j)_ _____The advisory committee shall evaluate and may provide_  
+| _comments or recommendations on the feasibility of the state owning,_  
+| _constructing, operating, and maintaining resilience projects,_  
+| _including reservoirs and coastal barriers._  
+|  _(k)_ _____The advisory committee independently may propose and_  
+| _make recommendations for the funding and implementation of a_  
+| _resilience project and identify and recommend an appropriate_  
+| _project sponsor._  
+|  _(l)_ _____The advisory committee may identify programs_  
+| _administered by state agencies that support resilience projects and_  
+| _recommend that money from the infrastructure fund be transferred to_  
+| _those agencies for the support of resilience projects._  
+|  _(m)_ _____The executive administrator shall provide an annual_  
+| _report to the advisory committee on:_  
+|  _(1)_ _____the board's compliance with statewide annual goals_  
+| _relating to historically underutilized businesses; and_  
+|  _(2)_ _____the participation level of historically_  
+| _underutilized businesses in resilience projects that receive money_  
+| _from the infrastructure fund._  
+|  _(n)_ _____If the aggregate level of participation by historically_  
+| _underutilized businesses in resilience projects that receive money_  
+| _from the infrastructure fund does not meet statewide annual goals_  
+| _adopted under Chapter 2161, Government Code, the advisory committee_  
+| _shall make recommendations to the board to improve the_  
+| _participation level._  
+|  _(o)_ _____The board shall supply staff support to the advisory_  
+| _committee._  
+|  _Sec._ ___15.665._ _____RULES. (a)_ ___The board shall adopt rules_  
+| _providing for the use of money in the infrastructure fund that are_  
+| _consistent with this subchapter, including rules:_  
+|  _(1)_ _____establishing standards for the eligibility for_  
+| _funding of resilience projects;_  
+|  _(2)_ _____establishing the prioritization of resilience_  
+| _projects;_  
+|  _(3)_ _____establishing terms for the repayment of a loan_  
+| _award from the infrastructure fund; and_  
+|  _(4)_ _____establishing terms for the completion of a_  
+| _resilience project._  
+|  _(b)_ _____The rules establishing terms for the repayment of a loan_  
+| _award from the infrastructure fund must provide for:_  
+|  _(1) an amortization schedule not to exceed 30 years;_  
+|  _(2)_ _____an interest rate at or below the market rate at the_  
+| _time an application is approved for an award;_  
+|  _(3) no penalties for early repayment; and_  
+|  _(4)_ _____principal and interest payments on the loan to_  
+| _begin not later than 18 months after the date the loan is_  
+| _originated._  
+|  _(c)_ _____The board shall give full consideration to the_  
+| _recommendations of the advisory committee before adopting rules_  
+| _under this subchapter._  
+|  _Sec._ ___15.666._ _____POLICIES AND PROCEDURES TO MITIGATE OR_  
+| _MINIMIZE ADVERSE EFFECTS OF CERTAIN FEDERAL LAWS. The board shall_  
+| _adopt, and may amend from time to time at the board's discretion,_  
+| _policies and procedures for the purpose of mitigating or minimizing_  
+| _the adverse effects, if any, of federal laws and regulations_  
+| _relating to income taxes, arbitrage, rebates, and related matters_  
+| _that may restrict the board's ability to freely invest all or part_  
+| _of the fund or to receive and retain all the earnings from the_  
+| _infrastructure fund._  
+|  SECTION 2. Not later than the 30th day after the effective  
+| date of this Act, the lieutenant governor and the speaker of the  
+| house of representatives shall appoint the initial members of the  
+| Texas Resilience Infrastructure Fund Advisory Committee as  
+| provided by Section 15.664, Water Code, as added by this Act.  
+|  SECTION 3. (a)  Not later than the 120th day after the  
+| effective date of this Act, the Texas Resilience Infrastructure  
+| Fund Advisory Committee shall submit recommendations to the Texas  
+| Water Development Board on the rules to be adopted by the board  
+| under Section 15.665, Water Code, as added by this Act, and the  
+| policies and procedures to be adopted by the board under Section  
+| 15.666, Water Code, as added by this Act.  
+|  (b) Not later than the 90th day after the date the Texas  
+| Water Development Board receives the recommendations described by  
+| Subsection (a) of this section, the board shall adopt rules under  
+| Section 15.665, Water Code, as added by this Act, and policies and  
+| procedures under Section 15.666, Water Code, as added by this Act.  
+|  SECTION 4. (a) The amount of $1.5 billion is appropriated  
+| out of the economic stabilization fund to the Texas resilience  
+| infrastructure fund for purposes of implementing Subchapter J-1,  
+| Chapter 15, Water Code, as added by this Act.  
+|  (b) The amount of $1.5 billion is appropriated out of the  
+| economic stabilization fund to general revenue dedicated account  
+| number 453, Disaster Contingency Fund, and, in addition to other  
+| amounts appropriated to the Department of Public Safety for the  
+| state fiscal biennium ending August 31, 2021, $1.5 billion is  
+| appropriated out of general revenue dedicated account number 453,  
+| Disaster Contingency Fund, to the Department of Public Safety for  
+| that state fiscal biennium for purposes of providing local  
+| government entities local matching funds related to the Public  
+| Assistance Grant Program and Hazard Mitigation Grant Program  
+| administered by the Federal Emergency Management Agency.  
+|  (c) This section takes effect only if this Act is approved  
+| by a vote of two-thirds of the members present in each house of the  
+| legislature, as provided by Section 49-g(m), Article III, Texas  
+| Constitution.  
+|  SECTION 5. Except as otherwise provided by this Act, this  
+| Act takes effect immediately if it receives a vote of two-thirds of  
+| all the members elected to each house, as provided by Section 39,  
+| Article III, Texas Constitution. If this Act does not receive the  
+| vote necessary for immediate effect, this Act takes effect  
+| September 1, 2019.
+

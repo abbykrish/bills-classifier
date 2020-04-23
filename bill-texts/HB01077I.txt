@@ -1,0 +1,171 @@
+| 86R3735 GCB/CJC-F  
+---|---  
+|  By: White | H.B. No. 1077  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to public school finance, supporting public education  
+| funding through an increase in the state sales and use tax rate, and  
+| requiring a reduction in school district maintenance and operation  
+| ad valorem taxes; making an appropriation; increasing the rate of a  
+| tax.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Effective September 1, 2020, Section 41.002(a),  
+| Education Code, is amended to read as follows:  
+|  (a) A school district may not have a wealth per student that  
+| exceeds:  
+|  (1) the wealth per student that generates the amount  
+| of maintenance and operations tax revenue per weighted student  
+| available to a district with maintenance and operations tax revenue  
+| per cent of tax effort equal to the maximum amount provided per cent  
+| under Section 42.101(a) or (b), for the district's maintenance and  
+| operations tax effort equal to or less than the rate equal to the  
+| sum of the product of the state compression percentage, as  
+| determined under Section 42.2516, multiplied by the maintenance and  
+| operations tax rate adopted by the district for the 2005 tax year  
+| and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1);  
+|  (2) the wealth per student that generates the amount  
+| of maintenance and operations tax revenue per weighted student  
+| available to the Austin Independent School District, as determined  
+| by the commissioner in cooperation with the Legislative Budget  
+| Board, for the first six cents by which the district's maintenance  
+| and operations tax rate exceeds the rate equal to the sum of the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by the maintenance and operations tax  
+| rate adopted by the district for the 2005 tax year and any  
+| additional tax effort included in calculating the district's  
+| compressed tax rate under Section 42.101(a-1), subject to Section  
+| 41.093(b-1); or  
+|  (3) _the wealth per student that yields the guaranteed_  
+| _level of state and local funds per weighted student in average daily_  
+| _attendance per cent of tax effort as provided by Section_  
+| _42.302(a-1)(2)_ [ ~~$319,500~~ ], for the district's maintenance and  
+| operations tax effort that exceeds the amount of tax effort  
+| described by Subdivision (2).  
+|  SECTION 2. Effective September 1, 2020, Section 42.101,  
+| Education Code, is amended by amending Subsection (a) and adding  
+| Subsections (a-3) and (a-4) to read as follows:  
+|  (a) _Except as provided by Subsection (a-3), for_ [ ~~For~~ ] each  
+| student in average daily attendance, not including the time  
+| students spend each day in special education programs in an  
+| instructional arrangement other than mainstream or career and  
+| technology education programs, for which an additional allotment is  
+| made under Subchapter C, a district is entitled to an allotment  
+| equal to the lesser of _$5,140_ [ ~~$4,765~~ ] or the amount that results  
+| from the following formula:  
+| A = _$5,140_ [ ~~$4,765~~ ] X (DCR/MCR)  
+| where:  
+|  "A" is the allotment to which a district is entitled;  
+|  "DCR" is the district's compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by the maintenance and operations tax  
+| rate adopted by the district for the 2005 tax year; and  
+|  "MCR" is the state maximum compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by $1.50.  
+|  _(a-3)_ _____Beginning with the 2020-2021 school year, the_  
+| _commissioner shall recompute the amount of the basic allotment_  
+| _under Subsection (a) to the maximum amount possible using the funds_  
+| _appropriated to the foundation school fund under Section 151.803,_  
+| _Tax Code, after the additional costs under Sections 41.002(a)(3)_  
+| _and 42.302, as amended by __.B. ___, Acts of the 86th Legislature,_  
+| _Regular Session, 2019, are deducted, including the required_  
+| _reduction in the calculation of compressed tax rates under_  
+| _Subsection (a-4)._  
+|  _(a-4)_ _____Beginning with the 2020-2021 school year, the_  
+| _commissioner shall recompute the calculation of each district's_  
+| _maximum compressed tax rate under Subsections (a) and (a-1) and the_  
+| _district's tax rate under Section 42.252 to be a rate that would_  
+| _entitle the district to an amount of state and local funds per_  
+| _weighted student in average daily attendance in the current year,_  
+| _using the basic allotment under Subsection (a), equal to the amount_  
+| _of state and local funds to which the district would have been_  
+| _entitled under Chapter 41 and this chapter for the current school_  
+| _year if the guaranteed level under Subsection (a) had remained at_  
+| _$5,140._  
+|  SECTION 3. Effective September 1, 2020, Section 42.302,  
+| Education Code, is amended by amending Subsection (a-1) and adding  
+| Subsection (a-3) to read as follows:  
+|  (a-1) For purposes of Subsection (a), the dollar amount  
+| guaranteed level of state and local funds per weighted student per  
+| cent of tax effort ("GL") for a school district is:  
+|  (1) the greater of the amount of district tax revenue  
+| per weighted student per cent of tax effort that would be available  
+| to the Austin Independent School District, as determined by the  
+| commissioner in cooperation with the Legislative Budget Board, if  
+| the reduction of the limitation on tax increases as provided by  
+| Section 11.26(a-1), (a-2), or (a-3), Tax Code, did not apply, or the  
+| amount of district tax revenue per weighted student per cent of tax  
+| effort used for purposes of this subdivision in the preceding  
+| school year, for the first six cents by which the district's  
+| maintenance and operations tax rate exceeds the rate equal to the  
+| sum of the product of the state compression percentage, as  
+| determined under Section 42.2516, multiplied by the maintenance and  
+| operations tax rate adopted by the district for the 2005 tax year  
+| and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1); and  
+|  (2) _the quotient of the maximum basic allotment_  
+| _allowed under Section 42.101(a) or (b) divided by 100_ [ ~~$31.95~~ ], for  
+| the district's maintenance and operations tax effort that exceeds  
+| the amount of tax effort described by Subdivision (1).  
+|  _(a-3)_ _____For the 2020-2021 school year, the commissioner shall_  
+| _recompute the calculation of "DTR" under Subsection (a) for each_  
+| _school district to be a rate that would entitle the district to an_  
+| _amount of state and local funds per weighted student in average_  
+| _daily attendance in the current year, using the guaranteed level of_  
+| _state and local funds per cent of tax effort under Subsection_  
+| _(a-1)(2), equal to the amount of state and local funds to which the_  
+| _district would have been entitled under this chapter for the_  
+| _current school year if the guaranteed level under Subsection_  
+| _(a-1)(2) had remained at $31.95._  
+|  SECTION 4. Effective September 1, 2020, Section 45.003,  
+| Education Code, is amended by adding Subsection (g) to read as  
+| follows:  
+|  _(g)_ _____Notwithstanding any other law, the maximum maintenance_  
+| _tax rate that may be adopted under this section is reduced by the_  
+| _average reduction in the tax rate under Section 42.252 resulting_  
+| _from the increase in revenue provided from the funds appropriated_  
+| _to the foundation school fund under Section 151.803, Tax Code._  
+|  SECTION 5. Section 151.051(b), Tax Code, is amended to read  
+| as follows:  
+|  (b) The sales tax rate is _7.25_ [ ~~6-1/4~~ ] percent of the sales  
+| price of the taxable item sold.  
+|  SECTION 6. Subchapter M, Chapter 151, Tax Code, is amended  
+| by adding Section 151.803 to read as follows:  
+|  _Sec._ ___151.803._ _____ALLOCATION OF CERTAIN REVENUE TO SCHOOL_  
+| _DISTRICT PROPERTY TAX REDUCTION. Notwithstanding Section 151.801,_  
+| _the comptroller shall deposit an amount of revenue equal to the_  
+| _proceeds derived from the collection of taxes imposed by this_  
+| _chapter attributable to the portion of the tax rate in excess of_  
+| _6.25 percent of the sales price of the taxable item sold to the_  
+| _credit of an account in the foundation school fund. Money credited_  
+| _to the account may be appropriated only to the Texas Education_  
+| _Agency for use by the commissioner of education to provide property_  
+| _tax relief by increasing the basic allotment, equalized wealth_  
+| _level, and guaranteed level under Chapters 41 and 42, Education_  
+| _Code, and requiring the compression of property tax rates._  
+|  SECTION 7. A school district shall use the revenues derived  
+| from the increase in the equalized wealth level in Section 41.002,  
+| Education Code, as amended by this Act, the basic allotment under  
+| Section 42.101(a-3), Education Code, as added by this Act, and the  
+| guaranteed level in Section 42.302, Education Code, as amended by  
+| this Act, to reduce the district's tax rate for maintenance and  
+| operations for the 2020-2021 and 2021-2022 school years. The  
+| commissioner shall adopt rules regarding the operation and  
+| enforcement of this section.  
+|  SECTION 8. For the state fiscal year beginning September 1,  
+| 2020, all money credited to the account created under Section  
+| 151.803, Tax Code, as added by this Act, preceding or during that  
+| year is appropriated from that account to the Texas Education  
+| Agency to be used by the commissioner of education to increase the  
+| basic allotment, equalized wealth level, and guaranteed level under  
+| Chapters 41 and 42, Education Code, and require the compression of  
+| property tax rates.  
+|  SECTION 9. The change in law made by this Act does not  
+| affect taxes imposed before the effective date of this Act, and the  
+| law in effect before that date is continued in effect for purposes  
+| of the liability for and collection of those taxes.  
+|  SECTION 10. Except as otherwise provided by this Act, this  
+| Act takes effect January 1, 2020.
+

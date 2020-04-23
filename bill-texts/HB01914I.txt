@@ -1,0 +1,60 @@
+| 86R9910 PMO-F  
+---|---  
+|  By: Moody | H.B. No. 1914  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prompt payment of claims to certain physicians and  
+| health care providers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 843.351, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 843.351. SERVICES PROVIDED BY CERTAIN PHYSICIANS AND  
+| PROVIDERS. _(a)_ The provisions of this subchapter relating to prompt  
+| payment by a health maintenance organization of a physician or  
+| provider _, including Section 843.342,_ and to verification of health  
+| care services apply to a physician or provider who:  
+|  (1) is not included in the health maintenance  
+| organization delivery network; and  
+|  (2) provides to an enrollee:  
+|  (A) care related to an emergency or its attendant  
+| episode of care as required by state or federal law; or  
+|  (B) specialty or other health care services at  
+| the request of the health maintenance organization or a physician  
+| or provider who is included in the health maintenance organization  
+| delivery network because the services are not reasonably available  
+| within the network.  
+|  _(b)_ _____For purposes of calculating a penalty under Section_  
+| _843.342 related to a claim by a physician or provider described by_  
+| _Subsection (a), the contracted rate for the health care service_  
+| _provided by the physician or provider is the usual and customary_  
+| _rate for the service in the geographic area in which the service is_  
+| _provided._  
+|  SECTION 2. Section 1301.069, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1301.069. SERVICES PROVIDED BY CERTAIN PHYSICIANS AND  
+| HEALTH CARE PROVIDERS. _(a)_ The provisions of this chapter relating  
+| to prompt payment by an insurer of a physician or health care  
+| provider _, including Section 1301.137,_ and to verification of  
+| medical care or health care services apply to a physician or  
+| provider who:  
+|  (1) is not a preferred provider included in the  
+| preferred provider network; and  
+|  (2) provides to an insured:  
+|  (A) care related to an emergency or its attendant  
+| episode of care as required by state or federal law; or  
+|  (B) specialty or other medical care or health  
+| care services at the request of the insurer or a preferred provider  
+| because the services are not reasonably available from a preferred  
+| provider who is included in the preferred delivery network.  
+|  _(b)_ _____For purposes of calculating a penalty under Section_  
+| _1301.137 related to a claim by a physician or health care provider_  
+| _described by Subsection (a) or Section 1301.0053, the contracted_  
+| _rate for the health care service provided by the physician or_  
+| _provider is the usual and customary rate for the service in the_  
+| _geographic area in which the service is provided._  
+|  SECTION 3. Sections 843.351 and 1301.069, Insurance Code,  
+| as amended by this Act, apply only to a claim filed on or after the  
+| effective date of this Act.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

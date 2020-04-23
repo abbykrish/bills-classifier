@@ -1,0 +1,190 @@
+| 86R2419 GCB-F  
+---|---  
+|  By: Landgraf | H.B. No. 711  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain adjustments to the taxable value of property of  
+| certain school districts and the reduction of Foundation School  
+| Program funds received by certain school districts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 41.002, Education Code, is amended by  
+| adding Subsections (c) and (d) to read as follows:  
+|  _(c)_ _____For purposes of this chapter, the commissioner shall_  
+| _adjust, in accordance with Section 42.25271, the taxable values of_  
+| _a school district that meets the criteria for adjustment under that_  
+| _section._  
+|  _(d)_ _____For purposes of this chapter, the commissioner shall_  
+| _adjust, in accordance with Section 42.25272, the taxable values of_  
+| _a school district that meets the criteria for adjustment under that_  
+| _section._  
+|  SECTION 2. Subchapter A, Chapter 42, Education Code, is  
+| amended by adding Section 42.012 to read as follows:  
+|  _Sec._ ___42.012._ _____REDUCTION IN FUNDING OF CERTAIN DISTRICTS._  
+| _(a) Each school year the commissioner shall determine the_  
+| _percentage of the cost of the Foundation School Program funded by_  
+| _amounts paid to the state by school districts as a result of_  
+| _attendance credits purchased under Subchapter D, Chapter 41._  
+|  _(b)_ _____Notwithstanding any other provision of this chapter,_  
+| _the total amount to which a school district is entitled under this_  
+| _chapter is reduced by the percentage determined under Subsection_  
+| _(a) unless the school district imposes a maintenance and operations_  
+| _tax at the greatest rate allowed under Section 45.003(d)._  
+|  SECTION 3. Subchapter E, Chapter 42, Education Code, is  
+| amended by adding Sections 42.25271, 42.25272, and 42.25273 to read  
+| as follows:  
+|  _Sec._ ___42.25271._ _____ADJUSTMENT FOR DISTRICT ENTITLED TO CERTAIN_  
+| _FEDERAL FUNDING. For purposes of Chapters 41 and 46 and this_  
+| _chapter, the commissioner shall adjust the taxable value of_  
+| _property of a district for a school year as necessary to ensure the_  
+| _district's wealth per student does not exceed the equalized wealth_  
+| _level provided by Section 41.002, if for that school year the_  
+| _district:_  
+|  _(1)_ _____has a campus that receives federal funding under a_  
+| _concentration grant under 20 U.S.C. Section 6334; and_  
+|  _(2)_ _____would otherwise have a wealth per student that_  
+| _exceeds the equalized wealth level provided by Section 41.002._  
+|  _Sec._ ___42.25272._ _____ADJUSTMENT FOR DISTRICT WITH TAXABLE VALUE_  
+| _OF PROPERTY INCREASED BY ASSOCIATED MINERAL RIGHTS. For purposes_  
+| _of Chapters 41 and 46 and this chapter, the commissioner shall_  
+| _adjust the taxable value of property of a district for a school year_  
+| _as necessary to ensure the district's wealth per student does not_  
+| _exceed the equalized wealth level provided by Section 41.002, if_  
+| _for that school year the district:_  
+|  _(1)_ _____is identified by the select committee under_  
+| _Section 42.25273 as having a taxable value of property that is_  
+| _unlikely to produce the projected district tax revenue per weighted_  
+| _student because of a high prevalence of mineral rights associated_  
+| _with the taxable property; and_  
+|  _(2)_ _____would otherwise have a wealth per student that_  
+| _exceeds the equalized wealth level provided by Section 41.002._  
+|  _Sec._ ___42.25273._ _____SELECT COMMITTEE TO DETERMINE TAXABLE VALUE_  
+| _OF PROPERTY OF CERTAIN DISTRICTS. (a) Not later than October 1 of_  
+| _each year, the speaker of the house of representatives and the_  
+| _lieutenant governor shall appoint a select committee as follows:_  
+|  _(1)_ _____the speaker of the house of representatives shall_  
+| _appoint five members of the house of representatives as members of_  
+| _the committee; and_  
+|  _(2)_ _____the lieutenant governor shall appoint five members_  
+| _of the senate as members of the committee._  
+|  _(b)_ _____At least three of the select committee members appointed_  
+| _by the speaker of the house of representatives as provided by_  
+| _Subsection (a)(1) and at least three of the select committee_  
+| _members appointed by the lieutenant governor as provided by_  
+| _Subsection (a)(2) must reside within the boundaries of State Board_  
+| _of Education District 1, 3, or 15, as those districts are_  
+| _established by Chapter 72 (H.B. 600), Acts of the 82nd Legislature,_  
+| _Regular Session, 2011._  
+|  _(c)_ _____For purposes of Section 42.25272, not later than June 1_  
+| _of each year, the select committee shall:_  
+|  _(1)_ _____in consultation with the comptroller and the_  
+| _Legislative Budget Board, identify districts with a taxable value_  
+| _of property that is unlikely to produce the projected district tax_  
+| _revenue per weighted student because of a high prevalence of_  
+| _mineral rights associated with the taxable property; and_  
+|  _(2)_ _____provide to the commissioner a list of those_  
+| _districts identified by the committee under Subdivision (1)._  
+|  SECTION 4. Section 42.302(a), Education Code, is amended to  
+| read as follows:  
+|  (a) Each school district is guaranteed a specified amount  
+| per weighted student in state and local funds for each cent of tax  
+| effort over that required for the district's local fund assignment  
+| up to the maximum level specified in this subchapter. The amount  
+| of state support, subject only to the maximum amount under Section  
+| 42.303, is determined by the formula:  
+| GYA = (GL X WADA X DTR X 100) - LR  
+| where:  
+|  "GYA" is the guaranteed yield amount of state funds to be  
+| allocated to the district;  
+|  "GL" is the dollar amount guaranteed level of state and local  
+| funds per weighted student per cent of tax effort, which is an  
+| amount described by Subsection (a-1) or a greater amount for any  
+| year provided by appropriation;  
+|  "WADA" is the number of students in weighted average daily  
+| attendance, which is calculated by dividing the sum of the school  
+| district's allotments under Subchapters B and C, less any allotment  
+| to the district for transportation, any allotment under Section  
+| 42.158 or 42.160, and 50 percent of the adjustment under Section  
+| 42.102, by the basic allotment for the applicable year;  
+|  "DTR" is the district enrichment tax rate of the school  
+| district, which is determined by subtracting the amounts specified  
+| by Subsection (b) from the total amount of maintenance and  
+| operations taxes collected by the school district for the  
+| applicable school year and dividing the difference by the quotient  
+| of the district's taxable value of property as determined under  
+| Subchapter M, Chapter 403, Government Code, or, if applicable,  
+| under Section 42.2521, _42.25271, or 42.25272,_ divided by 100; and  
+|  "LR" is the local revenue, which is determined by multiplying  
+| "DTR" by the quotient of the district's taxable value of property as  
+| determined under Subchapter M, Chapter 403, Government Code, or, if  
+| applicable, under Section 42.2521, _42.25271, or 42.25272,_ divided  
+| by 100.  
+|  SECTION 5. Section 46.003(a), Education Code, is amended to  
+| read as follows:  
+|  (a) For each year, except as provided by Sections 46.005 and  
+| 46.006, a school district is guaranteed a specified amount per  
+| student in state and local funds for each cent of tax effort, up to  
+| the maximum rate under Subsection (b), to pay the principal of and  
+| interest on eligible bonds issued to construct, acquire, renovate,  
+| or improve an instructional facility. The amount of state support  
+| is determined by the formula:  
+| FYA = (FYL X ADA X BTR X 100) - (BTR X (DPV/100))  
+| where:  
+|  "FYA" is the guaranteed facilities yield amount of state  
+| funds allocated to the district for the year;  
+|  "FYL" is the dollar amount guaranteed level of state and  
+| local funds per student per cent of tax effort, which is $35 or a  
+| greater amount for any year provided by appropriation;  
+|  "ADA" is the greater of the number of students in average  
+| daily attendance, as determined under Section 42.005, in the  
+| district or 400;  
+|  "BTR" is the district's bond tax rate for the current year,  
+| which is determined by dividing the amount budgeted by the district  
+| for payment of eligible bonds by the quotient of the district's  
+| taxable value of property as determined under Subchapter M, Chapter  
+| 403, Government Code, or, if applicable, Section 42.2521, _42.25271,_  
+| _or 42.25272,_ divided by 100; and  
+|  "DPV" is the district's taxable value of property as  
+| determined under Subchapter M, Chapter 403, Government Code, or, if  
+| applicable, Section 42.2521 _, 42.25271, or 42.25272_.  
+|  SECTION 6. Section 46.006(g), Education Code, is amended to  
+| read as follows:  
+|  (g) In this section, "wealth per student" means a school  
+| district's taxable value of property as determined under Subchapter  
+| M, Chapter 403, Government Code, or, if applicable, Section  
+| 42.2521, _42.25271, or 42.25272,_ divided by the district's average  
+| daily attendance as determined under Section 42.005.  
+|  SECTION 7. Section 46.032(a), Education Code, is amended to  
+| read as follows:  
+|  (a) Each school district is guaranteed a specified amount  
+| per student in state and local funds for each cent of tax effort to  
+| pay the principal of and interest on eligible bonds. The amount of  
+| state support, subject only to the maximum amount under Section  
+| 46.034, is determined by the formula:  
+| EDA = (EDGL X ADA X EDTR X 100) - (EDTR X (DPV/100))  
+| where:  
+|  "EDA" is the amount of state funds to be allocated to the  
+| district for assistance with existing debt;  
+|  "EDGL" is the dollar amount guaranteed level of state and  
+| local funds per student per cent of tax effort, which is the lesser  
+| of:  
+|  (1) $40 or a greater amount for any year provided by  
+| appropriation; or  
+|  (2) the amount that would result in a total additional  
+| amount of state funds under this subchapter for the current year  
+| equal to $60 million in excess of the state funds to which school  
+| districts would have been entitled under this section if the  
+| guaranteed level amount were $35;  
+|  "ADA" is the number of students in average daily attendance,  
+| as determined under Section 42.005, in the district;  
+|  "EDTR" is the existing debt tax rate of the district, which is  
+| determined by dividing the amount budgeted by the district for  
+| payment of eligible bonds by the quotient of the district's taxable  
+| value of property as determined under Subchapter M, Chapter 403,  
+| Government Code, or, if applicable, under Section 42.2521 _, 42.2571,_  
+| _or 42.25272_ , divided by 100; and  
+|  "DPV" is the district's taxable value of property as  
+| determined under Subchapter M, Chapter 403, Government Code, or, if  
+| applicable, under Section 42.2521 _, 42.25271, or 42.25272_.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,583 @@
+| 86R6930 CLG-F  
+---|---  
+|  By: Martinez Fischer | H.B. No. 3602  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to domestic corporations and other domestic entities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 6.252, Business Organizations Code, is  
+| amended by amending Subsections (a), (b), and (c) and adding  
+| Subsections (c-1), (c-2), (c-3), (c-4), and (g) to read as follows:  
+|  (a) Except as provided by this code or the governing  
+| documents, any number of owners of a domestic entity, or any number  
+| of owners of the domestic entity and the domestic entity itself, may  
+| enter into a written voting agreement _that is not set forth in the_  
+| _entity's governing documents_ to provide the manner of voting of the  
+| ownership interests of the domestic entity. A voting agreement  
+| entered into under this subsection is not part of the governing  
+| documents of the domestic entity.  
+|  (b) A copy of a voting agreement entered into under  
+| Subsection (a):  
+|  (1) _may_ [ ~~shall~~ ] be deposited with the domestic entity  
+| at the domestic entity's principal executive office or registered  
+| office; and  
+|  (2) _if deposited as provided by Subdivision (1),_ is  
+| subject to examination by an owner, whether in person or by the  
+| owner's agent or attorney, in the same manner as the owner is  
+| entitled to examine the books and records of the domestic entity.  
+|  (c) A voting agreement entered into under Subsection (a) is  
+| specifically enforceable against the _owner_ [ ~~holder~~ ] of an ownership  
+| interest that is the subject of the agreement _if the owner executes_  
+| _the voting agreement or acknowledges in writing that the owner or_  
+| _the ownership interest is bound by the agreement_ [ ~~, and any~~  
+|  ~~successor or transferee of the holder, if:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the voting agreement is noted conspicuously on~~  
+|  ~~the certificate representing the ownership interests; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~a notation of the voting agreement is contained~~  
+|  ~~in a notice sent by or on behalf of the domestic entity in~~  
+|  ~~accordance with Section 3.205, if the ownership interest is not~~  
+|  ~~represented by a certificate~~ ].  
+|  _(c-1)_ _____A voting agreement entered into under Subsection (a)_  
+| _is specifically enforceable against any subsequent owner of the_  
+| _ownership interest subject to the voting agreement if the_  
+| _subsequent owner:_  
+|  _(1)_ _____has notice or actual knowledge of the voting_  
+| _agreement at or before the time of transfer to the subsequent owner;_  
+|  _(2)_ _____is not a transferee for value and receives notice_  
+| _or obtains actual knowledge of the voting agreement; or_  
+|  _(3)_ _____acknowledges in writing that the subsequent owner_  
+| _or the ownership interest is bound by the voting agreement._  
+|  _(c-2)_ _____A subsequent owner is considered to have notice of a_  
+| _voting agreement for purposes of Subsection (c-1)(1) if, at the_  
+| _time of transfer, the existence of the voting agreement is noted_  
+| _conspicuously on any certificate representing the ownership_  
+| _interest held by the transferor owner. The notice described by this_  
+| _subsection is not the exclusive method by which notice of the voting_  
+| _agreement may be received by a subsequent owner for purposes of_  
+| _Subsection (c-1)(1)._  
+|  _(c-3)_ _____A voting agreement that becomes specifically_  
+| _enforceable against a subsequent owner under Subsection (c-1)(2) is_  
+| _specifically enforceable from the time the subsequent owner first_  
+| _receives notice or obtains actual knowledge of the voting_  
+| _agreement._  
+|  _(c-4)_ _____A voting agreement that becomes specifically_  
+| _enforceable against a subsequent owner under Subsection (c-1)(3) is_  
+| _specifically enforceable from the time of the written_  
+| _acknowledgment by the subsequent owner._  
+|  _(g)_ _____This section does not impair the right of the domestic_  
+| _entity to treat an owner of record as entitled to vote the ownership_  
+| _interest standing in the owner's name or to accept that owner's vote_  
+| _of the ownership interest._  
+|  SECTION 2. Sections 10.354(b) and (c), Business  
+| Organizations Code, are amended to read as follows:  
+|  (b) Notwithstanding Subsection (a), subject to Subsection  
+| (c), an owner may not dissent from a plan of merger or conversion in  
+| which there is a single surviving or new domestic entity or non-code  
+| organization, or from a plan of exchange, if:  
+|  (1) the ownership interest, or a depository receipt in  
+| respect of the ownership interest, held by the owner _:_  
+|  _(A)_ is part of a class or series of ownership  
+| interests, or depository receipts in respect of ownership  
+| interests, that [ ~~are~~ ], on the record date set for purposes of  
+| determining which owners are entitled to vote on the plan of merger _,_  
+| _other than a merger pursuant to Section 21.459(c)_ , conversion, or  
+| exchange, as appropriate _, are either_ :  
+|  _(i)_ [ ~~(A)~~ ] listed on a national securities  
+| exchange; or  
+|  _(ii)_ [ ~~(B)~~ ] held of record by at least 2,000  
+| owners _; or_  
+|  _(B)_ _____in the case of a merger pursuant to Section_  
+| _21.459(c), is part of a class or series of ownership interests, or_  
+| _depository receipts in respect of ownership interests, that,_  
+| _immediately before the date the board of directors of the_  
+| _corporation that issued the ownership interest held by the owner,_  
+| _directly or indirectly, approves the plan of merger, are either:_  
+|  _(i)_ _____listed on a national securities_  
+| _exchange; or_  
+|  _(ii)_ _____held of record by at least 2,000_  
+| _owners_ ;  
+|  (2) the owner is not required by the terms of the plan  
+| of merger, conversion, or exchange, as appropriate, to accept for  
+| the owner's ownership interest any consideration that is different  
+| from the consideration to be provided to any other holder of an  
+| ownership interest of the same class or series as the ownership  
+| interest held by the owner, other than cash instead of fractional  
+| shares or interests the owner would otherwise be entitled to  
+| receive; and  
+|  (3) the owner is not required by the terms of the plan  
+| of merger, conversion, or exchange, as appropriate, to accept for  
+| the owner's ownership interest any consideration other than:  
+|  (A) ownership interests, or depository receipts  
+| in respect of ownership interests, of a domestic entity or non-code  
+| organization of the same general organizational type that,  
+| immediately after the effective date of the merger, conversion, or  
+| exchange, as appropriate, will be part of a class or series of  
+| ownership interests, or depository receipts in respect of ownership  
+| interests, that are:  
+|  (i) listed on a national securities  
+| exchange or authorized for listing on the exchange on official  
+| notice of issuance; or  
+|  (ii) held of record by at least 2,000  
+| owners;  
+|  (B) cash instead of fractional ownership  
+| interests _, or fractional depository receipts in respect of_  
+| _ownership interests,_ the owner would otherwise be entitled to  
+| receive; or  
+|  (C) any combination of the ownership interests _,_  
+| _or fractional depository receipts in respect of ownership_  
+| _interests,_ and cash described by Paragraphs (A) and (B).  
+|  (c) Subsection (b) shall not apply [ ~~either~~ ] to a domestic  
+| entity that is a subsidiary with respect to a merger under Section  
+| 10.006 [ ~~or to a corporation with respect to a merger under Section~~  
+|  ~~21.459(c)~~ ].  
+|  SECTION 3. Sections 10.355(d) and (f), Business  
+| Organizations Code, are amended to read as follows:  
+|  (d) In addition to the requirements prescribed by  
+| Subsection (c), a notice required to be provided:  
+|  (1) under Subsection (a)(1) must accompany the notice  
+| of the meeting to consider the action;  
+|  (2) under Subsection (a)(2) must be provided to:  
+|  (A) each owner who consents in writing to the  
+| action before the owner delivers the written consent; and  
+|  (B) each owner who is entitled to vote on the  
+| action and does not consent in writing to the action before the 11th  
+| day after the date the action takes effect; and  
+|  (3) under Subsection (b-1) must be provided:  
+|  (A) if given before the consummation of the  
+| [ ~~tender or exchange~~ ] offer described by Section 21.459(c)(2), to  
+| each shareholder to whom that offer is made; or  
+|  (B) if given after the consummation of the  
+| [ ~~tender or exchange~~ ] offer described by Section 21.459(c)(2), to  
+| each shareholder who did not tender the shareholder's shares in  
+| that offer.  
+|  (f) If the notice given under Subsection (b-1) did not  
+| include a statement of the effective date of the merger, the  
+| responsible organization shall, not later than the 10th day after  
+| the effective date, give a second notice to the shareholders  
+| notifying them of the merger's effective date. If the second notice  
+| is given after the later of the date on which the [ ~~tender or~~  
+|  ~~exchange~~ ] offer described by Section 21.459(c)(2) is consummated or  
+| the 20th day after the date notice under Subsection (b-1) is given,  
+| then the second notice is required to be given to only those  
+| shareholders who have made a demand under Section 10.356(b)(3).  
+|  SECTION 4. Section 10.356(b), Business Organizations Code,  
+| is amended to read as follows:  
+|  (b) To perfect the owner's rights of dissent and appraisal  
+| under Section 10.354, an owner:  
+|  (1) if the proposed action is to be submitted to a vote  
+| of the owners at a meeting, must give to the domestic entity a  
+| written notice of objection to the action that:  
+|  (A) is addressed to the entity's president and  
+| secretary;  
+|  (B) states that the owner's right to dissent will  
+| be exercised if the action takes effect;  
+|  (C) provides an address to which notice of  
+| effectiveness of the action should be delivered or mailed; and  
+|  (D) is delivered to the entity's principal  
+| executive offices before the meeting;  
+|  (2) with respect to the ownership interest for which  
+| the rights of dissent and appraisal are sought:  
+|  (A) must vote against the action if the owner is  
+| entitled to vote on the action and the action is approved at a  
+| meeting of the owners; and  
+|  (B) may not consent to the action if the action is  
+| approved by written consent; and  
+|  (3) must give to the responsible organization a demand  
+| in writing that:  
+|  (A) is addressed to the president and secretary  
+| of the responsible organization;  
+|  (B) demands payment of the fair value of the  
+| ownership interests for which the rights of dissent and appraisal  
+| are sought;  
+|  (C) provides to the responsible organization an  
+| address to which a notice relating to the dissent and appraisal  
+| procedures under this subchapter may be sent;  
+|  (D) states the number and class of the ownership  
+| interests of the domestic entity owned by the owner and the fair  
+| value of the ownership interests as estimated by the owner; and  
+|  (E) is delivered to the responsible organization  
+| at its principal executive offices at the following time:  
+|  (i) not later than the 20th day after the  
+| date the responsible organization sends to the owner the notice  
+| required by Section 10.355(e) that the action has taken effect, if  
+| the action was approved by a vote of the owners at a meeting;  
+|  (ii) not later than the 20th day after the  
+| date the responsible organization sends to the owner the notice  
+| required by Section 10.355(d)(2) that the action has taken effect,  
+| if the action was approved by the written consent of the owners;  
+|  (iii) not later than the 20th day after the  
+| date the responsible organization sends to the owner a notice that  
+| the merger was effected, if the action is a merger effected under  
+| Section 10.006; or  
+|  (iv) not later than the 20th day after the  
+| date the responsible organization gives to the shareholder the  
+| notice required by Section 10.355(b-1) or the date of the  
+| consummation of the [ ~~tender or exchange~~ ] offer described by Section  
+| 21.459(c)(2), whichever is later, if the action is a merger  
+| effected under Section 21.459(c).  
+|  SECTION 5. Section 21.002, Business Organizations Code, is  
+| amended by adding Subdivision (10-a) to read as follows:  
+|  _(10-a)_ _____"Share transfer records" means one or more_  
+| _records maintained by or on behalf of a corporation in accordance_  
+| _with Section 3.151 in which the names of all of the corporation's_  
+| _shareholders of record, the address of and number of shares_  
+| _registered in the name of each shareholder of record, and all_  
+| _issuances and transfers of shares of the corporation are recorded._  
+|  SECTION 6. Section 21.305(b), Business Organizations Code,  
+| is amended to read as follows:  
+|  (b) The notice of redemption shall be sent to each holder of  
+| redeemable shares being called not later than the 21st day or  
+| earlier than the 60th day before the date set for redemption _, unless_  
+| _otherwise provided by the terms of the class or series of shares_  
+| _contained in the certificate of formation_.  
+|  SECTION 7. Sections 21.372(a) and (a-1), Business  
+| Organizations Code, are amended to read as follows:  
+|  (a) Not later than the 11th day before the date of each  
+| meeting of the shareholders of a corporation, [ ~~an officer or agent~~  
+|  ~~of the corporation who is in charge of the corporation's share~~  
+|  ~~transfer records shall prepare~~ ] an alphabetical list of the  
+| shareholders entitled to vote at the meeting or at any adjournment  
+| of the meeting _shall be prepared by or on behalf of the corporation_.  
+| The list of shareholders must:  
+|  (1) state:  
+|  (A) the address of each shareholder;  
+|  (B) the type of shares held by each shareholder;  
+|  (C) the number of shares held by each  
+| shareholder; and  
+|  (D) the number of votes that each shareholder is  
+| entitled to if the number of votes is different from the number of  
+| shares stated under Paragraph (C); and  
+|  (2) be kept on file at the registered office or  
+| principal executive office of the corporation for at least 10 days  
+| before the date of the meeting.  
+|  (a-1) Instead of being kept on file, the list required by  
+| Subsection (a) may be kept on a reasonably accessible electronic  
+| _data system_ [ ~~network~~ ] if the information required to gain access to  
+| the list is provided with notice of the meeting. Section 21.353(c),  
+| Section 21.354(a-1), and this subsection may not be construed to  
+| require a corporation to include any electronic contact information  
+| of a shareholder on the list. A corporation that elects to make the  
+| list available on an electronic _data system_ [ ~~network~~ ] must take  
+| reasonable measures to ensure the information is available only to  
+| shareholders of the corporation.  
+|  SECTION 8. Section 21.459, Business Organizations Code, is  
+| amended by amending Subsections (c), (d), and (e) and adding  
+| Subsection (f) to read as follows:  
+|  (c) This subsection applies only to a corporation that is a  
+| party to the merger and _has a class or series of_ [ ~~whose~~ ] shares
+_that_  
+| are, immediately before the date its board of directors approves  
+| the plan of merger, either listed on a national securities exchange  
+| or held of record by at least 2,000 shareholders. Unless required  
+| by the corporation's certificate of formation, a plan of merger is  
+| not required to be approved by the shareholders of the corporation  
+| if:  
+|  (1) the plan of merger expressly:  
+|  (A) permits or requires the merger to be effected  
+| under this subsection; and  
+|  (B) provides that any merger effected under this  
+| subsection shall be effected as soon as practicable following the  
+| consummation of the offer [ ~~described by Subdivision (2)~~ ];  
+|  (2) an organization consummates _an_ [ ~~a tender or~~  
+|  ~~exchange~~ ] offer for all of the outstanding shares of the  
+| corporation on the terms provided in the plan of merger that, absent  
+| this subsection, would be entitled to vote on the approval of the  
+| plan of merger, except that _:_  
+|  _(A)_ _____the offer may be conditioned on the tender of_  
+| _a minimum number or percentage of shares of the corporation or of_  
+| _any class or series of shares of the corporation;_  
+|  _(B)_ the offer may exclude _any excluded_ shares _;_  
+| _and_  
+|  _(C)_ _____the organization may consummate separate_  
+| _offers for separate classes or series of shares_ of the corporation  
+| [ ~~owned at the time of the commencement of the offer by:~~  
+|  [ ~~(A) the corporation;~~  
+|  [ ~~(B) the organization making the offer;~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~any person who owns, directly or indirectly,~~  
+|  ~~all of the ownership interests in the organization making the~~  
+|  ~~offer; or~~  
+|  [ ~~(D)~~ ~~~~ ~~~~ ~~any direct or indirect wholly owned~~  
+|  ~~subsidiary of a person described by Paragraph (A), (B), or (C)~~ ];  
+|  (3) _immediately following the consummation of the_  
+| _offer,_ shares that are irrevocably accepted for purchase or  
+| exchange pursuant to the consummation of the offer [ ~~described by~~  
+|  ~~Subdivision (2)~~ ] and that are received by the depository before the  
+| expiration of the offer _, together with_ [ ~~in addition to~~ ] the shares  
+| that are otherwise owned by the consummating organization _or its_  
+| _qualified affiliates and any rollover shares,_ equal at least the  
+| percentage of the shares _of the corporation_ , and of each class or  
+| series of those shares[ ~~, of the corporation~~ ] that, absent this  
+| subsection, would be required to approve the plan of merger by:  
+|  (A) Section 21.457 and, if applicable, Section  
+| 21.458; and  
+|  (B) the certificate of formation of the  
+| corporation;  
+|  (4) the organization consummating the offer _or one of_  
+| _its qualified affiliates_ [ ~~described by Subdivision (2)~~ ] merges with  
+| or into the corporation pursuant to the plan of merger; and  
+|  (5) each outstanding share _, other than excluded_  
+| _shares,_ of each class or series of the corporation that is the  
+| subject of and _is_ not irrevocably accepted for purchase or exchange  
+| in the offer [ ~~described by Subdivision (2)~~ ] is to be converted or  
+| exchanged in the merger into, or into the right to receive, the same  
+| amount and kind of consideration, as described by Section  
+| 10.002(a)(5), as to be paid or delivered for shares of such class or  
+| series of the corporation irrevocably accepted for purchase or  
+| exchange in the offer.  
+|  (d) In Subsection (c) and this subsection and, as  
+| applicable, in Sections 10.355(d)(3)(B), 10.355(f), and  
+| 10.356(b)(3)(E)(iv):  
+|  (1) "Consummates," "consummation," or "consummating"  
+| means irrevocably accepts for purchase or exchange shares tendered  
+| pursuant to _an_ [ ~~a tender or exchange~~ ] offer.  
+|  (2) "Depository" means an agent appointed to  
+| facilitate consummation of _an_ [ ~~the~~ ] offer [ ~~described by
+Subsection~~  
+|  ~~(c)(2)~~ ].  
+|  _(3)_ _____"Offer" means a tender offer or an exchange offer_  
+| _that satisfies the requirements of Subsection (c)(2)._  
+|  (e) For purposes of Subsection _(c) and this subsection:_  
+|  _(1) "Excluded shares" means:_  
+|  _(A)_ _____shares of the corporation that are owned at_  
+| _the commencement of the offer by:_  
+|  _(i) the corporation;_  
+|  _(ii)_ _____the organization consummating the_  
+| _offer;_  
+|  _(iii)_ _____any person that owns, directly or_  
+| _indirectly, all of the outstanding ownership interests of the_  
+| _organization consummating the offer; or_  
+|  _(iv)_ _____any direct or indirect wholly owned_  
+| _subsidiary of any corporation, organization, or other person_  
+| _described by Subparagraphs (i)-(iii); and_  
+|  _(B) rollover shares._  
+|  _(2)_ _____"Qualified affiliate" means, with respect to the_  
+| _organization consummating an offer, any person that:_  
+|  _(A)_ _____owns, directly or indirectly, all of the_  
+| _outstanding ownership interests of the organization consummating_  
+| _the offer; or_  
+|  _(B)_ _____is a direct or indirect wholly owned_  
+| _subsidiary of the organization consummating the offer or of any_  
+| _person described by Paragraph (A)._  
+|  _(3) "Received" means:_  
+|  _(A)_ [ ~~(c)(3), "received,"~~ ] with respect to  
+| _certificated_ shares, [ ~~means:~~  
+|  [ ~~(1)~~ ] physical receipt of a certificate representing  
+| shares _accompanied by an executed letter of transmittal_ [ ~~, in the~~  
+|  ~~case of certificated shares~~ ]; [ ~~and~~ ]  
+|  _(B)_ [ ~~(2)~~ ] transfer into the depository's account __  
+| _by means of_ [ ~~or~~ ] an agent's message _; and_  
+|  _(C)_ _____with respect to uncertificated shares held of_  
+| _record by a person other than a clearing corporation as nominee,_  
+| _physical receipt of an executed letter of transmittal by the_  
+| _depository_ [ ~~being received by the depository, in the case of~~  
+|  ~~uncertificated shares~~ ].  
+|  _(4)_ _____"Rollover shares" means any shares of the_  
+| _corporation that are the subject of a written agreement, separate_  
+| _from the offer, requiring the shares to be transferred,_  
+| _contributed, or delivered to the organization consummating the_  
+| _offer or any of the organization's qualified affiliates in exchange_  
+| _for ownership interests in the organization consummating the offer_  
+| _or a qualified affiliate of that organization. The term does not_  
+| _include shares of a corporation described by this subdivision that,_  
+| _immediately before the time a merger described by Subsection (c)_  
+| _becomes effective, have not been transferred, contributed, or_  
+| _delivered to the organization consummating the offer or any of the_  
+| _organization's qualified affiliates pursuant to the written_  
+| _agreement._  
+|  _(f)_ _____For purposes of Subsections (c) and (e), shares cease to_  
+| _be "received":_  
+|  _(A)_ _____with respect to certificated shares, if the_  
+| _certificate representing the shares was canceled before_  
+| _consummation of the offer; and_  
+|  _(B)_ _____with respect to uncertificated shares, to the_  
+| _extent the uncertificated shares have been reduced or eliminated_  
+| _due to any sale of those shares before the consummation of the_  
+| _offer._  
+|  SECTION 9. Section 21.701, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.701. DEFINITIONS. In this subchapter _and_  
+| _Subchapter P_ :  
+|  (1) "Close corporation" means a domestic corporation  
+| formed under this subchapter or governed by this subchapter because  
+| of Section 21.705, 21.706, or 21.707.  
+|  (2) "Close corporation provision" means a provision in  
+| the certificate of formation of a close corporation or in a  
+| shareholders' agreement of a close corporation.  
+|  (3) "Ordinary corporation" means a domestic  
+| corporation that is not a close corporation.  
+|  (4) "Shareholders' agreement" means a written  
+| agreement regulating an aspect of the business and affairs of or the  
+| relationship among the shareholders of a close corporation that has  
+| been executed under this subchapter.  
+|  SECTION 10. Section 21.901, Business Organizations Code, is  
+| amended by amending Subdivisions (2) and (4) and adding Subdivision  
+| (5-a) to read as follows:  
+|  (2) "Defective corporate act" means:  
+|  (A) an overissue;  
+|  (B) an election or appointment of directors that  
+| is void or voidable due to a failure of authorization; or  
+|  (C) any act or transaction purportedly taken by  
+| or on behalf of the corporation that is, and at the time the act or  
+| transaction was purportedly taken would have been, within the power  
+| of a corporation to take under the corporate statute _, without_  
+| _regard to the failure of authorization identified in Section_  
+| _21.903(a)(4)_ , but is void or voidable due to a failure of  
+| authorization.  
+|  (4) "Failure of authorization" means:  
+|  (A) the failure to authorize or effect an act or  
+| transaction in compliance with the provisions of the corporate  
+| statute, the governing documents of the corporation, [ ~~or~~ ] any plan  
+| or agreement to which the corporation is a party _, or the disclosure_  
+| _set forth in any proxy or consent solicitation statement_ , if and to  
+| the extent the failure would render the act or transaction void or  
+| voidable; or  
+|  (B) the failure of the board of directors or an  
+| officer of the corporation to authorize or approve an act or  
+| transaction taken by or on behalf of the corporation that required  
+| the prior authorization or approval of the board of directors or the  
+| officer.  
+|  _(5-a)_ _____"Putative record date" means, with respect to_  
+| _any defective corporate act that involved the establishment of a_  
+| _record date for a meeting of or action by shareholders or any other_  
+| _purpose, that record date._  
+|  SECTION 11. Section 21.905, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.905. SHAREHOLDER APPROVAL OF RATIFIED DEFECTIVE  
+| CORPORATE ACT REQUIRED; EXCEPTION. Each defective corporate act  
+| ratified under Section 21.903 must be submitted to shareholders for  
+| approval as provided by Sections 21.906 and 21.907, unless:  
+|  (1) _(A)_ no other provision of the corporate statute, no  
+| provision of the corporation's governing documents, and no  
+| provision of any plan or agreement to which the corporation is a  
+| party would have required shareholder approval of:  
+|  _(i)_ [ ~~(A)~~ ] the defective corporate act to be  
+| ratified at the time of that defective corporate act; or  
+|  _(ii)_ [ ~~(B)~~ ] the type of defective corporate  
+| act to be ratified at the time the board of directors adopts the  
+| resolutions ratifying that defective corporate act under Section  
+| 21.903; and  
+|  _(B)_ [ ~~(2)~~ ] the defective corporate act to be  
+| ratified did not result from a failure to comply with Subchapter M _;_  
+| _or_  
+|  _(2)_ _____as of the record date for determining the_  
+| _shareholders entitled to vote on the ratification of the defective_  
+| _corporate act, there are no valid shares outstanding and entitled_  
+| _to vote on the ratification, regardless of whether as of that record_  
+| _date there exist any putative shares_.  
+|  SECTION 12. Section 21.906(a), Business Organizations  
+| Code, is amended to read as follows:  
+|  (a) If the ratification of a defective corporate act is  
+| required to be submitted to the shareholders for approval under  
+| Section 21.905, notice of the time, place, if any, and purpose of  
+| the meeting shall be given at least 20 days before the date of the  
+| meeting to:  
+|  (1) each holder of record, as of the record date of the  
+| meeting, of valid shares and putative shares, regardless of whether  
+| the shares are voting or nonvoting, at the address of the holder as  
+| it appears or most recently appeared, as appropriate, on the  
+| corporation's records; and  
+|  (2) each holder of record of valid shares and putative  
+| shares, regardless of whether the shares are voting or nonvoting,  
+| _other than to a holder whose identity or address cannot be_  
+| _ascertained from the corporation's records:_  
+|  _(A)_ as of the time of the defective corporate  
+| act _; or_  
+|  _(B)_ _____in the case of any defective corporate act_  
+| _that involved the establishment of a putative record date, as of_  
+| _that putative record date_ [ ~~, except that notice is not required to~~  
+|  ~~be given to a holder whose identity or address cannot be ascertained~~  
+|  ~~from the corporation's records~~ ].  
+|  SECTION 13. Section 21.911(e), Business Organizations  
+| Code, is amended to read as follows:  
+|  (e) Notwithstanding Subsections (a)-(d):  
+|  (1) notice is not required to be given under this  
+| section to a person if notice of the ratification of the defective  
+| corporate act is given to that person in accordance with Section  
+| 21.906; and  
+|  (2) for a corporation that has a class of stock listed  
+| on a national securities exchange, the notice required by this  
+| section _and Section 21.906(a)(2)_ may be considered given if the  
+| information contained in the notice is disclosed in a document  
+| publicly filed by the corporation with the Securities and Exchange  
+| Commission under Section 13, 14, or 15(d), Securities Exchange Act  
+| of 1934 (15 U.S.C. Section 78m, 78n, or 78o(d)), and any rules  
+| promulgated under that Act.  
+|  SECTION 14. Section 21.953(c), Business Organizations  
+| Code, is amended to read as follows:  
+|  (c) The name of the public benefit corporation specified in  
+| its certificate of formation may contain the words "public benefit  
+| corporation," the abbreviation "P.B.C.," or the designation "PBC."  
+| If the name does not contain those words or that abbreviation or  
+| designation, [ ~~the corporation must,~~ ] before _the issuance of_  
+| [ ~~issuing~~ ] unissued shares or _the disposition_ [ ~~disposing~~ ] of  
+| treasury shares and except as provided by Subsection (d), [ ~~provide~~ ]  
+| notice that the corporation is a public benefit corporation _shall_  
+| _be given_ to any person:  
+|  (1) to whom the unissued shares are issued; or  
+|  (2) who acquires the treasury shares.  
+|  SECTION 15. Section 21.955(b), Business Organizations  
+| Code, is amended to read as follows:  
+|  (b) A notice sent _to any person_ [ ~~by a public benefit~~  
+|  ~~corporation~~ ] under Section 3.205 must state conspicuously that the  
+| corporation is a public benefit corporation governed by this  
+| subchapter.  
+|  SECTION 16. Section 22.001, Business Organizations Code, is  
+| amended by adding Subdivision (3-a) to read as follows:  
+|  _(3-a)_ _____"Director" means a person who is a member of the_  
+| _board of directors, regardless of the name or title used to_  
+| _designate the person. The term does not include a person designated_  
+| _as a director of the corporation, or as an ex officio, honorary, or_  
+| _other type of director of the corporation if the person is not_  
+| _entitled to vote as a director._  
+|  SECTION 17. Section 22.002, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 22.002. MEETINGS BY REMOTE COMMUNICATIONS TECHNOLOGY.  
+| _A_ [ ~~Subject to the provisions of this code and the certificate of~~  
+|  ~~formation and bylaws of a corporation, a~~ ] meeting of the members of  
+| a corporation, the board of directors of a corporation, or any  
+| committee designated by the board of directors of a corporation may  
+| be held by means of a _conference telephone or similar_  
+| _communications equipment, another suitable_ [ ~~remote~~ ] electronic  
+| communications system, including videoconferencing technology or  
+| the Internet, _or any combination of those means, in accordance with_  
+| _Section 6.002_ [ ~~only if:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~each person entitled to participate in the~~  
+|  ~~meeting consents to the meeting being held by means of that system;~~  
+|  ~~and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the system provides access to the meeting in a~~  
+|  ~~manner or using a method by which each person participating in the~~  
+|  ~~meeting can communicate concurrently with each other participant~~ ].  
+|  SECTION 18. Section 22.210, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 22.210. _NON-DIRECTOR RIGHTS AND LIMITATIONS_ [ ~~EX~~  
+|  ~~OFFICIO MEMBER OF BOARD~~ ]. [ ~~(a)~~ ] The certificate of formation or  
+| bylaws of a corporation may provide that a person _who is not a_  
+| _director_ [ ~~may be an ex officio member of the board of directors of~~  
+|  ~~the corporation.~~  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~A person designated as an ex officio member of the~~  
+|  ~~board~~ ] is entitled to receive notice of and to attend [ ~~board~~ ]  
+| meetings _of the board of directors. By having those rights, the_  
+| _person does not have the authority, duties, or liabilities of a_  
+| _director and is not a governing person of the corporation_.  
+|  [ ~~(c)~~ ~~~~ ~~~~ ~~An ex officio member is not entitled to vote unless
+the~~  
+|  ~~certificate of formation or bylaws authorize the member to vote. An~~  
+|  ~~ex officio member of the board who is not entitled to vote does not~~  
+|  ~~have the duties or liabilities of a director provided by this~~  
+|  ~~chapter.~~ ]  
+|  SECTION 19. Section 22.356(b), Business Organizations  
+| Code, is amended to read as follows:  
+|  (b) The books and records of a corporation other than a bona  
+| fide alumni association are subject to audit at the discretion of  
+| the state auditor if:  
+|  (1) the corporation's _certificate of formation_  
+| [ ~~charter~~ ] specifically dedicates the corporation's activities to  
+| the benefit of a particular state agency; and  
+|  (2) a board member, officer, or employee of that state  
+| agency _is a director_ [ ~~sits on the board of directors~~ ] of the  
+| corporation [ ~~in other than an ex officio capacity~~ ].  
+|  SECTION 20. Sections 6.252(d) and (e), Business  
+| Organizations Code, are repealed.  
+|  SECTION 21. This Act takes effect September 1, 2019.
+

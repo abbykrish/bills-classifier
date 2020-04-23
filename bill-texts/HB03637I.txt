@@ -1,0 +1,139 @@
+| 86R13130 MEW-F  
+---|---  
+|  By: Guillen | H.B. No. 3637  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the confidentiality of certain personal information of  
+| a person protected by a magistrate's order for emergency  
+| protection.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 17, Code of Criminal Procedure, is  
+| amended by adding Article 17.294 to read as follows:  
+|  _Art._ ___17.294._ _____CONFIDENTIALITY OF CERTAIN INFORMATION IN_  
+| _ORDER FOR EMERGENCY PROTECTION. On request by a person protected by_  
+| _an order for emergency protection issued under Article 17.292, or_  
+| _if determined necessary by the magistrate, the court issuing the_  
+| _order may protect the person's mailing address by rendering an_  
+| _order:_  
+|  _(1) requiring the person protected under the order to:_  
+|  _(A)_ _____disclose the person's mailing address to the_  
+| _court;_  
+|  _(B)_ _____designate another person to receive on behalf_  
+| _of the person any notice or documents filed with the court related_  
+| _to the order; and_  
+|  _(C)_ _____disclose the designated person's mailing_  
+| _address to the court;_  
+|  _(2) requiring the court clerk to:_  
+|  _(A)_ _____strike the mailing address of the person_  
+| _protected by the order from the public records of the court, if_  
+| _applicable; and_  
+|  _(B)_ _____maintain a confidential record of the mailing_  
+| _address for use only by:_  
+|  _(i) the court; or_  
+|  _(ii)_ _____a law enforcement agency for purposes_  
+| _of entering the information required by Section 411.042(b)(6),_  
+| _Government Code, into the statewide law enforcement information_  
+| _system maintained by the Department of Public Safety; and_  
+|  _(3)_ _____prohibiting the release of the information to the_  
+| _defendant._  
+|  SECTION 2. Article 17.49, Code of Criminal Procedure, is  
+| amended by adding Subsection (c-1) to read as follows:  
+|  _(c-1)_ _____Notwithstanding Subsections (b) and (c), if a_  
+| _specific description of a location is omitted under Article_  
+| _17.292(e) or a mailing address is protected under Article 17.294,_  
+| _in the order under this article, the court may designate a general_  
+| _geographic area in which the omitted location or protected address_  
+| _is located that the defendant may not enter. The geographic area_  
+| _designated by the court must be of a sufficient size that it would_  
+| _be difficult for the defendant to locate the victim within that_  
+| _area._  
+|  SECTION 3. Section 411.042(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The bureau of identification and records shall:  
+|  (1) procure and file for record photographs, pictures,  
+| descriptions, fingerprints, measurements, and other pertinent  
+| information of all persons arrested for or charged with a criminal  
+| offense or convicted of a criminal offense, regardless of whether  
+| the conviction is probated;  
+|  (2) collect information concerning the number and  
+| nature of offenses reported or known to have been committed in the  
+| state and the legal steps taken in connection with the offenses, and  
+| other information useful in the study of crime and the  
+| administration of justice, including information that enables the  
+| bureau to create a statistical breakdown of:  
+|  (A) offenses in which family violence was  
+| involved;  
+|  (B) offenses under Sections 22.011 and 22.021,  
+| Penal Code; and  
+|  (C) offenses under Sections 20A.02, 43.02(a),  
+| 43.02(b), 43.03, and 43.05, Penal Code;  
+|  (3) make ballistic tests of bullets and firearms and  
+| chemical analyses of bloodstains, cloth, materials, and other  
+| substances for law enforcement officers of the state;  
+|  (4) cooperate with identification and crime records  
+| bureaus in other states and the United States Department of  
+| Justice;  
+|  (5) maintain a list of all previous background checks  
+| for applicants for any position regulated under Chapter 1702,  
+| Occupations Code, who have undergone a criminal history background  
+| check under Section 411.119, if the check indicates a Class B  
+| misdemeanor or equivalent offense or a greater offense;  
+|  (6) collect information concerning the number and  
+| nature of protective orders and magistrate's orders of emergency  
+| protection and all other pertinent information about all persons  
+| subject to active orders, including pertinent information about  
+| persons subject to conditions of bond imposed for the protection of  
+| the victim in any family violence, sexual assault or abuse,  
+| stalking, or trafficking case. Information in the law enforcement  
+| information system relating to an active order shall include:  
+|  (A) the name, sex, race, date of birth, personal  
+| descriptors, address, and county of residence of the person to whom  
+| the order is directed;  
+|  (B) any known identifying number of the person to  
+| whom the order is directed, including the person's social security  
+| number or driver's license number;  
+|  (C) the name and county of residence of the  
+| person protected by the order;  
+|  (D) the residence address and place of employment  
+| or business of the person protected by the order[ ~~, unless that~~  
+|  ~~information is excluded from the order under Article 17.292(e),~~  
+|  ~~Code of Criminal Procedure~~ ];  
+|  (E) the child-care facility or school where a  
+| child protected by the order normally resides or which the child  
+| normally attends[ ~~, unless that information is excluded from the~~  
+|  ~~order under Article 17.292(e), Code of Criminal Procedure~~ ];  
+|  (F) the relationship or former relationship  
+| between the person who is protected by the order and the person to  
+| whom the order is directed;  
+|  (G) the conditions of bond imposed on the person  
+| to whom the order is directed, if any, for the protection of a  
+| victim in any family violence, sexual assault or abuse, stalking,  
+| or trafficking case;  
+|  (H) any minimum distance the person subject to  
+| the order is required to maintain from the protected places or  
+| persons; and  
+|  (I) the date the order expires;  
+|  (7) grant access to criminal history record  
+| information in the manner authorized under Subchapter F;  
+|  (8) collect and disseminate information regarding  
+| offenders with mental impairments in compliance with Chapter 614,  
+| Health and Safety Code; and  
+|  (9) record data and maintain a state database for a  
+| computerized criminal history record system and computerized  
+| juvenile justice information system that serves:  
+|  (A) as the record creation point for criminal  
+| history record information and juvenile justice information  
+| maintained by the state; and  
+|  (B) as the control terminal for the entry of  
+| records, in accordance with federal law and regulations, federal  
+| executive orders, and federal policy, into the federal database  
+| maintained by the Federal Bureau of Investigation.  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| a magistrate's order for emergency protection issued on or after  
+| the effective date of this Act.  An order issued before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the order was issued, and the former law is continued in effect  
+| for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

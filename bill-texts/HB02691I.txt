@@ -1,0 +1,30 @@
+| 86R11230 CAE-D  
+---|---  
+|  By: VanDeaver | H.B. No. 2691  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to restricting the use of personally identifiable student  
+| information by an operator of a website, online service, online  
+| application, or mobile application used for a school purpose.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 32.155, Education Code, is amended to  
+| read as follows:  
+|  Sec. 32.155. PROTECTION OF COVERED INFORMATION. _(a)_ An  
+| operator must implement and maintain reasonable security  
+| procedures and practices designed to protect any covered  
+| information from unauthorized access, deletion, use, modification,  
+| or disclosure.  
+|  _(b)_ _____The agency and any operator that possesses any covered_  
+| _information must use the unique identifier system established by_  
+| _the Texas Student Data System (TSDS) or a successor data management_  
+| _system maintained by the agency for any account creation, data_  
+| _upload, data transmission, analysis, or reporting to mask all_  
+| _personally identifiable student information._ ___Any operator_  
+| _conducting business with the agency or a school district,_  
+| _open-enrollment charter school, regional education service center,_  
+| _or other local education agency shall adhere to a state required_  
+| _student data sharing agreement that includes an established data_  
+| _masking standard for all operators as prescribed by the agency._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

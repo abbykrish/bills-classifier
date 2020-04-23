@@ -1,0 +1,44 @@
+| 86R13591 YDB-F  
+---|---  
+|  By: Capriglione | H.B. No. 3265  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the execution capability readiness scoring of major  
+| information resources projects.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2054.1184, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2054.1184. _EXECUTION CAPABILITY READINESS SCORING_  
+| [ ~~ASSESSMENT~~ ] OF MAJOR INFORMATION RESOURCES PROJECT. (a)  A state  
+| agency proposing to spend appropriated funds for a major  
+| information resources project must first _use a proven and_  
+| _industry-established automated tool that collects operational and_  
+| _technical information through multiple domains of measurement and_  
+| _that calculates the overall_ [ ~~conduct an~~ ] execution capability _of_  
+| _the agency to implement the project_ [ ~~assessment~~ ] to:  
+|  (1) _identify, and provide corrective action for,_  
+| _vulnerabilities by domain that may affect the agency's ability to_  
+| _successfully implement_ [ ~~determine the agency's capability for~~  
+|  ~~implementing~~ ] the project;  
+|  (2) _remove decision biases to_ reduce the agency's  
+| financial risk in implementing the project; and  
+|  (3) increase the probability of the agency's  
+| successful implementation of the project.  
+|  (b) A state agency shall submit to the department, the  
+| quality assurance team established under Section 2054.158, and the  
+| Legislative Budget Board a detailed report that identifies the  
+| agency's _vulnerabilities by domain_ [ ~~organizational strengths and~~  
+|  ~~any weaknesses~~ ] that will be addressed before the agency initially  
+| spends appropriated funds for a major information resources  
+| project.  
+|  (c) A state agency may contract with an independent third  
+| party to _review the execution capability report prepared by the_  
+| _agency_ [ ~~conduct the assessment~~ ] under Subsection (a) and prepare  
+| the report described by Subsection (b).  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

@@ -1,0 +1,171 @@
+| 86R9576 MP-F  
+---|---  
+|  By: Meyer | H.B. No. 3581  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the special education allotment and the creation of a  
+| supported education allotment under the Foundation School Program  
+| and to instructional arrangements for students with disabilities  
+| enrolled in public schools.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 8.051(d), Education Code, is amended to  
+| read as follows:  
+|  (d) Each regional education service center shall maintain  
+| core services for purchase by school districts and campuses. The  
+| core services are:  
+|  (1) training and assistance in:  
+|  (A) teaching each subject area assessed under  
+| Section 39.023; and  
+|  (B) providing instruction in personal financial  
+| literacy as required under Section 28.0021;  
+|  (2) training and assistance in providing each program  
+| that qualifies for a funding allotment under Section 42.151,  
+| _42.1511,_ 42.152, 42.153, or 42.156;  
+|  (3) assistance specifically designed for a school  
+| district or campus assigned an unacceptable performance rating  
+| under Section 39.054;  
+|  (4) training and assistance to teachers,  
+| administrators, members of district boards of trustees, and members  
+| of site-based decision-making committees;  
+|  (5) assistance specifically designed for a school  
+| district that is considered out of compliance with state or federal  
+| special education requirements, based on the agency's most recent  
+| compliance review of the district's special education programs; and  
+|  (6) assistance in complying with state laws and rules.  
+|  SECTION 2. Section 29.002, Education Code, is amended to  
+| read as follows:  
+|  Sec. 29.002. DEFINITION. In this subchapter, "special  
+| services" means:  
+|  (1) special education instruction _and supports_ [ ~~,~~  
+|  ~~which may be~~ ] provided by professional _personnel, who may be_ [
+~~and~~ ]  
+| supported by paraprofessional personnel _in providing the_  
+| _instruction and supports,_ in _a_ [ ~~the regular~~ ] classroom or in an  
+| _alternative_ instructional arrangement [ ~~described by Section~~  
+|  ~~42.151~~ ]; and  
+|  (2) related services, which are developmental,  
+| corrective, supportive, or evaluative services, not instructional  
+| in nature, that may be required for the student to benefit from  
+| special education instruction and for implementation of a student's  
+| individualized education program.  
+|  SECTION 3. Subchapter A, Chapter 29, Education Code, is  
+| amended by adding Section 29.0021 to read as follows:  
+|  _Sec._ ___29.0021._ _____INSTRUCTIONAL ARRANGEMENTS. The State Board_  
+| _of Education shall adopt rules regarding instructional_  
+| _arrangements used with students with disabilities._  
+|  SECTION 4. Section 29.014(d), Education Code, is amended to  
+| read as follows:  
+|  (d) The basic allotment for a student enrolled in a district  
+| to which this section applies is adjusted by:  
+|  (1) the cost of education adjustment under Section  
+| 42.102 for the school district in which the district is  
+| geographically located; and  
+|  (2) the _applicable_ weight for _the_ [ ~~a homebound~~ ]  
+| student under Section 42.151(a).  
+|  SECTION 5. Section 29.022(u)(3), Education Code, is amended  
+| to read as follows:  
+|  (3) "Self-contained classroom" does not include a  
+| classroom that is a resource room _, as determined by the State Board_  
+| _of Education_ [ ~~instructional arrangement under Section 42.151~~ ].  
+|  SECTION 6. Section 42.101(a), Education Code, is amended to  
+| read as follows:  
+|  (a) For each student in average daily attendance, not  
+| including the time students spend each day in [ ~~special education~~  
+|  ~~programs in an instructional arrangement other than mainstream or~~ ]  
+| career and technology education programs, for which an additional  
+| allotment is made under Subchapter C, a district is entitled to an  
+| allotment equal to the lesser of $4,765 or the amount that results  
+| from the following formula:  
+| A = $4,765 X (DCR/MCR)  
+| where:  
+|  "A" is the allotment to which a district is entitled;  
+|  "DCR" is the district's compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by the maintenance and operations tax  
+| rate adopted by the district for the 2005 tax year; and  
+|  "MCR" is the state maximum compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by $1.50.  
+|  SECTION 7. Section 42.151, Education Code, is amended by  
+| amending Subsections (a) and (k) and adding Subsection (a-1) to  
+| read as follows:  
+|  (a) For each student in average daily attendance in a  
+| special education program under Subchapter A, Chapter 29, [ ~~in a~~  
+|  ~~mainstream instructional arrangement,~~ ] a school district is  
+| entitled to an annual allotment equal to the adjusted basic  
+| allotment multiplied by [ ~~1.1. For each full-time equivalent student~~  
+|  ~~in average daily attendance in a special education program under~~  
+|  ~~Subchapter A, Chapter 29, in an instructional arrangement other~~  
+|  ~~than a mainstream instructional arrangement, a district is entitled~~  
+|  ~~to an annual allotment equal to the adjusted basic allotment~~  
+|  ~~multiplied by a weight determined according to instructional~~  
+|  ~~arrangement as follows~~ ]:  
+|  _(1)_ _____1.1, if, on average, the student receives special_  
+| _services for a period of less than 15 minutes per school day;_  
+|  _(2)_ _____1.8, if, on average, the student receives special_  
+| _services for a period of at least 15 minutes and not more than three_  
+| _hours per school day; and_  
+|  _(3)_ _____2.4, if, on average, the student receives special_  
+| _services for a period of more than three hours per school day._  
+|  [ ~~Homebound5.0~~  
+|  [ ~~Hospital class3.0~~  
+|  [ ~~Speech therapy5.0~~  
+|  [ ~~Resource room3.0~~  
+|  [ ~~Self-contained, mild and moderate, regular campus3.0~~  
+|  [ ~~Self-contained, severe, regular campus3.0~~  
+|  [ ~~Off home campus2.7~~  
+|  [ ~~Nonpublic day school1.7~~  
+|  [ ~~Vocational adjustment class2.3~~ ]  
+|  _(a-1)_ _____In this section, "special services" has the meaning_  
+| _assigned by Section 29.002._  
+|  (k) A school district that provides an extended year program  
+| required by federal law for special education students who may  
+| regress is entitled to receive funds in an amount equal to 75  
+| percent, or a lesser percentage determined by the commissioner, of  
+| the adjusted basic allotment or adjusted allotment, as applicable,  
+| for each [ ~~full-time equivalent~~ ] student in average daily  
+| attendance, multiplied by the _applicable weight for the student_  
+| [ ~~amount~~ ] designated [ ~~for the student's instructional arrangement~~
+]  
+| under this section, for each day the program is provided divided by  
+| the number of days in the minimum school year. The total amount of  
+| state funding for extended year services under this section may not  
+| exceed $10 million per year. A school district may use funds  
+| received under this section only in providing an extended year  
+| program.  
+|  SECTION 8. Subchapter C, Chapter 42, Education Code, is  
+| amended by adding Section 42.1511 to read as follows:  
+|  _Sec._ ___42.1511._ _____SUPPORTED EDUCATION ALLOTMENT. (a) For each_  
+| _student in average daily attendance who receives aids,_  
+| _accommodations, or services to provide the student access to the_  
+| _required curriculum under Section 28.002 in accordance with a plan_  
+| _created for the student under Section 504, Rehabilitation Act of_  
+| _1973 (29 U.S.C. Section 794), a school district is entitled to an_  
+| _annual allotment equal to the district's adjusted basic allotment_  
+| _multiplied by:_  
+|  _(1)_ _____1.1, if, on average, the student receives those_  
+| _aids, accommodations, or services for a period of less than 15_  
+| _minutes per school day; and_  
+|  _(2)_ _____1.8, if, on average, the student receives those_  
+| _aids, accommodations, or services for a period of at least 15_  
+| _minutes per school day._  
+|  _(b)_ _____Funds allotted under this section must be used to_  
+| _provide aids, accommodations, or services, as applicable, to_  
+| _students for whom a plan has been created under Section 504,_  
+| _Rehabilitation Act of 1973 (29 U.S.C. Section 794), or to provide_  
+| _related programs for educator professional development and_  
+| _certification._  
+|  _(c)_ _____A school district may not receive an allotment under_  
+| _this section for a student for whom the district is entitled to an_  
+| _allotment under Section 42.151._  
+|  SECTION 9. Sections 42.151(b), (c), (d), (e), and (f),  
+| Education Code, are repealed.  
+|  SECTION 10. Not later than September 1, 2020, the State  
+| Board of Education shall adopt rules as required by Section  
+| 29.0021, Education Code, as added by this Act.  
+|  SECTION 11. (a) Except as provided by Subsection (b) of  
+| this section, this Act takes effect September 1, 2020.  
+|  (b) Section 29.0021, Education Code, as added by this Act,  
+| takes effect September 1, 2019.
+

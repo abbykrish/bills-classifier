@@ -1,0 +1,51 @@
+| 86R12014 JCG-F  
+---|---  
+|  By: Darby | H.B. No. 3371  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of certain battery-charged fences by  
+| municipalities and counties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 250, Local Government Code, is amended  
+| by adding Section 250.009 to read as follows:  
+|  _Sec._ ___250.009._ _____BATTERY-CHARGED FENCES. (a)_ ___In this_  
+| _section, "alarm system" means an alarm system for which a permit may_  
+| _be issued under Subchapter F or F-1, Chapter 214, or Subchapter D,_  
+| _Chapter 233._  
+|  _(b)_ _____This section applies only to a battery-charged fence_  
+| _that:_  
+|  _(1)_ _____interfaces with an alarm system in a manner that_  
+| _enables the fence to cause the connected alarm system to transmit a_  
+| _signal intended to summon law enforcement in response to a_  
+| _burglary;_  
+|  _(2)_ _____is located on property that is not designated by a_  
+| _municipality or county for residential use;_  
+|  _(3)_ _____has an energizer that is driven by a commercial_  
+| _storage battery that is not more than 12 volts of direct current;_  
+|  _(4)_ _____produces an electric charge on contact that does_  
+| _not exceed energizer characteristics set for electric fence_  
+| _energizers by the International Electrotechnical Commission as_  
+| _published in the commission's standards on June 29, 2018;_  
+|  _(5)_ _____is completely surrounded by a nonelectric_  
+| _perimeter fence or wall that is not less than five feet in height;_  
+|  _(6) is not more than the higher of:_  
+|  _(A) 10 feet in height; or_  
+|  _(B)_ _____two feet higher than the height of the_  
+| _nonelectric perimeter fence or wall; and_  
+|  _(7)_ _____is marked with conspicuous warning signs that are_  
+| _located on the battery-charged fence at not less than 60-foot_  
+| _intervals and that read: "WARNING--ELECTRIC FENCE."_  
+|  _(c)_ _____Notwithstanding any other law, a municipality or county_  
+| _may not adopt or enforce an ordinance, order, or regulation that:_  
+|  _(1)_ _____requires a permit for the installation or use of a_  
+| _battery-charged fence to which this section applies that is in_  
+| _addition to an alarm system permit issued by the municipality or_  
+| _county;_  
+|  _(2)_ _____imposes installation or operational requirements_  
+| _for the battery-charged fence that are inconsistent with the_  
+| _standards described by Subsection (b); or_  
+|  _(3)_ _____prohibits the installation or use of a_  
+| _battery-charged fence._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

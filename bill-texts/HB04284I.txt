@@ -1,0 +1,25 @@
+| 86R9051 KSD-D  
+---|---  
+|  By: Lucio III | H.B. No. 4284  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the requirement that the Texas Workforce Commission  
+| provide certain employment information for secondary school  
+| students.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 302.014, Labor Code, is amended by  
+| adding Subsection (a-1) and amending Subsection (b) to read as  
+| follows:  
+|  _(a-1)_ _____The information provided under Subsection (a) must_  
+| _also identify the regional workforce needs in each county or other_  
+| _appropriate region and the industry certifications or other_  
+| _workforce credentials necessary to meet those needs. The_  
+| _commission shall consult local workforce development boards in_  
+| _developing the information required under this subsection._  
+|  (b) The Texas Education Agency shall provide the  
+| information obtained under _Subsections_ [ ~~Subsection~~ ] (a) _and (a-1)_  
+| to school districts for use in local planning and implementation of  
+| career and technical education and training programs.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

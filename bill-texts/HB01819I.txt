@@ -1,0 +1,91 @@
+| 86R9111 SRS-D  
+---|---  
+|  By: Dean | H.B. No. 1819  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to including the qualifications for voting early by mail  
+| on the ground of disability on certain early voting by mail  
+| materials.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 52.005, Election Code, is amended to  
+| read as follows:  
+|  Sec. 52.005. BALLOT CONTENT DETERMINED ACCORDING TO  
+| PRECINCT.  _Except as provided by Section 52.009, the_ [ ~~The~~ ] ballot  
+| for an election precinct may contain only those offices and  
+| propositions stating measures on which the qualified voters of the  
+| precinct are entitled to vote.  
+|  SECTION 2. Subchapter A, Chapter 52, Election Code, is  
+| amended by adding Section 52.009 to read as follows:  
+|  _Sec._ ___52.009._ _____BALLOT FOR VOTING BY MAIL. A ballot to be_  
+| _voted by mail under Chapter 86 must include a statement describing_  
+| _the specific circumstances under which a voter may vote early by_  
+| _mail on the ground of disability as provided by Section 82.002._  
+|  SECTION 3. Section 84.011(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The officially prescribed application form for an early  
+| voting ballot must include:  
+|  (1) immediately preceding the signature space the  
+| statement: "I certify that the information given in this  
+| application is true, and I understand that giving false information  
+| in this application is a crime.";  
+|  (2) a statement informing the applicant of the  
+| offenses prescribed by Sections 84.003 and 84.004;  
+|  (3) spaces for entering an applicant's voter  
+| registration number and county election precinct of registration,  
+| with a statement informing the applicant that failure to furnish  
+| that information does not invalidate the application; and  
+|  (4) on an application for a ballot to be voted by mail:  
+|  (A) a space for an applicant applying on the  
+| ground of absence from the county of residence to indicate the date  
+| on or after which the applicant can receive mail at the address  
+| outside the county;  
+|  (B) a space for indicating the fact that an  
+| applicant whose application is signed by a witness cannot make the  
+| applicant's mark and a space for indicating the relationship or  
+| lack of relationship of the witness to the applicant;  
+|  (C) a space for entering an applicant's telephone  
+| number, with a statement informing the applicant that failure to  
+| furnish that information does not invalidate the application;  
+|  (D) a space or box for an applicant applying on  
+| the ground of age or disability to indicate that the address to  
+| which the ballot is to be mailed is the address of a facility or  
+| relative described by Section 84.002(a)(3), if applicable;  
+|  (E) a space or box for an applicant applying on  
+| the ground of confinement in jail to indicate that the address to  
+| which the ballot is to be mailed is the address of a relative  
+| described by Section 84.002(a)(4), if applicable;  
+|  (F) a space for an applicant applying on the  
+| ground of age or disability to indicate if the application is an  
+| application under Section 86.0015;  
+|  (G) spaces for entering the signature, printed  
+| name, and residence address of any person assisting the applicant;  
+|  (H) a statement informing the applicant of the  
+| condition prescribed by Section 81.005; [ ~~and~~ ]  
+|  (I) a statement informing the applicant of the  
+| requirement prescribed by Section 86.003(c) _; and_  
+|  _(J)_ _____a statement describing the specific_  
+| _circumstances under which a voter may vote early by mail on the_  
+| _ground of disability as provided by Section 82.002_.  
+|  SECTION 4. Section 86.013(d), Election Code, is amended to  
+| read as follows:  
+|  (d) The following textual material, as prescribed by the  
+| secretary of state, must be printed on the reverse side of the  
+| official carrier envelope or on a separate sheet accompanying the  
+| carrier envelope when it is provided:  
+|  (1) the prohibition prescribed by Section 86.006(b);  
+|  (2) the conditions for delivery by common or contract  
+| carrier prescribed by Sections 81.005 and 86.006;  
+|  (3) the requirements for the legal execution and  
+| delivery of the carrier envelope, including the prohibition on  
+| compensation for depositing carrier envelopes containing ballots  
+| voted by other persons under Section 86.0052;  
+|  (4) the prohibition prescribed by Section 86.006(e);  
+| [ ~~and~~ ]  
+|  (5) the offenses prescribed by Sections 86.006(f) and  
+| 86.010(f) _; and_  
+|  _(6)_ _____a statement describing the specific circumstances_  
+| _under which a voter may vote early by mail on the ground of_  
+| _disability as provided by Section 82.002_.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,25 @@
+| 86R8038 JRR-D  
+---|---  
+|  By: Johnson of Harris | H.B. No. 1191  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an annual report concerning the number of inmates who  
+| have been in the conservatorship of a state agency responsible for  
+| providing child protective services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 501.023(b), Government Code, is amended  
+| to read as follows:  
+|  (b) Not later than December 31 of each year, the department  
+| shall submit a report to the governor, the lieutenant governor,  
+| [ ~~the speaker of the house of representatives,~~ ] and each _member of_  
+| _the legislature and shall make the report available to the public on_  
+| _the department's Internet website_ [ ~~standing committee having~~  
+|  ~~primary jurisdiction over the department~~ ].  The report must  
+| summarize statistical information concerning the total number of  
+| inmates who have at any time been in the conservatorship of a state  
+| agency responsible for providing child protective services _,_  
+| _including, disaggregated by age, the number of inmates who have not_  
+| _previously served a term of imprisonment_.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

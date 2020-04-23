@@ -1,0 +1,45 @@
+| 86R9446 ADM-D  
+---|---  
+|  By: Israel | H.B. No. 1421  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to cybersecurity of voter registration lists and other  
+| election-related documents, systems, and technology.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 16, Election Code, is amended by adding  
+| Chapter 279 to read as follows:  
+| _CHAPTER 279. CYBERSECURITY OF ELECTION SYSTEMS_  
+|  _Sec._ ___279.001._ _____DEFINITION. In this chapter, "election data"_  
+| _means voter registration information and other election-related_  
+| _documents, systems, and technology._  
+|  _Sec._ ___279.002._ _____ELECTION CYBERSECURITY: SECRETARY OF STATE._  
+| _(a) The secretary of state shall adopt rules establishing best_  
+| _practices for the electronic storage and security of election data._  
+|  _(b)_ _____The secretary of state shall offer training on best_  
+| _practices:_  
+|  _(1)_ _____on an annual basis, to all appropriate personnel_  
+| _in the secretary of state's office; and_  
+|  _(2)_ _____on request, to county election officers in this_  
+| _state._  
+|  _(c)_ _____If the secretary of state becomes aware of a breach of_  
+| _cybersecurity that impacts election data, the secretary shall_  
+| _immediately notify the members of the standing committees of each_  
+| _house of the legislature with jurisdiction over elections._  
+|  _Sec._ ___279.003._ _____ELECTION CYBERSECURITY: VOTER REGISTRARS AND_  
+| _COUNTY CLERKS. (a)_ ___A_ ___voter registrar or county clerk shall_  
+| _request training on cybersecurity:_  
+|  _(1) from the secretary of state; and_  
+|  _(2)_ _____on an annual basis from another provider of_  
+| _cybersecurity training, if the registrar or clerk has available_  
+| _state funds for that purpose._  
+|  _(b)_ _____If a voter registrar or county clerk becomes aware of a_  
+| _breach of cybersecurity that impacts election data, the registrar_  
+| _or clerk shall immediately notify the secretary of state._  
+|  _(c)_ _____To the extent that state funds are available for the_  
+| _purpose, a voter registrar or county clerk shall implement endpoint_  
+| _security to ensure that all devices with access to election data_  
+| _comply to the highest extent possible with rules adopted by the_  
+| _secretary of state under Section 279.002._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

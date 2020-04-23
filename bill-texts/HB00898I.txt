@@ -1,0 +1,27 @@
+| 86R2287 GRM-D  
+---|---  
+|  By: Israel | H.B. No. 898  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring the secretary of state to maintain certain  
+| information regarding provisional voting.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 18.069, Election Code, is amended to  
+| read as follows:  
+|  Sec. 18.069. VOTING HISTORY.  _(a)_ Not later than the 30th  
+| day after the date of the primary, runoff primary, or general  
+| election or any special election ordered by the governor, the  
+| registrar shall electronically submit to the secretary of state the  
+| record of each voter participating in the election. The record  
+| must include a notation of whether the voter _:_  
+|  _(1)_ voted on election day _;_ [ ~~,~~ ]  
+|  _(2)_ voted early by personal appearance _;_ [ ~~,~~ ]  
+|  _(3)_ voted early by mail under Chapter 86 _;_ [ ~~, or~~ ]  
+|  _(4)_ voted early by mail under Chapter 101 _; or_  
+|  _(5)_ _____voted provisionally and the reason the voter cast_  
+| _a provisional ballot_.  
+|  _(b)_ _____The secretary of state shall adopt rules to implement_  
+| _this section._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

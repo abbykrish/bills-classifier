@@ -1,0 +1,242 @@
+| 86R1705 LHC-D  
+---|---  
+|  By: Price | H.B. No. 600  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to procedures for identifying or releasing on personal  
+| bond criminal defendants suspected of having a mental illness or  
+| intellectual disability.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| SECTION 1. Article 16.22(a), Code of Criminal Procedure, as  
+| amended by Chapters 748 (S.B. 1326) and 950 (S.B. 1849), Acts of the  
+| 85th Legislature, Regular Session, 2017, is reenacted and amended  
+| to read as follows:  
+|  (a)(1) Not later than 12 hours after the sheriff or  
+| municipal jailer having custody of a defendant for an offense  
+| punishable as a Class B misdemeanor or any higher category of  
+| offense receives credible information that may establish  
+| reasonable cause to believe that the defendant has a mental illness  
+| or is a person with an intellectual disability, the sheriff or  
+| municipal jailer shall provide written or electronic notice to the  
+| magistrate. The notice must include any information related to the  
+| sheriff's or municipal jailer's determination, such as information  
+| regarding the defendant's behavior immediately before, during, and  
+| after the defendant's arrest and, if applicable, the results of any  
+| previous assessment of the defendant. On a determination that  
+| there is reasonable cause to believe that the defendant has a mental  
+| illness or is a person with an intellectual disability, the  
+| magistrate, except as provided by Subdivision (2), shall order the  
+| local mental health authority, local intellectual and  
+| developmental disability authority, or another qualified mental  
+| health or intellectual disability expert to:  
+|  (A) _interview the defendant and otherwise_  
+| collect information regarding whether the defendant has a mental  
+| illness as defined by Section 571.003, Health and Safety Code, or is  
+| a person with an intellectual disability as defined by Section  
+| 591.003, Health and Safety Code, including, if applicable,  
+| information obtained from any previous assessment of the defendant  
+| and information regarding any previously recommended treatment _or_  
+| _service_ ; and  
+|  (B) provide to the magistrate a written _report_  
+| [ ~~assessment~~ ] of the _interview and other_ information collected under  
+| Paragraph (A) on the form approved by the Texas Correctional Office  
+| on Offenders with Medical or Mental Impairments under Section  
+| _614.0032(c)_ [ ~~614.0032(b)~~ ], Health and Safety Code.  
+|  (2) The magistrate is not required to order the  
+| _interview and_ collection of _other_ information under Subdivision (1)  
+| if the defendant in the year preceding the defendant's applicable  
+| date of arrest has been determined to have a mental illness or to be  
+| a person with an intellectual disability by the local mental health  
+| authority, local intellectual and developmental disability  
+| authority, or another mental health or intellectual disability  
+| expert described by Subdivision (1). A court that elects to use the  
+| results of that previous determination may proceed under Subsection  
+| (c).  
+|  (3) If the defendant fails or refuses to submit to the  
+| _interview and_ collection of _other_ information regarding the  
+| defendant as required under Subdivision (1), the magistrate may  
+| order the defendant to submit to an examination in a jail or in  
+| another place determined to be appropriate by the local mental  
+| health authority or local intellectual and developmental  
+| disability authority for a reasonable period not to exceed 72  
+| hours. If applicable, the county in which the committing court is  
+| located shall reimburse the local mental health authority or local  
+| intellectual and developmental disability authority for the  
+| mileage and per diem expenses of the personnel required to  
+| transport the defendant, calculated in accordance with the state  
+| travel regulations in effect at the time.  
+|  SECTION 2. Article 16.22, Code of Criminal Procedure, is  
+| amended by amending Subsections (b), (b-1), (c), (d), and (e) and  
+| adding Subsection (f) to read as follows:  
+|  (b) Except as otherwise permitted by the magistrate for good  
+| cause shown, a written _report_ [ ~~assessment~~ ] of the _interview and_  
+| _other_ information collected under Subsection (a)(1)(A) shall be  
+| provided to the magistrate:  
+|  (1) for a defendant held in custody, not later than 96  
+| hours after the time an order was issued under Subsection (a); or  
+|  (2) for a defendant released from custody, not later  
+| than the 30th day after the date an order was issued under  
+| Subsection (a).  
+|  (b-1) The magistrate shall provide copies of the written  
+| _report_ [ ~~assessment~~ ] to the defense counsel, the attorney  
+| representing the state, and the trial court. The written _report_  
+| [ ~~assessment~~ ] must include a description of the procedures used in  
+| the _interview and_ collection of _other_ information under Subsection  
+| (a)(1)(A) and the applicable expert's observations and findings  
+| pertaining to:  
+|  (1) whether the defendant is a person who has a mental  
+| illness or is a person with an intellectual disability;  
+|  (2) whether there is clinical evidence to support a  
+| belief that the defendant may be incompetent to stand trial and  
+| should undergo a complete competency examination under Subchapter  
+| B, Chapter 46B; and  
+|  (3) any appropriate or recommended treatment or  
+| service.  
+|  (c) After the trial court receives the applicable expert's  
+| written _report_ [ ~~assessment~~ ] relating to the defendant under  
+| Subsection (b-1) or elects to use the results of a previous  
+| determination as described by Subsection (a)(2), the trial court  
+| may, as applicable:  
+|  (1) resume criminal proceedings against the  
+| defendant, including any appropriate proceedings related to the  
+| defendant's release on personal bond under Article 17.032 if the  
+| defendant is being held in custody;  
+|  (2) resume or initiate competency proceedings, if  
+| required, as provided by Chapter 46B or other proceedings affecting  
+| the defendant's receipt of appropriate court-ordered mental health  
+| or intellectual disability services, including proceedings related  
+| to the defendant's receipt of outpatient mental health services  
+| under Section 574.034, Health and Safety Code;  
+|  (3) consider the written _report_ [ ~~assessment~~ ] during  
+| the punishment phase after a conviction of the offense for which the  
+| defendant was arrested, as part of a presentence investigation  
+| report, or in connection with the impositions of conditions  
+| following placement on community supervision, including deferred  
+| adjudication community supervision; or  
+|  (4) refer the defendant to an appropriate specialty  
+| court established or operated under Subtitle K, Title 2, Government  
+| Code.  
+|  (d) This article does not prevent the applicable court from,  
+| before, during, or after the _interview and_ collection of _other_  
+| information regarding the defendant as described by this article:  
+|  (1) releasing a defendant who has a mental illness or  
+| is a person with an intellectual disability from custody on  
+| personal or surety bond, including imposing as a condition of  
+| release that the defendant submit to an examination or other  
+| assessment; or  
+|  (2) ordering an examination regarding the defendant's  
+| competency to stand trial.  
+|  (e) _The Texas Judicial Council shall adopt rules to require_  
+| _the reporting of_ [ ~~The magistrate shall submit to the Office of~~  
+|  ~~Court Administration of the Texas Judicial System on a monthly~~  
+|  ~~basis~~ ] the number of written _reports_ [ ~~assessments~~ ] provided to
+_a_  
+| [ ~~the~~ ] court under Subsection (a)(1)(B).  _The rules must require_  
+| _submission of the reports to the Office of Court Administration of_  
+| _the Texas Judicial System on a monthly basis._  
+|  _(f)_ _____A written report submitted to a magistrate under_  
+| _Subsection (a)(1)(B) is confidential and not subject to disclosure_  
+| _under Chapter 552, Government Code, but may be used or disclosed as_  
+| _provided by this article._  
+|  SECTION 3. Articles 17.032(b) and (c), Code of Criminal  
+| Procedure, as amended by Chapters 748 (S.B. 1326) and 950 (S.B.  
+| 1849), Acts of the 85th Legislature, Regular Session, 2017, are  
+| reenacted and amended to read as follows:  
+|  (b) Notwithstanding Article 17.03(b), or a bond schedule  
+| adopted or a standing order entered by a judge, a magistrate shall  
+| release a defendant on personal bond unless good cause is shown  
+| otherwise if:  
+|  (1) the defendant is not charged with and has not been  
+| previously convicted of a violent offense;  
+|  (2) the defendant is examined by the local mental  
+| health authority, local intellectual and developmental disability  
+| authority, or another qualified mental health or intellectual  
+| disability expert under Article 16.22;  
+|  (3) the applicable expert, in a written _report_  
+| [ ~~assessment~~ ] submitted to the magistrate under Article 16.22:  
+|  (A) concludes that the defendant has a mental  
+| illness or is a person with an intellectual disability and is  
+| nonetheless competent to stand trial; and  
+|  (B) recommends mental health treatment or  
+| intellectual disability services for the defendant, as applicable;  
+|  (4) the magistrate determines, in consultation with  
+| the local mental health authority or local intellectual and  
+| developmental disability authority, that appropriate  
+| community-based mental health or intellectual disability services  
+| for the defendant are available in accordance with Section 534.053  
+| or 534.103, Health and Safety Code, or through another mental  
+| health or intellectual disability services provider; and  
+|  (5) the magistrate finds, after considering all the  
+| circumstances, a pretrial risk assessment, if applicable, and any  
+| other credible information provided by the attorney representing  
+| the state or the defendant, that release on personal bond would  
+| reasonably ensure the defendant's appearance in court as required  
+| and the safety of the community and the victim of the alleged  
+| offense.  
+|  (c) The magistrate, unless good cause is shown for not  
+| requiring treatment _or services_ , shall require as a condition of  
+| release on personal bond under this article that the defendant  
+| submit to outpatient or inpatient mental health treatment or  
+| intellectual disability services as recommended by the local mental  
+| health authority, local intellectual and developmental disability  
+| authority, or another qualified mental health or intellectual  
+| disability expert if the defendant's:  
+|  (1) mental illness or intellectual disability is  
+| chronic in nature; or  
+|  (2) ability to function independently will continue to  
+| deteriorate if the defendant _does not receive the recommended_  
+| _treatment or services_ [ ~~is not treated~~ ].  
+|  SECTION 4. Section 511.0085(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The commission shall develop a comprehensive set of risk  
+| factors to use in assessing the overall risk level of each jail  
+| under the commission's jurisdiction.  The set of risk factors must  
+| include:  
+|  (1) a history of the jail's compliance with state law  
+| and commission rules, standards, and procedures;  
+|  (2) the population of the jail;  
+|  (3) the number and nature of complaints regarding the  
+| jail, including complaints regarding a violation of any required  
+| ratio of correctional officers to inmates;  
+|  (4) problems with the jail's internal grievance  
+| procedures;  
+|  (5) available mental and medical health reports  
+| relating to inmates in the jail, including reports relating to  
+| infectious disease or pregnant inmates;  
+|  (6) recent turnover among sheriffs and jail staff;  
+|  (7) inmate escapes from the jail;  
+|  (8) the number and nature of inmate deaths at the jail,  
+| including the results of the investigations of those deaths; and  
+|  (9) whether the jail is in compliance with commission  
+| rules, standards developed by the Texas Correctional Office on  
+| Offenders with Medical or Mental Impairments, and the requirements  
+| of Article 16.22, Code of Criminal Procedure, regarding screening  
+| and assessment protocols for the early identification of and  
+| reports concerning persons with mental illness _or an intellectual_  
+| _disability_.  
+|  SECTION 5. The heading to Section 614.0032, Health and  
+| Safety Code, is amended to read as follows:  
+|  Sec. 614.0032. SPECIAL DUTIES RELATED TO MEDICALLY  
+| RECOMMENDED SUPERVISION; DETERMINATIONS REGARDING _MENTAL ILLNESS_  
+| _OR INTELLECTUAL DISABILITY_ [ ~~COMPETENCY OR FITNESS TO PROCEED~~ ].  
+|  SECTION 6. Section 614.0032, Health and Safety Code, is  
+| amended by adding Subsection (c) to read as follows:  
+|  _(c)_ _____The office shall approve and make generally available in_  
+| _electronic format a standard form for use by a person providing a_  
+| _written report under Article 16.22(a)(1)(B), Code of Criminal_  
+| _Procedure._  
+|  SECTION 7. The changes in law made by this Act apply only to  
+| a defendant charged with an offense committed on or after the  
+| effective date of this Act. A defendant charged with an offense  
+| committed before the effective date of this Act is governed by the  
+| law in effect on the date the offense was committed, and the former  
+| law is continued in effect for that purpose. For purposes of this  
+| section, an offense was committed before the effective date of this  
+| Act if any element of the offense occurred before that date.  
+|  SECTION 8. To the extent of any conflict, this Act prevails  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,125 @@
+|  
+---|---  
+|  By: Darby | H.B. No. 2366  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of motor fuel quality and motor fuel  
+| metering devices.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.007(a), Agriculture Code, is amended  
+| to read as follows:  
+|  Sec. 13.007. CIVIL PENALTY; INJUNCTION. (a) A person who  
+| violates Subchapter B or C or a rule adopted under Subchapter B or C  
+| is liable to the state for a civil penalty not to exceed $500 for  
+| each violation. Each day a violation continues may be considered a  
+| separate violation for purposes of a civil penalty assessment _, up_  
+| _to a maximum penalty of $2,500_.  
+|  SECTION 2. Section 13.1016(c), Agriculture Code, is amended  
+| to read as follows:  
+|  (c) A registration under this section is valid for _two years_  
+| [ ~~one year~~ ] unless a different period _greater than two years_ is  
+| established by department rule. The registration must be renewed at  
+| or before the end of each registration period and the application  
+| for renewal must include documentation of compliance with Section  
+| 13.1015.  
+|  SECTION 3. Section 13.1017, Agriculture Code, is amended by  
+| adding Subsections (a-1) and (e) to read as follows:  
+|  _(a-1)_ _____A complaint under this section must include a receipt_  
+| _of the transaction that led to the complaint._  
+|  _(e) Notice required by this section must:_  
+|  _(1)_ _____be provided to the person who last registered the_  
+| _motor fuel metering device by electronic mail not more than 24 hours_  
+| _after the complaint is received; and_  
+|  _(2)_ _____identify the specific motor fuel metering device_  
+| _that led to the complaint._  
+|  SECTION 4. Section 13.1151, Agriculture Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____Fees collected under this section may be used only to_  
+| _administer and enforce motor fuel metering device inspections under_  
+| _Section 13.1015._  
+|  SECTION 5. Section 13.119, Agriculture Code, is amended to  
+| read as follows:  
+|  Sec. 13.119. REMOVAL OF REGISTRATION TAG. _(a)_ A person  
+| commits an offense if the person removes or obliterates a tag or  
+| device placed or required by the department to be placed on a  
+| weighing or measuring device under this chapter.  
+|  _(b)_ _____It is not an offense under this section if the person who_  
+| _owns or operates the motor fuel metering device:_  
+|  _(1) has a valid registration; and_  
+|  _(2)_ _____did not intentionally remove or obliterate the_  
+| _tag._  
+|  _(c)_ _____The department shall replace tags described by_  
+| _Subsection (b)._  
+|  SECTION 6. Section 17.072, Agriculture Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____Using fees collected under Section 17.104, the_  
+| _department shall pay all costs associated with testing under this_  
+| _section, including sampling costs, transportation costs, and_  
+| _shipping costs._  
+|  SECTION 7. Section 17.073, Agriculture Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____The department shall not issue an order under this_  
+| _section for a violation of motor fuel quality standards unless_  
+| _laboratory results confirm that motor fuel is out of compliance_  
+| _with this chapter._  
+|  SECTION 8. Section 17.102, Agriculture Code, is amended to  
+| read as follows:  
+|  Sec. 17.102. TESTING[ ~~; RULES RELATING TO TESTING~~  
+|  ~~FREQUENCY~~ ]. _(a)_ To determine compliance with the standards and  
+| enforce rules adopted under Sections 17.051, 17.052, 17.053,  
+| 17.055, and 17.103, [ ~~the commissioner or~~ ] an authorized  
+| representative of the commissioner may test any motor fuel sold in  
+| this state, _only in response to_ [ ~~regardless of the existence of~~] a  
+| complaint about the fuel. [ ~~This section does not prohibit~~ ~~~~ ~~the~~  
+|  ~~commissioner from adopting rules relating to the frequency of~~ ~~~~  
+|  ~~testing motor fuels.~~ ] In adopting [ ~~the~~ ] rules _under this
+section_ ,  
+| the commissioner shall consider:  
+|  (1) the nature of the violation;  
+|  (2) the history of past violations; [ ~~and~~ ]  
+|  (3) available funds under Section 17.104(d) _;_  
+|  _(4) distance to nearest fuel quality laboratory; and_  
+|  _(5) the octane of the fuel_.  
+|  _(b)_ _____The department shall contract with five or more_  
+| _laboratories in the state of Texas to conduct fuel quality testing._  
+|  _(c)_ _____The department shall not test motor fuel based on_  
+| _complaints made about fuel registered to be below 88 octanes under_  
+| _ASTM standards._  
+|  SECTION 9. Section 17.104, Agriculture Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____Notwithstanding any other law, the department may not in_  
+| _a state fiscal biennium increase a fee under Subsection (b) for a_  
+| _motor fuel metering device by an amount that exceeds 10 percent of_  
+| _the amount of the fee at the end of the preceding state fiscal_  
+| _biennium._  
+|  SECTION 10. Subchapter C, Chapter 17, Agriculture Code, is  
+| amended by adding Subsection 17.105 to read as follows:  
+|  _Section_ ___17.105._ _____COMPLAINTS REGARDING MOTOR FUEL QUALITY._  
+| _(a) The department shall require the complainant to provide a_  
+| _receipt of the transaction that led to the complaint._  
+|  _(b)_ _____The department shall notify the dealer by electronic_  
+| _mail within 24 hours of receipt a complaint._  
+|  _(c)_ _____In a notice required by Subsection (b), the department_  
+| _shall identify the specific motor fuel metering device that led to_  
+| _the complaint._  
+|  SECTION 11. Section 17.153, Agriculture Code, is amended to  
+| read as follows:  
+|  Sec. 17.153. CIVIL PENALTY. A dealer, distributor,  
+| supplier, wholesaler, or jobber who violates Section 17.051,  
+| 17.052, 17.053, 17.054, or 17.055 is liable to this state for a  
+| civil penalty of not less than $200 and not more than _$2,500_  
+| [ ~~$10,000~~ ].  
+|  SECTION 12. Section 17.155(a), Agriculture Code, is amended  
+| to read as follows:  
+|  Sec. 17.155. ADMINISTRATIVE PENALTY. (a) The department  
+| may impose an administrative penalty _not to exceed $2,500_ against a  
+| person regulated under this chapter who violates this chapter or a  
+| rule or order adopted under this chapter. An administrative penalty  
+| is imposed and collected in the manner provided by Section 12.020.  
+|  SECTION 13. This Act takes effect immediately if it  
+| receives a vote of two-thirds of all the members elected to each  
+| house, as provided by Section 39, Article III, Texas Constitution.  
+| If this Act does not receive the vote necessary for immediate  
+| effect, this Act takes effect September 1, 2019.
+

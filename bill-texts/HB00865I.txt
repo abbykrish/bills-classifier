@@ -1,0 +1,29 @@
+| 86R2568 BRG-D  
+---|---  
+|  By: Anchia | H.B. No. 865  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the maintenance of records concerning pipeline  
+| incidents.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter E, Chapter 121, Utilities Code, is  
+| amended by adding Section 121.216 to read as follows:  
+|  _Sec._ ___121.216._ _____PIPELINE INCIDENT RECORDS. (a) In this_  
+| _section:_  
+|  _(1)_ _____"Pipeline incident" means an event involving a_  
+| _release of gas from a pipeline that results in one or more of the_  
+| _following consequences:_  
+|  _(A)_ _____a death or a personal injury necessitating_  
+| _in-patient hospitalization;_  
+|  _(B)_ _____estimated property damage of $50,000 or more,_  
+| _including loss to the operator, loss to others, or both, but_  
+| _excluding cost of gas lost; or_  
+|  _(C)_ _____unintentional estimated gas loss of three_  
+| _million cubic feet or more._  
+|  _(2)_ _____"State record" has the meaning assigned by Section_  
+| _441.180, Government Code._  
+|  _(b)_ _____The railroad commission shall retain state records of_  
+| _the railroad commission regarding a pipeline incident perpetually._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

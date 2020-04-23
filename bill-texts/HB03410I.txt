@@ -1,0 +1,357 @@
+| 86R9963 KKR-F  
+---|---  
+|  By: Reynolds | H.B. No. 3410  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring certain employers to provide paid sick leave  
+| to employees; providing administrative and civil penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle D, Title 2, Labor Code, is amended by  
+| adding Chapter 83 to read as follows:  
+| _CHAPTER 83. EARNED PAID SICK LEAVE_  
+|  _Sec. 83.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Commission" means the Texas Workforce_  
+| _Commission._  
+|  _(2) "Employee" means a person employed by an employer._  
+|  _(3)_ _____"Employer" means a person who is engaged in an_  
+| _industry affecting commerce and who employs one or more employees._  
+|  _(4) "Family member" means:_  
+|  _(A) the employee's spouse;_  
+|  _(B)_ _____the employee's natural child, adopted child,_  
+| _stepchild, foster child, or legal ward;_  
+|  _(C)_ _____a child to whom the employee stands in loco_  
+| _parentis;_  
+|  _(D)_ _____a person to whom the employee stood in loco_  
+| _parentis when the person was a child;_  
+|  _(E)_ _____the employee's parent, foster parent,_  
+| _stepparent, adoptive parent, or legal guardian or conservator;_  
+|  _(F)_ _____a parent, foster parent, stepparent,_  
+| _adoptive parent, or legal guardian or conservator of the employee's_  
+| _spouse;_  
+|  _(G)_ _____the employee's grandparent or_  
+| _step-grandparent;_  
+|  _(H)_ _____the grandparent or step-grandparent of the_  
+| _employee's spouse;_  
+|  _(I)_ _____the employee's brother or sister of the whole_  
+| _or half blood or by adoption;_  
+|  _(J)_ _____a brother or sister of the whole or half blood_  
+| _or by adoption of the employee's spouse;_  
+|  _(K) the employee's stepbrother or stepsister;_  
+|  _(L)_ _____a stepbrother or stepsister of the employee's_  
+| _spouse;_  
+|  _(M) the employee's foster brother or sister;_  
+|  _(N)_ _____a foster brother or sister of the employee's_  
+| _spouse;_  
+|  _(O)_ _____the employee's grandchild or_  
+| _step-grandchild;_  
+|  _(P)_ _____a grandchild or step-grandchild of the_  
+| _employee's spouse;_  
+|  _(Q)_ _____a person for whom the employee is responsible_  
+| _for providing or arranging care; or_  
+|  _(R)_ _____a person related to the employee by_  
+| _consanguinity or affinity who lives in the employee's household._  
+|  _(5)_ _____"Family violence" has the meaning assigned by_  
+| _Section 71.004, Family Code._  
+|  _(6)_ _____"Harassment" means any conduct that constitutes an_  
+| _offense under Section 42.07, Penal Code._  
+|  _(7)_ _____"Health care professional"_ ___means an individual who_  
+| _is licensed, certified, or otherwise authorized to administer_  
+| _health care in this state._  
+|  _(8)_ _____"Household" has the meaning assigned by Section_  
+| _71.005, Family Code._  
+|  _(9)_ _____"Sexual abuse" means any conduct that constitutes_  
+| _an offense under Section 21.02, 21.11, or 25.02, Penal Code._  
+|  _(10)_ _____"Sexual assault" means any conduct that_  
+| _constitutes an offense under Section 22.011 or 22.021, Penal Code._  
+|  _(11)_ _____"Stalking" means any conduct that constitutes an_  
+| _offense under Section 42.072, Penal Code._  
+|  _Sec._ ___83.002._ _____APPLICABILITY OF CHAPTER. This chapter does_  
+| _not apply to:_  
+|  _(1)_ _____an employee who is entitled to unemployment_  
+| _benefits or allowances under the Railroad Unemployment Insurance_  
+| _Act (45 U.S.C. Section 351 et seq.); or_  
+|  _(2)_ _____an employer who is an agency of the federal_  
+| _government._  
+|  _Sec._ ___83.003._ _____PAID SICK LEAVE REQUIRED._ ___Each employer shall_  
+| _provide paid sick leave annually to each employee in this state_  
+| _under the terms of this chapter._  
+|  _Sec._ ___83.004._ _____PAID SICK LEAVE ACCRUAL AND CARRYOVER. (a)_ __  
+| _Paid sick leave under this chapter accrues beginning on the date of_  
+| _hire at a rate of one hour of paid sick leave for each 30 hours_  
+| _worked by an employee._  
+|  _(b)_ _____Each employee is entitled to carry over unused paid sick_  
+| _leave from the current calendar year to the following calendar year_  
+| _unless the employer elects to pay an employee for unused sick leave_  
+| _at the end of the calendar year and make paid sick leave available_  
+| _at the beginning of the next calendar year as provided by Section_  
+| _83.005(b)._  
+|  _(c)_ _____Sick leave hours carried over from a previous calendar_  
+| _year must be immediately available to the employee in the following_  
+| _calendar year._  
+|  _Sec._ ___83.005._ _____ENTITLEMENT TO USE PAID SICK LEAVE;_  
+| _LIMITATIONS. (a) An employee is entitled to use accrued paid sick_  
+| _leave under this chapter 60 calendar days after the date of hire,_  
+| _unless the employer agrees to an earlier date._  
+|  _(b)_ _____An employer may make immediately available to an_  
+| _employee at the beginning of a year, quarter, or other period the_  
+| _entire amount of paid sick leave that the employee is expected to_  
+| _accrue during the year, quarter, or other period._  
+|  _(c)_ _____At the employer's discretion, an employer may loan paid_  
+| _sick leave time to an employee in advance of accrual by the_  
+| _employee._  
+|  _(d)_ _____Unless an employee policy or collective bargaining_  
+| _agreement provides for the payment of accrued fringe benefits on_  
+| _termination, an employee is not entitled to payment of unused_  
+| _accrued paid sick leave under this chapter on termination of_  
+| _employment._  
+|  _Sec._ ___83.006._ _____EMPLOYER COMPLIANCE._ ___An employer is_  
+| _considered to be in compliance with this chapter if the employer_  
+| _offers one or more other types of paid leave that:_  
+|  _(1)_ _____may be used for the purposes described by this_  
+| _chapter; and_  
+|  _(2)_ _____is accrued at a rate equal to or greater than the_  
+| _rate described by Section 83.004._  
+|  _Sec._ ___83.007._ _____PAY RATE FOR SICK LEAVE. (a)_ ___Each employer_  
+| _shall pay each employee for paid sick leave time taken at a pay rate_  
+| _equal to the normal hourly wage for that employee._  
+|  _(b)_ _____For purposes of Subsection (a) and Section 83.004, an_  
+| _employee who is exempt from the overtime requirements under the_  
+| _federal Fair Labor Standards Act (29 U.S.C. 213(a)(1)), is presumed_  
+| _to work 40 hours each week unless the employee's regular workweek is_  
+| _less than 40 hours._  
+|  _Sec._ ___83.008._ _____USE OF PAID SICK LEAVE._ ___(a)_ ___An employee
+may_  
+| _use paid sick leave accrued under this chapter for:_  
+|  _(1)_ _____the employee's mental or physical illness, injury,_  
+| _or health condition;_  
+|  _(2)_ _____the medical diagnosis, care, or treatment of the_  
+| _employee's mental or physical illness, injury, or health condition;_  
+|  _(3) preventative medical care for the employee;_  
+|  _(4)_ _____the employee's family member's mental or physical_  
+| _illness, injury, or health condition;_  
+|  _(5)_ _____the medical diagnosis, care, or treatment of the_  
+| _employee's family member's mental or physical illness, injury, or_  
+| _health condition; or_  
+|  _(6)_ _____preventative medical care for the employee's_  
+| _family member._  
+|  _(b)_ _____An employee who is or whose family member is a victim of_  
+| _family violence, sexual assault, sexual abuse, stalking, or_  
+| _harassment may use paid sick leave accrued under this chapter:_  
+|  _(1)_ _____for medical care or psychological or other_  
+| _counseling for physical or psychological injury or disability;_  
+|  _(2)_ _____to obtain services from a victim services_  
+| _organization;_  
+|  _(3)_ _____to relocate due to the family violence, sexual_  
+| _assault, sexual abuse, stalking, or harassment; or_  
+|  _(4)_ _____to participate in a legal proceeding or_  
+| _court-ordered requirement relating to the family violence, sexual_  
+| _assault, sexual abuse, stalking, or harassment._  
+|  _(c)_ _____An employee may use paid sick leave to attend a meeting_  
+| _at a child family member's school._  
+|  _(d)_ _____An employee may use paid sick leave while the employee's_  
+| _place of business or the school or child care facility of the_  
+| _employee's child family member is closed due to a public health_  
+| _emergency._  
+|  _(e)_ _____An employee may not use paid sick leave in increments of_  
+| _less than one hour._  
+|  _(f)_ _____An employer may not require an employee to find another_  
+| _employee to work during the time the employee intends to use paid_  
+| _sick leave as a condition of using paid sick leave._  
+|  _Sec._ ___83.009._ _____NOTICE TO EMPLOYER. (a)_ ___If an employee's need_  
+| _to use paid sick leave under this chapter is foreseeable, an_  
+| _employer may require advance notice of the intention to use paid_  
+| _sick leave._  
+|  _(b)_ _____If an employee's need for paid sick leave is not_  
+| _foreseeable, an employer may require the employee to give notice of_  
+| _the intention to use paid sick leave under this chapter as soon as_  
+| _practicable._  
+|  _Sec._ ___83.010._ _____EMPLOYER RECORDS. An employer shall retain_  
+| _records that document the amount of paid sick leave accrued and_  
+| _taken by each employee. The records must be maintained for at least_  
+| _three years._  
+|  _Sec._ ___83.011._ _____DOCUMENTATION. (a)_ ___For paid sick leave of_  
+| _three or more consecutive days, an employer may require reasonable_  
+| _documentation that the leave is being taken for a purpose permitted_  
+| _under this chapter._  
+|  _(b)_ _____If paid sick leave is taken for a reason described by_  
+| _Section 83.008(a), documentation signed by a health care provider_  
+| _who is treating the employee or the employee's family member_  
+| _indicating the need for the number of days of the leave is_  
+| _considered to be reasonable documentation._ ___An employer may not_  
+| _require that the documentation explain the nature of the illness,_  
+| _injury, or health condition._  
+|  _(c)_ _____If paid sick leave is taken for a reason described by_  
+| _Section 83.008(b), reasonable documentation includes:_  
+|  _(1) a copy of a court document;_  
+|  _(2)_ _____an incident report or other record maintained by a_  
+| _law enforcement agency or official; or_  
+|  _(3)_ _____documentation from a victim's assistance counselor_  
+| _from a state or local agency or other entity._  
+|  _(d)_ _____An employer may not require the documentation under_  
+| _Subsection (c) to include details of the family violence, sexual_  
+| _assault, sexual abuse, stalking, or harassment, including any_  
+| _references to specific acts._  
+|  _(e)_ _____Documentation and information provided to an employer_  
+| _is confidential._  
+|  _(f)_ _____If an employer requires documentation under this_  
+| _section, the employer is responsible for the cost of obtaining_  
+| _copies of that documentation._  
+|  _Sec._ ___83.012._ _____NOTICE TO EMPLOYEES._ ___(a)_ ___Each employer_  
+| _subject to this chapter shall, at the time of hiring, provide notice_  
+| _in both English and Spanish to each employee:_  
+|  _(1)_ _____of the employee's entitlement to paid sick leave,_  
+| _the amount of paid sick leave provided to employees, and the terms_  
+| _under which leave may be used under this chapter;_  
+|  _(2)_ _____that retaliation by the employer against the_  
+| _employee for requesting or using paid sick leave to which the_  
+| _employee is entitled is prohibited; and_  
+|  _(3)_ _____that the employee has a right to file a complaint_  
+| _with the commission or bring a civil action for damages for any_  
+| _violation of this chapter._  
+|  _(b)_ _____An employer may comply with this section by displaying a_  
+| _poster in a conspicuous place, accessible to employees, at the_  
+| _employer's place of business that contains in both English and_  
+| _Spanish the information required by this section._  
+|  _(c)_ _____The notice under this section must also be provided in a_  
+| _language other than English or Spanish if that language is the first_  
+| _language spoken by at least 30 percent of the employer's workforce._  
+|  _(d)_ _____The commission by rule shall prescribe the form and_  
+| _content of the notice required under this section._  
+|  _(e)_ _____The commission may adopt rules to establish additional_  
+| _requirements concerning the means by which employers provide notice_  
+| _required under this section._  
+|  _Sec._ ___83.013._ _____BREAK IN SERVICE. (a)_ ___Termination of an_  
+| _employee's employment by an employer, regardless of whether_  
+| _voluntary or involuntary, is considered a break in service for_  
+| _purposes of this chapter._  
+|  _(b)_ _____An employee who is subsequently rehired by the employer_  
+| _following a break in service:_  
+|  _(1)_ _____begins to accrue paid sick leave under this_  
+| _chapter; and_  
+|  _(2)_ _____is not entitled to any unused hours of paid sick_  
+| _leave that had accrued before the employee's break in service,_  
+| _unless the employee is rehired within 30 days of separation or the_  
+| _employer agrees to reinstate some or all of the employee's_  
+| _previously accrued paid sick leave._  
+|  _Sec._ ___83.014._ _____TRANSFER OF EMPLOYEE. (a)_ ___The transfer of an_  
+| _employee to a separate division, entity, or location of the same_  
+| _employer is not considered to be a break in service for purposes of_  
+| _this chapter._  
+|  _(b)_ _____Following a transfer described by Subsection (a), the_  
+| _transferred employee is entitled to:_  
+|  _(1)_ _____retain all accrued paid sick leave under this_  
+| _chapter; and_  
+|  _(2)_ _____immediately access the retained paid sick leave_  
+| _time without any waiting period._  
+|  _Sec._ ___83.015._ _____SUCCESSOR EMPLOYER. If an employer succeeds_  
+| _or takes the place of an existing employer, employees of the former_  
+| _employer who are employed by the successor are entitled to:_  
+|  _(1)_ _____retain all accrued paid sick leave under this_  
+| _chapter; and_  
+|  _(2)_ _____immediately access the retained paid sick leave_  
+| _time without any waiting period._  
+|  _Sec._ ___83.016._ _____LIMITATIONS OF CHAPTER._ ___This chapter does_  
+| _not:_  
+|  _(1)_ _____prevent an employer from providing more paid sick_  
+| _leave than is required under this chapter;_  
+|  _(2)_ _____prohibit an employer that provides paid leave in_  
+| _addition to the paid sick leave required under this chapter from_  
+| _restricting the purposes for which an employee may take that_  
+| _additional leave; or_  
+|  _(3)_ _____diminish any rights provided to any employee under_  
+| _a collective bargaining agreement._  
+|  _Sec._ ___83.017._ _____COLLECTIVE BARGAINING AGREEMENTS. A_  
+| _collective bargaining agreement may waive the requirements of this_  
+| _chapter by clear and unambiguous language within the agreement._  
+|  _Sec._ ___83.018._ _____RETALIATION PROHIBITED._ ___An employer may not_  
+| _take retaliatory personnel action or otherwise discriminate_  
+| _against an employee because the employee:_  
+|  _(1)_ _____requests or uses paid sick leave in accordance_  
+| _with this chapter; or_  
+|  _(2)_ _____files a complaint with the commission alleging the_  
+| _employer's violation of this chapter._  
+|  _Sec._ ___83.019._ _____COMPLAINT; HEARING; PENALTY. (a)_ ___Any_  
+| _employee aggrieved by a violation of this chapter may file a claim_  
+| _with the commission in the manner prescribed by Subchapter D,_  
+| _Chapter 61._  
+|  _(b)_ _____On receipt of a complaint, the commission shall_  
+| _investigate and dispose of the complaint in the same manner as a_  
+| _wage claim under Subchapter D, Chapter 61._  
+|  _(c)_ _____An employer who is found by the commission, by a_  
+| _preponderance of the evidence, to have violated a provision under_  
+| _this chapter is liable to the commission for an administrative_  
+| _penalty._  
+|  _(d)_ _____The commission may award the employee all appropriate_  
+| _relief, including payment for used paid sick leave, rehiring or_  
+| _reinstatement to the employee's previous job, payment of back_  
+| _wages, and reestablishment of employee benefits for which the_  
+| _employee otherwise would have been eligible if the employee had not_  
+| _been subject to retaliatory personnel action or other_  
+| _discrimination._  
+|  _(e)_ _____A party may appeal a final decision of the commission by_  
+| _filing suit in district court._  
+|  _Sec._ ___83.020._ _____CIVIL PENALTY._ ___An employer who wilfully_  
+| _violates this chapter is liable for a civil penalty not to exceed_  
+| _$100 for each violation. The attorney general may bring an action_  
+| _to collect a civil penalty under this chapter. Civil penalties_  
+| _assessed under this section shall be deposited in the general_  
+| _revenue fund._  
+|  _Sec._ ___83.021._ _____CIVIL ACTION BY EMPLOYEE. (a) An employee_  
+| _aggrieved by a violation of this chapter may bring a civil action to_  
+| _enforce rights protected by this chapter, including an action for_  
+| _appropriate injunctive relief, in the district court in the county_  
+| _in which the alleged violation occurred or in which the alleged_  
+| _violator's residence or principal place of business is located._  
+|  _(b)_ _____An action under this section must be brought not later_  
+| _than the second anniversary of the date of the violation._  
+|  _(c)_ _____The employer of an employee who prevails in a civil_  
+| _action under this section is liable to the affected employee for_  
+| _damages equal to the amount of any wages, salary, employment_  
+| _benefits, or other compensation denied or lost to the employee by_  
+| _reason of the violation or, if wages, salary, employment benefits,_  
+| _or other compensation has not been denied or lost, any actual_  
+| _monetary losses sustained by the employee as a direct result of the_  
+| _violation._  
+|  _(d)_ _____An employer described by Subsection (c) is also liable_  
+| _for equitable relief as appropriate, including reinstatement and_  
+| _promotion._  
+|  _(e)_ _____In addition to any judgment awarded to an employee, the_  
+| _court may require the employer to pay reasonable attorney's fees,_  
+| _reasonable expert witness fees, and other costs._  
+|  _Sec._ ___83.022._ _____INFORMATION FROM AND OUTREACH BY COMMISSION._  
+| _(a) The commission shall make available to the public on the_  
+| _commission's Internet website information regarding:_  
+|  _(1)_ _____the requirements of and the rights and remedies_  
+| _under this chapter; and_  
+|  _(2)_ _____best practices for employers with respect to paid_  
+| _sick leave._  
+|  _(b)_ _____The commission shall develop a pamphlet containing the_  
+| _information provided under Subsection (a) and make the pamphlet_  
+| _available at no cost for distribution at child care facilities,_  
+| _health care facilities, family violence shelters, and other_  
+| _community centers._  
+|  _(c)_ _____The commission shall make the information under_  
+| _Subsections (a) and (b) available in both English and Spanish._  
+|  _(d)_ _____The commission shall conduct additional public outreach_  
+| _efforts to inform employees and the public about this chapter._  
+|  SECTION 2. (a) The change in law made by this Act applies to  
+| an employee hired on or after January 1, 2020. For an employee  
+| hired before January 1, 2020, paid sick leave under Chapter 83,  
+| Labor Code, as added by this Act, begins to accrue on that date, and  
+| the employee may begin to use the paid sick leave 90 calendar days  
+| after that date, unless the employer agrees to an earlier date.  
+|  (b) Chapter 83, Labor Code, as added by this Act, does not  
+| preempt or override the terms of any collective bargaining  
+| agreement effective before January 1, 2020.  
+|  SECTION 3. Not later than December 1, 2019, the Texas  
+| Workforce Commission shall:  
+|  (1) prescribe the form and content of the notice  
+| required by Section 83.012(b), Labor Code, as added by this Act;  
+|  (2) post on the commission's Internet website the  
+| information required by Section 83.022(a), Labor Code, as added by  
+| this Act; and  
+|  (3) adopt rules necessary to implement Chapter 83,  
+| Labor Code, as added by this Act.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

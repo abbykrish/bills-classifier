@@ -1,0 +1,74 @@
+| 86R11821 ADM-D  
+---|---  
+|  By: Reynolds | H.B. No. 2972  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the pretrial release of a defendant.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 17, Code of Criminal Procedure, is  
+| amended by adding Articles 17.027 and 17.028 to read as follows:  
+|  _Art._ ___17.027._ _____PRETRIAL RISK ASSESSMENT. (a) A magistrate_  
+| _considering the release on bail of a defendant charged with an_  
+| _offense punishable as a Class B misdemeanor or any higher category_  
+| _of offense shall use the results of a pretrial risk assessment of_  
+| _the defendant in making a pretrial release decision under Article_  
+| _17.028._  
+|  _(b)_ _____The risk assessment must be conducted using an_  
+| _instrument that:_  
+|  _(1)_ _____is objective, validated for its intended use, and_  
+| _standardized;_  
+|  _(2) is based on an analysis of empirical data; and_  
+|  _(3)_ _____considers only risk factors relevant to the risk_  
+| _of:_  
+|  _(A)_ _____a defendant failing to appear in court as_  
+| _required; and_  
+|  _(B)_ _____danger to the community or the victim of the_  
+| _alleged offense as a result of the defendant's pretrial release._  
+|  _(c)_ _____The results of the risk assessment must be provided to_  
+| _the magistrate without unnecessary delay but not later than 48_  
+| _hours after the defendant's arrest._  
+|  _Art._ ___17.028._ _____PRETRIAL RELEASE DECISION. (a) Without_  
+| _unnecessary delay but not later than 48 hours after a defendant is_  
+| _arrested, a magistrate shall order, after considering all_  
+| _circumstances, the results of the pretrial risk assessment_  
+| _conducted under Article 17.027, and any credible information_  
+| _provided by the defendant or the attorney representing the state,_  
+| _that the defendant be:_  
+|  _(1) released on personal bond without conditions;_  
+|  _(2)_ _____released on personal bond with any condition the_  
+| _magistrate determines necessary;_  
+|  _(3)_ _____released on a monetary bail bond without_  
+| _conditions;_  
+|  _(4)_ _____released on a monetary bail bond with any_  
+| _condition the magistrate determines necessary; or_  
+|  _(5)_ _____denied pretrial release in accordance with this_  
+| _chapter._  
+|  _(b)_ _____In making a pretrial release decision under this_  
+| _article, the magistrate shall impose, as applicable, the least_  
+| _restrictive conditions and the minimum amount or type of bail_  
+| _necessary to reasonably ensure the defendant's appearance in court_  
+| _as required and the safety of the community and the victim of the_  
+| _alleged offense._  
+|  _(c)_ _____A defendant charged with only one or more nonviolent_  
+| _offenses shall be released on personal bond under Subsection (a)_  
+| _unless the magistrate determines by clear and convincing evidence_  
+| _that release on personal bond with or without conditions is_  
+| _insufficient to reasonably ensure the defendant's appearance in_  
+| _court and the safety of the community and victim as described by_  
+| _Subsection (b)._  
+|  _(d)_ _____A magistrate who denies a defendant's pretrial release_  
+| _on personal bond shall, as soon as practicable but not later than 24_  
+| _hours after denying the release on personal bond, issue a written_  
+| _order of denial that includes findings of fact and a statement of_  
+| _the magistrate's reasons for denying the release on personal bond._  
+|  _(e)_ _____A magistrate may not require a defendant to provide a_  
+| _monetary bail bond for the sole purpose of preventing the_  
+| _defendant's pretrial release._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a person who is arrested on or after January 1, 2020. A person  
+| arrested before January 1, 2020, is governed by the law in effect on  
+| the date the person was arrested, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

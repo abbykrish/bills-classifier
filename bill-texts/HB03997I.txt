@@ -1,0 +1,109 @@
+| 86R14275 SCL-D  
+---|---  
+|  By: Sheffield | H.B. No. 3997  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the liability of a rural or community hospital for a  
+| health care liability claim.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 74.001, Civil Practice and Remedies  
+| Code, is amended by adding Subdivision (26) to read as follows:  
+|  _(26)_ _____"Rural or community hospital" means a hospital_  
+| _that:_  
+|  _(A)_ _____is located in a county with a population of_  
+| _60,000 or less;_  
+|  _(B)_ _____is designated by the Centers for Medicare and_  
+| _Medicaid Services as a critical access hospital, sole community_  
+| _hospital, or rural referral center and is not located in an area_  
+| _defined by the United States Office of Management and Budget as a_  
+| _metropolitan statistical area; or_  
+|  _(C) meets all of the following criteria:_  
+|  _(i) has 100 or fewer beds;_  
+|  _(ii)_ _____is designated by the Centers for_  
+| _Medicare and Medicaid Services as a critical access hospital, sole_  
+| _community hospital, or rural referral center; and_  
+|  _(iii)_ _____is located in an area defined by the_  
+| _United States Office of Management and Budget as a metropolitan_  
+| _statistical area._  
+|  SECTION 2. Section 74.301, Civil Practice and Remedies  
+| Code, is amended by adding Subsection (d) to read as follows:  
+|  _(d)_ _____Notwithstanding the other provisions of this section,_  
+| _in an action on a health care liability claim where final judgment_  
+| _is rendered against a rural or community hospital, the limit of_  
+| _civil liability for noneconomic damages of the hospital, inclusive_  
+| _of all persons and entities for which vicarious liability theories_  
+| _may apply, is limited to an amount not to exceed $100,000,_  
+| _regardless of the number of defendants against whom the claim is_  
+| _asserted or the number of separate causes of action on which the_  
+| _claim is based._  
+|  SECTION 3. Section 74.302(a), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (a) In the event that Section 74.301 is stricken from this  
+| subchapter or is otherwise to any extent invalidated by a method  
+| other than through legislative means, the following, subject to the  
+| provisions of this section, shall become effective:  
+|  (1) In an action on a health care liability claim where  
+| final judgment is rendered against a physician or health care  
+| provider other than a health care institution, the limit of civil  
+| liability for noneconomic damages of the physician or health care  
+| provider other than a health care institution, inclusive of all  
+| persons and entities for which vicarious liability theories may  
+| apply, shall be limited to an amount not to exceed $250,000 for each  
+| claimant, regardless of the number of defendant physicians or  
+| health care providers other than a health care institution against  
+| whom the claim is asserted or the number of separate causes of  
+| action on which the claim is based.  
+|  (2) In an action on a health care liability claim where  
+| final judgment is rendered against a single health care  
+| institution, the limit of civil liability for noneconomic damages  
+| inclusive of all persons and entities for which vicarious liability  
+| theories may apply, shall be limited to an amount not to exceed  
+| $250,000 for each claimant.  
+|  (3) In an action on a health care liability claim where  
+| final judgment is rendered against more than one health care  
+| institution, the limit of civil liability for noneconomic damages  
+| for each health care institution, inclusive of all persons and  
+| entities for which vicarious liability theories may apply, shall be  
+| limited to an amount not to exceed $250,000 for each claimant and  
+| the limit of civil liability for noneconomic damages for all health  
+| care institutions, inclusive of all persons and entities for which  
+| vicarious liability theories may apply, shall be limited to an  
+| amount not to exceed $500,000 for each claimant.  
+|  _(4)_ _____Notwithstanding Subdivisions (1), (2), and (3), in_  
+| _an action on a health care liability claim where final judgment is_  
+| _rendered against a rural or community hospital, the limit of civil_  
+| _liability for noneconomic damages of the hospital, inclusive of all_  
+| _persons and entities for which vicarious liability theories may_  
+| _apply, is limited to an amount not to exceed $100,000, regardless of_  
+| _the number of defendants against whom the claim is asserted or the_  
+| _number of separate causes of action on which the claim is based._  
+|  SECTION 4. Section 74.303, Civil Practice and Remedies  
+| Code, is amended by amending Subsections (a) and (c) and adding  
+| Subsection (a-1) to read as follows:  
+|  (a) _Except as provided by Subsection (a-1), in_ [ ~~In~~ ] a  
+| wrongful death or survival action on a health care liability claim  
+| where final judgment is rendered against a physician or health care  
+| provider, the limit of civil liability for all damages, including  
+| exemplary damages, shall be limited to an amount not to exceed  
+| $500,000 for each claimant, regardless of the number of defendant  
+| physicians or health care providers against whom the claim is  
+| asserted or the number of separate causes of action on which the  
+| claim is based.  
+|  _(a-1)_ _____In a wrongful death or survival action on a health_  
+| _care liability claim where final judgment is rendered against a_  
+| _rural or community hospital, the limit of civil liability for all_  
+| _damages, including exemplary damages, shall be limited to an amount_  
+| _not to exceed $100,000, regardless of the number of defendant_  
+| _physicians or health care providers against whom the claim is_  
+| _asserted or the number of separate causes of action on which the_  
+| _claim is based._  
+|  (c) Subsection (a) _or (a-1)_ does not apply to the amount of  
+| damages awarded on a health care liability claim for the expenses of  
+| necessary medical, hospital, and custodial care received before  
+| judgment or required in the future for treatment of the injury.  
+|  SECTION 5. Subchapter G, Chapter 74, Civil Practice and  
+| Remedies Code, as amended by this Act, applies only to a cause of  
+| action that accrues on or after the effective date of this Act.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

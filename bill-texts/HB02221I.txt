@@ -1,0 +1,92 @@
+|  
+---|---  
+|  By: Raymond | H.B. No. 2221  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a single Internet portal through which Medicaid  
+| providers may submit and receive information.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 533.0055, Government Code, is amended by  
+| amending Subsection (b) and adding Subsections (c), (d), and (e) to  
+| read as follows:  
+|  (b) The provider protection plan required under this  
+| section must provide for:  
+|  (1) prompt payment and proper reimbursement of  
+| providers by managed care organizations;  
+|  (2) prompt and accurate adjudication of claims  
+| through:  
+|  (A) provider education on the proper submission  
+| of clean claims and on appeals;  
+|  (B) acceptance of uniform forms, including HCFA  
+| Forms 1500 and UB-92 and subsequent versions of those forms,  
+| through an electronic portal; and  
+|  (C) the establishment of standards for claims  
+| payments in accordance with a provider's contract;  
+|  (3) adequate and clearly defined provider network  
+| standards that are specific to provider type, including physicians,  
+| general acute care facilities, and other provider types defined in  
+| the commission's network adequacy standards in effect on January 1,  
+| 2013, and that ensure choice among multiple providers to the  
+| greatest extent possible;  
+|  (4) a prompt credentialing process for providers;  
+|  (5) uniform efficiency standards and requirements for  
+| managed care organizations for the submission and tracking of  
+| preauthorization requests for services provided under Medicaid;  
+|  (6) establishment _and maintenance_ of an [ ~~electronic~~  
+|  ~~process, including the use of an~~ ] Internet portal[ ~~,~~ ] through
+which  
+| providers in any managed care organization's provider network may:  
+|  (A) submit electronic claims, prior  
+| authorization requests, claims appeals and reconsiderations,  
+| clinical data, and other documentation that the managed care  
+| organization requests for prior authorization and claims  
+| processing; and  
+|  (B) obtain electronic remittance advice,  
+| explanation of benefits statements, and other standardized  
+| reports;  
+|  (7) the measurement of the rates of retention by  
+| managed care organizations of significant traditional providers;  
+|  (8) the creation of a work group to review and make  
+| recommendations to the commission concerning any requirement under  
+| this subsection for which immediate implementation is not feasible  
+| at the time the plan is otherwise implemented, including the  
+| required process for submission and acceptance of attachments for  
+| claims processing and prior authorization requests through _the_  
+| _Internet portal required by_ [ ~~an electronic process under~~ ]  
+| Subdivision (6) and, for any requirement that is not implemented  
+| immediately, recommendations regarding the expected:  
+|  (A) fiscal impact of implementing the  
+| requirement; and  
+|  (B) timeline for implementation of the  
+| requirement; and  
+|  (9) any other provision that the commission determines  
+| will ensure efficiency or reduce administrative burdens on  
+| providers participating in a Medicaid managed care model or  
+| arrangement.  
+|  _(c)_ _____The commission shall consolidate each electronic or_  
+| _Internet portal operated or maintained by the commission, including_  
+| _through a contract with a separate entity, that is used to receive_  
+| _and deliver requests and other information from and to Medicaid_  
+| _providers, including nursing facility providers participating in_  
+| _the STAR+PLUS Medicaid managed care program, into the single_  
+| _Internet portal required by Subsection (b)(6)._ __  
+| _The commission_  
+| _shall ensure the single Internet portal meets the requirements of a_  
+| _portal described by Sections 531.02411, 533.00251, 533.002553, and_  
+| _533.0071._  
+|  _(d)_ _____The commission may contract with a private or nonprofit_  
+| _entity to develop, operate, and maintain the single Internet portal_  
+| _required by Subsection (b)(6). The entity may not be affiliated_  
+| _with any specific managed care plan._  
+|  _(e)_ _____Notwithstanding any other law, the executive_  
+| _commissioner by rule shall require each managed care organization_  
+| _to allow providers in the organization's provider network to use_  
+| _the single Internet portal required by Subsection (b)(6)._  
+|  SECTION 2. Not later than January 1, 2021, the Health and  
+| Human Services Commission, or an entity with whom the commission  
+| contracts, shall develop and implement the single Internet portal  
+| required by Section 533.0055, Government Code, as amended by this  
+| Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,198 @@
+| 86R5506 CBH/JXC-F  
+---|---  
+|  By: Guillen | H.B. No. 2545  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to franchise tax, oil production tax, and gas production  
+| tax incentives for certain desalination facility operations.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 171.1011, Tax Code, is amended by adding  
+| Subsection (g-9) to read as follows:  
+|  _(g-9)_ _____A taxable entity that is a permit holder shall exclude_  
+| _from its total revenue, to the extent included under Subsection_  
+| _(c)(1)(A), (c)(2)(A), or (c)(3), any amount received by the entity_  
+| _from the sale of minerals or materials extracted from water by the_  
+| _desalination facility during the desalination process._ ___In this_  
+| _subsection, "desalination facility"_ ___and "permit holder"_ ___have the_  
+| _meanings assigned by Section 171.621._  
+|  SECTION 2. Chapter 171, Tax Code, is amended by adding  
+| Subchapter L-1 to read as follows:  
+| _SUBCHAPTER L-1. TAX CREDIT FOR OPERATION OF DESALINATION FACILITY_  
+|  _Sec. 171.621. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Commission" means the Texas Commission on_  
+| _Environmental Quality._  
+|  _(2)_ _____"Desalination facility" means a facility that_  
+| _treats source water that has a high total dissolved solids_  
+| _concentration, such as water produced in oil or gas drilling,_  
+| _completion, flowback, or production, to produce fresh water of_  
+| _usable quality for public, agricultural, industrial,_  
+| _environmental, and other beneficial uses._  
+|  _(3)_ _____"Permit holder" means a person who operates a_  
+| _desalination facility and has all state and federal permits_  
+| _necessary to operate the facility._  
+|  _Sec._ ___171.622._ _____ELIGIBILITY FOR CREDIT. A permit holder that_  
+| _produces fresh water of usable quality at a desalination facility_  
+| _is eligible for a credit in the amount and under the conditions and_  
+| _limitations provided by this subchapter against the tax imposed_  
+| _under this chapter._  
+|  _Sec._ ___171.623._ _____AMOUNT OF CREDIT; LIMITATIONS. (a) Except as_  
+| _provided by Subsection (d), the total amount of the credit under_  
+| _this subchapter for the period on which a report is based is equal_  
+| _to:_  
+|  _(1)_ _____$1 for each 1,000 gallons of source water treated_  
+| _by the permit holder during the period on which the report is based_  
+| _if:_  
+|  _(A)_ _____the source water has a total dissolved solids_  
+| _concentration of more than 3,000 milligrams per liter; and_  
+|  _(B)_ _____the resulting fresh water is put to_  
+| _beneficial use in this state;_  
+|  _(2)_ _____$5 for each 1,000 gallons of source water treated_  
+| _by the permit holder during the period on which the report is based_  
+| _if:_  
+|  _(A)_ _____at least 50 percent of the source water has a_  
+| _total dissolved solids concentration of more than 70,000 milligrams_  
+| _per liter; and_  
+|  _(B)_ _____the resulting fresh water is put to_  
+| _beneficial use in this state; and_  
+|  _(3)_ _____$17 for each 1,000 gallons of source water treated_  
+| _by the permit holder during the period on which the report is based_  
+| _if:_  
+|  _(A)_ _____at least 50 percent of the source water has a_  
+| _total dissolved solids concentration of more than 90,000 milligrams_  
+| _per liter; and_  
+|  _(B)_ _____the resulting fresh water is put to_  
+| _beneficial use in this state._  
+|  _(b)_ _____The permit holder may treat source water with differing_  
+| _total dissolved solids concentrations during the period on which_  
+| _the report is based._ ___The permit holder is entitled to prorate the_  
+| _credit by the duration of processing time associated with each_  
+| _concentration during the period._  
+|  _(c)_ _____Treated water may be counted only once in determining_  
+| _the amount of the credit._ ___Only one permit holder may claim a credit_  
+| _for the same treated water._  
+|  _(d)_ _____The total credit claimed for a report, including the_  
+| _amount of any carryforward under Section 171.624, may not exceed_  
+| _the amount of franchise tax due for the report after all other_  
+| _applicable tax credits._  
+|  _Sec._ ___171.624._ _____CARRYFORWARD. (a) If a permit holder is_  
+| _eligible for a credit that exceeds the limitation under Section_  
+| _171.623(d), the permit holder may carry the unused credit forward_  
+| _for not more than five consecutive reports._  
+|  _(b)_ _____A carryforward is considered the remaining portion of a_  
+| _credit that cannot be claimed in the current year because of the_  
+| _limitation under Section 171.623(d). A carryforward is added to_  
+| _the next year's installment of the credit in determining the_  
+| _limitation for that year. A credit carryforward from a previous_  
+| _report is considered to be used before the current year_  
+| _installment._  
+|  _Sec._ ___171.625._ _____APPLICATION. (a) A permit holder must apply_  
+| _for a credit under this subchapter on or with the report for the_  
+| _period for which the credit is claimed._  
+|  _(b)_ _____A permit holder shall file with a report on which the_  
+| _credit is claimed a copy of each relevant certificate issued by the_  
+| _commission under Section 171.626 and any other information required_  
+| _by the comptroller to sufficiently demonstrate that the permit_  
+| _holder is eligible for the credit and the amount of the credit._  
+|  _(c)_ _____The burden of establishing eligibility for and the_  
+| _amount of the credit is on the permit holder._  
+|  _Sec._ ___171.626._ _____MONTHLY STATEMENT; CERTIFICATION. (a)_ ___To be_  
+| _eligible for a credit under this subchapter, a permit holder must_  
+| _submit to the commission monthly statements that include, for the_  
+| _preceding month:_  
+|  _(1)_ _____the metered volume in gallons of source water_  
+| _treated by the permit holder;_  
+|  _(2)_ _____the total dissolved solids concentration of the_  
+| _source water, distinguished according to the concentrations_  
+| _described by Section 171.623(a);_  
+|  _(3)_ _____the duration of processing time associated with_  
+| _each concentration described by Section 171.623(a); and_  
+|  _(4)_ _____the total dissolved solids concentration of the_  
+| _resulting fresh water._  
+|  _(b)_ _____To be eligible for the credit under this subchapter, the_  
+| _permit holder must apply to the commission for certification that:_  
+|  _(1)_ _____the permit holder has, during the reporting_  
+| _period, treated source water in an amount and with a total dissolved_  
+| _solids concentration that qualify for a credit under Section_  
+| _171.623; and_  
+|  _(2)_ _____the resulting fresh water was put to beneficial_  
+| _use in this state._  
+|  _(c)_ _____The permit holder shall include with the certificate_  
+| _application any information the commission determines is necessary_  
+| _to certify eligibility for the credit and the amount of the credit,_  
+| _including information sufficient to demonstrate that:_  
+|  _(1)_ _____the permit holder has all state and federal_  
+| _permits necessary to operate the desalination facility; and_  
+|  _(2)_ _____the resulting fresh water was put to beneficial_  
+| _use in this state._  
+|  _(d)_ _____If the permit holder provides sufficient information_  
+| _under this section, the commission shall issue a certificate of_  
+| _eligibility to the permit holder._  
+|  _(e)_ _____The commission shall immediately notify the comptroller_  
+| _in writing if the commission:_  
+|  _(1)_ _____determines that a permit holder that previously_  
+| _received a certificate under this section was not eligible for the_  
+| _certified credit or is no longer eligible for the certified credit;_  
+| _or_  
+|  _(2)_ _____takes any action or discovers any information that_  
+| _affects the eligibility of the permit holder for a credit._  
+|  _Sec._ ___171.627._ _____SALE OR ASSIGNMENT OF CREDIT; USE OF SOLD OR_  
+| _ASSIGNED CREDIT. (a) A permit holder that earns a credit under_  
+| _this subchapter may sell or assign all or part of the credit, and_  
+| _any entity to which all or part of the credit is sold or assigned may_  
+| _sell or assign all or part of the credit to another entity. There is_  
+| _no limit on the total number of transactions for the sale or_  
+| _assignment of all or part of the total credit authorized under this_  
+| _subchapter; however, collectively all transferred and retained_  
+| _credits claimed for a period are subject to the maximum total_  
+| _limitations provided by Subsection (b) and Section 171.623(d)._  
+|  _(b)_ _____Notwithstanding any other provision of this subchapter,_  
+| _an entity to which a credit or part of a credit was sold or assigned_  
+| _may apply all or part of that credit against the tax imposed by this_  
+| _chapter or against the tax imposed by Chapter 201 or 202._ ___The total_  
+| _credit claimed against the tax imposed by Chapter 201 or 202 may not_  
+| _exceed the amount of tax due for a report after all other applicable_  
+| _tax credits, but the entity may carry any unused credit forward_  
+| _until the credit is used._  
+|  _(c)_ _____An entity that sells or assigns a credit under this_  
+| _section and the entity to which the credit is sold or assigned shall_  
+| _jointly submit written notice of the sale or assignment to the_  
+| _comptroller on a form promulgated by the comptroller not later than_  
+| _the 30th day after the date of the sale or assignment. The notice_  
+| _must include:_  
+|  _(1) the date of the sale or assignment;_  
+|  _(2) the amount of the credit sold or assigned;_  
+|  _(3)_ _____the names and federal tax identification numbers_  
+| _of the entity that sold or assigned the credit or part of the credit_  
+| _and the entity to which the credit or part of the credit was sold or_  
+| _assigned;_  
+|  _(4)_ _____the amount of the credit owned by the selling or_  
+| _assigning entity before the sale or assignment, and the amount the_  
+| _selling or assigning entity retained, if any, after the sale or_  
+| _assignment; and_  
+|  _(5)_ _____for the entity to which the credit or part of the_  
+| _credit was sold or assigned, each type of tax liability against_  
+| _which the entity intends to apply all or part of the credit, and the_  
+| _amount or percentage that the entity intends to apply against each_  
+| _type._  
+|  _(d)_ _____The sale or assignment of a credit in accordance with_  
+| _this section does not extend the period for which a credit may be_  
+| _carried forward and does not increase the total amount of the credit_  
+| _that may be claimed._  
+|  _(e)_ _____Notwithstanding the requirements of this subchapter, a_  
+| _credit earned or purchased by, or assigned to, a partnership,_  
+| _limited liability company, S corporation, or other pass-through_  
+| _entity may be allocated to the partners, members, or shareholders_  
+| _of that entity and claimed under this subchapter or Chapter 201 or_  
+| _202 in accordance with the provisions of any agreement among the_  
+| _partners, members, or shareholders and without regard to the_  
+| _ownership interest of the partners, members, or shareholders in the_  
+| _desalination facility operated by the permit holder who earned the_  
+| _credit, provided that the entity that claims the credit must be_  
+| _subject to the tax imposed under this chapter or Chapter 201 or 202._  
+|  _Sec._ ___171.628._ _____RULES. The comptroller and commission shall_  
+| _adopt rules necessary to implement this subchapter._  
+|  SECTION 3. This Act applies only to a report originally due  
+| on or after January 1, 2020.  
+|  SECTION 4. This Act takes effect January 1, 2020.
+

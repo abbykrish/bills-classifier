@@ -1,0 +1,1189 @@
+| 86R1044 LED-F  
+---|---  
+|  By: Hinojosa | H.B. No. 4127  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Healthy Texas Program; authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 8, Insurance Code, is amended by adding  
+| Subtitle N to read as follows:  
+| _SUBTITLE N. HEALTHY TEXAS PROGRAM_  
+| _CHAPTER 1698. HEALTHY TEXAS PROGRAM_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 1698.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Affordable Care Act" means the Patient Protection_  
+| _and Affordable Care Act (Pub. L. No._ ___111-148), as amended by the_  
+| _Health Care and Education Reconciliation Act of 2010 (Pub. L._  
+| _No._ ___111-152)._  
+|  _(2) "Allied health practitioner":_  
+|  _(A) means a health care professional who:_  
+|  _(i)_ _____works to prevent disease transmission,_  
+| _or diagnose, treat, or rehabilitate individuals; and_  
+|  _(ii)_ _____delivers direct patient care,_  
+| _rehabilitation, treatment, diagnostics, and health improvement_  
+| _interventions to restore and maintain optimal physical, sensory,_  
+| _psychological, cognitive, and social functions; and_  
+|  _(B)_ _____includes technical and support staff,_  
+| _audiologists, occupational therapists, social workers, and_  
+| _radiographers._  
+|  _(3)_ _____"Board" means the Healthy Texas Board established_  
+| _under Section 1698.051._  
+|  _(4)_ _____"Care coordination" means the services described_  
+| _by Section 1698.152._  
+|  _(5)_ _____"Care coordinator" means a person approved by the_  
+| _board to provide care coordination._  
+|  _(6)_ _____"Child health plan program"_ ___means the state_  
+| _children's health insurance program established under Title XXI,_  
+| _Social Security Act (42 U.S.C. Section 1397aa et seq.), or the_  
+| _programs established under Chapters 62 and 63, Health and Safety_  
+| _Code, as appropriate._  
+|  _(7)_ _____"Essential community provider" means a person_  
+| _acting as a safety net clinic, safety net health care provider, or_  
+| _rural hospital._  
+|  _(8) "Federally matched public health program" means:_  
+|  _(A) Medicaid; or_  
+|  _(B) the child health plan program._  
+|  _(9)_ _____"Fund" means the healthy Texas fund established_  
+| _under Section 1698.252._  
+|  _(10)_ _____"Health benefit plan issuer" means an insurance_  
+| _company or health maintenance organization regulated by the_  
+| _department and authorized to issue a health insurance policy or_  
+| _other health benefit plan. The term includes:_  
+|  _(A)_ _____a stock life, health, or accident insurance_  
+| _company;_  
+|  _(B)_ _____a mutual life, health, or accident insurance_  
+| _company;_  
+|  _(C) a stock casualty insurance company;_  
+|  _(D) a mutual casualty insurance company;_  
+|  _(E) a Lloyd's plan;_  
+|  _(F) a reciprocal or interinsurance exchange;_  
+|  _(G) a fraternal benefit society;_  
+|  _(H) a stipulated premium company;_  
+|  _(I)_ _____a nonprofit hospital, medical, or dental_  
+| _service corporation, including a company subject to Chapter 842;_  
+| _and_  
+|  _(J) a health maintenance organization._  
+|  _(11)_ _____"Health care organization" means a_  
+| _not-for-profit or public organization that is approved by the board_  
+| _to provide health care services to members under the program._  
+|  _(12)_ _____"Health care provider" means a person that is_  
+| _licensed, certified, or otherwise authorized by the laws of this_  
+| _state to provide or render health care in the ordinary course of_  
+| _business or practice of a profession._  
+|  _(13)_ _____"Health care providers' representative" means a_  
+| _third party that is authorized by health care providers to_  
+| _negotiate on their behalf with the program related to terms and_  
+| _conditions affecting those health care providers._  
+|  _(14)_ _____"Health care service" means any health care_  
+| _service, including care coordination, that is included as a benefit_  
+| _under the program._  
+|  _(15)_ _____"Integrated health care delivery system" means a_  
+| _provider organization that is:_  
+|  _(A)_ _____fully integrated operationally and_  
+| _clinically to provide a broad range of health care services,_  
+| _including preventive care, prenatal and well-baby care,_  
+| _immunizations, screening diagnostics, emergency services, hospital_  
+| _and medical services, surgical services, and ancillary services;_  
+| _and_  
+|  _(B)_ _____compensated by the program using capitation_  
+| _or facility budgets for the provision of health care services._  
+|  _(16)_ _____"Long-term care services" has the meaning_  
+| _assigned by Section 22.0011, Human Resources Code._  
+|  _(17)_ _____"Medicaid"_ ___means the medical assistance program_  
+| _established under Title XIX, Social Security Act (42 U.S.C. Section_  
+| _1396 et seq.), or the medical assistance program established under_  
+| _Chapter 32, Human Resources Code, as appropriate._  
+|  _(18)_ _____"Medicare" means the Health Insurance for the_  
+| _Aged Act under Title XVIII of the Social Security Act (42 U.S.C._  
+| _Section 1395 et seq.)._  
+|  _(19)_ _____"Member" means an individual who is enrolled in_  
+| _the program._  
+|  _(20) "Out-of-state health care service":_  
+|  _(A) means a health care service that:_  
+|  _(i)_ _____is provided in person to a member while_  
+| _the member is physically located outside this state; and_  
+|  _(ii) is:_  
+|  _(a)_ _____medically necessary to be_  
+| _provided while the member is physically outside this state; or_  
+|  _(b)_ _____clinically appropriate and_  
+| _necessary and cannot be provided in this state because the health_  
+| _care service can be provided only by a particular health care_  
+| _provider physically located outside this state; and_  
+|  _(B)_ _____does not include a health care service_  
+| _provided to a member by a health care provider qualified under_  
+| _Section 1698.151 that is physically located outside this state._  
+|  _(21) "Participating provider" means:_  
+|  _(A)_ _____a person that is a health care provider_  
+| _qualified under Section 1698.151 that provides health care services_  
+| _to members under the program; or_  
+|  _(B) a health care organization._  
+|  _(22)_ _____"Prescription drug" has the meaning assigned by_  
+| _Section 551.003, Occupations Code._  
+|  _(23)_ _____"Program"_ ___means the Healthy Texas Program_  
+| _established under this chapter._  
+|  _(24)_ _____"Resident" means an individual whose primary_  
+| _place of residence is located in this state without regard to the_  
+| _individual's immigration status._  
+|  _Sec._ ___1698.002._ _____COVERAGE NOT EXCLUSIVE._ ___This chapter does_  
+| _not preempt a political subdivision from adopting additional health_  
+| _care coverage that provides additional protections and benefits to_  
+| _residents in the political subdivision's jurisdiction._  
+|  _Sec._ ___1698.003._ _____CONFLICT WITH OTHER LAW. (a)_ ___To the extent_  
+| _any provision of state law is inconsistent with this chapter, this_  
+| _chapter prevails, except as explicitly provided otherwise by this_  
+| _chapter._  
+|  _(b)_ _____This chapter may not be construed to alter in any way the_  
+| _professional practice of health care providers or licensure_  
+| _standards established under Title 3, Occupations Code._  
+| _SUBCHAPTER B. HEALTHY TEXAS BOARD_  
+|  _Sec._ ___1698.051._ _____HEALTHY TEXAS BOARD. The Healthy Texas_  
+| _Board is an agency of this state._  
+|  _Sec._ ___1698.052._ _____COMPOSITION OF BOARD. The board is composed_  
+| _of the following nine members:_  
+|  _(1) four appointed by the governor;_  
+|  _(2) two appointed by the lieutenant governor;_  
+|  _(3)_ _____two appointed by the speaker of the house of_  
+| _representatives; and_  
+|  _(4)_ _____the executive commissioner of the Health and Human_  
+| _Services Commission, or the executive commissioner's designee, who_  
+| _serves as a voting, ex officio member._  
+|  _Sec._ ___1698.053._ _____TERM; VACANCY. (a)_ ___Board members other than_  
+| _an ex officio member shall be appointed for a term of two years._  
+|  _(b)_ _____A vacancy must be filled for the unexpired term in the_  
+| _same manner as the original appointment._  
+|  _Sec._ ___1698.054._ _____BOARD MEMBER QUALIFICATIONS. (a)_ ___Each_  
+| _board member must:_  
+|  _(1) be a resident; and_  
+|  _(2)_ _____have demonstrated and acknowledged expertise in_  
+| _health care._  
+|  _(b)_ _____An individual may not be a board member unless the_  
+| _individual is a member of the program. This subsection does not_  
+| _apply to an ex officio member._  
+|  _(c)_ _____Of the eight board members appointed by the governor,_  
+| _lieutenant governor, and speaker of the house of representatives:_  
+|  _(1)_ _____at least one board member must represent a labor_  
+| _organization representing registered nurses;_  
+|  _(2)_ _____at least one board member must represent the_  
+| _general public;_  
+|  _(3)_ _____at least one board member must represent a labor_  
+| _organization; and_  
+|  _(4)_ _____at least one board member must represent the_  
+| _medical provider community._  
+|  _(d)_ _____The governor, lieutenant governor, and speaker of the_  
+| _house of representatives shall consider:_  
+|  _(1)_ _____the expertise of each board member and attempt to_  
+| _make appointments so that the board's composition reflects a_  
+| _diversity of expertise in the various aspects of health care; and_  
+|  _(2)_ _____the cultural, ethnic, and geographic diversity of_  
+| _the state and attempt to make appointments so that the board's_  
+| _composition reflects the communities of Texas._  
+|  _(e) Each board member shall:_  
+|  _(1)_ _____meet the requirements of this chapter, the_  
+| _Affordable Care Act, and all applicable state and federal laws and_  
+| _regulations;_  
+|  _(2)_ _____serve the public interest of the individuals,_  
+| _employers, and taxpayers seeking health care coverage through the_  
+| _program; and_  
+|  _(3)_ _____ensure the operational well-being and fiscal_  
+| _solvency of the program._  
+|  _(f) A board member or employee of the board may not:_  
+|  _(1)_ _____be employed by, a consultant to, a member of the_  
+| _board of directors of, affiliated with, or otherwise a_  
+| _representative of a health care provider, a health care facility,_  
+| _or a health clinic while serving on the board or as an employee of_  
+| _the board;_  
+|  _(2)_ _____be a member, a board member, or an employee of a_  
+| _trade association of health care facilities, health clinics, or_  
+| _health care providers while serving on the board or as an employee_  
+| _of the board; or_  
+|  _(3)_ _____be a health care provider unless the board member_  
+| _or employee receives no compensation for rendering services as a_  
+| _health care provider and does not have an ownership interest in a_  
+| _health care practice._  
+|  _Sec._ ___1698.055._ _____BOARD MEMBER COMPENSATION. A board member_  
+| _may not receive compensation but is entitled to reimbursement of_  
+| _the travel expenses incurred by the board member while conducting_  
+| _the business of the board, as provided in the General_  
+| _Appropriations Act._  
+|  _Sec._ ___1698.056._ _____CONFLICT OF INTEREST. (a) A board member_  
+| _may not make, participate in making, or in any way attempt to make_  
+| _use of the board member's official position to influence the making_  
+| _of a decision the board member knows or has reason to know will have_  
+| _a material financial effect, distinguishable from its effect on the_  
+| _public generally, on:_  
+|  _(1)_ _____the board member or a member of the board member's_  
+| _immediate family;_  
+|  _(2)_ _____a person or entity that was the source of a benefit_  
+| _or benefits aggregating $250 or more in value received by or_  
+| _promised to the board member within 12 months before the date the_  
+| _decision is made; or_  
+|  _(3)_ _____a business entity in which the board member is a_  
+| _director, officer, partner, trustee, or employee, or holds any_  
+| _position of management._  
+|  _(b)_ _____For purposes of Subsection (a), "benefit" has the_  
+| _meaning assigned by Section 36.01, Penal Code, but does not_  
+| _include:_  
+|  _(1) a gift; or_  
+|  _(2)_ _____a loan by a commercial lending institution in the_  
+| _regular course of business on terms available to the public._  
+|  _Sec._ ___1698.057._ _____IMMUNITY. The following persons are not_  
+| _liable, and a cause of action does not arise against any of the_  
+| _following persons, for a good faith act or omission in exercising_  
+| _powers and performing duties under this chapter:_  
+|  _(1) the board;_  
+|  _(2) a board member; or_  
+|  _(3) an officer or employee of the board._  
+|  _Sec._ ___1698.058._ _____BOARD ELECTION. The board annually shall_  
+| _elect a chairperson._  
+|  _Sec._ ___1698.059._ _____EXECUTIVE DIRECTOR. The board shall hire an_  
+| _executive director to organize, administer, and manage the program_  
+| _and the operations of the board. The executive director serves at_  
+| _the pleasure of the board._  
+|  _Sec._ ___1698.060._ _____OPEN MEETINGS; OPEN RECORDS. The board is_  
+| _subject to Chapters 551 and 552, Government Code._ ___The board may_  
+| _conduct a closed meeting to deliberate:_  
+|  _(1)_ _____business and financial issues relating to a_  
+| _contract being negotiated; or_  
+|  _(2) rates to be paid under the program._  
+|  _Sec._ ___1698.061._ _____RULES. (a)_ ___The board may adopt rules_  
+| _necessary to implement and enforce this chapter._  
+|  _(b)_ _____The board by rule shall set fees in amounts reasonable_  
+| _and necessary to implement this chapter._  
+|  _(c)_ _____The board by rule shall establish dispute resolution_  
+| _procedures to address member disputes._ ___Dispute resolution_  
+| _procedures must:_  
+|  _(1)_ _____include a patient advocate to assist members in_  
+| _the dispute resolution process; and_  
+|  _(2) provide for a member to withdraw from the program._  
+|  _(d)_ _____The board may adopt narrowly focused rules relating_  
+| _solely to health care organizations for the specific purpose of_  
+| _ensuring consistent compliance with this chapter._  
+|  _Sec._ ___1698.062._ _____ADVISORY COMMITTEE. (a)_ ___The executive_  
+| _commissioner of the Health and Human Services Commission shall_  
+| _establish an advisory committee to advise the board on all policy_  
+| _matters for the program._  
+|  _(b)_ _____The advisory committee is composed of 22 members_  
+| _appointed by the governor, lieutenant governor, or speaker of the_  
+| _house of representatives as follows:_  
+|  _(1) the governor shall appoint:_  
+|  _(A) one board-certified physician;_  
+|  _(B) one dentist;_  
+|  _(C) one representative of private hospitals;_  
+|  _(D) one representative of public hospitals;_  
+|  _(E)_ _____one representative of an integrated health_  
+| _care delivery system;_  
+|  _(F)_ _____two consumers of health care, one of whom is a_  
+| _person with a disability; and_  
+|  _(G)_ _____one representative of a business that employs_  
+| _fewer than 25 people;_  
+|  _(2) the lieutenant governor shall appoint:_  
+|  _(A) one board-certified physician;_  
+|  _(B) two registered nurses;_  
+|  _(C) one mental health care provider;_  
+|  _(D)_ _____one consumer of health care who is at least 65_  
+| _years of age;_  
+|  _(E)_ _____one representative of essential community_  
+| _providers; and_  
+|  _(F) one member of organized labor; and_  
+|  _(3) the speaker of the house shall appoint:_  
+|  _(A)_ _____two board-certified physicians, both of whom_  
+| _must be primary care providers;_  
+|  _(B)_ _____one allied health practitioner who holds a_  
+| _license to practice a health care profession;_  
+|  _(C) one pharmacist;_  
+|  _(D) one consumer of health care;_  
+|  _(E) one representative of organized labor; and_  
+|  _(F)_ _____one representative of a business that employs_  
+| _more than 250 people._  
+|  _(c)_ _____Of the board-certified physicians appointed under_  
+| _Subsections (b)(1)(A), (b)(2)(A), and (b)(3)(A), at least one must_  
+| _be a psychiatrist._  
+|  _(d)_ _____In making appointments under this section, the_  
+| _governor, lieutenant governor, and speaker of the house of_  
+| _representatives shall attempt to reflect the geographic and_  
+| _economic diversity of the state. Appointments to the committee_  
+| _shall be made without regard to the race, color, sex, religion, age,_  
+| _or national origin of the appointees._  
+|  _(e)_ _____A committee member serves a four-year term and may be_  
+| _reappointed._  
+|  _(f)_ _____The executive commissioner of the Health and Human_  
+| _Services Commission shall notify the appropriate appointing_  
+| _authority of any expected vacancies on the advisory committee. If a_  
+| _vacancy occurs on the committee, the appropriate appointing_  
+| _authority shall appoint a successor, in the same manner as the_  
+| _original appointment, to serve for the remainder of the unexpired_  
+| _term. The appropriate appointing authority shall appoint the_  
+| _successor not later than the 30th day after the date the vacancy_  
+| _occurs._  
+|  _(g) A committee member:_  
+|  _(1)_ _____may not receive compensation for serving on the_  
+| _committee;_  
+|  _(2)_ _____is entitled to reimbursement for travel expenses_  
+| _incurred by the committee member while conducting the business of_  
+| _the committee; and_  
+|  _(3)_ _____is entitled to the per diem provided by the General_  
+| _Appropriations Act for attending meetings of the committee._  
+|  _(h)_ _____The advisory committee shall meet at least six times per_  
+| _year in a place convenient to the public._  
+|  _(i)_ _____The advisory committee is subject to Chapters 551 and_  
+| _552, Government Code._  
+|  _(j)_ _____The advisory committee shall elect a chairperson who_  
+| _shall serve for two years and may be reelected for an additional two_  
+| _years._  
+|  _(k)_ _____To be eligible for appointment to the advisory_  
+| _committee, an individual must have worked in the field the_  
+| _individual represents on the committee for a period of at least two_  
+| _years before being appointed to the committee._  
+|  _(l)_ _____An advisory committee member or individual working with_  
+| _or for a committee member may not use for personal benefit any_  
+| _information that is filed with or obtained by the committee and that_  
+| _is not generally available to the public._  
+|  _(m)_ _____The board shall provide administrative support,_  
+| _including staff, for the advisory committee._  
+|  _(n)_ _____The advisory committee is not subject to Chapter 2110,_  
+| _Government Code._  
+|  _Sec._ ___1698.063._ _____POWERS AND DUTIES OF BOARD; HEALTHY TEXAS_  
+| _PROGRAM. (a)_ ___The board has all the powers and duties necessary to_  
+| _establish and implement the program._  
+|  _(b)_ _____The board shall, to the extent possible, organize,_  
+| _administer, and market the program and services as a comprehensive_  
+| _universal single-payer program under the name "Healthy Texas_  
+| _Program" or any other name the board adopts._ ___The program shall be_  
+| _administered regardless of the law or source in which the_  
+| _definition of a benefit is found, including, subject to the_  
+| _election of the retiree, retiree health benefits._  
+|  _(c)_ _____In implementing this chapter, the board shall avoid_  
+| _jeopardizing federal financial participation in the federally_  
+| _supported programs that are incorporated into the program._  
+|  _(d)_ _____The board shall promote public understanding and_  
+| _awareness of available benefits and programs._  
+|  _(e)_ _____The board may consider any matter necessary to implement_  
+| _this chapter and the purposes of this chapter._ ___The board does not_  
+| _have any executive, administrative, or appointive duties except as_  
+| _provided by this chapter or other law._  
+|  _(f)_ _____The board shall employ necessary staff and authorize_  
+| _reasonable expenditures, as necessary, from the fund to pay program_  
+| _expenses and to administer the program._  
+|  _(g) The board may:_  
+|  _(1) sue and be sued;_  
+|  _(2)_ _____receive and accept gifts, grants, or donations of_  
+| _money from any agency of the federal government, any agency of this_  
+| _state, or any municipality, county, or other political subdivision_  
+| _of this state;_  
+|  _(3)_ _____receive and accept gifts, grants, or donations_  
+| _from individuals, associations, private foundations, or_  
+| _corporations, in compliance with the conflict-of-interest_  
+| _provisions adopted by board rule; and_  
+|  _(4)_ _____share information with relevant state_  
+| _governmental entities, in a manner that is consistent with the_  
+| _confidentiality provisions in this chapter, necessary for_  
+| _administering the program._  
+|  _Sec._ ___1698.064._ _____CONTRACTS. (a)_ ___The board may enter into any_  
+| _necessary contracts, including contracts with health care_  
+| _providers, integrated health care delivery systems, and care_  
+| _coordinators._  
+|  _(b)_ _____The board may contract with a not-for-profit_  
+| _organization to provide assistance to:_  
+|  _(1)_ _____consumers with respect to selecting a care_  
+| _coordinator or health care organization, enrolling to obtain_  
+| _services available through the program, obtaining health care_  
+| _services, withdrawing from the program or from an aspect of the_  
+| _program, and other matters relating to the program; or_  
+|  _(2)_ _____health care providers providing, seeking, or_  
+| _considering whether to provide health care services under the_  
+| _program with respect to participating in a health care organization_  
+| _and interacting with a health care organization._  
+|  _Sec._ ___1698.065._ _____DATA TRANSPARENCY. (a)_ ___To promote_  
+| _transparency, assess adherence to patient care standards, compare_  
+| _patient outcomes, and review use of health care services paid for by_  
+| _the program, the board shall provide for the collection and_  
+| _availability of:_  
+|  _(1)_ _____inpatient discharge data, including acuity and_  
+| _risk of mortality;_  
+|  _(2)_ _____emergency department and ambulatory surgery data,_  
+| _including charge data, length of stay, and patients' unit of_  
+| _observation; and_  
+|  _(3) hospital annual financial data, including:_  
+|  _(A)_ _____community benefits by hospital in dollar_  
+| _value;_  
+|  _(B)_ _____number and classification of employees by_  
+| _hospital unit;_  
+|  _(C) number of hours worked by hospital unit;_  
+|  _(D)_ _____employee wage information by job title and_  
+| _hospital unit;_  
+|  _(E)_ _____number of registered nurses per staffed bed_  
+| _by hospital unit;_  
+|  _(F)_ _____type and value of health information_  
+| _technology; and_  
+|  _(G)_ _____annual spending on health information_  
+| _technology, including purchases, upgrades, and maintenance._  
+|  _(b)_ _____The board shall make all disclosed data collected under_  
+| _Subsection (a) publicly available and searchable on an Internet_  
+| _website established and maintained by the Department of State_  
+| _Health Services._  
+|  _(c)_ _____The board shall, directly and through grants to_  
+| _not-for-profit entities, conduct programs using data collected_  
+| _through the program to promote and protect public, environmental,_  
+| _and occupational health, including cooperation with other data_  
+| _collection and research programs of the Department of State Health_  
+| _Services and the Health and Human Services Commission, consistent_  
+| _with this chapter and other applicable law._  
+|  _Sec._ ___1698.066._ _____DISCLOSURE OF PERSONALLY IDENTIFIABLE_  
+| _INFORMATION. (a)_ ___Notwithstanding any other law, the board, the_  
+| _program, a state or local agency, or a public employee acting under_  
+| _color of law may not provide or disclose to anyone, including the_  
+| _federal government, any personally identifiable information_  
+| _obtained under this chapter, including an individual's religious_  
+| _beliefs, practices, or affiliation, national origin, ethnicity, or_  
+| _immigration status for law enforcement or immigration purposes._  
+|  _(b)_ _____Notwithstanding any other law, a law enforcement agency_  
+| _may not use the money, facilities, property, equipment, or_  
+| _personnel of the board or the program to investigate, enforce, or_  
+| _assist in the investigation or enforcement of any criminal, civil,_  
+| _or administrative violation or warrant for a violation of any_  
+| _requirement that individuals register with the federal government_  
+| _or any federal agency based on religion, national origin,_  
+| _ethnicity, or immigration status._  
+| _SUBCHAPTER C._ ___ELIGIBILITY AND ENROLLMENT_  
+|  _Sec._ ___1698.101._ _____ELIGIBILITY AND ENROLLMENT. (a)_ ___Every_  
+| _resident is eligible and entitled to enroll as a member under the_  
+| _program._  
+|  _(b) A member may not be required to pay:_  
+|  _(1)_ _____any fee, payment, or other charge for enrolling in_  
+| _or being a member under the program; or_  
+|  _(2)_ _____any premium, co-payment, coinsurance, deductible,_  
+| _or any other form of cost sharing for all covered benefits._  
+|  _(c)_ _____A college, university, or other institution of higher_  
+| _education in this state may purchase coverage under the program for_  
+| _a student, or a student's dependent, who is not a resident._  
+| _SUBCHAPTER D._ ___BENEFITS_  
+|  _Sec._ ___1698.121._ _____BENEFITS. (a)_ ___Covered health care benefits_  
+| _under the program include all medical care determined to be_  
+| _medically appropriate by a member's health care provider._  
+|  _(b) Covered health care benefits for a member include:_  
+|  _(1)_ _____inpatient and outpatient medical and health_  
+| _facility services;_  
+|  _(2)_ _____inpatient and outpatient professional health care_  
+| _provider medical services;_  
+|  _(3)_ _____diagnostic imaging, laboratory services, and_  
+| _other diagnostic and evaluative services;_  
+|  _(4)_ _____medical equipment, appliances, and assistive_  
+| _technology, including prosthetics, eyeglasses, and hearing aids_  
+| _and the repair, technical support, and customization needed for_  
+| _individual use;_  
+|  _(5) inpatient and outpatient rehabilitative care;_  
+|  _(6) emergency care services;_  
+|  _(7) emergency transportation;_  
+|  _(8)_ _____necessary transportation for health care services_  
+| _for an individual with a disability or who may qualify as low_  
+| _income;_  
+|  _(9) child and adult immunizations and preventive care;_  
+|  _(10) health and wellness education;_  
+|  _(11) hospice care;_  
+|  _(12) care in a skilled nursing facility;_  
+|  _(13)_ _____home health care, including health care provided_  
+| _in an assisted living facility;_  
+|  _(14) mental health services;_  
+|  _(15) substance abuse treatment;_  
+|  _(16) dental care;_  
+|  _(17) vision care;_  
+|  _(18) prescription drugs;_  
+|  _(19) pediatric care;_  
+|  _(20) prenatal and postnatal care;_  
+|  _(21) podiatric care;_  
+|  _(22) chiropractic care;_  
+|  _(23) acupuncture;_  
+|  _(24)_ _____therapies that are shown by the National_  
+| _Institutes of Health, National Center for Complementary and_  
+| _Integrative Health to be safe and effective;_  
+|  _(25) blood and blood products;_  
+|  _(26) dialysis;_  
+|  _(27) adult day care;_  
+|  _(28) rehabilitative and habilitative services;_  
+|  _(29)_ _____ancillary health care or social services covered_  
+| _by a local health care system before the effective date of the_  
+| _program;_  
+|  _(30)_ _____ancillary health care or social services covered_  
+| _by a community center for persons with developmental disabilities_  
+| _under Chapter 534, Health and Safety Code, before the effective_  
+| _date of the program;_  
+|  _(31) case management and care coordination;_  
+|  _(32)_ _____language interpretation and translation for_  
+| _health care services, including sign language, Braille, or other_  
+| _services needed for individuals with communication barriers; and_  
+|  _(33)_ _____health care and long-term supportive services_  
+| _covered under Medicaid or the child health plan program before the_  
+| _effective date of the program._  
+|  _(c)_ _____Covered health care benefits for a member also include_  
+| _all health care services required to be covered under any of the_  
+| _following programs or by the following providers, without regard to_  
+| _whether the member would otherwise be eligible for or covered by the_  
+| _program or source listed:_  
+|  _(1) the child health plan program;_  
+|  _(2) Medicaid;_  
+|  _(3) Medicare;_  
+|  _(4) a health benefit plan issuer under this code;_  
+|  _(5)_ _____any additional health care service authorized to_  
+| _be added to the program's benefits by the board; and_  
+|  _(6)_ _____all essential health benefits mandated by the_  
+| _Affordable Care Act._  
+|  _Sec._ ___1698.122._ _____BENEFITS OFFERED BY A HEALTH BENEFIT PLAN_  
+| _ISSUER. (a) Except as provided by Subsection (b), a health benefit_  
+| _plan issuer may not offer benefits or cover any services for which_  
+| _coverage is offered to individuals under the program but may, if_  
+| _otherwise authorized, offer benefits to cover health care services_  
+| _that are not offered to individuals under the program._  
+|  _(b)_ _____This chapter does not prohibit a health benefit plan_  
+| _issuer from offering benefits to or for individuals, including_  
+| _their families, who are employed or self-employed in this state but_  
+| _who are not residents._  
+| _SUBCHAPTER E. DELIVERY OF CARE_  
+|  _Sec._ ___1698.151._ _____HEALTH CARE PROVIDERS. (a) A health care_  
+| _provider may participate in the program to perform services in this_  
+| _state._  
+|  _(b)_ _____The board shall establish and maintain procedures and_  
+| _standards for recognizing health care providers physically located_  
+| _outside this state to provide coverage under the program for_  
+| _members who require out-of-state health care services while_  
+| _temporarily located outside this state._  
+|  _(c)_ _____A participating provider may provide covered health_  
+| _care services under the program that the provider is authorized to_  
+| _perform for the member under the applicable circumstances._  
+|  _(d)_ _____A member may choose to receive health care services_  
+| _under the program from any participating provider, consistent with:_  
+|  _(1) this chapter;_  
+|  _(2)_ _____the willingness or availability of the provider,_  
+| _subject to provisions of this chapter relating to discrimination;_  
+| _and_  
+|  _(3) the applicable clinically relevant circumstances._  
+|  _(e)_ _____Subject to Subsection (f), a member who chooses to_  
+| _enroll with an integrated health care delivery system, group_  
+| _medical practice, or essential community provider that offers_  
+| _comprehensive services must retain membership with the system,_  
+| _practice, or provider until the first anniversary of the date an_  
+| _initial 90-day evaluation period expires. The member may withdraw_  
+| _from the system, practice, or provider for any reason during the_  
+| _evaluation period. The initial 90-day evaluation period commences_  
+| _on the date the member first sees a primary care provider._  
+|  _(f)_ _____A member who wants to withdraw after the initial 90-day_  
+| _evaluation period must request a withdrawal under the dispute_  
+| _resolution procedures established by the board and may request_  
+| _assistance from the patient advocate in resolving the dispute. The_  
+| _dispute must be resolved in a timely manner and may not have an_  
+| _adverse effect on the care the member receives._  
+|  _Sec._ ___1698.152._ _____CARE COORDINATION. (a) A member's care_  
+| _coordinator shall provide care coordination to the member. A care_  
+| _coordinator may employ or use the services of other individuals or_  
+| _entities to assist in providing care coordination for the member_  
+| _consistent with board rules, statutory requirements, and_  
+| _applicable occupational regulations._  
+|  _(b)_ _____Care coordination includes administrative tracking and_  
+| _medical recordkeeping services for members, except as otherwise_  
+| _specified for integrated health care delivery systems._  
+|  _(c)_ _____Care coordination administrative tracking and medical_  
+| _recordkeeping services for members may not be required to use a_  
+| _certified electronic health record, meet any other requirements of_  
+| _the Health Information Technology for Economic and Clinical Health_  
+| _Act, enacted under the American Recovery and Reinvestment Act of_  
+| _2009 (Pub. L. No. 111-5), or meet certification requirements of the_  
+| _Centers for Medicare and Medicaid Services' electronic health_  
+| _record incentive programs, including meaningful use requirements._  
+|  _(d)_ _____A referral from a care coordinator is not required for a_  
+| _member to see an eligible provider._  
+|  _Sec._ ___1698.153._ _____CARE COORDINATORS. (a) A care coordinator_  
+| _shall comply with all federal and state privacy laws, including:_  
+|  _(1)_ _____the Health Insurance Portability and_  
+| _Accountability Act of 1996 (Pub. L. No. 104-191) and regulations_  
+| _adopted under that Act;_  
+|  _(2)_ _____state law relating to the confidentiality of_  
+| _medical information, including Chapter 181, Health and Safety Code;_  
+|  _(3) Subtitle D, Title 5; and_  
+|  _(4) Title 11, Business & Commerce Code._  
+|  _(b)_ _____A care coordinator may be an individual or entity_  
+| _approved by the program that is:_  
+|  _(1) a health care practitioner who is:_  
+|  _(A) the member's primary care provider;_  
+|  _(B)_ _____the member's provider of primary_  
+| _gynecological care; or_  
+|  _(C)_ _____at the option of a member who has a chronic_  
+| _condition that requires specialty care, a specialist health care_  
+| _practitioner who regularly and continually provides treatment to_  
+| _the member for that condition;_  
+|  _(2) an entity that is:_  
+|  _(A) a health facility;_  
+|  _(B) a health maintenance organization;_  
+|  _(C)_ _____a nursing facility or assisted living_  
+| _facility under Chapter 242 or 247, Health and Safety Code, or a_  
+| _program for long-term care services coverage developed by the_  
+| _board;_  
+|  _(D) a county medical facility;_  
+|  _(E)_ _____a residential care facility for individuals_  
+| _with chronic, life-threatening illness;_  
+|  _(F) an Alzheimer's day care resource center;_  
+|  _(G) a residential care facility for the elderly;_  
+|  _(H) a home health agency;_  
+|  _(I) a private duty nursing agency;_  
+|  _(J) a hospice;_  
+|  _(K)_ _____a pediatric day health and respite care_  
+| _facility;_  
+|  _(L) a home care service; or_  
+|  _(M) a mental health care provider;_  
+|  _(3) a health care organization;_  
+|  _(4)_ _____a jointly managed trust authorized under 29 U.S.C._  
+| _Section 141 et seq. that contains a plan of benefits for employees_  
+| _that is negotiated in a collective bargaining agreement governing_  
+| _wages, hours, and working conditions of the employer that is_  
+| _authorized under 29 U.S.C. Section 157; or_  
+|  _(5)_ _____a not-for-profit or governmental entity approved_  
+| _by the program._  
+|  _(c)_ _____Subsection (b)(4) does not preclude a trust described by_  
+| _Subsection (b)(4) from becoming a care coordinator under Subsection_  
+| _(b)(5) or a health care organization under Section 1698.158._  
+|  _(d)_ _____To maintain approval as a care coordinator under the_  
+| _program, a care coordinator must:_  
+|  _(1)_ _____renew its license every three years as prescribed_  
+| _by board rule; and_  
+|  _(2)_ _____provide to the program any data required by the_  
+| _Department of State Health Services under Chapter 108, Health and_  
+| _Safety Code, that would enable the board to evaluate the impact of_  
+| _care coordinators on quality, outcomes, and cost of health care._  
+|  _(e)_ _____An individual or entity may not be a care coordinator_  
+| _unless the services included in care coordination are within the_  
+| _individual's professional scope of practice or the entity's legal_  
+| _authority._  
+|  _Sec._ ___1698.154._ _____ENROLLMENT WITH CARE COORDINATOR. (a)_ __  
+| _Before receiving health care services to be paid for under the_  
+| _program, a member must be encouraged to enroll with a care_  
+| _coordinator that agrees to provide care coordination. If a member_  
+| _receives health care services before choosing a care coordinator,_  
+| _the program shall assist the member, when appropriate, with_  
+| _choosing a care coordinator. The member must remain enrolled with_  
+| _that care coordinator until the member becomes enrolled with a_  
+| _different care coordinator or ceases to be a member. A member may_  
+| _change care coordinators on terms at least as permissive as those_  
+| _under Medicaid relating to an individual changing primary care_  
+| _providers or managed care organizations._  
+|  _(b)_ _____A health care provider may be reimbursed for services_  
+| _only if the member is enrolled with a care coordinator at the time_  
+| _the health care service is provided._  
+|  _(c)_ _____A health care organization may establish rules relating_  
+| _to care coordination for its members that are different from this_  
+| _subchapter but otherwise consistent with this chapter and other_  
+| _applicable laws._  
+|  _Sec._ ___1698.155._ _____PROCEDURES AND STANDARDS FOR CARE_  
+| _COORDINATION. (a)_ ___The board by rule shall develop and implement_  
+| _procedures and standards for an individual or entity to be approved_  
+| _as a care coordinator in the program, including procedures and_  
+| _standards relating to the revocation, suspension, limitation, or_  
+| _annulment of approval on a determination that the individual or_  
+| _entity:_  
+|  _(1) is incompetent to be a care coordinator;_  
+|  _(2)_ _____has exhibited a course of conduct that is_  
+| _inconsistent with program standards and rules;_  
+|  _(3)_ _____exhibits an unwillingness to comply with program_  
+| _standards and rules; or_  
+|  _(4)_ _____is a potential threat to the public health or_  
+| _safety._  
+|  _(b)_ _____The procedures and standards adopted by the board must_  
+| _be consistent with professional practice, licensure standards, and_  
+| _rules established under the Government Code, Health and Safety_  
+| _Code, Human Resources Code, Insurance Code, and Occupations Code,_  
+| _as applicable._  
+|  _(c)_ _____In developing and implementing standards of approval of_  
+| _care coordinators for individuals receiving chronic mental health_  
+| _care services, the board shall consult with the Health and Human_  
+| _Services Commission._  
+|  _Sec._ ___1698.156._ _____OCCUPATIONAL LAWS NOT AFFECTED._ ___Nothing in_  
+| _Section 1698.152, 1698.153, 1698.154, or 1698.155 authorizes an_  
+| _individual to engage in any act in violation of Title 3, Occupations_  
+| _Code._  
+|  _Sec._ ___1698.157._ _____PAYMENT FOR HEALTH CARE SERVICES AND CARE_  
+| _COORDINATION. (a)_ ___The board shall adopt rules related to_  
+| _contracting and establishing payment methodologies for covered_  
+| _health care services and care coordination provided to members_  
+| _under the program by participating providers, care coordinators,_  
+| _and health care organizations. A variety of different payment_  
+| _methodologies may be used, including those established on a_  
+| _demonstration basis. All payment rates under the program shall be_  
+| _reasonable and reasonably related to the cost of efficiently_  
+| _providing the health care service and ensuring an adequate and_  
+| _accessible supply of health care services._  
+|  _(b)_ _____Health care services provided to a member under the_  
+| _program, except for care coordination, must be paid for on a_  
+| _fee-for-service basis unless the board establishes another payment_  
+| _methodology._  
+|  _(c)_ _____Notwithstanding Subsection (b), integrated health care_  
+| _delivery systems, essential community providers, and group medical_  
+| _practices that provide comprehensive, coordinated services may_  
+| _choose to be reimbursed on the basis of a capitated system operating_  
+| _budget or a non-capitated system operating budget that covers all_  
+| _costs of providing health care services._  
+|  _(d)_ _____The program shall engage in good faith negotiations with_  
+| _health care providers' representatives under Subchapter H,_  
+| _including in relation to rates of payment for health care services,_  
+| _rates of payment for prescription and nonprescription drugs, and_  
+| _payment methodologies. Those negotiations shall be through a single_  
+| _entity on behalf of the entire program for prescription and_  
+| _nonprescription drugs._  
+|  _(e)_ _____Payment for health care services established under this_  
+| _chapter is considered payment in full. A participating provider may_  
+| _not charge a rate in excess of the payment established under this_  
+| _chapter for any health care service provided to a member under the_  
+| _program and may not solicit or accept payment from any member or_  
+| _third party for any health care service, except as provided under a_  
+| _federal program. This section does not preclude the program from_  
+| _acting as a primary or secondary payer in conjunction with another_  
+| _third-party payer when permitted by a federal program._  
+|  _(f)_ _____The board by rule may adopt payment methodologies for_  
+| _the payment of capital-related expenses for specifically_  
+| _identified capital expenditures incurred by not-for-profit or_  
+| _governmental entities that are health facilities under Subtitle B,_  
+| _Title 4, Health and Safety Code. Any capital-related expense_  
+| _generated by a capital expenditure that requires prior approval_  
+| _must have received that approval before being paid by the program._  
+| _The approval must be based on achievement of the program standards_  
+| _described by Subchapter F._  
+|  _(g)_ _____Payment methodologies and payment rates must include a_  
+| _distinct component of reimbursement for direct and indirect_  
+| _graduate medical education._  
+|  _(h)_ _____The board by rule shall adopt payment methodologies and_  
+| _procedures for paying for health care services provided to a member_  
+| _while the member is located outside this state._  
+|  _Sec._ ___1698.158._ _____HEALTH CARE ORGANIZATIONS. (a)_ ___A member may_  
+| _choose to enroll with and receive program care coordination and_  
+| _ancillary health care services from a health care organization._  
+|  _(b)_ _____The health care organization must be a not-for-profit or_  
+| _governmental entity that is approved by the board and is:_  
+|  _(1) a local health care system; or_  
+|  _(2)_ _____a community center for persons with developmental_  
+| _disabilities under Chapter 534, Health and Safety Code._  
+|  _(c)_ _____To maintain approval under the program, a health care_  
+| _organization must:_  
+|  _(1)_ _____renew the approval as frequently as prescribed by_  
+| _board rule; and_  
+|  _(2)_ _____provide to the program any data required by the_  
+| _Department of State Health Services under Chapter 108, Health and_  
+| _Safety Code, that would enable the board to evaluate the impact of_  
+| _health care organizations on quality outcomes, and cost of health_  
+| _care._  
+|  _Sec._ ___1698.159._ _____PROCEDURES AND STANDARDS FOR HEALTH CARE_  
+| _ORGANIZATIONS. (a)_ ___The board by rule shall develop and implement_  
+| _procedures and standards for an entity to be approved as a health_  
+| _care organization in the program, including procedures and_  
+| _standards relating to the revocation, suspension, limitation, or_  
+| _annulment of approval on a determination that the entity:_  
+|  _(1) is incompetent to be a health care organization;_  
+|  _(2)_ _____has exhibited a course of conduct that is_  
+| _inconsistent with program standards and rules;_  
+|  _(3)_ _____exhibits an unwillingness to comply with program_  
+| _standards and rules; or_  
+|  _(4)_ _____is a potential threat to the public health or_  
+| _safety._  
+|  _(b)_ _____The procedures and standards adopted by the board must_  
+| _be consistent with professional practice, licensure standards, and_  
+| _rules established under the Government Code, Health and Safety_  
+| _Code, Human Resources Code, Insurance Code, and Occupations Code,_  
+| _as applicable._  
+|  _(c)_ _____In developing and implementing standards of approval of_  
+| _health care organizations, the board shall consult with the Health_  
+| _and Human Services Commission._  
+|  _Sec._ ___1698.160._ _____BEST INTEREST OF THE PATIENT. A health care_  
+| _organization may not use health information technology or clinical_  
+| _practice guidelines that limit the effective exercise of the_  
+| _professional judgment of physicians and registered nurses._  
+| _Physicians and registered nurses shall be free to override health_  
+| _information technology and clinical practice guidelines if, in_  
+| _their professional judgment, it is in the best interest of the_  
+| _patient and consistent with the patient's wishes._  
+| _SUBCHAPTER F. PROGRAM STANDARDS_  
+|  _Sec._ ___1698.201._ _____PROGRAM STANDARDS. (a)_ ___The board by rule_  
+| _shall establish requirements and standards for the program and for_  
+| _health care organizations, care coordinators, and health care_  
+| _providers, consistent with this chapter and applicable_  
+| _professional practice, licensure standards, and rules of health_  
+| _care providers and health care professionals established under the_  
+| _Government Code, Health and Safety Code, Human Resources Code,_  
+| _Insurance Code, and Occupations Code, including requirements and_  
+| _standards related to:_  
+|  _(1)_ _____the scope, quality, and accessibility of health_  
+| _care services;_  
+|  _(2)_ _____relations between health care organizations or_  
+| _health care providers and members; and_  
+|  _(3)_ _____relations between health care organizations and_  
+| _health care providers, including credentialing and participation_  
+| _in the health care organization, and terms, methods, and rates of_  
+| _payment._  
+|  _(b)_ _____The board by rule shall establish requirements and_  
+| _standards under the program that include provisions to promote:_  
+|  _(1)_ _____simplification, transparency, uniformity, and_  
+| _fairness in health care provider credentialing and participation in_  
+| _health care organization networks, referrals, payment procedures_  
+| _and rates, claims processing, and approval of health care services,_  
+| _as applicable;_  
+|  _(2)_ _____in-person primary and preventive care, care_  
+| _coordination, efficient and effective health care services,_  
+| _quality assurance, and promotion of public, environmental, and_  
+| _occupational health;_  
+|  _(3) elimination of health care disparities;_  
+|  _(4)_ _____nondiscrimination with respect to members and_  
+| _health care providers on the basis of race, color, ancestry,_  
+| _national origin, religion, citizenship, immigration status,_  
+| _primary language, mental or physical disability, age, sex, gender,_  
+| _sexual orientation, gender identity or expression, medical_  
+| _condition, genetic information, marital status, familial status,_  
+| _military or veteran status, or source of income;_  
+|  _(5)_ _____accessibility of care coordination, health care_  
+| _organization services, and health care services, including_  
+| _accessibility for people with disabilities and people with limited_  
+| _ability to speak or understand English; and_  
+|  _(6)_ _____the provision of care coordination, health care_  
+| _organization services, and health care services in a culturally_  
+| _competent manner._  
+|  _(c)_ _____Notwithstanding Subsection (b)(4), health care services_  
+| _provided under the program must be appropriate to the member's_  
+| _clinically relevant circumstances._  
+|  _(d)_ _____The board by rule shall establish requirements and_  
+| _standards, to the extent authorized by federal law, for replacing_  
+| _and merging with the program health care services and ancillary_  
+| _services currently provided by other programs, including:_  
+|  _(1) Medicare;_  
+|  _(2) the Affordable Care Act; and_  
+|  _(3) other federally matched public health programs._  
+|  _Sec._ ___1698.202._ _____EQUAL REQUIREMENTS AND STANDARDS. Any_  
+| _participating provider or care coordinator that is organized as a_  
+| _for-profit entity shall meet the same requirements and standards as_  
+| _entities organized as not-for-profit entities, and payments under_  
+| _the program paid to for-profit entities may not be calculated to_  
+| _accommodate the generation of profit, revenue for dividends, or_  
+| _other return on investment or the payment of taxes that would not be_  
+| _paid by a not-for-profit entity._  
+|  _Sec._ ___1698.203._ _____INFORMATION REQUIRED. Each participating_  
+| _provider shall furnish information as required by the Department of_  
+| _State Health Services under Chapter 108, Health and Safety Code,_  
+| _and permit examination of that information by the program as may be_  
+| _reasonably required for purposes of reviewing accessibility and use_  
+| _of health care services, quality assurance, cost containment, the_  
+| _making of payments, and statistical or other studies of the_  
+| _operation of the program or for protection and promotion of public,_  
+| _environmental, and occupational health._  
+|  _Sec._ ___1698.204._ _____CONSULTATION ON POLICY DETERMINATIONS. In_  
+| _developing requirements and standards and making other policy_  
+| _determinations under this subchapter, the board shall consult with_  
+| _representatives of members, health care providers, care_  
+| _coordinators, health care organizations, labor organizations_  
+| _representing health care employees, and other interested parties._  
+| _SUBCHAPTER G. FUNDING_  
+|  _Sec._ ___1698.251._ _____FEDERAL HEALTH PROGRAMS AND FUNDING. (a)_ __  
+| _The board shall seek any federal waiver or other federal approval_  
+| _and arrangement and submit each state plan amendment necessary to_  
+| _operate the program._  
+|  _(b)_ _____The board shall apply to the United States secretary of_  
+| _health and human services or other appropriate federal official for_  
+| _any waiver of a requirement and make any other arrangement under_  
+| _Medicare, any federally matched public health program, the_  
+| _Affordable Care Act, and any other federal program that provides_  
+| _federal money for payment for health care services necessary so_  
+| _that:_  
+|  _(1)_ _____each member receives all benefits under the_  
+| _program through the program;_  
+|  _(2) the state may implement this chapter; and_  
+|  _(3)_ _____the state receives all federal payments under the_  
+| _applicable program, including money that may be provided in lieu of_  
+| _premium tax credits, cost-sharing subsidies, and small business tax_  
+| _credits._  
+|  _(c)_ _____The state shall deposit money received under Subsection_  
+| _(b)(3) in the state treasury to the credit of the fund and shall use_  
+| _that money for the program and to implement this chapter._  
+|  _(d)_ _____To the extent possible, the board shall negotiate_  
+| _arrangements with the federal government to ensure that federal_  
+| _payments are paid to the program in place of federal funding of, or_  
+| _tax benefits for, federally matched public health programs or_  
+| _federal health programs._  
+|  _(e)_ _____The board may require members or applicants to provide_  
+| _information necessary for the program to comply with any waiver or_  
+| _arrangement under this chapter._ ___Information provided by a member_  
+| _to the board for the purposes of this subsection may not be used for_  
+| _any other purpose._  
+|  _(f)_ _____The board may take any additional actions necessary to_  
+| _effectively fund implementation of the program to the extent_  
+| _possible as a single-payer program consistent with this chapter._  
+|  _(g)_ _____The board may take actions consistent with this_  
+| _subchapter to enable the program to administer Medicare in this_  
+| _state, and the program shall be a provider of Medicare Part B_  
+| _supplemental insurance coverage and shall provide premium_  
+| _assistance drug coverage under Medicare Part D for eligible members_  
+| _of the program._  
+|  _(h)_ _____The board may waive or modify the applicability of any_  
+| _provision of this section relating to any federally matched public_  
+| _health program or Medicare, as necessary, to implement any waiver_  
+| _or arrangement under this section or to maximize the federal_  
+| _benefits to the program under this section, provided that the_  
+| _board, in consultation with the comptroller, determines that the_  
+| _waiver or modification is in the best interest of the state and_  
+| _members affected by the action._  
+|  _(i)_ _____The board may apply for coverage for, and enroll, any_  
+| _eligible member under any federally matched public health program_  
+| _or Medicare._ ___Enrollment in a federally matched public health_  
+| _program or Medicare may not cause any member to lose any health care_  
+| _service provided by the federal program or Medicare or diminish any_  
+| _right the member would otherwise have._  
+|  _(j)_ _____Notwithstanding Subsection (i) or any other law, the_  
+| _board by rule shall increase the income eligibility level, increase_  
+| _or eliminate the resource test for eligibility, simplify any_  
+| _procedural or documentation requirement for enrollment, and_  
+| _increase the benefits for any federally matched public health_  
+| _program and for any program to reduce or eliminate an individual's_  
+| _coinsurance, cost-sharing, or premium obligations or increase an_  
+| _individual's eligibility for any federal financial support related_  
+| _to Medicare or the Affordable Care Act. The board may act under_  
+| _this subsection on a finding approved by the comptroller and the_  
+| _board that the action:_  
+|  _(1) will help increase the number of members who are:_  
+|  _(A)_ _____eligible for and enrolled in federally_  
+| _matched public health programs; or_  
+|  _(B)_ _____eligible for any program to reduce or_  
+| _eliminate an individual's coinsurance, cost-sharing, or premium_  
+| _obligations or increase an individual's eligibility for any federal_  
+| _financial support related to Medicare or the Affordable Care Act;_  
+|  _(2)_ _____will not diminish any individual's access to any_  
+| _health care service or right the individual would otherwise have;_  
+|  _(3) is in the interest of the program; and_  
+|  _(4)_ _____does not require or has received any necessary_  
+| _federal waiver or approval to ensure federal financial_  
+| _participation._  
+|  _(k)_ _____Any action taken under Subsection (j) may not apply to_  
+| _eligibility for payment for long-term care services._  
+|  _(l)_ _____To enable the board to apply for coverage for and enroll_  
+| _any eligible member under any federally matched public health_  
+| _program or Medicare, the board may require that each member or_  
+| _applicant provide the information necessary to enable the board to_  
+| _determine whether the applicant is eligible for a federally matched_  
+| _public health program or for Medicare, or any program or benefit_  
+| _under Medicare._  
+|  _(m)_ _____As a condition of continued eligibility for health care_  
+| _services under the program, a member who is eligible for benefits_  
+| _under Medicare must enroll in Medicare, including Parts A, B, and D._  
+|  _(n)_ _____The program shall provide premium assistance for each_  
+| _member enrolling in a Medicare Part D drug coverage plan under 42_  
+| _U.S.C. Section 1395w-101 et seq., limited to the low-income_  
+| _benchmark premium amount established by the Centers for Medicare_  
+| _and Medicaid Services and any other amount the federal agency_  
+| _establishes under its de minimis premium policy, except that those_  
+| _payments made on behalf of a member enrolled in a Medicare advantage_  
+| _plan may exceed the low-income benchmark premium amount if_  
+| _determined to be cost effective to the program._  
+|  _(o)_ _____If the board has reasonable grounds to believe that a_  
+| _member may be eligible for an income-related subsidy under 42_  
+| _U.S.C. Section 1395w-114, the member shall provide, and authorize_  
+| _the program to obtain, any information or documentation required to_  
+| _establish the member's eligibility for that subsidy._ ___Before_  
+| _requesting information or documentation from a member under this_  
+| _section, the board shall attempt to obtain as much of the_  
+| _information and documentation as possible from records that are_  
+| _available to the board._  
+|  _(p)_ _____The program shall make a reasonable effort to notify_  
+| _each member of the member's obligations under this section._ ___After a_  
+| _reasonable effort has been made to contact the member, the member_  
+| _shall be notified in writing that the member has 60 days to provide_  
+| _the required information._ ___If the member does not provide the_  
+| _required information within the 60-day period, the member's_  
+| _coverage under the program may be terminated._ ___Information provided_  
+| _by a member to the board for the purposes of this section may not be_  
+| _used for any other purpose._  
+|  _(q)_ _____The board shall assume responsibility for all benefits_  
+| _and services paid for by the federal government with that money._  
+|  _Sec._ ___1698.252._ _____FUND; ADMINISTRATION. (a)_ ___The healthy_  
+| _Texas fund is a special fund in the state treasury outside the_  
+| _general revenue fund._  
+|  _(b)_ _____In conjunction with the enactment of the General_  
+| _Appropriations Act, the legislature shall develop a revenue plan,_  
+| _taking into consideration anticipated federal revenue available_  
+| _for the program, and appropriate money for the program as_  
+| _necessary._ ___In developing the revenue plan, members of the_  
+| _legislature shall consult with appropriate officials and_  
+| _stakeholders._  
+|  _(c)_ _____Notwithstanding any other law, money in the fund may not_  
+| _be loaned to or borrowed by any other special fund or the general_  
+| _revenue fund._  
+|  _(d)_ _____The board shall establish and maintain a prudent reserve_  
+| _in the fund._  
+|  _(e)_ _____The board or staff of the board may not use any money_  
+| _intended for the administrative and operational expenses of the_  
+| _board for staff retreats, promotional giveaways, excessive_  
+| _executive compensation, or promotion of federal or state_  
+| _legislative or regulatory modifications._  
+|  _(f)_ _____Notwithstanding any other law, all interest earned on_  
+| _the money that has been deposited into the fund is retained in the_  
+| _fund and used for purposes consistent with the fund._  
+|  _(g) The fund consists of:_  
+|  _(1)_ _____federal payments received as a result of any_  
+| _waiver of requirements granted or other arrangement agreed to by_  
+| _the United States secretary of health and human services or other_  
+| _appropriate federal official for health care programs established_  
+| _under Medicare, any federally matched public health program, or the_  
+| _Affordable Care Act;_  
+|  _(2)_ _____amounts paid by the Health and Human Services_  
+| _Commission that are equivalent to the amounts that are paid on_  
+| _behalf of residents under Medicare, any federally matched public_  
+| _health program, or the Affordable Care Act for health benefits that_  
+| _are equivalent to health benefits covered under the program;_  
+|  _(3)_ _____federal and state money for purposes of the_  
+| _provision of services authorized under Title XX of the Social_  
+| _Security Act (42 U.S.C. Section 1397 et seq.) that would otherwise_  
+| _be covered under the program; and_  
+|  _(4)_ _____state money that would otherwise be appropriated_  
+| _to any governmental agency, office, program, instrumentality, or_  
+| _institution that provides health care services for services and_  
+| _benefits covered under the program._  
+|  _(h)_ _____Money in the fund may be used only for the purposes_  
+| _established in this chapter._  
+| _SUBCHAPTER H. COLLECTIVE NEGOTIATION AND BARGAINING_  
+|  _Sec._ ___1698.301._ _____APPLICABILITY OF SUBCHAPTER. (a) This_  
+| _subchapter applies to a health care provider that is:_  
+|  _(1)_ _____an individual who practices that profession as a_  
+| _health care provider or as an independent contractor;_  
+|  _(2)_ _____an owner, officer, shareholder, or proprietor of a_  
+| _health care provider; or_  
+|  _(3)_ _____an entity that employs or uses health care_  
+| _providers to provide health care services, including a health_  
+| _facility licensed under the Health and Safety Code._  
+|  _(b)_ _____A health care provider under Title 3, Occupations Code,_  
+| _who practices as an employee of a health care provider is not a_  
+| _health care provider for purposes of this subchapter._  
+|  _Sec._ ___1698.302._ _____COLLECTIVE NEGOTIATION AUTHORIZED. (a)_  
+| _Health care providers may meet and communicate for the purpose of_  
+| _collectively negotiating with the program on any matter relating to_  
+| _the program, including rates of payment for health care services,_  
+| _rates of payment for prescription and nonprescription drugs, and_  
+| _payment methodologies._  
+|  _(b)_ _____This subchapter may not be construed to allow or_  
+| _authorize:_  
+|  _(1)_ _____an alteration of the terms of the internal and_  
+| _external review procedures prescribed by law;_  
+|  _(2)_ _____a strike of the program by health care providers_  
+| _related to the collective negotiations; or_  
+|  _(3)_ _____terms or conditions that would impede the ability_  
+| _of the program to obtain or retain accreditation by the National_  
+| _Committee for Quality Assurance or a similar body, or to comply with_  
+| _applicable state or federal law._  
+|  _Sec._ ___1698.303._ _____COLLECTIVE NEGOTIATION. (a) Collective_  
+| _negotiation rights granted by this subchapter must provide that:_  
+|  _(1)_ _____a health care provider may communicate with other_  
+| _health care providers regarding the terms and conditions to be_  
+| _negotiated with the program;_  
+|  _(2)_ _____a health care provider may communicate with a_  
+| _health care providers' representative;_  
+|  _(3)_ _____a health care providers' representative is the_  
+| _only party authorized to negotiate with the program on behalf of the_  
+| _health care providers as a group;_  
+|  _(4)_ _____a health care provider may be bound by the terms_  
+| _and conditions negotiated by the health care providers'_  
+| _representative; and_  
+|  _(5)_ _____in communicating or negotiating with the health_  
+| _care providers' representative, the program is entitled to offer_  
+| _and provide different terms and conditions to individual competing_  
+| _health care providers._  
+|  _(b) This subchapter does not affect or limit:_  
+|  _(1)_ _____the right of a health care provider or group of_  
+| _health care providers to collectively petition a governmental_  
+| _entity for a change in a law or board rule; or_  
+|  _(2)_ _____collective action or collective bargaining on the_  
+| _part of a health care provider with that health care provider's_  
+| _employer or any other lawful collective action or collective_  
+| _bargaining._  
+|  _Sec._ ___1698.304._ _____DUTIES OF HEALTH CARE PROVIDERS'_  
+| _REPRESENTATIVE. (a) Before engaging in collective negotiations_  
+| _with the program on behalf of health care providers, a health care_  
+| _providers' representative shall file with the board, in the manner_  
+| _prescribed by the board, information identifying the_  
+| _representative, the representative's plan of operation, and the_  
+| _representative's procedures to ensure compliance with this_  
+| _subchapter._  
+|  _(b)_ _____Each person who acts as the representative of a_  
+| _negotiating party under this subchapter shall pay a fee, as adopted_  
+| _by board rule, to the board to act as a representative._  
+|  _Sec._ ___1698.305._ _____PROHIBITED COLLECTIVE ACTION. (a) This_  
+| _subchapter does not authorize competing health care providers to_  
+| _act in concert in response to a health care providers'_  
+| _representative's discussions or negotiations with the program,_  
+| _except as authorized by other law._  
+|  _(b)_ _____A health care providers' representative may not_  
+| _negotiate any agreement that excludes, limits the participation or_  
+| _reimbursement of, or otherwise limits the scope of services to be_  
+| _provided by any health care provider or group of health care_  
+| _providers with respect to the performance of services that are_  
+| _within the health care provider's scope of practice, license,_  
+| _registration, or certificate._  
+|  SECTION 2. Not later than two years after the effective date  
+| of this Act, the Healthy Texas Board created by this Act shall:  
+|  (1) in consultation with an advisory committee  
+| appointed by the chairperson of the board, including  
+| representatives of consumers and potential consumers of long-term  
+| care services, providers of long-term care services, members of  
+| organized labor, and other interested parties, develop a proposal  
+| consistent with the principles of Chapter 1698, Insurance Code, as  
+| added by this Act, for providing and funding long-term care  
+| services coverage by the Healthy Texas Program;  
+|  (2) develop a proposal for accommodating employer  
+| retiree health benefits for people who have been members of the  
+| Healthy Texas Program but live as retirees outside this state;  
+|  (3) develop a proposal for accommodating employer  
+| retiree health benefits for people who earned or accrued those  
+| benefits while residing in this state before the implementation of  
+| the Healthy Texas Program and live as retirees outside this state;  
+| and  
+|  (4) develop a proposal for Healthy Texas Program  
+| coverage of health care services currently covered under the  
+| workers' compensation system, including whether and how to continue  
+| funding for those services under that system and whether and how to  
+| incorporate an element of experience rating.  
+|  SECTION 3\.  (a)  The Healthy Texas Board created by this Act  
+| shall determine when individuals may begin enrolling in the Healthy  
+| Texas Program. An implementation period begins on the date that  
+| individuals may begin enrolling in the program and ends on a date  
+| determined by the board. During the implementation period, the  
+| Healthy Texas Program is subject to special eligibility and  
+| financing provisions determined by the board until the program is  
+| fully implemented.  
+|  (b) This Act does not prohibit a health benefit plan issuer  
+| from offering any benefits during the implementation period to  
+| individuals who enrolled or may enroll as members of the Healthy  
+| Texas Program.  
+|  (c) Before full implementation of the Healthy Texas  
+| Program, the board shall provide for the collection and  
+| availability of data on the number of patients served by hospitals  
+| and the dollar value of the care provided, at cost, for the  
+| following categories:  
+|  (1) patients receiving charity care;  
+|  (2) contractual adjustments of county and indigent  
+| programs, including traditional and managed care; and  
+|  (3) bad debts.  
+|  (d) Notwithstanding Section 1698.054(b), Insurance Code, as  
+| added by this Act, a board member is not required to enroll as a  
+| member of the Healthy Texas Program until the implementation period  
+| has ended.  
+|  SECTION 4. The Healthy Texas Board created by this Act shall  
+| provide money from the healthy Texas fund established by Section  
+| 1698.252, Insurance Code, as added by this Act or from funds  
+| otherwise appropriated for this purpose to the Texas Workforce  
+| Commission for a program for retraining and assisting job  
+| transition for individuals employed or previously employed in the  
+| fields of health insurance, health care service plans, and other  
+| third-party payments for health care or those individuals providing  
+| services to health care providers to deal with third-party payers  
+| for health care, whose jobs may be ending or have ended as a result  
+| of the implementation of the Healthy Texas Program.  
+|  SECTION 5\.  (a)  Notwithstanding any other law, Chapter 1698,  
+| Insurance Code, as added by this Act, may not be implemented until  
+| the date the executive commissioner of the Health and Human  
+| Services Commission notifies the secretary of the Texas Senate and  
+| the chief clerk of the Texas House of Representatives in writing  
+| that the executive commissioner has determined that the healthy  
+| Texas fund has the revenue to fund the costs of implementing Chapter  
+| 1698.  
+|  (b) The Health and Human Services Commission shall publish a  
+| copy of the notice required by Subsection (a) of this section on the  
+| commission's Internet website.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

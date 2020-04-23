@@ -1,0 +1,638 @@
+| 86R14336 AAF-D  
+---|---  
+|  By: Capriglione | H.B. No. 4214  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to matters concerning governmental entities, including  
+| cybersecurity, governmental efficiencies, information resources,  
+| and emergency planning.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 37.108(b), Education Code, is amended to  
+| read as follows:  
+|  (b) At least once every three years, each school district or  
+| public junior college district shall conduct a safety and security  
+| audit of the district's facilities _, including an information_  
+| _technology cybersecurity assessment_. To the extent possible, a  
+| district shall follow safety and security audit procedures  
+| developed by the Texas School Safety Center or a comparable public  
+| or private entity.  
+| SECTION 2. Subchapter C, Chapter 61, Education Code, is  
+| amended by adding Section 61.09092 to read as follows:  
+|  _Sec._ ___61.09092._ _____COORDINATION OF CYBERSECURITY COURSEWORK_  
+| _DEVELOPMENT. (a) In this section, "lower-division institution of_  
+| _higher education" means a public junior college, public state_  
+| _college, or public technical institute._  
+|  _(b)_ _____The board, in consultation with the Department of_  
+| _Information Resources, shall coordinate with lower-division_  
+| _institutions of higher education and entities that administer or_  
+| _award postsecondary industry certifications or other workforce_  
+| _credentials in cybersecurity to develop certificate programs or_  
+| _other courses of instruction leading toward those certifications or_  
+| _credentials that may be offered by lower-division institutions of_  
+| _higher education._  
+|  _(c)_ _____The board may adopt rules as necessary for the_  
+| _administration of this section._  
+|  SECTION 3. Subchapter F, Chapter 401, Government Code, is  
+| amended by adding Section 401.106 to read as follows:  
+|  _Sec._ ___401.106._ _____CHIEF INNOVATION OFFICER. (a) The governor_  
+| _shall appoint a chief innovation officer._  
+|  _(b) The chief innovation officer shall:_  
+|  _(1)_ _____develop procedures and processes to improve_  
+| _internal state government efficiency and performance;_  
+|  _(2)_ _____develop methods to improve the experience of_  
+| _residents, businesses, and local governments in interacting with_  
+| _state government;_  
+|  _(3)_ _____in cooperation with the Department of Information_  
+| _Resources, increase the use of technology by state agencies to_  
+| _improve services provided by the agencies and to reduce state_  
+| _expenses and inefficiencies;_  
+|  _(4)_ _____provide state agency personnel with training in_  
+| _skills that support innovation;_  
+|  _(5)_ _____provide state agency managers with training to_  
+| _support innovation and encourage creative thinking; and_  
+|  _(6)_ _____develop and apply measures to document_  
+| _improvements in state government innovation and in employee skills_  
+| _that support innovation._  
+|  _(c)_ _____In performing the duties required under Subsection (b),_  
+| _the chief innovation officer shall:_  
+|  _(1) use strategic innovation;_  
+|  _(2) promote open innovation;_  
+|  _(3)_ _____introduce and use group tools and processes that_  
+| _encourage creative thinking; and_  
+|  _(4)_ _____conduct market research to determine the best_  
+| _practices for increasing innovation and implement those best_  
+| _practices._  
+|  SECTION 4. Section 418.004(1), Government Code, is amended  
+| to read as follows:  
+|  (1) "Disaster" means the occurrence or imminent threat  
+| of widespread or severe damage, injury, or loss of life or property  
+| resulting from any natural or man-made cause, including fire,  
+| flood, earthquake, wind, storm, wave action, oil spill or other  
+| water contamination, volcanic activity, epidemic, air  
+| contamination, blight, drought, infestation, explosion, riot,  
+| hostile military or paramilitary action, extreme heat, _cyber_  
+| _attack,_ other public calamity requiring emergency action, or energy  
+| emergency.  
+| SECTION 5. Subchapter B, Chapter 421, Government Code, is  
+| amended by adding Section 421.027 to read as follows:  
+|  _Sec._ ___421.027._ _____CYBER INCIDENT STUDY AND RESPONSE PLAN. (a)_ __  
+| _In this section:_  
+|  _(1)_ _____"Cyber incident" means an event occurring on or_  
+| _conducted through a computer network that actually or imminently_  
+| _jeopardizes the integrity, confidentiality, or availability of_  
+| _computers, information or communications systems or networks,_  
+| _physical or virtual infrastructure controlled by computers or_  
+| _information systems, or information on the computers or systems._ __  
+| _The term includes a vulnerability in implementation or in an_  
+| _information system, system security procedure, or internal control_  
+| _that could be exploited by a threat source._  
+|  _(2)_ _____"Significant cyber incident" means a cyber_  
+| _incident, or a group of related cyber incidents, likely to result in_  
+| _demonstrable harm to state security interests, foreign relations,_  
+| _or the economy of this state or to the public confidence, civil_  
+| _liberties, or public health and safety of the residents of this_  
+| _state._  
+|  _(b)_ _____The council, in cooperation with the Department of_  
+| _Information Resources, shall:_  
+|  _(1)_ _____conduct a study regarding cyber incidents and_  
+| _significant cyber incidents affecting state agencies and critical_  
+| _infrastructure that is owned, operated, or controlled by agencies;_  
+| _and_  
+|  _(2)_ _____develop a comprehensive state response plan to_  
+| _provide a format for each state agency to develop an_  
+| _agency-specific response plan and to implement the plan into the_  
+| _agency's information security plan required under Section 2054.133_  
+| _to be implemented by the agency in the event of a cyber incident or_  
+| _significant cyber incident affecting the agency or critical_  
+| _infrastructure that is owned, operated, or controlled by the_  
+| _agency._  
+|  _(c)_ _____Not later than September 1, 2020, the council shall_  
+| _deliver the response plan and a report on the findings of the study_  
+| _to:_  
+|  _(1)_ _____the public safety director of the Department of_  
+| _Public Safety;_  
+|  _(2) the governor;_  
+|  _(3) the lieutenant governor;_  
+|  _(4) the speaker of the house of representatives;_  
+|  _(5)_ _____the chair of the committee of the senate having_  
+| _primary jurisdiction over homeland security matters; and_  
+|  _(6)_ _____the chair of the committee of the house of_  
+| _representatives having primary jurisdiction over homeland security_  
+| _matters._  
+|  _(d)_ _____The response plan required by Subsection (b) and the_  
+| _report required by Subsection (c) are not public information for_  
+| _purposes of Chapter 552._  
+|  _(e) This section expires December 1, 2020._  
+|  SECTION 6. Subchapter F, Chapter 437, Government Code, is  
+| amended by adding Section 437.255 to read as follows:  
+|  _Sec._ ___437.255._ _____ASSISTING TEXAS STATE GUARD WITH CYBER_  
+| _OPERATIONS. To serve the state and safeguard the public from_  
+| _malicious cyber activity, the governor may command the Texas_  
+| _National Guard to assist the Texas State Guard with defending the_  
+| _state's cyber operations._  
+|  SECTION 7. The heading to Section 656.047, Government Code,  
+| is amended to read as follows:  
+|  Sec. 656.047. PAYMENT OF PROGRAM _AND CERTIFICATION_  
+| _EXAMINATION_ EXPENSES.  
+|  SECTION 8. Section 656.047, Government Code, is amended by  
+| adding Subsection (a-1) to read as follows:  
+|  _(a-1)_ _____A state agency may spend public funds as appropriate_  
+| _to reimburse a state agency employee or administrator who serves in_  
+| _an information technology, cybersecurity, or other cyber-related_  
+| _position for fees associated with industry-recognized_  
+| _certification examinations._  
+|  SECTION 9. Section 2054.059, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2054.059. CYBERSECURITY. From available funds, the  
+| department shall:  
+|  (1) establish and administer a clearinghouse for  
+| information relating to all aspects of protecting the cybersecurity  
+| of state agency information;  
+|  (2) develop strategies and a framework for:  
+|  (A) the securing of cyberinfrastructure by state  
+| agencies, including critical infrastructure; and  
+|  (B) cybersecurity risk assessment and mitigation  
+| planning;  
+|  (3) develop and provide training to state agencies _,_  
+| _including training for new employees of state agencies,_ on  
+| cybersecurity measures and awareness;  
+|  (4) provide assistance to state agencies on request  
+| regarding the strategies and framework developed under Subdivision  
+| (2); and  
+|  (5) promote public awareness of cybersecurity issues.  
+|  SECTION 10. Subchapter C, Chapter 2054, Government Code, is  
+| amended by adding Section 2054.069 to read as follows:  
+|  _Sec._ ___2054.069._ _____SECURITY STANDARDS FOR INTERNET_  
+| _CONNECTIVITY OF CERTAIN OBJECTS. (a) The department, in_  
+| _consultation with representatives of the information technology_  
+| _industry and voluntary standards organizations, shall develop a_  
+| _comprehensive set of risk-based security standards for the Internet_  
+| _connectivity of computing devices embedded in objects used or_  
+| _purchased by state agencies._  
+|  _(b)_ _____In developing the standards under Subsection (a), the_  
+| _department shall identify existing security standards and best_  
+| _practices and any known security gaps for a range of deployments,_  
+| _including critical systems and consumer usage._  
+|  SECTION 11. Subchapter F, Chapter 2054, Government Code, is  
+| amended by adding Sections 2054.137, 2054.138, and 2054.139 to read  
+| as follows:  
+|  _Sec._ ___2054.137._ _____INFORMATION SECURITY CONTINUOUS MONITORING_  
+| _PROGRAM. (a) In this section:_  
+|  _(1)_ _____"Common control" means a security control that is_  
+| _inherited by one or more information resources technologies._  
+|  _(2)_ _____"Program" means the information security_  
+| _continuous monitoring program described by this section._  
+|  _(b) Each state agency shall:_  
+|  _(1)_ _____develop and maintain an information security_  
+| _continuous monitoring program that:_  
+|  _(A)_ _____allows the agency to maintain ongoing_  
+| _awareness of the security and vulnerabilities of and threats to the_  
+| _agency's information resources;_  
+|  _(B)_ _____provides a clear understanding of_  
+| _organizational risk and helps the agency set priorities and manage_  
+| _the risk consistently;_  
+|  _(C)_ _____addresses how the agency conducts ongoing_  
+| _authorizations of information resources technologies and the_  
+| _environments in which those technologies operate, including the_  
+| _agency's use of common controls;_  
+|  _(D)_ _____aligns with the continuous monitoring_  
+| _guidance, cybersecurity framework, and risk management framework_  
+| _published in Special Publications 800-137 and 800-53 by the United_  
+| _States Department of Commerce National Institute of Standards and_  
+| _Technology;_  
+|  _(E)_ _____addresses critical security controls,_  
+| _including hardware asset management, software asset management,_  
+| _configuration management, and vulnerability management; and_  
+|  _(F)_ _____requires the integration of cybersecurity_  
+| _products;_  
+|  _(2)_ _____establish a strategy and plan to implement a_  
+| _program for the agency;_  
+|  _(3)_ _____to the extent practicable, establish information_  
+| _security continuous monitoring as an agency-wide solution and_  
+| _deploy enterprise information security continuous monitoring_  
+| _products and services;_  
+|  _(4)_ _____submit specified security-related information to_  
+| _the dashboard established under Subsection (c)(3);_  
+|  _(5)_ _____evaluate and upgrade information resources_  
+| _technologies and deploy new products, including agency and_  
+| _component information security continuous monitoring dashboards,_  
+| _as necessary to support information security continuous monitoring_  
+| _and the need to submit security-related information requested by_  
+| _the department;_  
+|  _(6)_ _____require that external service providers hosting_  
+| _state information meet state information security requirements for_  
+| _information security continuous monitoring; and_  
+|  _(7)_ _____ensure the agency has adequate staff with the_  
+| _necessary training to meet the objectives of the program._  
+|  _(c) The department shall:_  
+|  _(1)_ _____oversee the implementation of this section by each_  
+| _state agency;_  
+|  _(2)_ _____monitor and assist each state agency in_  
+| _implementation of a program and related strategies; and_  
+|  _(3)_ _____establish a statewide dashboard for information_  
+| _security continuous monitoring that provides:_  
+|  _(A)_ _____a government-wide view of information_  
+| _security continuous monitoring; and_  
+|  _(B)_ _____technical specifications and guidance for_  
+| _state agencies on the requirements for submitting information for_  
+| _purposes of the dashboard._  
+|  _Sec._ ___2054.138._ _____CYBERSECURITY THREAT SIMULATION EXERCISES._  
+| _(a) In this section, "executive staff" means the management or_  
+| _senior level staff members of a state agency who directly report to_  
+| _the executive head of a state agency._  
+|  _(b)_ _____The executive head of a state agency and members of the_  
+| _executive staff may participate in cybersecurity threat simulation_  
+| _exercises with the agency's information resources technologies_  
+| _employees to test the cybersecurity capabilities of the agency._  
+|  _Sec._ ___2054.139._ _____CYBERSECURITY TRAINING FOR NEW EMPLOYEES._  
+| _Not later than the fifth business day after the date on which a new_  
+| _employee begins employment with a state agency, the employee shall_  
+| _complete the cybersecurity training developed by the department_  
+| _under Section 2054.059._  
+|  SECTION 12. Section 2054.512(d), Government Code, is  
+| amended to read as follows:  
+|  (d) The cybersecurity council shall:  
+|  (1) consider the costs and benefits of establishing a  
+| computer emergency readiness team to address cyber attacks  
+| occurring in this state during routine and emergency situations;  
+|  (2) establish criteria and priorities for addressing  
+| cybersecurity threats to critical state installations;  
+|  (3) consolidate and synthesize best practices to  
+| assist state agencies in understanding and implementing  
+| cybersecurity measures that are most beneficial to this state;  
+| [ ~~and~~ ]  
+|  (4) assess the knowledge, skills, and capabilities of  
+| the existing information technology and cybersecurity workforce to  
+| mitigate and respond to cyber threats and develop recommendations  
+| for addressing immediate workforce deficiencies and ensuring a  
+| long-term pool of qualified applicants _; and_  
+|  _(5)_ _____ensure all middle and high schools have knowledge_  
+| _of and access to:_  
+|  _(A)_ _____free cybersecurity courses and curriculum_  
+| _approved by the Texas Education Agency;_  
+|  _(B)_ _____state and regional information sharing and_  
+| _analysis centers; and_  
+|  _(C)_ _____contracting benefits, including as provided_  
+| _by Section 2054.0565_.  
+|  SECTION 13. Subchapter N-1, Chapter 2054, Government Code,  
+| is amended by adding Sections 2054.5155, 2054.519, 2054.5191, and  
+| 2054.5192 to read as follows:  
+|  _Sec._ ___2054.5155._ _____INDEPENDENT RISK ASSESSMENT. (a) At least_  
+| _once every five years, in accordance with department rules, each_  
+| _state agency shall:_  
+|  _(1)_ _____contract with an independent third party selected_  
+| _from a list provided by the department to conduct an independent_  
+| _risk assessment of the agency's exposure to security risks in the_  
+| _agency's information resources systems and to conduct tests to_  
+| _practice securing systems and notifying all affected parties in the_  
+| _event of a data breach; and_  
+|  _(2)_ _____submit the results of the independent risk_  
+| _assessment to the department._  
+|  _(b)_ _____The department annually shall compile the results of the_  
+| _independent risk assessments conducted in the preceding year and_  
+| _prepare:_  
+|  _(1)_ _____a public report on the general security issues_  
+| _covered by the assessments that does not contain any information_  
+| _the release of which may compromise any state agency's information_  
+| _resources system; and_  
+|  _(2)_ _____a confidential report on specific risks and_  
+| _vulnerabilities that is exempt from disclosure under Chapter 552._  
+|  _(c)_ _____The department annually shall submit to the legislature_  
+| _a comprehensive report on the results of the independent risk_  
+| _assessments conducted under Subsection (a) during the preceding_  
+| _year that includes the report prepared under Subsection (b)(1) and_  
+| _that identifies systematic or pervasive security risk_  
+| _vulnerabilities across state agencies and recommendations for_  
+| _addressing the vulnerabilities but does not contain any information_  
+| _the release of which may compromise any state agency's information_  
+| _resources system._  
+|  _Sec._ ___2054.519._ _____VENDOR RESPONSIBILITY FOR CYBERSECURITY. A_  
+| _vendor that contracts with this state to provide information_  
+| _resources technology for a state agency at a cost to the agency of_  
+| _$1 million or more is responsible for addressing known_  
+| _cybersecurity risks associated with the technology and is_  
+| _responsible for any cost associated with addressing the identified_  
+| _cybersecurity risks. For a major information resources project,_  
+| _the vendor shall provide to state agency contracting personnel:_  
+|  _(1)_ _____written acknowledgment of any known cybersecurity_  
+| _risks associated with the technology identified in the test_  
+| _conducted under Section 2054.516 or 2054.517;_  
+|  _(2)_ _____proof that any individual servicing the contract_  
+| _holds the appropriate industry-recognized certifications as_  
+| _identified by the National Initiative for Cybersecurity Education;_  
+|  _(3)_ _____a strategy for mitigating any technology or_  
+| _personnel-related cybersecurity risk identified in the test_  
+| _conducted under Section 2054.516 or 2054.517; and_  
+|  _(4)_ _____an initial summary of any costs associated with_  
+| _addressing or remediating the identified technology or_  
+| _personnel-related cybersecurity risks as identified in_  
+| _collaboration with this state following a risk assessment._  
+|  _Sec._ ___2054.5191._ _____CYBERSTAR PROGRAM; CERTIFICATE OF_  
+| _APPROVAL. (a)_ ___The state cybersecurity coordinator, in_  
+| _collaboration with the cybersecurity council and public and private_  
+| _entities in this state, shall develop best practices for_  
+| _cybersecurity that include:_  
+|  _(1)_ _____measureable responsibilities, capacities, and_  
+| _policies for public and private entities to adopt to prepare for and_  
+| _respond to cyber incidents that compromise the confidentiality,_  
+| _integrity, and availability of the entities' information systems;_  
+|  _(2)_ _____minimum training requirements and information for_  
+| _employees or other individuals who are most responsible for_  
+| _maintaining security of the entities' information systems;_  
+|  _(3) compliance with:_  
+|  _(A)_ _____for a municipality or county, the multihazard_  
+| _emergency operations plan and the safety and security audit_  
+| _required under Section 364.0101, Local Government Code; and_  
+|  _(B)_ _____the National Institute of Standards and_  
+| _Technology standards for cybersecurity;_  
+|  _(4)_ _____public service announcements to encourage_  
+| _cybersecurity awareness; and_  
+|  _(5)_ _____coordination with local and state governmental_  
+| _entities._  
+|  _(b)_ _____The state cybersecurity coordinator shall establish a_  
+| _cyberstar certificate program to recognize public and private_  
+| _entities that implement the best practices for cybersecurity_  
+| _developed in accordance with Subsection (a). The program must_  
+| _allow a public or private entity to submit to the department a form_  
+| _certifying that the entity has complied with the best practices and_  
+| _the department to issue a certificate of approval to the entity._  
+| _The entity may include the certificate of approval in_  
+| _advertisements and other public communications._  
+|  _(c)_ _____The state cybersecurity coordinator shall conduct an_  
+| _annual public event to promote best practices for cybersecurity._  
+|  _Sec._ ___2054.5192._ _____ENCRYPTED SECURE LAYER SERVICES REQUIRED._  
+| _Each state agency that maintains a publicly accessible Internet_  
+| _website that requires the submission of sensitive personally_  
+| _identifiable information shall use an encrypted secure_  
+| _communication protocol, including a secure hypertext transfer_  
+| _protocol._  
+|  SECTION 14. Chapter 2054, Government Code, is amended by  
+| adding Subchapter R to read as follows:  
+| _SUBCHAPTER R. INFORMATION RESOURCES OF GOVERNMENTAL ENTITIES_  
+|  _Sec._ ___2054.601._ _____USE OF NEXT GENERATION TECHNOLOGY. Each_  
+| _state agency and local government shall, in the administration of_  
+| _the agency or local government, consider using next generation_  
+| _technologies, including cryptocurrency, blockchain technology, and_  
+| _artificial intelligence._  
+|  _Sec._ ___2054.602._ _____LIABILITY EXEMPTION. A person who discloses_  
+| _to a state agency or other governmental entity information_  
+| _regarding a potential security issue with respect to the agency's_  
+| _or entity's information resources technologies is not liable for_  
+| _any civil damages resulting from disclosing the information unless_  
+| _the person stole, retained, or sold any data obtained as a result of_  
+| _the security issue._  
+|  _Sec._ ___2054.603._ _____MATCHING GRANTS FOR LOCAL CYBERSECURITY_  
+| _PROJECTS. (a) In this section, "local governmental entity" means a_  
+| _political subdivision of the state, including a:_  
+|  _(1) county;_  
+|  _(2) municipality;_  
+|  _(3) public school district; or_  
+|  _(4) special-purpose district or authority._  
+|  _(b)_ _____Using available funds, the governor shall establish and_  
+| _administer a cybersecurity matching grant program to award grants_  
+| _to local governmental entities to defray the costs of cybersecurity_  
+| _projects._  
+|  _(c)_ _____A local governmental entity that applies to the office_  
+| _of the governor for a matching grant under this section must_  
+| _identify the source and amount of the local governmental entity's_  
+| _matching funds. If the office approves a grant application, the_  
+| _office shall award to the local governmental entity a grant amount_  
+| _equal to 150 percent of the amount committed by the entity._  
+|  _(d)_ _____The office may set a deadline for grant applications for_  
+| _each state fiscal year._  
+|  _(e)_ _____The governor shall adopt rules to implement the grant_  
+| _program created under this section._  
+|  _Sec._ ___2054.604._ _____CYBERSECURITY THREAT ASSESSMENT. The_  
+| _department shall develop a cybersecurity threat assessment for_  
+| _local governments that provides best practices for preventing_  
+| _cybersecurity attacks._  
+|  _Sec._ ___2054.605._ _____REPOSITORY FOR CYBERSECURITY EDUCATION AND_  
+| _TRAINING. The department, in conjunction with institutions of_  
+| _higher education as defined by Section 61.003, Education Code,_  
+| _shall maintain and promote a centralized repository of information_  
+| _on cybersecurity education and training that is available to any_  
+| _governmental entity in this state._  
+|  SECTION 15. Subchapter B, Chapter 2155, Government Code, is  
+| amended by adding Section 2155.092 to read as follows:  
+|  _Sec._ ___2155.092._ _____VENDOR CERTIFICATION FOR CERTAIN GOODS. (a)_ __  
+| _This section does not apply to a good provided as part of a major_  
+| _information resources project as defined by Section 2054.003._  
+|  _(b)_ _____A vendor offering to sell to the state a good embedded_  
+| _with a computing device capable of Internet connectivity must_  
+| _include with each bid, offer, proposal, or other expression of_  
+| _interest a written certification providing that the good does not_  
+| _contain, at the time of submitting the bid, offer, proposal, or_  
+| _expression of interest, a hardware, software, or firmware component_  
+| _with any known security vulnerability or defect._  
+|  SECTION 16. The heading to Section 2157.007, Government  
+| Code, is amended to read as follows:  
+|  Sec. 2157.007. [ ~~CONSIDERATION OF~~ ] CLOUD COMPUTING SERVICE  
+| [ ~~PURCHASE~~ ].  
+|  SECTION 17. Section 2157.007, Government Code, is amended  
+| by amending Subsection (b) and adding Subsection (f) to read as  
+| follows:  
+|  (b) A state agency shall _ensure_ [ ~~consider cloud computing~~  
+|  ~~service options, including any security benefits and cost savings~~  
+|  ~~associated with purchasing those service options from a cloud~~  
+|  ~~computing service provider and from a statewide technology center~~  
+|  ~~established by the department~~ ], when making purchases for _an_  
+| _automated information system or_ a major information resources  
+| project under Section 2054.118 _, that the system or project is_  
+| _capable of being deployed and run on cloud computing services_.  
+|  _(f)_ _____The department shall periodically review guidelines on_  
+| _state agency information that may be stored by a cloud computing or_  
+| _other storage service and the cloud computing or other storage_  
+| _services available to state agencies for that storage to ensure_  
+| _that an agency purchasing a major information resources project_  
+| _under Section 2054.118 selects the most affordable, secure, and_  
+| _efficient cloud computing or other storage service available to the_  
+| _agency._ ___The guidelines must include appropriate privacy and_  
+| _security standards that, at a minimum, require a vendor who offers_  
+| _cloud computing or other storage services or other software,_  
+| _applications, online services, or information technology solutions_  
+| _to any state agency to demonstrate that data provided by the state_  
+| _to the vendor will be maintained in compliance with all applicable_  
+| _state and federal laws and rules._  
+|  SECTION 18. Section 205.010(b), Local Government Code, is  
+| amended to read as follows:  
+|  (b) A local government that owns, licenses, or maintains  
+| computerized data that includes sensitive personal information  
+| shall comply, in the event of a breach of system security, with the  
+| notification requirements of _:_  
+|  _(1) Section 364.0053;_  
+|  _(2) Section 364.0102; and_  
+|  _(3)_ Section 521.053, Business & Commerce Code, to the  
+| same extent as a person who conducts business in this state.  
+|  SECTION 19. Subtitle C, Title 11, Local Government Code, is  
+| amended by adding Chapter 364 to read as follows:  
+| _CHAPTER 364. LOCAL GOVERNMENT CYBERSECURITY AND EMERGENCY PLANNING_  
+| _AND RESPONSE_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 364.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Breach of system security" has the meaning_  
+| _assigned by Section 521.053, Business & Commerce Code._  
+|  _(2)_ _____"Cybersecurity coordinator" means the state_  
+| _cybersecurity coordinator designated under Section 2054.511,_  
+| _Government Code._  
+|  _(3)_ _____"Cybersecurity council"_ ___means the council_  
+| _established by the cybersecurity coordinator under Section_  
+| _2054.512, Government Code._  
+|  _(4)_ _____"Sensitive personal information" has the meaning_  
+| _assigned by Section 521.002, Business & Commerce Code._  
+| _SUBCHAPTER B. REGIONAL INFORMATION SHARING AND ANALYSIS CENTERS_  
+|  _Sec._ ___364.0051._ _____ESTABLISHMENT. (a)_ ___The cybersecurity_  
+| _coordinator shall provide for the establishment and operation of_  
+| _not more than 20 regional information sharing and analysis centers._  
+|  _(b)_ _____Regional information sharing and analysis centers shall_  
+| _be located throughout the state so that the boundaries for each_  
+| _center are coextensive with the regional education service centers_  
+| _established under Chapter 8, Education Code._  
+|  _Sec._ ___364.0052._ _____MEMBERSHIP. Each municipality with a_  
+| _population of more than 25,000 shall join the regional information_  
+| _sharing and analysis center in which the municipality is_  
+| _predominantly located._ ___Any other political subdivision may join_  
+| _the regional information sharing and analysis center in which the_  
+| _political subdivision is predominantly located._  
+|  _Sec._ ___364.0053._ _____SECURITY BREACH NOTIFICATION. (a)_ ___Not_  
+| _later than 48 hours after a political subdivision discovers a_  
+| _breach or suspected breach of system security or an unauthorized_  
+| _exposure of sensitive personal information, the political_  
+| _subdivision shall notify the regional information sharing and_  
+| _analysis center of the breach._ ___The notification must describe the_  
+| _breach, suspected breach, or unauthorized exposure._  
+|  _(b)_ _____A regional information sharing and analysis center_  
+| _shall report to the Department of Information Resources any breach_  
+| _of system security reported by a political subdivision in which the_  
+| _person responsible for the breach:_  
+|  _(1)_ _____obtained or modified specific critical or_  
+| _sensitive personal information;_  
+|  _(2)_ _____established access to the political subdivision's_  
+| _information systems or infrastructure; or_  
+|  _(3)_ _____undermined, severely disrupted, or destroyed a_  
+| _core service, program, or function of the political subdivision, or_  
+| _placed the person in a position to do so in the future._  
+|  _Sec._ ___364.0054._ _____RULEMAKING. The cybersecurity coordinator_  
+| _may adopt rules necessary to implement this subchapter._  
+| _SUBCHAPTER C. EMERGENCY PLANNING AND RESPONSE_  
+|  _Sec._ ___364.0101._ _____MULTIHAZARD EMERGENCY OPERATIONS PLAN;_  
+| _SAFETY AND SECURITY AUDIT. (a)_ ___This section applies to a_  
+| _municipality or county with a population of more than 100,000._  
+|  _(b)_ _____Each municipality and county shall adopt and implement a_  
+| _multihazard emergency operations plan for use in the municipality's_  
+| _and county's facilities. The plan must address mitigation,_  
+| _preparedness, response, and recovery as determined by the_  
+| _cybersecurity council and the governor's office of homeland_  
+| _security. The plan must provide for:_  
+|  _(1)_ _____municipal or county employee training in_  
+| _responding to an emergency;_  
+|  _(2)_ _____measures to ensure coordination with the_  
+| _Department of State Health Services, Department of Information_  
+| _Resources, local emergency management agencies, law enforcement_  
+| _agencies, local health departments, and fire departments in the_  
+| _event of an emergency; and_  
+|  _(3)_ _____the implementation of a safety and security audit_  
+| _as required by Subsection (c)._  
+|  _(c)_ _____At least once every three years, each municipality and_  
+| _county shall conduct a safety and security audit of the_  
+| _municipality's or county's information technology infrastructure._  
+| _To the extent possible, a municipality or county shall follow_  
+| _safety and security audit procedures developed by the cybersecurity_  
+| _council or a comparable public or private entity._  
+|  _(d)_ _____A municipality or county shall report the results of the_  
+| _safety and security audit conducted under Subsection (c):_  
+|  _(1)_ _____to the municipality's or county's governing body;_  
+| _and_  
+|  _(2)_ _____in the manner required by the cybersecurity_  
+| _council, to the cybersecurity council._  
+|  _(e)_ _____Except as provided by Subsection (f), any document or_  
+| _information collected, developed, or produced during a safety and_  
+| _security audit conducted under Subsection (c) is not subject to_  
+| _disclosure under Chapter 552, Government Code._  
+|  _(f)_ _____A document relating to a municipality's or county's_  
+| _multihazard emergency operations plan is subject to disclosure if_  
+| _the document enables a person to:_  
+|  _(1)_ _____verify that the municipality or county has_  
+| _established a plan and determine the agencies involved in the_  
+| _development of the plan and the agencies coordinating with the_  
+| _municipality or county to respond to an emergency;_  
+|  _(2)_ _____verify that the municipality's or county's plan_  
+| _was reviewed within the last 12 months and determine the specific_  
+| _review dates;_  
+|  _(3)_ _____verify that the plan addresses the phases of_  
+| _emergency management under Subsection (b);_  
+|  _(4)_ _____verify that municipal or county employees have_  
+| _been trained to respond to an emergency and determine the types of_  
+| _training, the number of employees trained, and the person_  
+| _conducting the training;_  
+|  _(5)_ _____verify that the municipality or county has_  
+| _completed a safety and security audit under Subsection (c) and_  
+| _determine the date the audit was conducted, the person conducting_  
+| _the audit, and the date the municipality or county presented the_  
+| _results of the audit to the municipality's or county's governing_  
+| _body; and_  
+|  _(6)_ _____verify that the municipality or county has_  
+| _addressed any recommendations by the municipality's or county's_  
+| _governing body for improvement of the plan and determine the_  
+| _municipality's or county's progress within the last 12 months._  
+|  _Sec._ ___364.0102._ _____RANSOMWARE PAYMENT. (a) In this section,_  
+| _"ransomware" has the meaning assigned by Section 33.023, Penal_  
+| _Code._  
+|  _(b)_ _____Not later than 48 hours after the time a political_  
+| _subdivision makes a ransomware payment, the political subdivision_  
+| _shall notify the cybersecurity coordinator of the payment._  
+|  SECTION 20. Section 2054.513, Government Code, is repealed.  
+|  SECTION 21. The Department of Information Resources shall  
+| conduct a study on the types of objects embedded with computing  
+| devices that are connected to the Internet that are purchased  
+| through the department. The Department of Information Resources  
+| shall submit a report on the study to the legislature not later than  
+| December 31, 2020.  
+|  SECTION 22. (a) The lieutenant governor shall establish a  
+| Senate Select Committee on Cybersecurity and the speaker of the  
+| house of representatives shall establish a House Select Committee  
+| on Cybersecurity to, jointly or separately, study:  
+|  (1) cybersecurity in this state;  
+|  (2) the information security plans of each state  
+| agency;  
+|  (3) the risks and vulnerabilities of state agency  
+| cybersecurity; and  
+|  (4) information technology procurement.  
+|  (b) Not later than November 30, 2019:  
+|  (1) the lieutenant governor shall appoint five  
+| senators to the Senate Select Committee on Cybersecurity, one of  
+| whom shall be designated as chair; and  
+|  (2) the speaker of the house of representatives shall  
+| appoint five state representatives to the House Select Committee on  
+| Cybersecurity, one of whom shall be designated as chair.  
+|  (c) The committees established under this section shall  
+| convene separately at the call of the chair of the respective  
+| committees, or jointly at the call of both chairs. In joint  
+| meetings, the chairs of each committee shall act as joint chairs.  
+|  (d) Following consideration of the issues listed in  
+| Subsection (a) of this section, the committees established under  
+| this section shall jointly adopt recommendations on state  
+| cybersecurity and report in writing to the legislature any findings  
+| and adopted recommendations not later than January 12, 2021.  
+|  (e) This section expires September 1, 2021.  
+|  SECTION 23. As soon as practicable after the effective date  
+| of this Act, the governor shall appoint a chief innovation officer  
+| as required by Section 401.106, Government Code, as added by this  
+| Act.  
+|  SECTION 24. Section 2054.139, Government Code, as added by  
+| this Act, requiring a new employee of a state agency to complete  
+| cybersecurity training, applies only to an employee who begins  
+| employment on or after the effective date of this Act.  
+|  SECTION 25. Section 2155.092, Government Code, as added by  
+| this Act, applies only in relation to a contract for which a state  
+| agency first advertises or otherwise solicits bids, offers,  
+| proposals, or other expressions of interest on or after the  
+| effective date of this Act.  
+|  SECTION 26. Section 2157.007, Government Code, as amended  
+| by this Act, applies only with respect to a purchase made by a state  
+| agency on or after the effective date of this Act. A purchase made  
+| before the effective date of this Act is governed by the law in  
+| effect on the date the purchase was made, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 27. This Act takes effect September 1, 2019.
+

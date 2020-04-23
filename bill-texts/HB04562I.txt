@@ -1,0 +1,1433 @@
+| 86R538 KFF-F  
+---|---  
+|  By: Metcalf | H.B. No. 4562  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to parental administrations for certain incapacitated  
+| adults; authorizing a fee; creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. PARENTAL ADMINISTRATION  
+|  SECTION 1.01. Section 1002.0015, Estates Code, is amended  
+| to read as follows:  
+|  Sec. 1002.0015. ALTERNATIVES TO GUARDIANSHIP.  
+| "Alternatives to guardianship" includes the:  
+|  (1) execution of a medical power of attorney under  
+| Chapter 166, Health and Safety Code;  
+|  (2) appointment of an attorney in fact or agent under a  
+| durable power of attorney as provided by Subtitle P, Title 2;  
+|  (3) execution of a declaration for mental health  
+| treatment under Chapter 137, Civil Practice and Remedies Code;  
+|  (4) appointment of a representative payee to manage  
+| public benefits;  
+|  (5) establishment of a joint bank account;  
+|  (6) creation of a management trust under Chapter 1301;  
+|  (7) creation of a special needs trust;  
+|  (8) designation of a guardian before the need arises  
+| under Subchapter E, Chapter 1104; [ ~~and~~ ]  
+|  (9) establishment of alternate forms of  
+| decision-making based on person-centered planning _; and_  
+|  _(10)_ _____appointment of a parental administrator under_  
+| _Chapter 1359_.  
+|  SECTION 1.02. Section 1002.002, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 1002.002. ATTORNEY AD LITEM. "Attorney ad litem"  
+| means an attorney appointed by a court to represent and advocate on  
+| behalf of _:_  
+|  _(1)_ a proposed ward, an incapacitated person, an  
+| unborn person, or another person described by Section 1054.007 in a  
+| guardianship proceeding _; or_  
+|  _(2)_ _____a proposed incapacitated adult, as defined by_  
+| _Section 1359.0001, in a proceeding for a parental administration_  
+| _under Chapter 1359_.  
+|  SECTION 1.03. Subchapter A, Chapter 1202, Estates Code, is  
+| amended by adding Section 1202.004 to read as follows:  
+|  _Sec._ ___1202.004._ _____TERMINATION OF GUARDIANSHIP OF THE PERSON ON_  
+| _CREATION OF PARENTAL ADMINISTRATION. (a) On the application of a_  
+| _parent, as defined by Section 1359.0001, a court with jurisdiction_  
+| _over a guardianship of the person may:_  
+|  _(1)_ _____terminate the guardianship if the court finds that_  
+| _it is in the best interests of the ward to be treated as a proposed_  
+| _incapacitated adult under Chapter 1359; and_  
+|  _(2)_ _____appoint a parental administrator of the_  
+| _incapacitated adult under that chapter._  
+|  _(b)_ _____The ward's legal and civil rights and powers are_  
+| _restored on termination of the guardianship and creation of a_  
+| _parental administration under this section._  
+|  SECTION 1.04. Section 1002.013, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 1002.013. GUARDIAN AD LITEM. "Guardian ad litem"  
+| means a person appointed by a court to represent the best interests  
+| of an incapacitated person in a guardianship _or parental_  
+| _administration_ proceeding.  
+|  SECTION 1.05. Section 1002.017, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 1002.017. INCAPACITATED PERSON. "Incapacitated  
+| person" means:  
+|  (1) a minor;  
+|  (2) an adult who, because of a physical or mental  
+| condition, is substantially unable to:  
+|  (A) provide food, clothing, or shelter for  
+| himself or herself;  
+|  (B) care for the person's own physical health; or  
+|  (C) manage the person's own financial affairs; or  
+|  (3) a person who must have a guardian _or parental_  
+| _administrator, as defined by Section 1359.0001,_ appointed for the  
+| person to receive funds due the person from a governmental source.  
+|  SECTION 1.06. Subtitle I, Title 3, Estates Code, is amended  
+| by adding Chapter 1359 to read as follows:  
+| _CHAPTER 1359. PARENTAL ADMINISTRATION_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 1359.0001. DEFINITIONS. (a) In this chapter:_  
+|  _(1)_ _____"Incapacitated adult" means a person who is 18_  
+| _years of age or older and who is an incapacitated person as that_  
+| _term is defined by Section 1002.017._  
+|  _(2)_ _____"Parent" has the meaning assigned by Section_  
+| _1002.022, except that the term includes a person who was appointed_  
+| _the conservator of a child under Chapter 153, Family Code._  
+|  _(3)_ _____"Parental administrator" means a person appointed_  
+| _as a parental administrator under Section 1359.0108._  
+|  _(4)_ _____"Proposed incapacitated adult" means a person_  
+| _alleged in a parental administration proceeding under this chapter_  
+| _to be an incapacitated adult._  
+|  _(b)_ _____To the extent a definition of a term provided by this_  
+| _chapter conflicts with the definition of that term provided by_  
+| _Chapter 1002, the definition provided by this chapter prevails in_  
+| _this chapter._  
+|  _Sec._ ___1359.0002._ _____JURISDICTION AND VENUE. (a) Except as_  
+| _otherwise provided by this section, a proceeding for the_  
+| _appointment of a parental administrator must be brought in the_  
+| _county in which the proposed incapacitated adult resides or is_  
+| _located on the date the application is filed._  
+|  _(b)_ _____Subject to Subsection (d) or (e), if two or more courts_  
+| _have concurrent venue of a parental administration proceeding or if_  
+| _at least one court has venue of a guardianship proceeding and_  
+| _another court has venue of a parental administration proceeding_  
+| _respecting the same incapacitated adult or proposed incapacitated_  
+| _adult, the court in which an application for parental_  
+| _administration or guardianship, as applicable, is initially filed,_  
+| _has and retains venue over the proceeding._  
+|  _(c)_ _____If a parental administration proceeding is commenced in_  
+| _more than one county or if a parental administration proceeding is_  
+| _commenced in one county and a guardianship proceeding is commenced_  
+| _in another county respecting the same incapacitated adult or_  
+| _proposed incapacitated adult, the proceeding shall be stayed except_  
+| _in the county in which a proceeding was initially commenced until_  
+| _final determination of proper venue is made by the court in the_  
+| _county in which a proceeding was initially commenced. A proceeding_  
+| _is considered commenced by the filing of an application alleging_  
+| _facts sufficient to confer venue._  
+|  _(d)_ _____If a guardianship exists for a proposed incapacitated_  
+| _adult, the court in the county in which the guardianship is pending_  
+| _has jurisdiction and venue of the parental administration_  
+| _application to the exclusion of any other court._  
+|  _(e)_ _____Notwithstanding Sections 1023.001 and 1023.002, if a_  
+| _parental administration proceeding exists for a proposed ward, the_  
+| _court in the county in which the parental administration is pending_  
+| _has venue and jurisdiction of the guardianship proceeding to the_  
+| _exclusion of any other court._  
+|  _Sec._ ___1359.0003._ _____TRANSFER OF PARENTAL ADMINISTRATION TO_  
+| _ANOTHER COUNTY. (a) When a parental administrator or any other_  
+| _person desires to transfer the parental administration from one_  
+| _county to another, the person shall file a written application in_  
+| _the court in which the parental administration is pending stating_  
+| _the reason for the transfer._  
+|  _(b)_ _____With notice as provided by Section 1359.0004, the court_  
+| _in which a parental administration is pending, on the court's own_  
+| _motion, may transfer the parental administration to another county_  
+| _if the incapacitated adult resides in the county to which the_  
+| _parental administration is to be transferred._  
+|  _Sec._ ___1359.0004._ _____NOTICE. If an application is filed by a_  
+| _person other than the parental administrator or if a court made a_  
+| _motion to transfer a parental administration, the parental_  
+| _administrator shall be cited by personal service to appear and show_  
+| _cause why the parental administration should not be transferred._  
+|  _Sec._ ___1359.0005._ _____COURT ACTION. On hearing of an application_  
+| _or motion under this subchapter, if good cause is not shown to deny_  
+| _the transfer and it appears that transfer of the parental_  
+| _administration is in the best interests of the incapacitated adult,_  
+| _the court shall enter an order authorizing the transfer on payment_  
+| _of all accrued costs of court._  
+|  _Sec._ ___1359.0006._ _____PRO SE REPRESENTATION. Notwithstanding any_  
+| _other law, the applicant who files a parental administration_  
+| _application may appear pro se before the court in all parental_  
+| _administration proceedings._  
+| _SUBCHAPTER B. FILING AND RECORDKEEPING_  
+|  _Sec._ ___1359.0051._ _____RECORDKEEPING REQUIREMENTS. (a) The_  
+| _county clerk shall maintain a record book titled "Judge's Parental_  
+| _Administration Docket" and shall record in the book:_  
+|  _(1)_ _____the name of each person with respect to whom a_  
+| _proceeding is commenced or sought to be commenced;_  
+|  _(2)_ _____the name of the parental administrator or of each_  
+| _applicant for parental administration;_  
+|  _(3)_ _____the date each original application for a parental_  
+| _administration proceeding is filed;_  
+|  _(4)_ _____a notation of each order, judgment, decree, and_  
+| _proceeding that occurs in each parental administration, including_  
+| _the date it occurs; and_  
+|  _(5)_ _____the docket number of each parental administration_  
+| _as assigned under Subsection (b)._  
+|  _(b)_ _____The county clerk shall assign a docket number to each_  
+| _parental administration in the order a proceeding is commenced._  
+|  _(c)_ _____The county clerk shall maintain a record book titled_  
+| _"Parental Administration Fee Book" and shall record in the book_  
+| _each item of cost that accrues to the officers of the court and any_  
+| _witness fees. Each record entry must include:_  
+|  _(1) the party to whom the cost or fee is due;_  
+|  _(2) the date the cost or fee accrued;_  
+|  _(3) the party liable for the cost or fee; and_  
+|  _(4) the date the cost or fee is paid._  
+|  _Sec._ ___1359.0052._ _____ALTERNATE RECORDKEEPING. Instead of_  
+| _maintaining the record books described by Section 1359.0051, the_  
+| _county clerk may maintain the information described by that section_  
+| _relating to a person's parental administration proceeding:_  
+|  _(1) on a computer file;_  
+|  _(2) on microfilm;_  
+|  _(3) in the form of a digitized optical image; or_  
+|  _(4) in another similar form of data compilation._  
+|  _Sec._ ___1359.0053._ _____FILING PROCEDURES. (a) An application for_  
+| _a parental administration proceeding or a complaint, petition, or_  
+| _other paper permitted or required by law to be filed with a court in_  
+| _a parental administration proceeding must be filed with the county_  
+| _clerk of the appropriate county._  
+|  _(b)_ _____Each paper filed in a parental administration_  
+| _proceeding must be given the docket number assigned to the parental_  
+| _administration._  
+|  _(c)_ _____On receipt of a paper described by Subsection (a), the_  
+| _county clerk shall:_  
+|  _(1) file the paper; and_  
+|  _(2) endorse on the paper:_  
+|  _(A) the date the paper is filed;_  
+|  _(B) the docket number; and_  
+|  _(C) the clerk's official signature._  
+|  _Sec._ ___1359.0054._ _____CASE FILES. (a) The county clerk shall_  
+| _maintain a case file for each person's filed parental_  
+| _administration proceeding._  
+|  _(b)_ _____Each case file must contain each order, judgment,_  
+| _decree, and proceeding of the court and any other parental_  
+| _administration filing with the court, including each:_  
+|  _(1)_ _____application for the granting of parental_  
+| _administration;_  
+|  _(2)_ _____citation and notice, whether published or posted,_  
+| _including the return on the citation or notice;_  
+|  _(3) exhibit; and_  
+|  _(4) report._  
+|  _Sec._ ___1359.0055._ _____INDEX. (a) The county clerk shall properly_  
+| _index the records required under this chapter._  
+|  _(b)_ _____The county clerk shall keep the index open for public_  
+| _inspection but may not release the index from the clerk's custody._  
+| _SUBCHAPTER C. APPOINTMENT OF PARENTAL ADMINISTRATOR_  
+|  _Sec._ ___1359.0101._ _____PARENTAL ADMINISTRATOR. One or both_  
+| _parents of a proposed incapacitated adult may in accordance with_  
+| _this chapter seek appointment as a parental administrator of that_  
+| _adult with the rights and duties granted under this chapter._  
+|  _Sec._ ___1359.0102._ _____APPLICATION. (a) One or both parents of a_  
+| _proposed incapacitated adult may commence a proceeding for the_  
+| _appointment of a parental administrator by filing a written_  
+| _application in a court having jurisdiction and venue._  
+|  _(b)_ _____Subject to Section 1359.0103, the application must be_  
+| _sworn to by the applicant and must state:_  
+|  _(1)_ _____the proposed incapacitated adult's name, sex, date_  
+| _of birth, and address;_  
+|  _(2)_ _____the name, relationship, and address of the_  
+| _applicant seeking to be appointed as parental administrator;_  
+|  _(3)_ _____a description of the nature of the proposed_  
+| _incapacitated adult's alleged incapacity;_  
+|  _(4)_ _____whether the proposed incapacitated adult is_  
+| _totally or partially without capacity to care for himself or_  
+| _herself;_  
+|  _(5)_ _____the facts requiring the appointment of a parental_  
+| _administrator;_  
+|  _(6)_ _____the nature and description of any existing_  
+| _guardianship of the proposed incapacitated adult;_  
+|  _(7)_ _____whether the proposed incapacitated adult was the_  
+| _subject of a guardianship proceeding and, if so, the name of the_  
+| _guardian;_  
+|  _(8)_ _____the name of the proposed incapacitated adult's_  
+| _spouse, if any, and the spouse's address or a statement that the_  
+| _spouse is deceased;_  
+|  _(9)_ _____the names of the proposed incapacitated adult's_  
+| _other parent if that parent is not an applicant and that parent's_  
+| _address or a statement that the parent is deceased;_  
+|  _(10)_ _____the name and age of each of the proposed_  
+| _incapacitated adult's siblings, if any, and, for each sibling, the_  
+| _sibling's address or a statement that the sibling is deceased; and_  
+|  _(11)_ _____a statement of facts showing that the proposed_  
+| _incapacitated adult is a resident of the county in which the_  
+| _proceeding is brought._  
+|  _Sec._ ___1359.0103._ _____CONFIDENTIALITY OF CERTAIN ADDRESSES. An_  
+| _application filed under Section 1359.0102 or 1359.0552 may omit the_  
+| _address of a person named in the application if:_  
+|  _(1)_ _____the application states that the person is_  
+| _protected by a protective order issued under Chapter 85, Family_  
+| _Code;_  
+|  _(2)_ _____a copy of the protective order is attached to the_  
+| _application as an exhibit;_  
+|  _(3)_ _____the application states the county in which the_  
+| _person resides;_  
+|  _(4)_ _____the application indicates the place where notice_  
+| _to or the issuance and service of citation on the person may be made_  
+| _or sent; and_  
+|  _(5)_ _____the application is accompanied by a request for an_  
+| _order under Section 1051.201 specifying the manner of issuance,_  
+| _service, and return of citation or notice on the person._  
+|  _Sec._ ___1359.0104._ _____SERVICE AND NOTICE. (a) The citation and_  
+| _the application filed under this chapter shall be personally served_  
+| _on the proposed incapacitated adult by a sheriff, a constable, or a_  
+| _process server certified under Chapter 156, Government Code._  
+|  _(b)_ _____Notice shall be given by certified mail, return receipt_  
+| _requested, to:_  
+|  _(1)_ _____a guardian of the proposed incapacitated adult, if_  
+| _applicable, unless the guardian is the applicant; and_  
+|  _(2)_ _____each other person named under Section_  
+| _1359.0102(b)(8), (9), or (10)._  
+|  _(c) The applicant shall file with the court:_  
+|  _(1)_ _____a copy of any notice required by Subsection (b) and_  
+| _the proof of delivery of the notice; and_  
+|  _(2)_ _____for each notice, an affidavit sworn to by the_  
+| _applicant or the applicant's attorney stating:_  
+|  _(A)_ _____that the notice was mailed as required by_  
+| _Subsection (b); and_  
+|  _(B)_ _____the name of the person to whom the notice was_  
+| _mailed, if the person's name is not shown on the proof of delivery._  
+|  _(d)_ _____A person who is entitled to receive notice under_  
+| _Subsection (b) may, by writing filed with the clerk, waive the_  
+| _receipt of notice either in person or through an attorney ad litem._  
+|  _Sec._ ___1359.0105._ _____CHANGE OR RESIGNATION OF RESIDENT AGENT. A_  
+| _resident agent for a parental administrator may be declared or_  
+| _changed or may resign in the same manner as a resident agent for a_  
+| _guardian under Chapter 1057._  
+|  _Sec._ ___1359.0106._ _____SUBMISSION OF CRIMINAL HISTORY RECORD_  
+| _INFORMATION BY PROPOSED PARENTAL ADMINISTRATOR. (a) Not later than_  
+| _the 10th day before the date of the hearing to appoint a parental_  
+| _administrator, the applicant shall submit to the clerk a copy of the_  
+| _person's criminal history record information that the person_  
+| _obtains not earlier than the 30th day before the date of the hearing_  
+| _from:_  
+|  _(1) the Department of Public Safety; or_  
+|  _(2) the Federal Bureau of Investigation._  
+|  _(b)_ _____Criminal history record information obtained or_  
+| _provided under this section is privileged and confidential and is_  
+| _for the exclusive use of the court. The criminal history record_  
+| _information may not be released or otherwise disclosed to any_  
+| _person or agency except on court order or consent of the person_  
+| _being investigated._  
+|  _(c)_ _____The court shall use the information obtained under this_  
+| _section only in determining whether to appoint the applicant to_  
+| _serve as a parental administrator._  
+|  _(d)_ _____The county clerk may destroy the criminal history record_  
+| _information after the information is used for the purposes_  
+| _authorized by this section._  
+|  _Sec._ ___1359.0107._ _____GROUNDS FOR DISQUALIFICATION. A person may_  
+| _not be appointed or act as a parental administrator if the person:_  
+|  _(1) is a minor or other incapacitated person;_  
+|  _(2)_ _____is incapable of properly and prudently managing_  
+| _and controlling the proposed incapacitated adult because of_  
+| _inexperience, lack of education, or other good reason;_  
+|  _(3) is found by the court to be unsuitable;_  
+|  _(4)_ _____has engaged in conduct that is notoriously bad,_  
+| _including having been finally convicted of:_  
+|  _(A)_ _____any sexual offense, including sexual_  
+| _assault, aggravated sexual assault, and prohibited sexual conduct;_  
+|  _(B) aggravated assault;_  
+|  _(C)_ _____injury to a child, elderly individual, or_  
+| _individual with a disability;_  
+|  _(D) abandoning or endangering a child;_  
+|  _(E) terroristic threat; or_  
+|  _(F)_ _____continuous violence against the family of the_  
+| _proposed incapacitated adult;_  
+|  _(5)_ _____is a party or the child of a parent who is a party_  
+| _to a suit concerning or affecting the welfare of the proposed_  
+| _incapacitated adult, unless the court:_  
+|  _(A)_ _____determines that the claim of the person who_  
+| _has applied to be appointed parental administrator is not in_  
+| _conflict with the claim of the proposed incapacitated adult; or_  
+|  _(B)_ _____appoints a guardian ad litem to represent the_  
+| _interests of the proposed incapacitated adult while the suit is_  
+| _pending;_  
+|  _(6)_ _____is indebted to the proposed incapacitated adult,_  
+| _unless the person pays the debt before appointment;_  
+|  _(7)_ _____asserts a claim adverse to the proposed_  
+| _incapacitated adult or the proposed incapacitated adult's_  
+| _property;_  
+|  _(8)_ _____is disqualified in a written and signed_  
+| _declaration made by the proposed incapacitated adult at a time_  
+| _during which the proposed incapacitated adult had capacity; or_  
+|  _(9)_ _____is a nonresident who has failed to file with the_  
+| _court the name of a resident agent to accept service of process in_  
+| _all actions or proceedings relating to the parental administration._  
+|  _Sec._ ___1359.0108._ _____ORDER APPOINTING PARENTAL ADMINISTRATOR._  
+| _(a) If it is found that the proposed incapacitated adult lacks the_  
+| _capacity to do some, but not all, of the tasks necessary to care for_  
+| _himself or herself or to manage his or her property with or without_  
+| _supports and services, the court may appoint one or more parental_  
+| _administrators. The court may, subject to Section 1359.0401,_  
+| _assign the parental administrator only those powers and duties_  
+| _necessary to promote and protect the well-being of the_  
+| _incapacitated adult._  
+|  _(b) The order appointing a parental administrator must:_  
+|  _(1)_ _____specify the specific powers, limitations, and_  
+| _duties of the parental administrator, which may include:_  
+|  _(A)_ _____the right to have physical possession of the_  
+| _incapacitated adult and to establish the incapacitated adult's_  
+| _legal domicile;_  
+|  _(B)_ _____the duty to provide care, supervision, and_  
+| _protection for the incapacitated adult;_  
+|  _(C)_ _____the duty to provide the incapacitated adult_  
+| _with clothing, food, medical care, and shelter;_  
+|  _(D)_ _____the power to consent to medical, psychiatric,_  
+| _and surgical treatment of the incapacitated adult;_  
+|  _(E)_ _____the power to establish a trust in accordance_  
+| _with 42 U.S.C. Section 1396p(d)(4)(B) and direct that the income of_  
+| _the incapacitated adult as defined by that section be paid directly_  
+| _to the trust, solely for the purpose of the incapacitated adult's_  
+| _eligibility for medical assistance under Chapter 32, Human_  
+| _Resources Code;_  
+|  _(F)_ _____the power to sign documents necessary or_  
+| _appropriate to facilitate employment of the incapacitated adult;_  
+|  _(G)_ _____the power to receive funds for the_  
+| _incapacitated adult from a government source;_  
+|  _(H)_ _____the power to obtain insurance and communicate_  
+| _with insurance issuers on behalf of the incapacitated adult;_  
+|  _(I)_ _____the power to file suit on behalf of the_  
+| _incapacitated adult; and_  
+|  _(J)_ _____other powers as determined necessary by the_  
+| _court;_  
+|  _(2)_ _____specify that the specific powers, limitations, and_  
+| _duties of the parental administrator are subordinate to the rights_  
+| _and powers of the incapacitated adult;_  
+|  _(3) state the name of each parent appointed;_  
+|  _(4) state the name of the incapacitated adult; and_  
+|  _(5)_ _____if in response to an application filed under_  
+| _Section 1202.004, terminate the existing guardianship of the_  
+| _incapacitated adult._  
+|  _(c)_ _____If the order appointing a parental administrator under_  
+| _this section includes the right of the parental administrator to_  
+| _have physical possession of the incapacitated adult or to establish_  
+| _the incapacitated adult's legal domicile, the order must also_  
+| _contain the following prominently displayed statement in boldfaced_  
+| _type, in capital letters, or underlined:_  
+| _"NOTICE TO ANY PEACE OFFICER OF THE STATE OF TEXAS: YOU MAY USE_  
+| _REASONABLE EFFORTS TO ENFORCE THE RIGHT OF A PARENTAL ADMINISTRATOR_  
+| _OF AN INCAPACITATED ADULT TO HAVE PHYSICAL POSSESSION OF THE_  
+| _INCAPACITATED ADULT OR TO ESTABLISH THE INCAPACITATED ADULT'S LEGAL_  
+| _DOMICILE AS SPECIFIED IN THIS ORDER UNLESS OBJECTED TO BY THE_  
+| _INCAPACITATED ADULT. A PEACE OFFICER WHO RELIES ON THE TERMS OF A_  
+| _COURT ORDER AND THE OFFICER'S AGENCY ARE ENTITLED TO THE APPLICABLE_  
+| _IMMUNITY AGAINST ANY CIVIL OR OTHER CLAIM REGARDING THE OFFICER'S_  
+| _GOOD FAITH ACTS PERFORMED IN THE SCOPE OF THE OFFICER'S DUTIES IN_  
+| _ENFORCING THE TERMS OF THIS ORDER THAT RELATE TO THE_  
+| _ABOVE-MENTIONED RIGHTS OF THE COURT-APPOINTED PARENTAL_  
+| _ADMINISTRATOR OF THE INCAPACITATED ADULT. ANY PERSON WHO KNOWINGLY_  
+| _PRESENTS FOR ENFORCEMENT AN ORDER THAT IS INVALID OR NO LONGER IN_  
+| _EFFECT COMMITS AN OFFENSE THAT MAY BE PUNISHABLE BY CONFINEMENT IN_  
+| _JAIL FOR AS LONG AS TWO YEARS AND A FINE OF AS MUCH AS $10,000."_  
+|  _(d)_ _____The order appointing the parental administrator may_  
+| _not:_  
+|  _(1) remove the rights of the incapacitated adult; or_  
+|  _(2)_ _____grant a power related to an incapacitated adult's_  
+| _right to manage his or her property or financial affairs beyond the_  
+| _powers specifically authorized under Subsection (b)._  
+|  _Sec._ ___1359.0109._ _____POWERS AND DUTIES OF PARENTAL ADMINISTRATOR_  
+| _APPOINTED AS NECESSARY FOR INCAPACITATED ADULT TO RECEIVE_  
+| _GOVERNMENT FUNDS. (a)_ ___A parental administrator appointed to_  
+| _receive funds from a governmental source may:_  
+|  _(1) administer only:_  
+|  _(A)_ _____the funds received from the governmental_  
+| _source;_  
+|  _(B)_ _____all earnings, interest, or profits derived_  
+| _from the funds; and_  
+|  _(C) all property acquired with the funds; and_  
+|  _(2)_ _____receive the funds and pay the expenses for the_  
+| _support, maintenance, or education of the incapacitated adult or_  
+| _the incapacitated adult's dependents._  
+|  _(b)_ _____Expenditures under Subsection (a)(2) for the support,_  
+| _maintenance, or education of the incapacitated adult or the_  
+| _incapacitated adult's dependents may not exceed $12,000 during any_  
+| _12-month period without the court's approval._  
+|  _Sec._ ___1359.0110._ _____AUTHORITY AND TREATMENT OF CERTAIN PARENTAL_  
+| _ADMINISTRATORS AS GUARDIAN UNDER LAW._ ___If the order appointing a_  
+| _parental administrator under Section 1359.0108 includes the right_  
+| _of the parental administrator to have physical possession of the_  
+| _incapacitated adult or to establish the incapacitated adult's legal_  
+| _domicile, to the extent not in conflict with this chapter,_  
+| _including Section 1359.0401, a parental administrator has the same_  
+| _authority and is entitled to the same treatment respecting the_  
+| _incapacitated adult as a guardian of the person respecting a ward_  
+| _under law._  
+|  _Sec._ ___1359.0111._ _____DISMISSAL OF APPLICATION. If it is found_  
+| _that a proposed incapacitated adult possesses the capacity to care_  
+| _for himself or herself and manage his or her property as would a_  
+| _reasonably prudent person, the court shall dismiss an application_  
+| _for parental administration._  
+| _SUBCHAPTER D. ATTORNEYS AD LITEM AND INTERPRETERS_  
+|  _Sec._ ___1359.0151._ _____APPOINTMENT OF ATTORNEY AD LITEM IN_  
+| _PROCEEDING FOR APPOINTMENT OF PARENTAL ADMINISTRATOR. (a) In a_  
+| _proceeding for the appointment of a parental administrator, the_  
+| _court shall appoint an attorney ad litem to represent the proposed_  
+| _incapacitated adult's interests._  
+|  _(b)_ _____The attorney ad litem must have the certification_  
+| _required by Section 1054.201._  
+|  _(c)_ _____Unless the court determines that the continued_  
+| _appointment of an attorney ad litem appointed under this subchapter_  
+| _is in the proposed incapacitated adult's best interests, the_  
+| _attorney's term of appointment expires, without a court order, on_  
+| _the date the court appoints a parental administrator or denies the_  
+| _application for appointment of a parental administrator._  
+|  _Sec._ ___1359.0152._ _____ACCESS TO RECORDS. An attorney ad litem_  
+| _appointed under this subchapter:_  
+|  _(1)_ _____shall be provided copies of all of the current_  
+| _records in the parental administration case; and_  
+|  _(2)_ _____may have access to all of the proposed_  
+| _incapacitated adult's relevant medical, psychological, and_  
+| _intellectual testing records._  
+|  _Sec._ ___1359.0153._ _____DUTIES. (a)_ ___An attorney ad litem appointed_  
+| _under this subchapter shall interview the proposed incapacitated_  
+| _adult within a reasonable time before the hearing in the proceeding_  
+| _for the appointment of a parental administrator._ ___To the greatest_  
+| _extent possible, the attorney shall discuss with the proposed_  
+| _incapacitated adult:_  
+|  _(1) the law and facts of the case;_  
+|  _(2)_ _____the proposed incapacitated adult's legal options_  
+| _regarding disposition of the case;_  
+|  _(3)_ _____the grounds on which parental administration is_  
+| _sought; and_  
+|  _(4)_ _____whether other less restrictive alternatives to_  
+| _guardianship, other than parental administration, would meet the_  
+| _needs of the proposed incapacitated adult and avoid the need for the_  
+| _appointment of a parental administrator._  
+|  _(b) Before the hearing, the attorney ad litem shall review:_  
+|  _(1) the application for parental administration;_  
+|  _(2)_ _____certificates of current physical, medical, and_  
+| _intellectual examinations; and_  
+|  _(3)_ _____all of the proposed incapacitated adult's relevant_  
+| _medical, psychological, and intellectual testing records._  
+|  _(c)_ _____Before the hearing, the attorney ad litem shall discuss_  
+| _with the proposed incapacitated adult the attorney ad litem's_  
+| _opinion regarding:_  
+|  _(1)_ _____whether a parental administration is necessary for_  
+| _the proposed incapacitated adult; and_  
+|  _(2)_ _____if a parental administration is necessary, the_  
+| _specific powers or duties of the parental administration that_  
+| _should be limited if the proposed incapacitated adult receives_  
+| _supports and services._  
+|  _Sec._ ___1359.0154._ _____COMPENSATION AND EXPENSES. An attorney ad_  
+| _litem appointed under this subchapter is entitled to reasonable_  
+| _compensation for services and expenses provided in the amount set_  
+| _by the court, to be taxed as costs in the proceeding._  
+|  _Sec._ ___1359.0155._ _____APPOINTMENT OF INTERPRETER._ ___At the time_  
+| _the court appoints the attorney ad litem under this subchapter, the_  
+| _court shall appoint a language interpreter or sign interpreter if_  
+| _necessary to ensure effective communication between the proposed_  
+| _incapacitated adult and the attorney ad litem._  
+|  _Sec._ ___1359.0156._ _____APPOINTMENT OF EXISTING AD LITEM. In the_  
+| _interest of judicial economy, the court may appoint as an attorney_  
+| _ad litem under this subchapter a person who is serving as an ad_  
+| _litem for the proposed incapacitated adult's benefit in any other_  
+| _proceeding._  
+| _SUBCHAPTER E. GUARDIANS AD LITEM_  
+|  _Sec._ ___1359.0201._ _____APPOINTMENT OF GUARDIAN AD LITEM IN_  
+| _PARENTAL ADMINISTRATION PROCEEDING. (a) The judge may appoint a_  
+| _guardian ad litem to represent the interests of a proposed_  
+| _incapacitated adult in a parental administration proceeding._  
+|  _(b)_ _____A guardian ad litem must have the certification required_  
+| _by Section 1054.201._  
+|  _Sec._ ___1359.0202._ _____APPOINTMENT OF EXISTING AD LITEM. In the_  
+| _interest of judicial economy, the court may appoint as guardian ad_  
+| _litem under this subchapter a person who is serving as an ad litem_  
+| _for the proposed incapacitated adult's benefit in any other_  
+| _proceeding._  
+|  _Sec._ ___1359.0203._ _____TERM OF CERTAIN APPOINTMENTS. Unless the_  
+| _court determines that the continued appointment of a guardian ad_  
+| _litem appointed under this subchapter is in the proposed_  
+| _incapacitated adult's best interests, the guardian ad litem's term_  
+| _of appointment expires, without a court order, on the date the court_  
+| _appoints a parental administrator or denies the application for_  
+| _appointment of a parental administrator._  
+|  _Sec._ ___1359.0204._ _____DUTIES. (a) A guardian ad litem appointed_  
+| _under this subchapter is an officer of the court._  
+|  _(b)_ _____A guardian ad litem shall protect the proposed_  
+| _incapacitated adult whose interests the guardian has been appointed_  
+| _to represent in a manner that will enable the court to determine the_  
+| _action that will be in that person's best interests._  
+|  _(c) The guardian ad litem shall:_  
+|  _(1)_ _____investigate whether a parental administration is_  
+| _necessary for the proposed incapacitated adult; and_  
+|  _(2)_ _____evaluate alternatives and supports and services_  
+| _available to the proposed incapacitated adult that would avoid the_  
+| _need for appointment of a parental administrator._  
+|  _(d)_ _____The information gathered by the guardian ad litem under_  
+| _Subsection (c) is subject to examination by the court._  
+|  _Sec._ ___1359.0205._ _____COMPENSATION AND EXPENSES. (a) A guardian_  
+| _ad litem appointed under this subchapter is entitled to reasonable_  
+| _compensation for services and expenses provided in the amount set_  
+| _by the court, to be taxed as costs in the proceeding._  
+|  _(b)_ _____The fees and expenses of a guardian ad litem appointed_  
+| _under this subchapter are costs of the litigation proceeding that_  
+| _made the appointment necessary._  
+|  _Sec._ ___1359.0206._ _____IMMUNITY. (a) Subject to Subsection (b), a_  
+| _guardian ad litem appointed under this subchapter to represent the_  
+| _interests of a proposed incapacitated adult is not liable for civil_  
+| _damages arising from a recommendation made or an opinion given in_  
+| _the capacity of guardian ad litem._  
+|  _(b)_ _____This section does not apply to a recommendation or_  
+| _opinion that is:_  
+|  _(1) wilfully wrongful;_  
+|  _(2) given:_  
+|  _(A)_ _____with conscious indifference to or reckless_  
+| _disregard for the safety of another;_  
+|  _(B) with malice; or_  
+|  _(C) in bad faith; or_  
+|  _(3) grossly negligent._  
+| _SUBCHAPTER F. COURT INVESTIGATION_  
+|  _Sec._ ___1359.0251._ _____INVESTIGATION OF PARENTAL ADMINISTRATION_  
+| _APPLICATION. On the filing of an application for parental_  
+| _administration under this chapter, a court investigator shall_  
+| _investigate the circumstances alleged in the application to_  
+| _determine whether any other less restrictive alternative to_  
+| _guardianship other than parental administration is appropriate._  
+|  _Sec._ ___1359.0252._ _____GENERAL DUTIES OF COURT INVESTIGATOR. A_  
+| _court investigator shall:_  
+|  _(1)_ _____investigate a complaint received from any person_  
+| _about a parental administration and report to the judge, if_  
+| _necessary; and_  
+|  _(2)_ _____perform other duties as assigned by the judge or_  
+| _required by this title._  
+|  _Sec._ ___1359.0253._ _____INVESTIGATION REPORT. (a)_ ___A court_  
+| _investigator shall file with the court a report containing the_  
+| _court investigator's findings and conclusions after conducting an_  
+| _investigation under this subchapter._  
+|  _(b)_ _____In a contested case, the court investigator shall_  
+| _provide copies of the report of the court investigator's findings_  
+| _and conclusions to the attorneys for the parties before the earlier_  
+| _of:_  
+|  _(1)_ _____the seventh day after the date the court_  
+| _investigator completes the report; or_  
+|  _(2)_ _____the 10th day before the date the trial is scheduled_  
+| _to begin._  
+|  _(c)_ _____Disclosure to a jury of the contents of a court_  
+| _investigator's report is subject to the Texas Rules of Evidence._  
+|  _Sec._ ___1359.0254._ _____EFFECT OF SUBCHAPTER ON OTHER LAW. Nothing_  
+| _in this subchapter supersedes any duty or obligation of another to_  
+| _report or investigate abuse or neglect under any statute of this_  
+| _state._  
+| _SUBCHAPTER G. HEARING; JURY TRIAL_  
+|  _Sec._ ___1359.0301._ _____HEARING. (a) At a hearing for the_  
+| _appointment of a parental administrator, the court shall inquire_  
+| _into:_  
+|  _(1)_ _____the ability of the proposed incapacitated adult_  
+| _to:_  
+|  _(A) feed, clothe, and shelter himself or herself;_  
+|  _(B) care for his or her own physical health; and_  
+|  _(C)_ _____manage his or her property or financial_  
+| _affairs; and_  
+|  _(2)_ _____whether the applicant is the parent of the_  
+| _proposed incapacitated adult._  
+|  _(b)_ _____A proposed incapacitated adult must be present at the_  
+| _hearing unless the court, on the record or in the order, determines_  
+| _that a personal appearance is not necessary._  
+|  _(c)_ _____The court may close the hearing at the request of the_  
+| _proposed incapacitated adult._  
+|  _Sec._ ___1359.0302._ _____JURY TRIAL._ ___A proposed incapacitated adult_  
+| _is entitled to a jury trial on timely request._  
+|  _Sec._ ___1359.0303._ _____USE OF RECORDS. Current medical,_  
+| _psychological, and intellectual testing records are a sufficient_  
+| _basis for an appointment of a parental administrator, but the_  
+| _findings and recommendations contained in those records are not_  
+| _binding on the court._  
+| _SUBCHAPTER H. DETERMINATION OF NECESSITY OF PARENTAL_  
+| _ADMINISTRATION; FINDINGS AND PROOF_  
+|  _Sec._ ___1359.0351._ _____FINDINGS AND PROOF REQUIRED. (a)_ ___Before_  
+| _appointing a parental administrator for a proposed incapacitated_  
+| _adult, the court must find by a preponderance of the evidence that:_  
+|  _(1)_ _____the proposed incapacitated adult is an_  
+| _incapacitated person as defined by Section 22.016(2);_  
+|  _(2)_ _____the person to be appointed parental administrator_  
+| _is not disqualified from acting and is suitable to act as parental_  
+| _administrator;_  
+|  _(3)_ _____a necessity exists for the parental_  
+| _administration;_  
+|  _(4)_ _____it is in the proposed incapacitated adult's best_  
+| _interests to have the court appoint a parental administrator;_  
+|  _(5)_ _____other less restrictive alternatives to_  
+| _guardianship, other than parental administration, that would avoid_  
+| _the need for the appointment of a parental administrator have been_  
+| _considered and determined not to be feasible;_  
+|  _(6)_ _____supports and services available to the proposed_  
+| _incapacitated adult that would avoid the need for the appointment_  
+| _of a parental administrator have been considered and determined not_  
+| _to be feasible;_  
+|  _(7)_ _____it is in the best interests of the incapacitated_  
+| _adult to have more than one parental administrator if more than one_  
+| _parent has made application; and_  
+|  _(8) the court has venue of the case._  
+|  _(b)_ _____The court may not grant an application to create a_  
+| _parental administration unless the applicant proves each element_  
+| _required by this section._  
+|  _Sec._ ___1359.0352._ _____DETERMINATION OF INCAPACITY: PHYSICIAN_  
+| _EXAMINATION. (a) The court may not grant an application for the_  
+| _appointment of a parental administrator for a proposed_  
+| _incapacitated adult unless the applicant presents to the court:_  
+|  _(1)_ _____a written letter or certificate from a physician_  
+| _licensed in this state that:_  
+|  _(A)_ _____is dated not earlier than the 120th day_  
+| _before the date the application is filed;_  
+|  _(B)_ _____is based on an examination the physician_  
+| _performed not earlier than the 120th day before the date the_  
+| _application is filed; and_  
+|  _(C) complies with Subsection (b); or_  
+|  _(2) a written letter or certificate that:_  
+|  _(A)_ _____shows that not earlier than 24 months before_  
+| _the date of a hearing on the application:_  
+|  _(i)_ _____the proposed incapacitated adult has_  
+| _been examined by a physician or psychologist licensed in this state_  
+| _or certified by the Health and Human Services Commission to perform_  
+| _the examination, in accordance with rules of the executive_  
+| _commissioner of the Health and Human Services Commission governing_  
+| _examinations of that kind, and the physician's or psychologist's_  
+| _written findings and recommendations include a determination of an_  
+| _intellectual disability; or_  
+|  _(ii)_ _____a physician or psychologist licensed_  
+| _in this state or certified by the Health and Human Services_  
+| _Commission to perform examinations described by Subparagraph (i)_  
+| _updated or endorsed in writing a prior determination of an_  
+| _intellectual disability for the proposed incapacitated adult made_  
+| _by a physician or psychologist licensed in this state or certified_  
+| _by the commission; and_  
+|  _(B) complies with Subsection (b)._  
+|  _(b)_ _____A letter or certificate under Subsection (a)(1) or (2)_  
+| _must:_  
+|  _(1)_ _____describe the nature, degree, and severity of the_  
+| _proposed incapacitated adult's incapacity, including any_  
+| _functional deficits regarding the proposed incapacitated adult's_  
+| _ability to consent to medical, dental, psychological, or_  
+| _psychiatric treatment;_  
+|  _(2)_ _____provide an evaluation of the proposed_  
+| _incapacitated adult's physical condition and mental functioning_  
+| _and summarize the proposed incapacitated adult's medical history if_  
+| _reasonably available;_  
+|  _(3)_ _____state how or in what manner the proposed_  
+| _incapacitated adult's ability to make or communicate responsible_  
+| _decisions concerning himself or herself is affected by the proposed_  
+| _incapacitated adult's physical or mental health, including the_  
+| _proposed incapacitated adult's ability to:_  
+|  _(A) understand or communicate;_  
+|  _(B) recognize familiar objects and individuals;_  
+|  _(C) solve problems;_  
+|  _(D) reason logically; and_  
+|  _(E)_ _____administer to daily life activities with and_  
+| _without supports and services;_  
+|  _(4)_ _____state whether any current medication affects the_  
+| _proposed incapacitated adult's demeanor or the proposed_  
+| _incapacitated adult's ability to participate fully in a court_  
+| _proceeding;_  
+|  _(5)_ _____if applicable, describe the precise physical and_  
+| _mental conditions underlying a diagnosis of an intellectual_  
+| _disability;_  
+|  _(6)_ _____state whether a parental administration is_  
+| _necessary for the proposed incapacitated adult; and_  
+|  _(7)_ _____include any other information required by the_  
+| _court._  
+|  _(c)_ _____If the court determines it is necessary, the court may_  
+| _appoint a physician to examine the proposed incapacitated adult._  
+| _The court must make a determination with respect to the necessity_  
+| _for a physician's examination of the proposed incapacitated adult_  
+| _at a hearing held for that purpose. Not later than the fourth day_  
+| _before the date of the hearing, the applicant shall give to the_  
+| _proposed incapacitated adult and the proposed incapacitated_  
+| _adult's attorney ad litem written notice specifying the purpose and_  
+| _the date and time of the hearing._  
+|  _(d)_ _____A physician who examines the proposed incapacitated_  
+| _adult for purposes of Subsection (a)(1) shall file with the court_  
+| _and provide to the attorney ad litem appointed to represent the_  
+| _proposed incapacitated adult a written letter or certificate from_  
+| _the physician that complies with the requirements of Subsections_  
+| _(a)(1) and (b)._  
+| _SUBCHAPTER I. RIGHTS, POWERS, AND DUTIES UNDER PARENTAL_  
+| _ADMINISTRATION_  
+|  _Sec._ ___1359.0401._ _____RIGHTS RETAINED BY INCAPACITATED ADULT._  
+| _(a)_ ___An incapacitated adult for whom a parental administrator is_  
+| _appointed retains all legal and civil rights and powers._  
+|  _(b)_ _____The powers, limitations, and duties of a parental_  
+| _administrator appointed under this chapter are subordinate to the_  
+| _rights and powers of the incapacitated adult._  
+|  _Sec._ ___1359.0402._ _____FIDUCIARY DUTY. A parental administrator_  
+| _owes a fiduciary duty to the incapacitated adult._  
+|  _Sec._ ___1359.0403._ _____COMMITMENT OF INCAPACITATED ADULT. (a)_ __  
+| _Except as provided by Subsection (b), a parental administrator may_  
+| _not voluntarily admit an incapacitated adult to a public or private_  
+| _inpatient psychiatric facility operated by the Health and Human_  
+| _Services Commission for care and treatment or to a residential_  
+| _facility operated by the commission for care and treatment. If care_  
+| _and treatment in a psychiatric or residential facility is_  
+| _necessary, the incapacitated adult or the parental administrator_  
+| _may:_  
+|  _(1)_ _____apply for services under Section 593.027 or_  
+| _593.028, Health and Safety Code;_  
+|  _(2)_ _____apply to a court to commit the incapacitated adult_  
+| _under Subtitle C or D, Title 7, Health and Safety Code, or Chapter_  
+| _462, Health and Safety Code; or_  
+|  _(3)_ _____transport the incapacitated adult to an inpatient_  
+| _mental health facility for a preliminary examination in accordance_  
+| _with Subchapters A and C, Chapter 573, Health and Safety Code._  
+|  _(b)_ _____A parental administrator may voluntarily admit an_  
+| _incapacitated adult to a residential care facility for emergency_  
+| _care or respite care under Section 593.027 or 593.028, Health and_  
+| _Safety Code, if the order appointing the parental administrator_  
+| _grants the parental administrator the duty to provide the_  
+| _incapacitated adult with medical care._  
+|  _Sec._ ___1359.0404._ _____ADMINISTRATION OF MEDICATION._ ___(a)_ ___In
+this_  
+| _section, "psychoactive medication" has the meaning assigned by_  
+| _Section 574.101, Health and Safety Code._  
+|  _(b)_ _____A parental administrator of an incapacitated adult who_  
+| _is under a protective custody order as provided by Subchapter B,_  
+| _Chapter 574, Health and Safety Code, may consent to the_  
+| _administration of psychoactive medication as prescribed by the_  
+| _incapacitated adult's treating physician regardless of the_  
+| _incapacitated adult's expressed preferences regarding treatment_  
+| _with psychoactive medication, if the order appointing the parental_  
+| _administrator grants the parental administrator the duty to provide_  
+| _the incapacitated adult with medical care._  
+|  _Sec._ ___1359.0405._ _____APPLICATION BY CERTAIN RELATIVES FOR ACCESS_  
+| _TO INCAPACITATED ADULT; HEARING AND COURT ORDER._ ___A relative of an_  
+| _incapacitated adult may file an application with the court_  
+| _requesting access to the incapacitated adult, including the_  
+| _opportunity to establish visitation or communication with the_  
+| _incapacitated adult in the same manner as a ward's relative may file_  
+| _such an application under Section 1151.055._ ___The court shall act on_  
+| _the application in the same manner as the court is required to act_  
+| _on the application for a ward under that section._  
+| _SUBCHAPTER J. REPORTING_  
+|  _Sec._ ___1359.0451._ _____REPORT OF PARENTAL ADMINISTRATOR. At any_  
+| _time after a parental administrator is appointed, the court, on its_  
+| _own motion or on the motion of a person interested in the welfare of_  
+| _the incapacitated adult and for good cause shown, may order the_  
+| _parental administrator to submit to the court a sworn report on the_  
+| _condition of the incapacitated adult. The report must include the_  
+| _same information for the incapacitated adult as is required by_  
+| _Section 1163.101 for a ward._  
+| _SUBCHAPTER K._ ___INVESTIGATION OF ALLEGED ABUSE, NEGLECT, OR_  
+| _EXPLOITATION CONCERNING INCAPACITATED ADULT_  
+|  _Sec._ ___1359.0501._ _____INTERFERENCE WITH INVESTIGATION OR_  
+| _SERVICES PROHIBITED. A parental administrator may not interfere_  
+| _with:_  
+|  _(1)_ _____an investigation by the Department of Family and_  
+| _Protective Services, another state agency, or a law enforcement_  
+| _agency of alleged abuse, neglect, or exploitation of the_  
+| _incapacitated adult; or_  
+|  _(2)_ _____the provision of protective services by the_  
+| _Department of Family and Protective Services or another state_  
+| _agency to the incapacitated adult._  
+|  _Sec._ ___1359.0502._ _____REPORT TO COURT OF INVESTIGATION OF ALLEGED_  
+| _ABUSE, NEGLECT, OR EXPLOITATION. Subject to rules adopted under_  
+| _Section 48.101, Human Resources Code, the Department of Family and_  
+| _Protective Services or another state agency that conducts an_  
+| _investigation of alleged abuse, neglect, or exploitation of an_  
+| _incapacitated adult for whom a parental administrator is appointed_  
+| _shall report the results of the investigation to the court with_  
+| _jurisdiction of the parental administration._  
+| _SUBCHAPTER L. RESIGNATION, REMOVAL, OR DEATH OF PARENTAL_  
+| _ADMINISTRATOR; CONVERSION TO GUARDIANSHIP_  
+|  _Sec._ ___1359.0551._ _____GROUNDS FOR REMOVAL OF PARENTAL_  
+| _ADMINISTRATOR. A court may remove a parental administrator if the_  
+| _parental administrator:_  
+|  _(1)_ _____fails to comply with a court order for a report_  
+| _under Section 1359.0451;_  
+|  _(2)_ _____is proven to have been guilty of gross misconduct_  
+| _or gross mismanagement in the performance of duties as parental_  
+| _administrator;_  
+|  _(3)_ _____is disqualified to act as a parental administrator_  
+| _under Section 1359.0107;_  
+|  _(4)_ _____is no longer necessary because the court finds_  
+| _that the incapacitated adult is no longer incapacitated;_  
+|  _(5)_ _____is convicted of an offense and subsequently_  
+| _confined or imprisoned; or_  
+|  _(6)_ _____for any other reason becomes unable to properly_  
+| _perform the parental administrator's duties._  
+|  _Sec._ ___1359.0552._ _____DETERMINATION REGARDING PARENTAL_  
+| _ADMINISTRATOR'S INCAPACITY. (a)_ ___The court on its own motion may or_  
+| _on the written application of an interested person shall order an_  
+| _investigation into whether a parental administrator appointed by_  
+| _the court under this chapter is an incapacitated person for_  
+| _purposes of Sections 1359.0551(3) and 1359.0107(1)._  
+|  _(b)_ _____Subject to Section 1359.0103, an application filed_  
+| _under this section must be sworn to by the applicant and state:_  
+|  _(1)_ _____the incapacitated adult's name, sex, date of_  
+| _birth, and address;_  
+|  _(2)_ _____the parental administrator's name, sex, date of_  
+| _birth, and address;_  
+|  _(3)_ _____the nature and degree of the parental_  
+| _administrator's alleged incapacity;_  
+|  _(4)_ _____the facts requiring an investigation into the_  
+| _parental administrator's capacity; and_  
+|  _(5)_ _____the applicant's interest in the incapacitated_  
+| _adult._  
+|  _(c)_ _____The court on its own motion may or on receipt of an_  
+| _application under this section shall appoint a guardian ad litem or_  
+| _court investigator to investigate the conditions and circumstances_  
+| _of the parental administrator, including any facts alleged in the_  
+| _application that would give rise to a finding of incapacity, to_  
+| _determine whether there is probable cause to believe the parental_  
+| _administrator is an incapacitated person._ ___The court's order_  
+| _appointing the guardian ad litem or court investigator must include_  
+| _a statement that the parental administrator has the right to_  
+| _petition the court to have the appointment set aside._  
+|  _(d)_ _____The guardian ad litem or court investigator shall file_  
+| _with the court a report of the findings and conclusions of the_  
+| _investigation conducted under Subsection (c)._  
+|  _(e)_ _____If a guardian ad litem or court investigator, after an_  
+| _investigation as prescribed by this section, determines that_  
+| _probable cause exists to believe the parental administrator is an_  
+| _incapacitated person, the guardian ad litem or court investigator,_  
+| _as applicable, shall file with the court an application_  
+| _recommending an independent examination of the parental_  
+| _administrator's capacity by a physician licensed in this state._  
+|  _(f)_ _____If the court determines it is necessary, the court may_  
+| _appoint one or more physicians licensed in this state to examine the_  
+| _parental administrator._ ___The court must make its determination with_  
+| _respect to the necessity for a physician's examination of the_  
+| _parental administrator at a hearing held for that purpose. Not_  
+| _later than the fourth day before the date of the hearing, the court_  
+| _shall give to the parental administrator written notice specifying_  
+| _the purpose, date, and time of the hearing._  
+|  _(g)_ _____A physician who examines the parental administrator_  
+| _under this section shall return to the court a written letter or_  
+| _certificate from the physician that describes the nature, degree,_  
+| _and severity of the parental administrator's incapacity, if any,_  
+| _including any functional deficits regarding the parental_  
+| _administrator's ability to perform the duties the parental_  
+| _administrator owes to the incapacitated adult._ ___A written letter or_  
+| _certificate by a physician finding incapacity under this subsection_  
+| _may be relied on by the court only for purposes of making a_  
+| _determination of incapacity under Sections 1359.0551(3) and_  
+| _1359.0107(1)._  
+|  _(h)_ _____Notwithstanding Section 1359.0603 and except as_  
+| _provided by Subsection (i), the court may order court costs_  
+| _associated with making a determination relating to incapacity under_  
+| _this section to be paid by the applicant who requested the_  
+| _investigation under this section if:_  
+|  _(1)_ _____the parental administrator is determined not to be_  
+| _an incapacitated person; and_  
+|  _(2)_ _____the incapacitated adult has no guardianship estate_  
+| _or management trust or the assets of the estate or management trust,_  
+| _as appropriate, are insufficient to pay the court costs._  
+|  _(i)_ _____If the applicant ordered to pay court costs under_  
+| _Subsection (h) files, on the applicant's own behalf, an affidavit_  
+| _of inability to pay court costs under Rule 145, Texas Rules of Civil_  
+| _Procedure, that shows the applicant is unable to afford the costs,_  
+| _the court shall order costs be paid out of the county treasury._  
+|  _Sec._ ___1359.0553._ _____PROCEDURE FOR REMOVAL OF PARENTAL_  
+| _ADMINISTRATOR OR CONVERSION OF PARENTAL ADMINISTRATION TO_  
+| _GUARDIANSHIP. (a)_ ___The court on the court's own motion or on the_  
+| _application of any person may initiate a proceeding to:_  
+|  _(1)_ _____subject to Subsection (b), remove a parental_  
+| _administrator on proof of a ground for removal described by Section_  
+| _1359.0551; or_  
+|  _(2)_ _____subject to Subsection (d), convert a parental_  
+| _administration for an incapacitated adult to a guardianship._  
+|  _(b)_ _____In a proceeding for the removal of a parental_  
+| _administrator initiated under Subsection (a)(1), the court shall:_  
+|  _(1)_ _____have the parental administrator cited by personal_  
+| _service to appear before the court; and_  
+|  _(2)_ _____appoint to represent the proposed incapacitated_  
+| _adult's interests an attorney ad litem who has the certification_  
+| _required by Section 1054.201._  
+|  _(c) A citation under this section must state:_  
+|  _(1)_ _____the time and place of a hearing on the matter at_  
+| _which the parental administrator is to appear; and_  
+|  _(2)_ _____the alleged ground for removal of the parental_  
+| _administrator._  
+|  _(d)_ _____In a proceeding for the conversion of a parental_  
+| _administration to a guardianship under Subsection (a)(2),_  
+| _notwithstanding any other law, all requirements necessary to create_  
+| _a guardianship are required to convert a parental administration to_  
+| _a guardianship, except:_  
+|  _(1)_ _____a procedural requirement the court determines was_  
+| _fulfilled when the parental administration was initially_  
+| _established; and_  
+|  _(2)_ _____a requirement for a written letter or certificate_  
+| _from a physician licensed in this state._  
+|  _(e)_ _____Notwithstanding the discretion provided by Subsection_  
+| _(d), the court shall:_  
+|  _(1)_ _____provide notice of the conversion of a parental_  
+| _administration to a guardianship in the manner required by Chapter_  
+| _1051; and_  
+|  _(2)_ _____appoint to represent the proposed incapacitated_  
+| _adult's interests an attorney ad litem who has the certification_  
+| _required by Section 1054.201._  
+|  _(f)_ _____The authority to appear pro se in a parental_  
+| _administration proceeding does not extend to a proceeding to_  
+| _convert a parental administration to a guardianship._  
+|  _Sec._ ___1359.0554._ _____INFORMAL REQUEST FOR ORDER BY INCAPACITATED_  
+| _ADULT; INVESTIGATION AND REPORT. (a) Subject to Subsection (e), an_  
+| _incapacitated adult may request by informal letter to the court an_  
+| _order under Section 1359.0551(4) finding that the incapacitated_  
+| _adult is no longer incapacitated._ ___A person who knowingly_  
+| _interferes with the transmission of the request to the court may be_  
+| _adjudged guilty of contempt of court._  
+|  _(b)_ _____On receipt of an informal letter under Subsection (a),_  
+| _the court shall appoint the court investigator or a guardian ad_  
+| _litem to investigate the incapacitated adult's circumstances,_  
+| _including any circumstances alleged in the letter, to determine_  
+| _whether:_  
+|  _(1)_ _____the incapacitated adult is no longer_  
+| _incapacitated; or_  
+|  _(2)_ _____a modification of the parental administration is_  
+| _necessary._  
+|  _(c)_ _____The guardian ad litem or court investigator shall file_  
+| _with the court a report of the investigation's findings and_  
+| _conclusions. If the guardian ad litem or court investigator_  
+| _determines that it is in the best interests of the incapacitated_  
+| _adult to terminate or modify the parental administration, the_  
+| _guardian ad litem or court investigator shall file an application_  
+| _on the incapacitated adult's behalf._  
+|  _(d)_ _____A guardian ad litem appointed under this section may_  
+| _also be appointed by the court to serve as attorney ad litem under_  
+| _Section 1359.0553._  
+|  _(e)_ _____A person may not reapply for termination or modification_  
+| _of the parental administration before the first anniversary of the_  
+| _date of the hearing on the last preceding application, except as_  
+| _otherwise provided by the court on good cause shown by the_  
+| _applicant._  
+|  _Sec._ ___1359.0555._ _____TERMINATION OF PARENTAL ADMINISTRATOR'S_  
+| _RIGHTS AND POWERS ON REMOVAL OR CONVERSION TO GUARDIANSHIP. The_  
+| _rights and powers of a parental administrator terminate when a_  
+| _court orders the parental administrator removed or a parental_  
+| _administration converted into a guardianship._  
+|  _Sec._ ___1359.0556._ _____APPOINTMENT BECAUSE OF RESIGNATION,_  
+| _REMOVAL, OR DEATH. (a) Except as provided by Subsection (b), if a_  
+| _parental administrator resigns, is removed, or dies, the court may_  
+| _appoint a successor parental administrator on application and on_  
+| _service of notice as directed by the court._  
+|  _(b)_ _____The court may appoint a successor parental_  
+| _administrator under this section without citation or notice if the_  
+| _court finds that a necessity exists for the immediate appointment._  
+| _Subject to an order of the court, a successor parental_  
+| _administrator has the same rights and powers previously granted to_  
+| _the former parental administrator._  
+| _SUBCHAPTER M. COMPENSATION, EXPENSES, AND COURT COSTS_  
+|  _Sec._ ___1359.0601._ _____COMPENSATION FOR CERTAIN PARENTAL_  
+| _ADMINISTRATORS. The court may authorize compensation for a_  
+| _parental administrator from available funds of the incapacitated_  
+| _adult's estate or other funds available for that purpose. The court_  
+| _may set the compensation in an amount not to exceed five percent of_  
+| _the incapacitated adult's gross income. For purposes of this_  
+| _section, "gross income" does not include United States Department_  
+| _of Veterans Affairs or social security benefits received by an_  
+| _incapacitated adult._  
+|  _Sec._ ___1359.0602._ _____EXPENSES. A parental administrator is_  
+| _entitled to reimbursement of expenses to the same extent as a_  
+| _guardian is entitled to reimbursement of expenses under Subchapter_  
+| _C, Chapter 1155._  
+|  _Sec._ ___1359.0603._ _____COSTS IN PARENTAL ADMINISTRATION_  
+| _PROCEEDING GENERALLY. (a) In a parental administration_  
+| _proceeding, the court costs of the proceeding, including the costs_  
+| _described by Subsection (b), shall, except as provided by_  
+| _Subsection (c), be paid as follows, and the court shall issue the_  
+| _judgment accordingly:_  
+|  _(1) out of the incapacitated adult's estate, if any;_  
+|  _(2)_ _____out of the management trust, if a management trust_  
+| _has been created for the benefit of the incapacitated adult under_  
+| _Chapter 1301 and the court determines it is in the incapacitated_  
+| _adult's best interests;_  
+|  _(3)_ _____by the party to the proceeding who incurred the_  
+| _costs, unless that party filed, on the party's own behalf, an_  
+| _affidavit of inability to pay the costs under Rule 145, Texas Rules_  
+| _of Civil Procedure, that shows the party is unable to afford the_  
+| _costs, if:_  
+|  _(A)_ _____the incapacitated adult has no estate or no_  
+| _management trust has been created for the incapacitated adult's_  
+| _benefit; or_  
+|  _(B)_ _____the assets of the incapacitated adult's_  
+| _estate or management trust, as appropriate, are insufficient to pay_  
+| _the costs; or_  
+|  _(4) out of the county treasury if:_  
+|  _(A)_ _____the incapacitated adult has no estate or_  
+| _management trust or the assets of the incapacitated adult's estate_  
+| _or management trust, as appropriate, are insufficient to pay the_  
+| _costs; and_  
+|  _(B)_ _____the party to the proceeding who incurred the_  
+| _costs filed, on the party's own behalf, an affidavit of inability to_  
+| _pay the costs under Rule 145, Texas Rules of Civil Procedure, that_  
+| _shows the party is unable to afford the costs._  
+|  _(b)_ _____In a parental administration proceeding, the cost of any_  
+| _guardians ad litem, attorneys ad litem, health professionals, and_  
+| _interpreters appointed under this chapter shall be set in an amount_  
+| _the court considers equitable and just._  
+|  _(c)_ _____Notwithstanding any other law requiring the payment of_  
+| _court costs in a parental administration proceeding, the following_  
+| _are not required to pay court costs on the filing of or during a_  
+| _parental administration proceeding:_  
+|  _(1) an attorney ad litem;_  
+|  _(2) a guardian ad litem;_  
+|  _(3)_ _____a person or entity who files an affidavit of_  
+| _inability to pay the costs under Rule 145, Texas Rules of Civil_  
+| _Procedure, that shows the person or entity is unable to afford the_  
+| _costs; and_  
+|  _(4) a governmental entity._  
+|  _(d)_ _____For purposes of Subsections (a) and (c), a person or_  
+| _entity who files an affidavit of inability to pay the costs under_  
+| _Rule 145, Texas Rules of Civil Procedure, is unable to afford the_  
+| _costs if the affidavit shows that the person or entity:_  
+|  _(1)_ _____is currently receiving assistance or other_  
+| _benefits from a government program under which assistance or other_  
+| _benefits are provided to individuals on a means-tested basis;_  
+|  _(2)_ _____is eligible for and currently receiving free legal_  
+| _services in the parental administration proceeding through the_  
+| _following:_  
+|  _(A)_ _____a legal services provider funded partly by_  
+| _the Texas Access to Justice Foundation;_  
+|  _(B)_ _____a legal services provider funded partly by_  
+| _the Legal Services Corporation; or_  
+|  _(C)_ _____a nonprofit corporation formed under the laws_  
+| _of this state that provides legal services to low-income_  
+| _individuals whose household income is at or below 200 percent of the_  
+| _federal poverty guidelines as determined by the United States_  
+| _Department of Health and Human Services;_  
+|  _(3)_ _____applied and was eligible for free legal services_  
+| _through a person or entity listed in Subdivision (2) but was_  
+| _declined representation; or_  
+|  _(4)_ _____has a household income that is at or below 200_  
+| _percent of the federal poverty guidelines as determined by the_  
+| _United States Department of Health and Human Services and has money_  
+| _or other available assets, excluding any homestead and exempt_  
+| _property under Chapter 42, Property Code, in an amount that does not_  
+| _exceed $2,000._  
+|  _(e)_ _____If an affidavit of inability to pay costs filed under_  
+| _Rule 145, Texas Rules of Civil Procedure, is contested, the court,_  
+| _at a hearing, shall review the contents of and attachments to the_  
+| _affidavit and any other evidence offered at the hearing and make a_  
+| _determination as to whether the person or entity is unable to afford_  
+| _the costs. If the court finds that the person or entity is able to_  
+| _afford the costs, the person or entity must pay the court costs._  
+| _Except with leave of court, no further action in the parental_  
+| _administration proceeding may be taken by a person or entity found_  
+| _able to afford costs until payment of those costs is made._  
+|  _(f)_ _____The costs attributable to the services of a person_  
+| _described by Subsection (b) shall be paid under this section at any_  
+| _time after the commencement of the proceeding as ordered by the_  
+| _court._  
+|  _(g)_ _____If the court finds that a party in a parental_  
+| _administration proceeding acted in bad faith or without just cause_  
+| _in prosecuting or objecting to an application in the proceeding,_  
+| _the court may order the party to pay all or part of the costs of the_  
+| _proceeding._  
+|  _(h)_ _____If the incapacitated adult has an estate or a management_  
+| _trust under Chapter 1301 is created, a person or entity who paid any_  
+| _costs on the filing of or during the proceeding is entitled to be_  
+| _reimbursed out of assets of the incapacitated adult's estate or_  
+| _management trust, as appropriate, for the costs if:_  
+|  _(1)_ _____the assets of the estate or trust, as appropriate,_  
+| _are sufficient to cover the reimbursement of the costs; and_  
+|  _(2)_ _____the person or entity has not been ordered by the_  
+| _court to pay the costs as all or part of the payment of court costs_  
+| _under Subsection (g)._  
+|  _(i)_ _____If at any time after a parental administration or_  
+| _management trust under Chapter 1301 is created there are sufficient_  
+| _assets of the estate or trust, as appropriate, to pay the amount of_  
+| _any of the costs exempt from payment under Subsection (c), the court_  
+| _shall require the parental administrator to pay out of the parental_  
+| _administration or management trust, as appropriate, to the court_  
+| _clerk for deposit in the county treasury the amount of any of those_  
+| _costs._  
+|  _(j)_ _____To the extent that this section conflicts with the Texas_  
+| _Rules of Civil Procedure or other rules, this section controls._  
+| ARTICLE 2. CONFORMING AMENDMENTS  
+|  SECTION 2.01. Article 14.055, Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  Art. 14.055. DUTY OF OFFICER TO NOTIFY PROBATE COURT. (a)  
+| In this article _:_  
+|  _(1)_ _____"Guardian" has the meaning assigned by Section_  
+| _1002.012, Estates Code._  
+|  _(2)_ _____"Incapacitated adult" has the meaning assigned by_  
+| _Section 1359.0001, Estates Code._  
+|  _(3)_ _____"Parental administrator" has the meaning assigned_  
+| _by Section 1359.0001, Estates Code._  
+|  _(4) "Ward"_[ ~~, "ward"~~ ] has the meaning assigned by  
+| Section 22.033, Estates Code.  
+|  (b) As soon as practicable, but not later than the first  
+| working day after the date a peace officer detains or arrests a  
+| person who is _:_  
+|  _(1)_ a ward, the peace officer or the person having  
+| custody of the ward shall notify the _ward's guardian and the_ court  
+| having jurisdiction over the ward's guardianship of the ward's  
+| detention or arrest _; or_  
+|  _(2)_ _____an incapacitated adult for whom a parental_  
+| _administrator has been appointed, the peace officer or the person_  
+| _having custody of the incapacitated adult shall notify the_  
+| _incapacitated adult's parental administrator and the court having_  
+| _jurisdiction over the incapacitated adult's parental_  
+| _administration of the incapacitated adult's detention or arrest_.  
+|  SECTION 2.02. Article 15.171, Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  Art. 15.171. DUTY OF OFFICER TO NOTIFY PROBATE COURT. (a)  
+| In this article _:_  
+|  _(1)_ _____"Guardian" has the meaning assigned by Section_  
+| _1002.012, Estates Code._  
+|  _(2)_ _____"Incapacitated adult" has the meaning assigned by_  
+| _Section 1359.0001, Estates Code._  
+|  _(3)_ _____"Parental administrator" has the meaning assigned_  
+| _by Section 1359.0001, Estates Code._  
+|  _(4) "Ward"_[ ~~, "ward"~~ ] has the meaning assigned by  
+| Section 22.033, Estates Code.  
+|  (b) As soon as practicable, but not later than the first  
+| working day after the date a peace officer _detains or_ arrests a  
+| person who is _:_  
+|  _(1)_ a ward, the peace officer or the person having  
+| custody of the ward shall notify the _ward's guardian and the_ court  
+| having jurisdiction over the ward's guardianship of the ward's  
+| _detention or_ arrest _; or_  
+|  _(2)_ _____an incapacitated adult for whom a parental_  
+| _administrator has been appointed, the peace officer or the person_  
+| _having custody of the incapacitated adult shall notify the_  
+| _incapacitated adult's parental administrator and the court having_  
+| _jurisdiction over the incapacitated adult's parental_  
+| _administration of the incapacitated adult's detention or arrest_.  
+|  SECTION 2.03. Article 26.041, Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  Art. 26.041. PROCEDURES RELATED TO GUARDIANSHIPS _AND_  
+| _PARENTAL ADMINISTRATIONS_. (a) In this article:  
+|  (1) "Guardian" has the meaning assigned by Section  
+| 1002.012, Estates Code.  
+|  (2) _"Incapacitated adult" has the meaning assigned by_  
+| _Section 1359.0001, Estates Code._  
+|  _(3)_ "Letters of guardianship" means a certificate  
+| issued under Section 1106.001(a), Estates Code.  
+|  _(4)_ _____"Parental administrator" has the meaning assigned_  
+| _by Section 1359.0001, Estates Code._  
+|  (b) A guardian who provides a court with letters of  
+| guardianship _or a parental administrator who provides a court with_  
+| _an order of parental administration_ for a defendant may:  
+|  (1) provide information relevant to the determination  
+| of _indigence_ [ ~~indigency~~ ]; and  
+|  (2) request that counsel be appointed in accordance  
+| with this chapter.  
+|  SECTION 2.04. The heading to Chapter 155, Government Code,  
+| is amended to read as follows:  
+| CHAPTER 155. DUTIES RESPECTING GUARDIANSHIP _AND PARENTAL_  
+| _ADMINISTRATION_  
+|  SECTION 2.05. Section 155.001, Government Code, is amended  
+| by adding Subdivisions (4-a) and (5-a) to read as follows:  
+|  _(4-a)_ _____"Incapacitated adult" has the meaning assigned_  
+| _by Section 1359.0001, Estates Code._  
+|  _(5-a)_ _____"Parental administrator" has the meaning_  
+| _assigned by Section 1359.0001, Estates Code._  
+|  SECTION 2.06. The heading to Subchapter D, Chapter 155,  
+| Government Code, as added by Chapter 313 (S.B. 1096), Acts of the  
+| 85th Legislature, Regular Session, 2017, is amended to read as  
+| follows:  
+| SUBCHAPTER D. GUARDIANSHIP _AND PARENTAL ADMINISTRATION_  
+| REGISTRATION AND DATABASE  
+|  SECTION 2.07. Section 155.151, Government Code, as added by  
+| Chapter 313 (S.B. 1096), Acts of the 85th Legislature, Regular  
+| Session, 2017, is amended to read as follows:  
+|  Sec. 155.151. REGISTRATION OF GUARDIANSHIPS _AND PARENTAL_  
+| _ADMINISTRATIONS_. (a) The supreme court, after consulting with the  
+| office and the commission, shall by rule establish a mandatory  
+| registration program for guardianships _and parental_  
+| _administrations_ under which all guardianships _or parental_  
+| _administrations, as applicable,_ in this state shall be required to  
+| register with the commission.  
+|  (b) In establishing rules under this section, the supreme  
+| court shall ensure courts with jurisdiction over a guardianship _or_  
+| _parental administration, as applicable,_ immediately notify the  
+| commission of the removal of a guardian _or parental administrator_.  
+|  SECTION 2.08. Section 155.152, Government Code, as added by  
+| Chapter 313 (S.B. 1096), Acts of the 85th Legislature, Regular  
+| Session, 2017, is amended to read as follows:  
+|  Sec. 155.152. GUARDIANSHIP _AND PARENTAL ADMINISTRATION_  
+| DATABASE. In cooperation with the commission and courts with  
+| jurisdiction over guardianship _or parental administration_  
+| proceedings and by using the information obtained by the commission  
+| under this subchapter, the office shall establish and maintain a  
+| central database of all guardianships _and parental administrations_  
+| subject to the jurisdiction of this state.  
+|  SECTION 2.09. Section 155.153(c), Government Code, as added  
+| by Chapter 313 (S.B. 1096), Acts of the 85th Legislature, Regular  
+| Session, 2017, is amended to read as follows:  
+|  (c) The only information that may be disclosed from the  
+| database to a law enforcement official inquiring into a  
+| guardianship _or parental administration_ is:  
+|  (1) the name, sex, and date of birth of a ward _or_  
+| _incapacitated adult, as applicable_ ;  
+|  (2) the name, telephone number, and address of the  
+| guardian of a ward _or the parental administrator of an_  
+| _incapacitated adult, as applicable_ ; and  
+|  (3) the name of the court with jurisdiction over the  
+| guardianship _or parental administration, as applicable,_  
+| _proceeding_.  
+|  SECTION 2.10. Section 155.154, Government Code, as added by  
+| Chapter 313 (S.B. 1096), Acts of the 85th Legislature, Regular  
+| Session, 2017, is amended to read as follows:  
+|  Sec. 155.154. DATABASE DISCLAIMER. To the extent feasible,  
+| the following disclaimer shall be displayed when the database is  
+| accessed: "This database is for the limited purpose of determining  
+| whether an individual has a guardian _or parental administrator_ and  
+| obtaining a guardian's _or parental administrator's_ contact  
+| information. The scope of a guardian's _or parental administrator's_  
+| authority is determined by court order, and a guardian _or parental_  
+| _administrator_ should not be presumed to have the authority to act  
+| for or on behalf of a ward _or incapacitated adult_ until the extent  
+| of the guardian's _or parental administrator's_ authority is verified  
+| by the court with jurisdiction over the guardianship _or parental_  
+| _administration_."  
+|  SECTION 2.11. Section 155.155(a), Government Code, is  
+| amended to read as follows:  
+|  (a) Information that is contained in the database required  
+| under Section 155.152, including personally identifying  
+| information of a guardian _,_ [ ~~or a~~ ] ward, _incapacitated adult, or_  
+| _parental administrator_ is confidential and not subject to  
+| disclosure under Chapter 552 or any other law.  
+|  SECTION 2.12. Section 313.004(f), Health and Safety Code,  
+| is amended to read as follows:  
+|  (f) A person who is an available adult surrogate, as  
+| described by Subsection (a), may consent to medical treatment on  
+| behalf of a patient who is an adult inmate of a county or municipal  
+| jail only for a period that expires on the earlier of the 120th day  
+| after the date the person agrees to act as an adult surrogate for  
+| the patient or the date the inmate is released from jail. At the  
+| conclusion of the period, a successor surrogate may not be  
+| appointed and only the _following persons may consent to medical_  
+| _treatment:_  
+|  _(1) the_ patient _;_  
+|  _(2)_ [ ~~or~~ ] the patient's appointed guardian of the  
+| person, if the patient is a ward under Title 3, Estates Code _; or_  
+|  _(3)_ _____the patient's parental administrator appointed_  
+| _under Chapter 1359, Estates Code, if the order appointing the_  
+| _parental administrator grants the parental administrator the duty_  
+| _to provide the incapacitated adult with medical care_ [ ~~, may consent~~  
+|  ~~to medical treatment~~ ].  
+|  SECTION 2.13. Section 48.211, Human Resources Code, is  
+| amended to read as follows:  
+|  Sec. 48.211. REPORT TO _PROBATE_ [ ~~GUARDIANSHIP~~ ] COURT. If  
+| the elderly person or person with a disability has a guardian _or a_  
+| _parental administrator, as defined by Section 1359.0001, Estates_  
+| _Code_ , a written notification of the findings of the investigation  
+| shall be sent to the court to which the guardian _or parental_  
+| _administrator_ is accountable.  
+|  SECTION 2.14. Section 118.052, Local Government Code, is  
+| amended to read as follows:  
+|  Sec. 118.052. FEE SCHEDULE. Each clerk of a county court  
+| shall collect the following fees for services rendered to any  
+| person:  
+|  (1) CIVIL COURT ACTIONS  
+|  (A) Filing of Original Action (Sec. 118.053):  
+|  (i) Garnishment after judgment . . . $15.00  
+|  (ii) All others . . . $40.00  
+|  (B) Filing of Action Other than Original (Sec.  
+| 118.054) . . . $30.00  
+|  (C) Services Rendered After Judgment in Original  
+| Action (Sec. 118.0545):  
+|  (i) Abstract of judgment . . . $ 5.00  
+|  (ii) Execution, order of sale, writ, or  
+| other process . . . $ 5.00  
+|  (2) PROBATE COURT ACTIONS  
+|  (A) Probate Original Action (Sec. 118.055):  
+|  (i) Probate of a will with independent  
+| executor, administration with will attached, administration of an  
+| estate, guardianship or receivership of an estate, _parental_  
+| _administration,_ or muniment of title . . . $40.00  
+|  (ii) Community survivors . . . $40.00  
+|  (iii) Small estates . . . $40.00  
+|  (iv) Declarations of heirship . . . $40.00  
+|  (v) Mental health or chemical dependency  
+| services . . . $40.00  
+|  (vi) Additional, special fee (Sec. 118.064)  
+| . . . $ 5.00  
+|  (B) Services in Pending Probate Action (Sec.  
+| 118.056):  
+|  (i) Filing an inventory and appraisement as  
+| provided by Section 118.056(d) . . . $25.00  
+|  (ii) Approving and recording bond . . . $  
+| 3.00  
+|  (iii) Administering oath . . . $ 2.00  
+|  (iv) Filing annual or final account of  
+| estate . . . $25.00  
+|  (v) Filing application for sale of real or  
+| personal property . . . $25.00  
+|  (vi) Filing annual or final report of  
+| guardian of a person . . . $10.00  
+|  (vii) Filing a document not listed under  
+| this paragraph after the filing of an order approving the inventory  
+| and appraisement or after the 120th day after the date of the  
+| initial filing of the action, whichever occurs first, if more than  
+| 25 pages . . . $25.00  
+|  (C) Adverse Probate Action (Sec. 118.057) . . .  
+| $40.00  
+|  (D) Claim Against Estate (Sec. 118.058) . . .  
+| $10.00  
+|  (E) Supplemental Court-Initiated Guardianship  
+| Fee in Probate Original Actions and Adverse Probate Actions (Sec.  
+| 118.067) . . . $20.00  
+|  (F) Supplemental Public Probate Administrator  
+| Fee For Counties That Have Appointed a Public Probate Administrator  
+| (Sec. 118.068) . . . $10.00  
+|  (3) OTHER FEES  
+|  (A) Issuing Document (Sec. 118.059):  
+|  original document and one copy . . . $ 4.00  
+|  each additional set of an original and one copy . . . $ 4.00  
+|  (B) Certified Papers (Sec. 118.060):  
+|  for the clerk's certificate . . . $ 5.00  
+|  plus a fee per page or part of a page of . . . $ 1.00  
+|  (C) Noncertified Papers (Sec. 118.0605):  
+|  for each page or part of a page . . . $ 1.00  
+|  (D) Letters Testamentary, Letter of  
+| Guardianship, Letter of Administration, or Abstract of Judgment  
+| (Sec. 118.061) . . . $ 2.00  
+|  (E) Deposit and Safekeeping of Wills (Sec.  
+| 118.062) . . . $ 5.00  
+|  (F) Mail Service of Process (Sec. 118.063) . . .  
+| same as sheriff  
+|  (G) Records Management and Preservation Fee  
+| . . . $ 5.00  
+|  (H) Records Technology and Infrastructure Fee if  
+| authorized by the commissioners court of the county (Sec. 118.026)  
+| . . . $ 2.00  
+|  SECTION 2.15. The heading to Section 25.10, Penal Code, is  
+| amended to read as follows:  
+|  Sec. 25.10. INTERFERENCE WITH _CERTAIN POSSESSORY_ RIGHTS [ ~~OF~~  
+|  ~~GUARDIAN OF THE PERSON~~ ].  
+|  SECTION 2.16. Section 25.10(a), Penal Code, is amended by  
+| amending Subdivision (1) and adding Subdivision (1-a) to read as  
+| follows:  
+|  (a) In this section:  
+|  (1) _"Incapacitated adult" and "parental_  
+| _administrator"_ ___have the meanings assigned by Section 1359.0001,_  
+| _Estates Code._  
+|  _(1-a)_ "Possessory right" means _:_  
+|  _(A)_ the right of a guardian of the person to have  
+| physical possession of a ward and to establish the ward's legal  
+| domicile, as provided by Section 1151.051(c)(1), Estates Code _; or_  
+|  _(B)_ _____the right of a parental administrator to have_  
+| _physical possession of an incapacitated adult and to establish the_  
+| _incapacitated adult's legal domicile, as provided by Section_  
+| _1359.0108, Estates Code_.  
+|  SECTION 2.17. Section 25.10, Penal Code, is amended by  
+| adding Subsection (b-1) and amending Subsection (d) to read as  
+| follows:  
+|  _(b-1)_ _____A person commits an offense if the person takes,_  
+| _retains, or conceals an incapacitated adult when the person knows_  
+| _that the person's taking, retention, or concealment interferes with_  
+| _a possessory right with respect to the incapacitated adult that is_  
+| _established in the order appointing a parental administrator by_  
+| _including the right of the parental administrator to:_  
+|  _(1)_ _____have physical possession of the incapacitated_  
+| _adult; or_  
+|  _(2)_ _____establish the incapacitated adult's legal_  
+| _domicile._  
+|  (d) This section does not apply to a governmental entity  
+| where the taking, retention, or concealment of the _individual_  
+| [ ~~ward~~ ] was authorized by Subtitle E, Title 5, Family Code, or  
+| Chapter 48, Human Resources Code.  
+|  SECTION 2.18. The changes in law made by this Act to Section  
+| 25.10, Penal Code, apply only to an offense committed on or after  
+| the effective date of this Act. An offense committed before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the offense was committed, and the former law is continued in  
+| effect for that purpose. For purposes of this section, an offense  
+| was committed before the effective date of this Act if any element  
+| of the offense occurred before that date.  
+| ARTICLE 3. EFFECTIVE DATE  
+|  SECTION 3.01. This Act takes effect September 1, 2019.
+

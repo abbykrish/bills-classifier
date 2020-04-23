@@ -1,0 +1,919 @@
+|  
+---|---  
+|  By: Goldman | H.B. No. 1695  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the transfer of the regulation of motor fuel metering  
+| and motor fuel quality from the Texas Department of Agriculture to  
+| the Texas Department of Licensing and Regulation.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 14, Occupations Code, is  
+| amended by adding Chapter 2310 to read as follows:  
+| _CHAPTER 2310. MOTOR FUEL AND METERING AND QUALITY_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 2310.001. DEFINITIONS. (a) In this chapter:_  
+|  _(1)_ _____"Commission" means the Texas Commission of_  
+| _Licensing and Regulation_  
+|  _(2)_ _____"Department" means Texas Department of Licensing_  
+| _and Regulation_  
+|  _(3)_ _____"Commercial weighing or measuring device" means a_  
+| _weighing or measuring device used in a commercial transaction._  
+|  _(4) "Dealer" means a person who:_  
+|  _(A)_ _____is the operator of a service station or other_  
+| _retail outlet; and_  
+|  _(B)_ _____delivers motor fuel into the fuel tanks of_  
+| _motor vehicles or motor boats._  
+|  _(5)_ _____"Motor fuel" has the meaning assigned by Section_  
+| _162.001, Tax Code._  
+|  _(6)_ _____"Motor fuel metering device" means a commercial_  
+| _weighing or measuring device used for motor fuel sales._  
+|  _(7)_ _____"Operator" or "user" means a person in possession_  
+| _or control of a weighing or measuring device._  
+|  _(8) "Sell" includes barter or exchange._  
+|  _(9)_ _____"Weighing or measuring device" means a scale or a_  
+| _mechanical or electronic device used to dispense or deliver a motor_  
+| _fuel by weight, volume, flow rate, or other measure or to compute_  
+| _the charge for a service._  
+|  _(10)_ _____"Weight or measure of a motor fuel" means the_  
+| _weight or measure of a motor fuel as determined by a weighing or_  
+| _measuring device._  
+|  _(b)_ _____A reference to the weight of a motor fuel in this chapter_  
+| _is a reference to the net weight of the motor fuel._  
+|  _Sec._ ___2310.002._ _____ENFORCEMENT OF CHAPTER. (a)_  
+| _Notwithstanding any other law, the department shall enforce the_  
+| _provisions of this chapter and shall supervise all motor fuel_  
+| _metering devices sold or offered for sale in this state. The_  
+| _department may purchase apparatus as necessary for the_  
+| _administration of this chapter._  
+|  _(b)_ _____To the extent that this chapter conflicts with Chapter_  
+| _13, Agriculture Code, with regard to motor fuel metering devices,_  
+| _this chapter controls._  
+|  _(c)_ _____The department may contract with one or more license_  
+| _holders under Subchapter D or Subchapter I, Chapter 13, Agriculture_  
+| _Code, to perform the department's duties under this chapter related_  
+| _to motor fuel metering devices. A reference in this chapter to the_  
+| _commission or department in the context of a contracted service_  
+| _means the contractor._  
+|  _Sec._ ___2310.003._ _____CIVIL PENALTY; INJUNCTION. (a) A person who_  
+| _violates Subchapter B or C or a rule adopted under Subchapter B or C_  
+| _is liable to the state for a civil penalty not to exceed $500 for_  
+| _each violation. Each day a violation continues may be considered a_  
+| _separate violation for purposes of a civil penalty assessment._  
+|  _(b)_ _____On request of the department, the attorney general or_  
+| _the county attorney or district attorney of the county in which the_  
+| _violation is alleged to have occurred shall file suit to collect the_  
+| _penalty._  
+|  _(c)_ _____A civil penalty collected under this section shall be_  
+| _deposited in the state treasury to the credit of the general revenue_  
+| _fund. All civil penalties recovered in suits first instituted by a_  
+| _local government or governments under this section shall be equally_  
+| _divided between the State of Texas and the local government or_  
+| _governments with 50 percent of the recovery to be paid to the_  
+| _general revenue fund and the other 50 percent equally to the local_  
+| _government or governments first instituting the suit._  
+|  _(d)_ _____The department is entitled to appropriate injunctive_  
+| _relief to prevent or abate a violation of this chapter or a rule_  
+| _adopted under this chapter. On request of the department, the_  
+| _attorney general or the county or district attorney of the county in_  
+| _which the alleged violation is threatened or is occurring shall_  
+| _file suit for the injunctive relief. Venue is in the county in_  
+| _which the alleged violation is threatened or is occurring._  
+|  _(e)_ _____The department and the attorney general may each recover_  
+| _reasonable expenses incurred in obtaining injunctive relief and_  
+| _civil penalties under this section, including investigative costs,_  
+| _court costs, reasonable attorney's fees, witness fees, and_  
+| _deposition expenses. The expenses recovered by the department may_  
+| _be appropriated only to the department for the administration and_  
+| _enforcement of this chapter. The expenses recovered by the_  
+| _attorney general may be appropriated only to the attorney general._  
+| _SUBCHAPTER B. STANDARD WEIGHTS AND MEASURES FOR MOTOR FUEL_  
+| _METERING DEVICES_  
+|  _Sec._ ___2310.051._ _____LEGAL STANDARDS. (a) The legal standard for_  
+| _the weight or measure of motor fuel in this state is the standard_  
+| _weight or measure adopted and used by the government of the United_  
+| _States for that motor fuel. If the United States does not provide a_  
+| _standard weight or measure for motor fuel, the standard for motor_  
+| _fuel is that established by this subchapter._  
+|  _(b)_ _____The commission may adopt rules for the purpose of_  
+| _administering this subchapter and bringing about uniformity_  
+| _between the standards established under this subchapter and the_  
+| _standards established by federal law._  
+|  _(c)_ _____Except as otherwise provided by an express contract, a_  
+| _contract for work or sales by weight or measure of motor fuel shall_  
+| _be construed in accordance with the standards of this subchapter._  
+|  _(d)_ _____The standards of this subchapter shall be the guide for_  
+| _making any adjustment of weighing or measuring devices under the_  
+| _law of this state._  
+|  _Sec._ ___2310.052._ _____STANDARD FOR LIQUID CAPACITY. (a) The_  
+| _standard unit of measure of capacity for liquids is the gallon._  
+|  _(b)_ _____Except as provided by Subsections (c) and (d), all other_  
+| _measures of capacity for liquids are derived from the gallon by_  
+| _continual division by two, making half gallons, quarts, pints, half_  
+| _pints, and gills._  
+|  _(c)_ _____A mechanism or machine that is adapted to measure and_  
+| _deliver liquid by volume and that indicates fractional parts of a_  
+| _gallon shall indicate the fractional parts either in terms of_  
+| _binary submultiple subdivisions or in terms of tenths of a gallon._  
+|  _(d)_ _____For purposes of the retail sale of motor fuel only, the_  
+| _liquid gallon contains 231 cubic inches without adjustment based on_  
+| _the temperature of the liquid._  
+|  _Sec._ ___2310.053._ _____EXEMPTION OF WEIGHING OR MEASURING DEVICES._  
+| _(a) The commission by rule may exempt a motor fuel metering device_  
+| _from a requirement established by this chapter if the commission_  
+| _determines that imposing or enforcing the requirement:_  
+|  _(1) is not cost-effective for the department;_  
+|  _(2)_ _____is not feasible with current resources or_  
+| _standards; or_  
+|  _(3)_ _____will not substantially benefit or protect_  
+| _consumers._  
+|  _(b)_ _____A motor fuel metering device is exempt from the_  
+| _requirements of this chapter if the motor fuel metering device is_  
+| _not used to:_  
+|  _(1)_ _____calculate the amount of fuel sold in a commercial_  
+| _transaction; or_  
+|  _(2) compute the charge for service._  
+|  _Sec._ ___2310.054._ _____SALE OF MOTOR FUEL BY PROPER MEASURE. (a)_  
+| _Except as otherwise provided by this section, motor fuel shall be_  
+| _sold by liquid measure._  
+|  _(b)_ _____A person violates this chapter if, in violation of this_  
+| _section, the person sells motor fuel by other than liquid measure._  
+|  _Sec._ ___2310.055._ _____PRICE ADVERTISEMENT; MISREPRESENTATION OF_  
+| _PRICE OR QUANTITY. (a) If a price sign, card, tag, poster, or other_  
+| _advertisement displaying the price of motor fuel includes a whole_  
+| _number and a fraction, the figures in the fraction shall be of_  
+| _proportionate size and legibility to those of the whole number._  
+|  _(b) A person violates this chapter if the person:_  
+|  _(1)_ _____misrepresents the price of motor fuel sold or_  
+| _offered or exposed for sale; or_  
+|  _(2)_ _____represents the price or the quantity of motor fuel_  
+| _sold or offered or exposed for sale in a manner intended or tending_  
+| _to mislead or deceive an actual or prospective customer._  
+|  _Sec._ ___2310.056._ _____FALSE REPRESENTATION OF MOTOR FUEL QUANTITY._  
+| _A person violates this chapter if the person or the person's servant_  
+| _or agent:_  
+|  _(1)_ _____sells or offers or exposes for sale a quantity of_  
+| _motor fuel that is less than the quantity the person represents; or_  
+|  _(2)_ _____as a buyer furnishing the weight or measure of_  
+| _motor fuel by which the amount of the motor fuel is determined,_  
+| _takes or attempts to take more than the quantity the person_  
+| _represents._  
+|  _Sec._ ___2310.057._ _____USE OF INCORRECT MOTOR FUEL METERING DEVICE._  
+| _(a) A person commits an offense if the person or the person's_  
+| _representative or agent knowingly uses an incorrect measuring_  
+| _device in:_  
+|  _(1) buying or selling motor fuel;_  
+|  _(2)_ _____computing a charge for services rendered on the_  
+| _basis of measure; or_  
+|  _(3)_ _____determining the measure of motor fuel, if a charge_  
+| _is made for the determination._  
+|  _(b)_ _____For the purpose of this section, a measuring device is_  
+| _incorrect if it:_  
+|  _(1)_ _____does not conform as closely as practicable to the_  
+| _official standards;_  
+|  _(2) is not accurate;_  
+|  _(3)_ _____is of a construction that is not reasonably_  
+| _permanent in adjustment or does not correctly repeat its_  
+| _indications;_  
+|  _(4) facilitates the perpetration of fraud; or_  
+|  _(5)_ _____does not conform to the specifications and_  
+| _tolerances established by the department under Section 2310.108._  
+|  _Sec._ ___2310.058._ _____SALE OF MOTOR FUEL IN VIOLATION OF_  
+| _SUBCHAPTER. A person violates this chapter if the person or the_  
+| _person's representative or agent sells or keeps, offers, or exposes_  
+| _for sale motor fuel in violation of this subchapter._  
+|  _Sec._ ___2310.059._ _____TESTING BY DEPARTMENT. (a) The department_  
+| _shall from time to time measure an amount of motor fuel that is kept_  
+| _or offered for sale, sold, or in the process of delivery, in order_  
+| _to determine:_  
+|  _(1)_ _____if the motor fuel is of the amount or quantity_  
+| _represented; or_  
+|  _(2)_ _____if the motor fuel is being offered for sale or sold_  
+| _in accordance with law._  
+|  _(b)_ _____If the department finds that any lot of motor fuel_  
+| _contains less of the motor fuel than the amount represented, the_  
+| _department may seize the motor fuel as evidence._  
+|  _(c)_ _____A person commits an offense if the person or the_  
+| _person's employee or agent refuses to exhibit motor fuel being sold_  
+| _or offered for sale at a given weight or quantity, or ordinarily_  
+| _sold in that manner, to the department for testing and proving as to_  
+| _quantity._  
+|  _Sec._ ___2310.060._ _____STOP-SALE ORDER. (a) If the department has_  
+| _reason to believe that motor fuel is being sold or kept, offered, or_  
+| _exposed for sale in violation of this chapter or that motor fuel is_  
+| _being sold or offered for sale by or through the use of a motor fuel_  
+| _metering device that is in violation of this chapter, the_  
+| _department may issue and enforce a written or printed order to stop_  
+| _the sale of the motor fuel. The department shall present the order_  
+| _to the owner or custodian of the motor fuel or seller of the motor_  
+| _fuel. The person receiving the order may not sell the motor fuel or_  
+| _provide the service until discharged by a court under Subsection_  
+| _(b) or until the commission finds that the motor fuel or motor fuel_  
+| _metering device is in compliance with this chapter._  
+|  _(b)_ _____The owner or custodian of motor fuel or a person selling_  
+| _or offering for sale a service prohibited from sale by an order of_  
+| _the department is entitled to sue in a court of competent_  
+| _jurisdiction where the motor fuel is found or the service is being_  
+| _sold or offered for sale for a judgment as to the justification of_  
+| _the order and for the discharge of the motor fuel in accordance with_  
+| _the findings of the court._  
+|  _(c)_ _____This section does not limit the right of the department_  
+| _to proceed as authorized by other sections of this code._  
+|  _Sec._ ___2310.061._ _____PENALTIES; DEFENSE. (a) An offense under_  
+| _Section 2310.057 or 2310.059 is a Class C misdemeanor._  
+|  _(b)_ _____It is a defense to prosecution or to the imposition of a_  
+| _civil or administrative penalty for a violation of Sections 2310.11_  
+| _or 2310.059 that a discrepancy between the actual volume at the time_  
+| _of sale to a consumer or a discrepancy between the fill of a_  
+| _container and the capacity of the container is due to unavoidable_  
+| _leakage, shrinkage, evaporation, waste, or causes beyond the_  
+| _control of the seller acting in good faith._  
+| _SUBCHAPTER C. INSPECTION AND REGISTRATION OF MOTOR FUEL METERING_  
+| _DEVICES_  
+|  _Sec._ ___2310.101._ _____AUTHORITY TO INSPECT. (a) If the department_  
+| _has reason to believe that a motor fuel metering device is being_  
+| _used for a commercial transaction and the device is not registered_  
+| _with the department, the department may inspect the device and the_  
+| _records of the owner, operator, or user of the device that relate to_  
+| _use of the device to determine whether the device is in compliance_  
+| _with this chapter._  
+|  _(b)_ _____The department has reason to believe a motor fuel_  
+| _metering device is being used for a commercial transaction if:_  
+|  _(1)_ _____the motor fuel metering device is found in close_  
+| _proximity to motor fuel being sold or offered for sale by measure_  
+| _and the device appears to be under the control or in the possession_  
+| _of the person selling the motor fuel or offering the motor fuel for_  
+| _sale; or_  
+|  _(2)_ _____other available evidence is sufficient for a_  
+| _prudent person to believe that the motor fuel metering device is_  
+| _being used for a commercial transaction._  
+|  _Sec._ ___2310.105._ _____REPAIR OR DESTRUCTION OF INCORRECT MOTOR_  
+| _FUEL METERING DEVICES. (a) If, in the judgment of the department,_  
+| _a motor fuel metering device found to be incorrect is not capable of_  
+| _being repaired, the department may condemn, seize, and destroy the_  
+| _device._  
+|  _(b)_ _____If, in the judgment of the department, an incorrect_  
+| _motor fuel metering device is capable of being repaired, the_  
+| _department shall place on the device a tag or other mark with the_  
+| _words "Out of Order." The owner or user of the motor fuel metering_  
+| _device may not use it until it is reinspected and released for use_  
+| _by the department or inspected and released for use in any other_  
+| _manner authorized by commission rule._  
+|  _(c)_ _____The owner, operator, or user of a motor fuel metering_  
+| _device may not destroy, replace, or otherwise dispose of a device_  
+| _declared to be incorrect or condemned under this section except as_  
+| _provided by department rule._  
+|  _Sec._ ___2310.106._ _____TESTS FOR STATE INSTITUTIONS. As requested_  
+| _by the comptroller or the governing body of a state institution, the_  
+| _department shall test each motor fuel metering device used by a_  
+| _state institution for any purpose, including a motor fuel metering_  
+| _device used in checking the receipt and distribution of supplies._  
+| _The department shall report results of the test to the chairman of_  
+| _the governing body of the institution._  
+|  _Sec._ ___2310.107._ _____STANDARDS USED IN INSPECTION. (a) The_  
+| _standards of weights and measures maintained by the department and_  
+| _certified by the National Institute of Standards and Technology or_  
+| _a metrology laboratory certified by the National Institute of_  
+| _Standards and Technology are the state's standards by which all_  
+| _state and local standards of weights and measures are tried,_  
+| _authenticated, proved, and certified._  
+|  _(b)_ _____The department shall maintain the primary standards in a_  
+| _safe and suitable place in the offices of the department. The_  
+| _standards may not be moved except for repairs or certification. The_  
+| _department shall maintain the standards in good order and shall_  
+| _submit them to the National Institute of Standards and Technology_  
+| _or to a laboratory approved by the National Institute of Standards_  
+| _and Technology for certification at least once each 10 years._  
+|  _(c)_ _____In addition to the standards kept by the state, the_  
+| _department shall maintain a complete set of copies of the original_  
+| _standards for use in adjusting local standards or in the_  
+| _performance of other official duties. The department may purchase_  
+| _additional sets of standards as necessary for use by a department_  
+| _inspector or other department personnel._  
+|  _(d)_ _____At the request of a city, the department shall furnish_  
+| _the city with copies of the state's standards or test and approve_  
+| _other standards acquired by the city. The city shall reimburse the_  
+| _state for the actual cost of the standards furnished, plus the costs_  
+| _of freight and certification. All standards furnished to or tested_  
+| _for a city shall be true and correct and certified by the_  
+| _department. The copies used by a city may be of any suitable_  
+| _material or construction that the city requests, subject to_  
+| _approval by the department._  
+|  _(e)_ _____The department, or a metrology laboratory certified by_  
+| _the National Institute of Standards and Technology and approved by_  
+| _the department, shall inspect and correct the standards used by a_  
+| _department inspector, other department employee, or individual or_  
+| _business licensed by the department to perform device maintenance_  
+| _activities under Subchapter D, or an individual or business_  
+| _licensed under Subchapter I, Chapter 13, Agriculture Code._  
+|  _(f)_ _____The commission may adopt rules to regulate the frequency_  
+| _and place of inspection and correction of the standards used by an_  
+| _individual or business licensed by the department to perform device_  
+| _maintenance activities under Subchapter D or an individual or_  
+| _business licensed under Subchapter I, Chapter 13, Agriculture Code._  
+|  _(g)_ _____The department may inspect any standard used by an_  
+| _individual or business licensed by the department to perform device_  
+| _maintenance activities described by Subchapter D or an individual_  
+| _or business licensed under Subchapter I, Chapter 13, Agriculture_  
+| _Code if the department has reason to believe a standard is no longer_  
+| _in compliance with this chapter._  
+|  _(h)_ _____The department shall keep a record of the inspection and_  
+| _character of standards inspected under this section._  
+|  _Sec._ ___2310.108._ _____TOLERANCES. Specifications and tolerances_  
+| _for motor fuel metering devices shall be the same as those_  
+| _recommended by the National Institute of Standards and Technology._  
+|  _Sec._ ___2310.109._ _____FEES. The commission by rule shall_  
+| _establish fees in amounts reasonable and necessary to cover the_  
+| _cost of administering this chapter._  
+|  _(b)_ _____Notwithstanding any other law, the department may not in_  
+| _a state fiscal biennium increase a fee under Subsection (a) for a_  
+| _motor fuel metering device by an amount that exceeds 10 percent of_  
+| _the amount of the fee at the end of the preceding state fiscal_  
+|  _Sec._ ___2310.110._ _____REFUSING TO ALLOW TEST OF MOTOR FUEL_  
+| _METERING DEVICE._  
+|  _(a)_ _____A person commits an offense if the person refuses to_  
+| _allow a motor fuel metering device under the person's control or in_  
+| _the person's possession to be inspected, tested, or examined by the_  
+| _department, and the inspection, test, or examination is required or_  
+| _authorized by this chapter._  
+|  _(b)_ _____A person commits an offense if the person hinders or_  
+| _obstructs in any way the department, a department inspector or_  
+| _other department personnel in the performance of official duties._  
+|  _(c)_ _____A person commits an offense if the person removes or_  
+| _obliterates a tag or device placed or required by the department to_  
+| _be placed on a motor fuel metering device under this chapter._  
+|  _Sec._ ___2310.111._ _____SALE OR USE OF INCORRECT MOTOR FUEL METERING_  
+| _DEVICE. (a) The department may condemn and prohibit the sale or_  
+| _distribution of any incorrect motor fuel metering device that is_  
+| _sold, offered for sale, or about to be sold in this state._  
+|  _(b)_ _____A person commits an offense if the person or the_  
+| _person's servant or agent knowingly:_  
+|  _(1)_ _____offers or exposes for sale, hire, or award or sells_  
+| _an incorrect motor fuel metering device;_  
+|  _(2)_ _____possesses an incorrect motor fuel metering device;_  
+| _or_  
+|  _(3)_ _____sells, offers for sale, uses, or possesses for the_  
+| _purpose of sale or use a device or instrument to be used to falsify_  
+| _or intended to falsify a weight or measure._  
+|  _Sec._ ___2310.112._ _____DISPOSING OF CONDEMNED MOTOR FUEL METERING_  
+| _DEVICE. A person commits an offense if the person or the person's_  
+| _servant or agent disposes of a motor fuel metering device condemned_  
+| _under Section 2310.105 or 2310.110 in a manner contrary to those_  
+| _sections._  
+|  _Sec._ ___2310.113._ _____PENALTIES. An offense under each of_  
+| _Sections 2310.110 through 2310.112 is a Class C misdemeanor._  
+| _SUBCHAPTER D. LICENSING OF MOTOR FUEL METERING DEVICE SERVICE_  
+| _TECHNICIANS AND MOTOR FUEL METERING DEVICE SERVICE COMPANIES_  
+|  _Sec. 2310.201. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"License holder" means a person who holds a motor_  
+| _fuel metering device service company license or a motor fuel_  
+| _metering device service technician license._  
+|  _(2)_ _____"Service company" means a person who holds a motor_  
+| _fuel metering device service company license issued by the_  
+| _department under this subchapter._  
+|  _(3)_ _____"Service technician" means an individual who holds_  
+| _a motor fuel metering device service technician license issued by_  
+| _the department under this subchapter._  
+|  _Sec._ ___2310.202._ _____DEVICE MAINTENANCE ACTIVITIES. A person_  
+| _performs device maintenance activities if the person or the_  
+| _person's employee:_  
+|  _(1) places a motor fuel metering device in service;_  
+|  _(2)_ _____installs, calibrates, inspects, tests or repairs a_  
+| _motor fuel metering device; or_  
+|  _(3)_ _____removes an out-of-order tag, stop-sale order,_  
+| _security seal, lock, condemnation notice, or other form of use_  
+| _prohibition placed on a motor fuel metering device by the_  
+| _department._  
+|  _Sec._ ___2310.203._ _____POWERS AND DUTIES OF DEPARTMENT. (a) To_  
+| _verify compliance with licensing requirements, trade practices,_  
+| _department rules, and this chapter, the department may periodically_  
+| _or in response to a complaint or previous violation inspect an_  
+| _applicant's or license holder's:_  
+|  _(1) facilities;_  
+|  _(2) inspecting and testing equipment and procedures;_  
+|  _(3)_ _____repair and calibration equipment, standards, and_  
+| _procedures;_  
+|  _(4) transportation equipment; and_  
+|  _(5)_ _____invoices, work orders, and other records related_  
+| _to device maintenance activities._  
+|  _(b)_ _____The department may periodically or in response to a_  
+| _complaint or previous violation monitor and inspect or test motor_  
+| _fuel metering devices that have been inspected and tested by a_  
+| _license holder and any standards used by the license holder during_  
+| _an inspection or test._  
+|  _(c)_ _____The commission by rule may adopt additional_  
+| _requirements for the issuance of a license and for the denial of an_  
+| _application for a license or renewal of a license. Rules adopted by_  
+| _the commission under this subsection must be designed to protect_  
+| _the public health, safety, and welfare and the proper inspection,_  
+| _testing, and operation of commercial motor fuel metering devices._  
+|  _(d)_ _____The commission may adopt other rules necessary for the_  
+| _regulation of device maintenance activities, for the proper_  
+| _operation of motor fuel metering devices, and to protect the_  
+| _health, safety, and welfare of the public and license holders._  
+|  _(e)_ _____The department may specify the date, time, and place for_  
+| _any inspection authorized by this section._  
+|  _Sec._ ___2310.204._ _____EXEMPTIONS FROM LICENSE REQUIREMENTS. (a)_  
+| _A person is not required to hold a license issued under this_  
+| _subchapter if the person:_  
+|  _(1)_ _____is a department employee who is performing device_  
+| _maintenance activities in the scope of the person's duties for the_  
+| _department;_  
+|  _(2)_ _____is the owner or operator of a commercial weighing_  
+| _or measuring motor fuel metering device or an employee of the owner_  
+| _or operator of a commercial weighing or measuring motor fuel_  
+| _metering device and the person:_  
+|  _(A)_ _____completely removes the commercial weighing_  
+| _or measuring motor fuel metering device from the location at which_  
+| _the device was installed, including a device subject to an_  
+| _out-of-order tag, stop-sale order, security seal, lock,_  
+| _condemnation notice, or other item placed on the device by the_  
+| _department to prohibit use of the device; and_  
+|  _(B)_ _____notifies the department of the device's_  
+| _removal not later than the 10th day after the date the device was_  
+| _removed in the manner provided by department rule; or_  
+|  _(3)_ _____performs device maintenance activities only on a_  
+| _device that is:_  
+|  _(A)_ _____exempt from the registration requirements of_  
+| _Section 2310.103 under commission rules;_  
+|  _(B)_ _____exempt from the inspection requirements of_  
+| _Section 2310.102 under commission rules; and_  
+|  _(C)_ _____not required to be inspected by other_  
+| _commission rules; or_  
+|  _(4)_ _____is a license holder under Subchapter I, Chapter_  
+| _13, Agriculture Code._  
+|  _(b)_ _____The department is not required to hold a license issued_  
+| _under this subchapter or Subchapter I, Chapter 13, Agriculture_  
+| _Code._  
+|  _Sec._ ___2310.205._ _____SERVICE TECHNICIAN LICENSE REQUIRED. Unless_  
+| _the individual is exempt from the licensing requirement, an_  
+| _individual may not perform or offer to perform device maintenance_  
+| _activities unless the individual holds a service technician license_  
+| _issued by the department under this subchapter._  
+|  _Sec._ ___2310.206._ _____SERVICE COMPANY LICENSE REQUIRED. (a)_  
+| _Unless the person is exempt from the license requirement, a person_  
+| _may not employ an individual who performs or offers to perform_  
+| _device maintenance activities unless the person holds a service_  
+| _company license issued by the department under this subchapter._  
+|  _(b)_ _____Unless the individual is exempt from the licensing_  
+| _requirement, an individual may not perform or offer to perform_  
+| _device maintenance activities as a sole proprietor unless the_  
+| _individual holds a service technician license and a service company_  
+| _license issued by the department under this subchapter._  
+|  _Sec._ ___2310.207._ _____APPLICATION FOR LICENSE. An applicant for a_  
+| _license under this subchapter must submit to the department:_  
+|  _(1) an application form prescribed by the department;_  
+|  _(2)_ _____any other information required by the department;_  
+| _and_  
+|  _(3) a fee in an amount set by the department._  
+|  _Sec._ ___2310.208._ _____SERVICE TECHNICIAN LICENSE REQUIREMENTS._  
+| _(a) The department shall issue a license to each qualified_  
+| _applicant who applies for a service technician license._  
+|  _(b)_ _____The department by rule may require an applicant for the_  
+| _issuance or renewal of a service technician license to meet one or_  
+| _more of the following requirements:_  
+|  _(1)_ _____provide to the department proof that the applicant_  
+| _has completed an academic, trade, or professional course of_  
+| _instruction approved by the department;_  
+|  _(2) pass a written test; or_  
+|  _(3) pass a practical skills test._  
+|  _Sec._ ___2310.209._ _____SERVICE COMPANY LICENSE REQUIREMENTS. (a)_  
+| _The department shall issue a license to each qualified applicant_  
+| _who applies for a service company license._  
+|  _(b)_ _____An applicant for the issuance or renewal of a license_  
+| _under this section must:_  
+|  _(1)_ _____submit to the department a certificate of_  
+| _insurance evidencing that the applicant has an insurance policy_  
+| _that meets the requirements of Section 2310.210 effective for the_  
+| _period for which the license is to be issued or renewed; and_  
+|  _(2)_ _____meet any other requirements provided by commission_  
+| _rule._  
+|  _Sec._ ___2310.210._ _____INSURANCE POLICY REQUIRED FOR SERVICE_  
+| _COMPANY. A service company shall maintain at all times while the_  
+| _service company performs device maintenance activities a current_  
+| _effective operations liability insurance policy issued by an_  
+| _insurance company authorized to do business in this state or by a_  
+| _surplus lines insurer that meets the requirements of Chapter 981,_  
+| _Insurance Code, and rules adopted by the commissioner of insurance_  
+| _in an amount set by the department and based on the type of licensed_  
+| _activities to be performed._  
+|  _Sec._ ___2310.211._ _____TERM OF LICENSE. A license issued under this_  
+| _subchapter is valid for one year unless a different term is_  
+| _established by commission rule._  
+|  _Sec._ ___2310.212._ _____LICENSE RENEWAL. A person licensed under_  
+| _this subchapter must periodically renew the person's license. The_  
+| _license expires unless the license holder submits an application_  
+| _for renewal accompanied by the renewal fee set by the department or_  
+| _by the late fee set by the department and meets the requirements for_  
+| _renewal._  
+|  _Sec._ ___2310.213._ _____PRACTICE BY LICENSE HOLDER. (a) A license_  
+| _holder shall perform device maintenance activities in compliance_  
+| _with commission rules._  
+|  _(b)_ _____A license holder may use only equipment approved by the_  
+| _department, as provided by commission rules, when performing device_  
+| _maintenance activities._  
+|  _Sec._ ___2310.214._ _____CRIMINAL PENALTY. (a) A person commits an_  
+| _offense if the person violates Section 2310.205 or 2310.206 or_  
+| _causes another person to violate Section 2310.205 or 2310.206._  
+|  _(b)_ _____An offense under Subsection (a) is a Class B_  
+| _misdemeanor, unless the person has been previously convicted of an_  
+| _offense under this section, in which case the offense is a Class A_  
+| _misdemeanor._  
+|  SECTION 2. Section 13.1015, Agriculture Code, is  
+| transferred to Subchapter C, Chapter 2310, Occupations Code,  
+| redesignated as Section 2310.102, Occupations Code, and amended to  
+| read as follows:  
+|  Sec. _2310.102_ [ ~~13.1015~~ ]. INSPECTION OF MOTOR FUEL METERING  
+| DEVICES. Unless a motor fuel metering device is exempt from the  
+| application of this section by department rule, a motor fuel  
+| metering device shall be inspected, tested, and calibrated for  
+| correctness by a license holder under Subchapter _D_ [ ~~I~~ ] at least once  
+| every two years if:  
+|  (1) kept for sale, sold, or used by a proprietor,  
+| agent, lessee, or employee in proving the measure of the motor fuel;  
+| or  
+|  (2) purchased, offered or submitted by a proprietor,  
+| agent, lessee, or employee for sale, hire, or award.  
+|  (b) Inspection, testing, and calibration under this section  
+| must be performed by a license holder under Subchapter _D_ [ ~~I~~ ] under  
+| contract with the operator or user of the motor fuel metering  
+| device.  
+|  SECTION 3. Section 13.1016, Agriculture Code, is  
+| transferred to Subchapter C, Chapter 2310, Occupations Code, as  
+| added by this act, redesignated as Section 2310.103, Occupations  
+| Code, and amended to read as follows:  
+|  Sec. _2310.103_ [ ~~13.1016~~ ]. REQUIRED REGISTRATION OF MOTOR  
+| FUEL METERING DEVICES. (a) Unless a motor fuel metering device is  
+| exempt from the application of this section by department rule, a  
+| person who owns or operates a motor fuel metering device shall  
+| register the device with the department before using the device for  
+| a commercial transaction.  
+|  (b) An application for a device registration must:  
+|  (1) be submitted to the department on a form  
+| prescribed by the department;  
+|  (2) be accompanied by any other document or form  
+| required by the department;  
+|  (3) include any fees required under Section _2310.109_  
+| [ ~~13.1151~~ ]; and  
+|  (4) include documentation of compliance with Section  
+| _2310.102_ [ ~~13.1015~~ ].  
+|  (c) A registration under this section is valid for one year  
+| unless a different period is established by department rule. The  
+| registration must be renewed at or before the end of each  
+| registration period and the application for renewal must include  
+| documentation of compliance with Section _2310.102_ [ ~~13.1015~~ ].  
+|  (d) If a person fails to register or renew a registration as  
+| required by this section, the department may not issue a  
+| certificate to operate the motor fuel metering device. The  
+| department shall issue the certificate when the operator submits to  
+| the department the items required by Subsection (b).  
+|  (e) The department may assess a late fee if the registration  
+| of one or more devices located on a premises is renewed after the  
+| end of the registration period because of a registration error,  
+| including one or more devices not properly registered, failure to  
+| register the correct type of device, or failure to timely register a  
+| previously registered device. The amount of the penalty may not  
+| exceed $50 per device, with a maximum penalty amount of $500 per  
+| year for the premises.  
+|  SECTION 4. Section 13.1017, Agriculture Code, is  
+| transferred to Subchapter C, Chapter 2310, Occupations Code, as  
+| added by this act, redesignated as Section 2310.104, Occupations  
+| Code, and amended to read as follows:  
+|  Sec. _2310.104_ [ ~~13.1017~~ ]. COMPLAINTS REGARDING MOTOR FUEL  
+| METERING DEVICES. (a) The department shall receive complaints  
+| regarding motor fuel metering devices.  
+|  (b) After receiving a complaint regarding a motor fuel  
+| metering device, the department shall determine the date the device  
+| was last inspected under Section _2310.102_ [ ~~13.1015~~ ] and the number  
+| of complaints received by the department in the previous 12 months  
+| regarding motor fuel metering devices at the premises where the  
+| device subject to the complaint is located.  
+|  (c) The department shall notify the person who last  
+| registered the motor fuel metering device and take no further  
+| action on the complaint if:  
+|  (1) the motor fuel metering device was last inspected  
+| not more than 18 months before the date the complaint is received;  
+| and  
+|  (2) the department received not more than two  
+| complaints in the previous 12 months regarding motor fuel metering  
+| devices at the premises where the device is located.  
+|  (d) The department shall notify the person who last  
+| registered the motor fuel metering device and require the device to  
+| be inspected by a license holder under Section _2310.102_ [ ~~13.1015~~ ]  
+| not later than one month after the notification date if:  
+|  (1) the motor fuel metering device was last inspected  
+| more than 18 months before the date the complaint is received; or  
+|  (2) the department received at least three complaints  
+| in the previous 12 months regarding motor fuel metering devices at  
+| the premises where the device is located.  
+|  SECTION 5. Sections 17.051, 17.071, and 17.072, Agriculture  
+| Code, are transferred to Chapter 2310, Occupations Code, as added  
+| by this Act, redesignated as Subchapter F, and amended to read as  
+| follows:  
+| _SUBCHAPTER F. SALE, DELIVERY, AND QUALITY OF MOTOR FEUL_  
+|  Sec. _2310.251_ [ ~~17.051~~ ]. NOTICE OF SALE OF ALCOHOL AND FUEL  
+| MIXTURE. (a) A dealer may not sell or offer for sale motor fuel  
+| from a motor fuel pump supplied by a storage tank into which motor  
+| fuel, in a mixture in which at least one percent of the mixture  
+| measured by volume is ethanol or methanol, has been delivered  
+| within the 60-day period preceding the date of sale or offer of sale  
+| unless the dealer prominently displays on the pump from which the  
+| mixture is sold a sign that complies with Subsection (b).  
+|  (b) A sign required by Subsection (a) must:  
+|  (1) be displayed on each face of the motor fuel pump on  
+| which the price of the motor fuel mixture sold from the pump is  
+| displayed;  
+|  (2) state "Contains Ethanol" or "Contains Methanol,"  
+| as applicable;  
+|  (3) appear in contrasting colors with block letters at  
+| least one-half inch high and one-fourth inch wide; and  
+|  (4) be displayed in a clear, conspicuous, and  
+| prominent manner, visible to customers using either side of the  
+| pump.  
+|  _(c)_ [ ~~(e)~~ ] This section does not prohibit the posting of any  
+| other alcohol or additive information. Other alcohol or additive  
+| information and any relevant posting are subject to regulation by  
+| the _department_ [ ~~commissioner~~ ].  
+|  Sec. _2310.252_ [ ~~17.071~~ ]. MINIMUM MOTOR FUEL QUALITY AND  
+| TESTING STANDARDS. (a) The department by rule shall adopt minimum  
+| motor fuel quality and testing standards for motor fuel that is sold  
+| or offered for sale in this state. The standards must comply with  
+| the nationally recognized minimum standards established by:  
+|  (1) the American Society for Testing and Materials,  
+| for motor fuels other than motor fuels blended with ethanol; and  
+|  (2) the National Institute of Standards and  
+| Technology, for motor fuels blended with ethanol.  
+|  (b) The department may adopt rules as necessary to bring  
+| about uniformity between the standards established under this  
+| subchapter and the nationally recognized standards described by  
+| Subsection (a).  
+|  Sec. _2310.253_ [ ~~17.072~~ ]. TESTING OF MOTOR FUEL QUALITY. (a)  
+| The department or a representative of the department may collect  
+| samples and conduct testing at any location where motor fuel is  
+| kept, transferred, sold, or offered for sale, to verify that the  
+| motor fuel complies with the minimum standards required by Section  
+| _2310.252_ [ ~~17.071~~ ].  
+|  (a-1) The collection of samples and conducting of testing at  
+| a dealer's location must be performed by a license holder under  
+| _Subchapter D of this chapter or_ Subchapter I, Chapter 13,  
+| _Agriculture Code_ under contract with the dealer. The license  
+| holder is considered a representative of the department for  
+| purposes of this section.  
+|  (b) On arriving at a facility to conduct testing under  
+| Subsection (a), a representative of the department shall notify the  
+| owner or manager of the facility of the representative's presence  
+| and purpose. The department representative shall follow the most  
+| recent applicable procedures specified by ASTM International  
+| Standard D4057, D4177, D5842, or D5854 for the collection,  
+| sampling, and handling of fuel to prepare for laboratory analysis.  
+|  (c) A person commits an offense if the person refuses to  
+| allow a department representative to collect samples or conduct  
+| motor fuel testing under Subsection (a).  
+|  SECTION 6. Section 13.001, Agriculture Code, is amended by  
+| adding a new Subsection (c) to read as follows:  
+|  _(c)_ _____In this chapter, "commodity" does not include motor_  
+| _fuel._  
+|  SECTION 7. Section 13.114, Agriculture Code, is amended to  
+| read as follows:  
+|  Sec. 13.114. TOLERANCES. The department shall establish  
+| specifications and tolerances for commercial weighing or measuring  
+| devices used in this state. The specifications and tolerances  
+| shall be similar to those recommended by the National Institute of  
+| Standards and Technology[ ~~, except that the specifications and~~  
+|  ~~tolerances for motor fuel metering devices shall be the same as~~  
+|  ~~those recommended by the National Institute of Standards and~~  
+|  ~~Technology~~ ].  
+|  SECTION 8. Section 162.009, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 162.009. AUTHORITY TO STOP AND EXAMINE. To enforce  
+| this chapter, the comptroller or a peace officer may stop a motor  
+| vehicle that appears to be operating with or transporting motor  
+| fuel to examine the shipping document, cargo manifest, or invoices  
+| required to be carried, examine a license or copy of a license that  
+| may be required to be carried, take samples from the fuel supply or  
+| cargo tanks, and make any other investigation that could reasonably  
+| be made to determine whether the taxes have been paid or accounted  
+| for by a license holder or a person required to be licensed. The  
+| comptroller, a peace officer, an employee of the attorney general's  
+| office, an employee of the Texas Commission on Environmental  
+| Quality, or an employee of the _Texas_ Department of _Licensing and_  
+| _Regulation_ [ ~~Agriculture~~ ] may take samples of motor fuel from a  
+| storage tank or container to:  
+|  (1) determine if the fuel contains hazardous waste or  
+| is adulterated; or  
+|  (2) allow the comptroller to determine whether taxes  
+| on the fuel have been paid or accounted for to this state.  
+|  SECTION 9. Section 162.403, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 162.403. CRIMINAL OFFENSES. Except as provided by  
+| Section 162.404, a person commits an offense if the person:  
+|  (1) refuses to stop and permit the inspection and  
+| examination of a motor vehicle transporting or using motor fuel on  
+| the demand of a peace officer or the comptroller;  
+|  (2) is required to hold a valid trip permit or  
+| interstate trucker's license, but operates a motor vehicle in this  
+| state without a valid trip permit or interstate trucker's license;  
+|  (3) transports gasoline or diesel fuel in any cargo  
+| tank that has a connection by pipe, tube, valve, or otherwise with  
+| the fuel injector or carburetor or with the fuel supply tank feeding  
+| the fuel injector or carburetor of the motor vehicle transporting  
+| the product;  
+|  (4) sells or delivers gasoline or diesel fuel from a  
+| fuel supply tank that is connected with the fuel injector or  
+| carburetor of a motor vehicle;  
+|  (5) owns or operates a motor vehicle for which reports  
+| or mileage records are required by this chapter without an  
+| operating odometer or other device in good working condition to  
+| record accurately the miles traveled;  
+|  (6) sells or delivers dyed diesel fuel for the  
+| operation of a motor vehicle on a public highway;  
+|  (7) uses dyed diesel fuel for the operation of a motor  
+| vehicle on a public highway except as allowed under Section  
+| 162.235;  
+|  (8) refuses to permit the comptroller or the attorney  
+| general to inspect, examine, or audit a book or record required to  
+| be kept by a license holder, other user, or any person required to  
+| hold a license under this chapter;  
+|  (9) refuses to permit the comptroller or the attorney  
+| general to inspect or examine any plant, equipment, materials, or  
+| premises where motor fuel is produced, processed, blended, stored,  
+| sold, delivered, or used;  
+|  (10) refuses to permit the comptroller, the attorney  
+| general, an employee of either of those officials, a peace officer,  
+| an employee of the Texas Commission on Environmental Quality, or an  
+| employee of the _Texas_ Department of _Licensing and Regulation_  
+| [ ~~Agriculture~~ ] to measure or gauge the contents of or take samples  
+| from a storage tank or container on premises where motor fuel is  
+| produced, processed, blended, stored, sold, delivered, or used;  
+|  (11) is a license holder, a person required to be  
+| licensed, or another user and fails or refuses to make or deliver to  
+| the comptroller a report required by this chapter to be made and  
+| delivered to the comptroller;  
+|  (12) is an importer who does not obtain an import  
+| verification number when required by this chapter;  
+|  (13) purchases motor fuel for export, on which the tax  
+| imposed by this chapter has not been paid, and subsequently diverts  
+| or causes the motor fuel to be diverted to a destination in this  
+| state or any other state or country other than the originally  
+| designated state or country without first obtaining a diversion  
+| number;  
+|  (14) conceals motor fuel with the intent of engaging  
+| in any conduct proscribed by this chapter or refuses to make sales  
+| of motor fuel on the volume-corrected basis prescribed by this  
+| chapter;  
+|  (15) refuses, while transporting motor fuel, to stop  
+| the motor vehicle the person is operating when called on to do so by  
+| a person authorized to stop the motor vehicle;  
+|  (16) refuses to surrender a motor vehicle and cargo  
+| for impoundment after being ordered to do so by a person authorized  
+| to impound the motor vehicle and cargo;  
+|  (17) mutilates, destroys, or secretes a book or record  
+| required by this chapter to be kept by a license holder, other user,  
+| or person required to hold a license under this chapter;  
+|  (18) is a license holder, other user, or other person  
+| required to hold a license under this chapter, or the agent or  
+| employee of one of those persons, and makes a false entry or fails  
+| to make an entry in the books and records required under this  
+| chapter to be made by the person or fails to retain a document as  
+| required by this chapter;  
+|  (19) transports in any manner motor fuel under a false  
+| cargo manifest or shipping document, or transports in any manner  
+| motor fuel to a location without delivering at the same time a  
+| shipping document relating to that shipment;  
+|  (20) engages in a motor fuel transaction that requires  
+| that the person have a license under this chapter without then and  
+| there holding the required license;  
+|  (21) makes and delivers to the comptroller a report  
+| required under this chapter to be made and delivered to the  
+| comptroller, if the report contains false information;  
+|  (22) forges, falsifies, or alters an invoice or  
+| shipping document prescribed by law;  
+|  (23) makes any statement, knowing said statement to be  
+| false, in a claim for a tax refund filed with the comptroller;  
+|  (24) furnishes to a licensed supplier or distributor a  
+| signed statement for purchasing diesel fuel tax-free and then uses  
+| the tax-free diesel fuel to operate a diesel-powered motor vehicle  
+| on a public highway;  
+|  (25) holds an aviation fuel dealer's license and makes  
+| a taxable sale or use of any gasoline or diesel fuel;  
+|  (26) fails to remit any tax funds collected or  
+| required to be collected by a license holder, another user, or any  
+| other person required to hold a license under this chapter;  
+|  (27) makes a sale of dyed diesel fuel tax-free into a  
+| storage facility of a person who:  
+|  (A) is not licensed as a distributor, as an  
+| aviation fuel dealer, or as a dyed diesel fuel bonded user; or  
+|  (B) does not furnish to the licensed supplier or  
+| distributor a signed statement prescribed in Section 162.206;  
+|  (28) makes a sale of gasoline tax-free to any person  
+| who is not licensed as an aviation fuel dealer;  
+|  (29) purchases any motor fuel tax-free when not  
+| authorized to make a tax-free purchase under this chapter;  
+|  (30) purchases motor fuel with the intent to evade any  
+| tax imposed by this chapter or accepts a delivery of motor fuel by  
+| any means and does not at the same time accept or receive a shipping  
+| document relating to the delivery;  
+|  (31) transports motor fuel for which a cargo manifest  
+| or shipping document is required to be carried without possessing  
+| or exhibiting on demand by an officer authorized to make the demand  
+| a cargo manifest or shipping document containing the information  
+| required to be shown on the manifest or shipping document;  
+|  (32) imports, sells, uses, blends, distributes, or  
+| stores motor fuel within this state on which the taxes imposed by  
+| this chapter are owed but have not been first paid to or reported by  
+| a license holder, another user, or any other person required to hold  
+| a license under this chapter;  
+|  (33) blends products together to produce a blended  
+| fuel that is offered for sale, sold, or used and that expands the  
+| volume of the original product to evade paying applicable motor  
+| fuel taxes;  
+|  (34) evades or attempts to evade in any manner a tax  
+| imposed on motor fuel by this chapter;  
+|  (35) delivers compressed natural gas or liquefied  
+| natural gas into the fuel supply tank of a motor vehicle and the  
+| person does not hold a valid compressed natural gas and liquefied  
+| natural gas dealer's license; or  
+|  (36) makes a tax-free delivery of compressed natural  
+| gas or liquefied natural gas into the fuel supply tank of a motor  
+| vehicle, unless the delivery is exempt from tax under Section  
+| 162.356.  
+|  SECTION 10. The following provisions of the Agriculture  
+| Code are repealed:  
+|  (1) Section 13.001(a)(1-a);  
+|  (2) Section 13.024(d);  
+|  (3) Section 13.029(b);  
+|  (4) Section 13.101(e);  
+|  (5) Section 13.1011(e); and  
+|  (9) Section 13.1151(b).  
+|  SECTION 11. (a) All rules, fees, policies, procedures,  
+| decisions, and forms of the Department of Agriculture that relate  
+| to a program or activity transferred under this Act and that are in  
+| effect on the effective date of the transfer remain in effect until  
+| changed by the Texas Commission of Licensing and Regulation.  
+|  (b) A license, permit, certificate of registration, or  
+| other authorization issued by the Department of Agriculture for a  
+| program or activity transferred under this Act is continued in  
+| effect as a license, permit, certificate, or other authorization of  
+| the Texas Department of Licensing and Regulation after the  
+| effective date of the transfer.  
+|  (c) A complaint, investigation, contested case, or other  
+| proceeding before the Department of Agriculture relating to a  
+| program or activity transferred under this Act that is pending on  
+| the effective date of the transfer is transferred without change in  
+| status to the Texas Commission of Licensing and Regulation or Texas  
+| Department of Licensing and Regulation, as appropriate.  
+|  (d) all money, contracts, leases, property, records, and  
+| obligations of the Department of Agriculture relating to a program  
+| or activity transferred under this Act are transferred to the Texas  
+| Department of Licensing and Regulation.  
+|  (e) the unexpended and unobligated balance of any money  
+| appropriated by the legislature relating to a program or activity  
+| transferred under this Act is transferred to the Texas Department  
+| of Licensing and Regulation.  
+|  (f) Unless the context indicates otherwise, a reference in  
+| law or administrative rule to the Department of Agriculture with  
+| respect to a program or activity transferred under this Act mean the  
+| Texas Commission of Licensing and Regulation or Texas Department of  
+| Licensing and Regulation, as appropriate.  
+|  SECTION 12. (a) As soon as practicable after the effective  
+| date this Act, the Department of Agriculture and the Texas  
+| Department of Licensing and Regulation shall adopt a transition  
+| plan to provide for the orderly transfer of powers, duties,  
+| functions, programs, and activities under this act. The transition  
+| plan must provide for the transfer to be completed not later than  
+| September 1, 2020.  
+|  (b) The Department of Agriculture shall provide the Texas  
+| Department of Licensing and Regulation with access to any systems,  
+| facilities, or information necessary for the Texas Department of  
+| Licensing and Regulation to accept a program or activity  
+| transferred under this act.  
+|  (c) The Texas Department of Licensing and Regulation may  
+| establish and lead a stakeholder workgroup to provide input,  
+| advice, and recommendations to the Department of Agriculture and  
+| Texas Department of Licensing and Regulation on the orderly  
+| transfer of powers, duties, functions, programs, and activities  
+| under this act. The Texas Department of Licensing and Regulation  
+| shall establish the size, composition, and scope of the stakeholder  
+| workgroup.  
+|  (d) On the date specified in the transition plan required  
+| under Subsection (a) of this section for the transfer of program or  
+| activity transferred by this act to the Texas Department of  
+| Licensing and Regulation, all full-time equivalent employee  
+| positions at the Department of Agriculture that directly and  
+| indirectly concern the administration or enforcement of the program  
+| or activity being transferred become positions at the Texas  
+| Department of Licensing and Regulation. The Texas Department of  
+| Licensing and Regulation shall post the positions for hiring and,  
+| when filling the positions, shall give consideration to, but is not  
+| required to hire, an applicant who, immediately before the date of  
+| the transfer, was an employee at the Department of Agriculture  
+| involved in administering or enforcing the transferred program or  
+| activity.  
+|  (e) Subsection (c) under this section expires on October  
+| 1,2020.  
+|  SECTION 13. This Act takes effect immediately if it  
+| receives a vote of two-thirds of all the members elected to each  
+| house, as provided by Section 39, Article III, Texas Constitution.  
+| If this Act does not receive the vote necessary for immediate  
+| effect, this Act takes effect September 1, 2019.
+

@@ -1,0 +1,57 @@
+| 86R13776 SCL-D  
+---|---  
+|  By: Sherman, Sr. | H.B. No. 3828  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the disclosure of health benefit plan network status of  
+| certain physicians and health care practitioners.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 843.348, Insurance Code, is amended by  
+| adding Subsection (e-1) to read as follows:  
+|  _(e-1)_ _____If the health maintenance organization considers_  
+| _proposed medical care or health care services elective and requires_  
+| _preauthorization as a condition of payment under the health benefit_  
+| _plan, the health maintenance organization shall, at the time the_  
+| _health maintenance organization issues a determination_  
+| _preauthorizing the services, provide to the enrollee a statement of_  
+| _the network status of any facility-based physician or health care_  
+| _provider that the health maintenance organization reasonably_  
+| _expects will provide and bill for any of the authorized services._  
+|  SECTION 2. Section 1301.135, Insurance Code, is amended by  
+| adding Subsection (d-1) to read as follows:  
+|  _(d-1)_ _____If an insurer considers proposed medical care or_  
+| _health care services elective and requires preauthorization as a_  
+| _condition of payment under the policy, the insurer shall, at the_  
+| _time the insurer issues a determination preauthorizing the_  
+| _services, provide to the insured a statement of the network status_  
+| _of any facility-based physician or health care provider that the_  
+| _insurer reasonably expects will provide and bill for any of the_  
+| _authorized services._  
+|  SECTION 3. Chapter 159, Occupations Code, is amended by  
+| adding Section 159.012 to read as follows:  
+|  _Sec._ ___159.012._ _____DISCLOSURE OF OTHER PHYSICIAN OR HEALTH CARE_  
+| _PRACTITIONER._ ___If, for a nonemergency service, a physician_  
+| _schedules another physician or health care practitioner to_  
+| _otherwise treat the patient or prospective patient, the physician_  
+| _shall provide to the patient a written disclosure form prescribed_  
+| _by the board that includes:_  
+|  _(1)_ _____a statement that the physician is scheduling_  
+| _another physician or health care practitioner to provide services_  
+| _and that the other physician or practitioner may not be in the_  
+| _patient's provider network; and_  
+|  _(2)_ _____the other physician's or health care_  
+| _practitioner's name, medical or health care practice name, practice_  
+| _specialty, address, and telephone number._  
+|  SECTION 4. (a)  Sections 843.348 and 1301.135, Insurance  
+| Code, as amended by this Act, apply only to a health benefit plan  
+| that is delivered, issued for delivery, or renewed on or after  
+| January 1, 2020.  A health benefit plan delivered, issued for  
+| delivery, or renewed before January 1, 2020, is governed by the law  
+| as it existed immediately before the effective date of this Act, and  
+| that law is continued in effect for that purpose.  
+|  (b) Section 159.012, Occupations Code, as added by this Act,  
+| applies only to a health care service scheduled on or after the  
+| effective date of this Act.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

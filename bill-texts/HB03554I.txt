@@ -1,0 +1,40 @@
+| 86R12432 AJZ-F  
+---|---  
+|  By: Farrar | H.B. No. 3554  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the admissibility of certain forensic analyses and  
+| associated testimony regarding physical evidence in a criminal  
+| case.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 38.35(d)(1), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (d)(1) Except as provided by Subsection (e), a forensic  
+| analysis of physical evidence under this article and expert  
+| testimony relating to the evidence are not admissible in a criminal  
+| action if _:_  
+|  _(A)_ _____the analysis and testimony are presented by_  
+| _the state; and_  
+|  _(B)_ [ ~~,~~ ] at the time of the analysis, the crime  
+| laboratory conducting the analysis was not accredited by the  
+| commission under Article 38.01.  
+|  SECTION 2. Article 38.35, Code of Criminal Procedure, is  
+| amended by amending Subsection (e) and adding Subsection (g) to  
+| read as follows:  
+|  (e) _If presented by the state, a_ [ ~~A~~ ] forensic analysis of  
+| physical evidence under this article and expert testimony relating  
+| to _that_ [ ~~the~~ ] evidence are not inadmissible in a criminal action  
+| based solely on the accreditation status of the crime laboratory  
+| conducting the analysis if the laboratory:  
+|  (A) except for making proper application, was  
+| eligible for accreditation by the commission at the time of the  
+| examination or test; and  
+|  (B) obtains accreditation from the commission  
+| before the time of testimony about the examination or test.  
+|  _(g)_ _____Evidence that a crime laboratory holds a certificate of_  
+| _accreditation issued by the commission under Article 38.01 is not_  
+| _admissible in a criminal action for the purpose of establishing the_  
+| _validity of a forensic analysis performed by the laboratory._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,92 @@
+| 86R12251 SMT-D  
+---|---  
+|  By: Turner of Tarrant | H.B. No. 3041  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the renewal of a preauthorization for a medical or  
+| health care service.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 8, Insurance Code, is amended  
+| by adding Chapter 1222 to read as follows:  
+| _CHAPTER 1222. PREAUTHORIZATION FOR MEDICAL OR HEALTH CARE SERVICE_  
+|  _Sec. 1222.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Health benefit plan" means a plan to which this_  
+| _chapter applies under Section 1222.0002._  
+|  _(2)_ _____"Health benefit plan issuer" means an entity_  
+| _authorized under this code or another insurance law of this state_  
+| _that provides health insurance or health benefits in this state._  
+|  _(3)_ _____"Preauthorization" has the meaning assigned by_  
+| _Section 1301.001._  
+|  _Sec._ ___1222.0002._ _____APPLICABILITY OF CHAPTER. (a) This_  
+| _chapter applies only to a health benefit plan that provides_  
+| _benefits for medical or surgical expenses incurred as a result of a_  
+| _health condition, accident, or sickness, including an individual,_  
+| _group, blanket, or franchise insurance policy or insurance_  
+| _agreement, a group hospital service contract, or an individual or_  
+| _group evidence of coverage or similar coverage document that is_  
+| _issued by:_  
+|  _(1) an insurance company;_  
+|  _(2)_ _____a group hospital service corporation operating_  
+| _under Chapter 842;_  
+|  _(3)_ _____a health maintenance organization operating under_  
+| _Chapter 843;_  
+|  _(4)_ _____an approved nonprofit health corporation that_  
+| _holds a certificate of authority under Chapter 844;_  
+|  _(5)_ _____a multiple employer welfare arrangement that holds_  
+| _a certificate of authority under Chapter 846;_  
+|  _(6)_ _____a stipulated premium company operating under_  
+| _Chapter 884;_  
+|  _(7)_ _____a fraternal benefit society operating under_  
+| _Chapter 885;_  
+|  _(8) a Lloyd's plan operating under Chapter 941; or_  
+|  _(9) an exchange operating under Chapter 942._  
+|  _(b) Notwithstanding any other law, this chapter applies to:_  
+|  _(1)_ _____a small employer health benefit plan subject to_  
+| _Chapter 1501, including coverage provided through a health group_  
+| _cooperative under Subchapter B of that chapter;_  
+|  _(2)_ _____a standard health benefit plan issued under_  
+| _Chapter 1507;_  
+|  _(3) a basic coverage plan under Chapter 1551;_  
+|  _(4) a basic plan under Chapter 1575;_  
+|  _(5) a primary care coverage plan under Chapter 1579;_  
+|  _(6)_ _____a plan providing basic coverage under Chapter_  
+| _1601;_  
+|  _(7)_ _____health benefits provided by or through a church_  
+| _benefits board under Subchapter I, Chapter 22, Business_  
+| _Organizations Code;_  
+|  _(8)_ _____group health coverage made available by a school_  
+| _district in accordance with Section 22.004, Education Code;_  
+|  _(9)_ _____the state Medicaid program, including the Medicaid_  
+| _managed care program operated under Chapter 533, Government Code;_  
+|  _(10)_ _____the child health plan program under Chapter 62,_  
+| _Health and Safety Code;_  
+|  _(11)_ _____a regional or local health care program operated_  
+| _under Section 75.104, Health and Safety Code;_  
+|  _(12)_ _____a self-funded health benefit plan sponsored by a_  
+| _professional employer organization under Chapter 91, Labor Code;_  
+|  _(13)_ _____county employee group health benefits provided_  
+| _under Chapter 157, Local Government Code; and_  
+|  _(14)_ _____health and accident coverage provided by a risk_  
+| _pool created under Chapter 172, Local Government Code._  
+|  _Sec._ ___1222.0003._ _____PREAUTHORIZATION RENEWAL REQUEST. A health_  
+| _benefit plan issuer that requires preauthorization as a condition_  
+| _of payment for a medical or health care service shall provide a_  
+| _preauthorization renewal process that allows an enrollee to request_  
+| _renewal of an existing preauthorization at least 60 days before the_  
+| _date the preauthorization expires._  
+|  _Sec._ ___1222.0004._ _____DETERMINATION REQUIRED. If a health_  
+| _benefit plan issuer receives a preauthorization renewal request_  
+| _before the existing preauthorization expires, the health benefit_  
+| _plan issuer shall, if practicable, review the request and issue a_  
+| _determination indicating whether the medical or health care service_  
+| _is preauthorized before the existing preauthorization expires._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a health benefit plan that is delivered, issued for delivery, or  
+| renewed on or after January 1, 2020. A health benefit plan that is  
+| delivered, issued for delivery, or renewed before January 1, 2020,  
+| is governed by the law as it existed immediately before the  
+| effective date of this Act, and that law is continued in effect for  
+| that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

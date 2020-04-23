@@ -1,0 +1,78 @@
+| 86R4275 GRM-D  
+---|---  
+|  By: Paul | H.B. No. 458  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to notice of a scheduled disconnection of water utility  
+| service.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 92.302(a) and (b), Property Code, are  
+| amended to read as follows:  
+|  (a) In this section:  
+|  (1) "Customer" means a person who is responsible for  
+| bills received for electric utility service _,_ [ ~~or~~ ] gas utility  
+| service _, or water utility service_ provided to nonsubmetered master  
+| metered multifamily property.  
+|  (2) "Nonsubmetered master metered multifamily  
+| property" means an apartment, a leased or owner-occupied  
+| condominium, or one or more buildings containing at least 10  
+| dwellings that receive electric utility service _,_ [ ~~or~~ ] gas utility  
+| service _, or water utility service_ that is master metered but not  
+| submetered.  
+|  (b) A customer shall provide written notice of a service  
+| disconnection to each tenant or owner at a nonsubmetered master  
+| metered multifamily property not later than the fifth day after the  
+| date the customer receives a notice of service disconnection from  
+| an electric service provider _,_ [ ~~or~~ ] a gas utility _, or a water_  
+| _utility_.  The customer must provide the notice by mail to the  
+| tenant's or owner's preferred mailing address or hand deliver the  
+| notice to the tenant or owner.  The written notice must include the  
+| customer's contact information and the tenant's remedies under  
+| Section 92.301.  The notice must include the following text in both  
+| English and Spanish:  
+|  "Notice to residents of (name and address of nonsubmetered  
+| master metered multifamily property): Electric (or gas _or water_ )  
+| service to this property is scheduled for disconnection on (date)  
+| because (reason for disconnection)."  
+|  SECTION 2. Chapter 13, Water Code, is amended by adding  
+| Subchapter O to read as follows:  
+| _SUBCHAPTER O. PROTECTION AGAINST UTILITY SERVICE DISCONNECTION_  
+|  _Sec._ ___13.521._ _____NOTICE OF DISCONNECTION TO MUNICIPALITIES FOR_  
+| _NONSUBMETERED MASTER METERED MULTIFAMILY PROPERTIES. (a)_ ___In this_  
+| _section, "nonsubmetered master metered multifamily property" means_  
+| _an apartment, a leased or owner-occupied condominium, or one or_  
+| _more buildings containing at least 10 dwellings that receive water_  
+| _utility service that is master metered but not submetered._  
+|  _(b)_ _____A utility shall send a written notice of service_  
+| _disconnection to a municipality before the utility disconnects_  
+| _service to a nonsubmetered master metered multifamily property for_  
+| _nonpayment if:_  
+|  _(1) the property is located in the municipality; and_  
+|  _(2)_ _____the municipality establishes an authorized_  
+| _representative to receive the notice as described by Section_  
+| _13.523(c)._  
+|  _(c)_ _____The water utility shall send the notice required by this_  
+| _section not later than the 10th day before the date water service is_  
+| _scheduled for disconnection._  
+|  _Sec._ ___13.522._ _____SEPARATE NOTICE OF DISCONNECTION REQUIRED. A_  
+| _water utility shall mail notice of disconnection of water utility_  
+| _service separately from any other statement the utility mails to_  
+| _the customer._  
+|  _Sec._ ___13.523._ _____ADDITIONAL SAFEGUARDS. (a)_ ___The customer_  
+| _safeguards provided by this subchapter are in addition to_  
+| _safeguards provided by other law or commission rules._  
+|  _(b)_ _____This subchapter does not prohibit a municipality or the_  
+| _commission from adopting customer safeguards that exceed the_  
+| _safeguards provided by this chapter._  
+|  _(c)_ _____The commission by rule shall develop a mechanism by_  
+| _which a municipality may provide the commission with the contact_  
+| _information of the municipality's authorized representative to_  
+| _whom the notice required by Section 13.521 must be sent._ ___The_  
+| _commission shall make the contact information available to the_  
+| _public._  
+|  SECTION 3. The change in law made by this Act applies only  
+| in regard to disconnection of water utility service that is  
+| scheduled on or after September 15, 2019.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,309 @@
+| 86R12694 SLB-F  
+---|---  
+|  By: Kacal | H.B. No. 3114  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to contested case hearings on matters under the  
+| jurisdiction of the Texas Commission on Environmental Quality.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. CONTESTED CASE HEARINGS  
+|  SECTION 1.01. The heading to Subchapter H, Chapter 5, Water  
+| Code, is amended to read as follows:  
+| SUBCHAPTER H. [ ~~DELEGATION OF~~ ] HEARINGS  
+|  SECTION 1.02. Section 5.311, Water Code, is amended to read  
+| as follows:  
+|  Sec. 5.311. DELEGATION OF RESPONSIBILITY. (a)  The  
+| commission _by rule_ may delegate to an administrative law judge of  
+| the _commission_ [ ~~State Office of Administrative Hearings~~ ] the  
+| responsibility to hear any matter before the commission _, if_  
+| _consistent with the responsibilities of the office of_  
+| _administrative law judge_.  
+|  (b) _The_ [ ~~Except as provided in Subsection (a), the~~ ]  
+| administrative law judge shall report to the commission on the  
+| hearing in the manner provided by law.  
+|  SECTION 1.03. Section 5.312(a), Water Code, is amended to  
+| read as follows:  
+|  (a) Except as provided in Subsection (b) _and otherwise in_  
+| _this subchapter_ , all permit decisions shall be made within 180 days  
+| of the receipt of the permit application or application amendment  
+| or the determination of administrative completeness, whichever is  
+| later.  
+|  SECTION 1.04. Section 5.315, Water Code, is amended to read  
+| as follows:  
+|  Sec. 5.315. DISCOVERY IN CASES USING PREFILED WRITTEN  
+| TESTIMONY. In a contested case hearing delegated by the commission  
+| to _an administrative law judge_ [ ~~the State Office of Administrative~~  
+|  ~~Hearings~~ ] that uses prefiled written testimony, all discovery must  
+| be completed before the deadline _set by the administrative law_  
+| _judge_ [ ~~for the submission of that testimony~~ ].  
+|  SECTION 1.05. Subchapter H, Chapter 5, Water Code, is  
+| amended by adding Sections 5.316 through 5.326 to read as follows:  
+|  _Sec._ ___5.316._ _____HEARING BEFORE COMMISSION; APPLICABILITY OF_  
+| _OTHER LAW._ ___(a)_ ___An administrative law judge to whom the commission_  
+| _has delegated a contested case hearing shall conduct the hearing_  
+| _before the commission._  
+|  _(b)_ _____The provisions of Chapter 2001, Government Code, apply_  
+| _to contested case hearings for the commission to the extent not_  
+| _inconsistent with this section._  
+|  _Sec._ ___5.317._ _____ADMINISTRATIVE LAW JUDGES AND TECHNICAL_  
+| _ADVISORS. (a)_ ___The commission may contract with qualified_  
+| _individuals to serve as temporary or permanent administrative law_  
+| _judges or technical advisors as necessary._  
+|  _(b)_ _____To be eligible to preside at a hearing on behalf of the_  
+| _commission, an administrative law judge, regardless of temporary or_  
+| _permanent status, must:_  
+|  _(1) be licensed to practice law in this state; and_  
+|  _(2)_ _____have the expertise necessary to conduct hearings_  
+| _regarding technical or other specialized subjects that may come_  
+| _before the commission._  
+|  _(c)_ _____The commission may also appoint a technical advisor to_  
+| _assist the administrative law judge in presiding over a delegated_  
+| _hearing._  
+|  _Sec._ ___5.318._ _____HEARING TIMELINES. (a)_ ___The commission shall_  
+| _specify the date by which the administrative law judge is expected_  
+| _to complete the proceeding and provide a proposal for decision to_  
+| _the commission. The administrative law judge may extend the_  
+| _proceeding if the administrative law judge determines that failure_  
+| _to grant an extension would deprive a party of due process or_  
+| _another constitutional right. The administrative law judge shall_  
+| _establish a docket control order designed to complete the_  
+| _proceeding by the date specified by the commission._  
+|  _(b)_ _____For a matter sent to hearing under Section 5.556 or_  
+| _5.557, the administrative law judge shall complete the proceeding_  
+| _and provide a proposal for decision to the commission not later than_  
+| _the earlier of:_  
+|  _(1)_ _____the 180th day after the date of the preliminary_  
+| _hearing; or_  
+|  _(2) the date specified by the commission._  
+|  _(c)_ _____The timeline specified by Subsection (b) or (f), as_  
+| _applicable, may be extended:_  
+|  _(1)_ _____by agreement of the parties with the approval of_  
+| _the administrative law judge; or_  
+|  _(2)_ _____by the administrative law judge if the judge_  
+| _determines that failure to extend the timeline would unduly deprive_  
+| _a party of due process or another constitutional right._  
+|  _(d)_ _____For the purposes of Subsection (c)(2), a political_  
+| _subdivision has the same constitutional rights as an individual._  
+|  _(e)_ _____This subsection applies only to a matter sent to hearing_  
+| _under Section 5.557. The administrative law judge may not hold a_  
+| _preliminary hearing until after the executive director has issued a_  
+| _response to public comments under Section 5.555._  
+|  _(f)_ _____For a matter relating to an application described by_  
+| _Section 11.122(b-1), the administrative law judge must complete the_  
+| _proceeding and provide a proposal for decision to the commission_  
+| _not later than the 270th day after the date the matter was sent to_  
+| _hearing._  
+|  _Sec._ ___5.319._ _____SCOPE OF HEARING. (a)_ ___In delegating a matter_  
+| _for hearing, the commission shall provide to the administrative law_  
+| _judge a list of specified issues. Each specified issue must have_  
+| _been raised by an affected person in a comment submitted by that_  
+| _affected person in response to a permit application in a timely_  
+| _manner. The list of issues provided must:_  
+|  _(1) be detailed and complete; and_  
+|  _(2) contain either:_  
+|  _(A) only factual questions; or_  
+|  _(B) mixed questions of fact and law._  
+|  _(b)_ _____Except as otherwise provided by this subsection, the_  
+| _scope of the hearing is limited to the issues specified by the_  
+| _commission. On the request of a party, the administrative law judge_  
+| _may consider an issue that was not specified by the commission if_  
+| _the administrative law judge determines that:_  
+|  _(1) the issue is material;_  
+|  _(2) the issue is supported by evidence; and_  
+|  _(3)_ _____there are good reasons for the failure to supply_  
+| _available information regarding the issue during the public comment_  
+| _period._  
+|  _Sec._ ___5.320._ _____DISCOVERY._ ___(a)_ ___The scope of permissible_  
+| _discovery is limited to:_  
+|  _(1) any matter that:_  
+|  _(A)_ _____is reasonably calculated to lead to the_  
+| _discovery of admissible evidence regarding any issue specified by_  
+| _the commission; or_  
+|  _(B)_ _____the administrative law judge has agreed to_  
+| _consider; and_  
+|  _(2) the production of documents:_  
+|  _(A)_ _____reviewed or relied on in preparing_  
+| _application materials or selecting the site of the proposed_  
+| _facility; or_  
+|  _(B)_ _____relating to the ownership of the applicant or_  
+| _the owner or operator of the facility or proposed facility._  
+|  _(b) The commission by rule shall:_  
+|  _(1)_ _____provide for subpoenas and commissions for_  
+| _depositions; and_  
+|  _(2)_ _____require that discovery be conducted in accordance_  
+| _with the Texas Rules of Civil Procedure, except that the commission_  
+| _by rule shall determine the level of discovery under Rule 190, Texas_  
+| _Rules of Civil Procedure, appropriate for each type of case_  
+| _considered by the commission, taking into account the nature and_  
+| _complexity of the case._  
+|  _Sec._ ___5.321._ _____CERTIFICATION OF ISSUES._ ___The commission shall_  
+| _adopt rules providing for certification to the commission of an_  
+| _issue that involves an ultimate finding of compliance with or_  
+| _satisfaction of a statutory standard the determination of which is_  
+| _committed to the discretion or judgment of the commission by law._  
+| _The rules must address, at a minimum:_  
+|  _(1)_ _____the issues that are appropriate for certification;_  
+| _and_  
+|  _(2) the procedure to be used in certifying an issue._  
+|  _Sec._ ___5.322._ _____PRIMA FACIE DEMONSTRATION IN CERTAIN CASES._ __  
+| _(a)_ ___In a contested case regarding a permit application sent to_  
+| _hearing under Section 5.556 or Section 5.557, the filing with the_  
+| _administrative law judge of the application, the draft permit_  
+| _prepared by the executive director, the preliminary decision issued_  
+| _by the executive director, and other sufficient supporting_  
+| _documentation in the administrative record of the permit_  
+| _application establishes a prima facie demonstration that:_  
+|  _(1)_ _____the draft permit meets all state and federal legal_  
+| _and technical requirements; and_  
+|  _(2)_ _____a permit, if issued consistent with the draft_  
+| _permit, would protect human health and safety, the environment, and_  
+| _physical property._  
+|  _(b)_ _____A party may rebut a demonstration under Subsection (a)_  
+| _by presenting evidence that:_  
+|  _(1)_ _____relates to a matter sent to hearing under Section_  
+| _5.557, or an issue included in a list submitted under Section 5.319_  
+| _in connection with a matter specified under Section 5.556; and_  
+|  _(2)_ _____demonstrates that one or more provisions in the_  
+| _draft permit violate a specifically applicable state or federal_  
+| _requirement._  
+|  _(c)_ _____If in accordance with Subsection (b) a party rebuts a_  
+| _presumption established under Subsection (a), the applicant and the_  
+| _executive director may present additional evidence to support the_  
+| _draft permit._  
+|  _Sec._ ___5.323._ _____SANCTIONS. (a)_ ___An administrative law judge_  
+| _hearing a case on behalf of the commission, on the judge's own_  
+| _motion or on motion of a party and after notice and an opportunity_  
+| _for a hearing, may impose appropriate sanctions as provided by_  
+| _Subsection (b) against a party or its representative for:_  
+|  _(1)_ _____filing a motion or pleading that is groundless and_  
+| _brought:_  
+|  _(A) in bad faith;_  
+|  _(B) for the purpose of harassment; or_  
+|  _(C)_ _____for any other improper purpose, such as to_  
+| _cause unnecessary delay or needless increase in the cost of the_  
+| _proceeding;_  
+|  _(2)_ _____abuse of the discovery process in seeking, making,_  
+| _or resisting discovery; or_  
+|  _(3)_ _____failure to obey an order of the administrative law_  
+| _judge or the commission._  
+|  _(b)_ _____A sanction imposed under Subsection (a) may include, as_  
+| _appropriate and justified, issuance of an order:_  
+|  _(1)_ _____disallowing further discovery of any kind or of a_  
+| _particular kind by the offending party;_  
+|  _(2)_ _____charging all or any part of the expenses of_  
+| _discovery against the offending party or its representatives;_  
+|  _(3)_ _____holding that designated facts be considered_  
+| _admitted for purposes of the proceeding;_  
+|  _(4)_ _____refusing to allow the offending party to support_  
+| _or oppose a designated claim or defense or prohibiting the party_  
+| _from introducing designated matters into evidence;_  
+|  _(5)_ _____wholly or partly disallowing requests for relief_  
+| _by the offending party and excluding evidence in support of those_  
+| _requests; and_  
+|  _(6)_ _____wholly or partly striking pleadings or testimony,_  
+| _or both._  
+|  _Sec._ ___5.324._ _____PROPOSAL FOR DECISION. (a)_ ___After hearing_  
+| _evidence and receiving legal argument, an administrative law judge_  
+| _shall:_  
+|  _(1)_ _____separately state findings of fact, conclusions of_  
+| _law, and any ultimate findings required by statute; and_  
+|  _(2)_ _____make a proposal for decision to the commission and_  
+| _serve the proposal for decision on all parties._  
+|  _(b)_ _____An opportunity shall be given to each party to file_  
+| _exceptions to the proposal for decision and briefs related to the_  
+| _issues addressed in the proposal for decision._  
+|  _(c)_ _____The commission shall consider and act on the proposal_  
+| _for decision._  
+|  _Sec._ ___5.325._ _____COMMISSION CONSIDERATION OF AND ACTION ON_  
+| _PROPOSAL FOR DECISION._ ___(a)_ ___Except as provided by Section 361.0832,_  
+| _Health and Safety Code, the commission shall consider the proposal_  
+| _for decision prepared by the administrative law judge, the_  
+| _exceptions of the parties, and the briefs and argument of the_  
+| _parties._  
+|  _(b)_ _____The commission may amend the proposal for decision,_  
+| _including any finding of fact, but an amendment to the proposal for_  
+| _decision and order must be based solely on the record made before_  
+| _the administrative law judge. An amendment by the commission must_  
+| _be accompanied by an explanation of the basis of the amendment._  
+|  _(c)_ _____The commission may return the matter back to the_  
+| _administrative law judge to:_  
+|  _(1)_ _____reconsider any findings and conclusions set forth_  
+| _in the proposal for decision; or_  
+|  _(2)_ _____take additional evidence or to make additional_  
+| _findings of fact or conclusions of law._  
+|  _(d)_ _____The commission shall serve a copy of the commission's_  
+| _order, including its finding of facts and conclusions of law, on_  
+| _each party._  
+|  _Sec._ ___5.326._ _____ALTERNATIVE DISPUTE RESOLUTION. (a)_ ___An_  
+| _administrative law judge hearing a case on behalf of the commission_  
+| _may not, without the agreement of all parties, issue an order_  
+| _referring the case to an alternative dispute resolution procedure_  
+| _if the commission has already conducted an unsuccessful alternative_  
+| _dispute resolution procedure._  
+|  _(b)_ _____If the commission has not already conducted an_  
+| _alternative dispute resolution procedure, the administrative law_  
+| _judge shall consider the commission's recommendation in_  
+| _determining whether to issue an order referring the case to the_  
+| _procedure._  
+|  SECTION 1.06. Sections 5.556(d) and (e), Water Code, are  
+| amended to read as follows:  
+|  (d) The commission may not _specify_ [ ~~refer~~ ] an issue to _be_  
+| _heard at a contested case_ [ ~~the State Office of Administrative~~  
+|  ~~Hearings for a~~ ] hearing unless the commission determines that the  
+| issue:  
+|  (1) involves a disputed question of fact;  
+|  (2) was raised during the public comment period; and  
+|  (3) is relevant and material to the decision on the  
+| application.  
+|  (e) If the commission grants a request for a contested case  
+| hearing it shall:  
+|  (1) limit the number and scope of the issues to be  
+| _specified_ [ ~~referred to the State Office of Administrative Hearings~~ ]  
+| for a hearing; and  
+|  (2) consistent with the nature and number of the  
+| issues to be considered at the hearing, specify the maximum  
+| expected duration of the hearing.  
+|  SECTION 1.07. Section 5.557(b), Water Code, is amended to  
+| read as follows:  
+|  (b) Sections 5.318(a), 5.319, 5.554, 5.555, and 5.556 [ ~~of~~  
+|  ~~this code and Sections 2003.047(e) and (f), Government Code,~~ ] do  
+| not apply to an application referred for a hearing under Subsection  
+| (a).  
+| ARTICLE 2. CONFORMING AMENDMENTS  
+|  SECTION 2.01. Section 2003.024(d), Government Code, is  
+| amended to read as follows:  
+|  (d) This section does not apply to hearings conducted:  
+|  (1) under Section [ ~~2003.047 or~~ ] 2003.049; or  
+|  (2) under the administrative license revocation  
+| program.  
+|  SECTION 2.02. Section 2003.025(a), Government Code, is  
+| amended to read as follows:  
+|  (a) This section applies to a state agency that has entered  
+| into a contract with the office for the conduct of hearings and  
+| alternative dispute resolution procedures for the agency,  
+| including a contract under Section 2003.024, [ ~~2003.048,~~ ] 2003.049,  
+| or 2003.105, during any of the three most recent state fiscal years.  
+|  SECTION 2.03. Section 2003.0421(c), Government Code, is  
+| amended to read as follows:  
+|  (c) This section applies to any contested case hearing  
+| conducted by the office, except hearings conducted on behalf of  
+| [ ~~the Texas Commission on Environmental Quality or~~ ] the Public  
+| Utility Commission of Texas which are governed by _Section_ [ ~~Sections~~  
+|  ~~2003.047 and~~ ] 2003.049.  
+| ARTICLE 3. REPEALER  
+|  SECTION 3.01. The following provisions are repealed:  
+|  (1) Section 2003.047, Government Code;  
+|  (2) Section 2003.048, Government Code; and  
+|  (2) Section 5.313, Water Code.  
+| ARTICLE 4. TRANSITION; EFFECTIVE DATE  
+|  SECTION 4.01. The changes in law made by this Act apply only  
+| to a contested case hearing referred by the Texas Commission on  
+| Environmental Quality to an administrative law judge on or after  
+| the effective date of this Act. A contested case hearing referred  
+| by the Texas Commission on Environmental Quality to an  
+| administrative law judge before the effective date of this Act is  
+| governed by the law in effect at the time the case was referred and  
+| the former law is continued in effect for that purpose.  
+|  SECTION 4.02. This Act takes effect September 1, 2019.
+

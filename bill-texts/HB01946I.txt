@@ -1,0 +1,89 @@
+| 86R9980 LED-F  
+---|---  
+|  By: Lucio III | H.B. No. 1946  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the workers' compensation classification system and  
+| rate filings.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2051.157, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 2051.157. PENALTY FOR CERTAIN VIOLATIONS. An officer  
+| or other representative of an insurance company is subject to a fine  
+| of not less than $100 or more than $500 if the officer or other  
+| representative violates any provision of the following relating to  
+| the company's business:  
+|  (1) Subchapter A or B;  
+|  (2) Section 2051.156 or 2051.201;  
+|  (3) Chapter 426 or 2052;  
+|  (4) Subchapter A, C, or D, Chapter 2053; or  
+|  (5) Section 2053.051, 2053.052, [ ~~2053.053,~~ ] or  
+| 2053.055.  
+|  SECTION 2. Section 2053.001(5), Insurance Code, is amended  
+| to read as follows:  
+|  (5) "Supplementary rating information" means any  
+| manual, rating plan or schedule, plan of rules, rating rule,  
+| classification system, territory code or description, or other  
+| similar information required to determine the applicable premium  
+| for an insured. The term includes increased limits factors,  
+| [ ~~classification relativities,~~ ] deductible relativities, and other  
+| similar factors and relativities.  
+|  SECTION 3. Section 2053.051, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 2053.051. HAZARD CLASSIFICATION SYSTEM.  (a)  For  
+| workers' compensation insurance, the department shall:  
+|  (1) determine hazards by class; and  
+|  (2) [ ~~establish classification relativities applicable~~  
+|  ~~to an employer's payroll in each of the classes at levels adequate~~  
+|  ~~to the risks to which the relativities apply.~~  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~The classification relativities established under~~  
+|  ~~Subsection (a)(2):~~  
+|  [ ~~(1) must be designed to encourage safety;~~  
+|  [ ~~(2) may be territorially based; and~~  
+|  [ ~~(3) may reflect a difference in losses between~~  
+|  ~~employers of high wage earners and employers of low wage earners~~  
+|  ~~within the same class.~~  
+|  [ ~~(c) The department shall~~] revise the classification system  
+| _as necessary to carry out the purposes of this chapter_ [ ~~at least~~  
+|  ~~once every five years~~ ].  
+|  _(b)_ _____A stock company, mutual insurance company, reciprocal_  
+| _or interinsurance exchange, or Lloyd's plan authorized to engage in_  
+| _the business of workers' compensation insurance in this state may_  
+| _not use hazard classifications other than the classifications_  
+| _established by the department._  
+|  SECTION 4. Section 2053.056(c), Insurance Code, is amended  
+| to read as follows:  
+|  (c) The commissioner shall review the information submitted  
+| under Subsection (b) to determine the positive or negative impact  
+| of the enactment of workers' compensation reform legislation  
+| enacted by the 79th Legislature, Regular Session, 2005, on workers'  
+| compensation rates and premiums. The commissioner may consider  
+| other factors[ ~~, including relativities under Section 2053.051,~~ ] in  
+| determining whether a change in rates has impacted the premium  
+| charged to policyholders.  
+|  SECTION 5. Sections 407A.351(a) and (b), Labor Code, are  
+| amended to read as follows:  
+|  (a) Except as provided by Subsection (b), each group shall  
+| use the uniform classification system _and_ [ ~~,~~ ] experience rating  
+| plan[ ~~, and rate relativities~~ ] of the department.  
+|  (b) A group _must_ [ ~~may:~~  
+|  [ ~~(1) use the relativities promulgated by the department~~  
+|  ~~modified to produce rates in accordance with the group's historical~~  
+|  ~~experience; or~~  
+|  [ ~~(2)~~ ] file [ ~~its own~~ ] rates with the department _in_  
+| _accordance with Chapter 2053, Insurance Code_ , including any  
+| reasonable and supporting information required by the  
+| commissioner.  
+|  SECTION 6. Effective July 1, 2020, Sections 2053.053 and  
+| 2054.354(b), Insurance Code, are repealed.  
+|  SECTION 7. Sections 2051.157, 2053.001(5), 2053.051, and  
+| 2053.056(c), Insurance Code, and Sections 407A.351(a) and (b),  
+| Labor Code, as amended by this Act, apply only to an insurance  
+| policy that is delivered, issued for delivery, or renewed on or  
+| after July 1, 2020. A policy delivered, issued for delivery, or  
+| renewed before July 1, 2020, is governed by the law as it existed  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

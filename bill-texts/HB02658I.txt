@@ -1,0 +1,131 @@
+| 86R4681 PMO-D  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 2658  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to health benefit coverage for hearing aids for children  
+| and adults.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 1365.001 through 1365.004, Insurance  
+| Code, are designated as Subchapter A, Chapter 1365, Insurance Code,  
+| and a heading is added to Subchapter A to read as follows:  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  SECTION 2. Sections 1365.001 and 1365.002, Insurance Code,  
+| are amended to read as follows:  
+|  Sec. 1365.001. APPLICABILITY OF _SUBCHAPTER_ [ ~~CHAPTER~~ ]. This  
+| _subchapter_ [ ~~chapter~~ ] applies only to a group health benefit plan  
+| that provides hospital and medical coverage on an expense-incurred,  
+| service, or prepaid basis, including a group policy, contract, or  
+| plan that is offered in this state by:  
+|  (1) an insurer;  
+|  (2) a group hospital service corporation operating  
+| under Chapter 842; or  
+|  (3) a health maintenance organization operating under  
+| Chapter 843.  
+|  Sec. 1365.002. APPLICABILITY OF GENERAL PROVISIONS OF OTHER  
+| LAW. The provisions of Chapter 1201, including provisions relating  
+| to the applicability, purpose, and enforcement of that chapter,  
+| construction of policies under that chapter, rulemaking under that  
+| chapter, and definitions of terms applicable in that chapter, apply  
+| to this _subchapter_ [ ~~chapter~~ ].  
+|  SECTION 3. Chapter 1365, Insurance Code, is amended by  
+| adding Subchapter B to read as follows:  
+| _SUBCHAPTER B. HEARING AID COVERAGE_  
+|  _Sec._ ___1365.051._ _____APPLICABILITY. (a) This subchapter applies_  
+| _only to a health benefit plan, including a small employer health_  
+| _benefit plan written under Chapter 1501 or coverage provided_  
+| _through a health group cooperative under Subchapter B of that_  
+| _chapter, that provides benefits for medical or surgical expenses_  
+| _incurred as a result of a health condition, accident, or sickness,_  
+| _including an individual, group, blanket, or franchise insurance_  
+| _policy or insurance agreement, a group hospital service contract,_  
+| _or an individual or group evidence of coverage or similar coverage_  
+| _document that is offered by:_  
+|  _(1) an insurance company;_  
+|  _(2)_ _____a group hospital service corporation operating_  
+| _under Chapter 842;_  
+|  _(3)_ _____a fraternal benefit society operating under_  
+| _Chapter 885;_  
+|  _(4) a Lloyd's plan operating under Chapter 941;_  
+|  _(5)_ _____a stipulated premium insurance company operating_  
+| _under Chapter 884;_  
+|  _(6) a reciprocal exchange operating under Chapter 942;_  
+|  _(7)_ _____a health maintenance organization operating under_  
+| _Chapter 843;_  
+|  _(8)_ _____a multiple employer welfare arrangement that holds_  
+| _a certificate of authority under Chapter 846; or_  
+|  _(9)_ _____an approved nonprofit health corporation that_  
+| _holds a certificate of authority under Chapter 844._  
+|  _(b)_ _____This subchapter applies to coverage under a group health_  
+| _benefit plan described by Subsection (a) provided to a resident of_  
+| _this state, regardless of whether the group policy, agreement, or_  
+| _contract is delivered, issued for delivery, or renewed within or_  
+| _outside this state._  
+|  _(c)_ _____This subchapter applies to a self-funded health benefit_  
+| _plan sponsored by a professional employer organization under_  
+| _Chapter 91, Labor Code._  
+|  _(d)_ _____Notwithstanding Section 22.409, Business Organizations_  
+| _Code, or any other law, this subchapter applies to health benefits_  
+| _provided by or through a church benefits board under Subchapter I,_  
+| _Chapter 22, Business Organizations Code._  
+|  _(e)_ _____Notwithstanding Section 75.104, Health and Safety Code,_  
+| _or any other law, this subchapter applies to a regional or local_  
+| _health care program operated under that section._  
+|  _(f)_ _____Notwithstanding any other law, a standard health_  
+| _benefit plan provided under Chapter 1507 must provide the coverage_  
+| _required by this subchapter._  
+|  _(g)_ _____Notwithstanding any provision in Chapter 1551, 1575,_  
+| _1579, or 1601 or any other law, this subchapter applies to:_  
+|  _(1) a basic coverage plan under Chapter 1551;_  
+|  _(2) a basic plan under Chapter 1575;_  
+|  _(3)_ _____a primary care coverage plan under Chapter 1579;_  
+| _and_  
+|  _(4) basic coverage under Chapter 1601._  
+|  _Sec._ ___1365.052._ _____EXCEPTION. (a) This subchapter does not_  
+| _apply to:_  
+|  _(1) a plan that provides coverage:_  
+|  _(A)_ _____for wages or payments in lieu of wages for a_  
+| _period during which an employee is absent from work because of_  
+| _sickness or injury;_  
+|  _(B)_ _____as a supplement to a liability insurance_  
+| _policy;_  
+|  _(C) for credit insurance;_  
+|  _(D) only for dental or vision care;_  
+|  _(E) only for hospital expenses; or_  
+|  _(F) only for indemnity for hospital confinement;_  
+|  _(2)_ _____a Medicare supplemental policy as defined by_  
+| _Section 1882(g)(1), Social Security Act (42 U.S.C. Section 1395ss);_  
+|  _(3) a workers' compensation insurance policy;_  
+|  _(4)_ _____medical payment insurance coverage provided under_  
+| _a motor vehicle insurance policy;_  
+|  _(5)_ _____a long-term care policy, including a nursing home_  
+| _fixed indemnity policy, unless the commissioner determines that the_  
+| _policy provides benefit coverage so comprehensive that the policy_  
+| _is a health benefit plan as described by Section 1367.251; or_  
+|  _(6)_ _____the state Medicaid program, including the Medicaid_  
+| _managed care program operated under Chapter 533, Government Code._  
+|  _(b)_ _____This subchapter does not apply to a qualified health_  
+| _plan defined by 45 C.F.R. Section 155.20 if a determination is made_  
+| _under 45 C.F.R. Section 155.170 that:_  
+|  _(1)_ _____this subchapter requires the plan to offer_  
+| _benefits in addition to the essential health benefits required_  
+| _under 42 U.S.C. Section 18022(b); and_  
+|  _(2)_ _____this state must make payments to defray the cost of_  
+| _the additional benefits mandated by this subchapter._  
+|  _Sec._ ___1365.053._ _____CHOICE OF HEARING AID. (a) A health benefit_  
+| _plan that provides coverage for hearing aids may not deny an_  
+| _enrollee's claim for a hearing aid solely on the basis that the_  
+| _price of the hearing aid is more than the benefit available under_  
+| _the health benefit plan._  
+|  _(b)_ _____Notwithstanding Section 1367.253(d), this section_  
+| _applies to a health benefit plan subject to Subchapter F, Chapter_  
+| _1367._  
+|  _(c)_ _____Nothing in this section requires a health benefit plan_  
+| _to pay an enrollee's claim for a hearing aid in an amount that is_  
+| _more than the benefit available under the health benefit plan._  
+|  SECTION 4. This Act applies only to a health benefit plan  
+| that is delivered, issued for delivery, or renewed on or after  
+| January 1, 2020.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

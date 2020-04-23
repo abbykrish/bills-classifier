@@ -1,0 +1,146 @@
+| 86R491 CJC-D  
+---|---  
+|  By: Sanford | H.B. No. 3866  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a franchise tax credit based on the ad valorem taxes  
+| paid by a taxable entity on certain inventory.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 171, Tax Code, is amended by adding  
+| Subchapter N to read as follows:  
+| _SUBCHAPTER N. TAX CREDIT FOR BUSINESS AD VALOREM TAX PAYMENTS ON_  
+| _INVENTORY_  
+|  _Sec. 171.701. DEFINITIONS. In this subchapter:_  
+|  _(1) "Qualified entity" means a taxable entity that:_  
+|  _(A) is a retailer; and_  
+|  _(B)_ _____pays ad valorem taxes on retail inventory_  
+| _owned by the entity and located in this state._  
+|  _(2)_ _____"Retail inventory" means all tangible personal_  
+| _property that a retailer holds for sale in this state during a_  
+| _12-month period and for which the retailer is not otherwise_  
+| _entitled to an exemption from taxation. For purposes of this_  
+| _section, the term does not include:_  
+|  _(A) real property; or_  
+|  _(B)_ _____inventory that qualifies for appraisal under_  
+| _Section 23.121, 23.124, 23.1241, or 23.127._  
+|  _(3)_ _____"Retailer" means a person who is engaged in the_  
+| _business in this state of selling retail inventory. For purposes of_  
+| _this section, the term does not include:_  
+|  _(A)_ _____a bank, savings bank, savings and loan_  
+| _association, credit union, or other finance company; or_  
+|  _(B)_ _____a person who was not engaged in the business_  
+| _in this state of selling retail inventory on January 1 of the_  
+| _preceding tax year._  
+|  _(4)_ _____"Sales price" means the total amount of money paid_  
+| _or to be paid to a retailer for the purchase of an item of retail_  
+| _inventory._  
+|  _(5)_ _____"Total annual sales" means the total of the sales_  
+| _price from every sale from a retailer's retail inventory for a_  
+| _12-month period, other than a sale at wholesale or a sale to another_  
+| _retailer._  
+|  _Sec._ ___171.702._ _____ELIGIBILITY FOR CREDIT. A qualified entity_  
+| _is eligible to apply for a credit in the amount and under the_  
+| _conditions and limitations provided by this subchapter against the_  
+| _tax imposed under this chapter._  
+|  _Sec._ ___171.703._ _____AMOUNT OF CREDIT; LIMITATIONS. (a) Subject_  
+| _to Subsection (c), the total amount of the credit under this_  
+| _subchapter is equal to the difference between the following_  
+| _amounts:_  
+|  _(1)_ _____the amount of the ad valorem taxes paid by the_  
+| _qualified entity during the period on which a report is based that_  
+| _are derived from the taxable value of the entity's retail_  
+| _inventory; and_  
+|  _(2)_ _____the amount of the ad valorem taxes the entity would_  
+| _have paid during the period described by Subdivision (1) on the_  
+| _taxable value of the entity's retail inventory if the taxable value_  
+| _of that inventory were an amount determined by dividing the_  
+| _entity's total annual sales, as reported to the comptroller under_  
+| _Section 171.705, by 12._  
+|  _(b)_ _____The comptroller may request assistance from the chief_  
+| _appraiser of the appraisal district in which a qualified entity's_  
+| _retail inventory is located to determine the amount described by_  
+| _Subsection (a)(2). The chief appraiser shall provide the requested_  
+| _assistance._  
+|  _(c)_ _____A qualified entity is not eligible for a credit under_  
+| _this subchapter for a year in which the amount described by_  
+| _Subsection (a)(2) is greater than the amount described by_  
+| _Subsection (a)(1)._  
+|  _(d)_ _____The total credit claimed for a report, including the_  
+| _amount of any carryforward under Section 171.704, may not exceed_  
+| _the amount of franchise tax due for the report after all other_  
+| _applicable tax credits._  
+|  _Sec._ ___171.704._ _____CARRYFORWARD. (a) If a qualified entity is_  
+| _eligible for a credit that exceeds the limitation under Section_  
+| _171.703(d), the entity may carry the unused credit forward for not_  
+| _more than three consecutive reports._  
+|  _(b)_ _____A carryforward is considered the remaining portion of a_  
+| _credit that cannot be claimed in the current year because of the_  
+| _limitation under Section 171.703(d). A carryforward is added to_  
+| _the next year's credit in determining the limitation for that year._  
+| _A credit carryforward from a previous report is considered to be_  
+| _used before the current year credit._  
+|  _Sec._ ___171.705._ _____APPLICATION FOR CREDIT. (a) A qualified_  
+| _entity must apply for a credit under this subchapter on or with the_  
+| _report for the period for which the credit is claimed._  
+|  _(b)_ _____The comptroller shall promulgate a form for the_  
+| _application for the credit. A qualified entity must use the form in_  
+| _applying for the credit. The application must require the entity to_  
+| _state the entity's total annual sales for the 12-month period for_  
+| _which the credit is claimed. The comptroller may require the entity_  
+| _to include any other information the comptroller determines is_  
+| _necessary to demonstrate that the entity is eligible for the_  
+| _credit._  
+|  _(c)_ _____The burden of establishing eligibility for and the value_  
+| _of the credit is on the qualified entity._  
+|  _(d)_ _____The comptroller may request permission to examine the_  
+| _books and records of a qualified entity in the manner provided by_  
+| _this subsection. A request made under this subsection must be made_  
+| _in writing, be delivered personally to the custodian of the records_  
+| _at a location at which the entity conducts business, provide a_  
+| _period of not less than 15 days for the person to respond to the_  
+| _request, and state that the person to whom the request is addressed_  
+| _has the right to seek judicial relief from compliance with the_  
+| _request. In a request made under this subsection, the comptroller_  
+| _may examine:_  
+|  _(1)_ _____documentation appropriate to allow the_  
+| _comptroller to determine if the entity is eligible for the credit;_  
+| _and_  
+|  _(2)_ _____sales records to substantiate information_  
+| _included in the entity's application for the credit._  
+|  _Sec._ ___171.706._ _____SALE OR ASSIGNMENT OF CREDIT. (a) A_  
+| _qualified entity that earns a credit under this subchapter may sell_  
+| _or assign all or part of the credit, and any entity to which all or_  
+| _part of the credit is sold or assigned may sell or assign all or part_  
+| _of the credit to another entity._ ___There is no limit on the total_  
+| _number of transactions for the sale or assignment of all or part of_  
+| _the total credit authorized under this subchapter, however,_  
+| _collectively all transferred and retained credits claimed for a_  
+| _period are subject to the limitation under Section 171.703(d)._  
+|  _(b)_ _____An entity that sells or assigns a credit under this_  
+| _section and the entity to which the credit is sold or assigned shall_  
+| _jointly submit written notice of the sale or assignment to the_  
+| _comptroller on a form promulgated by the comptroller not later than_  
+| _the 30th day after the date of the sale or assignment. The notice_  
+| _must include:_  
+|  _(1) the date of the sale or assignment;_  
+|  _(2) the amount of the credit sold or assigned;_  
+|  _(3)_ _____the names and federal tax identification numbers_  
+| _of the entity that sold or assigned the credit or part of the credit_  
+| _and the entity to which the credit or part of the credit was sold or_  
+| _assigned; and_  
+|  _(4)_ _____the amount of the credit owned by the selling or_  
+| _assigning entity before the sale or assignment, and the amount the_  
+| _selling or assigning entity retained, if any, after the sale or_  
+| _assignment._  
+|  _(c)_ _____The sale or assignment of a credit in accordance with_  
+| _this section does not extend the period for which a credit may be_  
+| _carried forward and does not increase the total amount of the credit_  
+| _that may be claimed._  
+|  _Sec._ ___171.707._ _____RULES. The comptroller shall adopt rules_  
+| _necessary to implement and administer this subchapter._  
+|  SECTION 2. Subchapter N, Chapter 171, Tax Code, as added by  
+| this Act, applies only to a report originally due on or after the  
+| effective date of this Act.  
+|  SECTION 3. This Act takes effect January 1, 2020.
+

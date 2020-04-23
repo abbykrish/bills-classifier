@@ -1,0 +1,371 @@
+|  
+---|---  
+|  By: Capriglione | H.B. No. 4390  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the privacy of personal identifying information;  
+| imposing a civil penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 11, Business & Commerce Code, is amended by  
+| adding Subtitle C to read as follows:  
+| _SUBTITLE C. PRIVACY OF PERSONAL IDENTIFYING INFORMATION_  
+| _CHAPTER 541. PERSONAL IDENTIFYING INFORMATION PROCESSED BY CERTAIN_  
+| _BUSINESSES_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec._ ___541.001._ _____SHORT TITLE. This chapter may be cited as the_  
+| _Texas Privacy Protection Act._  
+|  _Sec. 541.002. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Business" means a for-profit entity, including a_  
+| _sole proprietorship, partnership, limited liability company,_  
+| _corporation, association, or other legal entity that is organized_  
+| _or operated for the profit or financial benefit of the entity's_  
+| _shareholders or other owners._  
+|  _(2) "Collect" means:_  
+|  _(A)_ _____buying, renting, gathering, obtaining,_  
+| _receiving, inferring, creating, or accessing any personal_  
+| _identifying information pertaining to an individual by any means;_  
+| _or_  
+|  _(B)_ _____obtaining personal identifying information_  
+| _relating to an individual, actively or passively, or by observing_  
+| _the individual's behavior._  
+|  _(3)_ _____"Device" means any physical object capable of_  
+| _connecting to the Internet, directly or indirectly, or to another_  
+| _device and transmitting information._  
+|  _(4)_ _____"Personal identifying information" means a_  
+| _category of information relating to an identified or identifiable_  
+| _individual. The term does not include a specific category of_  
+| _personal identifying information that the attorney general exempts_  
+| _from this definition by rule. The term includes:_  
+|  _(A) a social security number;_  
+|  _(B)_ _____a driver's license number, passport number,_  
+| _military identification number, or any other similar number issued_  
+| _on a government document and used to verify an individual's_  
+| _identity;_  
+|  _(C)_ _____a financial account number, credit or debit_  
+| _card number, or any security code, access code, or password that is_  
+| _necessary to permit access to an individual's financial account;_  
+|  _(D)_ _____unique biometric information, including a_  
+| _fingerprint, voice print, retina or iris image, or any other unique_  
+| _physical representation;_  
+|  _(E)_ _____physical or mental health information,_  
+| _including health care information;_  
+|  _(F)_ _____the private communications or other_  
+| _user-created content of an individual that is not publicly_  
+| _available;_  
+|  _(G)_ _____religious affiliation or practice_  
+| _information;_  
+|  _(H) racial or ethnic origin information;_  
+|  _(I) precise geolocation data; and_  
+|  _(J) unique genetic information._  
+|  _(5)_ _____"Privacy risk" means potential adverse_  
+| _consequences to an individual or society at large arising from the_  
+| _processing of personal identifying information, including:_  
+|  _(A)_ _____direct or indirect financial loss or economic_  
+| _harm;_  
+|  _(B) physical harm;_  
+|  _(C)_ _____psychological harm, including anxiety,_  
+| _embarrassment, fear, or other demonstrable mental trauma;_  
+|  _(D)_ _____significant inconvenience or expenditure of_  
+| _time;_  
+|  _(E)_ _____adverse outcomes or decisions with respect to_  
+| _an individual's eligibility for a right, benefit, or privilege in_  
+| _employment, including hiring, firing, promotion, demotion, or_  
+| _compensation;_  
+|  _(F)_ _____credit or insurance harm, including denial of_  
+| _an application or obtaining less favorable terms related to_  
+| _housing, education, professional certification, or health care_  
+| _services;_  
+|  _(G) stigmatization or reputational harm;_  
+|  _(H)_ _____disruption and intrusion from unwanted_  
+| _commercial communications or contacts;_  
+|  _(I) price discrimination; and_  
+|  _(J)_ _____any other adverse consequence that affects an_  
+| _individual's private life, private family matters, actions or_  
+| _communications within an individual's home or similar physical,_  
+| _online, or digital location, if an individual has a reasonable_  
+| _expectation that personal identifying information will not be_  
+| _processed._  
+|  _(6)_ _____"Processing" means any operation or set of_  
+| _operations that are performed on personal identifying information_  
+| _or on sets of personal identifying information, including the_  
+| _collection, creation, generation, recording, organization,_  
+| _structuring, storage, adaptation, alteration, retrieval,_  
+| _consultation, use, disclosure, transfer, or dissemination of the_  
+| _information or otherwise making the information available._  
+|  _(7)_ _____"Third party" means a person engaged by a business_  
+| _to process, on behalf of the business, personal identifying_  
+| _information collected by the business._  
+|  _Sec._ ___541.003._ _____APPLICABILITY. (a) This chapter applies_  
+| _only to a business that:_  
+|  _(1) does business in this state;_  
+|  _(2) has more than 50 employees;_  
+|  _(3)_ _____collects the personal identifying information of_  
+| _more than 5,000 individuals, households, or devices or has that_  
+| _information collected on the business's behalf; and_  
+|  _(4) satisfies one or more of the following thresholds:_  
+|  _(A)_ _____has annual gross revenue in an amount that_  
+| _exceeds $25 million; or_  
+|  _(B)_ _____derives 50 percent or more of the business's_  
+| _annual revenue by processing personal identifying information._  
+|  _(b)_ _____Except as provided by Subsection (c), this chapter_  
+| _applies only to personal identifying information that is:_  
+|  _(1)_ _____collected over the Internet or any other digital_  
+| _network or through a computing device that is associated with or_  
+| _routinely used by an end user; and_  
+|  _(2)_ _____linked or reasonably linkable to a specific end_  
+| _user._  
+|  _(c)_ _____This chapter does not apply to personal identifying_  
+| _information that is:_  
+|  _(1)_ _____collected solely for facilitating the_  
+| _transmission, routing, or connections by which digital personal_  
+| _identifying information and other data is transferred between or_  
+| _among businesses; or_  
+|  _(2)_ _____transmitted to and from the individual to whom the_  
+| _personal identifying information relates if the collector of the_  
+| _information does not access, review, or modify the content of the_  
+| _information, or otherwise perform or conduct any analytical,_  
+| _algorithmic, or machine learning processes on the information._  
+|  _Sec. 541.004. EXEMPTIONS. This chapter does not apply to:_  
+|  _(1) publicly available information;_  
+|  _(2)_ _____protected health information governed by Chapter_  
+| _181, Health and Safety Code, or collected by a covered entity or a_  
+| _business associate of a covered entity, as those terms are defined_  
+| _by 45 C.F.R. Section 160.103, that is governed by the privacy,_  
+| _security, and breach notification rules in 45 C.F.R. Parts 160 and_  
+| _164 adopted by the United States Department of Health and Human_  
+| _Services under the Health Insurance Portability and Accountability_  
+| _Act of 1996 (Pub. L. No._ ___104-191) and Title XIII of the American_  
+| _Recovery and Reinvestment Act of 2009 (Pub. L. No._ ___111-5);_  
+|  _(3)_ _____personal identifying information collected by a_  
+| _consumer reporting agency, as defined by Section 20.01, if the_  
+| _information is to be:_  
+|  _(A)_ _____reported in or used to generate a consumer_  
+| _report, as defined by Section 1681a(d) of the Fair Credit Reporting_  
+| _Act (15 U.S.C. Section 1681 et seq.); and_  
+|  _(B)_ _____used solely for a purpose authorized under_  
+| _that Act;_  
+|  _(4)_ _____personal identifying information processed in_  
+| _accordance with the Gramm-Leach-Bliley Act (Pub. L. No._ ___106-102)_  
+| _and its implementing regulations; or_  
+|  _(5)_ _____education information that is not publicly_  
+| _available personally identifiable information under the Family_  
+| _Educational Rights and Privacy Act of 1974 (20 U.S.C. Section_  
+| _1232g) (34 C.F.R. Part 99)._  
+|  _Sec._ ___541.005._ _____RULES. The attorney general shall adopt_  
+| _rules necessary to implement, administer, and enforce this chapter._  
+| _SUBCHAPTER B. BUSINESS DUTIES_  
+|  _Sec._ ___541.051._ _____COLLECTION OF PERSONAL IDENTIFYING_  
+| _INFORMATION. A business may not collect personal identifying_  
+| _information unless:_  
+|  _(1)_ _____the collection of the information is relevant and_  
+| _necessary to accomplish the purpose for which the information was_  
+| _collected; and_  
+|  _(2)_ _____that purpose is specifically disclosed by the_  
+| _business in the notice required under Section 541.054._  
+|  _Sec._ ___541.052._ _____PROCESSING OF PERSONAL IDENTIFYING_  
+| _INFORMATION. (a) A business may only process personal identifying_  
+| _information if:_  
+|  _(1)_ _____the information is relevant to accomplish the_  
+| _purposes for which the information is to be processed;_  
+|  _(2)_ _____those purposes are specifically disclosed by the_  
+| _business in the notice required under Section 541.054; and_  
+|  _(3)_ _____the information is processed only to the extent_  
+| _necessary to achieve one or more of those purposes._  
+|  _(b)_ _____A business may not process personal identifying_  
+| _information unless:_  
+|  _(1)_ _____the individual whose personal identifying_  
+| _information is collected by the business explicitly consents to the_  
+| _processing of the information; or_  
+|  _(2)_ _____the business is required by law to process the_  
+| _information._  
+|  _(c)_ _____Notwithstanding Subsection (a), a business may not_  
+| _process personal identifying information if:_  
+|  _(1)_ _____the business knows processing the information will_  
+| _likely:_  
+|  _(A) violate state or federal law; or_  
+|  _(B)_ _____interfere with or deny a right or privilege_  
+| _of an individual granted under the United States Constitution; or_  
+|  _(2)_ _____the information is to be processed using automated_  
+| _processing, including algorithmic, machine learning, or artificial_  
+| _intelligence processing or predictive analysis, unless the_  
+| _processing is performed after the business:_  
+|  _(A)_ _____conducts an objective and documented_  
+| _assessment of the automated processing and the results of the_  
+| _processing and determines the processing is reasonably free from_  
+| _bias and error;_  
+|  _(B)_ _____analyzes the privacy risk of using automated_  
+| _processing and takes reasonable steps to mitigate that risk; and_  
+|  _(C)_ _____concludes that, after all reasonable steps_  
+| _are taken to mitigate any privacy risk, the automated processing of_  
+| _the personal identifying information does not cause or is not_  
+| _likely to cause a substantial privacy risk._  
+|  _Sec._ ___541.053._ _____DATA SECURITY PROGRAM. (a) A business shall_  
+| _develop, implement, and maintain a comprehensive data security_  
+| _program that contains administrative, technical, and physical_  
+| _safeguards for personal identifying information._  
+|  _(b) The safeguards required under Subsection (a) must be:_  
+|  _(1) documented by the business; and_  
+|  _(2) appropriate considering the:_  
+|  _(A) size and complexity of the business;_  
+|  _(B)_ _____nature and scope of the business's_  
+| _activities; and_  
+|  _(C)_ _____sensitivity of the personal identifying_  
+| _information processed by the business._  
+|  _Sec._ ___541.054._ _____NOTICE REQUIRED. (a) A business in a_  
+| _conspicuous manner shall provide a notice that includes a_  
+| _reasonably full and complete description of the business's_  
+| _practices governing the processing of personal identifying_  
+| _information before collecting personal identifying information._  
+| _The notice must include:_  
+|  _(1)_ _____the categories of personal identifying_  
+| _information processed by the business;_  
+|  _(2)_ _____details on the type of processing used by the_  
+| _business;_  
+|  _(3)_ _____the purposes for which the business processes_  
+| _personal identifying information; and_  
+|  _(4)_ _____the involvement of any third party in processing_  
+| _personal identifying information on behalf of the business._  
+|  _(b) The notice required by Subsection (a) must be:_  
+|  _(1)_ _____clear, drafted in plain language, and easy to_  
+| _understand; and_  
+|  _(2)_ _____located in a prominent location at the business_  
+| _and on the business's Internet website if the business has an_  
+| _Internet website._  
+|  _(c)_ _____If a business processes geolocation data, biometric_  
+| _information, genetic information, racial or ethnic origin_  
+| _information, religious affiliation or practice information,_  
+| _physical or mental health information, or other personal_  
+| _identifying information that when processed is likely to create a_  
+| _significant privacy risk, the business must, before collecting the_  
+| _information, explicitly specify in the notice required under_  
+| _Subsection (a):_  
+|  _(1)_ _____the categories or items of personal identifying_  
+| _information processed by the business, as applicable; and_  
+|  _(2) the purposes for processing that information._  
+|  _(d)_ _____The information required under Subsection (c) must be_  
+| _included in the notice in a manner that is conspicuous, readily_  
+| _available, accessible, accurate, and easy to understand._  
+|  _(e)_ _____The notice required under this section may be included_  
+| _in the privacy policy required by Section 541.055._  
+|  _Sec._ ___541.055._ _____PRIVACY POLICY. A business shall make_  
+| _publicly available on an ongoing basis a privacy policy that:_  
+|  _(1)_ _____generally articulates the processing practices of_  
+| _the business for personal identifying information, including any_  
+| _analysis or predictions made by the business based on the_  
+| _processing of personal identifying information by the business;_  
+|  _(2)_ _____includes an accurate and easy method for an_  
+| _individual to access the individual's personal identifying_  
+| _information that the business has processed about the individual;_  
+| _and_  
+|  _(3) states that the business is required to:_  
+|  _(A)_ _____stop processing personal identifying_  
+| _information on the date an individual closes the individual's_  
+| _account with the business; and_  
+|  _(B)_ _____not later than the 30th day after the date the_  
+| _individual closes the account, delete the individual's personal_  
+| _identifying information unless retention of the information is_  
+| _required by other law or is necessary to comply with other law._  
+|  _Sec._ ___541.056._ _____ACCESS TO INFORMATION. A business shall_  
+| _allow an individual to promptly and reasonably obtain:_  
+|  _(1)_ _____confirmation of whether personal identifying_  
+| _information concerning the individual is processed by the business;_  
+|  _(2)_ _____a description of the categories of personal_  
+| _identifying information processed by the business;_  
+|  _(3)_ _____an explanation in plain language of the specific_  
+| _types of personal identifying information collected by the_  
+| _business; and_  
+|  _(4)_ _____access to the individual's personal identifying_  
+| _information._  
+|  _Sec._ ___541.057._ _____DELETION OF PERSONAL IDENTIFYING_  
+| _INFORMATION. If an individual who maintains an account with a_  
+| _business closes the account, the business shall:_  
+|  _(1)_ _____stop processing the individual's personal_  
+| _identifying information on the date the individual closes the_  
+| _account;_  
+|  _(2)_ _____not later than the 30th day after the date the_  
+| _account is closed, delete the individual's personal identifying_  
+| _information unless retention of the information is required by_  
+| _other law or is necessary to comply with other law; and_  
+|  _(3)_ _____if the business engages a third party to process_  
+| _personal identifying information, notify the third party that the_  
+| _individual is closing the account._  
+|  _Sec._ ___541.058._ _____ACCOUNTABILITY PROGRAM. To ensure compliance_  
+| _with this chapter, a business shall implement an ongoing_  
+| _accountability program and maintain an internal publication of the_  
+| _written policies and procedures necessary to implement the program._  
+| _The program must include:_  
+|  _(1)_ _____a process to identify, assess, and mitigate any_  
+| _reasonably foreseeable privacy risk;_  
+|  _(2) procedures to provide remedies for privacy risk;_  
+|  _(3)_ _____an annual assessment of the program and_  
+| _supporting policies and procedures;_  
+|  _(4)_ _____methods and procedures for responding to data_  
+| _breaches and for addressing inquiries and complaints concerning_  
+| _personal identifying information; and_  
+|  _(5)_ _____procedures for internal enforcement of the_  
+| _business's policies and discipline for noncompliance._  
+|  _Sec._ ___541.059._ _____INFORMATION SHARED WITH THIRD PARTY. (a) A_  
+| _business that engages a third party to process personal identifying_  
+| _information collected by the business shall:_  
+|  _(1)_ _____use due diligence in selecting the third party and_  
+| _shall ensure that the third party complies with the requirements of_  
+| _this chapter that apply to the third party; and_  
+|  _(2)_ _____annually obtain from the third party verification_  
+| _that the third party is complying with the requirements._  
+|  _(b)_ _____Notwithstanding Subsection (a), a business may not_  
+| _share with any third party who the business engages to process the_  
+| _information an individual's biometric, health, or genetic_  
+| _information unless the individual consents to the sharing of the_  
+| _information._  
+|  _(c)_ _____A third party that processes personal identifying_  
+| _information received from a business may only process the_  
+| _information to the extent the business is authorized to process the_  
+| _information under Section 541.052 and shall:_  
+|  _(1)_ _____implement a data security program described by_  
+| _Section 541.053;_  
+|  _(2)_ _____implement an accountability program described by_  
+| _Section 541.058; and_  
+|  _(3)_ _____if the business notifies the third party under_  
+| _Section 541.057 that an individual is closing the individual's_  
+| _account with the business:_  
+|  _(A)_ _____stop processing the individual's personal_  
+| _identifying information on the date the individual closes the_  
+| _account; and_  
+|  _(B)_ _____not later than the 30th day after the date the_  
+| _account is closed, delete the individual's personal identifying_  
+| _information unless retention of the information is required by_  
+| _other law or is necessary to comply with other law._  
+| _SUBCHAPTER C. ENFORCEMENT_  
+|  _Sec._ ___541.101._ _____CIVIL PENALTY. (a) A business that violates_  
+| _this chapter or a third party that violates Section 541.059(c) is_  
+| _liable to this state for a civil penalty in an amount of not more_  
+| _than $10,000 for each violation, not to exceed a total amount of $1_  
+| _million._  
+|  _(b)_ _____The attorney general may bring an action in the name of_  
+| _the state against the business or third party to recover the civil_  
+| _penalty imposed under this section._  
+|  _(c)_ _____The attorney general is entitled to recover reasonable_  
+| _expenses, including reasonable attorney's fees, court costs, and_  
+| _investigatory costs, incurred in bringing an action under this_  
+| _section._  
+|  _Sec._ ___541.102._ _____BUSINESS IMMUNITY FROM LIABILITY. A business_  
+| _that is in compliance with this chapter and engages a third party to_  
+| _process on behalf of the business personal identifying information_  
+| _collected by the business may not be held liable for a violation of_  
+| _Section 541.059(c) by the third party if the business does not have_  
+| _actual knowledge or a reasonable belief that the third party_  
+| _intends to violate that section._  
+|  SECTION 2. Subchapter Z, Chapter 2252, Government Code, is  
+| amended by adding Section 2252.909 to read as follows:  
+|  _Sec._ ___2252.909._ _____SALE OF PERSONAL IDENTIFYING INFORMATION_  
+| _PROHIBITED. Notwithstanding any other law, a governmental entity_  
+| _may not sell or offer to sell personal identifying information, as_  
+| _defined by Section 541.002, Business & Commerce Code, that is:_  
+|  _(1) unique genetic information;_  
+|  _(2) precise geolocation data; or_  
+|  _(3)_ _____unique biometric information, including a_  
+| _fingerprint, voice print, retina or iris image, or any other unique_  
+| _physical representation._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

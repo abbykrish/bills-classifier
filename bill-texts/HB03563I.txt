@@ -1,0 +1,26 @@
+| 86R7530 MAW-D  
+---|---  
+|  By: Farrar | H.B. No. 3563  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to creating the criminal offense of tampering with an  
+| electronic monitoring device.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 38, Penal Code, is amended by adding  
+| Section 38.112 to read as follows:  
+|  _Sec._ ___38.112._ _____TAMPERING WITH ELECTRONIC MONITORING DEVICE._  
+| _(a) A person who is required to submit to electronic monitoring of_  
+| _the person's location as a condition of release on parole or to_  
+| _mandatory supervision commits an offense if the person knowingly_  
+| _removes or disables a tracking device that the person is required to_  
+| _wear to enable the electronic monitoring of the person's location._  
+|  _(b)_ _____An offense under this section is a Class B misdemeanor_  
+| _except that the offense is a Class A misdemeanor if the person:_  
+|  _(1)_ _____is required as a condition of release on parole or_  
+| _to mandatory supervision to report to a parole officer as defined by_  
+| _Section 508.001, Government Code; and_  
+|  _(2)_ _____after removing or disabling the tracking device,_  
+| _knowingly fails to report as required on two consecutive occasions._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

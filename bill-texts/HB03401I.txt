@@ -1,0 +1,266 @@
+| 86R10486 KFF-D  
+---|---  
+|  By: Raymond | H.B. No. 3401  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to delivery of outpatient prescription drug benefits under  
+| certain public benefit programs, including Medicaid and the child  
+| health plan program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. DELIVERY OF OUTPATIENT PRESCRIPTION DRUG BENEFITS USING  
+| FEE-FOR-SERVICE DELIVERY MODEL UNDER CERTAIN PUBLIC BENEFIT  
+| PROGRAMS  
+|  SECTION 1.01. Subchapter B, Chapter 531, Government Code,  
+| is amended by adding Section 531.068 to read as follows:  
+|  _Sec._ ___531.068._ _____DELIVERY OF OUTPATIENT PRESCRIPTION DRUG_  
+| _BENEFITS UNDER CERTAIN PROGRAMS. (a)_ ___In this section, "recipient"_  
+| _means a person receiving benefits under a program described by_  
+| _Subsection (b)._  
+|  _(b)_ _____Notwithstanding any other law, beginning January 1,_  
+| _2020, the commission shall provide outpatient prescription drug_  
+| _benefits through the vendor drug program using a transparent_  
+| _fee-for-service delivery model to persons, including persons_  
+| _enrolled in a managed care program, receiving benefits under:_  
+|  _(1) Medicaid;_  
+|  _(2) the child health plan program;_  
+|  _(3) the kidney health care program; and_  
+|  _(4)_ _____any other benefits program administered by the_  
+| _commission that provides an outpatient prescription drug benefit._  
+|  _(c)_ _____In providing outpatient prescription drug benefits_  
+| _under this section, the commission shall:_  
+|  _(1)_ _____eliminate any obligation to pay fees included in_  
+| _the capitation rate or other amounts paid to managed care_  
+| _organizations that are associated with the provision of outpatient_  
+| _prescription drug benefits, including:_  
+|  _(A) the guaranteed risk margin; and_  
+|  _(B)_ _____the health insurance providers fee imposed_  
+| _under Section 9010 of the federal Patient Protection and Affordable_  
+| _Care Act (Pub. L. No._ ___111-148), as amended by the Health Care and_  
+| _Education Reconciliation Act of 2010 (Pub. L. No._ ___111-152), and the_  
+| _associated effects of that fee on federal income taxes;_  
+|  _(2)_ _____pay claims in accordance with the deadlines_  
+| _imposed by Section 843.339, Insurance Code;_  
+|  _(3)_ _____if the commission contracts with a prescription_  
+| _drug benefits administrator for purposes of this section, pay the_  
+| _administrator only for reimbursement of any prescribed drug and a_  
+| _contracted administrative fee; and_  
+|  _(4)_ _____in accordance with the findings of the study_  
+| _conducted by the commission in response to Section 60 following the_  
+| _Article II appropriations to the commission in Chapter 605_  
+| _(S.B._ ___1), Acts of the 85th Legislature, Regular Session, 2017 (the_  
+| _General Appropriations Act):_  
+|  _(A)_ _____consistently apply clinical prior_  
+| _authorization requirements statewide and use prior authorizations_  
+| _to control unnecessary utilization;_  
+|  _(B)_ _____ensure the preferred drug list is not_  
+| _disadvantaged;_  
+|  _(C) maintain drug utilization review; and_  
+|  _(D)_ _____coordinate data exchange under existing data_  
+| _warehouse and enterprise data resources._  
+|  _(d)_ _____In providing outpatient prescription drug benefits_  
+| _under this section, the commission may not:_  
+|  _(1)_ _____prohibit, limit, or interfere with a recipient's_  
+| _selection of a pharmacy or pharmacist of the recipient's choice for_  
+| _the provision of pharmaceutical services by imposing different_  
+| _copayments associated with a pharmacy or pharmacist; and_  
+|  _(2)_ _____prevent a pharmacy or pharmacist from_  
+| _participating as a provider if the pharmacy or pharmacist agrees to_  
+| _comply with the financial terms of the program and any contract_  
+| _required under the program._  
+|  _(e)_ _____In providing outpatient prescription drug benefits_  
+| _under this section, the commission may include mail-order_  
+| _pharmacies in the commission's network of pharmacy providers,_  
+| _except the commission may not:_  
+|  _(1)_ _____require recipients to use a mail-order pharmacy;_  
+| _or_  
+|  _(2)_ _____charge a recipient who elects to use a mail-order_  
+| _pharmacy a fee for using the mail order service, including a postage_  
+| _or handling fee._  
+|  _(f)_ _____Notwithstanding any other law, a managed care_  
+| _organization providing health care services under a benefit program_  
+| _described by Subsection (b) may not develop, implement, or_  
+| _maintain an outpatient pharmacy benefit plan for recipients_  
+| _beginning on the 180th day after the date the commission begins_  
+| _providing outpatient prescription drug benefits under this_  
+| _section._  
+|  SECTION 1.02. As soon as practicable after the effective  
+| date of this article, but not later than December 31, 2019, the  
+| Health and Human Services Commission shall amend each contract with  
+| a managed care organization entered into before the effective date  
+| of this article to prohibit the organization from providing  
+| outpatient prescription drug benefits to recipients under a public  
+| benefits program subject to Section 531.068, Government Code, as  
+| added by this Act, beginning on the 180th day after the date the  
+| commission begins providing outpatient prescription drug benefits  
+| in the manner required by that section.  
+| ARTICLE 2. CESSATION OF DELIVERY OF OUTPATIENT PRESCRIPTION DRUG  
+| BENEFITS BY MANAGED CARE ORGANIZATIONS  
+|  SECTION 2.01. Section 533.012(a), Government Code, is  
+| amended to read as follows:  
+|  (a) Each managed care organization contracting with the  
+| commission under this chapter shall submit the following, at no  
+| cost, to the commission and, on request, the office of the attorney  
+| general:  
+|  (1) a description of any financial or other business  
+| relationship between the organization and any subcontractor  
+| providing health care services under the contract;  
+|  (2) a copy of each type of contract between the  
+| organization and a subcontractor relating to the delivery of or  
+| payment for health care services;  
+|  (3) a description of the fraud control program used by  
+| any subcontractor that delivers health care services; and  
+|  (4) a description and breakdown of all funds paid to or  
+| by the managed care organization, including a health maintenance  
+| organization, primary care case management provider, [ ~~pharmacy~~  
+|  ~~benefit manager,~~ ] and exclusive provider organization, necessary  
+| for the commission to determine the actual cost of administering  
+| the managed care plan.  
+|  SECTION 2.02. Section 32.046(a), Human Resources Code, is  
+| amended to read as follows:  
+|  (a) The executive commissioner shall adopt rules governing  
+| sanctions and penalties that apply to a provider [ ~~who participates~~ ]  
+| in the vendor drug program [ ~~or is enrolled as a network pharmacy~~  
+|  ~~provider of a managed care organization contracting with the~~  
+|  ~~commission under Chapter 533, Government Code, or its subcontractor~~  
+|  ~~and~~ ] who submits an improper claim for reimbursement under the  
+| program.  
+|  SECTION 2.03. The following provisions are repealed:  
+|  (1) Sections 531.0697, 533.003(b), and 533.056,  
+| Government Code; and  
+|  (2) Section 32.073(c), Human Resources Code.  
+|  SECTION 2.04. The changes in law made by this article apply  
+| beginning on the 180th day after the date the Health and Human  
+| Services Commission begins providing outpatient prescription drug  
+| benefits in the manner required by Section 531.068, Government  
+| Code, as added by this Act. Until the changes in law made by this  
+| article apply, the law as it existed on the day immediately before  
+| the effective date of this article governs and the former law is  
+| continued in effect for that purpose.  
+| ARTICLE 3. INSURANCE PREMIUM AND REVENUE TAX  
+|  SECTION 3.01. Section 222.001, Insurance Code, is amended  
+| by amending Subsection (a) and adding Subsection (a-1) to read as  
+| follows:  
+|  (a) This chapter applies to _any of the following entities_  
+| _that receives gross premiums or revenues subject to taxation under_  
+| _Section 222.002:_  
+|  _(1) an_ [ ~~any~~ ] insurer, including a group hospital  
+| service corporation _;_  
+|  _(2) a_[ ~~, any~~ ] health maintenance organization _;_  
+|  _(3) a_[ ~~, and any~~ ] managed care organization _; and_  
+|  _(4)_ _____a prescription drug benefit administrator that_  
+| _enters into a contract with the Health and Human Services_  
+| _Commission under Section 531.068, Government Code, to administer_  
+| _prescription drug benefits._  
+|  _(a-1) Entities described by Subsection (a) include_ [ ~~that~~  
+|  ~~receives gross premiums or revenues subject to taxation under~~  
+|  ~~Section 222.002, including~~ ] companies operating under Chapter 841,  
+| 842, 843, 861, 881, 882, 883, 884, 941, 942, 982, or 984, Insurance  
+| Code, Chapter 533, Government Code, or Title XIX of the federal  
+| Social Security Act.  
+|  SECTION 3.02. Section 222.002, Insurance Code, is amended  
+| by amending Subsections (a) and (c) and adding Subsection (b-1) to  
+| read as follows:  
+|  (a) An annual tax is imposed on:  
+|  (1) each insurer that receives gross premiums subject  
+| to taxation under this section; [ ~~and~~ ]  
+|  (2) each health maintenance organization that  
+| receives gross revenues from the sale of health maintenance  
+| certificates or contracts _; and_  
+|  _(3)_ _____the prescription drug benefit administrator that_  
+| _receives gross revenues from the administration of prescription_  
+| _drug benefits under Section 531.068, Government Code_.  
+|  _(b-1)_ _____Except as otherwise provided by this section, a_  
+| _prescription drug benefit administrator's taxable gross revenues_  
+| _are equal to the total gross amount of administrative fees and other_  
+| _consideration received by the prescription drug benefit_  
+| _administrator in a calendar year from the contract entered into_  
+| _under Section 531.068, Government Code._  
+|  (c) The following are not included in determining an  
+| insurer's taxable gross premiums or a health maintenance  
+| organization's _or prescription drug benefit administrator's_  
+| taxable gross revenues:  
+|  (1) returned premiums or revenues;  
+|  (2) dividends applied to purchase paid-up additions to  
+| insurance or to shorten the endowment or premium payment period;  
+|  (3) premiums received from an insurer for reinsurance;  
+|  (4) premiums or revenues received from the treasury of  
+| the United States for insurance or benefits contracted for by the  
+| federal government in accordance with or in furtherance of Title  
+| XVIII of the Social Security Act (42 U.S.C. Section 1395c et seq.)  
+| and its subsequent amendments;  
+|  (5) premiums or revenues paid on group health,  
+| accident, and life policies or contracts in which the group covered  
+| by the policy or contract consists of a single nonprofit trust  
+| established to provide coverage primarily for employees of:  
+|  (A) a municipality, county, or hospital district  
+| in this state; or  
+|  (B) a county or municipal hospital, without  
+| regard to whether the employees are employees of the county or  
+| municipality or of an entity operating the hospital on behalf of the  
+| county or municipality; or  
+|  (6) premiums or revenues excluded by another law of  
+| this state.  
+|  SECTION 3.03. Section 222.003, Insurance Code, is amended  
+| by adding Subsection (d) to read as follows:  
+|  _(d)_ _____The rate of the tax imposed by this chapter on a_  
+| _prescription drug benefit administrator is:_  
+|  _(1)_ _____0.875 percent of the first $450,000 of taxable_  
+| _gross revenues received during a calendar year; and_  
+|  _(2)_ _____1.75 percent of the remaining taxable gross_  
+| _revenues received during that calendar year._  
+|  SECTION 3.04. Section 222.004(b), Insurance Code, is  
+| amended to read as follows:  
+|  (b) An insurer _,_ [ ~~or~~ ] health maintenance organization _, or_  
+| _prescription drug benefit administrator_ that had a net tax  
+| liability for the previous calendar year of more than $1,000 shall  
+| make semiannual prepayments of tax on March 1 and August 1. The tax  
+| paid on each date must be equal to 50 percent of the total amount of  
+| tax the insurer _,_ [ ~~or~~ ] health maintenance organization _, or_  
+| _prescription drug benefit administrator_ paid under this chapter for  
+| the previous calendar year. If the insurer _,_ [ ~~or~~ ] health  
+| maintenance organization _, or prescription drug benefit_  
+| _administrator_ did not pay a tax under this chapter during the  
+| previous calendar year, the tax paid on each date must be equal to  
+| the tax that would be owed on the aggregate of the taxable gross  
+| premiums or taxable gross revenues for the two previous calendar  
+| quarters.  
+|  SECTION 3.05. Sections 222.005(a) and (c), Insurance Code,  
+| are amended to read as follows:  
+|  (a) An insurer _,_ [ ~~or~~ ] health maintenance organization _, or_  
+| _prescription drug benefit administrator_ liable for the tax imposed  
+| by this chapter must file annually with the comptroller a tax report  
+| on a form prescribed by the comptroller.  
+|  (c) The comptroller may require the insurer _,_ [ ~~or~~ ] health  
+| maintenance organization _, or prescription drug benefit_  
+| _administrator_ to file any additional relevant information that is  
+| reasonably necessary to verify the amount of tax due.  
+|  SECTION 3.06. Section 222.007(a), Insurance Code, is  
+| amended to read as follows:  
+|  (a) Except as otherwise provided by this subsection, an  
+| insurer _,_ [ ~~or~~ ] health maintenance organization _, or prescription_  
+| _drug benefit administrator_ is entitled to a credit on the amount of  
+| tax due under this chapter for all examination and evaluation fees  
+| paid to this state during the calendar year for which the tax is  
+| due. An insurer is not entitled to a credit on the amount of tax  
+| due under this chapter for fees paid for valuing life insurance  
+| policies. The limitations provided by Sections 803.007(1) and  
+| (2)(B) for a domestic insurance company apply to a foreign  
+| insurance company.  
+|  SECTION 3.07. Section 222.008, Insurance Code, is amended  
+| to read as follows:  
+|  Sec. 222.008. FAILURE TO PAY TAXES. An insurer _,_ [ ~~or~~ ] health  
+| maintenance organization _, or prescription drug benefit_  
+| _administrator_ that fails to pay all taxes imposed by this chapter is  
+| subject to Section 203.002.  
+| ARTICLE 4. FEDERAL AUTHORIZATION AND EFFECTIVE DATE  
+|  SECTION 4.01. If before implementing any provision of this  
+| Act a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 4.02. (a)  Except as provided by Subsection (b) of  
+| this section, this Act takes effect September 1, 2019.  
+|  (b) Article 3 of this Act takes effect January 1, 2020.
+

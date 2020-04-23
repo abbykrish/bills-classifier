@@ -1,0 +1,50 @@
+| 86R13478 KLA-F  
+---|---  
+|  By: Miller | H.B. No. 3245  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to considerations in awarding contracts under the Medicaid  
+| managed care program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 533.001, Government Code, is amended by  
+| adding Subdivision (6-a) to read as follows:  
+|  _(6-a)_ _____"Social determinants of health" means the_  
+| _environmental conditions in which a person is born, lives, learns,_  
+| _works, plays, worships, and ages that affect a range of health,_  
+| _functional, and quality of life outcomes and risks._  
+|  SECTION 2. Section 533.003(a), Government Code, is amended  
+| to read as follows:  
+|  (a) In awarding contracts to managed care organizations,  
+| the commission shall:  
+|  (1) give preference to organizations that have  
+| significant participation in the organization's provider network  
+| from each health care provider in the region who has traditionally  
+| provided care to Medicaid and charity care patients;  
+|  (2) give extra consideration to organizations that  
+| agree to assure continuity of care for at least three months beyond  
+| the period of Medicaid eligibility for recipients;  
+|  (3) consider the need to use different managed care  
+| plans to meet the needs of different populations;  
+|  (4) consider the ability of organizations to process  
+| Medicaid claims electronically; and  
+|  (5) _give extra consideration to organizations that use_  
+| _enriched data sets incorporating social determinants of health to_  
+| _manage socially complex populations in a manner that achieves:_  
+|  _(A)_ _____cost savings through implementation of_  
+| _appropriate interventions for those populations; and_  
+|  _(B)_ _____favorable health outcomes for those_  
+| _populations by reducing preventable emergency room visits,_  
+| _hospitalizations, and institutionalizations_ [ ~~in the initial~~  
+|  ~~implementation of managed care in the South Texas service region,~~  
+|  ~~give extra consideration to an organization that either:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~is locally owned, managed, and operated, if~~  
+|  ~~one exists; or~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~is in compliance with the requirements of~~  
+|  ~~Section 533.004~~ ].  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

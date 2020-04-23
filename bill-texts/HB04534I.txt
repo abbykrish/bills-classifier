@@ -1,0 +1,65 @@
+| 86R13587 JES-D  
+---|---  
+|  By: Lucio III | H.B. No. 4534  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the funding structure of the Texas Windstorm Insurance  
+| Association.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2210.0741(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) Losses not paid under Sections 2210.0715, 2210.072,  
+| 2210.0725, 2210.073, and 2210.074 _and, if applicable, 2210.0743_  
+| shall be paid as provided by this section from the proceeds from  
+| Class 3 public securities authorized to be issued in accordance  
+| with Subchapter M on or after the date of any occurrence or series  
+| of occurrences that results in insured losses. Public securities  
+| issued under this section must be paid within a period not to exceed  
+| 10 years, and may be paid sooner if the board of directors elects to  
+| do so and the commissioner approves.  
+|  SECTION 2. Section 2210.0742(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) Losses in a catastrophe year not paid under Sections  
+| 2210.0715, 2210.072, 2210.0725, 2210.073, 2210.074, and 2210.0741  
+| _and, if applicable, 2210.0743_ shall be paid as provided by this  
+| section from Class 3 member assessments not to exceed $250 million  
+| for that catastrophe year.  
+|  SECTION 3. Subchapter B-1, Chapter 2210, Insurance Code, is  
+| amended by adding Section 2210.0743 to read as follows:  
+|  _Sec._ ___2210.0743._ _____PAYMENT IN CERTAIN CIRCUMSTANCES. If the_  
+| _balance of the catastrophe reserve trust fund is less than $500_  
+| _million:_  
+|  _(1)_ _____Class 3 public securities may not be issued until_  
+| _reinsurance proceeds under Section 2210.453(d) are exhausted;_  
+|  _(2)_ _____the association may not assess members for Class 3_  
+| _assessments until reinsurance proceeds under Section 2210.453(d)_  
+| _are exhausted; and_  
+|  _(3)_ _____losses not paid under Sections 2210.0715,_  
+| _2210.072, 2210.0725, 2210.073, and 2210.074 must be paid by_  
+| _reinsurance or an alternative risk financing mechanism under_  
+| _Section 2210.453(d)._  
+|  SECTION 4. Section 2210.453, Insurance Code, is amended by  
+| amending Subsection (c) and adding Subsection (d) to read as  
+| follows:  
+|  (c) _Except as provided by Subsection (d), the_ [ ~~The~~ ]  
+| attachment point for reinsurance purchased under this section may  
+| not be less than the aggregate amount of all funding available to  
+| the association under Subchapter B-1.  
+|  _(d)_ _____If the balance of the catastrophe reserve trust fund is_  
+| _less than $500 million, the association shall maintain reinsurance_  
+| _or an alternate risk financing mechanism for the period covered by_  
+| _the plan that:_  
+|  _(1)_ _____has an attachment point not less than the_  
+| _aggregate amount of all the funding available to the association_  
+| _under Sections 2210.0715, 2210.072, 2210.0725, 2210.073, and_  
+| _2210.074; and_  
+|  _(2)_ _____maintains total available loss funding not less_  
+| _than the probable maximum loss for the association for a_  
+| _catastrophe year with a probability of one in 100._  
+|  SECTION 5. The Texas Windstorm Insurance Association shall  
+| amend the association's plan of operation to conform to the changes  
+| in law made by this Act not later than the 60th day after the  
+| effective date of this Act.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

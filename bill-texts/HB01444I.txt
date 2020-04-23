@@ -1,0 +1,102 @@
+| 86R4362 TJB-D  
+---|---  
+|  By: Patterson | H.B. No. 1444  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the calculation of the ad valorem taxes imposed on real  
+| property on the basis of the lesser of the appraised value of the  
+| property or the average appraised value of the property over a  
+| specified time period.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 25.19, Tax Code, is amended by adding  
+| Subsection (b-3) to read as follows:  
+|  _(b-3)_ _____In addition to the information required by_  
+| _Subsections (b), (b-1), (b-2), and (f), the chief appraiser shall_  
+| _include in a notice required to be delivered under Subsection (a) or_  
+| _(g) for real property:_  
+|  _(1)_ _____the average appraised value of the property_  
+| _determined under Section 26.095; and_  
+|  _(2)_ _____a statement that taxes for the current year will be_  
+| _calculated using the lesser of the appraised value of the property_  
+| _for that year or the average appraised value of the property as_  
+| _stated in the notice, less the amount of any partial exemption the_  
+| _owner is entitled to for that year._  
+|  SECTION 2. Section 26.09(c), Tax Code, is amended to read as  
+| follows:  
+|  (c) _Subject to Section 26.095, the_ [ ~~The~~ ] tax is calculated  
+| by:  
+|  (1) subtracting from the appraised value of a property  
+| as shown on the appraisal roll for the _taxing_ unit the amount of any  
+| partial exemption allowed the property owner that applies to  
+| appraised value to determine _taxable_ [ ~~net appraised~~ ] value; _and_  
+|  (2) [ ~~multiplying the net appraised value by the~~  
+|  ~~assessment ratio to determine assessed value;~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~subtracting from the assessed value the amount of~~  
+|  ~~any partial exemption allowed the property owner to determine~~  
+|  ~~taxable value; and~~  
+|  [ ~~(4)~~ ] multiplying the taxable value by the tax rate.  
+|  SECTION 3. Chapter 26, Tax Code, is amended by adding  
+| Section 26.095 to read as follows:  
+|  _Sec._ ___26.095._ _____CALCULATION OF TAX ON REAL PROPERTY. (a)_ __  
+| _Subject to Subsection (b), the assessor for a taxing unit shall_  
+| _calculate the taxes imposed on real property for a tax year under_  
+| _Section 26.09(c) on the basis of the lesser of:_  
+|  _(1)_ _____the appraised value of the property for that tax_  
+| _year; or_  
+|  _(2) the average appraised value of the property for:_  
+|  _(A)_ _____the five-year period ending with the tax year_  
+| _for which the taxes are imposed; or_  
+|  _(B)_ _____if the calculation applies to property_  
+| _subject to the limitation on appraised value provided under Section_  
+| _23.23 during the period described by Paragraph (A) and that_  
+| _limitation expires during that period, the period beginning with_  
+| _the tax year in which the limitation expires and ending with the tax_  
+| _year for which the taxes are imposed._  
+|  _(b)_ _____When determining the average appraised value of a_  
+| _property under Subsection (a)(2), the assessor may not include the_  
+| _appraised value of the property for a tax year if that value is at_  
+| _least 50 percent lower than the appraised value of the property for_  
+| _the tax year that precedes that tax year._  
+|  _(b-1)_ _____This subsection expires January 1, 2022._ __  
+| _Notwithstanding Subsection (a)(2):_  
+|  _(1)_ _____for the 2020 tax year, the assessor for a taxing_  
+| _unit shall calculate the taxes under the method provided by_  
+| _Subsection (a)(2) on the basis of the average appraised value of the_  
+| _property for the lesser of:_  
+|  _(A)_ _____the three-year period ending with the tax_  
+| _year for which the taxes are imposed; or_  
+|  _(B)_ _____the period described by Subsection (a)(2)(B)_  
+| _for a property described by that paragraph; and_  
+|  _(2)_ _____for the 2021 tax year, the assessor for a taxing_  
+| _unit shall calculate the taxes under the method provided by_  
+| _Subsection (a)(2) on the basis of the average appraised value of the_  
+| _property for the lesser of:_  
+|  _(A)_ _____the four-year period ending with the tax year_  
+| _for which the taxes are imposed; or_  
+|  _(B)_ _____the period described by Subsection (a)(2)(B)_  
+| _for a property described by that paragraph._  
+|  SECTION 4. Section 31.01, Tax Code, is amended by adding  
+| Subsection (c-3) to read as follows:  
+|  _(c-3)_ _____In addition to the information required by_  
+| _Subsections (c), (c-1), and (c-2), the assessor shall include in_  
+| _the tax bill or separate statement for real property:_  
+|  _(1)_ _____the average appraised value of the property_  
+| _determined under Section 26.095; and_  
+|  _(2)_ _____a statement indicating whether the taxes on the_  
+| _property were calculated on the basis of the appraised value of the_  
+| _property for that year or the average appraised value of the_  
+| _property._  
+|  SECTION 5. This Act applies only to ad valorem taxes imposed  
+| for an ad valorem tax year that begins on or after the effective  
+| date of this Act.  
+|  SECTION 6. This Act takes effect January 1, 2020, but only  
+| if the constitutional amendment proposed by the 86th Legislature,  
+| Regular Session, 2019, authorizing the legislature to provide for  
+| the assessment of ad valorem taxes on real property on the basis of  
+| the lesser of the appraised value of the property or the average  
+| appraised value of the property for the most recent five years and  
+| authorizing exceptions to the assessment of those taxes based on  
+| that method is approved by the voters.  If that amendment is not  
+| approved by the voters, this Act has no effect.
+

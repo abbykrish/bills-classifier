@@ -1,0 +1,41 @@
+| 86R632 JCG-D  
+---|---  
+|  By: Canales | H.B. No. 184  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prosecutors providing information about the benefits  
+| and costs of a proposed sentence for a defendant in a criminal  
+| trial.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 37, Code of Criminal Procedure, is  
+| amended by adding Article 37.0701 to read as follows:  
+|  _Art._ ___37.0701._ _____INFORMATION ON BENEFITS AND COSTS OF PROPOSED_  
+| _SENTENCE. (a)_ ___In the penalty phase of a trial, the attorney_  
+| _representing the state shall state on the record the attorney's_  
+| _reasoning for the terms of any sentence the attorney recommends,_  
+| _including the benefits and costs of the proposed sentence to the_  
+| _public and the total financial cost of the proposed sentence._  
+|  _(b)_ _____The attorney representing the state shall calculate the_  
+| _total financial cost of a proposed sentence by multiplying the_  
+| _number of days of the sentence by the cost per day of the sentence as_  
+| _provided by:_  
+|  _(1)_ _____the most recent edition of the Criminal and_  
+| _Juvenile Justice Uniform Cost Report published by the Legislative_  
+| _Budget Board; or_  
+|  _(2)_ _____the commissioners court of the prosecuting county,_  
+| _as required by Subsection (c)._  
+|  _(c)_ _____The commissioners court of each county annually shall_  
+| _calculate for the preceding fiscal year the average cost per day of_  
+| _confining a prisoner convicted of an offense in that county and on_  
+| _request shall provide the most recently calculated cost per day to_  
+| _an attorney representing the state._  
+|  _(d)_ _____Any error in calculating the total financial cost of a_  
+| _proposed sentence under this article may not be used by a defendant_  
+| _in a criminal case as a ground for appeal, a ground to set aside the_  
+| _conviction or sentence, or a ground in a habeas corpus petition._  
+|  SECTION 2. The change in law made by this Act applies to a  
+| defendant sentenced for an offense on or after the effective date of  
+| this Act, regardless of when the offense was committed.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

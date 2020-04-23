@@ -1,0 +1,37 @@
+| 86R10341 GRM-D  
+---|---  
+|  By: Dean | H.B. No. 1818  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to confirmation of a voter's residence by a voter  
+| registrar.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 15.051(a), Election Code, is amended to  
+| read as follows:  
+|  (a) If the registrar _receives notice under Section 13.146,_  
+| _14.023, 16.0921, or 18.0681(d) or otherwise_ has reason to believe  
+| that a voter's current residence is different from that indicated  
+| on the registration records, the registrar shall deliver to the  
+| voter a written confirmation notice requesting confirmation of the  
+| voter's current residence.  
+|  SECTION 2. Section 18.0681(d), Election Code, is amended to  
+| read as follows:  
+|  (d) If the secretary of state determines that a voter on the  
+| registration list has more than one registration record on file  
+| based on a strong match, the secretary shall send notice of the  
+| determination to the voter registrar of each county in which the  
+| voter is registered to vote. If the voter records identified are:  
+|  (1) located in the same county, the voter registrar  
+| may merge the records following a determination that each record  
+| belongs to the same voter using the procedure for the correction of  
+| registration records under Section 15.022; or  
+|  (2) located in more than one county, the registrar of  
+| the county with the oldest record _shall_ [ ~~may~~ ] deliver a written  
+| confirmation notice in accordance with Section 15.051.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

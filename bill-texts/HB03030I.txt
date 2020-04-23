@@ -1,0 +1,112 @@
+| 86R11592 LHC-D  
+---|---  
+|  By: Flynn | H.B. No. 3030  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the reporting of certain information for purposes of a  
+| federal firearm background check.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 411.052(a), (b), and (e), Government  
+| Code, are amended to read as follows:  
+|  (a) In this section _:_  
+|  _(1)_ _____"Family violence misdemeanor" means a misdemeanor_  
+| _crime of domestic violence under 18 U.S.C. Section 921._  
+|  _(2) "Federal_[ ~~, "federal~~ ] prohibited person  
+| information" means information that identifies an individual as:  
+|  _(A)_ [ ~~(1)~~ ] a person ordered by a court to receive  
+| inpatient mental health services under Chapter 574, Health and  
+| Safety Code;  
+|  _(B)_ [ ~~(2)~~ ] a person acquitted in a criminal case  
+| by reason of insanity or lack of mental responsibility, regardless  
+| of whether the person is ordered by a court to receive inpatient  
+| treatment or residential care under Chapter 46C, Code of Criminal  
+| Procedure;  
+|  _(C)_ [ ~~(3)~~ ] a person determined to have  
+| _intellectual disabilities_ [ ~~mental retardation~~ ] and committed by a  
+| court for long-term placement in a residential care facility under  
+| Chapter 593, Health and Safety Code;  
+|  _(D)_ [ ~~(4)~~ ] an incapacitated adult individual for  
+| whom a court has appointed a guardian of the individual under Title  
+| 3, Estates Code, based on the determination that the person lacks  
+| the mental capacity to manage the person's affairs; [ ~~or~~ ]  
+|  _(E)_ [ ~~(5)~~ ] a person determined to be incompetent  
+| to stand trial under Chapter 46B, Code of Criminal Procedure _;_  
+|  _(F)_ _____a person convicted of or placed on deferred_  
+| _adjudication community supervision for a felony;_  
+|  _(G)_ _____a person convicted of or placed on deferred_  
+| _adjudication community supervision for a family violence_  
+| _misdemeanor;_  
+|  _(H)_ _____a person subject to a protective order under_  
+| _Chapter 85, Family Code; or_  
+|  _(I)_ _____a person subject to a magistrate's order for_  
+| _emergency protection under Article 17.292, Code of Criminal_  
+| _Procedure, based on an arrest for an offense involving family_  
+| _violence_.  
+|  (b) The department by rule shall establish a procedure to  
+| _promptly_ provide federal prohibited person information to the  
+| Federal Bureau of Investigation for use with the National Instant  
+| Criminal Background Check System.  Except as otherwise provided by  
+| state law, the department may disseminate federal prohibited person  
+| information under this subsection only to the extent necessary to  
+| allow the Federal Bureau of Investigation to collect and maintain a  
+| list of persons who are prohibited under federal law from engaging  
+| in certain activities with respect to a firearm.  
+|  (e) The department by rule shall establish a procedure to  
+| correct department records and transmit those corrected records to  
+| the Federal Bureau of Investigation when a person provides:  
+|  (1) a copy of a judicial order or finding that a person  
+| is no longer an incapacitated adult or is entitled to relief from  
+| disabilities under Section 574.088, Health and Safety Code; [ ~~or~~ ]  
+|  (2) proof that the person has obtained notice of  
+| relief from disabilities under 18 U.S.C. Section 925 _;_  
+|  _(3)_ _____proof that the person is no longer ineligible to_  
+| _possess a firearm based on the commission of a felony or a family_  
+| _violence misdemeanor; or_  
+|  _(4)_ _____proof that the person is no longer subject to a_  
+| _protective order under Chapter 85, Family Code, or a magistrate's_  
+| _order for emergency protection under Article 17.292, Code of_  
+| _Criminal Procedure_.  
+|  SECTION 2. Section 411.0521(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The clerk of the court shall prepare and forward to the  
+| department the information described by Subsection (b) not later  
+| than _four hours_ [ ~~the 30th day~~ ] after the _time_ [ ~~date~~ ] the
+court:  
+|  (1) orders a person to receive inpatient mental health  
+| services under Chapter 574, Health and Safety Code;  
+|  (2) acquits a person in a criminal case by reason of  
+| insanity or lack of mental responsibility, regardless of whether  
+| the person is ordered to receive inpatient treatment or residential  
+| care under Chapter 46C, Code of Criminal Procedure;  
+|  (3) commits a person determined to have _intellectual_  
+| _disabilities_ [ ~~mental retardation~~ ] for long-term placement in a  
+| residential care facility under Chapter 593, Health and Safety  
+| Code;  
+|  (4) appoints a guardian of the incapacitated adult  
+| individual under Title 3, Estates Code, based on the determination  
+| that the person lacks the mental capacity to manage the person's  
+| affairs;  
+|  (5) determines a person is incompetent to stand trial  
+| under Chapter 46B, Code of Criminal Procedure; [ ~~or~~ ]  
+|  (6) finds a person is entitled to relief from  
+| disabilities under Section 574.088, Health and Safety Code _;_  
+|  _(7)_ _____enters a judgment of conviction or an order of_  
+| _deferred adjudication community supervision with respect to a_  
+| _felony;_  
+|  _(8)_ _____enters a judgment of conviction or an order of_  
+| _deferred adjudication community supervision with respect to a_  
+| _family violence misdemeanor as defined by Section 411.052;_  
+|  _(9)_ _____issues a protective order under Chapter 85, Family_  
+| _Code; or_  
+|  _(10)_ _____issues a magistrate's order for emergency_  
+| _protection under Article 17.292, Code of Criminal Procedure, based_  
+| _on an arrest for an offense involving family violence_.  
+|  SECTION 3. The change in law made by this Act applies only  
+| to a judgment or order entered or issued on or after the effective  
+| date of this Act. A judgment or order entered or issued before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the judgment or order was entered or issued, and the former law  
+| is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

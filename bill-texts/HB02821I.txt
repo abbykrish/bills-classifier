@@ -1,0 +1,745 @@
+| 86R5929 LED-F  
+---|---  
+|  By: Flynn | H.B. No. 2821  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to credit in, benefits from, and administration of the  
+| Texas Municipal Retirement System.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 851.001, Government Code, is amended by  
+| amending Subdivisions (8) and (15) and adding Subdivision (8-a) to  
+| read as follows:  
+|  (8) "Employee _,_ " _unless the context requires_  
+| _otherwise,_ means a person, including a person serving a period of  
+| probationary employment, who receives compensation from and is  
+| certified by a municipality as being regularly engaged in the  
+| performance of duties of:  
+|  (A) an appointive office or position that  
+| normally requires services from the person for not less than 1,000  
+| hours a year; or  
+|  (B) an elective office that normally requires  
+| services from the person for not less than 1,000 hours a year, in a  
+| municipality that began participating in the retirement system  
+| after December 31, 1981, or that has adopted a membership  
+| requirement under Section 852.107.  
+|  _(8-a)_ _____"Excluded prior service credit" means prior_  
+| _service credit described by Section 853.0015._  
+|  (15) "Amortization period" means, as to a particular  
+| municipality, the _expiration of the maximum number of years, not to_  
+| _exceed 30 years,_ [ ~~time ending with the later of:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~the expiration of 25 years after the~~  
+|  ~~effective date of the municipality's participation in the~~  
+|  ~~retirement system;~~  
+|  [ ~~(B) the expiration of 25 years~~] after the most  
+| recent actuarial valuation date for the municipality[ ~~; or~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~the period determined under Section~~  
+|  ~~855.407(h)~~ ].  
+|  SECTION 2. Section 851.004, Government Code, is amended to  
+| read as follows:  
+|  Sec. 851.004. POWERS _,_ [ ~~AND~~ ] PRIVILEGES _, AND IMMUNITIES_.  
+| _(a)_ The retirement system has the powers, privileges, and  
+| immunities of a corporation, as well as the powers, privileges, and  
+| immunities conferred by this subtitle.  
+|  _(b)_ _____The board of trustees, director, members of an advisory_  
+| _committee or medical board appointed by the board of trustees, and_  
+| _employees of the retirement system are not liable for any action_  
+| _taken or omission made or suffered by them in good faith in the_  
+| _performance of any duty in connection with any program, system, or_  
+| _benefit administered by the retirement system._  
+|  SECTION 3. The heading to Section 853.003, Government Code,  
+| is amended to read as follows:  
+|  Sec. 853.003. _BUY BACK OF_ CREDITED SERVICE PREVIOUSLY  
+| CANCELED.  
+|  SECTION 4. Subchapter A, Chapter 853, Government Code, is  
+| amended by adding Sections 853.0015 and 853.004 to read as follows:  
+|  _Sec._ ___853.0015._ _____EXCLUDED PRIOR SERVICE CREDIT. If a member_  
+| _is only entitled to receive excluded prior service credit under_  
+| _this chapter, the prior service credit certified to the member:_  
+|  _(1)_ _____may only be used to satisfy length of service_  
+| _requirements for vesting and retirement eligibility; and_  
+|  _(2)_ _____may not be used to determine eligibility for or_  
+| _computation of updated service credits._  
+|  _Sec._ ___853.004._ _____RULES FOR CREDITABLE SERVICE. The board of_  
+| _trustees shall adopt rules necessary to implement this chapter._  
+|  SECTION 5. Section 853.105, Government Code, is amended by  
+| amending Subsections (a), (c), and (d) and adding Subsection (d-1)  
+| to read as follows:  
+|  (a) After receiving a certification of prior service and  
+| average prior service compensation under Section 853.104, the  
+| _retirement system_ [ ~~board of trustees~~ ] shall determine the member's  
+| prior service credit.  
+|  (c) _The_ [ ~~For an employee of a municipality having an~~  
+|  ~~effective date of participation in the retirement system after~~  
+|  ~~December 31, 1975, the~~ ] prior service credit is an amount computed  
+| as a percentage determined as provided by Subsection (d) _or, if_  
+| _applicable, Subsection (d-1)_ , times a base credit equal to the  
+| accumulation at three percent interest of a series of monthly  
+| amounts for the number of months of approved prior service, times  
+| the sum of:  
+|  (1) the rate of contributions required of employees of  
+| the municipality for current service; plus  
+|  (2) the rate described in Subdivision (1) times the  
+| municipal current service matching ratio.  
+|  (d) The governing body of a municipality [ ~~having an~~  
+|  ~~effective date of retirement system participation after December~~  
+|  ~~31, 1975,~~ ] shall determine in the ordinance providing for  
+| participation the percentage to be applied against the base credit  
+| in computing a prior service credit under Subsection (c). _Except as_  
+| _provided by Subsection (d-1), the_ [ ~~The~~ ] percentage adopted may be  
+| any multiple of 10 percent that does not exceed 100 percent of the  
+| base credit _, with 10 percent being the minimum percentage a_  
+| _municipality may adopt_. A governing body may not adopt a percentage  
+| under this subsection until the actuary first determines, and the  
+| _retirement system_ [ ~~board of trustees~~ ] concurs in the determination,  
+| that the municipality is able to fund, before the _30th_ [ ~~25th~~ ]  
+| anniversary of the effective date of its participation in the  
+| retirement system, all prior service obligations that the  
+| municipality proposes to assume under this section.  
+|  _(d-1)_ _____The governing body of a municipality shall adopt, by_  
+| _ordinance, a zero percent prior service credit under Subsection (c)_  
+| _entitling the member to excluded prior service credit if, before_  
+| _joining the retirement system, the municipality provided_  
+| _retirement benefits to its employees that were funded partly or_  
+| _wholly by the municipality._  
+|  SECTION 6. Section 853.106, Government Code, is amended to  
+| read as follows:  
+|  Sec. 853.106. PRIOR SERVICE CERTIFICATE. (a)  After  
+| determining a member's prior service credit under Section 853.105,  
+| the _retirement system_ [ ~~board of trustees~~ ] shall issue to the member  
+| a prior service certificate stating:  
+|  (1) the number of months of prior service credited;  
+|  (2) the average prior service compensation; and  
+|  (3) the prior service credit.  
+|  (b) As long as a person remains a member, the person's prior  
+| service certificate is, for purposes of retirement, conclusive  
+| evidence of the information it contains, except that a member or  
+| participating municipality[ ~~, before the first anniversary of its~~  
+|  ~~issuance or modification,~~ ] may request _that_ the _retirement system_  
+| _correct an error in the prior service_ [ ~~board of trustees to modify~~  
+|  ~~the~~ ] certificate _in accordance with Section 852.110_.  
+|  SECTION 7. Section 853.303, Government Code, is amended by  
+| adding Subsections (a-1), (a-2), and (a-3) and amending Subsections  
+| (c) and (d) to read as follows:  
+|  _(a-1)_ _____This subsection applies to a municipality that is_  
+| _required to adopt a zero percent prior service credit under Section_  
+| _853.105(d-1)._ ___If the governing body of a municipality subject to_  
+| _this subsection authorizes the granting of prior service credit to_  
+| _an employee under Subsection (a), the employee is only entitled to_  
+| _receive excluded prior service credit._  
+|  _(a-2)_ _____This subsection applies to a municipality that,_  
+| _before having a department of the municipality begin participating_  
+| _in the retirement system, provided other retirement benefits to its_  
+| _employees in that department funded partly or wholly by the_  
+| _municipality._ ___If, on or after January 1, 2020, the governing body_  
+| _of a municipality subject to this subsection authorizes the_  
+| _granting of prior service credit to an employee under Subsection_  
+| _(a), the employee is only entitled to receive excluded prior_  
+| _service credit._  
+|  _(a-3)_ _____This subsection applies to a municipality that_  
+| _elected to discontinue the participation in the retirement system_  
+| _of persons employed or reemployed after the date of an election to_  
+| _discontinue under Section 852.006(a), provided other retirement_  
+| _benefits to those employees funded partly or wholly by the_  
+| _municipality, and subsequently elects, by ordinance, to have those_  
+| _employees resume participating in the retirement system._ ___If, on or_  
+| _after January 1, 2020, the governing body of a municipality subject_  
+| _to this subsection authorizes prior service credit under Subsection_  
+| _(a) to an employee described by this subsection, the employee is_  
+| _only entitled to excluded prior service credit._  
+|  (c) As soon as practicable after a member has filed a  
+| statement of prior service under this section, the municipality  
+| shall verify the prior service claimed and certify to the  
+| _retirement system_ [ ~~board of trustees~~ ] the creditable prior service  
+| approved and the average monthly compensation paid to the member  
+| during the period of the service.  
+|  (d) After receiving a certification of prior service and  
+| average monthly compensation under this section, the _retirement_  
+| _system_ [ ~~board of trustees~~ ] shall:  
+|  (1) determine the prior service credit allowable to  
+| the member in the manner provided by Section 853.105; and  
+|  (2) issue to the member a prior service certificate as  
+| provided by Section 853.106.  
+|  SECTION 8. Section 853.401(a), Government Code, is amended  
+| to read as follows:  
+|  (a) Except as provided by Subsection (b) _and Sections_  
+| _853.105 and 853.303_ , the governing body of a participating  
+| municipality by ordinance may authorize the crediting in the  
+| retirement system of updated service credits for service performed  
+| for the municipality by members _who are contributing employees of_  
+| _the municipality on the date prescribed by Section 853.402(e)_. An  
+| updated service credit authorized under this section replaces any  
+| updated service credit or prior service credit previously  
+| authorized for part of the same service.  
+|  SECTION 9. Section 853.402, Government Code, is amended by  
+| adding Subsection (g) to read as follows:  
+|  _(g)_ _____The retirement system may recalculate updated service_  
+| _credit for purposes of determining a member's retirement annuity_  
+| _if:_  
+|  _(1)_ _____the member reestablishes credited service in_  
+| _accordance with Section 853.003 and retires in the same calendar_  
+| _year; and_  
+|  _(2)_ _____any municipality for which the member performed_  
+| _creditable service adopts an ordinance authorizing updated service_  
+| _credits under Section 853.401 or 853.404 with an effective date of_  
+| _January 1 of the same calendar year._  
+|  SECTION 10. Section 853.601(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The governing body of a participating municipality in  
+| ordinances authorizing updated service credits under Section  
+| 853.401 [ ~~on or after January 1, 1984,~~ ] may provide that those  
+| members who are eligible for such credits on the basis of service  
+| with the granting municipality, who have unforfeited credit for  
+| prior service or current service with another participating  
+| municipality or municipalities by reason of previous employment,  
+| and who are contributing members on the date prescribed by Section  
+| 853.402(e), shall be credited in the retirement system with updated  
+| service credit calculated in the manner prescribed by Sections  
+| 853.401 and 853.402, except that in determining the base updated  
+| service credit of the member under Section 853.402(c)(1), all  
+| unforfeited credited service performed by the member by reason of  
+| previous employment in other participating municipalities prior to  
+| the date prescribed by Section 853.402(e) shall be treated as if  
+| performed in the service of the municipality adopting the  
+| ordinance, and that amount shall be reduced by an amount equal to  
+| the sum of:  
+|  (1) 2 times the amount credited to the member's  
+| individual account on the date prescribed in Section 853.402(e),  
+| which any participating municipality has undertaken to match on a 1  
+| to 1 ratio; plus  
+|  (2) 2.5 times the amount credited to the member's  
+| individual account, subject to a 1.5 to 1 matching ratio by any  
+| participating municipality; plus  
+|  (3) 3 times the amount credited to the member's  
+| individual account, subject to a 2 to 1 matching ratio by any  
+| participating municipality; and plus  
+|  (4) the sum of all updated service credits, prior  
+| service credits, special prior service credits, and antecedent  
+| service credits allowed to the member by any other participating  
+| municipality by which the member was previously employed and to  
+| which the member is entitled.  
+|  SECTION 11. Section 854.006(f), Government Code, is amended  
+| to read as follows:  
+|  (f) If a divorce decree or a qualified domestic relations  
+| order, as that term is defined by Section 804.001, so provides, the  
+| benefit payable to a retiree who is receiving payments of an annuity  
+| for the retiree's life with payments to continue after the retiree's  
+| death until the death of another person under Section  
+| 854.104(c)(1), (2), or (5), 854.305(c)[ ~~(1), (2), or (5)~~ ], or  
+| 854.410(c)[ ~~(1), (2), or (5)~~ ] may be increased to the amount that  
+| would have been payable if the retiree had selected an annuity  
+| payable only during the retiree's lifetime if:  
+|  (1) the proceeding in which the decree or order is  
+| entered terminates the marriage between the retiree and the person  
+| who was designated to receive the continued payment after the  
+| retiree's death;  
+|  (2) the decree or order awards the retiree all  
+| benefits resulting from the retiree's participation in the  
+| retirement system; and  
+|  (3) the decree or order is signed after December 31,  
+| 1999.  
+|  SECTION 12. Section 854.301, Government Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____A member may not apply for a disability retirement_  
+| _annuity under this subchapter after the date the member's_  
+| _participating municipality begins participation in the_  
+| _occupational disability benefits program under Subchapter E._  
+|  SECTION 13. Sections 854.408(a) and (b), Government Code,  
+| are amended to read as follows:  
+|  (a) The standard occupational disability retirement annuity  
+| payable under this subchapter is the sum of the member's prior  
+| service annuity and current service annuity.  A prior service  
+| annuity is subject to reduction under Section 855.308(f). A  
+| standard occupational disability retirement annuity[ ~~:~~  
+|  [ ~~(1)~~ ] is payable throughout the life of the retiree  
+| _except as otherwise provided by this subchapter_ [ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~is reducible as to any month or series of months~~  
+|  ~~as provided by this section~~ ].  
+|  (b) _The standard occupational disability retirement annuity_  
+| _of a disability retiree may not be suspended under this subchapter_  
+| _after the date the disability retiree attains 60 years of age_  
+| [ ~~During any month in which a retiree who is less than 60 years old~~  
+|  ~~receives earned income subject to taxation under the Federal~~  
+|  ~~Insurance Contributions Act or that would be subject to those taxes~~  
+|  ~~if the employer were not an exempt organization, the standard~~  
+|  ~~occupational disability retirement annuity may not exceed the~~  
+|  ~~greater of the following amounts:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the amount that is required to be added to the~~  
+|  ~~retiree's earned income for the month to equal the highest average~~  
+|  ~~compensation on which the retiree made membership contributions to~~  
+|  ~~the retirement system during any 12 consecutive months during the~~  
+|  ~~three calendar years immediately preceding the year in which the~~  
+|  ~~retiree retired for disability, when the highest average~~  
+|  ~~compensation is multiplied by the percentage increase, if any, in~~  
+|  ~~the Consumer Price Index for All Urban Consumers published by the~~  
+|  ~~Bureau of Labor Statistics of the United States Department of Labor~~  
+|  ~~from December of the year immediately preceding the effective date~~  
+|  ~~of the person's retirement to the December that is 13 months before~~  
+|  ~~a computation is made under this subsection; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the monthly annuity attributable to the retiree's~~  
+|  ~~accumulated contributions at the time of the person's retirement~~ ].  
+|  SECTION 14. Section 854.409, Government Code, is amended to  
+| read as follows:  
+|  Sec. 854.409. _MEDICAL EXAMINATION_ [ ~~REPORTS REQUIRED~~ ] OF  
+| RETIREES. (a)  _The retirement system may require, by written_  
+| _request, a disability retiree under this subchapter who is younger_  
+| _than 60 years of age to undergo a medical examination and provide_  
+| _current medical and other relevant information reaffirming the_  
+| _status of the retiree as meeting the requirements for certification_  
+| _of occupational disability under Section 854.407(b)._ ___The_  
+| _retirement system or medical board may designate a physician to_  
+| _perform the examination. The retiree shall pay the cost of the_  
+| _examination, unless the director, at the director's discretion,_  
+| _waives that requirement and has the retirement system pay the cost_  
+| _of the examination_ [ ~~A disability retiree who is less than 60 years~~  
+|  ~~old and who accepts employment or during any month receives income~~  
+|  ~~that is subject to taxation under the Federal Insurance~~  
+|  ~~Contributions Act shall promptly notify the board of trustees in~~  
+|  ~~writing if the amount of the earnings, when added to the amount of~~  
+|  ~~the standard occupational disability retirement benefit, produces~~  
+|  ~~a sum in excess of the average monthly compensation on which the~~  
+|  ~~retiree made member contributions during the 12-month period~~  
+|  ~~preceding the date of the person's retirement~~ ].  
+|  (b) [ ~~Each retiree who is receiving an occupational~~  
+|  ~~disability retirement annuity and is less than 60 years old shall~~  
+|  ~~make annual reports to the board of trustees on such form as the~~  
+|  ~~board may prescribe, concerning receipt by the retiree of income~~  
+|  ~~that is subject to taxation under the Federal Insurance~~  
+|  ~~Contributions Act or that would be subject to those taxes if the~~  
+|  ~~employer were not an exempt organization, along with any supporting~~  
+|  ~~information as may be required by the board of trustees.~~ ] If a  
+| retiree _refuses to submit to a medical examination or_ fails to  
+| provide _current medical or other_ [ ~~the~~ ] information _requested under_  
+| _Subsection (a)_ [ ~~required under this section~~ ], the _retirement
+system_  
+| [ ~~director~~ ] may suspend payments of the annuity _as provided by this_  
+| _section_ [ ~~until the retiree provides the required information~~ ].  
+|  _(c)_ _____If a retiree refuses to submit to a medical examination_  
+| _or fails to provide current medical or other information requested_  
+| _under Subsection (a) by the first anniversary of the date the_  
+| _retirement system requested the medical examination or_  
+| _information, the retirement system may suspend payments of the_  
+| _annuity until the earlier of the date the retiree:_  
+|  _(1) attains 60 years of age; or_  
+|  _(2)_ _____submits to a medical examination and provides the_  
+| _requested information._  
+|  _(d)_ _____If a retiree submits to a medical examination and_  
+| _provides the requested information before the fourth anniversary of_  
+| _the date the retirement system requested the medical examination or_  
+| _information, the retirement system may pay the suspended payments_  
+| _of the annuity in a lump sum._  
+|  _(e)_ _____If the medical board finds that a retiree under this_  
+| _subchapter has experienced medical improvement to the extent that_  
+| _the retiree no longer meets the requirements for certification of_  
+| _occupational disability under Section 854.407(b), the medical_  
+| _board shall certify the medical board's findings and submit the_  
+| _findings to the director. If the director concurs in the medical_  
+| _board's findings under this section, the director may adopt the_  
+| _findings, and the retirement system may suspend payments of the_  
+| _annuity and take other action as the retirement system, in the_  
+| _retirement system's discretion, considers equitable and_  
+| _appropriate to address the situation, until the disability retiree_  
+| _attains 60 years of age._  
+|  _(f)_ _____The retirement system may not suspend a benefit under_  
+| _this section payable to an alternate payee under a qualified_  
+| _domestic relations order._  
+|  SECTION 15. Section 854.410(e), Government Code, is amended  
+| to read as follows:  
+|  (e) To select an optional occupational disability  
+| retirement annuity, a member or retiree must make the selection and  
+| designate a beneficiary on a form prescribed by and filed with the  
+| _retirement system_ [ ~~board of trustees~~ ] before the 31st day after the  
+| effective date of retirement.  
+|  SECTION 16. Subchapter E, Chapter 854, Government Code, is  
+| amended by adding Section 854.411 to read as follows:  
+|  _Sec._ ___854.411._ _____RULES FOR OPTIONAL DISABILITY RETIREMENT_  
+| _ANNUITIES._ ___The board of trustees may adopt rules necessary to_  
+| _implement this subchapter._  
+|  SECTION 17. Section 855.007, Government Code, is amended by  
+| amending Subsections (a), (b), and (c) and adding Subsections (e),  
+| (f), (g), (h), (i), (j), and (k) to read as follows:  
+|  (a) The board of trustees shall hold _at least four_ [ ~~regular~~ ]  
+| meetings [ ~~in March, June, September, and December of~~ ] each year and  
+| _additional_ [ ~~special~~ ] meetings when called by the director.  
+|  (b) Before the fifth day preceding the day of a meeting, the  
+| director shall give written notice of _the_ [ ~~a special~~ ] meeting to  
+| each trustee unless notice is waived.  
+|  (c) _Except as otherwise provided by this subtitle, Chapter_  
+| _551, or other law, all_ [ ~~All~~ ] meetings of the board must be open to  
+| the public.  
+|  _(e)_ _____Notwithstanding Chapter 551 or any other law, the board_  
+| _of trustees may hold an open or closed meeting by telephone_  
+| _conference call, videoconference, or other similar_  
+| _telecommunication method. The board may use a telephone conference_  
+| _call, videoconference, or other similar telecommunication method_  
+| _for purposes of establishing a quorum or voting or for any other_  
+| _meeting purpose in accordance with Subsection (f) and this_  
+| _subsection. This subsection applies without regard to the subject_  
+| _matter discussed or considered by the board at a meeting._  
+|  _(f)_ _____A meeting of the board of trustees held by telephone_  
+| _conference call, videoconference, or other similar_  
+| _telecommunication method:_  
+|  _(1)_ _____is subject to the notice requirements applicable_  
+| _to other board meetings;_  
+|  _(2)_ _____may not be held unless notice of the meeting_  
+| _specifies the location of the meeting at which at least one trustee_  
+| _of the board will be physically present; and_  
+|  _(3)_ _____must be open and audible to the public at the_  
+| _location specified in the notice under Subdivision (2) during the_  
+| _open portions of the meeting._  
+|  _(g)_ _____Chapter 551 does not require the board of trustees to_  
+| _confer with one or more employees, consultants, or legal counsel of_  
+| _the retirement system or with a third party, including_  
+| _representatives of an issuer of restricted securities or a private_  
+| _investment fund, in an open meeting if the only purpose of the_  
+| _conference is to receive information from or question the_  
+| _employees, consultants, or legal counsel of the retirement system_  
+| _or the third party relating to an investment or a potential_  
+| _investment._  
+|  _(h)_ _____The board of trustees or a committee of the board may_  
+| _conduct a closed meeting in accordance with Subchapter E, Chapter_  
+| _551, with the retirement system's internal or external auditors to_  
+| _discuss:_  
+|  _(1)_ _____governance, risk management or internal control_  
+| _weaknesses, known or suspected compliance violations or fraud,_  
+| _status of regulatory reviews or investigations, or identification_  
+| _of potential fraud risk areas and audits for the annual internal_  
+| _audit plan; or_  
+|  _(2)_ _____the auditors' ability to perform duties in_  
+| _accordance with the Internal Audit Charter and relevant auditing_  
+| _standards._  
+|  _(i)_ _____Notwithstanding Chapter 551 or any other law, the board_  
+| _of trustees may conduct a closed meeting to consider and discuss:_  
+|  _(1)_ _____evaluations or duties of trustees or board_  
+| _consultants; and_  
+|  _(2) self-evaluations of the board as a whole._  
+|  _(j)_ _____Notwithstanding any other law, Chapter 551 does not_  
+| _apply to an assembly of the board of trustees or one of the board's_  
+| _committees while attending a summit, conference, convention,_  
+| _workshop, or other event held for educational purposes if the_  
+| _assembly or committee does not deliberate, vote, or take action on a_  
+| _specific matter of public business or public policy over which the_  
+| _board of trustees or a committee of the board has supervision or_  
+| _control. This subsection does not apply to a meeting of the board of_  
+| _trustees scheduled or called under the board's bylaws._  
+|  _(k)_ _____The board of trustees may adopt rules necessary to_  
+| _implement this section._  
+|  SECTION 18. Section 855.107, Government Code, is amended to  
+| read as follows:  
+|  Sec. 855.107. AUDIT. _(a) In this section:_  
+|  _(1)_ _____"Audit" means an internal or independent external_  
+| _audit authorized or required by this section or initiated or_  
+| _commissioned by the board of trustees or a committee of the board of_  
+| _trustees. The term includes a financial audit, compliance audit,_  
+| _economy and efficiency audit, effectiveness audit, performance_  
+| _audit, security or risk audit, attestation, management-directed_  
+| _engagement, or investigation._  
+|  _(2)_ _____"Audit working paper" includes all information,_  
+| _documentary or otherwise, prepared or maintained in conducting an_  
+| _audit or preparing an audit report, including:_  
+|  _(A)_ _____internal or external communications relating_  
+| _to the audit that are made or received in the course of the audit;_  
+|  _(B)_ _____drafts of an audit report or portions of_  
+| _those drafts;_  
+|  _(C) drafts of audit plans; and_  
+|  _(D) records of risk assessments._  
+|  _(b)_ Annually, or more often, the board of trustees shall  
+| have the accounts of the retirement system audited by a certified  
+| public accountant.  
+|  _(c)_ _____In addition to the financial audit required by_  
+| _Subsection (b), the board of trustees may initiate or commission an_  
+| _audit or investigation of activities, functions, or operations of_  
+| _the retirement system as the board determines appropriate._  
+|  _(d)_ _____Audit working papers prepared, maintained, or assembled_  
+| _by the retirement system or an agent of the retirement system are_  
+| _not a record of the board of trustees for purposes of Section_  
+| _855.112, and are confidential and excepted from the disclosure_  
+| _requirements of Chapter 552._  
+|  _(e)_ _____Unless made confidential under other law, an audit_  
+| _report, when received by the board of trustees in its final form, is_  
+| _public information not excepted from the requirements of Section_  
+| _552.021._  
+|  SECTION 19. Section 855.110(c), Government Code, is amended  
+| to read as follows:  
+|  (c) The board of trustees, after consultation with the  
+| actuary, by rule _or by funding policy adopted by the board of_  
+| _trustees,_ may _:_  
+|  _(1)_ set open or closed amortization periods not to  
+| exceed _30_ [ ~~25~~ ] years _;_  
+|  _(2)_ _____change the period for amortizing a municipality's_  
+| _unfunded actuarial accrued liabilities from an open period to a_  
+| _closed period or from a closed period to an open period;_  
+|  _(3)_ _____decrease or increase the amortization period,_  
+| _provided the amortization period may not exceed 30 years; and_  
+|  _(4)_ _____set different amortization periods for unfunded_  
+| _actuarial accrued liabilities arising from different types of_  
+| _events giving rise to liabilities and ladder the amortization of_  
+| _the liabilities_.  
+|  SECTION 20. Section 855.112, Government Code, is amended to  
+| read as follows:  
+|  Sec. 855.112. RECORDS [ ~~OF BOARD OF TRUSTEES~~ ]. (a) The  
+| _retirement system_ [ ~~board of trustees~~ ] shall keep, in convenient  
+| form, data necessary for required computations and valuations by  
+| the actuary.  
+|  (b) The board _of trustees_ shall keep a permanent record of  
+| all of its proceedings.  
+|  (c) Records of the board _of trustees_ are open to the public.  
+|  SECTION 21. Section 855.114, Government Code, is amended to  
+| read as follows:  
+|  Sec. 855.114. OBTAINING INFORMATION. _(a)_ ___In this section,_  
+| _"participant" means a member, former member, retiree, annuitant,_  
+| _beneficiary, or alternate payee of the retirement system._  
+|  _(b)_ The board of trustees shall obtain from _participants_  
+| [ ~~members~~ ] or participating municipalities information necessary  
+| for the proper operation of the retirement system.  
+|  _(c)_ _____Each participant and participating municipality shall_  
+| _timely provide, in the form and manner specified by the retirement_  
+| _system, information necessary for the proper operation and_  
+| _administration of the retirement system._  
+|  SECTION 22. Section 855.115, Government Code, is amended by  
+| amending Subsections (a), (c), and (d) and adding Subsections  
+| (a-1), (b-1), (e), (f), (g), and (h) to read as follows:  
+|  (a) _In this section, "participant"_ ___has the meaning assigned_  
+| _by Section 855.114._  
+|  _(a-1)_ Information contained in records that are in the  
+| custody of the retirement system _or maintained in the custody of_  
+| _another governmental entity or an administrator or carrier acting_  
+| _in cooperation with or on behalf of the retirement system_  
+| concerning _a participant_ [ ~~an individual member, retiree,~~  
+|  ~~annuitant, or beneficiary~~ ] is confidential _and not subject to_  
+| _public disclosure. Except as otherwise provided by this section,_  
+| _the retirement system is not required to accept or comply with a_  
+| _request for a record or information about a record of a participant,_  
+| _or to seek an opinion from the attorney general because the records_  
+| _of a participant are not public records and are exempt from_  
+| _disclosure and the public information provisions of Chapter 552._  
+| _Participant information_ [ ~~under Section 552.101, and~~ ] may not be  
+| disclosed [ ~~in a form identifiable with a specific individual~~ ]  
+| unless:  
+|  (1) the information is disclosed to:  
+|  (A) the _participant_ [ ~~individual~~ ] or the  
+| _participant's_ [ ~~individual's~~ ] attorney, guardian, executor,  
+| administrator, conservator, or other person who the director  
+| determines is acting in the interest of the _participant_  
+| [ ~~individual~~ ] or the _participant's_ [ ~~individual's~~ ] estate;  
+|  (B) a spouse or former spouse of _a participant_  
+| [ ~~the individual~~ ] after the director determines that the information  
+| is relevant to the spouse's or former spouse's interest in  
+| _participant_ [ ~~member~~ ] accounts, benefits, or other amounts payable  
+| by the retirement system;  
+|  (C) a governmental official or employee after the  
+| director determines that disclosure of the information requested is  
+| reasonably necessary to _:_  
+|  _(i)_ the performance of the duties of the  
+| official or employee _; or_  
+|  _(ii)_ _____perform the purposes of the retirement_  
+| _system_ ; or  
+|  (D) a person authorized by the _participant_  
+| [ ~~individual~~ ] in writing to receive the information; or  
+|  (2) the information is disclosed pursuant to a  
+| subpoena and the director determines that the _participant_  
+| [ ~~individual~~ ] will have a reasonable opportunity to contest the  
+| subpoena.  
+|  _(b-1)_ _____This section does not require the retirement system to_  
+| _compile or disclose a list of participants' names, addresses,_  
+| _social security numbers, or other descriptive or demographic_  
+| _information._  
+|  (c) The director may designate other employees of the  
+| retirement system to make the necessary determinations under  
+| Subsection _(a-1)_ [ ~~(a)~~ ].  
+|  (d) A determination and disclosure under Subsection _(a-1)_  
+| [ ~~(a)~~ ] may be made without notice to the _participant_ [ ~~individual~~  
+|  ~~member, retiree, annuitant, or beneficiary~~ ].  
+|  _(e)_ _____A record released or received by the retirement system_  
+| _under this section may be transmitted electronically, including_  
+| _through the use of an electronic signature or certification in a_  
+| _form acceptable to the retirement system. An unintentional_  
+| _disclosure to, or unauthorized access by, a third party related to_  
+| _the transmission or receipt of information under this section is_  
+| _not a violation by the retirement system of any law, including any_  
+| _law or rule relating to the protection of confidential information._  
+|  _(f)_ _____The records of a participant remain confidential after_  
+| _release to a person, including a governmental official or employee,_  
+| _as authorized by this section. The records of the participant may_  
+| _become part of a public record of an administrative or judicial_  
+| _proceeding, and the participant waives the confidentiality of the_  
+| _records, including medical records, unless the records are closed_  
+| _to public access by a protective order issued under applicable law._  
+|  _(g)_ _____The retirement system may require a participant to_  
+| _provide the participant's social security number as the retirement_  
+| _system considers necessary to ensure the proper administration of_  
+| _all services, benefits, plans, and programs under the retirement_  
+| _system's administration or as otherwise required by state or_  
+| _federal law._  
+|  _(h)_ _____The retirement system has sole discretion in_  
+| _determining if a record is subject to this section. For purposes of_  
+| _this section, a record includes any record of the retirement system_  
+| _containing information about a participant, living or deceased._  
+|  SECTION 23. Section 855.116, Government Code, is amended to  
+| read as follows:  
+|  Sec. 855.116. ELECTRONIC _INFORMATION_ [ ~~FILING OF CERTAIN~~  
+|  ~~DOCUMENTS~~ ]. (a) In this section _:_  
+|  _(1) "Electronic_ [ ~~, "electronic~~ ] filing" means the  
+| filing of data by the communication of information by facsimile or  
+| in the form of digital electronic signals transformed by computer  
+| and stored on microfilm, magnetic tape, _magnetic or solid state_  
+| [ ~~optical~~ ] disk, or any other _electronic storage or other_ medium.  
+|  _(2)_ _____"Electronic record"_ ___means any information that is_  
+| _recorded in a form for computer processing._  
+|  (b) The board of trustees may adopt rules and procedures  
+| relating to the electronic filing of documents with the retirement  
+| system _and the delivery of information electronically by the_  
+| _retirement system_. A document that is electronically filed in  
+| accordance with those rules and procedures is considered to have  
+| been properly filed with the retirement system.  
+|  _(c)_ _____The retirement system may provide confidential_  
+| _information electronically to participating municipalities,_  
+| _members, retirees, beneficiaries, annuitants, alternate payees,_  
+| _and other persons authorized to receive the information and may_  
+| _receive information electronically from the individuals or_  
+| _entities, as applicable, including by use of an electronic_  
+| _signature or certification in a form acceptable to the retirement_  
+| _system. An unintentional disclosure to, or unauthorized access by,_  
+| _a third party related to the transmission or receipt of information_  
+| _under this section is not a violation by the retirement system of_  
+| _any law, including a rule relating to the protection of_  
+| _confidential information._  
+|  _(d)_ _____Subject to Subsection (f), the retirement system may_  
+| _provide to a member, retiree, or annuitant any information that is_  
+| _required to be provided, distributed, or furnished under Section_  
+| _802.106(a), (b), (d), or (e) by:_  
+|  _(1)_ _____sending the information to an e-mail address or_  
+| _other electronic address furnished to the retirement system by the_  
+| _member, retiree, or annuitant; or_  
+|  _(2)_ _____directing the member, retiree, or annuitant_  
+| _through a written notice, e-mail, or other electronic notice to an_  
+| _Internet website address to access the information._  
+|  _(e)_ _____Subject to Subsection (f), the retirement system may_  
+| _provide to a member, retiree, or annuitant the information that is_  
+| _required to be provided under Section 802.106(c) by directing the_  
+| _member, retiree, or annuitant through a written notice, e-mail, or_  
+| _other electronic notice to an Internet website address to access_  
+| _the information._  
+|  _(f)_ _____Electronic notice sent under this section by e-mail or_  
+| _other means may only be sent to an e-mail address or other_  
+| _electronic address furnished to the retirement system by the_  
+| _member, retiree, or annuitant._  
+|  _(g) The retirement system may:_  
+|  _(1)_ _____photograph, microphotograph, film, or make an_  
+| _electronic record of any record in the retirement system's_  
+| _possession; or_  
+|  _(2)_ _____preserve the record through electronic document_  
+| _imaging._  
+|  _(h)_ _____If a record is reproduced under Subsection (g), the_  
+| _retirement system may destroy or dispose of the original record if_  
+| _the system first:_  
+|  _(1)_ _____places the reproduction or electronic record in a_  
+| _file that is conveniently accessible to retirement system_  
+| _personnel; and_  
+|  _(2)_ _____provides for the preservation, examination, and_  
+| _use of the reproduction or stored electronic record._  
+|  _(i)_ _____A photograph, microphotograph, film, electronic record,_  
+| _or electronic document image of a record received by the retirement_  
+| _system or reproduced under Subsection (g) is equivalent to the_  
+| _original record for all purposes, including introduction as_  
+| _evidence in all courts and administrative agency proceedings. A_  
+| _certified or authenticated copy of the photograph,_  
+| _microphotograph, film, electronic record, or electronic document_  
+| _image is admissible as evidence to the same extent as the original_  
+| _record._  
+|  _(j)_ _____The director or an authorized representative may_  
+| _certify the authenticity of a record reproduced under this section_  
+| _and may charge a fee for the certified copy as provided by law._  
+|  _(k)_ _____Certified records shall be furnished to any person who_  
+| _is authorized by law to receive them._  
+|  SECTION 24. The heading to Section 855.202, Government  
+| Code, is amended to read as follows:  
+|  Sec. 855.202. LEGAL _REPRESENTATION_ [ ~~ADVISER~~ ].  
+|  SECTION 25. Section 855.202, Government Code, is amended by  
+| amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) The attorney shall act as the legal adviser to the board  
+| _of trustees_ [ ~~and shall represent the system in all litigation~~ ].  
+|  _(c)_ _____Subject to Section 402.0212, the board of trustees, the_  
+| _director, or the director's designee may employ or obtain the_  
+| _services of other attorneys or outside legal counsel to represent_  
+| _the retirement system in litigation or advise the retirement system_  
+| _on fiduciary or legal matters._  
+|  SECTION 26. Section 855.301, Government Code, is amended by  
+| amending Subsection (a) and adding Subsection (d) to read as  
+| follows:  
+|  (a) The board of trustees shall invest and reinvest the  
+| assets of the retirement system without distinction as to their  
+| source in accordance with Section 67, Article XVI, Texas  
+| Constitution. For purposes of the investment authority of the  
+| board of trustees under Section 67, Article XVI, Texas  
+| Constitution, "security" _or "securities"_ means any investment  
+| instrument within the meaning of the term as defined by Section 4,  
+| The Securities Act (Article 581-4, Vernon's Texas Civil Statutes),  
+| 15 U.S.C. Section 77b(a)(1), or 15 U.S.C. Section 78c(a)(10).  _An_  
+| _interest in a limited partnership or investment contract is_  
+| _considered a security without regard to the number of investors or_  
+| _the control, access to information, or rights granted to or_  
+| _retained by the retirement system. Any instrument or contract_  
+| _intended to manage transaction, currency exchange, or interest rate_  
+| _risk in purchasing, selling, or holding securities, or that derives_  
+| _all or substantially all of its value from the value or performance_  
+| _of one or more securities, including an index or group of_  
+| _securities, is considered to be a security._  
+|  _(d) The board of trustees may:_  
+|  _(1)_ _____delegate discretionary investment authority to_  
+| _and contract with external investment managers to invest and manage_  
+| _the assets held in trust by the retirement system; and_  
+|  _(2)_ _____contract with external investment advisors and_  
+| _consultants to assist and advise the board and the staff of the_  
+| _retirement system._  
+|  SECTION 27. Section 855.407, Government Code, is amended by  
+| amending Subsections (f) and (h) and adding Subsection (i) to read  
+| as follows:  
+|  (f) The governing body of a municipality that is determined  
+| by the actuary to be unable to finance all obligations charged  
+| against its account in the benefit accumulation fund within _the_  
+| _municipality's current amortization period_ [ ~~25 years after its most~~  
+|  ~~recent actuarial valuation date~~ ] may elect to have the municipality  
+| contribute to its account in the benefit accumulation fund at a rate  
+| that does not exceed in any year the sum of two percent and the  
+| maximum contribution rate specified by Subsection (a) and by  
+| Section 855.501, if applicable, and that the actuary annually may  
+| determine as necessary to finance the existing levels of benefits  
+| before the expiration of _the municipality's current amortization_  
+| _period_ [ ~~25 years after the most recent actuarial valuation date~~ ].  
+|  (h) _Subject to Subsection (i), if_ [ ~~If~~ ] the board of trustees  
+| adopts any _actuarial changes, including changes_ [ ~~change~~ ] in  
+| actuarial assumptions or in actuarial method _,_ that would result in  
+| any municipality having an increase in its combined contribution  
+| rate of more than one-half of one percent of the total compensation  
+| paid to its employees based on its current amortization period, _the_  
+| _board may, after consultation with the actuary, take any or all of_  
+| _the following actions_ [ ~~and if its governing body adopts a~~  
+|  ~~resolution requesting a new amortization period, the municipality~~  
+|  ~~will be assigned a new amortization period equal to the lesser of~~ ]:  
+|  (1) _phase in the increase in the contribution rate for_  
+| _the municipality over a reasonable period of time;_  
+|  _(2)_ _____increase the period for amortizing the_  
+| _municipality's unfunded actuarial accrued liabilities for a period_  
+| _that does not exceed 30 years; or_  
+|  _(3)_ _____allow the municipality to request in writing an_  
+| _increase in the municipality's amortization period, provided that_  
+| _the new amortization period the municipality may be assigned equals_  
+| _the lesser of:_  
+|  _(A)_ the number of years required to limit the  
+| increase in the combined rate to one-half of one percent of the  
+| total compensation paid to its employees; or  
+|  _(B)_ [ ~~(2)~~ ] the maximum number of years, not to  
+| exceed _30_ [ ~~40~~ ] years, specified by the board of trustees.  
+|  _(i)_ _____A municipality may decline to phase in the increase in_  
+| _the municipality's contribution rate or increase the municipality's_  
+| _amortization period under Subsection (h)._  
+|  SECTION 28. Sections 853.105(b), 854.408(c) and (d), and  
+| 854.410(f), Government Code, are repealed.  
+|  SECTION 29. The changes in law made to Chapter 854,  
+| Government Code, as amended by this Act, apply to a retiree  
+| regardless of whether the person retired before, on, or after the  
+| effective date of this Act.  
+|  SECTION 30. This Act takes effect January 1, 2020.
+

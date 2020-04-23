@@ -1,0 +1,83 @@
+| 86R5486 SOS-D  
+---|---  
+|  By: Zedler | H.B. No. 604  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the release of confidential physician-patient  
+| communications to the Texas Medical Board.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 159.003, Occupations Code, is amended by  
+| amending Subsection (a) and adding Subsection (d) to read as  
+| follows:  
+|  (a) _Subject to Subsection (d), an_ [ ~~An~~ ] exception to the  
+| privilege of confidentiality in a court or administrative  
+| proceeding exists:  
+|  (1) in a proceeding brought by a patient against a  
+| physician, including:  
+|  (A) a malpractice proceeding; or  
+|  (B) a criminal proceeding or license revocation  
+| proceeding in which the patient is a complaining witness and  
+| disclosure is relevant to a claim or defense of the physician;  
+|  (2) if the patient or a person authorized to act on the  
+| patient's behalf submits a written consent to the release of  
+| confidential information as provided by Section 159.005;  
+|  (3) in a proceeding to substantiate and collect on a  
+| claim for medical services provided to the patient;  
+|  (4) in a civil action or administrative proceeding, if  
+| relevant, brought by the patient or a person on the patient's  
+| behalf, if the patient or person is attempting to recover monetary  
+| damages for a physical or mental condition including the patient's  
+| death;  
+|  (5) in a disciplinary [ ~~investigation or~~ ] proceeding  
+| conducted under this subtitle, if the board protects the identity  
+| of any patient whose billing or medical records are examined other  
+| than a patient:  
+|  (A) for whom an exception exists under  
+| Subdivision (1); or  
+|  (B) who has submitted written consent to the  
+| release of the billing or medical records as provided by Section  
+| 159.005;  
+|  (6) in a criminal investigation of a physician in  
+| which the board is participating, or assisting in the investigation  
+| or proceeding by providing certain billing or medical records  
+| obtained from the physician, if the board protects the identity of a  
+| patient whose billing or medical records are provided in the  
+| investigation or proceeding other than a patient:  
+|  (A) for whom an exception exists under  
+| Subdivision (1); or  
+|  (B) who has submitted written consent to the  
+| release of the billing or medical records as provided by Section  
+| 159.005;  
+|  (7) in an involuntary civil commitment proceeding,  
+| proceeding for court-ordered treatment, or probable cause hearing  
+| under Chapter 462, 574, or 593, Health and Safety Code;  
+|  (8) if the patient's physical or mental condition is  
+| relevant to the execution of a will;  
+|  (9) if the information is relevant to a proceeding  
+| brought under Section 159.009;  
+|  (10) in a criminal prosecution in which the patient is  
+| a victim, witness, or defendant;  
+|  (11) to satisfy a request for billing or medical  
+| records of a deceased or incompetent person under Section  
+| 74.051(e), Civil Practice and Remedies Code; or  
+|  (12) to a court or a party to an action under a court  
+| order.  
+|  _(d)_ _____A communication or record that is confidential and_  
+| _privileged under Section 159.002 may not be disclosed or released_  
+| _to the board for use in an investigation conducted under this_  
+| _subtitle unless:_  
+|  _(1)_ _____the patient or a person authorized to act on the_  
+| _patient's behalf submits a written consent to the release of the_  
+| _information as provided by Section 159.005; or_  
+|  _(2)_ _____a court orders release of the information to the_  
+| _board for the purpose of conducting the investigation._  
+|  SECTION 2. The change in law made by this Act to Section  
+| 159.003, Occupations Code, applies only to the disclosure or  
+| release of information to the Texas Medical Board on or after the  
+| effective date of this Act.  The disclosure or release of  
+| information to the Texas Medical Board before that date is governed  
+| by the law in effect on the date of the disclosure or release, and  
+| the former law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

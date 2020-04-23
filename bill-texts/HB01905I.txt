@@ -1,0 +1,240 @@
+| 86R2897 SMT-F  
+---|---  
+|  By: Klick | H.B. No. 1905  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the relationship between physicians or health care  
+| providers and health maintenance organizations or preferred  
+| provider benefit plans.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 843.306, Insurance Code, is amended by  
+| amending Subsections (a), (b), and (e) and adding Subsections  
+| (a-1), (a-2), (b-1), (b-2), (b-3), and (g) to read as follows:  
+|  (a) Before terminating a contract with a physician or  
+| provider, a health maintenance organization shall provide to the  
+| physician or provider _:_  
+|  _(1) written notice of:_  
+|  _(A)_ _____the health maintenance organization's intent_  
+| _to terminate the physician's or provider's contract;_  
+|  _(B)_ _____the physician's or provider's right to_  
+| _request a review under Subsection (b); and_  
+|  _(C)_ _____the physician's or provider's right to_  
+| _request the review be expedited under Section 843.307; and_  
+|  _(2)_ a written explanation of the reasons for  
+| termination.  
+|  _(a-1)_ _____In a case involving fraud or malfeasance by a_  
+| _provider, the written notice required by Subsection (a) must_  
+| _include notice of the health maintenance organization's right to_  
+| _suspend the provider's participation in the health maintenance_  
+| _organization network during the review process as provided by_  
+| _Subsection (b-1)._  
+|  _(a-2)_ _____If a health maintenance organization terminates a_  
+| _contract with a physician or provider, the health maintenance_  
+| _organization shall provide to the physician or provider a written_  
+| _copy of all information on which the health maintenance_  
+| _organization wholly or partly based the termination, including the_  
+| _economic profile of the physician or provider, the standards by_  
+| _which the physician or provider is measured, and the statistics_  
+| _underlying the profile and standards._  
+|  (b) On request, before the effective date of the termination  
+| and within a period not to exceed 60 days, a physician or provider  
+| is entitled to a review by an advisory review panel of the health  
+| maintenance organization's proposed termination, except in a case  
+| involving:  
+|  (1) imminent harm to patient health;  
+|  (2) an action by a state medical or dental board,  
+| another medical or dental licensing board, or another licensing  
+| board or government agency that effectively impairs the physician's  
+| or provider's ability to practice medicine, dentistry, or another  
+| profession; or  
+|  (3) fraud or malfeasance _by a physician_.  
+|  _(b-1)_ _____If a provider requests a review under Subsection (b)_  
+| _in a case involving fraud or malfeasance by the provider, the health_  
+| _maintenance organization may suspend the provider's participation_  
+| _in the health maintenance organization network:_  
+|  _(1)_ _____beginning not earlier than the date notice is_  
+| _provided under Subsection (a); and_  
+|  _(2) ending on the earlier of:_  
+|  _(A)_ _____the 60th day after the date the provider_  
+| _requests the review;_  
+|  _(B)_ _____the 30th day after the date the provider_  
+| _requests the review be expedited under Section 843.307, if_  
+| _applicable; or_  
+|  _(C)_ _____the date the health maintenance organization_  
+| _makes a final determination under Subsection (b-2)._  
+|  _(b-2)_ _____If a health maintenance organization suspends a_  
+| _provider's participation in the health maintenance organization_  
+| _network under Subsection (b-1), the health maintenance_  
+| _organization shall make a final determination to terminate or_  
+| _resume the provider's participation not later than three business_  
+| _days after the date the health maintenance organization receives_  
+| _the recommendation of the advisory review panel. The health_  
+| _maintenance organization shall immediately notify the provider of_  
+| _the determination._  
+|  _(b-3)_ _____Review under Subsection (b) must provide an_  
+| _opportunity for the physician or provider to present evidence to_  
+| _the advisory review panel before the panel makes a recommendation._  
+|  (e) The health maintenance organization [ ~~on request~~ ] shall  
+| provide to the affected physician or provider a copy of the  
+| recommendation of the advisory review panel and the health  
+| maintenance organization's determination.  
+|  _(g)_ _____A health maintenance organization may not terminate a_  
+| _provider's contract without cause._  
+|  SECTION 2. Section 843.308, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 843.308. NOTIFICATION OF PATIENTS OF DESELECTED _OR_  
+| _TERMINATED_ PHYSICIAN OR PROVIDER. (a) Except as provided by  
+| Subsection (b), if a physician or provider is deselected _or_  
+| _terminated_ for a reason other than the request of the physician or  
+| provider, a health maintenance organization may not notify patients  
+| of the deselection _or termination_ until _the later of_ the effective  
+| date of the deselection _or termination,_ or _, if a review is_  
+| _requested,_ the _date the_ advisory review panel makes a formal  
+| recommendation.  
+|  (b) If the contract of a physician or provider is deselected  
+| _or terminated_ for a reason related to imminent harm, a health  
+| maintenance organization may notify patients immediately.  
+|  SECTION 3. Section 843.309, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 843.309. CONTRACTS WITH PHYSICIANS OR PROVIDERS:  
+| NOTICE TO CERTAIN ENROLLEES OF TERMINATION OF PHYSICIAN OR PROVIDER  
+| PARTICIPATION IN PLAN. _Subject to Section 843.308, a_ [ ~~A~~ ] contract  
+| between a health maintenance organization and a physician or  
+| provider must provide that reasonable advance notice shall be given  
+| to an enrollee of the impending termination from the plan of a  
+| physician or provider who is currently treating the enrollee.  
+|  SECTION 4. Subchapter I, Chapter 843, Insurance Code, is  
+| amended by adding Section 843.3095 to read as follows:  
+|  _Sec._ ___843.3095._ _____WAIVER OF CERTAIN PROVISIONS PROHIBITED._  
+| _The provisions of this subchapter related to deselection or_  
+| _termination of a contract with a physician or provider may not be_  
+| _waived, voided, or nullified by contract._  
+|  SECTION 5. Section 1301.053, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1301.053. APPEAL RELATING TO DESIGNATION AS PREFERRED  
+| PROVIDER. (a) An insurer that does not designate a _physician or_  
+| _health care provider_ [ ~~practitioner~~ ] as a preferred provider shall  
+| provide a reasonable mechanism for reviewing that action. The  
+| review mechanism must incorporate, in an advisory role only, a  
+| review panel.  
+|  (b) A review panel must be composed of at least three  
+| individuals selected by the insurer from a list of participating  
+| _physicians or health care providers_ [ ~~practitioners~~ ] and must  
+| include one member who is a _physician or health care provider_  
+| [ ~~practitioner~~ ] in the same or similar specialty as the affected  
+| _physician or health care provider_ [ ~~practitioner~~ ], if available.  
+| The _physicians or health care providers_ [ ~~practitioners~~ ]  
+| contracting with the insurer in the applicable service area shall  
+| provide the list of _physicians or health care providers_  
+| [ ~~practitioners~~ ] to the insurer.  
+|  (c) On request, the insurer shall provide to the affected  
+| _physician or health care provider_ [ ~~practitioner~~ ]:  
+|  (1) the panel's recommendation, if any; and  
+|  (2) a written explanation of the insurer's  
+| determination, if that determination is contrary to the panel's  
+| recommendation.  
+|  SECTION 6. Section 1301.057, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1301.057. TERMINATION OF PARTICIPATION; EXPEDITED  
+| REVIEW PROCESS. (a) Before terminating a contract with a preferred  
+| provider, an insurer shall:  
+|  (1) _provide written notice of:_  
+|  _(A)_ _____the insurer's intent to terminate the_  
+| _preferred provider's contract;_  
+|  _(B)_ _____the preferred provider's right to request a_  
+| _review under this section; and_  
+|  _(C)_ _____the preferred provider's right to request the_  
+| _review be expedited under Subsection (d);_  
+|  _(2)_ provide written reasons for the termination; and  
+|  _(3)_ [ ~~(2) if the affected provider is a practitioner,~~]  
+| provide, on request, a reasonable review mechanism, except in a  
+| case involving:  
+|  (A) imminent harm to a patient's health;  
+|  (B) an action by a state medical or other  
+| physician licensing board or other government agency that  
+| effectively impairs the _physician's or health care provider's_  
+| [ ~~practitioner's~~ ] ability to practice medicine _, dentistry, or_  
+| _another profession_ ; or  
+|  (C) fraud or malfeasance _by a physician_.  
+|  _(a-1)_ _____In a case involving fraud or malfeasance by a health_  
+| _care provider, the written notice required by Subsection (a) must_  
+| _include notice of the insurer's right to suspend the health care_  
+| _provider's participation in the preferred provider benefit plan_  
+| _during the review process as provided by Subsection (a-3)._  
+|  _(a-2)_ _____An insurer may not terminate a health care provider's_  
+| _contract without cause._  
+|  _(a-3)_ _____If a health care provider requests a review under_  
+| _Subsection (a) in a case involving fraud or malfeasance by the_  
+| _health care provider, the insurer may suspend the health care_  
+| _provider's participation in the preferred provider benefit plan:_  
+|  _(1)_ _____beginning not earlier than the date notice is_  
+| _provided under Subsection (a); and_  
+|  _(2) ending on the earlier of:_  
+|  _(A)_ _____the 60th day after the date the health care_  
+| _provider requests the review;_  
+|  _(B)_ _____the 30th day after the date the health care_  
+| _provider requests the review be expedited, if applicable; or_  
+|  _(C)_ _____the date the insurer makes a final_  
+| _determination under Subsection (a-4)._  
+|  _(a-4)_ _____If an insurer suspends a health care provider's_  
+| _participation in the preferred provider benefit plan under_  
+| _Subsection (a-3), the insurer shall make a final determination to_  
+| _terminate or resume the health care provider's participation not_  
+| _later than three business days after the date the insurer receives_  
+| _the recommendation of the review panel described by Subsection (b)._ __  
+| _The insurer shall immediately notify the health care provider of_  
+| _the insurer's determination._  
+|  (b) The review mechanism described by Subsection _(a)(3)_  
+| [ ~~(a)(2)~~ ] must incorporate, in an advisory role only, a review panel  
+| selected in the manner described by Section 1301.053(b) and must be  
+| completed within a period not to exceed 60 days.  
+|  _(b-1)_ _____Review under Subsection (a)(3) must provide an_  
+| _opportunity for the affected physician or health care provider to_  
+| _present evidence to the review panel before the panel makes a_  
+| _recommendation._  
+|  (c) The insurer shall provide to the affected _physician or_  
+| _health care provider_ [ ~~practitioner~~ ]:  
+|  (1) the _review_ panel's recommendation, if any; and  
+|  (2) [ ~~on request,~~ ] a written explanation of the  
+| insurer's determination, if that determination is contrary to the  
+| panel's recommendation.  
+|  (d) On request, an insurer shall provide to a _physician or_  
+| _health care provider_ [ ~~practitioner~~ ] whose participation in a  
+| preferred provider benefit plan is being terminated:  
+|  (1) an expedited review conducted in accordance with a  
+| process that complies with rules established by the commissioner;  
+| and  
+|  (2) all information on which the insurer wholly or  
+| partly based the termination, including the economic profile of the  
+| preferred provider, the standards by which the _physician or health_  
+| _care_ provider is measured, and the statistics underlying the  
+| profile and standards.  
+|  _(e)_ _____The provisions of this section may not be waived,_  
+| _voided, or nullified by contract._  
+|  SECTION 7. Section 1301.160, Insurance Code, is amended by  
+| amending Subsections (a) and (c) and adding Subsection (d) to read  
+| as follows:  
+|  (a) If a _physician's or health care provider's_  
+| [ ~~practitioner's~~ ] participation in a preferred provider benefit  
+| plan is terminated for a reason other than at the _physician's or_  
+| _health care provider's_ [ ~~practitioner's~~ ] request, an insurer may not  
+| notify insureds of the termination until the later of:  
+|  (1) the effective date of the termination; or  
+|  (2) _if a review is requested,_ the time at which a  
+| review panel makes a formal recommendation regarding the  
+| termination.  
+|  (c) If a _physician's or health care provider's_  
+| [ ~~practitioner's~~ ] participation in a preferred provider benefit  
+| plan is terminated for reasons related to imminent harm, an insurer  
+| may notify insureds immediately.  
+|  _(d)_ _____The provisions of this section may not be waived,_  
+| _voided, or nullified by contract._  
+|  SECTION 8. The changes in law made by this Act apply only to  
+| a contract entered into, amended, or renewed on or after the  
+| effective date of this Act.  A contract entered into, amended, or  
+| renewed before the effective date of this Act is governed by the law  
+| as it existed immediately before the effective date of this Act, and  
+| that law is continued in effect for that purpose.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

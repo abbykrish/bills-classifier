@@ -1,0 +1,113 @@
+|  
+---|---  
+|  By: Clardy | H.B. No. 4328  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain property tax lenders, property tax loans, and  
+| tax liens.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 32.06, Tax Code, is amended by amending  
+| Subsections (a-2), (d), (f-1), and (h) to read as follows:  
+|  (a-2) Except as provided by Subsection (a-8), a tax lien may  
+| be transferred to the person who pays the taxes on behalf of the  
+| property owner under the authorization described by Subsection  
+| (a-1) for:  
+|  (1) taxes that are delinquent at the time of payment;  
+| or  
+|  (2) taxes that are due but not delinquent at the time  
+| of payment if the property:  
+|  (A) is not subject to a recorded mortgage lien;  
+| or  
+|  (B) is subject to a recorded mortgage lien  
+| provided the person who pays the taxes on behalf of the property  
+| owner under the authorization pays the taxes not earlier than  
+| January 31st of the year following the year in which the taxes were  
+| imposed.  
+|  (d) A transferee shall record [a tax lien transferred as  
+| provided by this section with] the certified statement attesting to  
+| the transfer of the tax lien as described by Subsection (b) in the  
+| deed records of each county in which the property encumbered by the  
+| lien is located. The transferee is not required to record in the  
+| deed records of a county the sworn document filed under Subsection  
+| (a-1)(1), but the transferee shall retain a copy of that sworn  
+| document in its records.  
+|  (f-1) If an obligation secured by a preexisting first lien  
+| on the property is delinquent for at least 90 consecutive days and  
+| the obligation has been referred to a collection specialist, the  
+| mortgage servicer or the holder of the first lien may send a notice  
+| of the delinquency to the transferee of a tax lien. The mortgage  
+| servicer or the first lienholder is entitled, within six months  
+| after the date on which that notice is sent, to obtain a release of  
+| the transferred tax lien by paying the transferee of the tax lien  
+| the amount of the unpaid principal, fees, and interest owed under  
+| the contract between the property owner and the transferee that are  
+| directly attributable to the property taxes paid by the transferee  
+| or the transferee's predecessor in interest on the specific real  
+| property subject to the preexisting first lien. The Finance  
+| Commission of Texas by rule shall prescribe the form and content of  
+| the notice under this subsection.  
+|  (h) A mortgage servicer who pays a property tax loan secured  
+| by a tax lien transferred under this section becomes subrogated to  
+| all rights in the lien. A tax lien transferee who pays the amount  
+| owed under an existing property tax loan of another property tax  
+| lender becomes subrogated to all rights in the tax lien if;  
+|  (1) the existing property tax lender executes an  
+| assignment of the tax lien; and  
+|  (2) the assignment is recorded in the deed records of  
+| each county in which the property encumbered by the lien is located.  
+|  SECTION 2. Section 351.0021(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) The contract between a property tax lender and a  
+| property owner may require the property owner to pay the following  
+| costs after closing:  
+|  (1) a reasonable fee for filing the release of a tax  
+| lien authorized under Section 32.06(b), Tax Code;  
+|  (2) a reasonable fee for a payoff statement authorized  
+| under Section 32.06(f-3), Tax Code;  
+|  (3) a reasonable fee for providing information  
+| regarding the current balance owed by the property owner authorized  
+| under Section 32.06(g), Tax Code;  
+|  (4) reasonable and necessary attorney's fees,  
+| recording fees, and court costs for actions that are legally  
+| required to respond to a suit filed under Chapter 33, Tax Code, [or]  
+| to perform a foreclosure, or in the collection of a delinquent loan,  
+| including fees required to be paid to an official and fees for an  
+| attorney ad litem;  
+|  (5) to the extent permitted by the United States  
+| Bankruptcy Code, attorney's fees and court costs for services  
+| performed after the property owner files a voluntary bankruptcy  
+| petition;  
+|  (6) a reasonable fee for title examination and  
+| preparation of an abstract of title by an attorney, a title company,  
+| or a property search company authorized to do business in this  
+| state;  
+|  (7) a processing fee for insufficient funds, as  
+| authorized under Section 3.506, Business & Commerce Code;  
+|  (8) a fee for collateral protection insurance, as  
+| authorized under Chapter 307;  
+|  (9) a prepayment penalty, unless the lien transferred  
+| is on residential property owned and used by the property owner for  
+| personal, family, or household purposes;  
+|  (10) recording expenses incurred in connection with a  
+| modification necessary to preserve a borrower's ability to avoid a  
+| foreclosure proceeding; and  
+|  (11) fees for copies of transaction documents  
+| requested by the property owner.  
+|  SECTION 3. Subchapter A, Chapter 351, Finance Code, is  
+| amended by adding Section 351.0024 to read as follows:  
+|  Sec. 351.0024. AFFILIATION WITH LEGAL SERVICES PROVIDER. A  
+| property tax lender may not, and an owner, employee, or agent of a  
+| property tax lender may not, have an economic or beneficial  
+| interest in, or receive any form of consideration other than the  
+| provision of legal services directly or indirectly from, an  
+| individual or entity that provides legal services to the property  
+| tax lender relating to loan document production or review, loan  
+| servicing, loan enforcement, loan foreclosure, or the collection of  
+| the loan.  
+|  SECTION 4. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution.  If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

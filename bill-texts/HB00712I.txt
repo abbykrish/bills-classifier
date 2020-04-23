@@ -1,0 +1,464 @@
+| 86R1285 GCB-D  
+---|---  
+|  By: Landgraf | H.B. No. 712  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the repeal of provisions requiring school districts to  
+| reduce their wealth per student to the equalized wealth level.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 12.013(b), Education Code, is amended to  
+| read as follows:  
+|  (b) A home-rule school district is subject to:  
+|  (1) a provision of this title establishing a criminal  
+| offense;  
+|  (2) a provision of this title relating to limitations  
+| on liability; and  
+|  (3) a prohibition, restriction, or requirement, as  
+| applicable, imposed by this title or a rule adopted under this  
+| title, relating to:  
+|  (A) the Public Education Information Management  
+| System (PEIMS) to the extent necessary to monitor compliance with  
+| this subchapter as determined by the commissioner;  
+|  (B) educator certification under Chapter 21 and  
+| educator rights under Sections 21.407, 21.408, and 22.001;  
+|  (C) criminal history records under Subchapter C,  
+| Chapter 22;  
+|  (D) student admissions under Section 25.001;  
+|  (E) school attendance under Sections 25.085,  
+| 25.086, and 25.087;  
+|  (F) inter-district or inter-county transfers of  
+| students under Subchapter B, Chapter 25;  
+|  (G) elementary class size limits under Section  
+| 25.112, in the case of any campus in the district that fails to  
+| satisfy any standard under Section 39.054(e);  
+|  (H) high school graduation under Section 28.025;  
+|  (I) special education programs under Subchapter  
+| A, Chapter 29;  
+|  (J) bilingual education under Subchapter B,  
+| Chapter 29;  
+|  (K) prekindergarten programs under Subchapter E,  
+| Chapter 29;  
+|  (L) safety provisions relating to the  
+| transportation of students under Sections 34.002, 34.003, 34.004,  
+| and 34.008;  
+|  (M) computation and distribution of state aid  
+| under Chapters 31, 42, and 43;  
+|  (N) extracurricular activities under Section  
+| 33.081;  
+|  (O) health and safety under Chapter 38;  
+|  (P) public school accountability under  
+| Subchapters B, C, D, and J, Chapter 39, and Chapter 39A;  
+|  (Q) [ ~~equalized wealth under Chapter 41;~~  
+|  [ ~~(R)~~ ] a bond or other obligation or tax rate  
+| under Chapters 42, 43, and 45; and  
+|  _(R)_ [ ~~(S)~~ ] purchasing under Chapter 44.  
+|  SECTION 2. Section 12.029(b), Education Code, is amended to  
+| read as follows:  
+|  (b) _If_ [ ~~Except as provided by Subchapter H, Chapter 41, if~~ ]  
+| two or more school districts having different status, one of which  
+| is home-rule school district status, consolidate into a single  
+| district, the petition under Section 13.003 initiating the  
+| consolidation must state the status for the consolidated district.  
+| The ballot shall be printed to permit voting for or against the  
+| proposition: "Consolidation of (names of school districts) into a  
+| single school district governed as (status of school district  
+| specified in the petition)."  
+|  SECTION 3. Section 13.054(i), Education Code, is amended to  
+| read as follows:  
+|  (i) The funding provided under Subsection (f), (g), or (h)  
+| is in addition to other funding the district receives through other  
+| provisions of this code, including _funding the district receives_  
+| _under Chapter_ [ ~~Chapters 41 and~~ ] 42.  
+|  SECTION 4. Section 21.410(h), Education Code, is amended to  
+| read as follows:  
+|  (h) A grant a school district receives under this section is  
+| in addition to any funding the district receives under Chapter 42.  
+| The commissioner shall distribute funds under this section with the  
+| Foundation School Program payment to which the district is entitled  
+| as soon as practicable after the end of the school year as  
+| determined by the commissioner. [ ~~A district to which Chapter 41~~  
+|  ~~applies is entitled to the grants paid under this section.~~ ] The  
+| commissioner shall determine the timing of the distribution of  
+| grants to a district that does not receive Foundation School  
+| Program payments.  
+|  SECTION 5. Section 21.411(h), Education Code, is amended to  
+| read as follows:  
+|  (h) A grant a school district receives under this section is  
+| in addition to any funding the district receives under Chapter 42.  
+| The commissioner shall distribute funds under this section with the  
+| Foundation School Program payment to which the district is entitled  
+| as soon as practicable after the end of the school year as  
+| determined by the commissioner. [ ~~A district to which Chapter 41~~  
+|  ~~applies is entitled to the grants paid under this section.~~ ] The  
+| commissioner shall determine the timing of the distribution of  
+| grants to a district that does not receive Foundation School  
+| Program payments.  
+|  SECTION 6. Section 21.412(h), Education Code, is amended to  
+| read as follows:  
+|  (h) A grant a school district receives under this section is  
+| in addition to any funding the district receives under Chapter 42.  
+| The commissioner shall distribute funds under this section with the  
+| Foundation School Program payment to which the district is entitled  
+| as soon as practicable after the end of the school year as  
+| determined by the commissioner. [ ~~A district to which Chapter 41~~  
+|  ~~applies is entitled to the grants paid under this section.~~ ] The  
+| commissioner shall determine the timing of the distribution of  
+| grants to a district that does not receive Foundation School  
+| Program payments.  
+|  SECTION 7. Section 21.413(h), Education Code, is amended to  
+| read as follows:  
+|  (h) A grant a school district receives under this section is  
+| in addition to any funding the district receives under Chapter 42.  
+| The commissioner shall distribute funds under this section with the  
+| Foundation School Program payment to which the district is entitled  
+| as soon as practicable after the end of the school year as  
+| determined by the commissioner. [ ~~A district to which Chapter 41~~  
+|  ~~applies is entitled to the grants paid under this section.~~ ] The  
+| commissioner shall determine the timing of the distribution of  
+| grants to a district that does not receive Foundation School  
+| Program payments.  
+|  SECTION 8. Section 25.081(f), Education Code, as added by  
+| Chapter 851 (H.B. 2442), Acts of the 85th Legislature, Regular  
+| Session, 2017, is amended to read as follows:  
+|  (f) The commissioner may proportionally reduce the amount  
+| of funding a district receives under Chapter [ ~~41,~~ ] 42[ ~~,~~ ] or 46
+and  
+| the average daily attendance calculation for the district if the  
+| district operates on a calendar that provides fewer minutes of  
+| operation than required under Subsection (a).  
+|  SECTION 9. Section 29.087(j), Education Code, is amended to  
+| read as follows:  
+|  (j) For purposes of funding under Chapters [ ~~41,~~ ] 42[ ~~,~~ ] and  
+| 46, a student attending a program authorized by this section may be  
+| counted in attendance only for the actual number of hours each  
+| school day the student attends the program, in accordance with  
+| Section 25.081.  
+|  SECTION 10. Section 29.203(b), Education Code, is amended  
+| to read as follows:  
+|  (b) A school district is entitled to the allotment provided  
+| by Section 42.157 for each eligible student using a public  
+| education grant. [ ~~If the district has a wealth per student greater~~  
+|  ~~than the guaranteed wealth level but less than the equalized wealth~~  
+|  ~~level, a school district is entitled under rules adopted by the~~  
+|  ~~commissioner to additional state aid in an amount equal to the~~  
+|  ~~difference between the cost to the district of providing services~~  
+|  ~~to a student using a public education grant and the sum of the state~~  
+|  ~~aid received because of the allotment under Section 42.157 and~~  
+|  ~~money from the available school fund attributable to the student.~~ ]  
+|  SECTION 11. Section 37.0061, Education Code, is amended to  
+| read as follows:  
+|  Sec. 37.0061. FUNDING FOR ALTERNATIVE EDUCATION SERVICES IN  
+| JUVENILE RESIDENTIAL FACILITIES. A school district that provides  
+| education services to pre-adjudicated and post-adjudicated  
+| students who are confined by court order in a juvenile residential  
+| facility operated by a juvenile board is entitled to count such  
+| students in the district's average daily attendance for purposes of  
+| receipt of state funds under the Foundation School Program. [ ~~If the~~  
+|  ~~district has a wealth per student greater than the guaranteed~~  
+|  ~~wealth level but less than the equalized wealth level, the district~~  
+|  ~~in which the student is enrolled on the date a court orders the~~  
+|  ~~student to be confined to a juvenile residential facility shall~~  
+|  ~~transfer to the district providing education services an amount~~  
+|  ~~equal to the difference between the average Foundation School~~  
+|  ~~Program costs per student of the district providing education~~  
+|  ~~services and the sum of the state aid and the money from the~~  
+|  ~~available school fund received by the district that is attributable~~  
+|  ~~to the student for the portion of the school year for which the~~  
+|  ~~district provides education services to the student.~~ ]  
+|  SECTION 12. Section 42.009(b), Education Code, is amended  
+| to read as follows:  
+|  (b) In making the determinations regarding funding levels  
+| required by Subsection (a), the commissioner shall:  
+|  (1) make adjustments as necessary to reflect changes  
+| in a school district's maintenance and operations tax rate; _and_  
+|  (2) [ ~~for a district required to take action under~~  
+|  ~~Chapter 41 to reduce its wealth per student to the equalized wealth~~  
+|  ~~level, base the determinations on the district's net funding levels~~  
+|  ~~after deducting any amounts required to be expended by the district~~  
+|  ~~to comply with Chapter 41; and~~  
+|  [ ~~(3)~~ ] determine a district's weighted average daily  
+| attendance in accordance with this chapter as it existed on January  
+| 1, 2011.  
+|  SECTION 13. Section 42.158(e), Education Code, is amended  
+| to read as follows:  
+|  (e) [ ~~A school district that is required to take action under~~  
+|  ~~Chapter 41 to reduce its wealth per student to the equalized wealth~~  
+|  ~~level is entitled to a credit, in the amount of the allotments to~~  
+|  ~~which the district is entitled under this section, against the~~  
+|  ~~total amount required under Section 41.093 for the district to~~  
+|  ~~purchase attendance credits.~~ ] A school district that is otherwise  
+| ineligible for state aid under this chapter is entitled to receive  
+| allotments under this section.  
+|  SECTION 14. Section 42.160(b), Education Code, is amended  
+| to read as follows:  
+|  (b) [ ~~A school district that is required to take action under~~  
+|  ~~Chapter 41 to reduce its wealth per student to the equalized wealth~~  
+|  ~~level is entitled to a credit, in the amount of the allotments to~~  
+|  ~~which the district is entitled under this section, against the~~  
+|  ~~total amount required under Section 41.093 for the district to~~  
+|  ~~purchase attendance credits.~~ ] A school district that is otherwise  
+| ineligible for state aid under this chapter is entitled to receive  
+| allotments under this section.  
+|  SECTION 15. Section 42.2511(b), Education Code, is amended  
+| to read as follows:  
+|  (b) Notwithstanding any other provision of this chapter [ ~~or~~  
+|  ~~Chapter 41~~ ], a school district subject to this section is entitled  
+| to receive for each student in average daily attendance at the  
+| campus described by Subsection (a) an amount equivalent to the  
+| difference, if the difference results in increased funding,  
+| between:  
+|  (1) the amount described by Section 12.106; and  
+|  (2) the amount to which the district would be entitled  
+| under this chapter.  
+|  SECTION 16. Section 42.2518(a), Education Code, is amended  
+| to read as follows:  
+|  (a) Beginning with the 2017-2018 school year, a school  
+| district is entitled to additional state aid to the extent that  
+| state and local revenue under this chapter [ ~~and Chapter 41~~ ] is less  
+| than the state and local revenue that would have been available to  
+| the district under [ ~~Chapter 41 and~~ ] this chapter as _it_ [ ~~those~~  
+|  ~~chapters~~ ] existed on September 1, 2015, excluding any state aid  
+| that would have been provided under former Section 42.2516, if the  
+| increase in the residence homestead exemption under Section 1-b(c),  
+| Article VIII, Texas Constitution, and the additional limitation on  
+| tax increases under Section 1-b(d) of that article as proposed by  
+| S.J.R. 1, 84th Legislature, Regular Session, 2015, had not  
+| occurred.  
+|  SECTION 17. Section 42.2521(a), Education Code, is amended  
+| to read as follows:  
+|  (a) For purposes of _Chapter_ [ ~~Chapters 41 and~~ ] 46 and this  
+| chapter, and to the extent money specifically authorized to be used  
+| under this section is available, the commissioner shall adjust the  
+| taxable value of property in a school district that, due to factors  
+| beyond the control of the board of trustees, experiences a rapid  
+| decline in the tax base used in calculating taxable values in excess  
+| of four percent of the tax base used in the preceding year.  
+|  SECTION 18. Section 42.2523(a), Education Code, is amended  
+| to read as follows:  
+|  (a) For purposes of _Chapter_ [ ~~Chapters 41 and~~ ] 46 and this  
+| chapter, the commissioner shall adjust the taxable value of  
+| property of a school district all or part of which is located in an  
+| area declared a disaster area by the governor under Chapter 418,  
+| Government Code, as necessary to ensure that the district receives  
+| funding based as soon as possible on property values as affected by  
+| the disaster.  
+|  SECTION 19. Sections 42.2524(c) and (d), Education Code,  
+| are amended to read as follows:  
+|  (c) The commissioner may provide reimbursement under this  
+| section only if funds are available for that purpose [ ~~as follows:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~reimbursement for a school district not required~~  
+|  ~~to take action under Chapter 41 may be provided~~ ] from:  
+|  _(1)_ [ ~~(A)~~ ] amounts appropriated for that purpose,  
+| including amounts appropriated for those districts for that purpose  
+| to the disaster contingency fund established under Section 418.073,  
+| Government Code; or  
+|  _(2)_ [ ~~(B)~~ ] Foundation School Program funds available  
+| for that purpose, based on a determination by the commissioner that  
+| the amount appropriated for the Foundation School Program,  
+| including the facilities component as provided by Chapter 46,  
+| exceeds the amount to which districts are entitled under this  
+| chapter and Chapter 46[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~reimbursement for a school district required to~~  
+|  ~~take action under Chapter 41 may be provided from funds described by~~  
+|  ~~Subdivision (1)(B) if funds remain available after fully~~  
+|  ~~reimbursing each school district described by Subdivision (1) for~~  
+|  ~~its disaster remediation costs~~ ].  
+|  (d) If the amount of money available for purposes of  
+| reimbursing school districts [ ~~not required to take action under~~  
+|  ~~Chapter 41~~ ] is not sufficient to fully reimburse each district's  
+| disaster remediation costs, the commissioner shall reduce the  
+| amount of assistance provided to each of those districts  
+| proportionately.  [ ~~If the amount of money available for purposes of~~  
+|  ~~reimbursing school districts required to take action under Chapter~~  
+|  ~~41 is not sufficient to fully reimburse each district's disaster~~  
+|  ~~remediation costs, the commissioner shall reduce the amount of~~  
+|  ~~assistance provided to each of those districts proportionately.~~ ]  
+|  SECTION 20. Section 42.253(h), Education Code, is amended  
+| to read as follows:  
+|  (h) If the amount appropriated for the Foundation School  
+| Program for the second year of a state fiscal biennium is less than  
+| the amount to which school districts and open-enrollment charter  
+| schools are entitled for that year, the commissioner shall certify  
+| the amount of the difference to the Legislative Budget Board not  
+| later than January 1 of the second year of the state fiscal  
+| biennium. The Legislative Budget Board shall propose to the  
+| legislature that the certified amount be transferred to the  
+| foundation school fund from the economic stabilization fund and  
+| appropriated for the purpose of increases in allocations under this  
+| subsection. If the legislature fails during the regular session to  
+| enact the proposed transfer and appropriation and there are not  
+| funds available under Subsection (j), the commissioner shall adjust  
+| the total amounts due to each school district and open-enrollment  
+| charter school under this chapter [ ~~and the total amounts necessary~~  
+|  ~~for each school district to comply with the requirements of Chapter~~  
+|  ~~41~~ ] by an amount determined by applying to each district and school  
+| the same percentage adjustment to the total amount of state and  
+| local revenue due to the district or school under this chapter [ ~~and~~  
+|  ~~Chapter 41~~ ] so that the total amount of the adjustment to all  
+| districts and schools results in an amount equal to the total  
+| adjustment necessary. The following fiscal year _,_ [ ~~:~~  
+|  [ ~~(1)~~ ] a district's or school's entitlement under this  
+| section is increased by an amount equal to the adjustment made  
+| under this subsection[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the amount necessary for a district to comply~~  
+|  ~~with the requirements of Chapter 41 is reduced by an amount~~  
+|  ~~necessary to ensure a district's full recovery of the adjustment~~  
+|  ~~made under this subsection~~ ].  
+|  SECTION 21. Sections 42.2531(a), (b), and (c), Education  
+| Code, are amended to read as follows:  
+|  (a) The commissioner may make adjustments to amounts due to  
+| a school district under this chapter or Chapter 46[ ~~, or to amounts~~  
+|  ~~necessary for a district to comply with the requirements of Chapter~~  
+|  ~~41,~~ ] as provided by this section.  
+|  (b) A school district that has a major taxpayer, as  
+| determined by the commissioner, that because of a protest of the  
+| valuation of the taxpayer's property fails to pay all or a portion  
+| of the ad valorem taxes due to the district may apply to the  
+| commissioner to have the district's taxable value of property or ad  
+| valorem tax collections adjusted for purposes of this chapter or  
+| Chapter [ ~~41 or~~ ] 46. The commissioner may make the adjustment only  
+| to the extent the commissioner determines that making the  
+| adjustment will not:  
+|  (1) in the fiscal year in which the adjustment is made,  
+| cause the amount to which school districts are entitled under this  
+| chapter to exceed the amount appropriated for purposes of the  
+| Foundation School Program for that year; and  
+|  (2) if the adjustment is made in the first year of a  
+| state fiscal biennium, cause the amount to which school districts  
+| are entitled under this chapter for the second year of the biennium  
+| to exceed the amount appropriated for purposes of the Foundation  
+| School Program for that year.  
+|  (c) The commissioner shall recover the benefit of any  
+| adjustment made under this section by making offsetting adjustments  
+| in the school district's taxable value of property or ad valorem tax  
+| collections for purposes of this chapter or Chapter [ ~~41 or~~ ] 46 on a  
+| final determination of the taxable value of property that was the  
+| basis of the original adjustment, or in the second school year  
+| following the year in which the adjustment is made, whichever is  
+| earlier.  
+|  SECTION 22. Section 42.258(a-1), Education Code, is amended  
+| to read as follows:  
+|  (a-1) Notwithstanding Subsection (a), the agency may  
+| recover an overallocation of state funds over a period not to exceed  
+| the subsequent five school years if the commissioner determines  
+| that the overallocation was the result of exceptional circumstances  
+| reasonably caused by statutory changes to _former_ Chapter 41 _,_  
+| _Chapter_ [ ~~or~~ ] 46 _,_ or this chapter and related reporting  
+| requirements.  
+|  SECTION 23. Section 42.260(b), Education Code, is amended  
+| to read as follows:  
+|  (b) The amount of additional funds to which each school  
+| district or participating charter school is entitled due to the  
+| increases in formula funding made by _Chapter 1187 (_ H.B. No. 3343 _)_ ,  
+| Acts of the 77th Legislature, Regular Session, 2001, and any  
+| subsequent legislation amending the provisions amended by that Act  
+| that increase formula funding under [ ~~Chapter 41 and~~ ] this chapter  
+| to school districts and charter schools is available for purposes  
+| of Subsection (c).  
+|  SECTION 24. Section 45.251(2), Education Code, is amended  
+| to read as follows:  
+|  (2) "Foundation School Program" means the program  
+| established under Chapters [ ~~41,~~ ] 42[ ~~,~~ ] and 46, or any successor  
+| program of state appropriated funding for school districts in this  
+| state.  
+|  SECTION 25. Section 45.261(a), Education Code, is amended  
+| to read as follows:  
+|  (a) If the commissioner orders payment from the money  
+| appropriated to the Foundation School Program on behalf of a school  
+| district [ ~~that is not required to reduce its wealth per student~~  
+|  ~~under Chapter 41~~ ], the commissioner shall direct the comptroller to  
+| withhold the amount paid from the first state money payable to the  
+| district.  If the commissioner orders payment from the money  
+| appropriated to the Foundation School Program on behalf of a school  
+| district that is _not entitled to state assistance under Chapter 42_  
+| [ ~~required to reduce its wealth per student under Chapter 41~~ ], the  
+| commissioner shall _order_ [ ~~increase amounts due from~~ ] the district  
+| _to remit to the commissioner an_ [ ~~under that chapter in a total~~ ]  
+| amount equal to the amount of payments made on behalf of the  
+| district under this subchapter. Amounts withheld or received  
+| under this subsection shall be used for the Foundation School  
+| Program.  
+|  SECTION 26. Section 403.302(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The comptroller shall conduct a study using comparable  
+| sales and generally accepted auditing and sampling techniques to  
+| determine the total taxable value of all property in each school  
+| district. The study shall determine the taxable value of all  
+| property and of each category of property in the district and the  
+| productivity value of all land that qualifies for appraisal on the  
+| basis of its productive capacity and for which the owner has applied  
+| for and received a productivity appraisal. [ ~~The comptroller shall~~  
+|  ~~make appropriate adjustments in the study to account for actions~~  
+|  ~~taken under Chapter 41, Education Code.~~ ]  
+|  SECTION 27. Section 1579.251(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) The state shall assist employees of participating  
+| school districts and charter schools in the purchase of group  
+| health coverage under this chapter by providing for each covered  
+| employee the amount of $900 each state fiscal year or a greater  
+| amount as provided by the General Appropriations Act. The state  
+| contribution shall be distributed through the school finance  
+| formulas under _Chapter_ [ ~~Chapters 41 and~~ ] 42, Education Code, and  
+| used by school districts and charter schools as provided by Section  
+| 42.260, Education Code.  
+|  SECTION 28. Section 21.01, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 21.01. REAL PROPERTY. Real property is taxable by a  
+| taxing unit if located in the unit on January 1[ ~~, except as provided~~  
+|  ~~by Chapter 41, Education Code~~ ].  
+|  SECTION 29. Section 21.02(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) Except as provided by _Subsection_ [ ~~Subsections (b) and~~ ]  
+| (e) and by Sections 21.021, 21.04, and 21.05, tangible personal  
+| property is taxable by a taxing unit if:  
+|  (1) it is located in the unit on January 1 for more  
+| than a temporary period;  
+|  (2) it normally is located in the unit, even though it  
+| is outside the unit on January 1, if it is outside the unit only  
+| temporarily;  
+|  (3) it normally is returned to the unit between uses  
+| elsewhere and is not located in any one place for more than a  
+| temporary period; or  
+|  (4) the owner resides (for property not used for  
+| business purposes) or maintains the owner's principal place of  
+| business in this state (for property used for business purposes) in  
+| the unit and the property is taxable in this state but does not have  
+| a taxable situs pursuant to Subdivisions (1) through (3) of this  
+| subsection.  
+|  SECTION 30. Section 26.08(i), Tax Code, is amended to read  
+| as follows:  
+|  (i) For purposes of this section, the effective maintenance  
+| and operations tax rate of a school district is the tax rate that,  
+| applied to the current total value for the district, would impose  
+| taxes in an amount that, when added to state funds that would be  
+| distributed to the district under Chapter 42, Education Code, for  
+| the school year beginning in the current tax year using that tax  
+| rate, would provide the same amount of state funds distributed  
+| under Chapter 42, Education Code, and maintenance and operations  
+| taxes of the district per student in weighted average daily  
+| attendance for that school year that would have been available to  
+| the district in the preceding year if the funding elements for  
+| _Chapter_ [ ~~Chapters 41 and~~ ] 42, Education Code, for the current year  
+| had been in effect for the preceding year.  
+|  SECTION 31. Section 312.210(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) A tax abatement agreement with the owner of real  
+| property or tangible personal property that is located in the  
+| reinvestment zone described by Subsection (a) and in a school  
+| district [ ~~that has a wealth per student that does not exceed the~~  
+|  ~~equalized wealth level~~ ] must exempt from taxation:  
+|  (1) the portion of the value of the property in the  
+| amount specified in the joint agreement among the municipality,  
+| county, and junior college district; and  
+|  (2) an amount equal to 10 percent of the maximum  
+| portion of the value of the property that may under Section  
+| 312.204(a) be otherwise exempted from taxation.  
+|  SECTION 32. The following laws are repealed:  
+|  (1) Chapter 41, Education Code;  
+|  (2) Sections 7.055(b)(34), 8.056, 29.203(g), and  
+| 42.2524(f), Education Code; and  
+|  (3) Sections 21.02(b) and (c), 25.25(k), and  
+| 312.210(c), Tax Code.  
+|  SECTION 33. This Act takes effect September 1, 2019.
+

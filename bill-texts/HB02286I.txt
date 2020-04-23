@@ -1,0 +1,126 @@
+| 86R7990 LHC-D  
+---|---  
+|  By: Oliverson | H.B. No. 2286  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the criminal consequences of engaging in certain  
+| conduct with respect to certain firearm accessories and prohibiting  
+| the enforcement of certain federal laws related to certain firearm  
+| accessories.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 1, Government Code, is amended by adding  
+| Chapter 2 to read as follows:  
+|  _CHAPTER 2. ENFORCEMENT OF CERTAIN FEDERAL LAWS PROHIBITED_  
+|  _Sec. 2.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Firearm" has the meaning assigned by Section_  
+| _46.01, Penal Code._  
+|  _(2)_ _____"Firearm suppressor" means any device designed,_  
+| _made, or adapted to muffle the report of a firearm._  
+|  _Sec._ ___2.002._ _____STATE AND LOCAL GOVERNMENT POLICY REGARDING_  
+| _ENFORCEMENT OF FEDERAL FIREARM LAWS._ ___(a)_ ___This section applies to:_  
+|  _(1)_ _____the State of Texas, including an agency,_  
+| _department, commission, bureau, board, office, council, court, or_  
+| _other entity that is in any branch of state government and that is_  
+| _created by the constitution or a statute of this state, including a_  
+| _university system or a system of higher education;_  
+|  _(2)_ _____the governing body of a municipality, county, or_  
+| _special district or authority;_  
+|  _(3)_ _____an officer, employee, or other body that is part of_  
+| _a municipality, county, or special district or authority, including_  
+| _a sheriff, municipal police department, municipal attorney, or_  
+| _county attorney; and_  
+|  _(4) a district attorney or criminal district attorney._  
+|  _(b)_ _____An entity described by Subsection (a) may not adopt a_  
+| _rule, order, ordinance, or policy under which the entity enforces,_  
+| _or by consistent action allows the enforcement of, a federal_  
+| _statute, order, rule, or regulation that purports to regulate a_  
+| _firearm suppressor if the statute, order, rule, or regulation_  
+| _imposes a prohibition, restriction, or other regulation that does_  
+| _not exist under the laws of this state._  
+|  _(c)_ _____No entity described by Subsection (a) and no person_  
+| _employed by or otherwise under the direction or control of the_  
+| _entity may enforce or attempt to enforce any federal statute,_  
+| _order, rule, or regulation described by Subsection (b)._  
+|  _(d)_ _____An entity described by Subsection (a) may not receive_  
+| _state grant funds if the entity adopts a rule, order, ordinance, or_  
+| _policy under which the entity enforces a federal law described by_  
+| _Subsection (b) or, by consistent action, allows the enforcement of_  
+| _a federal law described by Subsection (b)._ ___State grant funds for_  
+| _the entity shall be denied for the fiscal year following the year in_  
+| _which a final judicial determination in an action brought under_  
+| _this section is made that the entity has violated Subsection (b)._  
+|  _(e)_ _____Any citizen residing in the jurisdiction of an entity_  
+| _described by Subsection (a) may file a complaint with the attorney_  
+| _general if the citizen offers evidence to support an allegation_  
+| _that the entity has adopted a rule, order, ordinance, or policy_  
+| _under which the entity enforces a federal law described by_  
+| _Subsection (b) or that the entity, by consistent action, allows the_  
+| _enforcement of a federal law described by Subsection (b)._ ___The_  
+| _citizen must include with the complaint any evidence the citizen_  
+| _has in support of the complaint._  
+|  _(f)_ _____If the attorney general determines that a complaint_  
+| _filed under Subsection (e) against an entity described by_  
+| _Subsection (a) is valid, to compel the entity's compliance with_  
+| _this section the attorney general may file a petition for a writ of_  
+| _mandamus or apply for other appropriate equitable relief in a_  
+| _district court in Travis County or in a county in which the_  
+| _principal office of the entity is located._ ___The attorney general may_  
+| _recover reasonable expenses incurred in obtaining relief under this_  
+| _subsection, including court costs, reasonable attorney's fees,_  
+| _investigative costs, witness fees, and deposition costs._  
+|  _(g)_ _____An appeal of a suit brought under Subsection (f) is_  
+| _governed by the procedures for accelerated appeals in civil cases_  
+| _under the Texas Rules of Appellate Procedure._ ___The appellate court_  
+| _shall render its final order or judgment with the least possible_  
+| _delay._  
+|  SECTION 2. Section 46.05(a), Penal Code, as amended by  
+| Chapters 155 (H.B. 1819) and 814 (H.B. 913), Acts of the 85th  
+| Legislature, Regular Session, 2017, is reenacted and amended to  
+| read as follows:  
+|  (a) A person commits an offense if the person intentionally  
+| or knowingly possesses, manufactures, transports, repairs, or  
+| sells:  
+|  (1) any of the following items, unless the item is  
+| registered in the National Firearms Registration and Transfer  
+| Record maintained by the Bureau of Alcohol, Tobacco, Firearms and  
+| Explosives or otherwise not subject to that registration  
+| requirement or unless the item is classified as a curio or relic by  
+| the United States Department of Justice:  
+|  (A) an explosive weapon;  
+|  (B) a machine gun; or  
+|  (C) a short-barrel firearm;  
+|  (2) knuckles;  
+|  (3) armor-piercing ammunition;  
+|  (4) a chemical dispensing device;  
+|  (5) a zip gun;  
+|  (6) a tire deflation device; or  
+|  (7) [ ~~a firearm silencer, unless the firearm silencer~~  
+|  ~~is classified as a curio or relic by the United States Department of~~  
+|  ~~Justice or the actor otherwise possesses, manufactures,~~  
+|  ~~transports, repairs, or sells the firearm silencer in compliance~~  
+|  ~~with federal law~~  
+|  [ ~~(7)~~ ] an improvised explosive device.  
+|  SECTION 3. Section 46.05(e), Penal Code, as amended by  
+| Chapters 155 (H.B. 1819) and 814 (H.B. 913), Acts of the 85th  
+| Legislature, Regular Session, 2017, is reenacted to read as  
+| follows:  
+|  (e) An offense under Subsection (a)(1), (3), (4), (5), or  
+| (7) is a felony of the third degree. An offense under Subsection  
+| (a)(6) is a state jail felony. An offense under Subsection (a)(2)  
+| is a Class A misdemeanor.  
+|  SECTION 4. Section 46.01(4), Penal Code, is repealed.  
+|  SECTION 5. To the extent of any conflict, this Act controls  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 6. An offense under Section 46.05(a)(7), Penal  
+| Code, as added by Chapter 155 (H.B. 1819), Acts of the 85th  
+| Legislature, Regular Session, 2017, may not be prosecuted after the  
+| effective date of this Act. If on the effective date of this Act a  
+| criminal action is pending for an offense described by that  
+| subdivision, the action is dismissed on that date. However, a final  
+| conviction for an offense described by that subdivision that exists  
+| on the effective date of this Act is unaffected by this Act.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

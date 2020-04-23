@@ -1,0 +1,43 @@
+| 86R10258 TYPED  
+---|---  
+|  By: Phelan | H.B. No. 1519  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to fees regarding a residential tenant's failure to timely  
+| pay rent.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 92.019, Property Code, is amended by  
+| amending Subsections (a), (b), and (c) and adding Subsections (a-1)  
+| and (a-2) to read as follows:  
+|  (a) A landlord may not _collect from_ [ ~~charge~~ ] a tenant a late  
+| fee for failing to pay _any portion of the tenant's_ rent unless:  
+|  (1) notice of the fee is included in a written lease;  
+|  (2) the fee is [ ~~a~~ ] reasonable _considering that_  
+| [ ~~estimate of uncertain~~ ] damages _resulting from the late payment of_  
+| _rent_ to the landlord [ ~~that~~ ] are incapable of precise calculation  
+| and result from late payment of rent; and  
+|  (3) _any portion of_ the rent has remained unpaid one  
+| full day after the date the rent was originally due.  
+|  _(a-1)_ _____To determine the damages described by Subsection_  
+| _(a)(2), a landlord may consider any direct or indirect expenses_  
+| _related to the tenant's late payment incurred by the landlord,_  
+| _including direct or indirect costs, expenses, or overhead_  
+| _associated with the landlord's process established to collect late_  
+| _payments._  
+|  _(a-2)_ _____A late fee collected from a tenant of an apartment_  
+| _house complies with Subsection (a)(2) if the late fee does not_  
+| _exceed the greater of $150 or ten percent of the amount of rent for_  
+| _the rental pay period under the lease. For purposes of this_  
+| _subsection, "apartment house" means a building that contains five_  
+| _or more dwelling units._  
+|  (b) A late fee under this section may include an initial fee  
+| and a daily fee for each day _any portion of_ the rent continues to  
+| remain unpaid _, and the combined fees are considered a single late_  
+| _fee for purposes of this section_.  
+|  (c) A landlord who violates this section is liable to the  
+| tenant for an amount equal to the sum of $100, three times the  
+| amount of the late fee _collected_ [ ~~charged~~ ] in violation of this  
+| section, and the tenant's reasonable attorney's fees.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

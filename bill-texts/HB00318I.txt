@@ -1,0 +1,61 @@
+| 86R348 SRS-D  
+---|---  
+|  By: Howard | H.B. No. 318  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Internet broadcast of certain open meetings.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 551, Government Code, is  
+| amended by adding Section 551.024 to read as follows:  
+|  _Sec._ ___551.024._ _____INTERNET BROADCAST AND ARCHIVE OF OPEN_  
+| _MEETINGS. (a) This section applies only to a governmental body_  
+| _that is an agency within the executive or legislative branch of_  
+| _state government to which the total appropriation made in the_  
+| _General Appropriations Act from general revenue for any fiscal year_  
+| _beginning on or after September 1, 2019, including any amount of_  
+| _general revenue transferred to the governmental body under that Act_  
+| _for that fiscal year, is greater than $40 million and for which the_  
+| _bill pattern for the General Appropriations Act for the same fiscal_  
+| _year designates 250 or more full-time employees._  
+|  _(b)_ _____A governmental body that becomes subject to this section_  
+| _under Subsection (a) for a fiscal year shall comply with this_  
+| _section in each following fiscal year._  
+|  _(c)_ _____A governmental body subject to this section shall_  
+| _broadcast over the Internet live video and audio of each open_  
+| _meeting of the governmental body. The governmental body shall_  
+| _provide access to the broadcast on the governmental body's Internet_  
+| _website._  
+|  _(d)_ _____Not later than the seventh day after the date an open_  
+| _meeting is broadcast under this section, the governmental body_  
+| _shall make available through the governmental body's Internet_  
+| _website archived video and audio of the open meeting._ ___The_  
+| _governmental body shall maintain the archived video and audio of_  
+| _the open meeting on the governmental body's Internet website until_  
+| _the second anniversary of the date the archived video and audio was_  
+| _first made available on the website._  
+|  _(e)_ _____The governmental body shall provide on the governmental_  
+| _body's Internet website the same notice of the open meeting that the_  
+| _governmental body is required to post under Subchapter C. The_  
+| _notice must be posted on the governmental body's Internet website_  
+| _within the time required for posting notice under Subchapter C._  
+|  _(f)_ _____The governmental body may use for an Internet broadcast_  
+| _of an open meeting of the governmental body a room made available to_  
+| _the governmental body on request in any state building, as defined_  
+| _by Section 2165.301._  
+|  _(g)_ _____The governmental body is exempt from the requirements of_  
+| _this section to the extent a catastrophe, as defined by Section_  
+| _551.0411, or a technical breakdown prevents the governmental body_  
+| _from complying with this section. Following the catastrophe or_  
+| _technical breakdown, the governmental body shall make all_  
+| _reasonable efforts to make the required video and audio of the open_  
+| _meeting available in a timely manner._  
+|  _(h)_ _____The governmental body shall consider contracting_  
+| _through competitive bidding with a private individual or entity to_  
+| _broadcast and archive an open meeting subject to this section to_  
+| _minimize the cost of complying with this section._  
+|  SECTION 2. Section 551.024, Government Code, as added by  
+| this Act, applies only to an open meeting held on or after September  
+| 1, 2021.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

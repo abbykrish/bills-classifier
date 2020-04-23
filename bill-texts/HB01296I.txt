@@ -1,0 +1,27 @@
+| 86R2379 AAF-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 1296  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of a disaster case management system by the  
+| General Land Office.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter H, Chapter 418, Government Code, is  
+| amended by adding Section 418.193 to read as follows:  
+|  _Sec._ ___418.193._ _____DISASTER CASE MANAGEMENT SYSTEM. (a)_ ___The_  
+| _General Land Office shall develop and maintain an electronic_  
+| _disaster case management system._ ___The system must:_  
+|  _(1)_ _____collect all information needed to obtain disaster_  
+| _assistance from an individual who needs housing-related assistance_  
+| _as a result of a disaster; and_  
+|  _(2)_ _____allow the individual to designate the entities to_  
+| _which an application for assistance and other information may be_  
+| _sent, including the General Land Office, organized volunteer_  
+| _groups, and local nonprofit organizations._  
+|  _(b)_ _____The General Land Office may coordinate with the Federal_  
+| _Emergency Management Agency for use of the system under Subsection_  
+| _(a) to share information between state and federal agencies_  
+| _relating to disaster assistance._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

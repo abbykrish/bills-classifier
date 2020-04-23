@@ -1,0 +1,61 @@
+| 86R6054 JES-F  
+---|---  
+|  By: Lucio III | H.B. No. 2694  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of certain insurers to make investments  
+| in bond exchange-traded funds.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 424, Insurance Code, is  
+| amended by adding Section 424.075 to read as follows:  
+|  _Sec._ ___424.075._ _____AUTHORIZED INVESTMENTS: BOND EXCHANGE-TRADED_  
+| _FUNDS._ ___(a)_ ___An insurer may invest the insurer's funds in excess of_  
+| _minimum capital and surplus in shares of a bond exchange-traded_  
+| _fund registered under the Investment Company Act of 1940 (15 U.S.C._  
+| _Section 80a-1 et seq.), as amended, if:_  
+|  _(1)_ _____the exchange-traded fund is solvent and reported_  
+| _at least $1 million of net assets in the exchange-traded fund's_  
+| _latest annual or more recent certified audited financial statement;_  
+|  _(2)_ _____the securities valuation office has designated the_  
+| _exchange-traded fund as meeting the criteria to be placed on the_  
+| _list promulgated by the securities valuation office of_  
+| _exchange-traded funds eligible for reporting as a statutory_  
+| _long-term bond obligation on Internal Revenue Service Form 1040,_  
+| _Schedule D; and_  
+|  _(3)_ _____the amount of the insurer's investment in the_  
+| _exchange-traded fund does not exceed 15 percent of the insurer's_  
+| _capital and surplus._  
+|  _(b)_ _____An insurer may deposit with the department shares of a_  
+| _bond exchange-traded fund described by Subsection (a) as a_  
+| _statutory deposit if state law requires a statutory deposit from_  
+| _the insurer._  
+|  SECTION 2. Subchapter C, Chapter 425, Insurance Code, is  
+| amended by adding Section 425.1231 to read as follows:  
+|  _Sec._ ___425.1231._ _____AUTHORIZED INVESTMENTS: BOND_  
+| _EXCHANGE-TRADED FUNDS._ ___(a)_ ___An insurance company may invest the_  
+| _insurer's funds in excess of minimum capital and surplus in shares_  
+| _of a bond exchange-traded fund registered under the Investment_  
+| _Company Act of 1940 (15 U.S.C. Section 80a-1 et seq.), as amended,_  
+| _if:_  
+|  _(1)_ _____the exchange-traded fund is solvent and reported_  
+| _at least $1 million of net assets in the exchange-traded fund's_  
+| _latest annual or more recent certified audited financial statement;_  
+|  _(2)_ _____the securities valuation office has designated the_  
+| _exchange-traded fund as meeting the criteria to be placed on the_  
+| _list promulgated by the securities valuation office of_  
+| _exchange-traded funds eligible for reporting as a statutory_  
+| _long-term bond obligation on Internal Revenue Service Form 1040,_  
+| _Schedule D; and_  
+|  _(3)_ _____the amount of the insurance company's investment_  
+| _in the exchange-traded fund does not exceed the investment amount_  
+| _limit in Section 425.157(b)._  
+|  _(b)_ _____An insurance company may deposit with the department_  
+| _shares of a bond exchange-traded fund described by Subsection (a)_  
+| _as a statutory deposit if state law requires a statutory deposit_  
+| _from the insurance company._  
+|  _(c)_ _____A bond exchange-traded fund described by Subsection (a)_  
+| _shall be considered a business entity for purposes of Section_  
+| _425.110._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

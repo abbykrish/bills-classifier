@@ -1,0 +1,102 @@
+| 86R4846 MAW-D  
+---|---  
+|  By: Anchia | H.B. No. 930  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to use of force or deadly force in defense of a person.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 9.31(a), Penal Code, is amended to read  
+| as follows:  
+|  (a) Except as provided in Subsection (b), a person is  
+| justified in using force against another when and to the degree the  
+| actor reasonably believes the force is immediately necessary to  
+| protect the actor against the other's use or attempted use of  
+| unlawful force.  [ ~~The actor's belief that the force was immediately~~  
+|  ~~necessary as described by this subsection is presumed to be~~  
+|  ~~reasonable if the actor:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~knew or had reason to believe that the person~~  
+|  ~~against whom the force was used:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~unlawfully and with force entered, or was~~  
+|  ~~attempting to enter unlawfully and with force, the actor's occupied~~  
+|  ~~habitation, vehicle, or place of business or employment;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~unlawfully and with force removed, or was~~  
+|  ~~attempting to remove unlawfully and with force, the actor from the~~  
+|  ~~actor's habitation, vehicle, or place of business or employment; or~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~was committing or attempting to commit~~  
+|  ~~aggravated kidnapping, murder, sexual assault, aggravated sexual~~  
+|  ~~assault, robbery, or aggravated robbery;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~did not provoke the person against whom the force~~  
+|  ~~was used; and~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~was not otherwise engaged in criminal activity,~~  
+|  ~~other than a Class C misdemeanor that is a violation of a law or~~  
+|  ~~ordinance regulating traffic at the time the force was used.~~ ]  
+|  SECTION 2. Sections 9.32(a) and (b), Penal Code, are  
+| amended to read as follows:  
+|  (a) A person is justified in using deadly force against  
+| another:  
+|  (1) if the actor would be justified in using force  
+| against the other under Section 9.31; [ ~~and~~ ]  
+|  (2) _if a reasonable person in the actor's situation_  
+| _would not have retreated; and_  
+|  _(3)_ when and to the degree the actor reasonably  
+| believes the deadly force is immediately necessary:  
+|  (A) to protect the actor against the other's use  
+| or attempted use of unlawful deadly force; or  
+|  (B) to prevent the other's imminent commission of  
+| aggravated kidnapping, murder, sexual assault, aggravated sexual  
+| assault, robbery, or aggravated robbery.  
+|  (b) The _requirement imposed by_ [ ~~actor's belief under~~ ]  
+| Subsection (a)(2) _does not apply to an actor who uses deadly force_  
+| _against a person who at the time of the use of deadly force is_  
+| _committing an offense involving the unlawful entry into the_  
+| _habitation of the actor_ [ ~~that the deadly force was immediately~~  
+|  ~~necessary as described by that subdivision is presumed to be~~  
+|  ~~reasonable if the actor:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~knew or had reason to believe that the person~~  
+|  ~~against whom the deadly force was used:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~unlawfully and with force entered, or was~~  
+|  ~~attempting to enter unlawfully and with force, the actor's occupied~~  
+|  ~~habitation, vehicle, or place of business or employment;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~unlawfully and with force removed, or was~~  
+|  ~~attempting to remove unlawfully and with force, the actor from the~~  
+|  ~~actor's habitation, vehicle, or place of business or employment; or~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~was committing or attempting to commit an~~  
+|  ~~offense described by Subsection (a)(2)(B);~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~did not provoke the person against whom the force~~  
+|  ~~was used; and~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~was not otherwise engaged in criminal activity,~~  
+|  ~~other than a Class C misdemeanor that is a violation of a law or~~  
+|  ~~ordinance regulating traffic at the time the force was used~~ ].  
+|  SECTION 3. Section 83.001, Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  Sec. 83.001. _AFFIRMATIVE DEFENSE_ [ ~~CIVIL IMMUNITY~~ ]. _It is_  
+| _an affirmative defense to a civil action for damages for personal_  
+| _injury or death that the_ [ ~~A~~ ] defendant _, at the time the cause of_  
+| _action arose, was justified in using_ [ ~~who uses force or~~ ] deadly  
+| force _under Section 9.32, Penal Code, against a person who at the_  
+| _time of the_ [ ~~that is justified under Chapter 9, Penal Code, is~~  
+|  ~~immune from civil liability for personal injury or death that~~  
+|  ~~results from the defendant's~~ ] use of [ ~~force or~~ ] deadly force
+_was_  
+| _committing an offense involving the unlawful entry into the_  
+| _habitation of the defendant_ [ ~~, as applicable~~ ].  
+|  SECTION 4. Sections 9.01(5), 9.31(e) and (f), and 9.32(c)  
+| and (d), Penal Code, are repealed.  
+|  SECTION 5. The change in law made by this Act applies only  
+| to an offense committed on or after the effective date of this Act.  
+| An offense committed before the effective date of this Act is  
+| governed by the law in effect on the date the offense was committed,  
+| and the former law is continued in effect for that purpose. For  
+| purposes of this section, an offense was committed before the  
+| effective date of this Act if any element of the offense occurred  
+| before that date.  
+|  SECTION 6. Section 83.001, Civil Practice and Remedies  
+| Code, as amended by this Act, applies only to a cause of action that  
+| accrues on or after the effective date of this Act. A cause of  
+| action that accrues before the effective date of this Act is  
+| governed by the law applicable to the cause of action immediately  
+| before the effective date of this Act, and that law is continued in  
+| effect for that purpose.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

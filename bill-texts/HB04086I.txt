@@ -1,0 +1,19 @@
+| 86R14643 SRA-D  
+---|---  
+|  By: Sanford | H.B. No. 4086  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the definition of "closing" for purposes of certain  
+| private activity bonds.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1372.001(3), Government Code, is amended  
+| to read as follows:  
+|  (3) "Closing" means the issuance and delivery of a  
+| bond by an issuer in exchange for _a partial_ [ ~~the required~~ ] payment  
+| _which may not be less than 10 percent of the required payment_ for  
+| the bond.  The term does not include a delivery of a bond if  
+| expenditure of the proceeds of the bond is conditioned on obtaining  
+| credit enhancement in support of the bond.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

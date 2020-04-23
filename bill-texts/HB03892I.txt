@@ -1,0 +1,202 @@
+| 86R7137 EAS-D  
+---|---  
+|  By: Price | H.B. No. 3892  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to court-ordered mental health services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 46B, Code of Criminal Procedure, is  
+| amended by adding Subchapter B-1 to read as follows:  
+| _SUBCHAPTER B-1. CIVIL COMMITMENT FOR OUTPATIENT MENTAL HEALTH_  
+| _SERVICES: CHARGES PENDING_  
+|  _Art._ ___46B.041._ _____OUTPATIENT MENTAL HEALTH SERVICES BEFORE_  
+| _INCOMPETENCY TRIAL FOR CLASS B MISDEMEANOR. (a) This article_  
+| _applies only to a defendant who is charged with an offense_  
+| _punishable as a Class B misdemeanor and who the court determines is_  
+| _not a danger to others and may be safely released on bail and_  
+| _treated on an outpatient basis while charges remain pending._  
+|  _(b)_ _____On the motion of the attorney representing the state, if_  
+| _it appears based on the court's examination of the defendant under_  
+| _Subchapter B that the defendant is a person with mental illness or a_  
+| _person with an intellectual or developmental disability, and_  
+| _subject to conditions reasonably related to ensuring public safety_  
+| _and the effectiveness of the defendant's treatment, the court may_  
+| _release the defendant on bail while charges against the defendant_  
+| _remain pending and enter an order transferring the defendant to the_  
+| _appropriate court for proceedings to commit the defendant to a_  
+| _course of outpatient mental health services to occur before the_  
+| _court proceeds under this chapter or with the trial of the offense._  
+|  _(c)_ _____On the motion of the attorney representing the state, if_  
+| _the court determines the defendant has complied with appropriate_  
+| _court-ordered outpatient treatment, the court may dismiss the_  
+| _charges pending against the defendant and discharge the defendant._  
+|  _(d)_ _____On the motion of the attorney representing the state, if_  
+| _the court determines the defendant has failed to comply with_  
+| _appropriate court-ordered outpatient treatment, the court shall_  
+| _proceed under this chapter or with the trial of the offense._  
+|  SECTION 2. Section 574.001, Health and Safety Code, is  
+| amended by adding Subsection (g) to read as follows:  
+|  _(g)_ _____An order transferring a criminal defendant against whom_  
+| _charges have not been dismissed to the appropriate court for a_  
+| _hearing on court-ordered mental health services in accordance with_  
+| _Subchapter B-1, Chapter 46B, Code of Criminal Procedure, serves as_  
+| _an application under this section._  
+|  SECTION 3. Sections 574.034(b) and (e), Health and Safety  
+| Code, are amended to read as follows:  
+|  (b) The judge may order a proposed patient to receive  
+| court-ordered temporary outpatient mental health services only if:  
+|  (1) the judge finds that appropriate mental health  
+| services are available to the proposed patient; and  
+|  (2) the judge or jury finds, from clear and convincing  
+| evidence, that:  
+|  (A) the proposed patient is a person with mental  
+| illness;  
+|  (B) _as a result of mental illness, the proposed_  
+| _patient is unlikely to voluntarily participate in treatment that_  
+| _the court determines is necessary to prevent a relapse or harmful_  
+| _deterioration of the proposed patient's condition_ [ ~~the nature of~~  
+|  ~~the mental illness is severe and persistent~~ ]; _and_  
+|  (C) _the proposed patient has demonstrated_  
+| _noncompliance with mental health treatment, as shown by one or more_  
+| _of the following events having occurred during the 48 months_  
+| _immediately preceding the current proceeding_ [ ~~as a result of the~~  
+|  ~~mental illness, the proposed patient will, if not treated, continue~~  
+|  ~~to~~ ]:  
+|  (i) _the proposed patient was committed by a_  
+| _court to receive inpatient mental health services two or more times_  
+| [ ~~suffer severe and abnormal mental, emotional, or physical~~  
+|  ~~distress~~ ]; [ ~~and~~ ]  
+|  (ii) _the proposed patient was incarcerated_  
+| _two or more times_ [ ~~experience deterioration of the ability to~~  
+|  ~~function independently to the extent that the proposed patient will~~  
+|  ~~be unable to live safely in the community without court-ordered~~  
+|  ~~outpatient mental health services~~ ]; _or_ [ ~~and~~ ]  
+|  _(iii)_ _____the proposed patient has committed_  
+| _one or more acts, attempts, or threats of serious violence_  
+|  [ ~~(D) the proposed patient has an inability to~~  
+|  ~~participate in outpatient treatment services effectively and~~  
+|  ~~voluntarily, demonstrated by:~~  
+|  [ ~~(i)~~ ~~~~ ~~~~ ~~any of the proposed patient's actions~~  
+|  ~~occurring within the two-year period which immediately precedes the~~  
+|  ~~hearing; or~~  
+|  [ ~~(ii) specific characteristics of the~~  
+|  ~~proposed patient's clinical condition that make impossible a~~  
+|  ~~rational and informed decision whether to submit to voluntary~~  
+|  ~~outpatient treatment~~ ].  
+|  (e) To be clear and convincing under _Subsection_  
+| [ ~~Subdivision~~ ] (b)(2), the evidence must include expert testimony  
+| [ ~~and, unless waived, evidence of a recent overt act or a continuing~~  
+|  ~~pattern of behavior that tends to confirm:~~  
+|  [ ~~(1) the proposed patient's distress;~~  
+|  [ ~~(2) the deterioration of ability to function~~  
+|  ~~independently to the extent that the proposed patient will be~~  
+|  ~~unable to live safely in the community; and~~  
+|  [ ~~(3) the proposed patient's inability to participate in~~  
+|  ~~outpatient treatment services effectively and voluntarily~~ ].  
+|  SECTION 4. Section 574.037(c-2), Health and Safety Code, is  
+| amended to read as follows:  
+|  (c-2) A court may[ ~~, on its own motion,~~ ] set a status  
+| conference _on a patient's failure to comply with court-ordered_  
+| _outpatient services in accordance with Section 574.0665_ [ ~~with the~~  
+|  ~~person responsible for the services, the patient, and the patient's~~  
+|  ~~attorney~~ ].  
+|  SECTION 5. Sections 574.061(a), (b), (c), (d), (e), and  
+| (h), Health and Safety Code, are amended to read as follows:  
+|  (a) The facility administrator of a facility to which a  
+| patient is committed for inpatient mental health services _, not_  
+| _later than the 30th day after the date the patient is committed to_  
+| _the facility, shall provide notice to_ [ ~~may request~~ ] the court that  
+| entered the commitment order _stating the administrator's_  
+| _recommendation regarding the appropriateness for the patient of_  
+| _modifying_ [ ~~to modify~~ ] the order to require the patient to  
+| participate in outpatient mental health services. _At any time_  
+| _during a patient's commitment to an inpatient mental health_  
+| _facility after the facility administrator provides the notice_  
+| _required under this subsection, the facility administrator may_  
+| _recommend that the court that entered the commitment order modify_  
+| _the order to require the patient to participate in outpatient_  
+| _mental health services._  
+|  (b) _A_ [ ~~The~~ ] facility administrator's _recommendation under_  
+| _Subsection (a)_ [ ~~request~~ ] must explain in detail the reason for the  
+| _recommendation_ [ ~~request~~ ]. The _recommendation_ [ ~~request~~ ] must
+be  
+| accompanied by a _supporting_ certificate of medical examination for  
+| mental illness signed by a physician who examined the patient  
+| during the seven days preceding the _recommendation_ [ ~~request~~ ].  
+|  (c) The patient shall be given notice of _a facility_  
+| _administrator's recommendation under Subsection (a)_ [ ~~the request~~ ].  
+|  (d) On request of the patient or any other interested  
+| person, the court shall hold a hearing on _a facility_  
+| _administrator's recommendation that the court modify the_  
+| _commitment order_ [ ~~the request~~ ]. The court shall appoint an  
+| attorney to represent the patient at the hearing _and shall consult_  
+| _with the local mental health authority before issuing a decision_.  
+| The hearing shall be held before the court without a jury and as  
+| prescribed by Section 574.031. The patient shall be represented by  
+| an attorney and receive proper notice.  
+|  (e) If a hearing is not requested, the court may make _a_ [ ~~the~~ ]  
+| decision _regarding a facility administrator's recommendation_  
+| solely from the _recommendation_ [ ~~request~~ ] and the supporting  
+| certificate.  
+|  (h) A modified order may [ ~~not~~ ] extend beyond the term of the  
+| original order.  
+|  SECTION 6. Subchapter E, Chapter 574, Health and Safety  
+| Code, is amended by adding Section 574.0665 to read as follows:  
+|  _Sec._ ___574.0665._ _____STATUS CONFERENCE ON PATIENT'S FAILURE TO_  
+| _COMPLY WITH COURT-ORDERED OUTPATIENT SERVICES. A court on its own_  
+| _motion may set a status conference with the patient, the patient's_  
+| _attorney, and the person designated to be responsible for the_  
+| _patient's court-ordered outpatient services under Section 574.037._  
+|  SECTION 7. Section 574.081, Health and Safety Code, is  
+| amended by amending Subsections (b) and (c) and adding Subsections  
+| (a-1) and (c-1) to read as follows:  
+|  _(a-1)_ _____Subsection (a) applies to a patient scheduled to be_  
+| _furloughed or discharged from an inpatient mental health facility_  
+| _or a private mental health facility if the patient's treatment at_  
+| _the private mental health facility is paid in whole or in part with_  
+| _state money or money received by the state from the federal_  
+| _government._  
+|  (b) The physician shall prepare the plan as prescribed by  
+| _commission_ [ ~~department~~ ] rules and shall consult the patient and the  
+| local mental health authority in the area in which the patient will  
+| reside before preparing the plan. [ ~~The local mental health~~  
+|  ~~authority is not required to participate in preparing a plan for a~~  
+|  ~~patient furloughed or discharged from a private mental health~~  
+|  ~~facility.~~ ]  
+|  (c) The plan must address the patient's mental health and  
+| physical needs, including, if appropriate:  
+|  (1) the need _for outpatient mental health services_  
+| _following furlough or discharge; and_  
+|  _(2) the need_ for sufficient medication on furlough or  
+| discharge to last until the patient can see a physician[ ~~; and~~  
+|  [ ~~(2) the person or entity that is responsible for~~  
+|  ~~providing and paying for the medication~~ ].  
+|  _(c-1)_ _____Except as otherwise specified in the plan, the mental_  
+| _health facility is responsible for paying for medication on_  
+| _furlough or discharge sufficient to last until the patient can see a_  
+| _physician._  
+|  SECTION 8. Subchapter B, Chapter 22, Government Code, is  
+| amended by adding Section 22.1106 to read as follows:  
+|  _Sec._ ___22.1106._ _____JUDICIAL INSTRUCTION RELATED TO_  
+| _COURT-ORDERED MENTAL HEALTH SERVICES. The court of criminal appeals_  
+| _shall ensure that judicial training related to the problems of_  
+| _court-ordered mental health services is provided at least once_  
+| _every year._ ___The instruction may be provided at the annual Judicial_  
+| _Education Conference._  
+|  SECTION 9. Sections 574.065(e) and 574.081(h), Health and  
+| Safety Code, are repealed.  
+|  SECTION 10. The changes in law made by this Act to Chapter  
+| 574, Health and Safety Code, apply to a commitment proceeding under  
+| that chapter that occurs on or after the effective date of this Act,  
+| regardless of whether conduct of a proposed patient being evaluated  
+| for that purpose occurred before, on, or after the effective date of  
+| this Act.  
+|  SECTION 11. The changes in law made by this Act to Chapter  
+| 46B, Code of Criminal Procedure, and Chapter 574, Health and Safety  
+| Code, apply to a proceeding for court-ordered mental health  
+| services that occurs on or after the effective date of this Act,  
+| regardless of when an offense with which the defendant is charged  
+| was committed.  
+|  SECTION 12. This Act takes effect September 1, 2019.
+

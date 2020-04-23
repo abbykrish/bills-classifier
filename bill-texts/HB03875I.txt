@@ -1,0 +1,31 @@
+| 86R7437 AAF-D  
+---|---  
+|  By: Capriglione | H.B. No. 3875  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to cloud compatibility of certain state agency information  
+| technology purchases.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Section 2157.007, Government  
+| Code, is amended to read as follows:  
+|  Sec. 2157.007. [ ~~CONSIDERATION OF~~ ] CLOUD COMPUTING SERVICE  
+| [ ~~PURCHASE~~ ].  
+|  SECTION 2. Section 2157.007(b), Government Code, is amended  
+| to read as follows:  
+|  (b) A state agency shall _ensure_ [ ~~consider cloud computing~~  
+|  ~~service options, including any security benefits and cost savings~~  
+|  ~~associated with purchasing those service options from a cloud~~  
+|  ~~computing service provider and from a statewide technology center~~  
+|  ~~established by the department~~ ], when making purchases for _an_  
+| _automated information system or_ a major information resources  
+| project under Section 2054.118 _, that the system or project is_  
+| _capable of being deployed and run on cloud computing services_.  
+|  SECTION 3. Section 2157.007, Government Code, as amended by  
+| this Act, applies only with respect to a purchase made by a state  
+| agency on or after the effective date of this Act. A purchase made  
+| before the effective date of this Act is governed by the law in  
+| effect on the date the purchase was made, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

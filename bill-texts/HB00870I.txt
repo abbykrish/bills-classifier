@@ -1,0 +1,68 @@
+| 86R3452 MM-F  
+---|---  
+|  By: Price | H.B. No. 870  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to Medicaid telemedicine and telehealth services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 531.0216, Government Code, is amended by  
+| amending Subsection (b) and adding Subsection (g) to read as  
+| follows:  
+|  (b) In developing the system, the executive commissioner by  
+| rule shall:  
+|  (1) review programs and pilot projects in other states  
+| to determine the most effective method for reimbursement;  
+|  (2) establish billing codes and a fee schedule for  
+| services;  
+|  (3) [ ~~consult with the Department of State Health~~  
+|  ~~Services to establish procedures to:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~identify clinical evidence supporting~~  
+|  ~~delivery of health care services using a telecommunications system;~~  
+|  ~~and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~annually review health care services,~~  
+|  ~~considering new clinical findings, to determine whether~~  
+|  ~~reimbursement for particular services should be denied or~~  
+|  ~~authorized;~~  
+|  [ ~~(4)~~ ] establish a separate provider identifier for  
+| telemedicine medical services providers, telehealth services  
+| providers, and home telemonitoring services providers; and  
+|  _(4)_ [ ~~(5)~~ ] establish a separate modifier for  
+| telemedicine medical services, telehealth services, and home  
+| telemonitoring services eligible for reimbursement.  
+|  _(g)_ _____The commission shall ensure a managed care organization_  
+| _that contracts with the commission under Chapter 533 to provide_  
+| _health care services to Medicaid recipients does not deny_  
+| _reimbursement for a covered health care service or procedure_  
+| _delivered by a health care provider with whom the managed care_  
+| _organization contracts to a recipient as a telemedicine medical_  
+| _service or a telehealth service solely because the covered service_  
+| _or procedure is not provided through an in-person consultation._  
+|  SECTION 2. Section 531.0217(c-4), Government Code, is  
+| amended to read as follows:  
+|  (c-4) The commission shall ensure that Medicaid  
+| reimbursement is provided to a physician for a telemedicine medical  
+| service provided by the physician, even if the physician is not the  
+| patient's primary care physician or provider, if:  
+|  (1) the physician is an authorized health care  
+| provider under Medicaid;  
+|  (2) the patient is a child who receives the service in  
+| a primary or secondary school-based setting; _and_  
+|  (3) the parent or legal guardian of the patient  
+| provides consent before the service is provided[ ~~; and~~  
+|  [ ~~(4)~~ ~~~~ ~~~~ ~~a health professional is present with the patient~~  
+|  ~~during the treatment~~ ].  
+|  SECTION 3. The following provisions of the Government Code  
+| are repealed:  
+|  (1) Section 531.0216(e);  
+|  (2) Section 531.02161;  
+|  (3) Sections 531.0217(c-2) and (c-3); and  
+|  (4) Section 531.02173.  
+|  SECTION 4. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

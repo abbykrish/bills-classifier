@@ -1,0 +1,90 @@
+| 86R6128 MM-D  
+---|---  
+|  By: Guillen | H.B. No. 1738  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to telehealth and home telemonitoring services, including  
+| the provision of those services under Medicaid.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 531.02164, Government Code, is amended  
+| by adding Subsections (c-1), (c-2), and (f) to read as follows:  
+|  _(c-1)_ _____Notwithstanding Subsection (c)(1), the program_  
+| _required under this section may also provide that home_  
+| _telemonitoring services are available to a pediatric patient with_  
+| _chronic or complex medical needs who:_  
+|  _(1)_ _____is being concurrently treated by at least three_  
+| _medical specialists;_  
+|  _(2) is diagnosed with end-stage solid organ disease;_  
+|  _(3) has received an organ transplant; or_  
+|  _(4) is diagnosed with severe asthma._  
+|  _(c-2)_ _____For purposes of the program established under this_  
+| _section, the executive commissioner shall:_  
+|  _(1)_ _____establish an enhanced Medicaid reimbursement rate_  
+| _for home telemonitoring services related to management of a_  
+| _person's medication that is at least $6 per day more than the rate_  
+| _in effect on January 1, 2019;_  
+|  _(2)_ _____establish billing codes and a fee schedule for_  
+| _Medicaid reimbursement for home telemonitoring services provided_  
+| _by a federally-qualified health center, as defined by 42 U.S.C._  
+| _Section 1396d(l)(2)(B), that are separate from other billing codes_  
+| _and fee schedules established for reimbursement for services_  
+| _provided by a federally-qualified health center;_  
+|  _(3)_ _____develop a process to prevent fraud and verify the_  
+| _success of a data transmission that includes validation of the data_  
+| _transmission by the service provider's data carrier; and_  
+|  _(4)_ _____allow for reimbursement for home telemonitoring_  
+| _services provided for a period of at least 120 days per episode._  
+|  _(f)_ _____Each provider of home telemonitoring services under the_  
+| _program established under this section shall provide to the_  
+| _commission data regarding the services provided for analytical_  
+| _purposes._  
+|  SECTION 2. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.02177 to read as follows:  
+|  _Sec._ ___531.02177._ _____STUDY CONCERNING HOME TELEMONITORING AND_  
+| _TELEHEALTH SERVICES FRAUD, WASTE, AND ABUSE. (a) Subject to the_  
+| _availability of funds, the commission shall conduct a study to_  
+| _identify patterns or instances of fraud, waste, or abuse committed_  
+| _by providers of Medicaid home telemonitoring services and_  
+| _telehealth services._  
+|  _(b)_ _____Not later than September 1, 2020, the commission shall_  
+| _submit to the governor, the lieutenant governor, the speaker of the_  
+| _house of representatives, and each legislative standing committee_  
+| _with primary jurisdiction over Medicaid the results of the study_  
+| _conducted under this section and recommendations for legislative or_  
+| _other action._  
+|  _(c)_ _____Based on the findings of the commission, the executive_  
+| _commissioner may adopt rules necessary to prevent or reduce fraud,_  
+| _waste, and abuse by providers of Medicaid home telemonitoring_  
+| _services and telehealth services._  
+|  _(d) This section expires September 1, 2021._  
+|  SECTION 3. Section 111.001(3), Occupations Code, is amended  
+| to read as follows:  
+|  (3) "Telehealth service" means a health service, other  
+| than a telemedicine medical service, delivered by a health  
+| professional licensed, certified, or otherwise entitled to  
+| practice in this state and acting within the scope of the health  
+| professional's license, certification, or entitlement to a patient  
+| at a different physical location than the health professional using  
+| telecommunications or information technology _. The term includes:_  
+|  _(A)_ _____peer services provided by a certified mental_  
+| _health peer specialist or a certified substance use recovery_  
+| _specialist;_  
+|  _(B) substance use counseling services; and_  
+|  _(C) targeted case management services_.  
+|  SECTION 4. The following sections of the Government Code  
+| are repealed:  
+|  (1) Section 531.02164(d); and  
+|  (2) Section 531.02176.  
+|  SECTION 5. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall adopt rules necessary to implement the  
+| changes in law made by this Act.  
+|  SECTION 6. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

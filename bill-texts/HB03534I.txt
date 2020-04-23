@@ -1,0 +1,38 @@
+| 86R13383 BRG-F  
+---|---  
+|  By: Shine | H.B. No. 3534  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the disclosure to a law enforcement agency of  
+| confidential information relating to a complaint filed with the  
+| Texas Ethics Commission; creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 571.140(a), Government Code, is amended  
+| to read as follows:  
+|  (a) Except as provided by Subsection (b) or (b-1) or by  
+| Section _571.1401 or_ 571.171, proceedings at a preliminary review  
+| hearing performed by the commission, a sworn complaint, and  
+| documents and any additional evidence relating to the processing,  
+| preliminary review, preliminary review hearing, or resolution of a  
+| sworn complaint or motion are confidential and may not be disclosed  
+| unless entered into the record of a formal hearing or a judicial  
+| proceeding, except that a document or statement that was previously  
+| public information remains public information.  
+|  SECTION 2. Subchapter E, Chapter 571, Government Code, is  
+| amended by adding Section 571.1401 to read as follows:  
+|  _Sec._ ___571.1401._ _____CERTAIN DISCLOSURE OF INFORMATION. (a) The_  
+| _commission may disclose to a law enforcement agency information_  
+| _that is confidential under Section 571.140(a) to the extent_  
+| _necessary for the recipient of the information to perform a duty or_  
+| _function that is separate from the commission's duties and_  
+| _functions._  
+|  _(b)_ _____Information disclosed to a law enforcement agency under_  
+| _this section remains confidential, and the agency receiving the_  
+| _information shall take appropriate measures to prevent disclosure_  
+| _of the information._  
+|  _(c)_ _____A person commits an offense if the person discloses_  
+| _confidential information obtained under this section. An offense_  
+| _under this subsection is a Class C misdemeanor._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

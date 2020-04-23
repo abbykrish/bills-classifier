@@ -1,0 +1,133 @@
+| 86R4250 ATP-D  
+---|---  
+|  By: Cain | H.B. No. 4402  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the cancellation of a person's voter registration on  
+| notice that the person has acknowledged that the person is not a  
+| citizen; providing a civil penalty; creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 16.031(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The registrar shall cancel a voter's registration  
+| immediately on receipt of:  
+|  (1) notice under Section 13.072(b) or 15.021 or a  
+| response under Section 15.053 that the voter's residence is outside  
+| the county;  
+|  (2) an abstract of the voter's death certificate under  
+| Section 16.001(a) or an abstract of an application indicating that  
+| the voter is deceased under Section 16.001(b);  
+|  (3) an abstract of a final judgment of the voter's  
+| total mental incapacity, partial mental incapacity without the  
+| right to vote, conviction of a felony, or disqualification under  
+| Section 16.002, 16.003, or 16.004;  
+|  (4) notice under Section 112.012 that the voter has  
+| applied for a limited ballot in another county;  
+|  (5) notice from a voter registration official in  
+| another state that the voter has registered to vote outside this  
+| state;  
+|  (6) notice from the early voting clerk under Section  
+| 101.053 that a federal postcard application submitted by an  
+| applicant states a voting residence address located outside the  
+| registrar's county; [ ~~or~~ ]  
+|  (7) notice from the secretary of state that the voter  
+| has registered to vote in another county, as determined by the  
+| voter's driver's license number or personal identification card  
+| number issued by the Department of Public Safety or social security  
+| number _; or_  
+|  _(8)_ _____a list under Section 18.068 of this code or Section_  
+| _62.113, Government Code, of persons excused or disqualified from_  
+| _jury service because of citizenship status that includes the voter,_  
+| _or other notice from any governmental agency that the voter has_  
+| _acknowledged that the voter is not a citizen of the United States_.  
+|  SECTION 2. Section 16.036(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Immediately after, but not later than the 30th day after  
+| the date a voter's registration is canceled under Section  
+| 16.031(a)(3) _or (8)_ , 16.033, _or_ 16.0331, [ ~~or 16.0332,~~ ] the  
+| registrar shall deliver written notice of the cancellation to the  
+| voter.  
+|  SECTION 3. Chapter 16, Election Code, is amended by adding  
+| Subchapter B-1 to read as follows:  
+| _SUBCHAPTER B-1. VOTER REGISTRAR WHO FAILS TO CANCEL REGISTRATION OF_  
+| _NONCITIZEN_  
+|  _Sec._ ___16.051._ _____CIVIL PENALTY. (a) A voter registrar who_  
+| _intentionally violates Section 16.031(a)(8) is subject to a civil_  
+| _penalty in an amount:_  
+|  _(1)_ _____not less than $1,000 and not more than $1,500 for_  
+| _the first violation; and_  
+|  _(2)_ _____not less than $25,000 and not more than $25,500 for_  
+| _each subsequent violation._  
+|  _(b)_ _____Sovereign immunity of this state and governmental_  
+| _immunity of a county and municipality to suit is waived and_  
+| _abolished to the extent of liability created by this section._  
+|  _Sec._ ___16.052._ _____REMOVAL OF REGISTRAR. (a) For purposes of_  
+| _Section 66.001, Civil Practice and Remedies Code, a voter registrar_  
+| _holding a public office does an act that causes the forfeiture of_  
+| _the person's office if the person violates Section 16.031(a)(8)._  
+| _The attorney general shall file a petition under Section 66.002,_  
+| _Civil Practice and Remedies Code, against the registrar if_  
+| _presented with evidence, including evidence of a statement by the_  
+| _registrar, establishing probable grounds that the registrar_  
+| _engaged in conduct described by this subsection. The court in which_  
+| _the petition is filed shall give precedence to proceedings relating_  
+| _to the petition in the same manner as provided for the priority of_  
+| _an election contest under Section 23.101, Government Code. If the_  
+| _registrar is found guilty as charged, the court shall enter_  
+| _judgment removing the registrar from office._  
+|  _(b)_ _____The employment of a county elections administrator who_  
+| _violates Section 16.031(a)(8) shall be terminated._  
+|  _Sec._ ___16.053._ _____CRIMINAL PENALTY. (a) A voter registrar_  
+| _commits an offense if the registrar knowingly fails to comply with_  
+| _Section 16.031(a)(8)._  
+|  _(b) An offense under this section is a Class A misdemeanor._  
+|  _(c)_ _____It is an exception to the application of this section_  
+| _that the person whose voter registration was required to be_  
+| _canceled under Section 16.031(a)(3) had provided proof to the voter_  
+| _registrar that the person is a citizen of the United States._  
+|  SECTION 4. Section 18.068(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The secretary of state shall quarterly compare the  
+| information received under Section 16.001 of this code and Section  
+| 62.113, Government Code, to the statewide computerized voter  
+| registration list.  If the secretary determines that a voter on the  
+| registration list is deceased or has been excused or disqualified  
+| from jury service because the voter is not a citizen, the secretary  
+| shall send notice of the determination to _:_  
+|  _(1)_ the voter registrar of the counties considered  
+| appropriate by the secretary _; and_  
+|  _(2)_ _____the attorney general, who shall quarterly review_  
+| _the information to investigate whether a person has committed an_  
+| _offense under Section 13.007 or other law_.  
+|  SECTION 5. Section 19.001(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Before May 15 of each year, the registrar shall prepare  
+| and submit to the secretary of state a statement containing:  
+|  (1) the total number of initial registrations for the  
+| previous voting year;  
+|  (2) the total number of registrations canceled under  
+| Sections 16.031(a)(1) _and (8) and Section_ [ ~~,~~ ] 16.033[ ~~, and
+16.0332~~ ]  
+| for the previous voting year; and  
+|  (3) the total number of registrations for which  
+| information was updated for the previous voting year.  
+|  SECTION 6. Sections 62.113(b) and (c), Government Code, are  
+| amended to read as follows:  
+|  (b) On the third business day of each month, the clerk shall  
+| send a copy of the list of persons excused or disqualified because  
+| of citizenship in the previous month to:  
+|  (1) the voter registrar of the county;  
+|  (2) _the county official responsible for administering_  
+| _elections;_  
+|  _(3)_ the secretary of state; and  
+|  _(4)_ [ ~~(3)~~ ] the county or district attorney, as  
+| applicable, _or attorney general_ for an investigation of whether the  
+| person committed an offense under Section 13.007 _or 64.012_ ,  
+| Election Code, or other law.  
+|  (c) A list compiled under this section may not be used for a  
+| purpose other than a purpose described by Subsection (b) or Section  
+| _16.031(a)(8)_ [ ~~16.0332~~ ] or 18.068, Election Code.  
+|  SECTION 7. Section 16.0332, Election Code, is repealed.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

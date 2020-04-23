@@ -1,0 +1,413 @@
+| 86R5051 JG-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 1302  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of the Texas Mental Health Research  
+| Institute; authorizing the issuance of bonds.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 12, Health and Safety Code, is amended by  
+| adding Chapter 1002 to read as follows:  
+| _CHAPTER 1002. TEXAS MENTAL HEALTH RESEARCH INSTITUTE_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 1002.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Institute" means the Texas Mental Health Research_  
+| _Institute._  
+|  _(2)_ _____"Oversight committee" means the Texas Mental_  
+| _Health Research Institute Oversight Committee._  
+|  _(3)_ _____"Research review committee" means the Texas Mental_  
+| _Health Research Institute Research Review Committee._  
+|  _Sec._ ___1002.0002._ _____PURPOSE. The Texas Mental Health Research_  
+| _Institute is established to:_  
+|  _(1)_ _____develop and implement a Texas mental health_  
+| _research plan to promote synergistic collaboration in mental health_  
+| _and substance use disorder research across university systems in_  
+| _this state and advance the research component of the statewide_  
+| _behavioral health strategic plan or any appropriate successor_  
+| _statewide strategic plan relating to behavioral health;_  
+|  _(2)_ _____create and expedite innovation in mental health_  
+| _and substance use disorder research to improve the health of the_  
+| _residents of this state; and_  
+|  _(3)_ _____attract, create, or expand research capabilities_  
+| _of university systems in this state in a manner that will promote a_  
+| _substantial increase in mental health and substance use disorder_  
+| _research._  
+| _SUBCHAPTER B. POWERS AND DUTIES OF INSTITUTE_  
+|  _Sec. 1002.0051. POWERS AND DUTIES. (a) The institute:_  
+|  _(1)_ _____may make grants to health-related institutions of_  
+| _higher education to further the purpose of this chapter;_  
+|  _(2)_ _____may establish the appropriate standards and_  
+| _oversight bodies to ensure the proper use of funds authorized under_  
+| _this chapter;_  
+|  _(3)_ _____may employ necessary staff to provide_  
+| _administrative support to the institute;_  
+|  _(4)_ _____shall continuously monitor grant contracts and_  
+| _agreements authorized under this chapter and ensure that each grant_  
+| _recipient complies with the terms and conditions of the contract;_  
+|  _(5)_ _____shall ensure that all grant proposals comply with_  
+| _this chapter and rules adopted under this chapter before the_  
+| _proposals are submitted to the oversight committee for approval;_  
+| _and_  
+|  _(6)_ _____shall establish procedures to document that the_  
+| _institute, its employees, and any committee members appointed under_  
+| _this chapter comply with all rules governing conflicts of interest_  
+| _and the peer review process developed under Section 1002.0252._  
+|  _(b)_ _____The institute shall employ a chief compliance officer to_  
+| _monitor and report to the oversight committee regarding compliance_  
+| _with this chapter and rules adopted under this chapter._  
+|  _(c)_ _____In addition to other duties under this chapter, the_  
+| _chief compliance officer shall:_  
+|  _(1)_ _____ensure that all grant proposals comply with this_  
+| _chapter and rules adopted under this chapter before the proposals_  
+| _are submitted to the oversight committee for approval; and_  
+|  _(2)_ _____attend and observe research review committee_  
+| _meetings to ensure compliance with this chapter and rules adopted_  
+| _under this chapter._  
+|  _Sec._ ___1002.0052._ _____CHIEF EXECUTIVE OFFICER. (a) The_  
+| _oversight committee shall hire a chief executive officer. The_  
+| _chief executive officer shall perform the duties required under_  
+| _this chapter or designated by the oversight committee._  
+|  _(b)_ _____The chief executive officer must have a demonstrated_  
+| _ability to lead and develop academic, commercial, and governmental_  
+| _partnerships and coalitions._  
+|  _Sec._ ___1002.0053._ _____ANNUAL REPORT. Not later than January 31 of_  
+| _each year, the institute shall prepare and submit to the governor,_  
+| _the lieutenant governor, the speaker of the house of_  
+| _representatives, and each standing committee of the legislature_  
+| _having primary jurisdiction over mental health or substance use_  
+| _issues and post on the institute's Internet website a written_  
+| _report that outlines:_  
+|  _(1) the institute's activities under this chapter;_  
+|  _(2)_ _____a list of grant recipients during the preceding_  
+| _state fiscal year, including the grant amount awarded to each_  
+| _recipient;_  
+|  _(3)_ _____any applicant the institute is considering_  
+| _awarding a grant;_  
+|  _(4)_ _____any research accomplishments made during the_  
+| _preceding state fiscal year by a grant recipient; and_  
+|  _(5) the institute's future direction._  
+|  _Sec._ ___1002.0054._ _____INDEPENDENT FINANCIAL AUDIT FOR REVIEW BY_  
+| _COMPTROLLER. (a) The institute shall annually commission an_  
+| _independent financial audit of its activities from a certified_  
+| _public accounting firm. The institute shall provide the audit to_  
+| _the comptroller. The comptroller shall review and evaluate the_  
+| _audit and annually issue a public report of that review. The_  
+| _comptroller shall make recommendations concerning the institute's_  
+| _financial practices and performance._  
+|  _(b)_ _____The oversight committee shall review the annual_  
+| _financial audit, the comptroller's report and evaluation of that_  
+| _audit, and the financial practices of the institute._  
+|  _Sec._ ___1002.0055._ _____GRANT RECORDS. (a) The institute shall_  
+| _maintain complete records of:_  
+|  _(1)_ _____the review of each grant application submitted to_  
+| _the institute, including the score assigned to each grant_  
+| _application reviewed, regardless of whether the grant application_  
+| _is not funded by the institute or is withdrawn after submission to_  
+| _the institute;_  
+|  _(2)_ _____each grant recipient's financial reports,_  
+| _including the amount of matching funds dedicated to the research_  
+| _specified for the grant award;_  
+|  _(3) each grant recipient's progress reports; and_  
+|  _(4)_ _____the institute's review of the grant recipient's_  
+| _financial and progress reports._  
+|  _(b)_ _____The institute shall have periodic audits made of any_  
+| _electronic grant management system used to maintain records of_  
+| _grant applications and grant awards under this section. The_  
+| _institute shall address in a timely manner each weakness identified_  
+| _in an audit of the system._  
+|  _Sec._ ___1002.0056._ _____GIFTS AND GRANTS. The institute may_  
+| _solicit and accept gifts and grants from any source for the purposes_  
+| _of this chapter._  
+| _SUBCHAPTER C. OVERSIGHT COMMITTEE_  
+|  _Sec._ ___1002.0101._ _____COMPOSITION OF OVERSIGHT COMMITTEE. (a)_  
+| _The oversight committee is the governing body of the institute._  
+|  _(b)_ _____The oversight committee is composed of the following_  
+| _nine members:_  
+|  _(1) three members appointed by the governor;_  
+|  _(2)_ _____three members appointed by the lieutenant_  
+| _governor; and_  
+|  _(3)_ _____three members appointed by the speaker of the_  
+| _house of representatives._  
+|  _Sec._ ___1002.0102._ _____TERMS; VACANCY. (a) Oversight committee_  
+| _members appointed by the governor, lieutenant governor, and speaker_  
+| _of the house of representatives serve at the pleasure of the_  
+| _appointing office for staggered six-year terms, with the terms of_  
+| _three members expiring January 31 of each even-numbered year._  
+|  _(b)_ _____Not later than the 30th day after the date an oversight_  
+| _committee member's term expires, the appropriate appointing_  
+| _authority shall appoint a replacement._  
+|  _(c)_ _____If a vacancy occurs on the oversight committee, the_  
+| _appropriate appointing authority shall appoint a successor in the_  
+| _same manner as the original appointment to serve for the remainder_  
+| _of the unexpired term. The appropriate appointing authority shall_  
+| _appoint the successor not later than the 30th day after the date the_  
+| _vacancy occurs._  
+|  _Sec._ ___1002.0103._ _____OFFICERS. (a) The oversight committee_  
+| _shall elect a presiding officer and assistant presiding officer_  
+| _from among its members every two years. The oversight committee may_  
+| _elect additional officers from among its members._  
+|  _(b)_ _____The presiding officer and assistant presiding officer_  
+| _may not serve in the position to which the officer was elected for_  
+| _two consecutive terms._  
+|  _(c) The oversight committee shall:_  
+|  _(1)_ _____establish and approve duties and responsibilities_  
+| _for officers of the committee; and_  
+|  _(2)_ _____develop and implement policies that distinguish_  
+| _the responsibilities of the oversight committee and the committee's_  
+| _officers from the responsibilities of the chief executive officer_  
+| _and the employees of the institute._  
+|  _Sec._ ___1002.0104._ _____EXPENSES. A member of the oversight_  
+| _committee is not entitled to compensation but is entitled to_  
+| _reimbursement as provided by the General Appropriations Act for_  
+| _actual and necessary expenses incurred in attending meetings of the_  
+| _committee or performing other official duties authorized by the_  
+| _presiding officer._  
+|  _Sec._ ___1002.0105._ _____CONFLICT OF INTEREST. (a) The oversight_  
+| _committee shall adopt conflict-of-interest rules, based on_  
+| _standards adopted by the National Institutes of Health, to govern_  
+| _members of the oversight committee, members of the research review_  
+| _committee, and institute employees._  
+|  _(b)_ _____Nothing in this chapter limits the authority of the_  
+| _oversight committee to adopt additional conflict-of-interest rules_  
+| _and standards._  
+|  _Sec._ ___1002.0106._ _____POWERS AND DUTIES. The oversight committee_  
+| _shall:_  
+|  _(1) hire a chief executive officer;_  
+|  _(2)_ _____annually set priorities as prescribed by the_  
+| _legislature for each grant program that receives money under this_  
+| _chapter; and_  
+|  _(3)_ _____consider the priorities set under Subdivision (2)_  
+| _in awarding grants under this chapter._  
+|  _Sec._ ___1002.0107._ _____RULEMAKING AUTHORITY. The oversight_  
+| _committee may adopt rules to administer this chapter._  
+|  _Sec._ ___1002.0108._ _____CODE OF CONDUCT. The oversight committee_  
+| _shall adopt a code of conduct applicable to each member of the_  
+| _oversight committee, member of the research review committee, and_  
+| _institute employee._  
+|  _Sec._ ___1002.0109._ _____FINANCIAL STATEMENT REQUIRED. Each member_  
+| _of the oversight committee shall file with the chief compliance_  
+| _officer a verified financial statement complying with Sections_  
+| _572.022 through 572.0252, Government Code, as required of a state_  
+| _officer by Section 572.021, Government Code._  
+| _SUBCHAPTER D. RESEARCH REVIEW COMMITTEE_  
+|  _Sec._ ___1002.0151._ _____ESTABLISHMENT AND COMPOSITION OF RESEARCH_  
+| _REVIEW COMMITTEE. The oversight committee shall establish the_  
+| _research review committee. The chief executive officer, with_  
+| _approval by a simple majority of the members of the oversight_  
+| _committee, shall appoint as members of the research review_  
+| _committee experts in the field of mental health and substance use_  
+| _disorder research._  
+| _SUBCHAPTER E. FUNDING_  
+|  _Sec._ ___1002.0201._ _____TEXAS MENTAL HEALTH RESEARCH FUND. (a) The_  
+| _Texas mental health research fund is a dedicated account in the_  
+| _general revenue fund._  
+|  _(b) The Texas mental health research fund consists of:_  
+|  _(1)_ _____appropriations of money to the fund by the_  
+| _legislature, except that the appropriated money may not include the_  
+| _proceeds from the issuance of bonds authorized by Section 68,_  
+| _Article III, Texas Constitution;_  
+|  _(2)_ _____gifts and grants, including grants from the_  
+| _federal government, received for the fund; and_  
+|  _(3)_ _____interest earned on the investment of money in the_  
+| _fund._  
+|  _(c) The fund may be used only to pay for:_  
+|  _(1)_ _____grants for mental health or substance use disorder_  
+| _research and for research facilities in this state to conduct_  
+| _mental health or substance use disorder research;_  
+|  _(2)_ _____the purchase, subject to approval by the_  
+| _institute, of research facilities by or on behalf of a state agency_  
+| _or grant recipient;_  
+|  _(3) the operation of the institute; and_  
+|  _(4)_ _____debt service on bonds issued as authorized by_  
+| _Section 68, Article III, Texas Constitution._  
+|  _Sec._ ___1002.0202._ _____ISSUANCE OF GENERAL OBLIGATION BONDS. (a)_  
+| _The institute may request the Texas Public Finance Authority to_  
+| _issue and sell general obligation bonds of the state as authorized_  
+| _by Section 68, Article III, Texas Constitution._  
+|  _(b)_ _____The Texas Public Finance Authority may not issue and_  
+| _sell general obligation bonds authorized by this section before_  
+| _January 1, 2020, and may not issue and sell more than $100 million_  
+| _in general obligation bonds authorized by this section in a state_  
+| _fiscal year._  
+|  _(c)_ _____The institute shall determine, and include in its_  
+| _request for issuing bonds, the amount, exclusive of costs of_  
+| _issuance, of the bonds to be issued and the preferred time for_  
+| _issuing the bonds._  
+|  _(d)_ _____The Texas Public Finance Authority shall issue the bonds_  
+| _in accordance with and subject to Chapter 1232, Government Code,_  
+| _and Texas Public Finance Authority rules. The bonds may be issued_  
+| _in installments._  
+|  _(e)_ _____Proceeds of the bonds issued under this section shall be_  
+| _deposited in separate funds or accounts, in the state treasury, as_  
+| _prescribed by the proceedings authorizing the bonds._  
+|  _(f) The proceeds of the bonds may be used only to:_  
+|  _(1)_ _____make grants authorized by Section 68, Article III,_  
+| _Texas Constitution;_  
+|  _(2) purchase facilities approved by the institute;_  
+|  _(3) pay costs of operating the institute; or_  
+|  _(4)_ _____pay costs of issuing the bonds and related bond_  
+| _administration costs of the Texas Public Finance Authority._  
+|  _Sec._ ___1002.0203._ _____AUTHORIZED USE OF FUNDS. (a) A grant_  
+| _recipient awarded money from the Texas mental health research fund_  
+| _established under Section 1002.0201 may use the money for research_  
+| _consistent with the purposes of this chapter and in accordance with_  
+| _a contract between the grant recipient and the institute._  
+|  _(b)_ _____Except as otherwise provided by this section, money_  
+| _awarded under this chapter may be used for authorized expenses,_  
+| _including honoraria, salaries and benefits, travel, conference_  
+| _fees and expenses, consumable supplies, other operating expenses,_  
+| _contracted research and development, capital equipment, and_  
+| _construction or renovation of state or private facilities._  
+| _SUBCHAPTER F. PROCEDURE FOR MAKING AWARDS_  
+|  _Sec._ ___1002.0251._ _____INSTITUTIONS ELIGIBLE TO RECEIVE AWARDS._  
+| _The following health-related institutions of higher education are_  
+| _eligible to receive awards under this chapter:_  
+|  _(1) Baylor College of Medicine;_  
+|  _(2)_ _____The Texas A &M University System Health Science _  
+| _Center;_  
+|  _(3) Texas Tech University Health Sciences Center;_  
+|  _(4)_ _____Texas Tech University Health Sciences Center at El_  
+| _Paso;_  
+|  _(5)_ _____University of North Texas Health Science Center at_  
+| _Fort Worth;_  
+|  _(6)_ _____Dell Medical School at The University of Texas at_  
+| _Austin;_  
+|  _(7)_ _____The University of Texas Medical Branch at_  
+| _Galveston;_  
+|  _(8)_ _____The University of Texas Health Science Center at_  
+| _Houston;_  
+|  _(9)_ _____The University of Texas Health Science Center at_  
+| _San Antonio;_  
+|  _(10)_ _____The University of Texas Rio Grande Valley School_  
+| _of Medicine;_  
+|  _(11)_ _____The University of Texas Health Science Center at_  
+| _Tyler; and_  
+|  _(12)_ _____The University of Texas Southwestern Medical_  
+| _Center._  
+|  _Sec._ ___1002.0252._ _____PEER REVIEW PROCESS. The research review_  
+| _committee shall develop and oversee a peer review process for the_  
+| _selection of mental health and substance use disorder research_  
+| _projects. The peer review process must evaluate research projects_  
+| _based on:_  
+|  _(1)_ _____to what extent the research project aligns with_  
+| _the research component of the statewide behavioral health strategic_  
+| _plan;_  
+|  _(2)_ _____to what extent the research project aligns with_  
+| _state priorities and needs, including priorities and needs outlined_  
+| _in the statewide behavioral health strategic plan;_  
+|  _(3)_ _____the anticipated impact and reach of the research_  
+| _project on residents of this state; and_  
+|  _(4)_ _____the number of health-related institutions of_  
+| _higher education participating in the research project._  
+|  _Sec._ ___1002.0253._ _____RULES FOR GRANT AWARD PROCEDURE. (a) The_  
+| _oversight committee shall issue rules regarding the procedure for_  
+| _awarding grants to an applicant under this chapter. The rules must_  
+| _require the research review committee to score grant applications_  
+| _and make recommendations to the oversight committee regarding the_  
+| _award of research grants, including the creation of a prioritized_  
+| _list that:_  
+|  _(1)_ _____ranks the grant applications in the order the_  
+| _research review committee determines applications should be_  
+| _funded; and_  
+|  _(2)_ _____includes information explaining how each grant_  
+| _application on the list meets the research review committee's_  
+| _standards for recommendation._  
+|  _(b)_ _____In scoring and making recommendations to the oversight_  
+| _committee under Subsection (a), the research review committee_  
+| _shall, to the extent possible:_  
+|  _(1)_ _____give first priority to grant applications that_  
+| _focus on one or more of the following focus areas:_  
+|  _(A) depression;_  
+|  _(B) first episode of psychosis;_  
+|  _(C) substance use disorder;_  
+|  _(D) bipolar disorder and schizophrenia; or_  
+|  _(E) community systems research; and_  
+|  _(2) give second priority to grant applicants that:_  
+|  _(A)_ _____ensure a collaborative approach to mental_  
+| _health and substance use disorder research;_  
+|  _(B)_ _____ensure interdisciplinary or_  
+| _interinstitutional collaboration; or_  
+|  _(C)_ _____enhance research superiority at_  
+| _health-related institutions of higher education in this state by:_  
+|  _(i) creating new research superiority;_  
+|  _(ii)_ _____attracting existing research_  
+| _superiority at health-related institutions of higher education_  
+| _outside this state and other research entities; and_  
+|  _(iii)_ _____enhancing existing research_  
+| _superiority in this state by attracting researchers and resources_  
+| _from outside this state._  
+|  _Sec._ ___1002.0254._ _____FUNDING RECOMMENDATIONS. Two-thirds of the_  
+| _members of the oversight committee present and voting must vote to_  
+| _approve each funding recommendation of the research review_  
+| _committee. If the oversight committee does not approve a funding_  
+| _recommendation of the research review committee, a statement_  
+| _explaining the reasons a funding recommendation was not followed_  
+| _must be included in the minutes of the meeting._  
+|  _Sec._ ___1002.0255._ _____MAXIMUM AMOUNT OF ANNUAL AWARDS. The_  
+| _oversight committee may not award more than $100 million in grants_  
+| _under this chapter in a state fiscal year._  
+|  _Sec._ ___1002.0256._ _____PERIOD FOR AWARDS. The oversight committee_  
+| _may not award money under this chapter after August 31, 2032._  
+|  _Sec._ ___1002.0257._ _____GRANT EVALUATION. (a) The oversight_  
+| _committee shall require as a condition of a grant that the grant_  
+| _recipient submit to regular inspection reviews of the grant project_  
+| _by institute staff, including progress oversight reviews, to ensure_  
+| _compliance with the terms of the award and to ensure the scientific_  
+| _merit of the research._  
+|  _(b)_ _____The chief executive officer shall determine the grant_  
+| _review process under this section. The chief executive officer may_  
+| _suspend or terminate in accordance with Subsection (f) grants that_  
+| _do not meet contractual obligations._  
+|  _(c)_ _____The chief executive officer shall report at least_  
+| _annually to the oversight committee on the progress and continued_  
+| _merit of each research program funded by the institute._  
+|  _(d)_ _____The institute shall establish and implement reporting_  
+| _requirements to ensure that each grant recipient complies with the_  
+| _terms and conditions in the grant contract, including verification_  
+| _of the amounts of matching funds dedicated to the research that is_  
+| _the subject of the grant award to the grant recipient._  
+|  _(e) The institute shall implement a system to:_  
+|  _(1)_ _____track the dates on which grant recipient reports_  
+| _are due and are received by the institute; and_  
+|  _(2)_ _____monitor the status of any required report that is_  
+| _not timely submitted to the institute by a grant recipient._  
+|  _(f)_ _____The chief compliance officer shall monitor compliance_  
+| _with this section and at least annually shall inquire into and_  
+| _monitor the status of any required report that is not timely_  
+| _submitted to the institute by a grant recipient. The chief_  
+| _compliance officer shall notify the general counsel for the_  
+| _institute and the oversight committee of a grant recipient that has_  
+| _not maintained compliance with the reporting requirements or_  
+| _matching funds provisions of the grant contract to allow the_  
+| _institute to begin suspension or termination of the grant contract_  
+| _under Subsection (b). This subsection does not limit other_  
+| _remedies available under the grant contract._  
+|  SECTION 2. Section 51.955(c), Education Code, is amended to  
+| read as follows:  
+|  (c) Subsection (b)(1) does not apply to a research contract  
+| between an institution of higher education and the Cancer  
+| Prevention and Research Institute of Texas _or Texas Mental Health_  
+| _Research Institute_.  
+|  SECTION 3. (a) Not later than January 31, 2020, the  
+| appropriate appointing authority shall appoint the members to the  
+| Texas Mental Health Research Institute Oversight Committee as  
+| required by Section 1002.0101, Health and Safety Code, as added by  
+| this Act. The oversight committee may not take action until a  
+| majority of the appointed members have taken office.  
+|  (b) Notwithstanding Section 1002.0101, Health and Safety  
+| Code, as added by this Act, in making the initial appointments under  
+| that section, the governor, lieutenant governor, and speaker of the  
+| house of representatives shall designate one member of the Texas  
+| Mental Health Research Institute Oversight Committee appointed by  
+| that person to serve a term expiring January 31, 2022, one member  
+| appointed by that person to serve a term expiring January 31, 2024,  
+| and one member appointed by that person to serve a term expiring  
+| January 31, 2026.  
+|  SECTION 4. This Act takes effect on January 1, 2020, but  
+| only if the constitutional amendment proposed by the 86th  
+| Legislature, Regular Session, 2019, providing for the  
+| establishment of the Texas Mental Health Research Institute is  
+| approved by the voters. If that amendment is not approved by the  
+| voters, this Act has no effect.
+

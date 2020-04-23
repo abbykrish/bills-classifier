@@ -1,0 +1,40 @@
+| 86R880 JSC-F  
+---|---  
+|  By: Dutton | H.B. No. 1854  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to loss of continuing, exclusive jurisdiction of a court  
+| in certain suits affecting the parent-child relationship.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 155.004(a), Family Code, is amended to  
+| read as follows:  
+|  (a) A court of this state loses its continuing, exclusive  
+| jurisdiction to modify its order if:  
+|  (1) an order of adoption is rendered _by another_ [ ~~after~~  
+|  ~~the~~ ] court _in an original suit filed as described by Section_  
+| _103.001(b)_ [ ~~acquires continuing, exclusive jurisdiction of the~~  
+|  ~~suit~~ ];  
+|  (2) the parents of the child have remarried each other  
+| after the dissolution of a previous marriage between them and file a  
+| suit for the dissolution of their subsequent marriage combined with  
+| a suit affecting the parent-child relationship as if there had not  
+| been a prior court with continuing, exclusive jurisdiction over the  
+| child; or  
+|  (3) another court assumed jurisdiction over a suit and  
+| rendered a final order based on incorrect information received from  
+| the vital statistics unit that there was no court of continuing,  
+| exclusive jurisdiction.  
+|  SECTION 2. (a)  The change in law made by this Act applies  
+| only to an order of adoption rendered on or after the effective date  
+| of this Act.  
+|  (b) Notwithstanding Subsection (a) of this section, an  
+| order of adoption rendered in an original suit filed as described by  
+| Section 103.001(b), Family Code, on or after September 1, 2015, but  
+| before the effective date of this Act by a court that would have  
+| exclusive jurisdiction to render the order as a result of a court of  
+| this state losing its continuing, exclusive jurisdiction under  
+| Section 155.004(a), Family Code, as amended by this Act, is a final  
+| order and is not subject to an appeal on that basis.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

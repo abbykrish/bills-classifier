@@ -1,0 +1,22 @@
+| 86R13139 LED-F  
+---|---  
+|  By: Leach | H.B. No. 2757  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the rule of decision in a court of this state.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 5.001, Civil Practice and Remedies Code,  
+| is amended to read as follows:  
+|  Sec. 5.001. RULE OF DECISION. _(a)_ The rule of decision in  
+| this state consists of those portions of the common law of England  
+| that are not inconsistent with the constitution or the laws of this  
+| state, the _constitutions_ [ ~~constitution~~ ] of this state _and of the_  
+| _United States_ , [ ~~and~~ ] the laws of this state _, and case law
+precedents_  
+| _set by a court of this state_.  
+|  _(b)_ _____In any action governed by the laws of this state_  
+| _concerning rights and obligations under the law, the American Law_  
+| _Institute's Restatements of the Law are not controlling._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

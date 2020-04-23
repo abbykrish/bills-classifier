@@ -1,0 +1,129 @@
+| 86R5134 CJC-D  
+---|---  
+|  By: Burrows | H.B. No. 4617  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the appraisal for ad valorem tax purposes of certain  
+| dealer's heavy equipment inventory.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 23.1241(a)(1), (2), (7), (8), and (9),  
+| Tax Code, are amended to read as follows:  
+|  (1) "Dealer" means a person engaged in the business in  
+| this state of selling[ ~~, leasing, or renting~~ ] heavy equipment. The  
+| term does not include a bank, savings bank, savings and loan  
+| association, credit union, or other finance company. In addition,  
+| for purposes of taxation of a person's inventory of heavy equipment  
+| in a tax year, the term does not include a person who renders the  
+| person's inventory of heavy equipment for taxation in that tax year  
+| by filing a rendition statement or property report in accordance  
+| with Chapter 22.  
+|  (2) "Dealer's heavy equipment inventory" means all  
+| items of heavy equipment that a dealer holds for sale _at retail_ [ ~~,~~  
+|  ~~lease, or rent~~ ] in this state [ ~~during a 12-month period~~ ].  _The
+term_  
+| _includes items of heavy equipment that are leased or rented but_  
+| _subject to a purchase option by the lessee or renter._  
+|  (7) "Sales price" means:  
+|  (A) the total amount of money paid or to be paid  
+| to a dealer for the purchase of an item of heavy equipment; or  
+|  (B) for a lease or rental _with an option to_  
+| _purchase_ , the total amount of the lease or rental payments _plus any_  
+| _final consideration, excluding interest_.  
+|  (8) "Subsequent sale" means a dealer-financed sale of  
+| an item of heavy equipment that, at the time of the sale, has been  
+| the subject of a dealer-financed sale from the same dealer's heavy  
+| equipment inventory in the same calendar year. [ ~~The term does not~~  
+|  ~~include a rental or lease with an unexercised purchase option or~~  
+|  ~~without a purchase option.~~ ]  
+|  (9) "Total annual sales" means the total of the[ ~~:~~  
+|  [ ~~(A)~~ ] sales price for each sale from a dealer's  
+| heavy equipment inventory in a 12-month period[ ~~; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~lease and rental payments received for each~~  
+|  ~~lease or rental of heavy equipment inventory in a 12-month period~~ ].  
+|  SECTION 2. Sections 23.1241(b) and (e), Tax Code, are  
+| amended to read as follows:  
+|  (b) For the purpose of the computation of property tax _:_  
+|  _(1)_ [ ~~,~~ ] the market value of a dealer's heavy equipment  
+| inventory on January 1 is the total annual sales, less sales to  
+| dealers, fleet transactions, and subsequent sales, for the 12-month  
+| period corresponding to the preceding tax year, divided by 12 _; and_  
+|  _(2)_ _____a sale is considered to occur when possession of an_  
+| _item of heavy equipment is transferred from the dealer to the_  
+| _purchaser_.  
+|  (e) A dealer is presumed to be an owner of a dealer's heavy  
+| equipment inventory on January 1 if, in the 12-month period ending  
+| on December 31 of the preceding year, the dealer sold[ ~~, leased, or~~  
+|  ~~rented~~ ] an item of heavy equipment to a person other than a  
+| dealer. The presumption is not rebutted by the fact that a dealer  
+| has no item of heavy equipment physically on hand for sale from the  
+| dealer's heavy equipment inventory on January 1.  
+|  SECTION 3. Sections 23.1242(b), (e), and (f), Tax Code, are  
+| amended to read as follows:  
+|  (b) Except for an item of heavy equipment sold to a dealer,  
+| an item of heavy equipment included in a fleet transaction, _or_ an  
+| item of heavy equipment that is the subject of a subsequent sale,  
+| [ ~~or an item of heavy equipment that is subject to a lease or~~  
+|  ~~rental,~~ ] an owner or a person who has agreed by contract to pay the  
+| owner's current year property taxes levied against the owner's  
+| heavy equipment inventory shall assign a unit property tax to each  
+| item of heavy equipment sold from a dealer's heavy equipment  
+| inventory. [ ~~In the case of a lease or rental, the owner shall~~  
+|  ~~assign a unit property tax to each item of heavy equipment leased or~~  
+|  ~~rented.~~ ] The unit property tax of each item of heavy equipment is  
+| determined by multiplying the sales price of the item [ ~~or the~~  
+|  ~~monthly lease or rental payment received for the item, as~~  
+|  ~~applicable,~~ ] by the unit property tax factor. [ ~~If the transaction~~  
+|  ~~is a lease or rental, the owner shall collect the unit property tax~~  
+|  ~~from the lessee or renter at the time the lessee or renter submits~~  
+|  ~~payment for the lease or rental.~~ ~~~~ ~~~~ ~~The owner of the equipment
+shall~~  
+|  ~~state the amount of the unit property tax assigned as a separate~~  
+|  ~~line item on an invoice.~~ ] On or before the 20th day of each month  
+| the owner shall, together with the statement filed by the owner as  
+| required by this section, deposit with the collector an amount  
+| equal to the total of unit property tax assigned to all items of  
+| heavy equipment sold[ ~~, leased, or rented~~ ] from the dealer's heavy  
+| equipment inventory in the preceding month to which a unit property  
+| tax was assigned. The money shall be deposited by the collector to  
+| the credit of the owner's escrow account for prepayment of property  
+| taxes as provided by this section. An escrow account required by  
+| this section is used to pay property taxes levied against the  
+| dealer's heavy equipment inventory, and the owner shall fund the  
+| escrow account as provided by this subsection.  
+|  (e) The comptroller by rule shall adopt a dealer's heavy  
+| equipment inventory tax statement form. Each month, a dealer shall  
+| complete the form regardless of whether an item of heavy equipment  
+| is sold[ ~~, leased, or rented~~ ]. A dealer may use no other form for  
+| that purpose. The statement may include the information the  
+| comptroller considers appropriate but shall include at least the  
+| following:  
+|  (1) a description of each item of heavy equipment  
+| sold, [ ~~leased, or rented~~ ] including any unique identification or  
+| serial number affixed to the item by the manufacturer;  
+|  (2) the sales price of [ ~~or lease or rental payment~~  
+|  ~~received for~~ ] the item of heavy equipment[ ~~, as applicable~~ ];  
+|  (3) the unit property tax of the item of heavy  
+| equipment, if any; and  
+|  (4) the reason no unit property tax is assigned if no  
+| unit property tax is assigned.  
+|  (f) On or before the 20th day of each month, a dealer shall  
+| file with the collector the statement covering the sale[ ~~, lease, or~~  
+|  ~~rental~~ ] of each item of heavy equipment sold[ ~~, leased, or rented~~
+] by  
+| the dealer in the preceding month. On or before the 20th day of a  
+| month following a month in which a dealer does not sell[ ~~, lease, or~~  
+|  ~~rent~~ ] an item of heavy equipment, the dealer must file the statement  
+| with the collector and indicate that no sales[ ~~, leases, or rentals~~ ]  
+| were made in the prior month. A dealer shall file a copy of the  
+| statement with the chief appraiser and retain documentation  
+| relating to the disposition of each item of heavy equipment sold  
+| [ ~~and the lease or rental of each item of heavy equipment~~ ]. A chief  
+| appraiser or collector may examine documents held by a dealer as  
+| provided by this subsection in the same manner, and subject to the  
+| same conditions, as provided by Section 23.1241(g).  
+|  SECTION 4. Section 23.1241(b-1), Tax Code, is repealed.  
+|  SECTION 5. This Act applies only to ad valorem taxes imposed  
+| for a tax year beginning on or after the effective date of this Act.  
+|  SECTION 6. This Act takes effect January 1, 2020.
+

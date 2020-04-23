@@ -1,0 +1,960 @@
+| 86R17033 TSR-D  
+---|---  
+|  By: Martinez Fischer | H.B. No. 4518  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the privacy of a consumer's personal information  
+| collected by certain businesses; imposing a civil penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 11, Business & Commerce Code, is amended by  
+| adding Subtitle C to read as follows:  
+| _SUBTITLE C. PRIVACY OF PERSONAL INFORMATION_  
+| _CHAPTER 541. PRIVACY OF CONSUMER'S PERSONAL INFORMATION_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec._ ___541.001._ _____SHORT TITLE. This chapter may be cited as the_  
+| _Texas Consumer Privacy Act._  
+|  _Sec. 541.002. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Aggregate consumer information" means_  
+| _information that relates to a group or category of consumers from_  
+| _which individual consumer identities have been removed and that is_  
+| _not linked or reasonably linkable to a particular consumer or_  
+| _household, including through a device. The term does not include_  
+| _one or more individual consumer records that have been_  
+| _deidentified._  
+|  _(2)_ _____"Biometric information" means an individual's_  
+| _physiological, biological, or behavioral characteristics that can_  
+| _be used, alone or in combination with other characteristics or_  
+| _other identifying data, to establish the individual's identity._  
+| _The term includes:_  
+|  _(A) deoxyribonucleic acid (DNA);_  
+|  _(B)_ _____an image of an iris, retina, fingerprint,_  
+| _face, hand, palm, or vein pattern or a voice recording from which an_  
+| _identifier template can be extracted such as a faceprint, minutiae_  
+| _template, or voiceprint;_  
+|  _(C) keystroke patterns or rhythms;_  
+|  _(D) gait patterns or rhythms; and_  
+|  _(E)_ _____sleep, health, or exercise data that contains_  
+| _identifying information._  
+|  _(3)_ _____"Business" means a for-profit entity, including a_  
+| _sole proprietorship, partnership, limited liability company,_  
+| _corporation, association, or other legal entity that is organized_  
+| _or operated for the profit or financial benefit of the entity's_  
+| _shareholders or other owners._  
+|  _(4)_ _____"Business purpose" means the use of personal_  
+| _information for:_  
+|  _(A)_ _____the following operational purposes of a_  
+| _business or service provider, provided that the use of the_  
+| _information is reasonably necessary and proportionate to achieve_  
+| _the operational purpose for which the information was collected or_  
+| _processed or another operational purpose that is compatible with_  
+| _the context in which the information was collected:_  
+|  _(i)_ _____auditing related to a current_  
+| _interaction with a consumer and any concurrent transactions,_  
+| _including counting ad impressions to unique visitors, verifying the_  
+| _positioning and quality of ad impressions, and auditing compliance_  
+| _with a specification or other standards for ad impressions;_  
+|  _(ii)_ _____detecting a security incident,_  
+| _protecting against malicious, deceptive, fraudulent, or illegal_  
+| _activity, and prosecuting those responsible for any illegal_  
+| _activity described by this subparagraph;_  
+|  _(iii)_ _____identifying and repairing or removing_  
+| _errors that impair the intended functionality of computer hardware_  
+| _or software;_  
+|  _(iv)_ _____using personal information in the_  
+| _short term or for a transient use, provided that the information is_  
+| _not:_  
+|  _(a) disclosed to a third party; and_  
+|  _(b)_ _____used to build a profile about a_  
+| _consumer or alter an individual consumer's experience outside of a_  
+| _current interaction with the consumer, including the contextual_  
+| _customization of an advertisement displayed as part of the same_  
+| _interaction;_  
+|  _(v)_ _____performing a service on behalf of the_  
+| _business or service provider, including:_  
+|  _(a)_ _____maintaining or servicing an_  
+| _account, providing customer service, processing or fulfilling an_  
+| _order or transaction, verifying customer information, processing a_  
+| _payment, providing financing, providing advertising or marketing_  
+| _services, or providing analytic services; or_  
+|  _(b)_ _____performing a service similar to a_  
+| _service described by Sub-subparagraph (a) on behalf of the business_  
+| _or service provider;_  
+|  _(vi)_ _____undertaking internal research for_  
+| _technological development and demonstration; or_  
+|  _(vii) undertaking an activity to:_  
+|  _(a)_ _____verify or maintain the quality or_  
+| _safety of a service or device that is owned by, manufactured by,_  
+| _manufactured for, or controlled by the business; or_  
+|  _(b)_ _____improve, upgrade, or enhance a_  
+| _service or device described by Sub-subparagraph (a); or_  
+|  _(B)_ _____another operational purpose for which notice_  
+| _is given under this chapter._  
+|  _(5)_ _____"Collect" means to buy, rent, gather, obtain,_  
+| _receive, or access the personal information of a consumer by any_  
+| _means, including by actively or passively receiving the information_  
+| _from the consumer or by observing the consumer's behavior._  
+|  _(6)_ _____"Commercial purpose" means a purpose that is_  
+| _intended to result in a profit or other tangible benefit or the_  
+| _advancement of a person's commercial or economic interests, such as_  
+| _by inducing another person to buy, rent, lease, subscribe to,_  
+| _provide, or exchange products, goods, property, information, or_  
+| _services or by enabling or effecting, directly or indirectly, a_  
+| _commercial transaction. The term does not include the purpose of_  
+| _engaging in speech recognized by state or federal courts as_  
+| _noncommercial speech, including political speech and journalism._  
+|  _(7)_ _____"Consumer" means an individual who is a resident_  
+| _of this state._  
+|  _(8)_ _____"Deidentified information" means information that_  
+| _cannot reasonably identify, relate to, describe, be associated_  
+| _with, or be linked to, directly or indirectly, a particular_  
+| _consumer._  
+|  _(9)_ _____"Device" means any physical object capable of_  
+| _connecting to the Internet, directly or indirectly, or to another_  
+| _device._  
+|  _(10)_ _____"Identifier" means data elements or other_  
+| _information that alone or in conjunction with other information can_  
+| _be used to identify a particular consumer, household, or device_  
+| _that is linked to a particular consumer or household._  
+|  _(11)_ _____"Person" means an individual, sole_  
+| _proprietorship, firm, partnership, joint venture, syndicate,_  
+| _business trust, company, corporation, limited liability company,_  
+| _association, committee, and any other organization or group of_  
+| _persons acting in concert._  
+|  _(12)_ _____"Personal information" means information that_  
+| _identifies, relates to, describes, can be associated with, or can_  
+| _reasonably be linked to, directly or indirectly, a particular_  
+| _consumer or household. The term does not include publicly_  
+| _available information. The term includes the following categories_  
+| _of information if the information identifies, relates to,_  
+| _describes, can be associated with, or can reasonably be linked to,_  
+| _directly or indirectly, a particular consumer or household:_  
+|  _(A)_ _____an identifier, including a real name, alias,_  
+| _mailing address, account name, date of birth, driver's license_  
+| _number, unique identifier, social security number, passport_  
+| _number, signature, telephone number, or other government-issued_  
+| _identification number, or other similar identifier;_  
+|  _(B)_ _____an online identifier, including an_  
+| _electronic mail address or Internet Protocol address, or other_  
+| _similar identifier;_  
+|  _(C)_ _____a physical characteristic or description,_  
+| _including a characteristic of a protected classification under_  
+| _state or federal law;_  
+|  _(D) commercial information, including:_  
+|  _(i) a record of personal property;_  
+|  _(ii)_ _____a good or service purchased, obtained,_  
+| _or considered;_  
+|  _(iii) an insurance policy number; or_  
+|  _(iv)_ _____other purchasing or consuming_  
+| _histories or tendencies;_  
+|  _(E) biometric information;_  
+|  _(F)_ _____Internet or other electronic network_  
+| _activity information, including:_  
+|  _(i) browsing or search history; and_  
+|  _(ii)_ _____other information regarding a_  
+| _consumer's interaction with an Internet website, application, or_  
+| _advertisement;_  
+|  _(G) geolocation data;_  
+|  _(H)_ _____audio, electronic, visual, thermal,_  
+| _olfactory, or other similar information;_  
+|  _(I)_ _____professional or employment-related_  
+| _information;_  
+|  _(J)_ _____education information that is not publicly_  
+| _available personally identifiable information under the Family_  
+| _Educational Rights and Privacy Act of 1974 (20 U.S.C. Section_  
+| _1232g) (34 C.F.R. Part 99);_  
+|  _(K)_ _____financial information, including a financial_  
+| _institution account number, credit or debit card number, or_  
+| _password or access code associated with a credit or debit card or_  
+| _bank account;_  
+|  _(L) medical information;_  
+|  _(M) health insurance information; or_  
+|  _(N)_ _____inferences drawn from any of the information_  
+| _listed under this subdivision to create a profile about a consumer_  
+| _that reflects the consumer's preferences, characteristics,_  
+| _psychological trends, predispositions, behavior, attitudes,_  
+| _intelligence, abilities, or aptitudes._  
+|  _(13)_ _____"Processing information" means performing any_  
+| _operation or set of operations on personal data or on sets of_  
+| _personal data, whether or not by automated means._  
+|  _(14)_ _____"Publicly available information"_ ___means_  
+| _information that is lawfully made available to the public from_  
+| _federal, state, or local government records if the conditions_  
+| _associated with making the information available are met. The term_  
+| _does not include:_  
+|  _(A)_ _____biometric information of a consumer_  
+| _collected by a business without the consumer's knowledge;_  
+|  _(B)_ _____data that is used for a purpose that is not_  
+| _compatible with the purpose for which the data is:_  
+|  _(i) publicly maintained; or_  
+|  _(ii)_ _____maintained in and made available from_  
+| _government records; or_  
+|  _(C)_ _____deidentified or aggregate consumer_  
+| _information._  
+|  _(15)_ _____"Service provider" means a for-profit entity as_  
+| _described by Subdivision (3) that processes information on behalf_  
+| _of a business and to which the business discloses, for a business_  
+| _purpose, a consumer's personal information under a written_  
+| _contract, provided that the contract prohibits the entity receiving_  
+| _the information from retaining, using, or disclosing the_  
+| _information for any purpose other than:_  
+|  _(A)_ _____providing the services specified in the_  
+| _contract with the business; or_  
+|  _(B)_ _____for a purpose permitted by this chapter,_  
+| _including for a commercial purpose other than providing those_  
+| _specified services._  
+|  _(16) "Third party" means a person who is not:_  
+|  _(A)_ _____a business to which this chapter applies that_  
+| _collects personal information from consumers; or_  
+|  _(B)_ _____a person to whom the business discloses, for_  
+| _a business purpose, a consumer's personal information under a_  
+| _written contract, provided that the contract:_  
+|  _(i)_ _____prohibits the person receiving the_  
+| _information from:_  
+|  _(a) selling the information;_  
+|  _(b)_ _____retaining, using, or disclosing_  
+| _the information for any purpose other than providing the services_  
+| _specified in the contract, including for a commercial purpose other_  
+| _than providing those services; and_  
+|  _(c)_ _____retaining, using, or disclosing_  
+| _the information outside of the direct business relationship between_  
+| _the person and the business; and_  
+|  _(ii)_ _____includes a certification made by the_  
+| _person receiving the personal information that the person_  
+| _understands and will comply with the prohibitions under_  
+| _Subparagraph (i)._  
+|  _(17)_ _____"Unique identifier" means a persistent_  
+| _identifier that can be used over time and across different services_  
+| _to recognize a consumer, a custodial parent or guardian, or any_  
+| _minor children over which the parent or guardian has custody, or a_  
+| _device that is linked to those individuals. The term includes:_  
+|  _(A) a device identifier;_  
+|  _(B) an Internet Protocol address;_  
+|  _(C)_ _____a cookie, beacon, pixel tag, mobile ad_  
+| _identifier, or similar technology;_  
+|  _(D)_ _____a customer number, unique pseudonym, or user_  
+| _alias;_  
+|  _(E) a telephone number; and_  
+|  _(F)_ _____another form of a persistent or probabilistic_  
+| _identifier that can be used to identify a particular consumer or_  
+| _device._  
+|  _(18) "Verifiable consumer request" means a request:_  
+|  _(A)_ _____that is made by a consumer, a consumer on_  
+| _behalf of the consumer's minor child, or a natural person or person_  
+| _who is authorized by a consumer to act on the consumer's behalf; and_  
+|  _(B)_ _____that a business can reasonably verify, in_  
+| _accordance with rules adopted under Section 541.009, was submitted_  
+| _by:_  
+|  _(i)_ _____the consumer about whom the business_  
+| _has collected personal information; or_  
+|  _(ii)_ _____the consumer on behalf of the_  
+| _consumer's minor child about whom the business has collected_  
+| _personal information._  
+|  _Sec._ ___541.003._ _____APPLICABILITY OF CHAPTER. (a) This chapter_  
+| _applies only to:_  
+|  _(1) a business that:_  
+|  _(A) does business in this state;_  
+|  _(B)_ _____collects consumers' personal information or_  
+| _has that information collected on the business's behalf;_  
+|  _(C)_ _____alone or in conjunction with others,_  
+| _determines the purpose for and means of processing consumers'_  
+| _personal information; and_  
+|  _(D)_ _____satisfies one or more of the following_  
+| _thresholds:_  
+|  _(i)_ _____has annual gross revenue in an amount_  
+| _that exceeds $25 million, as adjusted by the attorney general in_  
+| _accordance with the rules adopted under Section 541.009;_  
+|  _(ii)_ _____alone or in combination with others,_  
+| _annually buys, sells, or receives or shares for commercial purposes_  
+| _the personal information of 50,000 or more consumers, households,_  
+| _or devices; or_  
+|  _(iii)_ _____derives 50 percent or more of the_  
+| _business's annual revenue from selling consumers' personal_  
+| _information; and_  
+|  _(2)_ _____an entity that controls or is controlled by a_  
+| _business described by Subdivision (1) and that shares a service_  
+| _mark, trademark, or shared name with the business._  
+|  _(b) For purposes of Subsection (a)(2), "control" means the:_  
+|  _(1)_ _____ownership of, or power to vote, more than 50_  
+| _percent of the outstanding shares of any class of voting security of_  
+| _a business;_  
+|  _(2)_ _____control in any manner over the election of a_  
+| _majority of the directors or of individuals exercising similar_  
+| _functions; or_  
+|  _(3)_ _____power to exercise a controlling influence over the_  
+| _management of a company._  
+|  _(c)_ _____For purposes of this chapter, a business sells a_  
+| _consumer's personal information to another business or a third_  
+| _party if the business sells, rents, discloses, disseminates, makes_  
+| _available, transfers, or otherwise communicates, orally, in_  
+| _writing, or by electronic or other means, the information to the_  
+| _other business or third party for monetary or other valuable_  
+| _consideration._  
+|  _(d)_ _____For purposes of this chapter, a business does not sell a_  
+| _consumer's personal information if:_  
+|  _(1)_ _____the consumer uses or directs the business to_  
+| _intentionally disclose the information or uses the business to_  
+| _intentionally interact with a third party, provided that the third_  
+| _party does not sell the information, unless that disclosure is_  
+| _consistent with this chapter; or_  
+|  _(2) the business:_  
+|  _(A)_ _____uses or shares an identifier of the consumer_  
+| _to alert a third party that the consumer has opted out of the sale of_  
+| _the information;_  
+|  _(B)_ _____uses or shares with a service provider a_  
+| _consumer's personal information that is necessary to perform a_  
+| _business purpose if:_  
+|  _(i)_ _____the business provided notice that the_  
+| _information is being used or shared in the business's terms and_  
+| _conditions consistent with Sections 541.054 and 541.102(a)(8); and_  
+|  _(ii)_ _____the service provider does not further_  
+| _collect, sell, or use the information except as necessary to_  
+| _perform the business purpose; or_  
+|  _(C)_ _____transfers to a third party a consumer's_  
+| _personal information as an asset that is part of a merger,_  
+| _acquisition, bankruptcy, or other transaction in which the third_  
+| _party assumes control of all or part of the business, provided that_  
+| _information is used or shared consistent with Sections 541.051,_  
+| _541.053, and 541.054(e)._  
+|  _(e)_ _____For purposes of Subsection (d)(1), an intentional_  
+| _interaction occurs if the consumer does one or more deliberate acts_  
+| _with the intent to interact with a third party. Placing a cursor_  
+| _over, muting, pausing, or closing online content does not_  
+| _constitute a consumer's intent to interact with a third party._  
+|  _Sec._ ___541.004._ _____EXEMPTIONS. (a) This chapter does not apply_  
+| _to:_  
+|  _(1) publicly available information;_  
+|  _(2)_ _____protected health information governed by Chapter_  
+| _181, Health and Safety Code, or collected by a covered entity or a_  
+| _business associate of a covered entity, as those terms are defined_  
+| _by 45 C.F.R. Section 160.103, that is governed by the privacy,_  
+| _security, and breach notification rules in 45 C.F.R. Parts 160 and_  
+| _164 adopted by the United States Department of Health and Human_  
+| _Services under the Health Insurance Portability and Accountability_  
+| _Act of 1996 (Pub. L. No._ ___104-191) and Title XIII of the American_  
+| _Recovery and Reinvestment Act of 2009 (Pub. L. No._ ___111-5);_  
+|  _(3)_ _____a health care provider governed by Chapter 181,_  
+| _Health and Safety Code, or a covered entity described by_  
+| _Subdivision (2) to the extent that the provider or entity maintains_  
+| _the personal information of a patient in the same manner as_  
+| _protected health information described by that subdivision;_  
+|  _(4)_ _____information collected as part of a clinical trial_  
+| _subject to the Federal Policy for the Protection of Human Subjects_  
+| _in accordance with the good clinical practice guidelines issued by_  
+| _the International Council for Harmonisation or the human subject_  
+| _protection requirements of the United States Food and Drug_  
+| _Administration;_  
+|  _(5)_ _____the sale of personal information to or by a_  
+| _consumer reporting agency, as defined by Section 20.01, if the_  
+| _information is to be:_  
+|  _(A)_ _____reported in or used to generate a consumer_  
+| _report, as defined by Section 1681a(d) of the Fair Credit Reporting_  
+| _Act (15 U.S.C. Section 1681 et seq.); and_  
+|  _(B)_ _____used solely for a purpose authorized under_  
+| _that act;_  
+|  _(6)_ _____personal information collected, processed, sold,_  
+| _or disclosed in accordance with:_  
+|  _(A)_ _____the Gramm-Leach-Bliley Act (Pub. L. No._  
+| _106-102) and its implementing regulations; or_  
+|  _(B)_ _____the Driver's Privacy Protection Act of 1994_  
+| _(18 U.S.C. Section 2721 et seq.);_  
+|  _(7)_ _____deidentified or aggregate consumer information;_  
+| _or_  
+|  _(8)_ _____a consumer's personal information collected or_  
+| _sold by a business, if every aspect of the collection or sale_  
+| _occurred wholly outside of this state._  
+|  _(b)_ _____For purposes of Subsection (a)(8), the collection or_  
+| _sale of a consumer's personal information occurs wholly outside of_  
+| _this state if:_  
+|  _(1)_ _____the business collects that information while the_  
+| _consumer is outside of this state;_  
+|  _(2)_ _____no part of the sale of the information occurs in_  
+| _this state; and_  
+|  _(3)_ _____the business does not sell any personal_  
+| _information of the consumer collected while the consumer is in this_  
+| _state._  
+|  _(c)_ _____For purposes of Subsection (b), the collection or sale_  
+| _of a consumer's personal information does not occur wholly outside_  
+| _of this state if a business stores a consumer's personal_  
+| _information, including on a device, when the consumer is in this_  
+| _state and subsequently collects or sells that stored information_  
+| _when the consumer and the information are outside of this state._  
+|  _Sec._ ___541.005._ _____CERTAIN RIGHTS AND OBLIGATIONS NOT AFFECTED._  
+| _A right or obligation under this chapter does not apply to the_  
+| _extent that the exercise of the right or performance of the_  
+| _obligation:_  
+|  _(1) adversely affects a right of another consumer; or_  
+|  _(2) infringes on a noncommercial activity of:_  
+|  _(A)_ _____a publisher, editor, reporter, or other_  
+| _person connected with or employed by a newspaper, magazine, or_  
+| _other publication of general circulation, including a periodical_  
+| _newsletter, pamphlet, or report;_  
+|  _(B)_ _____a radio or television station that holds a_  
+| _license issued by the Federal Communications Commission; or_  
+|  _(C)_ _____an entity that provides an information_  
+| _service, including a press association or wire service._  
+|  _Sec._ ___541.006._ _____COMPLIANCE WITH OTHER LAWS; LEGAL_  
+| _PROCEEDINGS. This chapter does not:_  
+|  _(1) restrict a business's ability to:_  
+|  _(A) comply with:_  
+|  _(i)_ _____applicable federal, state, or local_  
+| _laws; or_  
+|  _(ii)_ _____a civil, criminal, or regulatory_  
+| _inquiry, investigation, subpoena, or summons by a federal, state,_  
+| _or local authority;_  
+|  _(B)_ _____cooperate with a law enforcement agency_  
+| _concerning conduct or activity that the business, a service_  
+| _provider of the business, or a third party reasonably and in good_  
+| _faith believes may violate other applicable federal, state, or_  
+| _local laws; or_  
+|  _(C) pursue or defend against a legal claim; or_  
+|  _(2)_ _____require a business to violate an evidentiary_  
+| _privilege under federal or state law or prevent a business from_  
+| _disclosing to a person covered by an evidentiary privilege the_  
+| _personal information of a consumer as part of a privileged_  
+| _communication._  
+|  _Sec._ ___541.007._ _____CONSTRUCTION; RELATION TO OTHER STATE AND_  
+| _FEDERAL LAW. (a) This chapter shall be liberally construed to_  
+| _effect its purposes and to harmonize, to the extent possible, with_  
+| _other laws of this state relating to the privacy or protection of_  
+| _personal information._  
+|  _(b)_ _____To the extent of a conflict between a provision of this_  
+| _chapter and a provision of federal law, including a regulation or an_  
+| _interpretation of federal law, federal law controls and conflicting_  
+| _requirements or other provisions of this chapter do not apply._  
+|  _(c)_ _____To the extent of a conflict between a provision of this_  
+| _chapter and another statute of this state with respect to the_  
+| _privacy or protection of consumers' personal information, the_  
+| _provision of law that affords the greatest privacy or protection to_  
+| _consumers prevails._  
+|  _Sec._ ___541.008._ _____PREEMPTION OF LOCAL LAW. This chapter_  
+| _preempts and supersedes any ordinance, order, or rule adopted by a_  
+| _political subdivision of this state relating to the collection or_  
+| _sale by a business of a consumer's personal information._  
+|  _Sec._ ___541.009._ _____RULES. (a) The attorney general shall adopt_  
+| _rules necessary to implement, administer, and enforce this chapter._  
+|  _(b) The rules adopted under Subsection (a) must establish:_  
+|  _(1)_ _____procedures for the adjustment of the monetary_  
+| _threshold under Section 541.003(a)(1)(D) in January of every_  
+| _odd-numbered year to reflect any increase in the consumer price_  
+| _index;_  
+|  _(2)_ _____procedures governing the determination of,_  
+| _submission of, and compliance with a verifiable consumer request_  
+| _for information with the goal of minimizing administrative burdens_  
+| _on consumers and businesses subject to this chapter by taking into_  
+| _account available technology and security concerns, including:_  
+|  _(A)_ _____treating as a verifiable consumer request a_  
+| _request submitted through a password-protected online account_  
+| _maintained by the consumer with the business while logged into the_  
+| _account; and_  
+|  _(B)_ _____providing a mechanism for a request submitted_  
+| _by a consumer who does not maintain an account with the business;_  
+|  _(3)_ _____procedures to facilitate and govern the submission_  
+| _of and compliance with a request to opt out of the sale of personal_  
+| _information under Section 541.054;_  
+|  _(4)_ _____guidelines for the development of a recognizable_  
+| _and uniform opt-out logo or button for use on businesses'_ ___Internet_  
+| _websites in a manner that promotes consumer awareness of the_  
+| _opportunity to opt out of the sale of personal information; and_  
+|  _(5)_ _____procedures and guidelines, including any_  
+| _necessary exceptions, to ensure that the notices and information_  
+| _businesses are required to provide under this chapter, including_  
+| _information regarding financial incentive offerings, are:_  
+|  _(A)_ _____provided in a manner that is easily_  
+| _understood by the average consumer;_  
+|  _(B)_ _____accessible by consumers with disabilities;_  
+| _and_  
+|  _(C)_ _____available in the languages primarily used by_  
+| _consumers to interact with businesses._  
+|  _(c)_ _____The attorney general may adopt other rules necessary to_  
+| _further the purposes of this chapter, including rules as necessary_  
+| _to:_  
+|  _(1)_ _____update the categories of personal information_  
+| _listed under Section 541.002(12) and the definition of identifier_  
+| _under Section 541.002 to account for privacy concerns,_  
+| _implementation obstacles, or changes in technology and data_  
+| _collection methods;_  
+|  _(2)_ _____update the designated methods for submitting_  
+| _requests to facilitate a consumer's ability to obtain information_  
+| _from a business under Section 541.103; and_  
+|  _(3)_ _____establish any exceptions necessary to comply with_  
+| _federal law or other laws of this state, including laws relating to_  
+| _trade secrets and intellectual property rights._  
+|  _Sec._ ___541.010._ _____ATTORNEY GENERAL OPINION. A business or a_  
+| _third party may seek an opinion from the attorney general for_  
+| _guidance on how to comply with this chapter._  
+|  _Sec._ ___541.011._ _____USE OF PERSONAL INFORMATION IN RESEARCH. For_  
+| _purposes of this chapter, "research" means scientific, systematic_  
+| _study and observation, including basic research or applied research_  
+| _that is in the public interest and that adheres to all other_  
+| _applicable ethics and privacy laws or studies conducted in the_  
+| _public interest in the area of public health. Research with_  
+| _personal information that may have been collected from a consumer_  
+| _in the course of the consumer's interactions with a business's_  
+| _service or device for other purposes must be:_  
+|  _(1)_ _____compatible with the business purpose for which the_  
+| _personal information was collected;_  
+|  _(2)_ _____subsequently pseudonymized and deidentified, or_  
+| _deidentified and in the aggregate, such that the information cannot_  
+| _reasonably identify, relate to, describe, be capable of being_  
+| _associated with, or be linked, directly or indirectly, to a_  
+| _particular consumer;_  
+|  _(3)_ _____made subject to technical safeguards that prohibit_  
+| _reidentification of the consumer to whom the information may_  
+| _pertain;_  
+|  _(4)_ _____subject to business processes that specifically_  
+| _prohibit reidentification of the information;_  
+|  _(5)_ _____made subject to business processes to prevent_  
+| _inadvertent release of deidentified information;_  
+|  _(6) protected from any reidentification attempts;_  
+|  _(7)_ _____used solely for research purposes that are_  
+| _compatible with the context in which the personal information was_  
+| _collected;_  
+|  _(8) not used for any commercial purpose; and_  
+|  _(9)_ _____subjected by the business conducting the research_  
+| _to additional security controls that limit access to the research_  
+| _data to only those individuals in a business as are necessary to_  
+| _carry out the research purpose._  
+| _SUBCHAPTER B. CONSUMER'S RIGHTS_  
+|  _Sec._ ___541.051._ _____RIGHT TO DISCLOSURE OF PERSONAL INFORMATION_  
+| _COLLECTED. (a) A consumer is entitled to request that a business_  
+| _that collects the consumer's personal information disclose to the_  
+| _consumer the categories and specific items of personal information_  
+| _the business has collected._  
+|  _(b)_ _____To receive the disclosure of information under_  
+| _Subsection (a), a consumer must submit to the business a verifiable_  
+| _consumer request using a method designated by the business under_  
+| _Section 541.103._  
+|  _(c)_ _____On receipt of a verifiable consumer request under this_  
+| _section, a business shall disclose to the consumer in the time and_  
+| _manner provided by Section 541.105:_  
+|  _(1)_ _____each enumerated category and item within each_  
+| _category of personal information under Section 541.002(12) that the_  
+| _business collected about the consumer during the 12 months_  
+| _preceding the date of the request;_  
+|  _(2)_ _____each category of sources from which the_  
+| _information was collected;_  
+|  _(3)_ _____the business or commercial purpose for collecting_  
+| _or selling the personal information; and_  
+|  _(4)_ _____each category of third parties with whom the_  
+| _business shares the personal information._  
+|  _(d) This section does not require a business to:_  
+|  _(1)_ _____retain a consumer's personal information that was_  
+| _collected for a one-time transaction if the information is not sold_  
+| _or retained in the ordinary course of business; or_  
+|  _(2)_ _____reidentify or otherwise link any data that, in the_  
+| _ordinary course of business, is not maintained in a manner that_  
+| _would be considered personal information._  
+|  _Sec._ ___541.052._ _____RIGHT TO DELETION OF PERSONAL INFORMATION_  
+| _COLLECTED. (a) A consumer is entitled to request that a business_  
+| _that collects the consumer's personal information delete any_  
+| _personal information the business has collected from the consumer_  
+| _by submitting a verifiable consumer request using a method_  
+| _designated by the business under Section 541.103._  
+|  _(b)_ _____Except as provided by Subsection (c), on receipt of a_  
+| _verifiable consumer request under this section, a business shall_  
+| _delete from the business's records any personal information_  
+| _collected from the consumer and direct a service provider of the_  
+| _business to delete the information from the provider's records._  
+|  _(c)_ _____A business or service provider of the business is not_  
+| _required to comply with a verifiable consumer request received_  
+| _under this section if the business or service provider needs to_  
+| _retain the consumer's personal information to:_  
+|  _(1)_ _____complete the transaction for which the information_  
+| _was collected;_  
+|  _(2)_ _____provide a good or service requested by the_  
+| _consumer or reasonably anticipated to be requested by the consumer_  
+| _in the context of the ongoing business relationship between the_  
+| _business and consumer;_  
+|  _(3)_ _____perform under a contract between the business and_  
+| _the consumer;_  
+|  _(4)_ _____detect a security incident, protect against_  
+| _malicious, deceptive, fraudulent, or illegal activity, or_  
+| _prosecute those responsible for any illegal activity described by_  
+| _this subdivision;_  
+|  _(5)_ _____identify and repair or remove errors from computer_  
+| _hardware or software that impair its intended functionality;_  
+|  _(6)_ _____exercise free speech or ensure the right of_  
+| _another consumer to exercise the right of free speech or another_  
+| _right afforded by law;_  
+|  _(7)_ _____comply with Chapter 1289 (H.B. 2268), Acts of the_  
+| _83rd Legislature, Regular Session, 2013, or a legal obligation;_  
+|  _(8)_ _____engage in public or peer-reviewed scientific,_  
+| _historical, or statistical research that is in the public interest_  
+| _and that adheres to all other applicable ethics and privacy laws_  
+| _provided that:_  
+|  _(A)_ _____the business's deletion of the information is_  
+| _likely to render impossible or seriously impair the achievement of_  
+| _that research; and_  
+|  _(B)_ _____the consumer has provided to the business_  
+| _informed consent to retain the information; or_  
+|  _(9) use the information internally:_  
+|  _(A)_ _____so long as the use is reasonably aligned with_  
+| _the expectations of the consumer based on the consumer's_  
+| _relationship with the business; or_  
+|  _(B)_ _____in a manner that is lawful and compatible_  
+| _with the context in which the consumer provided the information._  
+|  _Sec._ ___541.053._ _____RIGHT TO DISCLOSURE OF PERSONAL INFORMATION_  
+| _SOLD OR DISCLOSED. (a) A consumer is entitled to request that a_  
+| _business that sells, or discloses for a business purpose, the_  
+| _consumer's personal information disclose to the consumer:_  
+|  _(1)_ _____the categories of personal information the_  
+| _business collected about the consumer;_  
+|  _(2)_ _____the categories of personal information about the_  
+| _consumer the business sold, or disclosed for a business purpose;_  
+| _and_  
+|  _(3)_ _____the categories of third parties to whom the_  
+| _personal information was sold or disclosed._  
+|  _(b)_ _____To receive the disclosure of information under_  
+| _Subsection (a), a consumer must submit to the business a verifiable_  
+| _consumer request using a method designated by the business under_  
+| _Section 541.103._  
+|  _(c)_ _____On receipt of a verifiable consumer request under this_  
+| _section, a business shall disclose to the consumer in the time and_  
+| _manner provided by Section 541.105:_  
+|  _(1)_ _____each enumerated category of personal information_  
+| _under Section 541.002(12) that the business collected about the_  
+| _consumer during the 12 months preceding the date of the request;_  
+|  _(2)_ _____the categories of third parties to whom the_  
+| _business sold the consumer's personal information during the 12_  
+| _months preceding the date of the request, by reference to each_  
+| _enumerated category of information under Section 541.002(12) sold_  
+| _to each third party; and_  
+|  _(3)_ _____the categories of third parties to whom the_  
+| _business disclosed for a business purpose the consumer's personal_  
+| _information during the 12 months preceding the date of the request,_  
+| _by reference to each enumerated category of information under_  
+| _Section 541.002(12) disclosed to each third party._  
+|  _(d)_ _____A business shall provide the information described by_  
+| _Subsections (c)(2) and (3) in two separate lists._  
+|  _(e)_ _____A business that did not sell, or disclose for a business_  
+| _purpose, the consumer's personal information during the 12 months_  
+| _preceding the date of receiving the consumer's verifiable consumer_  
+| _request under this section shall disclose that fact to the_  
+| _consumer._  
+|  _Sec._ ___541.054._ _____RIGHT TO OPT OUT OF SALE OF PERSONAL_  
+| _INFORMATION. (a) A consumer is entitled at any time to opt out of_  
+| _the sale of the consumer's personal information by a business to_  
+| _third parties by directing the business not to sell the_  
+| _information. A consumer may authorize another person solely to opt_  
+| _out of the sale of the consumer's personal information on the_  
+| _consumer's behalf. Except as provided by Subsection (c), a_  
+| _business shall comply with a direction not to sell that is received_  
+| _under this subsection._  
+|  _(b)_ _____A business that sells to a third party consumers'_  
+| _personal information shall provide on the business's Internet_  
+| _website's home page:_  
+|  _(1) notice to consumers that:_  
+|  _(A) the information may be sold; and_  
+|  _(B)_ _____consumers have the right to opt out of the_  
+| _sale; and_  
+|  _(2) a clear and conspicuous link that:_  
+|  _(A)_ _____enables a consumer, or a person authorized by_  
+| _the consumer, to opt out of the sale of the consumer's personal_  
+| _information; and_  
+|  _(B)_ _____is titled "DO NOT SELL MY PERSONAL_  
+| _INFORMATION."_  
+|  _(c)_ _____A business may not sell to a third party the personal_  
+| _information of a consumer who opts out of the sale of that_  
+| _information under this section before the first anniversary of the_  
+| _date the consumer opted out, unless the consumer provides express_  
+| _authorization for the business to sell the consumer's personal_  
+| _information. After the period prescribed by this subsection_  
+| _expires, a business may request that the consumer consent to the_  
+| _sale of the consumer's personal information by the business._  
+|  _(d)_ _____A business may use any personal information collected_  
+| _from the consumer in connection with the consumer's opting out_  
+| _under this section solely to comply with this section._  
+|  _(e)_ _____A third party to whom a business has sold the personal_  
+| _information of a consumer may not sell the information unless the_  
+| _consumer receives explicit notice of the potential sale and is_  
+| _provided the opportunity to exercise the right to opt out of the_  
+| _sale as provided by this section._  
+|  _(f)_ _____Notwithstanding Subsection (b), a business is not_  
+| _required to provide the link required by that subsection on the_  
+| _Internet website the business makes available to the public if the_  
+| _business:_  
+|  _(1)_ _____provides the required link on a separate and_  
+| _additional Internet website that is maintained by the business and_  
+| _dedicated to consumers; and_  
+|  _(2)_ _____takes reasonable steps to ensure that consumers_  
+| _are directed to the website described by Subdivision (1) instead of_  
+| _the website the business makes available to the public._  
+|  _(g)_ _____A business may not require a consumer to create an_  
+| _account with the business to opt out of the sale of the consumer's_  
+| _personal information._  
+|  _Sec._ ___541.055._ _____RIGHT TO OPT IN FOR SALE OF PERSONAL_  
+| _INFORMATION OF CERTAIN MINORS. (a) The requirement for consent to_  
+| _sell a consumer's personal information under this section may be_  
+| _referred to as the consumer's "right to opt in."_  
+|  _(b)_ _____A business may not sell a consumer's personal_  
+| _information if the business has actual knowledge that the consumer_  
+| _is younger than 16 years of age unless:_  
+|  _(1)_ _____for a consumer who is at least 13 years of age but_  
+| _younger than 16 years of age, the business receives express_  
+| _authorization to sell the consumer's personal information from the_  
+| _consumer; or_  
+|  _(2)_ _____for a consumer who is younger than 13 years of age,_  
+| _the business receives express authorization to sell the consumer's_  
+| _personal information from the consumer's parent or legal guardian._  
+|  _(c)_ _____A business that wilfully disregards the age of a_  
+| _consumer whose personal information the business sells to a third_  
+| _party is considered to have actual knowledge of the consumer's age._  
+|  _Sec._ ___541.056._ _____WAIVER OR LIMITATION PROVISION VOID. (a) A_  
+| _provision of a contract or other agreement that purports to waive or_  
+| _limit a right, remedy, or means of enforcement under this chapter is_  
+| _contrary to public policy and is void._  
+|  _(b) This section does not prevent a consumer from:_  
+|  _(1) declining to request information from a business;_  
+|  _(2)_ _____declining to opt out of a business's_ ___sale of the_  
+| _consumer's personal information; or_  
+|  _(3)_ _____authorizing a business to sell the consumer's_  
+| _personal information after previously opting out._  
+| _SUBCHAPTER C. BUSINESS RIGHTS AND OBLIGATIONS_  
+|  _Sec._ ___541.101._ _____NOTIFICATION OF COLLECTION REQUIRED. (a) A_  
+| _business that collects a consumer's personal information shall, at_  
+| _or before the point of collection, notify the consumer of each_  
+| _category of personal information to be collected and the purposes_  
+| _for which the category of information will be used._  
+|  _(b)_ _____A business may not collect an additional category of_  
+| _personal information or use personal information collected for an_  
+| _additional purpose unless the business provides notice to the_  
+| _consumer of the additional category or purpose in accordance with_  
+| _Subsection (a)._  
+|  _(c)_ _____If a third party that assumes control of all or part of a_  
+| _business as described by Section 541.003(d)(2)(C) materially_  
+| _alters the practices of the business in how personal information is_  
+| _used or shared, and the practices are materially inconsistent with_  
+| _a notice provided to a consumer under Subsection (a) or (b), the_  
+| _third party must notify the consumer of the third party's new or_  
+| _changed practices before the third party uses or shares the_  
+| _personal information in a conspicuous manner that allows the_  
+| _consumer to easily exercise a right provided under this chapter._  
+|  _(d)_ _____Subsection (c) does not authorize a business to make a_  
+| _material, retroactive change or other change to a business's_  
+| _privacy policy in a manner that would be a deceptive trade practice_  
+| _actionable under Subchapter E, Chapter 17._  
+|  _Sec._ ___541.102._ _____ONLINE PRIVACY POLICY OR POLICY NOTICE. (a)_  
+| _A business that collects, sells, or for a business purpose_  
+| _discloses a consumer's personal information shall disclose the_  
+| _following information in the business's online privacy policy or_  
+| _other notice of the business's_ ___policies:_  
+|  _(1)_ _____a description of a consumer's rights under_  
+| _Sections 541.051, 541.053, and 541.107 and designated methods for_  
+| _submitting a verifiable consumer request for information under this_  
+| _chapter;_  
+|  _(2)_ _____for a business that collects personal information_  
+| _about consumers, a description of the consumer's right to request_  
+| _the deletion of the consumer's personal information;_  
+|  _(3)_ _____separate lists containing the categories of_  
+| _consumers' personal information described by Section 541.002(12)_  
+| _that, during the 12 months preceding the date the business updated_  
+| _the information as required by Subsection (b), the business:_  
+|  _(A) collected;_  
+|  _(B) sold, if applicable; or_  
+|  _(C)_ _____disclosed for a business purpose, if_  
+| _applicable;_  
+|  _(4)_ _____the categories of sources from which the_  
+| _information under Subdivision (3) is collected;_  
+|  _(5)_ _____the business or commercial purposes for collecting_  
+| _personal information;_  
+|  _(6)_ _____if the business does not sell consumers'_ ___personal_  
+| _information or disclose the information for a business or_  
+| _commercial purpose, a statement of that fact;_  
+|  _(7)_ _____the categories of third parties to whom the_  
+| _business sells or discloses personal information;_  
+|  _(8)_ _____if the business sells consumers' personal_  
+| _information, the Internet link required by Section 541.054(b); and_  
+|  _(9)_ _____if applicable, the financial incentives offered to_  
+| _consumers under Section 541.108._  
+|  _(b)_ _____If a business described by Subsection (a) does not have_  
+| _an online privacy policy or other notice of the business's_  
+| _policies, the business shall make the information required under_  
+| _Subsection (a) available to consumers on the business's Internet_  
+| _website or another website the business maintains that is dedicated_  
+| _to consumers in this state._  
+|  _(c)_ _____A business must update the information required by_  
+| _Subsection (a) at least once each year._  
+|  _Sec._ ___541.103._ _____METHODS TO SUBMIT VERIFIABLE CONSUMER_  
+| _REQUEST. (a) A business shall designate and make available to_  
+| _consumers, in a form that is reasonably accessible, at least two_  
+| _methods for submitting a verifiable consumer request for_  
+| _information required to be disclosed or deleted under Subchapter B._ __  
+| _The methods must include, at a minimum:_  
+|  _(1)_ _____a toll-free telephone number that a consumer may_  
+| _call to submit the request; and_  
+|  _(2)_ _____the business's Internet website at which the_  
+| _consumer may submit the request, if the business maintains an_  
+| _Internet website._  
+|  _(b)_ _____The methods designated under Subsection (a) may also_  
+| _include:_  
+|  _(1) a mailing address;_  
+|  _(2) an electronic mail address;_  
+|  _(3) another Internet web page or portal;_  
+|  _(4) other contact information; or_  
+|  _(5)_ _____any consumer-friendly method approved by the_  
+| _attorney general under Section 541.009._  
+|  _(c)_ _____A business may not require a consumer to create an_  
+| _account with the business to submit a verifiable consumer request._  
+|  _Sec._ ___541.104._ _____VERIFICATION OF CONSUMER REQUEST. (a) A_  
+| _business that receives a consumer request under Section 541.051 or_  
+| _541.053 shall promptly take steps to reasonably verify, in_  
+| _accordance with rules adopted under Section 541.009, that:_  
+|  _(1)_ _____the consumer who is the subject of the request is a_  
+| _consumer about whom the business has collected, sold, or for a_  
+| _business purpose disclosed personal information; and_  
+|  _(2) the request is made by:_  
+|  _(A) the consumer;_  
+|  _(B)_ _____a consumer on behalf of the consumer's minor_  
+| _child; or_  
+|  _(C)_ _____a person authorized to act on the consumer's_  
+| _behalf._  
+|  _(b)_ _____A business may use any personal information collected_  
+| _from the consumer in connection with the business's verification of_  
+| _a request under this section solely to verify the request._  
+|  _(c)_ _____A business that is unable to verify a consumer request_  
+| _under this section is not required to comply with the request._  
+|  _Sec._ ___541.105._ _____DISCLOSURE REQUIREMENTS. (a) Not later than_  
+| _the 45th day after the date a business receives a verifiable_  
+| _consumer request under Section 541.051 or 541.053, the business_  
+| _shall disclose free of charge to the consumer the information_  
+| _required to be disclosed under those sections._  
+|  _(b)_ _____A business may extend the time in which to comply with_  
+| _Subsection (a) once by an additional 45 days if reasonably_  
+| _necessary or by an additional 90 days after taking into account the_  
+| _number and complexity of verifiable consumer requests received by_  
+| _the business. A business that extends the time in which to comply_  
+| _with Subsection (a) shall notify the consumer of the extension and_  
+| _reason for the delay within the period prescribed by that_  
+| _subsection._  
+|  _(c) The disclosure required by Subsection (a) must:_  
+|  _(1)_ _____cover personal information collected, sold, or_  
+| _disclosed for a business purpose, as applicable, during the 12_  
+| _months preceding the date the business receives the request; and_  
+|  _(2) be made in writing and delivered to the consumer:_  
+|  _(A)_ _____by mail or electronically, at the consumer's_  
+| _option, if the consumer does not have an account with the business;_  
+| _or_  
+|  _(B)_ _____through the consumer's account with the_  
+| _business._  
+|  _(d)_ _____An electronic disclosure under Subsection (c) must be in_  
+| _a readily accessible format that allows the consumer to_  
+| _electronically transmit the information to another person or_  
+| _entity._  
+|  _(e)_ _____A business is not required to make the disclosure_  
+| _required by Subsection (a) to the same consumer more than twice in a_  
+| _12-month period._  
+|  _(f)_ _____Notwithstanding Subsection (a), if a consumer's_  
+| _verifiable consumer request is manifestly baseless or excessive, in_  
+| _particular because of repetitiveness, a business may charge a_  
+| _reasonable fee after taking into account the administrative costs_  
+| _of compliance or refusal to comply with the request. The business_  
+| _has the burden of demonstrating that a request is manifestly_  
+| _baseless or excessive._  
+|  _(g)_ _____A business that does not comply with a consumer's_  
+| _verifiable consumer request under Subsection (a) shall notify the_  
+| _consumer, within the time the business is required to respond to a_  
+| _request under this section, of the reasons for the refusal and the_  
+| _rights the consumer may have to appeal that decision._  
+|  _Sec._ ___541.106._ _____DEIDENTIFIED INFORMATION. (a) A business_  
+| _that uses deidentified information may not reidentify or attempt to_  
+| _reidentify a consumer who is the subject of deidentified_  
+| _information without obtaining the consumer's consent or_  
+| _authorization._  
+|  _(b)_ _____A business that uses deidentified information shall_  
+| _implement:_  
+|  _(1)_ _____technical safeguards and business processes to_  
+| _prohibit reidentification of the consumer to whom the information_  
+| _may pertain; and_  
+|  _(2)_ _____business processes to prevent inadvertent release_  
+| _of deidentified information._  
+|  _(c)_ _____This chapter may not be construed to require a business_  
+| _to reidentify or otherwise link information that is not maintained_  
+| _in a manner that would be considered personal information._  
+|  _Sec._ ___541.107._ _____DISCRIMINATION PROHIBITED. (a) A business may_  
+| _not discriminate against a consumer because the consumer exercised_  
+| _a right under this chapter, including by:_  
+|  _(1) denying a good or service to the consumer;_  
+|  _(2)_ _____charging the consumer a different price or rate_  
+| _for a good or service, including denying the use of a discount or_  
+| _other benefit or imposing a penalty;_  
+|  _(3)_ _____providing a different level or quality of a good or_  
+| _service to the consumer; or_  
+|  _(4)_ _____suggesting that the consumer will be charged a_  
+| _different price or rate for, or provided a different level or_  
+| _quality of, a good or service._  
+|  _(b)_ _____This section does not prohibit a business from offering_  
+| _or charging a consumer a different price or rate for a good or_  
+| _service, or offering or providing to the consumer a different level_  
+| _or quality of a good or service, if the difference is reasonably_  
+| _related to the value provided to the consumer by the consumer's_  
+| _data._  
+|  _Sec. 541.108._ _____FINANCIAL INCENTIVES. (a) Subject to_  
+| _Subsection (b), a business may offer a financial incentive to a_  
+| _consumer, including a payment as compensation, for the collection,_  
+| _sale, or disclosure of the consumer's personal information._  
+|  _(b)_ _____A business may enroll a customer in a financial_  
+| _incentive program only if the business provides to the consumer a_  
+| _clear description of the material terms of the program and obtains_  
+| _the consumer's prior opt-in consent, which:_  
+|  _(1)_ _____contains a clear description of those material_  
+| _terms; and_  
+|  _(2) may be revoked by the consumer at any time._  
+|  _(c)_ _____A business may not use financial incentive practices_  
+| _that are unjust, unreasonable, coercive, or usurious in nature._  
+|  _Sec._ ___541.109._ _____CERTAIN ACTIONS TO AVOID REQUIREMENTS_  
+| _PROHIBITED. (a) A business may not divide a single transaction into_  
+| _more than one transaction with the intent to avoid the requirements_  
+| _of this chapter._  
+|  _(b)_ _____For purposes of this chapter, two or more substantially_  
+| _similar or related transactions are considered a single transaction_  
+| _if the transactions:_  
+|  _(1) are entered into contemporaneously; and_  
+|  _(2) have at least one common party._  
+|  _(c)_ _____A court shall disregard any intermediate transactions_  
+| _conducted by a business with the intent to avoid the requirements of_  
+| _this chapter, including the disclosure of information by a business_  
+| _to a third party to avoid complying with the requirements under this_  
+| _chapter applicable to a sale of the information._  
+|  _Sec._ ___541.110._ _____INFORMATION REQUIRED. A business shall_  
+| _ensure that each person responsible for handling consumer inquiries_  
+| _about the business's privacy practices or compliance with this_  
+| _chapter is informed of the requirements of this chapter and of how_  
+| _to direct a consumer in exercising any of the rights to which a_  
+| _consumer is entitled under this chapter._  
+| _SUBCHAPTER D. REMEDIES_  
+|  _Sec._ ___541.151._ _____CIVIL PENALTY; INJUNCTION. (a) A person who_  
+| _violates this chapter is liable to this state for a civil penalty in_  
+| _an amount not to exceed:_  
+|  _(1) $2,500 for each violation; or_  
+|  _(2)_ _____$7,500 for each violation, if the violation is_  
+| _intentional._  
+|  _(b)_ _____If it appears to the attorney general that a person is_  
+| _engaging in, has engaged in, or is about to engage in conduct that_  
+| _violates this chapter, the attorney general may give notice to the_  
+| _person of the alleged violation. If the person fails to cure the_  
+| _alleged violation before the 30th day after the date notice is_  
+| _given, the attorney general may bring an action in the name of the_  
+| _state against the person to restrain the violation by a temporary_  
+| _restraining order or by a permanent or temporary injunction or to_  
+| _recover the civil penalty imposed under this section, or both._  
+|  _(c)_ _____The attorney general is entitled to recover reasonable_  
+| _expenses, including reasonable attorney's fees, court costs, and_  
+| _investigatory costs, incurred in obtaining injunctive relief or_  
+| _civil penalties, or both, under this section. Amounts collected_  
+| _under this section shall be deposited in a dedicated account in the_  
+| _general revenue fund and may be appropriated only for the purposes_  
+| _of the administration and enforcement of this chapter._  
+|  _Sec._ ___541.152._ _____BUSINESS IMMUNITY FROM LIABILITY. A business_  
+| _that discloses to a third party, or discloses for a business purpose_  
+| _to a service provider, a consumer's personal information in_  
+| _compliance with this chapter may not be held liable for a violation_  
+| _of this chapter by the third party or service provider if the_  
+| _business does not have actual knowledge or a reasonable belief that_  
+| _the third party or service provider intends to violate this_  
+| _chapter._  
+|  _Sec._ ___541.153._ _____SERVICE PROVIDER IMMUNITY FROM LIABILITY. A_  
+| _business's service provider may not be held liable for a violation_  
+| _of this chapter by the business._  
+|  SECTION 2. This Act takes effect September 1, 2020.
+

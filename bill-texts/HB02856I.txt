@@ -1,0 +1,75 @@
+| 86R6283 JES-F  
+---|---  
+|  By: Morrison | H.B. No. 2856  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to restrictions under disaster remediation contracts;  
+| creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 58.001(1) and (2), Business & Commerce  
+| Code, are amended to read as follows:  
+|  (1) "Disaster remediation" means the removal,  
+| cleaning, sanitizing, demolition, reconstruction, or other  
+| treatment of _existing_ improvements to real property performed  
+| because of damage or destruction to that property caused by a  
+| natural disaster.  
+|  (2) "Disaster remediation contractor" means a person  
+| who engages in disaster remediation for compensation, other than a  
+| person who has a permit, license, registration, or other  
+| authorization from the Texas Commission on Environmental Quality  
+| for the collection, transportation, treatment, storage,  
+| processing, or disposal of solid waste _, but does not include an_  
+| _entity approved by the Internal Revenue Service as tax exempt under_  
+| _Section 501(c)(3), Internal Revenue Code of 1986_.  
+|  SECTION 2. Section 58.003(b), Business & Commerce Code, is  
+| amended to read as follows:  
+|  (b) A disaster remediation contractor:  
+|  (1) may not require a person to make a full or partial  
+| payment under a contract before the contractor begins work _, unless_  
+| _the amount of such payment is held in escrow with a title insurance_  
+| _company or title insurance agent operating in accordance with Title_  
+| _11, Insurance Code_ ;  
+|  (2) may not require that the amount of any partial  
+| payment under the contract exceed an amount reasonably  
+| proportionate to the work performed, including any materials  
+| delivered; and  
+|  (3) shall include in any contract for disaster  
+| remediation services the following statement in conspicuous,  
+| boldfaced type of at least 10 points in size: "This contract is  
+| subject to Chapter 58, Business & Commerce Code. A contractor may  
+| not require a full or partial payment before the contractor begins  
+| work and may not require partial payments in an amount that exceeds  
+| an amount reasonably proportionate to the work performed, including  
+| any materials delivered."  
+|  SECTION 3. Section 58.004, Business & Commerce Code, is  
+| amended to read as follows:  
+|  Sec. 58.004. _PENALTIES_ [ ~~DECEPTIVE TRADE PRACTICE~~ ].  _(a)_ A  
+| violation of this chapter by a disaster remediation contractor is a  
+| false, misleading, or deceptive act or practice as defined by  
+| Section 17.46(b), and any remedy under Subchapter E, Chapter 17, is  
+| available for a violation of this chapter.  
+|  _(b)_ _____A disaster remediation contractor who violates Section_  
+| _58.003(b)(1) or (2) commits an offense. An offense under this_  
+| _section is:_  
+|  _(1)_ _____a Class B misdemeanor if the offense was committed_  
+| _without the intent to defraud the person contracting for disaster_  
+| _remediation services; or_  
+|  _(2)_ _____a felony of the third degree if the offense was_  
+| _committed with the intent to defraud the person contracting for_  
+| _disaster remediation services._  
+|  _(c)_ _____It is a defense to prosecution under this section if the_  
+| _disaster remediation contractor refunds any payment made in_  
+| _violation of Section 58.003(b)(1) or (2) not later than the 15th day_  
+| _following the receipt of a written demand alleging a violation of_  
+| _Section 58.003(b)(1) or (2) sent by certified mail to the disaster_  
+| _remediation contractor's last known business address or the address_  
+| _of the disaster remediation contractor's registered agent._  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| a disaster remediation contract entered into on or after the  
+| effective date of this Act.  A disaster remediation contract  
+| entered into before the effective date of this Act is governed by  
+| the law in effect when the contract was entered into, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

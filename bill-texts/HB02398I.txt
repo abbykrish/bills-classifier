@@ -1,0 +1,302 @@
+| 86R2437 AJZ-D  
+---|---  
+|  By: Thompson of Harris | H.B. No. 2398  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to grand jury proceedings; providing a punishment for  
+| contempt of court.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 20.011(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) Only the following persons may be present in a grand  
+| jury room while the grand jury is conducting proceedings:  
+|  (1) grand jurors;  
+|  (2) bailiffs;  
+|  (3) the attorney representing the state;  
+|  (4) witnesses while being examined or when necessary  
+| to assist the attorney representing the state in examining other  
+| witnesses or presenting evidence to the grand jury;  
+|  (5) interpreters, if necessary;  
+|  (6) a stenographer or person operating an electronic  
+| recording device, as provided by Article 20.012; [ ~~and~~ ]  
+|  (7) a person operating a video teleconferencing system  
+| for use under Article 20.151 _; and_  
+|  _(8)_ _____an attorney representing a witness, including a_  
+| _witness who is an accused or suspected person, during the time the_  
+| _witness is being examined or offering testimony to the grand jury_  
+| _and for the sole purpose of providing consultation in the manner_  
+| _described by Article 20.03(c)_.  
+|  SECTION 2. The heading to Article 20.012, Code of Criminal  
+| Procedure, is amended to read as follows:  
+|  Art. 20.012. RECORDING OF _GRAND JURY PROCEEDINGS_ [ ~~CERTAIN~~  
+|  ~~TESTIMONY~~ ].  
+|  SECTION 3. Articles 20.012(a) and (b), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (a) _Except as otherwise provided by this subsection, all_  
+| _statements made by the grand jury or the attorney representing the_  
+| _state, all questions_ [ ~~Questions~~ ] propounded by the grand jury or  
+| the attorney representing the state to a _witness,_ [ ~~person accused~~  
+|  ~~or suspected~~ ] and _all_ [ ~~the~~ ] testimony of _a witness_ [ ~~that
+person~~ ] to  
+| the grand jury shall be recorded either by a stenographer or by use  
+| of an electronic device capable of recording sound. _Deliberations_  
+| _of the grand jury may not be recorded._  
+|  (b) The validity of a grand jury proceeding is not affected  
+| by an unintentional failure to record all or part of _the proceedings_  
+| _as required by_ [ ~~questions propounded or testimony made under~~ ]  
+| Subsection (a).  
+|  SECTION 4. Chapter 20, Code of Criminal Procedure, is  
+| amended by adding Article 20.013 to read as follows:  
+|  _Art._ ___20.013._ _____WHO MAY BE INVESTIGATED. (a)_ ___Except as_  
+| _provided by Subsection (b), a grand jury may not investigate a_  
+| _person who is accused or suspected of an offense and may not vote to_  
+| _present an indictment for the offense if the person has previously_  
+| _been investigated by a grand jury for the same offense and that_  
+| _grand jury found no bill of indictment._  
+|  _(b)_ _____A grand jury may investigate, and may present an_  
+| _indictment with respect to, a person described by Subsection (a)_  
+| _only if the attorney representing the state presents material_  
+| _evidence that was not known to the state before or during the_  
+| _previous grand jury investigation._  
+|  SECTION 5. Article 20.02, Code of Criminal Procedure, is  
+| amended by amending Subsections (f), (g), and (h) and adding  
+| Subsection (i) to read as follows:  
+|  (f) A person who receives information under _Article 20.036_  
+| [ ~~Subsection (d) or (e)~~ ] and discloses that information _in a manner_  
+| _not authorized by that article_ is subject to punishment for  
+| contempt in the same manner as a person who violates Subsection (b).  
+|  (g) The attorney representing the state may not disclose  
+| anything transpiring before the grand jury except as _:_  
+|  _(1)_ permitted by _Subsection_ [ ~~Subsections~~ ] (c) _; or_  
+|  _(2) provided by Article 20.036_[ ~~, (d), and (e)~~ ].  
+|  (h) A subpoena or summons relating to a grand jury  
+| proceeding or investigation must be kept secret to the extent and  
+| for as long as necessary to prevent the unauthorized disclosure of a  
+| matter before the grand jury. This subsection may not be construed  
+| to limit a disclosure permitted by Subsection (c) _or provided by_  
+| _Article 20.036_ [ ~~, (d), or (e)~~ ].  
+|  _(i)_ _____Except as provided by Article 20.036, an attorney_  
+| _representing a witness may not disclose anything transpiring before_  
+| _the grand jury. An attorney who discloses information in violation_  
+| _of this subsection is subject to punishment for contempt in the same_  
+| _manner as a person who violates Subsection (b)._  
+|  SECTION 6. Article 20.03, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 20.03. ATTORNEY [ ~~REPRESENTING STATE~~ ] ENTITLED TO  
+| APPEAR. _(a) In this chapter, "attorney_ [ ~~"The attorney~~ ]  
+| representing the _state_ [ ~~State~~ ]" means the _attorney general_  
+| [ ~~Attorney General~~ ], district attorney, criminal district attorney,  
+| or county attorney.  
+|  _(b)_ The attorney representing the _state_ [ ~~State,~~ ] is  
+| entitled to go before the grand jury and inform _the grand jurors_  
+| [ ~~them~~ ] of offenses liable to indictment at any time except when _the_  
+| _grand jury is:_  
+|  _(1)_ [ ~~they are~~ ] discussing the propriety of finding an  
+| indictment _;_ or  
+|  _(2)_ voting _on an indictment_ [ ~~upon the same~~ ].  
+|  _(c)_ _____A witness who testifies before a grand jury, including a_  
+| _witness who is an accused or suspected person, is entitled to have_  
+| _an attorney present while the grand jury is questioning the_  
+| _witness. The grand jury shall permit the attorney or the witness to_  
+| _interrupt the questioning at any time so that the witness may_  
+| _consult with the attorney outside the hearing of the grand jury._  
+|  SECTION 7. Chapter 20, Code of Criminal Procedure, is  
+| amended by adding Articles 20.035 and 20.036 to read as follows:  
+|  _Art._ ___20.035._ _____PRESENTATION OF EXCULPATORY EVIDENCE BY STATE._  
+| _(a)_ ___The attorney representing the state shall present to a grand_  
+| _jury investigating an offense any evidence that is:_  
+|  _(1) favorable to the accused or suspected person;_  
+|  _(2) material to the offense being investigated; and_  
+|  _(3)_ _____in the possession, custody, or control of the_  
+| _state or any person under contract with the state._  
+|  _(b)_ _____Evidence described by Subsection (a) may be presented to_  
+| _the grand jury at any time during the investigation._  
+|  _Art._ ___20.036._ _____DISCOVERY. (a)_ ___Except as otherwise provided_  
+| _by this article, if the state provides notice to the accused or_  
+| _suspected person of the grand jury investigation, as soon as_  
+| _practicable after receiving a request from an accused or suspected_  
+| _person, the attorney representing the state shall produce and_  
+| _permit the inspection and the electronic duplication, copying, and_  
+| _photographing, by or on behalf of the accused or suspected person,_  
+| _of any:_  
+|  _(1)_ _____offense reports, designated documents, or_  
+| _designated papers arising from the alleged offense;_  
+|  _(2)_ _____designated written or recorded statements of the_  
+| _accused or suspected person or a witness that arise from the alleged_  
+| _offense, including witness statements of law enforcement officers;_  
+| _and_  
+|  _(3)_ _____designated books, accounts, letters, photographs,_  
+| _or objects or other tangible things that:_  
+|  _(A) are not otherwise privileged;_  
+|  _(B)_ _____constitute or contain evidence material to_  
+| _any matter involved in the grand jury investigation; and_  
+|  _(C)_ _____are in the possession, custody, or control of_  
+| _the state or any person under contract with the state._  
+|  _(b)_ _____Subsection (a) does not authorize the removal of_  
+| _documents, items, or information from the possession of the state,_  
+| _and any inspection shall be in the presence of a representative of_  
+| _the state._  
+|  _(c)_ _____In the case of a pro se accused or suspected person, the_  
+| _state shall permit the inspection or review of the document, item,_  
+| _or information as provided by Subsection (a), but is not required to_  
+| _allow electronic duplication as described by that subsection._  
+|  _(d)_ _____The attorney representing the state may provide to any_  
+| _accused or suspected person electronic duplicates of any document,_  
+| _item, or information described by Subsection (a)._  
+|  _(e) Subsection (a) does not authorize the disclosure of:_  
+|  _(1)_ _____the work product of the attorney representing the_  
+| _state in the investigation; or_  
+|  _(2)_ _____the work product of the state's investigators,_  
+| _including the investigator's notes or reports._  
+|  _(f)_ _____The rights granted to the accused or suspected person_  
+| _under Subsection (a) do not extend to written communications_  
+| _between the state and an agent, representative, or employee of the_  
+| _state._  
+|  _(g)_ _____If only a portion of the applicable document, item, or_  
+| _information is subject to discovery under this article, the state_  
+| _is not required to produce or permit the inspection of the remaining_  
+| _portion that is not subject to discovery and may withhold or redact_  
+| _that portion._ _____The state shall inform the accused or suspected_  
+| _person that a portion of the document, item, or information has been_  
+| _withheld or redacted._  
+|  _(h)_ _____The accused or suspected person, the attorney_  
+| _representing the accused or suspected person, or an investigator,_  
+| _expert, consulting legal counsel, or other agent of the attorney_  
+| _representing the accused or suspected person may not disclose to a_  
+| _third party any documents, evidence, materials, or witness_  
+| _statements received under this article unless:_  
+|  _(1)_ _____a court orders the disclosure after notice and_  
+| _hearing, on a showing of good cause and after considering the_  
+| _security and privacy interests of any victim or witness; or_  
+|  _(2)_ _____the documents, evidence, materials, or witness_  
+| _statements have already been publicly disclosed._  
+|  _(i)_ _____Notwithstanding any other provision of this article,_  
+| _information identifying any victim or witness, including the name_  
+| _of a victim or witness and including the address, telephone number,_  
+| _driver's license number, social security number, date of birth, or_  
+| _bank account information or any other information that by reference_  
+| _would make it possible to identify a victim or witness, is_  
+| _confidential and may not be disclosed unless the disclosure is_  
+| _ordered by the court under Subsection (h) or otherwise required by_  
+| _Subsection (j)._  
+|  _(j)_ _____Notwithstanding any other provision of this article,_  
+| _the state shall disclose to the accused or suspected person any_  
+| _exculpatory, impeachment, or mitigating document, item, or_  
+| _information that is in the possession, custody, or control of the_  
+| _state or any person under contract with the state that tends to_  
+| _negate the guilt of the accused or suspected person or would tend to_  
+| _reduce the punishment for the offense being investigated._  
+|  _(k)_ _____The state shall electronically record or otherwise_  
+| _document any document, item, or other information provided to the_  
+| _accused or suspected person under this article._  
+|  _(l)_ _____A court may order the accused or suspected person to pay_  
+| _costs related to discovery under this article, not to exceed the_  
+| _amounts authorized to be charged by Subchapter F, Chapter 552,_  
+| _Government Code, for providing public information._  
+|  _(m)_ _____Except as provided by Subsection (i), this article does_  
+| _not prohibit the attorney representing the state from providing_  
+| _discovery and documentation beyond that required by this article._  
+|  _(n)_ _____This article applies only to discovery for a grand jury_  
+| _investigation._ ___This article does not limit an accused or suspected_  
+| _person's right to discovery authorized by other law._  
+|  SECTION 8. Article 20.17(c), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (c) If an accused or suspected person is subpoenaed to  
+| appear before a grand jury prior to any questions before the grand  
+| jury, the person accused or suspected shall be orally warned as  
+| follows:  
+|  (1) "Your testimony before this grand jury is under  
+| oath";  
+|  (2) "Any material question that is answered falsely  
+| before this grand jury subjects you to being prosecuted for  
+| aggravated perjury";  
+|  (3) "You have the right to refuse to make answers to  
+| any question, the answer to which would incriminate you in any  
+| manner";  
+|  (4) _"During questioning, you_ [ ~~"You~~ ] have the right to  
+| have _an attorney_ [ ~~a lawyer~~ ] present [ ~~outside this chamber~~ ] to  
+| advise you before making answers to questions you feel might  
+| incriminate you";  
+|  (5) "Any testimony you give may be used against you at  
+| any subsequent proceeding";  
+|  (6) "If you are unable to employ _an attorney_ [ ~~a~~  
+|  ~~lawyer~~ ], you have the right to have _an attorney_ [ ~~a lawyer~~ ]
+appointed  
+| to advise you before making an answer to a question, the answer to  
+| which you feel might incriminate you."  
+|  SECTION 9. Article 20.18, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 20.18. HOW WITNESS QUESTIONED. _(a)_ ___A person who is_  
+| _subpoenaed to appear as a witness before a grand jury shall be given_  
+| _a reasonable opportunity to retain counsel and to consult with_  
+| _counsel before the person's appearance._  
+|  _(b)_ _____Before the grand jury may question the witness, a_  
+| _witness appearing before a grand jury shall be orally given the_  
+| _warnings described by Article 20.17(c), other than the warning_  
+| _described by Article 20.17(c)(6)._  
+|  _(c)_ When a felony has been committed in any county within  
+| the jurisdiction of the grand jury, and the name of the offender is  
+| known or unknown or where it is uncertain when or how the felony was  
+| committed, the grand jury shall first state to the witness called  
+| the subject matter under investigation, then may ask pertinent  
+| questions relative to the transaction in general terms and in such a  
+| manner as to determine whether _the witness_ [ ~~he~~ ] has knowledge of the  
+| violation of any particular law by any person, and if so, by what  
+| person.  
+|  SECTION 10. Subtitle A, Title 2, Civil Practice and  
+| Remedies Code, is amended by adding Chapter 14A to read as follows:  
+| _CHAPTER 14A. GRAND JURY LITIGATION_  
+|  _Sec._ ___14A.001._ _____RECOVERY OF ATTORNEY'S FEES AND RELATED_  
+| _EXPENSES; WAIVER OF IMMUNITY._ ___(a)_ ___Not later than the 30th day_  
+| _after the date of the grand jury vote under Article 20.19, Code of_  
+| _Criminal Procedure, the accused or suspected person may submit to_  
+| _the court an application to recover attorney's fees and other_  
+| _related expenses._ ___The application must:_  
+|  _(1)_ _____allege that the position of the attorney_  
+| _representing the state was:_  
+|  _(A) not substantially justified; and_  
+|  _(B) vexatious, frivolous, or in bad faith; and_  
+|  _(2)_ _____show the amount of attorney's fees and other_  
+| _related expenses incurred by the accused or suspected person during_  
+| _the grand jury investigation, including an itemized statement_  
+| _submitted by any attorney representing the accused or suspected_  
+| _person or any expert witness testifying on behalf of the accused or_  
+| _suspected person and showing:_  
+|  _(A) the time actually expended; and_  
+|  _(B)_ _____the rate at which the fees and other expenses_  
+| _were calculated._  
+|  _(b)_ _____The court may award reasonable attorney's fees and other_  
+| _related expenses to the accused or suspected person if the court:_  
+|  _(1)_ _____finds that the position of the attorney_  
+| _representing the state was not substantially justified, based on_  
+| _the record made in the grand jury investigation for which_  
+| _attorney's fees and other related expenses are requested;_  
+|  _(2)_ _____finds that the position of the attorney_  
+| _representing the state was vexatious, frivolous, or in bad faith;_  
+| _and_  
+|  _(3)_ _____does not find that special circumstances make the_  
+| _award unjust._  
+|  _(c)_ _____To determine whether the position of the attorney_  
+| _representing the state was vexatious, frivolous, or in bad faith,_  
+| _the court, for good cause shown, may receive evidence ex parte and_  
+| _in camera, including evidence that reveals or might reveal the_  
+| _identity of an informant or undercover agent or matters occurring_  
+| _before a grand jury. The court shall keep evidence received under_  
+| _this subsection under seal._  
+|  _(d)_ _____The attorney representing the state shall pay_  
+| _attorney's fees and other related expenses awarded under this_  
+| _section._  
+|  _(e)_ _____Governmental immunity is waived and abolished to the_  
+| _extent of liability for attorney's fees and other related expenses_  
+| _under this section._  
+|  SECTION 11. Articles 20.02(d) and (e), Code of Criminal  
+| Procedure, are repealed.  
+|  SECTION 12. The changes in law made by this Act apply only  
+| to a grand jury proceeding that begins on or after the effective  
+| date of this Act. A grand jury proceeding that begins before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the proceeding began, and the former law is continued in effect  
+| for that purpose.  
+|  SECTION 13. This Act takes effect September 1, 2019.
+

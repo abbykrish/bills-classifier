@@ -1,0 +1,382 @@
+| 86R14161 CAE-F  
+---|---  
+|  By: Huberty | H.B. No. 3904  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to public school accountability, including certain  
+| assessment requirements, performance standards, and sanctions,  
+| including sanctions affecting educator contracts, and to providing  
+| alternative methods to satisfy certain public high school  
+| graduation requirements.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. PUBLIC SCHOOL ACCOUNTABILITY  
+|  SECTION 1.01. Section 39.0241, Education Code, is amended  
+| by adding Subsection (a-2) to read as follows:  
+|  _(a-2)_ _____This subsection applies only to an assessment_  
+| _instrument authorized under Section 39.025(a-2), as added by_  
+| _Chapter 1036 (H.B. 1613), Acts of the 84th Legislature, Regular_  
+| _Session, 2015, for use as a substitute assessment instrument for_  
+| _purposes of satisfying the requirements concerning an_  
+| _end-of-course assessment instrument. The commissioner shall_  
+| _designate for student performance on each substitute assessment_  
+| _instrument subject to this subsection a level of performance_  
+| _considered to be satisfactory and a level of performance necessary_  
+| _to indicate college readiness in the same manner as the_  
+| _commissioner designates those standards for student performance on_  
+| _each end-of-course assessment instrument listed in Section_  
+| _39.023(c). The commissioner shall designate the level of_  
+| _performance that indicates college readiness on a substitute_  
+| _assessment as "masters grade-level performance."_  
+|  SECTION 1.02. Section 39.053(c), Education Code, as amended  
+| by Chapters 807 (H.B. 22), 842 (H.B. 2223), and 1088 (H.B. 3593),  
+| Acts of the 85th Legislature, Regular Session, 2017, is reenacted  
+| and amended to read as follows:  
+|  (c) School districts and campuses must be evaluated based on  
+| three domains of indicators of achievement adopted under this  
+| section that include:  
+|  (1) in the student achievement domain, indicators of  
+| student achievement that must include:  
+|  (A) for evaluating the performance of districts  
+| and campuses generally:  
+|  (i) an indicator that accounts for the  
+| results of assessment instruments required under Sections  
+| 39.023(a), (c), and (l), as applicable for the district and campus,  
+| including the results of assessment instruments required for  
+| graduation retaken by a student, aggregated across grade levels by  
+| subject area, including:  
+|  (a) for the performance standard  
+| determined by the commissioner under Section 39.0241(a), the  
+| percentage of students who performed satisfactorily on the  
+| assessment instruments, aggregated across grade levels by subject  
+| area; and  
+|  (b) for the college readiness  
+| performance standard as determined under Section 39.0241, the  
+| percentage of students who performed satisfactorily on the  
+| assessment instruments, aggregated across grade levels by subject  
+| area; and  
+|  (ii) an indicator that accounts for the  
+| results of assessment instruments required under Section  
+| 39.023(b), as applicable for the district and campus, including the  
+| percentage of students who performed satisfactorily on the  
+| assessment instruments, as determined by the performance standard  
+| adopted by the agency, aggregated across grade levels by subject  
+| area; [ ~~and~~ ]  
+|  (B) for evaluating the performance of high school  
+| campuses and districts that include high school campuses,  
+| indicators that account for:  
+|  (i) students who satisfy the Texas Success  
+| Initiative (TSI) college readiness benchmarks prescribed by the  
+| Texas Higher Education Coordinating Board under Section 51.334 on  
+| an assessment instrument in reading or mathematics designated by  
+| the coordinating board under that section;  
+|  (ii) students who satisfy relevant  
+| performance standards on advanced placement tests or similar  
+| assessments;  
+|  (iii) students who earn dual course credits  
+| in _English language arts, mathematics, science, or social studies_  
+| [ ~~the~~ ] dual credit courses;  
+|  (iv) students who enlist in the armed  
+| forces of the United States;  
+|  (v) students who _complete coherent_  
+| _sequences of courses required to_ earn industry certifications;  
+|  (vi) students admitted into postsecondary  
+| industry certification programs that require as a prerequisite for  
+| entrance successful performance at the secondary level;  
+|  (vii) students whose successful completion  
+| of a course or courses under Section 28.014 indicates the student's  
+| preparation to enroll and succeed, without remediation, in an  
+| entry-level general education course for a baccalaureate degree or  
+| associate degree;  
+|  (viii) students who successfully met  
+| standards on a composite of indicators that through research  
+| indicates the student's preparation to enroll and succeed, without  
+| remediation, in an entry-level general education course for a  
+| baccalaureate degree or associate degree;  
+|  (ix) high school graduation rates, computed  
+| in accordance with standards and definitions adopted in compliance  
+| with the Every Student Succeeds Act (20 U.S.C. Section 6301 et seq.)  
+| subject to the exclusions provided by Subsections (g), (g-1),  
+| (g-2), and (g-3);  
+|  (x) students who successfully completed an  
+| OnRamps dual enrollment course; [ ~~and~~ ]  
+|  (xi) [ ~~the percentage of~~ ] students who  
+| successfully completed a practicum or internship approved by the  
+| State Board of Education;  
+|  _(xii)_ students who are awarded an _associate_  
+| [ ~~associate's~~ ] degree;  
+|  _(xiii)_ _____students who participate in_  
+| _extracurricular activities, including University Interscholastic_  
+| _League A+ academic events and foreign language, chess, and robotics_  
+| _clubs; and_  
+|  _(xiv)_ _____ninth grade students who are_  
+| _academically on track to graduate with their ninth grade cohort;_  
+| _and_  
+|  _(C)_ _____for evaluating the performance of middle and_  
+| _junior high school and elementary school campuses and districts_  
+| _that include those campuses, indicators that account for:_  
+|  _(i)_ _____students who participate in full-day_  
+| _prekindergarten programs;_  
+|  _(ii)_ _____students who participate in_  
+| _elementary literacy and mathematics academies; and_  
+|  _(iii)_ _____students who participate in_  
+| _extracurricular activities, including University Interscholastic_  
+| _League A+ academic events and foreign language, chess, and robotics_  
+| _clubs;_  
+|  (2) in the school progress domain, indicators for  
+| effectiveness in promoting student learning, which must include:  
+|  (A) for assessment instruments, including  
+| assessment instruments under Subdivisions (1)(A)(i) and (ii), the  
+| percentage of students who met the standard for improvement, as  
+| determined by the commissioner; and  
+|  (B) for evaluating relative performance, the  
+| performance of districts and campuses compared to similar districts  
+| or campuses; and  
+|  (3) in the closing the gaps domain, the use of  
+| disaggregated data to demonstrate the differentials among students  
+| from different racial and ethnic groups, socioeconomic  
+| backgrounds, and other factors, including:  
+|  (A) students formerly receiving special  
+| education services;  
+|  (B) students continuously enrolled; and  
+|  (C) students who are mobile.  
+|  SECTION 1.03. Section 39.053, Education Code, is amended by  
+| adding Subsection (c-4) to read as follows:  
+|  _(c-4)_ _____The commissioner shall determine a method by which a_  
+| _student's performance under Subsection (c)(1)(B)(v) may be_  
+| _included in determining the performance of a district or campus_  
+| _under Section 39.054 if the student successfully completed the_  
+| _courses but did not receive the certification until after the_  
+| _student graduated._  
+|  SECTION 1.04. Section 39.054, Education Code, is amended by  
+| adding Subsections (a-5) and (a-6) to read as follows:  
+|  _(a-5)_ _____For purposes of assigning each district and campus a_  
+| _domain performance rating under Section 39.053(c), the_  
+| _commissioner may not attribute more than 50 percent of any domain_  
+| _performance rating to the results of assessment instruments_  
+| _required under Sections 39.023(a), (b), (c), and (l)._  
+|  _(a-6)_ _____For purposes of assigning each district and campus a_  
+| _domain performance rating for the student achievement domain under_  
+| _Section 39.053(c)(1), the commissioner shall attribute:_  
+|  _(1)_ _____40 percent of the performance rating to the_  
+| _indicators under Section 39.053(c)(1)(A) relating to assessment_  
+| _instrument results;_  
+|  _(2)_ _____20 percent of the performance rating to the_  
+| _indicator under Section 39.053(c)(1)(B)(ix) relating to high_  
+| _school graduation rates; and_  
+|  _(3)_ _____40 percent of the performance rating to the_  
+| _indicators under Section 39.053(c)(1)(B) relating to college,_  
+| _career, and military readiness._  
+|  SECTION 1.05. Section 39.0548, Education Code, is amended  
+| by amending Subsections (a) and (d) and adding Subsections (a-1),  
+| (e), (f), (g), and (h) to read as follows:  
+|  (a) For purposes of evaluating performance under Section  
+| 39.053(c), the commissioner shall designate as a dropout recovery  
+| school a school district or an open-enrollment charter school or a  
+| campus of a district or of an open-enrollment charter school:  
+|  (1) that serves students in grades 9 through 12 and has  
+| an enrollment of which at least 50 percent of the students are 17  
+| years of age or older as of September 1 of the school year as  
+| reported for the fall semester Public Education Information  
+| Management System (PEIMS) submission; and  
+|  (2) that [ ~~meets the eligibility requirements for and~~ ]  
+| is registered under alternative education accountability  
+| procedures adopted by the commissioner.  
+|  _(a-1)_ _____For purposes of assigning performance ratings under_  
+| _Section 39.054, the commissioner shall evaluate a dropout recovery_  
+| _school under alternative education accountability procedures_  
+| _adopted by the commissioner._  
+|  (d) _For_ [ ~~Notwithstanding Section 39.053(c), for~~ ] purposes  
+| of evaluating a dropout recovery school under the _alternative_  
+| _education_ accountability procedures adopted by the commissioner  
+| [ ~~to determine the performance rating of the school under Section~~  
+|  ~~39.054~~ ], only the best result from the primary administration or  
+| any retake of an assessment instrument administered to a student in  
+| the school year evaluated may be considered _in assigning_  
+| _performance ratings for the school under Section 39.054_.  
+|  _(e)_ _____For purposes of evaluating performance of a dropout_  
+| _recovery school under the student achievement domain under Section_  
+| _39.053(c)(1), the commissioner may consider for purposes of_  
+| _assigning a domain performance rating under Section 39.054 student_  
+| _performance based only on the "approaches grade level" performance_  
+| _standard. Any evaluation of student performance based on a higher_  
+| _performance standard may not be considered to negatively affect the_  
+| _domain performance rating or a performance target score of the_  
+| _school._  
+|  _(f)_ _____For purposes of evaluating performance of a dropout_  
+| _recovery school under the school progress domain under Section_  
+| _39.053(c)(2), the commissioner may award credit for academic growth_  
+| _for purposes of assigning a domain performance rating under Section_  
+| _39.054 based only on a student reaching the "approaches grade_  
+| _level" performance standard. Any evaluation of student performance_  
+| _based on reaching a higher academic growth performance standard may_  
+| _not be considered to negatively affect the amount of credit awarded_  
+| _to the school or the domain performance rating or a performance_  
+| _target score of the school._  
+|  _(g)_ _____For purposes of assigning an overall performance rating_  
+| _for a dropout recovery school under Section 39.054, the_  
+| _commissioner shall consider only the school's domain performance_  
+| _ratings under the student achievement domain under Section_  
+| _39.053(c)(1) and the school progress domain under Section_  
+| _39.053(c)(2)._  
+|  _(h)_ _____The performance of a dropout recovery school under the_  
+| _closing the gaps domain under Section 39.053(c)(3) may be used for_  
+| _reporting purposes only._  
+|  SECTION 1.06. This article applies beginning with the  
+| 2019-2020 school year.  
+| ARTICLE 2.  ACCOUNTABILITY INTERVENTIONS AND SANCTIONS  
+|  SECTION 2.01. Section 39A.051(b), Education Code, is  
+| amended to read as follows:  
+|  (b) For a campus described by Subsection (a), the  
+| commissioner, to the extent the commissioner determines necessary,  
+| may:  
+|  (1) order a hearing to be held before the commissioner  
+| or the commissioner's designee at which the president of the board  
+| of trustees of the school district, the district superintendent,  
+| and the campus principal shall appear and explain the campus's low  
+| performance, lack of improvement, and plans for improvement; [ ~~or~~ ]  
+|  (2) establish a school community partnership team  
+| composed of members of the campus-level planning and  
+| decision-making committee established under Section 11.251 and  
+| additional community representatives as determined appropriate by  
+| the commissioner _; or_  
+|  _(3)_ _____order reconstitution of the campus and_  
+| _implementation of strategic staffing as provided by Section_  
+| _39A.0511_.  
+|  SECTION 2.02. Effective September 1, 2019, Subchapter B,  
+| Chapter 39A, Education Code, is amended by adding Section 39A.0511  
+| to read as follows:  
+|  _Sec._ ___39A.0511._ _____RECONSTITUTION AND STRATEGIC STAFFING. (a)_  
+| _For a campus described by Section 39A.051(a), the school district_  
+| _may choose to pursue reconstitution and implementation of strategic_  
+| _staffing for the campus as provided by this section._  
+|  _(b)_ _____The commissioner by rule shall provide procedures for_  
+| _the strategic staffing of a campus that is reconstituted by order of_  
+| _the commissioner under Section 39A.051(b) or by option of the_  
+| _school district under Subsection (a), including procedures for:_  
+|  _(1)_ _____the retention at the campus of a teacher of a_  
+| _subject for which an assessment instrument is administered under_  
+| _Section 39.023 only if a pattern of significant academic_  
+| _improvement by students taught by the teacher is established;_  
+|  _(2)_ _____removal of the principal of the campus, unless the_  
+| _campus intervention team determines retention of the principal_  
+| _would be more beneficial to student achievement and campus_  
+| _stability than removal; and_  
+|  _(3)_ _____placement of educators at the campus based on each_  
+| _educator's established effectiveness._  
+|  _(c)_ _____A determination that an educator may not be retained at_  
+| _a reconstituted campus constitutes good cause under Chapter 21 for_  
+| _discharging the educator and terminating the educator's contract._  
+| _This subsection applies regardless of whether the reconstitution_  
+| _was ordered by the commissioner under Section 39A.051(b) or_  
+| _implemented by option of the school district under Subsection (a)._  
+|  SECTION 2.03. Section 39A.060, Education Code, is amended  
+| to conform to Section 1, Chapter 472 (H.B. 2263), Acts of the 85th  
+| Legislature, Regular Session, 2017, and further amended to read as  
+| follows:  
+|  Sec. 39A.060. CAMPUS INTERVENTION TEAM CONTINUING  
+| DUTIES. For each year a campus is assigned an unacceptable  
+| performance rating, the campus intervention team shall:  
+|  (1) [ ~~continue to work with the campus until:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~the campus satisfies all performance~~  
+|  ~~standards under Section 39.054(e) for a two-year period; or~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~the campus satisfies all performance~~  
+|  ~~standards under Section 39.054(e) for a one-year period and the~~  
+|  ~~commissioner determines that the campus is operating and will~~  
+|  ~~continue to operate in a manner that improves student achievement;~~  
+|  [ ~~(2)~~ ] assist in updating the targeted improvement plan  
+| to identify and analyze areas of growth and areas that require  
+| improvement; [ ~~and~~ ]  
+|  _(2)_ [ ~~(3)~~ ] submit each updated targeted improvement  
+| plan described by Subdivision _(1)_ [ ~~(2)~~ ] to the board of trustees of  
+| the school district _; and_  
+|  _(3)_ _____determine which educators may be retained at the_  
+| _campus, if the campus is reconstituted by order of the commissioner_  
+| _under Section 39A.051(b) or by option of the school district under_  
+| _Section 39A.0511_.  
+|  SECTION 2.04. The change in law made by Section  
+| 39A.0511(c), Education Code, as added by this Act, applies only to a  
+| contract entered into on or after September 1, 2019.  
+|  SECTION 2.05. This article applies beginning with the  
+| 2019-2020 school year.  
+| ARTICLE 3. INDIVIDUAL GRADUATION COMMITTEES  
+|  SECTION 3.01. Sections 12.104(b-2) and (b-3), Education  
+| Code, are amended to read as follows:  
+|  (b-2) An open-enrollment charter school is subject to the  
+| requirement to establish an individual graduation committee under  
+| Section 28.0258. [ ~~This subsection expires September 1, 2019.~~ ]  
+|  (b-3) An open-enrollment charter school is subject to the  
+| graduation qualification procedure established by the commissioner  
+| under Section 28.02541. [ ~~This subsection expires September 1,~~  
+|  ~~2019.~~ ]  
+|  SECTION 3.02. Section 28.025(c-6), Education Code, is  
+| amended to read as follows:  
+|  (c-6) Notwithstanding Subsection (c), a person may receive  
+| a diploma if the person is eligible for a diploma under Section  
+| 28.0258. [ ~~This subsection expires September 1, 2019.~~ ]  
+|  SECTION 3.03. Effective September 1, 2019, Section  
+| 28.02541(a), Education Code, is amended to read as follows:  
+|  (a) This section applies only to a student who:  
+|  (1) entered the ninth grade before the 2011-2012  
+| school year;  
+|  (2) successfully completed the curriculum  
+| requirements for high school graduation applicable to the student  
+| when the student entered the ninth grade;  
+|  (3) has not performed satisfactorily on an assessment  
+| instrument or a part of an assessment instrument required for high  
+| school graduation, including an alternate assessment instrument  
+| offered under Section _39.025(c-2)_ [ ~~39.025(c-1)~~ ]; and  
+|  (4) has been administered the assessment instrument or  
+| the part of the assessment instrument for which the student has not  
+| performed satisfactorily at least three times.  
+|  SECTION 3.04. Section 28.02591(a), Education Code, is  
+| amended to read as follows:  
+|  (a) The Texas Higher Education Coordinating Board, in  
+| coordination with the agency, shall collect longitudinal data  
+| relating to the post-graduation pursuits of each student who is  
+| awarded a diploma based on the determination of an individual  
+| graduation committee under Section 28.0258, [ ~~as that section~~  
+|  ~~existed before September 1, 2019,~~ ] including whether the student:  
+|  (1) enters the workforce;  
+|  (2) enrolls in an associate degree or certificate  
+| program at a public or private institution of higher education;  
+|  (3) enrolls in a bachelor's degree program at a public  
+| or private institution of higher education; or  
+|  (4) enlists in the armed forces of the United States or  
+| the Texas National Guard.  
+|  SECTION 3.05. Section 39.025(a-2), Education Code, as added  
+| by Chapter 5 (S.B. 149), Acts of the 84th Legislature, Regular  
+| Session, 2015, is redesignated as Section 39.025(a-5), Education  
+| Code, and amended to read as follows:  
+|  _(a-5)_ [ ~~(a-2)~~ ] Notwithstanding Subsection (a), a student who  
+| has failed to perform satisfactorily on end-of-course assessment  
+| instruments in the manner provided under this section may receive a  
+| high school diploma if the student has qualified for graduation  
+| under Section 28.0258. [ ~~This subsection expires September 1,~~  
+|  ~~2019.~~ ]  
+|  SECTION 3.06. Section 39.025(a-3), Education Code, is  
+| amended to read as follows:  
+|  (a-3) A student who, after retaking an end-of-course  
+| assessment instrument for Algebra I or English II, has failed to  
+| perform satisfactorily as required by Subsection (a), but who  
+| receives a score of proficient on the Texas Success Initiative  
+| (TSI) diagnostic assessment for the corresponding subject for which  
+| the student failed to perform satisfactorily on the end-of-course  
+| assessment instrument satisfies the requirement concerning the  
+| Algebra I or English II end-of-course assessment, as applicable.  
+| [ ~~This subsection expires September 1, 2019.~~ ]  
+|  SECTION 3.07. Sections 28.02541(g), 28.0258(l), and  
+| 28.0259(e), Education Code, are repealed.  
+| ARTICLE 4. CONFLICTS PROVISION; EFFECTIVE DATE  
+|  SECTION 4.01. To the extent of any conflict, this Act  
+| prevails over another Act of the 86th Legislature, Regular Session,  
+| 2019, relating to nonsubstantive additions to and corrections in  
+| enacted codes.  
+|  SECTION 4.02. Except as otherwise provided by this Act,  
+| this Act takes effect immediately if it receives a vote of  
+| two-thirds of all the members elected to each house, as provided by  
+| Section 39, Article III, Texas Constitution. If this Act does not  
+| receive the vote necessary for immediate effect, this Act takes  
+| effect on the 91st day after the last day of the legislative  
+| session.
+

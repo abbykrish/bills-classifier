@@ -1,0 +1,42 @@
+| 86R5652 JSC-D  
+---|---  
+|  By: VanDeaver | H.B. No. 1223  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of a criminal offense relating to  
+| interference with child custody and to the prosecution and  
+| enforcement of child custody offenses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 2, Code of Criminal Procedure, is  
+| amended by adding Article 2.274 to read as follows:  
+|  _Art._ ___2.274._ _____INTERFERENCE WITH CHILD CUSTODY REPORT. On_  
+| _receipt of a report of a violation of Section 25.03, Penal Code, a_  
+| _peace officer shall attempt to determine the whereabouts of the_  
+| _child and:_  
+|  _(1)_ _____if the child's whereabouts are known, locate and_  
+| _return the child:_  
+|  _(A)_ _____to the person entitled to the custody or_  
+| _possession of the child according to the terms of a judgment or_  
+| _order of a court disposing of the child's custody; or_  
+|  _(B)_ _____if there is no judgment or court order_  
+| _described by Paragraph (A), to a parent listed on the child's birth_  
+| _certificate; or_  
+|  _(2)_ _____if the child's whereabouts are unknown, submit a_  
+| _missing child report under Chapter 63._  
+|  SECTION 2. Section 25.03, Penal Code, is amended by adding  
+| Subsections (a-1) and (e) to read as follows:  
+|  _(a-1) A person commits an offense if:_  
+|  _(1)_ _____the person takes or retains a child younger than 18_  
+| _years of age;_  
+|  _(2)_ _____there is no judgment or order of a court disposing_  
+| _of the child's custody; and_  
+|  _(3)_ _____the person knows that the taking or retaining of_  
+| _the child is without the effective consent of or against the_  
+| _expressed wishes of a parent who is listed on the child's birth_  
+| _certificate and whose parental rights have not been terminated._  
+|  _(e)_ _____If conduct constituting an offense under this section_  
+| _also constitutes an offense under another section of this code, the_  
+| _actor may be prosecuted under either section or both sections._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,43 @@
+| 86R9981 SMT-F  
+---|---  
+|  By: Lucio III | H.B. No. 2686  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the denial of coverage for a claim filed with the Texas  
+| Windstorm Insurance Association.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2210.573, Insurance Code, is amended by  
+| adding Subsections (d-1) and (e-1) to read as follows:  
+|  _(d-1)_ _____If the association does not wholly or partly accept_  
+| _coverage for the claim under Subsection (d), the unaccepted_  
+| _coverage is considered denied._  
+|  _(e-1)_ _____In a notice described by Subsection (d)(1) or (2), the_  
+| _association shall include an itemized list of the portions of the_  
+| _claim for which coverage is accepted._ ___Coverage for any portion not_  
+| _included on the itemized list is considered denied and coverage for_  
+| _the claim is considered not to have been accepted in full._  
+|  SECTION 2. Section 2210.575(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) If the association denies coverage for a claim in part  
+| or in full and the claimant disputes that determination, the  
+| claimant, not later than the expiration of the limitations period  
+| described by Section 2210.577(a), but after the date the claimant  
+| receives the notice described by Section _2210.573(d)_  
+| [ ~~2210.573(d)(2) or (3)~~ ], must provide the association with notice  
+| that the claimant intends to bring an action against the  
+| association concerning the partial or full denial of the claim.  
+|  SECTION 3. Section 2210.577(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) Notwithstanding any other law, a claimant who brings an  
+| action against the association under Section 2210.575 must bring  
+| the action not later than the second anniversary of the date on  
+| which the person receives a notice described by Section  
+| _2210.573(d)_ [ ~~2210.573(d)(2) or (3)~~ ].  
+|  SECTION 4. The change in law made by this Act applies only  
+| to a claim filed on or after the effective date of this Act. A claim  
+| filed before the effective date of this Act is governed by the law  
+| applicable to the claim immediately before the effective date of  
+| this Act, and that law is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

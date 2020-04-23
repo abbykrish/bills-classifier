@@ -1,0 +1,84 @@
+| 86R6626 KFF-D  
+---|---  
+|  By: Klick | H.B. No. 2798  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the reimbursement of certain urban teaching hospitals  
+| for the provision of inpatient hospital care under Medicaid.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 32, Human Resources Code,  
+| is amended by adding Section 32.0285 to read as follows:  
+|  _Sec._ ___32.0285._ _____CALCULATION OF MEDICAL EDUCATION ADD-ON FOR_  
+| _REIMBURSEMENT OF CERTAIN URBAN TEACHING HOSPITALS. (a) In this_  
+| _section:_  
+|  _(1)_ _____"Base standard dollar amount" means the_  
+| _standardized payment amount calculated by the commission for costs_  
+| _incurred by prospectively paid hospitals in this state for_  
+| _providing inpatient hospital care under Medicaid._  
+|  _(2)_ _____"Children's hospital" means a hospital designated_  
+| _by the Centers for Medicare and Medicaid Services as a children's_  
+| _hospital._  
+|  _(3)_ _____"Medical education add-on" means an adjustment to_  
+| _the base standard dollar amount for an urban teaching hospital to_  
+| _reflect higher patient care costs relative to nonteaching urban_  
+| _hospitals._  
+|  _(4)_ _____"Rural hospital" means a hospital enrolled as a_  
+| _Medicaid provider that:_  
+|  _(A)_ _____is located in a county with a population of_  
+| _not more than 60,000;_  
+|  _(B)_ _____is designated by the Centers for Medicare and_  
+| _Medicaid Services as a critical access hospital, sole community_  
+| _hospital, or rural referral center and is not located in an area_  
+| _defined by the United States Office of Management and Budget as a_  
+| _metropolitan statistical area; or_  
+|  _(C) meets all of the following criteria:_  
+|  _(i) has 100 or fewer beds;_  
+|  _(ii)_ _____is designated by the Centers for_  
+| _Medicare and Medicaid Services as a critical access hospital, sole_  
+| _community hospital, or rural referral center; and_  
+|  _(iii)_ _____is located in an area defined by the_  
+| _United States Office of Management and Budget as a metropolitan_  
+| _statistical area._  
+|  _(5) "State-owned teaching hospital" means:_  
+|  _(A)_ _____The University of Texas Medical Branch at_  
+| _Galveston;_  
+|  _(B)_ _____The University of Texas Health Science Center_  
+| _at Tyler; and_  
+|  _(C)_ _____The University of Texas M.D. Anderson Cancer_  
+| _Center._  
+|  _(6)_ _____"Teaching hospital" means a hospital that incurs_  
+| _indirect costs for operating graduate medical education programs_  
+| _and for which the Centers for Medicare and Medicaid Services has_  
+| _calculated and assigned a percentage Medicare education adjustment_  
+| _factor under 42 C.F.R. Section 412.105._  
+|  _(7) "Urban hospital" means a hospital that:_  
+|  _(A)_ _____is located in an area defined by the United_  
+| _States Office of Management and Budget as a metropolitan_  
+| _statistical area; and_  
+|  _(B)_ _____is not a rural hospital, children's hospital,_  
+| _state-owned teaching hospital, or freestanding psychiatric_  
+| _facility._  
+|  _(b)_ _____To the extent permitted by federal law, in order to_  
+| _ensure that urban teaching hospitals are accurately reimbursed for_  
+| _the provision of inpatient hospital care to recipients under_  
+| _Medicaid, the commission shall at least annually update the_  
+| _education adjustment factor used to calculate the medical education_  
+| _add-on using the most current data available, including:_  
+|  _(1)_ _____data related to the number of interns and_  
+| _residents enrolled in a hospital's approved teaching program; and_  
+|  _(2)_ _____the Medicare education adjustment factor assigned_  
+| _under 42 C.F.R. Section 412.105 in effect at the time the commission_  
+| _makes the update._  
+|  SECTION 2. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

@@ -1,0 +1,95 @@
+| 86R3299 SMT-F  
+---|---  
+|  By: Lambert | H.B. No. 2099  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to modification of certain prescription drug benefits and  
+| coverage offered by certain health benefit plans.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1369.0541, Insurance Code, is amended by  
+| amending Subsections (a) and (b) and adding Subsections (a-1) and  
+| (b-1) to read as follows:  
+|  (a) _Except as provided by Section 1369.055(a-1) and_  
+| _Subsection (b-1) of this section, a_ [ ~~A~~ ] health benefit plan issuer  
+| may modify drug coverage provided under a health benefit plan if:  
+|  (1) the modification occurs at the time of coverage  
+| renewal;  
+|  (2) the modification is effective uniformly among all  
+| group health benefit plan sponsors covered by identical or  
+| substantially identical health benefit plans or all individuals  
+| covered by identical or substantially identical individual health  
+| benefit plans, as applicable; and  
+|  (3) not later than the 60th day before the date the  
+| modification is effective, the issuer provides written notice of  
+| the modification to the commissioner, each affected group health  
+| benefit plan sponsor, each affected enrollee in an affected group  
+| health benefit plan, and each affected individual health benefit  
+| plan holder.  
+|  _(a-1)_ _____The notice described by Subsection (a)(3) must_  
+| _include a statement:_  
+|  _(1)_ _____indicating that the health benefit plan issuer is_  
+| _modifying drug coverage provided under the health benefit plan;_  
+|  _(2) explaining the type of modification; and_  
+|  _(3)_ _____indicating that, on renewal of the health benefit_  
+| _plan, the health benefit plan issuer may not modify an enrollee's_  
+| _contracted benefit level for any prescription drug that was_  
+| _approved or covered under the plan in the immediately preceding_  
+| _plan year as provided by Section 1369.055(a-1)._  
+|  (b) Modifications affecting drug coverage that require  
+| notice under Subsection (a) include:  
+|  (1) removing a drug from a formulary;  
+|  (2) adding a requirement that an enrollee receive  
+| prior authorization for a drug;  
+|  (3) imposing or altering a quantity limit for a drug;  
+|  (4) imposing a step-therapy restriction for a drug;  
+| [ ~~and~~ ]  
+|  (5) moving a drug to a higher cost-sharing tier _;_  
+|  _(6)_ _____increasing a coinsurance, copayment, deductible,_  
+| _or other out-of-pocket expense that an enrollee must pay for a drug;_  
+| _and_  
+|  _(7) reducing the maximum drug coverage amount_ [ ~~unless~~  
+|  ~~a generic drug alternative to the drug is available~~ ].  
+|  _(b-1)_ _____Modifications affecting drug coverage that are more_  
+| _favorable to enrollees may be made at any time and do not require_  
+| _notice under Subsection (a), including:_  
+|  _(1) the addition of a drug to a formulary;_  
+|  _(2)_ _____the reduction of a coinsurance, copayment,_  
+| _deductible, or other out-of-pocket expense that an enrollee must_  
+| _pay for a drug; and_  
+|  _(3) the removal of a utilization review requirement._  
+|  SECTION 2. Section 1369.055, Insurance Code, is amended by  
+| adding Subsections (a-1) and (a-2) to read as follows:  
+|  _(a-1)_ _____On renewal of a health benefit plan, the plan issuer_  
+| _may not modify an enrollee's contracted benefit level for any_  
+| _prescription drug that was approved or covered under the plan in the_  
+| _immediately preceding plan year and prescribed during that year for_  
+| _a medical condition or mental illness of the enrollee if:_  
+|  _(1)_ _____the enrollee was covered by the health benefit_  
+| _plan on the date immediately preceding the renewal date;_  
+|  _(2)_ _____a physician or other prescribing provider_  
+| _appropriately prescribes the drug for the medical condition or_  
+| _mental illness;_  
+|  _(3)_ _____the prescribing provider in consultation with the_  
+| _enrollee determines that the drug is the most appropriate course of_  
+| _treatment; and_  
+|  _(4)_ _____the drug is considered safe and effective for_  
+| _treating the enrollee's medical condition or mental illness._  
+|  _(a-2)_ _____Modifications prohibited under Subsection (a-1)_  
+| _include:_  
+|  _(1) removing a drug from a formulary;_  
+|  _(2)_ _____adding a requirement that an enrollee receive_  
+| _prior authorization for a drug;_  
+|  _(3) imposing or altering a quantity limit for a drug;_  
+|  _(4)_ _____imposing a step-therapy restriction for a drug;_  
+| _and_  
+|  _(5) moving a drug to a higher cost-sharing tier._  
+|  SECTION 3. The changes in law made by this Act apply only to  
+| a health benefit plan that is delivered, issued for delivery, or  
+| renewed on or after January 1, 2020. A health benefit plan  
+| delivered, issued for delivery, or renewed before January 1, 2020,  
+| is governed by the law as it existed immediately before the  
+| effective date of this Act, and that law is continued in effect for  
+| that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

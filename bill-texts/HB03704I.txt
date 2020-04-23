@@ -1,0 +1,25 @@
+| 86R9460 EAS-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 3704  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain public health data maintained by the Department  
+| of State Health Services and shared with certain local health  
+| entities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 121.005, Health and Safety Code, is  
+| amended by adding Subsections (e) and (f) to read as follows:  
+|  _(e)_ _____The department may enter into a memorandum of_  
+| _understanding and data use agreement with an affiliated local_  
+| _health unit, local health department, or public health district_  
+| _that provides essential public health services to share relevant_  
+| _public health data maintained by the department in a manner_  
+| _consistent with federal and state law._  
+|  _(f)_ _____An affiliated local health unit, local health_  
+| _department, or public health district seeking public health data_  
+| _only for research purposes must submit a request to the_  
+| _institutional review board established under Section 108.0135 for_  
+| _review and approval of the request._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

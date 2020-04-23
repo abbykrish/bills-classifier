@@ -1,0 +1,59 @@
+| 86R8386 KKR-F  
+---|---  
+|  By: Murphy | H.B. No. 4300  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a settlement for the payment of certain medical  
+| benefits under the Texas Workers' Compensation Act.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 408.005, Labor Code, is amended by  
+| amending Subsections (b) and (e) and adding Subsections (b-1) and  
+| (e-1) to read as follows:  
+|  (b) An employee's right to medical benefits as provided by  
+| Section 408.021 may not be limited or terminated _except as provided_  
+| _by this section_.  
+|  _(b-1) Parties may reach a settlement of medical benefits if:_  
+|  _(1)_ _____the injured employee enters into a workers'_  
+| _compensation Medicare set-aside arrangement;_  
+|  _(2)_ _____the arrangement described by Subdivision (1) is_  
+| _approved by the federal Centers for Medicare and Medicaid Services,_  
+| _if the proposed amount of the settlement is eligible for review by_  
+| _that agency; and_  
+|  _(3) the settlement provides for:_  
+|  _(A)_ _____oversight of the arrangement described by_  
+| _Subdivision (1) by a corporate trustee or other professional_  
+| _administrator; and_  
+|  _(B)_ _____a reversionary interest on the employee's_  
+| _death allowing the unexpended funds to be shared by the injured_  
+| _employee's beneficiary and the payor._  
+|  (e) The commissioner shall approve a settlement if the  
+| commissioner is satisfied that:  
+|  (1) the settlement accurately reflects the agreement  
+| between the parties;  
+|  (2) the settlement reflects adherence to all  
+| appropriate provisions of law and the _rules_ [ ~~policies~~ ] of the  
+| division; [ ~~and~~ ]  
+|  (3) under the law and facts, the settlement is in the  
+| best interest of the _injured employee;_  
+|  _(4)_ _____the settlement is entered into voluntarily by all_  
+| _parties; and_  
+|  _(5)_ _____to the extent possible, all extent of injury_  
+| _issues have been resolved_ [ ~~claimant~~ ].  
+|  _(e-1)_ _____For purposes of Subsection (e)(3), the commissioner_  
+| _may not find that a settlement of medical benefits under Subsection_  
+| _(b-1) is in the best interest of the injured employee unless the_  
+| _settlement is overseen by a corporate trustee or other professional_  
+| _administrator._  
+|  SECTION 2. Section 408.021(d), Labor Code, is amended to  
+| read as follows:  
+|  (d) _Except as provided by Section 408.005, an_ [ ~~An~~ ] insurance  
+| carrier's liability for medical benefits may not be limited or  
+| terminated by agreement or settlement.  
+|  SECTION 3. The change in law made by this Act applies only  
+| to a settlement entered into on or after the effective date of this  
+| Act, in conjunction with a claim for workers' compensation  
+| benefits, regardless of the date on which the compensable injury  
+| that is the basis of the claim occurred.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

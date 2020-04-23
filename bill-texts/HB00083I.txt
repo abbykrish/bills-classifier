@@ -1,0 +1,34 @@
+| 86R1090 LED-D  
+---|---  
+|  By: Romero, Jr. | H.B. No. 83  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to administrative penalties assessed by the Texas  
+| Workforce Commission against certain employers for failure to pay  
+| wages.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 61.053, Labor Code, is amended by  
+| amending Subsection (a) and adding Subsection (a-1) to read as  
+| follows:  
+|  (a) If the commission examiner, a wage claim appeal  
+| tribunal, or the commission determines that an employer acted in  
+| bad faith in not paying wages as required by this chapter, the  
+| examiner, tribunal, or commission, in addition to ordering the  
+| payment of the wages, _shall_ [ ~~may~~ ] assess an administrative penalty  
+| against the employer.  
+|  _(a-1)_ _____For purposes of Subsection (a), acts that constitute_  
+| _bad faith by an employer include:_  
+|  _(1) a history of previous violations of this chapter;_  
+|  _(2)_ _____failure to pay wages to an employee as required by_  
+| _this chapter as an act of discrimination or retaliation against the_  
+| _employee;_  
+|  _(3)_ _____failure to pay wages as required by this chapter to_  
+| _multiple employees at the same time;_  
+|  _(4)_ _____failure to pay wages to an employee as required by_  
+| _this chapter knowing that the failure was a violation of state law;_  
+| _or_  
+|  _(5)_ _____actions showing reckless disregard of the_  
+| _requirements of this chapter._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

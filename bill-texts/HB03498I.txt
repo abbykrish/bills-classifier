@@ -1,0 +1,922 @@
+| 86R8439 BEE-D  
+---|---  
+|  By: Burrows | H.B. No. 3498  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to mechanic's, contractor's, or materialman's liens.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 53.001(2), (3), (4), (11), (13), and  
+| (14), Property Code, are amended to read as follows:  
+|  (2) "Improvement" includes:  
+|  (A) _permanent buildings, structures, parking_  
+| _structures, appurtenances,_ [ ~~abutting sidewalks and~~ ] streets _,_  
+| _sidewalks,_ [ ~~and~~ ] utilities _, rails for a rail system, and other_  
+| _similar fixtures on or to be placed on real property_ [ ~~in or on those~~  
+|  ~~sidewalks and streets~~ ];  
+|  (B) clearing, grubbing, draining, or fencing of  
+| land _as part of a construction project_ ;  
+|  (C) _plants, landscaping, ponds, and storage_  
+| _facilities provided in conjunction with a construction project_  
+| [ ~~wells, cisterns, tanks, reservoirs, or artificial lakes or pools~~  
+|  ~~made for supplying or storing water~~ ]; _and_  
+|  (D) _designs, drawings, plans, plats, surveys,_  
+| _and specifications provided by licensed architects, engineers, or_  
+| _surveyors_ [ ~~pumps, siphons, and windmills or other machinery or~~  
+|  ~~apparatuses used for raising water for stock, domestic use, or~~  
+|  ~~irrigation; and~~  
+|  [ ~~(E)~~ ~~~~ ~~~~ ~~planting orchard trees, grubbing out~~  
+|  ~~orchards and replacing trees, and pruning of orchard trees~~ ].  
+|  (3) "Labor" means _:_  
+|  _(A)_ labor used in the direct _performance_  
+| [ ~~prosecution~~ ] of the _construction of improvements; or_  
+|  _(B)_ _____professional services used in the direct_  
+| _preparation of a design, drawing, plan, plat, survey, or_  
+| _specification_ [ ~~work~~ ].  
+|  (4) "Material" means all or part of:  
+|  (A) the material, machinery, fixtures, or tools _:_  
+|  _(i)_ incorporated into the work _;_  
+|  _(ii) used_[ ~~, consumed~~ ] in the direct  
+| _performance_ [ ~~prosecution~~ ] of the work _;_  
+|  _(iii)_ _____specially fabricated and suitable_  
+| _only for the work;_ [ ~~,~~ ] or  
+|  _(iv)_ ordered and delivered for  
+| incorporation or _use in the work_ [ ~~consumption~~ ];  
+|  (B) rent at a reasonable rate and actual running  
+| repairs at a reasonable cost for construction equipment used [ ~~or~~  
+|  ~~reasonably required and delivered for use~~ ] in the direct  
+| _performance_ [ ~~prosecution~~ ] of the work at the site of the  
+| construction or repair; or  
+|  (C) power, water, fuel, and lubricants _used_  
+| [ ~~consumed or ordered and delivered for consumption~~ ] in the direct  
+| _performance_ [ ~~prosecution~~ ] of the work.  
+|  (11) "Retainage" means an amount representing part of  
+| a contract payment that is not required to be paid to the claimant  
+| within the month following the month in which labor is performed,  
+| material is furnished, or specially fabricated material is  
+| delivered. [ ~~The term does not include retainage under Subchapter~~  
+|  ~~E.~~ ]  
+|  (13) "Subcontractor" means a person who has furnished  
+| labor or materials to fulfill an obligation to an original  
+| contractor or to a subcontractor to perform all or part of the work  
+| required by an original contract. _The term includes a supplier of_  
+| _specially fabricated material or of equipment or materials_  
+| _delivered directly to the construction site._  
+|  (14) "Work" means any part of construction or repair  
+| _of an improvement_ performed under an original contract.  
+|  SECTION 2. Sections 53.003(a) and (c), Property Code, are  
+| amended to read as follows:  
+|  (a) This section applies to notices required by _this chapter_  
+| [ ~~Subchapters B through G and K~~ ].  
+|  (c) If notice is sent by [ ~~registered or~~ ] certified mail,  
+| deposit or mailing of the notice in the United States mail in the  
+| form required constitutes compliance with the notice requirement.  
+| This subsection does not apply if the law requires receipt of the  
+| notice by the person to whom it is directed.  
+|  SECTION 3. Sections 53.021(a), (c), and (e), Property Code,  
+| are amended to read as follows:  
+|  (a) A person _can claim_ [ ~~has~~ ] a lien _under this chapter_ if [ ~~:~~  
+|  [ ~~(1)~~ ] the person [ ~~labors, specially fabricates~~  
+|  ~~material, or~~ ] furnishes labor or materials for construction or  
+| repair [ ~~in this state~~ ] of _an improvement_ [ ~~:~~  
+|  [ ~~(A) a house, building, or improvement;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~a levee or embankment to be erected for the~~  
+|  ~~reclamation of overflow land along a river or creek; or~~  
+|  [ ~~(C) a railroad; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the person labors, specially fabricates the~~  
+|  ~~material, or furnishes the labor or materials~~ ] under or by virtue of  
+| a contract with the owner or the owner's agent, trustee, receiver,  
+| contractor, or subcontractor.  
+|  (c) _A licensed_ [ ~~An~~ ] architect, engineer, or surveyor  
+| _providing services to prepare a design, drawing, plan, plat,_  
+| _survey, or specification_ [ ~~who prepares a plan or plat~~ ] under [ ~~or
+by~~  
+|  ~~virtue of~~ ] a written contract _can claim_ [ ~~with the owner or the~~  
+|  ~~owner's agent, trustee, or receiver in connection with the actual~~  
+|  ~~or proposed design, construction, or repair of improvements on real~~  
+|  ~~property or the location of the boundaries of real property has~~ ] a  
+| lien _under this chapter_ [ ~~on the property~~ ].  
+|  (e) A person who performs labor as part of, or who furnishes  
+| labor or materials for, the demolition of a structure on real  
+| property under [ ~~or by virtue of~~ ] a written contract _that is part of_  
+| _a project for the construction of an improvement can claim_ [ ~~with the~~  
+|  ~~owner of the property or the owner's agent, trustee, receiver,~~  
+|  ~~contractor, or subcontractor has~~ ] a lien _under this chapter_ [ ~~on
+the~~  
+|  ~~property~~ ].  
+|  SECTION 4. Sections 53.022(a) and (d), Property Code, are  
+| amended to read as follows:  
+|  (a) The lien extends to the _owner's interests in the_  
+| _improvements and to the particularly subdivided real property on_  
+| _which work was performed_ [ ~~house, building, fixtures, or~~  
+|  ~~improvements, the land reclaimed from overflow, or the railroad and~~  
+|  ~~all of its properties, and to each lot of land necessarily connected~~  
+|  ~~or reclaimed~~ ].  
+|  (d) A lien against land not _subdivided_ in a city, town, or  
+| village extends to not more than 50 acres on which the [ ~~house,~~  
+|  ~~building, or~~ ] improvement is situated or on which the labor was  
+| performed.  
+|  SECTION 5. Section 53.023, Property Code, is amended to  
+| read as follows:  
+|  Sec. 53.023. PAYMENT SECURED BY LIEN. _(a)_ The lien secures  
+| payment for:  
+|  (1) the labor done or material furnished for the  
+| construction _,_ [ ~~or~~ ] repair _, or demolition_ ; _or_  
+|  (2) the specially fabricated material, even if the  
+| material has not been delivered or incorporated into the  
+| construction or repair, less its fair salvage value [ ~~; or~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~the preparation of a plan or plat by an architect,~~  
+|  ~~engineer, or surveyor in accordance with Section 53.021(c)~~ ].  
+|  _(b)_ _____Notwithstanding the foreclosure of a superior lien on_  
+| _real property, a subcontractor that supplied removables for an_  
+| _improvement and that secures a judgment validating the_  
+| _subcontractor's debt and mechanic's lien may obtain an order_  
+| _allowing the subcontractor to remove the amount of removables equal_  
+| _to the amount of the perfected lien interest, based on the fair_  
+| _market value of the removables._  
+|  SECTION 6. Section 53.026(a), Property Code, is amended to  
+| read as follows:  
+|  (a) A person who [ ~~labors, specially fabricates materials,~~  
+|  ~~or~~ ] furnishes labor or materials under a direct contractual  
+| relationship with _a purported original contractor may perfect_  
+| [ ~~another person is considered to be in direct contractual~~  
+|  ~~relationship with the owner and has~~ ] a lien _by following the_  
+| _procedures to perfect a lien of_ [ ~~as~~ ] an original contractor _._
+___For_  
+| _purposes of this subsection, a "purported original contractor"_ ___is a_  
+| _contractor that_ [ ~~, if:~~  
+|  [ ~~(1)~~ ] the owner [ ~~contracted with the other person for~~  
+|  ~~the construction or repair of a house, building, or improvements~~  
+|  ~~and the owner~~ ] can effectively control _or that can effectively_  
+| _control the owner_ [ ~~that person~~ ] through _common_ ownership _,_ [
+~~of~~ ]  
+| voting stock, interlocking directorships, _common management,_ or  
+| _similar rights of control_ [ ~~otherwise;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the owner contracted with the other person for~~  
+|  ~~the construction or repair of a house, building, or improvements~~  
+|  ~~and that other person can effectively control the owner through~~  
+|  ~~ownership of voting stock, interlocking directorships, or~~  
+|  ~~otherwise; or~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~the owner contracted with the other person for~~  
+|  ~~the construction or repair of a house, building, or improvements~~  
+|  ~~and the contract was made without good faith intention of the~~  
+|  ~~parties that the other person was to perform the contract~~ ].  
+|  SECTION 7. Section 53.052, Property Code, is amended to  
+| read as follows:  
+|  Sec. 53.052. FILING OF AFFIDAVIT. (a) Except as provided by  
+| Subsection (b), the person claiming the lien _, other than a lien for_  
+| _contractual retainage,_ must file an affidavit with the county clerk  
+| [ ~~of the county in which the property is located or into which the~~  
+|  ~~railroad extends~~ ] not later than the 15th day of the fourth calendar  
+| month after the _date the claimant:_  
+|  _(1) last provided labor or materials; or_  
+|  _(2)_ _____completed the fabrication of specially fabricated_  
+| _materials that were not delivered to the project site_ [ ~~day on which~~  
+|  ~~the indebtedness accrues~~ ].  
+|  (b) A person claiming a lien arising from a residential  
+| construction project must file an affidavit with the county clerk  
+| [ ~~of the county in which the property is located~~ ] not later than the  
+| 15th day of the third calendar month after the _date the claimant_  
+| _last provided labor or materials_ [ ~~day on which the indebtedness~~  
+|  ~~accrues~~ ].  
+|  (c) _Except as provided by Section 53.107(d), a person_  
+| _claiming a lien for contractual retainage must file an affidavit_  
+| _with the county clerk not later than the 15th day of the third_  
+| _calendar month after the date the original contract under which the_  
+| _person performed was completed, abandoned, or terminated._  
+|  _(d)_ _____An affidavit under Subsection (c) must be filed in the_  
+| _county where the improvements are located._ The county clerk shall  
+| record the affidavit in records kept for that purpose and shall  
+| index and cross-index the affidavit in the names of the claimant,  
+| the original contractor, and the owner. Failure of the county clerk  
+| to properly record or index a filed affidavit does not invalidate  
+| the lien.  
+|  SECTION 8. Section 53.055(a), Property Code, is amended to  
+| read as follows:  
+|  (a) A person who files an affidavit must send a copy of the  
+| affidavit by [ ~~registered or~~ ] certified mail to the owner or reputed  
+| owner at the owner's last known business or residence address not  
+| later than the fifth day after the date the affidavit is filed with  
+| the county clerk.  
+|  SECTION 9. The heading to Section 53.056, Property Code, is  
+| amended to read as follows:  
+|  Sec. 53.056. DERIVATIVE CLAIMANT: NOTICE TO OWNER _AND_ [ ~~OR~~ ]  
+| ORIGINAL CONTRACTOR.  
+|  SECTION 10. Section 53.056, Property Code, is amended by  
+| amending Subsection (a) and adding Subsections (a-1) and (a-2) to  
+| read as follows:  
+|  (a) _A subcontractor_ [ ~~Except as provided by Subchapter K, a~~  
+|  ~~claimant other than an original contractor~~ ] must give the _notices_  
+| [ ~~notice~~ ] prescribed by this section _and, if applicable, Section_  
+| _53.057_ for the lien to be valid.  
+|  _(a-1)_ _____For all labor provided or materials provided or_  
+| _specially fabricated during a month, the subcontractor must send a_  
+| _notice of progress payment debt to the owner or reputed owner and_  
+| _the original contractor by certified mail._ ___The notice must be sent:_  
+|  _(1)_ _____for debt other than retainage debt, not later than_  
+| _the 15th day of the third month after the date the labor was_  
+| _provided or the materials were provided or specially fabricated; or_  
+|  _(2)_ _____for residential construction projects, not later_  
+| _than the 15th day of the second month after the date the labor was_  
+| _provided or the materials were provided or specially fabricated._  
+|  _(a-2) The notice must read:_  
+| _"NOTICE OF PROGRESS PAYMENT DEBT_  
+|  _"Date: ___________________  
+|  _"Subcontractor: ___________________  
+|  _"Original contractor: ___________________  
+|  _"Party contracting with subcontractor: ___________________  
+|  _"Months during which labor or materials were provided or_  
+| _special fabrication was completed for which payment has not yet_  
+| _been received: ___________________  
+|  _"Total debt to date, including retainage:_  
+| ____________________  
+|  _"Total debt to date, not including retainage:_  
+| ____________________  
+|  _"The subcontractor below provides this notice only to_  
+| _preserve the subcontractor's lien rights._  
+|  _"__________________ (Subcontractor's signature)_  
+|  _"__________________ (Subcontractor's printed name)_  
+|  _"__________________ (Subcontractor's address)"_  
+|  SECTION 11. The heading to Section 53.057, Property Code,  
+| is amended to read as follows:  
+|  Sec. 53.057. DERIVATIVE CLAIMANT: NOTICE FOR [ ~~CONTRACTUAL~~ ]  
+| RETAINAGE CLAIM.  
+|  SECTION 12. Section 53.057, Property Code, is amended by  
+| amending Subsection (a) and adding Subsection (a-1) to read as  
+| follows:  
+|  (a) A _subcontractor whose contract provides for the_  
+| _withholding of retainage must_ [ ~~claimant may~~ ] give notice under this  
+| section [ ~~instead of or~~ ] in addition to notice under Section 53.056  
+| _for the retainage lien to be valid. The subcontractor must send the_  
+| _notice of retainage claim to the owner or reputed owner and the_  
+| _original contractor, by certified mail, not later than the 30th day_  
+| _after the date the subcontractor's contract providing for retainage_  
+| _is completed, terminated, or abandoned_ [ ~~or 53.252 if the claimant~~  
+|  ~~is to labor, furnish labor or materials, or specially fabricate~~  
+|  ~~materials, or has labored, furnished labor or materials, or~~  
+|  ~~specially fabricated materials, under an agreement with an original~~  
+|  ~~contractor or a subcontractor providing for retainage~~ ].  
+|  _(a-1) The notice must read:_  
+| _"NOTICE OF RETAINAGE CLAIM_  
+|  _"Date: ___________________  
+|  _"Subcontractor: ___________________  
+|  _"Original contractor: ___________________  
+|  _"Party contracting with subcontractor: ___________________  
+|  _"Amount of subcontractual retainage outstanding:_  
+| ____________________  
+|  _"The subcontractor below provides this notice only to_  
+| _preserve the subcontractor's lien rights for retainage._  
+|  _"__________________ (Subcontractor's signature)_  
+|  _"__________________ (Subcontractor's printed name)_  
+|  _"__________________ (Subcontractor's address)"_  
+|  SECTION 13. Section 53.081(a), Property Code, is amended to  
+| read as follows:  
+|  (a) If an owner receives notice under Section 53.056 _or_ [ ~~,~~ ]  
+| 53.057, [ ~~53.058, 53.252, or 53.253,~~ ] the owner may withhold from  
+| payments to the original contractor an amount necessary to pay the  
+| claim for which _the owner_ [ ~~he~~ ] receives notice.  
+|  SECTION 14. Section 53.082, Property Code, is amended to  
+| read as follows:  
+|  Sec. 53.082. TIME FOR WHICH FUNDS ARE WITHHELD. Unless  
+| [ ~~payment is made under Section 53.083 or~~ ] the claim is otherwise  
+| settled, discharged, indemnified against under Subchapter H or I,  
+| or determined to be invalid by a final judgment of a court, the  
+| owner _may_ [ ~~shall~~ ] retain the funds withheld until:  
+|  (1) the time for filing the affidavit of mechanic's  
+| lien has passed; or  
+|  (2) if a lien affidavit has been filed, until the lien  
+| claim has been satisfied or released.  
+|  SECTION 15. Section 53.084, Property Code, is amended to  
+| read as follows:  
+|  Sec. 53.084. OWNER'S LIABILITY. (a) Except for the amount  
+| _described by Subsection (c)_ [ ~~required to be retained under~~  
+|  ~~Subchapter E~~ ], the owner is not liable for any amount paid to the  
+| original contractor before the owner is authorized to withhold  
+| funds under this subchapter.  
+|  (b) If the owner has received _a notice_ [ ~~the notices~~ ]  
+| required by _Section 53.056 or 53.057_ [ ~~Subchapter C or K~~ ], if the  
+| lien has been secured, and if the claim has been reduced to final  
+| judgment, the owner is liable and the owner's property is subject to  
+| a claim for _the amount the owner_ [ ~~any money~~ ] paid to the original  
+| contractor after the owner _received the notice, which may not_  
+| _exceed the unpaid amount specified in the notice_ [ ~~was authorized to~~  
+|  ~~withhold funds under this subchapter. The owner is liable for that~~  
+|  ~~amount in addition to any amount for which he is liable under~~  
+|  ~~Subchapter E~~ ].  
+|  _(c)_ _____An owner is liable and the owner's property is subject_  
+| _to a claim for retainage debts of subcontractors of not more than 10_  
+| _percent of the original contract price if:_  
+|  _(1)_ _____the owner received the notices under Sections_  
+| _53.056 and 53.057;_  
+|  _(2)_ _____the owner did not withhold sufficient funds from_  
+| _the original contractor to pay the amount owed; and_  
+|  _(3) the claim has been reduced to final judgment._  
+|  _(d)_ _____Multiple claimants for retainage are entitled to a pro_  
+| _rata share of the claim amount allowed under Subsection (c)._  
+|  SECTION 16. The heading to Subchapter E, Chapter 53,  
+| Property Code, is amended to read as follows:  
+| SUBCHAPTER E. _TERMINATION OR ABANDONMENT OF CONTRACT_ [ ~~REQUIRED~~  
+|  ~~RETAINAGE FOR BENEFIT OF LIEN CLAIMANTS~~ ]  
+|  SECTION 17. Sections 53.107(a), (b), and (d), Property  
+| Code, are amended to read as follows:  
+|  (a) Not later than the 10th day after the date an original  
+| contract is terminated or the original contractor abandons  
+| performance under the original contract, the owner shall give  
+| notice to each subcontractor who, before the date of termination or  
+| abandonment, has:  
+|  (1) given notice to the owner as provided by Section  
+| 53.056 _or_ [ ~~,~~ ] 53.057 [ ~~, or 53.058~~ ]; or  
+|  (2) sent to the owner by certified [ ~~or registered~~ ]  
+| mail a written request for notice of termination or abandonment.  
+|  (b) The notice must contain:  
+|  (1) the name and address of the owner;  
+|  (2) the name and address of the original contractor;  
+|  (3) a description, legally sufficient for  
+| identification, of the real property on which the improvements are  
+| located;  
+|  (4) a general description of the improvements agreed  
+| to be furnished under the original contract;  
+|  (5) a statement that the original contract has been  
+| terminated or that performance under the contract has been  
+| abandoned; _and_  
+|  (6) the date of the termination or abandonment [ ~~; and~~  
+|  [ ~~(7)~~ ~~~~ ~~~~ ~~a conspicuous statement that a claimant may not~~  
+|  ~~have a lien on the retained funds unless the claimant files an~~  
+|  ~~affidavit claiming a lien not later than the 40th day after the date~~  
+|  ~~of the termination or abandonment~~ ].  
+|  (d) If an owner is required to send a notice to a  
+| subcontractor under this section and fails to send the notice, the  
+| _subcontractor's deadline to file an affidavit for contractual_  
+| _retainage under Section 53.052 is the last business day of the_  
+| _fourth calendar month after the date the original contract was_  
+| _terminated or abandoned_ [ ~~subcontractor is not required to comply~~  
+|  ~~with Section 53.057 to claim retainage and may claim a lien by~~  
+|  ~~filing a lien affidavit as prescribed by Section 53.052~~ ].  
+|  SECTION 18. Section 53.122(a), Property Code, is amended to  
+| read as follows:  
+|  (a) Except as provided by [ ~~Subchapter E and~~ ] Section  
+| 53.124(e), perfected mechanic's liens are on equal footing without  
+| reference to the date of filing the affidavit claiming the lien.  
+|  SECTION 19. Section 53.123(a), Property Code, is amended to  
+| read as follows:  
+|  (a) Except as provided by this section, a mechanic's lien  
+| attaches to _an improvement_ [ ~~the house, building, improvements, or~~  
+|  ~~railroad property~~ ] in preference to any prior lien, encumbrance, or  
+| mortgage on the land on which it is located, and the person  
+| enforcing the lien may have the [ ~~house, building,~~ ] improvement [ ~~,~~  
+|  ~~or any piece of the railroad property~~ ] sold separately.  
+|  SECTION 20. Section 53.124(e), Property Code, is amended to  
+| read as follows:  
+|  (e) The time of inception of a lien that is created under  
+| Section 53.021(c) [ ~~, (d),~~ ] or (e) is the date of recording of an  
+| affidavit of lien under Section 53.052. The priority of a lien  
+| claimed by a person entitled to a lien under Section 53.021(c) [ ~~,~~  
+|  ~~(d),~~ ] or (e) with respect to other mechanic's liens is determined by  
+| the date of recording. A lien created under Section 53.021(c) [ ~~,~~  
+|  ~~(d),~~ ] or (e) is not valid or enforceable against a grantee or  
+| purchaser who acquires an interest in the real property before the  
+| time of inception of the lien.  
+|  SECTION 21. Section 53.155, Property Code, is amended to  
+| read as follows:  
+|  Sec. 53.155. TRANSFER OF PROPERTY SOLD. If the [ ~~house,~~  
+|  ~~building,~~ ] improvement [ ~~,~~ ] or any piece of _the improvement_  
+| [ ~~railroad property~~ ] is sold separately, the officer making the sale  
+| shall place the purchaser in possession. The purchaser is entitled  
+| to a reasonable time after the date of purchase within which to  
+| remove the purchased _improvement_ [ ~~property~~ ].  
+|  SECTION 22. Section 53.157, Property Code, is amended to  
+| read as follows:  
+|  Sec. 53.157. DISCHARGE OF LIEN. A mechanic's lien or  
+| affidavit claiming a mechanic's lien filed under Section 53.052 may  
+| be discharged of record by:  
+|  (1) recording a lien release signed by the claimant  
+| under Section 53.152;  
+|  (2) failing to institute suit to foreclose the lien in  
+| the county in which the _improvement_ [ ~~property~~ ] is located within  
+| the period prescribed by Section 53.158 _or_ [ ~~,~~ ] 53.175 [ ~~, or
+53.208~~ ];  
+|  (3) recording the original or certified copy of a  
+| final judgment or decree of a court of competent jurisdiction  
+| providing for the discharge;  
+|  (4) filing the bond and notice in compliance with  
+| Subchapter H;  
+|  (5) filing the bond in compliance with Subchapter I;  
+| or  
+|  (6) recording a certified copy of the order removing  
+| the lien under Section 53.160 [ ~~and a certificate from the clerk of~~  
+|  ~~the court that states that no bond or deposit as described by~~  
+|  ~~Section 53.161 was filed by the claimant within 30 days after the~~  
+|  ~~date the order was entered~~ ].  
+|  SECTION 23. Section 53.158, Property Code, is amended by  
+| amending Subsection (a) and adding Subsection (a-1) to read as  
+| follows:  
+|  (a) _Suit_ [ ~~Except as provided by Subsection (b), suit~~ ] must  
+| be brought to foreclose the lien _not later than the first_  
+| _anniversary of_ [ ~~within two years after~~ ] the _date_ [ ~~last day~~ ]
+a  
+| claimant _filed_ [ ~~may file~~ ] the lien affidavit under Section 53.052  
+| [ ~~or within one year after completion, termination, or abandonment~~  
+|  ~~of the work under the original contract under which the lien is~~  
+|  ~~claimed, whichever is later~~ ].  
+|  _(a-1)_ _____Notwithstanding Section 16.069, Civil Practice and_  
+| _Remedies Code, or any other law, if suit is brought for an order_  
+| _finding that limitations have expired on bringing a lien_  
+| _foreclosure suit, the lien claimant's rights to pursue a suit to_  
+| _foreclose a lien are not revived._  
+|  SECTION 24. Sections 53.159(a) and (f), Property Code, are  
+| amended to read as follows:  
+|  (a) An owner _or original contractor_ , on written request,  
+| shall furnish the following information [ ~~within a reasonable time,~~  
+|  ~~but~~ ] not later than the 10th day after the date the request is  
+| received[ ~~,~~ ] to any person furnishing labor or materials for the  
+| project:  
+|  (1) a description of the real property being improved  
+| legally sufficient to identify it;  
+|  (2) whether there is a surety bond and if so, the name  
+| and last known address of the surety and a copy of the bond;  
+|  (3) whether there are any prior recorded liens or  
+| security interests on the real property being improved and if so,  
+| the name and address of the person having the lien or security  
+| interest; and  
+|  (4) the date on which the original contract for the  
+| project was executed.  
+|  (f) A person [ ~~, other than a claimant requested to furnish~~  
+|  ~~information under Subsection (d),~~ ] who fails to furnish information  
+| as required by this section is liable to the requesting person for  
+| that person's reasonable and necessary costs incurred in procuring  
+| the requested information.  
+|  SECTION 25. Sections 53.160(a), (b), (c), and (e), Property  
+| Code, are amended to read as follows:  
+|  (a) _An owner or original contractor may bring suit_ [ ~~In a~~  
+|  ~~suit brought to foreclose a lien or~~ ] to declare a claim or lien  
+| invalid or unenforceable [ ~~, a party objecting to the validity or~~  
+|  ~~enforceability of the claim or lien may file a motion to remove the~~  
+|  ~~claim or lien~~ ]. The _original petition or subsequent_ motion must [
+~~be~~  
+|  ~~verified and~~ ] state the legal and factual basis for objecting to the  
+| validity or enforceability of the claim or lien _and must_ [ ~~.~~ ~~~~
+~~The~~  
+|  ~~motion may~~ ] be accompanied by supporting affidavits.  
+|  (b) The grounds for objecting to the validity or  
+| enforceability of the claim or lien for purposes of the motion are  
+| limited to the following:  
+|  (1) notice of claim was not _timely_ furnished to the  
+| owner or original contractor as required by Section 53.056 _or_ [ ~~,~~ ]  
+| 53.057 [ ~~, 53.058, 53.252, or 53.253~~ ];  
+|  (2) an affidavit claiming a lien failed to comply with  
+| Section 53.054 or was not filed as required by Section 53.052;  
+|  (3) notice of the filed affidavit was not furnished to  
+| the owner or original contractor as required by Section 53.055;  
+|  (4) [ ~~the deadlines for perfecting a lien claim for~~  
+|  ~~retainage under this chapter have expired and the owner complied~~  
+|  ~~with the requirements of Section 53.101 and paid the retainage and~~  
+|  ~~all other funds owed to the original contractor before:~~  
+|  [ ~~(A) the claimant perfected the lien claim; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~the owner received a notice of the claim as~~  
+|  ~~required by this chapter;~~  
+|  [ ~~(5)~~ ] all funds subject to the notice of a claim to the  
+| owner and a notice regarding the retainage have been deposited in  
+| the registry of the court and the owner has no additional liability  
+| to the claimant;  
+|  _(5)_ [ ~~(6)~~ ] when the lien affidavit was filed on  
+| homestead property:  
+|  (A) no contract was executed or filed as required  
+| by Section 53.254;  
+|  (B) the affidavit claiming a lien failed to  
+| contain the notice as required by Section 53.254; or  
+|  (C) the notice of the claim failed to include the  
+| statement required by Section 53.254; and  
+|  _(6)_ [ ~~(7)~~ ] the claimant executed a [ ~~valid and~~  
+|  ~~enforceable~~ ] waiver or release of the claim or lien claimed in the  
+| affidavit.  
+|  (c) The claimant is not required to file a response.  The  
+| claimant and any other party that has appeared in the proceeding  
+| must be notified by at least _30_ [ ~~21~~ ] days before the date of the  
+| hearing on the motion.  [ ~~A motion may not be heard before the 21st~~  
+|  ~~day after the date the claimant answers or appears in the~~  
+|  ~~proceeding.~~ ]  
+|  (e) The court shall promptly determine a motion to remove a  
+| claim or lien under this section _under the same standards as a_  
+| _motion for summary judgment_. If the court determines that the  
+| movant is not entitled to remove the lien, the court shall enter an  
+| order denying the motion. If the court determines that the movant is  
+| entitled to remove the lien, the court shall enter an order removing  
+| the lien claimed in the lien affidavit. _The order is appealable if_  
+| _the order is the final order in the case_ [ ~~A party to the proceeding~~  
+|  ~~may not file an interlocutory appeal from the court's order~~ ].  
+|  SECTION 26. Sections 53.161(a) and (g), Property Code, are  
+| amended to read as follows:  
+|  (a) In the order removing a lien, the court shall set the  
+| amount of security that the claimant may provide in order to  
+| _preserve the potential validity of the lien claim on appeal_ [ ~~stay~~  
+|  ~~the removal of the claim or lien~~ ].  The _amount of the security_ [
+~~sum~~ ]  
+| must be _at least 75 percent of the_ [ ~~an~~ ] amount _of the lien claim
+plus_  
+| [ ~~that the court determines is~~ ] a reasonable estimate of the costs  
+| and attorney's fees the movant is likely to incur in the _appeal_  
+| [ ~~proceeding~~ ] to determine the validity or enforceability of the  
+| lien. [ ~~The sum may not exceed the amount of the lien claim.~~ ]  
+|  (g) _If an appeal is not taken or if the bond or deposit is_  
+| _not timely made, the_ [ ~~The~~ ] claim or lien is removed and extinguished  
+| as to a creditor or subsequent purchaser for valuable consideration  
+| who obtains an interest in the property [ ~~after the certified copy of~~  
+|  ~~the order and certificate of the clerk of the court are filed with~~  
+|  ~~the county clerk.~~ ~~~~ ~~The removal of the lien does not constitute
+a~~  
+|  ~~release of the liability of the owner, if any, to the claimant~~ ].  
+|  SECTION 27. Section 53.205(a), Property Code, is amended to  
+| read as follows:  
+|  (a) The bond protects all persons with a claim that is [ ~~:~~  
+|  [ ~~(1)~~ ] perfected in the manner prescribed for fixing a  
+| lien [ ~~under Subchapter C or, if the claim relates to a residential~~  
+|  ~~construction project, under Subchapter K; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~perfected in the manner prescribed by Section~~  
+|  ~~53.206~~ ].  
+|  SECTION 28. Sections 53.206(a), (b), and (d), Property  
+| Code, are amended to read as follows:  
+|  (a) To perfect a claim against a bond in a manner other than  
+| that prescribed by Subchapter C [ ~~or K~~ ] for fixing a lien, a person  
+| must [ ~~:~~  
+|  [ ~~(1)~~ ] give to the original contractor _and surety on_  
+| _the bond_ all applicable notices under the appropriate subchapter [ ~~;~~  
+|  ~~and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~give to the surety on the bond, instead of the~~  
+|  ~~owner, all notices under the appropriate subchapter required to be~~  
+|  ~~given to the owner~~ ].  
+|  (b) To perfect a claim under this section, a person is not  
+| required to [ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~give notice to the surety under Section 53.057,~~  
+|  ~~unless the claimant has a direct contractual relationship with the~~  
+|  ~~original contractor and the agreed retainage is in excess of 10~~  
+|  ~~percent of the contract;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~give notice to the surety under Section 53.058(b)~~  
+|  ~~or, if the claim relates to a residential construction project,~~  
+|  ~~under Section 53.253(c); or~~  
+|  [ ~~(3)~~ ] file any affidavit with the county clerk.  
+|  (d) A person satisfies the requirements of this section  
+| relating to providing notice to the surety if the person mails the  
+| notice by certified [ ~~or registered~~ ] mail to the surety:  
+|  (1) at the address stated on the bond or on an  
+| attachment to the bond;  
+|  (2) at the address on file with the Texas Department of  
+| Insurance; or  
+|  (3) at any other address allowed by law.  
+|  SECTION 29. Section 53.207, Property Code, is amended to  
+| read as follows:  
+|  Sec. 53.207. _FAILURE TO SEND_ [ ~~OWNER'S~~ ] NOTICE OF CLAIM TO  
+| SURETY. [ ~~(a)~~ ] If the owner receives any of the notices or a lien is  
+| fixed under _this chapter_ [ ~~Subchapter C or K~~ ], the _failure_ [
+~~owner~~  
+|  ~~shall mail to the surety on the bond a copy of all notices received.~~  
+|  [ ~~(b) Failure~~] of the owner to send copies of notices to the  
+| surety does not relieve the surety of any liability under the bond  
+| if the claimant has complied with the requirements of this  
+| subchapter, nor does that failure impose any liability on the  
+| owner.  
+|  SECTION 30. The heading to Section 53.254, Property Code,  
+| is amended to read as follows:  
+|  Sec. 53.254. _CONTRACT REQUIREMENTS FOR LIEN ON_ HOMESTEAD.  
+|  SECTION 31. Section 53.254(g), Property Code, is amended to  
+| read as follows:  
+|  (g) For the lien on a homestead to be valid, _a_ [ ~~the~~ ] notice  
+| _must_ [ ~~required to~~ ] be given to the owner _with the original
+contract_  
+| _and_ [ ~~under Section 53.252~~ ] must include or have attached the  
+| following statement:  
+|  "If a subcontractor or supplier who furnishes materials or  
+| performs labor for construction of improvements on your property is  
+| not paid, your property may be subject to a lien for the unpaid  
+| amount if[ ~~:~~  
+|  [ ~~(1)~~ ] after receiving notice of the unpaid claim from  
+| the claimant, you fail to withhold payment to your contractor that  
+| is sufficient to cover the unpaid claim until the dispute is  
+| resolved _. Additionally, you may be liable for up to an additional_  
+| _10 percent of the price of the original contract for contractual_  
+| _retainage claims"_ [ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~during construction and for 30 days after~~  
+|  ~~completion of construction, you fail to retain 10 percent of the~~  
+|  ~~contract price or 10 percent of the value of the work performed by~~  
+|  ~~your contractor~~ ].  
+|  [ ~~"If you have complied with the law regarding the 10 percent~~  
+|  ~~retainage and you have withheld payment to the contractor~~  
+|  ~~sufficient to cover any written notice of claim and have paid that~~  
+|  ~~amount, if any, to the claimant, any lien claim filed on your~~  
+|  ~~property by a subcontractor or supplier, other than a person who~~  
+|  ~~contracted directly with you, will not be a valid lien on your~~  
+|  ~~property. In addition, except for the required 10 percent~~  
+|  ~~retainage, you are not liable to a subcontractor or supplier for any~~  
+|  ~~amount paid to your contractor before you received written notice~~  
+|  ~~of the claim."~~ ]  
+|  SECTION 32. Section 53.255(b), Property Code, is amended to  
+| read as follows:  
+|  (b) The disclosure statement must read substantially  
+| similar to the following:  
+|  "KNOW YOUR RIGHTS AND RESPONSIBILITIES UNDER THE LAW. You  
+| are about to enter into a transaction to build a new home or remodel  
+| existing residential property. Texas law requires your contractor  
+| to provide you with this brief overview of some of your rights,  
+| responsibilities, and risks in this transaction.  
+|  "CONVEYANCE TO CONTRACTOR NOT REQUIRED. Your contractor may  
+| not require you to convey your real property to your contractor as a  
+| condition to the agreement for the construction of improvements on  
+| your property.  
+|  "KNOW YOUR CONTRACTOR. Before you enter into your agreement  
+| for the construction of improvements to your real property, make  
+| sure that you have investigated your contractor. Obtain and verify  
+| references from other people who have used the contractor for the  
+| type and size of construction project on your property.  
+|  "GET IT IN WRITING. Make sure that you have a written  
+| agreement with your contractor that includes: (1) a description of  
+| the work the contractor is to perform; (2) the required or  
+| estimated time for completion of the work; (3) the cost of the work  
+| or how the cost will be determined; and (4) the procedure and  
+| method of payment, including provisions for [ ~~statutory~~ ] retainage  
+| and conditions for final payment. If your contractor made a  
+| promise, warranty, or representation to you concerning the work the  
+| contractor is to perform, make sure that promise, warranty, or  
+| representation is specified in the written agreement. An oral  
+| promise that is not included in the written agreement may not be  
+| enforceable under Texas law.  
+|  "READ BEFORE YOU SIGN. Do not sign any document before you  
+| have read and understood it. NEVER SIGN A DOCUMENT THAT INCLUDES AN  
+| UNTRUE STATEMENT. Take your time in reviewing documents. If you  
+| borrow money from a lender to pay for the improvements, you are  
+| entitled to have the loan closing documents furnished to you for  
+| review at least one business day before the closing. Do not waive  
+| this requirement unless a bona fide emergency or another good cause  
+| exists, and make sure you understand the documents before you sign  
+| them. If you fail to comply with the terms of the documents, you  
+| could lose your property. You are entitled to have your own  
+| attorney review any documents. If you have any question about the  
+| meaning of a document, consult an attorney.  
+|  "GET A LIST OF SUBCONTRACTORS AND SUPPLIERS. Before  
+| construction commences, your contractor is required to provide you  
+| with a list of the subcontractors and suppliers the contractor  
+| intends to use on your project. Your contractor is required to  
+| supply updated information on any subcontractors and suppliers  
+| added after the list is provided. Your contractor is not required  
+| to supply this information if you sign a written waiver of your  
+| rights to receive this information.  
+|  "MONITOR THE WORK. Lenders and governmental authorities may  
+| inspect the work in progress from time to time for their own  
+| purposes. These inspections are not intended as quality control  
+| inspections. Quality control is a matter for you and your  
+| contractor. To ensure that your home is being constructed in  
+| accordance with your wishes and specifications, you should inspect  
+| the work yourself or have your own independent inspector review the  
+| work in progress.  
+|  "MONITOR PAYMENTS. If you use a lender, your lender is  
+| required to provide you with a periodic statement showing the money  
+| disbursed by the lender from the proceeds of your loan. Each time  
+| your contractor requests payment from you or your lender for work  
+| performed, your contractor is also required to furnish you with a  
+| disbursement statement that lists the name and address of each  
+| subcontractor or supplier that the contractor intends to pay from  
+| the requested funds. Review these statements and make sure that the  
+| money is being properly disbursed.  
+|  "CLAIMS BY SUBCONTRACTORS AND SUPPLIERS. Under Texas law, if  
+| a subcontractor or supplier who furnishes labor or materials for  
+| the construction of improvements on your property is not paid, you  
+| may become liable and your property may be subject to a lien for the  
+| unpaid amount, even if you have not contracted directly with the  
+| subcontractor or supplier. To avoid liability, you should take the  
+| following actions:  
+|  (1) If you receive a written notice from a  
+| subcontractor or supplier, you should withhold payment from your  
+| contractor for the amount of the claim stated in the notice until  
+| the dispute between your contractor and the subcontractor or  
+| supplier is resolved. If your lender is disbursing money directly  
+| to your contractor, you should immediately provide a copy of the  
+| notice to your lender and instruct the lender to withhold payment in  
+| the amount of the claim stated in the notice. If you continue to pay  
+| the contractor after receiving the written notice without  
+| withholding the amount of the claim, you may be liable and your  
+| property may be subject to a lien for the amount you failed to  
+| withhold.  
+|  (2) During construction and for 30 days after final  
+| completion, termination, or abandonment of the contract by the  
+| contractor, you should withhold or cause your lender to withhold  
+| _the greater of the amount you are required to withhold under the_  
+| _contract or an amount equal to_ 10 percent of the amount of payments  
+| made for the work performed by your contractor. This is [ ~~sometimes~~ ]  
+| referred to as [ ~~'statutory~~ ] retainage.[ ~~'~~ ] If you choose not to  
+| withhold _at least_ [ ~~the~~ ] 10 percent for at least 30 days after final  
+| completion, termination, or abandonment of the contract by the  
+| contractor and if a valid claim is timely made by a claimant and  
+| your contractor fails to pay the claim, you may be personally liable  
+| and your property may be subject to a lien up to the amount that you  
+| failed to withhold.  
+|  "If a claim is not paid within a certain time period, the  
+| claimant is required to file a mechanic's lien affidavit in the real  
+| property records in the county where the property is located. A  
+| mechanic's lien affidavit is not a lien on your property, but the  
+| filing of the affidavit could result in a court imposing a lien on  
+| your property if the claimant is successful in litigation to  
+| enforce the lien claim.  
+|  "SOME CLAIMS MAY NOT BE VALID. When you receive a written  
+| notice of a claim or when a mechanic's lien affidavit is filed on  
+| your property, you should know your legal rights and  
+| responsibilities regarding the claim. Not all claims are valid. A  
+| notice of a claim by a subcontractor or supplier is required to be  
+| sent, and the mechanic's lien affidavit is required to be filed,  
+| within strict time periods. The notice and the affidavit must  
+| contain certain information. All claimants may not fully comply  
+| with the legal requirements to collect on a claim. If you have paid  
+| the contractor in full before receiving a notice of a claim and have  
+| fully complied with the law regarding [ ~~statutory~~ ] retainage, you  
+| may not be liable for that claim. Accordingly, you should consult  
+| your attorney when you receive a written notice of a claim to  
+| determine the true extent of your liability or potential liability  
+| for that claim.  
+|  "OBTAIN A LIEN RELEASE AND A BILLS-PAID AFFIDAVIT. When you  
+| receive a notice of claim, do not release withheld funds without  
+| obtaining a signed and notarized release of lien and claim from the  
+| claimant. You can also reduce the risk of having a claim filed by a  
+| subcontractor or supplier by requiring as a condition of each  
+| payment made by you or your lender that your contractor furnish you  
+| with an affidavit stating that all bills have been paid. Under  
+| Texas law, on final completion of the work and before final payment,  
+| the contractor is required to furnish you with an affidavit stating  
+| that all bills have been paid. If the contractor discloses any  
+| unpaid bill in the affidavit, you should withhold payment in the  
+| amount of the unpaid bill until you receive a waiver of lien or  
+| release from that subcontractor or supplier.  
+|  "OBTAIN TITLE INSURANCE PROTECTION. You may be able to obtain  
+| a title insurance policy to insure that the title to your property  
+| and the existing improvements on your property are free from liens  
+| claimed by subcontractors and suppliers. If your policy is issued  
+| before the improvements are completed and covers the value of the  
+| improvements to be completed, you should obtain, on the completion  
+| of the improvements and as a condition of your final payment, a '  
+| completion of improvements' policy endorsement. This endorsement  
+| will protect your property from liens claimed by subcontractors and  
+| suppliers that may arise from the date the original title policy is  
+| issued to the date of the endorsement."  
+|  SECTION 33. Section 53.281(b), Property Code, is amended to  
+| read as follows:  
+|  (b) A waiver and release is effective to release the owner,  
+| the owner's property, the contractor, and the surety on a payment  
+| bond from claims and liens only if:  
+|  (1) the waiver and release substantially complies with  
+| one of the forms prescribed by Section 53.284;  
+|  (2) the waiver and release is signed by the claimant or  
+| the claimant's authorized agent [ ~~and notarized~~ ]; and  
+|  (3) in the case of a conditional release, evidence of  
+| payment to the claimant exists.  
+|  SECTION 34. Sections 53.282(a) and (b), Property Code, are  
+| amended to read as follows:  
+|  (a) A statement purporting to waive, release, or otherwise  
+| adversely affect a lien or payment bond claim is not enforceable and  
+| does not create an estoppel or impairment of a lien or payment bond  
+| claim unless:  
+|  (1) the statement is in writing and substantially  
+| complies with a form prescribed by Section 53.284;  
+|  (2) _for a conditional lien waiver,_ the claimant has  
+| actually received payment in good and sufficient funds in full for  
+| the lien or payment bond claim; or  
+|  (3) the statement is:  
+|  (A) in a written original contract or subcontract  
+| for the construction, remodel, or repair of a single-family house,  
+| townhouse, or duplex or for land development related to a  
+| single-family house, townhouse, or duplex; and  
+|  (B) made before labor or materials are provided  
+| under the original contract or subcontract.  
+|  (b) The filing of a lien rendered unenforceable by a lien  
+| waiver under Subsection (a)(3) _is a violation of_ [ ~~does not violate~~ ]  
+| Section 12.002, Civil Practice and Remedies Code[ ~~, unless:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~an owner or original contractor sends a written~~  
+|  ~~explanation of the basis for nonpayment, evidence of the~~  
+|  ~~contractual waiver of lien rights, and a notice of request for~~  
+|  ~~release of the lien to the claimant at the claimant's address stated~~  
+|  ~~in the lien affidavit; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the lien claimant does not release the filed lien~~  
+|  ~~affidavit on or before the 14th day after the date the owner or the~~  
+|  ~~original contractor sends the items required by Subdivision (1)~~ ].  
+|  SECTION 35. Sections 53.284(b) and (c), Property Code, are  
+| amended to read as follows:  
+|  (b) If a claimant or potential claimant is required to  
+| execute a waiver and release in exchange for or to induce the  
+| payment of a progress payment and is not paid in exchange for the  
+| waiver and release or if a single payee check or joint payee check  
+| is given in exchange for the waiver and release, the waiver and  
+| release must read:  
+| "CONDITIONAL WAIVER AND RELEASE ON PROGRESS PAYMENT  
+| "Project ___________________  
+| "Job No. ___________________  
+|  "On receipt by the signer of this document of a check from  
+| ________________ (maker of check) in the sum of $__________ payable  
+| to _____________________ (payee or payees of check) and when the  
+| check has been properly endorsed and has been paid by the bank on  
+| which it is drawn, this document becomes effective to release any  
+| mechanic's lien right, any right arising from a payment bond that  
+| complies with a state or federal statute, any common law payment  
+| bond right, any claim for payment, and any rights under any similar  
+| ordinance, rule, or statute related to claim or payment rights for  
+| persons in the signer's position that the signer has on the property  
+| of ________________ (owner) located at ______________________  
+| (location) to the following extent: ______________________ (job  
+| description).  
+|  "This release covers a progress payment for all labor,  
+| services, equipment, or materials furnished to the property or to  
+| __________________ (person with whom signer contracted) as  
+| indicated in the attached statement(s) or progress payment  
+| request(s), except for unpaid retention, pending modifications and  
+| changes, or other items furnished. _This excludes retainage and the_  
+| _following open matters: ___________________________._  
+|  "Before any recipient of this document relies on this  
+| document, the recipient should verify evidence of payment to the  
+| signer.  
+|  "The signer warrants that the signer has already paid or will  
+| use the funds received from this progress payment to promptly pay in  
+| full all of the signer's laborers, subcontractors, materialmen, and  
+| suppliers for all work, materials, equipment, or services provided  
+| for or to the above referenced project in regard to the attached  
+| statement(s) or progress payment request(s).  
+|  "Date ____________________________  
+|  "_________________________________ (Company name)  
+|  "By ______________________________ (Signature)  
+|  "_________________________________ (Title)"  
+|  (c) If a claimant or potential claimant is required to  
+| execute an unconditional waiver and release to prove the receipt of  
+| good and sufficient funds for a progress payment and the claimant or  
+| potential claimant asserts in the waiver and release that the  
+| claimant or potential claimant has been paid the progress payment,  
+| the waiver and release must:  
+|  (1) contain a notice at the top of the document,  
+| printed in bold type at least as large as the largest type used in  
+| the document, but not smaller than 10-point type, that reads:  
+| "NOTICE:  
+|  "This document waives rights unconditionally and states that  
+| you have been paid for giving up those rights. It is prohibited for  
+| a person to require you to sign this document if you have not been  
+| paid the payment amount set forth below. If you have not been paid,  
+| use a conditional release form."; and  
+|  (2) below the notice, read:  
+| "UNCONDITIONAL WAIVER AND RELEASE ON PROGRESS PAYMENT  
+| "Project ___________________  
+| "Job No. ___________________  
+|  "The signer of this document has been paid and has received a  
+| progress payment in the sum of $___________ for all labor,  
+| services, equipment, or materials furnished to the property or to  
+| _____________________ (person with whom signer contracted) on the  
+| property of _______________________ (owner) located at  
+| ______________________ (location) to the following extent:  
+| ______________________ (job description). The signer therefore  
+| waives and releases any mechanic's lien right, any right arising  
+| from a payment bond that complies with a state or federal statute,  
+| any common law payment bond right, any claim for payment, and any  
+| rights under any similar ordinance, rule, or statute related to  
+| claim or payment rights for persons in the signer's position that  
+| the signer has on the above referenced project to the following  
+| extent:  
+|  "This release covers a progress payment for all labor,  
+| services, equipment, or materials furnished to the property or to  
+| __________________ (person with whom signer contracted) as  
+| indicated in the attached statement(s) or progress payment  
+| request(s), except for unpaid retention, pending modifications and  
+| changes, or other items furnished. _This excludes retainage and the_  
+| _following open matters:___________________________._  
+|  "The signer warrants that the signer has already paid or will  
+| use the funds received from this progress payment to promptly pay in  
+| full all of the signer's laborers, subcontractors, materialmen, and  
+| suppliers for all work, materials, equipment, or services provided  
+| for or to the above referenced project in regard to the attached  
+| statement(s) or progress payment request(s).  
+|  "Date ____________________________  
+|  "_________________________________ (Company name)  
+|  "By ______________________________ (Signature)  
+|  "_________________________________ (Title)"  
+|  SECTION 36. The following provisions of the Property Code  
+| are repealed:  
+|  (1) Sections 53.021(b) and (d);  
+|  (2) Section 53.022(c);  
+|  (3) Section 53.026(b);  
+|  (4) Section 53.053;  
+|  (5) Sections 53.056(b), (c), (d), (e), and (f);  
+|  (6) Sections 53.057(b), (b-1), (c), (d), (e), (f), and  
+| (g);  
+|  (7) Section 53.058;  
+|  (8) Sections 53.081(b), (c), and (d);  
+|  (9) Section 53.083;  
+|  (10) Sections 53.101, 53.102, 53.103, 53.104, 53.105,  
+| and 53.106;  
+|  (11) Section 53.107(e);  
+|  (12) Section 53.158(b);  
+|  (13) Sections 53.159(b), (c), (d), and (e);  
+|  (14) Section 53.160(f);  
+|  (15) Sections 53.161(b) and (f);  
+|  (16) Section 53.162;  
+|  (17) Sections 53.203(d) and (e);  
+|  (18) Section 53.205(b);  
+|  (19) Section 53.206(c);  
+|  (20) Sections 53.252 and 53.253; and  
+|  (21) Section 53.283.  
+|  SECTION 37. The changes in law made by this Act apply only  
+| to an original contract entered into on or after the effective date  
+| of this Act. An original contract entered into before the effective  
+| date of this Act is governed by the law as it existed immediately  
+| before the effective date of this Act, and that law is continued in  
+| effect for that purpose.  
+|  SECTION 38. This Act takes effect September 1, 2019.
+

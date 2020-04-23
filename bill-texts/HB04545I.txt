@@ -1,0 +1,27 @@
+| 86R2268 SRS-D  
+---|---  
+|  By: Swanson | H.B. No. 4545  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a county, city, or independent school district posting  
+| election results on an Internet website.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 65, Election Code, is  
+| amended by adding Section 65.016 to read as follows:  
+|  _Sec._ ___65.016._ _____INTERNET POSTING OF ELECTION RESULTS. (a)_ ___A_  
+| _county, city, or independent school district that holds or provides_  
+| _election services for an election and maintains an Internet website_  
+| _shall post on its public Internet website:_  
+|  _(1) the results of each election;_  
+|  _(2) the total number of votes cast; and_  
+|  _(3)_ _____the total number of votes cast for each candidate_  
+| _or for or against each measure._  
+|  _(b) The information described by Subsection (a) must be:_  
+|  _(1)_ _____provided as soon as practicable after the_  
+| _election; and_  
+|  _(2)_ _____accessible without having to make more than two_  
+| _selections or view more than two network locations after accessing_  
+| _the county's, city's, or district's Internet website home page._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

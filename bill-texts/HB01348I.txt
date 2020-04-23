@@ -1,0 +1,136 @@
+| 86R3378 PMO-F  
+---|---  
+|  By: Clardy | H.B. No. 1348  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain insurance practices with respect to repair of  
+| motor vehicles.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter G, Chapter 1952, Insurance Code, is  
+| amended by adding Section 1952.300 to read as follows:  
+|  _Sec. 1952.300. DEFINITIONS. (a)  In this subchapter:_  
+|  _(1)_ _____"Estimating system"_ ___means an automobile collision_  
+| _damage estimating system that is generally accepted by the_  
+| _automobile repair industry for use in writing an automobile repair_  
+| _estimate._  
+|  _(2)_ _____"Repair person or facility"_ ___does not include a_  
+| _person who exclusively provides automobile glass replacement,_  
+| _glass repair services, or glass products._  
+|  _(b) For purposes of enforcement of this subchapter:_  
+|  _(1)_ _____"Prevailing rate" means the rate identified by a_  
+| _rate survey that is:_  
+|  _(A) conducted by a third party;_  
+|  _(B) designed to be transparent and unbiased; and_  
+|  _(C)_ _____based on the posted retail labor rates and_  
+| _not direct repair program shop rates that operate under a contract_  
+| _with an insurer._  
+|  _(2)_ _____"Reasonable and necessary amount" means the amount_  
+| _determined by the original equipment manufacturer's manufacturer_  
+| _and estimating systems required to repair a vehicle to the_  
+| _condition before the covered damage to the vehicle occurred._  
+|  SECTION 2. Section 1952.301, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1952.301. LIMITATION ON PARTS, PRODUCTS, OR REPAIR  
+| PERSONS OR FACILITIES PROHIBITED.  (a)  Except as provided by rules  
+| adopted by the commissioner, under an automobile insurance policy  
+| that is delivered, issued for delivery, or renewed in this state, an  
+| insurer may not directly or indirectly limit the insurer's coverage  
+| under a policy covering damage to a motor vehicle by[ ~~:~~  
+|  [ ~~(1)~~ ] specifying the brand, type, kind, age, vendor,  
+| supplier, or condition of parts or products that may be used to  
+| repair the vehicle _._ [ ~~; or~~ ]  
+|  _(a-1)_ _____An insurer described by Subsection (a) may not require_  
+| _that:_  
+|  _(1)_ _____a vehicle be repaired with a part or product on the_  
+| _basis that the part or product is the least expensive part or_  
+| _product available; or_  
+|  _(2)_ _____the beneficiary of a policy purchase any part or_  
+| _product from any vendor or supplier, including an out-of-state_  
+| _vendor or supplier, on the basis that the part or product is the_  
+| _least expensive part or product available._  
+|  _(a-2)_ _____An insurer described by Subsection (a) may not_  
+| _consider a specified part or product for the repair of a motor_  
+| _vehicle to be of like kind and quality as an original equipment_  
+| _manufacturer part or product for any purpose unless the insurer or_  
+| _the manufacturer of the specified part or product has conclusively_  
+| _demonstrated that the specified part or product:_  
+|  _(1)_ _____meets the fit, finish, and quality criteria_  
+| _established for the part or product by the original equipment_  
+| _manufacturer of the part or product;_  
+|  _(2)_ _____is the same weight and metal hardness established_  
+| _for the part or product by the original equipment manufacturer of_  
+| _the part or product; and_  
+|  _(3)_ _____has been tested using the same crash and safety_  
+| _test criteria used by the original equipment manufacturer of the_  
+| _part or product._  
+|  _(a-3)_ _____Under an automobile insurance policy that is_  
+| _delivered, issued for delivery, or renewed in this state, an_  
+| _insurer described by Subsection (a), an employee or agent of the_  
+| _insurer, an insurance adjuster, or an entity that employs an_  
+| _insurance adjuster may not directly or indirectly limit the_  
+| _insurer's coverage under a policy covering damage to a motor_  
+| _vehicle by:_  
+|  _(1)_ [ ~~(2)~~ ] limiting the beneficiary of the policy from  
+| selecting a repair person or facility to repair damage to the  
+| vehicle _to the vehicle's condition before the damage occurred in_  
+| _order for the beneficiary to obtain the repair without owing any_  
+| _out-of-pocket cost other than the deductible;_  
+|  _(2)_ _____intimidating, coercing, or threatening the_  
+| _beneficiary to induce the beneficiary to use a particular repair_  
+| _person or facility; or_  
+|  _(3)_ _____offering an incentive or inducement, other than a_  
+| _warranty issued by a repair person or facility, for the beneficiary_  
+| _to use a particular repair person or facility_.  
+|  (b) In settling a liability claim by a third party against  
+| an insured for property damage claimed by the third party, an  
+| insurer _, an employee or agent of an insurer, an insurance adjuster,_  
+| _or an entity that employs an insurance adjuster_ may not _:_  
+|  _(1)_ require the third-party claimant to have repairs  
+| made by a particular repair person or facility _;_ [ ~~or~~ ]  
+|  _(2) require the third-party claimant_ to use a  
+| particular brand, type, kind, age, vendor, supplier, or condition  
+| of parts or products _to repair damage to the vehicle to the_  
+| _vehicle's condition before the damage occurred;_  
+|  _(3)_ _____intimidate, coerce, or threaten the third-party_  
+| _claimant to induce the claimant to use a particular repair person or_  
+| _facility; or_  
+|  _(4)_ _____offer an incentive or inducement, other than a_  
+| _warranty issued by a repair person or facility, for the third-party_  
+| _claimant to use a particular repair person or facility_.  
+|  SECTION 3. Section 1952.302, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1952.302. PROHIBITED ACTS IN CONNECTION WITH REPAIR OF  
+| MOTOR VEHICLE. In connection with the repair of damage to a motor  
+| vehicle covered under an automobile insurance policy, an insurer,  
+| an employee or agent of an insurer, an insurance adjuster, or an  
+| entity that employs an insurance adjuster may not:  
+|  (1) solicit or accept a referral fee or gratuity in  
+| exchange for referring a beneficiary or third-party claimant to a  
+| repair person or facility to repair the damage;  
+|  (2) state or suggest, either orally or in writing, to a  
+| beneficiary that the beneficiary must use a specific repair person  
+| or facility or a repair person or facility identified on a preferred  
+| list compiled by an insurer for the damage repair or parts  
+| replacement to be covered by the policy; [ ~~or~~ ]  
+|  (3) restrict the right of a beneficiary or third-party  
+| claimant to choose a repair person or facility by requiring the  
+| beneficiary or third-party claimant to travel _a_ [ ~~an unreasonable~~ ]  
+| distance _considered inconvenient by a beneficiary or third-party_  
+| _claimant_ to repair the damage _;_  
+|  _(4)_ _____offer, communicate, or suggest in any manner that_  
+| _a particular repair person or facility will provide faster repair_  
+| _times, faster service, or more efficient claims handling than_  
+| _another repair person or facility; or_  
+|  _(5)_ _____disregard a repair operation or cost identified by_  
+| _an estimating system, including the system's procedural pages and_  
+| _any repair, process, or procedure recommended by the original_  
+| _equipment manufacturer of a part or product_.  
+|  SECTION 4. The change in law made by this Act applies only  
+| to an insurance policy that is delivered, issued for delivery, or  
+| renewed on or after January 1, 2020. A policy delivered, issued for  
+| delivery, or renewed before that date is governed by the law as it  
+| existed immediately before the effective date of this Act, and that  
+| law is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

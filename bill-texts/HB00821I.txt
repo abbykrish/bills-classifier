@@ -1,0 +1,57 @@
+| 86R2797 SMH-D  
+---|---  
+|  By: Leach | H.B. No. 821  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the information required to be included in or with a  
+| school district ad valorem tax bill.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 31.01, Tax Code, is amended by adding  
+| Subsections (d-2) and (d-3) to read as follows:  
+|  _(d-2)_ _____This subsection applies only to a school district that_  
+| _has a wealth per student that exceeds the amount specified by_  
+| _Section 41.002(a)(1), Education Code, and that, for the school year_  
+| _beginning in the current tax year, has entered into an agreement_  
+| _with the commissioner of education to purchase average daily_  
+| _attendance credits as provided by Subchapter D, Chapter 41,_  
+| _Education Code, in an amount sufficient, in combination with any_  
+| _other actions taken under that chapter, to reduce the school_  
+| _district's wealth per student to a level that is equal to or less_  
+| _than the equalized wealth level as determined by the commissioner_  
+| _of education under that chapter. In addition to any other_  
+| _information required by this section, the tax bill or the separate_  
+| _statement shall separately state:_  
+|  _(1)_ _____the percentage of the taxes for maintenance and_  
+| _operations imposed by the school district for the current tax year_  
+| _that the school district is required to pay under the agreement for_  
+| _the school year beginning in the current tax year to purchase_  
+| _average daily attendance credits; and_  
+|  _(2)_ _____the percentage of the taxes for maintenance and_  
+| _operations imposed by the school district for the current tax year_  
+| _that the school district is not required to pay under the agreement_  
+| _for the school year beginning in the current tax year to purchase_  
+| _average daily attendance credits._  
+|  _(d-3)_ _____This subsection applies only to a school district to_  
+| _which Subsection (d-2) does not apply. In addition to any other_  
+| _information required by this section, the tax bill or the separate_  
+| _statement shall separately state:_  
+|  _(1)_ _____the percentage of the maintenance and operations_  
+| _revenue of the school district for the school year beginning in the_  
+| _current tax year that is derived from taxes for maintenance and_  
+| _operations imposed by the school district for the current tax year;_  
+|  _(2)_ _____the percentage of the maintenance and operations_  
+| _revenue of the school district for the school year beginning in the_  
+| _preceding tax year that was derived from taxes for maintenance and_  
+| _operations imposed by the school district for the preceding tax_  
+| _year;_  
+|  _(3)_ _____the percentage of the maintenance and operations_  
+| _revenue of the school district for the school year beginning in the_  
+| _current tax year that is derived from state funds distributed to the_  
+| _school district; and_  
+|  _(4)_ _____the percentage of the maintenance and operations_  
+| _revenue of the school district for the school year beginning in the_  
+| _preceding tax year that was derived from state funds distributed to_  
+| _the school district._  
+|  SECTION 2. This Act takes effect January 1, 2020.
+

@@ -1,0 +1,52 @@
+| 86R835 SCL-D  
+---|---  
+|  By: Burns | H.B. No. 1038  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a petition by residents of certain counties for an  
+| election regarding voter approval of municipal annexation.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 43, Local Government Code,  
+| is amended by adding Section 43.004 to read as follows:  
+|  _Sec._ ___43.004._ _____PETITION FOR ELECTION ON CONSIDERATION AS TIER_  
+| _2 COUNTY. (a) The registered voters of a tier 1 county may file a_  
+| _petition with the commissioners court of the county requesting an_  
+| _election in the county to determine whether the county should be_  
+| _considered a tier 2 county for the purposes of this chapter. The_  
+| _petition must contain the signatures of at least 10 percent of the_  
+| _registered voters of the county._  
+|  _(b)_ _____The commissioners court of a county that receives a_  
+| _petition for an election under Subsection (a) shall:_  
+|  _(1) verify the signatures on the petition; and_  
+|  _(2)_ _____if the county verifies that the petition satisfies_  
+| _the signature requirement under Subsection (a):_  
+|  _(A) order the election; and_  
+|  _(B)_ _____provide notice of the verified petition as_  
+| _soon as practicable to the governing body of each municipality:_  
+|  _(i)_ _____located wholly or partly in the county;_  
+| _or_  
+|  _(ii)_ _____with extraterritorial jurisdiction in_  
+| _the county._  
+|  _(c)_ _____On receipt of the notice described by Subsection_  
+| _(b)(2)(B), the governing body shall suspend any pending annexation_  
+| _that would be affected by the outcome of the election until after_  
+| _the election is held._  
+|  _(d)_ _____If a majority of the votes cast at an election held under_  
+| _Subsection (b) favor the proposition, the county is considered a_  
+| _tier 2 county for the purposes of this chapter._  
+|  SECTION 2. Section 43.001(3), Local Government Code, is  
+| amended to read as follows:  
+|  (3) "Tier 2 county" means a county that[ ~~:~~  
+|  [ ~~(A)~~ ] is not a tier 1 county[ ~~; or~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~is a tier 1 county in which a majority of the~~  
+|  ~~registered voters of the county have approved being a tier 2 county~~  
+|  ~~at an election ordered by the commissioners court on the request by~~  
+|  ~~petition of a number of registered voters of the county equal to or~~  
+|  ~~greater than 10 percent of the registered voters of the county~~ ].  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

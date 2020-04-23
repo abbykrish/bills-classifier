@@ -1,0 +1,165 @@
+| 86R9107 EAS-D  
+---|---  
+|  By: Oliverson | H.B. No. 2041  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of freestanding emergency medical care  
+| facilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 108.002(10), Health and Safety Code, is  
+| amended to read as follows:  
+|  (10) "Health care facility" means:  
+|  (A) a hospital;  
+|  (B) an ambulatory surgical center licensed under  
+| Chapter 243;  
+|  (C) a chemical dependency treatment facility  
+| licensed under Chapter 464;  
+|  (D) a renal dialysis facility;  
+|  (E) a birthing center;  
+|  (F) a rural health clinic;  
+|  (G) a federally qualified health center as  
+| defined by 42 U.S.C. Section 1396d(l)(2)(B); [ ~~or~~ ]  
+|  (H) a _freestanding_ [ ~~free-standing~~ ] imaging  
+| center _; or_  
+|  _(I)_ _____a freestanding emergency medical care_  
+| _facility licensed under Chapter 254_.  
+|  SECTION 2. Section 254.104, Health and Safety Code, is  
+| amended to read as follows:  
+|  Sec. 254.104. FREESTANDING EMERGENCY MEDICAL CARE FACILITY  
+| LICENSING FUND. All fees _and administrative penalties_ collected  
+| under this chapter shall be deposited in the state treasury to the  
+| credit of the freestanding emergency medical care facility  
+| licensing fund and may be appropriated to the department only to  
+| administer and enforce this chapter.  
+|  SECTION 3. Section 254.155, Health and Safety Code, is  
+| amended by amending Subsections (a), (b), and (d) and adding  
+| Subsection (e) to read as follows:  
+|  (a) A facility shall post notice that:  
+|  (1) states:  
+|  (A) the facility is a freestanding emergency  
+| medical care facility;  
+|  (B) the facility charges rates comparable to a  
+| hospital emergency room and may charge a facility fee;  
+|  (C) a facility or a physician providing medical  
+| care at the facility may [ ~~not~~ ] be _an out-of-network_ [ ~~a~~  
+|  ~~participating~~ ] provider _for_ [ ~~in~~ ] the patient's health benefit
+plan  
+| provider network; and  
+|  (D) a physician providing medical care at the  
+| facility may bill separately from the facility for the medical care  
+| provided to a patient; and  
+|  (2) either:  
+|  (A) lists the health benefit plans in which the  
+| facility is a _network_ [ ~~participating~~ ] provider in the health  
+| benefit plan's provider network; or  
+|  (B) states the facility is _an out-of-network_ [ ~~not~~  
+|  ~~a participating~~ ] provider _for all_ [ ~~in any~~ ] health benefit
+_plans_  
+| [ ~~plan provider network~~ ].  
+|  (b) The notice required by this section must be posted  
+| prominently and conspicuously:  
+|  (1) at the primary entrance to the facility;  
+|  (2) in each patient treatment room;  
+|  (3) at each location within the facility at which a  
+| person pays for health care services; and  
+|  (4) on the _home page of the_ facility's Internet website  
+| _or on a different page available through a hyperlink that is:_  
+|  _(A) entitled "Insurance Information"; and_  
+|  _(B) located prominently on the home page_.  
+|  (d) Notwithstanding Subsection (b), a facility that is a  
+| _network_ [ ~~participating~~ ] provider in one or more health benefit plan  
+| provider networks complies with Subsection (a)(2) if the facility:  
+|  (1) provides notice on the facility's Internet website  
+| listing the health benefit plans in which the facility is a _network_  
+| [ ~~participating~~ ] provider in the health benefit plan's provider  
+| network; and  
+|  (2) provides to a patient written confirmation of  
+| whether the facility is a _network_ [ ~~participating~~ ] provider in the  
+| patient's health benefit plan's provider network.  
+|  _(e)_ _____A facility may not add to or alter the language of a_  
+| _notice required by this section._  
+|  SECTION 4. Subchapter D, Chapter 254, Health and Safety  
+| Code, is amended by adding Sections 254.156 and 254.157 to read as  
+| follows:  
+|  _Sec._ ___254.156._ _____DISCLOSURE STATEMENT REQUIRED. (a)_ ___In_  
+| _addition to the notice required under Section 254.155, a facility_  
+| _shall provide to a patient or a patient's legally authorized_  
+| _representative a written disclosure statement in accordance with_  
+| _this section that:_  
+|  _(1)_ _____lists the facility's observation and facility fees_  
+| _that may result from the patient's visit; and_  
+|  _(2)_ _____lists the health benefit plans in which the_  
+| _facility is a network provider in the health benefit plan's_  
+| _provider network or states that the facility is an out-of-network_  
+| _provider for all health benefit plans._  
+|  _(b)_ _____A facility shall provide the disclosure statement_  
+| _before providing health care services to the patient unless the_  
+| _patient's medical condition requires immediate medical_  
+| _intervention. If the patient's medical condition requires_  
+| _immediate medical intervention, the facility shall provide the_  
+| _disclosure statement as soon as practicable._  
+|  _(c) The disclosure statement must be:_  
+|  _(1) printed in at least 16-point boldface type;_  
+|  _(2)_ _____in a contrasting color using a font that is easily_  
+| _readable; and_  
+|  _(3) in English and Spanish._  
+|  _(d) The disclosure statement:_  
+|  _(1) must include:_  
+|  _(A)_ _____the name and contact information of the_  
+| _facility; and_  
+|  _(B)_ _____a place for the patient or the patient's_  
+| _legally authorized representative and an employee of the facility_  
+| _to sign and date the disclosure statement;_  
+|  _(2)_ _____may include information on the facility's_  
+| _procedures for seeking reimbursement from the patient's health_  
+| _benefit plan; and_  
+|  _(3) must state, as applicable:_  
+|  _"This facility charges a facility fee for medical treatment._ __  
+| _The average facility fee for patient treatment is $____."_  
+|  _"This facility charges an observation fee for medical_  
+| _treatment._ ___The average observation fee for patient treatment is_  
+| _$____."_  
+|  _(e)_ _____A facility may include only the information described by_  
+| _Subsection (d) in the required disclosure statement and may not_  
+| _include any additional information in the statement._ ___The facility_  
+| _annually shall update the statement._  
+|  _(f)_ _____A facility shall provide each patient with a physical_  
+| _copy of the disclosure statement even if the patient refuses or is_  
+| _unable to sign the statement._ ___If a patient refuses or is unable to_  
+| _sign the statement, as required by this section, the facility shall_  
+| _indicate in the patient's file that the patient failed to sign._  
+|  _(g)_ _____A facility shall retain a copy of a signed disclosure_  
+| _statement provided under this section until the first anniversary_  
+| _of the date on which the disclosure was signed._  
+|  _Sec._ ___254.157._ _____CERTAIN ADVERTISING PROHIBITED. (a) A_  
+| _facility may not advertise or hold itself out as a network provider,_  
+| _including by stating that the facility "takes" or "accepts" any_  
+| _insurer, health maintenance organization, health benefit plan, or_  
+| _health benefit plan network, unless the facility is a network_  
+| _provider of a health benefit plan issuer._  
+|  _(b)_ _____A facility may not post the name or logo of a health_  
+| _benefit plan issuer in any signage or marketing materials if the_  
+| _facility is an out-of-network provider for any of the issuer's_  
+| _health benefit plans._  
+|  _(c)_ _____A violation of this section is a false, misleading, or_  
+| _deceptive act or practice under Subchapter E, Chapter 17, Business &_  
+| _Commerce Code, and is actionable under that subchapter._  
+|  SECTION 5. Sections 254.205(a) and (c), Health and Safety  
+| Code, are amended to read as follows:  
+|  (a) The department may impose an administrative penalty on a  
+| person licensed under this chapter who violates this chapter or a  
+| rule or order adopted under this chapter.  A penalty collected under  
+| this section or Section 254.206 shall be deposited in the state  
+| treasury _to the credit of the freestanding emergency medical care_  
+| _facility licensing_ [ ~~in the general revenue~~ ] fund _described by_  
+| _Section 254.104_.  
+|  (c) The [ ~~amount of the~~ ] penalty [ ~~may not exceed $1,000~~ ] for  
+| each violation _may be in an amount not to exceed the maximum amount_  
+| _provided by this subsection_ , and each day a violation continues or  
+| occurs is a separate violation for purposes of imposing _the_ [ ~~a~~ ]  
+| penalty.  The total amount of the penalty assessed for a violation  
+| continuing or occurring on separate days under this subsection may  
+| not exceed _$25,000_ [ ~~$5,000~~ ].  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

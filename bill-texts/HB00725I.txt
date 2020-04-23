@@ -1,0 +1,151 @@
+| 86R4500 JRJ-D  
+---|---  
+|  By: Larson | H.B. No. 725  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the date of the primary election and related  
+| procedures.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 41.007(a), (b), and (c), Election Code,  
+| are amended to read as follows:  
+|  (a) The general primary election date is the _fourth_ [ ~~first~~ ]  
+| Tuesday in _January_ [ ~~March~~ ] in each even-numbered year.  
+|  (b) The runoff primary election date is the fourth Tuesday  
+| in _March_ [ ~~May~~ ] following the general primary election.  
+|  (c) The presidential primary election date is the _fourth_  
+| [ ~~first~~ ] Tuesday in _January_ [ ~~March~~ ] in each presidential
+election  
+| year.  
+|  SECTION 2. Section 141.031(a), Election Code, is amended to  
+| read as follows:  
+|  (a) A candidate's application for a place on the ballot that  
+| is required by this code must:  
+|  (1) be in writing;  
+|  (2) be signed and sworn to before a person authorized  
+| to administer oaths in this state by the candidate and indicate the  
+| date that the candidate swears to the application;  
+|  (3) be timely filed with the appropriate authority;  
+| and  
+|  (4) include:  
+|  (A) the candidate's name;  
+|  (B) the candidate's occupation;  
+|  (C) the office sought, including any place number  
+| or other distinguishing number;  
+|  (D) an indication of whether the office sought is  
+| to be filled for a full or unexpired term if the office sought and  
+| another office to be voted on have the same title but do not have  
+| place numbers or other distinguishing numbers;  
+|  (E) a statement that the candidate is a United  
+| States citizen;  
+|  (F) a statement that the candidate has not been  
+| determined by a final judgment of a court exercising probate  
+| jurisdiction to be:  
+|  (i) totally mentally incapacitated; or  
+|  (ii) partially mentally incapacitated  
+| without the right to vote;  
+|  (G) a statement that the candidate has not been  
+| finally convicted of a felony from which the candidate has not been  
+| pardoned or otherwise released from the resulting disabilities;  
+|  (H) the candidate's date of birth;  
+|  (I) the candidate's residence address or, if the  
+| residence has no address, the address at which the candidate  
+| receives mail and a concise description of the location of the  
+| candidate's residence;  
+|  (J) the candidate's length of continuous  
+| residence in the state and in the territory from which the office  
+| sought is elected as of the date the candidate swears to the  
+| application;  
+|  (K) the statement: "I, __________, of  
+| __________ County, Texas, being a candidate for the office of  
+| __________, swear that I will support and defend the constitution  
+| and laws of the United States and of the State of Texas";  
+|  (L) a statement that the candidate is aware of  
+| the nepotism law, Chapter 573, Government Code; [ ~~and~~ ]  
+|  (M) a public mailing address at which the  
+| candidate receives correspondence relating to the candidate's  
+| campaign, if available, and an electronic mail address at which the  
+| candidate receives correspondence relating to the candidate's  
+| campaign, if available _; and_  
+|  _(N)_ _____a statement that the candidate is aware of_  
+| _the provisions of Section 65, Article XVI, Texas Constitution_.  
+|  SECTION 3. Section 162.003, Election Code, is amended to  
+| read as follows:  
+|  Sec. 162.003. AFFILIATION BY VOTING IN PRIMARY. _(a)_ A  
+| person becomes affiliated with a political party when the person:  
+|  (1) is accepted to vote in the party's primary  
+| election; or  
+|  (2) applies for and is provided an early voting or  
+| limited primary ballot to be voted by mail.  
+|  _(b)_ _____An affiliation under Subsection (a)(2) applies to the_  
+| _voting year in which the primary election is held._  
+|  SECTION 4. Section 172.023(a), Election Code, is amended to  
+| read as follows:  
+|  (a) An application for a place on the general primary  
+| election ballot must be filed not later than 6 p.m. on the second  
+| Monday in _October_ [ ~~December~~ ] of an odd-numbered year unless the  
+| filing deadline is extended under Subchapter C.  
+|  SECTION 5. Section 173.010, Election Code, is amended to  
+| read as follows:  
+|  Sec. 173.010. FURNISHING RULES AND GUIDELINES. During  
+| _September_ [ ~~October~~ ] preceding each primary election year, the  
+| secretary of state shall post on the secretary's website a current  
+| set of the rules and any available guidelines adopted under this  
+| subchapter. The secretary of state shall e-mail each state or  
+| county chair who has provided the secretary of state an e-mail  
+| address when the rules and guidelines have been posted. If a rule or  
+| amendment of a rule is adopted after the set is posted, the  
+| secretary shall update the posting with the new rule or amendment  
+| not later than the 10th day after the date of its adoption.  
+|  SECTION 6. Section 181.0041, Election Code, is amended to  
+| read as follows:  
+|  Sec. 181.0041. REGISTRATION OF PARTY REQUIRED.  A political  
+| party that intends to make nominations under this chapter for the  
+| general election for state and county officers must register with  
+| the secretary of state, in the manner prescribed by the secretary,  
+| not later than _the regular filing deadline for candidates in the_  
+| _general primary election_ [ ~~January 2 of the election year~~ ].  
+|  SECTION 7. Sections 181.061(b) and (c), Election Code, are  
+| amended to read as follows:  
+|  (b) A party nominating by convention must make its  
+| nominations for offices of districts situated in more than one  
+| county at district conventions held on the second Saturday after  
+| _general primary election day_ [ ~~the second Tuesday in March~~ ]. A  
+| district convention consists of delegates selected at the county  
+| conventions held under Subsection (c).  
+|  (c) A party nominating by convention must make its  
+| nominations for county and precinct offices and for offices of  
+| districts not situated in more than one county at county  
+| conventions held on the first Saturday after _general primary_  
+| _election day_ [ ~~the second Tuesday in March~~ ].  A county convention  
+| consists of delegates selected at precinct conventions held on  
+| _general primary election day_ [ ~~the second Tuesday in March~~ ] in the  
+| regular county election precincts.  
+|  SECTION 8. Section 182.005, Election Code, is amended to  
+| read as follows:  
+|  Sec. 182.005. NOMINATIONS MADE BY COUNTY CONVENTION.  A  
+| political party must make its nominations under this chapter at a  
+| county convention held on the first Saturday after _general primary_  
+| _election day_ [ ~~the second Tuesday in March of the election year~~ ].  
+| The convention consists of delegates selected at precinct  
+| conventions held on _general primary election day_ [ ~~the second~~  
+|  ~~Tuesday in March~~ ] in the regular county election precincts.  
+|  SECTION 9. Section 204.005, Election Code, is amended to  
+| read as follows:  
+|  Sec. 204.005. VACANCY FILLED AT SPECIAL ELECTION. _An_ [ ~~If a~~  
+|  ~~vacancy occurs during an odd-numbered year or after the 62nd day~~  
+|  ~~before general primary election day in an even-numbered year, the~~  
+|  ~~remainder of the~~ ] unexpired term shall be filled by a special  
+| election in the same manner as provided by Chapter 203 for the  
+| legislature, except that:  
+|  (1) the minimum number of signatures that must appear  
+| on a petition accompanying a candidate's application for a place on  
+| the ballot is 5,000; and  
+|  (2) Section 203.013 does not apply.  
+|  SECTION 10. Sections 204.003 and 204.004, Election Code,  
+| are repealed.  
+|  SECTION 11. The term of a person who is serving as a county  
+| or precinct chair of a political party on the effective date of this  
+| Act ends on the 20th day after the fourth Tuesday in March 2020.  
+|  SECTION 12. This Act takes effect September 1, 2019.
+

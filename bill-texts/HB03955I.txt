@@ -1,0 +1,33 @@
+| 86R13357 JES-D  
+---|---  
+|  By: Walle | H.B. No. 3955  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the repossession of a motor vehicle after default on an  
+| agreement.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle B, Title 4, Finance Code, is amended by  
+| adding Chapter 355 to read as follows:  
+| _CHAPTER 355. REPOSSESSION OF MOTOR VEHICLES AFTER DEFAULT_  
+|  _Sec._ ___355.001._ _____DEFINITION. In this chapter, "motor vehicle"_  
+| _has the meaning assigned by Section 348.001._  
+|  _Sec._ ___355.002._ _____RESTRICTION ON COLLECTION OF DEFICIENCY_  
+| _BALANCE AFTER REPOSSESSION SALE. (a) Notwithstanding any other_  
+| _law, a lender or other person who repossesses a motor vehicle after_  
+| _a default under a loan, lease, or other agreement and who sells the_  
+| _vehicle to secure repayment of the debt is not entitled to collect_  
+| _from the borrower any amount for a deficiency balance resulting_  
+| _from the sale if the value of the vehicle is less than $2,000 unless_  
+| _the borrower:_  
+|  _(1) damages the vehicle; or_  
+|  _(2)_ _____wrongfully fails, after default and demand, to_  
+| _make the vehicle available to the lender or other person._  
+|  _(b)_ _____For purposes of Subsection (a), the value of a motor_  
+| _vehicle is the fair market value of the vehicle on the date of_  
+| _repossession._  
+|  SECTION 2. The changes in law made by this Act apply only to  
+| an agreement entered into on or after the effective date of this  
+| Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

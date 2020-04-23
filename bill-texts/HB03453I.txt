@@ -1,0 +1,816 @@
+| 86R4850 JCG-F  
+---|---  
+|  By: Clardy | H.B. No. 3453  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to subpoenas, orders, and warrants for the disclosure of  
+| location information, electronic customer communications records,  
+| and electronic customer data and for the use of pen registers, ESN  
+| readers, cell site simulators, and mobile tracking devices;  
+| creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 18.02, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18.02. GROUNDS FOR ISSUANCE. (a) A search warrant may  
+| be issued to search for and seize:  
+|  (1) property acquired by theft or in any other manner  
+| which makes its acquisition a penal offense;  
+|  (2) property specially designed, made, or adapted for  
+| or commonly used in the commission of an offense;  
+|  (3) arms and munitions kept or prepared for the  
+| purposes of insurrection or riot;  
+|  (4) weapons prohibited by the Penal Code;  
+|  (5) gambling devices or equipment, altered gambling  
+| equipment, or gambling paraphernalia;  
+|  (6) obscene materials kept or prepared for commercial  
+| distribution or exhibition, subject to the additional rules set  
+| forth by law;  
+|  (7) a drug, controlled substance, immediate  
+| precursor, chemical precursor, or other controlled substance  
+| property, including an apparatus or paraphernalia kept, prepared,  
+| or manufactured in violation of the laws of this state;  
+|  (8) any property the possession of which is prohibited  
+| by law;  
+|  (9) implements or instruments used in the commission  
+| of a crime;  
+|  (10) property or items, except the personal writings  
+| by the accused, constituting evidence of an offense or constituting  
+| evidence tending to show that a particular person committed an  
+| offense;  
+|  (11) persons;  
+|  (12) contraband subject to forfeiture under Chapter 59  
+| of this code;  
+|  (13) electronic customer _communications records and_  
+| _electronic customer_ data held in electronic storage[ ~~, including the~~  
+|  ~~contents of and records and other information related to a wire~~  
+|  ~~communication or electronic communication held in electronic~~  
+|  ~~storage~~ ]; [ ~~or~~ ]  
+|  (14) a cellular telephone or other wireless  
+| communications device, subject to Article 18.0215 _; or_  
+|  _(15) location information_.  
+|  (b) For purposes of _this article_ [ ~~Subsection (a)(13)~~ ]:  
+|  (1) "Electronic communication" and "wire  
+| communication" have the meanings assigned by Article 18A.001.  
+|  (2) "Electronic customer _communications records,"_  
+| _"electronic customer_ data _,_ " [ ~~and~~ ] "electronic _storage,"_
+___and_  
+| _"location information"_ [ ~~storage"~~ ] have the meanings assigned by  
+| Article 18B.001.  
+|  SECTION 2. Article 18.06(a), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (a) A peace officer to whom a search warrant is delivered  
+| shall execute the warrant without delay and forthwith return the  
+| warrant to the proper magistrate.  A search warrant issued under  
+| Article 18B.354 _, and Articles 18B.221 and 18B.222 if requiring the_  
+| _disclosure of location information as defined by Article 18B.001,_  
+| must be executed in the manner provided by Article 18B.355 not later  
+| than the 11th day after the date of issuance. In all other cases, a  
+| search warrant must be executed within three days from the time of  
+| its issuance. A warrant issued under this chapter, Chapter 18A, or  
+| Chapter 18B shall be executed within a shorter period if so directed  
+| in the warrant by the magistrate.  
+|  SECTION 3. Article 18B.001, Code of Criminal Procedure, is  
+| amended by adding Subdivisions (1-a), (6-a), (9-a), and (9-b) and  
+| amending Subdivisions (4), (7), and (8) to read as follows:  
+|  _(1-a) "Cell site simulator" means a device that:_  
+|  _(A)_ _____locates or identifies a wireless_  
+| _communications device in the immediate vicinity of the simulator by_  
+| _simulating the functions of a wireless telecommunications network_  
+| _transceiver; and_  
+|  _(B)_ _____is designed to collect information from the_  
+| _wireless communications device._  
+|  (4) "Designated law enforcement office or agency"  
+| means:  
+|  (A) the sheriff's department of a county with a  
+| population of 3.3 million or more;  
+|  (B) a police department in a municipality with a  
+| population of 500,000 or more; [ ~~or~~ ]  
+|  (C) the office of inspector general of the Texas  
+| Department of Criminal Justice _;_  
+|  _(D)_ _____a special investigator under Article 2.122_  
+| _when assisting a peace officer of this state in:_  
+|  _(i)_ _____apprehending a fugitive from justice_  
+| _charged with an offense under Article 18B.221(b)(2); or_  
+|  _(ii) resolving an emergency involving:_  
+|  _(a)_ _____an immediate life-threatening_  
+| _situation;_  
+|  _(b)_ _____conspiratorial activities_  
+| _characteristic of violent organized crime;_  
+|  _(c)_ _____an immediate threat to a national_  
+| _security interest;_  
+|  _(d)_ _____an ongoing attack on a protected_  
+| _computer, as defined by 18 U.S.C. Section 1030, that constitutes an_  
+| _offense under Section 33.02, Penal Code, or an equivalent offense_  
+| _under federal law; or_  
+|  _(e)_ _____the report of the disappearance of_  
+| _an individual, including the report of a runaway individual younger_  
+| _than 18 years of age, or a report of a suicidal individual, where_  
+| _the report indicates the individual may be in danger based on the_  
+| _circumstances of the disappearance, including circumstances such_  
+| _as the age and mental or physical condition of the individual; or_  
+|  _(E)_ _____a prosecutor or assistant prosecutor in a_  
+| _county with a population of more than 800,000_.  
+|  _(6-a)_ _____"Electronic customer communications records"_  
+| _means data or records, other than location information or_  
+| _electronic customer data, that:_  
+|  _(A)_ _____are in the possession, care, custody, or_  
+| _control of a provider of an electronic communications service or_  
+| _provider of a remote computing service; and_  
+|  _(B) contain:_  
+|  _(i)_ _____the content of a wire or electronic_  
+| _communication sent to or by the customer, including:_  
+|  _(a)_ _____information that identifies by_  
+| _name the recipient or destination of a wire or electronic_  
+| _communication;_  
+|  _(b)_ _____the draft form of a wire or_  
+| _electronic communication, regardless of whether the communication_  
+| _was sent; or_  
+|  _(c)_ _____a summary description of the_  
+| _content of a wire or electronic communication, such as file name,_  
+| _subject line, or uniform resource locator; or_  
+|  _(ii)_ _____the content of files or records owned_  
+| _or possessed by a customer that are stored by the applicable service_  
+| _provider by or on behalf of the customer._  
+|  (7) "Electronic customer data" means data or records _,_  
+| _other than location information or electronic customer_  
+| _communication records,_ that:  
+|  (A) are in the possession, care, custody, or  
+| control of a provider of an electronic communications service or  
+| provider of a remote computing service; and  
+|  (B) contain:  
+|  (i) information revealing the identity of  
+| customers of the applicable service;  
+|  (ii) information about a customer's use of  
+| the applicable service; _and_  
+|  (iii) information that identifies the  
+| recipient or destination of a wire or electronic communication sent  
+| to or by a customer[ ~~;~~  
+|  [ ~~(iv)~~ ~~~~ ~~~~ ~~the content of a wire or electronic~~  
+|  ~~communication sent to or by a customer; and~~  
+|  [ ~~(v)~~ ~~~~ ~~~~ ~~any data stored with the applicable~~  
+|  ~~service provider by or on behalf of a customer~~ ].  
+|  (8) "Electronic storage" means storage of electronic  
+| customer data _, electronic customer communications records, or_  
+| _location information_ in a computer, computer network, or computer  
+| system, regardless of whether the data is subject to recall,  
+| further manipulation, deletion, or transmission. The term  
+| includes storage of a wire or electronic communication by an  
+| electronic communications service or a remote computing service.  
+|  _(9-a)_ _____"Immediate life-threatening situation" has the_  
+| _meaning assigned by Article 18A.201._  
+|  _(9-b)_ _____"Location information" means data or records,_  
+| _other than information identifying the subscriber or customer or_  
+| _the account with which a wireless communications device is_  
+| _associated or information composed of network transactional access_  
+| _records unrelated to the location of a wireless communications_  
+| _device, that:_  
+|  _(A)_ _____suggest the physical location of a wireless_  
+| _communications device by identifying the first, intermediate, or_  
+| _last point through which a wire or electronic communication enters_  
+| _or departs the physical infrastructure of an electronic_  
+| _communications system, including:_  
+|  _(i)_ _____data or records commonly known as cell_  
+| _site location information; and_  
+|  _(ii)_ _____any data or records generated by_  
+| _successor technologies operating similarly to the technology_  
+| _described in this paragraph;_  
+|  _(B)_ _____are created by or accessible to a provider of_  
+| _an electronic communications system and designed to identify the_  
+| _physical location of a wireless communications device, including:_  
+|  _(i)_ _____information commonly known as E911 or_  
+| _precision location information derived through a global_  
+| _positioning system or multi-lateration measurements; and_  
+|  _(ii)_ _____any data or records generated by_  
+| _successor technologies operating similarly to the technology_  
+| _described in this paragraph; or_  
+|  _(C)_ _____are created by or accessed through the use of_  
+| _a cell site simulator._  
+|  SECTION 4. Subchapter B, Chapter 18B, Code of Criminal  
+| Procedure, is amended by adding Article 18B.050 to read as follows:  
+|  _Art._ ___18B.050._ _____APPLICABILITY. This subchapter and_  
+| _Subchapters C and D do not apply to a cell site simulator._  
+|  SECTION 5. Article 18B.151, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.151. EMERGENCY INSTALLATION AND USE OF PEN  
+| REGISTER OR TRAP AND TRACE DEVICE. [ ~~(a)~~ ~~~~ ~~~~ ~~In this article,~~  
+|  ~~"immediate life-threatening situation" has the meaning assigned by~~  
+|  ~~Article 18A.201.~~  
+|  [ ~~(b)~~ ] A peace officer authorized to possess, install,  
+| operate, or monitor a device under Subchapter E, Chapter 18A, may  
+| install and use a pen register or trap and trace device if _:_  
+|  _(1)_ _____another peace officer is designated to approve for_  
+| _the authorized officer's agency the emergency required disclosure_  
+| _of location information by:_  
+|  _(A) the head of the agency; and_  
+|  _(B)_ _____a district attorney or criminal district_  
+| _attorney with jurisdiction over all or part of the other officer's_  
+| _jurisdiction; and_  
+|  _(2)_ _____the peace officer described by Subdivision (1)_  
+| _approves the installation and use of a pen register or trap and_  
+| _trace device by reasonably determining that an emergency exists in_  
+| _the territorial jurisdiction of the authorized officer, or another_  
+| _officer the authorized officer is assisting, involving:_  
+|  _(A) an immediate life-threatening situation;_  
+|  _(B)_ _____conspiratorial activities characteristic of_  
+| _violent organized crime;_  
+|  _(C)_ _____an immediate threat to a national security_  
+| _interest;_  
+|  _(D)_ _____an ongoing attack on a protected computer, as_  
+| _defined by 18 U.S.C. Section 1030, that constitutes an offense_  
+| _under Section 33.02, Penal Code, or an equivalent offense under_  
+| _federal law; or_  
+|  _(E)_ _____the report of the disappearance of an_  
+| _individual, including the report of a runaway individual younger_  
+| _than 18 years of age, or a report of a suicidal individual, where_  
+| _the report indicates the individual may be in danger based on the_  
+| _circumstances of the disappearance, including circumstances such_  
+| _as the age and mental or physical condition of the individual_ [ ~~the~~  
+|  ~~peace officer reasonably believes:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~an immediate life-threatening situation exists~~  
+|  ~~that:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~is within the territorial jurisdiction of~~  
+|  ~~the peace officer or another officer the peace officer is~~  
+|  ~~assisting; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~requires the installation of a pen register~~  
+|  ~~or trap and trace device before an order authorizing the~~  
+|  ~~installation and use can, with due diligence, be obtained under~~  
+|  ~~this chapter; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~there are sufficient grounds under this chapter~~  
+|  ~~on which to obtain an order authorizing the installation and use of~~  
+|  ~~a pen register or trap and trace device~~ ].  
+|  SECTION 6. Article 18B.152, Code of Criminal Procedure, is  
+| amended by adding Subsection (c) to read as follows:  
+|  _(c)_ _____In the event that no offense was readily apparent at the_  
+| _time of the installation and use of a pen register or trap and trace_  
+| _device under this subchapter, the judge shall note the exact date_  
+| _and time at which the likelihood that an offense occurred became_  
+| _apparent, if applicable. If no offense became apparent before the_  
+| _conclusion of the emergency or issuance of an order authorizing_  
+| _continued use of the device under Subchapter B, the judge shall_  
+| _annotate the order to reflect that: "No affirmative investigative_  
+| _or prosecutive use may be made of any pen register or trap and trace_  
+| _records obtained pursuant to the device's emergency installation or_  
+| _use."_  
+|  SECTION 7. Article 18B.202(c), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (c) The affidavit must:  
+|  (1) state the name, department, agency, and address of  
+| the applicant;  
+|  (2) identify the vehicle, container, or item to which,  
+| in which, or on which the mobile tracking device is to be attached,  
+| placed, or otherwise installed;  
+|  (3) state the name of the owner or possessor of the  
+| vehicle, container, or item identified under Subdivision (2);  
+|  (4) state the judicial jurisdictional area in which  
+| the vehicle, container, or item identified under Subdivision (2) is  
+| expected to be found; and  
+|  (5) state the facts and circumstances that provide the  
+| applicant with _probable cause to believe_ [ ~~a reasonable suspicion~~ ]  
+| that:  
+|  (A) criminal activity has been, is, or will be  
+| committed; and  
+|  (B) the installation and use of a mobile tracking  
+| device _will_ [ ~~is likely to~~ ] produce _:_  
+|  _(i) evidence of the offense;_  
+|  _(ii)_ _____the location of contraband, fruits of_  
+| _the offense, or other items illegally possessed;_  
+|  _(iii) the location of criminal instruments;_  
+|  _(iv)_ _____the identity of a person to be_  
+| _arrested; or_  
+|  _(v)_ _____the identity of a person being_  
+| _unlawfully restrained_ [ ~~information that is material to an ongoing~~  
+|  ~~criminal investigation of that criminal activity~~ ].  
+|  SECTION 8. Article 18B.205, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.205. DURATION OF ORDER. (a) An order under this  
+| subchapter expires not later than the _45th_ [ ~~90th~~ ] day after the date  
+| that the mobile tracking device was activated in place on or within  
+| the vehicle, container, or item.  
+|  (b) For good cause shown, the judge may grant an extension  
+| for an additional _45-day_ [ ~~90-day~~ ] period.  
+|  SECTION 9. Chapter 18B, Code of Criminal Procedure, is  
+| amended by adding Subchapter E-1 to read as follows:  
+| _SUBCHAPTER E-1. WARRANT FOR USE OF CELL SITE SIMULATOR OR REQUIRING_  
+| _DISCLOSURE OF LOCATION INFORMATION_  
+|  _Art._ ___18B.221._ _____WARRANT FOR USE OF CELL SITE SIMULATOR OR_  
+| _DISCLOSURE OF CERTAIN LOCATION INFORMATION. (a) A district judge_  
+| _may issue a warrant:_  
+|  _(1)_ _____authorizing the use of a cell site simulator to_  
+| _obtain location information from a cellular telephone or other_  
+| _wireless communications device; or_  
+|  _(2)_ _____requiring the disclosure of location information_  
+| _by a service provider who has possession, care, custody, or control_  
+| _of the information, regardless of whether the location information_  
+| _is held at a location in this state or another state._  
+|  _(b)_ _____A district judge may issue a warrant described by_  
+| _Subsection (a) only:_  
+|  _(1)_ _____except as provided by Article 18B.230, on_  
+| _application by:_  
+|  _(A) a prosecutor; or_  
+|  _(B)_ _____an assistant prosecutor, if applying on_  
+| _request of:_  
+|  _(i)_ _____an authorized peace officer_  
+| _commissioned by the department; or_  
+|  _(ii)_ _____an authorized peace officer of a_  
+| _designated law enforcement office or agency; and_  
+|  _(2) for the investigation of:_  
+|  _(A) an offense under:_  
+|  _(i) Section 19.02, Penal Code;_  
+|  _(ii) Section 19.03, Penal Code;_  
+|  _(iii) Section 20.03, Penal Code;_  
+|  _(iv) Section 20.04, Penal Code;_  
+|  _(v) Chapter 20A, Penal Code;_  
+|  _(vi) Section 21.02, Penal Code;_  
+|  _(vii) Section 21.11, Penal Code;_  
+|  _(viii) Section 22.011, Penal Code;_  
+|  _(ix) Section 22.02, Penal Code;_  
+|  _(x) Section 22.021, Penal Code;_  
+|  _(xi) Section 22.04, Penal Code;_  
+|  _(xii) Section 22.041, Penal Code;_  
+|  _(xiii) Section 29.02, Penal Code;_  
+|  _(xiv) Section 29.03, Penal Code;_  
+|  _(xv)_ _____Section 30.02, Penal Code, if the_  
+| _offense is punishable under Subsection (d) of that section;_  
+|  _(xvi) Chapter 34, Penal Code;_  
+|  _(xvii) Section 36.05, Penal Code;_  
+|  _(xviii) Section 37.11, Penal Code;_  
+|  _(xix) Section 38.06, Penal Code;_  
+|  _(xx) Section 38.07, Penal Code;_  
+|  _(xxi) Section 39.03, Penal Code;_  
+|  _(xxii) Section 43.04, Penal Code;_  
+|  _(xxiii) Section 43.05, Penal Code;_  
+|  _(xxiv) Chapter 481, Health and Safety Code,_  
+| _other than an offense involving marihuana;_  
+|  _(xxv) Chapter 483, Health and Safety Code; or_  
+|  _(xxvi) Chapter 485, Health and Safety Code;_  
+|  _(B) a felony under Chapter 71, Penal Code;_  
+|  _(C)_ _____any sex offense for which a person is subject_  
+| _to registration under Chapter 62 and in which the victim was younger_  
+| _than 18 years of age at the time the offense was committed;_  
+|  _(D)_ _____an offense of another jurisdiction in the_  
+| _United States equivalent to an offense under Paragraph (A), (B), or_  
+| _(C), committed by a fugitive from justice, regardless of whether_  
+| _the offense was committed in this state or another jurisdiction; or_  
+|  _(E)_ _____an emergency for which a judge may issue a_  
+| _warrant under Article 18B.230._  
+|  _(c) An application under this article must:_  
+|  _(1) be made in writing under oath; and_  
+|  _(2) include:_  
+|  _(A)_ _____the name, department, agency, and address of_  
+| _the applicant;_  
+|  _(B)_ _____the offense being investigated and for which_  
+| _the application is being made;_  
+|  _(C)_ _____the case number or unique identifier assigned_  
+| _by the law enforcement agency to the investigation of the offense_  
+| _for which the application is being made;_  
+|  _(D) the name of:_  
+|  _(i)_ _____the customer or subscriber whose data_  
+| _or device is the subject of the application, if the application_  
+| _seeks location information related to a particular subscriber or_  
+| _customer and the name of the customer or subscriber is known to the_  
+| _applicant; and_  
+|  _(ii)_ _____the person who is the subject of the_  
+| _application, if that person is not described by Subparagraph (i);_  
+| _and_  
+|  _(E)_ _____the account number or unique identifier that_  
+| _is the subject of the application._  
+|  _(d)_ _____The accompanying affidavit must contain a statement of_  
+| _facts and circumstances demonstrating:_  
+|  _(1) probable cause that:_  
+|  _(A)_ _____an offense listed in Subsection (b)(2) has_  
+| _been, is being, or will be committed; and_  
+|  _(B)_ _____would lead a reasonably prudent person to_  
+| _believe the location information being sought or the use of a cell_  
+| _site simulator will produce:_  
+|  _(i) evidence of the offense;_  
+|  _(ii)_ _____contraband, fruits of the offense, or_  
+| _other items illegally possessed;_  
+|  _(iii) criminal instruments;_  
+|  _(iv) a person to be arrested; or_  
+|  _(v)_ _____a person being unlawfully restrained;_  
+| _or_  
+|  _(2)_ _____that the use of a cell site simulator or the_  
+| _required disclosure of location information will resolve an_  
+| _emergency described by Article 18B.230(a)(2)(A)._  
+|  _Art._ ___18B.222._ _____WARRANT FOR MASS, INDISCRIMINATE LOCATION_  
+| _INFORMATION. (a) In accordance with the requirements of this_  
+| _subchapter for the application and issuance of a warrant requiring_  
+| _the disclosure of location information by a service provider, other_  
+| _than Articles 18B.221(c)(2)(D) and (E), a district judge may issue_  
+| _a warrant requiring the disclosure of location information by a_  
+| _provider of an electronic communications service or a remote_  
+| _computing service based on the location where an offense occurred_  
+| _if the application includes:_  
+|  _(1) the location where the offense occurred; and_  
+|  _(2) each provider on whom the warrant will be served._  
+|  _(b)_ _____The location information disclosed pursuant to a_  
+| _warrant issued under this article may not be used to further an_  
+| _investigation unrelated to the investigation of the offense for_  
+| _which the warrant application was made, unless an authorized peace_  
+| _officer, prosecutor, or assistant prosecutor:_  
+|  _(1)_ _____makes an application, other than the warrant_  
+| _application, to a district judge to use the location information to_  
+| _further an unrelated investigation; and_  
+|  _(2) shows good cause for that use._  
+|  _(c)_ _____Unless authorized by a district judge, a law enforcement_  
+| _agency holding location information disclosed pursuant to a warrant_  
+| _issued under this article may not commingle:_  
+|  _(1)_ _____the location information determined relevant to_  
+| _the investigation of the offense for which the warrant application_  
+| _was made;_  
+|  _(2)_ _____the location information determined to be_  
+| _irrelevant to that investigation; and_  
+|  _(3)_ _____other than the location information described by_  
+| _Subdivision (1), each set of location information disclosed by a_  
+| _different provider pursuant to a warrant issued under this article._  
+|  _(d)_ _____A district judge may review similar applications for a_  
+| _warrant under this article and instruct an agency holding_  
+| _separately the location information under Subsection (c) to compare_  
+| _the information to determine whether the information is relevant to_  
+| _the cases or to other locations identified in similar applications._  
+|  _Art._ ___18B.223._ _____JURISDICTION. An application under this_  
+| _subchapter must be filed in a judicial district in which is located:_  
+|  _(1) the headquarters of:_  
+|  _(A)_ _____the office of the prosecutor filing an_  
+| _application under this subchapter;_  
+|  _(B)_ _____a law enforcement agency that requests the_  
+| _prosecutor to file an application for a warrant under this_  
+| _subchapter or that proposes to execute the warrant, if one is issued_  
+| _under this subchapter; or_  
+|  _(C)_ _____a service provider required to disclose_  
+| _location information held in electronic storage;_  
+|  _(2)_ _____the site of the proposed use of a cell site_  
+| _simulator; or_  
+|  _(3)_ _____the billing, residential, or business address of_  
+| _the subscriber or customer of a provider of an electronic_  
+| _communications service or remote computing service who is the_  
+| _subject of the application._  
+|  _Art._ ___18B.224._ _____DURATION OF WARRANT. (a) A warrant issued_  
+| _under this subchapter authorizing the use of a cell site simulator_  
+| _is valid for a period not to exceed 30 days._  
+|  _(b)_ _____A warrant issued under this subchapter requiring the_  
+| _ongoing disclosure of prospective location information is valid for_  
+| _a period not to exceed 60 days._  
+|  _Art._ ___18B.225._ _____USE OF LOCATION INFORMATION IN UNRELATED_  
+| _INVESTIGATION PROHIBITED. Except as provided by Article 18B.222(b)_  
+| _or (d), location information obtained pursuant to a warrant issued_  
+| _under this subchapter:_  
+|  _(1)_ _____may not be used to further an investigation_  
+| _unrelated to the investigation of the offense for which the warrant_  
+| _application was made; and_  
+|  _(2)_ _____may be used to investigate or prosecute offenses_  
+| _and defendants related to the offense for which the warrant_  
+| _application was made._  
+|  _Art._ ___18B.226._ _____CERTAIN RESTRICTIONS ON USE OF CELL SITE_  
+| _SIMULATOR. (a) Under a warrant issued under this subchapter_  
+| _authorizing the use of a cell site simulator:_  
+|  _(1)_ _____if the cell site simulator is used to locate a_  
+| _known person's wireless communications device, location_  
+| _information that is derived from the simulator's use and is_  
+| _irrelevant to locating the device must be deleted on the date the_  
+| _information was collected; and_  
+|  _(2)_ _____unless granted an exception by a district judge to_  
+| _the requirement described in this subdivision, if the cell site_  
+| _simulator is used to locate an unknown wireless communications_  
+| _device, location information that is derived from the simulator's_  
+| _use and is irrelevant to locating the device must be deleted not_  
+| _later than the 30th day after the date the simulator is first used,_  
+| _and not later than the earlier of the following:_  
+|  _(A)_ _____at the end of each 30-day period following_  
+| _the initial 30-day period described by this subdivision; or_  
+|  _(B) the expiration of the warrant._  
+|  _(b)_ _____The district judge who issues a warrant under this_  
+| _subchapter for the use of a cell site simulator may extend a period_  
+| _described by Subsection (a) if the applicant for the warrant shows_  
+| _good cause for the extension. The judge may grant a subsequent_  
+| _extension only if the applicant shows good cause for the subsequent_  
+| _extension. An extension granted under this subsection may not_  
+| _exceed 90 days, unless the judge makes a finding in the record that_  
+| _the circumstances of the investigation justify an extension longer_  
+| _than 90 days._  
+|  _(c)_ _____A district judge may not issue a warrant to authorize_  
+| _using or configuring a cell site simulator for, and a person acting_  
+| _under a warrant issued under this subchapter may not use or_  
+| _configure a cell site simulator for:_  
+|  _(1)_ _____intercepting, capturing, or collecting the_  
+| _content of any electronic communication; or_  
+|  _(2)_ _____collecting information on the attendees of a_  
+| _public gathering._  
+|  _Art._ ___18B.227._ _____PRESERVATION OF CERTAIN LOCATION_  
+| _INFORMATION. (a) Location information disclosed by a service_  
+| _provider pursuant to a warrant issued under this subchapter:_  
+|  _(1) must be preserved; and_  
+|  _(2)_ _____except as provided by 18B.222(b) or (d), may not be_  
+| _used in the investigation or prosecution of an offense unrelated to_  
+| _the offense for which the warrant application was made._  
+|  _(b)_ _____As soon as practicable after receiving a timely request_  
+| _from a defendant, the attorney representing the state shall produce_  
+| _and permit inspection and electronic and print duplication of the_  
+| _location information described by Subsection (a) by or on behalf of_  
+| _the defendant._  
+|  _Art._ ___18B.228._ _____WARRANTS SEALED. (a) Notwithstanding any_  
+| _other law, other than Subsections (b) and (c), a district judge_  
+| _issuing a warrant under this subchapter shall seal the warrant and_  
+| _applicable affidavit._  
+|  _(b)_ _____A judge shall authorize the disclosure of the warrant_  
+| _and applicable affidavit to:_  
+|  _(1)_ _____a defendant, or the attorney representing the_  
+| _defendant, in a criminal action, if the defendant or attorney makes_  
+| _a timely request for disclosure; or_  
+|  _(2)_ _____the public, if at an in camera hearing the judge_  
+| _finds that the warrant application or affidavit does not_  
+| _substantially comply with requirements for the issuance of a_  
+| _warrant under this subchapter._  
+|  _(c)_ _____A judge authorizing disclosure under Subsection (b)_  
+| _shall redact information tending to reveal the identity of_  
+| _cooperating witnesses, informants, or undercover peace officers._  
+|  _Art._ ___18B.229._ _____NOTICE TO SUBSCRIBER OR CUSTOMER. An_  
+| _authorized peace officer may require a provider of an electronic_  
+| _communications service or a provider of a remote computing service_  
+| _to disclose location information without giving the subscriber or_  
+| _customer notice if the officer obtains:_  
+|  _(1) a warrant under this subchapter; or_  
+|  _(2) the consent of the subscriber or customer._  
+|  _Art._ ___18B.230._ _____EMERGENCY USE OF CELL SITE SIMULATOR OR_  
+| _REQUIRED DISCLOSURE OF LOCATION INFORMATION. (a) Subject to_  
+| _Subsections (c) and (d), an authorized peace officer may without a_  
+| _warrant require a service provider who has possession, care,_  
+| _custody, or control of location information to disclose the_  
+| _information, if:_  
+|  _(1)_ _____a peace officer in the authorized officer's agency_  
+| _is designated to approve for the agency the emergency required_  
+| _disclosure of location information by:_  
+|  _(A) the head of the agency; and_  
+|  _(B)_ _____a district attorney or criminal district_  
+| _attorney with jurisdiction over all or part of the agency's_  
+| _jurisdiction; and_  
+|  _(2)_ _____the peace officer described by Subdivision (1)_  
+| _approves the authorized officer's requiring the disclosure of the_  
+| _information by reasonably determining that:_  
+|  _(A)_ _____an emergency exists in the territorial_  
+| _jurisdiction of the authorized officer, or another officer the_  
+| _authorized officer is assisting, involving:_  
+|  _(i)_ _____an immediate life-threatening_  
+| _situation;_  
+|  _(ii)_ _____conspiratorial activities_  
+| _characteristic of violent organized crime;_  
+|  _(iii)_ _____an immediate threat to a national_  
+| _security interest;_  
+|  _(iv)_ _____an ongoing attack on a protected_  
+| _computer, as defined by 18 U.S.C. Section 1030, that constitutes an_  
+| _offense under Section 33.02, Penal Code, or an equivalent offense_  
+| _under federal law; or_  
+|  _(v)_ _____the report of the disappearance of an_  
+| _individual, including the report of a runaway individual younger_  
+| _than 18 years of age, or a report of a suicidal individual, where_  
+| _the report indicates the individual may be in danger based on the_  
+| _circumstances of the disappearance, including circumstances such_  
+| _as the age and mental or physical condition of the individual; and_  
+|  _(B)_ _____requiring the information may resolve the_  
+| _emergency._  
+|  _(b)_ _____Subject to Subsections (c) and (d), an authorized peace_  
+| _officer of the department or a designated law enforcement office or_  
+| _agency may without a warrant use a cell site simulator if the head_  
+| _of the authorized officer's agency or that person's designee_  
+| _approves the authorized officer's use of the cell site simulator by_  
+| _reasonably determining that:_  
+|  _(1)_ _____an emergency described by Subsection (a)(2)(A)_  
+| _exists in the applicable judicial district under Article 18B.223;_  
+| _and_  
+|  _(2)_ _____use of the cell site simulator may resolve the_  
+| _emergency._  
+|  _(c)_ _____An authorized officer who requires disclosure of_  
+| _location information or uses a cell site simulator under Subsection_  
+| _(a) or (b) shall:_  
+|  _(1)_ _____promptly report the required disclosure of_  
+| _location information or the use of the simulator to, as applicable:_  
+|  _(A)_ _____if using a cell site simulator, the_  
+| _prosecutor in the county in which the simulator is used; or_  
+|  _(B)_ _____if requiring the disclosure of location_  
+| _information, the prosecutor in the county where the peace officer's_  
+| _agency is headquartered; and_  
+|  _(2)_ _____within 48 hours after providing notice of the_  
+| _required disclosure or within 48 hours after the use of the_  
+| _simulator begins, as applicable, obtain a warrant under this_  
+| _subchapter authorizing the required disclosure or the use of the_  
+| _simulator._  
+|  _(d)_ _____If a warrant application is denied or is not issued_  
+| _within the 48-hour period, the peace officer shall delete the_  
+| _disclosed location information or terminate use of the cell site_  
+| _simulator promptly on the earlier of the denial of the warrant_  
+| _application or the expiration of 48 hours._  
+|  _Art._ ___18B.231._ _____EXECUTION OF WARRANT. Article 18B.355_  
+| _applies to the execution of a warrant issued under this subchapter_  
+| _in the same manner as the article applies to the execution of a_  
+| _warrant for electronic customer communications records._  
+|  _Art._ ___18B.232._ _____WARRANT ISSUED IN ANOTHER STATE. Any_  
+| _domestic entity that provides electronic communications services_  
+| _or remote computing services to the public shall comply with a_  
+| _warrant issued in another state and seeking location information_  
+| _described by Article 18B.221, if the warrant is served on the entity_  
+| _in a manner equivalent to the service of process requirements_  
+| _provided by Article 18B.355(b)._  
+|  SECTION 10. Article 18B.351, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.351. GOVERNMENT ACCESS TO ELECTRONIC CUSTOMER  
+| _COMMUNICATIONS RECORDS AND ELECTRONIC CUSTOMER_ DATA. (a) An  
+| authorized peace officer may require a provider of an electronic  
+| communications service or a provider of a remote computing service  
+| to disclose electronic customer _communications records or_  
+| _electronic customer_ data that is in electronic storage by obtaining  
+| a warrant under Article 18B.354.  
+|  (b) An authorized peace officer may require a provider of an  
+| electronic communications service or a provider of a remote  
+| computing service to disclose [ ~~only~~ ] electronic customer data [
+~~that~~  
+|  ~~is information revealing the identity of customers of the~~  
+|  ~~applicable service or information about a customer's use of the~~  
+|  ~~applicable service,~~ ] without giving the subscriber or customer  
+| notice:  
+|  (1) by obtaining an administrative subpoena  
+| authorized by statute;  
+|  (2) by obtaining a grand jury subpoena;  
+|  (3) by obtaining a court order under Article 18B.352;  
+|  (4) by obtaining a warrant under Article 18B.354;  
+|  (5) by obtaining the consent of the subscriber or  
+| customer to the disclosure of the data; or  
+|  (6) as otherwise permitted by applicable federal law.  
+|  SECTION 11. Article 18B.352(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) A court shall issue an order authorizing disclosure of  
+| _electronic customer data related to_ [ ~~contents, records, or other~~  
+|  ~~information of~~ ] a wire or electronic communication held in  
+| electronic storage if the court determines that there is a  
+| reasonable belief that the information sought is relevant _and_  
+| _material to an ongoing criminal investigation_ [ ~~to a legitimate law~~  
+|  ~~enforcement inquiry~~ ].  
+|  SECTION 12. Article 18B.353, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.353. WARRANT ISSUED IN THIS STATE: APPLICABILITY.  
+| Articles 18B.354-18B.357 apply to a warrant required under Article  
+| 18B.351 to obtain electronic customer _communications records or_  
+| _electronic customer_ data[ ~~, including the contents of a wire or~~  
+|  ~~electronic communication~~ ].  
+|  SECTION 13. Articles 18B.354(a), (b), and (c), Code of  
+| Criminal Procedure, are amended to read as follows:  
+|  (a) On the filing of an application by an authorized peace  
+| officer, a district judge may issue a search warrant under this  
+| article for electronic customer _communications records or_  
+| _electronic customer_ data held in electronic storage[ ~~, including the~~  
+|  ~~contents of and records and other information related to a wire or~~  
+|  ~~electronic communication held in electronic storage,~~ ] by a provider  
+| of an electronic communications service or a provider of a remote  
+| computing service described by Article 18B.355(b), regardless of  
+| whether the _electronic_ customer _communications records or_  
+| _electronic customer_ data is held at a location in this state or  
+| another state. An application made under this subsection must  
+| demonstrate probable cause for the issuance of the warrant and must  
+| be supported by the oath of the authorized peace officer.  
+|  (b) A search warrant may not be issued under this article  
+| unless the sworn affidavit required by Article 18.01(b) provides  
+| sufficient and substantial facts to establish probable cause that:  
+|  (1) a specific offense has been committed; and  
+|  (2) the electronic customer _communications records or_  
+| _electronic customer_ data sought:  
+|  (A) constitutes evidence of that offense or  
+| evidence that a particular person committed that offense _, or_  
+| _reveals the location of a fugitive from justice charged with a_  
+| _felony offense described by Article 18B.221(b)(2)(A), (B), (C), or_  
+| _(D)_ ; and  
+|  (B) is held in electronic storage by the service  
+| provider on which the warrant is served under Article 18B.355(c).  
+|  (c) Only the electronic customer _communications records or_  
+| _electronic customer_ data described in the sworn affidavit required  
+| by Article 18.01(b) may be seized under the warrant.  
+|  SECTION 14. Article 18B.356(c), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (c) The service provider shall produce all electronic  
+| customer _communications records, electronic customer_ data,  
+| [ ~~contents of communications,~~ ] and other information sought,  
+| regardless of where the information is held and within the period  
+| allowed for compliance with the warrant, as provided by Subsection  
+| (a) or (b).  
+|  SECTION 15. Articles 18B.406(a) and (d), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (a) Not later than the 14th day after the date a subscriber  
+| or customer receives notice under Article 18B.402, the subscriber  
+| or customer may file a written motion to quash the subpoena or  
+| vacate the court order in the court that issued the subpoena or  
+| court order. The motion must contain an affidavit or other sworn  
+| statement stating:  
+|  (1) that the applicant is a subscriber or customer of  
+| the provider of an electronic communications service or the  
+| provider of a remote computing service from which the electronic  
+| customer data held in electronic storage for the subscriber or  
+| customer has been sought; and  
+|  (2) the applicant's reasons for believing that the  
+| _electronic_ customer data sought is not relevant _and material_ to _an_  
+| _ongoing criminal investigation_ [ ~~a legitimate law enforcement~~  
+|  ~~inquiry~~ ] or that there has not been substantial compliance with the  
+| provisions of this chapter in some other respect.  
+|  (d) The court shall rule on the motion as soon as  
+| practicable after the filing of the peace officer's response. The  
+| court shall deny the motion if the court finds that the applicant is  
+| not the subscriber or customer whose data is the subject of the  
+| subpoena or court order or that there is reason to believe that the  
+| peace officer's inquiry is legitimate and that the data sought is  
+| relevant to that inquiry. The court shall quash the subpoena or  
+| vacate the court order if the court finds that the applicant is the  
+| subscriber or customer whose data is the subject of the subpoena or  
+| court order and that there is not a reason to believe that the data  
+| is relevant _and material_ to _an ongoing criminal investigation_ [ ~~a~~  
+|  ~~legitimate law enforcement inquiry~~ ] or that there has not been  
+| substantial compliance with the provisions of this chapter.  
+|  SECTION 16. Article 18B.451, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.451. SUBPOENA AUTHORITY.  _(a)_ ___Except as provided_  
+| _by Subsection (b), the_ [ ~~The~~ ] director of the department or the  
+| director's designee, the inspector general of the Texas Department  
+| of Criminal Justice or the inspector general's designee, or the  
+| sheriff or chief of a designated law enforcement agency or the  
+| sheriff's or chief's designee may issue an administrative subpoena  
+| to a communication common carrier or a provider of an electronic  
+| communications service to compel the production of any carrier's or  
+| service provider's business records that:  
+|  (1) disclose information about:  
+|  (A) the carrier's or service provider's  
+| customers; or  
+|  (B) users of the services offered by the carrier  
+| or service provider; and  
+|  (2) are material to a criminal investigation.  
+|  _(b)_ _____A person described by Subsection (a) may not compel the_  
+| _production of business records containing location information or_  
+| _electronic customer communications records by issuing an_  
+| _administrative subpoena under Subsection (a)._  
+|  SECTION 17. Article 18B.501(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) An authorized peace officer seeking electronic customer  
+| _communications records or electronic customer_ data under Article  
+| 18B.351 may apply to the court for an order commanding the service  
+| provider to whom a warrant, subpoena, or court order is directed not  
+| to disclose to any person the existence of the warrant, subpoena, or  
+| court order. The order is effective for the period the court  
+| considers appropriate.  
+|  SECTION 18. Articles 18B.503(a) and (b), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (a) Except as provided by Subsection (c), an authorized  
+| peace officer who obtains electronic customer _communications_  
+| _records or electronic customer_ data under Article 18B.351 or  
+| 18B.359 or other information under this chapter shall reimburse the  
+| person assembling or providing the _records,_ data _,_ or information  
+| for all costs that are reasonably necessary and that have been  
+| directly incurred in searching for, assembling, reproducing, or  
+| otherwise providing the _records,_ data _,_ or information, including  
+| costs arising from necessary disruption of normal operations of a  
+| provider of an electronic communications service or a provider of a  
+| remote computing service in which the electronic customer  
+| _communications records or electronic customer_ data may be held in  
+| electronic storage or in which the other information may be stored.  
+|  (b) The authorized peace officer and the person providing  
+| the electronic customer _communications records, electronic_  
+| _customer_ data _,_ or other information may agree on the amount of  
+| reimbursement. If there is not an agreement, the court that issued  
+| the order for production of the _records,_ data _,_ or information shall  
+| determine the amount. If a court order was not issued for  
+| production of the _records,_ data _,_ or information, the court before  
+| which any criminal prosecution relating to the _records,_ data _,_ or  
+| information would be brought shall determine the amount.  
+|  SECTION 19. Chapter 16, Penal Code, is amended by adding  
+| Section 16.07 to read as follows:  
+|  _Sec._ ___16.07._ _____UNLAWFUL USE OF CELL SITE SIMULATOR. (a)_ ___In_  
+| _this section:_  
+|  _(1)_ _____"Cell site simulator" has the meaning assigned by_  
+| _Article 18B.001, Code of Criminal Procedure._  
+|  _(2)_ _____"Communication common carrier" and "electronic_  
+| _communication" have the meanings assigned by Article 18A.001, Code_  
+| _of Criminal Procedure._  
+|  _(b)_ _____A person commits an offense if the person knowingly uses_  
+| _a cell site simulator to locate or identify a wireless_  
+| _communications device or intercept the content of an electronic_  
+| _communication._  
+|  _(c) An offense under this section is a state jail felony._  
+|  _(d)_ _____It is an affirmative defense to prosecution under this_  
+| _section that the actor:_  
+|  _(1)_ _____is an officer, employee, or agent of a_  
+| _communication common carrier and the actor uses a cell site_  
+| _simulator in the regular course of business of the carrier for the_  
+| _purpose of:_  
+|  _(A)_ _____protecting property or services provided by_  
+| _the carrier; or_  
+|  _(B)_ _____assisting another whom the actor reasonably_  
+| _believes to be a peace officer authorized to use a cell site_  
+| _simulator under Article 18B.221, Code of Criminal Procedure;_  
+|  _(2)_ _____is a person authorized to use a cell site simulator_  
+| _under Article 18B.221, Code of Criminal Procedure; or_  
+|  _(3)_ _____obtained the effective consent of the owner or_  
+| _renter of the wireless communications device and the simulator was_  
+| _not used to commit an offense or other prohibited act._  
+|  SECTION 20. Chapter 18B, Code of Criminal Procedure, as  
+| amended by this Act, applies to the disclosure of certain  
+| information by a provider of a wire or electronic communications  
+| service or remote computing service or by a communication common  
+| carrier under a warrant, order, or other legal process on or after  
+| the effective date of this Act.  
+|  SECTION 21. This Act takes effect September 1, 2019.
+

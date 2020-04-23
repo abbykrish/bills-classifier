@@ -1,0 +1,28 @@
+| 86R3104 JRR-D  
+---|---  
+|  By: Minjarez | H.B. No. 37  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of the criminal offense of mail theft.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 31, Penal Code, is amended by adding  
+| Section 31.20 to read as follows:  
+|  _Sec._ ___31.20._ _____MAIL THEFT. (a) In this section, "mail" means_  
+| _a letter, postal card, package, bag, or other sealed article sent_  
+| _through a common carrier and addressed to a person other than the_  
+| _sender._  
+|  _(b)_ _____A person commits an offense if, without the effective_  
+| _consent of the applicable addressee and with the intent to deprive_  
+| _that addressee of the mail, the person appropriates pieces of mail_  
+| _that, in the aggregate, are addressed to at least three persons_  
+| _other than the actor._  
+|  _(c) An offense under this section is:_  
+|  _(1)_ _____a state jail felony if 10 or fewer pieces of mail_  
+| _are appropriated;_  
+|  _(2)_ _____a felony of the third degree if more than 10 but_  
+| _fewer than 50 pieces of mail are appropriated; or_  
+|  _(3)_ _____a felony of the second degree if 50 or more pieces_  
+| _of mail are appropriated._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

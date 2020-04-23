@@ -1,0 +1,154 @@
+| 86R14189 SLB-F  
+---|---  
+|  By: Blanco | H.B. No. 4089  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of radioactive waste.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 401.052(b), (d), (e), and (f), Health  
+| and Safety Code, are amended to read as follows:  
+|  (b) Rules adopted under this section for [ ~~low-level~~ ]  
+| radioactive waste must:  
+|  (1) to the extent practicable, be compatible with  
+| United States Department of Transportation and federal commission  
+| regulations relating to the transportation of [ ~~low-level~~ ]  
+| radioactive waste;  
+|  (2) require each shipper and carrier of [ ~~low-level~~ ]  
+| radioactive waste to _:_  
+|  _(A)_ adopt an emergency plan approved by the  
+| department for responding to transportation accidents; _and_  
+|  _(B) provide notice of shipping to:_  
+|  _(i) the department; and_  
+|  _(ii)_ _____the local emergency planning committee_  
+| _for each county through which the waste will travel;_  
+|  (3) require the notification and reporting of  
+| accidents to the department and to local emergency planning  
+| committees in the county where the accident occurs;  
+|  (4) require each shipper to adopt a quality control  
+| program approved by the department to verify that shipping  
+| containers are suitable for shipment to a licensed disposal  
+| facility;  
+|  (5) assess a fee on shippers for shipments to a Texas  
+| [ ~~low-level~~ ] radioactive waste disposal _or storage_ facility [ ~~of~~  
+|  ~~low-level radioactive waste originating in Texas or out-of-state~~ ];  
+| and  
+|  (6) require a carrier to carry liability insurance in  
+| an amount the executive commissioner determines is sufficient to  
+| cover damages likely to be caused by a shipping accident in  
+| accordance with regulations imposed by the United States Department  
+| of Transportation and the federal commission.  
+|  (d) Fees assessed under this section:  
+|  (1) may provide additional revenue to support the  
+| activities of the Texas Low-Level Radioactive Waste Disposal  
+| Compact Commission;  
+|  (2) may _be assessed in an amount determined by the_  
+| _commission as adequate to remediate a potential radiation release_  
+| _and related damages_ [ ~~not exceed $10 per cubic foot of shipped~~  
+|  ~~low-level radioactive waste~~ ];  
+|  (3) shall be collected by the department and deposited  
+| to the credit of the perpetual care account; _and_  
+|  (4) shall be used by the department for emergency  
+| planning for and response to transportation accidents involving  
+| [ ~~low-level~~ ] radioactive waste, including first responder training  
+| in counties through which transportation routes are designated in  
+| accordance with Subsection (a)[ ~~; and~~  
+|  [ ~~(5) may not be collected on waste disposed of at~~  
+|  ~~a federal waste disposal facility~~ ].  
+|  (e) Money expended from the perpetual care account to  
+| respond to accidents involving [ ~~low-level~~ ] radioactive waste must  
+| be reimbursed to the perpetual care account by the responsible  
+| shipper or carrier according to rules adopted by the executive  
+| commissioner.  
+|  (f) In this section, "shipper" means a person who generates  
+| [ ~~low-level~~ ] radioactive waste and ships or arranges with others to  
+| ship the waste to a disposal site.  
+|  SECTION 2. Subchapter C, Chapter 401, Health and Safety  
+| Code, is amended by adding Section 401.0565 to read as follows:  
+|  _Sec._ ___401.0565._ _____CONTINGENCY PLANS. After opportunity for_  
+| _public hearing and comment, the commission shall develop and adopt_  
+| _by rule a set of conditions that would trigger the enactment of a_  
+| _contingency plan. The contingency plan must include rules and_  
+| _procedures for addressing:_  
+|  _(1)_ _____the financial impairment or failure of the holder_  
+| _of a license issued under this chapter;_  
+|  _(2)_ _____the abandonment of a site or operation governed by_  
+| _this chapter;_  
+|  _(3)_ _____failure to maintain the security or radiation-free_  
+| _status of a site licensed under this chapter;_  
+|  _(4)_ _____an uncontrolled or inadequately controlled_  
+| _radiation release; and_  
+|  _(5)_ _____threats to public health and safety arising from_  
+| _activity governed by this chapter._  
+|  SECTION 3. The heading to Section 401.071, Health and  
+| Safety Code, is amended to read as follows:  
+|  Sec. 401.071. GENERAL POWERS OF COMMISSION IN RELATION TO  
+| [ ~~LOW-LEVEL~~ ] RADIOACTIVE WASTE.  
+|  SECTION 4. Section 401.071, Health and Safety Code, is  
+| amended by adding Subsection (c) to read as follows:  
+|  _(c)_ _____The commission shall develop standards for and ensure_  
+| _the implementation of biannual, independent inspections of a_  
+| _radioactive waste site. The commission shall contract for the_  
+| _inspections, the cost of which shall be paid by the license holder_  
+| _of the inspected facility. The commission shall choose a new_  
+| _third-party inspector at least every six years. The inspection_  
+| _shall:_  
+|  _(1) verify waste volumes and curies in the facility;_  
+|  _(2) monitor safety;_  
+|  _(3) check for radiation releases on and off site; and_  
+|  _(4)_ _____conduct financial audits to determine the adequacy_  
+| _of financial assurance held by the facility._  
+|  SECTION 5. Section 401.108(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) Before a license is issued or renewed by the commission,  
+| the applicant shall demonstrate to the commission that the  
+| applicant is financially qualified to conduct the licensed  
+| activity, including any required decontamination, decommissioning,  
+| reclamation, and disposal, by posting security acceptable to the  
+| commission. _The commission shall adjust the amount of financial_  
+| _security to account for information received from the state_  
+| _auditor._  
+|  SECTION 6. (a) The state auditor shall review:  
+|  (1) the federal license application for consolidated  
+| interim storage of high-level radioactive waste in this state; and  
+|  (2) proposals to expand the amount, volume, curies, or  
+| types of radioactive waste to be stored or disposed of in this  
+| state.  
+|  (b) The state auditor shall analyze:  
+|  (1) the potential cost, both with and without the  
+| inclusion of federal money, of remediating the worst-case scenario  
+| accident related to:  
+|  (A) the transportation of radioactive waste; and  
+|  (B) radiation releases at or near the waste site;  
+|  (2) the potential economic and health effects of a  
+| radiation release to businesses and residents in communities near a  
+| site licensed under Chapter 401, Health and Safety Code, and along  
+| transportation routes for radioactive waste; and  
+|  (3) any other matter the state auditor determines is  
+| relevant to a matter related to the review under Subsection (a) of  
+| this section.  
+|  (c) The analysis under Subsection (b)(1) of this section  
+| must be based on:  
+|  (1) studies of transportation accident costs prepared  
+| for the State of Nevada in regard to Yucca Mountain; and  
+|  (2) costs incurred for the remediation of radiation at  
+| existing private and federal radioactive waste facilities.  
+|  (d) Not later than December 1, 2020, the state auditor shall  
+| make available a report containing the results of the review and  
+| analysis required by this section.  
+|  SECTION 7. The Texas Commission on Environmental Quality  
+| may not approve a change to a license issued under Chapter 401,  
+| Health and Safety Code, that relates to the amount, volume, curies,  
+| or type of radioactive waste accepted by a facility in this state  
+| until the 30th day after the later of:  
+|  (1) the date the report required by Section 6 of this  
+| Act is made available by the state auditor; or  
+|  (2) the date by which the Texas Commission on  
+| Environmental Quality has:  
+|  (A) completed the contingency plan required by  
+| Section 401.0565, Health and Safety Code, as added by this Act; and  
+|  (B) adjusted financial assurance requirements  
+| according to Section 401.108, Health and Safety Code, as amended by  
+| this Act.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

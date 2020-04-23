@@ -1,0 +1,128 @@
+| 86R11973 SCL-F  
+---|---  
+|  By: Burrows | H.B. No. 4575  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to civil actions involving the exercise of certain  
+| constitutional rights.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 27.001(2), (6), and (7), Civil Practice  
+| and Remedies Code, are amended to read as follows:  
+|  (2) "Exercise of the right of association" means a  
+| communication between individuals who join together to  
+| collectively express, promote, pursue, or defend common interests  
+| _relating to public participation in governmental or official_  
+| _proceedings_.  
+|  (6) "Legal action" means a lawsuit, cause of action,  
+| petition, complaint, cross-claim, or counterclaim or any other  
+| judicial pleading or filing that requests legal or equitable  
+| relief. _The term does not include:_  
+|  _(A)_ _____an alternative dispute resolution procedure,_  
+| _including arbitration;_  
+|  _(B)_ _____a petition under Rule 202, Texas Rules of_  
+| _Civil Procedure; or_  
+|  _(C)_ _____a discovery request in litigation, including_  
+| _a subpoena request._  
+|  (7) "Matter of public concern" _means a public_  
+| [ ~~includes an~~ ] issue related to:  
+|  (A) health or safety;  
+|  (B) environmental, economic, or community  
+| well-being;  
+|  (C) the government;  
+|  (D) a public official or public figure; or  
+|  (E) a good, product, or service in the  
+| marketplace.  
+|  SECTION 2. The heading to Section 27.003, Civil Practice  
+| and Remedies Code, is amended to read as follows:  
+|  Sec. 27.003. MOTION TO DISMISS _; RESPONSE TO MOTION_.  
+|  SECTION 3. Section 27.003, Civil Practice and Remedies  
+| Code, is amended by amending Subsection (c) and adding Subsections  
+| (d) and (e) to read as follows:  
+|  (c) Except as provided by Section 27.006(b), on the filing  
+| of a motion under this section, all discovery in the legal action  
+| _related to the claim that is the subject of the motion_ is suspended  
+| until the court has ruled on the motion to dismiss.  
+|  _(d)_ _____The moving party shall provide written notice of the_  
+| _date and time of a hearing under Section 27.004 not later than the_  
+| _14th day before the date of the hearing._  
+|  _(e)_ _____The party bringing the legal action that is the subject_  
+| _of a motion under this section may file a response to the motion not_  
+| _later than the seventh day before the date of a hearing described by_  
+| _Section 27.004._  
+|  SECTION 4. Section 27.005(d), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (d) Notwithstanding the provisions of Subsection (c), the  
+| court shall dismiss a legal action against the moving party if _:_  
+|  _(1)_ the moving party establishes by a preponderance of  
+| the evidence each essential element of a valid defense to the  
+| nonmovant's claim _; and_  
+|  _(2)_ _____there is no material fact in dispute regarding_  
+| _each essential element described by Subdivision (1)_.  
+|  SECTION 5. Section 27.006, Civil Practice and Remedies  
+| Code, is amended by amending Subsection (a) and adding Subsection  
+| (c) to read as follows:  
+|  (a) In determining whether a legal action should be  
+| dismissed under this chapter, the court shall consider the  
+| pleadings _, evidence obtained from discovery,_ and supporting and  
+| opposing affidavits stating the facts on which the liability or  
+| defense is based.  
+|  _(c)_ _____To determine the amount of any award that may be made_  
+| _under Section 27.009, the court may hear testimony or require the_  
+| _parties to submit affidavits._  
+|  SECTION 6. Section 27.008, Civil Practice and Remedies  
+| Code, is amended by adding Subsections (c) and (d) to read as  
+| follows:  
+|  _(c)_ _____Discovery in the legal action is suspended during an_  
+| _interlocutory appeal under this section only for the part of the_  
+| _legal action that is the subject of the motion under Section 27.003._  
+|  _(d)_ _____If a party intends to appeal any other procedural_  
+| _ruling, the party must include in that appeal the appeal of the_  
+| _trial court's order on the motion to dismiss._  
+|  SECTION 7. Section 27.009(a), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (a) If the court orders dismissal of a legal action under  
+| this chapter, the court _may_ [ ~~shall~~ ] award to the moving party:  
+|  (1) court costs, reasonable attorney's fees, and other  
+| expenses incurred in defending against the legal action as justice  
+| and equity may require; [ ~~and~~ ]  
+|  (2) sanctions against the party who brought the legal  
+| action as the court determines sufficient to deter the party who  
+| brought the legal action from bringing similar actions described in  
+| this chapter _; or_  
+|  _(3)_ _____the remedies described by Subdivisions (1) and_  
+| _(2)_.  
+|  SECTION 8. Section 27.010(b), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (b) This chapter does not apply to a legal action brought  
+| against a person [ ~~primarily~~ ] engaged in the business of selling or  
+| leasing goods or services, if the statement or conduct arises out  
+| of _:_  
+|  _(1)_ the sale or lease of goods, services, or an  
+| insurance product _;_  
+|  _(2)_ [ ~~,~~ ] insurance services _;_  
+|  _(3)_ [ ~~, or~~ ] a commercial transaction in which the  
+| intended audience is an actual or potential buyer or customer _;_  
+|  _(4)_ _____a deceptive trade practice under Chapter 17,_  
+| _Business & Commerce Code; or_  
+|  _(5) a covenant not to compete_.  
+|  SECTION 9. Section 27.011, Civil Practice and Remedies  
+| Code, is amended by adding Subsection (c) to read as follows:  
+|  _(c)_ _____This chapter does not affect discovery related to a_  
+| _motion filed before a motion to dismiss under Section 27.003._  
+|  SECTION 10. Section 51.014(b), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (b) An interlocutory appeal under Subsection (a), other  
+| than an appeal under Subsection (a)(4) or in a suit brought under  
+| the Family Code, stays the commencement of a trial in the trial  
+| court pending resolution of the appeal. An interlocutory appeal  
+| under Subsection (a)(3), (5), _or_ (8)[ ~~, or (12)~~ ] also stays all other  
+| proceedings in the trial court pending resolution of that appeal.  
+|  SECTION 11. The change in law made by this Act applies only  
+| to an action filed on or after the effective date of this Act. An  
+| action filed before the effective date of this Act is governed by  
+| the law applicable to the action immediately before the effective  
+| date of this Act, and that law is continued in effect for that  
+| purpose.  
+|  SECTION 12. This Act takes effect September 1, 2019.
+

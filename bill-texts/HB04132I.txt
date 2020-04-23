@@ -1,0 +1,73 @@
+| 86R6267 BEF-D  
+---|---  
+|  By: Rodriguez | H.B. No. 4132  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to maintenance and production of electronic public  
+| information under the public information law.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter E, Chapter 552, Government Code, is  
+| amended by adding Section 552.2285 to read as follows:  
+|  _Sec._ ___552.2285._ _____ELECTRONIC PUBLIC INFORMATION. (a)_ ___In this_  
+| _section "electronic public information" means public information_  
+| _maintained in electronic form by a governmental body. The term_  
+| _includes electronic records and data from database fields._  
+|  _(b)_ _____A governmental body's use of an electronic_  
+| _recordkeeping system may not erode the public's right of access to_  
+| _public information under this chapter._  
+|  _(c)_ _____If a request for public information applies to_  
+| _electronic public information, the governmental body shall_  
+| _provide, in the manner described by this section, an electronic_  
+| _copy of the requested electronic public information using computer_  
+| _software the governmental body has in its possession._ ___If the_  
+| _requestor prefers, the governmental body shall provide a copy of_  
+| _electronic public information in the form of a paper printout._  
+|  _(d)_ _____A governmental body may not refuse to provide a copy of_  
+| _electronic public information on the grounds that exporting the_  
+| _information or redacting excepted information will require_  
+| _inputting range, search, filter, report parameters, or similar_  
+| _commands or instructions into the governmental body's computer_  
+| _system if the commands or instructions can be executed with_  
+| _computer software used by the governmental body in the ordinary_  
+| _course of business to access, support, or otherwise manage the_  
+| _information._  
+|  _(e)_ _____A requestor may request that a copy of electronic public_  
+| _information be provided in the format in which the information is_  
+| _maintained by the governmental body or in a standard export format_  
+| _such as a flat file electronic American Standard Code for_  
+| _Information Interchange (ASCII) if the governmental body's_  
+| _computer programs support exporting the information in that format._ __  
+| _The governmental body shall provide the copy in the requested_  
+| _format or in another format acceptable to the requestor._ ___The_  
+| _governmental body shall provide the copy on suitable electronic_  
+| _media._  
+|  _(f)_ _____If electronic public information is maintained by a_  
+| _governmental body in a format that is:_  
+|  _(1)_ _____neither searchable nor sortable, the governmental_  
+| _body shall provide an electronic copy of the information in a format_  
+| _that complies with this section;_  
+|  _(2)_ _____searchable but not sortable, the governmental body_  
+| _shall provide an electronic copy of the information in a searchable_  
+| _format that complies with this section; or_  
+|  _(3)_ _____sortable, the governmental body shall provide an_  
+| _electronic copy of the information in a sortable format that_  
+| _complies with this section._  
+|  _(g)_ _____A governmental body may not enter into a contract for_  
+| _the creation or maintenance of electronic public information that_  
+| _impairs the public's ability to inspect or copy the information,_  
+| _including a contract for the creation of a publicly accessible_  
+| _version of information that is more difficult for the public to_  
+| _inspect or copy than records maintained by the governmental body._  
+|  _(h)_ _____This section applies to public information for which a_  
+| _third party is the custodian for the governmental body._  
+|  SECTION 2. Sections 552.228(b) and (c), Government Code,  
+| are repealed.  
+|  SECTION 3. The changes in law made by this Act apply only to  
+| a request for public information received by a governmental body on  
+| or after the effective date of this Act.  A request received before  
+| that date is governed by the law in effect when the request was  
+| received, and the former law is continued in effect for that  
+| purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

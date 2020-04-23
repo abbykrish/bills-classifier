@@ -1,0 +1,30 @@
+| 86R11959 KJE-D  
+---|---  
+|  By: Turner of Tarrant | H.B. No. 3011  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring the Texas Higher Education Coordinating Board  
+| to provide to a school district certain information used in  
+| determining academic accountability ratings for the district.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 39, Education Code, is  
+| amended by adding Section 39.059 to read as follows:  
+|  _Sec. 39.059. DATA TRANSPARENCY. (a)  In this section:_  
+|  _(1)_ _____"Coordinating board"_ ___means the Texas Higher_  
+| _Education Coordinating Board._  
+|  _(2)_ _____"Institution of higher education"_ ___has the meaning_  
+| _assigned by Section 61.003._  
+|  _(b)_ _____Before the initial release of academic accountability_  
+| _ratings for a school year, the coordinating board shall provide to_  
+| _each school district a copy of all source data as submitted to the_  
+| _coordinating board by an institution of higher education that the_  
+| _coordinating board provides to the agency to consider in:_  
+|  _(1)_ _____determining the district's accreditation status_  
+| _under Section 39.052; or_  
+|  _(2)_ _____assigning performance ratings for the district or_  
+| _the district's campuses under Section 39.054._  
+|  SECTION 2. This Act applies beginning with the 2019-2020  
+| school year.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

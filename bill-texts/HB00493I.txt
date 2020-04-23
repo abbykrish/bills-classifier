@@ -1,0 +1,364 @@
+| 86R3749 SMT-F  
+---|---  
+|  By: Shine | H.B. No. 493  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a temporary local option exemption from ad valorem  
+| taxation of a portion of the appraised value of certain property  
+| damaged by a disaster and reimbursement of a taxing unit for refunds  
+| the taxing unit pays to taxpayers as a result of the exemption.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 11, Tax Code, is amended by  
+| adding Section 11.35 to read as follows:  
+|  _Sec._ ___11.35._ _____TEMPORARY EXEMPTION FOR QUALIFIED PROPERTY_  
+| _DAMAGED BY DISASTER. (a) In this section, "qualified property"_  
+| _means property that:_  
+|  _(1) consists of:_  
+|  _(A)_ _____tangible personal property used for the_  
+| _production of income; or_  
+|  _(B) an improvement to real property;_  
+|  _(2)_ _____is located in an area declared by the governor to_  
+| _be a disaster area following a disaster;_  
+|  _(3)_ _____is at least 15 percent damaged by the disaster, as_  
+| _determined by the chief appraiser under this section; and_  
+|  _(4)_ _____for property described by Subdivision (1)(A), is_  
+| _the subject of a rendition statement or property report filed by the_  
+| _property owner under Section 22.01 that demonstrates that the_  
+| _property had taxable situs in the disaster area for the tax year in_  
+| _which the disaster occurred._  
+|  _(b)_ _____A person is entitled to an exemption from taxation by a_  
+| _taxing unit of a portion of the appraised value of qualified_  
+| _property that the person owns if the exemption is adopted by the_  
+| _governing body of the taxing unit in the manner provided by law for_  
+| _official action by the body._  
+|  _(c)_ _____An exemption adopted by the governing body of a taxing_  
+| _unit under this section must:_  
+|  _(1)_ _____specify the disaster to which the exemption_  
+| _pertains; and_  
+|  _(2)_ _____be adopted not later than the 60th day after the_  
+| _date the governor first declares territory in the taxing unit to be_  
+| _a disaster area as a result of the disaster._  
+|  _(d)_ _____A taxing unit the governing body of which adopts an_  
+| _exemption under this section shall, not later than the seventh day_  
+| _after the date the governing body adopts the exemption, notify the_  
+| _chief appraiser of each appraisal district in which the taxing unit_  
+| _participates, the assessor for the taxing unit, and the comptroller_  
+| _of the adoption of the exemption._  
+|  _(e)_ _____On receipt of an application for the exemption_  
+| _authorized by this section, the chief appraiser shall determine_  
+| _whether any item of qualified property that is the subject of the_  
+| _application is at least 15 percent damaged by the disaster and_  
+| _assign to each such item of qualified property a damage assessment_  
+| _rating of Level I, Level II, Level III, or Level IV, as appropriate,_  
+| _as provided by Subsection (f). In determining the appropriate_  
+| _damage assessment rating, the chief appraiser may rely on_  
+| _information provided by a county emergency management authority,_  
+| _the Federal Emergency Management Agency, or any other source the_  
+| _chief appraiser considers appropriate._  
+|  _(f)_ _____The chief appraiser shall assign to an item of qualified_  
+| _property:_  
+|  _(1)_ _____a Level I damage assessment rating if the property_  
+| _is at least 15 percent, but less than 30 percent, damaged, meaning_  
+| _that the property suffered minimal damage and may continue to be_  
+| _used as intended;_  
+|  _(2)_ _____a Level II damage assessment rating if the_  
+| _property is at least 30 percent, but less than 60 percent, damaged,_  
+| _which, for qualified property described by Subsection (a)(1)(B),_  
+| _means that the property has suffered only nonstructural damage,_  
+| _including nonstructural damage to the roof, walls, foundation, or_  
+| _mechanical components, and the waterline, if any, is less than 18_  
+| _inches above the floor;_  
+|  _(3)_ _____a Level III damage assessment rating if the_  
+| _property is at least 60 percent damaged but is not a total loss,_  
+| _which, for qualified property described by Subsection (a)(1)(B),_  
+| _means that the property has suffered significant structural damage_  
+| _requiring extensive repair due to the failure or partial failure of_  
+| _structural elements, wall elements, or the foundation, or the_  
+| _waterline is at least 18 inches above the floor; or_  
+|  _(4)_ _____a Level IV damage assessment rating if the_  
+| _property is a total loss, meaning that repair of the property is not_  
+| _feasible._  
+|  _(g)_ _____Subject to Subsection (h), the amount of the exemption_  
+| _authorized by this section for an item of qualified property is_  
+| _determined by multiplying the appraised value, determined for the_  
+| _tax year in which the disaster occurred, of the property by:_  
+|  _(1)_ _____15 percent, if the property is assigned a Level I_  
+| _damage assessment rating;_  
+|  _(2)_ _____30 percent, if the property is assigned a Level II_  
+| _damage assessment rating;_  
+|  _(3)_ _____60 percent, if the property is assigned a Level III_  
+| _damage assessment rating; or_  
+|  _(4)_ _____100 percent, if the property is assigned a Level IV_  
+| _damage assessment rating._  
+|  _(h)_ _____If a person qualifies for the exemption authorized by_  
+| _this section after the beginning of the tax year, the amount of the_  
+| _exemption is calculated by multiplying the amount determined under_  
+| _Subsection (g) by a fraction, the denominator of which is 365 and_  
+| _the numerator of which is the number of days remaining in the tax_  
+| _year after the day on which the governor first declares the area in_  
+| _which the person's qualified property is located to be a disaster_  
+| _area, including the day on which the governor makes the_  
+| _declaration._  
+|  _(i)_ _____If a person qualifies for the exemption authorized by_  
+| _this section after the amount of the tax due on the qualified_  
+| _property is calculated and the effect of the qualification is to_  
+| _reduce the amount of the tax due on the property, the assessor for_  
+| _each taxing unit that has adopted the exemption shall recalculate_  
+| _the amount of the tax due on the property and correct the tax roll._  
+| _If the tax bill has been mailed and the tax on the property has not_  
+| _been paid, the assessor shall mail a corrected tax bill to the_  
+| _person in whose name the property is listed on the tax roll or to the_  
+| _person's authorized agent. If the tax on the property has been_  
+| _paid, the tax collector for the taxing unit shall refund to the_  
+| _person who paid the tax the amount by which the payment exceeded the_  
+| _tax due. No interest is due on an amount refunded under this_  
+| _subsection._  
+|  _(j)_ _____The exemption authorized by this section expires as to_  
+| _an item of qualified property on January 1 of the first tax year in_  
+| _which the property is reappraised under Section 25.18._  
+|  SECTION 2. Section 11.42(e), Tax Code, is amended to read as  
+| follows:  
+|  (e) A person who qualifies for an exemption under Section  
+| 11.131 _or 11.35_ after January 1 of a tax year may receive the  
+| exemption for the applicable portion of that tax year immediately  
+| on qualification for the exemption.  
+|  SECTION 3. Section 11.43, Tax Code, is amended by amending  
+| Subsection (c) and adding Subsection (s) to read as follows:  
+|  (c) An exemption provided by Section 11.13, 11.131, 11.132,  
+| 11.133, 11.134, 11.17, 11.18, 11.182, 11.1827, 11.183, 11.19,  
+| 11.20, 11.21, 11.22, 11.23(a), (h), (j), (j-1), or (m), 11.231,  
+| 11.254, 11.27, 11.271, 11.29, 11.30, 11.31, [ ~~or~~ ] 11.315, _or 11.35,_  
+| once allowed, need not be claimed in subsequent years, and except as  
+| otherwise provided by Subsection (e), the exemption applies to the  
+| property until it changes ownership or the person's qualification  
+| for the exemption changes. However, except as provided by  
+| Subsection (r), the chief appraiser may require a person allowed  
+| one of the exemptions in a prior year to file a new application to  
+| confirm the person's current qualification for the exemption by  
+| delivering a written notice that a new application is required,  
+| accompanied by an appropriate application form, to the person  
+| previously allowed the exemption.  If the person previously allowed  
+| the exemption is 65 years of age or older, the chief appraiser may  
+| not cancel the exemption due to the person's failure to file the new  
+| application unless the chief appraiser complies with the  
+| requirements of Subsection (q), if applicable.  
+|  _(s)_ _____A person who qualifies for an exemption under Section_  
+| _11.35 must apply for the exemption not later than the 45th day after_  
+| _the date the governing body of the taxing unit adopts the exemption,_  
+| _provided that the chief appraiser may extend the deadline for good_  
+| _cause shown._  
+|  SECTION 4. Section 11.45, Tax Code, is amended by adding  
+| Subsection (e) to read as follows:  
+|  _(e)_ _____If the chief appraiser approves, modifies, or denies an_  
+| _application for an exemption under Section 11.35, the chief_  
+| _appraiser shall deliver a written notice of the approval,_  
+| _modification, or denial to the applicant not later than the fifth_  
+| _day after the date the chief appraiser makes the determination. The_  
+| _notice must include the damage assessment rating assigned by the_  
+| _chief appraiser to each item of qualified property that is the_  
+| _subject of the application and a brief explanation of the_  
+| _procedures for protesting the chief appraiser's determination. The_  
+| _notice required under this subsection is in lieu of any notice that_  
+| _would otherwise be required under Subsection (d)._  
+|  SECTION 5. Section 26.012(15), Tax Code, is amended to read  
+| as follows:  
+|  (15) "Lost property levy" means the amount of taxes  
+| levied in the preceding year on property value that was taxable in  
+| the preceding year but is not taxable in the current year because  
+| the property is exempt in the current year under a provision of this  
+| code other than Section 11.251 _,_ [ ~~or~~ ] 11.253, _or 11.35,_ the
+property  
+| has qualified for special appraisal under Chapter 23 in the current  
+| year, or the property is located in territory that has ceased to be  
+| a part of the _taxing_ unit since the preceding year.  
+|  SECTION 6. Section 41.03(a), Tax Code, is amended to read as  
+| follows:  
+|  (a) A taxing unit is entitled to challenge before the  
+| appraisal review board:  
+|  (1) the level of appraisals of any category of  
+| property in the district or in any territory in the district, but  
+| not the appraised value of a single taxpayer's property;  
+|  (2) an exclusion of property from the appraisal  
+| records;  
+|  (3) a grant in whole or in part of a partial exemption _,_  
+| _other than an exemption under Section 11.35_ ;  
+|  (4) a determination that land qualifies for appraisal  
+| as provided by Subchapter C, D, E, or H, Chapter 23; or  
+|  (5) _a_ failure to identify the taxing unit as one in  
+| which a particular property is taxable.  
+|  SECTION 7. Section 41.41, Tax Code, is amended by adding  
+| Subsection (c) to read as follows:  
+|  _(c)_ _____Notwithstanding Subsection (a), a property owner is_  
+| _entitled to protest before the appraisal review board only the_  
+| _following actions of the chief appraiser in relation to an_  
+| _exemption under Section 11.35:_  
+|  _(1)_ _____the modification or denial of an application for_  
+| _an exemption under that section; or_  
+|  _(2)_ _____the determination of the appropriate damage_  
+| _assessment rating for an item of qualified property under that_  
+| _section._  
+|  SECTION 8. Section 41.44(a), Tax Code, is amended to read as  
+| follows:  
+|  (a) Except as provided by Subsections (b), (c), (c-1), and  
+| (c-2), to be entitled to a hearing and determination of a protest,  
+| the property owner initiating the protest must file a written  
+| notice of the protest with the appraisal review board having  
+| authority to hear the matter protested:  
+|  (1) not later than May 15 or the 30th day after the  
+| date that notice to the property owner was delivered to the property  
+| owner as provided by Section 25.19, whichever is later;  
+|  (2) in the case of a protest of a change in the  
+| appraisal records ordered as provided by Subchapter A of this  
+| chapter or by Chapter 25, not later than the 30th day after the date  
+| notice of the change is delivered to the property owner;  
+|  (3) in the case of a determination that a change in the  
+| use of land appraised under Subchapter C, D, E, or H, Chapter 23,  
+| has occurred, not later than the 30th day after the date the notice  
+| of the determination is delivered to the property owner; [ ~~or~~ ]  
+|  (4) in the case of a determination of eligibility for a  
+| refund under Section 23.1243, not later than the 30th day after the  
+| date the notice of the determination is delivered to the property  
+| owner _; or_  
+|  _(5)_ _____in the case of a protest of the modification or_  
+| _denial of an application for an exemption under Section 11.35, or_  
+| _the determination of an appropriate damage assessment rating for an_  
+| _item of qualified property under that section, not later than the_  
+| _30th day after the date the property owner receives the notice_  
+| _required under Section 11.45(e)_.  
+|  SECTION 9. Section 403.302(d), Government Code, is amended  
+| to read as follows:  
+|  (d) For the purposes of this section, "taxable value" means  
+| the market value of all taxable property less:  
+|  (1) the total dollar amount of any residence homestead  
+| exemptions lawfully granted under Section 11.13(b) or (c), Tax  
+| Code, in the year that is the subject of the study for each school  
+| district;  
+|  (2) one-half of the total dollar amount of any  
+| residence homestead exemptions granted under Section 11.13(n), Tax  
+| Code, in the year that is the subject of the study for each school  
+| district;  
+|  (3) the total dollar amount of any exemptions granted  
+| before May 31, 1993, within a reinvestment zone under agreements  
+| authorized by Chapter 312, Tax Code;  
+|  (4) subject to Subsection (e), the total dollar amount  
+| of any captured appraised value of property that:  
+|  (A) is within a reinvestment zone created on or  
+| before May 31, 1999, or is proposed to be included within the  
+| boundaries of a reinvestment zone as the boundaries of the zone and  
+| the proposed portion of tax increment paid into the tax increment  
+| fund by a school district are described in a written notification  
+| provided by the municipality or the board of directors of the zone  
+| to the governing bodies of the other taxing units in the manner  
+| provided by former Section 311.003(e), Tax Code, before May 31,  
+| 1999, and within the boundaries of the zone as those boundaries  
+| existed on September 1, 1999, including subsequent improvements to  
+| the property regardless of when made;  
+|  (B) generates taxes paid into a tax increment  
+| fund created under Chapter 311, Tax Code, under a reinvestment zone  
+| financing plan approved under Section 311.011(d), Tax Code, on or  
+| before September 1, 1999; and  
+|  (C) is eligible for tax increment financing under  
+| Chapter 311, Tax Code;  
+|  (5) the total dollar amount of any captured appraised  
+| value of property that:  
+|  (A) is within a reinvestment zone:  
+|  (i) created on or before December 31, 2008,  
+| by a municipality with a population of less than 18,000; and  
+|  (ii) the project plan for which includes  
+| the alteration, remodeling, repair, or reconstruction of a  
+| structure that is included on the National Register of Historic  
+| Places and requires that a portion of the tax increment of the zone  
+| be used for the improvement or construction of related facilities  
+| or for affordable housing;  
+|  (B) generates school district taxes that are paid  
+| into a tax increment fund created under Chapter 311, Tax Code; and  
+|  (C) is eligible for tax increment financing under  
+| Chapter 311, Tax Code;  
+|  (6) the total dollar amount of any exemptions granted  
+| under Section 11.251 or 11.253, Tax Code;  
+|  (7) the difference between the comptroller's estimate  
+| of the market value and the productivity value of land that  
+| qualifies for appraisal on the basis of its productive capacity,  
+| except that the productivity value estimated by the comptroller may  
+| not exceed the fair market value of the land;  
+|  (8) the portion of the appraised value of residence  
+| homesteads of individuals who receive a tax limitation under  
+| Section 11.26, Tax Code, on which school district taxes are not  
+| imposed in the year that is the subject of the study, calculated as  
+| if the residence homesteads were appraised at the full value  
+| required by law;  
+|  (9) a portion of the market value of property not  
+| otherwise fully taxable by the district at market value because of:  
+|  (A) action required by statute or the  
+| constitution of this state, other than Section 11.311, Tax Code,  
+| that, if the tax rate adopted by the district is applied to it,  
+| produces an amount equal to the difference between the tax that the  
+| district would have imposed on the property if the property were  
+| fully taxable at market value and the tax that the district is  
+| actually authorized to impose on the property, if this subsection  
+| does not otherwise require that portion to be deducted; or  
+|  (B) action taken by the district under Subchapter  
+| B or C, Chapter 313, Tax Code, before the expiration of the  
+| subchapter;  
+|  (10) the market value of all tangible personal  
+| property, other than manufactured homes, owned by a family or  
+| individual and not held or used for the production of income;  
+|  (11) the appraised value of property the collection of  
+| delinquent taxes on which is deferred under Section 33.06, Tax  
+| Code;  
+|  (12) the portion of the appraised value of property  
+| the collection of delinquent taxes on which is deferred under  
+| Section 33.065, Tax Code; [ ~~and~~ ]  
+|  (13) the amount by which the market value of a  
+| residence homestead to which Section 23.23, Tax Code, applies  
+| exceeds the appraised value of that property as calculated under  
+| that section _; and_  
+|  _(14)_ _____the total dollar amount of any exemptions granted_  
+| _under Section 11.35, Tax Code_.  
+|  SECTION 10. Chapter 140, Local Government Code, is amended  
+| by adding Section 140.012 to read as follows:  
+|  _Sec._ ___140.012._ _____DISASTER EXEMPTION ASSISTANCE PAYMENTS. (a)_  
+| _In this section, "taxing unit" and "tax year" have the meanings_  
+| _assigned by Section 1.04, Tax Code._  
+|  _(b)_ _____A taxing unit is entitled to a disaster exemption_  
+| _assistance payment from the state if the taxing unit pays a refund_  
+| _to a person under Section 11.35, Tax Code, as a result of an_  
+| _exemption granted under that section._  
+|  _(c)_ _____The amount of the disaster exemption assistance payment_  
+| _is calculated by adding the total amount of each refund the taxing_  
+| _unit pays under Section 11.35, Tax Code, in the tax year for which_  
+| _the disaster exemption assistance payment is sought._  
+|  _(d)_ _____Not later than April 1 of the year following the tax year_  
+| _for which the disaster exemption assistance payment is sought, the_  
+| _taxing unit may submit an application to the comptroller to receive_  
+| _a disaster exemption assistance payment for that tax year. The_  
+| _application must be made on a form prescribed by the comptroller._  
+|  _(e)_ _____A taxing unit that does not submit an application to the_  
+| _comptroller by the date prescribed by Subsection (d) is not_  
+| _entitled to a disaster exemption assistance payment for the tax_  
+| _year for which the deadline applies._  
+|  _(f)_ _____The comptroller shall review each application by a_  
+| _taxing unit to determine whether the taxing unit is entitled to a_  
+| _disaster exemption assistance payment. If the comptroller_  
+| _determines that the taxing unit is entitled to the payment, the_  
+| _comptroller shall remit the payment from available funds to the_  
+| _taxing unit not later than the 30th day after the date the_  
+| _application for the payment is made._  
+|  _(g)_ _____The comptroller may adopt rules to implement and_  
+| _administer this section._  
+|  SECTION 11. Section 23.02, Tax Code, is repealed.  
+|  SECTION 12. Section 11.35, Tax Code, as added by this Act,  
+| applies only to ad valorem taxes imposed for a tax year that begins  
+| on or after the effective date of this Act.  
+|  SECTION 13. This Act takes effect January 1, 2020, but only  
+| if the constitutional amendment proposed by the 86th Legislature,  
+| Regular Session, 2019, authorizing the legislature to provide for a  
+| temporary local option exemption from ad valorem taxation of a  
+| portion of the appraised value of certain property damaged by a  
+| disaster and to provide for reimbursement of a political  
+| subdivision by the state for refunds the political subdivision pays  
+| to taxpayers as a result of the exemption is approved by the voters.  
+| If that amendment is not approved by the voters, this Act has no  
+| effect.
+

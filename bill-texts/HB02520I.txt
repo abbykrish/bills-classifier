@@ -1,0 +1,101 @@
+| 86R12010 JES-F  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 2520  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to disclosures by certain health benefit plans to  
+| enrollees regarding certain preauthorized medical care and health  
+| care services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter F, Chapter 843, Insurance Code, is  
+| amended by adding Section 843.2025 to read as follows:  
+|  _Sec._ ___843.2025._ _____DISCLOSURES CONCERNING CERTAIN_  
+| _PREAUTHORIZED SERVICES. (a) In this section:_  
+|  _(1)_ _____"Elective health care service" means a covered_  
+| _health care service that is scheduled in advance._  
+|  _(2) "Licensed medical facility" means:_  
+|  _(A)_ _____a hospital licensed under Chapter 241, Health_  
+| _and Safety Code;_  
+|  _(B)_ _____an ambulatory surgical center licensed under_  
+| _Chapter 243, Health and Safety Code; or_  
+|  _(C)_ _____a birthing center licensed under Chapter 244,_  
+| _Health and Safety Code._  
+|  _(3)_ _____"Preauthorization"_ ___has the meaning assigned by_  
+| _Section 843.348._  
+|  _(b)_ _____If a health maintenance organization preauthorizes an_  
+| _elective health care service to be provided at a licensed medical_  
+| _facility, the health maintenance organization shall, within a_  
+| _reasonable period before the date the health care service is_  
+| _scheduled to be performed, provide to the enrollee:_  
+|  _(1)_ _____a statement of the name and network status of any_  
+| _facility-based physician or provider that the health maintenance_  
+| _organization reasonably expects will provide and charge for the_  
+| _preauthorized service;_  
+|  _(2) an estimate of:_  
+|  _(A)_ _____the payment that will be made for the_  
+| _preauthorized service; and_  
+|  _(B)_ _____the enrollee's financial responsibility for_  
+| _the preauthorized service, including any copayment or other_  
+| _out-of-pocket amount for which the enrollee is responsible;_  
+|  _(3)_ _____a statement that the actual charges and payment_  
+| _for the health care service and the enrollee's financial_  
+| _responsibility for the health care service may vary from the_  
+| _estimate provided by the health maintenance organization based on_  
+| _the enrollee's medical condition and other factors associated with_  
+| _the performance of the health care service; and_  
+|  _(4)_ _____a statement that the enrollee may be personally_  
+| _liable for the amount charged for health care services provided to_  
+| _the enrollee depending on the enrollee's health benefit plan_  
+| _coverage._  
+|  _(c)_ _____A general statement that some facility-based physicians_  
+| _or providers may be out-of-network does not satisfy the notice_  
+| _requirement of Subsection (b)._  
+|  SECTION 2. Subchapter C-1, Chapter 1301, Insurance Code, is  
+| amended by adding Section 1301.1355 to read as follows:  
+|  _Sec._ ___1301.1355._ _____DISCLOSURES CONCERNING CERTAIN_  
+| _PREAUTHORIZED SERVICES. (a) In this section:_  
+|  _(1)_ _____"Elective medical care or health care service"_  
+| _means a covered medical care or health care service that is_  
+| _scheduled in advance._  
+|  _(2) "Licensed medical facility" means:_  
+|  _(A)_ _____a hospital licensed under Chapter 241, Health_  
+| _and Safety Code;_  
+|  _(B)_ _____an ambulatory surgical center licensed under_  
+| _Chapter 243, Health and Safety Code; or_  
+|  _(C)_ _____a birthing center licensed under Chapter 244,_  
+| _Health and Safety Code._  
+|  _(b)_ _____If an insurer preauthorizes an elective medical care or_  
+| _health care service to be provided at a licensed medical facility,_  
+| _the insurer shall, within a reasonable period before the date the_  
+| _medical care or health care service is scheduled to be performed,_  
+| _provide to the insured:_  
+|  _(1)_ _____a statement of the name and network status of any_  
+| _facility-based physician or health care provider that the insurer_  
+| _reasonably expects will provide and charge for the preauthorized_  
+| _service;_  
+|  _(2) an estimate of:_  
+|  _(A)_ _____the payment that will be made for the_  
+| _preauthorized service; and_  
+|  _(B)_ _____the insured's financial responsibility for_  
+| _the preauthorized service, including any copayment, coinsurance,_  
+| _deductible, or other out-of-pocket amount for which the insured is_  
+| _responsible;_  
+|  _(3)_ _____a statement that the actual charges and payment_  
+| _for the medical care or health care service and the insured's_  
+| _financial responsibility for the medical care or health care_  
+| _service may vary from the estimate provided by the insurer based on_  
+| _the insured's medical condition and other factors associated with_  
+| _the performance of the medical care or health care service; and_  
+|  _(4)_ _____a statement that the insured may be personally_  
+| _liable for the amount charged for medical care or health care_  
+| _services provided to the insured depending on the insured's health_  
+| _benefit plan coverage._  
+|  _(c)_ _____A general statement that some facility-based physicians_  
+| _or health care providers may be out-of-network does not satisfy the_  
+| _notice requirement of Subsection (b)._  
+|  SECTION 3. The changes in law made by this Act apply only to  
+| a health benefit plan that is delivered, issued for delivery, or  
+| renewed on or after January 1, 2020.  
+|  SECTION 4. This Act takes effect January 1, 2020.
+

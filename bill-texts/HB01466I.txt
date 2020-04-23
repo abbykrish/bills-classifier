@@ -1,0 +1,42 @@
+|  
+---|---  
+|  By: Murr | H.B. No. 1466  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to repairs to be completed by telecommunications utility  
+| providers during a state declared disaster.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 52.104, Texas Utilities Code, is amended  
+| by adding Section 52.104 (4) as follows:  
+|  Section 52.104. COMMISSION MAY INVESTIGATE  
+|  _(4)_ _____"As established by commission rule, complaints received_  
+| _by the commission regarding a specific telecommunications utility_  
+| _provider's response to repairs, maintenance and restoration of_  
+| _service to areas affected by an event constituting a state declared_  
+| _disaster or emergency shall be investigated by the commission in_  
+| _conjunction with the Texas Office of Attorney General. A report of_  
+| _the investigation shall be submitted to the commission, the Federal_  
+| _Communications Commission or successor regulatory agency, and made_  
+| _available to the public within ninety (90) days of the notice of the_  
+| _complaint._  
+|  _(a)_ _____Based on findings of fact from this investigation, the_  
+| _commission shall impose monetary penalties and other enforcement_  
+| _actions deemed appropriate, with a minimum amount assessed at_  
+| _$1,000 per occurrence or per day, whichever is greater._ ___The_  
+| _commission may also recommend criminal charges be pursued._  
+|  _(b)_ _____The commission may adopt establish rules and guidelines_  
+| _for lengths of time deemed appropriate to reasonably make repairs_  
+| _and restore telecommunications service for counties having a_  
+| _population of 50,000 or less, but the maximum permitted time to_  
+| _restore service shall be ten (10) working days._ ___A_  
+| _telecommunications provider may petition the commission for an_  
+| _extension of this time frame. Any telecommunications provider_  
+| _seeking an extension of the time frame shall provide notice to its_  
+| _affected customers, by way of notice provisions and requirements_  
+| _promulgated by the commission._  
+|  _(c)_ _____For purposes of this section, complaints shall include_  
+| _any complaint relating to any conduct or state declared disaster or_  
+| _emergency occurring after January 1, 2018._  
+|  SECTION 2. This ACT takes effect on September 1, 2019.
+

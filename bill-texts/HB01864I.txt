@@ -1,0 +1,739 @@
+| 86R8958 SMT-F  
+---|---  
+|  By: Smithee | H.B. No. 1864  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Texas Life and Health Insurance Guaranty  
+| Association.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 463.002, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 463.002. PURPOSE. The purpose of this chapter is to  
+| protect, subject to certain limitations, a person specified by  
+| Section 463.201 against failure in the performance of a contractual  
+| obligation under a life, accident, [ ~~or~~ ] health _,_ [ ~~insurance
+policy~~ ]  
+| or annuity _policy, plan, or_ contract with respect to which this  
+| chapter provides coverage as determined under Subchapter E, because  
+| of the impairment or insolvency of the member insurer that issued  
+| the policy _, plan,_ or contract.  
+|  SECTION 2. Section 463.003, Insurance Code, is amended by  
+| amending Subdivisions (4), (7-a), and (9) and adding Subdivisions  
+| (4-a), (4-b), (5-a), and (6-a) to read as follows:  
+|  (4) "Covered policy" _or "covered contract"_ means a  
+| policy or contract, or portion of a policy or contract, _including a_  
+| _health maintenance organization contract,_ with respect to which  
+| this chapter provides coverage as determined under Subchapter E.  
+|  _(4-a) "Enrollee" means an individual who is enrolled in_  
+| _a health maintenance organization contract with respect to which_  
+| _this chapter provides coverage as determined under Subchapter E._ __  
+| _For purposes of this chapter, an enrollee is considered to be an_  
+| _insured._  
+|  _(4-b)_ _____"Health benefit plan" means a hospital and_  
+| _medical expense incurred policy or certificate, health maintenance_  
+| _organization enrollee contract, or any other similar health_  
+| _contract._ ___The term does not include:_  
+|  _(A) accident-only insurance;_  
+|  _(B) credit insurance;_  
+|  _(C) dental-only insurance;_  
+|  _(D) vision-only insurance;_  
+|  _(E) Medicare supplement insurance;_  
+|  _(F)_ _____long-term care coverage or benefits, home_  
+| _health care coverage or benefits, community-based care coverage or_  
+| _benefits, or any combination of those coverages or benefits;_  
+|  _(G) disability income insurance;_  
+|  _(H) coverage for on-site medical clinics; or_  
+|  _(I)_ _____specified disease, hospital confinement_  
+| _indemnity, or limited benefit health insurance coverage if the_  
+| _types of coverage do not provide coordination of benefits and are_  
+| _provided under separate policies or certificates._  
+|  _(5-a)_ _____"Insurance"_ ___includes health benefit plan_  
+| _coverage._  
+|  _(6-a)_ _____"Insurer" includes a health maintenance_  
+| _organization._  
+|  (7-a) "Owner" means the owner of a policy or contract  
+| and _"policyholder,"_ "policy owner _,_ " and "contract owner" mean the  
+| person who is identified as the legal owner under the terms of the  
+| policy or contract or who is otherwise vested with legal title to  
+| the policy or contract through a valid assignment completed in  
+| accordance with the terms of the policy or contract and is properly  
+| recorded as the owner on the books of the _member_ insurer.  The terms  
+| "owner," "contract owner," _"policyholder,"_ and "policy owner" do  
+| not include persons with a mere beneficial interest in a policy or  
+| contract.  
+|  (9) "Premium" means an amount received on a covered  
+| policy, less any premium, consideration, or deposit returned on the  
+| policy, and any dividend or experience credit on the policy.  The  
+| term does not include:  
+|  (A) an amount received for a policy or contract  
+| or part of a policy or contract for which coverage is not provided  
+| under Section 463.202, except that assessable premiums may not be  
+| reduced because of:  
+|  (i) an interest limitation provided by  
+| Section 463.203(b)(3); or  
+|  (ii) a limitation provided by Section  
+| 463.204 with respect to a single individual, participant,  
+| annuitant, or _policy or_ contract owner;  
+|  (B) premiums in excess of $5 million on an  
+| unallocated annuity contract not issued under a governmental  
+| benefit plan established under Section 401, 403(b), or 457,  
+| Internal Revenue Code of 1986;  
+|  (C) premiums received from the state treasury or  
+| the United States treasury for insurance for which this state or the  
+| United States contracts to:  
+|  (i) provide welfare benefits to designated  
+| welfare recipients; or  
+|  (ii) implement _:_  
+|  _(a) Title 2, Health and Safety Code;_  
+|  _(b)_ Title 2, Human Resources Code _;_ [ ~~,~~ ]  
+| or  
+|  _(c)_ the Social Security Act (42 U.S.C.  
+| Section 301 et seq.); or  
+|  (D) premiums in excess of $5 million with respect  
+| to multiple nongroup policies of life insurance owned by one owner,  
+| regardless of whether the policy owner is an individual, firm,  
+| corporation, or other person and regardless of whether the persons  
+| insured are officers, managers, employees, or other persons,  
+| regardless of the number of policies or contracts held by the owner.  
+|  SECTION 3. Subchapter A, Chapter 463, Insurance Code, is  
+| amended by adding Sections 463.0032 and 463.007 to read as follows:  
+|  _Sec._ ___463.0032._ _____USE OF TERMS POLICY AND CONTRACT. For_  
+| _purposes of this chapter, "policy" and "contract"_ ___have the same_  
+| _meaning._  
+|  _Sec._ ___463.007._ _____CONSTRUCTION OF LONG-TERM CARE RIDER. For_  
+| _purposes of this chapter, benefits provided by a long-term care_  
+| _rider to a life insurance policy or annuity contract are considered_  
+| _to be the same type of benefits as the base life insurance policy or_  
+| _annuity contract._  
+|  SECTION 4. Section 463.052, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 463.052. REQUIRED PARTICIPATION IN ASSOCIATION. (a)  
+| As a condition of engaging in the business of insurance in this  
+| state, an insurer, including a mutual assessment company, a local  
+| mutual aid association, a statewide mutual assessment company,  
+| [ ~~and~~ ] a stipulated premium company _, and a health maintenance_  
+| _organization_ authorized to engage in business in this state, shall  
+| participate as a member of the association if the insurer holds a  
+| certificate of authority to engage in a kind of insurance business  
+| in this state with respect to which this chapter provides coverage  
+| as determined under Subchapter E.  The requirement to participate  
+| applies regardless of whether the insurer's certificate of  
+| authority in this state is suspended, revoked, not renewed, or  
+| voluntarily withdrawn.  
+|  (b) The following do not participate as member insurers:  
+|  (1) [ ~~a health maintenance organization;~~  
+|  [ ~~(2)~~ ] a fraternal benefit society;  
+|  _(2)_ [ ~~(3)~~ ] a mandatory state pooling plan;  
+|  _(3)_ [ ~~(4)~~ ] a reciprocal or interinsurance exchange;  
+|  _(4)_ [ ~~(5)~~ ] an organization which has a certificate of  
+| authority or license limited to the issuance of charitable gift  
+| annuities, as defined by this code or rules adopted by the  
+| commissioner; and  
+|  _(5)_ [ ~~(6)~~ ] an entity similar to an entity described by  
+| Subdivision (1), (2), (3), _or_ (4)[ ~~, or (5)~~ ].  
+|  SECTION 5. Section 463.053, Insurance Code, is amended by  
+| adding Subsection (c-1) to read as follows:  
+|  _(c-1)_ _____The commissioner shall consider, among other things,_  
+| _whether the directors appointed under Subsections (b) and (c)_  
+| _fairly represent the member insurers that are health maintenance_  
+| _organizations and life, health, and annuity insurers._  
+|  SECTION 6. Sections 463.059(a), (c), and (f), Insurance  
+| Code, are amended to read as follows:  
+|  (a) Notwithstanding Chapter 551, Government Code, or any  
+| other law, the board or a committee of the board may meet by  
+| telephone conference call, videoconference, or other similar  
+| telecommunication method [ ~~if immediate action is required and~~  
+|  ~~convening a quorum of the board or committee of the board at a~~  
+|  ~~single location is not reasonable or practical.~~ ~~~~ ~~A board or~~  
+|  ~~committee member who is unable to attend a meeting in person and who~~  
+|  ~~is participating in a board or committee meeting by telephone~~  
+|  ~~conference call, videoconference, or other similar~~  
+|  ~~telecommunication method may be counted to establish a quorum and~~  
+|  ~~may vote~~ ].  _The board may use telephone conference call,_  
+| _videoconference, or other similar telecommunication method for_  
+| _establishing a quorum, voting, or any other meeting purpose in_  
+| _accordance with this section regardless of the subject matter_  
+| _discussed or considered by the board at the meeting._  
+|  (c) The notice of a meeting authorized by this section must  
+| specify [ ~~that~~ ] the location of the meeting [ ~~is the location at
+which~~  
+|  ~~meetings of the board and committees of the board are usually held~~ ].  
+|  (f) An audio or digital recording of a meeting authorized by  
+| this section must be made in accordance with the association's  
+| bylaws.  The recording of the open portion of the meeting must be  
+| _posted on the association's Internet website_ [ ~~made available to the~~  
+|  ~~public~~ ].  
+|  SECTION 7. Section 463.101(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) The association may:  
+|  (1) enter into contracts as necessary or proper to  
+| carry out this chapter and the purposes of this chapter;  
+|  (2) sue or be sued, including taking:  
+|  (A) necessary or proper legal action to:  
+|  (i) recover an unpaid assessment under  
+| Subchapter D; or  
+|  (ii) settle a claim or potential claim  
+| against the association; or  
+|  (B) necessary legal action to avoid payment of an  
+| improper claim;  
+|  (3) borrow money to effect the purposes of this  
+| chapter;  
+|  (4) exercise, for the purposes of this chapter and to  
+| the extent approved by the commissioner, the powers of a domestic  
+| life, accident, or health insurance company _, a health maintenance_  
+| _organization,_ or a group hospital service corporation, except that  
+| the association may not issue an insurance policy or annuity  
+| contract other than to perform the association's obligations under  
+| this chapter;  
+|  (5) _unless prohibited by other law, implement or file_  
+| _for an actuarially justified rate or premium increase in accordance_  
+| _with the terms and conditions of a covered policy or contract;_  
+|  _(6)_ to further the association's purposes, exercise  
+| the association's powers, and perform the association's duties,  
+| join an organization of one or more state associations that have  
+| similar purposes;  
+|  _(7)_ [ ~~(6)~~ ] request information from a person seeking  
+| coverage from the association in determining its obligations under  
+| this chapter with respect to the person, and the person shall  
+| promptly comply with the request; and  
+|  _(8)_ [ ~~(7)~~ ] take any other necessary or appropriate  
+| action to discharge the association's duties and obligations under  
+| this chapter or to exercise the association's powers under this  
+| chapter.  
+|  SECTION 8. Section 463.102(b), Insurance Code, is amended  
+| to read as follows:  
+|  (b) The association may amend the plan of operation.  An  
+| amendment must be approved by the commissioner and takes effect on:  
+|  (1) the date the commissioner approves the amendment;  
+| or  
+|  (2) the _60th_ [ ~~30th~~ ] day after the date the amendment is  
+| submitted to the commissioner for approval, if the commissioner  
+| does not approve or disapprove the amendment before the _60th_ [ ~~30th~~ ]  
+| day.  
+|  SECTION 9. Section 463.109, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 463.109. ASSOCIATION APPEARANCE BEFORE COURT;  
+| INTERVENTION. (a) The association may appear before a court in  
+| this state with jurisdiction over an impaired or insolvent insurer  
+| concerning which the association is or may become obligated under  
+| this chapter.  The association's right to appear applies to:  
+|  (1) a proposal for reinsuring, _reissuing,_ modifying,  
+| or guaranteeing the insurer's policies or contracts;  
+|  (2) the determination of the insurer's policies or  
+| contracts and contractual obligations; and  
+|  (3) any other matter germane to the association's  
+| powers and duties.  
+|  (b) The association may appear or intervene before a court  
+| in another state with jurisdiction over:  
+|  (1) an impaired or insolvent insurer concerning which  
+| the association is or may become obligated; or  
+|  (2) a third party against whom the association may  
+| have rights through subrogation of the insurer's policyholders _or_  
+| _enrollees_.  
+|  SECTION 10. Sections 463.114(c), (d), and (e), Insurance  
+| Code, are amended to read as follows:  
+|  (c) At the expiration of the 60th day after approval of the  
+| document, _a member_ [ ~~an~~ ] insurer may not deliver a policy or contract  
+| with respect to which this chapter provides coverage as determined  
+| under Subchapter E to a policy _,_ [ ~~or~~ ] contract _, or certificate_  
+| holder _or enrollee_ before a copy of the summary document is  
+| delivered to the policy _,_ [ ~~or~~ ] contract _, or certificate_ holder
+_or_  
+| _enrollee_. The document must also be available on request of a  
+| _policy, contract, or certificate holder or enrollee_  
+| [ ~~policyholder~~ ].  
+|  (d) The distribution, delivery, content, or interpretation  
+| of a summary document does not guarantee that a policy or contract  
+| or a policy _,_ [ ~~or~~ ] contract _, or certificate_ holder _or enrollee_
+is  
+| provided coverage by this chapter if a member insurer becomes  
+| impaired or insolvent.  Failure to receive the document does not  
+| give an insured or policy, contract, or certificate holder _or_  
+| _enrollee_ any rights greater than those provided by this chapter.  
+|  (e) An insurer or agent may not deliver a policy or contract  
+| described by Section 463.202 that is excluded from the coverage  
+| provided by this chapter by Section 463.203 unless the insurer or  
+| agent, either before or in conjunction with delivery, gives the  
+| policy _,_ [ ~~or~~ ] contract _, or certificate_ holder _or enrollee_ a
+separate  
+| written notice clearly and conspicuously disclosing that the policy  
+| or contract is not covered by the association.  
+|  SECTION 11. Section 463.153, Insurance Code, is amended by  
+| amending Subsections (b) and (c) and adding Subsection (b-1) to  
+| read as follows:  
+|  (b) Class B assessments _on_ [ ~~against~~ ] a member insurer for  
+| each account under Section 463.105 shall be authorized and called  
+| in the proportion that the premiums received on business in this  
+| state by the _member_ insurer on policies or contracts covered by each  
+| account for the three most recent calendar years for which  
+| information is available preceding the year in which the _impaired_  
+| _or insolvent member_ insurer became impaired or insolvent bear to  
+| premiums received on business in this state for those calendar  
+| years by all assessed member insurers.  _Except for assessments_  
+| _related to long-term care insurance as described by Subsection_  
+| _(b-1), the_ [ ~~The~~ ] amount of a Class B assessment shall be allocated  
+| among the separate accounts in accordance with an allocation  
+| formula that may be based on:  
+|  (1) the premiums or reserves of the impaired or  
+| insolvent insurer; or  
+|  (2) any other standard deemed by the board in the  
+| board's sole discretion as being fair and reasonable under the  
+| circumstances.  
+|  _(b-1)_ _____The amount of a Class B assessment for long-term care_  
+| _insurance written by an impaired or insolvent member insurer shall_  
+| _be allocated according to a methodology included in the plan of_  
+| _operation and approved by the commissioner. The methodology must_  
+| _provide for 50 percent of the assessment to be allocated to accident_  
+| _and health member insurers and 50 percent to be allocated to life_  
+| _and annuity member insurers. This subsection does not apply to a_  
+| _rider to a member insurer's life insurance policy or annuity_  
+| _contract that provides long-term care benefits._  
+|  (c) The total amount of assessments on a member insurer for  
+| each account under Section 463.105 may not in one calendar year  
+| exceed two percent of the insurer's average annual premiums on the  
+| policies covered by the account during the three calendar years  
+| preceding the year in which the _impaired or insolvent member_  
+| insurer became an impaired or insolvent insurer.  If two or more  
+| assessments are authorized in a calendar year with respect to  
+| _member_ insurers that become impaired or insolvent in different  
+| calendar years, the average annual premiums for purposes of the  
+| aggregate assessment percentage limitation described by this  
+| subsection shall be equal to the higher of the three-year average  
+| annual premiums for the applicable subaccount or account as  
+| computed in accordance with this section.  If the maximum  
+| assessment and the other assets of the association do not provide in  
+| a year an amount sufficient to carry out the association's  
+| responsibilities, the association shall make necessary additional  
+| assessments as soon as this chapter permits.  
+|  SECTION 12. Sections 463.154 and 463.201, Insurance Code,  
+| are amended to read as follows:  
+|  Sec. 463.154. DEFERMENT. The association may wholly or  
+| partly defer an assessment _on_ [ ~~of~~ ] a member insurer if the  
+| association believes payment of the assessment would endanger the  
+| ability of the insurer to fulfill the insurer's contractual  
+| obligations.  The amount of the assessment that is deferred may be  
+| assessed against the other member insurers in a manner consistent  
+| with this subchapter.  
+|  Sec. 463.201. _PERSONS_ [ ~~INSUREDS~~ ] COVERED. (a) Subject to  
+| Subsections (b) and (c), this chapter provides coverage for a  
+| policy or contract described by Section 463.202 to a person who is:  
+|  (1) a person, other than a certificate holder under a  
+| group policy or contract who is not a resident, who is a  
+| beneficiary, assignee, or payee _, including a health care provider_  
+| _who renders services covered under a health insurance policy or_  
+| _certificate,_ of a person described by Subdivision (2);  
+|  (2) a person who is an owner of or certificate holder __  
+| _or enrollee_ under a policy or contract specified by Section  
+| 463.202, other than an unallocated annuity contract or structured  
+| settlement annuity, and who is:  
+|  (A) a resident; or  
+|  (B) not a resident, but only under all of the  
+| following conditions:  
+|  (i) the _member_ insurers that issued the  
+| policies or contracts are domiciled in this state;  
+|  (ii) the state in which the person resides  
+| has an association similar to the association; and  
+|  (iii) the person is not eligible for  
+| coverage by an association in any other state because the insurer _or_  
+| _health maintenance organization_ was not licensed in the state at  
+| the time specified in that state's guaranty association law;  
+|  (3) a person who is the owner of an unallocated annuity  
+| contract issued to or in connection with:  
+|  (A) a benefit plan whose plan sponsor has the  
+| sponsor's principal place of business in this state; or  
+|  (B) a government lottery, if the owner is a  
+| resident; or  
+|  (4) a person who is the payee under a structured  
+| settlement annuity, or beneficiary of the payee if the payee is  
+| deceased, if:  
+|  (A) the payee is a resident, regardless of where  
+| the contract owner resides;  
+|  (B) the payee is not a resident, the contract  
+| owner of the structured settlement annuity is a resident, and the  
+| payee is not eligible for coverage by the association in the state  
+| in which the payee resides; or  
+|  (C) the payee and the contract owner are not  
+| residents, the insurer that issued the structured settlement  
+| annuity is domiciled in this state, the state in which the contract  
+| owner resides has an association similar to the association, and  
+| neither the payee or, if applicable, the payee's beneficiary, nor  
+| the contract owner is eligible for coverage by the association in  
+| the state in which the payee or contract owner resides.  
+|  (b) This chapter does not provide coverage to:  
+|  (1) a person who is a payee or the beneficiary of a  
+| payee with respect to a contract the owner of which is a resident of  
+| this state, if the payee or the payee's beneficiary is afforded any  
+| coverage by the association of another state; [ ~~or~~ ]  
+|  (2) a person otherwise described by Subsection (a)(3),  
+| if any coverage is provided by the association of another state to  
+| that person _; or_  
+|  _(3)_ _____a person who acquires rights to receive payments_  
+| _through a structured settlement factoring transaction as defined by_  
+| _Section 5891(c)(3)(A), Internal Revenue Code of 1986 (26 U.S.C._  
+| _Section 5891(c)(3)(A)), regardless of whether the transaction_  
+| _occurred before, on, or after the date that section became_  
+| _effective_.  
+|  (c) This chapter is intended to provide coverage to persons  
+| who are residents of this state, and in those limited circumstances  
+| as described in this chapter, to nonresidents.  In order to avoid  
+| duplicate coverage, if a person who would otherwise receive  
+| coverage under this chapter is provided coverage under the laws of  
+| any other state, the person may not be provided coverage under this  
+| chapter.  In determining the application of the provisions of this  
+| subsection in situations in which a person could be covered by the  
+| association of more than one state, whether as an owner, payee,  
+| _enrollee,_ beneficiary, or assignee, this chapter shall be construed  
+| in conjunction with other state laws to result in coverage by only  
+| one association.  
+|  SECTION 13. Section 463.202(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) Except as limited by this chapter, the coverage provided  
+| by this chapter to a person specified by Section 463.201, subject to  
+| Sections 463.201(b) and (c), applies with respect to the following  
+| policies and contracts issued by a member insurer:  
+|  (1) a direct, nongroup life, health, accident,  
+| annuity, or supplemental policy or contract _, including a health_  
+| _maintenance organization contract or certificate_ ;  
+|  (2) a certificate under a direct group policy or  
+| contract;  
+|  (3) a group hospital service contract; and  
+|  (4) an unallocated annuity contract.  
+|  SECTION 14. Section 463.203, Insurance Code, is amended by  
+| amending Subsection (b) and adding Subsection (b-1) to read as  
+| follows:  
+|  (b) This chapter does not provide coverage for:  
+|  (1) any part of a policy or contract not guaranteed by  
+| the insurer or under which the risk is borne by the policy or  
+| contract owner;  
+|  (2) a policy or contract of reinsurance, unless an  
+| assumption certificate has been issued;  
+|  (3) any part of a policy or contract to the extent that  
+| the rate of interest on which that part is based:  
+|  (A) as averaged over the period of four years  
+| before the date the member insurer becomes impaired or insolvent  
+| under this chapter, whichever is earlier, exceeds a rate of  
+| interest determined by subtracting two percentage points from  
+| Moody's Corporate Bond Yield Average averaged for the same  
+| four-year period or for a lesser period if the policy or contract  
+| was issued less than four years before the date the member insurer  
+| becomes impaired or insolvent under this chapter, whichever is  
+| earlier; and  
+|  (B) on and after the date the member insurer  
+| becomes impaired or insolvent under this chapter, whichever is  
+| earlier, exceeds the rate of interest determined by subtracting  
+| three percentage points from Moody's Corporate Bond Yield Average  
+| as most recently available;  
+|  (4) a portion of a policy or contract issued to a plan  
+| or program of an employer, association, similar entity, or other  
+| person to provide life, health, or annuity benefits to the entity's  
+| employees, members, or others, to the extent that the plan or  
+| program is self-funded or uninsured, including benefits payable by  
+| an employer, association, or similar entity under:  
+|  (A) a multiple employer welfare arrangement as  
+| defined by Section 3, Employee Retirement Income Security Act of  
+| 1974 (29 U.S.C. Section 1002);  
+|  (B) a minimum premium group insurance plan;  
+|  (C) a stop-loss group insurance plan; or  
+|  (D) an administrative services-only contract;  
+|  (5) any part of a policy or contract to the extent that  
+| the part provides dividends, experience rating credits, or voting  
+| rights, or provides that fees or allowances be paid to any person,  
+| including the policy or contract owner, in connection with the  
+| service to or administration of the policy or contract;  
+|  (6) a policy or contract issued in this state by a  
+| member insurer at a time the insurer was not authorized to issue the  
+| policy or contract in this state;  
+|  (7) an unallocated annuity contract issued to or in  
+| connection with a benefit plan protected under the federal Pension  
+| Benefit Guaranty Corporation, regardless of whether the Pension  
+| Benefit Guaranty Corporation has not yet become liable to make any  
+| payments with respect to the benefit plan;  
+|  (8) any part of an unallocated annuity contract that  
+| is not issued to or in connection with a specific employee, a  
+| benefit plan for a union or association of individuals, or a  
+| governmental lottery;  
+|  (9) any part of a financial guarantee, funding  
+| agreement, or guaranteed investment contract that:  
+|  (A) does not contain a mortality guarantee; and  
+|  (B) is not issued to or in connection with a  
+| specific employee, a benefit plan, or a governmental lottery;  
+|  (10) a part of a policy or contract to the extent that  
+| the assessments required by Subchapter D with respect to the policy  
+| or contract are preempted by federal or state law;  
+|  (11) a contractual agreement that established the  
+| member insurer's obligations to provide a book value accounting  
+| guaranty for defined contribution benefit plan participants by  
+| reference to a portfolio of assets that is owned by the benefit plan  
+| or the plan's trustee in a case in which neither the benefit plan  
+| sponsor nor its trustee is an affiliate of the member insurer;  
+|  (12) a part of a policy or contract to the extent the  
+| policy or contract provides for interest or other changes in value  
+| that are to be determined by the use of an index or external  
+| reference stated in the policy or contract, but that have not been  
+| credited to the policy or contract, or as to which the policy or  
+| contract owner's rights are subject to forfeiture, as of the date  
+| the member insurer becomes an impaired or insolvent insurer under  
+| this chapter, whichever date is earlier, subject to Subsection (c);  
+| [ ~~or~~ ]  
+|  (13) a policy or contract providing a hospital,  
+| medical, prescription drug, or other health care benefit under 42  
+| U.S.C. Sections 1395w-21 et seq. and 1395w-101 et seq. (Medicare  
+| Parts C and D) _, 42 U.S.C. Sections 1396-1396w-5 (Medicaid), or 42_  
+| _U.S.C. Sections 1397aa-1397mm (State Children's Health Insurance_  
+| _Program)_ or a regulation adopted under those federal statutes _; or_  
+|  _(14)_ _____structured settlement annuity benefits to which a_  
+| _payee or beneficiary has transferred the payee's or beneficiary's_  
+| _rights in a structured settlement factoring transaction as defined_  
+| _by Section 5891(c)(3)(A), Internal Revenue Code of 1986 (26 U.S.C._  
+| _Section 5891(c)(3)(A)), regardless of whether the factoring_  
+| _transaction occurred before, on, or after the date that section_  
+| _became effective_.  
+|  _(b-1)_ _____The exclusion from coverage described by Subsection_  
+| _(b)(3) does not apply to any portion of a policy or contract,_  
+| _including a rider, that provides long-term care benefits or any_  
+| _other health insurance benefit._  
+|  SECTION 15. Section 463.204, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 463.204. OBLIGATIONS EXCLUDED.  A contractual  
+| obligation does not include:  
+|  (1) death benefits in an amount in excess of $300,000  
+| or a net cash surrender or net cash withdrawal value in an amount in  
+| excess of $100,000 under one or more _life insurance_ policies on a  
+| single life;  
+|  (2) an amount in excess of:  
+|  (A) $250,000 in the present value under one or  
+| more annuity contracts issued with respect to a single life under  
+| individual annuity policies or group annuity policies; or  
+|  (B) $5 million in unallocated annuity contract  
+| benefits with respect to a single contract owner regardless of the  
+| number of those contracts;  
+|  (3) an amount in excess of the following amounts,  
+| including any net cash surrender or cash withdrawal values, under  
+| one or more accident, health, accident and health, or long-term  
+| care insurance policies on a single life:  
+|  (A) $500,000 for _health benefit plans_ [ ~~basic~~  
+|  ~~hospital, medical-surgical, or major medical insurance, as those~~  
+|  ~~terms are defined by this code or rules adopted by the~~  
+|  ~~commissioner~~ ];  
+|  (B) $300,000 for disability _income_ and long-term  
+| care insurance, as those terms are defined by this code or rules  
+| adopted by the commissioner; or  
+|  (C) $200,000 for coverages that are not defined  
+| as _health benefit plans_ [ ~~basic hospital, medical-surgical, major~~  
+|  ~~medical~~ ], disability _income_ , or long-term care insurance;  
+|  (4) an amount in excess of $250,000 in present value  
+| annuity benefits, in the aggregate, including any net cash  
+| surrender and net cash withdrawal values, with respect to each  
+| individual participating in a governmental retirement benefit plan  
+| established under Section 401, 403(b), or 457, Internal Revenue  
+| Code of 1986 (26 U.S.C. Sections 401, 403(b), and 457), covered by  
+| an unallocated annuity contract or the beneficiary or beneficiaries  
+| of the individual if the individual is deceased;  
+|  (5) an amount in excess of $250,000 in present value  
+| annuity benefits, in the aggregate, including any net cash  
+| surrender and net cash withdrawal values, with respect to each  
+| payee of a structured settlement annuity or the beneficiary or  
+| beneficiaries of the payee if the payee is deceased;  
+|  (6) aggregate benefits in an amount in excess of  
+| $300,000 with respect to a single life, except with respect to:  
+|  (A) benefits paid under _health benefit plans_  
+| [ ~~basic hospital, medical-surgical, or major medical insurance~~  
+|  ~~policies~~ ], described by Subdivision (3)(A), in which case the  
+| aggregate benefits are $500,000; and  
+|  (B) benefits paid to one owner of multiple  
+| nongroup policies of life insurance, whether the policy owner is an  
+| individual, firm, corporation, or other person, and whether the  
+| persons insured are officers, managers, employees, or other  
+| persons, in which case the maximum benefits are $5 million  
+| regardless of the number of policies and contracts held by the  
+| owner;  
+|  (7) an amount in excess of $5 million in benefits, with  
+| respect to either one plan sponsor whose plans own directly or in  
+| trust one or more unallocated annuity contracts not included in  
+| Subdivision (4) irrespective of the number of contracts with  
+| respect to the contract owner or plan sponsor or one contract owner  
+| provided coverage under Section 463.201(a)(3)(B), except that, if  
+| one or more unallocated annuity contracts are covered contracts  
+| under this chapter and are owned by a trust or other entity for the  
+| benefit of two or more plan sponsors, coverage shall be afforded by  
+| the association if the largest interest in the trust or entity  
+| owning the contract or contracts is held by a plan sponsor whose  
+| principal place of business is in this state, and in no event shall  
+| the association be obligated to cover more than $5 million in  
+| benefits with respect to all these unallocated contracts;  
+|  (8) any contractual obligations of the insolvent or  
+| impaired insurer under a covered policy or contract that do not  
+| materially affect the economic value of economic benefits of the  
+| covered policy or contract; or  
+|  (9) punitive, exemplary, extracontractual, or bad  
+| faith damages, regardless of whether the damages are:  
+|  (A) agreed to or assumed by an insurer _,_ [ ~~or~~ ]  
+| insured _, or covered person_ ; or  
+|  (B) imposed by a court.  
+|  SECTION 16. Section 463.251(b), Insurance Code, is amended  
+| to read as follows:  
+|  (b) With the commissioner's approval, the association may:  
+|  (1) guarantee, assume, _reissue,_ or reinsure, or cause  
+| to be guaranteed, assumed, _reissued,_ or reinsured, one or more of  
+| the insurer's policies or contracts;  
+|  (2) provide money, pledges, notes, guarantees, or  
+| other means proper to:  
+|  (A) implement Subdivision (1); and  
+|  (B) ensure payment of the insurer's contractual  
+| obligations until action is taken under Subdivision (1); or  
+|  (3) loan money to the insurer.  
+|  SECTION 17. Section 463.252(c), Insurance Code, is amended  
+| to read as follows:  
+|  (c) A policy or contract owner _, certificate holder, or_  
+| _enrollee_ who claims emergency or hardship may petition for  
+| substitute benefits under standards the association proposes and  
+| the commissioner approves. Substitute benefits are available only  
+| for a health claim, periodic annuity benefit payment, death  
+| benefit, supplemental benefit, or cash withdrawal.  
+|  SECTION 18. Section 463.253(b), Insurance Code, is amended  
+| to read as follows:  
+|  (b) The association shall provide money, pledges,  
+| guarantees, or other means reasonably necessary to discharge the  
+| insurer's duties and to:  
+|  (1) guarantee, assume, _reissue,_ or reinsure, or cause  
+| to be guaranteed, assumed, _reissued,_ or reinsured, the insurer's  
+| policies or contracts; or  
+|  (2) ensure payment of the insurer's contractual  
+| obligations.  
+|  SECTION 19. Sections 463.254(b), (e), (f), (g), (h), and  
+| (i), Insurance Code, are amended to read as follows:  
+|  (b) The association, in accordance with Subsections (c) and  
+| (d), as applicable, shall ensure payment of benefits identical to  
+| the benefits that would have been payable under the policy or  
+| contract of the insurer[ ~~, at premiums identical to the premiums~~  
+|  ~~that would have been applicable under that policy or contract,~~  
+|  ~~except for terms of conversion and renewability~~ ].  
+|  (e) The association shall diligently attempt to provide  
+| each known insured _, enrollee,_ or group _policy or contract holder_  
+| [ ~~policyholder~~ ] with notice before the 30th day before the date the  
+| benefits are terminated.  
+|  (f) As provided by Subsections (g)-(i), the association  
+| shall make substitute coverage available on an individual basis to:  
+|  (1) each known insured _or enrollee_ under an individual  
+| policy, or the owner if other than the insured _or enrollee_ ; and  
+|  (2) each individual who:  
+|  (A) was formerly insured _or enrolled_ under a  
+| group policy or contract; and  
+|  (B) is not eligible for replacement group  
+| coverage.  
+|  (g) Substitute coverage is available for an individual  
+| policy under Subsection (f) only if the insured _, enrollee,_ or owner  
+| was entitled under law or the terminated policy to continue an  
+| individual policy in force until a specified age or for a specified  
+| period during which the insurer:  
+|  (1) was not entitled to unilaterally change a  
+| provision of the policy; or  
+|  (2) was entitled only to change a premium by class.  
+|  (h) Substitute coverage is available for a group policy or  
+| contract under Subsection (f) only if the formerly insured _or_  
+| _enrolled_ individual was entitled under law or the terminated policy  
+| or contract to convert group coverage to individual coverage.  
+|  (i) To provide substitute coverage under Subsection (f),  
+| the association may offer to reissue the terminated coverage or  
+| issue an alternative policy. The association shall offer the  
+| reissued or alternative policy without requiring evidence of  
+| insurability _, at actuarially justified rates_.  The reissued or  
+| alternative policy may not provide for a waiting period or  
+| exclusion that would not have applied under the terminated  
+| policy. The association may reinsure a reissued or alternative  
+| policy.  
+|  SECTION 20. Section 463.256(b), Insurance Code, is amended  
+| to read as follows:  
+|  (b) The association shall set the premium according to a  
+| table of rates the association adopts. The premium:  
+|  (1) must reflect:  
+|  (A) the amount of insurance provided; and  
+|  (B) each insured's _or enrollee's_ age and class of  
+| risk; and  
+|  (2) may not reflect any change in an insured's _or_  
+| _enrollee's_ health occurring after the original policy was most  
+| recently underwritten.  
+|  SECTION 21. Section 463.258, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 463.258. PREMIUM FOR REISSUANCE OF TERMINATED  
+| COVERAGE. If the association reissues terminated coverage at a  
+| premium different from the terminated policy's premium, the premium  
+| must:  
+|  (1) reflect the amount of insurance provided and the  
+| insured's _or enrollee's_ age and class of risk; and  
+|  (2) be approved by the commissioner or a court.  
+|  SECTION 22. Section 463.260(b), Insurance Code, is amended  
+| to read as follows:  
+|  (b) The association's obligations with respect to coverage  
+| under a policy of an impaired or insolvent insurer or under a  
+| reissued or alternative policy terminate on the date the coverage  
+| or policy is replaced by another similar policy by the  
+| policyholder, _the contract owner,_ the insured, _the enrollee,_ or the  
+| association.  
+|  SECTION 23. Sections 463.261(a) and (c), Insurance Code,  
+| are amended to read as follows:  
+|  (a) A person receiving a benefit under this chapter,  
+| including a payment of or on account of a contractual obligation,  
+| continuation of coverage, or provision of substitute or alternative  
+| coverage, is considered to have assigned to the association the  
+| rights under, and any cause of action relating to, the covered  
+| policy to the extent of the benefit received.  The association may  
+| require a payee, policy or contract owner, beneficiary, insured,  
+| _enrollee,_ or annuitant to assign the person's rights and cause of  
+| action to the association as a condition of receiving a right or  
+| benefit under this chapter.  
+|  (c) The association has all common law rights of subrogation  
+| and any other equitable or legal remedy that would have been  
+| available to the impaired or insolvent insurer or holder _,_  
+| _beneficiary, enrollee, or payee_ of a policy or contract with  
+| respect to the policy or contract.  
+|  SECTION 24. Section 463.304, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 463.304. DISTRIBUTION OF OWNERSHIP RIGHTS OF IMPAIRED  
+| OR INSOLVENT INSURER. In making an equitable distribution of the  
+| ownership rights of an impaired or insolvent insurer before the  
+| termination of a receivership, the court:  
+|  (1) shall consider the welfare of the policyholders _,_  
+| _contract owners, certificate holders, and enrollees_ of the  
+| continuing or successor insurer; and  
+|  (2) may consider the contributions of the respective  
+| parties, including the association, the shareholders _,_ [ ~~and~~ ]  
+| policyholders _, contract owners, certificate holders, and enrollees_  
+| of the impaired or insolvent insurer, and any other party with a  
+| bona fide interest.  
+|  SECTION 25. Section 463.351(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) The commissioner shall:  
+|  (1) notify the insurance officials of all the other  
+| states, territories of the United States, and the District of  
+| Columbia by mail not later than the 30th day after the date the  
+| commissioner:  
+|  (A) revokes or suspends a member insurer's  
+| certificate of authority; or  
+|  (B) issues a formal order requiring a member  
+| insurer to:  
+|  (i) restrict the insurer's premium writing;  
+|  (ii) withdraw from this state;  
+|  (iii) reinsure all or part of the insurer's  
+| business;  
+|  (iv) obtain additional contributions to  
+| surplus; or  
+|  (v) increase capital, surplus, or another  
+| account for the security of policyholders _, contract owners,_ or  
+| creditors;  
+|  (2) report to the board when the commissioner:  
+|  (A) takes an action described by Subdivision (1)  
+| or receives from another insurance official a report indicating  
+| that a similar action has been taken in another state; or  
+|  (B) has reasonable cause to believe from a  
+| completed or continuing examination that a member insurer may be  
+| impaired or insolvent; and  
+|  (3) provide to the board the National Association of  
+| Insurance Commissioners Insurance Regulatory Information System  
+| ratios and listings of insurers not included in those ratios.  
+|  SECTION 26. The changes in law made by this Act apply only  
+| to an insurer that first becomes impaired or insolvent on or after  
+| the effective date of this Act.  
+|  SECTION 27. This Act takes effect September 1, 2019.
+

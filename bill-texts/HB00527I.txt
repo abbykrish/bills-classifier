@@ -1,0 +1,54 @@
+| 86R2303 GRM-D  
+---|---  
+|  By: Israel | H.B. No. 527  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the issuance of a receipt by the Department of Public  
+| Safety to an applicant for a driver's license or personal  
+| identification certificate that may be used to show proof of voter  
+| registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 20, Election Code, is  
+| amended by adding Section 20.0631 to read as follows:  
+|  _Sec._ ___20.0631._ _____TRANSACTION RECEIPT. The Department of_  
+| _Public Safety shall issue a transaction receipt to each qualifying_  
+| _applicant for a driver's license or personal identification_  
+| _certificate who completes a voter registration application as_  
+| _provided by Section 20.063. The receipt must include:_  
+|  _(1) the applicant's name;_  
+|  _(2) the date of issuance of the receipt;_  
+|  _(3)_ _____a statement indicating that the applicant_  
+| _submitted a voter registration application; and_  
+|  _(4)_ _____the following statement: "This receipt is proof of_  
+| _your application for voter registration. Retain it until you_  
+| _receive a voter registration certificate from your local voter_  
+| _registrar. If you do not receive a voter registration certificate,_  
+| _you may use this as proof that you submitted a timely voter_  
+| _registration application."_  
+|  SECTION 2. Section 63.011, Election Code, is amended by  
+| adding Subsection (f) to read as follows:  
+|  _(f)_ _____A person who votes a provisional ballot solely because_  
+| _the person's name was not on the list of registered voters for the_  
+| _precinct in which the person voted may present a voter registration_  
+| _receipt issued to the person under Section 20.0631 as proof that the_  
+| _person is registered to vote in the precinct. An election officer_  
+| _shall attach the receipt to the envelope containing the person's_  
+| _provisional ballot. A person who does not present a voter_  
+| _registration receipt at the time of voting a provisional ballot may_  
+| _present the receipt to the voter registrar in the same manner as_  
+| _presenting identification for a provisional ballot under Section_  
+| _65.0541._  
+|  SECTION 3. Section 65.054, Election Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____For purposes of Subsection (b)(1), a voter registration_  
+| _receipt indicating the voter registered in the precinct in which_  
+| _the voter voted that is attached to the envelope containing a_  
+| _provisional ballot or presented to the voter registrar under_  
+| _Section 63.011(f) is proof that a person who voted a provisional_  
+| _ballot solely because the person's name was not on the list of_  
+| _registered voters for the precinct in which the person voted is_  
+| _eligible to vote in the election. The voter registrar shall amend_  
+| _the list of registered voters accordingly._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

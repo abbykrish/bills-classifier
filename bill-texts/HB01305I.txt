@@ -1,0 +1,39 @@
+|  
+---|---  
+|  By: Meza | H.B. No. 1305  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a cost-of-living increase applicable to death benefits  
+| paid under the workers' compensation system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 408.181, Labor Code, is amended by  
+| amending Subsection (b) and adding Subsection (b-1) to read as  
+| follows:  
+|  (b) Subject to Section 408.061, the amount of a death  
+| benefit is equal to 75 percent of the employee's average weekly  
+| wage. _Notwithstanding Section 408.061, the amount of a death_  
+| _benefit is adjusted in accordance with Subsection (b-1) each_  
+| _calendar year as necessary to reflect inflation._  
+|  _(b-1)_ _____Not later than November 1 of each year, the_  
+| _commissioner shall set the rate of the adjustment described by_  
+| _Subsection (b) for the next calendar year to equal the percentage_  
+| _increase, if any, in the Consumer Price Index for Urban Wage Earners_  
+| _and Clerical Workers (CPI-W) most recently published by the Bureau_  
+| _of Labor Statistics of the United States Department of Labor and_  
+| _used by the United States Social Security Administration to provide_  
+| _a cost-of-living adjustment for social security benefit payments_  
+| _payable beginning in January of the next year. Not later than_  
+| _January 1 of each year, an insurance carrier shall recompute the_  
+| _amount of a death benefit to be paid under this section by applying_  
+| _the adjustment computed by the commissioner under this subsection_  
+| _to the amount otherwise required to be paid under Subsection (b)._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a claim for workers' compensation benefits based on a  
+| compensable injury that occurs on or after the effective date of  
+| this Act. A claim based on a compensable injury that occurs before  
+| the effective date of this Act is governed by the law in effect on  
+| the date the compensable injury occurred, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

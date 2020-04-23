@@ -1,0 +1,61 @@
+| 86R2842 JRR-D  
+---|---  
+|  By: Reynolds | H.B. No. 211  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to grand jury proceedings; providing a criminal penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 20.011(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) Only the following persons may be present in a grand  
+| jury room while the grand jury is conducting proceedings:  
+|  (1) grand jurors;  
+|  (2) bailiffs;  
+|  (3) the attorney representing the state;  
+|  (4) witnesses while being examined or when necessary  
+| to assist the attorney representing the state in examining other  
+| witnesses or presenting evidence to the grand jury;  
+|  (5) interpreters, if necessary;  
+|  (6) a stenographer or person operating an electronic  
+| recording device, as provided by Article 20.012; [ ~~and~~ ]  
+|  (7) a person operating a video teleconferencing system  
+| for use under Article 20.151 _; and_  
+|  _(8)_ _____an attorney representing a witness who is a target_  
+| _of a grand jury investigation, for the sole purpose of consultation_  
+| _in the manner described by Article 20.03(c)_.  
+|  SECTION 2. Article 20.02, Code of Criminal Procedure, is  
+| amended by adding Subsection (i) to read as follows:  
+|  _(i)_ _____An attorney representing a witness may not disclose_  
+| _anything transpiring before the grand jury. An attorney who_  
+| _discloses information in violation of this subsection is subject to_  
+| _punishment for contempt in the same manner as a person who violates_  
+| _Subsection (b)._  
+|  SECTION 3. Article 20.03, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 20.03. ATTORNEY [ ~~REPRESENTING STATE~~ ] ENTITLED TO  
+| APPEAR. _(a) In this chapter, "attorney_ [ ~~"The attorney~~ ]  
+| representing the _state"_ [ ~~State"~~ ] means the _attorney general_  
+| [ ~~Attorney General~~ ], district attorney, criminal district attorney,  
+| or county attorney.  
+|  _(b)_ The attorney representing the _state_ [ ~~State,~~ ] is  
+| entitled to go before the grand jury and inform _the grand jurors_  
+| [ ~~them~~ ] of offenses liable to indictment at any time except when _the_  
+| _grand jury is:_  
+|  _(1)_ [ ~~they are~~ ] discussing the propriety of finding an  
+| indictment _;_ or  
+|  _(2)_ voting _on an indictment_ [ ~~upon the same~~ ].  
+|  _(c)_ _____An attorney representing a witness who is a target of a_  
+| _grand jury investigation may be present in the grand jury room while_  
+| _the grand jury is questioning the witness. The grand jury shall_  
+| _permit the attorney or the witness to interrupt the questioning at_  
+| _any time so that the witness may consult with the attorney outside_  
+| _the hearing of the grand jury._  
+|  SECTION 4. The change in law made by this Act applies only  
+| to a grand jury proceeding that begins on or after the effective  
+| date of this Act. A grand jury proceeding that begins before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the proceeding began, and the former law is continued in effect  
+| for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

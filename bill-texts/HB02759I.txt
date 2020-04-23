@@ -1,0 +1,177 @@
+| 86R217 BEF-D  
+---|---  
+|  By: Murphy | H.B. No. 2759  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the decrease of the rates of the franchise tax under  
+| certain circumstances and the expiration of that tax.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 171.002(a) and (b), Tax Code, are  
+| amended to read as follows:  
+|  (a) Subject to Sections 171.003 _, 171.004,_ and 171.1016 and  
+| except as provided by Subsection (b), the rate of the franchise tax  
+| is 0.75 percent of taxable margin.  
+|  (b) Subject to Sections 171.003 _, 171.004,_ and 171.1016, the  
+| rate of the franchise tax is 0.375 percent of taxable margin for  
+| those taxable entities primarily engaged in retail or wholesale  
+| trade.  
+|  SECTION 2. Subchapter A, Chapter 171, Tax Code, is amended  
+| by adding Section 171.004 to read as follows:  
+|  _Sec._ ___171.004._ _____ADJUSTMENT OF TAX RATES. (a)_ _____In this_  
+| _section:_  
+|  _(1)_ _____"Biennial revenue estimate" means the estimate of_  
+| _anticipated revenue to this state for the succeeding biennium that_  
+| _the comptroller prepares in accordance with Section 49a(a), Article_  
+| _III, Texas Constitution._  
+|  _(2)_ _____"Current biennium" means the state fiscal biennium_  
+| _in which a biennial revenue estimate is submitted to the governor_  
+| _and legislature._  
+|  _(3)_ _____"Succeeding biennium" means the state fiscal_  
+| _biennium beginning after the current biennium._  
+|  _(b)_ _____The comptroller shall determine and include with the_  
+| _biennial revenue estimate:_  
+|  _(1)_ _____the amount of total general revenue-related funds_  
+| _that would be available for certification for the succeeding_  
+| _biennium assuming a franchise tax rate adjustment under this_  
+| _section does not take effect in that biennium;_  
+|  _(2)_ _____the percentage change between the amount of total_  
+| _general revenue-related funds available for certification for the_  
+| _current biennium, as provided by the biennial revenue estimate, and_  
+| _the amount provided by Subdivision (1) for the succeeding biennium;_  
+|  _(3)_ _____if the percentage change under Subdivision (2) is_  
+| _greater than five percent, the amount of total general_  
+| _revenue-related funds that would be available for certification for_  
+| _the succeeding biennium assuming the franchise tax rate adjustment_  
+| _under this section takes effect in the succeeding biennium; and_  
+|  _(4)_ _____if the percentage change under Subdivision (2) is_  
+| _greater than five percent, the percentage change between the amount_  
+| _of total general revenue-related funds available for certification_  
+| _for the current biennium, as provided by the biennial revenue_  
+| _estimate, and the amount provided by Subdivision (3) for the_  
+| _succeeding biennium._  
+|  _(c)_ _____If the percentage change determined under Subsection_  
+| _(b)(2) is greater than five percent, the comptroller shall_  
+| _determine the amount of revenue available for franchise tax_  
+| _reduction, which is computed as follows:_  
+| _FTR = 0.5 X (SBGR - (CBGR X 1.05))_  
+| _where:_  
+|  _"FTR" is the amount of revenue available for franchise tax_  
+| _reduction;_  
+|  _"SBGR" is the amount provided by Subsection (b)(1) for the_  
+| _succeeding biennium; and_  
+|  _"CBGR" is the amount of total general revenue-related funds_  
+| _available for certification for the current biennium, as provided_  
+| _by the biennial revenue estimate._  
+|  _(d)_ _____This subsection applies only if the percentage change_  
+| _determined under Subsection (b)(2) is greater than five percent._ __  
+| _Not later than the last day of a state fiscal biennium, the_  
+| _comptroller shall determine the rates for purposes of Sections_  
+| _171.002(a) and (b) and Section 171.1016 that, if effective_  
+| _beginning January 1 of the even-numbered year occurring during the_  
+| _succeeding biennium, are estimated to reduce the amount of revenue_  
+| _collected under this chapter for the succeeding biennium, as_  
+| _compared to the amount of revenue that would be collected if the_  
+| _rates then in effect remained in effect, by the amount of revenue_  
+| _available for franchise tax reduction determined under Subsection_  
+| _(c)._ ___In determining the rates under this subsection, the_  
+| _comptroller shall proportionally reduce the rates under Sections_  
+| _171.002(a) and (b) and Section 171.1016 that are in effect on the_  
+| _date the comptroller makes the determination._  
+|  _(e)_ _____Not later than the last day of a state fiscal biennium,_  
+| _the comptroller shall:_  
+|  _(1)_ _____adopt the adjusted tax rates determined under_  
+| _Subsection (d), if applicable;_  
+|  _(2)_ _____publish notice of the adjusted tax rates in the_  
+| _Texas Register; and_  
+|  _(3)_ _____provide any other notice relating to the adjusted_  
+| _tax rates that the comptroller considers appropriate._  
+|  _(f) The tax rates adopted under Subsection (e):_  
+|  _(1)_ _____apply to a report originally due on or after_  
+| _January 1 of the even-numbered year described by Subsection (d);_  
+| _and_  
+|  _(2)_ _____are considered for purposes of this chapter to be_  
+| _the rates provided by and imposed under Section 171.002 or_  
+| _171.1016, as applicable._  
+|  _(g)_ _____If the percentage change determined under Subsection_  
+| _(b)(2) is not greater than five percent, the rates of the franchise_  
+| _tax in effect when the biennial revenue estimate is submitted to the_  
+| _governor and legislature remain in effect for the succeeding_  
+| _biennium unless modified by other law._  
+|  _(h)_ _____Notwithstanding Subsection (d), if an adjustment_  
+| _otherwise required by that subsection would reduce a rate of the_  
+| _franchise tax to less than zero, the rate is instead reduced to_  
+| _zero._  
+|  _(i)_ _____Notwithstanding any other law, if the rates of the_  
+| _franchise tax are reduced to zero under Subsection (d) or (h), a_  
+| _taxable entity does not owe any tax and is not required to file a_  
+| _report that would otherwise be originally due on or after the date_  
+| _those rates are reduced to zero._  
+|  _(j)_ _____The comptroller may adopt rules related to making the_  
+| _determinations required by this section._  
+|  _(k)_ _____In the state fiscal year in which the rates of the_  
+| _franchise tax are reduced to zero under Subsection (d) or (h):_  
+|  _(1)_ _____this chapter expires as provided by Section_  
+| _171.9321; and_  
+|  _(2)_ _____not later than January 15 of that year the_  
+| _comptroller shall:_  
+|  _(A)_ _____publish notice in the Texas Register that an_  
+| _entity previously subject to the tax imposed under this chapter is_  
+| _no longer required to file a report or pay the tax; and_  
+|  _(B)_ _____provide any other notice relating to the_  
+| _expiration of the tax that the comptroller considers appropriate._  
+|  _(l)_ _____An action taken by the comptroller under this section is_  
+| _final and may not be appealed._  
+|  SECTION 3. Sections 171.1016(b) and (e), Tax Code, are  
+| amended to read as follows:  
+|  (b) The amount of the tax for which a taxable entity that  
+| elects to pay the tax as provided by this section is liable is  
+| computed by:  
+|  (1) determining the taxable entity's total revenue  
+| from its entire business, as determined under Section 171.1011;  
+|  (2) apportioning the amount computed under  
+| Subdivision (1) to this state, as provided by Section 171.106, to  
+| determine the taxable entity's apportioned total revenue; and  
+|  (3) multiplying the amount computed under Subdivision  
+| (2) by the rate of 0.331 percent _or, if applicable, an adjusted tax_  
+| _rate determined under Section 171.004_.  
+|  (e) A reference in this chapter or other law to the rate of  
+| the franchise tax means, as appropriate _:_  
+|  _(1)_ [ ~~,~~ ] the rate under Section 171.002 or, for a  
+| taxable entity that elects to pay the tax as provided by this  
+| section, the rate under this section _; or_  
+|  _(2) the adjusted rates under Section 171.004_.  
+|  SECTION 4. Chapter 171, Tax Code, is amended by adding  
+| Subchapter Z to read as follows:  
+| _SUBCHAPTER_ ___Z._ _____EXPIRATION_  
+|  _Sec._ ___171.9321._ _____EXPIRATION. This chapter expires on_  
+| _December 31 of the year in which the rates of the franchise tax_  
+| _under Sections 171.002 and 171.1016 are reduced to zero under_  
+| _Section 171.004(d) or (h)._  
+|  SECTION 5. (a) After Chapter 171, Tax Code, expires as  
+| provided by Subchapter Z, Chapter 171, Tax Code, as added by this  
+| Act:  
+|  (1) Chapter 171 and Subtitle B, Title 2, Tax Code,  
+| continue to apply to audits, deficiencies, redeterminations, and  
+| refunds of any tax due or collected under Chapter 171 until barred  
+| by limitations; and  
+|  (2) Sections 171.206 through 171.210, Tax Code,  
+| continue to apply to information described by those sections.  
+|  (b) The expiration of Chapter 171, Tax Code, does not  
+| affect:  
+|  (1) the status of a taxable entity that has had its  
+| corporate privileges, certificate of authority, certificate of  
+| organization, certificate of limited partnership, corporate  
+| charter, or registration revoked, a suit filed against it, or a  
+| receiver appointed under Subchapter F, G, or H of that chapter;  
+|  (2) the ability of the comptroller of public accounts,  
+| secretary of state, or attorney general to take action against a  
+| taxable entity under Subchapter F, G, or H of that chapter for  
+| actions that took place before the chapter expired; or  
+|  (3) the right of a taxable entity to contest a  
+| forfeiture, revocation, lawsuit, or appointment of a receiver under  
+| Subchapter F, G, or H of that chapter.  
+|  SECTION 6. This Act applies only to a report originally due  
+| on or after January 1, 2022.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,365 @@
+| 86R6473 BRG-F  
+---|---  
+|  By: Bailes | H.B. No. 2714  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the registration of liquefied petroleum gas container  
+| manufacturers and the regulation of liquefied petroleum gas  
+| licensees; authorizing fees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Subchapter D, Chapter 113,  
+| Natural Resources Code, is amended to read as follows:  
+| SUBCHAPTER D. LICENSING _AND REGISTRATION_  
+|  SECTION 2. Subchapter D, Chapter 113, Natural Resources  
+| Code, is amended by adding Section 113.080 to read as follows:  
+|  _Sec. 113.080. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Carrier" means a person licensed for_  
+| _transportation of LP-gas by transport, including the loading and_  
+| _unloading of LP-gas, and the installation and repair of transport_  
+| _systems._  
+|  _(2)_ _____"Portable cylinder exchange service" means an_  
+| _operation conducted under a commission license for the sale of_  
+| _LP-gas in portable cylinders that are not filled on site and that_  
+| _have an LP-gas capacity not greater than 21 pounds._  
+|  _(3)_ _____"Retail and wholesale dealer" means a person_  
+| _licensed for any LP-gas activity except:_  
+|  _(A)_ _____the assembly, repair, subframing, or testing_  
+| _of LP-gas containers; or_  
+|  _(B)_ _____the sale or installation of motor fuel_  
+| _systems or mobile fuel systems that have an engine with a rating of_  
+| _more than 25 horsepower._  
+|  _(4)_ _____"Testing laboratory" means a person licensed for_  
+| _testing containers, motor fuel systems or mobile fuel systems,_  
+| _transfer systems, or transport systems for the purpose of_  
+| _determining the safety of the containers or systems for LP-gas_  
+| _service, including the necessary installation, disconnection,_  
+| _reconnection, testing, or repair of motor fuel systems or mobile_  
+| _fuel systems, transfer systems, or transport systems involved in_  
+| _the testing of containers._  
+|  _(5) "Transport outfitter" means a person licensed to:_  
+|  _(A)_ _____subframe, test, or sell LP-gas transport_  
+| _containers;_  
+|  _(B) test LP-gas storage containers;_  
+|  _(C)_ _____install, test, or sell motor fuel containers_  
+| _and systems or mobile fuel containers and systems;_  
+|  _(D) install transport systems; or_  
+|  _(E)_ _____repair transport systems, motor fuel_  
+| _systems, or mobile fuel systems._  
+|  SECTION 3. Section 113.081, Natural Resources Code, is  
+| amended by amending Subsections (a), (b), (c), (d), and (e) and  
+| adding Subsection (h) to read as follows:  
+|  (a) Unless otherwise stated in this chapter, _a_ [ ~~no~~ ] person  
+| may _not_ engage in any of the following activities unless that person  
+| has obtained a license from the commission authorizing that  
+| activity:  
+|  (1) container activities: the [ ~~manufacture,~~ ]  
+| assembly, repair, testing, sale, installation, or subframing of  
+| containers for use in this state, except that _a_ [ ~~no~~ ] license is
+_not_  
+| required for the sale of a new container of 96 pounds water capacity  
+| or less;  
+|  (2) systems activities: the installation, service,  
+| and repair of systems for use in this state, including the laying or  
+| connecting of pipes and fittings connecting with or to systems or  
+| serving a system and appliances to be used with _LP-gas_ [ ~~liquefied~~  
+|  ~~petroleum gas~~ ] as a fuel;  
+|  (3) appliance activities: the service, installation,  
+| and repair of appliances used or to be used in this state in  
+| connection with systems using _LP-gas_ [ ~~liquefied petroleum gas~~ ] as a  
+| fuel, except that _a_ [ ~~no~~ ] license _is not_ [ ~~shall be~~ ] required
+for  
+| installation or connection of manufactured unvented appliances to  
+| _LP-gas_ [ ~~LPG~~ ] systems by means of _LP-gas_ [ ~~LPG~~ ] appliance
+connectors,  
+| or where only duct or electrical work is performed to or on an  
+| LP-gas appliance; or  
+|  (4) product activities: the sale, transportation,  
+| dispensation, or storage of _LP-gas_ [ ~~liquefied petroleum gas~~ ] in  
+| this state, except that _a_ [ ~~no~~ ] license _is not_ [ ~~shall be~~ ]
+required to  
+| sell _LP-gas_ [ ~~LPG~~ ] where the vendor never obtains possessory rights  
+| to the product sold or where the product is transported or stored by  
+| the ultimate consumer for personal consumption only.  
+|  (b) The _licensing requirements_ [ ~~provisions~~ ] of Subsection  
+| (a) [ ~~of this section do not~~ ] apply to a person _other than a_  
+| _political subdivision_ who [ ~~is not engaged in business as provided~~  
+|  ~~in Section 113.082 of this code. A person, except a political~~  
+|  ~~subdivision, is considered to be engaged in business as provided in~~  
+|  ~~Section 113.082 of this code if such person~~ ] installs or services _a_  
+| [ ~~an LPG~~ ] motor _fuel system_ or mobile fuel system on a motor vehicle  
+| used in the transportation of the general public. [ ~~The provisions~~  
+|  ~~of~~ ] Subsections (a)(1) and (a)(2) [ ~~of this section~~ ] do not apply
+to  
+| intermodal containers or intermodal portable tanks constructed in  
+| accordance with United States Department of Transportation  
+| specifications.  
+|  (c) _The licensing requirements of Subsection (a) do not_  
+| _apply to a_ [ ~~A mobile home park operator will not be deemed to be a~~  
+|  ~~person engaged in business as provided in Section 113.082 of this~~  
+|  ~~code if such~~ ] mobile home park operator _who does not obtain any_  
+| [ ~~obtains no~~ ] possessory rights to LP-gas products, and utilizes  
+| only LP-gas licensees in the installation and maintenance of the  
+| LP-gas containers and system. For purposes of this subsection, the  
+| term "mobile home park operator" means an individual or business  
+| entity owning or operating a place, divided into sites, at which the  
+| primary business is the rental or leasing of the sites to persons  
+| for use in occupying mobile homes as dwellings. "Mobile home" has  
+| the meaning set out in Chapter 1201, Occupations Code.  
+|  (d) The commission by rule may exempt [ ~~from Section~~  
+|  ~~113.082(a)(4) of this code~~ ] journeymen or master plumbers licensed  
+| by the Texas State Board of Plumbing Examiners _from the license_  
+| _requirements of Subsection (a)_.  
+|  (e) The commission by rule may exempt [ ~~from Section~~  
+|  ~~113.082(a)(4) of this code~~ ] a person licensed under Chapter 1302,  
+| Occupations Code _, from the license requirements of Subsection (a)_.  
+|  _(h)_ _____A person operating a portable cylinder exchange service_  
+| _may not engage in another LP-gas activity requiring a license at the_  
+| _same location as the service._  
+|  SECTION 4. Subchapter D, Chapter 113, Natural Resources  
+| Code, is amended by adding Section 113.0815 to read as follows:  
+|  _Sec._ ___113.0815._ _____REGISTRATION OF CONTAINER MANUFACTURERS AND_  
+| _FABRICATORS. (a)_ ___A person may not engage in the manufacture or_  
+| _fabrication of containers for use in this state unless the person_  
+| _registers with the commission in accordance with rules adopted by_  
+| _the commission._  
+|  _(b)_ _____A registration under this section must be renewed_  
+| _annually._  
+|  SECTION 5. Section 113.082, Natural Resources Code, is  
+| amended to read as follows:  
+|  Sec. 113.082. CATEGORIES OF _LP-GAS_ [ ~~LPG~~ ] ACTIVITIES; FEES.  
+| (a) _The commission by rule shall establish license categories for_  
+| _LP-gas activities_ [ ~~A prospective licensee in LPG may apply to the~~  
+|  ~~commission for a license to engage in any one or more of the~~  
+|  ~~following categories of LPG activities:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~container manufacturers/fabricators: the~~  
+|  ~~manufacture, fabrication, assembly, repair, installation,~~  
+|  ~~subframing, testing, and sale of LPG containers, including LPG~~  
+|  ~~motor or mobile fuel containers and systems, and the repair and~~  
+|  ~~installation of transport and transfer systems;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~transport outfitters: the subframing, testing,~~  
+|  ~~and sale of LPG transport containers, the testing of LPG storage~~  
+|  ~~containers, the installation, testing, and sale of LPG motor or~~  
+|  ~~mobile fuel containers and systems, and the installation and repair~~  
+|  ~~of transport systems, and motor or mobile fuel systems;~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~carriers: the transportation of LPG by~~  
+|  ~~transport, including the loading and unloading of LPG, and the~~  
+|  ~~installation and repair of transport systems;~~  
+|  [ ~~(4)~~ ~~~~ ~~~~ ~~general installers and repairmen: the sale,~~  
+|  ~~service, and installation of containers, excluding motor fuel~~  
+|  ~~containers, and the service, installation, and repair of piping,~~  
+|  ~~certain appliances as defined by rule, excluding recreational~~  
+|  ~~vehicle appliances and LPG systems, excluding motor fuel and~~  
+|  ~~recreational vehicle systems;~~  
+|  [ ~~(5)~~ ~~~~ ~~~~ ~~retail and wholesale dealers: the storage, sale,~~  
+|  ~~transportation, and distribution of LPG at retail and wholesale,~~  
+|  ~~and all other activities included in this section except the~~  
+|  ~~manufacture, fabrication, assembly, repair, subframing, and~~  
+|  ~~testing of LPG containers, and except the sale and installation of~~  
+|  ~~LPG motor or mobile fuel systems that have an engine with a rating~~  
+|  ~~of more than 25 horsepower;~~  
+|  [ ~~(6)~~ ~~~~ ~~~~ ~~cylinder filling: the operation of a~~  
+|  ~~cylinder-filling facility, including cylinder filling, the sale of~~  
+|  ~~LPG in cylinders, and the replacement of a cylinder valve;~~  
+|  [ ~~(7)~~ ~~~~ ~~~~ ~~service station: the operation of an LPG service~~  
+|  ~~station filling ASME containers designed for motor and mobile fuel;~~  
+|  [ ~~(8)~~ ~~~~ ~~~~ ~~cylinder dealers: the transportation and sale of~~  
+|  ~~LPG in cylinders;~~  
+|  [ ~~(9)~~ ~~~~ ~~~~ ~~service station and cylinder filling: any~~  
+|  ~~service station and cylinder activity set out in Subdivisions (6)~~  
+|  ~~and (7);~~  
+|  [ ~~(10)~~ ~~~~ ~~~~ ~~service station and cylinder facilities: the~~  
+|  ~~operation of a cylinder-filling facility, including cylinder~~  
+|  ~~filling and the sale, transportation, installation, and connection~~  
+|  ~~of LPG in cylinders, the replacement of cylinder valves, and the~~  
+|  ~~operation of an LPG service station as set out in Subdivision (7);~~  
+|  [ ~~(11)~~ ~~~~ ~~~~ ~~distribution system: the sale and distribution~~  
+|  ~~of LPG through mains or pipes and the installation and repair of LPG~~  
+|  ~~systems;~~  
+|  [ ~~(12)~~ ~~~~ ~~~~ ~~engine fuel: the sale and installation of LPG~~  
+|  ~~motor or mobile fuel containers, and the sale and installation of~~  
+|  ~~LPG motor or mobile fuel systems;~~  
+|  [ ~~(13)~~ ~~~~ ~~~~ ~~recreational vehicle installers and repairmen:~~  
+|  ~~the sale, service, and installation of recreational vehicle~~  
+|  ~~containers, and the installation, repair, and service of~~  
+|  ~~recreational vehicle appliances, piping, and LPG systems,~~  
+|  ~~including recreational vehicle motor or mobile fuel systems and~~  
+|  ~~containers;~~  
+|  [ ~~(14)~~ ~~~~ ~~~~ ~~manufactured housing installers and repairmen:~~  
+|  ~~the service and installation of containers that supply fuel to~~  
+|  ~~manufactured housing, and the installation, repair, and service of~~  
+|  ~~appliances and piping systems for manufactured housing;~~  
+|  [ ~~(15)~~ ~~~~ ~~~~ ~~testing laboratory: the testing of an LP-gas~~  
+|  ~~container, LP-gas motor fuel systems or mobile fuel systems,~~  
+|  ~~transfer systems, and transport systems for the purpose of~~  
+|  ~~determining the safety of the container or systems for LP-gas~~  
+|  ~~service, including the necessary installation, disconnection,~~  
+|  ~~reconnecting, testing, and repair of LPG motor fuel systems or~~  
+|  ~~mobile fuel systems, transfer systems, and transport systems~~  
+|  ~~involved in the testing of containers; or~~  
+|  [ ~~(16)~~ ~~~~ ~~~~ ~~portable cylinder exchange: the operation of a~~  
+|  ~~portable cylinder exchange service, where the sale of LP-gas is~~  
+|  ~~within a portable cylinder with an LP-gas capacity not to exceed 21~~  
+|  ~~pounds; the portable cylinders are not filled on site, and no other~~  
+|  ~~LP-gas activity requiring a license is conducted~~ ].  
+|  (b) The commission by rule shall establish reasonable  
+| application and original license fees and renewal fees for each  
+| type of license _category established under Subsection (a)_ [ ~~listed~~  
+|  ~~in this section~~ ].  
+|  SECTION 6. Section 113.084(b), Natural Resources Code, is  
+| amended to read as follows:  
+|  (b) A prospective licensee shall submit the required  
+| application together with the original nonrefundable license fee  
+| established by the commission under Section 113.082 for each type  
+| of license _category_ for which an application is made. The applicant  
+| shall submit additional information and data with each application  
+| as the commission may reasonably require.  
+|  SECTION 7. Sections 113.087(c), (d), and (g), Natural  
+| Resources Code, are amended to read as follows:  
+|  (c) _An_ [ ~~Each~~ ] individual who will be actively supervising  
+| [ ~~those~~ ] operations _that require a_ [ ~~requiring any~~ ] license
+under  
+| this chapter, other than _a portable cylinder exchange service_ [ ~~a~~  
+|  ~~license under Section 113.082(a)(16)~~ ], at any outlet or location,  
+| [ ~~as designated by the commission,~~ ] shall be required to provide  
+| good and sufficient proof through examination that the supervisor  
+| has a working knowledge of the safety requirements and penalties in  
+| this chapter and the rules of the commission which apply to that  
+| type of license. _A_ [ ~~Each~~ ] licensee [ ~~under Section 113.082(a)(5)~~
+]  
+| who provides portable cylinders to a licensee _operating a portable_  
+| _cylinder exchange service_ [ ~~under Section 113.082(a)(16)~~ ] shall:  
+|  (1) prepare or obtain a manual approved by the  
+| commission covering the proper procedures for handling LP-gas in  
+| the portable cylinder exchange process;  
+|  (2) provide a copy of the manual to each outlet or  
+| location of the licensee _operating the portable cylinder exchange_  
+| _service_ [ ~~under Section 113.082(a)(16)~~ ]; and  
+|  (3) provide training approved by the commission  
+| regarding the contents of the manual to each individual who will be  
+| actively supervising _operation of the portable cylinder exchange_  
+| _service_ [ ~~operations requiring a license under Section~~  
+|  ~~113.082(a)(16)~~ ] at each outlet or location.  
+|  (d) As determined by commission rule, each individual who is  
+| or will be utilized by a licensee or a public employee of the state,  
+| the federal government, or a state or federal subdivision in  
+| LPG-related activities shall be required to provide good and  
+| sufficient proof through examination that the employee has a  
+| working knowledge of the safety requirements in the rules of the  
+| commission relating to the activity or activities. Should the  
+| commission determine that an individual has a history of failure to  
+| comply with the requirements of this code or with the rules of the  
+| commission, the commission shall promptly _notify the individual in_  
+| _writing_ [ ~~mail written notification~~ ] of failure to qualify for  
+| LP-gas employee certification and the reasons therefor [ ~~to the~~  
+|  ~~registrant~~ ]. Written notice by the commission, a written request  
+| for a hearing, and the public hearing itself shall be governed by  
+| Section 113.091.  
+|  (g) In no event shall an original or renewal license be  
+| issued to an applicant whose listed representative has not  
+| maintained qualified status, as defined by rule, or to any person  
+| who has a history of failure to comply with the requirements of this  
+| code or with the rules of the commission. The commission shall have  
+| written notification of license denial and the reasons therefor  
+| prepared promptly and _provided_ [ ~~mailed~~ ] to both the representative  
+| and the license applicant. Written notice by the commission, a  
+| written request for a hearing, and the public hearing itself shall  
+| be governed by Section 113.091 [ ~~of this code~~ ].  
+|  SECTION 8. Sections 113.089(a) and (c), Natural Resources  
+| Code, are amended to read as follows:  
+|  (a) If application is made for a license _by a retail and_  
+| _wholesale dealer_ [ ~~under Section 113.082(a)(5)~~ ] or for any other  
+| type of license specified by commission rule, the commission, in  
+| addition to other requirements, shall have an actual inspection  
+| conducted of any and all facilities, bulk storage equipment,  
+| transportation equipment, and dispensing equipment of the  
+| applicant to verify satisfactory compliance with all current safety  
+| laws, rules, and practices. The inspection may be waived by the  
+| commission on an application resulting solely from a change in  
+| legal entities under which a current licensee operates.  
+|  (c) A license _for which an inspection under Subsection (a)_  
+| _is required may_ [ ~~under Section 113.082(a)(5) and any other type of~~  
+|  ~~license specified by commission rule shall~~ ] not be issued until the  
+| inspection [ ~~under Subsection (a) of this section~~ ] verifies the  
+| applicant to be in satisfactory compliance with all current safety  
+| laws, rules, and practices.  
+|  SECTION 9. Section 113.091(a), Natural Resources Code, is  
+| amended to read as follows:  
+|  (a) _If_ [ ~~Should~~ ] an applicant _fails_ [ ~~fail~~ ] to meet the  
+| requirements for original or renewal licensing set out in this  
+| chapter, the commission shall _promptly send notice to the applicant_  
+| _specifying_ [ ~~have written notification prepared promptly and mailed~~  
+|  ~~to the applicant. The notice shall specify~~ ] the reason for the  
+| applicant's failure to qualify for license and _advising_ [ ~~advise~~ ]  
+| the applicant of the right to request a hearing.  
+|  SECTION 10. Sections 113.097(a), (b), (c), (d), (f), and  
+| (h), Natural Resources Code, are amended to read as follows:  
+|  (a) The commission shall not issue a license authorizing  
+| _LP-gas_ activities [ ~~under Section 113.082 of this code~~ ] or renew an  
+| existing license unless the applicant for license or license  
+| renewal provides proof of required insurance coverage with an  
+| insurance carrier authorized to do business in this state as  
+| evidenced by a certificate of authority having been issued to the  
+| carrier by the Texas Department of Insurance or, if the applicant is  
+| unable to obtain coverage from such a carrier, provides, on  
+| approval of the commission, proof of required insurance coverage  
+| issued by a surplus lines insurer that meets the requirements of  
+| Chapter 981, Insurance Code, and rules adopted by the commissioner  
+| of insurance under that chapter.  
+|  (b) A licensee _may_ [ ~~shall~~ ] not perform _an LP-gas_ [ ~~any~~  
+|  ~~licensed~~ ] activity _licensed by the commission_ [ ~~under Section~~  
+|  ~~113.082 of this code~~ ] unless the insurance coverage required by  
+| this chapter is in effect.  
+|  (c) Except as provided in Section 113.099 [ ~~of this code~~ ],  
+| the types and amounts of insurance provided in Subsections (d)  
+| through (i) [ ~~of this section~~ ] are required while engaged in _an_  
+| _LP-gas activity licensed by the commission_ [ ~~any of the activities~~  
+|  ~~set forth in Section 113.082 of this code~~ ] or any activity  
+| incidental thereto.  
+|  (d) _A person licensed to transport LP-gas_ [ ~~Each licensee~~  
+|  ~~under Section 113.082(a)(3), (5), (8), or (10)~~ ] must carry motor  
+| vehicle bodily injury and property damage liability coverage on  
+| each motor vehicle, including trailers and semitrailers, used to  
+| transport LP-gas. The commission shall establish by rule a  
+| reasonable amount of coverage to be maintained, except that  
+| coverage _may_ [ ~~shall~~ ] not be less than the amounts required as  
+| evidence of financial responsibility under Chapter 601,  
+| Transportation Code.  
+|  (f) _A_ [ ~~Each~~ ] licensee, other than a _licensee operating a_  
+| _portable cylinder exchange service_ [ ~~category "P" licensee~~ ], must  
+| acquire and maintain appropriate workers' compensation or coverage  
+| for its employees under policies of work-related accident,  
+| disability, and health insurance, including coverage for death  
+| benefits, from an insurance carrier authorized to provide coverage  
+| in this state, in the amounts required by the commission.  
+|  (h) As required by commission rule, a _person registered_  
+| _under Section 113.0815 or licensed as a transport outfitter,_  
+| _carrier, retail and wholesale dealer, or testing laboratory_  
+| [ ~~licensee under Section 113.082(a)(1), (2), (3), (5), or (15)~~ ] must  
+| carry completed operations or products liability insurance, or  
+| both, in a reasonable amount, based on the type or types of  
+| _registered or_ licensed activities.  
+|  SECTION 11. Sections 113.099(a) and (d), Natural Resources  
+| Code, are amended to read as follows:  
+|  (a) A _person licensed to transport LP-gas_ [ ~~licensee or an~~  
+|  ~~applicant for a license under Section 113.082(a)(3), (5), (8), or~~  
+|  ~~(10)~~ ] that does not operate or contemplate the operation of a motor  
+| vehicle equipped with an LP-gas cargo container and does not  
+| transport or contemplate the transportation of LP-gas by vehicle in  
+| any manner, may make and file with the commission a statement to  
+| that effect in lieu of filing a certificate of motor vehicle bodily  
+| injury and property damage insurance.  
+|  (d) A _person registered under Section 113.0815 or licensed_  
+| _as a transport outfitter, carrier, retail and wholesale dealer, or_  
+| _testing laboratory_ [ ~~licensee or an applicant for a license under~~  
+|  ~~Section 113.082(a)(1), (2), (3), (5), or (15)~~ ] that does not engage  
+| in or contemplate engaging in any LP-gas operations which would be  
+| covered by completed operations or products liability insurance, or  
+| both, for a period of time may make and file with the commission a  
+| statement to that effect in lieu of filing a certificate of  
+| insurance.  
+|  SECTION 12. Not later than January 1, 2020, the Railroad  
+| Commission of Texas shall adopt rules required by Chapter 113,  
+| Natural Resources Code, as amended by this Act.  
+|  SECTION 13. This Act takes effect September 1, 2019.
+

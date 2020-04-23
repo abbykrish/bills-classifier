@@ -1,0 +1,520 @@
+| 86R1970 LED-F  
+---|---  
+|  By: Reynolds | H.B. No. 2692  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the prohibition of certain discrimination based on  
+| sexual orientation or gender identity or expression; providing an  
+| administrative penalty; creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 4, Civil Practice and Remedies Code, is  
+| amended by adding Chapter 100B to read as follows:  
+| _CHAPTER 100B. LIABILITY ARISING FROM DISCRIMINATION_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 100B.001. DEFINITIONS.  In this chapter:_  
+|  _(1) "Aggrieved person" includes any person who:_  
+|  _(A)_ _____claims to have been injured by a_  
+| _discriminatory practice; or_  
+|  _(B)_ _____believes that he or she will be injured by a_  
+| _discriminatory practice that is about to occur._  
+|  _(2)_ _____"Discriminatory practice" means an act prohibited_  
+| _by this chapter._  
+|  _(3)_ _____"Gender identity or expression" means having or_  
+| _being perceived as having a gender-related identity, appearance,_  
+| _expression, or behavior, regardless of whether that identity,_  
+| _appearance, expression, or behavior is different from that commonly_  
+| _associated with the individual's actual or perceived sex._  
+|  _(4)_ _____"Public accommodation" means a business or other_  
+| _entity that offers to the public food, shelter, recreation, or_  
+| _amusement, or any other goods, service, privilege, facility, or_  
+| _accommodation._  
+|  _(5) "Religious organization" means:_  
+|  _(A)_ _____a religious corporation, association, or_  
+| _society; or_  
+|  _(B)_ _____a school, institution of higher education, or_  
+| _other educational institution, not otherwise a religious_  
+| _organization, that:_  
+|  _(i)_ _____is wholly or substantially controlled,_  
+| _managed, owned, or supported by a religious organization; or_  
+|  _(ii)_ _____has a curriculum directed toward the_  
+| _propagation of a particular religion._  
+|  _(6)_ _____"Sexual orientation" means the actual or perceived_  
+| _status of an individual with respect to the individual's sexuality._  
+|  _Sec._ ___100B.002._ _____APPLICABILITY OF CHAPTER._ ___(a)_ ___Except as_  
+| _provided by Subsection (b), this chapter does not apply to a_  
+| _religious organization._  
+|  _(b)_ _____This chapter applies to activities conducted by a_  
+| _religious organization for profit to the extent that those_  
+| _activities are subject to federal taxation under Section 511(a),_  
+| _Internal Revenue Code of 1986, as that section existed on September_  
+| _1, 2019._  
+| _SUBCHAPTER B. DISCRIMINATION IN PUBLIC ACCOMMODATIONS PROHIBITED_  
+|  _Sec._ ___100B.051._ _____PUBLIC ACCOMMODATIONS._ ___(a)_ ___Except as_  
+| _provided by Subsection (b), a person engages in a discriminatory_  
+| _practice and violates this chapter if the person, because of the_  
+| _sexual orientation or gender identity or expression of an_  
+| _individual:_  
+|  _(1)_ _____denies that individual full and equal_  
+| _accommodations in any place of public accommodation in this state,_  
+| _subject only to the conditions and limitations established by law_  
+| _and applicable to all persons; or_  
+|  _(2)_ _____otherwise discriminates against or segregates or_  
+| _separates the individual based on sexual orientation or gender_  
+| _identity or expression._  
+|  _(b)_ _____A person does not engage in a discriminatory practice or_  
+| _violate this chapter under Subsection (a) if segregation or_  
+| _separation of an individual is necessary to provide a service that:_  
+|  _(1)_ _____provides acceptance, support, and understanding_  
+| _to the individual;_  
+|  _(2)_ _____assists the individual with coping with the_  
+| _individual's sexual orientation or gender identity or expression,_  
+| _maintaining social support, and exploring and identifying the_  
+| _individual's identity; or_  
+|  _(3)_ _____provides support to an individual undergoing a_  
+| _gender transition._  
+|  _(c)_ _____The services described by Subsection (b)(2) include a_  
+| _sexual orientation-neutral intervention for preventing or_  
+| _addressing unlawful conduct or unsafe sexual practices if the_  
+| _intervention does not seek to change the individual's sexual_  
+| _orientation or gender identity or expression._  
+| _SUBCHAPTER C. CAUSE OF ACTION_  
+|  _Sec._ ___100B.101._ _____CIVIL ACTION._ ___An aggrieved person may file a_  
+| _civil action in district court not later than the second_  
+| _anniversary of the occurrence of the termination of an alleged_  
+| _discriminatory practice under this chapter to obtain appropriate_  
+| _relief with respect to the discriminatory practice._  
+|  _Sec._ ___100B.102._ _____RELIEF GRANTED._ ___In an action under this_  
+| _subchapter, if the court finds that a discriminatory practice has_  
+| _occurred or is about to occur, the court may award to the plaintiff:_  
+|  _(1) actual and punitive damages;_  
+|  _(2) reasonable attorney's fees;_  
+|  _(3) court costs; and_  
+|  _(4)_ _____any permanent or temporary injunction, temporary_  
+| _restraining order, or other order, including an order enjoining the_  
+| _defendant from engaging in the practice or ordering other_  
+| _appropriate action._  
+|  SECTION 2. Subchapter A, Chapter 2155, Government Code, is  
+| amended by adding Section 2155.0065 to read as follows:  
+|  _Sec._ ___2155.0065._ _____PROHIBITION AGAINST DISCRIMINATION BY_  
+| _STATE CONTRACTOR BASED ON SEXUAL ORIENTATION OR GENDER IDENTITY OR_  
+| _EXPRESSION. (a) In this section:_  
+|  _(1)_ _____"Employee" means an individual who is employed by_  
+| _a contractor or subcontractor for compensation._  
+|  _(2)_ _____"Gender identity or expression" means having or_  
+| _being perceived as having a gender-related identity, appearance,_  
+| _expression, or behavior, regardless of whether that identity,_  
+| _appearance, expression, or behavior is different from that commonly_  
+| _associated with the individual's actual or perceived sex._  
+|  _(3)_ _____"Sexual orientation" means the actual or perceived_  
+| _status of an individual with respect to the individual's sexuality._  
+|  _(b)_ _____A state agency contracting with a contractor under this_  
+| _subtitle shall require the contractor to adopt and apply an_  
+| _employment policy under which the contractor and any subcontractor_  
+| _may not, because of sexual orientation or gender identity or_  
+| _expression:_  
+|  _(1)_ _____fail or refuse to hire an individual, discharge an_  
+| _individual, or discriminate in any other manner against an_  
+| _individual in connection with compensation or the terms,_  
+| _conditions, or privileges of employment; or_  
+|  _(2)_ _____limit, segregate, or classify an employee or_  
+| _applicant for employment in a manner that would deprive or tend to_  
+| _deprive an individual of any employment opportunity or adversely_  
+| _affect in any other manner the status of an employee._  
+|  _(c)_ _____Each contract entered into between a state agency and a_  
+| _contractor under this subtitle must include terms that:_  
+|  _(1)_ _____authorize an employee of a contractor or_  
+| _subcontractor, or an applicant for employment with the contractor_  
+| _or subcontractor, to make a verbal or written complaint to the state_  
+| _agency regarding the contractor's or subcontractor's noncompliance_  
+| _with an employment policy required by Subsection (b);_  
+|  _(2)_ _____explain that, on confirmation of a contractor's or_  
+| _subcontractor's noncompliance with an employment policy required_  
+| _by Subsection (b) that is the subject of a complaint, the state_  
+| _agency shall provide to the contractor written notice of the_  
+| _noncompliance by hand delivery or certified mail;_  
+|  _(3)_ _____inform a contractor that the state agency may_  
+| _impose an administrative penalty if the contractor fails to comply_  
+| _with an employment policy required by Subsection (b) after the date_  
+| _on which the contractor receives notice under Subdivision (2); and_  
+|  _(4)_ _____explain that an amount equal to the amount of the_  
+| _administrative penalty may be withheld from a payment otherwise_  
+| _owed to a contractor under a contract._  
+|  _(d)_ _____The amount of an administrative penalty imposed under_  
+| _Subsection (c)(3) is $100 per day for each employee or applicant for_  
+| _employment who is discriminated against in violation of an_  
+| _employment policy required by Subsection (b)._  
+|  _(e)_ _____Each state agency shall develop procedures for the_  
+| _administration of this section._  
+|  SECTION 3. Section 21.002, Labor Code, is amended by adding  
+| Subdivisions (9-a) and (13-a) to read as follows:  
+|  _(9-a)_ _____"Gender identity or expression" means having or_  
+| _being perceived as having a gender-related identity, appearance,_  
+| _expression, or behavior, regardless of whether that identity,_  
+| _appearance, expression, or behavior is different from that commonly_  
+| _associated with the individual's actual or perceived sex._  
+|  _(13-a)_ _____"Sexual orientation" means the actual or_  
+| _perceived status of an individual with respect to the individual's_  
+| _sexuality._  
+|  SECTION 4. Section 21.051, Labor Code, is amended to read as  
+| follows:  
+|  Sec. 21.051. DISCRIMINATION BY EMPLOYER. An employer  
+| commits an unlawful employment practice if because of race, color,  
+| disability, religion, sex, national origin, [ ~~or~~ ] age _, sexual_  
+| _orientation, or gender identity or expression_ the employer:  
+|  (1) fails or refuses to hire an individual, discharges  
+| an individual, or discriminates in any other manner against an  
+| individual in connection with compensation or the terms,  
+| conditions, or privileges of employment; or  
+|  (2) limits, segregates, or classifies an employee or  
+| applicant for employment in a manner that would deprive or tend to  
+| deprive an individual of any employment opportunity or adversely  
+| affect in any other manner the status of an employee.  
+|  SECTION 5. Section 21.052, Labor Code, is amended to read as  
+| follows:  
+|  Sec. 21.052. DISCRIMINATION BY EMPLOYMENT AGENCY. An  
+| employment agency commits an unlawful employment practice if the  
+| employment agency:  
+|  (1) fails or refuses to refer for employment or  
+| discriminates in any other manner against an individual because of  
+| race, color, disability, religion, sex, national origin, [ ~~or~~ ] age _,_  
+| _sexual orientation, or gender identity or expression_ ; or  
+|  (2) classifies or refers an individual for employment  
+| on the basis of race, color, disability, religion, sex, national  
+| origin, [ ~~or~~ ] age _, sexual orientation, or gender identity or_  
+| _expression_.  
+|  SECTION 6. Section 21.053, Labor Code, is amended to read as  
+| follows:  
+|  Sec. 21.053. DISCRIMINATION BY LABOR ORGANIZATION. A labor  
+| organization commits an unlawful employment practice if because of  
+| race, color, disability, religion, sex, national origin, [ ~~or~~ ] age _,_  
+| _sexual orientation, or gender identity or expression_ the labor  
+| organization:  
+|  (1) excludes or expels from membership or  
+| discriminates in any other manner against an individual; or  
+|  (2) limits, segregates, or classifies a member or an  
+| applicant for membership or classifies or fails or refuses to refer  
+| for employment an individual in a manner that would:  
+|  (A) deprive or tend to deprive an individual of  
+| any employment opportunity;  
+|  (B) limit an employment opportunity or adversely  
+| affect in any other manner the status of an employee or of an  
+| applicant for employment; or  
+|  (C) cause or attempt to cause an employer to  
+| violate this subchapter.  
+|  SECTION 7. Section 21.054(a), Labor Code, is amended to  
+| read as follows:  
+|  (a) Unless a training or retraining opportunity or program  
+| is provided under an affirmative action plan approved under a  
+| federal law, rule, or order, an employer, labor organization, or  
+| joint labor-management committee controlling an apprenticeship,  
+| on-the-job training, or other training or retraining program  
+| commits an unlawful employment practice if the employer, labor  
+| organization, or committee discriminates against an individual  
+| because of race, color, disability, religion, sex, national origin,  
+| [ ~~or~~ ] age _, sexual orientation, or gender identity or expression_ in  
+| admission to or participation in the program.  
+|  SECTION 8. Section 21.059(a), Labor Code, is amended to  
+| read as follows:  
+|  (a) An employer, labor organization, employment agency, or  
+| joint labor-management committee controlling an apprenticeship,  
+| on-the-job training, or other training or retraining program  
+| commits an unlawful employment practice if the employer, labor  
+| organization, employment agency, or committee prints or publishes  
+| or causes to be printed or published a notice or advertisement  
+| relating to employment that:  
+|  (1) indicates a preference, limitation,  
+| specification, or discrimination based on race, color, disability,  
+| religion, sex, national origin, [ ~~or~~ ] age _, sexual orientation, or_  
+| _gender identity or expression_ ; and  
+|  (2) concerns an employee's status, employment, or  
+| admission to or membership or participation in a labor union or  
+| training or retraining program.  
+|  SECTION 9. Section 21.102(c), Labor Code, is amended to  
+| read as follows:  
+|  (c) This section does not apply to standards of compensation  
+| or terms, conditions, or privileges of employment that are  
+| discriminatory on the basis of race, color, disability, religion,  
+| sex, national origin, [ ~~or~~ ] age _, sexual orientation, or gender_  
+| _identity or expression_.  
+|  SECTION 10. Section 21.112, Labor Code, is amended to read  
+| as follows:  
+|  Sec. 21.112. EMPLOYEES AT DIFFERENT LOCATIONS. An employer  
+| does not commit an unlawful employment practice by applying to  
+| employees who work in different locations different standards of  
+| compensation or different terms, conditions, or privileges of  
+| employment that are not discriminatory on the basis of race, color,  
+| disability, religion, sex, national origin, [ ~~or~~ ] age _, sexual_  
+| _orientation, or gender identity or expression_.  
+|  SECTION 11. Section 21.113, Labor Code, is amended to read  
+| as follows:  
+|  Sec. 21.113. IMBALANCE PLAN NOT REQUIRED. This chapter  
+| does not require a person subject to this chapter to grant  
+| preferential treatment to an individual or a group on the basis of  
+| race, color, disability, religion, sex, national origin, [ ~~or~~ ] age _,_  
+| _sexual orientation, or gender identity or expression_ because of an  
+| imbalance between:  
+|  (1) the total number or percentage of persons of that  
+| individual's or group's race, color, disability, religion, sex,  
+| national origin, [ ~~or~~ ] age _, sexual orientation, or gender identity_  
+| _or expression_ :  
+|  (A) employed by an employer;  
+|  (B) referred or classified for employment by an  
+| employment agency or labor organization;  
+|  (C) admitted to membership or classified by a  
+| labor organization; or  
+|  (D) admitted to or employed in an apprenticeship,  
+| on-the-job training, or other training or retraining program; and  
+|  (2) the total number or percentage of persons of that  
+| race, color, disability, religion, sex, national origin, [ ~~or~~ ] age _,_  
+| _sexual orientation, or gender identity or expression_ in:  
+|  (A) a community, this state, a region, or other  
+| area; or  
+|  (B) the available work force in a community, this  
+| state, a region, or other area.  
+|  SECTION 12. Section 21.120(b), Labor Code, is amended to  
+| read as follows:  
+|  (b) Subsection (a) does not apply to a policy adopted or  
+| applied with the intent to discriminate because of race, color,  
+| sex, national origin, religion, age, [ ~~or~~ ] disability _, sexual_  
+| _orientation, or gender identity or expression_.  
+|  SECTION 13. Section 21.122(a), Labor Code, is amended to  
+| read as follows:  
+|  (a) An unlawful employment practice based on disparate  
+| impact is established under this chapter only if:  
+|  (1) a complainant demonstrates that a respondent uses  
+| a particular employment practice that causes a disparate impact on  
+| the basis of race, color, sex, national origin, religion, [ ~~or~~ ]  
+| disability _, sexual orientation, or gender identity or expression_  
+| and the respondent fails to demonstrate that the challenged  
+| practice is job-related for the position in question and consistent  
+| with business necessity; or  
+|  (2) the complainant makes the demonstration in  
+| accordance with federal law as that law existed June 4, 1989, with  
+| respect to the concept of alternative employment practices, and the  
+| respondent refuses to adopt such an alternative employment  
+| practice.  
+|  SECTION 14. Section 21.124, Labor Code, is amended to read  
+| as follows:  
+|  Sec. 21.124. PROHIBITION AGAINST DISCRIMINATORY USE OF TEST  
+| SCORES. It is an unlawful employment practice for a respondent, in  
+| connection with the selection or referral of applicants for  
+| employment or promotion, to adjust the scores of, use different  
+| cutoff scores for, or otherwise alter the results of  
+| employment-related tests on the basis of race, color, sex, national  
+| origin, religion, age, [ ~~or~~ ] disability _, sexual orientation, or_  
+| _gender identity or expression_.  
+|  SECTION 15. The heading to Section 21.125, Labor Code, is  
+| amended to read as follows:  
+|  Sec. 21.125. CLARIFYING PROHIBITION AGAINST IMPERMISSIBLE  
+| CONSIDERATION OF RACE, COLOR, SEX, NATIONAL ORIGIN, RELIGION, AGE,  
+| [ ~~OR~~ ] DISABILITY _, SEXUAL ORIENTATION, OR GENDER IDENTITY OR_  
+| _EXPRESSION_ IN EMPLOYMENT PRACTICES.  
+|  SECTION 16. Section 21.125(a), Labor Code, is amended to  
+| read as follows:  
+|  (a) Except as otherwise provided by this chapter, an  
+| unlawful employment practice is established when the complainant  
+| demonstrates that race, color, sex, national origin, religion, age,  
+| [ ~~or~~ ] disability _, sexual orientation, or gender identity or_  
+| _expression_ was a motivating factor for an employment practice, even  
+| if other factors also motivated the practice, unless race, color,  
+| sex, national origin, religion, age, [ ~~or~~ ] disability _, sexual_  
+| _orientation, or gender identity or expression_ is combined with  
+| objective job-related factors to attain diversity in the employer's  
+| work force.  
+|  SECTION 17. Section 21.126, Labor Code, is amended to read  
+| as follows:  
+|  Sec. 21.126. COVERAGE OF PREVIOUSLY EXEMPT EMPLOYEES OF THE  
+| STATE OR POLITICAL SUBDIVISION OF THE STATE. It is an unlawful  
+| employment practice for a person elected to public office in this  
+| state or a political subdivision of this state to discriminate  
+| because of race, color, sex, national origin, religion, age, [ ~~or~~ ]  
+| disability _, sexual orientation, or gender identity or expression_  
+| against an individual who is an employee or applicant for  
+| employment to:  
+|  (1) serve on the elected official's personal staff;  
+|  (2) serve the elected official on a policy-making  
+| level; or  
+|  (3) serve the elected official as an immediate advisor  
+| with respect to the exercise of the constitutional or legal powers  
+| of the office.  
+|  SECTION 18. Section 21.152(a), Labor Code, is amended to  
+| read as follows:  
+|  (a) A political subdivision or two or more political  
+| subdivisions acting jointly may create a local commission to:  
+|  (1) promote the purposes of this chapter; and  
+|  (2) secure for all individuals in the jurisdiction of  
+| each political subdivision freedom from discrimination because of  
+| race, color, disability, religion, sex, national origin, [ ~~or~~ ] age _,_  
+| _sexual orientation, or gender identity or expression_.  
+|  SECTION 19. Section 21.155(a), Labor Code, is amended to  
+| read as follows:  
+|  (a) The _commission_ [ ~~Commission on Human Rights~~ ] shall refer  
+| a complaint concerning discrimination in employment because of  
+| race, color, disability, religion, sex, national origin, [ ~~or~~ ] age _,_  
+| _sexual orientation, or gender identity or expression_ that is filed  
+| with that commission to a local commission with the necessary  
+| investigatory and conciliatory powers if:  
+|  (1) the complaint has been referred to the _commission_  
+| [ ~~Commission on Human Rights~~ ] by the federal government; or  
+|  (2) jurisdiction over the subject matter of the  
+| complaint has been deferred to the _commission_ [ ~~Commission on Human~~  
+|  ~~Rights~~ ] by the federal government.  
+|  SECTION 20. Section 301.003, Property Code, is amended by  
+| amending Subdivision (6) and adding Subdivisions (9-a) and (10-a)  
+| to read as follows:  
+|  (6) "Disability" means a mental or physical impairment  
+| that substantially limits at least one major life activity, a  
+| record of the impairment, or being regarded as having the  
+| impairment. The term does not include current illegal use _of_ or  
+| addiction to any drug or illegal or federally controlled substance  
+| [ ~~and does not apply to an individual because of an individual's~~  
+|  ~~sexual orientation or because that individual is a transvestite~~ ].  
+|  _(9-a)_ _____"Gender identity or expression" means having or_  
+| _being perceived as having a gender-related identity, appearance,_  
+| _expression, or behavior, regardless of whether that identity,_  
+| _appearance, expression, or behavior is different from that commonly_  
+| _associated with the individual's actual or perceived sex._  
+|  _(10-a)_ _____"Sexual orientation" means the actual or_  
+| _perceived status of an individual with respect to the individual's_  
+| _sexuality._  
+|  SECTION 21. Sections 301.021(a) and (b), Property Code, are  
+| amended to read as follows:  
+|  (a) A person may not refuse to sell or rent, after the making  
+| of a bona fide offer, refuse to negotiate for the sale or rental of,  
+| or in any other manner make unavailable or deny a dwelling to  
+| another because of race, color, religion, sex, familial status,  
+| [ ~~or~~ ] national origin _, sexual orientation, or gender identity or_  
+| _expression_.  
+|  (b) A person may not discriminate against another in the  
+| terms, conditions, or privileges of sale or rental of a dwelling or  
+| in providing services or facilities in connection with a sale or  
+| rental of a dwelling because of race, color, religion, sex,  
+| familial status, [ ~~or~~ ] national origin _, sexual orientation, or_  
+| _gender identity or expression_.  
+|  SECTION 22. Section 301.022, Property Code, is amended to  
+| read as follows:  
+|  Sec. 301.022. PUBLICATION. A person may not make, print, or  
+| publish or effect the making, printing, or publishing of a notice,  
+| statement, or advertisement that is about the sale or rental of a  
+| dwelling and that indicates any preference, limitation, or  
+| discrimination or the intention to make a preference, limitation,  
+| or discrimination because of race, color, religion, sex,  
+| disability, familial status, [ ~~or~~ ] national origin _, sexual_  
+| _orientation, or gender identity or expression_.  
+|  SECTION 23. Section 301.023, Property Code, is amended to  
+| read as follows:  
+|  Sec. 301.023. INSPECTION. A person may not represent to  
+| another because of race, color, religion, sex, disability, familial  
+| status, [ ~~or~~ ] national origin _, sexual orientation, or gender_  
+| _identity or expression_ that a dwelling is not available for  
+| inspection for sale or rental when the dwelling is available for  
+| inspection.  
+|  SECTION 24. Section 301.024, Property Code, is amended to  
+| read as follows:  
+|  Sec. 301.024. ENTRY INTO NEIGHBORHOOD. A person may not,  
+| for profit, induce or attempt to induce another to sell or rent a  
+| dwelling by representations regarding the entry or prospective  
+| entry into a neighborhood of a person of a particular race, color,  
+| religion, sex, disability, familial status, [ ~~or~~ ] national origin _,_  
+| _sexual orientation, or gender identity or expression_.  
+|  SECTION 25. Section 301.026(a), Property Code, is amended  
+| to read as follows:  
+|  (a) A person whose business includes engaging in  
+| residential real estate related transactions may not discriminate  
+| against another in making a real estate related transaction  
+| available or in the terms or conditions of a real estate related  
+| transaction because of race, color, religion, sex, disability,  
+| familial status, [ ~~or~~ ] national origin _, sexual orientation, or_  
+| _gender identity or expression_.  
+|  SECTION 26. Section 301.027, Property Code, is amended to  
+| read as follows:  
+|  Sec. 301.027. BROKERAGE SERVICES. A person may not deny  
+| another access to, or membership or participation in, a  
+| multiple-listing service, real estate brokers' organization, or  
+| other service, organization, or facility relating to the business  
+| of selling or renting dwellings, or discriminate against a person  
+| in the terms or conditions of access, membership, or participation  
+| in such an organization, service, or facility because of race,  
+| color, religion, sex, disability, familial status, [ ~~or~~ ] national  
+| origin _, sexual orientation, or gender identity or expression_.  
+|  SECTION 27. Sections 301.042(a) and (c), Property Code, are  
+| amended to read as follows:  
+|  (a) This chapter does not prohibit a religious  
+| organization, association, or society or a nonprofit institution or  
+| organization operated, supervised, or controlled by or in  
+| conjunction with a religious organization, association, or society  
+| from:  
+|  (1) limiting the sale, rental, or occupancy of  
+| dwellings that it owns or operates for other than a commercial  
+| purpose to persons of the same religion; or  
+|  (2) giving preference to persons of the same religion,  
+| unless membership in the religion is restricted because of race,  
+| color, [ ~~or~~ ] national origin _, sexual orientation, or gender identity_  
+| _or expression_.  
+|  (c) This chapter does not prohibit a person engaged in the  
+| business of furnishing appraisals of real property from considering  
+| in those appraisals factors other than race, color, religion, sex,  
+| disability, familial status, [ ~~or~~ ] national origin _, sexual_  
+| _orientation, or gender identity or expression_.  
+|  SECTION 28. Section 301.068, Property Code, is amended to  
+| read as follows:  
+|  Sec. 301.068. REFERRAL TO MUNICIPALITY. _(a) Subject to_  
+| _Subsection (b), the_ [ ~~The~~ ] commission may defer proceedings under  
+| this chapter and refer a complaint to a municipality that has been  
+| certified by the federal Department of Housing and Urban  
+| Development as a substantially equivalent fair housing agency.  
+|  _(b)_ _____The commission may not defer proceedings and refer a_  
+| _complaint under Subsection (a) to a municipality in which the_  
+| _alleged discrimination occurred if:_  
+|  _(1)_ _____the complaint alleges discrimination based on_  
+| _sexual orientation or gender identity or expression; and_  
+|  _(2)_ _____the municipality does not have laws prohibiting_  
+| _the alleged discrimination._  
+|  SECTION 29. Section 301.171(a), Property Code, is amended  
+| to read as follows:  
+|  (a) A person commits an offense if the person, without  
+| regard to whether the person is acting under color of law, by force  
+| or threat of force intentionally intimidates or interferes with a  
+| person:  
+|  (1) because of the person's race, color, religion,  
+| sex, disability, familial status, [ ~~or~~ ] national origin _, sexual_  
+| _orientation, or gender identity or expression_ and because the  
+| person is or has been selling, purchasing, renting, financing,  
+| occupying, or contracting or negotiating for the sale, purchase,  
+| rental, financing, or occupation of any dwelling or applying for or  
+| participating in a service, organization, or facility relating to  
+| the business of selling or renting dwellings; or  
+|  (2) because the person is or has been or to intimidate  
+| the person from:  
+|  (A) participating, without discrimination  
+| because of race, color, religion, sex, disability, familial status,  
+| [ ~~or~~ ] national origin, _sexual orientation, or gender identity or_  
+| _expression,_ in an activity, service, organization, or facility  
+| described by Subdivision (1); [ ~~or~~ ]  
+|  (B) affording another person opportunity or  
+| protection to so participate; or  
+|  (C) lawfully aiding or encouraging other persons  
+| to participate, without discrimination because of race, color,  
+| religion, sex, disability, familial status, [ ~~or~~ ] national origin,  
+| _sexual orientation, or gender identity or expression,_ in an  
+| activity, service, organization, or facility described by  
+| Subdivision (1).  
+|  SECTION 30. (a)  Section 2155.0065, Government Code, as  
+| added by this Act, applies only to a contract for which a state  
+| agency first advertises or otherwise solicits bids, proposals,  
+| offers, qualifications, or other similar expressions of interest on  
+| or after the effective date of this Act.  
+|  (b) The changes in law made by this Act to the Labor Code  
+| apply to conduct occurring on or after the effective date of this  
+| Act. Conduct occurring before that date is governed by the law in  
+| effect on the date the conduct occurred, and the former law is  
+| continued in effect for that purpose.  
+|  (c) The changes in law made by this Act to the Property Code  
+| apply only to a complaint filed with the Texas Workforce Commission  
+| on or after the effective date of this Act. A complaint filed  
+| before that date is governed by the law as it existed immediately  
+| before the effective date of this Act, and that law is continued in  
+| effect for that purpose.  
+|  SECTION 31. This Act takes effect September 1, 2019.
+

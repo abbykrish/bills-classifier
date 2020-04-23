@@ -1,0 +1,33 @@
+| 86R1713 GRM-F  
+---|---  
+|  By: Swanson | H.B. No. 88  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the order of candidate names on an election ballot.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2.002(d), Election Code, is amended to  
+| read as follows:  
+|  (d) The order of the candidates' names on the ballot shall  
+| be _the relative order of names on the original ballot_ [ ~~determined by~~  
+|  ~~a drawing in accordance with Section 52.094~~ ].  
+|  SECTION 2. Sections 52.094(a) and (c), Election Code, are  
+| amended to read as follows:  
+|  (a) Except as otherwise provided by law, for an election at  
+| which the names of more than one candidate for the same office are  
+| to appear on the ballot in an independent column or are to appear on  
+| a general or special election ballot that does not contain a party  
+| nominee, the order of the candidates' names shall be determined by a  
+| drawing. _The order of the candidates' names on the ballot of any_  
+| _resulting runoff election or election held to resolve a tie vote_  
+| _shall be the relative order of names on the original election_  
+| _ballot._  
+|  (c) The authority conducting the drawing shall post in the  
+| authority's office a notice of the date, hour, and place of the  
+| drawing. The notice must remain posted continuously for 72 hours  
+| immediately preceding the scheduled time of the drawing[ ~~, except~~  
+|  ~~that for a runoff election or an election held to resolve a tie~~  
+|  ~~vote, the notice must remain posted for 24 hours immediately~~  
+|  ~~preceding the scheduled time of the drawing~~ ].  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

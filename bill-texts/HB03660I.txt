@@ -1,0 +1,38 @@
+| 86R13507 JRJ-D  
+---|---  
+|  By: Turner of Tarrant | H.B. No. 3660  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the arrangement of party columns on the ballot.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 52.091, Election Code, is amended to  
+| read as follows:  
+|  Sec. 52.091. PARTY COLUMNS. [ ~~(a)~~ ] Party columns shall be  
+| arranged on the ballot _using methodical variation as follows:_  
+|  _(1)_ _____for the first precinct, the authority ordering the_  
+| _election shall conduct a drawing and arrange the party columns in_  
+| _the order the name of the party is drawn, beginning on the left;_  
+|  _(2)_ _____for the second precinct, the order of the party_  
+| _columns in the first precinct shall be rotated so that the party in_  
+| _the first column moves to the last column and each party column_  
+| _moves to the left by one position; and_  
+|  _(3)_ _____for any subsequent precinct, the order of party_  
+| _columns shall be rotated in the manner described by Subdivision (2)_  
+| [ ~~in the following order, beginning on the left:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~columns of parties with nominees for statewide or~~  
+|  ~~district offices;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~columns of parties without nominees for statewide~~  
+|  ~~or district offices.~~  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~Columns of parties specified by Subsection (a)(1)~~  
+|  ~~shall be arranged in descending order of the number of votes~~  
+|  ~~received statewide by each party's candidate for governor in the~~  
+|  ~~most recent gubernatorial general election, beginning on the left~~  
+|  ~~with the party whose candidate received the highest number of~~  
+|  ~~votes. Columns of parties that did not have a candidate for~~  
+|  ~~governor in the most recent gubernatorial general election shall~~  
+|  ~~appear after the columns of parties that had a candidate, and the~~  
+|  ~~order of their columns shall be determined by a drawing conducted by~~  
+|  ~~the secretary of state~~ ].  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

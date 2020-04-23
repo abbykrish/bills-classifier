@@ -1,0 +1,32 @@
+| 86R3647 SOS-D  
+---|---  
+|  By: Canales | H.B. No. 548  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to reporting certain truancy information through the  
+| Public Education Information Management System.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 42.006, Education Code, is amended by  
+| adding Subsection (a-6) to read as follows:  
+|  _(a-6)_ _____The commissioner by rule shall require each school_  
+| _district and open-enrollment charter school to report through the_  
+| _Public Education Information Management System information_  
+| _disaggregated by campus and grade regarding:_  
+|  _(1)_ _____the number of children who are required to attend_  
+| _school under Section 25.085 and fail to enroll;_  
+|  _(2)_ _____the number of children who are required to attend_  
+| _school under Section 25.085 and fail to attend school without_  
+| _excuse for 10 or more days or parts of days within a six-month_  
+| _period in the same school year;_  
+|  _(3)_ _____the number of students for whom the district_  
+| _initiates a truancy prevention measure under Section 25.0915(a-4);_  
+| _and_  
+|  _(4)_ _____the number of parents of students against whom an_  
+| _attendance officer or other appropriate school official has filed a_  
+| _complaint under Section 25.093._  
+|  SECTION 2. Not later than January 1, 2020, the commissioner  
+| of education shall adopt rules required by Section 42.006(a-6),  
+| Education Code, as added by this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

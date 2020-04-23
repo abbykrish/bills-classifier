@@ -1,0 +1,757 @@
+|  
+---|---  
+|  By: Coleman | H.B. No. 565  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to healthcare coverage in this state.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. STATE MEDICAID PROGRAM  
+|  SECTION 1.01. Subtitle I, Title 4, Government Code, is  
+| amended by adding Chapter 540 to read as follows:  
+| _SUBCHAPTER A. ACUTE CARE_  
+|  _Sec._ ___540.051._ _____ELIGIBILITY FOR MEDICAID ACUTE CARE. (a)_ ___An_  
+| _individual is eligible to receive acute care benefits under the_  
+| _state Medicaid program if the individual:_  
+|  _(1)_ _____has a household income at or below 100 percent of_  
+| _the federal poverty level;_  
+|  _(2) is under 19 years of age and:_  
+|  _(A)_ _____is receiving Supplemental Security Income_  
+| _(SSI) under 42 U.S.C. Section 1381 et seq.; or_  
+|  _(B)_ _____is in foster care or resides in another_  
+| _residential care setting under the conservatorship of the_  
+| _Department of Family and Protective Services; or_  
+|  _(3)_ _____meets the eligibility requirements that were in_  
+| _effect on September 1, 2013._  
+|  _(b)_ _____The commission shall provide acute care benefits under_  
+| _the state Medicaid program to each individual eligible under this_  
+| _section through the most cost-effective means, as determined by the_  
+| _commission._  
+|  _(c)_ _____If an individual is not eligible for the state Medicaid_  
+| _program under Subsection (a), the commission shall refer the_  
+| _individual to the program established under Chapter 541 that helps_  
+| _connect eligible residents with health benefit plan coverage_  
+| _through private market solutions, a health benefit exchange, or any_  
+| _other resource the commission determines appropriate._  
+|  _Sec._ ___540.052._ _____MEDICAID SLIDING SCALE SUBSIDIES._ ___(a)_ ___An_  
+| _individual who is eligible for the state Medicaid program under_  
+| _Section 540.051 may receive a Medicaid sliding scale subsidy to_  
+| _purchase a health benefit plan from an authorized health benefit_  
+| _plan issuer._  
+|  _(b)_ _____A sliding scale subsidy provided to an individual under_  
+| _this section must:_  
+|  _(1) be based on:_  
+|  _(A) the average premium in the market; and_  
+|  _(B)_ _____a realistic assessment of the_  
+| _individual's ability to pay a portion of the premium; and_  
+|  _(2)_ _____include an enhancement for individuals who choose_  
+| _a high deductible health plan with a health savings account._  
+|  _(c)_ _____The commission shall ensure that counselors are made_  
+| _available to individuals receiving a subsidy to advise the_  
+| _individuals on selecting a health benefit plan that meets the_  
+| _individuals' needs._  
+|  _(d)_ _____An individual receiving a subsidy under this section is_  
+| _responsible for paying:_  
+|  _(1)_ _____any difference between the premium costs_  
+| _associated with the purchase of a health benefit plan and the amount_  
+| _of the individual's subsidy under this section; and_  
+|  _(2)_ _____any copayments associated with the health benefit_  
+| _plan._  
+|  _(e)_ _____If the amount of a subsidy received by an individual_  
+| _under this section exceeds the premium costs associated with the_  
+| _individual's purchase of a health benefit plan, the individual may_  
+| _deposit the excess amount in a health savings account that may be_  
+| _used only in the manner described by Section 540.054(b)._  
+|  _Sec._ ___540.053._ _____ADDITIONAL COST-SHARING SUBSIDIES._ ___In_  
+| _addition to providing a subsidy to an individual under Section_  
+| _540.052, the commission shall provide additional subsidies for_  
+| _coinsurance payments, copayments, deductibles, and other_  
+| _cost-sharing requirements associated with the individual's health_  
+| _benefit plan._ ___The commission shall provide the additional_  
+| _subsidies on a sliding scale based on income._  
+|  _Sec._ ___540.054._ _____DELIVERY OF SUBSIDIES; HEALTH SAVINGS_  
+| _ACCOUNTS._ ___(a)_ ___The commission shall determine the most appropriate_  
+| _manner for delivering and administering subsidies provided under_  
+| _Sections 540.052 and 540.053. In determining the most appropriate_  
+| _manner, the commission shall consider depositing subsidy amounts_  
+| _for an individual in a health savings account established for that_  
+| _individual._  
+|  _(b)_ _____A health savings account established under this section_  
+| _may be used only to:_  
+|  _(1)_ _____pay health benefit plan premiums and cost-sharing_  
+| _amounts; and_  
+|  _(2)_ _____if appropriate, purchase health care-related_  
+| _goods and services._  
+|  _Sec._ ___540.055._ _____MEDICAID HEALTH BENEFIT PLAN ISSUERS AND_  
+| _MINIMUM COVERAGE._ ___The commission shall allow any health benefit_  
+| _plan issuer authorized to write health benefit plans in this state_  
+| _to participate in the state Medicaid program. The commission in_  
+| _consultation with the commissioner of insurance shall establish_  
+| _minimum coverage requirements for a health benefit plan to be_  
+| _eligible for purchase under the state Medicaid program, subject to_  
+| _the requirements specified by this chapter._  
+|  _Sec._ ___540.056._ _____REINSURANCE FOR PARTICIPATING HEALTH BENEFIT_  
+| _PLAN ISSUERS. (a)_ ___The commission in consultation with the_  
+| _commissioner of insurance shall study a reinsurance program to_  
+| _reinsure participating health benefit plan issuers._  
+|  _(b)_ _____In examining options for a reinsurance program, the_  
+| _commission and commissioner of insurance shall consider a plan_  
+| _design under which:_  
+|  _(1)_ _____a participating health benefit plan is not charged_  
+| _a premium for the reinsurance; and_  
+|  _(2)_ _____the health benefit plan issuer retains risk on a_  
+| _sliding scale._  
+| _SUBCHAPTER B. LONG-TERM SERVICES AND SUPPORTS_  
+|  _Sec._ ___540.101._ _____PLAN TO REFORM DELIVERY OF LONG-TERM SERVICES_  
+| _AND SUPPORTS. The commission shall develop a comprehensive plan to_  
+| _reform the delivery of long-term services and supports that is_  
+| _designed to achieve the following objectives under the state_  
+| _Medicaid program or any other program created as an alternative to_  
+| _the state Medicaid program:_  
+|  _(1) encourage consumer direction;_  
+|  _(2) simplify and streamline the provision of services;_  
+|  _(3)_ _____provide flexibility to design benefits packages_  
+| _that meet the needs of individuals receiving long-term services and_  
+| _supports under the program;_  
+|  _(4)_ _____improve the cost-effectiveness and sustainability_  
+| _of the provision of long-term services and supports;_  
+|  _(5) reduce reliance on institutional settings; and_  
+|  _(6)_ _____encourage cost sharing by family members when_  
+| _appropriate._  
+| ARTICLE 2. IMMEDIATE REFORM: PROGRAM TO ENSURE HEALTH BENEFIT  
+| COVERAGE FOR CERTAIN INDIVIDUALS THROUGH PRIVATE MARKETPLACE  
+|  SECTION 2.01. Subtitle I, Title 4, Government Code, is  
+| amended by adding Chapter 541 to read as follows:  
+| _CHAPTER 541. PROGRAM TO ENSURE HEALTH BENEFIT PLAN COVERAGE FOR_  
+| _CERTAIN INDIVIDUALS THROUGH PRIVATE MARKET SOLUTIONS_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec._ ___541.001._ _____DEFINITION. In this chapter, "medical_  
+| _assistance program" means the program established under Chapter 32,_  
+| _Human Resources Code._  
+|  _Sec._ ___541.002._ _____CONFLICT WITH OTHER LAW. (a)_ ___Except as_  
+| _provided by Subsection (b), to the extent of a conflict between a_  
+| _provision of this chapter and:_  
+|  _(1)_ _____another provision of state law, the provision of_  
+| _this chapter controls; and_  
+|  _(2)_ _____a provision of federal law or any authorization_  
+| _described under Subchapter B, the federal law or authorization_  
+| _controls._  
+|  _(b)_ _____The program operated under this chapter is in addition_  
+| _to any medical assistance program operated under a block grant_  
+| _funding system under Chapter 540._  
+|  _Sec._ ___541.003._ _____PROGRAM FOR HEALTH BENEFIT PLAN COVERAGE_  
+| _THROUGH PRIVATE MARKET SOLUTIONS. Subject to the requirements of_  
+| _this chapter, the commission in consultation with the Texas_  
+| _Department of Insurance shall develop and implement a program that_  
+| _helps connect certain low-income residents of this state with_  
+| _health benefit plan coverage through private market solutions._  
+|  _Sec._ ___541.004._ _____NOT AN ENTITLEMENT._ ___This chapter does not_  
+| _establish an entitlement to assistance in obtaining health benefit_  
+| _plan coverage._  
+|  _Sec._ ___541.005._ _____RULES. The executive commissioner shall_  
+| _adopt rules necessary to implement this chapter._  
+| _SUBCHAPTER B. FEDERAL AUTHORIZATION_  
+|  _Sec._ ___541.051._ _____FEDERAL AUTHORIZATION FOR FLEXIBILITY TO_  
+| _ESTABLISH PROGRAM. (a)_ ___The commission in consultation with the_  
+| _Texas Department of Insurance shall negotiate with the United_  
+| _States secretary of health and human services, the federal Centers_  
+| _for Medicare and Medicaid Services, and other appropriate persons_  
+| _for purposes of seeking a waiver or other authorization necessary_  
+| _to obtain the flexibility to use federal matching funds to help_  
+| _provide, in accordance with Subchapter C, health benefit plan_  
+| _coverage to certain low-income individuals through private market_  
+| _solutions._  
+|  _(b) Any agreement reached under this section must:_  
+|  _(1)_ _____create a program that is made cost neutral to this_  
+| _state by:_  
+|  _(A) leveraging premium tax revenues; and_  
+|  _(B)_ _____achieving cost savings through offsets to_  
+| _general revenue health care costs or the implementation of other_  
+| _cost savings mechanisms;_  
+|  _(2)_ _____create more efficient health benefit plan coverage_  
+| _options for eligible individuals through:_  
+|  _(A)_ _____program changes that may be made without the_  
+| _need for additional federal approval; and_  
+|  _(B)_ _____program changes that require additional_  
+| _federal approval;_  
+|  _(3)_ _____require the commission to achieve efficiency and_  
+| _reduce unnecessary utilization, including duplication, of health_  
+| _care services;_  
+|  _(4) be designed with the goals of:_  
+|  _(A) relieving local tax burdens;_  
+|  _(B)_ _____reducing general revenue reliance so as to_  
+| _make general revenue available for other state priorities; and_  
+|  _(C)_ _____minimizing the impact of any federal health_  
+| _care laws on Texas-based businesses; and_  
+|  _(5)_ _____afford this state the opportunity to develop a_  
+| _state-specific way with benefits that specifically meet the unique_  
+| _needs of this state's population._  
+|  _(c) An agreement reached under this section may be:_  
+|  _(1) limited in duration; and_  
+|  _(2)_ _____contingent on continued funding by the federal_  
+| _government._  
+| _SUBCHAPTER C. PROGRAM REQUIREMENTS_  
+|  _Sec._ ___541.101._ _____ENROLLMENT ELIGIBILITY. (a)_ ___Subject to_  
+| _Subsection (b), an individual may be eligible to enroll in a program_  
+| _designed and established under this chapter if the person:_  
+|  _(1) is younger than 65;_  
+|  _(2)_ _____has a household income at or below 133 percent of_  
+| _the federal poverty level; and_  
+|  _(3)_ _____is not otherwise eligible to receive benefits_  
+| _under the medical assistance program, including through a program_  
+| _operated under Chapter 540 through a block grant funding system or a_  
+| _waiver, other than one granted under this chapter, to the program._  
+|  _(b)_ _____The executive commissioner may amend or further define_  
+| _the eligibility requirements of this section if the commission_  
+| _determines it necessary to reach an agreement under Subchapter B._  
+|  _Sec._ ___541.102._ _____MINIMUM PROGRAM REQUIREMENTS._ ___A program_  
+| _designed and established under this chapter must:_  
+|  _(1)_ _____if cost-effective for this state, provide premium_  
+| _assistance to purchase health benefit plan coverage in the private_  
+| _market, including health benefit plan coverage offered through a_  
+| _managed care delivery model;_  
+|  _(2)_ _____provide enrollees with access to health benefits,_  
+| _including benefits provided through a managed care delivery model,_  
+| _that:_  
+|  _(A) are tailored to the enrollees;_  
+|  _(B)_ _____provide levels of coverage that are_  
+| _customized to meet health care needs of individuals within defined_  
+| _categories of the enrolled population; and_  
+|  _(C)_ _____emphasize personal responsibility and_  
+| _accountability through flexible and meaningful cost-sharing_  
+| _requirements and wellness initiatives, including through_  
+| _incentives for compliance with health, wellness, and treatment_  
+| _strategies and disincentives for noncompliance;_  
+|  _(3)_ _____include pay-for-performance initiatives for_  
+| _private health benefit plan issuers that participate in the_  
+| _program;_  
+|  _(4)_ _____use technology to maximize the efficiency with_  
+| _which the commission and any health benefit plan issuer, health_  
+| _care provider, or managed care organization participating in the_  
+| _program manages enrollee participation;_  
+|  _(5)_ _____allow recipients under the medical assistance_  
+| _program to enroll in the program to receive premium assistance as an_  
+| _alternative to the medical assistance program;_  
+|  _(6)_ _____encourage eligible individuals to enroll in other_  
+| _private or employer-sponsored health benefit plan coverage, if_  
+| _available and appropriate;_  
+|  _(7)_ _____encourage the utilization of health care services_  
+| _in the most appropriate low-cost settings; and_  
+|  _(8)_ _____establish health savings accounts for enrollees,_  
+| _as appropriate._  
+|  SECTION 2.02. The Health and Human Services Commission in  
+| consultation with the Texas Department of Insurance and the  
+| Medicaid Reform Task Force shall actively develop a proposal for  
+| the authorization from the appropriate federal entity as required  
+| by Subchapter B, Chapter 541, Government Code, as added by this  
+| article. As soon as possible after the effective date of this Act,  
+| the Health and Human Services Commission shall request and actively  
+| pursue obtaining the authorization from the appropriate federal  
+| entity.  
+| ARTICLE 3. FEDERAL AUTHORIZATION  
+|  SECTION 3.01. Subject to Section 2.02 of this Act, if before  
+| implementing any provision of this Act a state agency determines  
+| that a waiver or authorization from a federal agency is necessary  
+| for implementation of that provision, the agency affected by the  
+| provision shall request the waiver or authorization and may delay  
+| implementing that provision until the waiver or authorization is  
+| granted.  
+| ARTICLE 4. HEALTH BENEFIT AFFORDABILITY AND ACCESSIBILITY  
+|  SECTION 4.01. Subtitle A, Title 8, Insurance Code, is  
+| amended by adding Chapter 1218 to read as follows:  
+| _CHAPTER 1218. HEALTH BENEFIT AFFORDABILITY AND ACCESSIBILITY_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec._ ___1218.001._ _____APPLICABILITY OF CHAPTER. (a)_ ___This chapter_  
+| _applies only to a health benefit plan that provides benefits for_  
+| _medical or surgical expenses incurred as a result of a health_  
+| _condition, accident, or sickness, including an individual, group,_  
+| _blanket, or franchise insurance policy or insurance agreement, a_  
+| _group hospital service contract, or an individual or group evidence_  
+| _of coverage or similar coverage document that is issued by:_  
+|  _(1) an insurance company;_  
+|  _(2)_ _____a group hospital service corporation operating_  
+| _under Chapter 842;_  
+|  _(3)_ _____a health maintenance organization operating under_  
+| _Chapter 843;_  
+|  _(4)_ _____an approved nonprofit health corporation that_  
+| _holds a certificate of authority under Chapter 844;_  
+|  _(5)_ _____a multiple employer welfare arrangement that holds_  
+| _a certificate of authority under Chapter 846;_  
+|  _(6)_ _____a stipulated premium company operating under_  
+| _Chapter 884;_  
+|  _(7)_ _____a fraternal benefit society operating under_  
+| _Chapter 885;_  
+|  _(8) a Lloyd's plan operating under Chapter 941; or_  
+|  _(9) an exchange operating under Chapter 942._  
+|  _(b) Notwithstanding any other law, this chapter applies to:_  
+|  _(1)_ _____a small employer health benefit plan subject to_  
+| _Chapter 1501, including coverage provided through a health group_  
+| _cooperative under Subchapter B of that chapter;_  
+|  _(2)_ _____a standard health benefit plan issued under_  
+| _Chapter 1507;_  
+|  _(3) a basic coverage plan under Chapter 1551;_  
+|  _(4) a basic plan under Chapter 1575;_  
+|  _(5) a primary care coverage plan under Chapter 1579;_  
+|  _(6)_ _____a plan providing basic coverage under Chapter_  
+| _1601;_  
+|  _(7)_ _____health benefits provided by or through a church_  
+| _benefits board under Subchapter I, Chapter 22, Business_  
+| _Organizations Code;_  
+|  _(8)_ _____group health coverage made available by a school_  
+| _district in accordance with Section 22.004, Education Code;_  
+|  _(9)_ _____the state Medicaid program, including the Medicaid_  
+| _managed care program operated under Chapter 533, Government Code;_  
+|  _(10)_ _____the child health plan program under Chapter 62,_  
+| _Health and Safety Code;_  
+|  _(11)_ _____a regional or local health care program operated_  
+| _under Section 75.104, Health and Safety Code;_  
+|  _(12)_ _____a self-funded health benefit plan sponsored by a_  
+| _professional employer organization under Chapter 91, Labor Code;_  
+|  _(13)_ _____county employee group health benefits provided_  
+| _under Chapter 157, Local Government Code; and_  
+|  _(14)_ _____health and accident coverage provided by a risk_  
+| _pool created under Chapter 172, Local Government Code._  
+|  _(c)_ _____This chapter applies to coverage under a group health_  
+| _benefit plan provided to a resident of this state regardless of_  
+| _whether the group policy, agreement, or contract is delivered,_  
+| _issued for delivery, or renewed in this state._  
+|  _Sec._ ___1218.002._ _____EXCEPTIONS. (a) This chapter does not apply_  
+| _to:_  
+|  _(1) a plan that provides coverage:_  
+|  _(A)_ _____for wages or payments in lieu of wages for a_  
+| _period during which an employee is absent from work because of_  
+| _sickness or injury;_  
+|  _(B)_ _____as a supplement to a liability insurance_  
+| _policy;_  
+|  _(C) for credit insurance;_  
+|  _(D) only for dental or vision care;_  
+|  _(E) only for hospital expenses; or_  
+|  _(F) only for indemnity for hospital confinement;_  
+|  _(2)_ _____a Medicare supplemental policy as defined by_  
+| _Section 1882(g)(1), Social Security Act (42 U.S.C. Section_  
+| _1395ss(g)(1));_  
+|  _(3) a workers' compensation insurance policy;_  
+|  _(4)_ _____medical payment insurance coverage provided under_  
+| _a motor vehicle insurance policy; or_  
+|  _(5)_ _____a long-term care policy, including a nursing home_  
+| _fixed indemnity policy, unless the commissioner determines that the_  
+| _policy provides benefit coverage so comprehensive that the policy_  
+| _is a health benefit plan as described by Section 1218.001._  
+|  _(b)_ _____This chapter does not apply to an individual health_  
+| _benefit plan issued on or before March 23, 2010, that has not had_  
+| _any significant changes since that date that reduce benefits or_  
+| _increase costs to the individual._  
+|  _Sec._ ___1218.003._ _____CONFLICT WITH OTHER LAW. If this chapter_  
+| _conflicts with another law relating to lifetime or annual benefit_  
+| _limits or the imposition of a premium, deductible, copayment,_  
+| _coinsurance, or other cost-sharing provision, this chapter_  
+| _controls._  
+| _SUBCHAPTER B. CERTAIN COST-SHARING AND COVERAGE AMOUNT LIMITS_  
+| _PROHIBITED_  
+|  _Sec._ ___1218.051._ _____CERTAIN COST-SHARING PROVISIONS FOR_  
+| _PREVENTIVE SERVICES PROHIBITED._ ___A health benefit plan issuer may_  
+| _not impose a deductible, copayment, coinsurance, or other_  
+| _cost-sharing provision applicable to benefits for:_  
+|  _(1)_ _____a preventive item or service that has in effect a_  
+| _rating of "A" or "B" in the most recent recommendations of the_  
+| _United States Preventive Services Task Force;_  
+|  _(2)_ _____an immunization recommended for routine use in the_  
+| _most recent immunization schedules published by the United States_  
+| _Centers for Disease Control and Prevention of the United States_  
+| _Public Health Service; or_  
+|  _(3)_ _____preventive care and screenings supported by the_  
+| _most recent comprehensive guidelines adopted by the United States_  
+| _Health Resources and Services Administration._  
+|  _Sec._ ___1218.052._ _____CERTAIN ANNUAL AND LIFETIME LIMITS_  
+| _PROHIBITED._ ___A health benefit plan issuer may not establish an_  
+| _annual or lifetime benefit amount for an enrollee in relation to_  
+| _essential health benefits listed in 42 U.S.C. Section 18022(b)(1),_  
+| _as that section existed on January 1, 2019, and other benefits_  
+| _identified by the United States secretary of health and human_  
+| _services as essential health benefits as of that date._  
+|  _Sec._ ___1218.053._ _____LIMITATIONS ON COST-SHARING._ ___A health_  
+| _benefit plan issuer may not impose cost-sharing requirements that_  
+| _exceed the limits established in 42 U.S.C. Section 18022(c)(1) in_  
+| _relation to essential health benefits listed in 42 U.S.C. Section_  
+| _18022(b)(1), as those sections existed on January 1, 2019, and_  
+| _other benefits identified by the United States secretary of health_  
+| _and human services as essential health benefits as of that date._  
+|  _Sec._ ___1218.054._ _____DISCRIMINATION BASED ON GENDER PROHIBITED. A_  
+| _health benefit plan issuer may not charge an individual a higher_  
+| _premium rate based on the individual's gender._  
+| _SUBCHAPTER C. COVERAGE OF PREEXISTING CONDITIONS_  
+|  _Sec._ ___1218.101._ _____DEFINITION. In this subchapter,_  
+| _"preexisting condition" means a condition present before the_  
+| _effective date of an individual's coverage under a health benefit_  
+| _plan._  
+|  _Sec._ ___1218.102._ _____PREEXISTING CONDITION RESTRICTIONS_  
+| _PROHIBITED._ ___Notwithstanding any other law, a health benefit plan_  
+| _issuer may not:_  
+|  _(1)_ _____deny an individual's application for coverage or_  
+| _refuse to enroll an individual in a health benefit plan due to a_  
+| _preexisting condition;_  
+|  _(2)_ _____limit or exclude coverage under the health benefit_  
+| _plan for the treatment of a preexisting condition otherwise covered_  
+| _under the plan; or_  
+|  _(3)_ _____charge the individual more for coverage than the_  
+| _health benefit plan issuer charges an individual who does not have a_  
+| _preexisting condition._  
+| _SUBCHAPTER D. EXTERNAL REVIEW PROCEDURE_  
+|  _Sec._ ___1218.151._ _____EXTERNAL REVIEW MODEL ACT RULES. (a)_ ___The_  
+| _department shall adopt rules as necessary to conform Texas law with_  
+| _the requirements of the NAIC Uniform Health Carrier External Review_  
+| _Model Act (April 2010)._  
+|  _(b)_ _____To the extent that the rules adopted under this section_  
+| _conflict with Chapter 843 or Title 14, the rules control._  
+|  ARTICLE 5. HEALTH BENEFIT PLAN COVERAGE FOR MENTAL HEALTH  
+| CONDITIONS AND SUBSTANCE USE DISORDERS  
+|  SECTION 5.01. Chapter 1355, Insurance Code, is amended by  
+| adding Subchapter F to read as follows:  
+| _SUBCHAPTER F. COVERAGE FOR MENTAL HEALTH CONDITIONS AND SUBSTANCE_  
+| _USE DISORDERS_  
+|  _Sec. 1355.251. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Financial requirement" includes a requirement_  
+| _relating to a deductible, copayment, coinsurance, or other_  
+| _out-of-pocket expense or an annual or lifetime limit._  
+|  _(2)_ _____"Mental health benefit" means a benefit relating_  
+| _to an item or service for a mental health condition, as defined_  
+| _under the terms of a health benefit plan and in accordance with_  
+| _applicable federal and state law._  
+|  _(3) "Nonquantitative treatment limitation" includes:_  
+|  _(A)_ _____a medical management standard limiting or_  
+| _excluding benefits based on medical necessity or medical_  
+| _appropriateness or based on whether a treatment is experimental or_  
+| _investigational;_  
+|  _(B) formulary design for prescription drugs;_  
+|  _(C) network tier design;_  
+|  _(D)_ _____a standard for provider participation in a_  
+| _network, including reimbursement rates;_  
+|  _(E)_ _____a method used by a health benefit plan to_  
+| _determine usual, customary, and reasonable charges;_  
+|  _(F) a step therapy protocol;_  
+|  _(G)_ _____an exclusion based on failure to complete a_  
+| _course of treatment; and_  
+|  _(H)_ _____a restriction based on geographic location,_  
+| _facility type, provider specialty, and other criteria that limit_  
+| _the scope or duration of a benefit._  
+|  _(4)_ _____"Substance use disorder benefit" means a benefit_  
+| _relating to an item or service for a substance use disorder, as_  
+| _defined under the terms of a health benefit plan and in accordance_  
+| _with applicable federal and state law._  
+|  _(5)_ _____"Treatment limitation" includes a limit on the_  
+| _frequency of treatment, number of visits, days of coverage, or_  
+| _other similar limit on the scope or duration of treatment._ ___The term_  
+| _includes a nonquantitative treatment limitation._  
+|  _Sec._ ___1355.252._ _____APPLICABILITY OF SUBCHAPTER. (a)_ ___This_  
+| _subchapter applies only to a health benefit plan that provides_  
+| _benefits for medical or surgical expenses incurred as a result of a_  
+| _health condition, accident, or sickness, including an individual,_  
+| _group, blanket, or franchise insurance policy or insurance_  
+| _agreement, a group hospital service contract, or an individual or_  
+| _group evidence of coverage or similar coverage document that is_  
+| _issued by:_  
+|  _(1) an insurance company;_  
+|  _(2)_ _____a group hospital service corporation operating_  
+| _under Chapter 842;_  
+|  _(3)_ _____a health maintenance organization operating under_  
+| _Chapter 843;_  
+|  _(4)_ _____an approved nonprofit health corporation that_  
+| _holds a certificate of authority under Chapter 844;_  
+|  _(5)_ _____a multiple employer welfare arrangement that holds_  
+| _a certificate of authority under Chapter 846;_  
+|  _(6)_ _____a stipulated premium company operating under_  
+| _Chapter 884;_  
+|  _(7)_ _____a fraternal benefit society operating under_  
+| _Chapter 885;_  
+|  _(8) a Lloyd's plan operating under Chapter 941; or_  
+|  _(9) an exchange operating under Chapter 942._  
+|  _(b)_ _____Notwithstanding any other law, this subchapter applies_  
+| _to:_  
+|  _(1)_ _____a small employer health benefit plan subject to_  
+| _Chapter 1501, including coverage provided through a health group_  
+| _cooperative under Subchapter B of that chapter;_  
+|  _(2)_ _____a standard health benefit plan issued under_  
+| _Chapter 1507;_  
+|  _(3) a basic coverage plan under Chapter 1551;_  
+|  _(4) a basic plan under Chapter 1575;_  
+|  _(5) a primary care coverage plan under Chapter 1579;_  
+|  _(6)_ _____a plan providing basic coverage under Chapter_  
+| _1601;_  
+|  _(7)_ _____health benefits provided by or through a church_  
+| _benefits board under Subchapter I, Chapter 22, Business_  
+| _Organizations Code;_  
+|  _(8)_ _____group health coverage made available by a school_  
+| _district in accordance with Section 22.004, Education Code;_  
+|  _(9)_ _____the state Medicaid program, including the Medicaid_  
+| _managed care program operated under Chapter 533, Government Code;_  
+|  _(10)_ _____the child health plan program under Chapter 62,_  
+| _Health and Safety Code;_  
+|  _(11)_ _____a regional or local health care program operated_  
+| _under Section 75.104, Health and Safety Code;_  
+|  _(12)_ _____a self-funded health benefit plan sponsored by a_  
+| _professional employer organization under Chapter 91, Labor Code;_  
+|  _(13)_ _____county employee group health benefits provided_  
+| _under Chapter 157, Local Government Code; and_  
+|  _(14)_ _____health and accident coverage provided by a risk_  
+| _pool created under Chapter 172, Local Government Code._  
+|  _(c)_ _____This subchapter applies to coverage under a group health_  
+| _benefit plan provided to a resident of this state regardless of_  
+| _whether the group policy, agreement, or contract is delivered,_  
+| _issued for delivery, or renewed in this state._  
+|  _Sec._ ___1355.253._ _____EXCEPTION. This subchapter does not apply_  
+| _to an individual health benefit plan issued on or before March 23,_  
+| _2010, that has not had any significant changes since that date that_  
+| _reduce benefits or increase costs to the individual._  
+|  _Sec._ ___1355.254._ _____REQUIRED COVERAGE FOR MENTAL HEALTH_  
+| _CONDITIONS AND SUBSTANCE USE DISORDERS. (a)_ ___A health benefit plan_  
+| _must provide benefits for mental health conditions and substance_  
+| _use disorders under the same terms and conditions applicable to_  
+| _benefits for medical or surgical expenses._  
+|  _(b)_ _____Coverage under Subsection (a) may not impose treatment_  
+| _limitations or financial requirements on benefits for a mental_  
+| _health condition or substance use disorder that are generally more_  
+| _restrictive than treatment limitations or financial requirements_  
+| _imposed on coverage of benefits for medical or surgical expenses._  
+|  _Sec._ ___1355.255._ _____DEFINITIONS UNDER PLAN._ ___(a)_ ___A health_  
+| _benefit plan must define a condition to be a mental health condition_  
+| _or not a mental health condition in a manner consistent with_  
+| _generally recognized independent standards of medical practice._  
+|  _(b)_ _____A health benefit plan must define a condition to be a_  
+| _substance use disorder or not a substance use disorder in a manner_  
+| _consistent with generally recognized independent standards of_  
+| _medical practice._  
+|  _Sec._ ___1355.256._ _____COORDINATION WITH OTHER LAW; INTENT OF_  
+| _LEGISLATURE._ ___This subchapter supplements Subchapters A and B of_  
+| _this chapter and Chapter 1368 and the department rules adopted_  
+| _under those statutes. It is the intent of the legislature that_  
+| _Subchapter A or B of this chapter or Chapter 1368 or the department_  
+| _rules adopted under those statutes controls in any circumstance in_  
+| _which that other law requires:_  
+|  _(1)_ _____a benefit that is not required by this subchapter;_  
+| _or_  
+|  _(2)_ _____a more extensive benefit than is required by this_  
+| _subchapter._  
+|  _Sec._ ___1355.257._ _____RULES. The commissioner shall adopt rules_  
+| _necessary to implement this subchapter._  
+| ARTICLE 6. COVERAGE OF ESSENTIAL HEALTH BENEFITS  
+|  SECTION 6.01. Subtitle E, Title 8, Insurance Code, is  
+| amended by adding Chapter 1380 to read as follows:  
+| _CHAPTER 1380. COVERAGE OF ESSENTIAL HEALTH BENEFITS_  
+|  _Sec._ ___1380.001._ _____APPLICABILITY OF CHAPTER. (a)_ ___This chapter_  
+| _applies only to a health benefit plan that provides benefits for_  
+| _medical or surgical expenses incurred as a result of a health_  
+| _condition, accident, or sickness, including an individual, group,_  
+| _blanket, or franchise insurance policy or insurance agreement, a_  
+| _group hospital service contract, or an individual or group evidence_  
+| _of coverage or similar coverage document that is issued by:_  
+|  _(1) an insurance company;_  
+|  _(2)_ _____a group hospital service corporation operating_  
+| _under Chapter 842;_  
+|  _(3)_ _____a health maintenance organization operating under_  
+| _Chapter 843;_  
+|  _(4)_ _____an approved nonprofit health corporation that_  
+| _holds a certificate of authority under Chapter 844;_  
+|  _(5)_ _____a multiple employer welfare arrangement that holds_  
+| _a certificate of authority under Chapter 846;_  
+|  _(6)_ _____a stipulated premium company operating under_  
+| _Chapter 884;_  
+|  _(7)_ _____a fraternal benefit society operating under_  
+| _Chapter 885;_  
+|  _(8) a Lloyd's plan operating under Chapter 941; or_  
+|  _(9) an exchange operating under Chapter 942._  
+|  _(b) Notwithstanding any other law, this chapter applies to:_  
+|  _(1)_ _____a small employer health benefit plan subject to_  
+| _Chapter 1501, including coverage provided through a health group_  
+| _cooperative under Subchapter B of that chapter;_  
+|  _(2)_ _____a standard health benefit plan issued under_  
+| _Chapter 1507;_  
+|  _(3) a basic coverage plan under Chapter 1551;_  
+|  _(4) a basic plan under Chapter 1575;_  
+|  _(5) a primary care coverage plan under Chapter 1579;_  
+|  _(6)_ _____a plan providing basic coverage under Chapter_  
+| _1601;_  
+|  _(7)_ _____health benefits provided by or through a church_  
+| _benefits board under Subchapter I, Chapter 22, Business_  
+| _Organizations Code;_  
+|  _(8)_ _____group health coverage made available by a school_  
+| _district in accordance with Section 22.004, Education Code;_  
+|  _(9)_ _____the state Medicaid program, including the Medicaid_  
+| _managed care program operated under Chapter 533, Government Code;_  
+|  _(10)_ _____the child health plan program under Chapter 62,_  
+| _Health and Safety Code;_  
+|  _(11)_ _____a regional or local health care program operated_  
+| _under Section 75.104, Health and Safety Code;_  
+|  _(12)_ _____a self-funded health benefit plan sponsored by a_  
+| _professional employer organization under Chapter 91, Labor Code;_  
+|  _(13)_ _____county employee group health benefits provided_  
+| _under Chapter 157, Local Government Code; and_  
+|  _(14)_ _____health and accident coverage provided by a risk_  
+| _pool created under Chapter 172, Local Government Code._  
+|  _(c)_ _____This chapter applies to coverage under a group health_  
+| _benefit plan provided to a resident of this state regardless of_  
+| _whether the group policy, agreement, or contract is delivered,_  
+| _issued for delivery, or renewed in this state._  
+|  _Sec._ ___1380.002._ _____EXCEPTION. This chapter does not apply to an_  
+| _individual health benefit plan issued on or before March 23, 2010,_  
+| _that has not had any significant changes since that date that reduce_  
+| _benefits or increase costs to the individual._  
+|  _Sec._ ___1380.003._ _____REQUIRED COVERAGE FOR ESSENTIAL HEALTH_  
+| _BENEFITS. A health benefit plan must provide coverage for the_  
+| _essential health benefits listed in 42 U.S.C. Section 18022(b)(1),_  
+| _as that section existed on January 1, 2019, and other benefits_  
+| _identified by the United States secretary of health and human_  
+| _services as essential health benefits as of that date._  
+| ARTICLE 7. HEALTH BENEFIT PLAN COVERAGE FOR CERTAIN YOUNG ADULTS  
+|  SECTION 7.01. Subchapter A, Chapter 533, Government Code,  
+| is amended by adding Section 533.0054 to read as follows:  
+|  _Sec._ ___533.0054._ _____ELIGIBILITY AGE FOR STAR HEALTH COVERAGE. A_  
+| _child enrolled in the STAR Health Medicaid managed care program is_  
+| _eligible to receive health care services under the program until_  
+| _the child is 26 years of age._  
+|  SECTION 7.02. Section 846.260, Insurance Code, is amended  
+| to read as follows:  
+|  Sec. 846.260. LIMITING AGE APPLICABLE TO UNMARRIED CHILD.  
+| If children are eligible for coverage under the terms of a multiple  
+| employer welfare arrangement's plan document, any limiting age  
+| applicable to an unmarried child of an enrollee is _26_ [ ~~25~~ ] years of  
+| age.  
+|  SECTION 7.03. Section 1201.053(b), Insurance Code, is  
+| amended to read as follows:  
+|  (b) On the application of an adult member of a family, an  
+| individual accident and health insurance policy may, at the time of  
+| original issuance or by subsequent amendment, insure two or more  
+| eligible members of the adult's family, including a spouse,  
+| unmarried children younger than _26_ [ ~~25~~ ] years of age, including a  
+| grandchild of the adult as described by Section 1201.062(a)(1), a  
+| child the adult is required to insure under a medical support order  
+| or dental support order, if the policy provides dental coverage,  
+| issued under Chapter 154, Family Code, or enforceable by a court in  
+| this state, and any other individual dependent on the adult.  
+|  SECTION 7.04. Section 1201.062(a), Insurance Code, is  
+| amended to read as follows:  
+|  (a) An individual or group accident and health insurance  
+| policy that is delivered, issued for delivery, or renewed in this  
+| state, including a policy issued by a corporation operating under  
+| Chapter 842, or a self-funded or self-insured welfare or benefit  
+| plan or program, to the extent that regulation of the plan or  
+| program is not preempted by federal law, that provides coverage for  
+| a child of an insured or group member, on payment of a premium, must  
+| provide coverage for:  
+|  (1) each grandchild of the insured or group member if  
+| the grandchild is:  
+|  (A) unmarried;  
+|  (B) younger than _26_ [ ~~25~~ ] years of age; and  
+|  (C) a dependent of the insured or group member  
+| for federal income tax purposes at the time application for  
+| coverage of the grandchild is made; and  
+|  (2) each child for whom the insured or group member  
+| must provide medical support or dental support, if the policy  
+| provides dental coverage, under an order issued under Chapter 154,  
+| Family Code, or enforceable by a court in this state.  
+|  SECTION 7.05. Section 1201.065(a), Insurance Code, is  
+| amended to read as follows:  
+|  (a) An individual or group accident and health insurance  
+| policy may contain criteria relating to a maximum age or enrollment  
+| in school to establish continued eligibility for coverage of a  
+| child _26_ [ ~~25~~ ] years of age or older.  
+|  SECTION 7.06. Section 1251.151(a), Insurance Code, is  
+| amended to read as follows:  
+|  (a) A group policy or contract of insurance for hospital,  
+| surgical, or medical expenses incurred as a result of accident or  
+| sickness, including a group contract issued by a group hospital  
+| service corporation, that provides coverage under the policy or  
+| contract for a child of an insured must, on payment of a premium,  
+| provide coverage for any grandchild of the insured if the  
+| grandchild is:  
+|  (1) unmarried;  
+|  (2) younger than _26_ [ ~~25~~ ] years of age; and  
+|  (3) a dependent of the insured for federal income tax  
+| purposes at the time the application for coverage of the grandchild  
+| is made.  
+|  SECTION 7.07. Section 1251.152(a), Insurance Code, is  
+| amended to read as follows:  
+|  (a) For purposes of this section, "dependent" includes:  
+|  (1) a child of an employee or member who is:  
+|  (A) unmarried; and  
+|  (B) younger than _26_ [ ~~25~~ ] years of age; and  
+|  (2) a grandchild of an employee or member who is:  
+|  (A) unmarried;  
+|  (B) younger than _26_ [ ~~25~~ ] years of age; and  
+|  (C) a dependent of the insured for federal income  
+| tax purposes at the time the application for coverage of the  
+| grandchild is made.  
+|  SECTION 7.08. Section 1271.006(a), Insurance Code, is  
+| amended to read as follows:  
+|  (a) If children are eligible for coverage under the terms of  
+| an evidence of coverage, any limiting age applicable to an  
+| unmarried child of an enrollee, including an unmarried grandchild  
+| of an enrollee, is _26_ [ ~~25~~ ] years of age.  The limiting age  
+| applicable to a child must be stated in the evidence of coverage.  
+|  SECTION 7.09. Section 1501.002(2), Insurance Code, is  
+| amended to read as follows:  
+|  (2) "Dependent" means:  
+|  (A) a spouse;  
+|  (B) a child younger than _26_ [ ~~25~~ ] years of age,  
+| including a newborn child;  
+|  (C) a child of any age who is:  
+|  (i) medically certified as disabled; and  
+|  (ii) dependent on the parent;  
+|  (D) an individual who must be covered under:  
+|  (i) Section 1251.154; or  
+|  (ii) Section 1201.062; and  
+|  (E) any other child eligible under an employer's  
+| health benefit plan, including a child described by Section  
+| 1503.003.  
+|  SECTION 7.10. Section 1501.609(b), Insurance Code, is  
+| amended to read as follows:  
+|  (b) Any limiting age applicable under a large employer  
+| health benefit plan to an unmarried child of an enrollee is _26_ [ ~~25~~ ]  
+| years of age.  
+|  SECTION 7.11. Sections 1503.003(a) and (b), Insurance Code,  
+| are amended to read as follows:  
+|  (a) A health benefit plan may not condition coverage for a  
+| child younger than _26_ [ ~~25~~ ] years of age on the child's being  
+| enrolled at an educational institution.  
+|  (b) A health benefit plan that requires as a condition of  
+| coverage for a child _26_ [ ~~25~~ ] years of age or older that the child be  
+| a full-time student at an educational institution must provide the  
+| coverage:  
+|  (1) for the entire academic term during which the  
+| child begins as a full-time student and remains enrolled,  
+| regardless of whether the number of hours of instruction for which  
+| the child is enrolled is reduced to a level that changes the child's  
+| academic status to less than that of a full-time student; and  
+|  (2) continuously until the 10th day of instruction of  
+| the subsequent academic term, on which date the health benefit plan  
+| may terminate coverage for the child if the child does not return to  
+| full-time student status before that date.  
+|  SECTION 7.12. Section 1601.004(a), Insurance Code, is  
+| amended to read as follows:  
+|  (a) In this chapter, "dependent," with respect to an  
+| individual eligible to participate in the uniform program under  
+| Section 1601.101 or 1601.102, means the individual's:  
+|  (1) spouse;  
+|  (2) unmarried child younger than _26_  
+|  [ ~~25~~ ] years of age;  
+| and  
+|  (3) child of any age who lives with or has the child's  
+| care provided by the individual on a regular basis if the child _has_  
+| _a mental disability or_ is [ ~~mentally retarded or~~ ] physically  
+| incapacitated to the extent that the child is dependent on the  
+| individual for care or support, as determined by the system.  
+| ARTICLE 8. TRANSITION; EFFECTIVE DATE  
+|  SECTION 8.01. The change in law made by this Act applies  
+| only to a health benefit plan that is delivered, issued for  
+| delivery, or renewed on or after January 1, 2020. A health benefit  
+| plan that is delivered, issued for delivery, or renewed before  
+| January 1, 2020, is governed by the law as it existed immediately  
+| before the effective date of this Act, and that law is continued in  
+| effect for that purpose.  
+|  SECTION 8.02. If before implementing any provision of this  
+| Act a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 8.03. This Act takes effect September 1, 2019.
+

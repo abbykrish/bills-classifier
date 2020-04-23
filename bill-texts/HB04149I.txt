@@ -1,0 +1,470 @@
+| 86R15747 CAE-F  
+---|---  
+|  By: Leach | H.B. No. 4149  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of the business court and the Court of  
+| Business Appeals to hear certain cases; authorizing fees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 2, Government Code, is amended  
+| by adding Chapter 24A to read as follows:  
+| _CHAPTER 24A. BUSINESS COURT_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 24A.001. DEFINITIONS.  In this chapter:_  
+|  _(1)_ _____"Controlling person" means a person who directly_  
+| _or indirectly controls a governing person, officer, or_  
+| _organization._  
+|  _(2)_ _____"Governing documents" means the instruments,_  
+| _documents, or agreements adopted under an organization's governing_  
+| _law to govern the organization's formation and internal affairs._  
+| _The term includes:_  
+|  _(A)_ _____a certificate of formation, articles of_  
+| _incorporation, and articles of organization;_  
+|  _(B) bylaws;_  
+|  _(C) a partnership agreement;_  
+|  _(D) a company agreement or operating agreement;_  
+|  _(E) a shareholder agreement;_  
+|  _(F)_ _____a voting agreement or voting trust agreement;_  
+| _and_  
+|  _(G)_ _____an agreement among owners restricting the_  
+| _transfer of ownership interests._  
+|  _(3)_ _____"Governing law" means the law governing the_  
+| _formation and internal affairs of an organization._  
+|  _(4)_ _____"Governing person" means a person who is entitled,_  
+| _alone or as part of a group, to manage and direct an organization's_  
+| _affairs under the organization's governing documents and governing_  
+| _law. The term includes:_  
+|  _(A)_ _____a member of the board of directors of a_  
+| _corporation or other organization;_  
+|  _(B)_ _____a general partner of a general or limited_  
+| _partnership;_  
+|  _(C)_ _____a manager of a limited liability company that_  
+| _is managed by its managers;_  
+|  _(D)_ _____a member of a limited liability company that_  
+| _is managed by its members;_  
+|  _(E)_ _____a trust manager of a real estate investment_  
+| _trust; and_  
+|  _(F) a trustee of a business trust._  
+|  _(5) "Governmental entity" means:_  
+|  _(A) the state; or_  
+|  _(B)_ _____a political subdivision of the state,_  
+| _including a municipality, a county, or any kind of district._  
+|  _(6) "Internal affairs" means:_  
+|  _(A)_ _____the rights, powers, and duties of an_  
+| _organization's governing persons, officers, owners, and members;_  
+| _and_  
+|  _(B)_ _____matters relating to the organization's_  
+| _membership or ownership interests._  
+|  _(7)_ _____"Managerial official" means a governing person or_  
+| _officer._  
+|  _(8)_ _____"Officer" means a person elected, appointed, or_  
+| _designated as an officer of an organization by the organization's_  
+| _governing persons or by the organization's governing documents._  
+|  _(9)_ _____"Organization" means a foreign or domestic entity_  
+| _or association that is for profit or nonprofit. The term includes:_  
+|  _(A) a corporation;_  
+|  _(B) a limited partnership;_  
+|  _(C) a general partnership;_  
+|  _(D) a limited liability partnership;_  
+|  _(E) a limited liability company;_  
+|  _(F) a business trust;_  
+|  _(G) a real estate investment trust;_  
+|  _(H) a joint venture;_  
+|  _(I) a joint stock company;_  
+|  _(J) a cooperative;_  
+|  _(K) a bank;_  
+|  _(L) a credit union;_  
+|  _(M) a savings and loan association;_  
+|  _(N) an insurance company; and_  
+|  _(O)_ _____a series of a limited liability company or of_  
+| _another entity._  
+|  _(10)_ _____"Owner" means an owner of an organization. The_  
+| _term includes:_  
+|  _(A)_ _____a shareholder or stockholder of a corporation_  
+| _or other organization;_  
+|  _(B)_ _____a general or limited partner of a partnership_  
+| _or an assignee of a partnership interest in a partnership;_  
+|  _(C)_ _____a member of, or an assignee of a membership_  
+| _interest in, a limited liability company; and_  
+|  _(D) a member of a nonprofit organization._  
+|  _(11)_ _____"Ownership interest" means an owner's interest in_  
+| _an organization, including an owner's economic, voting, and_  
+| _management rights._  
+|  _(12)_ _____"Qualified transaction" means a qualified_  
+| _transaction as that term is defined in Section 271.001, Business & _  
+| _Commerce Code._  
+|  _Sec._ ___24A.002._ _____ADVISORY COUNCIL._ ___(a)_ ___The governor shall_  
+| _appoint a Business Court Nominations Advisory Council consisting of_  
+| _seven members._ ___A member of the council serves at the pleasure of_  
+| _the governor._  
+|  _(b)_ _____Members of the council must meet the requirements of_  
+| _Section 24A.054 for judges of the business court and be experienced_  
+| _in the areas of law in the jurisdiction of the business court._  
+|  _(c)_ _____Not more than four members of the council may be_  
+| _associated with the same political party as the governor._  
+|  _(d)_ _____To fill a position of a business court judge on the_  
+| _creation of the business court, the position of a court of business_  
+| _appeals justice on the creation of the court of business appeals, or_  
+| _on the occurrence of any subsequent vacancy on the business court or_  
+| _court of business appeals, including a vacancy created by the_  
+| _expiration of a judge's or justice's term of office, the council_  
+| _shall provide the governor with a list of at least five candidates_  
+| _for each vacancy. Each candidate must be well qualified to serve as_  
+| _a judge or justice of the business court or the court of business_  
+| _appeals._  
+|  _(e)_ _____The governor may request that the council enlarge the_  
+| _list for any vacancy by adding not to exceed five additional_  
+| _qualified candidates._  
+|  _(f)_ _____The governor must appoint a judge or justice to fill a_  
+| _vacancy from the list of candidates submitted by the council._  
+| _SUBCHAPTER B. BUSINESS COURT_  
+|  _Sec._ ___24A.051._ _____JURISDICTION. (a) The business court has_  
+| _civil jurisdiction concurrent with district courts in:_  
+|  _(1) a derivative action on behalf of an organization;_  
+|  _(2)_ _____an action arising out of or relating to a qualified_  
+| _transaction in which the amount in controversy exceeds $10 million,_  
+| _excluding interest, statutory damages, exemplary damages,_  
+| _penalties, attorney's fees, and costs;_  
+|  _(3)_ _____an action regarding the governance or internal_  
+| _affairs of an organization;_  
+|  _(4)_ _____an action in which a claim under a state or federal_  
+| _securities or trade regulation law is asserted against:_  
+|  _(A) an organization;_  
+|  _(B)_ _____a governing person of an organization for an_  
+| _act or omission by the organization or by the person in the person's_  
+| _capacity as a governing person;_  
+|  _(C)_ _____a person directly or indirectly controlling_  
+| _an organization for an act or omission by the organization; or_  
+|  _(D)_ _____a person directly or indirectly controlling a_  
+| _governing person for an act or omission by the governing person;_  
+|  _(5)_ _____an action by an organization, or an owner or a_  
+| _member of an organization, if the action:_  
+|  _(A)_ _____is brought against an owner, managerial_  
+| _official, or controlling person of the organization; and_  
+|  _(B)_ _____alleges an act or omission by the person in_  
+| _the person's capacity as an owner, managerial official, or_  
+| _controlling person of the organization;_  
+|  _(6)_ _____an action alleging that an owner, managerial_  
+| _official, or controlling person breached a duty, by reason of the_  
+| _person's status as an owner, managerial official, or controlling_  
+| _person, including the duty of care, loyalty, or good faith;_  
+|  _(7)_ _____an action seeking to hold an owner of an_  
+| _organization, a member of an organization, or a governing person_  
+| _liable for an obligation of the organization, other than on account_  
+| _of a written contract signed by the person to be held liable in a_  
+| _capacity other than as an owner, member, or governing person;_  
+|  _(8)_ _____an action in which the amount in controversy_  
+| _exceeds $10 million excluding interest, statutory damages,_  
+| _exemplary damages, penalties, attorney's fees, and costs that:_  
+|  _(A)_ _____arise against, between, or among_  
+| _organizations, governing authorities, governing persons, members,_  
+| _or owners, relating to a contract transaction for business,_  
+| _commercial, investment, agricultural, or similar purposes; or_  
+|  _(B)_ _____involve violations of the Finance Code or_  
+| _Business & Commerce Code;_  
+|  _(9)_ _____an action brought under Chapter 37, Civil Practice_  
+| _and Remedies Code, involving:_  
+|  _(A) the Business Organizations Code;_  
+|  _(B) an organization's governing documents; or_  
+|  _(C)_ _____a dispute based on claims that fall within_  
+| _the provisions of this subsection; and_  
+|  _(10)_ _____an action arising out of the Business_  
+| _Organizations Code._  
+|  _(b)_ _____The business court has statewide jurisdiction of an_  
+| _action described in Subsection (a) and all matters arising out of or_  
+| _related to an action described in Subsection (a)._  
+|  _(c)_ _____The business court may grant any relief available in a_  
+| _district court._  
+|  _(d)_ _____Notwithstanding Subsections (a) and (b), the business_  
+| _court:_  
+|  _(1)_ _____does not have jurisdiction of a civil_  
+| _action_ _____brought by or against a governmental entity, unless the_  
+| _governmental entity invokes or consents to the jurisdiction of the_  
+| _business court; and_  
+|  _(2)_ _____must sever any claim in which a party seeks_  
+| _recovery of monetary damages for personal injury or death or any_  
+| _claim arising under Chapter 17, Business & Commerce Code, the _  
+| _Estates Code, the Family Code, or Title 9, Property Code, unless all_  
+| _parties and the business court judge agree that the claim may_  
+| _proceed in the business court._  
+|  _(e)_ _____If a claim is severed as provided by Subsection (d)(2),_  
+| _the business court has discretion to stay or abate its own_  
+| _proceedings pending resolution of the severed claim._  
+|  _Sec._ ___24A.052._ _____INITIAL FILING; REMOVAL AND REMAND; TRANSFER._  
+| _(a)_ ___An action in the jurisdiction of the business court may be_  
+| _filed in the business court. If the business court does not have_  
+| _subject matter jurisdiction of the action, or part of the action,_  
+| _the court shall dismiss without prejudice to refiling the whole or_  
+| _part of the action._ ___A claim that is dismissed under this subsection_  
+| _may be refiled in a court with jurisdiction by the party who filed_  
+| _the claim in the business court not later than the 30th day after_  
+| _the date the claim was dismissed by the business court,_  
+| _notwithstanding the expiration of a period of limitation provided_  
+| _by statute._  
+|  _(b)_ _____A party to an action filed in a district court or county_  
+| _court at law that is in the subject matter jurisdiction of the_  
+| _business court may remove the action to the business court by filing_  
+| _a notice of removal with the business court and the court in which_  
+| _the action was originally filed. If the business court does not_  
+| _have jurisdiction of the action or part of the action, the business_  
+| _court shall remand the action, or the part in which the business_  
+| _court does not have jurisdiction, to the court from which the action_  
+| _was removed._ ___A party may appeal an interlocutory order of the_  
+| _business court that grants or refuses a remand under this_  
+| _subsection to the court of business appeals._  
+|  _(c)_ _____Removal of a case to the business court is not subject to_  
+| _the statutes or rules governing the due order of pleading._  
+|  _(d)_ _____Removal of a case does not waive a defect in venue or_  
+| _constitute an appearance to determine personal jurisdiction._  
+|  _(e)_ _____Any claim in which the business court does not have_  
+| _jurisdiction under Section 24A.051(d) must be transferred to a_  
+| _district court in a county in which the claim could have been_  
+| _originally filed. If the claim could have been filed in more than_  
+| _one county, the party bringing the claim may elect the county to_  
+| _which the claim is transferred._  
+|  _(f)_ _____A cause of action filed in the business court shall be_  
+| _assigned to the docket of a judge on a rotating basis._  
+|  _(g)_ _____The supreme court shall promulgate rules of civil_  
+| _procedure providing for the timely and efficient removal and remand_  
+| _of cases to and from the business court._  
+|  _Sec._ ___24A.053._ _____POWERS AND DUTIES._ ___(a) The business court may_  
+| _issue any writ necessary for the enforcement of the court's_  
+| _jurisdiction, including a:_  
+|  _(1) writ of injunction;_  
+|  _(2) writ of mandamus;_  
+|  _(3) writ of sequestration;_  
+|  _(4) writ of attachment;_  
+|  _(5) writ of garnishment; and_  
+|  _(6) writ of supersedeas._  
+|  _(b)_ _____The business court may answer a question regarding a_  
+| _matter in the court's jurisdiction that is certified to the_  
+| _business court by another court._  
+|  _Sec._ ___24A.054._ _____QUALIFICATIONS OF JUDGE._ ___A judge of the_  
+| _business court must:_  
+|  _(1) be at least 35 years of age;_  
+|  _(2) be a United States citizen;_  
+|  _(3)_ _____be a resident of this state for at least two years_  
+| _before appointment; and_  
+|  _(4)_ _____be a licensed attorney in this state and have 10 or_  
+| _more years of experience in:_  
+|  _(A)_ _____practicing complex civil business_  
+| _litigation;_  
+|  _(B) practicing complex business transaction law;_  
+|  _(C)_ _____teaching courses in complex civil business_  
+| _litigation or complex business transaction law at an accredited law_  
+| _school in this state;_  
+|  _(D)_ _____serving as a judge of a court in this state_  
+| _with civil jurisdiction; or_  
+|  _(E)_ _____any combination of experience described by_  
+| _Paragraphs (A)-(D)._  
+|  _Sec._ ___24A.055._ _____COMPOSITION OF COURT._ ___(a)_ ___The business
+court_  
+| _is composed of seven judges appointed by the governor with the_  
+| _advice and consent of the senate._  
+|  _(b) A business court judge may be reappointed._  
+|  _(c) The governor may not appoint:_  
+|  _(1)_ _____more than three judges who reside in the same_  
+| _county; or_  
+|  _(2)_ _____more than a majority of judges associated with the_  
+| _same political party._  
+|  _Sec._ ___24A.056._ _____TERMS OF OFFICE. The judges of the business_  
+| _court shall serve staggered six-year terms of office._  
+|  _Sec._ ___24A.057._ _____VACANCY._ ___If a vacancy occurs on the business_  
+| _court, the governor, with the advice and consent of the senate,_  
+| _shall appoint, in the same manner as the original appointment,_  
+| _another person to serve for the remainder of the unexpired term._  
+|  _Sec._ ___24A.058._ _____JUDICIAL AUTHORITY. A business court judge_  
+| _has all powers, duties, immunities, and privileges of a district_  
+| _judge._  
+|  _Sec._ ___24A.059._ _____JUDGE'S SALARY._ ___(a)_ ___A business court
+judge_  
+| _shall be paid a total annual salary from the state that is the sum_  
+| _of:_  
+|  _(1)_ _____the salary paid to a district judge by the state_  
+| _under Section 659.012; and_  
+|  _(2)_ _____the maximum amount of county contributions and_  
+| _supplements allowed by law to be paid to a district judge under_  
+| _Section 659.012._  
+|  _(b) The salary shall be paid in equal monthly installments._  
+|  _Sec._ ___24A.060._ _____REMOVAL; DISQUALIFICATION AND RECUSAL. (a)_ __  
+| _A business court judge may be removed from office in the same manner_  
+| _and for the same reasons as a district judge._  
+|  _(b)_ _____A business court judge is disqualified or shall recuse_  
+| _himself or herself in a particular case for the same reasons as a_  
+| _district judge. Disqualification or recusal of a business court_  
+| _judge shall be governed by the same procedure as disqualification_  
+| _or recusal of a district judge._  
+|  _Sec._ ___24A.061._ _____PRIVATE PRACTICE OF LAW._ ___A business court_  
+| _judge shall diligently discharge the duties of the office on a_  
+| _full-time basis and may not engage in the private practice of law._  
+|  _Sec._ ___24A.062._ _____VISITING JUDGE. (a)_ ___A retired or former_  
+| _judge or justice may be assigned as a visiting judge of the business_  
+| _court by the chief justice of the supreme court. A visiting judge_  
+| _of the business court is subject to objection, disqualification, or_  
+| _recusal in the same manner as a retired or former judge or justice_  
+| _is subject to objection, disqualification, or recusal if appointed_  
+| _as a visiting district judge._  
+|  _(b)_ _____A visiting judge must meet the qualifications of a_  
+| _business court judge as provided by Section 24A.054._  
+|  _(c)_ _____Before accepting an assignment as a visiting judge of_  
+| _the business court, a retired or former judge or justice shall take_  
+| _the constitutional oath of office required of appointed officers of_  
+| _this state and file the oath with the supreme court._  
+|  _Sec._ ___24A.063._ _____JURY PRACTICE AND PROCEDURE. (a)_ ___A party in_  
+| _an action pending in the business court has the right to a trial by_  
+| _jury when required by the constitution._  
+|  _(b)_ _____A jury trial shall be held in a county in which venue_  
+| _would be found under Section 15.002, Civil Practice and Remedies_  
+| _Code._  
+|  _(c)_ _____Subject to Subsection (b), a jury trial in a case_  
+| _removed to the business court shall be held in the county in which_  
+| _the action was originally filed._  
+|  _(d)_ _____Subject to Subsection (b), a jury trial in a case filed_  
+| _initially in the business court shall be held in any county in which_  
+| _it could have been filed under Section 15.002, Civil Practice and_  
+| _Remedies Code, as chosen by the plaintiff._  
+|  _(e)_ _____The parties and the business court judge may agree to_  
+| _hold the jury trial in any other county._ ___A party may not be required_  
+| _to agree to hold the jury trial in a different county._  
+|  _(f)_ _____The drawing of jury panels, selection of jurors, and_  
+| _other jury-related practice and procedure in the business court_  
+| _shall be the same as for the district court in the county in which_  
+| _the trial is held._  
+|  _(g)_ _____Practice, procedure, rules of evidence, issuance of_  
+| _process and writs, and all other matters pertaining to the conduct_  
+| _of trials, hearings, and other business in the business court are_  
+| _governed by the laws and rules prescribed for district courts._  
+|  _(h)_ _____The business court may adopt rules of practice, which_  
+| _must be approved by the supreme court._  
+|  _Sec._ ___24A.064._ _____COURT LOCATION; STAFFING. (a)_ ___The business_  
+| _court shall have a clerk, whose office shall be located in Travis_  
+| _County in facilities provided by the state._ ___The clerk shall:_  
+|  _(1) receive all filings in the business court; and_  
+|  _(2)_ _____fulfill the legal and administrative functions of_  
+| _a district clerk and an appellate court clerk._  
+|  _(b)_ _____The judges of the business court shall maintain chambers_  
+| _in the county seat of their county of residence in facilities_  
+| _provided by the state._  
+|  _(c)_ _____Subject to Section 24A.063, the business court, or any_  
+| _judge of the business court, may hold court at any location in the_  
+| _state, as the court determines is necessary or convenient for a_  
+| _particular civil action._  
+|  _(d)_ _____The business court shall use the most advanced_  
+| _technology feasible when necessary and appropriate to facilitate_  
+| _expeditious proceedings in matters brought before the court. As_  
+| _determined by the business court, counsel and parties may appear_  
+| _before the business court by means of Internet-based or other_  
+| _technological devices rather than in person._  
+|  _(e)_ _____In a county in which the business court sits, the_  
+| _sheriff shall in person or by deputy attend the business court as_  
+| _required by the court. The sheriff or deputy is entitled to be_  
+| _reimbursed by the state for the cost of attending court._  
+|  _(f)_ _____Subject to any limitations provided by the General_  
+| _Appropriations Act, the business court may appoint personnel_  
+| _necessary for the operation of the court, including:_  
+|  _(1) the clerk of the court;_  
+|  _(2) staff attorneys for the court;_  
+|  _(3) staff attorneys for each business court judge;_  
+|  _(4) court coordinators; and_  
+|  _(5) administrative assistants._  
+|  _(g)_ _____The court officials shall perform the duties and_  
+| _responsibilities of their offices and are entitled to the_  
+| _compensation, fees, and allowances prescribed by law for the_  
+| _offices._  
+|  _Sec._ ___24A.065._ _____FEES._ ___The business court shall provide rates_  
+| _for fees associated with filings and actions in the business court._  
+| _The fees shall be set at a sufficient amount to cover the costs of_  
+| _administering the provisions of this chapter, taking into account_  
+| _fee waivers in the interest of justice._  
+|  _Sec._ ___24A.066._ _____SEAL._ ___The seal of the business court is the_  
+| _same as that provided by law for a district court except that the_  
+| _seal must contain the name "The Business Court of Texas."_  
+| _SUBCHAPTER C. COURT OF BUSINESS APPEALS_  
+|  _Sec._ ___24A.101._ _____APPEAL; COURT OF BUSINESS APPEALS. (a)_ ___An_  
+| _appeal from an order or judgment of the business court is available_  
+| _in the same manner as an appeal from an order or judgment of a_  
+| _district court._ ___The procedure governing an appeal from an order or_  
+| _judgment of a business court is the same as an appeal from an order_  
+| _or judgment of a district court._  
+|  _(b)_ _____The governor shall appoint seven active justices from_  
+| _the courts of appeals to serve as the intermediate appellate court,_  
+| _called the court of business appeals._  
+|  _(c)_ _____The appointment of a justice to the court of business_  
+| _appeals shall be made by the governor from the list of qualified_  
+| _appellate justices as provided by Section 24A.002._  
+|  _(d)_ _____A justice of the court of business appeals must meet the_  
+| _qualifications of a judge of the business court as provided by_  
+| _Section 24A.054._  
+|  _Sec._ ___24A.102._ _____CHIEF JUSTICE._ ___The governor shall designate_  
+| _one of the seven justices appointed under Section 24A.101 as the_  
+| _chief justice of the court of business appeals._  
+|  _Sec._ ___24A.103._ _____COMPOSITION OF COURT._ ___Not more than three_  
+| _justices appointed to the court of business appeals may be from the_  
+| _same court of appeals._  
+|  _Sec._ ___24A.104._ _____TERM OF OFFICE._ ___A justice appointed under_  
+| _Section 24A.101 shall serve on the court of business appeals for a_  
+| _six-year term of office._ ___A justice may be reappointed by the_  
+| _governor._ ___A justice who retires or resigns from or is not reelected_  
+| _to the court of appeals must cease service on the court of business_  
+| _appeals on the date the justice is no longer serving on the court of_  
+| _appeals._  
+|  _Sec._ ___24A.105._ _____PANEL._ ___The justices appointed to the court of_  
+| _business appeals shall sit in randomly selected panels of three to_  
+| _hear and determine appeals from the business court._  
+|  _Sec._ ___24A.106._ _____LOCATION._ ___The justices hearing appeals from_  
+| _the business court may sit in any convenient place to hear the_  
+| _appeal._  
+|  _Sec._ ___24A.107._ _____JUDGMENT._ ___The court of business appeals_  
+| _shall render judgments and hand down opinions in the same manner as_  
+| _any other court of appeals under Chapter 22._  
+|  _Sec._ ___24A.108._ _____REVIEW._ ___(a)_ ___A party may seek an en banc_  
+| _review of a decision of a panel of the court of business appeals._  
+|  _(b)_ _____A party to an order or judgment of the business court or_  
+| _the court of business appeals may file a petition for review in the_  
+| _supreme court in the same manner and circumstances as a party to an_  
+| _order or judgment of a district court or court of appeals._  
+|  _Sec._ ___24A.109._ _____CLERK._ ___The clerk of the business court shall_  
+| _serve as the clerk of the court of business appeals._  
+|  _Sec._ ___24A.110._ _____COMPENSATION._ ___A justice of the court of_  
+| _business appeals shall receive compensation equal to that of the_  
+| _chief justice of a court of appeals, including the maximum amount of_  
+| _local contributions._ ___The compensation is in lieu of, not in_  
+| _addition to, a justice's compensation for service on the court of_  
+| _appeals._  
+|  _Sec._ ___24A.111._ _____SEAL._ ___The seal of the court of business_  
+| _appeals is the same as that provided by law for a court of appeals_  
+| _except that the seal must contain the name "The Court of Business_  
+| _Appeals of Texas."_  
+|  SECTION 2. (a)  As soon as practicable after the effective  
+| date of this Act, the governor shall appoint judges to the business  
+| court, as required by Sections 24A.002(f) and 24A.055, Government  
+| Code, as added by this Act, as follows:  
+|  (1) the governor shall appoint two judges to a term  
+| expiring December 31, 2020;  
+|  (2) the governor shall appoint two judges to a term  
+| expiring December 31, 2022; and  
+|  (3) the governor shall appoint three judges to a term  
+| expiring December 31, 2024.  
+|  (b) As soon as practicable after the effective date of this  
+| Act, the governor shall appoint justices to the court of business  
+| appeals, as required by Section 24A.101, Government Code, as added  
+| by this Act.  
+|  SECTION 3. The changes in law made by this Act apply to  
+| civil actions commenced on or after January 1, 2020.  
+|  SECTION 4. (a)  The Supreme Court of Texas has exclusive and  
+| original jurisdiction over a challenge to the constitutionality of  
+| this Act or any part of this Act and may issue injunctive or  
+| declaratory relief in connection with the challenge.  
+|  (b) If the appointment of judges by the governor to the  
+| business court under Section 24A.055, Government Code, as added by  
+| this Act, is held by the Supreme Court of Texas as unconstitutional,  
+| the business court shall be staffed by sitting or retired judges who  
+| are appointed by the supreme court.  
+|  (c) If the appointment of a justice by the governor to the  
+| court of business appeals under Section 24A.101, Government Code,  
+| as added by this Act, is held by the Supreme Court of Texas as  
+| unconstitutional, the court of business appeals shall be staffed by  
+| sitting or retired justices who are appointed by the supreme court.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

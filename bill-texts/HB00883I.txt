@@ -1,0 +1,23 @@
+| 86R7962 CLG-F  
+---|---  
+|  By: Thierry | H.B. No. 883  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to using the Internet to obtain identifying information  
+| about an elderly individual for a fraudulent purpose.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 325.006, Business & Commerce Code, is  
+| amended by amending Subsection (c) and adding Subsection (f) to  
+| read as follows:  
+|  (c) The court may increase the amount of an award of actual  
+| damages in an action brought under this section to an amount not to  
+| exceed three times the actual damages sustained if the court finds  
+| that the violation _:_  
+|  _(1)_ has reoccurred with sufficient frequency to  
+| constitute a pattern or practice _; or_  
+|  _(2) adversely affected an elderly individual_.  
+|  _(f)_ _____In this section, "elderly individual" has the meaning_  
+| _assigned by Section 22.04, Penal Code._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

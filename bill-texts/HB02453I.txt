@@ -1,0 +1,1220 @@
+| 86R6908 LED-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 2453  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the operation and administration of Medicaid, including  
+| the Medicaid managed care program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 531.001, Government Code, is amended by  
+| adding Subdivision (4-c) to read as follows:  
+|  _(4-c)_ _____"Medicaid managed care organization" means a_  
+| _managed care organization as defined by Section 533.001 that_  
+| _contracts with the commission under Chapter 533 to provide health_  
+| _care services to Medicaid recipients._  
+|  SECTION 2. Subchapter A, Chapter 531, Government Code, is  
+| amended by adding Section 531.0172 to read as follows:  
+|  _Sec._ ___531.0172._ _____OMBUDSMAN FOR MEDICAID PROVIDERS. (a) In_  
+| _this section, "office" means the office of ombudsman for Medicaid_  
+| _providers._  
+|  _(b)_ _____The office of ombudsman for Medicaid providers is_  
+| _established within the commission's office of inspector general to_  
+| _support Medicaid providers in resolving disputes, complaints, or_  
+| _other issues between the provider and the commission or a Medicaid_  
+| _managed care organization under a Medicaid managed care or_  
+| _fee-for-service delivery model._  
+|  _(c)_ _____The staff of the office shall work in conjunction with_  
+| _the other staff of the office of inspector general to ensure that,_  
+| _in assessing administrative penalties otherwise authorized by law_  
+| _on behalf of the commission or a health and human services agency,_  
+| _the office of inspector general assesses penalties against a_  
+| _Medicaid managed care organization for a rule violation that_  
+| _results in a provider dispute or complaint in an amount that is_  
+| _sufficient to deter future violations._  
+|  _(d)_ _____The office shall report issues regarding the Medicaid_  
+| _managed care program to the Medicaid director with timely_  
+| _information._  
+|  _(e)_ _____The office shall provide feedback to a person who files_  
+| _a grievance with the office, such as feedback concerning any_  
+| _investigation resulting from and the outcome of the grievance, in_  
+| _accordance with the no-wrong-door system established under Section_  
+| _533.027._  
+|  _(f)_ _____Data collected by the office must be collected and_  
+| _reported by provider type and population served. The office shall_  
+| _use the data to develop and make to the commission's Medicaid and_  
+| _CHIP services division recommendations for reforming providers'_  
+| _experiences with Medicaid, including Medicaid managed care._  
+|  _(g)_ _____The executive commissioner shall adopt rules as_  
+| _necessary to implement this section._  
+|  SECTION 3. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.02133 to read as follows:  
+|  _Sec._ ___531.02133._ _____REQUESTING INFORMATION IN STAR HEALTH_  
+| _PROGRAM. The commission shall provide clear guidance on the_  
+| _process for requesting and responding to requests for documents_  
+| _relating to and medical records of a recipient under the STAR Health_  
+| _program to:_  
+|  _(1)_ _____a Medicaid managed care organization that provides_  
+| _health care services under that program; and_  
+|  _(2)_ _____attorneys ad litem representing recipients under_  
+| _that program._  
+|  SECTION 4. Section 531.02141, Government Code, is amended  
+| by adding Subsection (f) to read as follows:  
+|  _(f)_ _____For each hearing officer that conducts Medicaid fair_  
+| _hearings, the commission or the third-party arbiter described by_  
+| _Section 533.00715 annually shall collect data regarding the_  
+| _officer's decisions and rate of upholding or reversing decisions on_  
+| _appeal. The commission or third-party arbiter shall analyze the_  
+| _data to identify outliers. The third-party arbiter shall provide_  
+| _corrective education to hearing officers whose decisions or rates_  
+| _are outliers._  
+|  SECTION 5. Section 531.024, Government Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____The rules promulgated under Subsection (a)(7) must_  
+| _provide a Medicaid recipient the right to an in-person hearing,_  
+| _regardless of whether the recipient demonstrates good cause._  
+|  SECTION 6. Section 531.02411, Government Code, is amended  
+| to read as follows:  
+|  Sec. 531.02411. STREAMLINING ADMINISTRATIVE PROCESSES.  
+| _(a)_ The commission shall make every effort using the commission's  
+| existing resources to reduce the paperwork and other administrative  
+| burdens placed on Medicaid recipients and providers and other  
+| participants in Medicaid and shall use technology and efficient  
+| business practices to decrease those burdens. In addition, the  
+| commission shall make every effort to improve the business  
+| practices associated with the administration of Medicaid by any  
+| method the commission determines is cost-effective, including:  
+|  (1) expanding the utilization of the electronic claims  
+| payment system;  
+|  (2) developing an Internet portal system for prior  
+| authorization requests;  
+|  (3) encouraging Medicaid providers to submit their  
+| program participation applications electronically;  
+|  (4) ensuring that the Medicaid provider application is  
+| easy to locate on the Internet so that providers may conveniently  
+| apply to the program;  
+|  (5) working with federal partners to take advantage of  
+| every opportunity to maximize additional federal funding for  
+| technology in Medicaid; and  
+|  (6) encouraging the increased use of medical  
+| technology by providers, including increasing their use of:  
+|  (A) electronic communications between patients  
+| and their physicians or other health care providers;  
+|  (B) electronic prescribing tools that provide  
+| up-to-date payer formulary information at the time a physician or  
+| other health care practitioner writes a prescription and that  
+| support the electronic transmission of a prescription;  
+|  (C) ambulatory computerized order entry systems  
+| that facilitate physician and other health care practitioner orders  
+| at the point of care for medications and laboratory and  
+| radiological tests;  
+|  (D) inpatient computerized order entry systems  
+| to reduce errors, improve health care quality, and lower costs in a  
+| hospital setting;  
+|  (E) regional data-sharing to coordinate patient  
+| care across a community for patients who are treated by multiple  
+| providers; and  
+|  (F) electronic intensive care unit technology to  
+| allow physicians to fully monitor hospital patients remotely.  
+|  _(b)_ _____The commission shall adopt and implement policies that_  
+| _encourage the use of electronic transactions in Medicaid. The_  
+| _policies must:_  
+|  _(1)_ _____promote electronic payment systems for Medicaid_  
+| _providers, including electronic funds transfer or other electronic_  
+| _payment remittance and electronic payment status reports; and_  
+|  _(2)_ _____encourage providers through the use of incentives_  
+| _to submit claims and prior authorization requests electronically to_  
+| _help promote faster response times and reduce the administrative_  
+| _costs related to paper claims processing._  
+|  SECTION 7. Section 531.0317, Government Code, is amended by  
+| adding Subsections (c-1) and (c-2) to read as follows:  
+|  _(c-1)_ _____For the portion of the Internet site relating to_  
+| _Medicaid, the commission shall:_  
+|  _(1) ensure the information is accessible and usable;_  
+|  _(2)_ _____publish Medicaid managed care organization_  
+| _performance measures; and_  
+|  _(3)_ _____organize and maintain that portion of the Internet_  
+| _site in a manner that serves Medicaid recipients, providers, and_  
+| _managed care organizations, stakeholders, and the public._  
+|  _(c-2)_ _____The commission shall establish and maintain an_  
+| _interactive, public portal on the Internet site that incorporates_  
+| _data collected under Section 533.026 to allow Medicaid recipients_  
+| _to compare Medicaid managed care organizations within a service_  
+| _region._  
+|  SECTION 8. Section 531.073, Government Code, is amended by  
+| adding Subsection (k) to read as follows:  
+|  _(k)_ _____The commission annually shall review prior_  
+| _authorization requirements in the Medicaid vendor drug program and_  
+| _determine whether to change, update, or delete any of the_  
+| _requirements._  
+|  SECTION 9. Section 531.076, Government Code, is amended by  
+| amending Subsection (b) and adding Subsections (c), (d), (e), (f),  
+| (g), and (h) to read as follows:  
+|  (b) The commission shall monitor Medicaid managed care  
+| organizations to ensure that the organizations _:_  
+|  _(1)_ are using prior authorization and utilization  
+| review processes to reduce authorizations of unnecessary services  
+| and inappropriate use of services _; and_  
+|  _(2)_ _____are not using prior authorization to negatively_  
+| _impact recipients' access to care_.  
+|  _(c)_ _____The commission annually shall review a Medicaid managed_  
+| _care organization's prior authorization requirements and determine_  
+| _whether the organization should change, update, or delete any of_  
+| _those requirements._  
+|  _(d)_ _____To enable the commission to increase the commission's_  
+| _utilization review resources with respect to Medicaid managed care_  
+| _organization performance, the commission shall:_  
+|  _(1)_ _____increase the sample size and types of services_  
+| _subject to utilization review to ensure an adequate and_  
+| _representative sample;_  
+|  _(2)_ _____use a data-driven approach to efficiently select_  
+| _cases for utilization review that aligns with the commission's_  
+| _priorities for improved outcomes; and_  
+|  _(3)_ _____use additional measures the commission considers_  
+| _appropriate._  
+|  _(e)_ _____The commission shall request information regarding and_  
+| _review the outcomes and timeliness of a Medicaid managed care_  
+| _organization's prior authorizations to determine for particular_  
+| _service requests:_  
+|  _(1)_ _____the number of service hours and units requested,_  
+| _delivered, and billed;_  
+|  _(2)_ _____the period the prior authorization request was_  
+| _pending;_  
+|  _(3)_ _____whether the organization denied, approved, or_  
+| _amended the prior authorization request; and_  
+|  _(4)_ _____whether a denied prior authorization request_  
+| _resulted in an internal appeal or an appeal to the third-party_  
+| _arbiter described by Section 533.00715._  
+|  _(f) The commission may:_  
+|  _(1)_ _____require an assessment of a Medicaid managed care_  
+| _organization's employee who conducts utilization review to ensure_  
+| _the employee's decisions and assessments are consistent with those_  
+| _of other employees, clinical criteria, and guidelines;_  
+|  _(2)_ _____require the organization to provide a sample case_  
+| _to:_  
+|  _(A)_ _____test how the organization conducts service_  
+| _planning and utilization review; and_  
+|  _(B)_ _____determine whether the organization is_  
+| _following the organization's utilization management policies and_  
+| _procedures as expressed in the contract between the organization_  
+| _and the commission, the organization's patient handbook, and other_  
+| _publicly available written documents; and_  
+|  _(3)_ _____randomly select an employee to test how the_  
+| _organization conducts service planning and utilization review,_  
+| _particularly in the:_  
+|  _(A) STAR+PLUS Medicaid managed care program;_  
+|  _(B) STAR Kids managed care program; and_  
+|  _(C) STAR Health program._  
+|  _(g)_ _____To the extent feasible, the commission shall align_  
+| _treatments and conditions subject to prior authorization to create_  
+| _uniformity among Medicaid managed care plans. The commission by_  
+| _rule shall require each Medicaid managed care organization to_  
+| _submit to the commission at least every two years a list of the_  
+| _conditions and treatments subject to prior authorization under the_  
+| _managed care plan offered by the organization. The commission_  
+| _shall designate a single, searchable, public-facing Internet_  
+| _website that contains prior authorization lists categorized by_  
+| _Medicaid managed care program and subcategorized by Medicaid_  
+| _managed care organization._  
+|  _(h)_ _____The commission's and each Medicaid managed care_  
+| _organization's prior authorization requirements, including prior_  
+| _authorization requirements applicable in the Medicaid vendor drug_  
+| _program, must be based on publicly available clinical criteria and_  
+| _posted in an easily searchable format on their respective Internet_  
+| _websites. Information posted under this subsection must include_  
+| _the date of last review._  
+|  SECTION 10. Section 533.00253, Government Code, is amended  
+| by adding Subsections (f) and (g) to read as follows:  
+|  _(f)_ _____The commission shall ensure that the care coordinator_  
+| _for a Medicaid managed care organization under the STAR Kids_  
+| _managed care program offers a recipient's parent or legally_  
+| _authorized representative the opportunity to review and comment on_  
+| _the recipient's completed care needs assessment before the_  
+| _assessment is used to determine the services to be provided to the_  
+| _recipient. The commission shall require the parent's or_  
+| _representative's electronic signature to verify the parent or_  
+| _representative received the opportunity to review and comment on_  
+| _the assessment and indicate whether the parent or representative_  
+| _agrees with the assessment or disagrees and wishes to dispute the_  
+| _assessment based on medical necessity. The commission shall_  
+| _provide a parent or representative who disagrees with a care needs_  
+| _assessment an opportunity to dispute the assessment with the_  
+| _commission._  
+|  _(g)_ _____The commission, in consultation with stakeholders,_  
+| _shall redesign the care needs assessment used in the STAR Kids_  
+| _managed care program to ensure the assessment collects useable data_  
+| _pertinent to a child's physical, behavioral, and long-term care_  
+| _needs. This subsection expires September 1, 2021._  
+|  SECTION 11. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Sections 533.002533 and 533.00271 to read as  
+| follows:  
+|  _Sec._ ___533.002533._ _____CONTINUATION OF STAR KIDS MANAGED CARE_  
+| _ADVISORY COMMITTEE. The commission shall periodically evaluate_  
+| _whether to continue the STAR Kids Managed Care Advisory Committee_  
+| _established under former Section 533.00254 as a forum to identify_  
+| _and make recommendations for resolving eligibility, clinical, and_  
+| _administrative issues with the STAR Kids managed care program._  
+|  _Sec._ ___533.00271._ _____EXTERNAL QUALITY REVIEW ORGANIZATION:_  
+| _EVALUATION OF MEDICAID MANAGED CARE GENERALLY. (a) The commission_  
+| _annually shall identify and study areas of Medicaid managed care_  
+| _organization services for which the commission needs additional_  
+| _information. The external quality review organization annually_  
+| _shall study and report to the commission on at least three measures_  
+| _related to the identified areas and included in the core set of_  
+| _children's health care quality measures or core set of adults'_  
+| _health care quality measures published by the United States_  
+| _Department of Health and Human Services._  
+|  _(b)_ _____The external quality review organization annually_  
+| _shall:_  
+|  _(1)_ _____compare private health plans, including_  
+| _not-for-profit community health plans and for-profit health plans,_  
+| _and managed care plans offered through contracts under this_  
+| _chapter; and_  
+|  _(2)_ _____report to the commission the comparison between_  
+| _those plans on the following under the plans:_  
+|  _(A) rates of:_  
+|  _(i) inquiries about services and benefits;_  
+|  _(ii)_ _____inquiries and complaints about access_  
+| _to a provider in an enrollee's local area;_  
+|  _(iii) formal complaints; and_  
+|  _(iv) service denials;_  
+|  _(B)_ _____outcomes of internal appeals, including the_  
+| _number of appeals reversed;_  
+|  _(C)_ _____outcomes of fair hearing requests, if_  
+| _applicable;_  
+|  _(D)_ _____constituent complaints brought to the health_  
+| _plan's or Medicaid managed care organization's attention by an_  
+| _individual or entity, including a state legislator or the_  
+| _commission; and_  
+|  _(E)_ _____data disaggregated by the individual or_  
+| _entity that initiated an inquiry or complaint._  
+|  _(c)_ _____The commission shall require each Medicaid managed care_  
+| _organization to submit monthly the information described by_  
+| _Subsection (b)._  
+|  SECTION 12. Section 533.005, Government Code, is amended by  
+| amending Subsection (a) and adding Subsection (g) to read as  
+| follows:  
+|  (a) A contract between a managed care organization and the  
+| commission for the organization to provide health care services to  
+| recipients must contain:  
+|  (1) procedures to ensure accountability to the state  
+| for the provision of health care services, including procedures for  
+| financial reporting, quality assurance, utilization review, and  
+| assurance of contract and subcontract compliance;  
+|  (2) capitation rates that ensure the cost-effective  
+| provision of quality health care;  
+|  (3) a requirement that the managed care organization  
+| provide ready access to a person who assists recipients in  
+| resolving issues relating to enrollment, plan administration,  
+| education and training, access to services, and grievance  
+| procedures;  
+|  (4) a requirement that the managed care organization  
+| provide ready access to a person who assists providers in resolving  
+| issues relating to payment, plan administration, education and  
+| training, and grievance procedures;  
+|  (5) a requirement that the managed care organization  
+| provide information and referral about the availability of  
+| educational, social, and other community services that could  
+| benefit a recipient;  
+|  (6) procedures for recipient outreach and education;  
+|  (7) a requirement that the managed care organization  
+| make payment to a physician or provider for health care services  
+| rendered to a recipient under a managed care plan on any claim for  
+| payment that is received with documentation reasonably necessary  
+| for the managed care organization to process the claim:  
+|  (A) not later than:  
+|  (i) the 10th day after the date the claim is  
+| received if the claim relates to services provided by a nursing  
+| facility, intermediate care facility, or group home;  
+|  (ii) the 30th day after the date the claim  
+| is received if the claim relates to the provision of long-term  
+| services and supports not subject to Subparagraph (i); and  
+|  (iii) the 45th day after the date the claim  
+| is received if the claim is not subject to Subparagraph (i) or (ii);  
+| or  
+|  (B) within a period, not to exceed 60 days,  
+| specified by a written agreement between the physician or provider  
+| and the managed care organization;  
+|  (7-a) a requirement that the managed care organization  
+| demonstrate to the commission that the organization pays claims  
+| described by Subdivision (7)(A)(ii) on average not later than the  
+| 21st day after the date the claim is received by the organization;  
+|  _(7-b)_ _____a requirement that the managed care organization_  
+| _pay liquidated damages for each failure, as determined by the_  
+| _commission, to comply with Subdivision (7) in an amount that is a_  
+| _reasonable forecast of the damages caused by the noncompliance;_  
+|  (8) a requirement that the commission, on the date of a  
+| recipient's enrollment in a managed care plan issued by the managed  
+| care organization, inform the organization of the recipient's  
+| Medicaid certification date;  
+|  (9) a requirement that the managed care organization  
+| comply with Section 533.006 as a condition of contract retention  
+| and renewal;  
+|  (10) a requirement that the managed care organization  
+| provide the information required by Section 533.012 and otherwise  
+| comply and cooperate with the commission's office of inspector  
+| general and the office of the attorney general;  
+|  (11) a requirement that the managed care  
+| organization's usages of out-of-network providers or groups of  
+| out-of-network providers may not exceed limits for those usages  
+| relating to total inpatient admissions, total outpatient services,  
+| and emergency room admissions determined by the commission;  
+|  (12) if the commission finds that a managed care  
+| organization has violated Subdivision (11), a requirement that the  
+| managed care organization reimburse an out-of-network provider for  
+| health care services at a rate that is equal to the allowable rate  
+| for those services, as determined under Sections 32.028 and  
+| 32.0281, Human Resources Code;  
+|  (13) a requirement that, notwithstanding any other  
+| law, including Sections 843.312 and 1301.052, Insurance Code, the  
+| organization:  
+|  (A) use advanced practice registered nurses and  
+| physician assistants in addition to physicians as primary care  
+| providers to increase the availability of primary care providers in  
+| the organization's provider network; and  
+|  (B) treat advanced practice registered nurses  
+| and physician assistants in the same manner as primary care  
+| physicians with regard to:  
+|  (i) selection and assignment as primary  
+| care providers;  
+|  (ii) inclusion as primary care providers in  
+| the organization's provider network; and  
+|  (iii) inclusion as primary care providers  
+| in any provider network directory maintained by the organization;  
+|  (14) a requirement that the managed care organization  
+| reimburse a federally qualified health center or rural health  
+| clinic for health care services provided to a recipient outside of  
+| regular business hours, including on a weekend day or holiday, at a  
+| rate that is equal to the allowable rate for those services as  
+| determined under Section 32.028, Human Resources Code, if the  
+| recipient does not have a referral from the recipient's primary  
+| care physician;  
+|  (15) a requirement that the managed care organization  
+| _comply with the recipient appeals procedure established under_  
+| _Section 533.00715 and_ develop, implement, and maintain a system for  
+| tracking and resolving all provider appeals related to claims  
+| payment, including a process that will require:  
+|  (A) a tracking mechanism to document the status  
+| and final disposition of each provider's claims payment appeal;  
+|  (B) the contracting with physicians who are not  
+| network providers and who are of the same or related specialty as  
+| the appealing physician to resolve claims disputes related to  
+| denial on the basis of medical necessity that remain unresolved  
+| subsequent to a provider appeal;  
+|  (C) the determination of the physician resolving  
+| the dispute to be binding on the managed care organization and  
+| provider; and  
+|  (D) the managed care organization to allow a  
+| provider with a claim that has not been paid before the time  
+| prescribed by Subdivision (7)(A)(ii) to initiate an appeal of that  
+| claim;  
+|  (16) a requirement that a medical director who is  
+| authorized to make medical necessity determinations is available to  
+| the region where the managed care organization provides health care  
+| services;  
+|  (17) a requirement that the managed care organization  
+| ensure that a medical director and patient care coordinators and  
+| provider and recipient support services personnel are located in  
+| the South Texas service region, if the managed care organization  
+| provides a managed care plan in that region;  
+|  (18) a requirement that the managed care organization  
+| provide special programs and materials for recipients with limited  
+| English proficiency or low literacy skills;  
+|  (19) a requirement that the managed care organization  
+| develop and establish a process for responding to provider appeals  
+| in the region where the organization provides health care services;  
+|  (20) a requirement that the managed care organization:  
+|  (A) develop and submit to the commission, before  
+| the organization begins to provide health care services to  
+| recipients, a comprehensive plan that describes how the  
+| organization's provider network complies with the provider access  
+| standards established under Section 533.0061;  
+|  (B) as a condition of contract retention and  
+| renewal:  
+|  (i) continue to comply with the provider  
+| access standards established under Section 533.0061; and  
+|  (ii) make substantial efforts, as  
+| determined by the commission, to mitigate or remedy any  
+| noncompliance with the provider access standards established under  
+| Section 533.0061;  
+|  (C) pay liquidated damages for each failure, as  
+| determined by the commission, to comply with the provider access  
+| standards established under Section 533.0061 in amounts that are  
+| reasonably related to the noncompliance; and  
+|  (D) regularly, as determined by the commission,  
+| submit to the commission and make available to the public a report  
+| containing data on the sufficiency of the organization's provider  
+| network with regard to providing the care and services described  
+| under Section _533.0061(a-1)_ [ ~~533.0061(a)~~ ] and specific data with  
+| respect to access to primary care, specialty care, long-term  
+| services and supports, nursing services, and therapy services on  
+| the average length of time between:  
+|  (i) the date a provider requests prior  
+| authorization for the care or service and the date the organization  
+| approves or denies the request; and  
+|  (ii) the date the organization approves a  
+| request for prior authorization for the care or service and the date  
+| the care or service is initiated;  
+|  (21) a requirement that the managed care organization  
+| demonstrate to the commission, before the organization begins to  
+| provide health care services to recipients, that, subject to the  
+| provider access standards established under Section 533.0061:  
+|  (A) the organization's provider network has the  
+| capacity to serve the number of recipients expected to enroll in a  
+| managed care plan offered by the organization;  
+|  (B) the organization's provider network  
+| includes:  
+|  (i) a sufficient number of primary care  
+| providers;  
+|  (ii) a sufficient variety of provider  
+| types;  
+|  (iii) a sufficient number of providers of  
+| long-term services and supports and specialty pediatric care  
+| providers of home and community-based services; and  
+|  (iv) providers located throughout the  
+| region where the organization will provide health care services;  
+| and  
+|  (C) health care services will be accessible to  
+| recipients through the organization's provider network to a  
+| comparable extent that health care services would be available to  
+| recipients under a fee-for-service or primary care case management  
+| model of Medicaid managed care;  
+|  (22) a requirement that the managed care organization  
+| develop a monitoring program for measuring the quality of the  
+| health care services provided by the organization's provider  
+| network that:  
+|  (A) incorporates the National Committee for  
+| Quality Assurance's Healthcare Effectiveness Data and Information  
+| Set (HEDIS) measures _and the core sets of children's and adults'_ __  
+| _health care quality measures published by the United States_  
+| _Department of Health and Human Services_ ;  
+|  (B) focuses on measuring outcomes; and  
+|  (C) includes the collection and analysis of  
+| clinical data relating to prenatal care, preventive care, mental  
+| health care, and the treatment of acute and chronic health  
+| conditions and substance abuse;  
+|  (23) subject to Subsection (a-1), a requirement that  
+| the managed care organization develop, implement, and maintain an  
+| outpatient pharmacy benefit plan for its enrolled recipients:  
+|  (A) that exclusively employs the vendor drug  
+| program formulary and preserves the state's ability to reduce  
+| waste, fraud, and abuse under Medicaid;  
+|  (B) that adheres to the applicable preferred drug  
+| list adopted by the commission under Section 531.072;  
+|  (C) that includes the prior authorization  
+| procedures and requirements prescribed by or implemented under  
+| Sections 531.073(b), (c), and (g) for the vendor drug program;  
+|  (D) for purposes of which the managed care  
+| organization:  
+|  (i) may not negotiate or collect rebates  
+| associated with pharmacy products on the vendor drug program  
+| formulary; and  
+|  (ii) may not receive drug rebate or pricing  
+| information that is confidential under Section 531.071;  
+|  (E) that complies with the prohibition under  
+| Section 531.089;  
+|  (F) under which the managed care organization may  
+| not prohibit, limit, or interfere with a recipient's selection of a  
+| pharmacy or pharmacist of the recipient's choice for the provision  
+| of pharmaceutical services under the plan through the imposition of  
+| different copayments;  
+|  (G) that allows the managed care organization or  
+| any subcontracted pharmacy benefit manager to contract with a  
+| pharmacist or pharmacy providers separately for specialty pharmacy  
+| services, except that:  
+|  (i) the managed care organization and  
+| pharmacy benefit manager are prohibited from allowing exclusive  
+| contracts with a specialty pharmacy owned wholly or partly by the  
+| pharmacy benefit manager responsible for the administration of the  
+| pharmacy benefit program; and  
+|  (ii) the managed care organization and  
+| pharmacy benefit manager must adopt policies and procedures for  
+| reclassifying prescription drugs from retail to specialty drugs,  
+| and those policies and procedures must be consistent with rules  
+| adopted by the executive commissioner and include notice to network  
+| pharmacy providers from the managed care organization;  
+|  (H) under which the managed care organization may  
+| not prevent a pharmacy or pharmacist from participating as a  
+| provider if the pharmacy or pharmacist agrees to comply with the  
+| financial terms and conditions of the contract as well as other  
+| reasonable administrative and professional terms and conditions of  
+| the contract;  
+|  (I) under which the managed care organization may  
+| include mail-order pharmacies in its networks, but may not require  
+| enrolled recipients to use those pharmacies, and may not charge an  
+| enrolled recipient who opts to use this service a fee, including  
+| postage and handling fees;  
+|  (J) under which the managed care organization or  
+| pharmacy benefit manager, as applicable, must pay claims in  
+| accordance with Section 843.339, Insurance Code; and  
+|  (K) under which the managed care organization or  
+| pharmacy benefit manager, as applicable:  
+|  (i) to place a drug on a maximum allowable  
+| cost list, must ensure that:  
+|  (a) the drug is listed as "A" or "B"  
+| rated in the most recent version of the United States Food and Drug  
+| Administration's Approved Drug Products with Therapeutic  
+| Equivalence Evaluations, also known as the Orange Book, has an "NR"  
+| or "NA" rating or a similar rating by a nationally recognized  
+| reference; and  
+|  (b) the drug is generally available  
+| for purchase by pharmacies in the state from national or regional  
+| wholesalers and is not obsolete;  
+|  (ii) must provide to a network pharmacy  
+| provider, at the time a contract is entered into or renewed with the  
+| network pharmacy provider, the sources used to determine the  
+| maximum allowable cost pricing for the maximum allowable cost list  
+| specific to that provider;  
+|  (iii) must review and update maximum  
+| allowable cost price information at least once every seven days to  
+| reflect any modification of maximum allowable cost pricing;  
+|  (iv) must, in formulating the maximum  
+| allowable cost price for a drug, use only the price of the drug and  
+| drugs listed as therapeutically equivalent in the most recent  
+| version of the United States Food and Drug Administration's  
+| Approved Drug Products with Therapeutic Equivalence Evaluations,  
+| also known as the Orange Book;  
+|  (v) must establish a process for  
+| eliminating products from the maximum allowable cost list or  
+| modifying maximum allowable cost prices in a timely manner to  
+| remain consistent with pricing changes and product availability in  
+| the marketplace;  
+|  (vi) must:  
+|  (a) provide a procedure under which a  
+| network pharmacy provider may challenge a listed maximum allowable  
+| cost price for a drug;  
+|  (b) respond to a challenge not later  
+| than the 15th day after the date the challenge is made;  
+|  (c) if the challenge is successful,  
+| make an adjustment in the drug price effective on the date the  
+| challenge is resolved[ ~~,~~ ] and make the adjustment applicable to all  
+| similarly situated network pharmacy providers, as determined by the  
+| managed care organization or pharmacy benefit manager, as  
+| appropriate;  
+|  (d) if the challenge is denied,  
+| provide the reason for the denial; and  
+|  (e) report to the commission every 90  
+| days the total number of challenges that were made and denied in the  
+| preceding 90-day period for each maximum allowable cost list drug  
+| for which a challenge was denied during the period;  
+|  (vii) must notify the commission not later  
+| than the 21st day after implementing a practice of using a maximum  
+| allowable cost list for drugs dispensed at retail but not by mail;  
+| and  
+|  (viii) must provide a process for each of  
+| its network pharmacy providers to readily access the maximum  
+| allowable cost list specific to that provider;  
+|  (24) a requirement that the managed care organization  
+| and any entity with which the managed care organization contracts  
+| for the performance of services under a managed care plan disclose,  
+| at no cost, to the commission and, on request, the office of the  
+| attorney general all discounts, incentives, rebates, fees, free  
+| goods, bundling arrangements, and other agreements affecting the  
+| net cost of goods or services provided under the plan;  
+|  (25) a requirement that the managed care organization  
+| not implement significant, nonnegotiated, across-the-board  
+| provider reimbursement rate reductions unless:  
+|  (A) subject to Subsection (a-3), the  
+| organization has the prior approval of the commission to make the  
+| _reductions_ [ ~~reduction~~ ]; or  
+|  (B) the rate reductions are based on changes to  
+| the Medicaid fee schedule or cost containment initiatives  
+| implemented by the commission; [ ~~and~~ ]  
+|  (26) a requirement that the managed care organization  
+| make initial and subsequent primary care provider assignments and  
+| changes _;_  
+|  _(27)_ _____a requirement that the managed care organization_  
+| _pend a prior authorization request or claim awaiting a peer-to-peer_  
+| _review;_  
+|  _(28) a requirement that the managed care organization:_  
+|  _(A)_ _____timely respond to prior authorization_  
+| _requests;_  
+|  _(B)_ _____not deny a reasonable prior authorization_  
+| _request or claim for a technical or minimal error;_  
+|  _(C)_ _____not abuse the appeals process to deter a_  
+| _recipient or provider from requesting health care services; and_  
+|  _(D)_ _____pay liquidated damages for each failure, as_  
+| _determined by the commission, to comply with this subdivision in an_  
+| _amount that is a reasonable forecast of the damages caused by the_  
+| _noncompliance;_  
+|  _(29) a requirement that the managed care organization:_  
+|  _(A)_ _____automatically, without a request from a_  
+| _recipient or program, continue to provide the pre-reduction or_  
+| _pre-denial level of services to the recipient during an internal_  
+| _appeal or an appeal to the third-party arbiter described by Section_  
+| _533.00715 of a reduction in or denial of services, unless the_  
+| _recipient or the recipient's parent on behalf of the recipient opts_  
+| _out of the automatic continuation of services;_  
+|  _(B)_ _____provide the commission and the recipient with_  
+| _a notice of continuing services, receipt of which is verified by_  
+| _electronic signature or through other electronic means; and_  
+|  _(C)_ _____pay liquidated damages for each failure, as_  
+| _determined by the commission, to comply with this subdivision in an_  
+| _amount that is a reasonable forecast of the damages caused by the_  
+| _noncompliance; and_  
+|  _(30)_ _____a requirement that the managed care organization,_  
+| _after a prior authorization denial or adverse benefit_  
+| _determination, provide a recipient with a letter that includes a_  
+| _thorough and detailed explanation for the prior authorization_  
+| _denial or adverse determination_.  
+|  _(g)_ _____The commission shall provide guidance and additional_  
+| _education to managed care organizations regarding requirements_  
+| _under federal law and Subsection (a)(29) to continue to provide_  
+| _services during an internal appeal and a Medicaid fair hearing._  
+|  SECTION 13. Section 533.0051, Government Code, is amended  
+| by adding Subsection (h) to read as follows:  
+|  _(h)_ _____To monitor performance measures, the commission shall_  
+| _develop a data-sharing platform that enables divisions within the_  
+| _commission to electronically view data and access data analysis in_  
+| _a single location._  
+|  SECTION 14. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.0058 to read as follows:  
+|  _Sec._ ___533.0058._ _____STAR HEALTH PROGRAM: INITIAL THERAPY_  
+| _EVALUATION. A Medicaid managed care organization that provides_  
+| _health care services under the STAR Health program may not require_  
+| _prior authorization for an initial therapy evaluation for a_  
+| _recipient._  
+|  SECTION 15. The heading to Section 533.0061, Government  
+| Code, is amended to read as follows:  
+|  Sec. 533.0061. PROVIDER ACCESS STANDARDS _AND NETWORK_  
+| _ADEQUACY_ ; REPORT.  
+|  SECTION 16. Section 533.0061, Government Code, is amended  
+| by amending Subsection (a) and adding Subsections (a-1), (b-1),  
+| (b-2), (b-3), (b-4), (d), and (e) to read as follows:  
+|  (a) _In this section:_  
+|  _(1)_ _____"Access to care" means access to care and services_  
+| _available under Medicaid at least to the same extent that similar_  
+| _care and services are available to the general population in the_  
+| _recipient's geographic area._  
+|  _(2)_ _____"Network adequacy" means the adequacy of a_  
+| _Medicaid managed care organization's provider network determined_  
+| _according to standards established by federal law._  
+|  _(a-1)_ The commission shall establish minimum provider  
+| access standards for the provider network of a managed care  
+| organization that contracts with the commission to provide health  
+| care services to recipients. The access standards must ensure that  
+| a _Medicaid_ managed care organization provides recipients  
+| sufficient access to:  
+|  (1) preventive care;  
+|  (2) primary care;  
+|  (3) specialty care;  
+|  (4) after-hours urgent care;  
+|  (5) chronic care;  
+|  (6) long-term services and supports;  
+|  (7) nursing services;  
+|  (8) therapy services, including services provided in a  
+| clinical setting or in a home or community-based setting; and  
+|  (9) any other services identified by the commission.  
+|  _(b-1)_ _____Except as provided by Subsection (b-4), the_  
+| _commission shall use travel time and distance standards to measure_  
+| _network adequacy._  
+|  _(b-2)_ _____In determining network adequacy, the commission shall_  
+| _use automated data validation and calculation tools to decrease_  
+| _processing time and resources required for calculating provider_  
+| _distance and travel time._  
+|  _(b-3)_ _____The commission shall integrate access to care data_  
+| _with network adequacy data to evaluate and monitor provider network_  
+| _adequacy based on both provider location and availability._  
+|  _(b-4)_ _____To account for differences in recipient population_  
+| _and provider entity size, the commission shall establish provider_  
+| _network adequacy standards, other than travel time and distance_  
+| _standards, applicable in assessing the network adequacy for_  
+| _personal care attendants and providers of long-term services and_  
+| _supports who travel to a recipient to provide care. The external_  
+| _quality review organization shall periodically evaluate and report_  
+| _to the commission on personal care attendant network adequacy._  
+|  _(d)_ _____The executive commissioner by rule shall ensure that an_  
+| _evaluation of a Medicaid managed care organization's provider_  
+| _network adequacy conducted by the commission or the external_  
+| _quality review organization with information obtained from a_  
+| _managed care organization's provider network directory is based on_  
+| _the total number of providers listed in the directory. The_  
+| _commission or external quality review organization must consider a_  
+| _provider with incorrect contact information or who is no longer_  
+| _participating in Medicaid as having no appointment availability for_  
+| _purposes of the evaluation._  
+|  _(e)_ _____The external quality review organization shall use_  
+| _existing encounter data to monitor a Medicaid managed care_  
+| _organization's network adequacy and the accuracy of the_  
+| _organization's provider directories._  
+|  SECTION 17. Section 533.0063, Government Code, is amended  
+| by adding Subsection (d) to read as follows:  
+|  _(d)_ _____The commission shall use the commission's master file of_  
+| _Medicaid providers to validate the provider network directory of a_  
+| _managed care organization described by Subsection (a)._  
+|  SECTION 18. Section 533.0071, Government Code, is amended  
+| to read as follows:  
+|  Sec. 533.0071. ADMINISTRATION OF CONTRACTS. _(a)_ The  
+| commission shall make every effort to improve the administration of  
+| contracts with _Medicaid_ managed care organizations. To improve the  
+| administration of these contracts, the commission shall:  
+|  (1) ensure that the commission has appropriate  
+| expertise and qualified staff to effectively manage contracts with  
+| managed care organizations under the Medicaid managed care program;  
+|  (2) evaluate options for Medicaid payment recovery  
+| from managed care organizations if the enrollee dies or is  
+| incarcerated or if an enrollee is enrolled in more than one state  
+| program or is covered by another liable third party insurer;  
+|  (3) maximize Medicaid payment recovery options by  
+| contracting with private vendors to assist in the recovery of  
+| capitation payments, payments from other liable third parties, and  
+| other payments made to managed care organizations with respect to  
+| enrollees who leave the managed care program; _and_  
+|  (4) decrease the administrative burdens of managed  
+| care for the state, the managed care organizations, and the  
+| providers under managed care networks to the extent that those  
+| changes are compatible with state law and existing Medicaid managed  
+| care contracts, including decreasing those burdens by:  
+|  (A) where possible, decreasing the duplication  
+| of administrative reporting and process requirements for the  
+| managed care organizations and providers, such as requirements for  
+| the submission of encounter data, quality reports, historically  
+| underutilized business reports, and claims payment summary  
+| reports;  
+|  (B) allowing managed care organizations to  
+| provide updated address information directly to the commission for  
+| correction in the state system;  
+|  (C) promoting consistency and uniformity among  
+| managed care organization policies, including policies relating to  
+| the preauthorization process, lengths of hospital stays, filing  
+| deadlines, levels of care, and case management services;  
+|  (D) reviewing the appropriateness of primary  
+| care case management requirements in the admission and clinical  
+| criteria process, such as requirements relating to including a  
+| separate cover sheet for all communications, submitting  
+| handwritten communications instead of electronic or typed review  
+| processes, and admitting patients listed on separate  
+| notifications; and  
+|  (E) providing a portal through which providers in  
+| any managed care organization's provider network may submit acute  
+| care services and long-term services and supports claims[ ~~; and~~  
+|  [ ~~(5)~~ ~~~~ ~~~~ ~~reserve the right to amend the managed care~~  
+|  ~~organization's process for resolving provider appeals of denials~~  
+|  ~~based on medical necessity to include an independent review process~~  
+|  ~~established by the commission for final determination of these~~  
+|  ~~disputes~~ ].  
+|  _(b)_ _____For a contract described by Subsection (a), the_  
+| _commission shall:_  
+|  _(1)_ _____automate the process for receiving and tracking_  
+| _contract amendment requests and incorporating an amendment into a_  
+| _contract;_  
+|  _(2)_ _____make the most recent contract amendment_  
+| _information readily available among divisions within the_  
+| _commission; and_  
+|  _(3)_ _____provide technical assistance and education to help_  
+| _a commission employee determine whether a requested contract_  
+| _amendment is necessary or whether the issue could be resolved_  
+| _through the uniform managed care manual, a memorandum, or guidance._  
+|  _(c)_ _____The commission shall create a summary compliance_  
+| _framework that summarizes contract provisions to help Medicaid_  
+| _managed care organizations comply with those provisions._  
+|  _(d)_ _____The commission shall annually review and assess_  
+| _contract deliverables and eliminate unnecessary deliverables for_  
+| _Medicaid managed care contracts. The commission may identify_  
+| _measures to strengthen the contract deliverables and implement_  
+| _those measures as needed._  
+|  SECTION 19. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.00715 to read as follows:  
+|  _Sec._ ___533.00715._ _____INDEPENDENT APPEALS PROCEDURE. (a) In_  
+| _this section, "third-party arbiter" means a third-party medical_  
+| _review organization that provides objective, unbiased medical_  
+| _necessity determinations conducted by clinical staff with_  
+| _education and practice in the same or similar practice area as the_  
+| _procedure for which an independent determination of medical_  
+| _necessity is sought._  
+|  _(b)_ _____The commission shall contract with an independent,_  
+| _third-party arbiter to resolve recipient appeals related to a_  
+| _reduction in or denial of health care services on the basis of_  
+| _medical necessity in the Medicaid managed care program._  
+|  _(c)_ _____The arbiter shall establish a common procedure for_  
+| _appeals. The procedure must provide that a health care service_  
+| _ordered by a health care provider is presumed medically necessary_  
+| _and the Medicaid managed care organization bears the burden of_  
+| _proof to show the health care service is not medically necessary._  
+| _The arbiter shall also establish a procedure for expedited appeals_  
+| _that allows the arbiter to:_  
+|  _(1)_ _____identify an appeal that requires an expedited_  
+| _resolution; and_  
+|  _(2) resolve the appeal within a specified period._  
+|  _(d)_ _____The arbiter shall establish and maintain an Internet_  
+| _portal through which a recipient may track the status and final_  
+| _disposition of an appeal._  
+|  _(e)_ _____The arbiter shall educate recipients and employees of_  
+| _Medicaid managed care organizations regarding appeals processes,_  
+| _options, and proper and improper denials of health care services on_  
+| _the basis of medical necessity._  
+|  _(f)_ _____The third-party arbiter shall review aggregate denial_  
+| _data categorized by Medicaid managed care plan to identify trends_  
+| _and determine whether a Medicaid managed care organization is_  
+| _disproportionately denying prior authorization requests from a_  
+| _single provider or set of providers._  
+|  SECTION 20. The heading to Section 533.0072, Government  
+| Code, is amended to read as follows:  
+|  Sec. 533.0072. _CORRECTIVE ACTION PLANS AND_ [ ~~INTERNET~~  
+|  ~~POSTING OF~~ ] SANCTIONS IMPOSED FOR CONTRACTUAL VIOLATIONS.  
+|  SECTION 21. Section 533.0072, Government Code, is amended  
+| by amending Subsections (a), (b), and (c) and adding Subsections  
+| (b-1) and (b-2) to read as follows:  
+|  (a) The commission shall prepare and maintain a record of  
+| each enforcement action initiated by the commission [ ~~that results~~  
+|  ~~in a sanction, including a penalty, being imposed~~ ] against a  
+| managed care organization for failure to comply with the terms of a  
+| contract to provide health care services to recipients through a  
+| managed care plan issued by the organization _, including:_  
+|  _(1)_ _____an enforcement action that results in a sanction,_  
+| _including a penalty;_  
+|  _(2) the imposition of a corrective action plan;_  
+|  _(3) the imposition of liquidated damages;_  
+|  _(4) the suspension of default enrollment; and_  
+|  _(5) the termination of the organization's contract_.  
+|  (b) The record must include:  
+|  (1) the name and address of the organization;  
+|  (2) a description of the contractual obligation the  
+| organization failed to meet;  
+|  (3) the date of determination of noncompliance;  
+|  (4) the date the sanction was imposed _, if applicable_ ;  
+|  (5) the maximum sanction that may be imposed under the  
+| contract for the violation _, if applicable_ ; and  
+|  (6) the actual sanction imposed against the  
+| organization _, if applicable_.  
+|  _(b-1)_ _____In assessing liquidated damages against a Medicaid_  
+| _managed care organization, the commission shall:_  
+|  _(1)_ _____include in the record prepared under Subsection_  
+| _(a):_  
+|  _(A)_ _____each step taken in the process of_  
+| _recommending and assessing liquidated damages; and_  
+|  _(B)_ _____the reason for any reduction of liquidated_  
+| _damages from the recommended amount;_  
+|  _(2)_ _____assess liquidated damages in an amount that is_  
+| _sufficient to ensure compliance with the uniform managed care_  
+| _contract and is a reasonable forecast of the damages caused by the_  
+| _noncompliance; and_  
+|  _(3)_ _____apply liquidated damages and other enforcement_  
+| _actions consistently among Medicaid managed care organizations for_  
+| _similar violations._  
+|  _(b-2)_ _____If the commission reduces the sanction or penalty in_  
+| _an enforcement action, the commission shall include in the record_  
+| _prepared under Subsection (a) the reason for the reduction._  
+|  (c) The commission shall post and maintain the records  
+| required by this section on the commission's Internet website in  
+| English and Spanish. _The commission's office of inspector general_  
+| _shall post and maintain the records relating to corrective action_  
+| _plans required by this section on the office's Internet website._  
+| The records must be posted in a format that is readily accessible to  
+| and understandable by a member of the public. The commission _and_  
+| _the office_ shall update the list of records on the website at least  
+| quarterly.  
+|  SECTION 22. Section 533.0075, Government Code, is amended  
+| to read as follows:  
+|  Sec. 533.0075. RECIPIENT ENROLLMENT. _(a)_ The commission  
+| shall:  
+|  (1) encourage recipients to choose appropriate  
+| managed care plans and primary health care providers by:  
+|  (A) providing initial information to recipients  
+| and providers in a region about the need for recipients to choose  
+| plans and providers not later than the 90th day before the date on  
+| which a managed care organization plans to begin to provide health  
+| care services to recipients in that region through managed care;  
+|  (B) providing follow-up information before  
+| assignment of plans and providers and after assignment, if  
+| necessary, to recipients who delay in choosing plans and providers;  
+| and  
+|  (C) allowing plans and providers to provide  
+| information to recipients or engage in marketing activities under  
+| marketing guidelines established by the commission under Section  
+| 533.008 after the commission approves the information or  
+| activities;  
+|  (2) consider the following factors in assigning  
+| managed care plans and primary health care providers to recipients  
+| who fail to choose plans and providers:  
+|  (A) the importance of maintaining existing  
+| provider-patient and physician-patient relationships, including  
+| relationships with specialists, public health clinics, and  
+| community health centers;  
+|  (B) to the extent possible, the need to assign  
+| family members to the same providers and plans; [ ~~and~~ ]  
+|  (C) geographic convenience of plans and  
+| providers for recipients;  
+|  _(D) a recipient's previous plan assignment;_  
+|  _(E)_ _____the Medicaid managed care organization's_  
+| _performance on quality assurance and improvement;_  
+|  _(F)_ _____enforcement actions, including liquidated_  
+| _damages, imposed against the managed care organization;_  
+|  _(G)_ _____corrective action plans the commission has_  
+| _required the managed care organization to implement; and_  
+|  _(H)_ _____other reasonable factors that support the_  
+| _objectives of the managed care program;_  
+|  (3) retain responsibility for enrollment and  
+| disenrollment of recipients in managed care plans, except that the  
+| commission may delegate the responsibility to an independent  
+| contractor who receives no form of payment from, and has no  
+| financial ties to, any managed care organization;  
+|  (4) develop and implement an expedited process for  
+| determining eligibility for and enrolling pregnant women and  
+| newborn infants in managed care plans; and  
+|  (5) ensure immediate access to prenatal services and  
+| newborn care for pregnant women and newborn infants enrolled in  
+| managed care plans, including ensuring that a pregnant woman may  
+| obtain an appointment with an obstetrical care provider for an  
+| initial maternity evaluation not later than the 30th day after the  
+| date the woman applies for Medicaid.  
+|  _(b)_ _____To help new recipients easily compare managed care plans_  
+| _with regard to quality and patient satisfaction measures, the_  
+| _commission shall incorporate information the commission determines_  
+| _is relevant in Medicaid managed care report cards, including:_  
+|  _(1) feedback from recipient complaints;_  
+|  _(2)_ _____a Medicaid managed care organization's rate of_  
+| _denials and appeals;_  
+|  _(3) outcomes of internal appeals; and_  
+|  _(4)_ _____information for each organization related to_  
+| _independent appeals under Section 533.00715._  
+|  _(c)_ _____After enrolling a recipient in the medically dependent_  
+| _children (MDCP) waiver program or the STAR+PLUS Medicaid managed_  
+| _care program, the commission shall require the recipient's or_  
+| _legally authorized representative's electronic signature to verify_  
+| _the recipient received the recipient handbook._  
+|  _(d) The commission shall:_  
+|  _(1)_ _____survey a select sample of recipients receiving_  
+| _benefits under the medically dependent children (MDCP) waiver_  
+| _program or the STAR+PLUS Medicaid managed care program to determine_  
+| _whether the recipients:_  
+|  _(A)_ _____received the recipient handbook required by_  
+| _contract to be provided within the required period; and_  
+|  _(B)_ _____understand the information in the recipient_  
+| _handbook; and_  
+|  _(2)_ _____provide a sample recipient handbook to Medicaid_  
+| _managed care organizations._  
+|  SECTION 23. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.0095 to read as follows:  
+|  _Sec._ ___533.0095._ _____CERTAIN PRIOR AUTHORIZATION EXTENSIONS. (a)_  
+| _The commission shall establish a list of health care services and_  
+| _prescription drugs for which a Medicaid managed care organization_  
+| _must grant extended prior authorization periods or amounts, as_  
+| _applicable, without requiring additional proof or documentation._  
+| _The commission shall also establish a list of chronic health and_  
+| _mental health conditions the treatments for which a Medicaid_  
+| _managed care organization must grant extended prior authorization_  
+| _periods without requiring additional proof or documentation. The_  
+| _commission shall establish the extended periods and amounts._  
+|  _(b)_ _____The commission shall establish the lists in_  
+| _consultation with stakeholders, including physicians, hospitals,_  
+| _patient advocacy groups, and Medicaid managed care organizations._  
+| _The commission shall consult with stakeholders through the Medicaid_  
+| _managed care advisory committee._  
+|  _(c)_ _____The commission's medical director shall solicit and_  
+| _receive provider feedback regarding extended prior authorization_  
+| _periods, including feedback related to which health care services,_  
+| _prescription drugs, and health and mental health conditions should_  
+| _be subject to extended prior authorization periods._  
+|  _(d)_ _____The commission shall update the lists semiannually with_  
+| _input from the medical care advisory committee established under_  
+| _Section 32.022, Human Resources Code._  
+|  SECTION 24. The heading to Section 533.015, Government  
+| Code, is amended to read as follows:  
+|  Sec. 533.015. [ ~~COORDINATION OF~~ ] EXTERNAL OVERSIGHT  
+| ACTIVITIES.  
+|  SECTION 25. Section 533.015, Government Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____In overseeing Medicaid managed care organizations, the_  
+| _commission's office of inspector general shall use a program_  
+| _integrity methodology appropriate for managed care. The office may_  
+| _explore different options to measure program integrity efforts,_  
+| _including:_  
+|  _(1)_ _____quantifying and validating cost avoidance in a_  
+| _managed care context; and_  
+|  _(2)_ _____adapting existing program integrity tools to_  
+| _address specific risks and incentives related to risk-based and_  
+| _value-based arrangements._  
+|  SECTION 26. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Sections 533.026, 533.027, 533.028, and 533.031  
+| to read as follows:  
+|  _Sec._ ___533.026._ _____ENHANCED DATA COLLECTION AND REPORTING OF_  
+| _ADMINISTRATIVE COSTS; CONTRACT OVERSIGHT. (a)_ ___The commission_  
+| _shall collect accurate, consistent, and verifiable data from_  
+| _Medicaid managed care organizations, including line-item data for_  
+| _administrative costs._  
+|  _(b)_ _____The commission shall use data collected from a Medicaid_  
+| _managed care organization under this section to:_  
+|  _(1)_ _____identify grievances, as defined by Section_  
+| _533.027;_  
+|  _(2) monitor contract compliance;_  
+|  _(3) identify other programmatic issues; and_  
+|  _(4) identify whether the organization is:_  
+|  _(A)_ _____unnecessarily denying, reducing, or_  
+| _otherwise failing to provide health care services to recipients;_  
+|  _(B)_ _____delaying or denying provider claims due to_  
+| _technical or minimal errors; or_  
+|  _(C)_ _____otherwise engaging in behavior that merits an_  
+| _enforcement action._  
+|  _(c)_ _____A Medicaid managed care organization shall report_  
+| _administrative costs in the organization's financial statistical_  
+| _report and shall report those costs to the commission at least_  
+| _annually._ ___The commission shall report information provided under_  
+| _this subsection annually to the lieutenant governor, the speaker of_  
+| _the house, and each standing committee of the legislature with_  
+| _jurisdiction over financing, operating, and overseeing Medicaid._  
+|  _(d)_ _____The commission shall use data from grievances collected_  
+| _under Section 533.027 for contract oversight and to determine_  
+| _contract risk._  
+|  _(e) The commission shall:_  
+|  _(1)_ _____provide financial subject matter expertise for_  
+| _Medicaid managed care contract review and compliance oversight_  
+| _among divisions within the commission;_  
+|  _(2)_ _____conduct extensive validation of Medicaid managed_  
+| _care financial data; and_  
+|  _(3)_ _____analyze the ultimate underlying cause of an issue_  
+| _to resolve that cause and prevent similar issues from arising in the_  
+| _future within Medicaid managed care._  
+|  _(f)_ _____The commission's office of inspector general shall_  
+| _assist the commission in implementing this section._  
+|  _Sec._ ___533.027._ _____MANAGED CARE GRIEVANCES: PROCESSES AND_  
+| _TRACKING._ ___(a)_ ___In this section, "grievance" includes an inquiry_  
+| _about services or benefits, an inquiry or complaint about access to_  
+| _a provider in a recipient's local area, a formal complaint, a_  
+| _request for internal appeal, a request for a fair hearing, and a_  
+| _complaint brought by an individual or entity, including a_  
+| _legislator or the commission, submitted to or received by:_  
+|  _(1) a commission employee;_  
+|  _(2) a Medicaid managed care organization;_  
+|  _(3) the commission's office of inspector general;_  
+|  _(4) the commission's office of the ombudsman;_  
+|  _(5) the office of ombudsman for Medicaid providers; or_  
+|  _(6) the Department of Family and Protective Services._  
+|  _(b) The commission shall:_  
+|  _(1)_ _____provide education and training to commission_  
+| _employees on the correct issue resolution processes for Medicaid_  
+| _managed care grievances; and_  
+|  _(2)_ _____require those employees to promptly report_  
+| _grievances into the commission's grievance tracking system to_  
+| _enable employees to track and timely resolve grievances._  
+|  _(c)_ _____To ensure all grievances are managed consistently, the_  
+| _commission shall ensure the definition of a grievance is consistent_  
+| _among:_  
+|  _(1)_ _____commission employees and divisions within the_  
+| _commission;_  
+|  _(2) Medicaid managed care organizations;_  
+|  _(3) the commission's office of inspector general;_  
+|  _(4) the commission's office of the ombudsman;_  
+|  _(5)_ _____the office of ombudsman for Medicaid providers;_  
+| _and_  
+|  _(6) the Department of Family and Protective Services._  
+|  _(d)_ _____The commission shall enhance the Medicaid managed care_  
+| _grievance-tracking system's reporting capabilities and standardize_  
+| _data reporting among divisions within the commission._  
+|  _(e)_ _____In coordination with the executive commissioner's_  
+| _duties under Section 531.0171, the commission shall implement a_  
+| _no-wrong-door system for Medicaid managed care grievances reported_  
+| _to the commission. The commission shall ensure that commission_  
+| _employees, Medicaid managed care organizations, the commission's_  
+| _office of inspector general, the commission's office of the_  
+| _ombudsman, the office of ombudsman for Medicaid providers, and the_  
+| _Department of Family and Protective Services use common practices_  
+| _and policies and provide consistent resolutions for Medicaid_  
+| _managed care grievances._  
+|  _(f)_ _____The commission in conjunction with the commission's_  
+| _office of inspector general shall:_  
+|  _(1)_ _____implement a data analytics program to aggregate_  
+| _rates of inquiries, complaints, calls, denials, and fair hearing_  
+| _requests; and_  
+|  _(2)_ _____include the aggregate rating and data analysis in_  
+| _each Medicaid managed care organization's quality rating._  
+|  _Sec._ ___533.028._ _____CARE COORDINATION AND CARE COORDINATORS. (a)_  
+| _In this section, "care coordination" means assisting recipients to_  
+| _develop a plan of care, including a service plan, that meets the_  
+| _recipient's needs and coordinating the provision of Medicaid_  
+| _benefits in a manner that is consistent with the plan of care. The_  
+| _term is synonymous with "case management," "service coordination,"_  
+| _and "service management."_  
+|  _(b)_ _____The commission shall ensure a person, including a case_  
+| _manager, who is engaged by a Medicaid managed care organization to_  
+| _provide care coordination benefits is consistently referred to as a_  
+| _"care coordinator" throughout divisions within the commission and_  
+| _across all Medicaid programs and services for recipients receiving_  
+| _benefits under a managed care delivery model._  
+|  _(c)_ _____The commission shall expeditiously develop materials_  
+| _explaining the role of care coordinators by Medicaid managed care_  
+| _product line. The commission shall establish clear expectations_  
+| _that the care coordinator communicate with a recipient's health_  
+| _care providers with the goal of ensuring coordinated, effective,_  
+| _and efficient care delivery._  
+|  _(d)_ _____The commission shall collect data on care coordination_  
+| _touchpoints with recipients._  
+|  _(e)_ _____The commission shall provide to each Medicaid managed_  
+| _care organization information regarding best practices for care_  
+| _coordination services for the organization to incorporate into_  
+| _providing care._  
+|  _(f)_ _____The commission shall require a Medicaid managed care_  
+| _organization to offer a provider in the organization's provider_  
+| _network the option to have an organization's care coordinator_  
+| _on-site at the provider's practice. The commission shall ensure a_  
+| _care coordinator is reimbursed for care coordination services_  
+| _provided on-site and encourage managed care organizations to place_  
+| _care coordinators on-site._  
+|  _(g)_ _____In this subsection, "potentially preventable admission"_ __  
+| _and "potentially preventable readmission"_ ___have the meanings_  
+| _assigned by Section 536.001._ ___The commission shall change the_  
+| _methodology for calculating potentially preventable admissions and_  
+| _potentially preventable readmissions to exclude from those_  
+| _admission and readmission rates hospitalizations in which a_  
+| _Medicaid managed care organization did not adequately coordinate_  
+| _the patient's care._ ___The methodology must apply to physical and_  
+| _behavioral health conditions._  
+|  _(h)_ _____The executive commissioner shall include a provision_  
+| _establishing key performance metrics for care coordination in a_  
+| _contract between a managed care organization and the commission for_  
+| _the organization to provide health care services to recipients_  
+| _receiving home and community-based services under the:_  
+|  _(1) STAR+PLUS Medicaid managed care program;_  
+|  _(2) STAR Kids managed care program; or_  
+|  _(3) STAR Health program._  
+|  _(i)_ _____The commission shall establish for Medicaid managed_  
+| _care organizations and ensure compliance with metrics for the_  
+| _following:_  
+|  _(1)_ _____a dedicated toll-free care coordination telephone_  
+| _number;_  
+|  _(2) the time frame for the return of telephone calls;_  
+|  _(3)_ _____notice of the name and telephone number of a_  
+| _recipient's care coordinator;_  
+|  _(4)_ _____notice of changes in the name or telephone number_  
+| _of a recipient's care coordinator;_  
+|  _(5) initiation of assessments and reassessments;_  
+|  _(6)_ _____establishment and regular updating of_  
+| _comprehensive, person-centered individual service plans; and_  
+|  _(7)_ _____number of face-to-face and telephonic contacts for_  
+| _each care coordination level._  
+|  _Sec._ ___533.031._ _____COORDINATION OF BENEFITS UNDER MEDICALLY_  
+| _DEPENDENT CHILDREN (MDCP) WAIVER PROGRAM._ ___The commission shall_  
+| _prohibit a Medicaid managed care organization providing health care_  
+| _services under the medically dependent children (MDCP) waiver_  
+| _program from requiring additional authorization from an enrolled_  
+| _child's health care provider for a service if the child's third_  
+| _party health benefit plan issuer authorizes the service._  
+|  SECTION 27. Section 536.007, Government Code, is amended by  
+| adding Subsection (b) to read as follows:  
+|  _(b)_ _____The commission's medical director is responsible for_  
+| _convening periodic meetings with Medicaid health care providers,_  
+| _including hospitals, to analyze and evaluate all Medicaid managed_  
+| _care and health care provider quality-based programs to ensure_  
+| _feasibility and alignment among programs._  
+|  SECTION 28. As soon as practicable after the effective date  
+| of this Act, the Health and Human Services Commission shall  
+| implement the changes in law made by this Act.  
+|  SECTION 29. Section 533.005, Government Code, as amended by  
+| this Act, applies only to a contract entered into or renewed on or  
+| after the effective date of this Act. A contract entered into or  
+| renewed before that date is governed by the law in effect on the  
+| date the contract was entered into or renewed, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 30. If before implementing any provision of this  
+| Act a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 31. If any provision of this Act or its application  
+| to any person or circumstance is held invalid, the invalidity does  
+| not affect other provisions or applications of this Act that can be  
+| given effect without the invalid provision or application, and to  
+| this end the provisions of this Act are declared to be severable.  
+|  SECTION 32. This Act takes effect September 1, 2019.
+

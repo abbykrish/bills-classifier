@@ -1,0 +1,283 @@
+| 86R9268 SMT-D  
+---|---  
+|  By: Smithee | H.B. No. 1742  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the mediation of the settlement of certain health  
+| benefit claims involving balance billing by out-of-network  
+| laboratories.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1467.001, Insurance Code, is amended by  
+| amending Subdivisions (4), (5), and (7) and adding Subdivisions  
+| (4-b) and (4-c) to read as follows:  
+|  (4) "Facility-based provider" means a physician,  
+| health care practitioner, or other health care provider who  
+| provides health care [ ~~or medical~~ ] services to patients of a  
+| facility.  
+|  _(4-b)_ _____"Health care services" has the meaning assigned_  
+| _by Section 562.002._  
+|  _(4-c) "Laboratory" means an accredited facility in_  
+| _which a specimen taken from a human body is interpreted and_  
+| _pathological diagnoses are made._  
+|  (5) "Mediation" means a process in which an impartial  
+| mediator facilitates and promotes agreement between the insurer  
+| offering a preferred provider benefit plan or the administrator and  
+| a _laboratory,_ facility-based provider _,_ or emergency care provider  
+| or the _laboratory's or_ provider's representative to settle a health  
+| benefit claim of an enrollee.  
+|  (7) "Party" means an insurer offering a preferred  
+| provider benefit plan, an administrator, or a _laboratory,_  
+| facility-based provider _,_ or emergency care provider or the  
+| _laboratory's or_ provider's representative who participates in a  
+| mediation conducted under this chapter. The enrollee is also  
+| considered a party to the mediation.  
+|  SECTION 2. Section 1467.005, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.005. REFORM. This chapter may not be construed  
+| to prohibit:  
+|  (1) an insurer offering a preferred provider benefit  
+| plan or administrator from, at any time, offering a reformed claim  
+| settlement; or  
+|  (2) a _laboratory,_ facility-based provider _,_ or  
+| emergency care provider from, at any time, offering a reformed  
+| charge for health care [ ~~or medical~~ ] services [ ~~or supplies~~ ].  
+|  SECTION 3. Section 1467.051, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.051. AVAILABILITY OF MANDATORY MEDIATION;  
+| EXCEPTION. (a) An enrollee may request mediation of a settlement  
+| of an out-of-network health benefit claim if:  
+|  (1) the amount for which the enrollee is responsible  
+| to a _laboratory,_ facility-based provider _,_ or emergency care  
+| provider, after copayments, deductibles, and coinsurance,  
+| including the amount unpaid by the administrator or insurer, is  
+| greater than $500; and  
+|  (2) the health benefit claim is for:  
+|  (A) emergency care; [ ~~or~~ ]  
+|  (B) a health care [ ~~or medical~~ ] service [ ~~or~~  
+|  ~~supply~~ ] provided by a facility-based provider in a facility that is  
+| a preferred provider or that has a contract with the administrator _;_  
+| _or_  
+|  _(C) a laboratory service, if:_  
+|  _(i)_ _____the specimen evaluated by the_  
+| _laboratory is collected by an in-network physician, health care_  
+| _practitioner, or health care provider;_  
+|  _(ii)_ _____the laboratory is an out-of-network_  
+| _laboratory; and_  
+|  _(iii)_ _____the enrollee did not have a_  
+| _reasonable opportunity to inquire about the laboratory's network_  
+| _status_.  
+|  (b) Except as provided by Subsections (c) and (d), if an  
+| enrollee requests mediation under this subchapter, the _laboratory,_  
+| facility-based provider _,_ or emergency care provider, or the  
+| _laboratory's or_ provider's representative, and the insurer or the  
+| administrator, as appropriate, shall participate in the mediation.  
+|  (c) Except in the case of an emergency and if requested by  
+| the enrollee, a _laboratory or_ facility-based provider shall, before  
+| providing a health care [ ~~or medical~~ ] service [ ~~or supply~~ ],
+provide a  
+| complete disclosure to an enrollee that:  
+|  (1) explains that the _laboratory or_ facility-based  
+| provider does not have a contract with the enrollee's health  
+| benefit plan;  
+|  (2) discloses projected amounts for which the enrollee  
+| may be responsible; and  
+|  (3) discloses the circumstances under which the  
+| enrollee would be responsible for those amounts.  
+|  (d) A _laboratory or_ facility-based provider who makes a  
+| disclosure under Subsection (c) and obtains the enrollee's written  
+| acknowledgment of that disclosure may not be required to mediate a  
+| billed charge under this subchapter if the amount billed is less  
+| than or equal to the maximum amount projected in the disclosure.  
+|  SECTION 4. Section 1467.0511, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.0511. NOTICE AND INFORMATION PROVIDED TO  
+| ENROLLEE. (a) A bill sent to an enrollee by a _laboratory,_  
+| facility-based provider _,_ or emergency care provider or an  
+| explanation of benefits sent to an enrollee by an insurer or  
+| administrator for an out-of-network health benefit claim eligible  
+| for mediation under this chapter must contain, in not less than  
+| 10-point boldface type, a conspicuous, plain-language explanation  
+| of the mediation process available under this chapter, including  
+| information on how to request mediation and a statement that is  
+| substantially similar to the following:  
+|  "You may be able to reduce some of your out-of-pocket costs  
+| for an out-of-network _laboratory,_ medical _,_ or health care claim  
+| that is eligible for mediation by contacting the Texas Department  
+| of Insurance at (website) and (phone number)."  
+|  (b) If an enrollee contacts an insurer, administrator,  
+| _laboratory,_ facility-based provider, or emergency care provider  
+| about a bill that may be eligible for mediation under this chapter,  
+| the insurer, administrator, _laboratory,_ facility-based provider,  
+| or emergency care provider is encouraged to:  
+|  (1) inform the enrollee about mediation under this  
+| chapter; and  
+|  (2) provide the enrollee with the department's  
+| toll-free telephone number and Internet website address.  
+|  SECTION 5. Section 1467.052(c), Insurance Code, is amended  
+| to read as follows:  
+|  (c) A person may not act as mediator for a claim settlement  
+| dispute if the person has been employed by, consulted for, or  
+| otherwise had a business relationship with an insurer offering the  
+| preferred provider benefit plan or a physician, _laboratory,_ health  
+| care practitioner, or other health care provider during the three  
+| years immediately preceding the request for mediation.  
+|  SECTION 6. Section 1467.053(d), Insurance Code, is amended  
+| to read as follows:  
+|  (d) The mediator's fees shall be split evenly and paid by  
+| the insurer or administrator and the _laboratory,_ facility-based  
+| provider _,_ or emergency care provider.  
+|  SECTION 7. Sections 1467.054(b), (c), and (e), Insurance  
+| Code, are amended to read as follows:  
+|  (b) A request for mandatory mediation must be provided to  
+| the department on a form prescribed by the commissioner and must  
+| include:  
+|  (1) the name of the enrollee requesting mediation;  
+|  (2) a brief description of the claim to be mediated;  
+|  (3) contact information, including a telephone  
+| number, for the requesting enrollee and the enrollee's counsel, if  
+| the enrollee retains counsel;  
+|  (4) the name of the _laboratory,_ facility-based  
+| provider _,_ or emergency care provider and name of the insurer or  
+| administrator; and  
+|  (5) any other information the commissioner may require  
+| by rule.  
+|  (c) On receipt of a request for mediation, the department  
+| shall notify the _laboratory,_ facility-based provider _,_ or emergency  
+| care provider and insurer or administrator of the request.  
+|  (e) A dispute to be mediated under this chapter that does  
+| not settle as a result of a teleconference conducted under  
+| Subsection (d) must be conducted in the county in which the health  
+| care [ ~~or medical~~ ] services were rendered.  
+|  SECTION 8. Sections 1467.055(d), (h), and (i), Insurance  
+| Code, are amended to read as follows:  
+|  (d) If the enrollee is participating in the mediation in  
+| person, at the beginning of the mediation the mediator shall inform  
+| the enrollee that if the enrollee is not satisfied with the mediated  
+| agreement, the enrollee may file a complaint with:  
+|  (1) the Texas Medical Board or other appropriate  
+| regulatory agency against the _laboratory,_ facility-based provider _,_  
+| or emergency care provider for improper billing; and  
+|  (2) the department for unfair claim settlement  
+| practices.  
+|  (h) On receipt of notice from the department that an  
+| enrollee has made a request for mediation that meets the  
+| requirements of this chapter, the _laboratory,_ facility-based  
+| provider _,_ or emergency care provider may not pursue any collection  
+| effort against the enrollee who has requested mediation for amounts  
+| other than copayments, deductibles, and coinsurance before the  
+| earlier of:  
+|  (1) the date the mediation is completed; or  
+|  (2) the date the request to mediate is withdrawn.  
+|  (i) A health care [ ~~or medical~~ ] service [ ~~or supply~~ ] provided  
+| by a _laboratory,_ facility-based provider _,_ or emergency care  
+| provider may not be summarily disallowed.  This subsection does not  
+| require an insurer or administrator to pay for an uncovered service  
+| [ ~~or supply~~ ].  
+|  SECTION 9. Sections 1467.056(a), (b), and (d), Insurance  
+| Code, are amended to read as follows:  
+|  (a) In a mediation under this chapter, the parties shall:  
+|  (1) evaluate whether:  
+|  (A) the amount charged by the _laboratory,_  
+| facility-based provider _,_ or emergency care provider for the health  
+| care [ ~~or medical~~ ] service [ ~~or supply~~ ] is excessive; and  
+|  (B) the amount paid by the insurer or  
+| administrator represents the usual and customary rate for the  
+| health care [ ~~or medical~~ ] service [ ~~or supply~~ ] or is unreasonably  
+| low; and  
+|  (2) as a result of the amounts described by  
+| Subdivision (1), determine the amount, after copayments,  
+| deductibles, and coinsurance are applied, for which an enrollee is  
+| responsible to the _laboratory,_ facility-based provider _,_ or  
+| emergency care provider.  
+|  (b) The _laboratory,_ facility-based provider _,_ or emergency  
+| care provider may present information regarding the amount charged  
+| for the health care [ ~~or medical~~ ] service [ ~~or supply~~ ].  The
+insurer  
+| or administrator may present information regarding the amount paid  
+| by the insurer or administrator.  
+|  (d) The goal of the mediation is to reach an agreement among  
+| the enrollee, the _laboratory,_ facility-based provider _,_ or  
+| emergency care provider, and the insurer or administrator, as  
+| applicable, as to the amount paid by the insurer or administrator to  
+| the _laboratory,_ facility-based provider _,_ or emergency care  
+| provider, the amount charged by the _laboratory,_ facility-based  
+| provider _,_ or emergency care provider, and the amount paid to the  
+| _laboratory,_ facility-based provider _,_ or emergency care provider by  
+| the enrollee.  
+|  SECTION 10. Section 1467.058, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.058. CONTINUATION OF MEDIATION. After a  
+| referral is made under Section 1467.057, the _laboratory,_  
+| facility-based provider _,_ or emergency care provider and the insurer  
+| or administrator may elect to continue the mediation to further  
+| determine their responsibilities. Continuation of mediation under  
+| this section does not affect the amount of the billed charge to the  
+| enrollee.  
+|  SECTION 11. Section 1467.059, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1467.059. MEDIATION AGREEMENT. The mediator shall  
+| prepare a confidential mediation agreement and order that states:  
+|  (1) the total amount for which the enrollee will be  
+| responsible to the _laboratory,_ facility-based provider _,_ or  
+| emergency care provider, after copayments, deductibles, and  
+| coinsurance; and  
+|  (2) any agreement reached by the parties under Section  
+| 1467.058.  
+|  SECTION 12. Sections 1467.151(a), (b), and (d), Insurance  
+| Code, are amended to read as follows:  
+|  (a) The commissioner and the Texas Medical Board or other  
+| regulatory agency, as appropriate, shall adopt rules regulating the  
+| investigation and review of a complaint filed that relates to the  
+| settlement of an out-of-network health benefit claim that is  
+| subject to this chapter. The rules adopted under this section  
+| must:  
+|  (1) distinguish among complaints for out-of-network  
+| coverage or payment and give priority to investigating allegations  
+| of delayed health care _services_ [ ~~or medical care~~ ];  
+|  (2) develop a form for filing a complaint and  
+| establish an outreach effort to inform enrollees of the  
+| availability of the claims dispute resolution process under this  
+| chapter;  
+|  (3) ensure that a complaint is not dismissed without  
+| appropriate consideration;  
+|  (4) ensure that enrollees are informed of the  
+| availability of mandatory mediation; and  
+|  (5) require the administrator to include a notice of  
+| the claims dispute resolution process available under this chapter  
+| with the explanation of benefits sent to an enrollee.  
+|  (b) The department and the Texas Medical Board or other  
+| appropriate regulatory agency shall maintain information:  
+|  (1) on each complaint filed that concerns a claim or  
+| mediation subject to this chapter; and  
+|  (2) related to a claim that is the basis of an enrollee  
+| complaint, including:  
+|  (A) the type of services that gave rise to the  
+| dispute;  
+|  (B) the type and specialty, if any, of the  
+| _laboratory,_ facility-based provider _,_ or emergency care provider  
+| who provided the out-of-network service;  
+|  (C) the county and metropolitan area in which the  
+| health care [ ~~or medical~~ ] service [ ~~or supply~~ ] was provided;  
+|  (D) whether the health care [ ~~or medical~~ ] service  
+| [ ~~or supply~~ ] was for emergency care; and  
+|  (E) any other information about:  
+|  (i) the insurer or administrator that the  
+| commissioner by rule requires; or  
+|  (ii) the _laboratory,_ facility-based  
+| provider _,_ or emergency care provider that the Texas Medical Board  
+| or other appropriate regulatory agency by rule requires.  
+|  (d) A _laboratory,_ facility-based provider _,_ or emergency  
+| care provider who fails to provide a disclosure under Section  
+| 1467.051 or 1467.0511 is not subject to discipline by the Texas  
+| Medical Board or other appropriate regulatory agency for that  
+| failure and a cause of action is not created by a failure to  
+| disclose as required by Section 1467.051 or 1467.0511.  
+|  SECTION 13. The changes in law made by this Act apply only  
+| to a claim for health care services provided on or after January 1,  
+| 2020\. A claim for health care services provided before January 1,  
+| 2020, is governed by the law as it existed immediately before the  
+| effective date of this Act, and that law is continued in effect for  
+| that purpose.  
+|  SECTION 14. This Act takes effect September 1, 2019.
+

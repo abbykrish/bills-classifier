@@ -1,0 +1,858 @@
+| 86R125 MAW-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 404  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to repealing civil asset forfeiture provisions and  
+| establishing criminal asset forfeiture in this state.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 1, Code of Criminal Procedure, is amended  
+| by adding Chapter 59A to read as follows:  
+| _CHAPTER 59A._ _____CRIMINAL ASSET FORFEITURE_  
+|  _Art. 59A.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Abandoned property" means personal property left_  
+| _by an owner who has intentionally relinquished all rights to_  
+| _control of the property._  
+|  _(2)_ _____"Actual knowledge" means direct and clear_  
+| _awareness of information, facts, or conditions._  
+|  _(3)_ _____"Contraband" means tangible or intangible goods_  
+| _that are illegal to import, export, or possess, including a_  
+| _scheduled drug without a valid prescription._  
+|  _(4)_ _____"Conveyance" means a device or structure used for_  
+| _transportation. The term includes a motor vehicle, trailer,_  
+| _snowmobile, airplane, or vessel, and any attached equipment._  
+|  _(5)_ _____"Department" means the Department of Public_  
+| _Safety._  
+|  _(6)_ _____"Instrumentality" means property that is_  
+| _otherwise lawful to possess and that is used in the furtherance or_  
+| _commission of an offense subject to forfeiture. The term includes_  
+| _land, buildings, containers, conveyances, equipment, materials,_  
+| _products, computer hardware or software, telecommunications_  
+| _devices, firearms, ammunition, tools, and money, securities,_  
+| _negotiable instruments, or other means of exchange._ ___The term does_  
+| _not include stolen property._  
+|  _(7)_ _____"Law enforcement agency" means a law enforcement_  
+| _agency of this state or a political subdivision of this state that_  
+| _has authority under state law to engage in seizure and forfeiture._  
+|  _(8) "Offense subject to forfeiture" means:_  
+|  _(A)_ _____a first or second degree felony under the_  
+| _Penal Code;_  
+|  _(B)_ _____a third degree or state jail felony under_  
+| _Chapter 49, Penal Code, if the defendant has been previously_  
+| _convicted three times of an offense under that chapter;_  
+|  _(C) a felony under:_  
+|  _(i) Chapter 151, Finance Code;_  
+|  _(ii)_ _____Chapter 481 or 483, Health and Safety_  
+| _Code;_  
+|  _(iii)_ _____Chapter 32, Human Resources Code, or_  
+| _Chapter 35A or 37, Penal Code, that involves the state Medicaid_  
+| _program;_  
+|  _(iv)_ _____Section 15.031, 21.11, or 38.04, Penal_  
+| _Code;_  
+|  _(v)_ _____Chapter 20A, 29, 30, 31, 32, 33, 33A,_  
+| _34, 35, or 43, Penal Code; or_  
+|  _(vi)_ _____The Securities Act (Article 581-1 et_  
+| _seq., Vernon's Texas Civil Statutes);_  
+|  _(D) a Class A misdemeanor under:_  
+|  _(i)_ _____Section 306.051, Business & Commerce _  
+| _Code; or_  
+|  _(ii)_ _____Subchapter B, Chapter 365, Health and_  
+| _Safety Code, if the defendant has been previously convicted two_  
+| _times of an offense under that subchapter;_  
+|  _(E)_ _____a Class B misdemeanor under Chapter 522,_  
+| _Business & Commerce Code;_  
+|  _(F) an offense under:_  
+|  _(i)_ _____Section 326.002, Business & Commerce _  
+| _Code;_  
+|  _(ii)_ _____Section 20.05, 20.06, 42.10,_  
+| _46.06(a)(1), or 46.14, Penal Code;_  
+|  _(iii) Chapter 71, Penal Code; or_  
+|  _(iv)_ _____Section 550.021, Transportation Code;_  
+| _or_  
+|  _(G)_ _____any other offense that results in a personal_  
+| _injury to a victim and that is provided under:_  
+|  _(i) the Penal Code; or_  
+|  _(ii) a federal criminal law._  
+|  _Art. 59A.002. PURPOSE.  The purpose of this chapter is to:_  
+|  _(1)_ _____deter criminal activity by reducing the economic_  
+| _incentives;_  
+|  _(2)_ _____increase the pecuniary loss that results from_  
+| _engaging in criminal activity;_  
+|  _(3)_ _____protect against the wrongful forfeiture of_  
+| _property; and_  
+|  _(4)_ _____except as provided by Article 59A.026, ensure that_  
+| _only criminal forfeiture is allowed in this state._  
+|  _Art._ ___59A.003._ _____CRIMINAL ASSET FORFEITURE; PROPERTY SUBJECT_  
+| _TO FORFEITURE._ ___(a)_ ___The convicting court may order a person_  
+| _convicted of an offense subject to forfeiture to forfeit any:_  
+|  _(1)_ _____property the person derived from the commission of_  
+| _the offense;_  
+|  _(2)_ _____property directly traceable to property derived_  
+| _from the commission of the offense; or_  
+|  _(3)_ _____instrumentality the person used in the commission_  
+| _of the offense._  
+|  _(b)_ _____For purposes of this chapter, a person is considered_  
+| _convicted if:_  
+|  _(1) a sentence is imposed on the person; or_  
+|  _(2)_ _____the person receives community supervision,_  
+| _including deferred adjudication community supervision._  
+|  _Art._ ___59A.004._ _____EXEMPT PROPERTY._ ___The following are exempt_  
+| _from forfeiture:_  
+|  _(1) property that is homestead property;_  
+|  _(2) a motor vehicle valued at less than $10,000; and_  
+|  _(3) United States currency totaling $200 or less._  
+|  _Art._ ___59A.005._ _____CONTRABAND._ ___A person may not have a property_  
+| _interest in contraband._ ___Contraband is subject to seizure and shall_  
+| _be disposed of in accordance with state law._ ___Contraband is not_  
+| _subject to forfeiture under this chapter._  
+|  _Art._ ___59A.006._ _____CONVICTION REQUIRED; STANDARD OF PROOF._ ___(a)_
+__  
+| _Property may be forfeited under this chapter only if:_  
+|  _(1)_ _____a person is convicted of an offense subject to_  
+| _forfeiture; and_  
+|  _(2)_ _____the state establishes by clear and convincing_  
+| _evidence that the applicable requirements of Articles_  
+| _59A.003-59A.005 are met._  
+|  _(b)_ _____This chapter does not prevent property from being_  
+| _forfeited by plea agreement approved by the convicting court._  
+|  _Art._ ___59A.007._ _____SUBSTITUTION OF ASSETS._ ___On the state's_  
+| _motion following conviction, the convicting court may order the_  
+| _forfeiture of substitute property owned by the defendant if the_  
+| _state proves by a preponderance of the evidence that the defendant_  
+| _intentionally transferred, sold, or deposited property with a third_  
+| _party to avoid the court's jurisdiction._ ___The value of substitute_  
+| _property forfeited may not exceed the value of the property_  
+| _transferred, sold, or deposited._  
+|  _Art._ ___59A.008._ _____NO ADDITIONAL REMEDIES._ ___The state may not_  
+| _seek a money judgment against the defendant or any other remedy not_  
+| _provided by this chapter._  
+|  _Art._ ___59A.009._ _____NO JOINT AND SEVERAL LIABILITY._ ___A defendant_  
+| _convicted of an offense subject to forfeiture is not jointly and_  
+| _severally liable for a forfeiture award owed by any other_  
+| _defendant._ ___If ownership is unknown, the convicting court may order_  
+| _each defendant to forfeit property on a pro rata basis or by other_  
+| _equitable means._  
+|  _Art._ ___59A.010._ _____SEIZURE OF PERSONAL PROPERTY WITH PROCESS._ __  
+| _At the request of the state made at any time, a court may issue an ex_  
+| _parte preliminary order to seize or secure personal property for_  
+| _which forfeiture is sought and to provide for its custody._  
+|  _Art._ ___59A.011._ _____SEIZURE OF PERSONAL PROPERTY WITHOUT PROCESS._ __  
+| _Personal property subject to forfeiture may be seized at any time_  
+| _without a court order if:_  
+|  _(1)_ _____the seizure is incident to a lawful arrest or_  
+| _search;_  
+|  _(2)_ _____the personal property has been the subject of a_  
+| _previous judgment in favor of the state; or_  
+|  _(3)_ _____the law enforcement agency seizing the property_  
+| _has probable cause to believe that:_  
+|  _(A)_ _____the seizure is immediately necessary to_  
+| _prevent the removal or destruction of the personal property; and_  
+|  _(B)_ _____the personal property is forfeitable under_  
+| _this chapter._  
+|  _Art._ ___59A.012._ _____SEIZURE OF REAL PROPERTY WITH PROCESS._ ___(a)_ __  
+| _Real property may be seized only under a court order._ ___A court may_  
+| _issue an order to seize or secure real property for which forfeiture_  
+| _is sought only after the property owners are provided notice and an_  
+| _opportunity for a contested hearing to determine the sufficiency of_  
+| _the probable cause for the seizure._  
+|  _(b)_ _____This article does not prohibit the attorney_  
+| _representing the state from seeking a lis pendens or restraining_  
+| _order to prohibit the sale or destruction of the real property._  
+|  _Art._ ___59A.013._ _____RECEIPT._ ___A law enforcement officer who_  
+| _seizes property shall give an itemized receipt to the person_  
+| _possessing the property, or in the absence of any person, leave a_  
+| _receipt in the place where the property was found, if reasonably_  
+| _possible._  
+|  _Art._ ___59A.014._ _____TITLE TO PROPERTY._ ___(a)_ ___At the time of a_  
+| _seizure or the issuance of a lis pendens or restraining order, the_  
+| _state acquires provisional title to the seized property and may_  
+| _hold and protect the property._  
+|  _(b)_ _____Title to the property vests with the state on the date_  
+| _the court orders the property to be forfeited and the vesting_  
+| _relates back to the date the state acquired provisional title._ __  
+| _Title acquired under this subsection is subject to a claim by a_  
+| _third party that is adjudicated as provided by this chapter._  
+|  _Art._ ___59A.015._ _____PRETRIAL HEARING REGARDING REPLEVIN._ ___(a)_
+___In_  
+| _this article, "claimant"_ ___means a person claiming an ownership_  
+| _interest in property that has been seized under this chapter._  
+|  _(b)_ _____Following a seizure of property subject to forfeiture, a_  
+| _claimant has the right to a pretrial hearing to determine the_  
+| _validity of the seizure._  
+|  _(c)_ _____The claimant may claim, at any time on or before the 60th_  
+| _day before the scheduled start of the trial of the related criminal_  
+| _offense or as soon as otherwise practicable, the right to_  
+| _possession of property by motion to the court to issue a writ of_  
+| _replevin._  
+|  _(d)_ _____The claimant must file a motion establishing the_  
+| _validity of the alleged interest in the property._  
+|  _(e)_ _____The court shall hear the motion not later than the 30th_  
+| _day after the date the motion is filed._  
+|  _(f)_ _____The state must file an answer showing probable cause for_  
+| _the seizure or a cross motion not later than the 10th day before the_  
+| _hearing on the claimant's motion._  
+|  _(g)_ _____The court shall grant the claimant's motion if the court_  
+| _finds that:_  
+|  _(1)_ _____the final judgment is likely to require the state_  
+| _to return the property to the claimant;_  
+|  _(2)_ _____the property is not reasonably required to be held_  
+| _for investigatory reasons; or_  
+|  _(3)_ _____the property is the only reasonable means for a_  
+| _defendant to pay for legal representation in the forfeiture_  
+| _proceeding or in the prosecution of the related criminal offense._  
+|  _(h)_ _____At the court's discretion under Subsection (g)(3), the_  
+| _court may order the return of funds or property sufficient for the_  
+| _defendant to obtain legal counsel but less than the total amount_  
+| _seized, and may require an accounting for the use of the returned_  
+| _funds or property._  
+|  _(i)_ _____Instead of ordering the issuance of the writ of_  
+| _replevin, the court may order the state to give security or written_  
+| _assurance for satisfaction of any judgment, including damages, that_  
+| _may be rendered in the action or may order other appropriate relief._  
+|  _Art._ ___59A.016._ _____FORFEITURE PROCEEDING._ ___A proceeding for the_  
+| _forfeiture of property shall be held following the trial of the_  
+| _related alleged offense._ ___If the value of the property is less than_  
+| _$10,000, the proceeding must be held before the judge only._  
+|  _Art._ ___59A.017._ _____PROPORTIONALITY HEARING._ ___(a)_ ___At any time_  
+| _following a determination of forfeiture by the trier of fact, the_  
+| _defendant may petition the court to determine whether the_  
+| _forfeiture is unconstitutionally excessive under the United States_  
+| _Constitution or the Texas Constitution._  
+|  _(b)_ _____The defendant has the burden of establishing by a_  
+| _preponderance of the evidence that the forfeiture is grossly_  
+| _disproportional to the seriousness of the offense._ ___The hearing_  
+| _must be held before the judge only._  
+|  _(c)_ _____In determining whether the forfeiture of property is_  
+| _unconstitutionally excessive, the court may consider all relevant_  
+| _factors, including:_  
+|  _(1)_ _____the seriousness of the offense and its impact on_  
+| _the community, including the duration of the activity and the harm_  
+| _caused by the defendant;_  
+|  _(2)_ _____the extent to which the defendant participated in_  
+| _the offense;_  
+|  _(3)_ _____the extent to which the property was used in_  
+| _committing the offense;_  
+|  _(4) the sentence imposed for the offense; and_  
+|  _(5) whether the offense was completed or attempted._  
+|  _(d)_ _____In determining the value of the property subject to_  
+| _forfeiture, the court may consider all relevant factors, including:_  
+|  _(1) the fair market value of the property;_  
+|  _(2)_ _____the value of the property to the defendant,_  
+| _including hardship to the defendant if the court orders the_  
+| _property to be forfeited; and_  
+|  _(3)_ _____the hardship to a defendant's family member or_  
+| _other person from the loss of a primary residence, motor vehicle, or_  
+| _other property if the court orders the property to be forfeited._  
+|  _(e)_ _____The court may not consider the value of the property to_  
+| _the state in determining whether the forfeiture of property is_  
+| _unconstitutionally excessive._  
+|  _Art._ ___59A.018._ _____SECURITY INTEREST._ ___A bona fide security_  
+| _interest is not subject to forfeiture unless the person claiming_  
+| _the security interest had actual knowledge that the property was_  
+| _subject to forfeiture at the time the property was seized under this_  
+| _chapter. A person claiming a security interest must establish the_  
+| _validity of the interest by a preponderance of the evidence._  
+|  _Art._ ___59A.019._ _____INNOCENT OWNER._ ___(a) The property of an_  
+| _innocent owner may not be forfeited._  
+|  _(b)_ _____A person who has an ownership interest in property_  
+| _subject to forfeiture that existed at the time of the conduct giving_  
+| _rise to the forfeiture and who claims to be an innocent owner must_  
+| _show that the person has a legal right, title, or interest in the_  
+| _property seized under this chapter._ ___If the person shows legal_  
+| _right, title, or interest in the property, the state must prove by a_  
+| _preponderance of the evidence that the person had actual or_  
+| _constructive knowledge of the underlying offense giving rise to the_  
+| _forfeiture. A person is presumed to have constructive knowledge of_  
+| _the underlying offense if the person is a family or household member_  
+| _of the defendant alleged to have committed or convicted of the_  
+| _underlying offense and if the defendant, during the 10 years_  
+| _preceding the underlying offense, was convicted three or more times_  
+| _for the same or a similar offense._  
+|  _(c)_ _____A person who, after the commission of an offense giving_  
+| _rise to the forfeiture, acquired an ownership interest in property_  
+| _subject to forfeiture and who claims to be an innocent owner must_  
+| _show that the person has legal right, title, or interest in the_  
+| _property seized under this chapter._ ___If the person shows legal_  
+| _right, title, or interest in the property, the state must prove by a_  
+| _preponderance of the evidence that at the time the person acquired_  
+| _the property, the person:_  
+|  _(1)_ _____had actual or constructive knowledge that the_  
+| _property was subject to forfeiture; or_  
+|  _(2)_ _____did not purchase the property for valuable_  
+| _consideration without notice of any defect in title._  
+|  _(d)_ _____A person is presumed to have constructive knowledge that_  
+| _the property was subject to forfeiture if:_  
+|  _(1) the person:_  
+|  _(A)_ _____acquired the property from the defendant_  
+| _alleged to have committed or convicted of the underlying offense;_  
+| _and_  
+|  _(B)_ _____is a family or household member of the_  
+| _defendant; and_  
+|  _(2)_ _____the defendant, during the 10 years preceding the_  
+| _underlying offense, was convicted three or more times for the same_  
+| _or a similar offense._  
+|  _(e)_ _____If the state fails to meet its burden in Subsection (b)_  
+| _or (c), the court shall find that the person is an innocent owner_  
+| _and shall order the state to relinquish all claims of title to the_  
+| _property._  
+|  _Art._ ___59A.020._ _____APPEAL._ ___A party to forfeiture litigation may_  
+| _appeal the court's decision regarding the seizure, forfeiture, and_  
+| _distribution of property under this chapter._  
+|  _Art._ ___59A.021._ _____DISPOSITION OF PROPERTY AND PROCEEDS._ ___(a) If_  
+| _abandoned property held for evidentiary purposes is no longer_  
+| _needed for that purpose, the court may order that the property be_  
+| _delivered, not later than the 30th day after the date of the order,_  
+| _to the county treasurer in the county in which the property was_  
+| _abandoned._  
+|  _(b)_ _____If contraband held for evidentiary purposes is no longer_  
+| _needed for that purpose, the court may order that the contraband be_  
+| _destroyed not later than the 30th day after the date of the order._  
+|  _(c)_ _____If property is forfeited under this chapter, the court_  
+| _may order that the property be delivered, not later than the 30th_  
+| _day after the date of the order, to the county treasurer in the_  
+| _county in which the property was seized._  
+|  _(d)_ _____All abandoned property shall be delivered to the county_  
+| _treasurer in the county in which the property was abandoned._  
+|  _(e)_ _____A county treasurer who receives forfeited or abandoned_  
+| _property under this article shall dispose of the property, other_  
+| _than currency, at public auction. The auction proceeds and_  
+| _forfeited currency first shall be used to pay all outstanding_  
+| _recorded liens on the forfeited property, and then shall be used to_  
+| _comply with any court order regarding the payment of expenses._  
+|  _(f)_ _____On the court's own motion or on the motion of any party,_  
+| _the court may order that a portion of the currency seized or of the_  
+| _proceeds from the public auction of property be used to pay_  
+| _reasonable expenses for the seizure, storage, and maintenance or_  
+| _custody of any forfeited items, other than expenses for personnel._  
+|  _(g)_ _____The county treasurer shall, after making payments_  
+| _required by Subsections (e) and (f), deposit any remaining money_  
+| _into the general fund of the county._  
+|  _Art._ ___59A.022._ _____PROHIBITION ON RETAINING PROPERTY; SALE_  
+| _RESTRICTIONS. A law enforcement agency may not:_  
+|  _(1)_ _____retain forfeited or abandoned property for the_  
+| _agency's use; or_  
+|  _(2)_ _____sell forfeited or abandoned property directly or_  
+| _indirectly to:_  
+|  _(A) an employee of the agency;_  
+|  _(B)_ _____a person related to an employee by_  
+| _consanguinity or affinity; or_  
+|  _(C) another law enforcement agency._  
+|  _Art._ ___59A.023._ _____REPORTING. (a) Not later than February 1 of_  
+| _each year, each law enforcement agency shall report to the_  
+| _department the following information regarding seizures by the_  
+| _agency for which, during the preceding calendar year, a forfeiture_  
+| _order was issued under this chapter or the property was otherwise_  
+| _forfeited under applicable federal law:_  
+|  _(1) the total number of forfeitures of currency;_  
+|  _(2)_ _____the total number of forfeitures and the number of_  
+| _items of property forfeited according to categories specified by_  
+| _the department;_  
+|  _(3)_ _____the total market value of each category of_  
+| _property forfeited;_  
+|  _(4)_ _____the total number of occurrences of each type of_  
+| _offense underlying the forfeitures, including offenses involving_  
+| _controlled substances and driving while intoxicated; and_  
+|  _(5) any other information required by the department._  
+|  _(b)_ _____The department shall prescribe a standardized form and_  
+| _provide for electronic submission of the report required under_  
+| _Subsection (a)._  
+|  _(c)_ _____A law enforcement agency shall file with the department_  
+| _separate reports for forfeitures completed under this chapter and_  
+| _federal law. If a law enforcement agency did not engage in a_  
+| _seizure that resulted in forfeiture during the reporting period,_  
+| _the agency shall file a report indicating that fact._  
+|  _(d)_ _____Not later than April 1 of each year, the department_  
+| _shall:_  
+|  _(1)_ _____issue an aggregate report of all forfeitures in_  
+| _the state; and_  
+|  _(2)_ _____make the reports submitted by law enforcement_  
+| _agencies and the department's aggregate report available on the_  
+| _department's Internet website._  
+|  _Art._ ___59A.024._ _____RETURN OF PROPERTY; DAMAGES; COSTS._ ___(a)_ ___A_  
+| _law enforcement agency that holds property under this chapter shall_  
+| _return the property to the owner not later than the fifth day after_  
+| _the date:_  
+|  _(1)_ _____the court finds that the owner had a bona fide_  
+| _security interest;_  
+|  _(2)_ _____the court finds that the owner was an innocent_  
+| _owner;_  
+|  _(3)_ _____the owner is acquitted of the offense that is the_  
+| _basis of the forfeiture proceeding; or_  
+|  _(4)_ _____the criminal charge against the owner that is the_  
+| _basis of the forfeiture proceeding is dismissed._  
+|  _(b)_ _____The law enforcement agency that holds the property is_  
+| _responsible for all damages, storage fees, and related costs_  
+| _applicable to property returned under Subsection (a)._  
+|  _Art._ ___59A.025._ _____EFFECT OF OVERTURNED CONVICTION; PAYMENT TO_  
+| _DEFENDANT._ ___(a) If a defendant's conviction for an offense_  
+| _underlying a forfeiture under this chapter is reversed, set aside,_  
+| _or vacated on appeal, the defendant is entitled to recover any money_  
+| _deposited in the county's general fund under Article 59A.021(g) as_  
+| _a result of the disposition of the defendant's forfeited property._ __  
+| _The county shall pay to the defendant the deposited amount on the_  
+| _91st day after the applicable date as follows:_  
+|  _(1)_ _____the date the conviction is reversed, set aside, or_  
+| _vacated, if the attorney representing the state does not file:_  
+|  _(A)_ _____an appeal of the ruling that reversed, set_  
+| _aside, or vacated the conviction; or_  
+|  _(B)_ _____a written notice with the court of the_  
+| _attorney's intention to proceed with a new trial;_  
+|  _(2)_ _____the date a ruling described by Subdivision (1)(A)_  
+| _is affirmed on appeal; or_  
+|  _(3)_ _____the date the attorney representing the state files_  
+| _the notice described by Subdivision (1)(B), if the new trial has not_  
+| _commenced._  
+|  _(b)_ _____For purposes of this chapter, the outcome of a new trial_  
+| _shall be treated in the same manner as any other conviction._  
+|  _Art._ ___59A.026._ _____CIVIL FORFEITURE FOR CERTAIN PROPERTY. (a)_  
+| _Notwithstanding any other provision of this chapter, property is_  
+| _subject to forfeiture under this article, regardless of whether a_  
+| _person has been convicted of an offense subject to forfeiture in_  
+| _connection with the property, if:_  
+|  _(1) the property was:_  
+|  _(A)_ _____seized with probable cause that it was_  
+| _involved in the commission of a felony; or_  
+|  _(B)_ _____obtained, directly or indirectly, through_  
+| _the commission of a felony; and_  
+|  _(2) the property owner:_  
+|  _(A)_ _____has not claimed the property or asserted any_  
+| _interest in the property; or_  
+|  _(B) is unavailable._  
+|  _(b)_ _____For purposes of Subsection (a)(2)(B), a property owner_  
+| _is unavailable if the owner is deceased or, after the owner is_  
+| _indicted for the felony offense or after a warrant has been issued_  
+| _for the arrest of the owner in connection with the offense, the_  
+| _owner is:_  
+|  _(1)_ _____outside the state and unable to be extradited to_  
+| _this state for prosecution; or_  
+|  _(2)_ _____unable to be located after reasonable efforts by_  
+| _law enforcement authorities._  
+|  _(c)_ _____The attorney representing the state may bring a_  
+| _forfeiture proceeding under this article by filing a complaint in a_  
+| _district court in the county in which the property was seized. The_  
+| _complaint must state facts that show the property is subject to_  
+| _forfeiture under Subsection (a)._  
+|  _(d)_ _____A forfeiture proceeding under this article shall_  
+| _proceed to trial in the same manner as in other civil cases. The_  
+| _state has the burden of proving by a preponderance of the evidence_  
+| _that property is subject to forfeiture under Subsection (a)._  
+|  _Art._ ___59A.027._ _____TRANSFER OF FORFEITABLE PROPERTY TO FEDERAL_  
+| _GOVERNMENT._ ___A law enforcement agency or attorney representing the_  
+| _state may not directly or indirectly transfer seized property to_  
+| _any federal law enforcement authority or other federal agency_  
+| _unless:_  
+|  _(1)_ _____the value of the seized property exceeds $50,000;_  
+| _and_  
+|  _(2)_ _____the attorney representing the state determines_  
+| _that:_  
+|  _(A)_ _____the activity giving rise to the investigation_  
+| _or seizure is interstate in nature and sufficiently complex to_  
+| _justify the transfer; or_  
+|  _(B)_ _____the seized property may only be forfeited_  
+| _under federal law._  
+|  SECTION 2. Section 72.051(a), Business & Commerce Code, is  
+| amended to read as follows:  
+|  (a) In this section, "law enforcement agency" _means an_  
+| _agency of the state or an agency of a political subdivision of the_  
+| _state authorized by law to employ peace officers_ [ ~~has the meaning~~  
+|  ~~assigned by Article 59.01, Code of Criminal Procedure~~ ].  
+|  SECTION 3. Section 140A.111, Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  Sec. 140A.111. PREVIOUSLY SEIZED ASSETS.  Notwithstanding  
+| another provision of this chapter, no remedies provided by this  
+| chapter may be assessed against proceeds[ ~~, contraband,~~ ] or [ ~~other~~
+]  
+| property over which a law enforcement agency has previously  
+| asserted jurisdiction under Chapter _59A_ [ ~~59~~ ], Code of Criminal  
+| Procedure, at the time a suit under this chapter was filed.  
+|  SECTION 4. Article 18.01(g), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (g) A search warrant may not be issued under [ ~~Subdivision~~  
+|  ~~(12),~~ ] Article _18.02(a)(12)_ [ ~~18.02, of this code~~ ] unless the
+sworn  
+| affidavit required by Subsection (b) [ ~~of this article~~ ] sets forth  
+| sufficient facts to establish probable cause that a specific felony  
+| offense has been committed and that the specifically described  
+| property or items that are to be searched for or seized _are subject_  
+| _to forfeiture under Chapter 59A_ [ ~~constitute contraband as defined~~  
+|  ~~in Article 59.01 of this code~~ ] and are located at or on the  
+| particular person, place, or thing to be searched.  
+|  SECTION 5. Article 18.02(a), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (a) A search warrant may be issued to search for and seize:  
+|  (1) property acquired by theft or in any other manner  
+| which makes its acquisition a penal offense;  
+|  (2) property specially designed, made, or adapted for  
+| or commonly used in the commission of an offense;  
+|  (3) arms and munitions kept or prepared for the  
+| purposes of insurrection or riot;  
+|  (4) weapons prohibited by the Penal Code;  
+|  (5) gambling devices or equipment, altered gambling  
+| equipment, or gambling paraphernalia;  
+|  (6) obscene materials kept or prepared for commercial  
+| distribution or exhibition, subject to the additional rules set  
+| forth by law;  
+|  (7) a drug, controlled substance, immediate  
+| precursor, chemical precursor, or other controlled substance  
+| property, including an apparatus or paraphernalia kept, prepared,  
+| or manufactured in violation of the laws of this state;  
+|  (8) any property the possession of which is prohibited  
+| by law;  
+|  (9) implements or instruments used in the commission  
+| of a crime;  
+|  (10) property or items, except the personal writings  
+| by the accused, constituting evidence of an offense or constituting  
+| evidence tending to show that a particular person committed an  
+| offense;  
+|  (11) persons;  
+|  (12) _property_ [ ~~contraband~~ ] subject to forfeiture  
+| under Chapter _59A_ [ ~~59 of this code~~ ];  
+|  (13) electronic customer data held in electronic  
+| storage, including the contents of and records and other  
+| information related to a wire communication or electronic  
+| communication held in electronic storage; or  
+|  (14) a cellular telephone or other wireless  
+| communications device, subject to Article 18.0215.  
+|  SECTION 6. Articles 18.19(c), (d-1), and (e), Code of  
+| Criminal Procedure, are amended to read as follows:  
+|  (c) If there is no prosecution or conviction for an offense  
+| involving the weapon seized, the magistrate to whom the seizure was  
+| reported shall, before the 61st day after the date the magistrate  
+| determines that there will be no prosecution or conviction, notify  
+| in writing the person found in possession of the weapon that the  
+| person is entitled to the weapon upon written request to the  
+| magistrate. The magistrate shall order the weapon returned to the  
+| person found in possession before the 61st day after the date the  
+| magistrate receives a request from the person. If the weapon is not  
+| requested before the 61st day after the date of notification, the  
+| magistrate shall, before the 121st day after the date of  
+| notification, order the weapon destroyed, sold at public sale by  
+| the law enforcement agency holding the weapon or by an auctioneer  
+| licensed under Chapter 1802, Occupations Code, or forfeited to the  
+| state for use by the law enforcement agency holding the weapon or by  
+| a county forensic laboratory designated by the magistrate. If the  
+| magistrate does not order the return, destruction, sale, or  
+| forfeiture of the weapon within the applicable period prescribed by  
+| this subsection, the law enforcement agency holding the weapon may  
+| request an order of destruction, sale, or forfeiture of the weapon  
+| from the magistrate. Only a firearms dealer licensed under 18  
+| U.S.C. Section 923 may purchase a weapon at public sale under this  
+| subsection. Proceeds from the sale of a seized weapon under this  
+| subsection shall be transferred, after the deduction of court costs  
+| _and_ [ ~~to which a district court clerk is entitled under Article~~  
+|  ~~59.05(f), followed by the deduction of~~ ] auction costs, to the law  
+| enforcement agency holding the weapon.  
+|  (d-1) Only a firearms dealer licensed under 18 U.S.C.  
+| Section 923 may purchase a weapon at public sale under Subsection  
+| (d). Proceeds from the sale of a seized weapon under Subsection (d)  
+| shall be transferred, after the deduction of court costs _and_ [ ~~to~~  
+|  ~~which a district court clerk is entitled under Article 59.05(f),~~  
+|  ~~followed by the deduction of~~ ] auction costs, to the law enforcement  
+| agency holding the weapon.  
+|  (e) If the person found in possession of a weapon is  
+| convicted of an offense involving the use of the weapon, before the  
+| 61st day after the date of conviction the court entering judgment of  
+| conviction shall order destruction of the weapon, sale at public  
+| sale by the law enforcement agency holding the weapon or by an  
+| auctioneer licensed under Chapter 1802, Occupations Code, or  
+| forfeiture to the state for use by the law enforcement agency  
+| holding the weapon or by a county forensic laboratory designated by  
+| the court. If the court entering judgment of conviction does not  
+| order the destruction, sale, or forfeiture of the weapon within the  
+| period prescribed by this subsection, the law enforcement agency  
+| holding the weapon may request an order of destruction, sale, or  
+| forfeiture of the weapon from a magistrate. Only a firearms dealer  
+| licensed under 18 U.S.C. Section 923 may purchase a weapon at public  
+| sale under this subsection. Proceeds from the sale of a seized  
+| weapon under this subsection shall be transferred, after the  
+| deduction of court costs _and_ [ ~~to which a district court clerk is~~  
+|  ~~entitled under Article 59.05(f), followed by the deduction of~~ ]  
+| auction costs, to the law enforcement agency holding the weapon.  
+|  SECTION 7. Article 47.01a(b), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (b) If it is shown in a hearing that probable cause exists to  
+| believe that the property was acquired by theft or by another manner  
+| that makes its acquisition an offense and that the identity of the  
+| actual owner of the property cannot be determined, the court shall  
+| order the peace officer to:  
+|  (1) deliver the property to a government agency for  
+| official purposes;  
+|  (2) deliver the property _for disposition under Article_  
+| _59A.021 to the county treasurer of the county in which the property_  
+| _was seized_ [ ~~to a person authorized by Article 18.17 of this code to~~  
+|  ~~receive and dispose of the property~~ ]; or  
+|  (3) destroy the property.  
+|  SECTION 8. Article 47.06, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 47.06. _DISPOSITION OF_ PROPERTY [ ~~SOLD~~ ]. If the  
+| property is not claimed _before the end of the 30-day period_  
+| _following_ [ ~~within 30 days from~~ ] the conviction of the person  
+| accused of illegally acquiring _the property_ [ ~~it~~ ], the _property_  
+| _shall be delivered for disposition under Article 59A.021 to the_  
+| _county treasurer of the county in which the property was seized_  
+| [ ~~same procedure for its disposition as set out in Article 18.17 of~~  
+|  ~~this Code shall be followed~~ ].  
+|  SECTION 9. Article 47.07, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 47.07. OWNER MAY RECOVER. The real owner of the  
+| property _disposed of_ [ ~~sold~~ ] under the provisions of Article 47.06  
+| may _file a claim with the commissioners court of the county to_  
+| recover _any money attributable to the property and deposited in the_  
+| _county's general fund under Article 59A.021(g)_ [ ~~such property under~~  
+|  ~~the same terms as prescribed in Subsection (e) of Article 18.17 of~~  
+|  ~~this Code~~ ].  _A claim by the real owner must be filed not later than_  
+| _the 30th day after the date of disposition. If the claim is allowed_  
+| _by the commissioners court, the county treasurer shall pay the_  
+| _owner the amount deposited._ ___If the claim is denied by the_  
+| _commissioners court or if the court fails to act on the claim before_  
+| _the 91st day after the date the claim was filed, the claimant may_  
+| _sue the county treasurer in a court of competent jurisdiction in the_  
+| _county, and on sufficient proof of ownership, recover judgment_  
+| _against the county for the amount deposited._  
+|  SECTION 10. Section 96.641(j), Education Code, is amended  
+| to read as follows:  
+|  (j) As part of the initial training and continuing education  
+| for police chiefs required under this section, the institute shall  
+| establish a program on asset forfeiture under Chapter _59A_ [ ~~59~~ ],  
+| Code of Criminal Procedure. The program must include an  
+| examination of the best practices for educating peace officers  
+| about asset forfeiture and monitoring peace officers' compliance  
+| with laws relating to asset forfeiture.  
+|  SECTION 11. Section 157.317(a), Family Code, is amended to  
+| read as follows:  
+|  (a) A child support lien attaches to all real and personal  
+| property not exempt under the Texas Constitution or other law,  
+| including:  
+|  (1) an account in a financial institution;  
+|  (2) a retirement plan, including an individual  
+| retirement account;  
+|  (3) the proceeds of an insurance policy, including the  
+| proceeds from a life insurance policy or annuity contract and the  
+| proceeds from the sale or assignment of life insurance or annuity  
+| benefits, a claim for compensation, or a settlement or award for the  
+| claim for compensation, due to or owned by the obligor;  
+|  (4) property seized and subject to forfeiture under  
+| Chapter _59A_ [ ~~59~~ ], Code of Criminal Procedure; and  
+|  (5) the proceeds derived from the sale of oil or gas  
+| production from an oil or gas well located in this state.  
+|  SECTION 12. Section 392.303, Finance Code, is amended by  
+| amending Subsection (a) and adding Subsection (d) to read as  
+| follows:  
+|  (a) In debt collection, a debt collector may not use unfair  
+| or unconscionable means that employ the following practices:  
+|  (1) seeking or obtaining a written statement or  
+| acknowledgment in any form that specifies that a consumer's  
+| obligation is one incurred for necessaries of life if the  
+| obligation was not incurred for those necessaries;  
+|  (2) collecting or attempting to collect interest or a  
+| charge, fee, or expense incidental to the obligation unless the  
+| interest or incidental charge, fee, or expense is expressly  
+| authorized by the agreement creating the obligation or legally  
+| chargeable to the consumer; or  
+|  (3) collecting or attempting to collect an obligation  
+| under a check, draft, debit payment, or credit card payment, if:  
+|  (A) the check or draft was dishonored or the  
+| debit payment or credit card payment was refused because the check  
+| or draft was not drawn or the payment was not made by a person  
+| authorized to use the applicable account;  
+|  (B) the debt collector has received written  
+| notice from a person authorized to use the account that the check,  
+| draft, or payment was unauthorized; and  
+|  (C) the person authorized to use the account has  
+| filed a report concerning the unauthorized check, draft, or payment  
+| with a law enforcement agency [ ~~, as defined by Article 59.01, Code~~  
+|  ~~of Criminal Procedure,~~ ] and has provided the debt collector with a  
+| copy of the report.  
+|  _(d)_ _____In this section, "law enforcement agency" means an_  
+| _agency of the state or an agency of a political subdivision of the_  
+| _state authorized by law to employ peace officers._  
+|  SECTION 13. Section 45.193(d), Government Code, is amended  
+| to read as follows:  
+|  (d) The county attorney has no power, duty, or privilege in  
+| Grimes County relating to criminal matters, including asset  
+| forfeitures under Chapter _59A_ [ ~~59~~ ], Code of Criminal Procedure,  
+| appearance bond forfeitures under Chapter 17, Code of Criminal  
+| Procedure, and habeas corpus related to criminal matters.  
+|  SECTION 14. Section 54.656(a), Government Code, is amended  
+| to read as follows:  
+|  (a) A judge may refer to a magistrate any criminal case or  
+| matter relating to a criminal case for proceedings involving:  
+|  (1) a negotiated plea of guilty or no contest and  
+| sentencing before the court;  
+|  (2) a bond forfeiture, remittitur, and related  
+| proceedings;  
+|  (3) a pretrial motion;  
+|  (4) a writ of habeas corpus;  
+|  (5) an examining trial;  
+|  (6) an occupational driver's license;  
+|  (7) a petition for an order of expunction under  
+| Chapter 55, Code of Criminal Procedure;  
+|  (8) _a_ [ ~~an asset~~ ] forfeiture _proceeding_ [ ~~hearing~~ ] as  
+| provided by Chapter _59A_ [ ~~59~~ ], Code of Criminal Procedure;  
+|  (9) a petition for an order of nondisclosure of  
+| criminal history record information or an order of nondisclosure of  
+| criminal history record information that does not require a  
+| petition provided by Subchapter E-1, Chapter 411;  
+|  (10) a motion to modify or revoke community  
+| supervision or to proceed with an adjudication of guilt;  
+|  (11) setting conditions, modifying, revoking, and  
+| surrendering of bonds, including surety bonds;  
+|  (12) specialty court proceedings;  
+|  (13) a waiver of extradition; and  
+|  (14) any other matter the judge considers necessary  
+| and proper.  
+|  SECTION 15. Section 2007.003(b), Government Code, is  
+| amended to read as follows:  
+|  (b) This chapter does not apply to the following  
+| governmental actions:  
+|  (1) an action by a municipality except as provided by  
+| Subsection (a)(3);  
+|  (2) a lawful forfeiture or seizure of _property under_  
+| _Chapter 59A_ [ ~~contraband as defined by Article 59.01~~ ], Code of  
+| Criminal Procedure;  
+|  (3) a lawful seizure of property as evidence of a crime  
+| or violation of law;  
+|  (4) an action, including an action of a political  
+| subdivision, that is reasonably taken to fulfill an obligation  
+| mandated by federal law or an action of a political subdivision that  
+| is reasonably taken to fulfill an obligation mandated by state law;  
+|  (5) the discontinuance or modification of a program or  
+| regulation that provides a unilateral expectation that does not  
+| rise to the level of a recognized interest in private real property;  
+|  (6) an action taken to prohibit or restrict a  
+| condition or use of private real property if the governmental  
+| entity proves that the condition or use constitutes a public or  
+| private nuisance as defined by background principles of nuisance  
+| and property law of this state;  
+|  (7) an action taken out of a reasonable good faith  
+| belief that the action is necessary to prevent a grave and immediate  
+| threat to life or property;  
+|  (8) a formal exercise of the power of eminent domain;  
+|  (9) an action taken under a state mandate to prevent  
+| waste of oil and gas, protect correlative rights of owners of  
+| interests in oil or gas, or prevent pollution related to oil and gas  
+| activities;  
+|  (10) a rule or proclamation adopted for the purpose of  
+| regulating water safety, hunting, fishing, or control of  
+| nonindigenous or exotic aquatic resources;  
+|  (11) an action taken by a political subdivision:  
+|  (A) to regulate construction in an area  
+| designated under law as a floodplain;  
+|  (B) to regulate on-site sewage facilities;  
+|  (C) under the political _subdivision's_  
+| [ ~~subdivisions's~~ ] statutory authority to prevent waste or protect  
+| rights of owners of interest in groundwater; or  
+|  (D) to prevent subsidence;  
+|  (12) the appraisal of property for purposes of ad  
+| valorem taxation;  
+|  (13) an action that:  
+|  (A) is taken in response to a real and  
+| substantial threat to public health and safety;  
+|  (B) is designed to significantly advance the  
+| health and safety purpose; and  
+|  (C) does not impose a greater burden than is  
+| necessary to achieve the health and safety purpose; or  
+|  (14) an action or rulemaking undertaken by the Public  
+| Utility Commission of Texas to order or require the location or  
+| placement of telecommunications equipment owned by another party on  
+| the premises of a certificated local exchange company.  
+|  SECTION 16. Section 481.159(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) If a district court orders the forfeiture of a  
+| controlled substance property or plant under _the_ [ ~~Chapter 59,~~ ] Code  
+| of Criminal Procedure[ ~~,~~ ] or under this code, the court shall also  
+| order a law enforcement agency to:  
+|  (1) retain the property or plant for its official  
+| purposes, including use in the investigation of offenses under this  
+| code;  
+|  (2) deliver the property or plant to a government  
+| agency for official purposes;  
+|  (3) deliver the property or plant to a person  
+| authorized by the court to receive it;  
+|  (4) deliver the property or plant to a person  
+| authorized by the director to receive it; or  
+|  (5) destroy the property or plant that is not  
+| otherwise disposed of in the manner prescribed by this subchapter.  
+|  SECTION 17. Section 481.160(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) If a controlled substance property or plant is forfeited  
+| under this code or under _the_ [ ~~Chapter 59,~~ ] Code of Criminal  
+| Procedure, the law enforcement agency that seized the property or  
+| plant or to which the property or plant is forfeited may summarily  
+| destroy the property or plant without a court order before the  
+| disposition of a case arising out of the forfeiture if the agency  
+| ensures that:  
+|  (1) at least five random and representative samples  
+| are taken from the total amount of the property or plant and a  
+| sufficient quantity is preserved to provide for discovery by  
+| parties entitled to discovery;  
+|  (2) photographs are taken that reasonably depict the  
+| total amount of the property or plant; and  
+|  (3) the gross weight or liquid measure of the property  
+| or plant is determined, either by actually weighing or measuring  
+| the property or plant or by estimating its weight or measurement  
+| after making dimensional measurements of the total amount seized.  
+|  SECTION 18. Section 573.0001(2), Health and Safety Code, is  
+| amended to read as follows:  
+|  (2) "Law enforcement agency" _means an agency of the_  
+| _state or an agency of a political subdivision of the state_  
+| _authorized by law to employ peace officers_ [ ~~has the meaning~~  
+|  ~~assigned by Article 59.01, Code of Criminal Procedure~~ ].  
+|  SECTION 19. Section 113.008(g), Local Government Code, is  
+| amended to read as follows:  
+|  (g) Subsections (b-1) and (f)(2) do not apply to a special  
+| fund administered by an attorney representing the state under  
+| Chapter 18 _or_ [ ~~,~~ ] 47, [ ~~or 59,~~ ] Code of Criminal Procedure.  
+|  SECTION 20. Section 1701.253(g), Occupations Code, is  
+| amended to read as follows:  
+|  (g) As part of the minimum curriculum requirements, the  
+| commission shall establish a statewide comprehensive education and  
+| training program on _criminal_ asset forfeiture under Chapter _59A_  
+| [ ~~59~~ ], Code of Criminal Procedure, for officers licensed under this  
+| chapter. An officer shall complete a program established under  
+| this subsection not later than the second anniversary of the date  
+| the officer is licensed under this chapter or the date the officer  
+| applies for an intermediate proficiency certificate, whichever  
+| date is earlier.  
+|  SECTION 21. Section 37.08(b), Penal Code, is amended to  
+| read as follows:  
+|  (b) In this section, "law enforcement agency" _means an_  
+| _agency of the state or an agency of a political subdivision of the_  
+| _state authorized by law to employ peace officers_ [ ~~has the meaning~~  
+|  ~~assigned by Article 59.01, Code of Criminal Procedure~~ ].  
+|  SECTION 22. Section 38.152(c)(3), Penal Code, is amended to  
+| read as follows:  
+|  (3) "Law enforcement agency" _means an agency of the_  
+| _state or an agency of a political subdivision of the state_  
+| _authorized by law to employ peace officers_ [ ~~has the meaning~~  
+|  ~~assigned by Article 59.01, Code of Criminal Procedure~~ ].  
+|  SECTION 23. The following provisions are repealed:  
+|  (1) Section 140A.102(h), Civil Practice and Remedies  
+| Code;  
+|  (2) Article 18.17, Code of Criminal Procedure;  
+|  (3) Chapter 59, Code of Criminal Procedure;  
+|  (4) Sections 24.377(c) and 54.656(b), Government  
+| Code;  
+|  (5) Section 365.012(i), Health and Safety Code; and  
+|  (6) Sections 12.101(1) and (2), 12.1106, 61.0221, and  
+| 62.017, Parks and Wildlife Code.  
+|  SECTION 24. (a) Except as provided by Subsection (b) of  
+| this section, on the effective date of this Act, any property in the  
+| possession of a law enforcement agency, game warden, or attorney  
+| representing the state, that was seized under Chapter 59, Code of  
+| Criminal Procedure, or Section 12.1106, 61.0221, or 62.017, Parks  
+| and Wildlife Code, and that has not been ordered forfeited to the  
+| state by a court, must be returned to the person from whom the  
+| property was seized.  
+|  (b) Property that is evidence in the investigation or  
+| prosecution of a criminal offense is not required to be returned  
+| under Subsection (a) of this section until the disposition of all  
+| charges relating to the offense.  
+|  SECTION 25. The repeal by this Act of Article 18.17, Code of  
+| Criminal Procedure, does not apply to abandoned or unclaimed  
+| property seized before the effective date of this Act, and the  
+| former Article 18.17 is continued in effect for the purposes of the  
+| disposition of property described by this section.  
+|  SECTION 26. This Act takes effect September 1, 2019.
+

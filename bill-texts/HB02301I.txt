@@ -1,0 +1,188 @@
+| 86R10663 JXC-F  
+---|---  
+|  By: Landgraf | H.B. No. 2301  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the operation of personal delivery and mobile carrying  
+| devices.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 502.001(26), Transportation Code, is  
+| amended to read as follows:  
+|  (26) "Motorized mobility device" has the meaning  
+| assigned by Section _552A.0101_ [ ~~542.009~~ ].  
+|  SECTION 2. Subtitle C, Title 7, Transportation Code, is  
+| amended by adding Chapter 552A to read as follows:  
+| _CHAPTER 552A. DEVICES SUBJECT TO PEDESTRIAN LAWS_  
+| _SUBCHAPTER A. PERSONAL DELIVERY AND MOBILE CARRYING DEVICES_  
+|  _Sec. 552A.0001. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Agent" has the meaning assigned by Section 7.21,_  
+| _Penal Code._  
+|  _(2)_ _____"Business entity" means a legal entity, including_  
+| _a corporation, partnership, or sole proprietorship, that is formed_  
+| _for the purpose of making a profit._  
+|  _(3)_ _____"Mobile carrying device" means an electrically_  
+| _powered device that:_  
+|  _(A)_ _____transports cargo while remaining within 25_  
+| _feet of a human operator; and_  
+|  _(B)_ _____is equipped with technology that allows the_  
+| _operator to actively monitor the device._  
+|  _(4)_ _____"Pedestrian area" includes a sidewalk, crosswalk,_  
+| _school crosswalk, school crossing zone, or safety zone._  
+|  _(5)_ _____"Personal delivery device" means an electrically_  
+| _powered device that:_  
+|  _(A)_ _____is designed primarily for transporting cargo_  
+| _in a pedestrian area; and_  
+|  _(B)_ _____is equipped with automated driving_  
+| _technology, including software and hardware, that enables the_  
+| _operation of the device with the remote support and supervision of a_  
+| _human._  
+|  _Sec._ ___552A.0002._ _____APPLICABLE LAW. (a)_ ___The operation of a_  
+| _personal delivery or mobile carrying device in a pedestrian area is_  
+| _governed exclusively by:_  
+|  _(1) this subchapter; and_  
+|  _(2)_ _____any applicable regulations adopted by a local_  
+| _authority._  
+|  _(b)_ _____For the purposes of this title, including Section_  
+| _545.422, a personal delivery or mobile carrying device operated in_  
+| _compliance with this subchapter is not considered to be a vehicle._  
+|  _Sec._ ___552A.0003._ _____OPERATOR OF PERSONAL DELIVERY DEVICE. (a)_ __  
+| _A person may operate a personal delivery device under this_  
+| _subchapter only if:_  
+|  _(1) the person is a business entity; and_  
+|  _(2)_ _____a human who is an agent of the business entity_  
+| _actively monitors or exercises physical control over the navigation_  
+| _and operation of the device._  
+|  _(b)_ _____Except as provided by Subsection (c), when a personal_  
+| _delivery device operated by a business entity is engaged, the_  
+| _business entity is considered to be the operator of the device_  
+| _solely for the purpose of assessing compliance with applicable_  
+| _traffic laws._  
+|  _(c)_ _____When a personal delivery device operated by a business_  
+| _entity is engaged and an agent of the entity controls the device in_  
+| _a manner that is outside the scope of the agent's office or_  
+| _employment, the agent is considered to be the operator of the_  
+| _device._  
+|  _(d)_ _____A person is not considered to be the operator of a_  
+| _personal delivery device solely because the person:_  
+|  _(1)_ _____requests a delivery or service provided by the_  
+| _device; or_  
+|  _(2) dispatches the device._  
+|  _Sec._ ___552A.0004._ _____OPERATOR OF MOBILE CARRYING DEVICE. A_  
+| _person operating a mobile carrying device is considered to be the_  
+| _operator of the device for the purpose of assessing compliance with_  
+| _applicable traffic laws._  
+|  _Sec._ ___552A.0005._ _____DEVICE OPERATION. (a)_ ___A personal delivery_  
+| _or mobile carrying device operated under this subchapter must:_  
+|  _(1)_ _____operate in a manner that complies with the_  
+| _provisions of this subtitle applicable to pedestrians, unless the_  
+| _provision cannot by its nature apply to the device;_  
+|  _(2)_ _____yield the right-of-way to all other traffic,_  
+| _including pedestrians;_  
+|  _(3)_ _____not unreasonably interfere with other traffic,_  
+| _including pedestrians;_  
+|  _(4)_ _____if operated at nighttime, display the lights_  
+| _required by Section 552A.0007 or 552A.0008, as applicable;_  
+|  _(5)_ _____comply with any applicable regulations adopted by_  
+| _a local authority;_  
+|  _(6)_ _____not transport hazardous materials regulated under_  
+| _the Hazardous Materials Transportation Act (49 U.S.C. Section 5101_  
+| _et seq.); and_  
+|  _(7)_ _____be actively monitored or controlled as provided by_  
+| _Section 552A.0003(a) for a personal delivery device or by the_  
+| _operator for a mobile carrying device._  
+|  _(b)_ _____A mobile carrying device operated under this subchapter_  
+| _must remain within 25 feet of the operator while the device is in_  
+| _motion._  
+|  _Sec._ ___552A.0006._ _____AREAS OF OPERATION. A personal delivery or_  
+| _mobile carrying device operated under this subchapter may be_  
+| _operated only:_  
+|  _(1) in a pedestrian area; or_  
+|  _(2)_ _____on a highway in an area that is not a pedestrian_  
+| _area:_  
+|  _(A)_ _____if a sidewalk is not provided or is not_  
+| _accessible; and_  
+|  _(B)_ _____on the left side of a roadway or the shoulder_  
+| _of the highway facing oncoming traffic._  
+|  _Sec._ ___552A.0007._ _____PERSONAL DELIVERY DEVICE EQUIPMENT. (a)_ ___A_  
+| _personal delivery device operated under this subchapter must:_  
+|  _(1)_ _____be equipped with a marker that clearly states the_  
+| _name and contact information of the owner and a unique_  
+| _identification number;_  
+|  _(2)_ _____be equipped with a braking system that enables the_  
+| _device to come to a controlled stop;_  
+|  _(3)_ _____weigh less than 110 pounds, excluding any cargo;_  
+| _and_  
+|  _(4) have a maximum speed of 12 miles per hour or less._  
+|  _(b)_ _____A personal delivery device operated under this_  
+| _subchapter at nighttime must be equipped with lights on the front_  
+| _and rear of the device that are visible and recognizable under_  
+| _normal atmospheric conditions on all sides of the device from 1 to_  
+| _500 feet from the device when the light is directly in front of_  
+| _lawful lower beams of headlamps._  
+|  _Sec._ ___552A.0008._ _____MOBILE CARRYING DEVICE EQUIPMENT. (a)_ ___A_  
+| _mobile carrying device operated under this subchapter must:_  
+|  _(1)_ _____be equipped with a braking system that enables the_  
+| _device to come to a controlled stop;_  
+|  _(2)_ _____weigh less than 110 pounds, excluding any cargo;_  
+| _and_  
+|  _(3) have a maximum speed of 12 miles per hour or less._  
+|  _(b)_ _____A mobile carrying device operated under this subchapter_  
+| _at nighttime must be equipped with lights that are visible and_  
+| _recognizable under normal atmospheric conditions from 1 to 50 feet_  
+| _from the device when the light is directly in front of lawful lower_  
+| _beams of headlamps._  
+|  _Sec._ ___552A.0009._ _____LOCAL AUTHORITY REGULATION. (a) A local_  
+| _authority may regulate the operation of a personal delivery or_  
+| _mobile carrying device on a highway or in a pedestrian area in a_  
+| _manner not inconsistent with this subchapter._  
+|  _(b)_ _____This section does not affect the authority of a local_  
+| _authority's peace officers to enforce the laws of this state_  
+| _relating to the operation of a personal delivery or mobile carrying_  
+| _device._  
+|  _Sec._ ___552A.0010._ _____INSURANCE. A business entity that operates_  
+| _a personal delivery device operated under this subchapter must_  
+| _maintain an insurance policy that includes general liability_  
+| _coverage of not less than $100,000 for damages arising from the_  
+| _operation of the device._  
+|  SECTION 3. Chapter 552A, Transportation Code, as added by  
+| this Act, is amended by adding Subchapter B, and a heading is added  
+| to that subchapter to read as follows:  
+| _SUBCHAPTER B. MOBILITY DEVICES_  
+|  SECTION 4. Section 542.009, Transportation Code, is  
+| transferred to Subchapter B, Chapter 552A, Transportation Code, as  
+| added by this Act, and redesignated as Section 552A.0101,  
+| Transportation Code, to read as follows:  
+|  Sec. _552A.0101_ [ ~~542.009~~ ]. OPERATORS OF CERTAIN MOBILITY  
+| DEVICES. (a) In this section, "motorized mobility device" means a  
+| device designed for transportation of persons with physical  
+| disabilities that:  
+|  (1) has three or more wheels;  
+|  (2) is propelled by a battery-powered motor;  
+|  (3) has not more than one forward gear; and  
+|  (4) is not capable of speeds exceeding eight miles per  
+| hour.  
+|  (b) For the purposes of this subtitle, a person operating a  
+| nonmotorized wheelchair or motorized mobility device is considered  
+| to be a pedestrian.  
+|  SECTION 5. Section 551.351(2), Transportation Code, is  
+| amended to read as follows:  
+|  (2) "Pocket bike or minimotorbike" means a  
+| self-propelled vehicle that is equipped with an electric motor or  
+| internal combustion engine having a piston displacement of less  
+| than 50 cubic centimeters, is designed to propel itself with not  
+| more than two wheels in contact with the ground, has a seat or  
+| saddle for the use of the operator, is not designed for use on a  
+| highway, and is ineligible for a certificate of title under Chapter  
+| 501\. The term does not include:  
+|  (A) a moped or motorcycle;  
+|  (B) an electric bicycle or motor-driven cycle, as  
+| defined by Section 541.201;  
+|  (C) a motorized mobility device, as defined by  
+| Section _552A.0101_ [ ~~542.009~~ ];  
+|  (D) an electric personal assistive mobility  
+| device, as defined by Section 551.201; or  
+|  (E) a neighborhood electric vehicle, as defined  
+| by Section 551.301.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

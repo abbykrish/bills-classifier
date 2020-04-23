@@ -1,0 +1,85 @@
+|  
+---|---  
+|  By: Springer | H.B. No. 1591  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of disease control by the Animal Health  
+| Commission.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 161.041(a), (b), (c), (d), (f), and  
+| (g), Agriculture Code, are amended to read as follows:  
+|  Sec. 161.041. DISEASE CONTROL. (a)  The commission shall  
+| protect all livestock, exotic livestock, _native cervidae,_ domestic  
+| fowl, and exotic fowl from the following:  
+|  (1) tuberculosis;  
+|  (2) anthrax;  
+|  (3) glanders;  
+|  (4) infectious abortion;  
+|  (5) hemorrhagic septicemia;  
+|  (6) hog cholera;  
+|  (7) Malta fever;  
+|  (8) foot-and-mouth disease;  
+|  (9) rabies among animals other than canines;  
+|  (10) bacillary white diarrhea among fowl;  
+|  (11) equine infectious anemia; [ ~~and~~ ]  
+|  (12) _transmissible spongiform encephalopathies; and_  
+|  _(13)_ other diseases recognized as communicable by the  
+| veterinary profession.  
+|  (b) The commission may act to eradicate or control any  
+| disease or agent of transmission for any disease that affects  
+| livestock, exotic livestock, _native cervidae,_ domestic fowl, or  
+| exotic fowl, regardless of whether the disease is communicable,  
+| even if the agent of transmission is an animal species that is not  
+| subject to the jurisdiction of the commission.  The commission may  
+| adopt any rules necessary to carry out the purposes of this  
+| subsection, including rules concerning testing, movement,  
+| inspection, and treatment.  
+|  (c) A person commits an offense if the person knowingly  
+| fails to handle, in accordance with rules adopted by the  
+| commission, livestock, exotic livestock, _native cervidae,_  
+| domestic fowl, or exotic fowl:  
+|  (1) infected with a disease listed in Subsection (a);  
+|  (2) exposed, as defined by commission rule, to a  
+| disease listed in Subsection (a) if the commission has notified the  
+| person that the animal was exposed to the disease; or  
+|  (3) subject to a testing requirement due to a risk of  
+| exposure, as defined by commission rule, to a specific disease if  
+| the commission has notified the person of the testing requirement.  
+|  (d) A person commits an offense if the person knowingly  
+| fails to identify or refuses to permit an agent of the commission to  
+| identify, in accordance with rules adopted by the commission,  
+| livestock, exotic livestock, _native cervidae,_ domestic fowl, or  
+| exotic fowl infected with a disease listed in Subsection (a).  
+|  (e) An offense under Subsection (c) or (d) of this section  
+| is a Class C misdemeanor unless it is shown on the trial of the  
+| offense that the defendant has been previously convicted under this  
+| section, in which event the offense is a Class B misdemeanor.  
+|  (f) In complying with this section, the commission  
+| _shall_ [ ~~may not infringe on or supersede the authority of any other~~  
+|  ~~agency of this state, including the authority of the Parks and~~  
+|  ~~Wildlife Department relating to wildlife. If a conflict of~~  
+|  ~~authority occurs, the commission shall assume responsibility for~~  
+|  ~~disease control efforts, but~~ ] work collaboratively with the _Parks_  
+| _and Wildlife Department_ [ ~~other agency~~ ] to enable each agency to  
+| effectively carry out its responsibilities.  
+|  (g) The commission's authority to control or eradicate an  
+| agent of transmission that is an animal species that is not subject  
+| to the jurisdiction of the commission is limited to instances when a  
+| disease that threatens livestock, exotic livestock, _native_  
+| _cervidae,_ domestic fowl, or exotic fowl has been confirmed or is  
+| suspected to exist in that species and the commission determines  
+| that a serious threat to livestock, exotic livestock, _native_  
+| _cervidae,_ domestic fowl, or exotic fowl exists.  
+|  SECTION 2. Section 43.357, Parks and Wildlife Code, is  
+| amended by adding Subsection (b-1) to read as follows:  
+|  _(b-1)_ _____The commission shall not make regulations concerning_  
+| _movement within the release site for breeder deer based on disease_  
+| _control under the jurisdiction of the Animal Health Commission_  
+| _under Section 161.041, Agriculture Code._  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution.  If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

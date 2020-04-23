@@ -1,0 +1,610 @@
+| 86R11824 JSC-F  
+---|---  
+|  By: Zerwas | H.B. No. 2174  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to controlled substance prescriptions under the Texas  
+| Controlled Substances Act; authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 552.118, Government Code, is amended to  
+| read as follows:  
+|  Sec. 552.118. EXCEPTION: CONFIDENTIALITY OF OFFICIAL  
+| PRESCRIPTION PROGRAM INFORMATION. Information is excepted from the  
+| requirements of Section 552.021 if it is:  
+|  (1) information on or derived from an official  
+| prescription form _filed with the Texas State Board of Pharmacy_  
+| _under Section 481.0755, Health and Safety Code,_ or _an_ electronic  
+| prescription record filed with the Texas State Board of Pharmacy  
+| under Section 481.075, Health and Safety Code; or  
+|  (2) other information collected under Section 481.075  
+| _or 481.0755_ of that code.  
+|  SECTION 2. Sections 481.002(10) and (47), Health and Safety  
+| Code, are amended to read as follows:  
+|  (10) "Designated agent" means an individual  
+| designated under Section _481.074(b-2)_ [ ~~481.073~~ ] to communicate a  
+| practitioner's instructions to a pharmacist _in an emergency_.  
+|  (47) "Official prescription form" means a  
+| prescription form that _is used for a Schedule II controlled_  
+| _substance under Section 481.0755 and_ contains the prescription  
+| information required by Section _481.0755(e)_ [ ~~481.075~~ ].  
+|  SECTION 3. Section 481.003(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) The director may adopt rules to administer and enforce  
+| this chapter, other than Sections [ ~~481.073,~~ ] 481.074, 481.075,  
+| _481.0755, 481.0756,_ 481.076, 481.0761, 481.0762, 481.0763,  
+| _481.07635, 481.07636,_ 481.0764, 481.0765, and 481.0766. The board  
+| may adopt rules to administer Sections [ ~~481.073,~~ ] 481.074, 481.075,  
+| _481.0755, 481.0756,_ 481.076, 481.0761, 481.0762, 481.0763,  
+| _481.07635, 481.07636,_ 481.0764, 481.0765, and 481.0766.  
+|  SECTION 4. Section 481.074, Health and Safety Code, is  
+| amended by amending Subsections (b), (c), (e), (f), (g), (h), (k),  
+| and (q) and adding Subsections (b-1) and (b-2) to read as follows:  
+|  (b) Except in an emergency as defined by _board_ rule _under_  
+| _Subsection (b-1)_ [ ~~of the board~~ ] or as _otherwise_ provided by  
+| [ ~~Subsection (o) or~~ ] Section 481.075(j) or (m) _or 481.0755_ , a person  
+| may not dispense or administer a controlled substance [ ~~listed in~~  
+|  ~~Schedule II without a written prescription of a practitioner on an~~  
+|  ~~official prescription form or~~ ] without an electronic prescription  
+| that meets the requirements of and is completed by the practitioner  
+| in accordance with Section 481.075.  
+|  _(b-1)_ In an emergency _as defined by board rule_ , a person may  
+| dispense or administer a controlled substance [ ~~listed in Schedule~~  
+|  ~~II~~ ] on the oral or telephonically communicated prescription of a  
+| practitioner. The person who administers or dispenses the  
+| substance shall:  
+|  (1) if the person is a prescribing practitioner or a  
+| pharmacist, promptly comply with Subsection (c); or  
+|  (2) if the person is not a prescribing practitioner or  
+| a pharmacist, promptly write the oral or telephonically  
+| communicated prescription and include in the written record of the  
+| prescription the name, address, and Federal Drug Enforcement  
+| Administration number issued for prescribing a controlled  
+| substance in this state of the prescribing practitioner, all  
+| information required to be provided by a practitioner under Section  
+| 481.075(e)(1), and all information required to be provided by a  
+| dispensing pharmacist under Section 481.075(e)(2).  
+|  _(b-2)_ _____In an emergency described by Subsection (b-1), an_  
+| _agent designated in writing by a practitioner defined by Section_  
+| _481.002(39)(A) may communicate a prescription by telephone. A_  
+| _practitioner who designates a different agent shall designate that_  
+| _agent in writing and maintain the designation in the same manner in_  
+| _which the practitioner initially designated an agent under this_  
+| _subsection. On the request of a pharmacist, a practitioner shall_  
+| _furnish a copy of the written designation. This subsection does not_  
+| _relieve a practitioner or the practitioner's designated agent from_  
+| _the requirement of Subchapter A, Chapter 562, Occupations Code. A_  
+| _practitioner is personally responsible for the actions of the_  
+| _designated agent in communicating a prescription to a pharmacist._  
+|  (c) Not later than the seventh day after the date a  
+| prescribing practitioner authorizes an emergency oral or  
+| telephonically communicated prescription, the prescribing  
+| practitioner shall cause _an_ [ ~~a written or~~ ] electronic prescription,  
+| completed in the manner required by Section 481.075, to be  
+| delivered to the dispensing pharmacist at the pharmacy where the  
+| prescription was dispensed. [ ~~A written prescription may be~~  
+|  ~~delivered in person or by mail. The envelope of a prescription~~  
+|  ~~delivered by mail must be postmarked not later than the seventh day~~  
+|  ~~after the date the prescription was authorized. On receipt of a~~  
+|  ~~written prescription, the dispensing pharmacy shall file the~~  
+|  ~~transcription of the telephonically communicated prescription and~~  
+|  ~~the pharmacy copy and shall send information to the board as~~  
+|  ~~required by Section 481.075.~~ ] On receipt of _the_ [ ~~an~~ ]
+electronic  
+| prescription, the pharmacist shall annotate the electronic  
+| prescription record with the original authorization and date of the  
+| emergency oral or telephonically communicated prescription.  
+|  (e) The partial filling of a prescription for a controlled  
+| substance listed in Schedule II is permissible _in accordance with_  
+| _applicable federal law_ [ ~~, if the pharmacist is unable to supply the~~  
+|  ~~full quantity called for in a written or electronic prescription or~~  
+|  ~~emergency oral prescription and the pharmacist makes a notation of~~  
+|  ~~the quantity supplied on the face of the written prescription, on~~  
+|  ~~the written record of the emergency oral prescription, or in the~~  
+|  ~~electronic prescription record. The remaining portion of the~~  
+|  ~~prescription may be filled within 72 hours of the first partial~~  
+|  ~~filling; however, if the remaining portion is not or cannot be~~  
+|  ~~filled within the 72-hour period, the pharmacist shall so notify~~  
+|  ~~the prescribing individual practitioner. No further quantity may~~  
+|  ~~be supplied beyond 72 hours without a new prescription~~ ].  
+|  (f) A prescription for a Schedule II controlled substance  
+| for a patient in a long-term care facility (LTCF) or for a patient  
+| with a medical diagnosis documenting a terminal illness may be  
+| filled in partial quantities to include individual dosage units.  
+| If there is any question about whether a patient may be classified  
+| as having a terminal illness, the pharmacist must contact the  
+| practitioner before partially filling the prescription. Both the  
+| pharmacist and the practitioner have a corresponding  
+| responsibility to assure that the controlled substance is for a  
+| terminally ill patient. The pharmacist must record the  
+| prescription [ ~~on an official prescription form or~~ ] in the  
+| electronic prescription record and must indicate [ ~~on the official~~  
+|  ~~prescription form or~~ ] in the electronic prescription record whether  
+| the patient is "terminally ill" or an "LTCF patient." A  
+| prescription that is partially filled and does not contain the  
+| notation "terminally ill" or "LTCF patient" is considered to have  
+| been filled in violation of this chapter. For each partial filling,  
+| the dispensing pharmacist shall record [ ~~on the back of the official~~  
+|  ~~prescription form or~~ ] in the electronic prescription record the  
+| date of the partial filling, the quantity dispensed, the remaining  
+| quantity authorized to be dispensed, and the identification of the  
+| dispensing pharmacist. Before any subsequent partial filling, the  
+| pharmacist must determine that the additional partial filling is  
+| necessary. The total quantity of Schedule II controlled substances  
+| dispensed in all partial fillings may not exceed the total quantity  
+| prescribed. Schedule II prescriptions for patients in a long-term  
+| care facility or patients with a medical diagnosis documenting a  
+| terminal illness are valid for a period not to exceed 60 days  
+| following the issue date unless sooner terminated by discontinuance  
+| of the medication.  
+|  (g) A person may not dispense a controlled substance in  
+| Schedule III or IV that is a prescription drug under the Federal  
+| Food, Drug, and Cosmetic Act (21 U.S.C. Section 301 et seq.) without  
+| a [ ~~written, electronic, oral, or telephonically communicated~~ ]  
+| prescription of a practitioner defined by Section 481.002(39)(A) or  
+| (D), except that the practitioner may dispense the substance  
+| directly to an ultimate user. A prescription for a controlled  
+| substance listed in Schedule III or IV may not be filled or refilled  
+| later than six months after the date on which the prescription is  
+| issued and may not be refilled more than five times, unless the  
+| prescription is renewed by the practitioner. A prescription under  
+| this subsection must comply with other applicable state and federal  
+| laws.  
+|  (h) A pharmacist may dispense a controlled substance listed  
+| in Schedule III, IV, or V under a [ ~~written, electronic, oral, or~~  
+|  ~~telephonically communicated~~ ] prescription issued by a practitioner  
+| defined by Section 481.002(39)(C) [ ~~and~~ ] only if the pharmacist  
+| determines that the prescription was issued for a valid medical  
+| purpose and in the course of professional practice. A prescription  
+| _described by_ [ ~~issued under~~ ] this subsection may not be filled or  
+| refilled later than six months after the date the prescription is  
+| issued and may not be refilled more than five times, unless the  
+| prescription is renewed by the practitioner.  
+|  (k) A prescription for a controlled substance must show:  
+|  (1) the quantity of the substance prescribed:  
+|  (A) [ ~~numerically, followed by the number written~~  
+|  ~~as a word, if the prescription is written;~~  
+|  [ ~~(B)~~ ] numerically, if the prescription is  
+| electronic; or  
+|  _(B)_ [ ~~(C)~~ ] if the prescription is communicated  
+| orally or telephonically, as transcribed by the receiving  
+| pharmacist;  
+|  (2) the date of issue;  
+|  (2-a) if the prescription is issued for a Schedule II  
+| controlled substance to be filled at a later date under Subsection  
+| (d-1), the earliest date on which a pharmacy may fill the  
+| prescription;  
+|  (3) the name, address, and date of birth or age of the  
+| patient or, if the controlled substance is prescribed for an  
+| animal, the species of the animal and the name and address of its  
+| owner;  
+|  (4) the name and strength of the controlled substance  
+| prescribed;  
+|  (5) the directions for use of the controlled  
+| substance;  
+|  (6) the intended use of the substance prescribed  
+| unless the practitioner determines the furnishing of this  
+| information is not in the best interest of the patient; _and_  
+|  (7) the name, address, Federal Drug Enforcement  
+| Administration number, and telephone number of the practitioner at  
+| the practitioner's usual place of business[ ~~, which must be legibly~~  
+|  ~~printed or stamped on a written prescription; and~~  
+|  [ ~~(8)~~ ~~~~ ~~~~ ~~if the prescription is handwritten, the signature~~  
+|  ~~of the prescribing practitioner~~ ].  
+|  (q) Each dispensing pharmacist shall send all required  
+| information[ ~~, including any information required to complete the~~  
+|  ~~Schedule III through V prescription forms,~~ ] to the board by  
+| electronic transfer or another form approved by the board not later  
+| than the next business day after the date the prescription is  
+| completely filled.  
+|  SECTION 5. The heading to Section 481.075, Health and  
+| Safety Code, is amended to read as follows:  
+|  Sec. 481.075. _SCHEDULE II PRESCRIPTIONS_ [ ~~OFFICIAL~~  
+|  ~~PRESCRIPTION PROGRAM~~ ].  
+|  SECTION 6. Sections 481.075(a), (e), (g), (h), (i), and  
+| (j), Health and Safety Code, are amended to read as follows:  
+|  (a) A practitioner who prescribes a controlled substance  
+| listed in Schedule II shall, except as provided by _Section_  
+| _481.074(b-1) or 481.0755 or a_ rule adopted under Section 481.0761,  
+| record the prescription [ ~~on an official prescription form or~~ ] in an  
+| electronic prescription that includes the information required by  
+| this section.  
+|  (e) Each [ ~~official prescription form or electronic~~ ]  
+| prescription used to prescribe a Schedule II controlled substance  
+| must contain:  
+|  (1) information provided by the prescribing  
+| practitioner, including:  
+|  (A) the date the prescription is issued;  
+|  (B) the controlled substance prescribed;  
+|  (C) the quantity of controlled substance  
+| prescribed, shown[ ~~:~~  
+|  [ ~~(i)~~ ] numerically[ ~~, followed by the number~~  
+|  ~~written as a word, if the prescription is written; or~~  
+|  [ ~~(ii)~~ ~~~~ ~~~~ ~~numerically, if the prescription is~~  
+|  ~~electronic~~ ];  
+|  (D) the intended use of the controlled substance _,_  
+| or the diagnosis for which _the controlled substance_ [ ~~it~~ ] is  
+| prescribed _,_ and the instructions for use of the substance;  
+|  (E) the practitioner's name, address, and  
+| Federal Drug Enforcement Administration number issued for  
+| prescribing a controlled substance in this state;  
+|  (F) the name, address, and date of birth or age of  
+| the person for whom the controlled substance is prescribed; and  
+|  (G) if the prescription is issued to be filled at  
+| a later date under Section 481.074(d-1), the earliest date on which  
+| a pharmacy may fill the prescription;  
+|  (2) information provided by the dispensing  
+| pharmacist, including the date the prescription is filled; and  
+|  (3) [ ~~for a written prescription, the signatures of the~~  
+|  ~~prescribing practitioner and the dispensing pharmacist or for an~~  
+|  ~~electronic prescription,~~ ] the prescribing practitioner's  
+| electronic signature or other secure method of validation  
+| authorized by federal law.  
+|  (g) Except for an _emergency_ oral _or telephonically_  
+| _communicated_ prescription _described by_ [ ~~prescribed under~~ ] Section  
+| _481.074(b-1)_ [ ~~481.074(b)~~ ], the prescribing practitioner shall:  
+|  (1) _record_ [ ~~legibly fill in,~~ ] or direct a designated  
+| agent to _record_ [ ~~legibly fill in, on the official prescription form~~  
+|  ~~or~~ ] in the electronic prescription[ ~~,~~ ] each item of information  
+| required to be provided by the prescribing practitioner under  
+| Subsection (e)(1), unless the practitioner determines that:  
+|  (A) under rule adopted by the board for this  
+| purpose, it is unnecessary for the practitioner or the  
+| practitioner's agent to provide the patient identification number;  
+| or  
+|  (B) it is not in the best interest of the patient  
+| for the practitioner or practitioner's agent to provide information  
+| regarding the intended use of the controlled substance or the  
+| diagnosis for which it is prescribed; and  
+|  (2) [ ~~sign the official prescription form and give the~~  
+|  ~~form to the person authorized to receive the prescription or, in the~~  
+|  ~~case of an electronic prescription,~~ ] electronically sign or  
+| validate the electronic prescription as authorized by federal law  
+| and transmit the prescription to the dispensing pharmacy.  
+|  (h) In the case of an _emergency_ oral _or telephonically_  
+| _communicated_ prescription _described by_ [ ~~prescribed under~~ ] Section  
+| _481.074(b-1)_ [ ~~481.074(b)~~ ], the prescribing practitioner shall give  
+| the dispensing pharmacy the information needed to complete the  
+| [ ~~official prescription form or~~ ] electronic prescription record.  
+|  (i) Each dispensing pharmacist shall:  
+|  (1) [ ~~fill in on the official prescription form or~~ ]  
+| note in the electronic prescription record each item of information  
+| given orally to the dispensing pharmacy under Subsection (h) and  
+| the date the prescription is filled[ ~~,~~ ] and[ ~~:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~for a written prescription, fill in the~~  
+|  ~~dispensing pharmacist's signature; or~~  
+|  [ ~~(B) for an electronic prescription,~~]  
+| appropriately record the identity of the dispensing pharmacist in  
+| the electronic prescription record;  
+|  (2) retain with the records of the pharmacy for at  
+| least two years:  
+|  (A) [ ~~the official prescription form or~~ ] the  
+| electronic prescription record[ ~~, as applicable~~ ]; and  
+|  (B) the name or other patient identification  
+| required by Section 481.074(m) or (n); and  
+|  (3) send all required information, including any  
+| information required to complete an [ ~~official prescription form or~~ ]  
+| electronic prescription record, to the board by electronic transfer  
+| or another form approved by the board not later than the next  
+| business day after the date the prescription is completely filled.  
+|  (j) A medication order written for a patient who is admitted  
+| to a hospital at the time the medication order is written and filled  
+| is not required to be _recorded_ [ ~~on an official prescription form or~~ ]  
+| in an electronic prescription record that meets the requirements of  
+| this section.  
+|  SECTION 7. Subchapter C, Chapter 481, Health and Safety  
+| Code, is amended by adding Sections 481.0755 and 481.0756 to read as  
+| follows:  
+|  _Sec._ ___481.0755._ _____WRITTEN, ORAL, AND TELEPHONICALLY_  
+| _COMMUNICATED PRESCRIPTIONS. (a) Notwithstanding Sections 481.074_  
+| _and 481.075, a prescription for a controlled substance is not_  
+| _required to be issued electronically and may be issued in writing if_  
+| _the prescription is issued:_  
+|  _(1) by a veterinarian;_  
+|  _(2)_ _____in circumstances in which electronic prescribing_  
+| _is not available due to temporary technological or electronic_  
+| _failure, as prescribed by board rule;_  
+|  _(3)_ _____by a practitioner to be dispensed by a pharmacy_  
+| _located outside this state, as prescribed by board rule;_  
+|  _(4)_ _____when the prescriber and dispenser are in the same_  
+| _location or under the same license;_  
+|  _(5)_ _____in circumstances in which necessary elements are_  
+| _not supported by the most recently implemented national data_  
+| _standard that facilitates electronic prescribing;_  
+|  _(6)_ _____for a drug for which the United States Food and_  
+| _Drug Administration requires additional information in the_  
+| _prescription that is not possible with electronic prescribing;_  
+|  _(7)_ _____for a non-patient-specific prescription pursuant_  
+| _to a standing order, approved protocol for drug therapy,_  
+| _collaborative drug management, or comprehensive medication_  
+| _management, in response to a public health emergency or in other_  
+| _circumstances in which the practitioner may issue a_  
+| _non-patient-specific prescription;_  
+|  _(8) for a drug under a research protocol;_  
+|  _(9)_ _____by a practitioner who has received a waiver under_  
+| _Section 481.0756 from the requirement to use electronic_  
+| _prescribing;_  
+|  _(10)_ _____under circumstances in which the practitioner has_  
+| _the present ability to submit an electronic prescription but_  
+| _reasonably determines that it would be impractical for the patient_  
+| _to obtain the drugs prescribed under the electronic prescription in_  
+| _a timely manner and that a delay would adversely impact the_  
+| _patient's medical condition; or_  
+|  _(11) before January 1, 2021._  
+|  _(b)_ _____A dispensing pharmacist who receives a controlled_  
+| _substance prescription in a manner other than electronically is not_  
+| _required to verify that the prescription is exempt from the_  
+| _requirement that it be submitted electronically._ ___The pharmacist_  
+| _may dispense a controlled substance pursuant to an otherwise valid_  
+| _written, oral, or telephonically communicated prescription_  
+| _consistent with the requirements of this subchapter._  
+|  _(c)_ _____Except in an emergency, a practitioner must use a_  
+| _written prescription to submit a prescription described by_  
+| _Subsection (a). In an emergency, the practitioner may submit an_  
+| _oral or telephonically communicated prescription as authorized_  
+| _under Section 481.074(b-1)._  
+|  _(d)_ _____A written prescription for a controlled substance other_  
+| _than a Schedule II controlled substance must include the_  
+| _information required under Section 481.074(k) and the signature of_  
+| _the prescribing practitioner._  
+|  _(e)_ _____A written prescription for a Schedule II controlled_  
+| _substance must be on an official prescription form and include the_  
+| _information required for an electronic prescription under Section_  
+| _481.075(e), the signature of the practitioner, and the signature of_  
+| _the dispensing pharmacist after the prescription is filled._  
+|  _(f)_ _____The board by rule shall authorize a practitioner to_  
+| _determine whether it is necessary to obtain a particular patient_  
+| _identification number and to provide that number on the official_  
+| _prescription form._  
+|  _(g)_ _____On request of a practitioner, the board shall issue_  
+| _official prescription forms to the practitioner for a fee covering_  
+| _the actual cost of printing, processing, and mailing the forms._  
+| _Before mailing or otherwise delivering prescription forms to a_  
+| _practitioner, the board shall print on each form the number of the_  
+| _form and any other information the board determines is necessary._  
+|  _(h)_ _____Each official prescription form must be sequentially_  
+| _numbered._  
+|  _(i)_ _____A person may not obtain an official prescription form_  
+| _unless the person is a practitioner as defined by Section_  
+| _481.002(39)(A) or an institutional practitioner._  
+|  _(j)_ _____Not more than one Schedule II prescription may be_  
+| _recorded on an official prescription form._  
+|  _(k)_ _____Not later than the 30th day after the date a_  
+| _practitioner's Federal Drug Enforcement Administration number or_  
+| _license to practice has been denied, suspended, canceled,_  
+| _surrendered, or revoked, the practitioner shall return to the board_  
+| _all official prescription forms in the practitioner's possession_  
+| _that have not been used for prescriptions._  
+|  _(l) Each prescribing practitioner:_  
+|  _(1)_ _____may use an official prescription form only to_  
+| _submit a prescription described by Subsection (a);_  
+|  _(2)_ _____shall date or sign an official prescription form_  
+| _only on the date the prescription is issued; and_  
+|  _(3)_ _____shall take reasonable precautionary measures to_  
+| _ensure that an official prescription form issued to the_  
+| _practitioner is not used by another person to violate this_  
+| _subchapter or a rule adopted under this subchapter._  
+|  _(m)_ _____In the case of an emergency oral or telephonically_  
+| _communicated prescription described by Section 481.074(b-1), the_  
+| _prescribing practitioner shall give the dispensing pharmacy the_  
+| _information needed to complete the official prescription form if_  
+| _the pharmacy is not required to use the electronic prescription_  
+| _record._  
+|  _(n)_ _____Each dispensing pharmacist receiving an oral or_  
+| _telephonically communicated prescription under Subsection (m)_  
+| _shall:_  
+|  _(1)_ _____fill in on the official prescription form each_  
+| _item of information given orally to the dispensing pharmacy under_  
+| _Subsection (m) and the date the prescription is filled and fill in_  
+| _the dispensing pharmacist's signature;_  
+|  _(2)_ _____retain with the records of the pharmacy for at_  
+| _least two years:_  
+|  _(A) the official prescription form; and_  
+|  _(B)_ _____the name or other patient identification_  
+| _required by Section 481.074(m) or (n); and_  
+|  _(3)_ _____send all required information, including any_  
+| _information required to complete an official prescription form, to_  
+| _the board by electronic transfer or another form approved by the_  
+| _board not later than the next business day after the date the_  
+| _prescription is completely filled._  
+|  _Sec._ ___481.0756._ _____WAIVERS FROM ELECTRONIC PRESCRIBING. (a)_ __  
+| _The appropriate regulatory agency that issued the license,_  
+| _certification, or registration to a prescriber is authorized to_  
+| _grant a prescriber a waiver from the electronic prescribing_  
+| _requirement under the provisions of this section._  
+|  _(b)_ _____The board shall convene an interagency workgroup that_  
+| _includes representatives of each regulatory agency that issues a_  
+| _license, certification, or registration to a prescriber._  
+|  _(c)_ _____The work group described by Subsection (b) shall_  
+| _establish recommendations and standards for circumstances in which_  
+| _a waiver from the electronic prescribing requirement is appropriate_  
+| _and a process under which a prescriber may request and receive a_  
+| _waiver._  
+|  _(d)_ _____The board shall adopt rules establishing the_  
+| _eligibility for a waiver, including:_  
+|  _(1) economic hardship;_  
+|  _(2)_ _____technological limitations not reasonably within_  
+| _the control of the prescriber; or_  
+|  _(3)_ _____other exceptional circumstances demonstrated by_  
+| _the prescriber._  
+|  _(e)_ _____Each regulatory agency that issues a license,_  
+| _certification, or registration to a prescriber shall adopt rules_  
+| _for the granting of waivers consistent with the board rules adopted_  
+| _under Subsection (d)._  
+|  _(f)_ _____A waiver may be issued to a prescriber for a period of_  
+| _one year. On expiration of the waiver, the prescriber may reapply_  
+| _for a waiver if the circumstances that necessitated the waiver_  
+| _continue._  
+|  SECTION 8. Sections 481.0761(c) and (d), Health and Safety  
+| Code, are amended to read as follows:  
+|  (c) The board by rule may:  
+|  (1) [ ~~permit more than one prescription to be~~  
+|  ~~administered or dispensed and recorded on one prescription form for~~  
+|  ~~a Schedule III through V controlled substance;~~  
+|  [ ~~(1-a)~~ ] establish a procedure for the issuance of  
+| multiple prescriptions of a Schedule II controlled substance under  
+| Section 481.074(d-1);  
+|  (2) remove from or return to the official prescription  
+| program any aspect of a practitioner's or pharmacist's hospital  
+| practice, including administering or dispensing;  
+|  (3) waive or delay any requirement relating to the  
+| time or manner of reporting;  
+|  (4) establish compatibility protocols for electronic  
+| data transfer hardware, software, or format, including any  
+| necessary modifications for participation in a database described  
+| by Section 481.076(j);  
+|  (5) establish a procedure to control the release of  
+| information under Sections 481.074, 481.075, and 481.076; and  
+|  (6) establish a minimum level of prescription activity  
+| below which a reporting activity may be modified or deleted.  
+|  (d) The board by rule shall authorize a practitioner to  
+| determine whether it is necessary to obtain a particular patient  
+| identification number and to provide that number [ ~~on the official~~  
+|  ~~prescription form or~~ ] in the electronic prescription record.  
+|  SECTION 9. Subchapter C, Chapter 481, Health and Safety  
+| Code, is amended by adding Sections 481.07635 and 481.07636 to read  
+| as follows:  
+|  _Sec._ ___481.07635._ _____CONTINUING EDUCATION. (a)_ ___A person_  
+| _authorized to receive information under Section 481.076(a)(5)_  
+| _shall, not later than the first anniversary after the person is_  
+| _issued a license, certification, or registration to prescribe or_  
+| _dispense controlled substances under this chapter, complete two_  
+| _hours of professional education related to approved procedures of_  
+| _prescribing and monitoring controlled substances._  
+|  _(b)_ _____A person authorized to receive information may annually_  
+| _take the professional education course under this section to fulfil_  
+| _hours toward the ethics education requirement of the person's_  
+| _license, certification, or registration._  
+|  _(c)_ _____The regulatory agency that issued the license,_  
+| _certification, or registration to a person authorized to receive_  
+| _information under Section 481.076(a)(5) shall approve professional_  
+| _education to satisfy the requirements of this section._  
+|  _Sec._ ___481.07636._ _____OPIOID PRESCRIPTION LIMITS. (a)_ ___In this_  
+| _section, "acute pain" means pain with abrupt onset that is caused by_  
+| _an injury or other process that is not ongoing. The term does not_  
+| _include:_  
+|  _(1) chronic pain;_  
+|  _(2) pain being treated as part of cancer care;_  
+|  _(3)_ _____pain being treated as part of hospice or other_  
+| _end-of-life care; or_  
+|  _(4) pain being treated as part of palliative care._  
+|  _(b)_ _____For the initial treatment of acute pain, a practitioner_  
+| _may not:_  
+|  _(1)_ _____issue a prescription for an opioid in an amount_  
+| _that exceeds a seven-day supply; or_  
+|  _(2) provide for a refill of an opioid._  
+|  _(c)_ _____Subsection (b) does not apply to a prescription for an_  
+| _opioid approved by the United States Food and Drug Administration_  
+| _for the treatment of substance addiction that is issued by a_  
+| _practitioner for the treatment of substance addiction._  
+|  _(d)_ _____A dispenser is not subject to criminal, civil, or_  
+| _administrative penalties for dispensing or refusing to dispense a_  
+| _controlled substance under a prescription that exceeds the limits_  
+| _provided by Subsection (b)._  
+|  SECTION 10. Section 481.128(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) A registrant or dispenser commits an offense if the  
+| registrant or dispenser knowingly:  
+|  (1) distributes, delivers, administers, or dispenses  
+| a controlled substance in violation of _Subchapter C_ [ ~~Sections~~  
+|  ~~481.070-481.075~~ ];  
+|  (2) manufactures a controlled substance not  
+| authorized by the person's Federal Drug Enforcement Administration  
+| registration or distributes or dispenses a controlled substance not  
+| authorized by the person's registration to another registrant or  
+| other person;  
+|  (3) refuses or fails to make, keep, or furnish a  
+| record, report, notification, order form, statement, invoice, or  
+| information required by this chapter;  
+|  (4) prints, manufactures, possesses, or produces an  
+| official prescription form without the approval of the board;  
+|  (5) delivers or possesses a counterfeit official  
+| prescription form;  
+|  (6) refuses an entry into a premise for an inspection  
+| authorized by this chapter;  
+|  (7) refuses or fails to return an official  
+| prescription form as required by Section _481.0755(k)_ [ ~~481.075(k)~~ ];  
+|  (8) refuses or fails to make, keep, or furnish a  
+| record, report, notification, order form, statement, invoice, or  
+| information required by a rule adopted by the director or the board;  
+| or  
+|  (9) refuses or fails to maintain security required by  
+| this chapter or a rule adopted under this chapter.  
+|  SECTION 11. Section 481.129(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) A person commits an offense if the person knowingly:  
+|  (1) distributes as a registrant or dispenser a  
+| controlled substance listed in Schedule I or II, unless the person  
+| distributes the controlled substance as authorized under the  
+| federal Controlled Substances Act (21 U.S.C. Section 801 et seq.);  
+|  (2) uses in the course of manufacturing, prescribing,  
+| or distributing a controlled substance a Federal Drug Enforcement  
+| Administration registration number that is fictitious, revoked,  
+| suspended, or issued to another person;  
+|  (3) issues a prescription bearing a forged or  
+| fictitious signature;  
+|  (4) uses a prescription issued to another person to  
+| prescribe a Schedule II controlled substance;  
+|  (5) possesses, obtains, or attempts to possess or  
+| obtain a controlled substance or an increased quantity of a  
+| controlled substance:  
+|  (A) by misrepresentation, fraud, forgery,  
+| deception, or subterfuge;  
+|  (B) through use of a fraudulent prescription  
+| form; [ ~~or~~ ]  
+|  (C) through use of a fraudulent oral or  
+| telephonically communicated prescription; or  
+|  _(D)_ _____through the use of a fraudulent electronic_  
+| _prescription; or_  
+|  (6) furnishes false or fraudulent material  
+| information in or omits material information from an application,  
+| report, record, or other document required to be kept or filed under  
+| this chapter.  
+|  SECTION 12. Section 32.024, Human Resources Code, is  
+| amended by adding Subsection (z-2) to read as follows:  
+|  _(z-2)_ _____The limits on prescription drugs and medications_  
+| _under the medical assistance program provided by Subsections (z)_  
+| _and (z-1) do not apply to a prescription for an opioid for the_  
+| _initial treatment of acute pain under Section 481.07636, Health and_  
+| _Safety Code._  
+|  SECTION 13. Section 554.051(a-1), Occupations Code, is  
+| amended to read as follows:  
+|  (a-1) The board may adopt rules to administer Sections  
+| [ ~~481.073,~~ ] 481.074, 481.075, _481.0755, 481.0756,_ 481.076,  
+| 481.0761, 481.0762, 481.0763, _481.07635, 481.07636,_ 481.0764,  
+| 481.0765, and 481.0766, Health and Safety Code.  
+|  SECTION 14. Section 565.003, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 565.003. ADDITIONAL GROUNDS FOR DISCIPLINE REGARDING  
+| APPLICANT FOR OR HOLDER OF NONRESIDENT PHARMACY LICENSE. Unless  
+| compliance would violate the pharmacy or drug statutes or rules in  
+| the state in which the pharmacy is located _,_ the board may discipline  
+| an applicant for or the holder of a nonresident pharmacy license if  
+| the board finds that the applicant or license holder has failed to  
+| comply with:  
+|  (1) Section 481.074 _,_ [ ~~or~~ ] 481.075, _481.0755,_  
+| _481.0756, 481.076, 481.0761, 481.0762, 481.0763, 481.07635,_  
+| _481.07636, 481.0764, 481.0765, or 481.0766,_ Health and Safety Code;  
+|  (2) Texas substitution requirements regarding:  
+|  (A) the practitioner's directions concerning  
+| generic substitution;  
+|  (B) the patient's right to refuse generic  
+| substitution; or  
+|  (C) notification to the patient of the patient's  
+| right to refuse substitution;  
+|  (3) any board rule relating to providing drug  
+| information to the patient or the patient's agent in written form or  
+| by telephone; or  
+|  (4) any board rule adopted under Section 554.051(a)  
+| and determined by the board to be applicable under Section  
+| 554.051(b).  
+|  SECTION 15. Sections 481.073, 481.074(o) and (p), and  
+| 481.075(b), (c), (d), (f), (k), and (l), Health and Safety Code, are  
+| repealed.  
+|  SECTION 16. A person who holds a license, certification, or  
+| registration to prescribe or dispense a controlled substance issued  
+| before September 1, 2020, is required to take the continuing  
+| education course provided by Section 481.07635, Health and Safety  
+| Code, as added by this Act, not later than September 1, 2021.  
+|  SECTION 17. This Act takes effect September 1, 2019.
+

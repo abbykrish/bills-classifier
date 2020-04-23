@@ -1,0 +1,40 @@
+| 86R14344 AAF-D  
+---|---  
+|  By: Swanson | H.B. No. 3730  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the purchase of online library resources for primary  
+| and secondary schools by the Texas State Library and Archives  
+| Commission.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter M, Chapter 441, Government Code, is  
+| amended by adding Section 441.231 to read as follows:  
+|  _Sec._ ___441.231._ _____ONLINE LIBRARY RESOURCES FOR SCHOOL_  
+| _DISTRICTS. (a) The commission shall use funds appropriated to the_  
+| _commission or consortium services fees under Section 441.224(b)_  
+| _collected from school districts to purchase online library_  
+| _resources for primary and secondary schools that have adopted_  
+| _Internet safety policies and technology protection measures_  
+| _meeting the requirements for certification under 47 U.S.C. Sections_  
+| _254(h)(5)(B) and (C)._  
+|  _(b)_ _____The commission may purchase online library resources_  
+| _under Subsection (a) only if the vendor providing the resources_  
+| _certifies that the resources comply with 47 U.S.C. Section_  
+| _254(h)(5)._  
+|  _(c)_ _____If the legislature finds that a vendor subject to_  
+| _Subsection (b) is failing to comply substantially with the_  
+| _requirements of 47 U.S.C. Section 254(h)(5), the commission may_  
+| _withhold further payments to the vendor pending verification of_  
+| _compliance with that federal law._  
+|  _(d)_ _____If the vendor described by Subsection (c) fails to_  
+| _timely verify that the vendor is in compliance with federal law, the_  
+| _commission may consider the vendor's act of noncompliance as a_  
+| _breach of contract._  
+|  _(e)_ _____Not later than December 1 of each fiscal year, the_  
+| _commission shall submit to the Legislative Budget Board and the_  
+| _office of the governor a report on any issues related to vendor_  
+| _compliance with technology protection measures required by 47_  
+| _U.S.C. Section 254(h)(5)._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

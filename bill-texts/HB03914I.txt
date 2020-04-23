@@ -1,0 +1,453 @@
+| 86R12560 JCG-F  
+---|---  
+|  By: Sherman, Sr. | H.B. No. 3914  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to warrants and orders issued for the use of tracking  
+| equipment and access to electronic communications to further a  
+| criminal investigation.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 18.02(a), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (a) A search warrant may be issued to search for and seize:  
+|  (1) property acquired by theft or in any other manner  
+| which makes its acquisition a penal offense;  
+|  (2) property specially designed, made, or adapted for  
+| or commonly used in the commission of an offense;  
+|  (3) arms and munitions kept or prepared for the  
+| purposes of insurrection or riot;  
+|  (4) weapons prohibited by the Penal Code;  
+|  (5) gambling devices or equipment, altered gambling  
+| equipment, or gambling paraphernalia;  
+|  (6) obscene materials kept or prepared for commercial  
+| distribution or exhibition, subject to the additional rules set  
+| forth by law;  
+|  (7) a drug, controlled substance, immediate  
+| precursor, chemical precursor, or other controlled substance  
+| property, including an apparatus or paraphernalia kept, prepared,  
+| or manufactured in violation of the laws of this state;  
+|  (8) any property the possession of which is prohibited  
+| by law;  
+|  (9) implements or instruments used in the commission  
+| of a crime;  
+|  (10) property or items, except the personal writings  
+| by the accused, constituting evidence of an offense or constituting  
+| evidence tending to show that a particular person committed an  
+| offense;  
+|  (11) persons;  
+|  (12) contraband subject to forfeiture under Chapter 59  
+| [ ~~of this code~~ ];  
+|  (13) electronic customer data held in electronic  
+| storage, including _:_  
+|  _(A)_ the contents of and records and other  
+| information related to a wire communication or electronic  
+| communication held in electronic storage _; and_  
+|  _(B) location information_; or  
+|  (14) a cellular telephone or other wireless  
+| communications device, subject to Article 18.0215.  
+|  SECTION 2. Article 18.02(b)(2), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (2) "Electronic customer _data,"_ [ ~~data" and~~ ]  
+| "electronic _storage," and "location information"_ [ ~~storage"~~ ] have  
+| the meanings assigned by Article 18B.001.  
+|  SECTION 3. Article 18B.001, Code of Criminal Procedure, is  
+| amended by amending Subdivisions (1), (4), and (7) and adding  
+| Subdivision (9-a) to read as follows:  
+|  (1) "Authorized peace officer" means:  
+|  (A) a sheriff or deputy sheriff;  
+|  (B) a constable or deputy constable;  
+|  (C) a marshal or police officer of a  
+| municipality;  
+|  (D) a ranger or officer commissioned by the  
+| Public Safety Commission or the director of the department;  
+|  (E) an investigator of a prosecutor's office;  
+|  (F) a law enforcement agent of the Texas  
+| Alcoholic Beverage Commission;  
+|  (G) a law enforcement officer commissioned by the  
+| Parks and Wildlife Commission;  
+|  (H) an enforcement officer appointed by the  
+| inspector general of the Texas Department of Criminal Justice under  
+| Section 493.019, Government Code;  
+|  (I) an investigator commissioned by the attorney  
+| general under Section 402.009, Government Code; [ ~~or~~ ]  
+|  (J) a member of an arson investigating unit  
+| commissioned by a municipality, a county, or the state _;_  
+|  _(K)_ _____a criminal investigator of the United States_  
+| _as described by Article 2.122(a); or_  
+|  _(L)_ _____a peace officer appointed by a federal agency_  
+| _listed in Article 2.122(a) as a criminal investigator of the_  
+| _agency_.  
+|  (4) "Designated law enforcement office or agency"  
+| means:  
+|  (A) the sheriff's department of a county with a  
+| population of 3.3 million or more;  
+|  (B) a police department in a municipality with a  
+| population of 500,000 or more; [ ~~or~~ ]  
+|  (C) the office of inspector general of the Texas  
+| Department of Criminal Justice _;_  
+|  _(D) the office of a prosecutor; or_  
+|  _(E)_ _____a federal agency described by Article_  
+| _2.122(a) that has employed:_  
+|  _(i) a criminal investigator; or_  
+|  _(ii)_ _____a peace officer described by_  
+| _Subdivision (1)(L)_.  
+|  (7) _Except as otherwise provided by this chapter,_  
+| _"electronic_ [ ~~"Electronic~~ ] customer data" means data or records  
+| that:  
+|  (A) are in the possession, care, custody, or  
+| control of a provider of an electronic communications service or  
+| provider of a remote computing service; and  
+|  (B) contain:  
+|  (i) information revealing the identity of  
+| customers of the applicable service;  
+|  (ii) information about a customer's use of  
+| the applicable service;  
+|  (iii) information that identifies the  
+| recipient or destination of a wire or electronic communication sent  
+| to or by a customer;  
+|  (iv) the content of a wire or electronic  
+| communication sent to or by a customer; [ ~~and~~ ]  
+|  (v) any data stored with the applicable  
+| service provider by or on behalf of a customer _; and_  
+|  _(vi) location information_.  
+|  _(9-a)_ _____"Location information" means information that_  
+| _reveals the location of a wireless communications device obtained_  
+| _by any of the following methods:_  
+|  _(A)_ _____using GPS location-based measurements,_  
+| _including the querying of the target device's GPS service and the_  
+| _returned coordinates;_  
+|  _(B)_ _____comparing a record of the target device's IP_  
+| _address to a list of known IP addresses and approximate known_  
+| _locations;_  
+|  _(C)_ _____querying the target device's operating_  
+| _system for the identity of nearby cellular towers and uploading the_  
+| _information to a server where the cellular tower identification may_  
+| _be compared to a list of known cellular tower locations;_  
+|  _(D)_ _____querying the target device's operating_  
+| _system for the identifier (such as SSID or (B)SSID) associated with_  
+| _a nearby Wi-Fi access point and uploading that information to a_  
+| _server where the access point's identifier may be compared to a_  
+| _database or list of known identifiers of Wi-Fi access points in_  
+| _known locations;_  
+|  _(E)_ _____using records derived from the device's_  
+| _connections to radio antennas through which a provider of an_  
+| _electronic communications service or provider of a remote computing_  
+| _service provides wireless service to that device;_  
+|  _(F)_ _____using enhanced 9-1-1 location-based_  
+| _measurements; and_  
+|  _(G)_ _____any combination of methods described in this_  
+| _subdivision or another similar method used to determine the_  
+| _location of a wireless communications device._  
+|  SECTION 4. Articles 18B.051(a), (c), and (d), Code of  
+| Criminal Procedure, are amended to read as follows:  
+|  (a) A prosecutor with jurisdiction in a county within a  
+| judicial district described by Article 18B.052 may file with a  
+| district judge in the judicial district an application for the  
+| installation and use of a pen register, ESN reader, trap and trace  
+| device, or similar equipment _or the use of similar equipment that_  
+| _does not require installation_ [ ~~that combines the function of a pen~~  
+|  ~~register and a trap and trace device~~ ].  
+|  (c) A prosecutor must make an application personally and may  
+| not make the application through an assistant or other person  
+| acting on the prosecutor's behalf if the prosecutor:  
+|  (1) files an application on the prosecutor's own  
+| motion; or  
+|  (2) files an application for the _use or_ installation  
+| and use _, as applicable,_ of a pen register, ESN reader, or similar  
+| equipment on the request of an authorized peace officer not  
+| commissioned by the department, other than an authorized peace  
+| officer employed by a designated law enforcement office or agency.  
+|  (d) A prosecutor may make an application through an  
+| assistant or other person acting on the prosecutor's behalf if the  
+| prosecutor files an application for the _use or_ installation and  
+| use _, as applicable,_ of:  
+|  (1) a pen register, ESN reader, or similar equipment  
+| on the request of:  
+|  (A) an authorized peace officer who is  
+| commissioned by the department; or  
+|  (B) an authorized peace officer of a designated  
+| law enforcement office or agency; or  
+|  (2) a trap and trace device or similar equipment on the  
+| request of an authorized peace officer, regardless of whether the  
+| peace officer is commissioned by the department.  
+|  SECTION 5. Article 18B.053, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.053. APPLICATION REQUIREMENTS. An application  
+| under this subchapter must:  
+|  (1) be made in writing under oath;  
+|  (2) include the name of the subscriber and the  
+| telephone number and location of the communication device on which  
+| the pen register, ESN reader, trap and trace device, or similar  
+| equipment will be used, to the extent that information is known or  
+| is reasonably ascertainable; [ ~~and~~ ]  
+|  (3) state that the _use or_ installation and use _, as_  
+| _applicable,_ of the device or equipment will likely produce  
+| information that is material to an ongoing criminal investigation _;_  
+| _and_  
+|  _(4)_ _____state articulable facts sufficient to support a_  
+| _finding of probable cause to believe that the use or installation_  
+| _and use, as applicable, of the device or equipment will:_  
+|  _(A)_ _____produce evidence of an offense in the_  
+| _criminal investigation; or_  
+|  _(B)_ _____result in the apprehension of a fugitive from_  
+| _justice_.  
+|  SECTION 6. Article 18B.101(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) On presentation of an application under Subchapter B, a  
+| judge may order the _use or_ installation and use _, as applicable,_ of a  
+| pen register, ESN reader, or similar equipment by an authorized  
+| peace officer commissioned by the department or an authorized peace  
+| officer of a designated law enforcement office or agency.  
+|  SECTION 7. Article 18B.104(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) An order for the _use or_ installation and use of a device  
+| or equipment under this subchapter is valid for a period not to  
+| exceed 60 days after the earlier of the date the device or equipment  
+| is installed _or used_ or the 10th day after the date the order is  
+| entered, unless the prosecutor applies for and obtains an extension  
+| of the order from the court before the order expires.  
+|  SECTION 8. Article 18B.105, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.105. SEALING RECORDS OF APPLICATION AND ORDER. A  
+| district court shall seal an application and order granted under  
+| this chapter. _The court may not unseal the application and order_  
+| _until after the order has expired._  
+|  SECTION 9. Article 18B.151(b), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (b) _An authorized peace officer employed by a designated law_  
+| _enforcement agency_ [ ~~A peace officer authorized to possess, install,~~  
+|  ~~operate, or monitor a device under Subchapter E, Chapter 18A,~~ ] may  
+| _use or_ install and use _, as applicable,_ a pen register _,_ [ ~~or~~ ]
+trap and  
+| trace device _, ESN reader, or other similar device_ if the peace  
+| officer _has probable cause to believe_ [ ~~reasonably believes~~ ]:  
+|  (1) an immediate life-threatening situation exists  
+| that:  
+|  (A) is within the territorial jurisdiction of the  
+| peace officer or another _authorized peace_ officer the peace officer  
+| is assisting; and  
+|  (B) requires the _use or_ installation _and use_ of a  
+| pen register _,_ [ ~~or~~ ] trap and trace device _, ESN reader, or other_  
+| _similar device_ before an order authorizing the installation and use  
+| can, with due diligence, be obtained under this chapter; and  
+|  (2) there are sufficient grounds under this chapter on  
+| which to obtain an order authorizing the _use or_ installation and use  
+| of a pen register _,_ [ ~~or~~ ] trap and trace device _, ESN reader, or
+other_  
+| _similar device_.  
+|  SECTION 10. Article 18B.152, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.152. ORDER AUTHORIZING EMERGENCY INSTALLATION _OR_  
+| [ ~~AND~~ ] USE. (a) A peace officer who installs or uses a pen register _,_  
+| [ ~~or~~ ] trap and trace device _, ESN reader, or other similar device_  
+| under Article 18B.151 shall:  
+|  (1) promptly report the installation or use of the  
+| device to the prosecutor _or an assistant of the prosecutor_ in the  
+| county in which the device is installed or used; and  
+|  (2) within 48 hours after the installation of the  
+| device is complete or the use of the device begins, whichever occurs  
+| first, obtain an order under Subchapter C authorizing the _use or_  
+| installation and use of the device.  
+|  (b) A judge may issue an order authorizing the _use or_  
+| installation and use of a device under this subchapter during the  
+| 48-hour period prescribed by Subsection (a)(2). If an order is  
+| denied or is not issued within the 48-hour period, the peace officer  
+| shall terminate use of _,_ and _if necessary_ remove _,_ the [ ~~pen
+register~~  
+|  ~~or trap and trace~~ ] device promptly on the earlier of the denial or  
+| the expiration of 48 hours.  
+|  SECTION 11. Article 18B.153, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.153. ADMISSIBILITY OF EVIDENCE OBTAINED. The  
+| state may not use as evidence in a criminal proceeding any  
+| information gained through [ ~~the use of~~ ] a pen register _,_ [ ~~or~~ ]
+trap  
+| and trace device _, ESN reader, or other similar device_ installed _or_  
+| _used_ under this subchapter if an authorized peace officer:  
+|  (1) does not apply for authorization for the [ ~~pen~~  
+|  ~~register or trap and trace~~ ] device; or  
+|  (2) applies for but does not obtain that  
+| authorization.  
+|  SECTION 12. Article 18B.202(c), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (c) The affidavit must:  
+|  (1) state the name, department, agency, and address of  
+| the applicant;  
+|  (2) identify the vehicle, container, or item to which,  
+| in which, or on which the mobile tracking device is to be attached,  
+| placed, or otherwise installed;  
+|  (3) state the name of the owner or possessor of the  
+| vehicle, container, or item identified under Subdivision (2);  
+|  (4) state the judicial jurisdictional area in which  
+| the vehicle, container, or item identified under Subdivision (2) is  
+| expected to be found; and  
+|  (5) state the facts and circumstances that provide the  
+| applicant with _probable cause_ [ ~~a reasonable suspicion~~ ] that:  
+|  (A) criminal activity has been, is, or will be  
+| committed; and  
+|  (B) the installation and use of a mobile tracking  
+| device is likely to produce information that is material to an  
+| ongoing criminal investigation of that criminal activity.  
+|  SECTION 13. Article 18B.253, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 18B.253. LIMITATION: PEN REGISTERS _AND SIMILAR_  
+| _DEVICES_. To prevent inclusion of the contents of a wire or  
+| electronic communication, a governmental agency authorized to _use_  
+| _or_ install and use a pen register _, trap and trace device, ESN_  
+| _reader, or similar device_ under this chapter or other law must _, as_  
+| _applicable:_  
+|  _(1)_ use reasonably available technology to only record  
+| and decode electronic or other impulses used to identify the  
+| numbers dialed, routed, addressed, or otherwise processed or  
+| transmitted by the communication _; or_  
+|  _(2)_ _____otherwise configure the device such that the_  
+| _device does not collect the content of a wire or electronic_  
+| _communication, and if necessary, immediately delete the content of_  
+| _a wire or electronic communication incidentally collected in using_  
+| _the device_.  
+|  SECTION 14. Chapter 18B, Code of Criminal Procedure, is  
+| amended by adding Subchapter G-1 to read as follows:  
+| _SUBCHAPTER G-1. CERTAIN ELECTRONIC CUSTOMER DATA_  
+|  _Art._ ___18B.321._ _____DEFINITION. In this subchapter, "electronic_  
+| _customer data" means data or records, other than the content of a_  
+| _wire or electronic communication, that:_  
+|  _(1)_ _____are in the possession, care, custody, or control_  
+| _of a provider of an electronic communications service or provider_  
+| _of a remote computing service; and_  
+|  _(2) contain:_  
+|  _(A)_ _____information revealing the identity of_  
+| _customers of the applicable service;_  
+|  _(B)_ _____information about a customer's use of the_  
+| _applicable service;_  
+|  _(C)_ _____information that identifies the recipient or_  
+| _destination of a wire or electronic communication sent to or by a_  
+| _customer; and_  
+|  _(D) location information._  
+|  _Art._ ___18B.322._ _____PROSPECTIVE SURVEILLANCE; APPLICABILITY OF_  
+| _OTHER PROVISIONS. (a) With respect to location information, this_  
+| _subchapter applies only to a warrant described by Article 18B.323_  
+| _for the required disclosure of location information that is created_  
+| _after the issuance of the warrant._  
+|  _(b)_ _____Article 18B.104 applies to the duration of a warrant_  
+| _issued under this subchapter in the same manner as that article_  
+| _applies to an order issued under Subchapter C._  
+|  _(c)_ _____Articles 18B.355, 18B.356, and 18B.357 apply to a_  
+| _warrant required under this subchapter to obtain electronic_  
+| _customer data._  
+|  _Art._ ___18B.323._ _____REQUIREMENTS REGARDING REQUEST FOR AND FILING_  
+| _OF APPLICATION. (a) To require a provider of an electronic_  
+| _communications service or a provider of a remote computing service_  
+| _to disclose electronic customer data held in electronic storage,_  
+| _only a prosecutor with jurisdiction in a county within a judicial_  
+| _district described by Article 18B.052(3) or (4) may file with a_  
+| _district judge in the judicial district an application for a_  
+| _warrant under this subchapter._  
+|  _(b)_ _____A prosecutor may file an application under this_  
+| _subchapter or under federal law on:_  
+|  _(1) the prosecutor's own motion; or_  
+|  _(2)_ _____the request of an authorized peace officer,_  
+| _regardless of whether the peace officer is commissioned by the_  
+| _department._  
+|  _(c)_ _____A prosecutor must make an application under this_  
+| _subchapter personally and may not make the application through an_  
+| _assistant or other person acting on the prosecutor's behalf if the_  
+| _prosecutor:_  
+|  _(1)_ _____files an application on the prosecutor's own_  
+| _motion; or_  
+|  _(2)_ _____files an application on the request of an_  
+| _authorized peace officer not commissioned by the department, other_  
+| _than an authorized peace officer employed by a designated law_  
+| _enforcement office or agency._  
+|  _(d)_ _____A prosecutor may make an application under this_  
+| _subchapter through an assistant or other person acting on the_  
+| _prosecutor's behalf if the prosecutor files the application on the_  
+| _request of:_  
+|  _(1)_ _____an authorized peace officer who is commissioned by_  
+| _the department; or_  
+|  _(2)_ _____an authorized peace officer of a designated law_  
+| _enforcement office or agency._  
+|  _Art._ ___18B.324._ _____APPLICATION AND ISSUANCE OF WARRANT. (a) On_  
+| _the filing of an application under this subchapter, a district_  
+| _judge may issue a search warrant under this article for electronic_  
+| _customer data held in electronic storage by a provider of an_  
+| _electronic communications service or a provider of a remote_  
+| _computing service described by Article 18B.355(b), regardless of_  
+| _whether the customer data is held at a location in this state or_  
+| _another state. An application made under this subsection must_  
+| _demonstrate probable cause for the issuance of the warrant and must_  
+| _be supported by the oath of the applicant._  
+|  _(b)_ _____A search warrant may not be issued under this article_  
+| _unless the sworn affidavit required by Article 18.01(b) provides_  
+| _sufficient and substantial facts to establish probable cause that:_  
+|  _(1)_ _____the disclosure of the electronic customer data_  
+| _sought will:_  
+|  _(A)_ _____produce evidence of an offense under_  
+| _investigation; or_  
+|  _(B)_ _____result in the apprehension of a fugitive from_  
+| _justice; and_  
+|  _(2)_ _____the electronic customer data sought is held in_  
+| _electronic storage by the service provider on which the warrant is_  
+| _served under Article 18B.355(c)._  
+|  _(c)_ _____Only the electronic customer data described in the sworn_  
+| _affidavit required by Article 18.01(b) may be seized under the_  
+| _warrant._  
+|  _(d)_ _____A warrant issued under this article shall run in the_  
+| _name of "The State of Texas."_  
+|  _(e)_ _____A district court shall seal an affidavit and warrant_  
+| _granted under this subchapter and may not unseal the affidavit and_  
+| _warrant until after the order expires._  
+|  SECTION 15. Article 18B.352(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) A court shall issue an order authorizing disclosure of  
+| contents, records, or other information _, other than location_  
+| _information,_ of a wire or electronic communication held in  
+| electronic storage if the court determines that there is a  
+| reasonable belief _based on specific articulable facts_ that _:_  
+|  _(1)_ the information sought is relevant to a legitimate  
+| law enforcement inquiry _; and_  
+|  _(2) the information:_  
+|  _(A)_ _____reveals the identity of customers of the_  
+| _applicable service; or_  
+|  _(B)_ _____is about a customer's use of the applicable_  
+| _service_.  
+|  SECTION 16. Articles 18B.355(b) and (c), Code of Criminal  
+| Procedure, are amended to read as follows:  
+|  (b) _An order issued under Article 18B.352 or a_ [ ~~A~~ ] warrant  
+| issued under Article 18B.354 may be served only on a provider of an  
+| electronic communications service or a provider of a remote  
+| computing service that is a domestic entity or a company or entity  
+| otherwise doing business in this state under a contract or a terms  
+| of service agreement with a resident of this state, if any part of  
+| that contract or agreement is to be performed in this state.  
+|  (c) _An order issued under Article 18B.352 or a_ [ ~~A~~ ] search  
+| warrant issued under Article 18B.354 is served when an authorized  
+| peace officer delivers the warrant by hand, by facsimile _or other_  
+| _electronic_ transmission, or, in a manner allowing proof of  
+| delivery, by means of the United States mail or a private delivery  
+| service to:  
+|  (1) a person specified by Section 5.255, Business  
+| Organizations Code;  
+|  (2) the secretary of state in the case of a company or  
+| entity to which Section 5.251, Business Organizations Code,  
+| applies; or  
+|  (3) any other person or entity designated to receive  
+| the service of process.  
+|  SECTION 17. Article 18B.501(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) An authorized peace officer seeking electronic customer  
+| data under Article 18B.351 _or other customer information under this_  
+| _chapter_ may apply to the court for an order commanding the service  
+| provider to whom a warrant, subpoena, or court order is directed not  
+| to disclose to any person the existence of the warrant, subpoena, or  
+| court order. The order is effective for the period the court  
+| considers appropriate.  
+|  SECTION 18. The changes in law made by this Act by amending  
+| Article 18.02 and Chapter 18B, Code of Criminal Procedure, apply  
+| only to a warrant or other court order issued on or after the  
+| effective date of this Act. A warrant or order issued before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the warrant or order was issued, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 19. This Act takes effect January 1, 2020.
+

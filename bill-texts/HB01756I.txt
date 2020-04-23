@@ -1,0 +1,771 @@
+| 86R6259 JCG-D  
+---|---  
+|  By: Springer | H.B. No. 1756  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the practice of dentistry and the provision of  
+| teledentistry dental services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Chapter 111, Occupations Code, is  
+| amended to read as follows:  
+| CHAPTER 111. TELEMEDICINE _, TELEDENTISTRY,_ AND TELEHEALTH  
+|  SECTION 2. Section 111.001, Occupations Code, is amended by  
+| amending Subdivisions (1) and (3) and adding Subdivision (2-a) to  
+| read as follows:  
+|  (1) _"Dentist,"_ " _health_ [ ~~Health~~ ] professional _,_ " and  
+| "physician" have the meanings assigned by Section 1455.001,  
+| Insurance Code.  
+|  _(2-a)_ _____"Teledentistry dental service" means a health_  
+| _care service delivered by a dentist, or a health professional_  
+| _acting under the delegation and supervision of a dentist, acting_  
+| _within the scope of the dentist's or health professional's license_  
+| _or certification to a patient at a different physical location than_  
+| _the dentist or health professional using telecommunications or_  
+| _information technology._  
+|  (3) "Telehealth service" means a health service, other  
+| than a telemedicine medical service _or a teledentistry dental_  
+| _service_ , delivered by a health professional licensed, certified, or  
+| otherwise entitled to practice in this state and acting within the  
+| scope of the health professional's license, certification, or  
+| entitlement to a patient at a different physical location than the  
+| health professional using telecommunications or information  
+| technology.  
+|  SECTION 3. Section 111.002, Occupations Code, is amended to  
+| read as follows:  
+|  Sec. 111.002. INFORMED CONSENT. A treating physician _,_  
+| _dentist,_ or health professional who provides or facilitates the use  
+| of telemedicine medical services _, teledentistry dental services,_  
+| or telehealth services shall ensure that the informed consent of  
+| the patient, or another appropriate individual authorized to make  
+| health care treatment decisions for the patient, is obtained before  
+| telemedicine medical services _, teledentistry dental services,_ or  
+| telehealth services are provided.  
+|  SECTION 4. Section 111.003, Occupations Code, is amended to  
+| read as follows:  
+|  Sec. 111.003. CONFIDENTIALITY. A treating physician _,_  
+| _dentist,_ or health professional who provides or facilitates the use  
+| of telemedicine medical services _, teledentistry dental services,_  
+| or telehealth services shall ensure that the confidentiality of the  
+| patient's _clinical_ [ ~~medical~~ ] information is maintained as required  
+| by Chapter 159 _, by Subchapter C, Chapter 258,_ or _by_ other applicable  
+| law.  
+|  SECTION 5. Section 111.004, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 111.004. RULES. _(a)_ The Texas Medical Board, in  
+| consultation with the commissioner of insurance, as appropriate,  
+| may adopt rules necessary to:  
+|  (1) ensure that patients using telemedicine medical  
+| services receive appropriate, quality care;  
+|  (2) prevent abuse and fraud in the use of telemedicine  
+| medical services, including rules relating to the filing of claims  
+| and records required to be maintained in connection with  
+| telemedicine medical services;  
+|  (3) ensure adequate supervision of health  
+| professionals who are not physicians and who provide telemedicine  
+| medical services; and  
+|  (4) establish the maximum number of health  
+| professionals who are not physicians that a physician may supervise  
+| through a telemedicine medical service.  
+|  _(b)_ _____The State Board of Dental Examiners, in consultation_  
+| _with the commissioner of insurance, as appropriate, may adopt rules_  
+| _necessary to:_  
+|  _(1)_ _____ensure that patients using teledentistry dental_  
+| _services receive appropriate, quality care;_  
+|  _(2)_ _____prevent abuse and fraud in the use of_  
+| _teledentistry dental services, including rules relating to the_  
+| _filing of claims and records required to be maintained in_  
+| _connection with teledentistry dental services;_  
+|  _(3)_ _____ensure adequate supervision of health_  
+| _professionals who are not dentists and who provide teledentistry_  
+| _dental services; and_  
+|  _(4)_ _____establish the maximum number of health_  
+| _professionals who are not dentists that a dentist may supervise_  
+| _through a teledentistry dental service._  
+|  SECTION 6. The heading to Section 111.005, Occupations  
+| Code, is amended to read as follows:  
+|  Sec. 111.005. PRACTITIONER-PATIENT RELATIONSHIP FOR  
+| TELEMEDICINE MEDICAL SERVICES _OR TELEDENTISTRY DENTAL SERVICES_.  
+|  SECTION 7. Sections 111.005(a) and (b), Occupations Code,  
+| are amended to read as follows:  
+|  (a) For purposes of Section 562.056, a valid  
+| practitioner-patient relationship is present between a  
+| practitioner providing a telemedicine medical service _or a_  
+| _teledentistry dental service_ and a patient receiving the  
+| [ ~~telemedicine medical~~ ] service as long as the practitioner complies  
+| with the standard of care described in Section 111.007 and the  
+| practitioner:  
+|  (1) has a preexisting practitioner-patient  
+| relationship with the patient established in accordance with rules  
+| adopted under Section 111.006;  
+|  (2) communicates, regardless of the method of  
+| communication, with the patient pursuant to a call coverage  
+| agreement established in accordance with _:_  
+|  _(A)_ Texas Medical Board rules with a physician  
+| requesting coverage of medical care for the patient; or  
+|  _(B)_ _____State Board of Dental Examiners rules with a_  
+| _dentist requesting coverage of dental care for the patient; or_  
+|  (3) provides the telemedicine medical services _or_  
+| _teledentistry dental services_ through the use of one of the  
+| following methods, as long as the practitioner complies with the  
+| follow-up requirements in Subsection (b), and the method allows the  
+| practitioner to have access to, and the practitioner uses, the  
+| relevant clinical information that would be required in accordance  
+| with the standard of care described in Section 111.007:  
+|  (A) synchronous audiovisual interaction between  
+| the practitioner and the patient in another location;  
+|  (B) asynchronous store and forward technology,  
+| including asynchronous store and forward technology in conjunction  
+| with synchronous audio interaction between the practitioner and the  
+| patient in another location, as long as the practitioner uses  
+| clinical information from:  
+|  (i) clinically relevant photographic or  
+| video images, including diagnostic images; or  
+|  (ii) the patient's relevant _clinical_  
+| [ ~~medical~~ ] records, such as the relevant medical _or dental_ history,  
+| laboratory and pathology results, and prescriptive histories; or  
+|  (C) another form of audiovisual  
+| telecommunication technology that allows the practitioner to  
+| comply with the standard of care described in Section 111.007.  
+|  (b) A practitioner who provides telemedicine medical  
+| services _or teledentistry dental services_ to a patient as described  
+| in Subsection (a)(3) shall:  
+|  (1) provide the patient with guidance on appropriate  
+| follow-up care; and  
+|  (2) if the patient consents and the patient has a  
+| primary care physician _or a regular dentist_ , provide to the  
+| patient's primary care physician _or regular dentist, as_  
+| _appropriate,_ within 72 hours after the practitioner provides the  
+| services to the patient _,_ a _clinical_ [ ~~medical~~ ] record or other  
+| report containing an explanation of the treatment provided by the  
+| practitioner to the patient and the practitioner's evaluation,  
+| analysis, or diagnosis, as appropriate, of the patient's condition.  
+|  SECTION 8. Section 111.006, Occupations Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____The State Board of Dental Examiners and the Texas State_  
+| _Board of Pharmacy shall jointly adopt rules that establish the_  
+| _determination of a valid prescription in accordance with Section_  
+| _111.005, as that section applies to teledentistry dental services._  
+| _Rules adopted under this subsection must allow for the_  
+| _establishment of a practitioner-patient relationship by a_  
+| _teledentistry dental service provided by a practitioner to a_  
+| _patient in a manner that complies with Section 111.005(a)(3). The_  
+| _State Board of Dental Examiners and the Texas State Board of_  
+| _Pharmacy shall jointly develop and publish on each respective_  
+| _board's Internet website responses to frequently asked questions_  
+| _relating to the determination of a valid prescription issued in the_  
+| _course of the provision of teledentistry dental services._  
+|  SECTION 9. Section 111.007, Occupations Code, is amended to  
+| read as follows:  
+|  Sec. 111.007. STANDARD OF CARE FOR TELEMEDICINE MEDICAL  
+| SERVICES _, TELEDENTISTRY DENTAL SERVICES,_ AND TELEHEALTH SERVICES.  
+| (a) A health professional providing a health care service or  
+| procedure as a telemedicine medical service _, a teledentistry dental_  
+| _service,_ or a telehealth service is subject to the standard of care  
+| that would apply to the provision of the same health care service or  
+| procedure in an in-person setting.  
+|  (b) An agency with regulatory authority over a health  
+| professional may not adopt rules pertaining to telemedicine medical  
+| services _, teledentistry dental services,_ or telehealth services  
+| that would impose a higher standard of care than the standard  
+| described in Subsection (a).  
+|  SECTION 10. Chapter 111, Occupations Code, is amended by  
+| adding Section 111.009 to read as follows:  
+|  _Sec._ ___111.009._ _____CERTAIN PRESCRIPTIONS PROHIBITED. (a) In_  
+| _this section, "controlled substance" and "prescribe" have the_  
+| _meanings assigned by Section 481.002, Health and Safety Code._  
+|  _(b)_ _____A dentist may not prescribe a controlled substance to a_  
+| _patient as a teledentistry dental service._  
+|  SECTION 11. Section 251.003, Occupations Code, is amended  
+| by adding Subsection (d) to read as follows:  
+|  _(d)_ _____For purposes of this subtitle, a person located in_  
+| _another state practices dentistry in this state if the person_  
+| _through the use of any medium, including an electronic medium,_  
+| _performs an act that constitutes the practice of dentistry on a_  
+| _patient in this state._  
+|  SECTION 12. Chapter 254, Occupations Code, is amended by  
+| adding Section 254.0035 to read as follows:  
+|  _Sec._ ___254.0035._ _____RULES REGARDING CALL COVERAGE AGREEMENTS._  
+| _The board shall adopt rules governing a call coverage agreement_  
+| _between dentists._  
+|  SECTION 13. Section 258.001, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 258.001. IMPERMISSIBLE DELEGATIONS. A dentist may not  
+| delegate:  
+|  (1) an act to an individual who, by board order, is  
+| prohibited from performing the act;  
+|  (2) any of the following acts to a person not licensed  
+| as a dentist or dental hygienist:  
+|  (A) the removal of calculus, deposits, or  
+| accretions from the natural and restored surfaces of exposed human  
+| teeth and restorations in the human mouth;  
+|  (B) root planing or the smoothing and polishing  
+| of roughened root surfaces or exposed human teeth; or  
+|  (C) any other act the delegation of which is  
+| prohibited by board rule;  
+|  (3) any of the following acts to a person not licensed  
+| as a dentist:  
+|  (A) comprehensive examination or diagnosis and  
+| treatment planning;  
+|  (B) a surgical or cutting procedure on hard or  
+| soft tissue;  
+|  (C) the prescription of a drug, medication, or  
+| work authorization;  
+|  (D) the taking of an impression for a final  
+| restoration, appliance, or prosthesis;  
+|  (E) the making of an intraoral occlusal  
+| adjustment;  
+|  (F) direct pulp capping, pulpotomy, or any other  
+| endodontic procedure;  
+|  (G) the final placement and intraoral adjustment  
+| of a fixed or removable appliance; or  
+|  (H) the placement of any final restoration; or  
+|  (4) the authority to an individual to administer a  
+| local anesthetic agent, inhalation sedative agent, parenteral  
+| sedative agent, or general anesthetic agent _, including the_  
+| _authority to administer an anesthetic or sedative agent as a_  
+| _teledentistry dental service as that term is defined by Section_  
+| _111.001,_ if the individual is not licensed as:  
+|  (A) a dentist with a permit issued by the board  
+| for the procedure being performed, if a permit is required;  
+|  (B) a certified registered nurse anesthetist  
+| licensed by the Texas Board of Nursing, only if the delegating  
+| dentist holds a permit issued by the board for the procedure being  
+| performed, if a permit is required; or  
+|  (C) a physician anesthesiologist licensed by the  
+| Texas Medical Board.  
+|  SECTION 14. Subchapter A, Chapter 258, Occupations Code, is  
+| amended by adding Section 258.004 to read as follows:  
+|  _Sec._ ___258.004._ _____COLLABORATIVE PRACTICE WITH DENTAL_  
+| _HYGIENIST._ ___(a)_ ___In this section, "collaborative practice_  
+| _agreement" means a written practice agreement and protocols for the_  
+| _practice of dental hygiene._  
+|  _(b)_ _____A dental hygienist may practice dental hygiene under a_  
+| _collaborative practice agreement with a dentist if the dental_  
+| _hygienist has been engaged in the practice of dental hygiene for at_  
+| _least one year with a minimum of 2,000 practice hours._  
+|  _(c)_ _____A dental hygienist may enter into a collaborative_  
+| _practice agreement to practice dental hygiene in any setting_  
+| _authorized by law for the practice of dental hygiene._  
+|  _(d)_ _____A collaborative practice agreement must include_  
+| _protocols:_  
+|  _(1) describing the practice of dental hygiene for:_  
+|  _(A) medically compromised patients;_  
+|  _(B) specific medical conditions;_  
+|  _(C) patients with needs related to age; and_  
+|  _(D) patients with complex medical histories;_  
+|  _(2)_ _____prescribing standards for specific dental hygiene_  
+| _procedures, including intervals for the performance of those_  
+| _procedures;_  
+|  _(3)_ _____prescribing intervals at which a supervising_  
+| _dentist must examine a patient;_  
+|  _(4)_ _____describing the services that the dental hygienist_  
+| _may provide, the procedures that the dental hygienist may perform,_  
+| _the practice settings in which the services may be provided and the_  
+| _procedures may be performed, and any limitations on the services_  
+| _and procedures;_  
+|  _(5)_ _____describing case selection criteria, assessment_  
+| _guidelines, and imaging frequency guidelines for patients by age_  
+| _and in relation to specific procedures;_  
+|  _(6)_ _____prescribing procedures for obtaining informed_  
+| _consent from patients and for creating and maintaining patient_  
+| _records;_  
+|  _(7)_ _____establishing a plan for the dentist to review_  
+| _patient records created and maintained by the dental hygienist;_  
+|  _(8)_ _____establishing a plan for the management of medical_  
+| _emergencies in each setting in which the dental hygienist_  
+| _practices;_  
+|  _(9)_ _____establishing a quality assurance plan for the_  
+| _dentist to monitor care provided by the dental hygienist, including_  
+| _review of patient care, referrals, and charts;_  
+|  _(10)_ _____describing the medications that may be_  
+| _administered and dispensed by the dental hygienist and the specific_  
+| _circumstances under which the medications may be administered and_  
+| _dispensed;_  
+|  _(11)_ _____describing any requirements for consultation_  
+| _with the dentist before providing care to patients with specific_  
+| _medical conditions or complex medical histories; and_  
+|  _(12)_ _____establishing a plan, which includes clinical_  
+| _resources and referrals, for situations in which a patient requires_  
+| _treatment that exceeds the capabilities or scope of practice of the_  
+| _dental hygienist._  
+|  _(e)_ _____A collaborative practice agreement may include_  
+| _provisions to allow the practice of dental hygiene without:_  
+|  _(1) prior examination of the patient by a dentist; and_  
+|  _(2) the presence of a supervising dentist._  
+|  _(f) A collaborative practice agreement must be:_  
+|  _(1)_ _____signed by the dentist, the dental hygienist, and,_  
+| _if applicable, a representative of the facility, program, or_  
+| _organization in which the practice of dental hygiene takes place;_  
+|  _(2)_ _____reviewed annually by the dentist and the dental_  
+| _hygienist who are parties to the collaborative practice agreement;_  
+| _and_  
+|  _(3)_ _____made available to the board and other interested_  
+| _parties on request._  
+|  _(g)_ _____Not more than two collaborative practice agreements_  
+| _between a dentist and a dental hygienist may be in effect at a time._  
+|  _(h)_ _____Notwithstanding any rule adopted under Section_  
+| _111.004(b)(4), a dentist may have a collaborative practice_  
+| _agreement with not more than six dental hygienists at the same time._  
+| _The board may grant an exception to the requirements of this_  
+| _subsection for the practice of dental hygiene in a public health_  
+| _setting._  
+|  _(i)_ _____Before providing any service authorized by a_  
+| _collaborative practice agreement, the dental hygienist must_  
+| _provide the patient with a written statement advising the patient_  
+| _that the dental hygiene services performed are not a substitute for_  
+| _examination by a dentist._  
+|  _(j)_ _____If a dental hygienist operating under a collaborative_  
+| _practice agreement makes a referral for further dental procedures,_  
+| _the dental hygienist must complete a referral form approved by the_  
+| _board and provide a copy of the form to the dentist who is a party to_  
+| _the collaborative practice agreement._  
+|  SECTION 15. Section 262.001, Occupations Code, is amended  
+| by adding Subdivision (3) to read as follows:  
+|  _(3)_ _____"Teledentistry dental service" has the meaning_  
+| _assigned by Section 111.001._  
+|  SECTION 16. Section 262.151(a), Occupations Code, is  
+| amended to read as follows:  
+|  (a) A licensed dentist may delegate orally or in writing a  
+| service, task, or procedure to a dental hygienist who is under the  
+| supervision and responsibility of the dentist, if:  
+|  (1) the dental hygienist is licensed to perform the  
+| service, task, or procedure;  
+|  (2) the supervising dentist _:_  
+|  _(A)_ examines the patient _, including an_  
+| _examination performed as a teledentistry dental service_ :  
+|  _(i)_ [ ~~(A)~~ ] at the time the service, task, or  
+| procedure is performed by the dental hygienist; or  
+|  _(ii)_ [ ~~(B)~~ ] during the 12 calendar months  
+| preceding the date of performance of the service, task, or  
+| procedure by the dental hygienist; _or_  
+|  _(B)_ _____enters into a collaborative practice_  
+| _agreement with the dental hygienist, as described by Section_  
+| _258.004, that includes a provision allowing the dental hygienist to_  
+| _practice dental hygiene without prior examination of the patient by_  
+| _the dentist;_ and  
+|  (3) the dental hygienist does not:  
+|  (A) diagnose a dental disease or ailment;  
+|  (B) prescribe a treatment or a regimen;  
+|  (C) prescribe _or_ [ ~~,~~ ] order[ ~~, or dispense~~ ]  
+| medication; [ ~~or~~ ]  
+|  (D) _except as authorized by the supervising_  
+| _dentist in a collaborative practice agreement described by Section_  
+| _258.004, administer or dispense medication; or_  
+|  _(E)_ perform any procedure that is irreversible or  
+| involves the intentional cutting of soft or hard tissue by any  
+| means.  
+|  SECTION 17. Sections 262.1515(a), (b), and (c), Occupations  
+| Code, are amended to read as follows:  
+|  (a) A licensed dentist may delegate a service, task, or  
+| procedure, pursuant to this section, to a dental hygienist, without  
+| complying with Section 262.151(a)(2) if:  
+|  (1) the dental hygienist has at least two years'  
+| experience in the practice of dental hygiene; and  
+|  (2) the service, task, or procedure is performed in  
+| one of the following locations:  
+|  (A) _a medical facility, including:_  
+|  _(i)_ _____a public health clinic conducted by a_  
+| _local health unit, health department, or public health district_  
+| _organized and recognized under Chapter 121, Health and Safety Code;_  
+|  _(ii)_ _____a general hospital or special_  
+| _hospital, as those terms are defined by Section 241.003, Health and_  
+| _Safety Code, including a hospital maintained or operated by this_  
+| _state;_  
+|  _(iii)_ a nursing facility as defined in  
+| Section 242.301, Health and Safety Code;  
+|  _(iv)_ _____an ambulatory surgical center licensed_  
+| _under Chapter 243, Health and Safety Code;_  
+|  _(v)_ _____a birthing center licensed under_  
+| _Chapter 244, Health and Safety Code;_  
+|  _(vi)_ _____a mental hospital licensed under_  
+| _Chapter 577, Health and Safety Code;_  
+|  _(vii)_ _____a community health center as defined_  
+| _by Section 136.002, Human Resources Code;_  
+|  _(viii)_ _____a mobile dental facility operating_  
+| _under a permit issued by the board; and_  
+|  _(ix) an outpatient clinic;_  
+|  (B) a _primary or secondary school_ [ ~~school-based~~  
+|  ~~health center established under Subchapter B, Chapter 38, Education~~  
+|  ~~Code~~ ]; [ ~~or~~ ]  
+|  (C) _a Head Start program facility;_  
+|  _(D)_ _____a secure correctional facility as defined by_  
+| _Section 1.07, Penal Code;_  
+|  _(E)_ _____the residence of a patient who is homebound_  
+| _or who is receiving or is eligible to receive:_  
+|  _(i)_ _____home and community-based waiver_  
+| _services under the Medicaid program;_  
+|  _(ii) hospice services; or_  
+|  _(iii) other home care services; or_  
+|  _(F) any other facility approved by board rule_ [ ~~a~~  
+|  ~~community health center as defined by Section 136.002, Human~~  
+|  ~~Resources Code~~ ].  
+|  (b) The patient _may_ [ ~~must~~ ] be referred _as needed_ to a  
+| licensed dentist after the completion of a service, task, or  
+| procedure performed under Subsection (a).  
+|  (c) A dental hygienist may [ ~~only~~ ] perform delegated tasks or  
+| procedures with respect to a patient for _not more than 12_ [ ~~six~~ ]  
+| months unless _:_  
+|  _(1)_ the patient has been examined by a dentist in  
+| compliance with Section _262.151(a)(2)(A);_  
+|  _(2)_ _____a dentist reviews the patient's dental records,_  
+| _including a review performed as a teledentistry dental service, and_  
+| _determines that the dental hygienist may continue to provide_  
+| _services to the patient; or_  
+|  _(3)_ _____a dentist otherwise provides teledentistry dental_  
+| _services to the patient and determines that the dental hygienist_  
+| _may continue to provide services to the patient_ [ ~~262.151(a)(2)~~ ].  
+|  SECTION 18. Section 562.056(c), Occupations Code, is  
+| amended to read as follows:  
+|  (c) For purposes of this section _and Section 562.112_ , a  
+| valid practitioner-patient relationship is present between a  
+| practitioner providing telemedicine medical services _or_  
+| _teledentistry dental services_ and the patient receiving the  
+| [ ~~telemedicine medical~~ ] services if the practitioner has complied  
+| with the requirements for establishing such a relationship in  
+| accordance with Section 111.005.  
+|  SECTION 19. Section 531.001, Government Code, is amended by  
+| adding Subdivision (6-a) to read as follows:  
+|  _(6-a)_ _____"Teledentistry dental service" has the meaning_  
+| _assigned by Section 111.001, Occupations Code._  
+|  SECTION 20. The heading to Section 531.0216, Government  
+| Code, is amended to read as follows:  
+|  Sec. 531.0216. PARTICIPATION AND REIMBURSEMENT OF  
+| TELEMEDICINE MEDICAL SERVICE PROVIDERS _, TELEDENTISTRY DENTAL_  
+| _SERVICE PROVIDERS,_ AND TELEHEALTH SERVICE PROVIDERS UNDER  
+| MEDICAID.  
+|  SECTION 21. Sections 531.0216(a), (b), (c), (d), (e), and  
+| (f), Government Code, are amended to read as follows:  
+|  (a) The executive commissioner by rule shall develop and  
+| implement a system to reimburse providers of services under  
+| Medicaid for services performed using telemedicine medical  
+| services _, teledentistry dental services,_ or telehealth services.  
+|  (b) In developing the system, the executive commissioner by  
+| rule shall:  
+|  (1) review programs and pilot projects in other states  
+| to determine the most effective method for reimbursement;  
+|  (2) establish billing codes and a fee schedule for  
+| services;  
+|  (3) consult with the Department of State Health  
+| Services to establish procedures to:  
+|  (A) identify clinical evidence supporting  
+| delivery of health care services using a telecommunications system;  
+| and  
+|  (B) annually review health care services,  
+| considering new clinical findings, to determine whether  
+| reimbursement for particular services should be denied or  
+| authorized;  
+|  (4) establish a separate provider identifier for  
+| telemedicine medical services providers, _teledentistry dental_  
+| _services providers,_ telehealth services providers, and home  
+| telemonitoring services providers; and  
+|  (5) establish a separate modifier for telemedicine  
+| medical services, _teledentistry dental services,_ telehealth  
+| services, and home telemonitoring services eligible for  
+| reimbursement.  
+|  (c) The commission shall encourage health care providers  
+| and health care facilities to participate as telemedicine medical  
+| service providers _, teledentistry dental service providers,_ or  
+| telehealth service providers in the health care delivery system.  
+| The commission may not require that a service be provided to a  
+| patient through telemedicine medical services _, teledentistry_  
+| _dental services,_ or telehealth services when the service can  
+| reasonably be provided by a physician _ or a dentist, if appropriate,_  
+| through a face-to-face consultation with the patient in the  
+| community in which the patient resides or works. This subsection  
+| does not prohibit the authorization of the provision of any service  
+| to a patient through telemedicine medical services _, teledentistry_  
+| _dental services,_ or telehealth services at the patient's request.  
+|  (d) Subject to _Sections 111.004 and_ [ ~~Section~~ ] 153.004,  
+| Occupations Code, the executive commissioner may adopt rules as  
+| necessary to implement this section. In the rules adopted under  
+| this section, the executive commissioner shall:  
+|  (1) refer to the site where the patient is physically  
+| located as the patient site; and  
+|  (2) refer to the site where the physician _, dentist,_ or  
+| health professional providing the telemedicine medical service _,_  
+| _teledentistry dental service,_ or telehealth service is physically  
+| located as the distant site.  
+|  (e) The commission may not reimburse a health care facility  
+| for telemedicine medical services _, teledentistry dental services,_  
+| or telehealth services provided to a Medicaid recipient unless the  
+| facility complies with the minimum standards adopted under Section  
+| 531.02161.  
+|  (f) Not later than December 1 of each even-numbered year,  
+| the commission shall report to the speaker of the house of  
+| representatives and the lieutenant governor on the effects of  
+| telemedicine medical services, _teledentistry dental services,_  
+| telehealth services, and home telemonitoring services on Medicaid  
+| in the state, including the number of physicians, _dentists,_ health  
+| professionals, and licensed health care facilities using  
+| telemedicine medical services, _teledentistry dental services,_  
+| telehealth services, or home telemonitoring services, the  
+| geographic and demographic disposition of the physicians _,_  
+| _dentists,_ and health professionals, the number of patients  
+| receiving telemedicine medical services, _teledentistry dental_  
+| _services,_ telehealth services, and home telemonitoring services,  
+| the types of services being provided, and the cost of utilization of  
+| telemedicine medical services, _teledentistry dental services,_  
+| telehealth services, and home telemonitoring services to Medicaid.  
+|  SECTION 22. The heading to Section 531.02161, Government  
+| Code, is amended to read as follows:  
+|  Sec. 531.02161. TELEMEDICINE, _TELEDENTISTRY,_ TELEHEALTH,  
+| AND HOME TELEMONITORING TECHNOLOGY STANDARDS.  
+|  SECTION 23. Section 531.02161(b), Government Code, is  
+| amended to read as follows:  
+|  (b) The executive commissioner by rule shall establish and  
+| adopt minimum standards for an operating system used in the  
+| provision of telemedicine medical services, _teledentistry dental_  
+| _services,_ telehealth services, or home telemonitoring services by a  
+| health care facility participating in Medicaid, including  
+| standards for electronic transmission, software, and hardware.  
+|  SECTION 24. The heading to Section 531.02162, Government  
+| Code, is amended to read as follows:  
+|  Sec. 531.02162. MEDICAID SERVICES PROVIDED THROUGH  
+| TELEMEDICINE MEDICAL SERVICES _, TELEDENTISTRY DENTAL SERVICES,_ AND  
+| TELEHEALTH SERVICES TO CHILDREN WITH SPECIAL HEALTH CARE NEEDS.  
+|  SECTION 25. Sections 531.02162(b) and (c), Government Code,  
+| are amended to read as follows:  
+|  (b) The executive commissioner by rule shall establish  
+| policies that permit reimbursement under Medicaid and the child  
+| health plan program for services provided through telemedicine  
+| medical services _, teledentistry dental services,_ and telehealth  
+| services to children with special health care needs.  
+|  (c) The policies required under this section must:  
+|  (1) be designed to:  
+|  (A) prevent unnecessary travel and encourage  
+| efficient use of telemedicine medical services _, teledentistry_  
+| _dental services,_ and telehealth services for children with special  
+| health care needs in all suitable circumstances; and  
+|  (B) ensure in a cost-effective manner the  
+| availability to a child with special health care needs of services  
+| appropriately performed using telemedicine medical services _,_  
+| _teledentistry dental services,_ and telehealth services that are  
+| comparable to the same types of services available to that child  
+| without the use of telemedicine medical services _, teledentistry_  
+| _dental services,_ and telehealth services; and  
+|  (2) provide for reimbursement of multiple providers of  
+| different services who participate in a single _session of_  
+| telemedicine medical services _, teledentistry dental services,_  
+| [ ~~and~~ ] telehealth services _, or any combination of those services,_  
+| [ ~~session~~ ] for a child with special health care needs, if the  
+| commission determines that reimbursing each provider for the  
+| session is cost-effective in comparison to the costs that would be  
+| involved in obtaining the services from providers without the use  
+| of telemedicine medical services _, teledentistry dental services,_  
+| and telehealth services, including the costs of transportation and  
+| lodging and other direct costs.  
+|  SECTION 26. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.02172 to read as follows:  
+|  _Sec._ ___531.02172._ _____REIMBURSEMENT FOR TELEDENTISTRY DENTAL_  
+| _SERVICES._ ___The commission by rule shall require each health and_  
+| _human services agency that administers a part of the Medicaid_  
+| _program to provide Medicaid reimbursement for teledentistry dental_  
+| _services provided by a dentist licensed to practice dentistry in_  
+| _this state or a dental hygienist licensed to practice dental_  
+| _hygiene in this state. The commission shall require reimbursement_  
+| _for a teledentistry dental service at the same rate as the Medicaid_  
+| _program reimburses for a comparable in-person dental service. A_  
+| _request for reimbursement may not be denied solely because an_  
+| _in-person dental service between a dentist and a patient did not_  
+| _occur._  
+|  SECTION 27. The heading to Section 62.157, Health and  
+| Safety Code, is amended to read as follows:  
+|  Sec. 62.157. TELEMEDICINE MEDICAL SERVICES _, TELEDENTISTRY_  
+| _DENTAL SERVICES,_ AND TELEHEALTH SERVICES FOR CHILDREN WITH SPECIAL  
+| HEALTH CARE NEEDS.  
+|  SECTION 28. Sections 62.157(a) and (b), Health and Safety  
+| Code, are amended to read as follows:  
+|  (a) In providing covered benefits to a child with special  
+| health care needs, a health plan provider must permit benefits to be  
+| provided through telemedicine medical services _, teledentistry_  
+| _dental services,_ and telehealth services in accordance with  
+| policies developed by the commission.  
+|  (b) The policies must provide for:  
+|  (1) the availability of covered benefits  
+| appropriately provided through telemedicine medical services _,_  
+| _teledentistry dental services,_ and telehealth services that are  
+| comparable to the same types of covered benefits provided without  
+| the use of telemedicine medical services _, teledentistry dental_  
+| _services,_ and telehealth services; and  
+|  (2) the availability of covered benefits for different  
+| services performed by multiple health care providers during a  
+| single [ ~~telemedicine medical services and telehealth services~~ ]  
+| session _of telemedicine medical services, teledentistry dental_  
+| _services, telehealth services, or any combination of those_  
+| _services_ , if the executive commissioner determines that delivery of  
+| the covered benefits in that manner is cost-effective in comparison  
+| to the costs that would be involved in obtaining the services from  
+| providers without the use of telemedicine medical services _,_  
+| _teledentistry dental services,_ and telehealth services, including  
+| the costs of transportation and lodging and other direct costs.  
+|  SECTION 29. Section 62.1571, Health and Safety Code, is  
+| amended to read as follows:  
+|  Sec. 62.1571. TELEMEDICINE MEDICAL SERVICES _AND_  
+| _TELEDENTISTRY DENTAL SERVICES_.  (a)  In providing covered benefits  
+| to a child, a health plan provider must permit benefits to be  
+| provided through telemedicine medical services _and teledentistry_  
+| _dental services_ in accordance with policies developed by the  
+| commission.  
+|  (b) The policies must provide for:  
+|  (1) the availability of covered benefits  
+| appropriately provided through telemedicine medical services _and_  
+| _teledentistry dental services_ that are comparable to the same types  
+| of covered benefits provided without the use of telemedicine  
+| medical services _and teledentistry dental services_ ; and  
+|  (2) the availability of covered benefits for different  
+| services performed by multiple health care providers during a  
+| single session of telemedicine medical services _, teledentistry_  
+| _dental services, or both services_ , if the executive commissioner  
+| determines that delivery of the covered benefits in that manner is  
+| cost-effective in comparison to the costs that would be involved in  
+| obtaining the services from providers without the use of  
+| telemedicine medical services _or teledentistry dental services_ ,  
+| including the costs of transportation and lodging and other direct  
+| costs.  
+|  _(c)_ [ ~~(d)~~ ] In this section, _"teledentistry dental service"_  
+| _and_ "telemedicine medical service" _have_ [ ~~has~~ ] the _meanings_  
+| [ ~~meaning~~ ] assigned by Section 531.001, Government Code.  
+|  SECTION 30. Section 32.024, Human Resources Code, is  
+| amended by adding Subsection (ll) to read as follows:  
+|  _(ll)_ _____The executive commissioner shall establish a separate_  
+| _provider type for dental hygienists for purposes of enrollment as a_  
+| _provider of and reimbursement under the medical assistance program._  
+|  SECTION 31. Section 843.002(24), Insurance Code, is amended  
+| to read as follows:  
+|  (24) "Provider" means:  
+|  (A) a person, other than a physician, who is  
+| licensed or otherwise authorized to provide a health care service  
+| in this state, including:  
+|  (i) a chiropractor, registered nurse,  
+| pharmacist, optometrist, [ ~~or~~ ] acupuncturist _, or dental hygienist_ ;  
+| or  
+|  (ii) a pharmacy, hospital, or other  
+| institution or organization;  
+|  (B) a person who is wholly owned or controlled by  
+| a provider or by a group of providers who are licensed or otherwise  
+| authorized to provide the same health care service; or  
+|  (C) a person who is wholly owned or controlled by  
+| one or more hospitals and physicians, including a  
+| physician-hospital organization.  
+|  SECTION 32. Section 1301.001(1-a), Insurance Code, is  
+| amended to read as follows:  
+|  (1-a) "Health care provider" means a practitioner,  
+| institutional provider, or other person or organization that  
+| furnishes health care services and that is licensed or otherwise  
+| authorized to practice in this state. [ ~~The term includes a~~  
+|  ~~pharmacist and a pharmacy.~~ ] The term does not include a physician.  
+| _The term includes:_  
+|  _(A) a pharmacist;_  
+|  _(B) a pharmacy; and_  
+|  _(C) a dental hygienist._  
+|  SECTION 33. Section 1451.101, Insurance Code, is amended by  
+| amending Subdivision (1) and adding Subdivision (1-a) to read as  
+| follows:  
+|  (1) _"Dental hygienist" has the meaning assigned by_  
+| _Section 256.051, Occupations Code._  
+|  _(1-a)_ "Health insurance policy" means a policy,  
+| contract, or agreement described by Section 1451.102.  
+|  SECTION 34. Subchapter C, Chapter 1451, Insurance Code, is  
+| amended by adding Section 1451.128 to read as follows:  
+|  _Sec._ ___1451.128._ _____SELECTION OF DENTAL HYGIENIST. An insured_  
+| _may select a dental hygienist to provide the services scheduled in_  
+| _the health insurance policy that are within the scope of the dental_  
+| _hygienist's license._  
+|  SECTION 35. The heading to Chapter 1455, Insurance Code, is  
+| amended to read as follows:  
+| CHAPTER 1455. TELEMEDICINE _, TELEDENTISTRY,_ AND TELEHEALTH  
+|  SECTION 36. Section 1455.001, Insurance Code, is amended by  
+| amending Subdivisions (1) and (3) and adding Subdivision (1-a) to  
+| read as follows:  
+|  (1) _"Dentist" means a person licensed to practice_  
+| _dentistry in this state under Subtitle D, Title 3, Occupations_  
+| _Code._  
+|  _(1-a)_ "Health professional" means:  
+|  (A) a physician;  
+|  (B) an individual who is:  
+|  (i) licensed or certified in this state to  
+| perform health care services; and  
+|  (ii) authorized to assist _:_  
+|  _(a)_ a physician in providing  
+| telemedicine medical services that are delegated and supervised by  
+| the physician; or  
+|  _(b)_ _____a dentist in providing_  
+| _teledentistry dental services that are delegated and supervised by_  
+| _the dentist;_  
+|  (C) a licensed or certified health professional  
+| acting within the scope of the license or certification who does not  
+| perform a telemedicine medical service _; or_  
+|  _(D) a dentist_.  
+|  (3) _"Teledentistry dental service," "telehealth_  
+| [ ~~"Telehealth~~ ] service _,_ " and "telemedicine medical service" have  
+| the meanings assigned by Section 111.001, Occupations Code.  
+|  SECTION 37. Section 1455.004, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1455.004. COVERAGE FOR TELEMEDICINE MEDICAL SERVICES _,_  
+| _TELEDENTISTRY DENTAL SERVICES,_ AND TELEHEALTH SERVICES. (a) A  
+| health benefit plan may not exclude from coverage a covered health  
+| care service or procedure delivered by a preferred or contracted  
+| health professional to a covered patient as a telemedicine medical  
+| service _, a teledentistry dental service,_ or a telehealth service  
+| solely because the covered health care service or procedure is not  
+| provided through an in-person consultation.  
+|  (b) A health benefit plan may require a deductible, a  
+| copayment, or coinsurance for a covered health care service or  
+| procedure delivered by a preferred or contracted health  
+| professional to a covered patient as a telemedicine medical  
+| service _, a teledentistry dental service,_ or a telehealth service.  
+| The amount of the deductible, copayment, or coinsurance may not  
+| exceed the amount of the deductible, copayment, or coinsurance  
+| required for the covered health care service or procedure provided  
+| through an in-person consultation.  
+|  (c) Notwithstanding Subsection (a), a health benefit plan  
+| is not required to provide coverage for a telemedicine medical  
+| service _, a teledentistry dental service,_ or a telehealth service  
+| provided by only synchronous or asynchronous audio interaction,  
+| including:  
+|  (1) an audio-only telephone consultation;  
+|  (2) a text-only e-mail message; or  
+|  (3) a facsimile transmission.  
+|  SECTION 38. Section 1455.006, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1455.006. TELEMEDICINE MEDICAL SERVICES _,_  
+| _TELEDENTISTRY DENTAL SERVICES,_ AND TELEHEALTH SERVICES STATEMENT.  
+| (a) Each issuer of a health benefit plan shall adopt and display in  
+| a conspicuous manner on the health benefit plan issuer's Internet  
+| website the issuer's policies and payment practices for  
+| telemedicine medical services _, teledentistry dental services,_ and  
+| telehealth services.  
+|  (b) This section does not require an issuer of a health  
+| benefit plan to display negotiated contract payment rates for  
+| health professionals who contract with the issuer to provide  
+| telemedicine medical services _, teledentistry dental services,_ or  
+| telehealth services.  
+|  SECTION 39. (a) Not later than March 1, 2020, the State  
+| Board of Dental Examiners and the Texas State Board of Pharmacy  
+| shall jointly adopt rules as required by Section 111.006(c),  
+| Occupations Code, as added by this Act.  
+|  (b) Not later than March 1, 2020, the State Board of Dental  
+| Examiners shall adopt:  
+|  (1) rules necessary to implement Chapter 111,  
+| Occupations Code, as amended by this Act;  
+|  (2) rules as required by Section 254.0035, Occupations  
+| Code, as added by this Act; and  
+|  (3) rules necessary to implement Section 258.004,  
+| Occupations Code, as added by this Act.  
+|  SECTION 40. As soon as practicable after the effective date  
+| of this Act, the Health and Human Services Commission shall  
+| establish and implement a separate provider type for dental  
+| hygienists as required by Section 32.024(ll), Human Resources Code,  
+| as added by this Act.  
+|  SECTION 41. If before implementing any provision of this  
+| Act a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 42. (a) Except as provided by Subsection (b) of  
+| this section, this Act takes effect September 1, 2019.  
+|  (b) Sections 1455.004 and 1455.006, Insurance Code, as  
+| amended by this Act, take effect January 1, 2020.
+

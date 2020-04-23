@@ -1,0 +1,293 @@
+| 86R10514 ATP-D  
+---|---  
+|  By: Klick | H.B. No. 2910  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the confidentiality of certain personal information of  
+| certain persons obtained for the purposes of voting.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1.005, Election Code, is amended by  
+| adding Subdivisions (4-a) and (18-a) to read as follows:  
+|  _(4-a) "Federal judge" means:_  
+|  _(A)_ _____a judge, former judge, or retired judge of a_  
+| _United States court of appeals;_  
+|  _(B)_ _____a judge, former judge, or retired judge of a_  
+| _United States district court;_  
+|  _(C)_ _____a judge, former judge, or retired judge of a_  
+| _United States bankruptcy court; or_  
+|  _(D)_ _____a magistrate judge, former magistrate judge,_  
+| _or retired magistrate judge of a United States district court._  
+|  _(18-a) "State judge" means:_  
+|  _(A)_ _____a judge, former judge, or retired judge of an_  
+| _appellate court, a district court, a constitutional county court, a_  
+| _county court at law, or a statutory probate court of this state;_  
+|  _(B)_ _____an associate judge appointed under Chapter_  
+| _201, Family Code, or a retired associate judge or former associate_  
+| _judge appointed under that chapter;_  
+|  _(C)_ _____a magistrate or associate judge appointed_  
+| _under Chapter 54 or 54A, Government Code;_  
+|  _(D) a justice of the peace; or_  
+|  _(E) a municipal court judge._  
+|  SECTION 2. Section 13.004, Election Code, is amended by  
+| amending Subsections (c) and (d) and adding Subsection (e) to read  
+| as follows:  
+|  (c) The following information furnished on a registration  
+| application is confidential and does not constitute public  
+| information for purposes of Chapter 552, Government Code:  
+|  (1) a social security number;  
+|  (2) a Texas driver's license number;  
+|  (3) a number of a personal identification card issued  
+| by the Department of Public Safety;  
+|  (4) an indication that an applicant is interested in  
+| working as an election judge;  
+|  (5) the residence address of the applicant, if the  
+| applicant is a federal judge or state judge[ ~~, as defined by Section~~  
+|  ~~13.0021~~ ], the spouse of a federal judge or state judge, or an  
+| individual to whom Section 552.1175, Government Code, _or Section_  
+| _521.1211, Transportation Code,_ applies and the applicant:  
+|  (A) included an affidavit with the registration  
+| application describing the applicant's status under this  
+| subdivision, [ ~~including an affidavit under Section 13.0021~~ ] if the  
+| applicant is a federal judge or state judge or the spouse of a  
+| federal judge or state judge;  
+|  (B) provided the registrar with an affidavit  
+| describing the applicant's status under this subdivision,  
+| [ ~~including an affidavit under Section 15.0215~~ ] if the applicant is  
+| a federal judge or state judge or the spouse of a federal judge or  
+| state judge; or  
+|  (C) provided the registrar with a completed form  
+| approved by the secretary of state for the purpose of notifying the  
+| registrar of the applicant's status under this subdivision;  
+|  (6) the residence address of the applicant, if the  
+| applicant, the applicant's child, or another person in the  
+| applicant's household is a victim of family violence as defined by  
+| Section 71.004, Family Code, who provided the registrar with:  
+|  (A) a copy of a protective order issued under  
+| Chapter 85, Family Code, or a magistrate's order for emergency  
+| protection issued under Article 17.292, Code of Criminal Procedure;  
+| or  
+|  (B) other independent documentary evidence  
+| necessary to show that the applicant, the applicant's child, or  
+| another person in the applicant's household is a victim of family  
+| violence;  
+|  (7) the residence address of the applicant, if the  
+| applicant, the applicant's child, or another person in the  
+| applicant's household is a victim of sexual assault or abuse,  
+| stalking, or trafficking of persons who provided the registrar  
+| with:  
+|  (A) a copy of a protective order issued under  
+| Chapter 7A or Article 6.09, Code of Criminal Procedure, or a  
+| magistrate's order for emergency protection issued under Article  
+| 17.292, Code of Criminal Procedure; or  
+|  (B) other independent documentary evidence  
+| necessary to show that the applicant, the applicant's child, or  
+| another person in the applicant's household is a victim of sexual  
+| assault or abuse, stalking, or trafficking of persons; [ ~~or~~ ]  
+|  (8) the residence address of the applicant, if the  
+| applicant:  
+|  (A) is a participant in the address  
+| confidentiality program administered by the attorney general under  
+| Subchapter C, Chapter 56, Code of Criminal Procedure; and  
+|  (B) provided the registrar with proof of  
+| certification under Article 56.84, Code of Criminal Procedure _; or_  
+|  _(9)_ _____the telephone number of any applicant submitting_  
+| _documentation under Subdivision (5), (6), (7), or (8)_.  
+|  (d) The voter registrar or other county official who has  
+| access to the information furnished on a registration application  
+| may not post the following information on a website:  
+|  (1) a telephone number;  
+|  (2) a social security number;  
+|  (3) a driver's license number or a number of a personal  
+| identification card;  
+|  (4) a date of birth; or  
+|  (5) the residence address of a voter who _submits_  
+| _documentation under Subsection (c)(5), (6), (7), or (8) to the_  
+| _voter registrar_ [ ~~is a federal judge or state judge, as defined by~~  
+|  ~~Section 13.0021, or the spouse of a federal judge or state judge, if~~  
+|  ~~the voter included an affidavit with the application under Section~~  
+|  ~~13.0021~~ ] or _regarding whom_ the registrar has received _notification_  
+| [ ~~an affidavit submitted~~ ] under Section 15.0215.  
+|  _(e)_ _____Documentation submitted under Subsection (c)(5), (6),_  
+| _(7), or (8) shall be retained on file with the voter registration_  
+| _application._  
+|  SECTION 3. Section 15.0215(b), Election Code, is amended to  
+| read as follows:  
+|  (b) On receiving notice from the Office of Court  
+| Administration of the Texas Judicial System of the person's  
+| qualification for office as a federal judge or state judge and of  
+| the name of the judge's spouse, if applicable, the registrar of the  
+| county in which the judge resides shall _:_  
+|  _(1)_ omit from the registration list the residence  
+| address of the judge and the spouse of the judge _; and_  
+|  _(2)_ _____prepare a memorandum of the notice, indicating the_  
+| _substance and date of the notification, and retain the memorandum_  
+| _on file with the application_.  
+|  SECTION 4. Section 15.081(d), Election Code, is amended to  
+| read as follows:  
+|  (d) Notwithstanding Subsection (b), the suspense list may  
+| not contain the residence address of a voter _whose residence_  
+| _address is confidential under Section 13.004_ [ ~~who is a federal~~  
+|  ~~judge, a state judge, or the spouse of a federal judge or state~~  
+|  ~~judge, if the voter included an affidavit with the voter's~~  
+|  ~~registration application under Section 13.0021 or the registrar~~  
+|  ~~received an affidavit submitted under Section 15.0215 before the~~  
+|  ~~list was prepared. In this subsection, "federal judge" and "state~~  
+|  ~~judge" have the meanings assigned by Section 13.0021~~ ].  
+|  SECTION 5. Section 18.005(c), Election Code, is amended to  
+| read as follows:  
+|  (c) The original or supplemental list of registered voters  
+| may not contain the residence address of a voter _whose residence_  
+| _address is confidential under Section 13.004_ [ ~~who is a federal~~  
+|  ~~judge, a state judge, or the spouse of a federal judge or state~~  
+|  ~~judge, if the voter included an affidavit with the voter's~~  
+|  ~~registration application under Section 13.0021 or the registrar~~  
+|  ~~received an affidavit submitted under Section 15.0215 before the~~  
+|  ~~list was prepared. In this subsection, "federal judge" and "state~~  
+|  ~~judge" have the meanings assigned by Section 13.0021~~ ].  
+|  SECTION 6. Section 18.066(b), Election Code, is amended to  
+| read as follows:  
+|  (b) Information furnished under this section may not  
+| include:  
+|  (1) a voter's social security number; or  
+|  (2) the residence address of a voter _whose residence_  
+| _address is confidential under Section 13.004_ [ ~~who is a federal~~  
+|  ~~judge or state judge, as defined by Section 13.0021, or the spouse~~  
+|  ~~of a federal judge or state judge, if the voter included an~~  
+|  ~~affidavit with the voter's registration application under Section~~  
+|  ~~13.0021 or the applicable registrar has received an affidavit~~  
+|  ~~submitted under Section 15.0215~~ ].  
+|  SECTION 7. Section 552.117(a), Government Code, as amended  
+| by Chapters 34 (S.B. 1576), 190 (S.B. 42), and 1006 (H.B. 1278),  
+| Acts of the 85th Legislature, Regular Session, 2017, is reenacted  
+| and amended to read as follows:  
+|  (a) Information is excepted from the requirements of  
+| Section 552.021 if it is information that relates to the home  
+| address, home telephone number, emergency contact information, or  
+| social security number of the following person or that reveals  
+| whether the person has family members:  
+|  (1) a current or former official or employee of a  
+| governmental body, except as otherwise provided by Section 552.024;  
+|  (2) a peace officer as defined by Article 2.12, Code of  
+| Criminal Procedure, or a security officer commissioned under  
+| Section 51.212, Education Code, regardless of whether the officer  
+| complies with Section 552.024 or 552.1175, as applicable;  
+|  (3) a current or former employee of the Texas  
+| Department of Criminal Justice or of the predecessor in function of  
+| the department or any division of the department, regardless of  
+| whether the current or former employee complies with Section  
+| 552.1175;  
+|  (4) a peace officer as defined by Article 2.12, Code of  
+| Criminal Procedure, or other law, a reserve law enforcement  
+| officer, a commissioned deputy game warden, or a corrections  
+| officer in a municipal, county, or state penal institution in this  
+| state who was killed in the line of duty, regardless of whether the  
+| deceased complied with Section 552.024 or 552.1175;  
+|  (5) a commissioned security officer as defined by  
+| Section 1702.002, Occupations Code, regardless of whether the  
+| officer complies with Section 552.024 or 552.1175, as applicable;  
+|  (6) an officer or employee of a community supervision  
+| and corrections department established under Chapter 76 who  
+| performs a duty described by Section 76.004(b), regardless of  
+| whether the officer or employee complies with Section 552.024 or  
+| 552.1175;  
+|  (7) a current or former employee of the office of the  
+| attorney general who is or was assigned to a division of that office  
+| the duties of which involve law enforcement, regardless of whether  
+| the current or former employee complies with Section 552.024 or  
+| 552.1175;  
+|  (8) a current or former employee of the Texas Juvenile  
+| Justice Department or of the predecessors in function of the  
+| department, regardless of whether the current or former employee  
+| complies with Section 552.024 or 552.1175;  
+|  (9) a current or former juvenile probation or  
+| supervision officer certified by the Texas Juvenile Justice  
+| Department, or the predecessors in function of the department,  
+| under Title 12, Human Resources Code, regardless of whether the  
+| current or former officer complies with Section 552.024 or  
+| 552.1175;  
+|  (10) a current or former employee of a juvenile  
+| justice program or facility, as those terms are defined by Section  
+| 261.405, Family Code, regardless of whether the current or former  
+| employee complies with Section 552.024 or 552.1175;  
+|  (11) a current or former member of the Texas military  
+| forces, as that term is defined by Section 437.001;  
+|  (12) a current or former district attorney, criminal  
+| district attorney, or county or municipal attorney whose  
+| jurisdiction includes any criminal law or child protective services  
+| matters, regardless of whether the current or former attorney  
+| complies with Section 552.024 or 552.1175; [ ~~or~~ ]  
+|  (13) a current or former employee of a district  
+| attorney, criminal district attorney, or county or municipal  
+| attorney whose jurisdiction includes any criminal law or child  
+| protective services matters, regardless of whether the current or  
+| former employee complies with Section 552.024 or 552.1175 _;_  
+|  _(14)_ [ ~~(12)~~ ] a current or former employee of the Texas  
+| Civil Commitment Office or of the predecessor in function of the  
+| office or a division of the office, regardless of whether the  
+| current or former employee complies with Section 552.024 or  
+| 552.1175 _; or_  
+|  _(15)_ [ ~~(12)~~ ] a current or former federal judge or state  
+| judge, as those terms are defined by Section _1.005_ [ ~~13.0021(a)~~ ],  
+| Election Code, or a spouse of a current or former federal judge or  
+| state judge[ ~~; or~~  
+|  [ ~~(13)~~ ~~~~ ~~~~ ~~a current or former district attorney, criminal~~  
+|  ~~district attorney, or county attorney whose jurisdiction includes~~  
+|  ~~any criminal law or child protective services matter~~ ].  
+|  SECTION 8. Section 552.1175(a), Government Code, is amended  
+| to read as follows:  
+|  (a) This section applies only to:  
+|  (1) peace officers as defined by Article 2.12, Code of  
+| Criminal Procedure _, or special investigators as described by_  
+| _Article 2.122, Code of Criminal Procedure_ ;  
+|  (2) county jailers as defined by Section 1701.001,  
+| Occupations Code;  
+|  (3) current or former employees of the Texas  
+| Department of Criminal Justice or of the predecessor in function of  
+| the department or any division of the department;  
+|  (4) commissioned security officers as defined by  
+| Section 1702.002, Occupations Code;  
+|  (5) a current or former district attorney, criminal  
+| district attorney, or county or municipal attorney whose  
+| jurisdiction includes any criminal law or child protective services  
+| matters;  
+|  (5-a) a current or former employee of a district  
+| attorney, criminal district attorney, or county or municipal  
+| attorney whose jurisdiction includes any criminal law or child  
+| protective services matters;  
+|  (6) officers and employees of a community supervision  
+| and corrections department established under Chapter 76 who perform  
+| a duty described by Section 76.004(b);  
+|  (7) criminal investigators of the United States as  
+| described by Article 2.122(a), Code of Criminal Procedure;  
+|  (8) police officers and inspectors of the United  
+| States Federal Protective Service;  
+|  (9) current and former employees of the office of the  
+| attorney general who are or were assigned to a division of that  
+| office the duties of which involve law enforcement;  
+|  (10) current or former juvenile probation and  
+| detention officers certified by the Texas Juvenile Justice  
+| Department, or the predecessors in function of the department,  
+| under Title 12, Human Resources Code;  
+|  (11) current or former employees of a juvenile justice  
+| program or facility, as those terms are defined by Section 261.405,  
+| Family Code;  
+|  (12) current or former employees of the Texas Juvenile  
+| Justice Department or the predecessors in function of the  
+| department;  
+|  (13) federal judges and state judges as defined by  
+| Section _1.005_ [ ~~13.0021~~ ], Election Code; and  
+|  (14) current or former employees of the Texas Civil  
+| Commitment Office or of the predecessor in function of the office or  
+| a division of the office.  
+|  SECTION 9. The change in law made by this Act to Section  
+| 552.1175, Government Code, applies only to a request for  
+| information that is received by a governmental body or an officer on  
+| or after the effective date of this Act. A request for information  
+| that was received before the effective date of this Act is governed  
+| by the law in effect on the date the request was received, and the  
+| former law is continued in effect for that purpose.  
+|  SECTION 10. Sections 13.0021(a) and 15.0215(a), Election  
+| Code, are repealed.  
+|  SECTION 11. This Act takes effect September 1, 2019.
+

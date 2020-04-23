@@ -1,0 +1,123 @@
+| 86R9886 LED-D  
+---|---  
+|  By: Krause | H.B. No. 3748  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the coordination of private health benefits with  
+| Medicaid benefits.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.038 to read as follows:  
+|  _Sec._ ___533.038._ _____COORDINATION OF BENEFITS. (a)_ ___In this_  
+| _section:_  
+|  _(1)_ _____"Medicaid managed care organization"_ ___means a_  
+| _managed care organization that contracts with the commission under_  
+| _this chapter to provide health care services to recipients._  
+|  _(2)_ _____"Medicaid wrap-around benefit" means a_  
+| _Medicaid-covered service, including a pharmacy or medical benefit,_  
+| _that is provided to a recipient with both Medicaid and primary_  
+| _health benefit plan coverage when the recipient has exceeded the_  
+| _primary health benefit plan coverage limit or when the service is_  
+| _not covered by the primary health benefit plan issuer._  
+|  _(b)_ _____The commission, in coordination with Medicaid managed_  
+| _care organizations, shall develop and adopt a clear policy for a_  
+| _Medicaid managed care organization to ensure the coordination and_  
+| _timely delivery of Medicaid wrap-around benefits for recipients_  
+| _with both primary health benefit plan coverage and Medicaid_  
+| _coverage._  
+|  _(c)_ _____To further assist with the coordination of benefits, the_  
+| _commission, in coordination with Medicaid managed care_  
+| _organizations, shall develop and maintain a list of services that_  
+| _are not traditionally covered by primary health benefit plan_  
+| _coverage that a Medicaid managed care organization may approve_  
+| _without having to coordinate with the primary health benefit plan_  
+| _issuer and that can be resolved through third-party liability_  
+| _resolution processes._ ___The commission shall review and update the_  
+| _list quarterly._  
+|  _(d)_ _____A Medicaid managed care organization that in good faith_  
+| _and following commission policies provides coverage for a Medicaid_  
+| _wrap-around benefit shall include the cost of providing the benefit_  
+| _in the organization's financial reports._ ___The commission shall_  
+| _include the reported costs in computing capitation rates for the_  
+| _managed care organization._  
+|  _(e)_ _____If the commission determines that a recipient's primary_  
+| _health benefit plan issuer should have been the primary payor of a_  
+| _claim, the Medicaid managed care organization that paid the claim_  
+| _shall work with the commission on the recovery process and make_  
+| _every attempt to reduce health care provider and recipient_  
+| _abrasion._  
+|  _(f)_ _____The executive commissioner may seek a waiver from the_  
+| _federal government as needed to:_  
+|  _(1)_ _____address federal policies related to coordination_  
+| _of benefits and third-party liability; and_  
+|  _(2)_ _____maximize federal financial participation for_  
+| _recipients with both primary health benefit plan coverage and_  
+| _Medicaid coverage._  
+|  _(g)_ _____Notwithstanding Sections 531.073 and 533.005(a)(23) or_  
+| _any other law, the commission shall ensure that a prescription drug_  
+| _that is covered under the Medicaid vendor drug program or other_  
+| _applicable formulary and is prescribed to a recipient with primary_  
+| _health benefit plan coverage is not subject to any prior_  
+| _authorization requirement if the primary health benefit plan issuer_  
+| _will pay at least $0.01 on the prescription drug claim._ ___If the_  
+| _primary insurer will pay nothing on a prescription drug claim, the_  
+| _prescription drug is subject to any applicable Medicaid clinical or_  
+| _nonpreferred prior authorization requirement._  
+|  _(h)_ _____The commission shall ensure that the daily Medicaid_  
+| _managed care eligibility files indicate whether a recipient has_  
+| _primary health benefit plan coverage or health insurance premium_  
+| _payment coverage._ ___For a recipient who has that coverage, the files_  
+| _must include the following up-to-date, accurate information_  
+| _related to primary health benefit plan coverage:_  
+|  _(1)_ _____the health benefit plan issuer's name and address_  
+| _and the recipient's policy number;_  
+|  _(2)_ _____the primary health benefit plan coverage start and_  
+| _end dates;_  
+|  _(3)_ _____the primary health benefit plan coverage benefits,_  
+| _limits, copayment, and coinsurance information; and_  
+|  _(4)_ _____any additional information that would be useful to_  
+| _ensure the coordination of benefits._  
+|  _(i)_ _____The commission shall develop and implement processes_  
+| _and policies to allow a health care provider who is primarily_  
+| _providing services to a recipient through primary health benefit_  
+| _plan coverage to receive Medicaid reimbursement for services_  
+| _ordered, referred, prescribed, or delivered, regardless of whether_  
+| _the provider is enrolled as a Medicaid provider._ ___The commission_  
+| _shall allow a provider who is not enrolled as a Medicaid provider to_  
+| _order, refer, prescribe, or deliver services to a recipient based_  
+| _on the provider's national provider identifier number and may not_  
+| _require an additional state provider identifier number to receive_  
+| _reimbursement for the services._ ___The commission may seek a waiver of_  
+| _Medicaid provider enrollment requirements for providers of_  
+| _recipients with primary health benefit plan coverage to implement_  
+| _this subsection._  
+|  _(j)_ _____The commission shall develop and implement a clear and_  
+| _easy process to allow a recipient with complex medical needs who has_  
+| _established a relationship with a specialty provider in an area_  
+| _outside of the recipient's Medicaid managed care organization's_  
+| _service delivery area to continue receiving care from that provider_  
+| _if the provider will enter into a single-case agreement with the_  
+| _Medicaid managed care organization._ ___A single-case agreement with a_  
+| _provider outside of the organization's service delivery area in_  
+| _accordance with this subsection is not considered an_  
+| _out-of-network agreement and must be included in the organization's_  
+| _network adequacy determination._  
+|  _(k)_ _____The commission shall develop and implement processes_  
+| _to:_  
+|  _(1)_ _____reimburse a recipient with primary health benefit_  
+| _plan coverage who pays a copayment or coinsurance amount out of_  
+| _pocket because the primary health benefit plan issuer refuses to_  
+| _enroll in Medicaid, enter into a single-case agreement, or bill the_  
+| _recipient's Medicaid managed care organization; and_  
+|  _(2)_ _____capture encounter data for the Medicaid_  
+| _wrap-around benefits provided by the Medicaid managed care_  
+| _organization under this subsection._  
+|  SECTION 2. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

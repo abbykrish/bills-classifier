@@ -1,0 +1,66 @@
+| 86R2653 JAM-F  
+---|---  
+|  By: Reynolds | H.B. No. 225  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the analysis of inspection and maintenance requirements  
+| for air quality permits issued by the Texas Commission on  
+| Environmental Quality for certain oil and gas facilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 382, Health and Safety  
+| Code, is amended by adding Section 382.051965 to read as follows:  
+|  _Sec._ ___382.051965._ _____ANALYSIS OF INSPECTION AND MAINTENANCE_  
+| _REQUIREMENTS FOR OIL AND GAS FACILITIES. (a) This section applies_  
+| _only to a rule or requirement:_  
+|  _(1)_ _____relating to a permit by rule or a standard permit_  
+| _for a facility described by Section 382.051961(a); and_  
+|  _(2) that:_  
+|  _(A)_ _____is a rule or requirement of the commission in_  
+| _effect on June 1, 2019; or_  
+|  _(B)_ _____is a proposed or approved federal rule or_  
+| _requirement that may be implemented before December 31, 2020._  
+|  _(b)_ _____The commission shall examine rules and requirements_  
+| _described by Subsection (a) governing:_  
+|  _(1)_ _____inspection and maintenance programs, including_  
+| _programs that use optical gas imaging, for the detection and repair_  
+| _of leaks from all valves, pump seals, flanges, compressor seals,_  
+| _pressure relief valves, open-ended lines, tanks, and other process_  
+| _and operation components of the facility that could result in_  
+| _fugitive emissions;_  
+|  _(2) the use of venting and flaring;_  
+|  _(3)_ _____emissions of volatile organic compounds from_  
+| _storage tanks that have the potential to emit more than one ton of_  
+| _volatile organic compounds per year;_  
+|  _(4)_ _____emissions of nitrogen oxides from compressor_  
+| _engines with more than 100 horsepower;_  
+|  _(5)_ _____maintenance requirements and best practices for_  
+| _compressor stations; and_  
+|  _(6)_ _____emissions from and maintenance of pneumatic_  
+| _devices and controllers between a wellhead and a natural gas_  
+| _processing plant._  
+|  _(c) The commission shall prepare a report that:_  
+|  _(1)_ _____addresses issues raised concerning the rules or_  
+| _requirements described by Subsection (b); and_  
+|  _(2)_ _____suggests options for improving safety, preventing_  
+| _air emissions from oil and gas equipment, including methane and_  
+| _other useful products, and reducing emissions from facilities_  
+| _described by Subsection (a)(1)._  
+|  _(d)_ _____In suggesting options for improvement for the purposes_  
+| _of Subsection (c)(2), the commission may consider both regulatory_  
+| _and incentive approaches, including approaches taken in other_  
+| _leading oil and gas producing states that would lead to_  
+| _improvements in air quality and public health._  
+|  _(e)_ _____The commission may cooperate with the Railroad_  
+| _Commission of Texas in developing the report and obtaining public_  
+| _comment under Subsection (f)._  
+|  _(f)_ _____Not later than January 1, 2020, the commission shall_  
+| _issue and make available for public comment a preliminary report._  
+| _The commission may hold meetings to consider public comment. After_  
+| _considering public comment, if any, but not later than June 1, 2020,_  
+| _the commission shall post on its Internet website the final report._  
+|  _(g)_ _____Nothing in this section prevents the commission from_  
+| _adopting rules on the issues contained in the study._  
+|  _(h) This section expires August 31, 2021._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

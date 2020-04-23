@@ -1,0 +1,184 @@
+| 86R13098 SOS-D  
+---|---  
+|  By: Reynolds | H.B. No. 3625  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the assignment of performance ratings under the public  
+| school accountability system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 39.054(a), (a-1), (a-2), and (b),  
+| Education Code, are amended to read as follows:  
+|  (a) The commissioner shall adopt rules to evaluate school  
+| district and campus performance and assign each district and campus  
+| an overall performance rating _and_ [ ~~of A, B, C, D, or F. In addition~~  
+|  ~~to the overall performance rating, the commissioner shall assign~~  
+|  ~~each district and campus~~ ] a separate domain performance rating [
+~~of~~  
+|  ~~A, B, C, D, or F~~ ] for each domain under Section 39.053(c)[ ~~. An~~  
+|  ~~overall or domain performance rating~~ ] of [ ~~A reflects~~ ] exemplary  
+| performance _,_ [ ~~. An overall or domain performance rating of B~~  
+|  ~~reflects~~ ] recognized performance _,_ [ ~~. An overall or domain~~  
+|  ~~performance rating of C reflects~~ ] acceptable performance _,_ [ ~~.
+An~~  
+|  ~~overall or domain performance rating of D reflects~~ ] performance  
+| that needs improvement _,_ [ ~~. An overall~~ ] or [ ~~domain performance
+rating~~  
+|  ~~of F reflects~~ ] unacceptable performance. A district may not receive  
+| an overall or domain performance rating of _exemplary performance_  
+| [ ~~A~~ ] if the district includes any campus with a corresponding  
+| overall or domain performance rating of _performance that needs_  
+| _improvement or unacceptable performance_ [ ~~D or F~~ ]. If a school  
+| district has been approved under Section 39.0544 to assign campus  
+| performance ratings and the commissioner has not assigned a campus  
+| an overall performance rating of _performance that needs improvement_  
+| _or unacceptable performance_ [ ~~D or F~~ ], the commissioner shall assign  
+| the campus an overall performance rating based on the school  
+| district assigned performance rating under Section 39.0544. A  
+| reference in law to an acceptable rating or acceptable performance  
+| includes an overall or domain performance rating of [ ~~A, B, C, or D~~  
+|  ~~or~~ ] performance that is exemplary, recognized, or acceptable  
+| performance or performance that needs improvement.  
+|  (a-1) For purposes of assigning an overall performance  
+| rating for a district or campus under Subsection (a), the  
+| commissioner shall:  
+|  (1) consider either the district's or campus's  
+| performance rating under the student achievement domain under  
+| Section 39.053(c)(1) or the school progress domain under Section  
+| 39.053(c)(2), whichever performance rating is higher, unless the  
+| district or campus received a performance rating of _unacceptable_  
+| _performance_ [ ~~F~~ ] in either domain, in which case the district or  
+| campus may not be assigned a performance rating higher than  
+| _recognized performance_ [ ~~a B~~ ] for the composite for the two domains;  
+| and  
+|  (2) attribute not less than 30 percent of the  
+| performance rating to the closing the gaps domain under Section  
+| 39.053(c)(3).  
+|  (a-2) The commissioner by rule may adopt procedures to  
+| ensure that a repeated performance rating of _performance that needs_  
+| _improvement_ [ ~~D or F~~ ] or unacceptable _performance_ in one domain,  
+| particularly performance that is not significantly improving, is  
+| reflected in the overall performance rating of a district or campus  
+| under this section or a campus under Section 39.0544 and is not  
+| compensated for by a performance rating of _exemplary, recognized,_  
+| _or acceptable performance_ [ ~~A, B, or C~~ ] in another domain.  
+|  (b) For purposes of assigning school districts and campuses  
+| an overall and a domain performance rating under Subsection (a),  
+| the commissioner shall ensure that the method used to evaluate  
+| performance is implemented in a manner that provides the  
+| mathematical possibility that all districts and campuses receive an  
+| _exemplary performance_ [ ~~A~~ ] rating.  
+|  SECTION 2. Sections 39.0544(a) and (e), Education Code, are  
+| amended to read as follows:  
+|  (a) The commissioner shall adopt rules regarding the  
+| assignment of campus performance ratings by school districts and  
+| open-enrollment charter schools. The rules:  
+|  (1) must require a district or school, in assigning an  
+| overall performance rating for a campus, to incorporate:  
+|  (A) domain performance ratings assigned by the  
+| commissioner under Section 39.054; and  
+|  (B) performance ratings based on locally  
+| developed domains or sets of accountability measures;  
+|  (2) may permit a district or school to assign weights  
+| to each domain or set of accountability measures described in  
+| Subdivision (1), as determined by the district or school, provided  
+| that the domains specified in Subdivision (1)(A) must in the  
+| aggregate account for at least 50 percent of the overall  
+| performance rating;  
+|  (3) must require that each locally developed domain or  
+| set of accountability measures:  
+|  (A) contains levels of performance that allow for  
+| differentiation, with assigned standards for achieving the  
+| differentiated levels;  
+|  (B) provides for the assignment of a _performance_  
+| _rating of exemplary performance, recognized performance,_  
+| _acceptable performance, performance that needs improvement, or_  
+| _unacceptable performance_ [ ~~letter grade of A, B, C, D, or F~~ ]; and  
+|  (C) meets standards for reliability and  
+| validity;  
+|  (4) must require that calculations for overall  
+| performance ratings and each locally developed domain or set of  
+| accountability measures be capable of being audited by a third  
+| party;  
+|  (5) must require that a district or school produce a  
+| campus score card that may be displayed on the agency's website; and  
+|  (6) must require that a district or school develop and  
+| make available to the public an explanation of the methodology used  
+| to assign performance ratings under this section.  
+|  (e) A school district or open-enrollment charter school  
+| authorized under this section to assign campus performance ratings  
+| shall evaluate the performance of each campus as provided by this  
+| section and assign each campus a performance rating of _exemplary_  
+| _performance, recognized performance, acceptable performance,_  
+| _performance that needs improvement, or unacceptable performance_  
+| [ ~~A, B, C, D, or F~~ ] for overall performance and for each locally  
+| developed domain or set of accountability measures. Not later than  
+| a date established by the commissioner, the district or school  
+| shall:  
+|  (1) report the performance ratings to the agency; and  
+|  (2) make the performance ratings available to the  
+| public as provided by commissioner rule.  
+|  SECTION 3. Section 39.101, Education Code, as added by  
+| Chapter 807 (H.B. 22), Acts of the 85th Legislature, Regular  
+| Session, 2017, is transferred to Subchapter B, Chapter 39A,  
+| Education Code, redesignated as Section 39A.0545, Education Code,  
+| amended to conform to the repeal of Subchapter E, Chapter 39,  
+| Education Code, by Article 21, Chapter 324 (S.B. 1488), Acts of the  
+| 85th Legislature, Regular Session, 2017, and further amended to  
+| read as follows:  
+|  Sec. _39A.0545_ [ ~~39.101~~ ]. NEEDS IMPROVEMENT _PERFORMANCE_  
+| RATING. (a)  Notwithstanding any other law, if a school district or  
+| campus is assigned an overall or domain performance rating of  
+| _performance that needs improvement_ [ ~~D~~ ]:  
+|  (1) the commissioner shall order the district or  
+| campus to develop and implement a targeted improvement plan  
+| approved by the board of trustees of the district; and  
+|  (2) the interventions and sanctions provided by this  
+| _chapter_ [ ~~subchapter~~ ] based on failure to satisfy performance  
+| standards under Section 39.054(e) apply to the district or campus  
+| only as provided by this section.  
+|  (b) The interventions and sanctions provided by this  
+| _chapter_ [ ~~subchapter~~ ] based on failure to satisfy performance  
+| standards under Section 39.054(e) apply to a district or campus  
+| ordered to develop and implement a targeted improvement plan under  
+| Subsection (a) only if the district or campus is assigned:  
+|  (1) an overall or domain performance rating of  
+| _unacceptable performance_ [ ~~F~~ ]; or  
+|  (2) an overall performance rating of _performance that_  
+| _needs improvement_ [ ~~D~~ ] as provided by Subsection (c).  
+|  (c) If a school district or campus is assigned an overall  
+| performance rating of _performance that needs improvement_ [ ~~D~~ ] for a  
+| school year after the district or campus is ordered to develop and  
+| implement a targeted improvement plan under Subsection (a), the  
+| commissioner shall implement interventions and sanctions that  
+| apply to an unacceptable campus and those interventions and  
+| sanctions shall continue for each consecutive school year  
+| thereafter in which the campus is assigned an overall performance  
+| rating of _performance that needs improvement_ [ ~~D~~ ].  
+|  (d) The commissioner shall adopt rules as necessary to  
+| implement this section.  
+|  SECTION 4. Section 42.005(k), Education Code, is amended to  
+| read as follows:  
+|  (k) A charter school operating under a charter granted under  
+| Chapter 12 before January 1, 2015, is eligible to earn full average  
+| daily attendance under Subsection (a), as that subsection existed  
+| immediately before January 1, 2015, for:  
+|  (1) all campuses of the charter school operating  
+| before January 1, 2015; and  
+|  (2) any campus or site expansion approved on or after  
+| January 1, 2015, provided that the charter school received an  
+| academic accountability performance rating of _acceptable_  
+| _performance_ [ ~~C~~ ] or higher, and the campus or site expansion is  
+| approved by the commissioner.  
+|  SECTION 5. To the extent of any conflict, this Act prevails  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 6. This Act applies beginning with the 2019-2020  
+| school year.  
+|  SECTION 7. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

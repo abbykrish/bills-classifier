@@ -1,0 +1,41 @@
+| 86R934 CAE-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 770  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment of an electronic database for  
+| settlement agreements for certain suits involving minors or  
+| incapacitated persons; authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 72, Government Code, is  
+| amended by adding Section 72.034 to read as follows:  
+|  _Sec._ ___72.034._ _____SETTLEMENT AGREEMENT DATABASE. (a) The_  
+| _office shall establish and maintain an electronic database that_  
+| _contains personal injury or wrongful death settlement agreements_  
+| _for which a minor or incapacitated person is the beneficiary. A_  
+| _party to the agreement or a guardian, next friend, or guardian ad_  
+| _litem may record the agreement in the database._ ___Only one copy of an_  
+| _agreement may be filed by the parties or the guardian, next friend,_  
+| _or guardian ad litem in each settlement agreement._  
+|  _(b)_ _____A settlement agreement recorded in the database is_  
+| _confidential, and the office shall ensure that a settlement_  
+| _agreement may be accessed only by:_  
+|  _(1) the parties to the settlement agreement;_  
+|  _(2)_ _____each attorney representing a party to the_  
+| _settlement agreement; or_  
+|  _(3)_ _____the guardian, next friend, or guardian ad litem of_  
+| _a party to the settlement agreement._  
+|  _(c)_ _____The office may set and collect a fee to record a_  
+| _settlement agreement in the database in an amount sufficient to_  
+| _cover the costs of maintaining the agreement in the database, not to_  
+| _exceed $50 for each agreement._  
+|  _(d)_ _____Any fee to record a settlement agreement in the database_  
+| _established by the office as provided by Subsection (c) is a court_  
+| _cost to be included for payment in the settlement agreement._  
+|  SECTION 2. The change in law made by this Act applies to a  
+| suit filed on behalf of a minor or incapacitated person that is  
+| pending in a trial court on the effective date of this Act or that is  
+| filed on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

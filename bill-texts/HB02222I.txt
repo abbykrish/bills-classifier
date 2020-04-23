@@ -1,0 +1,234 @@
+| 86R7658 MM-D  
+---|---  
+|  By: Raymond | H.B. No. 2222  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the administration and oversight of the Medicaid and  
+| child health plan programs.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 531, Government Code, is  
+| amended by adding Section 531.1133 to read as follows:  
+|  _Sec._ ___531.1133._ _____PROVIDER NOT LIABLE FOR MANAGED CARE_  
+| _ORGANIZATION OVERPAYMENT OR DEBT. (a)_ ___If the commission's office_  
+| _of inspector general makes a determination to recoup an overpayment_  
+| _or debt from a managed care organization that contracts with the_  
+| _commission to provide health care services to Medicaid recipients,_  
+| _a provider that contracts with the managed care organization may_  
+| _not be held liable for the good faith provision of services under_  
+| _the provider's contract with the managed care organization that_  
+| _were provided with prior authorization._  
+|  _(b) This section does not:_  
+|  _(1)_ _____limit the office of inspector general's authority_  
+| _to recoup an overpayment or debt from a provider that is owed by the_  
+| _provider as a result of the provider's failure to comply with_  
+| _applicable law or a contract provision, notwithstanding any prior_  
+| _authorization for a service provided; or_  
+|  _(2)_ _____apply to an action brought under Chapter 36, Human_  
+| _Resources Code._  
+|  SECTION 2. Section 533.00281, Government Code, is  
+| redesignated as Section 533.0121, Government Code, and amended to  
+| read as follows:  
+|  Sec. _533.0121_ [ ~~533.00281~~ ]. UTILIZATION REVIEW _AND_  
+| _FINANCIAL AUDIT PROCESS_ FOR [ ~~STAR + PLUS~~ ] MEDICAID MANAGED CARE  
+| ORGANIZATIONS. (a) The commission's office _responsible for_ [ ~~of~~ ]  
+| contract management shall establish an annual utilization review  
+| _and financial audit_ process for managed care organizations  
+| participating in the [ ~~STAR + PLUS~~ ] Medicaid managed care program.  
+| The commission shall determine the topics to be examined in _a_ [ ~~the~~ ]  
+| review [ ~~process~~ ], except that _with respect to a managed care_  
+| _organization participating in the STAR+PLUS Medicaid managed care_  
+| _program,_ the review [ ~~process~~ ] must include a thorough investigation  
+| of _the_ [ ~~each managed care~~ ] organization's procedures for  
+| determining whether a recipient should be enrolled in the _STAR+PLUS_  
+| [ ~~STAR + PLUS~~ ] home and community-based services and supports (HCBS)  
+| program, including the conduct of functional assessments for that  
+| purpose and records relating to those assessments.  
+|  (b) The _commission's_ office _responsible for_ [ ~~of~~ ] contract  
+| management shall use the utilization review _and financial audit_  
+| process _established under this section_ to review each fiscal year:  
+|  (1) _each managed care organization_ [ ~~every managed care~~  
+|  ~~organization~~ ] participating in the [ ~~STAR + PLUS~~ ] Medicaid
+managed  
+| care program _in this state for that organization's first five years_  
+| _of participation_ ; [ ~~or~~ ]  
+|  (2) _each managed care organization providing health_  
+| _care services to a population of recipients new to receiving those_  
+| _services through a Medicaid_ [ ~~only the~~ ] managed care _delivery model_  
+| _for the first three years that the organization provides those_  
+| _services to that population; or_  
+|  _(3) managed care_ organizations that, using a  
+| risk-based assessment process _and evaluation of prior history_ , the  
+| office determines have a higher likelihood of _contract or financial_  
+| _noncompliance_ [ ~~inappropriate client placement in the STAR + PLUS~~  
+|  ~~home and community-based services and supports (HCBS) program~~ ].  
+|  _(c)_ _____In addition to the reviews required by Subsection (b),_  
+| _the commission's office responsible for contract management shall_  
+| _use the utilization review and financial audit process established_  
+| _under this section to review each managed care organization_  
+| _participating in the Medicaid managed care program at least once_  
+| _every five years._  
+|  (d) In conjunction with the commission's office _responsible_  
+| _for_ [ ~~of~~ ] contract management, the commission shall provide a report  
+| to the standing committees of the senate and house of  
+| representatives with jurisdiction over Medicaid not later than  
+| December 1 of each year. The report must:  
+|  (1) summarize the results of the [ ~~utilization~~ ] reviews  
+| conducted under this section during the preceding fiscal year;  
+|  (2) provide analysis of errors committed by each  
+| reviewed managed care organization; and  
+|  (3) extrapolate those findings and make  
+| recommendations for improving the efficiency of the _Medicaid_  
+| _managed care_ program.  
+|  (e) If a [ ~~utilization~~ ] review conducted under this section  
+| results in a determination to recoup money from a managed care  
+| organization, _the provider protections from liability under_  
+| _Section 531.1133 apply_ [ ~~a service provider who contracts with the~~  
+|  ~~managed care organization may not be held liable for the good faith~~  
+|  ~~provision of services based on an authorization from the managed~~  
+|  ~~care organization~~ ].  
+|  SECTION 3. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.0031 to read as follows:  
+|  _Sec._ ___533.0031._ _____MEDICAID MANAGED CARE PLAN ACCREDITATION._ __  
+| _(a)_ ___Notwithstanding Section 533.004 or any other law requiring the_  
+| _commission to contract with a managed care organization to provide_  
+| _health care services to recipients, the commission may contract_  
+| _with a managed care organization to provide those services only if_  
+| _the managed care plan offered by the organization is accredited by a_  
+| _nationally recognized accrediting entity._  
+|  _(b)_ _____This section does not apply to a managed care_  
+| _organization that contracts with the commission to provide only_  
+| _dental or medical transportation services._  
+|  SECTION 4. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.00611 to read as follows:  
+|  _Sec._ ___533.00611._ _____STANDARDS FOR DETERMINING MEDICAL_  
+| _NECESSITY. (a)_ ___Except as provided by Subsection (b), the_  
+| _commission shall establish standards that govern the processes,_  
+| _criteria, and guidelines under which managed care organizations_  
+| _determine the medical necessity of a health care service covered by_  
+| _Medicaid. In establishing standards under this section, the_  
+| _commission shall:_  
+|  _(1)_ _____ensure that each recipient has equal access in_  
+| _scope and duration to the same covered health care services for_  
+| _which the recipient is eligible, regardless of the managed care_  
+| _organization with which the recipient is enrolled;_  
+|  _(2)_ _____provide managed care organizations with_  
+| _flexibility to approve covered medically necessary services for_  
+| _recipients that may not be within prescribed criteria and_  
+| _guidelines;_  
+|  _(3)_ _____require managed care organizations to make_  
+| _available to providers all criteria and guidelines used to_  
+| _determine medical necessity through an Internet portal accessible_  
+| _by the providers;_  
+|  _(4)_ _____ensure that managed care organizations_  
+| _consistently apply the same medical necessity criteria and_  
+| _guidelines for the approval of services and in retrospective_  
+| _utilization reviews; and_  
+|  _(5)_ _____ensure that managed care organizations include in_  
+| _any service or prior authorization denial specific information_  
+| _about the medical necessity criteria or guidelines that were not_  
+| _met._  
+|  _(b)_ _____This section does not apply to or affect the_  
+| _commission's authority to:_  
+|  _(1)_ _____determine medical necessity for home and_  
+| _community-based services provided under the STAR+PLUS Medicaid_  
+| _managed care program; or_  
+|  _(2) conduct utilization reviews of those services._  
+|  SECTION 5. Section 533.0076, Government Code, is amended by  
+| amending Subsection (c) and adding Subsection (d) to read as  
+| follows:  
+|  (c) The commission shall allow a recipient who is enrolled  
+| in a managed care plan under this chapter to disenroll from that  
+| plan and enroll in another managed care plan[ ~~:~~  
+|  [ ~~(1)~~ ] at any time for cause in accordance with federal  
+| law _, including because:_  
+|  _(1)_ _____the recipient moves out of the managed care_  
+| _organization's service area;_  
+|  _(2)_ _____the plan does not, on the basis of moral or_  
+| _religious objections, cover the service the recipient seeks;_  
+|  _(3)_ _____the recipient needs related services to be_  
+| _performed at the same time, not all related services are available_  
+| _within the organization's provider network, and the recipient's_  
+| _primary care provider or another provider determines that receiving_  
+| _the services separately would subject the recipient to unnecessary_  
+| _risk;_  
+|  _(4)_ _____for recipients of long-term services or supports,_  
+| _the recipient would have to change the recipient's residential,_  
+| _institutional, or employment supports provider based on that_  
+| _provider's change in status from an in-network to an out-of-network_  
+| _provider with the managed care organization and, as a result, would_  
+| _experience a disruption in the recipient's residence or employment;_  
+| _or_  
+|  _(5)_ _____of another reason permitted under federal law,_  
+| _including poor quality of care, lack of access to services covered_  
+| _under the contract, or lack of access to providers experienced in_  
+| _dealing with the recipient's care needs_ [ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~once for any reason after the periods described~~  
+|  ~~by Subsections (a) and (b)~~ ].  
+|  _(d)_ _____The commission shall implement a process by which the_  
+| _commission verifies that a recipient is permitted to disenroll from_  
+| _one managed care plan offered by a managed care organization and_  
+| _enroll in another managed care plan, including a plan offered by_  
+| _another managed care organization, before the disenrollment_  
+| _occurs._  
+|  SECTION 6. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.0091 to read as follows:  
+|  _Sec._ ___533.0091._ _____CARE COORDINATION SERVICES. A managed care_  
+| _organization that contracts with the commission to provide health_  
+| _care services to recipients shall ensure that persons providing_  
+| _care coordination services through the organization coordinate_  
+| _with hospital discharge planners, who must notify the organization_  
+| _of an inpatient admission of a recipient, to facilitate the timely_  
+| _discharge of the recipient to the appropriate level of care and_  
+| _minimize potentially preventable readmissions, as defined by_  
+| _Section 536.001._  
+|  SECTION 7. Subchapter D, Chapter 62, Health and Safety  
+| Code, is amended by adding Section 62.1552 to read as follows:  
+|  _Sec._ ___62.1552._ _____MANAGED CARE PLAN ACCREDITATION. (a)_  
+| _Notwithstanding any other law requiring the commission to contract_  
+| _with a managed care organization to provide health benefits under_  
+| _the child health plan, the commission may contract with a managed_  
+| _care organization to provide those benefits only if the managed_  
+| _care plan offered by the organization is accredited by a nationally_  
+| _recognized accrediting entity._  
+|  _(b)_ _____This section does not apply to a managed care_  
+| _organization that contracts with the commission to provide only_  
+| _dental benefits._  
+|  SECTION 8. (a) The Health and Human Services Commission  
+| shall require that a managed care plan offered by a managed care  
+| organization with which the commission enters into or renews a  
+| contract under Chapter 533, Government Code, or Chapter 62, Health  
+| and Safety Code, as applicable, on or after the effective date of  
+| this Act complies with Section 533.0031, Government Code, as added  
+| by this Act, or Section 62.1552, Health and Safety Code, as added by  
+| this Act, as applicable, not later than September 1, 2022.  
+|  (b) Notwithstanding Section 533.0031, Government Code, as  
+| added by this Act, or Section 62.1552, Health and Safety Code, as  
+| added by this Act, a managed care organization may continue  
+| providing health care services or health benefits under a contract  
+| with the Health and Human Services Commission entered into under  
+| Chapter 533, Government Code, or Chapter 62, Health and Safety  
+| Code, as applicable, before the effective date of this Act, until  
+| the earlier of:  
+|  (1) the termination of the contract; or  
+|  (2) the third anniversary of the effective date of a  
+| contract amendment requiring accreditation of the managed care plan  
+| offered by the managed care organization.  
+|  (c) Not later than March 31, 2020, the Health and Human  
+| Services Commission shall seek to amend contracts described by  
+| Subsection (b) of this section to ensure those contracts comply  
+| with Section 533.0031, Government Code, as added by this Act, or  
+| Section 62.1552, Health and Safety Code, as added by this Act, as  
+| applicable. To the extent of a conflict between Section 533.0031,  
+| Government Code, as added by this Act, or Section 62.1552, Health  
+| and Safety Code, as added by this Act, and a provision of a contract  
+| with a managed care organization entered into before the effective  
+| date of this Act, the contract provision prevails.  
+|  SECTION 9. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 10. This Act takes effect September 1, 2019.
+

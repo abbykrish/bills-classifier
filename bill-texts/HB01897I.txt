@@ -1,0 +1,551 @@
+| 86R2831 JES-F  
+---|---  
+|  By: Bonnen of Galveston | H.B. No. 1897  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to dispute resolution for certain claims arising under  
+| insurance policies issued by the Fair Access to Insurance  
+| Requirements (FAIR) Plan Association; authorizing fees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2211.003, Insurance Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____Subsection (a) does not apply to a person who is_  
+| _required to resolve a dispute under Subchapter D-1._  
+|  SECTION 2. Subchapter A, Chapter 2211, Insurance Code, is  
+| amended by adding Sections 2211.004 and 2211.005 to read as  
+| follows:  
+|  _Sec._ ___2211.004._ _____CERTAIN CONDUCT IN DISPUTE RESOLUTION. (a)_  
+| _For purposes of this section, "presiding officer" includes a judge,_  
+| _mediator, arbitrator, appraiser, or panel member._  
+|  _(b)_ _____If a person insured under this chapter is assigned to_  
+| _act as presiding officer to preside over or resolve a dispute_  
+| _involving the association and another person insured under this_  
+| _chapter, the presiding officer shall, not later than the seventh_  
+| _day after the date of assignment, give written notice to the_  
+| _association and to each other party to the dispute, or the_  
+| _association's or other party's attorney, that the presiding officer_  
+| _is insured under this chapter._  
+|  _(c)_ _____In a proceeding with respect to which the commissioner_  
+| _has authority to designate the presiding officer, the association_  
+| _or other party that receives notice under Subsection (b) may file_  
+| _with the commissioner a written objection to the assignment of the_  
+| _presiding officer to the dispute. The written objection must_  
+| _contain the factual basis on which the association or other party_  
+| _objects to the assignment._  
+|  _(d)_ _____The commissioner shall assign a different presiding_  
+| _officer to the dispute if, after reviewing the objection filed_  
+| _under Subsection (c), the commissioner determines that the_  
+| _presiding officer originally assigned to the dispute has a direct_  
+| _financial or personal interest in the outcome of the dispute._  
+|  _(e)_ _____The association or other party must file an objection_  
+| _under Subsection (c) not later than the earlier of:_  
+|  _(1)_ _____the seventh day after the date the association or_  
+| _other party receives actual notice that the presiding officer is_  
+| _insured under this chapter; or_  
+|  _(2)_ _____the seventh day before the date of the first_  
+| _proceeding concerning the dispute._  
+|  _(f)_ _____The commissioner may, on a showing of good cause, extend_  
+| _the deadline to file an objection under Subsection (e)._  
+|  _Sec._ ___2211.005._ _____APPLICABILITY OF CERTAIN OTHER LAW. (a)_ ___A_  
+| _person may not bring a private action against the association,_  
+| _including a claim against an agent or representative of the_  
+| _association, under Chapter 541 or 542._ ___Notwithstanding any other_  
+| _provision of this code or this chapter, a class action under_  
+| _Subchapter F, Chapter 541, or under Rule 42, Texas Rules of Civil_  
+| _Procedure, may be brought against the association only by the_  
+| _attorney general at the request of the department._  
+|  _(b)_ _____Chapter 542 does not apply to the processing and_  
+| _settlement of claims by the association._  
+|  SECTION 3. Subchapter D, Chapter 2211, Insurance Code, is  
+| amended by adding Sections 2211.158 and 2211.159 to read as  
+| follows:  
+|  _Sec._ ___2211.158._ _____REQUIRED POLICY PROVISIONS: DEADLINE FOR_  
+| _FILING CLAIM; NOTICE CONCERNING RESOLUTION OF CERTAIN DISPUTES._  
+| _(a)_ ___An insurance policy issued by the association must:_  
+|  _(1)_ _____require an insured to file a claim under the policy_  
+| _not later than the first anniversary of the date on which the damage_  
+| _to property that is the basis of the claim occurs; and_  
+|  _(2)_ _____contain, in boldface type, a conspicuous notice_  
+| _concerning the resolution of disputes under the policy, including:_  
+|  _(A)_ _____the processes and deadlines for appraisal_  
+| _under Section 2211.174 and alternative dispute resolution under_  
+| _Section 2211.175;_  
+|  _(B)_ _____the binding effect of appraisal under Section_  
+| _2211.174; and_  
+|  _(C)_ _____the necessity of complying with the_  
+| _requirements of Subchapter D-1 to seek relief, including judicial_  
+| _relief._  
+|  _(b)_ _____The commissioner, on a showing of good cause by a person_  
+| _insured under this chapter, may extend the one-year period_  
+| _described by Subsection (a)(1) for a period not to exceed 180 days._  
+|  _Sec._ ___2211.159._ _____VOLUNTARY ARBITRATION OF CERTAIN COVERAGE_  
+| _AND CLAIM DISPUTES. (a)_ ___A person insured under this chapter may_  
+| _elect to purchase a binding arbitration endorsement in a form_  
+| _prescribed by the commissioner._ ___A person who elects to purchase an_  
+| _endorsement under this section must arbitrate a dispute involving_  
+| _an act, ruling, or decision of the association relating to the_  
+| _payment of, the amount of, or the denial of the claim._  
+|  _(b)_ _____An arbitration under this section shall be conducted in_  
+| _the manner and under rules and deadlines prescribed by the_  
+| _commissioner by rule._  
+|  _(c)_ _____The association may offer a person insured under this_  
+| _chapter an actuarially justified premium discount on a policy_  
+| _issued by the association if the person elects to purchase a binding_  
+| _arbitration endorsement under this section. The premium discount_  
+| _may not exceed 10 percent of the premium for the policy, before the_  
+| _application of the discount._  
+|  _(d)_ _____The commissioner shall adopt rules necessary to_  
+| _implement and enforce this section, including rules defining_  
+| _"actuarially justified" for the purposes of this section._  
+|  SECTION 4. Chapter 2211, Insurance Code, is amended by  
+| adding Subchapter D-1 to read as follows:  
+| _SUBCHAPTER D-1. CLAIMS: SETTLEMENT AND DISPUTE RESOLUTION_  
+|  _Sec. 2211.171. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Association policy" means an insurance policy_  
+| _issued by the association._  
+|  _(2)_ _____"Claim" means a request for payment under an_  
+| _association policy. The term also includes any other claim against_  
+| _the association, or an agent or representative of the association,_  
+| _relating to an insured loss, under any theory or cause of action of_  
+| _any kind, regardless of the theory under which the claim is_  
+| _asserted, the cause of action brought, or the type of damages_  
+| _sought._  
+|  _(3) "Claimant" means a person who makes a claim._  
+|  _Sec._ ___2211.172._ _____EXCLUSIVE REMEDIES AND LIMITATION ON AWARD._  
+| _(a) This subchapter provides the exclusive remedies for a claim_  
+| _against the association, including an agent or representative of_  
+| _the association._  
+|  _(b)_ _____Subject to Section 2211.176, the association may not be_  
+| _held liable for any amount other than covered losses payable under_  
+| _the terms of the association policy._  
+|  _(c)_ _____The association, or an agent or representative of the_  
+| _association, may not be held liable for damages under Chapter 17,_  
+| _Business & Commerce Code, or, except as otherwise specifically _  
+| _provided by this chapter, under any provision of any law providing_  
+| _for additional damages, exemplary damages, or a penalty._  
+|  _Sec._ ___2211.173._ _____FILING OF CLAIM; CLAIM PROCESSING. (a)_  
+| _Subject to Section 2211.158(b), an insured must file a claim under_  
+| _an association policy not later than the first anniversary of the_  
+| _date on which the damage to property that is the basis of the claim_  
+| _occurs._  
+|  _(b)_ _____The claimant may submit written materials, comments,_  
+| _documents, records, and other information to the association_  
+| _relating to the claim. If the claimant fails to submit information_  
+| _in the claimant's possession that is necessary for the association_  
+| _to determine whether to accept or reject the claim, the association_  
+| _may, not later than the 30th day after the date the claim is filed,_  
+| _request in writing the necessary information from the claimant._  
+|  _(c)_ _____The association shall, on request, provide a claimant_  
+| _reasonable access to all information relevant to the determination_  
+| _of the association concerning the claim. The claimant may copy the_  
+| _information at the claimant's own cost or may request the_  
+| _association to provide a copy of all or part of the information to_  
+| _the claimant. The association may charge a claimant the actual cost_  
+| _incurred by the association in providing a copy of information_  
+| _under this section, excluding any amount for labor involved in_  
+| _making any information or copy of information available to a_  
+| _claimant._  
+|  _(d)_ _____Unless the applicable 60-day period described by this_  
+| _subsection is extended by the commissioner under Section 2211.180,_  
+| _not later than the later of the 60th day after the date the_  
+| _association receives a claim or the 60th day after the date the_  
+| _association receives information requested under Subsection (b),_  
+| _the association shall provide the claimant, in writing,_  
+| _notification that:_  
+|  _(1)_ _____the association has accepted coverage for the_  
+| _claim in full;_  
+|  _(2)_ _____the association has accepted coverage for the_  
+| _claim in part and has denied coverage for the claim in part; or_  
+|  _(3)_ _____the association has denied coverage for the claim_  
+| _in full._  
+|  _(e)_ _____In a notice provided under Subsection (d)(1), the_  
+| _association must inform the claimant of the amount of loss the_  
+| _association will pay and of the time limit to demand appraisal under_  
+| _Section 2211.174._  
+|  _(f)_ _____In a notice provided under Subsection (d)(2) or (3), the_  
+| _association must inform the claimant of, as applicable:_  
+|  _(1)_ _____the portion of the loss for which the association_  
+| _accepts coverage and the amount of loss the association will pay;_  
+|  _(2)_ _____the portion of the loss for which the association_  
+| _denies coverage and a detailed summary of the manner in which the_  
+| _association determined not to accept coverage for that portion of_  
+| _the claim; and_  
+|  _(3) the time limit to:_  
+|  _(A)_ _____demand appraisal under Section 2211.174 of_  
+| _the portion of the loss for which the association accepts coverage;_  
+| _and_  
+|  _(B)_ _____provide notice of intent to bring an action_  
+| _as required by Section 2211.175._  
+|  _(g)_ _____In addition to a notice provided under Subsection (d)(2)_  
+| _or (3), the association shall provide a claimant with a form on_  
+| _which the claimant may provide the association notice of intent to_  
+| _bring an action as required by Section 2211.175._  
+|  _Sec._ ___2211.1731._ _____PAYMENT OF CLAIM. (a) Except as provided_  
+| _by Subsection (b), if the association notifies a claimant under_  
+| _Section 2211.173(d)(1) or (2) that the association has accepted_  
+| _coverage for a claim in full or has accepted coverage for a claim in_  
+| _part, the association shall pay the accepted claim or accepted_  
+| _portion of the claim not later than the 10th day after the date_  
+| _notice is made._  
+|  _(b)_ _____If payment of the accepted claim or accepted portion of_  
+| _the claim is conditioned on the performance of an act by the_  
+| _claimant, the association shall pay the claim not later than the_  
+| _10th day after the date the act is performed._  
+|  _Sec._ ___2211.174._ _____DISPUTES CONCERNING AMOUNT OF ACCEPTED_  
+| _COVERAGE. (a) If the association accepts coverage for a claim in_  
+| _full and a claimant disputes only the amount of loss the association_  
+| _will pay for the claim, or if the association accepts coverage for a_  
+| _claim in part and a claimant disputes the amount of loss the_  
+| _association will pay for the accepted portion of the claim, the_  
+| _claimant may request from the association a detailed summary of the_  
+| _manner in which the association determined the amount of loss the_  
+| _association will pay._  
+|  _(b)_ _____If a claimant disputes the amount of loss the_  
+| _association will pay for a claim or a portion of a claim, the_  
+| _claimant, not later than the 60th day after the date the claimant_  
+| _receives the notice described by Section 2211.173(d)(1) or (2), may_  
+| _demand appraisal in accordance with the terms of the association_  
+| _policy._  
+|  _(c)_ _____If a claimant, on a showing of good cause and not later_  
+| _than the 15th day after the expiration of the 60-day period_  
+| _described by Subsection (b), requests in writing that the 60-day_  
+| _period be extended, the association may grant an additional 30-day_  
+| _period in which the claimant may demand appraisal._  
+|  _(d) If a claimant demands appraisal under this section:_  
+|  _(1)_ _____the appraisal must be conducted as provided by the_  
+| _association policy; and_  
+|  _(2)_ _____the claimant and the association are responsible_  
+| _in equal shares for paying any costs incurred or charged in_  
+| _connection with the appraisal, including a fee charged under_  
+| _Subsection (e)._  
+|  _(e)_ _____If a claimant demands appraisal under this section and_  
+| _the appraiser retained by the claimant and the appraiser retained_  
+| _by the association are able to agree on an appraisal umpire to_  
+| _participate in the resolution of the dispute, the appraisal umpire_  
+| _is the umpire chosen by the two appraisers. If the appraiser_  
+| _retained by the claimant and the appraiser retained by the_  
+| _association are unable to agree on an appraisal umpire to_  
+| _participate in the resolution of the dispute, the commissioner_  
+| _shall select an appraisal umpire from a roster of qualified umpires_  
+| _maintained by the department. The department may:_  
+|  _(1)_ _____require appraisers to register with the department_  
+| _as a condition of being placed on the roster; and_  
+|  _(2)_ _____charge a reasonable registration fee to defray the_  
+| _cost incurred by the department in maintaining the roster and the_  
+| _commissioner in selecting an appraisal umpire under this_  
+| _subsection._  
+|  _(f)_ _____Except as provided by Subsection (g), the appraisal_  
+| _decision is binding on the claimant and the association as to the_  
+| _amount of loss the association will pay for a fully accepted claim_  
+| _or the accepted portion of a partially accepted claim and is not_  
+| _appealable or otherwise reviewable. A claimant that does not_  
+| _demand appraisal before the expiration of the periods described by_  
+| _Subsections (b) and (c) waives the claimant's right to contest the_  
+| _association's determination of the amount of loss the association_  
+| _will pay with reference to a fully accepted claim or the accepted_  
+| _portion of a partially accepted claim._  
+|  _(g)_ _____A claimant or the association may, not later than the_  
+| _second anniversary of the date of an appraisal decision, file an_  
+| _action in a district court in the county in which the loss that is_  
+| _the subject of the appraisal occurred to vacate the appraisal_  
+| _decision and begin a new appraisal process if:_  
+|  _(1)_ _____the appraisal decision was obtained by corruption,_  
+| _fraud, or other undue means;_  
+|  _(2)_ _____the rights of the claimant or the association were_  
+| _prejudiced by:_  
+|  _(A) evident partiality by an appraisal umpire;_  
+|  _(B)_ _____corruption in an appraiser or appraisal_  
+| _umpire; or_  
+|  _(C)_ _____misconduct or wilful misbehavior of an_  
+| _appraiser or appraisal umpire; or_  
+|  _(3) an appraiser or appraisal umpire:_  
+|  _(A)_ _____exceeded the appraiser's or appraisal_  
+| _umpire's powers;_  
+|  _(B)_ _____refused to postpone the appraisal after a_  
+| _showing of sufficient cause for the postponement;_  
+|  _(C)_ _____refused to consider evidence material to the_  
+| _claim; or_  
+|  _(D)_ _____conducted the appraisal in a manner that_  
+| _substantially prejudiced the rights of the claimant or the_  
+| _association._  
+|  _(h)_ _____Except as provided by Subsection (g), a claimant may not_  
+| _bring an action against the association with reference to a claim_  
+| _for which the association has accepted coverage in full._  
+|  _Sec._ ___2211.175._ _____DISPUTES CONCERNING DENIED COVERAGE. (a)_  
+| _If the association denies coverage for a claim in part or in full_  
+| _and the claimant disputes that determination, the claimant, not_  
+| _later than the expiration of the limitations period described by_  
+| _Section 2211.177(a) but_ ___after the date the claimant receives the_  
+| _notice described by Section 2211.173(d)(2) or (3), must provide the_  
+| _association with notice that the claimant intends to bring an_  
+| _action against the association concerning the partial or full_  
+| _denial of the claim. A claimant that does not provide notice of_  
+| _intent to bring an action before the expiration of the period_  
+| _described by this subsection waives the claimant's right to contest_  
+| _the association's partial or full denial of coverage and is barred_  
+| _from bringing an action against the association concerning the_  
+| _denial of coverage._  
+|  _(b)_ _____If a claimant provides notice of intent to bring an_  
+| _action under Subsection (a), the association may require the_  
+| _claimant, as a prerequisite to filing the action against the_  
+| _association, to submit the dispute to alternative dispute_  
+| _resolution by mediation or moderated settlement conference, as_  
+| _provided by Chapter 154, Civil Practice and Remedies Code._  
+|  _(c)_ _____The association must request alternative dispute_  
+| _resolution of a dispute described by Subsection (b) not later than_  
+| _the 60th day after the date the association receives from the_  
+| _claimant notice of intent to bring an action._  
+|  _(d)_ _____Alternative dispute resolution under this section must_  
+| _be completed not later than the 60th day after the date a request_  
+| _for alternative dispute resolution is made under Subsection (c)._  
+| _The 60-day period described by this subsection may be extended by_  
+| _the commissioner in accordance with Section 2211.180 or by the_  
+| _association and a claimant by mutual consent._  
+|  _(e)_ _____If the claimant is not satisfied after completion of_  
+| _alternative dispute resolution, or if alternative dispute_  
+| _resolution is not completed before the expiration of the 60-day_  
+| _period described by Subsection (d) or any extension under that_  
+| _subsection, the claimant may bring an action against the_  
+| _association in a district court in the county in which the loss that_  
+| _is the subject of the coverage denial occurred. An action brought_  
+| _under this subsection shall be presided over by a judge appointed by_  
+| _the judicial panel on multidistrict litigation designated under_  
+| _Section 74.161, Government Code. A judge appointed under this_  
+| _subsection must be an active judge, as defined by Section 74.041,_  
+| _Government Code, who is a resident of the county in which the loss_  
+| _that is the basis of the disputed denied coverage occurred or of a_  
+| _county adjacent to the county in which that loss occurred._  
+|  _(f)_ _____If a claimant brings an action against the association_  
+| _concerning a partial or full denial of coverage, the court shall_  
+| _abate the action until the notice of intent to bring an action has_  
+| _been provided and, if requested by the association, the dispute has_  
+| _been submitted to alternative dispute resolution, in accordance_  
+| _with this section._  
+|  _(g)_ _____A moderated settlement conference under this section_  
+| _may be conducted by a panel consisting of one or more impartial_  
+| _third parties._  
+|  _(h)_ _____If the association requests mediation under this_  
+| _section, the claimant and the association are responsible in equal_  
+| _shares for paying any costs incurred or charged in connection with_  
+| _the mediation._  
+|  _(i)_ _____If the association requests mediation under this_  
+| _section, and the claimant and the association are able to agree on a_  
+| _mediator, the mediator is the mediator agreed to by the claimant and_  
+| _the association. If the claimant and the association are unable to_  
+| _agree on a mediator, the commissioner shall select a mediator from a_  
+| _roster of qualified mediators maintained by the department. The_  
+| _department may:_  
+|  _(1)_ _____require mediators to register with the department_  
+| _as a condition of being placed on the roster; and_  
+|  _(2)_ _____charge a reasonable registration fee to defray the_  
+| _cost incurred by the department in maintaining the roster and the_  
+| _commissioner in selecting a mediator under this subsection._  
+|  _(j)_ _____The commissioner shall establish rules to implement_  
+| _this section, including provisions for expediting alternative_  
+| _dispute resolution, facilitating the ability of a claimant to_  
+| _appear with or without counsel, establishing qualifications_  
+| _necessary for mediators to be placed on the roster maintained by the_  
+| _department under Subsection (i), and providing that formal rules of_  
+| _evidence shall not apply to the proceedings._  
+|  _Sec._ ___2211.176._ _____ISSUES BROUGHT TO SUIT; LIMITATIONS ON_  
+| _RECOVERY. (a) The only issues a claimant may raise in an action_  
+| _brought against the association under Section 2211.175 are:_  
+|  _(1)_ _____whether the association's denial of coverage was_  
+| _proper; and_  
+|  _(2)_ _____the amount of the damages described by Subsection_  
+| _(b) to which the claimant is entitled, if any._  
+|  _(b)_ _____Except as provided by Subsections (c) and (d), a_  
+| _claimant that brings an action against the association under_  
+| _Section 2211.175 may recover only:_  
+|  _(1)_ _____the covered loss payable under the terms of the_  
+| _association policy less, if applicable, the amount of loss already_  
+| _paid by the association for any portion of a covered loss for which_  
+| _the association accepted coverage;_  
+|  _(2)_ _____prejudgment interest from the first day after the_  
+| _date specified in Section 2211.1731 by which the association was or_  
+| _would have been required to pay an accepted claim or the accepted_  
+| _portion of a claim, at the prejudgment interest rate provided by_  
+| _Subchapter B, Chapter 304, Finance Code; and_  
+|  _(3)_ _____court costs and reasonable and necessary_  
+| _attorney's fees._  
+|  _(c)_ _____Nothing in this chapter, including Subsection (b), may_  
+| _be construed to limit the consequential damages, or the amount of_  
+| _consequential damages, that a claimant may recover under common law_  
+| _in an action against the association._  
+|  _(d)_ _____A claimant that brings an action against the association_  
+| _under Section 2211.175 may, in addition to the covered loss_  
+| _described by Subsection (b)(1) and any consequential damages_  
+| _recovered by the claimant under common law, recover damages in an_  
+| _amount not to exceed the aggregated amount of the covered loss_  
+| _described by Subsection (b)(1) and the consequential damages_  
+| _recovered under common law if the claimant proves by clear and_  
+| _convincing evidence that the association mishandled the claimant's_  
+| _claim to the claimant's detriment by intentionally:_  
+|  _(1)_ _____failing to meet the deadlines or timelines_  
+| _established under this subchapter without good cause, including the_  
+| _applicable deadline established under Section 2211.1731 for_  
+| _payment of an accepted claim or the accepted portion of a claim;_  
+|  _(2)_ _____failing to provide the notice required under_  
+| _Section 2211.173(d);_  
+|  _(3)_ _____rejecting a claim without conducting a reasonable_  
+| _investigation with respect to the claim; or_  
+|  _(4)_ _____denying coverage for a claim in part or in full if_  
+| _the association's liability has become reasonably clear as a result_  
+| _of the association's investigation with respect to the portion of_  
+| _the claim that was denied._  
+|  _(e)_ _____For purposes of Subsection (d), "intentionally" means_  
+| _actual awareness of the facts surrounding the act or practice_  
+| _listed in Subsection (d)(1), (2), (3), or (4), coupled with the_  
+| _specific intent that the claimant suffer harm or damages as a result_  
+| _of the act or practice. Specific intent may be inferred from_  
+| _objective manifestations that the association acted intentionally_  
+| _or from facts that show that the association acted with flagrant_  
+| _disregard of the duty to avoid the acts or practices listed in_  
+| _Subsection (d)(1), (2), (3), or (4)._  
+|  _Sec._ ___2211.177._ _____LIMITATIONS PERIOD. (a) Notwithstanding_  
+| _any other law, a claimant that brings an action against the_  
+| _association under Section 2211.175 must bring the action not later_  
+| _than the second anniversary of the date on which the person receives_  
+| _a notice described by Section 2211.173(d)(2) or (3)._  
+|  _(b)_ _____This section is a statute of repose and controls over_  
+| _any other applicable limitations period._  
+|  _Sec._ ___2211.178._ _____CONSTRUCTION WITH OTHER LAW. (a)_ ___To the_  
+| _extent of any conflict between a provision of this subchapter and_  
+| _any other law, the provision of this subchapter prevails._  
+|  _(b)_ _____Notwithstanding any other law, the association may not_  
+| _bring an action against a claimant, for declaratory or other_  
+| _relief, before the 180th day after the date an appraisal under_  
+| _Section 2211.174, or alternative dispute resolution under Section_  
+| _2211.175, is completed._  
+|  _Sec._ ___2211.179._ _____RULEMAKING. (a) The commissioner shall_  
+| _adopt rules regarding the provisions of this subchapter, including_  
+| _rules concerning:_  
+|  _(1)_ _____qualifications and selection of appraisers for the_  
+| _appraisal procedure and mediators for the mediation process;_  
+|  _(2)_ _____procedures and deadlines for the payment and_  
+| _handling of claims by the association as well as the procedures and_  
+| _deadlines for a review of a claim by the association; and_  
+|  _(3)_ _____any other matters regarding the handling of claims_  
+| _that are not inconsistent with this subchapter._  
+|  _(b)_ _____All rules adopted by the commissioner under this section_  
+| _must promote the fairness of the process, protect the rights of_  
+| _aggrieved policyholders, and ensure that policyholders may_  
+| _participate in the claims review process without the necessity of_  
+| _engaging legal counsel._  
+|  _Sec._ ___2211.180._ _____COMMISSIONER EXTENSION OF DEADLINES. (a)_  
+| _The commissioner, on a showing of good cause, may extend any_  
+| _deadline established under this subchapter._  
+|  _(b)_ _____For the purposes of Subsection (a), "good cause"_  
+| _includes military deployment._  
+|  _Sec._ ___2211.181._ _____OMBUDSMAN PROGRAM. (a) The department_  
+| _shall establish an ombudsman program to provide information and_  
+| _educational programs to assist persons insured under this chapter_  
+| _with the claim processes under this subchapter._  
+|  _(b)_ _____Not later than March 1 of each year, the department_  
+| _shall prepare and submit to the commissioner a budget for the_  
+| _ombudsman program, including approval of all expenditures incurred_  
+| _in administering and operating the program. The commissioner shall_  
+| _adopt or modify and adopt the budget not later than April 1 of the_  
+| _year in which the budget is submitted._  
+|  _(c)_ _____Not later than May 1 of each year, the association shall_  
+| _transfer to the ombudsman program money in an amount equal to the_  
+| _amount of the budget adopted under Subsection (b). The ombudsman_  
+| _program, not later than April 30 of each year, shall return to the_  
+| _association any unexpended funds that the program received from the_  
+| _association in the previous year._  
+|  _(d)_ _____The department shall, not later than the 60th day after_  
+| _the date of a catastrophic event, as defined by the commissioner for_  
+| _the purposes of this subsection, prepare and submit an amended_  
+| _budget to the commissioner for approval and report to the_  
+| _commissioner the approximate number of claimants eligible for_  
+| _ombudsman services. The commissioner shall adopt rules as_  
+| _necessary to implement an amended budget submitted under this_  
+| _section, including rules regarding the transfer of additional money_  
+| _from the association to the program._  
+|  _(e)_ _____The ombudsman program may provide to persons insured_  
+| _under this chapter information and educational programs through:_  
+|  _(1) informational materials;_  
+|  _(2) toll-free telephone numbers;_  
+|  _(3) public meetings;_  
+|  _(4) outreach centers;_  
+|  _(5) the Internet; and_  
+|  _(6) other reasonable means._  
+|  _(f)_ _____The ombudsman program is administratively attached to_  
+| _the department. The department shall provide the staff, services,_  
+| _and facilities necessary for the ombudsman program to operate,_  
+| _including:_  
+|  _(1)_ _____administrative assistance and service, including_  
+| _budget planning and purchasing;_  
+|  _(2) personnel services;_  
+|  _(3) office space; and_  
+|  _(4) computer equipment and support._  
+|  _(g)_ _____The ombudsman program shall prepare and make available_  
+| _to each person insured under this chapter information describing_  
+| _the functions of the ombudsman program._  
+|  _(h)_ _____The association, in the manner prescribed by the_  
+| _commissioner by rule, shall notify each person insured under this_  
+| _chapter concerning the operation of the ombudsman program._  
+|  _(i)_ _____The commissioner may adopt rules as necessary to_  
+| _implement this section._  
+|  SECTION 5. (a) Except as otherwise specifically provided  
+| by this section, this Act applies only to an insurance policy that  
+| is delivered, issued for delivery, or renewed by the Fair Access to  
+| Insurance Requirements Plan Association on or after the 60th day  
+| after the effective date of this Act. An insurance policy that is  
+| delivered, issued for delivery, or renewed by the Fair Access to  
+| Insurance Requirements Plan Association before the 60th day after  
+| the effective date of this Act is governed by the law as it existed  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  (b) The deadline to file a claim under an insurance policy  
+| delivered, issued for delivery, or renewed before the 60th day  
+| after the effective date of this Act by the Fair Access to Insurance  
+| Requirements Plan Association is governed by the law as it existed  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  (c) If a person insured by the Fair Access to Insurance  
+| Requirements Plan Association disputes the amount the association  
+| will pay for a partially or fully accepted claim filed by the  
+| person, Section 2211.174, Insurance Code, as added by this Act,  
+| applies only if the insurance policy under which the claim is filed  
+| is delivered, issued for delivery, or renewed on or after the 60th  
+| day after the effective date of this Act.  
+|  (d) If a person insured by the Fair Access to Insurance  
+| Requirements Plan Association disputes the amount the association  
+| will pay for a partially or fully accepted claim filed by the person  
+| and the insurance policy under which the claim is filed is  
+| delivered, issued for delivery, or renewed before the 60th day  
+| after the effective date of this Act:  
+|  (1) Section 2211.174, Insurance Code, as added by this  
+| Act, does not apply to the resolution of the dispute; and  
+|  (2) notwithstanding any other provision of this Act,  
+| the claimant must attempt to resolve the dispute through any  
+| appraisal process contained in the association policy under which  
+| the claim is filed before an action may be brought against the Fair  
+| Access to Insurance Requirements Plan Association concerning the  
+| claim.  
+|  (e) The person insured by the Fair Access to Insurance  
+| Requirements Plan Association and the association may agree that an  
+| appraisal conducted under Subsection (d)(2) of this section is  
+| binding on the parties.  
+|  (f) An action brought against the association concerning a  
+| claim described by Subsection (d) of this section shall be abated  
+| until the appraisal process under Subsection (d)(2) of this section  
+| is completed.  
+|  (g) Notwithstanding Sections 2211.175 and 2211.176,  
+| Insurance Code, as added by this Act, Subsection (b) of this  
+| section, or any other provision of this Act, Sections 2211.176(b),  
+| (c), (d), and (e), Insurance Code, apply to any cause of action that  
+| accrues against the Fair Access to Insurance Requirements Plan  
+| Association on or after the effective date of this Act and the basis  
+| of which is a claim filed under an insurance policy that is  
+| delivered, issued for delivery, or renewed by the association,  
+| regardless of the date on which the policy was delivered, issued for  
+| delivery, or renewed.  
+|  SECTION 6. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

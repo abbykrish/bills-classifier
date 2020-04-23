@@ -1,0 +1,156 @@
+| 86R5310 KJE-F  
+---|---  
+|  By: Allen | H.B. No. 875  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring a school district or open-enrollment charter  
+| school to report data regarding restraints administered to,  
+| complaints filed against, citations issued to, and arrests made of  
+| students.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 37, Education Code, is  
+| amended by adding Section 37.087 to read as follows:  
+|  _Sec._ ___37.087._ _____REPORT TO AGENCY ON RESTRAINTS, COMPLAINTS,_  
+| _CITATIONS, AND ARRESTS._ ___(a)_ ___In this section:_  
+|  _(1)_ _____"Citation" means a ticket issued to a student for a_  
+| _Class C misdemeanor by a school district peace officer or other_  
+| _peace officer acting under a memorandum of understanding described_  
+| _by Subsection (g)._  
+|  _(2)_ _____"OC spray" means any aerosol-propelled_  
+| _debilitation device that is composed of a lachrymatory chemical_  
+| _compound that irritates the eyes to cause tears, pain, or temporary_  
+| _blindness. The term includes pepper spray, capsicum spray, OC gas,_  
+| _and oleoresin capsicum._  
+|  _(3)_ _____"Restraint" means the use of physical force or a_  
+| _mechanical device to significantly restrict the free movement of_  
+| _all or a portion of a student's body. The term includes the use of:_  
+|  _(A) a baton or a similar club;_  
+|  _(B) OC spray; and_  
+|  _(C) a Taser._  
+|  _(4)_ _____"Taser" means a device manufactured, sold, or_  
+| _distributed by Taser International, Incorporated, that is_  
+| _intended, designed, made, or adapted to incapacitate a person by_  
+| _inflicting an electrical charge through the emission of a_  
+| _projectile or conductive stream. The term, for purposes of this_  
+| _section, includes a similar device manufactured, sold, or_  
+| _distributed by another person._  
+|  _(b)_ _____Not later than the 60th day after the last day of classes_  
+| _for the academic year, the superintendent of a school district_  
+| _shall electronically submit to the agency a report that contains_  
+| _incident-based data describing the total number of the following_  
+| _incidents occurring during the preceding academic year, organized_  
+| _by campus:_  
+|  _(1) restraints administered to a student;_  
+|  _(2)_ _____complaints filed against a student under Section_  
+| _37.145;_  
+|  _(3) citations issued to a student; and_  
+|  _(4) arrests made of a student._  
+|  _(c)_ _____The incident-based data submitted under this section_  
+| _must include, as applicable, information identifying:_  
+|  _(1) the age of the student;_  
+|  _(2) the gender of the student;_  
+|  _(3) the race or ethnicity of the student;_  
+|  _(4)_ _____whether the student is eligible for special_  
+| _education services under Section 29.003;_  
+|  _(5)_ _____whether the student is a student of limited_  
+| _English proficiency, as defined by Section 29.052;_  
+|  _(6) the nature of the offense;_  
+|  _(7)_ _____whether the offense occurred during regular school_  
+| _hours;_  
+|  _(8)_ _____whether the offense occurred on school property or_  
+| _off school property while the student was attending a_  
+| _school-sponsored or school-related activity;_  
+|  _(9) the type of restraint administered to the student;_  
+|  _(10)_ _____the offense for which a complaint was filed_  
+| _against the student or for which the student was issued a citation_  
+| _or was arrested; and_  
+|  _(11)_ _____the campus at which the student was enrolled at_  
+| _the time of the incident._  
+|  _(d)_ _____The data collected for a report required under this_  
+| _section does not constitute prima facie evidence of racial_  
+| _profiling._  
+|  _(e)_ _____A report required under this section may not include_  
+| _information that identifies the peace officer who issued a_  
+| _citation._ ___The identity of the peace officer is confidential and not_  
+| _subject to disclosure under Chapter 552, Government Code._  
+|  _(f)_ _____A report required under this section may not include_  
+| _personally identifiable student information and must comply with_  
+| _the Family Educational Rights and Privacy Act of 1974 (20 U.S.C._  
+| _Section 1232g)._  
+|  _(g)_ _____A school district that enters into a memorandum of_  
+| _understanding with a local law enforcement agency for the provision_  
+| _of a regular police presence on campus shall designate in the_  
+| _memorandum of understanding which entity will be responsible for_  
+| _collecting the data described by Subsection (b)._  
+|  _(h)_ _____The agency shall collect the reports required under this_  
+| _section, compile the data, and make the data available to the_  
+| _public._  
+|  SECTION 2. Section 12.104(b), Education Code, as amended by  
+| Chapters 324 (S.B. 1488), 522 (S.B. 179), and 735 (S.B. 1153), Acts  
+| of the 85th Legislature, Regular Session, 2017, is reenacted and  
+| amended to read as follows:  
+|  (b) An open-enrollment charter school is subject to:  
+|  (1) a provision of this title establishing a criminal  
+| offense; and  
+|  (2) a prohibition, restriction, or requirement, as  
+| applicable, imposed by this title or a rule adopted under this  
+| title, relating to:  
+|  (A) the Public Education Information Management  
+| System (PEIMS) to the extent necessary to monitor compliance with  
+| this subchapter as determined by the commissioner;  
+|  (B) criminal history records under Subchapter C,  
+| Chapter 22;  
+|  (C) reading instruments and accelerated reading  
+| instruction programs under Section 28.006;  
+|  (D) accelerated instruction under Section  
+| 28.0211;  
+|  (E) high school graduation requirements under  
+| Section 28.025;  
+|  (F) special education programs under Subchapter  
+| A, Chapter 29;  
+|  (G) bilingual education under Subchapter B,  
+| Chapter 29;  
+|  (H) prekindergarten programs under Subchapter E  
+| or E-1, Chapter 29;  
+|  (I) extracurricular activities under Section  
+| 33.081;  
+|  (J) discipline management practices or behavior  
+| management techniques under Section 37.0021;  
+|  (K) health and safety under Chapter 38;  
+|  (L) public school accountability under  
+| Subchapters B, C, D, F, G, and J, Chapter 39, and Chapter 39A;  
+|  (M) the requirement under Section 21.006 to  
+| report an educator's misconduct;  
+|  (N) intensive programs of instruction under  
+| Section 28.0213;  
+|  (O) the right of a school employee to report a  
+| crime, as provided by Section 37.148; [ ~~and~~ ]  
+|  (P) bullying prevention policies and procedures  
+| under Section 37.0832;  
+|  (Q) the right of a school under Section 37.0052  
+| to place a student who has engaged in certain bullying behavior in a  
+| disciplinary alternative education program or to expel the student;  
+| [ ~~and~~ ]  
+|  (R) the right under Section 37.0151 to report to  
+| local law enforcement certain conduct constituting assault or  
+| harassment _;_  
+|  _(S)_ [ ~~(P)~~ ] a parent's right to information  
+| regarding the provision of assistance for learning difficulties to  
+| the parent's child as provided by Sections 26.004(b)(11) and  
+| 26.0081(c) and (d) _; and_  
+|  _(T)_ _____the reporting of certain information_  
+| _regarding restraints, complaints, citations, and arrests under_  
+| _Section 37.087_.  
+|  SECTION 3. This Act applies beginning with the 2019-2020  
+| school year.  
+|  SECTION 4. To the extent of any conflict, this Act prevails  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 5. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

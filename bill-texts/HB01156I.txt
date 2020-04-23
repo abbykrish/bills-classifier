@@ -1,0 +1,44 @@
+| 86R7094 PMO-D  
+---|---  
+|  By: Collier | H.B. No. 1156  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the provision and use of health coverage information to  
+| educate consumers purchasing individual health benefit coverage.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle B, Title 5, Insurance Code, is amended  
+| by adding Chapter 526 to read as follows:  
+| _CHAPTER 526. CONSUMER HEALTH COVERAGE EDUCATION_  
+|  _Sec. 526.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Agent" means a person who may act as an agent for_  
+| _the sale of a health benefit plan under a license issued under Title_  
+| _13._  
+|  _(2) "Individual health benefit plan" means:_  
+|  _(A)_ _____an individual accident and health insurance_  
+| _policy to which Chapter 1201 applies; or_  
+|  _(B)_ _____individual health maintenance organization_  
+| _coverage._  
+|  _Sec._ ___526.002._ _____PROVISION OF REQUIRED INFORMATION. (a) A_  
+| _health benefit plan issuer that offers an individual health benefit_  
+| _plan shall provide health coverage information adopted by the_  
+| _commissioner under Section 526.003 to each agent who acts on behalf_  
+| _of the health benefit plan issuer with respect to the sale of the_  
+| _individual health benefit plan._  
+|  _(b)_ _____An agent who receives health coverage information_  
+| _described by Subsection (a) from a health benefit plan issuer may_  
+| _not sell or receive an application for an individual health benefit_  
+| _plan issued by the health benefit plan issuer until the agent_  
+| _provides the health coverage information to the prospective_  
+| _purchaser of the individual health benefit plan._  
+|  _Sec._ ___526.003._ _____RULES. (a)_ ___The commissioner by rule shall_  
+| _adopt the form and content of the health coverage information_  
+| _required under Section 526.002._  
+|  _(b)_ _____The health coverage information adopted under_  
+| _Subsection (a) must be designed to educate a prospective purchaser_  
+| _of an individual health benefit plan about policy and coverage_  
+| _provisions, including copayments, deductibles, and coinsurance,_  
+| _provider networks, and financial responsibilities for in-network_  
+| _and out-of-network services._  
+|  SECTION 2. This Act takes effect January 1, 2020.
+

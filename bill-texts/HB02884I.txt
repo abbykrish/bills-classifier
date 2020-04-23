@@ -1,0 +1,97 @@
+|  
+---|---  
+|  By: Miller | H.B. No. 2884  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to statewide technology centers and cloud computing  
+| services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Subchapter L, Chapter 2054,  
+| Government Code, is amended to read as follows:  
+| SUBCHAPTER L. STATEWIDE TECHNOLOGY CENTERS _AND CLOUD COMPUTING_  
+| _SERVICES_  
+|  SECTION 2. Section 2054.375, Government Code, is amended by  
+| 10 amending Subdivision (1) and adding Subdivision (1-a) to read as  
+| follows:  
+|  (1) _"Cloud computing service" has the meaning assigned_  
+| _by Section 2157.007._  
+|  _(1-a)_ "Governmental entity" means a state agency or  
+| local government.  
+|  SECTION 3. Section 2054.378, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2054.378. _AUTHORIZATION FOR CLOUD COMPUTING SERVICES_  
+| _OR SELECTION FOR CENTER SERVICES;_ SCOPE OF OPERATION OF CENTERS.  
+| (a) _The department shall:_  
+|  _(1)_ _____allows a state agency to contract with a cloud_  
+| _computing service provider for services described by Subsection_  
+| _(b); or_  
+|  _(2)_ _____allows a state agency to utilize services_  
+| _described by subsection (b) by a statewide technology center._  
+|  _(b)_ The department may operate statewide technology centers  
+| to provide two or more governmental entities, on a cost-sharing  
+| basis, services relating to:  
+|  (1) information resources and information resources  
+| technology; and  
+|  (2) the deployment, development, and maintenance of  
+| software applications.  
+|  _(c)_ [ ~~(b)~~ ] The department may operate a statewide technology  
+| 10 center directly or contract with another person to operate the 11  
+| center.  
+|  _(d)_ _____agencies have a choice in determining whether to utilize_  
+| _a cloud service provider and/or the statewide technology center._  
+|  SECTION 4. Section 2054.382(a), Government Code, is amended  
+| to read as follows:  
+|  (a) _Either a cloud service provider_ or the department _may_  
+| [ ~~shall~~ ] manage the operations of 15 statewide technology centers  
+| that provide data center services or disaster recovery services for  
+| two or more state agencies, including management of the operations  
+| of the center on the campus of Angelo State University.  
+|  SECTION 5. Section 2054.384, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2054.384. COST AND REQUIREMENTS ANALYSIS. (a) _Each_  
+| _state agency the department considers for participation under this_  
+| _subchapter_ [ ~~The department~~ ] shall conduct a cost and requirements  
+| analysis _to determine the agency's information resource technology_  
+| _needs and shall consider using a cloud computing service, including_  
+| _any security benefits and cost savings associated with purchasing_  
+| _the service from a cloud computing service provider, or_ [ ~~for each~~  
+|  ~~state agency that the department intends to select for~~  
+|  ~~participation in~~ ] a statewide technology center.  
+|  (b) A [ ~~selected~~ ] state agency shall identify _the agency's_  
+| [ ~~its~~ ] particular _technology_ requirements, operations costs, and  
+| requested service levels for the department. The department may 6  
+| require a state agency to validate or resubmit data related to these  
+| factors. [ ~~The department shall fulfill the requirements and~~  
+|  ~~service levels of each state agency to the extent possible.~~ ]  
+|  SECTION 6. Section 2054.390, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2054.390. _PRIORITIZATION AND USE OF EXISTING CAPACITY_  
+| _REQUIRED_ [ ~~MIGRATION OF SERVICES~~ ]. _If the_ [ ~~(a) The~~ ]
+department  
+| _adopts a_ [ ~~shall prioritize the migration of services to the~~  
+|  ~~statewide technology center system established under this~~  
+|  ~~subchapter based on the size of the current technology center~~  
+|  ~~operational environment at a state agency, with the largest 25~~  
+|  ~~technology center environments ranking highest in priority.~~  
+|  [ ~~(c)~~ ~~~~ ~~~~ ~~A state agency shall comply with the department's~~  
+|  ~~request to migrate under this section.~~  
+|  [ ~~(d) Any~~] consolidation plan _to migrate services to a_  
+| _statewide technology center established under this subchapter, the_  
+| _department shall_ [ ~~adopted by the department to execute this section~~  
+|  ~~must~~ ] prioritize and fully use the existing capacity of the State  
+| Data Center located on the campus of Angelo State University.  
+|  SECTION 7. Section 2054.392, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2054.392. STATEWIDE TECHNOLOGY ACCOUNT. The  
+| comptroller shall establish in the state treasury the statewide  
+| technology account. The account is a revolving fund account for the  
+| administration of this subchapter. The account is the depository  
+| for all money received from entities served under this subchapter.  
+| Money in the account may be used only for _a_ [ ~~the operation and~~  
+|  ~~management of a statewide technology center or for any other~~ ]  
+| purpose specified by the legislature.  
+|  SECTION 8. Sections 2054.382(c) and (d) and Section  
+| 2054.391, Government Code, are repealed.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

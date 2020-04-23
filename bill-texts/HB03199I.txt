@@ -1,0 +1,63 @@
+| 86R12220 ATP-D  
+---|---  
+|  By: Calanni | H.B. No. 3199  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the cancellation of a ballot to be voted early by mail  
+| by voting by personal appearance at a polling place that uses an  
+| electronic signature roster.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 63.011(a-1), Election Code, is amended  
+| to read as follows:  
+|  (a-1) _Except as provided by Section 84.032(d-2), a_ [ ~~A~~ ]  
+| person to whom the early voting clerk was required to provide an  
+| early voting ballot by mail under Section 86.001 and who did not  
+| vote early by mail may cast a provisional ballot on election day if  
+| the person executes an affidavit stating that the person:  
+|  (1) is a registered voter in the precinct in which the  
+| person seeks to vote; and  
+|  (2) did not vote early by mail.  
+|  SECTION 2. Section 84.032, Election Code, is amended by  
+| amending Subsection (b) and adding Subsections (d-1) and (d-2) to  
+| read as follows:  
+|  (b) A request must:  
+|  (1) be in writing and signed by the applicant;  
+|  (2) specify the election for which the application was  
+| made; and  
+|  (3) except as provided by Subsection (c), (d), _(d-1),_  
+| or (e), be received by the early voting clerk:  
+|  (A) not later than the third day before election  
+| day; and  
+|  (B) if an early voting ballot sent to the  
+| applicant is returned to the clerk as a marked ballot, before the  
+| marked ballot's arrival at the address on the carrier envelope.  
+|  _(d-1)_ _____An applicant may also submit a request by voting early_  
+| _by personal appearance or by appearing in person to vote on election_  
+| _day if:_  
+|  _(1)_ _____the polling place at which the applicant seeks to_  
+| _vote by personal appearance uses a signature roster in the form of_  
+| _an electronic device that:_  
+|  _(A)_ _____is capable of accurately indicating whether_  
+| _the applicant has returned a ballot to be voted by mail; and_  
+|  _(B)_ _____provides information to the early voting_  
+| _clerk to ensure that any ballot canceled under this subsection and_  
+| _subsequently received will not be counted; and_  
+|  _(2)_ _____the early voting clerk, deputy early voting clerk,_  
+| _or presiding election judge, as applicable, determines from the_  
+| _signature roster that the applicant has not returned the_  
+| _applicant's ballot to be voted by mail._  
+|  _(d-2)_ _____A person who cancels an application for a ballot to be_  
+| _voted early by mail under Subsection (d-1) and is accepted for_  
+| _voting is not required to vote a provisional ballot under Section_  
+| _63.011(a-1)._  
+|  SECTION 3. Section 84.038, Election Code, is amended to  
+| read as follows:  
+|  Sec. 84.038. CANCELLATION EFFECTIVE FOR SINGLE ELECTION.  
+| The cancellation of an application for a ballot to be voted by mail  
+| under Section 84.032(c), (d), _(d-1),_ or (e) is effective for a  
+| single ballot only and does not cancel the application with respect  
+| to a subsequent election, including a subsequent election to which  
+| the same application applies under Section 84.001(e) or 86.0015(b).  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

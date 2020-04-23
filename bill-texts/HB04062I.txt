@@ -1,0 +1,636 @@
+| 86R17503 MEW/KJE-F  
+---|---  
+|  By: King of Hemphill | H.B. No. 4062  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the salary paid to certain public school teachers, the  
+| creation of certain teacher designations, and allotments for  
+| certain educators under the Foundation School Program; authorizing  
+| the imposition of a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 21, Education Code, is  
+| amended by adding Sections 21.063 and 21.064 to read as follows:  
+|  _Sec._ ___21.063._ _____TEACHER DESIGNATIONS ON CERTIFICATE. (a)_ ___The_  
+| _board shall place the appropriate designation issued to a teacher_  
+| _under Subchapter P on the teacher's certificate as soon as_  
+| _practicable after being notified by the agency of the issuance of_  
+| _the designation._  
+|  _(b)_ _____The board shall remove a designation under Subchapter P_  
+| _from a teacher's certificate on:_  
+|  _(1)_ _____expiration of the designation, unless the agency_  
+| _notifies the board that the designation has been renewed; or_  
+|  _(2)_ _____revocation of the designation under Section_  
+| _21.755(d)._  
+|  _Sec._ ___21.064._ _____LEGACY MASTER TEACHER CERTIFICATIONS. (a)_ __  
+| _The board shall recognize a master teacher certificate issued under_  
+| _former Section 21.0481, 21.0482, 21.0483, or 21.0484 until the_  
+| _certificate expires. The board shall note a designation of_  
+| _"legacy" on the certificate._  
+|  _(b)_ _____A master teacher certificate described by Subsection_  
+| _(a) is not eligible for funding under the educator effectiveness_  
+| _allotment under Section 42.170._  
+|  SECTION 2. Section 21.355(d), Education Code, is amended to  
+| read as follows:  
+|  (d) A school district or open-enrollment charter school  
+| _shall_ [ ~~may~~ ] give the agency _information regarding the performance_  
+| _of a teacher or administrator, including_ a document evaluating the  
+| performance of a teacher or administrator _currently or previously_  
+| employed by the district or school for purposes of an investigation  
+| conducted by the agency.  
+|  SECTION 3. Section 21.402, Education Code, is amended by  
+| amending Subsections (a) and (c-1) and adding Subsections (c-2),  
+| (c-3), and (c-4) to read as follows:  
+|  (a) Except as provided by Subsection (e-1) [ ~~or (f)~~ ], a  
+| school district must pay each [ ~~classroom teacher,~~ ] full-time  
+| librarian, full-time school counselor certified under Subchapter  
+| B, or full-time school nurse not less than the minimum monthly  
+| salary, based on the employee's level of experience in addition to  
+| other factors, as determined by commissioner rule, determined by  
+| the following formula:  
+| MS = SF x FS  
+| where:  
+|  "MS" is the minimum monthly salary;  
+|  "SF" is the applicable salary factor specified by Subsection  
+| (c); and  
+|  "FS" is the amount, as determined by the commissioner under  
+| Subsection (b), of the basic allotment as provided by Section  
+| 42.101(a) or (b) for a school district with a maintenance and  
+| operations tax rate at least equal to the state maximum compressed  
+| tax rate, as defined by Section 42.101(a).  
+|  (c-1) Notwithstanding Subsections (a) and (b), each school  
+| district shall pay a monthly salary to each [ ~~classroom teacher,~~  
+|  ~~full-time speech pathologist,~~ ] full-time librarian, full-time  
+| school counselor certified under Subchapter B, and full-time school  
+| nurse that is at least equal to the following monthly salary or the  
+| monthly salary determined by the commissioner under Subsections (a)  
+| and (b), whichever is greater:  
+|  |  | Years of |  Monthly  
+---|---|---  
+|  |  | Experience |  Salary  
+---|---|---  
+|  |  | 0 |  2,732  
+---|---|---  
+|  |  | 1 |  2,791  
+---|---|---  
+|  |  | 2 |  2,849  
+---|---|---  
+|  |  | 3 |  2,908  
+---|---|---  
+|  |  | 4 |  3,032  
+---|---|---  
+|  |  | 5 |  3,156  
+---|---|---  
+|  |  | 6 |  3,280  
+---|---|---  
+|  |  | 7 |  3,395  
+---|---|---  
+|  |  | 8 |  3,504  
+---|---|---  
+|  |  | 9 |  3,607  
+---|---|---  
+|  |  | 10 |  3,704  
+---|---|---  
+|  |  | 11 |  3,796  
+---|---|---  
+|  |  | 12 |  3,884  
+---|---|---  
+|  |  | 13 |  3,965  
+---|---|---  
+|  |  | 14 |  4,043  
+---|---|---  
+|  |  | 15 |  4,116  
+---|---|---  
+|  |  | 16 |  4,186  
+---|---|---  
+|  |  | 17 |  4,251  
+---|---|---  
+|  |  | 18 |  4,313  
+---|---|---  
+|  |  | 19 |  4,372  
+---|---|---  
+|  |  | 20 & Over |  4,427  
+---|---|---  
+|  _(c-2)_ _____Except as provided by Subsection (c-4), a school_  
+| _district must pay each fully certified classroom teacher not less_  
+| _than the following monthly salary, based on the teacher's level of_  
+| _experience in addition to other factors, as determined by_  
+| _commissioner rule:_  
+|  |  | _Years of_ | _Monthly_  
+---|---|---  
+|  |  | _Experience_ | _Salary_  
+---|---|---  
+|  |  | _0_ | _3,300_  
+---|---|---  
+|  |  | _1_ | _3,700_  
+---|---|---  
+|  |  | _2_ | _4,050_  
+---|---|---  
+|  |  | _3_ | _4,350_  
+---|---|---  
+|  |  | _4_ | _4,600_  
+---|---|---  
+|  |  | _5_ | _4,800_  
+---|---|---  
+|  |  | _6_ | _4,950_  
+---|---|---  
+|  |  | _7_ | _5,050_  
+---|---|---  
+|  |  | _8_ | _5,125_  
+---|---|---  
+|  |  | _9_ | _5,175_  
+---|---|---  
+|  |  | _10_ | _5,200_  
+---|---|---  
+|  |  | _11_ | _5,226_  
+---|---|---  
+|  |  | _12_ | _5,250_  
+---|---|---  
+|  |  | _13_ | _5,275_  
+---|---|---  
+|  |  | _14_ | _5,300_  
+---|---|---  
+|  |  | _15_ | _5,310_  
+---|---|---  
+|  |  | _16_ | _5,320_  
+---|---|---  
+|  |  | _17_ | _5,330_  
+---|---|---  
+|  |  | _18_ | _5,340_  
+---|---|---  
+|  |  | _19_ | _5,350_  
+---|---|---  
+|  |  | _20 & Over_ | _5,360_  
+---|---|---  
+|  _(c-3)_ _____For purposes of Subsection (c-2), a "fully certified_  
+| _classroom teacher" means a classroom teacher who holds a_  
+| _certificate issued under Subchapter B but does not include:_  
+|  _(1)_ _____a person who holds an emergency certificate issued_  
+| _under Section 21.041(b)(2);_  
+|  _(2)_ _____a person who holds a certificate issued pursuant_  
+| _to enrollment in an approved alternative certification program_  
+| _under Section 21.049 but who has not completed all program and other_  
+| _certification requirements;_  
+|  _(3)_ _____a person who holds a school district teaching_  
+| _permit issued under Section 21.055; or_  
+|  _(4)_ _____a person employed under a waiver granted by the_  
+| _commissioner under Section 7.056._  
+|  _(c-4)_ _____The board of trustees of a school district may adopt a_  
+| _minimum salary schedule based on performance tiers, as determined_  
+| _by teacher appraisal and performance criteria under Sections 21.351_  
+| _and 21.352, instead of years of experience._ ___A minimum salary_  
+| _schedule adopted under this subsection:_  
+|  _(1)_ _____is not required to have a salary factor based on_  
+| _minimum years of experience for a performance tier;_  
+|  _(2) must include:_  
+|  _(A)_ _____a minimum salary for each performance tier;_  
+| _and_  
+|  _(B)_ _____at least one performance tier with a minimum_  
+| _salary of not less than the minimum salary under the salary schedule_  
+| _specified by Subsection (c-2) for a classroom teacher with 20 or_  
+| _more years of experience; and_  
+|  _(3)_ _____may not set a minimum salary at an amount that is_  
+| _less than the minimum salary under the salary schedule specified by_  
+| _Subsection (c-2) for a classroom teacher with zero years of_  
+| _experience._  
+|  SECTION 4. Chapter 21, Education Code, is amended by adding  
+| Subchapter P to read as follows:  
+| _SUBCHAPTER P._ ___RECOGNIZED, EXEMPLARY, AND MASTER TEACHER_  
+| _DESIGNATIONS_  
+|  _Sec._ ___21.751._ _____DEFINITION. In this subchapter, "classroom_  
+| _teacher" includes an individual who:_  
+|  _(1)_ _____is a teacher of record who teaches at least half_  
+| _the average number of students for a teaching assignment at the_  
+| _school campus at which the teacher is employed; and_  
+|  _(2)_ _____satisfies the amount of teaching time requirement_  
+| _in the definition of a classroom teacher under Section 5.001 by_  
+| _providing educator leadership, including collaborating with,_  
+| _mentoring, or supporting other teachers._  
+|  _Sec._ ___21.752._ _____RECOGNIZED, EXEMPLARY, AND MASTER TEACHER_  
+| _DESIGNATIONS._ ___(a)_ ___To recognize the performance of teachers in this_  
+| _state, the commissioner shall:_  
+|  _(1)_ _____establish an approval process for school districts_  
+| _and open-enrollment charter schools to designate a teacher as a_  
+| _recognized, exemplary, or master teacher and include the_  
+| _designation on the teacher's teaching certificate;_  
+|  _(2)_ _____develop and provide technical assistance for_  
+| _school districts and open-enrollment charter schools in making_  
+| _teacher designations, including:_  
+|  _(A)_ _____methods to involve staff in locally_  
+| _developing the process for designating teachers under this_  
+| _subchapter; and_  
+|  _(B)_ _____assistance focusing on problems faced by_  
+| _rural school districts; and_  
+|  _(3)_ _____subject to Subsection (b), authorize school_  
+| _districts and open-enrollment charter schools to make teacher_  
+| _designations for a five-year period, provided that the district's_  
+| _teacher designation system meets the requirements under Section_  
+| _21.754._  
+|  _(b)_ _____The commissioner shall use an institution of higher_  
+| _education to verify that the appraisals of a representative sample_  
+| _of classroom teachers meet the requirements for teacher_  
+| _designations under this subchapter. Verification may include_  
+| _on-site classroom observations or observations by video or audio_  
+| _recording of classroom sessions._  
+|  _Sec._ ___21.753._ _____ELIGIBILITY CRITERIA FOR TEACHER DESIGNATION._  
+| _(a)_ ___To be eligible for a teacher designation under this subchapter,_  
+| _a classroom teacher must:_  
+|  _(1)_ _____hold an eligible teaching certificate issued under_  
+| _Subchapter B; and_  
+|  _(2)_ _____satisfy any additional requirements adopted by the_  
+| _school district or open-enrollment charter school at which the_  
+| _teacher is employed._  
+|  _(b)_ _____A school district or open-enrollment charter school may_  
+| _designate a classroom teacher as recognized if the classroom_  
+| _teacher:_  
+|  _(1)_ _____holds a National Board Certification issued by the_  
+| _National Board for Professional Teaching Standards; and_  
+|  _(2) meets the other requirements of this section._  
+|  _(c)_ _____Except as provided by Subsection (d), the commissioner_  
+| _may approve a school district or open-enrollment charter school to_  
+| _designate a teacher under this subchapter if the district's or_  
+| _school's designation system under Section 21.754 determines that_  
+| _among teachers in the state in similar teaching assignments, the_  
+| _teacher is:_  
+|  _(1)_ _____for a recognized teacher, in the top 33 percent in_  
+| _teaching performance;_  
+|  _(2)_ _____for an exemplary teacher, in the top 20 percent in_  
+| _teaching performance; or_  
+|  _(3)_ _____for a master teacher, in the top 5 percent of_  
+| _teaching performance._  
+|  _(d)_ _____The commissioner may raise the percentages required_  
+| _under Subsection (c) to ensure consistency of teacher performance_  
+| _standards over multiple school years as statewide performance_  
+| _improves, including for the purpose of teacher designation_  
+| _renewals._  
+|  _Sec._ ___21.754._ _____DISTRICT TEACHER DESIGNATION SYSTEMS. (a)_ ___A_  
+| _district's teacher designation system must incorporate:_  
+|  _(1)_ _____an educator appraisal system that complies with_  
+| _Section 21.351 or 21.352, including incorporating student_  
+| _performance, which may be measured by student performance over_  
+| _multiple school years;_  
+|  _(2)_ _____student perception surveys for the third grade_  
+| _level and higher;_  
+|  _(3)_ _____educator leadership, including collaborating_  
+| _with, mentoring, or supporting other teachers;_  
+|  _(4)_ _____reliable observation-based appraisal components,_  
+| _including the use of independent observers and processes to ensure_  
+| _inter-rater reliability of observers; and_  
+|  _(5)_ _____reliable underlying student assessments used to_  
+| _evaluate student performance, including test security protocols_  
+| _and defined testing windows._  
+|  _(a-1)_ _____A school district's or open-enrollment charter_  
+| _school's teacher designation system is not required to incorporate_  
+| _the surveys required under Subsection (a)(2) until the 2022-2023_  
+| _school year. This subsection expires September 1, 2023._  
+|  _(b)_ _____The commissioner may not authorize a school district or_  
+| _open-enrollment charter school to make teacher designations under_  
+| _this subchapter until the district's teacher designation system has_  
+| _evaluated classroom teachers in compliance with Subsection (a)(4)._  
+|  _(c)_ _____The commissioner may develop an auditing process for_  
+| _district teacher designation systems to maintain quality and ensure_  
+| _compliance. The commissioner may, as necessary:_  
+|  _(1)_ _____revoke the commissioner's approval of a district's_  
+| _designation system;_  
+|  _(2)_ _____require modifications to a district's designation_  
+| _system to retain the commissioner's approval;_  
+|  _(3)_ _____suspend eligibility for funding for a district's_  
+| _noncompliance with an audit; or_  
+|  _(4)_ _____recover funds under Section 42.258 from a district_  
+| _that has a designation system that is out of compliance or for which_  
+| _the commissioner's approval has been revoked._  
+|  _(d)_ _____The commissioner may adopt necessary reporting_  
+| _processes and timelines for the auditing process under Subsection_  
+| _(c)._  
+|  _Sec._ ___21.755._ _____VALIDITY AND EXPIRATION OF TEACHER_  
+| _DESIGNATION. (a)_ ___A teacher designation under this subchapter:_  
+|  _(1)_ _____is valid until the teacher designation expires_  
+| _regardless of whether the teacher:_  
+|  _(A) changes teaching assignment;_  
+|  _(B) transfers school campuses; or_  
+|  _(C)_ _____is employed by another school district or_  
+| _open-enrollment charter school; and_  
+|  _(2)_ _____expires at the end of the school year during which_  
+| _the fifth anniversary of the date on which the teacher receives the_  
+| _designation occurs._  
+|  _(b)_ _____A teacher has no vested property right in a teacher_  
+| _designation assigned to the teacher under this subchapter._  
+|  _(c)_ _____A teacher designation issued under this subchapter is_  
+| _void on the determination that the designation was issued_  
+| _improperly._ ___Subchapters C through H, Chapter 2001, Government_  
+| _Code, do not apply to the voiding of a teacher designation under_  
+| _this subsection._  
+|  _(d)_ _____The State Board for Educator Certification may revoke or_  
+| _suspend a certificate holder's teacher designation issued under_  
+| _this subchapter._  
+|  _Sec._ ___21.756._ _____MULTIPLE DESIGNATIONS PROHIBITED. A teacher_  
+| _may receive only one teacher designation under this subchapter at_  
+| _any time. If a teacher qualifies for:_  
+|  _(1)_ _____both a recognized and exemplary teacher_  
+| _designation, the teacher receives the exemplary designation; and_  
+|  _(2)_ _____either a recognized or exemplary designation and a_  
+| _master designation, the teacher receives a master designation._  
+|  _Sec._ ___21.757._ _____INFORMATION RELATING TO TEACHER AND STUDENT_  
+| _PERFORMANCE. (a) The agency, or an entity the agency contracts_  
+| _with to implement this subchapter, may access information required_  
+| _to verify an eligibility determination under this subchapter,_  
+| _including information from the school district or open-enrollment_  
+| _charter school at which the teacher is or was employed relating to_  
+| _the performance of the teacher's current or previous students._  
+|  _(b)_ _____The agency shall collect information necessary to_  
+| _implement this subchapter, which may include student performance_  
+| _information for a sample of students across the state and_  
+| _information regarding educator appraisals._  
+|  _(c)_ _____A school district or open-enrollment charter school_  
+| _shall provide any information required under this subchapter._  
+|  _(d)_ _____Information otherwise confidential remains_  
+| _confidential and is not subject to Chapter 552, Government Code._  
+|  _Sec._ ___21.758._ _____FEES. (a) The commissioner may adopt fees for_  
+| _the authorization of school districts and open-enrollment charter_  
+| _schools to make teacher designations under this subchapter._  
+|  _(b)_ _____A fee adopted by the agency under this subchapter is not_  
+| _subject to Sections 2001.0045 and 2001.0221, Government Code._  
+|  _Sec._ ___21.759._ _____STUDENT PERFORMANCE STUDY. (a) The_  
+| _commissioner shall periodically conduct a study using an external_  
+| _organization to determine the impact of the teacher designations_  
+| _issued under this subchapter on student performance._  
+|  _(b)_ _____The commissioner shall make recommendations as_  
+| _necessary to the governor and the legislature to improve the_  
+| _quality of and impact on student performance of teacher_  
+| _designations issued under this subchapter._  
+|  _Sec._ ___21.760._ _____ADVISORY COMMITTEE OR PANEL. (a)_ ___The_  
+| _commissioner may appoint a committee or panel to advise, make_  
+| _recommendations, or make determinations relating to any duties_  
+| _assigned to the commissioner under this subchapter._  
+|  _(b)_ _____A committee or panel appointed under this section is not_  
+| _subject to Chapter 2110, Government Code._  
+|  _Sec._ ___21.761._ _____RULES; FINALITY OF DECISIONS. (a) The_  
+| _commissioner may adopt rules to implement this subchapter._  
+|  _(b)_ _____A decision made by the commissioner under this_  
+| _subchapter is final and may not be appealed._  
+|  SECTION 5. Section 25.112, Education Code, is amended by  
+| adding Subsection (g) to read as follows:  
+|  _(g)_ _____The limit in Subsection (a) does not apply to a class_  
+| _taught by a teacher who has been issued a recognized, exemplary, or_  
+| _master teacher designation under Subchapter P, Chapter 21._  
+|  SECTION 6. Subchapter C, Chapter 42, Education Code, is  
+| amended by adding Sections 42.169, 42.170, and 42.171 to read as  
+| follows:  
+|  _Sec._ ___42.169._ _____EDUCATOR SALARY TRANSITION ALLOTMENT FOR_  
+| _MINIMUM SALARY INCREASE. (a) A school district to which Section_  
+| _21.402 applies for the 2019-2020 school year is entitled to receive_  
+| _an annual allotment as determined by the following formula:_  
+| _A = 1.5 X S - ((CYM &O - BYM&O) X ADA)_  
+| _where:_  
+|  _"A" is the allotment a district receives for purposes of_  
+| _paying the increased costs associated with the minimum salary_  
+| _schedule under Section 21.402 beginning with the 2019-2020 school_  
+| _year;_  
+|  _"S" is the total amount of additional costs a district would_  
+| _be required to pay for salary and benefits for employees subject to_  
+| _the minimum salary schedule in the 2017-2018 school year if the_  
+| _minimum salary schedule for the 2019-2020 school year applied to_  
+| _those employees;_  
+|  _"CYM &O" is the amount of a district's maintenance and _  
+| _operations entitlement under this chapter per student in average_  
+| _daily attendance for the current school year;_  
+|  _"BYM &O" is the amount of a district's maintenance and _  
+| _operations entitlement under this chapter per student in average_  
+| _daily attendance for the 2018-2019 school year; and_  
+|  _"ADA" is the average daily attendance for a district for the_  
+| _current school year._  
+|  _(b)_ _____For purposes of calculating the formula in Subsection_  
+| _(a), the commissioner shall:_  
+|  _(1)_ _____if the value of "A" results in a negative number,_  
+| _use zero for the value of "A";_  
+|  _(2)_ _____include in the calculation of an employee's salary_  
+| _and benefits an additional 4.2 percent of the amount that the_  
+| _employee is entitled to receive under the minimum salary schedule_  
+| _in effect for the 2019-2020 school year for the increased costs of_  
+| _Medicare and other payroll benefits;_  
+|  _(3)_ _____exclude 50 percent of the following amounts to_  
+| _which a district is entitled in the calculation of a district's_  
+| _maintenance and operations entitlement:_  
+|  _(A)_ _____the educator effectiveness allotment under_  
+| _Section 42.170; and_  
+|  _(B)_ _____amounts received as educator effectiveness_  
+| _fee reimbursement under Section 42.171;_  
+|  _(4)_ _____adjust the calculation under Subsection (a) to_  
+| _reflect:_  
+|  _(A) a reduction in tax effort by a district;_  
+|  _(B) property value adjustments due to a disaster;_  
+|  _(C)_ _____any additional state aid due to disaster_  
+| _remediation; and_  
+|  _(D)_ _____the sparsity adjustment under Section_  
+| _42.105;_  
+|  _(5)_ _____exclude funding provided to a district for the_  
+| _2018-2019 school year under Sections 41.002(e)-(g) and former_  
+| _Subchapter H, Chapter 42;_  
+|  _(6)_ _____if a school district receives a waiver relating to_  
+| _eligibility requirements for the national free or reduced-price_  
+| _lunch program under 42 U.S.C. Section 1751 et seq., use the number_  
+| _of educationally disadvantaged students on which the district's_  
+| _entitlement to compensatory education funds was based for the_  
+| _school year before the school year in which the district received_  
+| _the waiver, adjusted for estimated enrollment growth; and_  
+|  _(7)_ _____include increased state contributions made under_  
+| _Section 825.405, Government Code, for the current school year as_  
+| _compared to the 2018-2019 school year._  
+|  _(c)_ _____A decision by the commissioner under this section is_  
+| _final and may not be appealed._  
+|  _Sec._ ___42.170._ _____EDUCATOR EFFECTIVENESS ALLOTMENT. (a) In this_  
+| _section, "classroom teacher" has the meaning assigned by Section_  
+| _21.751._  
+|  _(b)_ _____For each classroom teacher with a teacher designation_  
+| _under Subchapter P, Chapter 21, employed by a school district, the_  
+| _school district is entitled to an allotment equal to:_  
+| _A = B + (SCE X DM)_  
+| _where:_  
+|  _"A" is the allotment provided to a school district per_  
+| _classroom teacher who holds a teacher designation;_  
+|  _"B" is the applicable base amount for a classroom teacher_  
+| _provided under Subsection (c);_  
+|  _"SCE" is the state compensatory education factor determined_  
+| _under Subsection (d); and_  
+|  _"DM" is the applicable designation multiplier for a classroom_  
+| _teacher under Subsection (e)._  
+|  _(c)_ _____The base amount for each classroom teacher with a_  
+| _teacher designation is as follows:_  
+|  _(1) $3,000 for each recognized teacher;_  
+|  _(2) $6,000 for each exemplary teacher; and_  
+|  _(3) $12,000 for each master teacher._  
+|  _(d)_ _____The state compensatory education factor is the amount_  
+| _equal to:_  
+|  _(1)_ _____the sum of the individual student disadvantage_  
+| _index tier values divided by the total student population of the_  
+| _campus at which the teacher for which the allotment is being_  
+| _calculated is employed, where the individual student disadvantage_  
+| _index tier values are given a value of zero to four as determined by_  
+| _the commissioner based on the severity of a student's disadvantage;_  
+| _or_  
+|  _(2)_ _____if the school district qualifies as a rural school_  
+| _district based on criteria adopted by the commissioner, the value_  
+| _that is the lesser of:_  
+|  _(A) 4.0; or_  
+|  _(B)_ _____the value that results from Subdivision (1)_  
+| _plus 2.0._  
+|  _(e)_ _____The designation multiplier is as follows for the_  
+| _applicable teacher designation:_  
+|  _(1) $1,500 for recognized;_  
+|  _(2) $3,000 for exemplary; and_  
+|  _(3) $5,000 for master._  
+|  _(f)_ _____A district's allotment under Subsection (b) for a_  
+| _classroom teacher may not be greater than $32,000._  
+|  _(g)_ _____A school district is not eligible for an allotment under_  
+| _Subsection (b) for a classroom teacher whose designation has_  
+| _expired or been revoked._  
+|  _(h)_ _____The commissioner shall provide in an easily readable_  
+| _format a list of campuses with the potential allotment amounts that_  
+| _would be available for teachers with designations employed at the_  
+| _campus._  
+|  _(i)_ _____A district shall annually certify that all funds_  
+| _received under this section were used for:_  
+|  _(1) educator compensation;_  
+|  _(2)_ _____costs associated with implementing Subchapter P,_  
+| _Chapter 21; or_  
+|  _(3) professional development for educators._  
+|  _(j)_ _____The commissioner shall provide funding under this_  
+| _section for teacher designations made on the basis of a classroom_  
+| _teacher's performance during the 2018-2019 school year if the_  
+| _district:_  
+|  _(1)_ _____receives approval from the commissioner during the_  
+| _2019-2020 school year for the district's local teacher designation_  
+| _system; and_  
+|  _(2)_ _____provides compensation to a classroom teacher for_  
+| _the 2019-2020 school year based on the teacher's qualifying_  
+| _performance for a designation._  
+|  _(j-1)_ _____Subsection (j) and this subsection expire September_  
+| _1, 2020._  
+|  _Sec._ ___42.171._ _____EDUCATOR EFFECTIVENESS FEE REIMBURSEMENT. (a)_  
+| _A school district is entitled to reimbursement for any fee paid_  
+| _under Subchapter P, Chapter 21, or membership fees paid to the_  
+| _National Board for Professional Standards for the purpose of_  
+| _Section 21.753(b)._  
+|  _(b)_ _____The commissioner shall provide reimbursement under this_  
+| _section for fees relating to teacher designations made on the basis_  
+| _of a classroom teacher's performance during the 2018-2019 school_  
+| _year if the district:_  
+|  _(1)_ _____receives approval from the commissioner during the_  
+| _2019-2020 school year for the district's local teacher designation_  
+| _system; and_  
+|  _(2)_ _____provides compensation to a classroom teacher for_  
+| _the 2019-2020 school year based on the teacher's qualifying_  
+| _performance for a designation._  
+|  _(b-1)_ _____Subsection (b) and this subsection expire September_  
+| _1, 2020._  
+|  SECTION 7. Section 42.302(a), Education Code, is amended to  
+| read as follows:  
+|  (a) Each school district is guaranteed a specified amount  
+| per weighted student in state and local funds for each cent of tax  
+| effort over that required for the district's local fund assignment  
+| up to the maximum level specified in this subchapter. The amount of  
+| state support, subject only to the maximum amount under Section  
+| 42.303, is determined by the formula:  
+| GYA = (GL X WADA X DTR X 100) - LR  
+| where:  
+|  "GYA" is the guaranteed yield amount of state funds to be  
+| allocated to the district;  
+|  "GL" is the dollar amount guaranteed level of state and local  
+| funds per weighted student per cent of tax effort, which is an  
+| amount described by Subsection (a-1) or a greater amount for any  
+| year provided by appropriation;  
+|  "WADA" is the number of students in weighted average daily  
+| attendance, which is calculated by dividing the sum of the school  
+| district's allotments under Subchapters B and C, less any allotment  
+| to the district for transportation, any _additional funding_  
+| [ ~~allotment~~ ] under Section 42.158 _,_ [ ~~or~~ ] 42.160, _42.169,
+42.170, or_  
+| _42.171_ and 50 percent of the adjustment under Section 42.102, by  
+| the basic allotment for the applicable year;  
+|  "DTR" is the district enrichment tax rate of the school  
+| district, which is determined by subtracting the amounts specified  
+| by Subsection (b) from the total amount of maintenance and  
+| operations taxes collected by the school district for the  
+| applicable school year and dividing the difference by the quotient  
+| of the district's taxable value of property as determined under  
+| Subchapter M, Chapter 403, Government Code, or, if applicable,  
+| under Section 42.2521, divided by 100; and  
+|  "LR" is the local revenue, which is determined by multiplying  
+| "DTR" by the quotient of the district's taxable value of property as  
+| determined under Subchapter M, Chapter 403, Government Code, or, if  
+| applicable, under Section 42.2521, divided by 100.  
+|  SECTION 8. Sections 825.405(a), (b), (e), and (f),  
+| Government Code, are amended to read as follows:  
+|  (a) _An employing school district or an open-enrollment_  
+| _charter school, as applicable, shall pay the state's contribution_  
+| _on the portion of a member's salary that exceeds the statutory_  
+| _minimum salary for_ [ ~~For~~ ] members _:_  
+|  _(1)_ entitled to the minimum salary for certain school  
+| personnel under Section 21.402, Education Code _;_  
+|  _(2)_ [ ~~, and for members~~ ] who would have been entitled to  
+| the minimum salary for certain school personnel under former  
+| Section 16.056, Education Code, as that section existed on January  
+| 1, 1995 _; and_  
+|  _(3)_ _____who would be entitled to the minimum salary for_  
+| _certain school personnel under Section 21.402, Education Code, if_  
+| _the member was employed by a school district subject to that section_  
+| _instead of being employed by:_  
+|  _(A) an open-enrollment charter school; or_  
+|  _(B)_ _____a school district that has adopted a local_  
+| _innovation plan under Chapter 12A, Education Code, that exempts the_  
+| _district's employees from the minimum salary schedule under that_  
+| _section_ [ ~~, the employing district shall pay the state's contribution~~  
+|  ~~on the portion of the member's salary that exceeds the statutory~~  
+|  ~~minimum salary~~ ].  
+|  (b) For purposes of this section _,_ [ ~~:~~  
+|  [ ~~(1)~~ ] the statutory minimum salary for _a member_  
+| _described by:_  
+|  _(1) Subsection (a)(1)_ [ ~~certain school personnel under~~  
+|  ~~Section 21.402, Education Code,~~ ] is the salary provided by _Section_  
+| _21.402, Education Code_ [ ~~that section multiplied by the cost of~~  
+|  ~~education adjustment applicable under Section 42.102, Education~~  
+|  ~~Code, to the district in which the member is employed~~ ]; [ ~~and~~ ]  
+|  (2) _Subsection (a)(2)_ [ ~~the statutory minimum salary~~  
+|  ~~for members who would have been entitled to the minimum salary for~~  
+|  ~~certain school personnel under former Section 16.056, Education~~  
+|  ~~Code, as that section existed on January 1, 1995,~~ ] is a minimum  
+| salary computed in the same manner as the minimum salary for certain  
+| school personnel under Section 21.402, Education Code _; and_  
+|  _(3)_ _____Subsection (a)(3) is the minimum salary the member_  
+| _would have been entitled to if the member was subject to Section_  
+| _21.402, Education Code_ [ ~~, multiplied by the cost of education~~  
+|  ~~adjustment applicable under Section 42.102, Education Code, to the~~  
+|  ~~district in which the member is employed~~ ].  
+|  (e) After the end of each school year, the retirement system  
+| shall certify to the commissioner of education:  
+|  (1) the names of any _employers_ [ ~~employing districts~~ ]  
+| that have failed to remit, within the period required by Section  
+| 825.408, all contributions required under this section for the  
+| school year; and  
+|  (2) the amounts of the unpaid contributions.  
+|  (f) If the commissioner of education receives a  
+| certification under Subsection (e), the commissioner shall direct  
+| the comptroller of public accounts to withhold the amount  
+| certified, plus interest computed at the rate and in the manner  
+| provided by Section 825.408, from the first state money payable to  
+| the _employer_ [ ~~school district~~ ].  The amount withheld shall be  
+| deposited to the credit of the appropriate accounts of the  
+| retirement system.  
+|  SECTION 9. The following provisions of the Education Code  
+| are repealed:  
+|  (1) Section 21.0481;  
+|  (2) Section 21.0482;  
+|  (3) Section 21.0483;  
+|  (4) Section 21.0484;  
+|  (5) Section 21.357;  
+|  (6) Sections 21.402(f) and (h);  
+|  (7) Section 21.410;  
+|  (8) Section 21.411;  
+|  (9) Section 21.412; and  
+|  (10) Section 21.413.  
+|  SECTION 10. The State Board for Educator Certification may  
+| not issue a new or renew a master teacher certificate issued under  
+| Section 21.0481, 21.0482, 21.0483, or 21.0484, Education Code, on  
+| or after the effective date of this Act.  
+|  SECTION 11. This Act takes effect September 1, 2019.
+

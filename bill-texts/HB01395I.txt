@@ -1,0 +1,299 @@
+| 86R6674 KFF-F  
+---|---  
+|  By: Reynolds | H.B. No. 1395  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a "Texas Way" to reforming and addressing issues  
+| related to the Medicaid program, including the creation of an  
+| alternative program designed to ensure health benefit plan coverage  
+| to certain low-income individuals through the private marketplace.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1.  BLOCK GRANT FUNDING SYSTEM FOR STATE MEDICAID PROGRAM  
+|  SECTION 1.01. Subtitle I, Title 4, Government Code, is  
+| amended by adding Chapter 540 to read as follows:  
+| _CHAPTER 540._ ___BLOCK GRANT FUNDING SYSTEM FOR STATE MEDICAID PROGRAM_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec._ ___540.0001._ _____DEFINITIONS. Notwithstanding Section_  
+| _531.001, in this chapter:_  
+|  _(1)_ _____"Health benefit exchange" means an American Health_  
+| _Benefit Exchange administered by the federal government or an_  
+| _exchange created under Section 1311(b) of the Patient Protection_  
+| _and Affordable Care Act (42 U.S.C. Section 18031(b))._  
+|  _(2)_ _____"Medicaid program" means the medical assistance_  
+| _program established and operated under Title XIX, Social Security_  
+| _Act (42 U.S.C. Section 1396 et seq.)._  
+|  _(3)_ _____"State Medicaid program" means the medical_  
+| _assistance program provided by this state under the Medicaid_  
+| _program._  
+|  _Sec._ ___540.0002._ _____FEDERAL AUTHORIZATION TO REFORM MEDICAID_  
+| _REQUIRED. If the federal government establishes, through_  
+| _conversion or otherwise, a block grant funding system for the_  
+| _Medicaid program or otherwise authorizes the state Medicaid program_  
+| _to operate under a block grant funding system, including under a_  
+| _Medicaid program waiver, the commission, in cooperation with_  
+| _applicable health and human services agencies, shall, subject to_  
+| _Section 540.0003, administer and operate the state Medicaid program_  
+| _in accordance with this chapter._  
+|  _Sec._ ___540.0003._ _____CONFLICT WITH OTHER LAW. To the extent of a_  
+| _conflict between a provision of this chapter and:_  
+|  _(1)_ _____another provision of state law, the provision of_  
+| _this chapter controls, subject to Section 540A.0002(b); and_  
+|  _(2)_ _____a provision of federal law or any authorization_  
+| _described under Section 540.0002, the federal law or authorization_  
+| _controls._  
+|  _Sec._ ___540.0004._ _____ESTABLISHMENT OF REFORMED STATE MEDICAID_  
+| _PROGRAM. The commission shall establish a state Medicaid program_  
+| _that provides benefits under a risk-based Medicaid managed care_  
+| _model._  
+|  _Sec._ ___540.0005._ _____RULES. The executive commissioner shall_  
+| _adopt rules necessary to implement this chapter._  
+| _SUBCHAPTER B._ ___ACUTE CARE_  
+|  _Sec._ ___540.0051._ _____ELIGIBILITY FOR MEDICAID ACUTE CARE. (a)_ ___An_  
+| _individual is eligible to receive acute care benefits under the_  
+| _state Medicaid program if the individual:_  
+|  _(1)_ _____has a household income at or below 100 percent of_  
+| _the federal poverty level;_  
+|  _(2) is under 19 years of age and:_  
+|  _(A)_ _____is receiving Supplemental Security Income_  
+| _(SSI) under 42 U.S.C. Section 1381 et seq.; or_  
+|  _(B)_ _____is in foster care or resides in another_  
+| _residential care setting under the conservatorship of the_  
+| _Department of Family and Protective Services; or_  
+|  _(3)_ _____meets the eligibility requirements that were in_  
+| _effect on September 1, 2013._  
+|  _(b)_ _____The commission shall provide acute care benefits under_  
+| _the state Medicaid program to each individual eligible under this_  
+| _section through the most cost-effective means, as determined by the_  
+| _commission._  
+|  _(c)_ _____If an individual is not eligible for the state Medicaid_  
+| _program under Subsection (a), the commission shall refer the_  
+| _individual to the program established under Chapter 540A that helps_  
+| _connect eligible residents with health benefit plan coverage_  
+| _through private market solutions, a health benefit exchange, or any_  
+| _other resource the commission determines appropriate._  
+|  _Sec._ ___540.0052._ _____MEDICAID SLIDING SCALE SUBSIDIES. (a)_ ___An_  
+| _individual who is eligible for the state Medicaid program under_  
+| _Section 540.0051 may receive a Medicaid sliding scale subsidy to_  
+| _purchase a health benefit plan from an authorized health benefit_  
+| _plan issuer._  
+|  _(b)_ _____A sliding scale subsidy provided to an individual under_  
+| _this section must:_  
+|  _(1) be based on:_  
+|  _(A) the average premium in the market; and_  
+|  _(B)_ ___a realistic assessment of the individual's_  
+| _ability to pay a portion of the premium; and_  
+|  _(2)_ _____include an enhancement for individuals who choose_  
+| _a high deductible health plan with a health savings account._  
+|  _(c)_ _____The commission shall ensure that counselors are made_  
+| _available to individuals receiving a subsidy to advise the_  
+| _individuals on selecting a health benefit plan that meets the_  
+| _individuals' needs._  
+|  _(d)_ _____An individual receiving a subsidy under this section is_  
+| _responsible for paying:_  
+|  _(1)_ _____any difference between the premium costs_  
+| _associated with the purchase of a health benefit plan and the amount_  
+| _of the individual's subsidy under this section; and_  
+|  _(2)_ _____any copayments associated with the health benefit_  
+| _plan._  
+|  _(e)_ _____If the amount of a subsidy received by an individual_  
+| _under this section exceeds the premium costs associated with the_  
+| _individual's purchase of a health benefit plan, the individual may_  
+| _deposit the excess amount in a health savings account that may be_  
+| _used only in the manner described by Section 540.0054(b)._  
+|  _Sec._ ___540.0053._ _____ADDITIONAL COST-SHARING SUBSIDIES. In_  
+| _addition to providing a subsidy to an individual under Section_  
+| _540.0052, the commission shall provide additional subsidies for_  
+| _coinsurance payments, copayments, deductibles, and other_  
+| _cost-sharing requirements associated with the individual's health_  
+| _benefit plan._ ___The commission shall provide the additional_  
+| _subsidies on a sliding scale based on income._  
+|  _Sec._ ___540.0054._ _____DELIVERY OF SUBSIDIES; HEALTH SAVINGS_  
+| _ACCOUNTS._ ___(a)_ ___The commission shall determine the most appropriate_  
+| _manner for delivering and administering subsidies provided under_  
+| _Sections 540.0052 and 540.0053. In determining the most_  
+| _appropriate manner, the commission shall consider depositing_  
+| _subsidy amounts for an individual in a health savings account_  
+| _established for that individual._  
+|  _(b)_ _____A health savings account established under this section_  
+| _may be used only to:_  
+|  _(1)_ _____pay health benefit plan premiums and cost-sharing_  
+| _amounts; and_  
+|  _(2)_ _____if appropriate, purchase health care-related_  
+| _goods and services._  
+|  _Sec._ ___540.0055._ _____MEDICAID HEALTH BENEFIT PLAN ISSUERS AND_  
+| _MINIMUM COVERAGE. The commission shall allow any health benefit_  
+| _plan issuer authorized to write health benefit plans in this state_  
+| _to participate in the state Medicaid program._ ___The commission in_  
+| _consultation with the commissioner of insurance shall establish_  
+| _minimum coverage requirements for a health benefit plan to be_  
+| _eligible for purchase under the state Medicaid program, subject to_  
+| _the requirements specified by this chapter._  
+|  _Sec._ ___540.0056._ _____REINSURANCE FOR PARTICIPATING HEALTH_  
+| _BENEFIT PLAN ISSUERS._ ___(a)_ ___The commission in consultation with the_  
+| _commissioner of insurance shall study a reinsurance program to_  
+| _reinsure participating health benefit plan issuers._  
+|  _(b)_ _____In examining options for a reinsurance program, the_  
+| _commission and the commissioner of insurance shall consider a plan_  
+| _design under which:_  
+|  _(1)_ _____a participating health benefit plan is not charged_  
+| _a premium for the reinsurance; and_  
+|  _(2)_ _____the health benefit plan issuer retains risk on a_  
+| _sliding scale._  
+| _SUBCHAPTER C. LONG-TERM SERVICES AND SUPPORTS_  
+|  _Sec._ ___540.0101._ _____PLAN TO REFORM DELIVERY OF LONG-TERM_  
+| _SERVICES AND SUPPORTS._ ___The commission shall develop a_  
+| _comprehensive plan to reform the delivery of long-term services and_  
+| _supports that is designed to achieve the following objectives under_  
+| _the state Medicaid program or any other program created as an_  
+| _alternative to the state Medicaid program:_  
+|  _(1) encourage consumer direction;_  
+|  _(2) simplify and streamline the provision of services;_  
+|  _(3)_ _____provide flexibility to design benefits packages_  
+| _that meet the needs of individuals receiving long-term services and_  
+| _supports under the program;_  
+|  _(4)_ _____improve the cost-effectiveness and sustainability_  
+| _of the provision of long-term services and supports;_  
+|  _(5) reduce reliance on institutional settings; and_  
+|  _(6)_ _____encourage cost-sharing by family members when_  
+| _appropriate._  
+| ARTICLE 2.  PROGRAM TO ENSURE HEALTH BENEFIT COVERAGE FOR CERTAIN  
+| INDIVIDUALS THROUGH PRIVATE MARKETPLACE  
+|  SECTION 2.01. Subtitle I, Title 4, Government Code, is  
+| amended by adding Chapter 540A to read as follows:  
+| _CHAPTER 540A._ ___PROGRAM TO ENSURE HEALTH BENEFIT PLAN COVERAGE FOR_  
+| _CERTAIN INDIVIDUALS THROUGH PRIVATE MARKET SOLUTIONS_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec._ ___540A.0001._ _____DEFINITION. In this chapter, "state_  
+| _Medicaid program" has the meaning assigned by Section 540.0001._  
+|  _Sec._ ___540A.0002._ _____CONFLICT WITH OTHER LAW. (a)_ ___Except as_  
+| _provided by Subsection (b), to the extent of a conflict between a_  
+| _provision of this chapter and:_  
+|  _(1)_ _____another provision of state law, the provision of_  
+| _this chapter controls; and_  
+|  _(2)_ _____a provision of federal law or any authorization_  
+| _described under Subchapter B, the federal law or authorization_  
+| _controls._  
+|  _(b)_ _____The program operated under this chapter is in addition_  
+| _to the state Medicaid program operated under Chapter 32, Human_  
+| _Resources Code, or under a block grant funding system under Chapter_  
+| _540._  
+|  _Sec._ ___540A.0003._ _____PROGRAM FOR HEALTH BENEFIT PLAN COVERAGE_  
+| _THROUGH PRIVATE MARKET SOLUTIONS. Subject to the requirements of_  
+| _this chapter, the commission in consultation with the commissioner_  
+| _of insurance shall develop and implement a program that helps_  
+| _connect certain low-income residents of this state with health_  
+| _benefit plan coverage through private market solutions._  
+|  _Sec._ ___540A.0004._ _____NOT AN ENTITLEMENT. This chapter does not_  
+| _establish an entitlement to assistance in obtaining health benefit_  
+| _plan coverage._  
+|  _Sec._ ___540A.0005._ _____RULES. The executive commissioner shall_  
+| _adopt rules necessary to implement this chapter._  
+| _SUBCHAPTER B._ ___FEDERAL AUTHORIZATION_  
+|  _Sec._ ___540A.0051._ _____FEDERAL AUTHORIZATION FOR FLEXIBILITY TO_  
+| _ESTABLISH PROGRAM. (a)_ ___The commission in consultation with the_  
+| _commissioner of insurance shall negotiate with the United States_  
+| _secretary of health and human services, the federal Centers for_  
+| _Medicare and Medicaid Services, and other appropriate persons for_  
+| _purposes of seeking a waiver or other authorization necessary to_  
+| _obtain the flexibility to use federal matching funds to help_  
+| _provide, in accordance with Subchapter C, health benefit plan_  
+| _coverage to certain low-income individuals through private market_  
+| _solutions._  
+|  _(b) Any agreement reached under this section must:_  
+|  _(1)_ _____create a program that is made cost neutral to this_  
+| _state by:_  
+|  _(A) leveraging premium tax revenues; and_  
+|  _(B)_ _____achieving cost savings through offsets to_  
+| _general revenue health care costs or the implementation of other_  
+| _cost savings mechanisms;_  
+|  _(2)_ _____create more efficient health benefit plan coverage_  
+| _options for eligible individuals through:_  
+|  _(A)_ _____program changes that may be made without the_  
+| _need for additional federal approval; and_  
+|  _(B)_ _____program changes that require additional_  
+| _federal approval;_  
+|  _(3)_ _____require the commission to achieve efficiency and_  
+| _reduce unnecessary utilization, including duplication, of health_  
+| _care services;_  
+|  _(4) be designed with the goals of:_  
+|  _(A) relieving local tax burdens;_  
+|  _(B)_ _____reducing general revenue reliance so as to_  
+| _make general revenue available for other state priorities; and_  
+|  _(C)_ _____minimizing the impact of any federal health_  
+| _care laws on Texas-based businesses; and_  
+|  _(5)_ _____afford this state the opportunity to develop a_  
+| _state-specific way with benefits that specifically meet the unique_  
+| _needs of this state's population._  
+|  _(c) An agreement reached under this section may be:_  
+|  _(1) limited in duration; and_  
+|  _(2)_ _____contingent on continued funding by the federal_  
+| _government._  
+| _SUBCHAPTER C._ ___PROGRAM REQUIREMENTS_  
+|  _Sec._ ___540A.0101._ _____ENROLLMENT ELIGIBILITY. (a)_ ___Subject to_  
+| _Subsection (b), an individual may be eligible to enroll in a program_  
+| _designed and established under this chapter if the person:_  
+|  _(1) is younger than 65;_  
+|  _(2)_ _____has a household income at or below 133 percent of_  
+| _the federal poverty level; and_  
+|  _(3)_ _____is not otherwise eligible to receive benefits_  
+| _under the state Medicaid program, including through a program_  
+| _operated under Chapter 32, Human Resources Code, or under Chapter_  
+| _540 through a block grant funding system or a waiver, other than a_  
+| _waiver granted under this chapter, to the program._  
+|  _(b)_ _____The executive commissioner may modify or further define_  
+| _the eligibility requirements of this section if the commission_  
+| _determines it necessary to reach an agreement under Subchapter B._  
+|  _Sec._ ___540A.0102._ _____MINIMUM PROGRAM REQUIREMENTS. A program_  
+| _designed and established under this chapter must:_  
+|  _(1)_ _____if cost-effective for this state, provide premium_  
+| _assistance to purchase health benefit plan coverage in the private_  
+| _market, including health benefit plan coverage offered through a_  
+| _managed care delivery model;_  
+|  _(2)_ _____provide enrollees with access to health benefits,_  
+| _including benefits provided through a managed care delivery model,_  
+| _that:_  
+|  _(A) are tailored to the enrollees;_  
+|  _(B)_ _____provide levels of coverage that are_  
+| _customized to meet health care needs of individuals within defined_  
+| _categories of the enrolled population; and_  
+|  _(C)_ _____emphasize personal responsibility and_  
+| _accountability through flexible and meaningful cost-sharing_  
+| _requirements and wellness initiatives, including through_  
+| _incentives for compliance with health, wellness, and treatment_  
+| _strategies and disincentives for noncompliance;_  
+|  _(3)_ _____include pay-for-performance initiatives for_  
+| _private health benefit plan issuers that participate in the_  
+| _program;_  
+|  _(4)_ _____use technology to maximize the efficiency with_  
+| _which the commission and any health benefit plan issuer, health_  
+| _care provider, or managed care organization participating in the_  
+| _program manages enrollee participation;_  
+|  _(5)_ _____allow recipients under the state Medicaid program_  
+| _to enroll in the program to receive premium assistance as an_  
+| _alternative to the state Medicaid program;_  
+|  _(6)_ _____encourage eligible individuals to enroll in other_  
+| _private or employer-sponsored health benefit plan coverage, if_  
+| _available and appropriate;_  
+|  _(7)_ _____encourage the utilization of health care services_  
+| _in the most appropriate low-cost settings; and_  
+|  _(8)_ _____establish health savings accounts for enrollees,_  
+| _as appropriate._  
+|  SECTION 2.02. The Health and Human Services Commission in  
+| consultation with the commissioner of insurance shall actively  
+| develop a proposal for the authorization from the appropriate  
+| federal entity as required by Subchapter B, Chapter 540A,  
+| Government Code, as added by this article. As soon as possible  
+| after the effective date of this Act, the Health and Human Services  
+| Commission shall request and actively pursue obtaining the  
+| authorization from the appropriate federal entity.  
+| ARTICLE 3.  FEDERAL AUTHORIZATION AND EFFECTIVE DATE  
+|  SECTION 3.01. Subject to Section 2.02 of this Act, if before  
+| implementing any provision of this Act a state agency determines  
+| that a waiver or authorization from a federal agency is necessary  
+| for implementation of that provision, the agency affected by the  
+| provision shall request the waiver or authorization and may delay  
+| implementing that provision until the waiver or authorization is  
+| granted.  
+|  SECTION 3.02. This Act takes effect September 1, 2019.
+

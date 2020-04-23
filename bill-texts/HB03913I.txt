@@ -1,0 +1,34 @@
+| 86R13556 BEF-D  
+---|---  
+|  By: Huberty | H.B. No. 3913  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an exception from required disclosure under the public  
+| information law for certain personal information obtained by  
+| certain flood control districts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 552, Government Code, is  
+| amended by adding Section 552.159 to read as follows:  
+|  _Sec._ ___552.159._ _____EXCEPTION: CERTAIN PERSONAL INFORMATION_  
+| _OBTAINED BY FLOOD CONTROL DISTRICT. The following information_  
+| _obtained by a flood control district located in a county with a_  
+| _population of 3.3 million or more in connection with operations_  
+| _related to a declared disaster or flooding is excepted from the_  
+| _requirements of Section 552.021:_  
+|  _(1) a person's name;_  
+|  _(2) a home address;_  
+|  _(3) a business address;_  
+|  _(4) a home telephone number;_  
+|  _(5) a mobile telephone number;_  
+|  _(6) an electronic mail address;_  
+|  _(7) social media account information; and_  
+|  _(8) a social security number._  
+|  SECTION 2. Section 552.159, Government Code, as added by  
+| this Act, applies only to a request for public information received  
+| on or after the effective date of this Act.  A request received  
+| before that date is governed by the law in effect when the request  
+| was received, and the former law is continued in effect for that  
+| purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

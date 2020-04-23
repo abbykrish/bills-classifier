@@ -1,0 +1,37 @@
+|  
+---|---  
+|  By: Parker | H.B. No. 3645  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the registration and regulation of brokers by the  
+| Public Utility Commission of Texas.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter H, Chapter 39, Utilities Code, is  
+| amended by adding Section 39.3555 to read as follows:  
+|  _Sec._ ___39.3555._ _____REGISTRATION OF BROKERS. (a)_ ___In this_  
+| _section, "brokerage services" means providing advice or_  
+| _procurement services to, or acting on behalf of, a retail electric_  
+| _customer regarding the selection of a retail electric provider, or_  
+| _the product or service of a retail electric provider, or selling or_  
+| _attempting to sell retail electric products or services offered by_  
+| _retail electric providers to retail electric customers, including_  
+| _online services._  
+|  _(b)_ _____A person may not provide brokerage services in this_  
+| _state for compensation or other consideration unless the person is_  
+| _registered with the commission as a broker._  
+|  _(c)_ _____A retail electric provider is not a broker and may not_  
+| _knowingly provide bids or offers to an unregistered broker, and a_  
+| _broker may not sell or take title to electric energy._  
+|  _(d)_ _____A person who registers under this section shall comply_  
+| _with customer protection provisions, disclosure requirements, and_  
+| _marketing guidelines established by the commission and by this_  
+| _title._  
+|  _(e)_ _____The commission shall adopt rules as necessary to_  
+| _implement this section._  
+|  
+| _(f)_ _____The commission shall process a person's application for_  
+| _registration as a broker not later than the 60th day after the date_  
+| _the person files the application._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

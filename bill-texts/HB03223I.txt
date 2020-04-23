@@ -1,0 +1,36 @@
+| 86R10369 LED-D  
+---|---  
+|  By: Oliverson | H.B. No. 3223  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the enrollment of health care providers in Medicaid.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 531.02118, Government Code, is amended  
+| by adding Subsections (e), (f), and (g) to read as follows:  
+|  _(e)_ _____The commission shall enroll a provider as a Medicaid_  
+| _provider, without requiring the provider to separately apply for_  
+| _enrollment through the entity serving as the state's Medicaid_  
+| _claims administrator, if the provider is:_  
+|  _(1)_ _____credentialed by a managed care organization that_  
+| _contracts with the commission under Chapter 533; or_  
+|  _(2) enrolled as a Medicare provider._  
+|  _(f)_ _____The commission shall track the number of providers that_  
+| _enroll as Medicaid providers through each type of enrollment_  
+| _process described by Subsection (e), including the enrollment_  
+| _process through the entity serving as the state's Medicaid claims_  
+| _administrator._  
+|  _(g)_ _____The commission shall develop a process to streamline the_  
+| _Medicaid enrollment of a provider who:_  
+|  _(1)_ _____provides services to a recipient who is also_  
+| _enrolled in a private group health benefit plan; and_  
+|  _(2)_ _____is enrolled as a provider in that group health_  
+| _benefit plan._  
+|  SECTION 2. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

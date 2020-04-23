@@ -1,0 +1,164 @@
+| 86R6295 GRM-F  
+---|---  
+|  By: Raymond | H.B. No. 2860  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to on-site distributed generation and energy storage  
+| resources.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle C, Title 5, Business & Commerce Code, is  
+| amended by adding Chapter 113 to read as follows:  
+| _CHAPTER 113. SALES AND LEASING OF ON-SITE DISTRIBUTED GENERATION_  
+| _RESOURCES_  
+|  _Sec. 113.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Distributed generation" has the meaning assigned_  
+| _by Section 39.1015(a), Utilities Code._  
+|  _(2)_ _____"Small commercial customer" has the meaning_  
+| _assigned by Section 39.202(o), Utilities Code._  
+|  _Sec._ ___113.002._ _____APPLICABILITY. This chapter applies to a_  
+| _seller or lessor of on-site distributed generation resources._  
+|  _Sec._ ___113.003._ _____LEASE, SALES, AND INSTALLATION DISCLOSURES._ __  
+| _A seller or lessor who enters into a purchase, lease, or power_  
+| _purchase agreement with a residential or small commercial customer_  
+| _for the operation of an on-site distributed generation resource_  
+| _shall provide to the customer in writing:_  
+|  _(1)_ _____contact information of the salesperson and_  
+| _installer of the generation resource;_  
+|  _(2)_ _____a description of the generation resource,_  
+| _including all associated equipment to be installed;_  
+|  _(3)_ _____the cost of the generation resource, including all_  
+| _associated equipment to be installed;_  
+|  _(4)_ _____a detailed accounting of fees associated with the_  
+| _installation or operation of the generation resource;_  
+|  _(5)_ _____representations made as part of the agreement_  
+| _regarding the expected operational performance and financial_  
+| _performance of the generation resource; and_  
+|  _(6) all applicable warranties._  
+|  _Sec._ ___113.004._ _____ADDITIONAL DISCLOSURES FOR LEASE AGREEMENTS._  
+| _In addition to the disclosures required under Section 113.003, a_  
+| _lessor shall provide to a leasing residential or small commercial_  
+| _customer in writing:_  
+|  _(1)_ _____the term and rate of the lease, including any_  
+| _payment escalators or other terms that affect the customer's_  
+| _payments; and_  
+|  _(2)_ _____a statement of whether the lease and any_  
+| _applicable warranty or maintenance agreement is transferable to the_  
+| _purchaser of the property where the on-site distributed generation_  
+| _resource is installed._  
+|  _Sec._ ___113.005._ _____ADDITIONAL DISCLOSURES FOR POWER PURCHASE_  
+| _AGREEMENTS. In addition to the disclosures required under Section_  
+| _113.003, a residential or small commercial customer who enters into_  
+| _a power purchase agreement is entitled to receive in writing:_  
+|  _(1)_ _____the term and rate of the power purchase agreement,_  
+| _including any payment escalators or other terms that affect the_  
+| _customer's payments; and_  
+|  _(2)_ _____whether the power purchase agreement and any_  
+| _applicable warranty or maintenance agreement is transferable to the_  
+| _purchaser of the property where the on-site distributed generation_  
+| _resource is installed._  
+|  SECTION 2. Chapter 229, Local Government Code, is amended  
+| by adding Subchapter C to read as follows:  
+| _SUBCHAPTER C. REGULATION OF SOLAR ENERGY DEVICES_  
+|  _Sec._ ___229.101._ _____REGULATION OF SOLAR ENERGY DEVICES. (a) In_  
+| _this section:_  
+|  _(1)_ _____"Small commercial customer" has the meaning_  
+| _assigned by Section 39.202(o), Utilities Code._  
+|  _(2)_ _____"Solar energy device" has the meaning assigned by_  
+| _Section 171.107, Tax Code._  
+|  _(b)_ _____A municipality may prohibit a residential or small_  
+| _commercial customer from installing a solar energy device only for_  
+| _a purpose for which a property owners' association may prohibit the_  
+| _installation under Section 202.010(d), Property Code._  
+|  SECTION 3. The heading to Section 202.010, Property Code,  
+| is amended to read as follows:  
+|  Sec. 202.010. REGULATION OF _CERTAIN_ [ ~~SOLAR~~ ] ENERGY DEVICES.  
+|  SECTION 4. Section 202.010(a), Property Code, is amended by  
+| adding Subdivision (3) to read as follows:  
+|  _(3)_ _____"Distributed generation" has the meaning assigned_  
+| _by Section 39.1015(a), Utilities Code._  
+|  SECTION 5. Section 202.010, Property Code, is amended by  
+| adding Subsection (g) to read as follows:  
+|  _(g)_ _____A property owners' association may not include or_  
+| _enforce a provision in a dedicatory instrument that:_  
+|  _(1)_ _____requires three or more inspections by the property_  
+| _owners' association of an on-site distributed generation or energy_  
+| _storage resource before the resource is operational;_  
+|  _(2)_ _____is more onerous than interconnection rules adopted_  
+| _by the Public Utility Commission of Texas; or_  
+|  _(3)_ _____imposes any inspection or approval requirements or_  
+| _changes more onerous than those required for a proposed_  
+| _modification or improvement of an owner's property that is_  
+| _unrelated to on-site distributed generation or energy storage._  
+|  SECTION 6. Subchapter C, Chapter 39, Utilities Code, is  
+| amended by adding Section 39.1015 to read as follows:  
+|  _Sec._ ___39.1015._ _____CONSUMER PROTECTIONS FOR CERTAIN ON-SITE_  
+| _ENERGY GENERATION AND STORAGE._ ___(a)_ ___In this section, "distributed_  
+| _generation" means electric generation with a capacity of not more_  
+| _than 2,000 kilowatts that is installed on a retail electric_  
+| _customer's side of the meter._  
+|  _(b)_ _____A residential or small commercial customer is entitled_  
+| _to have access to on-site distributed generation and energy storage_  
+| _resources to:_  
+|  _(1) generate and export electricity to the grid;_  
+|  _(2) consume electricity from the grid; and_  
+|  _(3)_ _____reduce the customer's use of electricity from the_  
+| _grid._  
+|  _(c)_ _____A residential or small commercial customer is entitled_  
+| _to store energy at the location of the customer's connection to the_  
+| _grid._  
+|  _(d)_ _____A residential or small commercial customer that_  
+| _installs an on-site distributed generation or energy storage_  
+| _resource is entitled to timely approval of an interconnection_  
+| _agreement and interconnection of distributed generation or energy_  
+| _storage with the customer's transmission and distribution utility_  
+| _or electric utility in accordance with Section 39.554 or 39.916, as_  
+| _applicable._ ___A residential or small commercial customer is entitled_  
+| _to timely approval of any permission to operate or any other_  
+| _approval required for the customer to use the customer's on-site_  
+| _distributed generation or energy storage resource._  
+|  _(e)_ _____A residential or small commercial customer is entitled_  
+| _to timely notice from the customer's transmission and distribution_  
+| _utility or electric utility of an improvement and the cost of the_  
+| _improvement to the distribution grid that must be made to allow the_  
+| _customer to install or expand existing on-site distributed_  
+| _generation or energy storage resources._  
+|  _(f)_ _____Except for a charge to recover a cost described by_  
+| _Subsection (e), an electric utility or a retail electric provider_  
+| _may not impose a rate or charge on a residential or small commercial_  
+| _customer or require a residential or small commercial customer to_  
+| _take service under a tariff or service plan that applies only to_  
+| _customers who have installed on-site distributed generation or_  
+| _energy storage resources._  
+|  _(g)_ _____An electric utility or a retail electric provider may_  
+| _not charge a residential or small commercial customer a fee solely_  
+| _because the customer elects to discontinue service from the utility_ __  
+| _or provider._  
+|  _(h)_ _____An electric utility may not charge a residential or_  
+| _small commercial customer with an on-site distributed generation or_  
+| _energy storage resource a fee to reconnect to the electric grid that_  
+| _is more than the fee charged to a customer in the same rate class who_  
+| _does not have an on-site distributed generation or energy storage_  
+| _resource, except the interconnection fee applicable to the original_  
+| _installation of the on-site distributed generation or energy_  
+| _storage resource._  
+|  _(i)_ _____A residential or small commercial customer is entitled_  
+| _to interconnect in a manner that allows the customer to receive_  
+| _power from the customer's on-site energy storage resource when the_  
+| _electric grid is not operating if the customer's on-site_  
+| _distributed generation resource is equipped with an inverter or_  
+| _other technology that complies with a standard developed by a_  
+| _federal agency or standards widely used by industry and other_  
+| _states that enables the on-site distributed generation resource to_  
+| _safely provide power to the customer when the electric grid is not_  
+| _operating._  
+|  SECTION 7. The changes in law made by this Act apply to an  
+| agreement governing the sale or lease of a distributed generation  
+| system, as defined by Section 39.1015, Utilities Code, as added by  
+| this Act, entered into on or after the effective date of this Act.  
+| An agreement entered into before the effective date of this Act is  
+| governed by the law as it existed immediately before the effective  
+| date of this Act, and that law is continued in effect for that  
+| purpose.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

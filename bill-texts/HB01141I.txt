@@ -1,0 +1,153 @@
+| 86R5781 SOS-F  
+---|---  
+|  By: King of Uvalde | H.B. No. 1141  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an exemption from licensing requirements for certain  
+| electrical work.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1305.003(a), Occupations Code, is  
+| amended to read as follows:  
+|  (a) This chapter does not apply to:  
+|  (1) the installation of electrical equipment in a  
+| ship, watercraft other than a floating building, railway rolling  
+| stock, aircraft, motor vehicle, or recreational vehicle;  
+|  (2) the installation of electrical equipment  
+| underground in a mine and in self-propelled mobile surface mining  
+| machinery and its attendant electrical trailing cable;  
+|  (3) the installation of electrical equipment for  
+| generation, transformation, transmission, or distribution of power  
+| used exclusively to operate railway rolling stock or exclusively  
+| for signaling and communications purposes;  
+|  (4) the installation, maintenance, alteration, or  
+| repair of communications equipment provided by a  
+| telecommunications provider;  
+|  (5) the installation, maintenance, alteration, or  
+| repair of electrical equipment under the exclusive control of an  
+| electric utility, power generation company as defined by Sections  
+| 31.002(1) and (10), Utilities Code, electric cooperative, or  
+| municipally owned utility and used for communications or metering,  
+| or for the generation, control, transformation, transmission, and  
+| distribution of electrical energy, and located:  
+|  (A) in a building used exclusively by a utility  
+| or power generation company for those purposes;  
+|  (B) outdoors on property owned or leased by the  
+| utility or power generation company;  
+|  (C) on public highways, streets, roads, or other  
+| public rights-of-way; or  
+|  (D) outdoors by established rights in vaults or  
+| on private property;  
+|  (6) work not specifically regulated by a municipal  
+| ordinance that is performed in or on a dwelling by a person who owns  
+| and resides in the dwelling;  
+|  (7) work involved in the manufacture of electrical  
+| equipment that includes the on-site and off-site manufacturing,  
+| commissioning, testing, calibrating, coordinating,  
+| troubleshooting, or evaluating of electrical equipment, the  
+| repairing or retrofitting of electrical equipment with components  
+| of the same ampacity, and the maintenance and servicing of  
+| electrical equipment within the equipment's enclosure that is  
+| performed by an authorized employee or authorized representative of  
+| an electrical equipment manufacturer and limited to the type of  
+| products manufactured by the manufacturer;  
+|  (8) electrical work if:  
+|  (A) the work is performed by a person who does not  
+| engage in electrical work for the public;  
+|  (B) the work is performed by a person regularly  
+| employed as a maintenance person or maintenance electrician for a  
+| business; and  
+|  (C) the electrical work does not involve the  
+| installation of electrical equipment during new construction as  
+| defined by rules adopted under Chapter 151, Tax Code;  
+|  (9) the installation, maintenance, alteration, or  
+| repair of electrical equipment or associated wiring under the  
+| exclusive control of a gas utility and used for communications or  
+| metering or for the control, transmission, or distribution of  
+| natural gas;  
+|  (10) thoroughfare lighting, traffic signals,  
+| intelligent transportation systems, and telecommunications  
+| controlled by a governmental entity;  
+|  (11) electrical connections supplying heating,  
+| ventilation, and cooling and refrigeration equipment, including  
+| any required disconnect exclusively for the equipment, if the  
+| service is performed by a licensed air conditioning and  
+| refrigeration contractor under Chapter 1302;  
+|  (12) the design, installation, erection, repair, or  
+| alteration of Class 1, Class 2, or Class 3 remote control,  
+| signaling, or power-limited circuits, fire alarm circuits, optical  
+| fiber cables, or communications circuits, including raceways, as  
+| defined by the National Electrical Code _, that operate at less than_  
+| _50 volts and that are not capable of supplying or controlling more_  
+| _than 50 volt-amperes or 50 watts of power_ ;  
+|  (13) landscape irrigation installers, as necessary to  
+| perform the installation and maintenance of irrigation control  
+| systems, and landscapers, as necessary to perform the installation  
+| and maintenance of low-voltage exterior lighting and holiday  
+| lighting excluding any required power source;  
+|  (14) electrical work performed at a business that  
+| operates:  
+|  (A) a chemical plant, petrochemical plant,  
+| refinery, natural gas plant, natural gas treating plant, pipeline,  
+| or oil and gas exploration and production operation by a person who  
+| works solely for and is employed by that business; or  
+|  (B) a chemical plant, petrochemical plant,  
+| refinery, natural gas plant, or natural gas treatment plant by a  
+| person who under a contract of at least 12 months' duration performs  
+| electrical work for that plant and:  
+|  (i) the electrical work is not performed  
+| during new construction as defined by rules adopted under Chapter  
+| 151, Tax Code; or  
+|  (ii) the person is not working for a  
+| contractor that has a principal place of business in another state  
+| or territory of the United States or a foreign country;  
+|  (15) the installation, maintenance, alteration, or  
+| repair of elevators, escalators, or related equipment, excluding  
+| any required power source, regulated under Chapter 754, Health and  
+| Safety Code;  
+|  (16) the installation, maintenance, alteration, or  
+| repair of equipment or network facilities provided or utilized by a  
+| cable operator, as that term is defined by 47 U.S.C. Section 522, as  
+| amended;  
+|  (17) the location, design, construction, extension,  
+| maintenance, and installation of on-site sewage disposal systems in  
+| accordance with Chapter 366, Health and Safety Code, or an on-site  
+| sewage facility installer licensed under Chapter 37, Water Code;  
+|  (18) electrical work performed on a building,  
+| structure, or equipment in agricultural use as defined by Section  
+| 11.002, Water Code, other than the processing of an agricultural  
+| commodity;  
+|  (19) the installation, maintenance, alteration, or  
+| repair of well pumps and equipment in accordance with Chapter 1902;  
+|  (20) electrical work required for the construction and  
+| assembly of HUD-code manufactured housing or modular housing and  
+| building units, other than the installation of service entrance  
+| conductors, that is performed by a licensed manufacturer or  
+| installer under Chapter 1201 or 1202, as applicable, if work  
+| performed is within the scope of the license as defined by  
+| applicable statutes and administrative rules;  
+|  (21) work performed by a plumber who holds a license or  
+| endorsement or is registered under Chapter 1301 that is necessary  
+| to install, service, maintain, repair, or replace any type of  
+| plumbing fixture or appliance, as described by Section 1301.002(7),  
+| including a water heater, food disposer, garbage disposal, water  
+| softener, dishwashing machine, and clothes washing machine on  
+| existing electrical circuits only;  
+|  (22) the maintenance or repair of a residential  
+| appliance by a residential appliance dealer or manufacturer or a  
+| person authorized by a residential appliance dealer or manufacturer  
+| using only components of the same type and ampacity as the original  
+| components; and  
+|  (23) the maintenance, alteration, or repair of a  
+| pool-related electrical device by, or pool-related electrical  
+| maintenance performed by, an employee of a municipality on a pool  
+| owned or operated by the municipality.  
+|  SECTION 2. Section 1305.003, Occupations Code, as amended  
+| by this Act, applies only to a design, installation, erection,  
+| repair, or alteration that begins on or after the effective date of  
+| this Act. A design, installation, erection, repair, or alteration  
+| that begins before that date is governed by the law in effect  
+| immediately before the effective date of this Act, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

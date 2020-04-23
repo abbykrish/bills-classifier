@@ -1,0 +1,60 @@
+|  
+---|---  
+|  By: Parker | H.B. No. 4517  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment of the Texas blockchain working  
+| group.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  Whereas, blockchain technology is a critically important  
+| development in commerce and finance, and in recognition of the  
+| importance of Texas as a center of technology and commerce, the  
+| Legislature deems it important to the future of this State to  
+| develop and recommend policies for the blockchain industry and to  
+| create appropriate legal infrastructure for transactions based  
+| upon blockchain, including digital assets and virtual currencies;  
+| and  
+|  Whereas, to further the blockchain industry and to develop  
+| appropriate legislation for transactions using blockchain,  
+| including but not limited to, digital assets, virtual currency, and  
+| the integration of smart contracts, the Legislature desires to  
+| establish a working group to develop a master plan for expansion of  
+| the blockchain industry, Therefore,  
+|  Section  
+|  1. There is established a working group to develop a  
+| master plan for fostering the expansion of the blockchain industry  
+| in the state and recommend policies and state investments to make  
+| Texas a leader in blockchain technology.  Such a master plan shall:  
+| (1) Identify the economic growth and development opportunities  
+| presented by blockchain technology; (2) assess the existing  
+| blockchain industry in the state; (3) review workforce needs and  
+| academic programs required to build blockchain expertise across all  
+| relevant industries; and (4) make legislative recommendations that  
+| will help promote innovation and economic growth by reducing  
+| barriers to and expediting the expansion of the state's blockchain  
+| industry.  
+|  (b) Appointments to the working group shall include, but  
+| need not be limited to, (1) not fewer than ten public members who  
+| have knowledge and experience in blockchain technology or represent  
+| an industry that could benefit from blockchain technology, and (2)  
+| not fewer than two members representing institutions of higher  
+| education in the state.  All appointments to the working group shall  
+| be made not later than thirty days after the enactment of this  
+| legislation  
+|  (c) The work group shall be co-chaired by a member of the  
+| House appointed by the Speaker of the House and a member of the  
+| Senate appointed by the Lieutenant Governor and by a public member  
+| appointed by the Governor who shall serve as Chair.  The Speaker of  
+| the House shall appoint five public members and the Lt. Governor  
+| shall appoint 5 public members.  The Governor shall appoint the  
+| members representing institutions of higher education.  The  
+| chairperson shall schedule the first meeting of the working group,  
+| which shall be held not later than November 1, 2019.  The working  
+| group shall meet at such other times as the chairperson deems  
+| necessary.  
+|  (d) Not later than December 1, 2020, the working group shall  
+| submit a report on its findings and recommendations to the  
+| Legislature.  
+|  Section 2. This Act takes effect on September 1, 2019.
+

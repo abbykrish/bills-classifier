@@ -1,0 +1,29 @@
+| 86R11615 JXC-D  
+---|---  
+|  By: Rosenthal | H.B. No. 3480  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the disclosure of the composition of fluids and  
+| materials transported by pipelines regulated by the Railroad  
+| Commission of Texas.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Subchapter S, Chapter 91, Natural  
+| Resources Code, is amended to read as follows:  
+| SUBCHAPTER S. DISCLOSURE OF COMPOSITION OF [ ~~HYDRAULIC FRACTURING~~ ]  
+| FLUIDS _AND MATERIALS_  
+|  SECTION 2. Subchapter S, Chapter 91, Natural Resources  
+| Code, is amended by adding Section 91.852 to read as follows:  
+|  _Sec._ ___91.852._ _____DISCLOSURE OF COMPOSITION OF FLUIDS AND_  
+| _MATERIALS IN PIPELINES. (a)_ ___The commission by rule shall require a_  
+| _holder of a permit or registration for a pipeline under the_  
+| _jurisdiction of the commission's pipeline safety and regulatory_  
+| _program to provide to the commission a list of the fluids and_  
+| _materials transported by the pipeline._  
+|  _(b) The commission shall:_  
+|  _(1)_ _____adopt a standard reporting form to be used for the_  
+| _purposes of this section; and_  
+|  _(2)_ _____post lists received under this section on the_  
+| _commission's Internet website._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

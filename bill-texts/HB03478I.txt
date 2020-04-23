@@ -1,0 +1,62 @@
+| 86R10759 LED-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 3478  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an independent medical review of certain determinations  
+| by the Health and Human Services Commission or a Medicaid managed  
+| care organization.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.00715 to read as follows:  
+|  _Sec._ ___533.00715._ _____INDEPENDENT APPEALS PROCEDURE. (a) In_  
+| _this section, "third-party arbiter" means a third-party medical_  
+| _review organization that provides objective, unbiased medical_  
+| _necessity determinations conducted by clinical staff with_  
+| _education and practice in the same or similar practice area as the_  
+| _procedure for which an independent determination of medical_  
+| _necessity is sought._  
+|  _(b)_ _____The commission shall contract with at least three_  
+| _independent, third-party arbiters to resolve recipient appeals of_  
+| _any commission or a Medicaid managed care organization adverse_  
+| _benefit determination or reduction in or denial of health care_  
+| _services on the basis of medical necessity._  
+|  _(c)_ _____The commission shall establish a common procedure for_  
+| _appeals. The procedure must provide that a health care service_  
+| _ordered by a health care provider is presumed medically necessary_  
+| _and the commission or Medicaid managed care organization bears the_  
+| _burden of proof to show the health care service is not medically_  
+| _necessary. The commission shall also establish a procedure for_  
+| _expedited appeals that allows a third-party arbiter to:_  
+|  _(1)_ _____identify an appeal that requires an expedited_  
+| _resolution; and_  
+|  _(2) resolve the appeal within a specified period._  
+|  _(d)_ _____Subject to Subsection (e), the commission shall ensure_  
+| _an appeal is randomly assigned to a third-party arbiter._  
+|  _(e)_ _____The commission shall ensure each third-party arbiter_  
+| _has the necessary medical expertise to resolve an appeal._  
+|  _(f)_ _____A third-party arbiter shall establish and maintain an_  
+| _Internet portal through which a recipient may track the status and_  
+| _final disposition of an appeal._  
+|  _(g)_ _____A third-party arbiter shall educate recipients and_  
+| _employees of Medicaid managed care organizations regarding appeals_  
+| _processes, options, and proper and improper denials of health care_  
+| _services on the basis of medical necessity._  
+|  _(h)_ _____A third-party arbiter shall review aggregate denial_  
+| _data categorized by Medicaid managed care plan to identify trends_  
+| _and determine whether a Medicaid managed care organization is_  
+| _disproportionately denying prior authorization requests from a_  
+| _single provider or set of providers._  
+|  SECTION 2. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall adopt the rules necessary to implement  
+| this Act.  
+|  SECTION 3. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

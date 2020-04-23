@@ -1,0 +1,121 @@
+| 86R9647 TSR-F  
+---|---  
+|  By: Morrison | H.B. No. 3001  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the fiscal transparency of special purpose districts  
+| and other political subdivisions.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 403.0241(c) and (e), Government Code,  
+| are amended to read as follows:  
+|  (c) For each special purpose district described by  
+| Subsection (b), the database must include:  
+|  (1) the name of the special purpose district;  
+|  (2) the name of each board member of the special  
+| purpose district;  
+|  (3) contact information for the main office of the  
+| special purpose district, including the physical address, the  
+| mailing address, and the main telephone number;  
+|  (4) if the special purpose district employs a person  
+| as a general manager or executive director, or in another position  
+| to perform duties or functions comparable to those of a general  
+| manager or executive director, the name of the employee;  
+|  (5) if the special purpose district contracts with a  
+| utility operator, contact information for a person representing the  
+| utility operator, including a mailing address and a telephone  
+| number;  
+|  (6) if the special purpose district contracts with a  
+| tax assessor-collector, contact information for a person  
+| representing the tax assessor-collector, including a mailing  
+| address and telephone number;  
+|  (7) the special purpose district's Internet website  
+| address, if any;  
+|  (8) the _financial_ information _described by_ [ ~~the~~  
+|  ~~special purpose district is required to report under~~ ] Section  
+| 140.008(b) or (g), Local Government Code, including any revenue  
+| obligations;  
+|  (9) the total amount of bonds authorized by the voters  
+| of the special purpose district that are payable wholly or partly  
+| from ad valorem taxes, excluding refunding bonds if refunding bonds  
+| were separately authorized and excluding contract revenue bonds;  
+|  (10) the aggregate initial principal amount of all  
+| bonds issued by the special purpose district that are payable  
+| wholly or partly from ad valorem taxes, excluding refunding bonds  
+| and contract revenue bonds;  
+|  (11) the rate of any sales and use tax the special  
+| purpose district imposes; and  
+|  (12) for a special purpose district that imposes an ad  
+| valorem tax:  
+|  (A) the ad valorem tax rate for the most recent  
+| tax year if the district is a district as defined by Section 49.001,  
+| Water Code; or  
+|  (B) the table of ad valorem tax rates for the most  
+| recent tax year described by Section 26.16, Tax Code, in the form  
+| required by that section, if the district is not a district as  
+| defined by Section 49.001, Water Code.  
+|  (e) To the extent information required in the database is  
+| otherwise collected or maintained by a state agency or special  
+| purpose district, the comptroller may require the state agency or  
+| special purpose district to provide that information and updates to  
+| the information as necessary for inclusion in the database _in the_  
+| _form and manner prescribed by the comptroller. If the required_  
+| _information is posted separately on an Internet website that the_  
+| _state agency, comptroller, or special purpose district maintains or_  
+| _causes to be maintained, the comptroller may include in the_  
+| _database a direct link to, or a clear statement describing the_  
+| _location of, the separately posted information instead of or in_  
+| _addition to reproducing the information in the database_.  
+|  SECTION 2. Section 140.008, Local Government Code, is  
+| amended by amending Subsections (g) and (h) and adding Subsection  
+| (i) to read as follows:  
+|  (g) Notwithstanding any other provision of this section, a  
+| district, as defined by Section 49.001, Water Code, _that is not a_  
+| _district described by Section 403.0241(b), Government Code,_  
+| satisfies the requirements of this section if _, on an annual basis,_  
+| the district:  
+|  (1) complies with the requirements of Subchapter G,  
+| Chapter 49, Water Code, regarding audit reports, affidavits of  
+| financial dormancy, and annual financial reports; and  
+|  (2) _either:_  
+|  _(A)_ submits the financial documents described by  
+| Subchapter G, Chapter 49, Water Code, to the comptroller _in the form_  
+| _and manner prescribed by the comptroller; or_  
+|  _(B)_ _____takes action to ensure that the financial_  
+| _documents described by Subchapter G, Chapter 49, Water Code, are_  
+| _made available at a regular office of the district for inspection by_  
+| _any person and are posted continuously for public viewing on the_  
+| _district's Internet website_.  
+|  (h) The comptroller shall post the documents submitted to  
+| the comptroller under Subsection (g) on the comptroller's Internet  
+| website _, to the extent that the documents as submitted to the_  
+| _comptroller are in a form that facilitates compliance with_  
+| _applicable technical accessibility standards and specifications_  
+| _established in the electronic and information resources_  
+| _accessibility policy adopted by the comptroller under other law._  
+| _If the comptroller determines that compliance with posting_  
+| _requirements under this section imposes a significant difficulty or_  
+| _expense on the district, the comptroller may provide individuals_  
+| _with disabilities an alternate method of access as described by_  
+| _Section 2054.460, Government Code, instead of posting the documents_  
+| _on the comptroller's Internet website_. The comptroller shall adopt  
+| rules necessary to implement this subsection and Subsection (g).  
+|  _(i)_ _____If information required to be posted by the comptroller_  
+| _under this section is posted separately on an Internet website that_  
+| _a state agency, the comptroller, or a political subdivision,_  
+| _including a district as defined by Section 49.001, Water Code,_  
+| _maintains or causes to be maintained, the comptroller may post on_  
+| _the comptroller's Internet website a direct link to, or a clear_  
+| _statement describing the location of, the separately posted_  
+| _information instead of or in addition to reproducing the required_  
+| _information on the comptroller's website, if that information is_  
+| _easily located by searching the name of the political subdivision_  
+| _or district on the Internet._  
+|  SECTION 3. The changes in law made by this Act apply only to  
+| a report required to be made on or after the effective date of this  
+| Act. A report required to be made before the effective date of this  
+| Act is governed by the law as it existed immediately before the  
+| effective date of this Act, and that law is continued in effect for  
+| that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

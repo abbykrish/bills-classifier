@@ -1,0 +1,173 @@
+| 86R2381 AJA-D  
+---|---  
+|  By: Leach | H.B. No. 1999  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain construction liability claims concerning  
+| public buildings and public works.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle F, Title 10, Government Code, is  
+| amended by adding Chapter 2272 to read as follows:  
+| _CHAPTER 2272. CERTAIN CONSTRUCTION LIABILITY CLAIMS_  
+|  _Sec. 2272.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Action" means a court or judicial proceeding or_  
+| _an arbitration._ ___The term does not include an administrative_  
+| _action._  
+|  _(2) "Construction" includes:_  
+|  _(A)_ _____the initial construction of an improvement to_  
+| _real property;_  
+|  _(B)_ _____the construction of an addition to an_  
+| _improvement to real property; or_  
+|  _(C)_ _____the repair, alteration, or remodeling of an_  
+| _improvement to real property._  
+|  _(3)_ _____"Construction defect" means a deficiency in the_  
+| _construction of an improvement to real property, including a_  
+| _deficiency in or arising out of the design, specifications,_  
+| _surveying, planning, or supervision of the construction, that is_  
+| _the result of:_  
+|  _(A)_ _____the use of defective materials, products, or_  
+| _components in the construction;_  
+|  _(B)_ _____a violation of a building code applicable by_  
+| _law to the construction;_  
+|  _(C)_ _____a failure of the design of an improvement to_  
+| _real property to meet the professional standards of care applicable_  
+| _at the time of governmental approval of the design or as otherwise_  
+| _applicable if no governmental approval of the design was required_  
+| _or obtained; or_  
+|  _(D)_ _____a failure to perform the construction in_  
+| _accordance with the accepted trade standards for good and_  
+| _workmanlike construction._  
+|  _(4)_ _____"Contractor" means a person legally engaged in the_  
+| _business of designing, developing, constructing, manufacturing,_  
+| _repairing, altering, or remodeling improvements to real property._  
+|  _(5)_ _____"Design professional" means a person licensed as_  
+| _an architect, interior designer, landscape architect, engineer,_  
+| _surveyor, or geologist._  
+|  _(6) "Governmental entity" means:_  
+|  _(A) the state;_  
+|  _(B)_ _____a municipality, county, public school_  
+| _district, or special-purpose district or authority;_  
+|  _(C)_ _____a district, county, or justice of the peace_  
+| _court;_  
+|  _(D)_ _____a board, commission, department, office, or_  
+| _other agency in the executive branch of state government, including_  
+| _an institution of higher education as defined by Section 61.003,_  
+| _Education Code;_  
+|  _(E) the legislature or a legislative agency; or_  
+|  _(F)_ _____the Supreme Court of Texas, the Texas Court_  
+| _of Criminal Appeals, a court of appeals, or the State Bar of Texas_  
+| _or another judicial agency having statewide jurisdiction._  
+|  _(7)_ _____"Subcontractor" means a contractor directly_  
+| _retained and compensated by another contractor to perform labor or_  
+| _perform labor and supply materials in the construction._  
+|  _(8)_ _____"Supplier" means a person who provides only_  
+| _materials, equipment, or other supplies for the construction._  
+|  _Sec._ ___2272.002._ _____APPLICABILITY OF CHAPTER. (a)_ ___This chapter_  
+| _applies only to a claim:_  
+|  _(1) for:_  
+|  _(A)_ _____damages arising from damage to or loss of_  
+| _real or personal property caused by an alleged construction defect_  
+| _in an improvement to real property that is a public building or_  
+| _public work; or_  
+|  _(B)_ _____indemnification for damages described by_  
+| _Paragraph (A);_  
+|  _(2)_ _____asserted by a governmental entity with an interest_  
+| _in the public building or public work affected by the alleged_  
+| _construction defect, including a governmental entity whose_  
+| _interest arose from the purchase of the affected public building or_  
+| _public work after any relevant construction contract was entered_  
+| _into or relevant activity was performed; and_  
+|  _(3)_ _____asserted against a contractor, subcontractor,_  
+| _supplier, or design professional._  
+|  _(b) This chapter does not apply to:_  
+|  _(1)_ _____a claim for personal injury, survival, or wrongful_  
+| _death;_  
+|  _(2)_ _____a claim involving the construction of residential_  
+| _property covered under Chapter 27, Property Code;_  
+|  _(3)_ _____a contract entered into by the Texas Department of_  
+| _Transportation; or_  
+|  _(4)_ _____a project that receives money from a state or_  
+| _federal highway fund._  
+|  _Sec._ ___2272.003._ _____INSPECTION AND REPORT. (a) Before bringing_  
+| _an action asserting a claim to which this chapter applies, the_  
+| _governmental entity must obtain from an independent third-party_  
+| _licensed professional engineer an inspection of the improvement_  
+| _affected by the alleged construction defect and a written report_  
+| _that:_  
+|  _(1)_ _____identifies the specific construction defect on_  
+| _which the claim is based;_  
+|  _(2)_ _____describes the present physical condition of the_  
+| _affected improvement; and_  
+|  _(3)_ _____describes any modification, maintenance, or_  
+| _repairs to the improvement made by the governmental entity or_  
+| _others._  
+|  _(b)_ _____The governmental entity must provide written notice of_  
+| _the inspection required by this section to each party who is subject_  
+| _to the claim not later than the 10th day before the date the_  
+| _inspection will occur. The notice must:_  
+|  _(1)_ _____identify the engineer who will conduct the_  
+| _inspection and prepare the report;_  
+|  _(2)_ _____identify each specific area of the improvement to_  
+| _be inspected; and_  
+|  _(3)_ _____include the date and time the inspection will_  
+| _occur._  
+|  _(c)_ _____Each party subject to the claim or the party's_  
+| _representative may attend the inspection required by this section._  
+|  _Sec._ ___2272.004._ _____OPPORTUNITY TO CORRECT. Before bringing an_  
+| _action asserting a claim to which this chapter applies, the_  
+| _governmental entity must allow each party subject to the claim at_  
+| _least 150 days after the date the report required by Section_  
+| _2272.003 is provided to the party to inspect and correct any_  
+| _construction defect or related condition identified in the report._  
+|  _Sec._ ___2272.005._ _____TOLLING OF LIMITATIONS PERIOD. If the_  
+| _notice of inspection required by Section 2272.003 is provided_  
+| _during the final year of the limitations period applicable to the_  
+| _claim, the limitations period is tolled until the first anniversary_  
+| _of the date on which the notice is provided._  
+|  _Sec._ ___2272.006._ _____ABATEMENT; DISMISSAL._ ___(a)_ ___If a_  
+| _governmental entity brings an action asserting a claim to which_  
+| _this chapter applies without complying with Sections 2272.003 and_  
+| _2272.004, the court, arbitrator, or other adjudicating authority_  
+| _may abate the action for not more than one year on a showing that the_  
+| _governmental entity bringing the action intends to comply with_  
+| _those sections._  
+|  _(b)_ _____Except as provided by Subsection (a), if a governmental_  
+| _entity brings an action asserting a claim to which this chapter_  
+| _applies without complying with Sections 2272.003 and 2272.004, the_  
+| _court, arbitrator, or other adjudicating authority shall dismiss_  
+| _the action. The dismissal may be with prejudice at the discretion_  
+| _of the court, arbitrator, or other adjudicating authority._  
+|  _Sec._ ___2272.007._ _____RECOVERY OF INSPECTION COSTS. If an_  
+| _inspection and report obtained by a governmental entity under_  
+| _Section 2272.003 identifies a construction defect for which the_  
+| _governmental entity recovers damages, the damages awarded to the_  
+| _governmental entity against the party responsible for that_  
+| _construction defect may include amounts paid by the governmental_  
+| _entity to obtain the inspection and report with respect to_  
+| _identification of that construction defect._  
+|  _Sec._ ___2272.008._ _____EMERGENCY REPAIRS BY GOVERNMENTAL ENTITY._  
+| _This chapter does not prohibit or limit a governmental entity from_  
+| _making emergency repairs to the property as necessary to protect_  
+| _the health, safety, and welfare of the public or a building_  
+| _occupant._  
+|  _Sec._ ___2272.009._ _____INSURANCE TREATMENT OF CLAIM. If a party, in_  
+| _connection with a potential claim against the party, receives a_  
+| _written notice of an alleged construction defect or a report under_  
+| _Section 2272.003 identifying a construction defect and provides the_  
+| _notice or report to the party's insurer, the insurer shall treat the_  
+| _provision of the notice or report to the party as the filing of a_  
+| _suit asserting that claim against the party for purposes of the_  
+| _relevant policy terms._  
+|  SECTION 2. (a) Chapter 2272, Government Code, as added by  
+| this Act, applies only to a cause of action that accrues on or after  
+| the effective date of this Act.  
+|  (b) Section 2272.009, Government Code, as added by this Act,  
+| applies only to an insurance policy delivered, issued for delivery,  
+| or renewed on or after January 1, 2020.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

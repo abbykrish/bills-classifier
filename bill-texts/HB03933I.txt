@@ -1,0 +1,560 @@
+|  
+---|---  
+|  By: Martinez Fischer | H.B. No. 3933  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to consumer protections against billing and limitations on  
+| information reported by consumer reporting agencies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. LIMITATIONS ON SURPRISE BILLING INFORMATION REPORTED BY  
+| CONSUMER REPORTING AGENCIES  
+|  SECTION 1.01 Section 20.05, Business & Commerce Code, is  
+| amended by amending Subsection (a) and adding Subsection (d) to  
+| read as follows:  
+|  (a) Except as provided by Subsection (b), a consumer  
+| reporting agency may not furnish a consumer report containing  
+| information related to:  
+|  (1) a case under Title 11 of the United States Code or  
+| under the federal Bankruptcy Act in which the date of entry of the  
+| order for relief or the date of adjudication predates the consumer  
+| report by more than 10 years;  
+|  (2) a suit or judgment in which the date of entry  
+| predates the consumer report by more than seven years or the  
+| governing statute of limitations, whichever is longer;  
+|  (3) a tax lien in which the date of payment predates  
+| the consumer report by more than seven years;  
+|  (4) a record of arrest, indictment, or conviction of a  
+| crime in which the date of disposition, release, or parole predates  
+| the consumer report by more than seven years; [ ~~or~~ ]  
+|  (5) _a collection account with a medical industry code,_  
+| _if the consumer was covered by a health benefit plan at the time of_  
+| _the event giving rise to the collection and the collection is for an_  
+| _outstanding balance, after copayments, deductibles, and_  
+| _coinsurance, owed to an emergency care provider or a facility-based_  
+| _provider for an out-of-network benefit claim; or_  
+|  _(6)_ another item or event that predates the consumer  
+| report by more than seven years.  
+|  _(d) In this section:_  
+|  _(1)_ _____"Emergency care provider" means a physician,_  
+| _health care practitioner, facility, or other health care provider_  
+| _who provides emergency care._  
+|  _(2)_ _____"Facility" has the meaning assigned by Section_  
+| _324.001, Health and Safety Code._  
+|  _(3)_ _____"Facility-based provider" means a physician,_  
+| _health care practitioner, or other health care provider who_  
+| _provides health care or medical services to patients of a facility._  
+|  _(4)_ _____"Health care practitioner" means an individual who_  
+| _is licensed to provide health care services._  
+| ARTICLE 2. ELIMINATION OF SURPRISE BILLING FOR CERTAIN HEALTH  
+| BENEFIT PLANS  
+|  SECTION 2.01. Section 1271.155, Insurance Code, is amended  
+| by amending Subsection (a) and adding Subsection (f) to read as  
+| follows:  
+|  (a) A health maintenance organization shall pay for  
+| emergency care performed by non-network physicians or providers _in_  
+| _an amount that the organization determines is reasonable for the_  
+| _emergency care_ [ ~~at the usual and customary rate~~ ] or at an agreed  
+| rate.  
+|  _(f)_ _____A non-network physician or provider may not bill a_  
+| _patient described by this section in, and the patient has no_  
+| _financial responsibility for, an amount greater than the patient's_  
+| _responsibility under the patient's health care plan, including an_  
+| _applicable copayment, coinsurance, or deductible._  
+|  SECTION 2.02. Subchapter D, Chapter 1271, Insurance Code,  
+| is amended by adding Section 1271.157 to read as follows:  
+|  _Sec._ ___1271.157._ _____NON-NETWORK FACILITY-BASED PROVIDERS. (a)_  
+| _In this section, "facility-based provider" means a physician or_  
+| _health care provider who provides health care services to patients_  
+| _of a health care facility._  
+|  _(b)_ _____A health maintenance organization shall pay for a health_  
+| _care service performed by a non-network provider who is a_  
+| _facility-based provider in an amount that the organization_  
+| _determines is reasonable for the service or at an agreed rate if the_  
+| _provider performed the service at a health care facility that is a_  
+| _network provider._  
+|  _(c)_ _____A non-network facility-based provider may not bill a_  
+| _patient receiving a health care service described by Subsection (b)_  
+| _in, and the patient does not have financial responsibility for, an_  
+| _amount greater than the patient's responsibility under the_  
+| _patient's health care plan, including an applicable copayment,_  
+| _coinsurance, or deductible._  
+|  SECTION 2.03. Subtitle C, Title 8, Insurance Code, is  
+| amended by adding Chapter 1276 to read as follows:  
+| _CHAPTER 1276. ELECTIVE PROVISIONS FOR SELF-FUNDED OR SELF-INSURED_  
+| _MANAGED CARE PLANS_  
+|  _Sec. 1276.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Eligible plan" means a managed care plan that is a_  
+| _self-funded or self-insured employee welfare benefit plan that_  
+| _provides health benefits and is established in accordance with the_  
+| _Employee Retirement Income Security Act of 1974 (29 U.S.C. Section_  
+| _1001 et seq.)._  
+|  _(2)_ _____"Emergency care" has the meaning assigned by_  
+| _Section 1301.155._  
+|  _(3)_ _____"Facility-based provider" means a physician or_  
+| _health care provider who provides health care services to patients_  
+| _of a health care facility._  
+|  _(4)_ _____"Managed care plan" means a health benefit plan_  
+| _under which the plan administrator provides or arranges for health_  
+| _care benefits to plan participants and requires or encourages plan_  
+| _participants to use physicians and health care providers the plan_  
+| _designates._  
+|  _(5)_ _____"Out-of-network provider" means, with respect to_  
+| _an eligible plan, a physician or health care provider who is not a_  
+| _participating provider._  
+|  _(6)_ _____"Participating provider" means a physician or_  
+| _health care provider who has contracted with an eligible plan_  
+| _administrator to provide services to enrollees._  
+|  _Sec._ ___1276.0002._ _____ELECTION FOR SURPRISE HEALTH CARE BILLING_  
+| _PROHIBITION AND MEDIATION. (a) A plan sponsor of an eligible plan_  
+| _may elect on an annual basis for this section and Chapter 1467 to_  
+| _apply to the plan. A sponsor making an election shall provide_  
+| _written notice of the election to the department in the form and_  
+| _manner required by department rule._  
+|  _(b)_ _____An administrator of an eligible plan for which an_  
+| _election is made under Subsection (a) shall pay for a health care_  
+| _service performed by an out-of-network provider in an amount that_  
+| _the administrator determines is reasonable for the service or at an_  
+| _agreed rate if:_  
+|  _(1)_ _____the provider is a facility-based provider who_  
+| _performed the service at a health care facility that is a_  
+| _participating provider; or_  
+|  _(2) the service is emergency care._  
+|  _(c)_ _____An out-of-network provider described by Subsection (b)_  
+| _may not bill the patient in, and the patient does not have financial_  
+| _responsibility for, an amount greater than the patient's_  
+| _responsibility under the patient's eligible plan, including an_  
+| _applicable copayment, coinsurance, or deductible._  
+|  _(d)_ _____An administrator of an eligible plan for which an_  
+| _election is made under Subsection (a) shall ensure that the plan and_  
+| _any evidence of coverage complies with this section and Chapter_  
+| _1467._  
+|  SECTION 2.04. Section 1301.0053, Insurance Code, is amended  
+| to read as follows:  
+|  Sec. 1301.0053. EXCLUSIVE PROVIDER BENEFIT PLANS:  
+| EMERGENCY CARE. _(a)_ If a nonpreferred provider provides emergency  
+| care as defined by Section 1301.155 to an enrollee in an exclusive  
+| provider benefit plan, the issuer of the plan shall reimburse the  
+| nonpreferred provider _in an amount that the issuer determines is_  
+| _reasonable for the emergency care services_ [ ~~at the usual and~~  
+|  ~~customary rate~~ ] or at a rate agreed to by the issuer and the  
+| nonpreferred provider for the provision of the services.  
+|  _(b)_ _____An out-of-network provider may not bill an insured_  
+| _receiving emergency care in, and the insured does not have_  
+| _financial responsibility for, an amount greater than the insured's_  
+| _responsibility under the insured's exclusive provider benefit_  
+| _plan, including an applicable copayment, coinsurance, or_  
+| _deductible._  
+|  SECTION 2.05. Section 1301.155, Insurance Code, is amended  
+| by amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) If an insured cannot reasonably reach a preferred  
+| provider, an insurer shall provide reimbursement for the following  
+| emergency care services _in an amount that the insurer determines is_  
+| _reasonable for the services_ at the preferred level of benefits  
+| until the insured can reasonably be expected to transfer to a  
+| preferred provider:  
+|  (1) a medical screening examination or other  
+| evaluation required by state or federal law to be provided in the  
+| emergency facility of a hospital that is necessary to determine  
+| whether a medical emergency condition exists;  
+|  (2) necessary emergency care services, including the  
+| treatment and stabilization of an emergency medical condition; and  
+|  (3) services originating in a hospital emergency  
+| facility or freestanding emergency medical care facility following  
+| treatment or stabilization of an emergency medical condition.  
+|  _(c)_ _____For purposes of Subsection (b), an out-of-network_  
+| _provider may not bill an insured in, and the insured does not have_  
+| _financial responsibility for, an amount greater than the insured's_  
+| _responsibility under the insured's preferred provider benefit_  
+| _plan, including an applicable copayment, coinsurance, or_  
+| _deductible._  
+|  SECTION 2.06. Subchapter D, Chapter 1301, Insurance Code,  
+| is amended by adding Section 1301.164 to read as follows:  
+|  _Sec._ ___1301.164._ _____OUT-OF-NETWORK FACILITY-BASED PROVIDER._  
+| _(a) In this section, "facility-based provider" means a physician,_  
+| _or health care provider who provides health care services to_  
+| _patients of a health care facility._  
+|  _(b)_ _____An insurer shall pay for a health care service performed_  
+| _by a nonpreferred provider who is a facility-based provider in an_  
+| _amount that the insurer determines is reasonable for the service or_  
+| _at an agreed rate if the provider performed the service at a health_  
+| _care facility that is a participating provider._  
+|  _(c)_ _____A nonpreferred provider who is a facility-based_  
+| _provider may not bill an insured receiving a health care service_  
+| _described by Subsection (b) in, and the insured does not have_  
+| _financial responsibility for, an amount greater than the insured's_  
+| _responsibility under the insured's health care plan, including an_  
+| _applicable copayment, coinsurance, or deductible._  
+|  SECTION 2.07. Subchapter E, Chapter 1551, Insurance Code,  
+| is amended by adding Sections 1551.228 and 1551.229 to read as  
+| follows:  
+|  _Sec._ ___1551.228._ _____EMERGENCY CARE COVERAGE. (a) In this_  
+| _section, "emergency care" has the meaning assigned by Section_  
+| _1301.155._  
+|  _(b)_ _____A managed care plan provided under the group benefits_  
+| _program must provide out-of-network emergency care coverage for_  
+| _participants in accordance with this section._  
+|  _(c)_ _____The coverage must require the administrator of the plan_  
+| _to pay for emergency care performed by an out-of-network provider_  
+| _in an amount that the administrator determines is reasonable for_  
+| _the emergency care or at an agreed rate._  
+|  _(d)_ _____For the purposes of Subsection (c), an out-of-network_  
+| _provider may not bill an enrollee in, and the enrollee does not have_  
+| _financial responsibility for, an amount greater than the enrollee's_  
+| _responsibility under the enrollee's managed care plan, including an_  
+| _applicable copayment, coinsurance, or deductible._  
+|  _Sec._ ___1551.229._ _____OUT-OF-NETWORK FACILITY-BASED PROVIDER_  
+| _COVERAGE. (a) In this section, "facility-based provider" means a_  
+| _physician or health care provider who provides health care services_  
+| _to patients of a health care facility._  
+|  _(b)_ _____A managed care plan provided under the group benefits_  
+| _program out-of-network facility-based provider must provide_  
+| _coverage for participants in accordance with this section._  
+|  _(c)_ _____The coverage must require the administrator of the plan_  
+| _to pay for a health care service performed for an enrollee by an_  
+| _out-of-network provider who is a facility-based provider in an_  
+| _amount that the administrator determines is reasonable for the_  
+| _service or at an agreed rate if the provider performed the service_  
+| _at a health care facility that is a participating provider._  
+|  _(d)_ _____An out-of-network provider who is a facility-based_  
+| _provider may not bill an enrollee receiving a health care service_  
+| _described by Subsection (c) in, and the enrollee does not have_  
+| _financial responsibility for, an amount greater than the enrollee's_  
+| _responsibility under the enrollee's managed care plan, including an_  
+| _applicable copayment, coinsurance, or deductible._  
+|  SECTION 2.08. Subchapter D, Chapter 1575, Insurance Code,  
+| is amended by adding Sections 1575.171 and 1575.172 to read as  
+| follows:  
+|  _Sec._ ___1575.171._ _____EMERGENCY CARE COVERAGE. (a) In this_  
+| _section, "emergency care" has the meaning assigned by Section_  
+| _1301.155._  
+|  _(b)_ _____A managed care plan offered under the group program must_  
+| _provide out-of-network emergency care coverage in accordance with_  
+| _this section._  
+|  _(c)_ _____The coverage must require the administrator of the plan_  
+| _to pay for emergency care performed by an out-of-network provider_  
+| _in an amount that the administrator determines is reasonable for_  
+| _the emergency care or at an agreed rate._  
+|  _(d)_ _____For the purposes of Subsection (c), an out-of-network_  
+| _provider may not bill an enrollee in, and the enrollee does not have_  
+| _financial responsibility for, an amount greater than the enrollee's_  
+| _responsibility under the enrollee's managed care plan, including an_  
+| _applicable copayment, coinsurance, or deductible._  
+|  _Sec._ ___1575.172._ _____OUT-OF-NETWORK FACILITY-BASED PROVIDER_  
+| _COVERAGE. (a) In this section, "facility-based provider" means a_  
+| _physician or health care provider who provides health care services_  
+| _to patients of a health care facility._  
+|  _(b)_ _____A managed care plan offered under the group program must_  
+| _provide out-of-network facility-based provider coverage in_  
+| _accordance with this section._  
+|  _(c)_ _____The coverage must require the administrator of the plan_  
+| _to pay for a health care service performed for an enrollee by an_  
+| _out-of-network provider who is a facility-based provider in an_  
+| _amount that the administrator determines is reasonable for the_  
+| _service or at an agreed rate if the provider performed the service_  
+| _at a health care facility that is a participating provider._  
+|  _(d)_ _____An out-of-network provider who is a facility-based_  
+| _provider may not bill an enrollee receiving a health care service_  
+| _described by Subsection (c) in, and the enrollee does not have_  
+| _financial responsibility for, an amount greater than the enrollee's_  
+| _responsibility under the enrollee's managed care plan, including an_  
+| _applicable copayment, coinsurance, or deductible._  
+|  SECTION 2.09. Subchapter C, Chapter 1579, Insurance Code,  
+| is amended by adding Sections 1579.109 and 1579.110 to read as  
+| follows:  
+|  _Sec._ ___1579.109._ _____EMERGENCY CARE COVERAGE. (a) In this_  
+| _section, "emergency care" has the meaning assigned by Section_  
+| _1301.155._  
+|  _(b)_ _____A managed care plan provided under this chapter must_  
+| _provide out-of-network emergency care coverage in accordance with_  
+| _this section._  
+|  _(c)_ _____The coverage must require the administrator of the plan_  
+| _to pay for emergency care performed for an enrollee by an_  
+| _out-of-network provider in an amount that the administrator_  
+| _determines is reasonable for the emergency care or at an agreed_  
+| _rate._  
+|  _(d)_ _____For the purposes of Subsection (c), an out-of-network_  
+| _provider may not bill an enrollee in, and the enrollee does not have_  
+| _financial responsibility for, an amount greater than the enrollee's_  
+| _responsibility under the enrollee's managed care plan, including an_  
+| _applicable copayment, coinsurance, or deductible._  
+|  _Sec._ ___1579.110._ _____OUT-OF-NETWORK FACILITY-BASED PROVIDER_  
+| _COVERAGE. (a) In this section, "facility-based provider" means a_  
+| _physician or health care provider who provides health care services_  
+| _to patients of a health care facility._  
+|  _(b)_ _____A managed care plan provided under this chapter must_  
+| _provide out-of-network facility-based provider coverage in_  
+| _accordance with this section._  
+|  _(c)_ _____The coverage must require the administrator of the plan_  
+| _to pay for a health care service performed for an enrollee by an_  
+| _out-of-network provider who is a facility-based provider in an_  
+| _amount that the administrator determines is reasonable for the_  
+| _service or at an agreed rate if the provider performed the service_  
+| _at a health care facility that is a participating provider._  
+|  _(d)_ _____An out-of-network provider who is a facility-based_  
+| _provider may not bill an enrollee receiving a health care service_  
+| _described by Subsection (c) in, and the enrollee does not have_  
+| _financial responsibility for, an amount greater than the enrollee's_  
+| _responsibility under the enrollee's managed care plan, including an_  
+| _applicable copayment, coinsurance, or deductible._  
+| ARTICLE 3. MANDATORY MEDIATION REQUESTED BY PROVIDER, ISSUER, OR  
+| ADMINISTRATOR  
+|  SECTION 3.01. Sections 1467.001(1), (3), (5), and (7),  
+| Insurance Code, are amended to read as follows:  
+|  (1) "Administrator" means:  
+|  (A) an administering firm for a health benefit  
+| plan providing coverage under Chapter 1551, 1575, or 1579; [ ~~and~~ ]  
+|  (B) if applicable, the claims administrator for  
+| the health benefit plan _; and_  
+|  _(C)_ _____if applicable, an administrating firm for an_  
+| _eligible plan for which an election is made under Section_  
+| _1276.0002_.  
+|  (3) "Enrollee" means an individual who is eligible to  
+| receive benefits through a [ ~~preferred provider benefit plan or a~~ ]  
+| health benefit plan _subject to this chapter_ [ ~~under Chapter 1551,~~  
+|  ~~1575, or 1579~~ ].  
+|  (5) "Mediation" means a process in which an impartial  
+| mediator facilitates and promotes agreement between the _health_  
+| [ ~~insurer offering a preferred provider~~ ] benefit plan _issuer_ or the  
+| administrator and a facility-based provider or emergency care  
+| provider or the provider's representative to settle a health  
+| benefit claim of an enrollee.  
+|  (7) "Party" means _a health benefit plan issuer_ [ ~~an~~  
+|  ~~insurer~~ ] offering _a health_ [ ~~a preferred provider~~ ] benefit
+plan, an  
+| administrator, or a facility-based provider or emergency care  
+| provider or the provider's representative who participates in a  
+| mediation conducted under this chapter. [ ~~The enrollee is also~~  
+|  ~~considered a party to the mediation.~~ ]  
+|  SECTION 3.02. Sections 1467.002 and 1467.005, Insurance  
+| Code, are amended to read as follows:  
+|  Sec. 1467.002. APPLICABILITY OF CHAPTER. This chapter  
+| applies to:  
+|  (1) _a health benefit plan offered by a health_  
+| _maintenance organization operating under Chapter 843;_  
+|  _(2)_ a preferred provider benefit plan _, including an_  
+| _exclusive provider benefit plan,_ offered by an insurer under  
+| Chapter 1301; and  
+|  _(3)_ [ ~~(2)~~ ] an administrator of a health benefit plan,  
+| other than a health maintenance organization plan, under Chapter  
+| 1551, 1575, or 1579 _or of an eligible plan for which an election is_  
+| _made under Section 1276.0002_.  
+|  Sec. 1467.005. REFORM. This chapter may not be construed to  
+| prohibit:  
+|  (1) _a health_ [ ~~an insurer offering a preferred~~  
+|  ~~provider~~ ] benefit plan _issuer_ or administrator from, at any time,  
+| offering a reformed claim settlement; or  
+|  (2) a facility-based provider or emergency care  
+| provider from, at any time, offering a reformed charge for health  
+| care or medical services or supplies.  
+|  SECTION 3.03. Sections 1467.051(a) and (b), Insurance Code,  
+| are amended to read as follows:  
+|  (a) _A facility-based provider, emergency care provider,_  
+| _health benefit plan issuer, or administrator_ [ ~~An enrollee~~ ] may  
+| request mediation of a settlement of an out-of-network health  
+| benefit claim if:  
+|  (1) the amount _charged by the provider and unpaid by_  
+| _the issuer or administrator_ [ ~~for which the enrollee is responsible~~  
+|  ~~to a facility-based provider or emergency care provider~~ ], after  
+| copayments, deductibles, and coinsurance, [ ~~including the amount~~  
+|  ~~unpaid by the administrator or insurer,~~ ] is greater than $500; and  
+|  (2) the health benefit claim is for:  
+|  (A) emergency care; or  
+|  (B) a health care or medical service or supply  
+| provided by a facility-based provider in a facility that is a  
+| preferred provider or that has a contract with the administrator.  
+|  (b) _If a person_ [ ~~Except as provided by Subsections (c) and~~  
+|  ~~(d), if an enrollee~~ ] requests mediation under this subchapter, the  
+| facility-based provider or emergency care provider, or the  
+| provider's representative, and the _health benefit plan issuer_  
+| [ ~~insurer~~ ] or the administrator, as appropriate, shall participate  
+| in the mediation.  
+|  SECTION 3.04. Section 1467.052(c), Insurance Code, is  
+| amended to read as follows:  
+|  (c) A person may not act as mediator for a claim settlement  
+| dispute if the person has been employed by, consulted for, or  
+| otherwise had a business relationship with _a health benefit plan_  
+| _issuer or administrator of a health_ [ ~~an insurer offering the~~  
+|  ~~preferred provider~~ ] benefit plan _that is subject to this chapter_ or  
+| a physician, health care practitioner, or other health care  
+| provider during the three years immediately preceding the request  
+| for mediation.  
+|  SECTION 3.05. Section 1467.053(d), Insurance Code, is  
+| amended to read as follows:  
+|  (d) The mediator's fees shall be split evenly and paid by  
+| the _health benefit plan issuer_ [ ~~insurer~~ ] or administrator and the  
+| facility-based provider or emergency care provider.  
+|  SECTION 3.06. Sections 1467.054(a), (b), (c), and (d),  
+| Insurance Code, are amended to read as follows:  
+|  (a) _A facility-based provider, emergency care provider,_  
+| _health benefit plan issuer, or administrator_ [ ~~An enrollee~~ ] may  
+| request mandatory mediation under this _subchapter_ [ ~~chapter~~ ].  
+|  (b) A request for mandatory mediation must be provided to  
+| the department on a form prescribed by the commissioner and must  
+| include:  
+|  (1) the name of the _person_ [ ~~enrollee~~ ] requesting  
+| mediation;  
+|  (2) a brief description of the claim to be mediated;  
+|  (3) contact information, including a telephone  
+| number, for the requesting _person_ [ ~~enrollee~~ ] and the _person's_  
+| [ ~~enrollee's~~ ] counsel, if the _person_ [ ~~enrollee~~ ] retains
+counsel;  
+|  (4) the name of the facility-based provider or  
+| emergency care provider and name of the _health benefit plan issuer_  
+| [ ~~insurer~~ ] or administrator; and  
+|  (5) any other information the commissioner may require  
+| by rule.  
+|  (c) On receipt of a request for mediation, the department  
+| shall notify _, as applicable,_ the facility-based provider or  
+| emergency care provider and _health benefit plan issuer_ [ ~~insurer~~ ] or  
+| administrator of the request.  
+|  (d) In an effort to settle the claim before mediation, all  
+| parties must participate in an informal settlement teleconference  
+| not later than the 30th day after the date on which _a person_ [ ~~the~~  
+|  ~~enrollee~~ ] submits a request for mediation under this _subchapter_  
+| [ ~~section~~ ].  
+|  SECTION 3.07. Section 1467.055(g), Insurance Code, is  
+| amended to read as follows:  
+|  (g) _A_ [ ~~Except at the request of an enrollee, a~~ ] mediation  
+| shall be held not later than the 180th day after the date of the  
+| request for mediation.  
+|  SECTION 3.08. Sections 1467.056(a), (b), and (d), Insurance  
+| Code, are amended to read as follows:  
+|  (a) In a mediation under this _subchapter_ [ ~~chapter~~ ], the  
+| parties shall[ ~~:~~  
+|  [ ~~(1)~~ ] evaluate whether:  
+|  _(1)_ [ ~~(A)~~ ] the amount charged by the facility-based  
+| provider or emergency care provider for the health care or medical  
+| service or supply is excessive; and  
+|  _(2)_ [ ~~(B)~~ ] the amount paid by the _health benefit plan_  
+| _issuer_ [ ~~insurer~~ ] or administrator represents _a reasonable amount_  
+| [ ~~the usual and customary rate~~ ] for the health care or medical  
+| service or supply or is unreasonably low[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~as a result of the amounts described by~~  
+|  ~~Subdivision (1), determine the amount, after copayments,~~  
+|  ~~deductibles, and coinsurance are applied, for which an enrollee is~~  
+|  ~~responsible to the facility-based provider or emergency care~~  
+|  ~~provider~~ ].  
+|  (b) The facility-based provider or emergency care provider  
+| may present information regarding the amount charged for the health  
+| care or medical service or supply. The _health benefit plan issuer_  
+| [ ~~insurer~~ ] or administrator may present information regarding the  
+| amount paid by the _issuer_ [ ~~insurer~~ ] or administrator.  
+|  (d) The goal of the mediation is to reach an agreement among  
+| [ ~~the enrollee,~~ ] the facility-based provider or emergency care  
+| provider[ ~~,~~ ] and the _health benefit plan issuer_ [ ~~insurer~~ ] or  
+| administrator, as applicable, as to the amount paid by the _issuer_  
+| [ ~~insurer~~ ] or administrator to the facility-based provider or  
+| emergency care provider _and_ [ ~~,~~ ] the amount charged by the  
+| facility-based provider or emergency care provider[ ~~, and the amount~~  
+|  ~~paid to the facility-based provider or emergency care provider by~~  
+|  ~~the enrollee~~ ].  
+|  SECTION 3.09. Sections 1467.058 and 1467.059, Insurance  
+| Code, are amended to read as follows:  
+|  Sec. 1467.058. CONTINUATION OF MEDIATION. After a referral  
+| is made under Section 1467.057, the facility-based provider or  
+| emergency care provider and the _health benefit plan issuer_  
+| [ ~~insurer~~ ] or administrator may elect to continue the mediation to  
+| further determine their responsibilities. [ ~~Continuation of~~  
+|  ~~mediation under this section does not affect the amount of the~~  
+|  ~~billed charge to the enrollee.~~ ]  
+|  Sec. 1467.059. MEDIATION AGREEMENT. The mediator shall  
+| prepare a confidential mediation agreement and order that states[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the total amount for which the enrollee will be~~  
+|  ~~responsible to the facility-based provider or emergency care~~  
+|  ~~provider, after copayments, deductibles, and coinsurance; and~~  
+|  [ ~~(2)~~ ] any agreement reached by the parties under  
+| Section 1467.058.  
+|  SECTION 3.10. Section 1467.101(a), Insurance Code, is  
+| amended to read as follows:  
+|  (a) The following conduct constitutes bad faith mediation  
+| for purposes of this chapter:  
+|  (1) failing to participate in the mediation;  
+|  (2) failing to provide information the mediator  
+| believes is necessary to facilitate an agreement; [ ~~or~~ ]  
+|  (3) failing to designate a representative  
+| participating in the mediation with full authority to enter into  
+| any mediated agreement _; or_  
+|  _(4) failing to appear for mediation_.  
+|  SECTION 2.11. Section 1467.151(b), Insurance Code, is  
+| amended to read as follows:  
+|  (b) The department and the Texas Medical Board or other  
+| appropriate regulatory agency shall maintain information:  
+|  (1) on each complaint filed that concerns a claim or  
+| mediation subject to this chapter; and  
+|  (2) related to a claim that is the basis of an enrollee  
+| complaint, including:  
+|  (A) the type of services that gave rise to the  
+| dispute;  
+|  (B) the type and specialty, if any, of the  
+| facility-based provider or emergency care provider who provided the  
+| out-of-network service;  
+|  (C) the county and metropolitan area in which the  
+| health care or medical service or supply was provided;  
+|  (D) whether the health care or medical service or  
+| supply was for emergency care; and  
+|  (E) any other information about:  
+|  (i) the _health benefit plan issuer_  
+| [ ~~insurer~~ ] or administrator that the commissioner by rule requires;  
+| or  
+|  (ii) the facility-based provider or  
+| emergency care provider that the Texas Medical Board or other  
+| appropriate regulatory agency by rule requires.  
+| ARTICLE 4. CONFORMING AMENDMENTS  
+|  SECTION 4.01. Sections 1456.002(a) and (c), Insurance Code,  
+| are amended to read as follows:  
+|  (a) This chapter applies to any health benefit plan that:  
+|  (1) provides benefits for medical or surgical expenses  
+| incurred as a result of a health condition, accident, or sickness,  
+| including an individual, group, blanket, or franchise insurance  
+| policy or insurance agreement, a group hospital service contract,  
+| or an individual or group evidence of coverage that is offered by:  
+|  (A) an insurance company;  
+|  (B) a group hospital service corporation  
+| operating under Chapter 842;  
+|  (C) a fraternal benefit society operating under  
+| Chapter 885;  
+|  (D) a stipulated premium company operating under  
+| Chapter 884;  
+|  (E) [ ~~a health maintenance organization operating~~  
+|  ~~under Chapter 843;~~  
+|  [ ~~(F)~~ ] a multiple employer welfare arrangement  
+| that holds a certificate of authority under Chapter 846;  
+|  _(F)_ [ ~~(G)~~ ] an approved nonprofit health  
+| corporation that holds a certificate of authority under Chapter  
+| 844; or  
+|  _(G)_ [ ~~(H)~~ ] an entity not authorized under this  
+| code or another insurance law of this state that contracts directly  
+| for health care services on a risk-sharing basis, including a  
+| capitation basis; or  
+|  (2) provides health and accident coverage through a  
+| risk pool created under Chapter 172, Local Government Code,  
+| notwithstanding Section 172.014, Local Government Code, or any  
+| other law.  
+|  (c) This chapter does not apply to:  
+|  (1) Medicaid managed care programs operated under  
+| Chapter 533, Government Code;  
+|  (2) Medicaid programs operated under Chapter 32, Human  
+| Resources Code; [ ~~or~~ ]  
+|  (3) the state child health plan operated under Chapter  
+| 62 or 63, Health and Safety Code _; or_  
+|  _(4)_ _____a health benefit plan subject to Section 1271.155,_  
+| _1301.164, 1551.229, 1575.172, or 1579.110, or an eligible plan for_  
+| _which an election is made under Section 1276.0002_.  
+|  SECTION 4.02. The following provisions of the Insurance  
+| Code are repealed:  
+|  (1) Sections 1467.051(c) and (d);  
+|  (2) Section 1467.0511;  
+|  (3) Sections 1467.054(f) and (g);  
+|  (4) Section 1467.055(d); and  
+|  (5) Section 1467.151(d).  
+| ARTICLE 5. TRANSITION AND EFFECTIVE DATE  
+|  SECTION 5.01. The changes in law made by this Act apply only  
+| to a health care or medical service or supply provided on or after  
+| the effective date of this Act. A health care or medical service or  
+| supply provided before the effective date of this Act is governed by  
+| the law in effect immediately before the effective date of this Act,  
+| and that law is continued in effect for that purpose.  
+|  SECTION 4.02. This Act takes effect September 1, 2019.
+

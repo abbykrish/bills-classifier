@@ -1,0 +1,107 @@
+| 86R13069 CJC-F  
+---|---  
+|  By: Morrison | H.B. No. 2300  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of the disaster recovery loan program;  
+| making an appropriation.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 418, Government Code, is amended by  
+| adding Subchapter C-1 to read as follows:  
+| _SUBCHAPTER C-1. DISASTER RECOVERY LOAN PROGRAM_  
+|  _Sec. 418.061. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Account" means the disaster recovery loan account_  
+| _created under Section 418.066._  
+|  _(2)_ _____"Eligible political subdivision" means a county,_  
+| _municipality, or school district that meets the qualifications_  
+| _prescribed by Section 418.062._  
+|  _Sec._ ___418.062._ _____ELIGIBILITY FOR LOAN. A political_  
+| _subdivision may apply to the division for a loan under this_  
+| _subchapter if:_  
+|  _(1) the political subdivision:_  
+|  _(A)_ _____is located wholly or partly in an area_  
+| _declared to be a disaster area by the governor or the president of_  
+| _the United States; and_  
+|  _(B)_ _____before applying to the division for a loan_  
+| _under this subchapter:_  
+|  _(i)_ _____has submitted to the division, within_  
+| _15 days of the date of its adoption by the governing body of the_  
+| _political subdivision, the political subdivision's operating_  
+| _budget for the most recent fiscal year; and_  
+|  _(ii)_ _____has submitted an application for a_  
+| _loan from the Federal Emergency Management Agency's community_  
+| _disaster loan program;_  
+|  _(2)_ _____an assessment of damages due to the disaster for_  
+| _which the declaration was made has been conducted in the political_  
+| _subdivision; and_  
+|  _(3)_ _____the division, in consultation with the Federal_  
+| _Emergency Management Agency, determines that the estimated cost to_  
+| _rebuild the political subdivision's infrastructure damaged in the_  
+| _disaster is greater than 50 percent of the political subdivision's_  
+| _total revenue for the current year as shown in the most recent_  
+| _operating budget of the political subdivision submitted to the_  
+| _division under this section._  
+|  _Sec._ ___418.063._ _____DISASTER RECOVERY LOAN PROGRAM. The division_  
+| _by rule shall establish a loan program to use money from the account_  
+| _to provide short-term loans for disaster recovery projects to_  
+| _eligible political subdivisions._  
+|  _Sec._ ___418.064._ _____LOANS. (a) A loan made from the account must_  
+| _be subject to the following conditions:_  
+|  _(1)_ _____the loan must be made at or below market interest_  
+| _rates for a term not to exceed 10 years; and_  
+|  _(2)_ _____the loan proceeds must be expended by the eligible_  
+| _political subdivision solely for disaster recovery projects._  
+|  _(b)_ _____The comptroller shall credit to the account all_  
+| _principal and interest payments on a loan from the account._  
+|  _(c)_ _____If the term of a loan from the account exceeds two years,_  
+| _the state auditor shall, on the second anniversary of the date on_  
+| _which the eligible political subdivision received the loan, conduct_  
+| _a limited audit of the political subdivision to determine whether_  
+| _the political subdivision has the ability to repay the loan under_  
+| _the terms of the loan. The division may forgive a loan made to an_  
+| _eligible political subdivision if the state auditor determines that_  
+| _the political subdivision is unable to repay the loan. The state_  
+| _auditor's participation under this subsection is subject to_  
+| _approval by the legislative audit committee for inclusion in the_  
+| _audit plan under Section 321.013(c)._  
+|  _Sec._ ___418.065._ _____APPLICATION FOR LOAN. The division shall_  
+| _develop and implement an application process for a loan under this_  
+| _subchapter. At a minimum, the application must include:_  
+|  _(1)_ _____a description of the disaster recovery project for_  
+| _which the applicant is requesting the loan;_  
+|  _(2) an estimate of the total cost of the project;_  
+|  _(3)_ _____a statement of the amount of federal money that the_  
+| _applicant will receive for the project, or, if that information is_  
+| _not available on the date the applicant submits the application, an_  
+| _estimate of the amount of that money; and_  
+|  _(4)_ _____evidence that the applicant has staff, policies,_  
+| _and procedures in place adequate to complete the project._  
+|  _Sec._ ___418.066._ _____CREATION OF ACCOUNT. (a) The disaster_  
+| _recovery loan account is created as an account in the general_  
+| _revenue fund with the comptroller, to be administered by the_  
+| _division._  
+|  _(b)_ _____Money in the account may be used only to provide_  
+| _short-term loans to eligible political subdivisions in the manner_  
+| _provided by this subchapter._  
+|  _(c) The account consists of:_  
+|  _(1)_ _____money appropriated, credited, or transferred to_  
+| _the account by the legislature;_  
+|  _(2)_ _____money received by the comptroller for the_  
+| _repayment of a loan made from the account;_  
+|  _(3) gifts or grants contributed to the account; and_  
+|  _(4)_ _____interest earned on deposits and investments of the_  
+| _account._  
+|  _Sec._ ___418.067._ _____RULES. The division shall adopt rules to_  
+| _implement and administer this subchapter. The rules adopted by the_  
+| _division to implement this subchapter must include the development_  
+| _of a form on which a political subdivision may electronically_  
+| _submit its budget to the division._  
+|  SECTION 2. The amount of $60 million is appropriated from  
+| the general revenue fund to the disaster recovery loan account for  
+| the state fiscal biennium ending August 31, 2021, for the purpose of  
+| providing short-term loans to political subdivisions affected by a  
+| disaster in the manner provided by Subchapter C-1, Chapter 418,  
+| Government Code, as added by this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

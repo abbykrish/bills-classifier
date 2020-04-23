@@ -1,0 +1,57 @@
+| 86R9759 LED-D  
+---|---  
+|  By: Davis of Harris | H.B. No. 3481  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to investigation of fraud, waste, and abuse in Medicaid  
+| managed care by the Health and Human Services Commission's office  
+| of inspector general.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 531.102, Government Code, is amended by  
+| adding Subsection (z) to read as follows:  
+|  _(z)_ _____The office shall develop a process to allow health care_  
+| _facilities, including hospitals, and other providers to report_  
+| _fraud, waste, and abuse to the office._  
+|  SECTION 2. Subchapter C, Chapter 531, Government Code, is  
+| amended by adding Section 531.1134 to read as follows:  
+|  _Sec._ ___531.1134._ _____INVESTIGATIONS OF FRAUD, WASTE, AND ABUSE IN_  
+| _MEDICAID MANAGED CARE. (a) In this section:_  
+|  _(1)_ _____"Medicaid managed care organization"_ ___means a_  
+| _managed care organization as defined by Section 533.001 that_  
+| _contracts with the commission under Chapter 533 to provide health_  
+| _care services to Medicaid recipients._  
+|  _(2)_ _____"Office"_ ___means the commission's office of_  
+| _inspector general._  
+|  _(3)_ _____"Potentially preventable event" has the meaning_  
+| _assigned by Section 536.001._  
+|  _(b)_ _____The office shall investigate the source of fraud, waste,_  
+| _and abuse in Medicaid managed care contracts and whether the fraud,_  
+| _waste, or abuse was committed by a Medicaid recipient, a provider, a_  
+| _Medicaid managed care organization by denying services, or a_  
+| _hospital by contributing to a potentially preventable event._  
+|  _(c)_ _____The commission shall investigate or intervene in the_  
+| _office's investigation of a Medicaid managed care organization that_  
+| _is identified as an outlier among other Medicaid managed care_  
+| _organizations regarding rates of denial of services based on_  
+| _medical necessity._  
+|  _(d)_ _____The office shall conduct a fiscal analysis of abuse in_  
+| _quality-based payment outcome and process measures, including_  
+| _potentially preventable events caused by a Medicaid managed care_  
+| _organization's routine denial of care based on medical necessity._  
+|  _(e)_ _____The office shall periodically report to the commission_  
+| _the outcomes of Medicaid managed care program investigations_  
+| _conducted by the office. The office may combine the report required_  
+| _by this subsection with a report required by Section 531.102(j)._  
+|  _(f)_ _____The office shall prepare and submit to the commission_  
+| _and the legislature a quarterly report recommending enforcement_  
+| _actions for the Medicaid managed care program. The commission and_  
+| _the office shall post each report on their respective Internet_  
+| _websites. The office may combine the report required by this_  
+| _subsection with the report required by Section 531.102(t)._  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

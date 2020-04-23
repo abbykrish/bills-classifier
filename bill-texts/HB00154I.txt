@@ -1,0 +1,35 @@
+| 86R1708 JRJ-F  
+---|---  
+|  By: Swanson | H.B. No. 154  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the recording of certain personal information of voters  
+| by election officials.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 63, Election Code, is amended by adding  
+| Section 63.0015 to read as follows:  
+|  _Sec._ ___63.0015._ _____RECORDED DOCUMENTATION OF CERTAIN PERSONAL_  
+| _INFORMATION. (a) An election officer may copy documentation_  
+| _presented by a voter under Section 63.001(b) or record information_  
+| _from the documentation._  
+|  _(b)_ _____An election officer may photograph the entire face of a_  
+| _voter who is accepted for voting under this chapter if:_  
+|  _(1)_ _____the documentation presented by a voter under_  
+| _Section 63.001(b) is not documentation issued by the Department of_  
+| _Public Safety containing the person's photograph; or_  
+|  _(2)_ _____the election official questions the authenticity_  
+| _of the documentation presented by a voter under Section 63.001(b),_  
+| _regardless of whether the documentation is issued by the Department_  
+| _of Public Safety and contains the person's photograph._  
+|  _(c)_ _____A voter may only be photographed under this section_  
+| _while being accepted for voting and may not be photographed while_  
+| _the voter is occupying a voting station._  
+|  _(d)_ _____Information copied or recorded under this section,_  
+| _including a photograph produced under Subsection (b), is_  
+| _confidential except for use in a criminal investigation or_  
+| _prosecution or a civil court proceeding._  
+|  _(e)_ _____All information collected under this section shall be_  
+| _provided to the secretary of state for election-related purposes._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

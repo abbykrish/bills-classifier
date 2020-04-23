@@ -1,0 +1,29 @@
+| 86R1356 LHC-D  
+---|---  
+|  By: Wu | H.B. No. 756  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a defendant's waiver of a jury trial following a plea of  
+| guilty or nolo contendere for a felony offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 26.14, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 26.14. JURY ON PLEA OF GUILTY. Where a defendant in a  
+| case of felony persists in pleading guilty or in entering a plea of  
+| nolo contendere, if the punishment is not absolutely fixed by law, a  
+| jury shall be impaneled to assess the punishment and evidence may be  
+| heard to enable _the jury_ [ ~~them~~ ] to decide thereupon, unless the  
+| defendant _in writing or in person in open court waives the_  
+| _defendant's_ [ ~~in accordance with Articles 1.13 or 37.07 shall have~~  
+|  ~~waived his~~ ] right to trial by jury. _A defendant may waive the right_  
+| _to a jury trial in the punishment phase of the trial without the_  
+| _consent of the attorney representing the state or the approval of_  
+| _the court._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a plea of guilty or nolo contendere entered on or after the  
+| effective date of this Act, regardless of whether the offense with  
+| reference to which the plea is entered is committed before, on, or  
+| after that date.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

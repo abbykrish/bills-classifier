@@ -1,0 +1,78 @@
+| 86R12009 SMT-F  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 2630  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to physician and health care provider directories for  
+| certain health benefit plans.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1451.501, Insurance Code, is amended by  
+| amending Subdivision (1) and adding Subdivisions (1-a) and (1-b) to  
+| read as follows:  
+|  (1) _"Facility" has the meaning assigned by Section_  
+| _324.001, Health and Safety Code._  
+|  _(1-a)_ _____"Facility-based physician" means a radiologist,_  
+| _anesthesiologist, pathologist, emergency department physician,_  
+| _neonatologist, or assistant surgeon:_  
+|  _(A)_ _____to whom a facility has granted clinical_  
+| _privileges; and_  
+|  _(B)_ _____who provides services to patients of the_  
+| _facility under those clinical privileges._  
+|  _(1-b)_ "Health care provider" means a practitioner,  
+| institutional provider, or other person or organization that  
+| furnishes health care services and that is licensed or otherwise  
+| authorized to practice in this state. The term includes a  
+| pharmacist, pharmacy, hospital, nursing home, or other medical or  
+| health-related service facility that provides care for the sick or  
+| injured or other care. The term does not include a physician.  
+|  SECTION 2. Section 1451.504, Insurance Code, is amended by  
+| amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) The directory must include the name, street address,  
+| _specialty, if any,_ and telephone number of each physician and  
+| health care provider described by Subsection (a) and indicate  
+| whether the physician or provider is accepting new patients.  
+|  _(c)_ _____For each health care provider that is a facility_  
+| _included in the directory under this section, the directory must:_  
+|  _(1)_ _____list under the facility name separate headings for_  
+| _radiologists, anesthesiologists, pathologists, emergency_  
+| _department physicians, neonatologists, and assistant surgeons;_  
+|  _(2)_ _____list under each heading described by Subdivision_  
+| _(1) each facility-based physician described by Subsection (a)_  
+| _practicing in the specialty corresponding with that heading;_  
+|  _(3)_ _____for the facility and each facility-based physician_  
+| _described by Subdivision (2), clearly indicate each health benefit_  
+| _plan issued by the issuer that may provide coverage for the services_  
+| _provided by that facility or physician; and_  
+|  _(4)_ _____include the facility in a grid listing of all_  
+| _facilities included in the directory with separate columns_  
+| _indicating:_  
+|  _(A) the name of the facility;_  
+|  _(B)_ _____the municipality in which the facility is_  
+| _located or county in which the facility is located if the facility_  
+| _is in the unincorporated area of the county;_  
+|  _(C)_ _____for each specialty of facility-based_  
+| _physician practicing at the facility, the name, street address, and_  
+| _telephone number of any facility-based physician group described by_  
+| _Subsection (a);_  
+|  _(D)_ _____each health benefit plan issued by the issuer_  
+| _that may provide coverage for the services provided by the_  
+| _facility; and_  
+|  _(E)_ _____each health benefit plan issued by the issuer_  
+| _that may provide coverage for the services provided by each_  
+| _facility-based physician group._  
+|  SECTION 3. Section 1451.505(c), Insurance Code, is amended  
+| to read as follows:  
+|  (c) The directory must be:  
+|  (1) electronically searchable by physician or health  
+| care provider name _, specialty, if any,_ and location; and  
+|  (2) publicly accessible without necessity of  
+| providing a password, a user name, or personally identifiable  
+| information.  
+|  SECTION 4. A health benefit plan issuer shall update the  
+| issuer's website to conform with Subchapter K, Chapter 1451,  
+| Insurance Code, as amended by this Act, not later than January 1,  
+| 2020.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

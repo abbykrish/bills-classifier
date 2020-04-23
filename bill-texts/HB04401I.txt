@@ -1,0 +1,50 @@
+| 86R16879 TYPED  
+---|---  
+|  By: Cain | H.B. No. 4401  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to voter registration on issuance or change of a driver's  
+| license or identification card by the Department of Public Safety.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.002(a), Election Code, is amended to  
+| read as follows:  
+|  (a) A person desiring to register to vote must submit an  
+| application to the registrar of the county in which the person  
+| resides. Except as provided by Subsection (e) _or Subchapter C,_  
+| _Chapter 20_ , an application must be submitted by personal delivery,  
+| by mail, or by telephonic facsimile machine in accordance with  
+| Sections 13.143(d) and (d-2).  
+|  SECTION 2. Section 20.062, Election Code, is amended by  
+| amending Subsection (a) and adding Subsection (d) to read as  
+| follows:  
+|  _Sec._ ___20.062._ _____DEPARTMENT FORMS AND PROCEDURE. (a) The_  
+| _Department of Public Safety shall prescribe and use a form and_  
+| _procedure that combines the department's application form for a_  
+| _license or card with an officially prescribed voter registration_  
+| _application form for each U.S. citizen who applies in person at the_  
+| _department's offices or online at the department's Internet_  
+| _website._  
+|  _(d)_ _____A procedure prescribed under this section must provide_  
+| _for the electronic transmission of an applicant's voter_  
+| _registration data by the department to the secretary of state in_  
+| _accordance with Section 20.066._  
+|  SECTION 3. Sections 20.063(a) and (c), Election Code, are  
+| amended to read as follows:  
+|  (a) The Department of Public Safety shall provide to each  
+| _U.S._ ___Citizen_ ~~person~~ who applies in person _or online at the_  
+| _department's Internet website_ [ ~~at the department's offices~~ ] for an  
+| original or renewal of a driver's license, a personal  
+| identification card, or a duplicate or corrected license or card an  
+| opportunity to complete a voter registration application form.  
+|  (c) A change of address that relates to a license or card and  
+| that is submitted to the department in person _,_ [ ~~or~~ ] by mail _, or_  
+| _online at the department's Internet website_ serves as a change of  
+| address for voter registration unless the licensee or cardholder  
+| indicates that the change is not for voter registration purposes.  
+| The date of submission of a change of address to a department  
+| employee is considered to be the date of submission to the voter  
+| registrar for the purpose of determining the effective date of  
+| registration [ ~~only~~ ].  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

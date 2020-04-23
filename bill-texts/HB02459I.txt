@@ -1,0 +1,294 @@
+| 86R10257 MTB-F  
+---|---  
+|  By: Capriglione | H.B. No. 2459  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to oversight of and requirements applicable to information  
+| resources technology procurement by state agencies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2054.003(10), Government Code, is  
+| amended to read as follows:  
+|  (10) "Major information resources project" means:  
+|  (A) any information resources technology project  
+| identified in a state agency's biennial operating plan whose  
+| development costs exceed _$5_ [ ~~$1~~ ] million and that:  
+|  (i) requires one year or longer to reach  
+| operations status;  
+|  (ii) involves more than one state agency;  
+| or  
+|  (iii) substantially alters work methods of  
+| state agency personnel or the delivery of services to clients; and  
+|  (B) any information resources technology project  
+| designated by the legislature in the General Appropriations Act as  
+| a major information resources project.  
+|  SECTION 2. Section 2054.055(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The report must:  
+|  (1) assess the progress made toward meeting the goals  
+| and objectives of the state strategic plan for information  
+| resources management;  
+|  (2) describe major accomplishments of the state or a  
+| specific state agency in information resources management;  
+|  (3) describe major problems in information resources  
+| management confronting the state or a specific state agency;  
+|  (4) provide a summary of the total expenditures for  
+| information resources and information resources technologies by  
+| the state;  
+|  (5) make recommendations for improving the  
+| effectiveness and cost-efficiency of the state's use of information  
+| resources;  
+|  (6) describe the status, progress, benefits, and  
+| efficiency gains of the state electronic Internet portal project,  
+| including any significant issues regarding contract performance;  
+|  (7) provide a financial summary of the state  
+| electronic Internet portal project, including project costs and  
+| revenues;  
+|  (8) provide a summary of the amount and use of  
+| Internet-based training conducted by each state agency and  
+| institution of higher education;  
+|  (9) provide a summary of agency and statewide results  
+| in providing access to electronic and information resources to  
+| individuals with disabilities as required by Subchapter M;  
+|  (10) assess the progress made toward accomplishing the  
+| goals of the plan for a state telecommunications network and  
+| developing a system of telecommunications services as provided by  
+| Subchapter H; _and_  
+|  (11) identify proposed major information resources  
+| projects for the next state fiscal biennium, including project  
+| costs through stages of the project and across state fiscal years  
+| from project initiation to implementation[ ~~;~~  
+|  [ ~~(12)~~ ~~~~ ~~~~ ~~examine major information resources projects~~  
+|  ~~completed in the previous state fiscal biennium to determine the~~  
+|  ~~performance of the implementing state agency, cost and value~~  
+|  ~~effectiveness, timeliness, and other performance criteria~~  
+|  ~~necessary to assess the quality and value of the investment; and~~  
+|  [ ~~(13)~~ ~~~~ ~~~~ ~~examine major information resources projects~~  
+|  ~~after the second anniversary of the project's completion to~~  
+|  ~~determine progress toward meeting performance goals and operating~~  
+|  ~~budget savings~~ ].  
+|  SECTION 3. Section 2054.1181, Government Code, is amended  
+| by amending Subsection (b) and adding Subsection (j) to read as  
+| follows:  
+|  (b) In performing its duties under this section, the  
+| department shall:  
+|  (1) develop policies for the _additional_ oversight of  
+| projects _required by Subsection (a)_ ;  
+|  (2) implement project management standards;  
+|  (3) use effective risk management strategies;  
+|  (4) establish standards that promote the ability of  
+| information resources systems to operate with each other; and  
+|  (5) use industry best practices and process  
+| reengineering when feasible.  
+|  _(j)_ _____A state agency may not amend a contract subject to_  
+| _review under Section 2054.158(b)(4) if the contract is at least 10_  
+| _percent over budget or the associated major information resources_  
+| _project is at least 10 percent behind schedule unless the agency:_  
+|  _(1)_ _____conducts a cost-benefit analysis with respect to_  
+| _canceling or continuing the project; and_  
+|  _(2)_ _____submits the analysis described by Subdivision (1)_  
+| _to the quality assurance team._  
+|  SECTION 4. Section 2054.158, Government Code, is amended by  
+| amending Subsection (b) and adding Subsections (d) and (e) to read  
+| as follows:  
+|  (b) The quality assurance team shall:  
+|  (1) develop and recommend policies and procedures to  
+| improve _the development, implementation, and return on investment_  
+| _for_ state agency information resources technology projects;  
+|  (2) _except as provided by Subsection (e), review a_  
+| _state agency's business case prepared for a major information_  
+| _resources project under Section 2054.303 and make recommendations_  
+| [ ~~develop and recommend procedures~~ ] to improve the implementation of  
+| _the project_ [ ~~state agency information resources technology~~  
+|  ~~projects by including considerations for best value and return on~~  
+|  ~~investment~~ ]; [ ~~and~~ ]  
+|  (3) provide annual training for state agency  
+| procurement and contract management staff on best practices and  
+| methodologies for information technology contracts _;_  
+|  _(4)_ _____review and provide recommendations on the final_  
+| _negotiated terms of a contract for the development or_  
+| _implementation of a major information resources project with a_  
+| _value of at least $10 million; and_  
+|  _(5)_ _____provide a report to the governor, lieutenant_  
+| _governor, speaker of the house of representatives, and presiding_  
+| _officer of the standing committee of each house of the legislature_  
+| _with primary jurisdiction over appropriations by December 1 of each_  
+| _even-numbered year that includes:_  
+|  _(A)_ _____the performance indicator report required by_  
+| _Section 2054.159(a);_  
+|  _(B)_ _____a summary of any major issues identified in_  
+| _state agency reports submitted under Section 2054.159(f);_  
+|  _(C)_ _____an appendix containing any justifications_  
+| _submitted to the quality assurance team under Section 2054.160(d);_  
+| _and_  
+|  _(D)_ _____any additional information considered_  
+| _appropriate by the quality assurance team_.  
+|  _(d)_ _____The comptroller by rule shall develop guidelines for the_  
+| _additional or reduced monitoring of major information resources_  
+| _projects and associated contracts of state agencies based on the_  
+| _risk criteria developed under Section 2155.091(f)._  
+|  _(e)_ _____The quality assurance team may waive the review_  
+| _authorized by Subsection (b)(2) for a project that the team_  
+| _determines to be low risk._  
+|  SECTION 5. Section 2054.159, Government Code, is amended by  
+| amending Subsection (b) and adding Subsections (f) and (g) to read  
+| as follows:  
+|  (b) The department by rule shall develop the performance  
+| indicators the quality assurance team is required to monitor under  
+| Subsection (a) _and obtain the approval of each member of the quality_  
+| _assurance team for the performance indicators_. In adopting rules  
+| under this subsection, the department shall consider applicable  
+| information technology industry standards.  
+|  _(f)_ _____For each major information resources project, a state_  
+| _agency shall provide the quality assurance team any verification_  
+| _and validation report or quality assurance report related to the_  
+| _project not later than the 10th day after the date the agency_  
+| _receives a request for the report._  
+|  _(g)_ _____The quality assurance team may request any information_  
+| _necessary to determine a major information resources project's_  
+| _potential risk._  
+|  SECTION 6. Subchapter G, Chapter 2054, Government Code, is  
+| amended by adding Section 2054.160 to read as follows:  
+|  _Sec._ ___2054.160._ _____REVIEW OF CONTRACT FOR MAJOR INFORMATION_  
+| _RESOURCES PROJECT. (a) For each contract for the development or_  
+| _implementation of a major information resources project with a_  
+| _value of at least $10 million, a state agency shall:_  
+|  _(1)_ _____submit the proposed terms of the contract to the_  
+| _quality assurance team before the start of negotiations; and_  
+|  _(2)_ _____submit the final negotiated unsigned contract to_  
+| _the quality assurance team for review under Section 2054.158(b)(4)._  
+|  _(b)_ _____After the quality assurance team makes a recommendation_  
+| _under Section 2054.158(b)(4), a state agency shall:_  
+|  _(1) comply with the recommendation; or_  
+|  _(2)_ _____submit to the quality assurance team a written_  
+| _explanation regarding why the recommendation is not applicable to_  
+| _the contract under review._  
+|  _(c)_ _____Before amending a contract related to a major_  
+| _information resources project, a state agency must notify the_  
+| _governor, lieutenant governor, speaker of the house of_  
+| _representatives, presiding officer of the standing committee of_  
+| _each house of the legislature with primary jurisdiction over_  
+| _appropriations, and quality assurance team if:_  
+|  _(1)_ _____the total value of the amended contract exceeds or_  
+| _will exceed the initial contract value by 25 percent or more; or_  
+|  _(2)_ _____the amendment requires the contractor to provide_  
+| _consultative services, technical expertise, or other assistance in_  
+| _defining project scope or deliverables._  
+|  _(d)_ _____A state agency shall provide to the quality assurance_  
+| _team a justification for an amendment subject to Subsection (c)._  
+|  SECTION 7. Section 2054.301, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2054.301. APPLICABILITY[ ~~; DEFINITION~~ ]. [ ~~(a)~~ ] This  
+| subchapter applies only to[ ~~:~~  
+|  [ ~~(1)~~ ] a major information resources project[ ~~; and~~  
+|  [ ~~(2) a major contract~~].  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~In this subchapter, "major contract" means a major~~  
+|  ~~contract as defined by Section 2262.001(4) under which a vendor~~  
+|  ~~will perform or manage an outsourced function or process.~~ ]  
+|  SECTION 8. Section 2054.302, Government Code, is amended by  
+| amending Subsection (b) and adding Subsection (d) to read as  
+| follows:  
+|  (b) The department[ ~~, in consultation with the Legislative~~  
+|  ~~Budget Board and state auditor's office,~~ ] shall develop and provide  
+| guidelines and forms for the documents required by this subchapter.  
+|  _(d)_ _____The guidelines and forms developed under Subsection (b)_  
+| _must be approved by each member of the quality assurance team._  
+|  SECTION 9. Section 2054.303, Government Code, is amended by  
+| amending Subsections (a) and (c) and adding Subsection (d) to read  
+| as follows:  
+|  (a) For each proposed major information resources project  
+| [ ~~or major contract~~ ], a state agency must prepare:  
+|  (1) a business case providing the initial  
+| justification for the project [ ~~or contract, including the~~  
+|  ~~anticipated return on investment in terms of cost savings and~~  
+|  ~~efficiency for the project or contract~~ ]; _and_  
+|  (2) _if the state agency meets the low risk criteria_  
+| _developed under Section 2155.091(f):_  
+|  _(A)_ a statewide impact analysis of the project's  
+| [ ~~or contract's~~ ] effect on the state's common information resources  
+| infrastructure[ ~~, including the possibility of reusing code or other~~  
+|  ~~resources~~ ]; and  
+|  _(B)_ [ ~~(3) in consultation with the department,~~] a  
+| technical architectural assessment of the project _, if requested by_  
+| _the quality assurance team_ [ ~~or contract~~ ].  
+|  (c) The department shall use the analysis to ensure that the  
+| proposed project [ ~~or major contract~~ ] does not unnecessarily  
+| duplicate existing statewide information resources technology.  
+|  _(d)_ _____After the quality assurance team makes a recommendation_  
+| _relating to a business case under Section 2054.158(b)(2), a state_  
+| _agency shall:_  
+|  _(1) comply with the recommendation; or_  
+|  _(2)_ _____submit to the quality assurance team a written_  
+| _explanation regarding why the recommendation is not applicable to_  
+| _the project under review._  
+|  SECTION 10. Sections 2054.304(a) and (b), Government Code,  
+| are amended to read as follows:  
+|  (a) A state agency shall develop a project plan for each  
+| major information resources project [ ~~or major contract~~ ].  
+|  (b) _The_ [ ~~Except as provided by Subsection (c), the~~ ] state  
+| agency must file the project plan with the quality assurance team  
+| and the department before the agency[ ~~:~~  
+|  [ ~~(1)~~ ] spends more than 10 percent of allocated funds  
+| for the project [ ~~or major contract; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~first issues a vendor solicitation for the~~  
+|  ~~project or contract~~ ].  
+|  SECTION 11. Section 2054.305, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2054.305. PROCUREMENT PLAN AND METHOD FOR MONITORING  
+| CONTRACTS. Before issuing a [ ~~vendor~~ ] solicitation for a [ ~~project~~  
+|  ~~or major~~ ] contract _subject to review under Section 2054.158(b)(4)_ ,  
+| the state agency must develop, consistent with _any acquisition plan_  
+| _provided in the guide developed under Section 2262.051_ [ ~~department~~  
+|  ~~guidelines~~ ]:  
+|  (1) a procurement plan with anticipated service levels  
+| and performance standards for each _contractor_ [ ~~vendor~~ ]; and  
+|  (2) a method to monitor changes to the scope of each  
+| contract.  
+|  SECTION 12. Section 2054.307, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2054.307. APPROVAL OF DOCUMENTS AND CONTRACT CHANGES.  
+| (a) A state agency's executive director, _or the executive_  
+| _director's designee,_ [ ~~information resources manager, designated~~  
+|  ~~project manager, and the agency employee in charge of information~~  
+|  ~~security for the agency~~ ] must approve [ ~~and sign~~ ]:  
+|  (1) each document required by this subchapter; and  
+|  (2) if the department requires the approval [ ~~and~~  
+|  ~~signatures~~ ], any other document related to this subchapter.  
+|  (b) The state agency's executive director must approve a  
+| proposed contract amendment or change order for a major information  
+| resources project if the amendment or change order:  
+|  (1) changes the monetary value of the contract by more  
+| than _25_ [ ~~10~~ ] percent; or  
+|  (2) significantly changes the completion date of the  
+| contract.  
+|  SECTION 13. Section 2155.091, Government Code, is amended  
+| by adding Subsection (f) to read as follows:  
+|  _(f)_ _____The chief procurement officer, in coordination with the_  
+| _Contract Advisory Team created under Section 2262.101 and the_  
+| _quality assurance team created under Section 2054.158,_  
+| _shall_ ___develop criteria for the assessment of a state agency as_  
+| _"high risk," "standard risk," or "low risk" in relation to major_  
+| _information resources projects and associated contracts. In this_  
+| _subsection, "major information resources project" has the meaning_  
+| _assigned by Section 2054.003._  
+|  SECTION 14. The following provisions of the Government Code  
+| are repealed:  
+|  (1) Section 2054.1181(f);  
+|  (2) Sections 2054.1183 and 2054.1184;  
+|  (3) Sections 2054.159(c) and (d); and  
+|  (4) Section 2054.304(c).  
+|  SECTION 15. As soon as practicable after the effective date  
+| of this Act, the comptroller of public accounts, the Department of  
+| Information Resources, and each affected state agency as necessary,  
+| shall adopt the rules, processes, and procedures and take the  
+| actions necessary to implement the changes in law made by this Act.  
+|  SECTION 16. This Act applies only in relation to a contract:  
+|  (1) for which a state agency first advertises or  
+| otherwise solicits bids, proposals, offers, or qualifications on or  
+| after the effective date of this Act;  
+|  (2) that is extended or modified on or after the  
+| effective date of this Act; or  
+|  (3) for which a change order is submitted on or after  
+| the effective date of this Act.  
+|  SECTION 17. This Act takes effect September 1, 2019.
+

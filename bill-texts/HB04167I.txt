@@ -1,0 +1,222 @@
+| 86R7086 GRM-F  
+---|---  
+|  By: Bucy | H.B. No. 4167  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the procedures for voting after changing residence to  
+| another county.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 12, Election Code, is  
+| amended by adding Section 12.007 to read as follows:  
+|  _Sec._ ___12.007._ _____CERTAIN ELECTION OFFICERS ARE VOTER_  
+| _REGISTRARS._ ___An election officer serving a polling place is a deputy_  
+| _voter registrar and has the same authority as a regular deputy_  
+| _registrar._  
+|  SECTION 2. Section 15.002(a), Election Code, is amended to  
+| read as follows:  
+|  (a) A voter registration certificate may contain an  
+| explanation of the voter's rights or duties under this code,  
+| including:  
+|  (1) the procedure by which the voter will receive a  
+| renewal certificate;  
+|  (2) the necessity of notifying the registrar if the  
+| voter changes residence;  
+|  (3) the necessity of applying for a new registration  
+| if the voter changes residence to another county;  
+|  (4) the _procedure for voting_ [ ~~period during which the~~  
+|  ~~voter may vote a limited ballot~~ ] after changing residence to  
+| another county;  
+|  (5) the procedure for voting without a certificate;  
+| and  
+|  (6) the procedure for obtaining a replacement for a  
+| lost or destroyed certificate.  
+|  SECTION 3. Section 16.031(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The registrar shall cancel a voter's registration  
+| immediately on receipt of:  
+|  (1) notice under Section 13.072(b) or 15.021 or a  
+| response under Section 15.053 that the voter's residence is outside  
+| the county;  
+|  (2) an abstract of the voter's death certificate under  
+| Section 16.001(a) or an abstract of an application indicating that  
+| the voter is deceased under Section 16.001(b);  
+|  (3) an abstract of a final judgment of the voter's  
+| total mental incapacity, partial mental incapacity without the  
+| right to vote, conviction of a felony, or disqualification under  
+| Section 16.002, 16.003, or 16.004;  
+|  (4) notice under Section _63.007_ [ ~~112.012~~ ] that the  
+| voter has _voted_ [ ~~applied for~~ ] a _provisional_ [ ~~limited~~ ] ballot
+in  
+| another county;  
+|  (5) notice from a voter registration official in  
+| another state that the voter has registered to vote outside this  
+| state;  
+|  (6) notice from the early voting clerk under Section  
+| 101.053 that a federal postcard application submitted by an  
+| applicant states a voting residence address located outside the  
+| registrar's county; or  
+|  (7) notice from the secretary of state that the voter  
+| has registered to vote in another county, as determined by the  
+| voter's driver's license number or personal identification card  
+| number issued by the Department of Public Safety or social security  
+| number.  
+|  SECTION 4. Chapter 63, Election Code, is amended by adding  
+| Section 63.007 to read as follows:  
+|  _Sec._ ___63.007._ _____PROVISIONAL VOTING FOR VOTER WHO CHANGED_  
+| _COUNTY OF RESIDENCE. (a) After changing residence to another_  
+| _county, a person shall be accepted for provisional voting under_  
+| _this section if:_  
+|  _(1)_ _____the person would have been eligible to vote in the_  
+| _county of former residence on election day if still residing in that_  
+| _county;_  
+|  _(2)_ _____the person is registered to vote in the county of_  
+| _former residence at the time the person:_  
+|  _(A)_ _____offers to vote in the county of new_  
+| _residence; or_  
+|  _(B)_ _____submitted a voter registration application_  
+| _in the county of new residence;_  
+|  _(3)_ _____a voter registration for the person in the county_  
+| _of new residence is not effective on or before election day; and_  
+|  _(4)_ _____the person offers to vote in the person's new_  
+| _county of residence:_  
+|  _(A)_ _____at any polling place during the early voting_  
+| _period;_  
+|  _(B)_ _____at any polling place on election day if the_  
+| _county participates in the program under Section 43.007; or_  
+|  _(C)_ _____at the polling place of the precinct in which_  
+| _the person resides on election day if the county does not_  
+| _participate in the program under Section 43.007._  
+|  _(b)_ _____Not later than the 30th day after the election, the_  
+| _voter registrar shall notify the voter registrar for the voter's_  
+| _former county of residence that the voter was accepted for voting_  
+| _under this section._  
+|  SECTION 5. Section 63.011, Election Code, is amended by  
+| amending Subsections (b), (b-1), and (c) and adding Subsection  
+| (a-2) to read as follows:  
+|  _(a-2)_ _____A person to whom Section 63.007 applies may cast a_  
+| _provisional ballot if the person would be eligible to vote in the_  
+| _election, but for the requirement to be a registered voter, and_  
+| _executes an affidavit stating:_  
+|  _"I am currently registered to vote in _________ [insert_  
+| _name of county] County and have not cast a ballot in that county in_  
+| _this election. I understand that doing so is a felony of the second_  
+| _degree under Section 64.012, Election Code."_  
+|  (b) A form for an affidavit required by this section must be  
+| printed on an envelope in which the provisional ballot voted by the  
+| person may be placed and must include:  
+|  (1) a space for entering the identification number of  
+| the provisional ballot voted by the person; [ ~~and~~ ]  
+|  (2) a space for an election officer to indicate  
+| whether the person presented a form of identification described by  
+| Section 63.0101 _; and_  
+|  _(3)_ _____for a provisional ballot voted by the person under_  
+| _Section 63.007, a space for entering:_  
+|  _(A)_ _____the precinct number of the precinct in which_  
+| _the voter voted; and_  
+|  _(B)_ _____the name of the county in which the voter is_  
+| _registered to vote_.  
+|  (b-1) The affidavit form _shall_ [ ~~may~~ ] include space for  
+| disclosure of any necessary information to enable the person to  
+| register to vote under Chapter 13. The secretary of state shall  
+| prescribe the form of the affidavit under this section.  
+|  (c) After executing the affidavit, the person shall be given  
+| a provisional ballot for the election. An election officer shall  
+| record the number of the ballot _, and if applicable, the precinct_  
+| _number,_ on the space provided on the affidavit.  
+|  SECTION 6. Section 65.054, Election Code, is amended by  
+| amending Subsection (b) and adding Subsection (b-1) to read as  
+| follows:  
+|  (b) _Except as provided by Subsection (b-1), a_ [ ~~A~~ ]  
+| provisional ballot shall be accepted if the board determines that:  
+|  (1) from the information in the affidavit or contained  
+| in public records, the person is eligible to vote in the election  
+| and has not previously voted in that election;  
+|  (2) the person:  
+|  (A) meets the identification requirements of  
+| Section 63.001(b) at the time the ballot was cast or in the period  
+| prescribed under Section 65.0541;  
+|  (B) notwithstanding Chapter 110, Civil Practice  
+| and Remedies Code, executes an affidavit under penalty of perjury  
+| that states the voter has a religious objection to being  
+| photographed and the voter has consistently refused to be  
+| photographed for any governmental purpose from the time the voter  
+| has held this belief; or  
+|  (C) executes an affidavit under penalty of  
+| perjury that states the voter does not have any identification  
+| meeting the requirements of Section 63.001(b) as a result of a  
+| natural disaster that was declared by the president of the United  
+| States or the governor, occurred not earlier than 45 days before the  
+| date the ballot was cast, and caused the destruction of or inability  
+| to access the voter's identification; and  
+|  (3) the voter has not been challenged and voted a  
+| provisional ballot solely because the voter did not meet the  
+| requirements for identification prescribed by Section 63.001(b).  
+|  _(b-1)_ _____A provisional ballot cast under Section 63.007 shall_  
+| _be accepted if the board determines from the information in the_  
+| _affidavit or contained in public records that the person:_  
+|  _(1)_ _____is registered to vote in the county of the person's_  
+| _former residence;_  
+|  _(2) has not previously voted in the election; and_  
+|  _(3)_ _____is eligible to vote in the election, but for the_  
+| _requirement to be a registered voter._  
+|  SECTION 7. Section 65.055, Election Code, is amended by  
+| adding Subsection (a-1) to read as follows:  
+|  _(a-1)_ _____If the affidavit on the envelope of a provisional_  
+| _ballot accepted under Section 65.054(b-1) contains the information_  
+| _necessary to enable the person to register to vote under Chapter 13,_  
+| _the voter registrar shall make a copy of the affidavit under_  
+| _procedures prescribed by the secretary of state. The voter_  
+| _registrar shall treat the copy as an application for registration_  
+| _under Chapter 13._  
+|  SECTION 8. Section 111.009, Election Code, is amended to  
+| read as follows:  
+|  Sec. 111.009. EXCLUDING VOTER FROM PRECINCT EARLY VOTING  
+| LIST. The name of a person [ ~~voting a limited ballot by personal~~  
+|  ~~appearance under Chapter 112 or~~ ] to whom a [ ~~limited or~~ ] federal  
+| ballot to be voted by mail is provided under Chapter [ ~~112 or~~ ] 114 is  
+| not required to be included on the precinct early voting list.  
+|  SECTION 9. Section 162.002, Election Code, is amended to  
+| read as follows:  
+|  Sec. 162.002. ELIGIBILITY TO AFFILIATE. To be eligible to  
+| affiliate with a political party, a person must be:  
+|  (1) a registered voter; or  
+|  (2) eligible to vote a _provisional_ [ ~~limited~~ ] ballot  
+| _under Section 63.007_ at the time of affiliating.  
+|  SECTION 10. Section 162.005, Election Code, is amended to  
+| read as follows:  
+|  Sec. 162.005. AFFILIATION PROCEDURE: EARLY VOTING BY MAIL.  
+| The early voting clerk in a general primary election shall provide  
+| an affiliation certificate with each early voting [ ~~or limited~~ ]  
+| ballot to be voted by mail. The certificate is not required to be  
+| provided to an applicant for a runoff primary ballot unless the  
+| applicant requests it.  
+|  SECTION 11. Section 174.003, Election Code, is amended to  
+| read as follows:  
+|  Sec. 174.003. DELEGATE TO BE QUALIFIED VOTER. In addition  
+| to the requirement of party affiliation, to be eligible to serve as  
+| a delegate to a county, senatorial district, or state convention  
+| held under this chapter, a person must be a qualified voter of the  
+| territory that the person is selected to represent or a resident of  
+| that territory who is eligible to vote a _provisional_ [ ~~limited~~ ]  
+| ballot _under Section 63.007_.  
+|  SECTION 12. Section 174.024, Election Code, is amended to  
+| read as follows:  
+|  Sec. 174.024. PARTICIPANT TO BE REGISTERED VOTER. In  
+| addition to the requirement of party affiliation, to be eligible to  
+| participate in a precinct convention held under this subchapter, a  
+| person must be a registered voter of the precinct or a precinct  
+| resident who is eligible to vote a _provisional_ [ ~~limited~~ ] ballot  
+| _under Section 63.007_.  
+|  SECTION 13. Section 181.065, Election Code, is amended to  
+| read as follows:  
+|  Sec. 181.065. PARTICIPANT TO BE REGISTERED VOTER. To be  
+| eligible to participate in a precinct convention held under this  
+| chapter, a person must be a registered voter of the precinct or a  
+| precinct resident who is eligible to vote a _provisional_ [ ~~limited~~ ]  
+| ballot _under Section 63.007_.  
+|  SECTION 14. Chapter 112, Election Code, is repealed.  
+|  SECTION 15. Not later than December 1, 2019, the secretary  
+| of state shall adopt all necessary rules to implement this Act.  
+|  SECTION 16. This Act takes effect January 1, 2020.
+

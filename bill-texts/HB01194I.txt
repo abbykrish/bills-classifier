@@ -1,0 +1,109 @@
+| 86R7486 TJB-F  
+---|---  
+|  By: Dutton | H.B. No. 1194  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the exemption from ad valorem taxation by a school  
+| district of certain property used to build low-income housing.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 11, Tax Code, is amended by  
+| adding Section 11.1828 to read as follows:  
+|  _Sec._ ___11.1828._ _____LOW-INCOME HOUSING NEAR SCHOOL OR WITHIN_  
+| _MUNICIPAL MANAGEMENT DISTRICT._ ___(a)_ ___In this section:_  
+|  _(1)_ _____"Area median income" means the area median income_  
+| _as determined by the Texas Department of Housing and Community_  
+| _Affairs under Section 2306.123, Government Code._  
+|  _(2)_ _____"Municipal management district" means a municipal_  
+| _management district created under:_  
+|  _(A) Chapter 375, Local Government Code; or_  
+|  _(B)_ _____a special law to accomplish the purposes of_  
+| _Sections 52 and 52-a, Article III, and Section 59, Article XVI,_  
+| _Texas Constitution._  
+|  _(3)_ _____"Rural area" and "urban area" have the meanings_  
+| _assigned by Section 2306.004, Government Code._  
+|  _(b)_ _____A person is entitled to an exemption from taxation by a_  
+| _school district of improved and unimproved real property, any part_  
+| _of which is located within a one-mile radius of the center of a_  
+| _campus of that school district or within a municipal management_  
+| _district that the person owns for the purpose of building:_  
+|  _(1) in an urban area:_  
+|  _(A)_ _____25 or more new single-family dwellings to be_  
+| _sold or leased to individuals or families earning not more than 25_  
+| _percent of the area median income; or_  
+|  _(B)_ _____a new multifamily housing project consisting_  
+| _of 150 or more dwelling units to be rented to individuals or_  
+| _families earning not more than 25 percent of the area median income;_  
+| _or_  
+|  _(2) in a rural area:_  
+|  _(A)_ _____10 or more new single-family dwellings to be_  
+| _sold or leased to individuals or families earning not more than 25_  
+| _percent of the area median income; or_  
+|  _(B)_ _____a new multifamily housing project consisting_  
+| _of 60 or more dwelling units to be rented to individuals or families_  
+| _earning not more than 25 percent of the area median income._  
+|  _(c)_ _____Property may not be exempted from taxation under this_  
+| _section after the third anniversary of the date the person acquires_  
+| _the property._  
+|  _(d)_ _____The chief appraiser of the appraisal district in which_  
+| _property exempted from taxation under this section is located shall_  
+| _determine the market value of the property each tax year and shall_  
+| _record that value in the appraisal records for that tax year._  
+|  _(e)_ _____If the person who owns property exempted from taxation_  
+| _under this section sells, leases, or rents any part of the property_  
+| _to an individual or family who does not satisfy the applicable_  
+| _eligibility requirements prescribed by Subsection (b)(1) or (2), a_  
+| _penalty is imposed on the property equal to the amount of the taxes_  
+| _that would have been imposed on the property in each tax year that_  
+| _the property was exempted from taxation, plus interest at an annual_  
+| _rate of seven percent calculated from the dates on which the taxes_  
+| _would have become due._  
+|  _(f)_ _____If the penalty prescribed by Subsection (e) is imposed_  
+| _on property because the property is sold to a person who does not_  
+| _satisfy the applicable eligibility requirements of Subsection_  
+| _(b)(1)(A) or (2)(A), the person who received the exemption under_  
+| _this section for the property and the purchaser of the property are_  
+| _jointly and severally liable for the penalty and interest. A tax_  
+| _lien in favor of the school district for which the penalty is_  
+| _imposed attaches to the property to secure payment of the penalty_  
+| _and interest._  
+|  _(g)_ _____The chief appraiser shall make an entry in the appraisal_  
+| _records for the property against which a penalty is imposed under_  
+| _Subsection (e) and shall deliver written notice of the imposition_  
+| _of the penalty and interest to the persons who are jointly and_  
+| _severally liable for that penalty and interest._  
+|  SECTION 2. Section 11.436(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) _A person who_ [ ~~An organization that~~ ] acquires property  
+| that qualifies for an exemption under Section 11.181(a) _,_ [ ~~or~~ ]  
+| 11.1825 _, or 11.1828_ may apply for the exemption for the year of  
+| acquisition not later than the 30th day after the date the _person_  
+| [ ~~organization~~ ] acquires the property, and the deadline provided by  
+| Section 11.43(d) does not apply to the application for that year.  
+|  SECTION 3. The heading to Section 26.111, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 26.111. PRORATING TAXES--ACQUISITION BY _PERSON FOR_  
+| _LOW-INCOME HOUSING PROJECTS_ [ ~~CHARITABLE ORGANIZATION~~ ].  
+|  SECTION 4. Section 26.111(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) If _a person_ [ ~~an organization~~ ] acquires taxable property  
+| that qualifies for and is granted an exemption under Section  
+| 11.181(a) _, 11.182,_ or _11.1828_ [ ~~11.182(a)~~ ] for the year in which
+the  
+| property was acquired, the amount of tax due on the property for  
+| that year is calculated by multiplying the amount of taxes imposed  
+| on the property for the entire year as provided by Section 26.09 by  
+| a fraction, the denominator of which is 365 and the numerator of  
+| which is the number of days in that year before the date the _person_  
+| [ ~~charitable organization~~ ] acquired the property.  
+|  SECTION 5. This Act applies only to an ad valorem tax year  
+| that begins on or after the effective date of this Act.  
+|  SECTION 6. This Act takes effect January 1, 2020, but only  
+| if the constitutional amendment proposed by the 86th Legislature,  
+| Regular Session, 2019, authorizing the legislature to exempt from  
+| ad valorem taxation by one or more political subdivisions of this  
+| state property located near a public school or within a municipal  
+| management district that is owned for the purpose of building  
+| low-income housing is approved by the voters. If that amendment is  
+| not approved by the voters, this Act has no effect.
+

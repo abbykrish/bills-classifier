@@ -1,0 +1,58 @@
+| 86R3131 JRR-D  
+---|---  
+|  By: Moody | H.B. No. 1316  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the disclosure in a criminal case of certain criminal  
+| history record information.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 38, Code of Criminal Procedure, is  
+| amended by adding Article 38.51 to read as follows:  
+|  _Art._ ___38.51._ _____TIMELY DISCLOSURE OF CRIMINAL HISTORY RECORD_  
+| _INFORMATION SUFFICIENT FOR PURPOSES OF CERTAIN NOTICE_  
+| _REQUIREMENTS. (a) In this article, "criminal history record_  
+| _information" has the meaning assigned by Section 411.082,_  
+| _Government Code._  
+|  _(b)_ _____This article applies to the notice requirements_  
+| _relating to the state's intention to introduce evidence of other_  
+| _crimes, wrongs, or acts committed by the defendant or evidence of_  
+| _the prior criminal record of a potential witness in the case as_  
+| _permitted by:_  
+|  _(1) Section 3, Article 37.07, or Article 38.37;_  
+|  _(2) Rule 404 or 609, Texas Rules of Evidence; or_  
+|  _(3)_ _____another law authorizing the introduction of that_  
+| _evidence following notice by the state._  
+|  _(c)_ _____Notwithstanding any other law, if the attorney_  
+| _representing the state timely discloses to the defendant or the_  
+| _attorney representing the defendant criminal history record_  
+| _information in the original format in which the information was_  
+| _retrieved from a database maintained by the Department of Public_  
+| _Safety or the Federal Bureau of Investigation, including the Texas_  
+| _Crime Information Center and National Crime Information Center, and_  
+| _if that disclosure is made in accordance with Article 39.14, the_  
+| _notice requirements described by Subsection (b) are satisfied with_  
+| _respect to the criminal history record information contained in the_  
+| _disclosure._  
+|  _(d)_ _____Subsection (c) does not apply to criminal history record_  
+| _information that the state intends to introduce for the purpose of_  
+| _enhancing the punishment for an offense._  
+|  SECTION 2. Subchapter F, Chapter 411, Government Code, is  
+| amended by adding Section 411.0844 to read as follows:  
+|  _Sec._ ___411.0844._ _____DISCLOSURE OF CRIMINAL HISTORY RECORD_  
+| _INFORMATION IN CRIMINAL CASE. (a)_ ___An attorney representing the_  
+| _state in a criminal case may disclose to the defendant or the_  
+| _attorney representing the defendant criminal history record_  
+| _information that relates to the defendant or a potential witness in_  
+| _the case and that is obtained from the department or the Federal_  
+| _Bureau of Investigation._  
+|  _(b)_ _____The attorney representing the state shall provide with_  
+| _the disclosure a copy of Section 411.085 providing criminal_  
+| _penalties for the unauthorized obtaining, use, or disclosure of_  
+| _criminal history record information._  
+|  SECTION 3. Article 38.51, Code of Criminal Procedure, as  
+| added by this Act, applies only to a trial that begins on or after  
+| the effective date of this Act, regardless of whether the alleged  
+| offense was committed before, on, or after that date.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

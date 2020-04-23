@@ -1,0 +1,69 @@
+| 86R8343 JSC-F  
+---|---  
+|  By: Rose | H.B. No. 1528  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the reporting of certain information involving family  
+| violence offenses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 66.102(f), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (f) Information in the computerized criminal history system  
+| relating to sentencing must include for each sentence:  
+|  (1) the sentencing date;  
+|  (2) the sentence for each offense, by offense code and  
+| incident number;  
+|  (3) if the offender was sentenced to confinement:  
+|  (A) the agency that receives custody of the  
+| offender;  
+|  (B) the length of the sentence for each offense;  
+| and  
+|  (C) if multiple sentences were ordered, whether  
+| the sentences were ordered to be served consecutively or  
+| concurrently;  
+|  (4) if the offender was sentenced to pay a fine, the  
+| amount of the fine;  
+|  (5) if a sentence to pay a fine or to confinement was  
+| ordered but was deferred, probated, suspended, or otherwise not  
+| imposed:  
+|  (A) the length of the sentence or the amount of  
+| the fine that was deferred, probated, suspended, or otherwise not  
+| imposed; and  
+|  (B) the offender's name, offense code, and  
+| incident number; [ ~~and~~ ]  
+|  (6) if a sentence other than a fine or confinement was  
+| ordered, a description of the sentence ordered _; and_  
+|  _(7)_ _____whether the judgment imposing the sentence_  
+| _reflects an affirmative finding entered under Article 42.013_  
+| _(Finding of Family Violence)_.  
+|  SECTION 2. Article 66.252, Code of Criminal Procedure, is  
+| amended by amending Subsection (b) and adding Subsection (g) to  
+| read as follows:  
+|  (b) The arresting law enforcement agency shall prepare a  
+| uniform incident fingerprint card described by Article 66.251 and  
+| initiate the reporting process for each offender charged with _:_  
+|  _(1)_ a felony _;_  
+|  _(2)_ [ ~~or~~ ] a misdemeanor _for which a term of confinement_  
+| _may be imposed; or_  
+|  _(3)_ _____a misdemeanor punishable by fine only that_  
+| _involves family violence, as defined by Section 71.004, Family Code_  
+| [ ~~other than a misdemeanor punishable by fine only~~ ].  
+|  _(g)_ _____On disposition of a case in which an offender is charged_  
+| _with a misdemeanor described by Subsection (b)(3), the clerk of the_  
+| _court exercising jurisdiction over the case shall report the_  
+| _applicable information regarding the person's citation or arrest_  
+| _and the disposition of the case to the Department of Public Safety_  
+| _using a uniform incident fingerprint card described by Article_  
+| _66.251 or an electronic methodology approved by the Department of_  
+| _Public Safety._  
+|  SECTION 3. The change in law made by this Act applies only  
+| to an offense committed on or after the effective date of this Act.  
+| An offense committed before the effective date of this Act is  
+| covered by the law in effect on the date the offense was committed,  
+| and the former law is continued in effect for that purpose. For  
+| purposes of this section, an offense was committed before the  
+| effective date of this Act if any element of the offense occurred  
+| before that date.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

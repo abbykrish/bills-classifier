@@ -1,0 +1,33 @@
+| 86R7128 ADM-F  
+---|---  
+|  By: Guillen | H.B. No. 1048  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of a county early voting polling place by a  
+| political subdivision.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 85.010, Election Code, is amended by  
+| adding Subsection (a-1) and amending Subsection (b) to read as  
+| follows:  
+|  _(a-1)_ _____In this section, "eligible county polling place"_  
+| _means an early voting polling place, other than a polling place_  
+| _established under Section 85.062(e), established by a county._  
+|  (b) A political subdivision that holds an election  
+| described by Subsection (a) _:_  
+|  _(1)_ shall designate as an early voting polling place  
+| for the election _an eligible county_ [ ~~any early voting~~ ] polling  
+| place[ ~~, other than a polling place established under Section~~  
+|  ~~85.062(e), established by the county and~~ ] located in the political  
+| subdivision _; and_  
+|  _(2)_ _____may not designate as an early voting polling place_  
+| _a location other than an eligible county polling place unless each_  
+| _eligible county polling place located in the political subdivision_  
+| _is designated as an early voting polling place by the political_  
+| _subdivision_.  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

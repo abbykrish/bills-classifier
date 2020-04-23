@@ -1,0 +1,50 @@
+| 2019S0212-1 02/13/19  
+---|---  
+|  By: Raney | H.B. No. 4297  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of physicians to delegate to certain  
+| pharmacists the implementation and modification of a patient's drug  
+| therapy.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 157.101(b) and (b-1), Occupations Code,  
+| are amended to read as follows:  
+|  (b) A physician may delegate to a properly qualified and  
+| trained pharmacist acting under adequate physician supervision the  
+| performance of specific acts of drug therapy management authorized  
+| by the physician through the physician's order, standing medical  
+| order, standing delegation order, or other order or protocol as  
+| defined by board rule _, including the implementation or modification_  
+| _of a patient's drug therapy_.  
+|  (b-1) A delegation under Subsection (b) may include the  
+| implementation or modification of a patient's drug therapy under a  
+| protocol _that calls for dangerous drugs, which delegation_  
+| _includes_ [ ~~, including~~ ] the authority to sign a prescription drug  
+| order [ ~~for dangerous drugs~~ ], _only_ if:  
+|  (1) the delegation follows a diagnosis, initial  
+| patient assessment, and drug therapy order by the physician;  
+|  (2) the pharmacist practices in a hospital,  
+| hospital-based clinic, or an academic health care institution;  
+|  (3) the hospital, hospital-based clinic, or academic  
+| health care institution in which the pharmacist practices has  
+| bylaws and a medical staff policy that permit a physician to  
+| delegate to a pharmacist the management of a patient's drug  
+| therapy;  
+|  (4) the pharmacist provides the name, address, and  
+| telephone number of the pharmacist and of the delegating physician  
+| on each prescription signed by the pharmacist; and  
+|  (5) the pharmacist provides a copy of the protocol to  
+| the Texas State Board of Pharmacy.  
+|  SECTION 2. Section 554.057, Occupations Code, is amended to  
+| read as follows:  
+|  Sec. 554.057. RULEMAKING; IMPLEMENTATION OF DRUG THERAPY  
+| UNDER PROTOCOL. The board, with the advice of the Texas Medical  
+| Board, shall adopt rules that allow a pharmacist to implement or  
+| modify a patient's drug therapy pursuant to a physician's  
+| delegation under Section _157.101(b) or (b-1)_ [ ~~157.101(b-1)~~ ].  
+|  SECTION 3. Not later than January 1, 2020, the Texas State  
+| Board of Pharmacy shall adopt rules under Section 554.057,  
+| Occupations Code, as amended by this Act.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

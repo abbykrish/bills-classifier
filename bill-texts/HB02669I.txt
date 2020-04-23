@@ -1,0 +1,336 @@
+| 86R10533 ADM-F  
+---|---  
+|  By: Guillen | H.B. No. 2669  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authorization and regulation of social gaming  
+| establishments and the duties of the Texas Department of Licensing  
+| and Regulation; providing civil and administrative penalties;  
+| authorizing a fee; requiring an occupational license.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 13, Occupations Code, is  
+| amended by adding Chapter 2005 to read as follows:  
+| _CHAPTER 2005. SOCIAL GAMING_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec._ ___2005.001._ _____SHORT TITLE. This chapter may be cited as_  
+| _the Social Gaming Act of 2019._  
+|  _Sec. 2005.002. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Bet" means an agreement to win or lose money,_  
+| _chips, tokens, or other consideration in a social game._  
+|  _(2)_ _____"Buy-in"_ ___means the amount of consideration paid by_  
+| _a player to enter a social game._  
+|  _(3)_ _____"Commercial game"_ ___means a game conducted in a_  
+| _manner that provides a mathematical or financial economic benefit_  
+| _to any person other than a player or participant in the game._  
+|  _(4)_ _____"Commission" means the Texas Commission of_  
+| _Licensing and Regulation._  
+|  _(5)_ _____"Communal pot" means the total amount of_  
+| _considerations collected through all bets placed during one_  
+| _instance of a social game._  
+|  _(6) "Controlling person" means an individual who:_  
+|  _(A)_ _____controls 25 percent or more of the voting_  
+| _securities of a corporation that offers or proposes to offer social_  
+| _gaming as an operator;_  
+|  _(B)_ _____has final authority to set policy and direct_  
+| _management of an entity that offers or proposes to offer social_  
+| _gaming as an operator;_  
+|  _(C)_ _____is authorized by an entity that offers or_  
+| _proposes to offer social gaming as an operator to contract with_  
+| _another entity to conduct social gaming on behalf of the_  
+| _contracting entity; or_  
+|  _(D)_ _____is an officer or director of a corporation or_  
+| _a general partnership that offers social gaming as an operator._  
+|  _(7)_ _____"Dealer" means a person who exchanges bets between_  
+| _players, monitors activities, or conducts hands in a social game at_  
+| _a licensed social gaming establishment._  
+|  _(8)_ _____"Department" means the Texas Department of_  
+| _Licensing and Regulation._  
+|  _(9)_ _____"Executive director"_ ___means the executive director_  
+| _of the department._  
+|  _(10)_ _____"Operator" means a person that organizes,_  
+| _operates, or promotes social games at a licensed social gaming_  
+| _establishment._  
+|  _(11)_ _____"Pay-out" means the amount of consideration paid_  
+| _to a player on the player's exit from a social game._  
+|  _(12)_ _____"Player" means an individual who is a registered_  
+| _member of a social gaming establishment, is at least 21 years of_  
+| _age, and participates in a social game while physically present on_  
+| _the premises of the establishment._  
+|  _(13) "Social game" means a card game:_  
+|  _(A)_ _____that is conducted with players placing bets_  
+| _on predetermined outcomes in which no person receives an economic_  
+| _benefit except for personal winnings;_  
+|  _(B)_ _____in which, except for the advantages of skill_  
+| _or luck, the risk of losing and the chance of winning are the same_  
+| _for all players; and_  
+|  _(C)_ _____that does not include any commercial game or_  
+| _any video, mechanical, electronic, or online version of a game_  
+| _described by Paragraphs (A) and (B)._  
+|  _(14)_ _____"Social gaming establishment" means an_  
+| _establishment in which social gaming authorized by this chapter is_  
+| _conducted._  
+|  _Sec._ ___2005.003._ _____APPLICABILITY._ ___This chapter does not apply_  
+| _to the conduct of bingo, charitable raffles, the state lottery, or_  
+| _greyhound or horse racing._  
+|  _Sec._ ___2005.004._ _____OTHER GAMING NOT AUTHORIZED._ ___This chapter_  
+| _does not authorize the conduct of commercial games or gambling_  
+| _otherwise prohibited by law._  
+|  _Sec._ ___2005.005._ _____PRIVATE PLACE._ ___For purposes of this chapter_  
+| _and other law, a social game conducted in a licensed social gaming_  
+| _establishment is conducted in a private place._  
+|  _Sec._ ___2005.006._ _____ECONOMIC BENEFIT; SERVICE GRATUITY;_  
+| _ENTRANCE FEE. (a)_ ___For purposes of this chapter and other law, a_  
+| _social game is considered to be conducted in a manner that does not_  
+| _provide to any person an economic benefit other than player_  
+| _pay-outs if the social game is conducted in a licensed social gaming_  
+| _establishment in which:_  
+|  _(1) total buy-ins equal total pay-outs;_  
+|  _(2) bets are placed only between players; and_  
+|  _(3)_ _____a fee or percentage of winnings is not collected_  
+| _from any communal pot._  
+|  _(b) A service gratuity may be accepted only if the gratuity:_  
+|  _(1)_ _____does not create a discrepancy in the equal balance_  
+| _of buy-ins and pay-outs; and_  
+|  _(2)_ _____is offered in a manner that does not conflict with_  
+| _Subsection (a)._  
+|  _(c)_ _____An operator may not receive any economic benefit from a_  
+| _bet placed during a social game organized, operated, or promoted by_  
+| _that operator._  
+|  _(d)_ _____An operator may charge a player a fee to enter a social_  
+| _game held at a licensed social gaming establishment._  
+|  _Sec._ ___2005.007._ _____PUBLIC POLICY: PREFERENCE FOR STATE_  
+| _RESOURCES. It is the intent of this chapter, where possible, to use_  
+| _the resources, goods, labor, and services of this state in the_  
+| _operation of social gaming-related amenities to the extent_  
+| _allowable by law._  
+| _SUBCHAPTER B. POWERS AND DUTIES OF COMMISSION AND DEPARTMENT_  
+|  _Sec._ ___2005.051._ _____COMMISSION RULES ON REGULATION AND_  
+| _LICENSING._ ___(a)_ ___To protect the public health, safety, and welfare_  
+| _and to ensure that social gaming authorized under this chapter is_  
+| _conducted fairly at social gaming establishments, the commission_  
+| _shall adopt rules providing for:_  
+|  _(1)_ _____fees in amounts reasonable and necessary to_  
+| _administer this chapter;_  
+|  _(2)_ _____requirements for licensing and renewal of a_  
+| _license issued under this chapter;_  
+|  _(3)_ _____standards of conduct for license holders under_  
+| _this chapter; and_  
+|  _(4)_ _____the administration and enforcement of this_  
+| _chapter._  
+|  _(b)_ _____The executive director shall ensure that rules adopted_  
+| _under this section are consistent with state and federal law._  
+|  _Sec._ ___2005.052._ _____EXECUTIVE DIRECTOR AND DEPARTMENT DUTIES;_  
+| _APPLICABILITY OF OTHER LAW._ ___(a)_ ___The_ ___executive director and_  
+| _department_ ___shall administer this chapter and license and regulate_  
+| _each social gaming establishment and operator in accordance with_  
+| _this chapter and rules adopted under this chapter._  
+|  _(b)_ _____Chapter 51 applies to licensing, regulation, and_  
+| _enforcement under this chapter._ ___The department shall assess_  
+| _against a social gaming establishment a civil or administrative_  
+| _penalty authorized under that chapter for a violation of that_  
+| _chapter, this chapter, or a commission rule._  
+| _SUBCHAPTER C._ ___SOCIAL GAMING LICENSING AND REGULATION_  
+|  _Sec._ ___2005.101._ _____LICENSE REQUIRED. (a)_ ___A person may not own_  
+| _or operate a social gaming establishment unless the person holds a_  
+| _social gaming establishment license issued under this chapter for_  
+| _the conduct of social games at the social gaming establishment._  
+|  _(b)_ _____A person may not act as an operator at a social gaming_  
+| _establishment unless the person holds a license issued under this_  
+| _chapter._  
+|  _Sec._ ___2005.102._ _____GENERAL APPLICATION REQUIREMENTS; LICENSE_  
+| _TERM. (a)_ ___An applicant for a license under this chapter shall:_  
+|  _(1)_ _____submit to the department a completed application_  
+| _on a form prescribed by the department;_  
+|  _(2) pay the required fees; and_  
+|  _(3)_ _____provide any other information required by_  
+| _commission rule._  
+|  _(b)_ _____A license issued under this chapter expires on the first_  
+| _anniversary of the date of issuance._  
+|  _(c)_ _____An applicant for a social gaming establishment license_  
+| _for a social gaming establishment in a county subject to Chapter_  
+| _234, Local Government Code, must hold a game room permit issued_  
+| _under that chapter and be in good standing with the issuing_  
+| _authority._  
+|  _Sec._ ___2005.103._ _____OPERATOR LICENSE QUALIFICATIONS. (a)_ ___An_  
+| _applicant for issuance or renewal of an operator license, or the_  
+| _applicant's controlling person, if applicable, must:_  
+|  _(1) be 18 years of age or older;_  
+|  _(2)_ _____demonstrate honesty, trustworthiness, and_  
+| _integrity; and_  
+|  _(3)_ _____complete an education course approved by the_  
+| _commission under Section 2005.151._  
+|  _(b)_ _____On receipt of an original application for a license_  
+| _under this chapter, the department shall conduct a criminal history_  
+| _check on each applicant and each controlling person of an applicant_  
+| _to determine whether the applicant or controlling person is_  
+| _qualified for issuance of a license under this chapter._ ___The_  
+| _department in accordance with commission rules may conduct a_  
+| _criminal history check for renewal of a license issued under this_  
+| _chapter._  
+|  _(c)_ _____In conducting a criminal history check under Subsection_  
+| _(b), the department may obtain from the Department of Public Safety_  
+| _criminal history record information for the applicant, controlling_  
+| _person, or license holder, as provided by Section 411.122,_  
+| _Government Code._  
+|  _(d)_ _____In conducting a criminal history check under Subsection_  
+| _(b), the department must obtain fingerprints from the applicant,_  
+| _controlling person, or license holder and submit the fingerprints_  
+| _for processing through appropriate local, state, and federal law_  
+| _enforcement agencies._  
+|  _Sec._ ___2005.104._ _____SURETY BOND FOR OPERATOR LICENSE. (a)_ ___An_  
+| _applicant for issuance of, or a license holder applying for renewal_  
+| _of, an operator license must provide a surety bond in the amount of_  
+| _$50,000._  
+|  _(b)_ _____The surety bond provided by an applicant or license_  
+| _holder:_  
+|  _(1)_ _____must be issued by a company authorized to conduct_  
+| _business in this state;_  
+|  _(2)_ _____must comply with all applicable provisions of the_  
+| _Insurance Code;_  
+|  _(3)_ _____must be payable to the department for the purpose_  
+| _of:_  
+|  _(A)_ _____satisfying a judgment awarded to this state_  
+| _or a political subdivision of this state against the applicant or_  
+| _license holder for actions engaged in as an operator conducting_  
+| _social gaming activities;_  
+|  _(B)_ _____paying penalties assessed on the applicant or_  
+| _license holder by this state or a political subdivision of this_  
+| _state for actions engaged in as an operator conducting social_  
+| _gaming activities; or_  
+|  _(C)_ _____settling a tax debt or other debt owed to this_  
+| _state or a political subdivision of this state arising out of_  
+| _actions engaged in by an operator conducting social gaming_  
+| _activities; and_  
+|  _(4)_ _____may not be limited to one claim, provided that the_  
+| _sum of all claims does not exceed the face value of the surety bond._  
+|  _(c)_ _____An applicant or license holder required to file a surety_  
+| _bond under this section must file a new bond with each application_  
+| _for renewal of the license holder's operator license._  
+|  _(d)_ _____A company that issues a surety bond for purposes of_  
+| _satisfying this section shall notify the department in writing not_  
+| _later than the 30th day before the date on which the company will_  
+| _cancel the bond._  
+|  _(e)_ _____An operator whose surety bond is canceled shall_  
+| _immediately cease operating a social gaming establishment. The_  
+| _operator may continue to operate the social gaming establishment_  
+| _after providing to the department a surety bond that is an_  
+| _acceptable replacement for the canceled bond._  
+|  _Sec._ ___2005.105._ _____DENIAL OF APPLICATION. The commission or_  
+| _the executive director may deny an application for issuance or_  
+| _renewal of a license if:_  
+|  _(1)_ _____the applicant or license holder does not meet the_  
+| _qualifications for the license;_  
+|  _(2)_ _____after conducting an investigation and providing_  
+| _notice and an opportunity for a hearing, the executive director_  
+| _determines that the applicant or license holder has violated this_  
+| _chapter or a rule adopted under this chapter; or_  
+|  _(3)_ _____the applicant or license holder engaged in fraud_  
+| _or misrepresentation in applying for or obtaining a license under_  
+| _this chapter._  
+|  _Sec._ ___2005.106._ _____LICENSE RENEWAL._ ___(a)_ ___A license issued
+under_  
+| _this chapter expires on the first or second anniversary of the date_  
+| _of issuance, as determined by commission rule._  
+|  _(b)_ _____The commission by rule shall establish the requirements_  
+| _for renewal of a license issued under this chapter, including the_  
+| _payment of applicable fees._  
+|  _Sec._ ___2005.107._ _____STATEWIDE VALIDITY; NONTRANSFERABLE._ ___A_  
+| _license issued under this chapter is valid throughout this state_  
+| _and is not transferable._  
+| _SUBCHAPTER D._ ___EDUCATION_  
+|  _Sec._ ___2005.151._ _____RECOGNITION OF EDUCATION PROGRAMS AND_  
+| _COURSES. The commission by rule shall develop criteria by which the_  
+| _commission approves education programs and courses for operators_  
+| _and dealers._  
+| _SUBCHAPTER E._ ___INSPECTIONS AND INVESTIGATIONS_  
+|  _Sec._ ___2005.201._ _____INSPECTIONS; INVESTIGATIONS._ ___(a)_ ___The_  
+| _department may conduct inspections and investigations of social_  
+| _gaming establishments and persons suspected of being in violation_  
+| _of or threatening to violate this chapter as necessary to enforce_  
+| _this chapter or Chapter 51._  
+|  _(b) The department may:_  
+|  _(1)_ _____enter the business premises of a license holder_  
+| _regulated by the department or a person suspected of being in_  
+| _violation of or threatening to violate this chapter or a rule or_  
+| _order of the commission or an order of the executive director under_  
+| _this chapter; and_  
+|  _(2)_ _____examine and copy records pertinent to the_  
+| _inspection or investigation._  
+| _SUBCHAPTER F._ ___ADMINISTRATIVE SANCTIONS; ENFORCEMENT_  
+|  _Sec._ ___2005.251._ _____ADMINISTRATIVE SANCTIONS. (a)_ ___The_  
+| _commission or the executive director may deny an application for a_  
+| _license, revoke, suspend, or refuse to renew a license, or_  
+| _reprimand a license holder for a violation of this chapter or a rule_  
+| _or order of the commission or an order of the executive director._  
+|  _(b)_ _____The commission or the executive director may impose an_  
+| _administrative penalty on a person under Subchapter F, Chapter 51,_  
+| _regardless of whether the person holds a license under this_  
+| _chapter, if the person violates this chapter or a rule or order of_  
+| _the commission or an order of the executive director._  
+|  _Sec._ ___2005.252._ _____CEASE AND DESIST ORDER; INJUNCTION; CIVIL_  
+| _PENALTY. (a)_ ___The executive director may issue a cease and desist_  
+| _order as necessary to enforce this chapter if the executive_  
+| _director determines that the action is necessary to prevent a_  
+| _violation of this chapter or to protect the health and safety of the_  
+| _public._  
+|  _(b)_ _____The attorney general or the executive director may bring_  
+| _an action for an injunction or a civil penalty under this chapter,_  
+| _as provided by Section 51.352._  
+|  SECTION 2. Section 47.02(c), Penal Code, as effective April  
+| 1, 2019, is amended to read as follows:  
+|  (c) It is a defense to prosecution under this section that  
+| the actor reasonably believed that the conduct:  
+|  (1) was permitted under Chapter 2001, Occupations  
+| Code;  
+|  (2) was permitted under Chapter 2002, Occupations  
+| Code;  
+|  (3) was permitted under Chapter 2004, Occupations  
+| Code;  
+|  (4) _was permitted under Chapter 2005, Occupations_  
+| _Code;_  
+|  _(5)_ consisted entirely of participation in the state  
+| lottery authorized by the State Lottery Act (Chapter 466,  
+| Government Code);  
+|  _(6)_ [ ~~(5)~~ ] was permitted under Subtitle A-1, Title 13,  
+| Occupations Code (Texas Racing Act); or  
+|  _(7)_ [ ~~(6)~~ ] consisted entirely of participation in a  
+| drawing for the opportunity to participate in a hunting, fishing,  
+| or other recreational event conducted by the Parks and Wildlife  
+| Department.  
+|  SECTION 3. Section 47.06, Penal Code, is amended by adding  
+| Subsection (f-1) to read as follows:  
+|  _(f-1)_ _____It is a defense to prosecution under Subsection (a) or_  
+| _(c) that the person owned, manufactured, transferred, or possessed_  
+| _the equipment or paraphernalia related to social gaming for the_  
+| _sole purpose of shipping it to a social gaming establishment_  
+| _licensed under Chapter 2005, Occupations Code._  
+|  SECTION 4. Section 47.09(a), Penal Code, as effective April  
+| 1, 2019, is amended to read as follows:  
+|  (a) It is a defense to prosecution under this chapter that  
+| the conduct:  
+|  (1) was authorized under:  
+|  (A) Chapter 2001, Occupations Code;  
+|  (B) Chapter 2002, Occupations Code;  
+|  (C) Chapter 2004, Occupations Code;  
+|  (D) _Chapter 2005, Occupations Code;_  
+|  _(E)_ Subtitle A-1, Title 13, Occupations Code  
+| (Texas Racing Act); or  
+|  _(F)_ [ ~~(E)~~ ] Chapter 280, Finance Code;  
+|  (2) consisted entirely of participation in the state  
+| lottery authorized by Chapter 466, Government Code; or  
+|  (3) was a necessary incident to the operation of the  
+| state lottery and was directly or indirectly authorized by:  
+|  (A) Chapter 466, Government Code;  
+|  (B) the lottery division of the Texas Lottery  
+| Commission;  
+|  (C) the Texas Lottery Commission; or  
+|  (D) the director of the lottery division of the  
+| Texas Lottery Commission.  
+|  SECTION 5. Not later than June 1, 2020, the Texas Commission  
+| of Licensing and Regulation shall adopt the rules necessary and the  
+| Texas Department of Licensing and Regulation shall develop the  
+| applications and establish the procedures necessary to implement  
+| Chapter 2005, Occupations Code, as added by this Act.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,53 @@
+| 86R12889 GRM-D  
+---|---  
+|  By: Herrero | H.B. No. 4431  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to clarifying the liability of certain financial  
+| institutions that offer remote deposit capture.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 59, Finance Code, is  
+| amended by adding Section 59.013 to read as follows:  
+|  _Sec._ ___59.013._ _____LIABILITY FOR REMOTE DEPOSIT CAPTURE. (a)_ ___In_  
+| _this section, "remote deposit capture" means a method that allows a_  
+| _bank to accept a deposit using an electronic image instead of the_  
+| _original physical check._  
+|  _(b)_ _____A bank that offers remote deposit capture is liable for_  
+| _any loss suffered by another person that results from the use of the_  
+| _bank's remote deposit capture._  
+|  SECTION 2. Subchapter A, Chapter 89, Finance Code, is  
+| amended by adding Section 89.009 to read as follows:  
+|  _Sec._ ___89.009._ _____LIABILITY FOR REMOTE DEPOSIT CAPTURE. (a)_ ___In_  
+| _this section, "remote deposit capture" means a method that allows_  
+| _an association to accept a deposit using an electronic image_  
+| _instead of the original physical check._  
+|  _(b)_ _____An association that offers remote deposit capture is_  
+| _liable for any loss suffered by another person that results from the_  
+| _use of the association's remote deposit capture._  
+|  SECTION 3. Subchapter A, Chapter 119, Finance Code, is  
+| amended by adding Section 119.009 to read as follows:  
+|  _Sec._ ___119.009._ _____LIABILITY FOR REMOTE DEPOSIT CAPTURE. (a)_ ___In_  
+| _this section, "remote deposit capture" means a method that allows a_  
+| _savings bank to accept a deposit using an electronic image instead_  
+| _of the original physical check._  
+|  _(b)_ _____A savings bank that offers remote deposit capture is_  
+| _liable for any loss suffered by another person that results from the_  
+| _use of the bank's remote deposit capture._  
+|  SECTION 4. Chapter 149, Finance Code, is amended by adding  
+| Section 149.003 to read as follows:  
+|  _Sec._ ___149.003._ _____LIABILITY FOR REMOTE DEPOSIT CAPTURE. (a)_ ___In_  
+| _this section, "remote deposit capture" means a method that allows a_  
+| _credit union to accept a deposit using an electronic image instead_  
+| _of the original physical check._  
+|  _(b)_ _____A credit union that offers remote deposit capture is_  
+| _liable for any loss suffered by another person that results from the_  
+| _use of the credit union's remote deposit capture._  
+|  SECTION 5. The changes in law made by this Act apply only to  
+| a cause of action that accrues on or after the effective date of  
+| this Act.  A cause of action that accrues before the effective date  
+| of this Act is governed by the law in effect on the date the cause of  
+| action accrued, and the former law is continued in effect for that  
+| purpose.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

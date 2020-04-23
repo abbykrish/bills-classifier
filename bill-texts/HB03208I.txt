@@ -1,0 +1,91 @@
+| 86R11027 GRM-D  
+---|---  
+|  By: Kuempel | H.B. No. 3208  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to providing a sales and use tax refund or franchise tax  
+| credit for businesses that employ persons with disabilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter I, Chapter 151, Tax Code, is amended  
+| by adding Section 151.4293 to read as follows:  
+|  _Sec._ ___151.4293._ _____TAX REFUND FOR EMPLOYERS WHO HIRE PERSONS_  
+| _WITH DISABILITIES. (a)_ ___In this section, "person with a disability"_  
+| _means a person who, at the time of being hired, is at least 18 years_  
+| _of age but not older than 62 years of age and:_  
+|  _(1)_ _____has a disability as defined by 42 U.S.C. Section_  
+| _12102;_  
+|  _(2)_ _____receives Supplemental Security Income (SSI)_  
+| _benefits under 42 U.S.C. Section 1381 et seq. on the basis of_  
+| _disability or blindness or Social Security Disability Insurance_  
+| _(SSDI) benefits under 42 U.S.C. Section 401 et seq.;_  
+|  _(3)_ _____qualifies for or is receiving vocational_  
+| _rehabilitation services provided through the Texas Workforce_  
+| _Commission;_  
+|  _(4)_ _____is a veteran as defined by 38 U.S.C. Section 101_  
+| _who has suffered at least a 50 percent service-connected disability_  
+| _as defined by that section; or_  
+|  _(5) completes an affidavit that:_  
+|  _(A) includes:_  
+|  _(i) the person's full name;_  
+|  _(ii) the person's address;_  
+|  _(iii)_ _____a copy of the person's driver's_  
+| _license, election identification certificate, or personal_  
+| _identification card issued by the Department of Public Safety; and_  
+|  _(iv) the person's signature; and_  
+|  _(B)_ _____is accompanied by a letter from a physician_  
+| _that verifies the person's disability._  
+|  _(b)_ _____Except as provided by Subsection (c), a person is_  
+| _eligible for a refund of 15 percent of the taxes imposed on taxable_  
+| _items purchased by the person and paid under this chapter during a_  
+| _calendar year if during that entire year at least 10 percent of the_  
+| _person's employees were persons with disabilities and were employed_  
+| _in full-time employment positions that paid at least minimum wage_  
+| _and that were located or based in this state._  
+|  _(c)_ _____A person is not eligible for a refund under this section_  
+| _for a calendar year if the person will, as a taxable entity as_  
+| _defined by Section 171.0002 or as a member of a combined group that_  
+| _is a taxable entity, claim a credit under Subchapter K-1, Chapter_  
+| _171, on a franchise tax report covering any portion of that year._  
+|  _(d)_ _____A person must apply to the comptroller to receive a_  
+| _refund under this section._  
+|  SECTION 2. Chapter 171, Tax Code, is amended by adding  
+| Subchapter K-1 to read as follows:  
+| _SUBCHAPTER K-1. TAX CREDIT FOR EMPLOYERS WHO HIRE PERSONS WITH_  
+| _DISABILITIES_  
+|  _Sec._ ___171.571._ _____DEFINITION. In this subchapter, "person with_  
+| _a disability" has the meaning assigned by Section 151.4293._  
+|  _Sec._ ___171.572._ _____ENTITLEMENT TO CREDIT. A taxable entity is_  
+| _entitled to a credit in the amount and under the conditions provided_  
+| _by this subchapter against the tax imposed under this chapter._  
+|  _Sec._ ___171.573._ _____QUALIFICATION. A taxable entity qualifies_  
+| _for a credit under this subchapter on a report if during the entire_  
+| _period on which the report is based at least 10 percent of the_  
+| _taxable entity's employees were persons with disabilities and were_  
+| _employed in full-time employment positions that paid at least_  
+| _minimum wage and that were located or based in this state._  
+|  _Sec._ ___171.574._ _____INELIGIBILITY FOR CREDIT FOR CERTAIN PERIODS._  
+| _A taxable entity is not eligible for a credit on a report if the_  
+| _taxable entity, or a member of the combined group if the taxable_  
+| _entity is a combined group, received, for taxes paid under Chapter_  
+| _151 during any part of the period on which the report is based, a_  
+| _refund under Section 151.4293._  
+|  _Sec._ ___171.575._ _____AMOUNT; LIMITATIONS. The amount of the_  
+| _credit under this subchapter is equal to 15 percent of the amount of_  
+| _franchise tax due for the report after the application of all other_  
+| _applicable tax credits._  
+|  _Sec._ ___171.576._ _____APPLICATION FOR CREDIT. (a) A taxable entity_  
+| _must apply for a credit under this subchapter on or with the tax_  
+| _report for the period for which the credit is claimed._  
+|  _(b)_ _____The comptroller shall promulgate a form for the_  
+| _application for the credit. A taxable entity must use the form in_  
+| _applying for the credit._  
+|  _Sec._ ___171.577._ _____PERIOD FOR WHICH CREDIT MAY BE CLAIMED. A_  
+| _taxable entity may claim a credit under this subchapter on a report_  
+| _only in connection with the employment of persons with disabilities_  
+| _during the accounting period on which the report is based._  
+|  SECTION 3. Subchapter K-1, Chapter 171, Tax Code, as added  
+| by this Act, applies only to a report originally due on or after the  
+| effective date of this Act.  
+|  SECTION 4. This Act takes effect January 1, 2020.
+

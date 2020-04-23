@@ -1,0 +1,94 @@
+| 86R13117 AJA-D  
+---|---  
+|  By: Geren | H.B. No. 2825  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to disclosures and discovery regarding expert witnesses in  
+| civil actions.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 22, Civil Practice and Remedies Code, is  
+| amended by adding Subchapter D to read as follows:  
+| _SUBCHAPTER D. EXPERT WITNESSES_  
+|  _Sec._ ___22.041._ _____DISCLOSURE OF WITNESS IDENTITY. In addition_  
+| _to any other disclosure required by the Texas Rules of Civil_  
+| _Procedure, a party shall disclose to the other parties the identity_  
+| _of any person the party may use to present expert testimony at_  
+| _trial._  
+|  _Sec._ ___22.042._ _____EXPERT REPORT. Except as otherwise stipulated_  
+| _or ordered by the court, if the witness is retained or specially_  
+| _employed by a party to provide expert testimony in the case or is a_  
+| _person whose duties as the party's employee regularly involve_  
+| _giving expert testimony, the disclosure required by Section 22.041_  
+| _must be accompanied by a written report prepared and signed by the_  
+| _witness. The report must include:_  
+|  _(1)_ _____a complete statement of all opinions to be_  
+| _expressed by the witness and the basis and reasons for those_  
+| _opinions;_  
+|  _(2)_ _____the facts or data considered by the witness in_  
+| _forming the opinions;_  
+|  _(3)_ _____copies of any exhibits to be used to summarize or_  
+| _support the opinions;_  
+|  _(4)_ _____the witness's qualifications, including a list of_  
+| _all publications authored by the witness in the preceding 10 years;_  
+|  _(5)_ _____a list of any other cases in which the witness has_  
+| _testified as an expert at trial or by deposition in the preceding_  
+| _four years; and_  
+|  _(6)_ _____a statement of the compensation to be paid for_  
+| _study and testimony in the case._  
+|  _Sec._ ___22.043._ _____EXPERT WITNESS NOT PROVIDING REPORT. Except_  
+| _as otherwise stipulated or ordered by the court, if an expert_  
+| _witness is not required to provide a written report under Section_  
+| _22.042, the disclosure required by Section 22.041 must state:_  
+|  _(1)_ _____the subject matter on which the witness is_  
+| _expected to present expert testimony; and_  
+|  _(2)_ _____a summary of the facts and opinions to which the_  
+| _witness is expected to testify._  
+|  _Sec._ ___22.044._ _____TIME FOR DISCLOSURE. A party shall make_  
+| _disclosures under this subchapter at the times and in the sequence_  
+| _the court orders. Except as otherwise stipulated or ordered by the_  
+| _court, a disclosure required by this subchapter must be made:_  
+|  _(1)_ _____not later than the 90th day before the date set for_  
+| _trial; or_  
+|  _(2)_ _____if the evidence is intended solely to contradict_  
+| _or rebut evidence on the same subject matter identified by another_  
+| _party in a report or disclosure provided under Section 22.042 or_  
+| _22.043, not later than the 30th day after the date the other party's_  
+| _disclosure is made._  
+|  _Sec._ ___22.045._ _____SUPPLEMENTATION OF DISCLOSURE. A party must_  
+| _supplement a disclosure made by the party under this subchapter:_  
+|  _(1)_ _____in a timely manner if the party learns that in some_  
+| _material respect the disclosure is incomplete or incorrect, and if_  
+| _the additional or corrective information has not otherwise been_  
+| _made known to the other parties during the discovery process or in_  
+| _writing; or_  
+|  _(2) as ordered by the court._  
+|  _Sec._ ___22.046._ _____DISCOVERY OF COMMUNICATIONS BETWEEN ATTORNEY_  
+| _AND EXPERT WITNESS. (a)_ ___Subject to Subsection (b), a court in a_  
+| _civil action may not order discovery of a communication made in_  
+| _anticipation of litigation or deposition or for trial between a_  
+| _party's attorney and a witness expected to provide expert testimony_  
+| _in the action, regardless of the form of the communication and_  
+| _regardless of whether the witness provides an expert affidavit or a_  
+| _written report under Section 22.042._  
+|  _(b)_ _____Subsection (a) does not bar discovery to the extent a_  
+| _communication:_  
+|  _(1)_ _____relates to compensation for the witness's study or_  
+| _testimony;_  
+|  _(2)_ _____identifies facts or data that the party's attorney_  
+| _provided and that the witness considered in forming the opinions to_  
+| _be expressed; or_  
+|  _(3)_ _____identifies assumptions that the party's attorney_  
+| _provided and that the witness relied on in forming the opinions to_  
+| _be expressed._  
+|  _Sec._ ___22.047._ _____DISCOVERY OF DRAFT REPORT OR DISCLOSURE NOT_  
+| _PERMITTED._ ___A court in a civil action may not order discovery of any_  
+| _draft of a written report or other disclosure required by this_  
+| _subchapter, regardless of the form in which the draft is recorded._  
+|  _Sec._ ___22.048._ _____SUPREME COURT RULES._ ___Notwithstanding Section_  
+| _22.004, Government Code, the supreme court may not amend or adopt_  
+| _rules in conflict with this subchapter._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to an action commenced on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

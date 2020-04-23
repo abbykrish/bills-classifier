@@ -1,0 +1,327 @@
+| 86R2412 SRS-F  
+---|---  
+|  By: Leach | H.B. No. 1619  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to court reporters and shorthand reporting firms; imposing  
+| a fee; creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 322.003, Business & Commerce Code, is  
+| amended by amending Subsection (a) and adding Subsection (e) to  
+| read as follows:  
+|  (a) Except as otherwise provided in _Subsections_  
+| [ ~~Subsection~~ ] (b) _and (e)_ , this chapter applies to electronic  
+| records and electronic signatures relating to a transaction.  
+|  _(e)_ _____This chapter does not apply to the transmission,_  
+| _preparation, completion, enforceability, or admissibility of a_  
+| _document in any form that is:_  
+|  _(1)_ _____produced by a court reporter appointed under_  
+| _Chapter 52, Government Code, or a court reporter certified under or_  
+| _a shorthand reporting firm registered under Chapter 154, Government_  
+| _Code, for use in the state or federal judicial system; or_  
+|  _(2)_ _____governed by rules adopted by the supreme court,_  
+| _including rules governing the electronic filing system established_  
+| _by the supreme court._  
+|  SECTION 2. Subchapter B, Chapter 51, Civil Practice and  
+| Remedies Code, is amended by adding Section 51.017 to read as  
+| follows:  
+|  _Sec._ ___51.017._ _____SERVICE OF NOTICE ON COURT REPORTER. (a)_ ___In_  
+| _addition to requirements for service of notice of appeal imposed by_  
+| _Rule 25.1(e), Texas Rules of Appellate Procedure, notice of appeal,_  
+| _including an interlocutory appeal, must be served on each court_  
+| _reporter responsible for preparing the reporter's record._  
+|  _(b)_ _____Notwithstanding Section 22.004, Government Code, the_  
+| _supreme court may not amend or adopt rules in conflict with this_  
+| _section._  
+|  SECTION 3. Chapter 52, Government Code, is amended by  
+| adding Subchapter B to read as follows:  
+| _SUBCHAPTER B. POWERS AND DUTIES OF COURT REPORTERS AND SHORTHAND_  
+| _REPORTING FIRMS_  
+|  _Sec._ ___52.011._ _____RATES AND CHARGES FOR SERVICES; BILLING. A_  
+| _court reporter or shorthand reporting firm shall:_  
+|  _(1)_ _____disclose the reporter's or firm's rates and_  
+| _charges for services provided in a legal proceeding to each party in_  
+| _the proceeding either directly or through the party's attorney; and_  
+|  _(2)_ _____on each billing statement for services provided by_  
+| _the reporter or firm in a legal proceeding, fully itemize the rate_  
+| _and amount charged for each service provided._  
+|  SECTION 4. Section 152.202, Government Code, is amended by  
+| amending Subsection (a) and adding Subsections (a-1), (a-2), (c),  
+| (d), (e), and (f) to read as follows:  
+|  (a) _In this section, "court reporter," "court reporting,"_  
+| _and "shorthand reporting firm" have the meanings assigned by_  
+| _Section 154.001._  
+|  _(a-1)_ The commission may waive any prerequisite to  
+| obtaining a certification, registration, or license for an  
+| applicant after reviewing the applicant's credentials and  
+| determining that the applicant holds a certification,  
+| registration, or license issued by another jurisdiction that has  
+| certification, registration, or licensing requirements  
+| substantially equivalent to those of this state.  
+|  _(a-2)_ _____The commission shall develop and periodically update_  
+| _on a schedule established by the commission a list of states that_  
+| _have certification, registration, or licensing requirements for_  
+| _court reporters and shorthand reporting firms substantially_  
+| _equivalent to those of this state._  
+|  _(c)_ _____The commission shall certify to the supreme court the_  
+| _name of each qualified applicant who:_  
+|  _(1)_ _____holds a certification, registration, or license to_  
+| _engage in court reporting issued by another state that, as_  
+| _determined by the commission:_  
+|  _(A)_ _____has certification, registration, or_  
+| _licensing requirements to engage in court reporting that are_  
+| _substantially equivalent to the requirements of this state for a_  
+| _court reporter governed by Chapters 52 and 154; or_  
+|  _(B)_ _____is included on the list developed by the_  
+| _commission under Subsection (a-2); and_  
+|  _(2) before certification in this state:_  
+|  _(A)_ _____passes Part B of the examination required by_  
+| _Section 154.103; and_  
+|  _(B)_ _____provides proof acceptable to the commission_  
+| _that the applicant has been actively performing court reporting in_  
+| _another jurisdiction for at least three of the preceding five_  
+| _years._  
+|  _(d)_ _____A reciprocity agreement approved by the supreme court_  
+| _under Subsection (b) must require an applicant who holds a_  
+| _certification, registration, or license to engage in court_  
+| _reporting issued by another state and who applies for certification_  
+| _as a court reporter in this state to:_  
+|  _(1)_ _____pass Part B of the examination required by Section_  
+| _154.103;_  
+|  _(2)_ _____provide proof acceptable to the commission that_  
+| _the applicant has been actively performing court reporting in_  
+| _another jurisdiction for at least three of the preceding five_  
+| _years; and_  
+|  _(3)_ _____hold a certification, registration, or license_  
+| _that the commission determines is at least equivalent to the_  
+| _registered professional reporter designation or similar_  
+| _designation._  
+|  _(e)_ _____A person who applies for certification as a court_  
+| _reporter in this state and meets the requirements under Subsection_  
+| _(c) is not required to meet the requirement under Subsection_  
+| _(d)(3)._  
+|  _(f)_ _____Subject to Section 152.101, the commission may adopt_  
+| _rules requiring the issuance of a provisional certification under_  
+| _Section 154.1011 to an applicant described by Subsection (c) or (d)_  
+| _that authorizes the applicant to serve as a court reporter in this_  
+| _state for a limited time and under conditions the commission_  
+| _considers reasonably necessary to protect the public interest._  
+|  SECTION 5. Section 152.204, Government Code, is amended by  
+| adding Subsection (a-1) to read as follows:  
+|  _(a-1)_ _____Subject to Section 152.101, the commission by rule_  
+| _shall require each court reporter who holds a certification issued_  
+| _by the commission to complete continuing professional education._  
+|  SECTION 6. Section 154.001(a), Government Code, is amended  
+| by adding Subdivisions (1-a) and (3-a) to read as follows:  
+|  _(1-a)_ _____"Apprentice court reporter" means a person to_  
+| _whom an apprentice court reporter certification is issued as_  
+| _authorized by Section 154.1011._  
+|  _(3-a)_ _____"Provisional court reporter" means a court_  
+| _reporter to whom a provisional certification is issued as_  
+| _authorized by Section 154.1011._  
+|  SECTION 7. Sections 154.101(b), (c), and (e), Government  
+| Code, are amended to read as follows:  
+|  (b) A person may not engage in shorthand reporting in this  
+| state unless the person is certified as _:_  
+|  _(1)_ a shorthand reporter by the supreme court _under_  
+| _this section; or_  
+|  _(2)_ _____an apprentice court reporter or provisional court_  
+| _reporter certified as authorized by Section 154.1011, subject to_  
+| _the terms of the person's certification_.  
+|  (c) A certification issued under this _section_ [ ~~chapter~~ ]  
+| must be for one or more of the following methods of shorthand  
+| reporting:  
+|  (1) written shorthand;  
+|  (2) machine shorthand;  
+|  (3) oral stenography; or  
+|  (4) any other method of shorthand reporting authorized  
+| by the supreme court.  
+|  (e) A person may not assume or use the title or designation  
+| "court recorder," "court reporter," or "shorthand reporter," or any  
+| abbreviation, title, designation, words, letters, sign, card, or  
+| device tending to indicate that the person is a court reporter or  
+| shorthand reporter, unless the person is certified as a shorthand  
+| reporter _or provisional reporter_ by the supreme court.  Nothing in  
+| this subsection shall be construed to either sanction or prohibit  
+| the use of electronic court recording equipment operated by a  
+| noncertified court reporter pursuant and according to rules adopted  
+| or approved by the supreme court.  
+|  SECTION 8. Subchapter C, Chapter 154, Government Code, is  
+| amended by adding Section 154.1011 to read as follows:  
+|  _Sec._ ___154.1011._ _____APPRENTICE COURT REPORTER AND PROVISIONAL_  
+| _COURT REPORTER CERTIFICATIONS. (a)_ ___Subject to Section 152.101,_  
+| _the commission by rule may provide for:_  
+|  _(1)_ _____the certification of an apprentice court reporter_  
+| _who may engage in court reporting only:_  
+|  _(A)_ _____under the direct supervision of a certified_  
+| _court reporter; and_  
+|  _(B)_ _____for the types of legal proceedings authorized_  
+| _by commission rule; and_  
+|  _(2)_ _____the provisional certification of a court reporter,_  
+| _including a court reporter described by Section 152.202(f), that_  
+| _allows a person to engage in court reporting only in accordance with_  
+| _the terms and for the period expressly authorized by commission_  
+| _rule._  
+|  _(b)_ _____Rules adopted under Subsection (a) may allow for the_  
+| _issuance of a certification under Section 154.101 to:_  
+|  _(1)_ _____a certified apprentice court reporter who_  
+| _satisfactorily completes the apprenticeship and passes Part A of_  
+| _the examination required by Section 154.103; or_  
+|  _(2)_ _____a court reporter who holds a provisional_  
+| _certification on the reporter's completion of the terms of the_  
+| _commission's conditional approval._  
+|  SECTION 9. Section 154.102, Government Code, is amended to  
+| read as follows:  
+|  Sec. 154.102. APPLICATION FOR EXAMINATION. _If applicable,_  
+| _a_ [ ~~A~~ ] person seeking certification must file an application for  
+| examination with the commission not later than the 30th day before  
+| the date fixed for the examination. The application must be  
+| accompanied by the required fee.  
+|  SECTION 10. Section 154.104, Government Code, is amended to  
+| read as follows:  
+|  Sec. 154.104. CERTIFICATION TO SUPREME COURT. _(a)_ The  
+| commission shall certify to the supreme court the name of each  
+| qualified applicant _for certification under Section 154.101_ who has  
+| passed the examination.  
+|  _(b)_ _____The commission shall certify to the supreme court the_  
+| _name of each applicant who meets the qualifications for_  
+| _certification as:_  
+|  _(1) an apprentice court reporter; or_  
+|  _(2) a provisional court reporter._  
+|  SECTION 11. Section 154.105(a), Government Code, is amended  
+| to read as follows:  
+|  (a) On certification _under Section 154.101 or as a_  
+| _provisional court reporter_ , a shorthand reporter may use the title  
+| "Certified Shorthand Reporter" or the abbreviation "CSR."  
+|  SECTION 12. Section 154.107, Government Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____Notwithstanding Section 152.2015 and Subsection (c) of_  
+| _this section, a shorthand reporting firm shall pay a registration_  
+| _or renewal fee in an amount equal to the fee for court reporter_  
+| _certification under Section 154.101 in lieu of the fee required for_  
+| _a shorthand reporting firm registration if a certified court_  
+| _reporter of the firm:_  
+|  _(1)_ _____has an ownership interest in the firm of more than_  
+| _50 percent; and_  
+|  _(2) maintains actual control of the firm._  
+|  SECTION 13. Section 154.110(a), Government Code, is amended  
+| to read as follows:  
+|  (a) After receiving a complaint and giving the certified  
+| shorthand reporter notice and an opportunity for a hearing as  
+| prescribed by Subchapter B, Chapter 153, the commission shall  
+| revoke, suspend, or refuse to renew the shorthand reporter's  
+| certification or issue a reprimand to the reporter for:  
+|  (1) fraud or corruption;  
+|  (2) dishonesty;  
+|  (3) wilful or negligent violation or failure of duty;  
+|  (4) incompetence;  
+|  (5) fraud or misrepresentation in obtaining  
+| certification;  
+|  (6) a final conviction of a felony or misdemeanor that  
+| directly relates to the duties and responsibilities of a certified  
+| shorthand reporter, as determined by supreme court rules;  
+|  (7) engaging in the practice of shorthand reporting  
+| using a method for which the reporter is not certified;  
+|  (8) engaging in the practice of shorthand reporting  
+| while certification is suspended;  
+|  (9) unprofessional conduct, including giving directly  
+| or indirectly, benefiting from, or being employed as a result of any  
+| gift, incentive, reward, or anything of value to attorneys,  
+| clients, or their representatives or agents, except for nominal  
+| items that do not exceed $100 in the aggregate for each recipient  
+| each year;  
+|  (10) entering into or providing services under a  
+| prohibited contract described by Section 154.115; _or_  
+|  (11) committing any other act that violates this  
+| chapter or a rule or provision of the code of ethics adopted under  
+| this subtitle[ ~~; or~~  
+|  [ ~~(12) other sufficient cause~~].  
+|  SECTION 14. Section 154.111, Government Code, is amended by  
+| amending Subsections (a) and (b) and adding Subsection (g) to read  
+| as follows:  
+|  (a) After receiving a complaint and giving the shorthand  
+| reporting firm or affiliate office notice and an opportunity for a  
+| hearing as prescribed by Subchapter B, Chapter 153, the commission  
+| shall reprimand, assess a reasonable fine against, or suspend,  
+| revoke, or refuse to renew the registration of a shorthand  
+| reporting firm or affiliate office for:  
+|  (1) fraud or corruption;  
+|  (2) dishonesty;  
+|  (3) conduct on the part of an officer, director, or  
+| managerial employee of the shorthand reporting firm or affiliate  
+| office if the officer, director, or managerial employee orders,  
+| encourages, or permits conduct that the officer, director, or  
+| managerial employee knows or should have known violates this  
+| subtitle;  
+|  (4) conduct on the part of an officer, director, or  
+| managerial employee or agent of the shorthand reporting firm or  
+| affiliate office who has direct supervisory authority over a person  
+| for whom the officer, director, employee, or agent knows or should  
+| have known violated this subtitle and knowingly fails to take  
+| reasonable remedial action to avoid or mitigate the consequences of  
+| the person's actions;  
+|  (5) fraud or misrepresentation in obtaining  
+| registration;  
+|  (6) a final conviction of an officer, director, or  
+| managerial employee of a shorthand reporting firm or affiliate  
+| office for a felony or misdemeanor that is directly related to the  
+| provision of court reporting services, as determined by supreme  
+| court rules;  
+|  (7) engaging the services of a reporter that the  
+| shorthand reporting firm or affiliate office knew or should have  
+| known was using a method for which the reporter is not certified;  
+|  (8) knowingly providing court reporting services  
+| while the shorthand reporting firm's or affiliate office's  
+| registration is suspended or engaging the services of a shorthand  
+| reporter whose certification the shorthand reporting firm or  
+| affiliate office knew or should have known was suspended;  
+|  (9) unprofessional conduct, including _:_  
+|  _(A)_ [ ~~a pattern of~~ ] giving directly or indirectly  
+| or benefiting from or being employed as a result of giving any gift,  
+| incentive, reward, or anything of value to attorneys, clients, or  
+| their representatives or agents, except for nominal items that do  
+| not exceed $100 in the aggregate for each recipient each year _; or_  
+|  _(B)_ _____repeatedly committing to provide at a_  
+| _specific time and location court reporting services for an attorney_  
+| _in connection with a legal proceeding and unreasonably failing to_  
+| _fulfill the commitment under the terms of that commitment_ ;  
+|  (10) entering into or providing services under a  
+| prohibited contract described by Section 154.115; _or_  
+|  (11) committing any other act that violates this  
+| chapter or a rule or provision of the code of ethics adopted under  
+| this subtitle[ ~~; or~~  
+|  [ ~~(12) other sufficient cause~~].  
+|  (b) Nothing in Subsection _(a)(9)(A)_ [ ~~(a)(9)~~ ] shall be  
+| construed to define providing value-added business services,  
+| including long-term volume discounts, such as the pricing of  
+| products and services, as prohibited gifts, incentives, or rewards.  
+|  _(g)_ _____The commission by rule shall define the conditions under_  
+| _which a shorthand reporting firm's or affiliate office's repeated_  
+| _failure to fulfill a commitment to provide court reporting services_  
+| _as described by Subsection (a)(9)(B) is considered unprofessional_  
+| _conduct and grounds for disciplinary action._  
+|  SECTION 15. Section 154.113, Government Code, is amended by  
+| adding Subsection (a-1) to read as follows:  
+|  _(a-1)_ _____A person commits an offense if the person provides_  
+| _shorthand reporting firm services in this state in violation of_  
+| _Section 154.106. Each day of violation constitutes a separate_  
+| _offense._  
+|  SECTION 16. Section 154.115(b), Government Code, is amended  
+| to read as follows:  
+|  (b) _Subsections (a)(2) and (3) do_ [ ~~This section does~~ ] not  
+| apply to a contract for court reporting services for a court,  
+| agency, or instrumentality of the United States or this state.  
+|  SECTION 17. (a) Not later than June 1, 2020, the Judicial  
+| Branch Certification Commission shall develop the list required by  
+| Section 152.202(a-2), Government Code, as added by this Act.  
+|  (b) Not later than January 1, 2020, the Judicial Branch  
+| Certification Commission shall communicate with the appropriate  
+| regulatory officials in each state to inquire whether the state  
+| desires to enter into a reciprocity agreement with this state as  
+| authorized by Section 152.202(b), Government Code. Not later than  
+| April 1, 2020, the commission shall submit a report on the results  
+| of the inquiry to the Supreme Court of Texas or the court's  
+| designee.  
+|  SECTION 18. This Act takes effect September 1, 2019.
+

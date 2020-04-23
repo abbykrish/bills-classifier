@@ -1,0 +1,80 @@
+| 86R11981 SRS-D  
+---|---  
+|  By: Cain | H.B. No. 4403  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to election integrity.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 11, Election Code, is amended by adding  
+| Section 11.0021 to read as follows:  
+|  _Sec._ ___11.0021._ _____MEASURES TO PREVENT NONCITIZEN VOTER_  
+| _REGISTRATION AND VOTING. Notwithstanding any other law, to ensure_  
+| _a person who is not a citizen of the United States may not register_  
+| _to vote or vote:_  
+|  _(1)_ _____at least twice each year, the secretary of state_  
+| _shall use the United States Department of Homeland Security_  
+| _database of noncitizens living in Texas to identify noncitizens_  
+| _whose voter registrations should be canceled and shall take all_  
+| _appropriate actions;_  
+|  _(2)_ _____the Department of Public Safety shall forward to_  
+| _the secretary of state the file of a person who applies for a Texas_  
+| _driver's license or identification card and provides on the_  
+| _application form that the person is not a citizen of the United_  
+| _States; and_  
+|  _(3)_ _____the secretary of state may audit a county's voter_  
+| _registration list to ensure a county complies with:_  
+|  _(A) state law; and_  
+|  _(B)_ _____the secretary of state's directives,_  
+| _including a requested deletion from a county's voter registration_  
+| _list._  
+|  SECTION 2. Sections 19.002(b) and (d), Election Code, are  
+| amended to read as follows:  
+|  (b) After June 1 of each year, the secretary of state shall  
+| make payments pursuant to vouchers submitted by the registrar and  
+| approved by the secretary of state in amounts _determined by the_  
+| _secretary of state based on the registrar's compliance with this_  
+| _code and the secretary of state's directives_ [ ~~that in the aggregate~~  
+|  ~~do not exceed the registrar's entitlement~~ ].  The secretary of state  
+| shall prescribe the procedures necessary to implement this  
+| subsection.  
+|  (d) The secretary of state may not make a payment under  
+| Subsection (b) if on June 1 of the year in which the payment is to be  
+| made the registrar is not in substantial compliance with _this code_  
+| _or the secretary of state's directives_ [ ~~Section 15.083, 16.031,~~  
+|  ~~16.032, or 18.065 or with rules implementing the registration~~  
+|  ~~service program~~ ].  
+|  SECTION 3. Subchapter F, Chapter 32, Election Code, is  
+| amended by adding Section 32.116 to read as follows:  
+|  _Sec._ ___32.116._ _____ELECTION JUDGE TRAINING._ ___(a) The secretary of_  
+| _state shall create an examination of election law and procedures_  
+| _that a person must pass before serving as an election judge during_  
+| _early voting by personal appearance or on election day._ ___A county_  
+| _must maintain an election judge's completed examination for at_  
+| _least 24 months after the date of the election for which the person_  
+| _served as an election judge as evidence of the election judge's_  
+| _understanding of election law and procedures._  
+|  _(b)_ _____The secretary of state shall prescribe any necessary_  
+| _rules and take any appropriate action to implement this section._  
+|  SECTION 4. Section 63.0013, Election Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____The secretary of state shall investigate a voter who_  
+| _executed a declaration of reasonable impediment under Section_  
+| _63.001(i) with the Department of Public Safety's identification_  
+| _database to determine whether the voter has been issued a Texas_  
+| _driver's license or an identification card by the Department of_  
+| _Public Safety. For each match:_  
+|  _(1)_ _____the attorney general shall as appropriate_  
+| _prosecute the voter under this section or Chapter 37, Penal Code;_  
+|  _(2)_ _____the secretary of state shall make a notation on the_  
+| _statewide computerized voter registration list, and notify the_  
+| _appropriate county election officials, that the voter has, and to_  
+| _vote must use, an identification prescribed by Section 63.0101(a);_  
+| _and_  
+|  _(3)_ _____the attorney general shall report findings of the_  
+| _investigation under this section to the federal Fifth Circuit Court_  
+| _of Appeals._  
+|  SECTION 5. Sections 19.002(a) and 19.0025, Election Code,  
+| are repealed.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

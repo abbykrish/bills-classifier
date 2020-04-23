@@ -1,0 +1,162 @@
+|  
+---|---  
+|  By: Dominguez | H.B. No. 3717  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an oil and gas production tax credit for oil and gas  
+| producers that provide treated produced water to aquifer storage  
+| and recovery project operators.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle I, Title 2, Tax Code, is amended by  
+| adding Chapter 208 to read as follows:  
+| _CHAPTER 208. TAX CREDIT FOR PROVIDING TREATED PRODUCED WATER TO_  
+| _AQUIFER STORAGE AND RECOVERY PROJECT OPERATOR_  
+|  _Sec. 208.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Aquifer storage and recovery project" means a_  
+| _project involving the injection of water into a geologic formation_  
+| _for the purpose of subsequent recovery and beneficial use._  
+|  _(2)_ _____"Commission" means the Texas Commission on_  
+| _Environmental Quality._  
+|  _(3)_ _____"Produced water" means water produced in oil or_  
+| _gas drilling, completion, flowback, or production._  
+|  _(4)_ _____"Producer" has the meaning assigned by Section_  
+| _201.001 or 202.001, as appropriate._  
+|  _(5)_ _____"Project operator" means a person who undertakes_  
+| _an aquifer storage and recovery project._  
+|  _Sec._ ___208.0002._ _____TAX CREDIT. (a) A producer is entitled to a_  
+| _credit against the tax imposed under Chapter 202, as applicable, in_  
+| _the amount and under the conditions and limitations provided by_  
+| _this chapter if:_  
+|  _(1)_ _____the producer provides to a project operator_  
+| _produced water that has a total dissolved solids concentration of_  
+| _more than 90,000 milligrams per liter; and_  
+|  _(2)_ _____the project operator treats the water for_  
+| _injection into an aquifer for storage and recovery and shall not_  
+| _degredate native groundwater, and complies with any federal and_  
+| _state registration or permit requirements for treating and_  
+| _injecting the produced water, including any requirements for water_  
+| _testing and water quality reporting._  
+|  _(b)_ _____Except as provided by Section 208.0003, the total amount_  
+| _of the credit under this chapter for a reporting period is computed_  
+| _by:_  
+|  _(1)_ _____determining the total number of barrels of_  
+| _produced water described by Subsection (a) provided to a project_  
+| _operator during the reporting period that is subsequently treated_  
+| _during that period;_  
+|  _(2)_ _____multiplying the number of barrels determined under_  
+| _Subdivision (1) by the monthly average closing price of a barrel of_  
+| _West Texas Intermediate crude oil as recorded on the New York_  
+| _Mercantile Exchange (NYMEX); and_  
+|  _(3)_ _____multiplying the amount determined under_  
+| _Subdivision (2) by:_  
+|  _2.3 percent requiring the credit to be claimed_  
+| _under Chapter 202._  
+|  _(c)_ _____Produced water provided to a project operator may be_  
+| _counted only once in determining the amount of a credit. Only one_  
+| _producer may claim a credit for the same produced water._  
+|  _Sec._ ___208.0003._ _____LIMITATION ON CREDIT AMOUNT. (a) Except as_  
+| _provided by Subsection (b), the total amount of credits that may be_  
+| _claimed under this chapter each state fiscal year may not exceed $25_  
+| _million._  
+|  _(b)_ _____If in the first year of a state fiscal biennium the_  
+| _amount claimed under this chapter is less than $25 million, the_  
+| _amount of credits that may be claimed in the second year of the_  
+| _state fiscal biennium is equal to the sum of:_  
+|  _(1) $25 million; and_  
+|  _(2)_ _____the difference between $25 million and the amount_  
+| _of credits claimed in the first state fiscal year._  
+|  _(c)_ _____Each month, the comptroller shall post on the_  
+| _comptroller's Internet website the amount of unclaimed credit_  
+| _remaining for the state fiscal year._  
+|  _(d)_ _____The comptroller by rule shall prescribe procedures by_  
+| _which the comptroller may allocate credits on a prorated basis if_  
+| _the limit prescribed by Subsection (a) is reached before the end of_  
+| _the state fiscal year._  
+|  _Sec._ ___208.0004._ _____PROJECT OPERATOR REQUIREMENTS; MONTHLY_  
+| _REPORT. (a) The commission shall adopt a registration process for_  
+| _project operators who participate in the program established by_  
+| _this chapter. Each registered project operator shall submit to the_  
+| _commission a monthly report that includes, for the preceding month:_  
+|  _(1)_ _____the metered volume in barrels of produced water_  
+| _the project operator received from each producer and treated;_  
+|  _(2)_ _____the total dissolved solids concentration of the_  
+| _produced water received from each producer before treatment; and_  
+|  _(3)_ _____the volume of treated water injected into an_  
+| _aquifer for storage and recovery._  
+|  _(b)_ _____A project operator must hold a permit from the Railroad_  
+| _Commission of Texas authorizing the project operator to treat fluid_  
+| _oil and gas waste at a commercial recycling facility._  
+|  _Sec._ ___208.0005._ _____CERTIFICATION. (a) To be eligible for the_  
+| _credit under this chapter, the producer must apply to the_  
+| _commission for certification that:_  
+|  _(1)_ _____the producer has, during the reporting period,_  
+| _provided to a project operator produced water that has a total_  
+| _dissolved solids concentration of more than 90,000 milligrams per_  
+| _liter before injection into an aquifer for storage and recovery;_  
+| _and_  
+|  _(2)_ _____the project operator treated the water during the_  
+| _reporting period._  
+|  _(b)_ _____The producer shall include with the certificate_  
+| _application any information the commission determines is necessary_  
+| _to certify eligibility for the credit and the amount of the credit,_  
+| _including information sufficient for the commission to identify:_  
+|  _(1)_ _____the metered volume in barrels of produced water_  
+| _provided to a project operator for which the producer intends to_  
+| _claim a credit; and_  
+|  _(2)_ _____the total dissolved solids concentration of that_  
+| _metered volume of produced water._  
+|  _(c)_ _____The commission shall consider the information provided_  
+| _by the project operator under Section 208.0004 in determining_  
+| _whether to certify eligibility for the credit and the amount of the_  
+| _credit._  
+|  _(d)_ _____If the producer and project operator provide sufficient_  
+| _information under this section and Section 208.0004, the commission_  
+| _shall issue a certificate of eligibility to the producer. The_  
+| _certificate must include:_  
+|  _(1)_ _____the information the project operator is required_  
+| _to provide under Section 208.0004; and_  
+|  _(2)_ _____the information the producer is required to_  
+| _provide under Subsection (b) of this section._  
+|  _(e)_ _____The commission shall immediately notify the comptroller_  
+| _in writing if the commission:_  
+|  _(1)_ _____determines that a producer that previously_  
+| _received a certificate under this section was not eligible for the_  
+| _certified credit or is no longer eligible to receive the certified_  
+| _credit; or_  
+|  _(2)_ _____takes any action or discovers any information that_  
+| _affects the eligibility of the producer for a credit._  
+|  _Sec._ ___208.0006._ _____APPLICATION. (a) To claim the credit under_  
+| _this chapter, the person responsible for paying the tax imposed_  
+| _under Chapter 201 or 202, as appropriate, must apply to the_  
+| _comptroller._  
+|  _(b)_ _____The application must include a copy of the certificate_  
+| _issued by the commission under Section 208.0005 for the reporting_  
+| _period and any other information required by the comptroller to_  
+| _sufficiently demonstrate that the producer is eligible for the_  
+| _credit and the amount of the credit._  
+|  _(c)_ _____In addition to the information required by Subsection_  
+| _(b), the comptroller may require additional information on a report_  
+| _required under Subchapter E, Chapter 201, or Subchapter E, Chapter_  
+| _202._  
+|  _(d)_ _____The comptroller shall approve the application of a_  
+| _person who demonstrates that the treated water is eligible for the_  
+| _credit._  
+|  
+|  _Sec._ ___208.0007._ _____RULES. The comptroller and the commission_  
+| _shall adopt rules necessary to implement this chapter._  
+|  SECTION 2. Chapter 208, Tax Code, as added by this Act,  
+| applies only to produced water provided to a project operator, as  
+| described by Chapter 208, Tax Code, as added by this Act, on or  
+| after the effective date of this Act. Produced water provided  
+| before the effective date of this Act is subject to the law in  
+| effect when the produced water was provided, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 3. The change in law made by this Act does not  
+| affect tax liability accruing before the effective date of this  
+| Act. That liability continues in effect as if this Act had not been  
+| enacted, and the former law is continued in effect for the  
+| collection of taxes due and for civil and criminal enforcement of  
+| the liability for those taxes.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

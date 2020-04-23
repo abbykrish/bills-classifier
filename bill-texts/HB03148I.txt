@@ -1,0 +1,53 @@
+| 86R10694 SCL-D  
+---|---  
+|  By: Parker | H.B. No. 3148  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the administration and oversight of investigational  
+| adult stem cell treatments administered to certain patients.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 1003, Health and Safety  
+| Code, is amended by adding Section 1003.0525 to read as follows:  
+|  _Sec._ ___1003.0525._ _____ADMINISTRATION OF SUBCHAPTER. The_  
+| _department shall administer this subchapter._  
+|  SECTION 2. Section 1003.055(d), Health and Safety Code, is  
+| amended to read as follows:  
+|  (d) An institutional review board that oversees  
+| investigational stem cell treatments administered under this  
+| subchapter must [ ~~be affiliated with~~ ]:  
+|  (1) _be affiliated with_ a medical school, as defined by  
+| Section 61.501, Education Code; [ ~~or~~ ]  
+|  (2) _be affiliated with_ a hospital licensed under  
+| Chapter 241 that has at least 150 beds _;_  
+|  _(3)_ _____be accredited by the Association for the_  
+| _Accreditation of Human Research Protection Programs;_  
+|  _(4)_ _____be registered by the United States Department of_  
+| _Health and Human Services, Office for Human Research Protections,_  
+| _in accordance with 21 C.F.R. Part 56; or_  
+|  _(5)_ _____be accredited by a national accreditation_  
+| _organization acceptable to the department_.  
+|  SECTION 3. Section 1003.058(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) A governmental entity or an officer, employee, or agent  
+| of a governmental entity may not interfere with an eligible  
+| patient's access to or use of a stem cell treatment authorized under  
+| this subchapter _unless the treatment uses a drug that is considered_  
+| _adulterated or misbranded under Chapter 431. For purposes of this_  
+| _subsection, a governmental entity may not consider the drug to be_  
+| _adulterated or misbranded solely on the basis that the United_  
+| _States Food and Drug Administration has not approved the drug_.  
+|  SECTION 4. Subchapter B, Chapter 1003, Health and Safety  
+| Code, is amended by adding Section 1003.060 to read as follows:  
+|  _Sec._ ___1003.060._ _____CONSTRUCTION OF SUBCHAPTER. This subchapter_  
+| _may not be construed to:_  
+|  _(1)_ _____prohibit a physician from using adult stem cells_  
+| _for their intended homologous use if the stem cells are:_  
+|  _(A)_ _____registered by the United States Food and Drug_  
+| _Administration; and_  
+|  _(B) commercially available; or_  
+|  _(2)_ _____require an institutional review board to oversee_  
+| _treatment using adult stem cells registered by the United States_  
+| _Food and Drug Administration for their intended homologous use._  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

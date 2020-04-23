@@ -1,0 +1,31 @@
+| 86R10339 ATP-D  
+---|---  
+|  By: Cole | H.B. No. 3487  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the deadline for an early voting ballot board to  
+| determine whether to accept voters' ballots.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 65.051(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The early voting ballot board shall verify and count  
+| provisional ballots as provided by this subchapter not later than  
+| the _10th_ [ ~~ninth~~ ] day after the date of an election.  
+|  SECTION 2. Section 87.041, Election Code, is amended by  
+| adding Subsection (h) to read as follows:  
+|  _(h)_ _____The early voting ballot board shall determine whether to_  
+| _accept mail ballots as provided by this section not later than the_  
+| _10th day after the date of an election._  
+|  SECTION 3. Section 87.0431(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Not later than the 10th day after _the local canvass_  
+| [ ~~election day~~ ], the presiding judge of the early voting ballot  
+| board shall deliver written notice of the reason for the rejection  
+| of a ballot to the voter at the residence address on the ballot  
+| application. If the ballot was transmitted to the voter by e-mail  
+| under Subchapter C, Chapter 101, the presiding judge shall also  
+| provide the notice to the e-mail address to which the ballot was  
+| sent.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

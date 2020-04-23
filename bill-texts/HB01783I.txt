@@ -1,0 +1,92 @@
+| 86R4735 PMO-F  
+---|---  
+|  By: King of Parker | H.B. No. 1783  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to premium and maintenance tax credits related to certain  
+| fees paid under the Patient Protection and Affordable Care Act.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 222, Insurance Code, is amended by  
+| adding Section 222.0071 to read as follows:  
+|  _Sec._ ___222.0071._ _____CREDIT FOR CERTAIN FEDERAL FEES PAID. (a)_  
+| _In this section:_  
+|  _(1)_ _____"Affordable Care Act" means the Patient Protection_  
+| _and Affordable Care Act (Pub. L. No._ ___111-148), as amended by the_  
+| _Health Care and Education Reconciliation Act of 2010 (Pub. L._  
+| _No._ ___111-152)._  
+|  _(2)_ _____"Nationwide health premium or revenue amount"_  
+| _means the amount of gross premium and revenue aggregated on a_  
+| _nationwide basis attributable to lines of business identified by_  
+| _the commissioner under this section and taxed under this chapter._  
+|  _(3)_ _____"Provider fee amount" means the amount of health_  
+| _insurer provider fees that an insurer or health maintenance_  
+| _organization pays under Section 9010, Affordable Care Act, and may_  
+| _recoup through adjustments to the insurer's premium rate or the_  
+| _health maintenance organization's formula or method for computing_  
+| _its schedule of charges, as applicable._  
+|  _(b)_ _____An insurer or health maintenance organization is_  
+| _entitled to a credit on the amount of tax due under this chapter in a_  
+| _taxable year in an amount equal to the product of the insurer's or_  
+| _health maintenance organization's provider fee amount multiplied_  
+| _by the percentage of the insurer's or health maintenance_  
+| _organization's nationwide health premium or revenue amount that the_  
+| _insurer or health maintenance organization allocates to this state_  
+| _multiplied by the rate of tax imposed under this chapter._  
+|  _(c) The commissioner by rule shall:_  
+|  _(1)_ _____establish formulas to calculate the amount of the_  
+| _credit authorized by Subsection (b), including a formula to_  
+| _calculate:_  
+|  _(A)_ _____an insurer's or health maintenance_  
+| _organization's provider fee amount; and_  
+|  _(B)_ _____the provider fee amount attributable to an_  
+| _insurer or health maintenance organization if the fees are imposed_  
+| _on a controlled group, as defined by Section 9010(c)(3), Affordable_  
+| _Care Act; and_  
+|  _(2)_ _____identify lines of business included in the_  
+| _calculation of the nationwide health premium or revenue amount._  
+|  _(d)_ _____The lines of business identified by the commissioner_  
+| _under Subsection (c) may not include the business of life_  
+| _insurance._  
+|  SECTION 2. Chapter 257, Insurance Code, is amended by  
+| adding Section 257.005 to read as follows:  
+|  _Sec._ ___257.005._ _____CREDIT FOR CERTAIN FEDERAL FEES PAID. (a) In_  
+| _this section:_  
+|  _(1)_ _____"Affordable Care Act" means the Patient Protection_  
+| _and Affordable Care Act (Pub. L. No._ ___111-148), as amended by the_  
+| _Health Care and Education Reconciliation Act of 2010 (Pub. L._  
+| _No._ ___111-152)._  
+|  _(2)_ _____"Nationwide health premium amount" means the_  
+| _amount of gross premium aggregated on a nationwide basis_  
+| _attributable to lines of business identified by the commissioner_  
+| _under this section and taxed under this chapter._  
+|  _(3)_ _____"Provider fee amount" means the amount of health_  
+| _insurer provider fees that an insurer pays under Section 9010,_  
+| _Affordable Care Act, and may recoup through adjustments to the_  
+| _insurer's premium rate._  
+|  _(b)_ _____An insurer is entitled to a credit on the amount of tax_  
+| _due under this chapter in a taxable year in an amount equal to the_  
+| _product of the insurer's provider fee amount multiplied by the_  
+| _percentage of the insurer's nationwide health premium amount that_  
+| _the insurer allocates to this state multiplied by the rate of tax_  
+| _imposed under this chapter._  
+|  _(c) The commissioner by rule shall:_  
+|  _(1)_ _____establish formulas to calculate the amount of the_  
+| _credit authorized by Subsection (b), including a formula to_  
+| _calculate:_  
+|  _(A) an insurer's provider fee amount; and_  
+|  _(B)_ _____the provider fee amount attributable to an_  
+| _insurer if the fees are imposed on a controlled group, as defined by_  
+| _Section 9010(c)(3), Affordable Care Act; and_  
+|  _(2)_ _____identify lines of business included in the_  
+| _calculation of the nationwide health premium amount._  
+|  _(d)_ _____The lines of business identified by the commissioner_  
+| _under Subsection (c) may not include the business of life_  
+| _insurance._  
+|  SECTION 3. The changes in law made by this Act apply only to  
+| a tax liability accruing on or after January 1, 2014.  
+|  SECTION 4. The comptroller of public accounts and  
+| commissioner of insurance shall adopt rules necessary to implement  
+| the changes in law made by this Act.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

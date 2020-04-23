@@ -1,0 +1,77 @@
+| 86R6397 SCL-F  
+---|---  
+|  By: Raney | H.B. No. 1682  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to collection and use of child safety data for licensed  
+| day-care centers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 42.002, Human Resources Code, is amended  
+| by adding Subdivision (25) to read as follows:  
+|  _(25) "Commission"_ ___means the Health and Human Services_  
+| _Commission._  
+|  SECTION 2. Subchapter C, Chapter 42, Human Resources Code,  
+| is amended by adding Section 42.0412 to read as follows:  
+|  _Sec._ ___42.0412._ _____COLLECTION OF LICENSED DAY-CARE CENTER DATA._ __  
+| _(a)_ ___In this section, "group of children" and "specified age"_ ___are_  
+| _determined by the formula provided in the commission's minimum_  
+| _standards for child-care centers._  
+|  _(b)_ _____The commission, using existing resources, shall_  
+| _collect, compile, and publish on the commission's Internet website_  
+| _the following data aggregated by child age on reported incidents in_  
+| _licensed day-care centers that threaten or impair the basic health,_  
+| _safety, or welfare of a child:_  
+|  _(1)_ _____the number of incidents investigated by the_  
+| _commission and assigned the commission's highest priority;_  
+|  _(2)_ _____the number of incidents investigated by the_  
+| _commission and assigned the commission's second-highest priority;_  
+|  _(3) the number of incidents confirmed as serious;_  
+|  _(4)_ _____the number of confirmed serious injuries to_  
+| _children; and_  
+|  _(5) the number of child fatalities._  
+|  _(c)_ _____During each monitoring inspection of a licensed_  
+| _day-care center the commission conducts, the commission, using_  
+| _existing resources, shall collect the following data for each group_  
+| _of children four years of age and younger in the day-care center:_  
+|  _(1) the specified age of the children in the group;_  
+|  _(2) the number of children in the group; and_  
+|  _(3)_ _____the number of caregivers supervising the children_  
+| _in the group._  
+|  _(d)_ _____The commission shall make the data collected under this_  
+| _section available to persons researching the factors related to_  
+| _child injury, maltreatment, and death in licensed day-care centers_  
+| _on request._  
+|  _(e)_ _____The commission, using existing resources, shall provide_  
+| _an annual report to the legislature that includes:_  
+|  _(1)_ _____the number of confirmed serious injuries and_  
+| _fatalities for children four years of age and younger that occurred_  
+| _at each licensed day-care center, aggregated by the age of the_  
+| _injured or deceased child;_  
+|  _(2)_ _____the priority assigned to the investigation_  
+| _conducted by the commission in response to an incident that_  
+| _resulted in a serious injury or child fatality;_  
+|  _(3)_ _____the number of investigations conducted by the_  
+| _commission at each licensed day-care center involving a child four_  
+| _years of age or younger that were assigned the highest priority or_  
+| _second-highest priority, aggregated by the age of the youngest_  
+| _affected child; and_  
+|  _(4)_ _____the number of violations the commission found at_  
+| _each licensed day-care center during investigations described by_  
+| _Subdivision (3)._  
+|  SECTION 3. Section 42.042, Human Resources Code, is amended  
+| by adding Subsection (m-1) to read as follows:  
+|  _(m-1)_ _____Not later than January 1, 2021, the executive_  
+| _commissioner shall use the data collected under Section 42.0412 to_  
+| _determine whether to modify the minimum standards by age group to_  
+| _enhance child safety. This subsection expires September 1, 2023._  
+|  SECTION 4. Notwithstanding Section 42.0412(d), Human  
+| Resources Code, as added by this Act, the Health and Human Services  
+| Commission is not required to comply with that subsection until  
+| January 31, 2020.  
+|  SECTION 5. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

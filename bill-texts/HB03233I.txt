@@ -1,0 +1,337 @@
+| 86R13581 BRG-F  
+---|---  
+|  By: Klick | H.B. No. 3233  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Judicial Campaign Fairness Act.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 253.152, Election Code, is amended to  
+| read as follows:  
+|  Sec. 253.152. DEFINITIONS. In this subchapter:  
+|  (1) _"Child" means a person under 18 years of age who is_  
+| _not and has not been married or who has not had the disabilities of_  
+| _minority removed for general purposes_ [ ~~"Complying candidate" or~~  
+|  ~~"complying officeholder" means a judicial candidate who files a~~  
+|  ~~declaration of compliance under Section 253.164(a)(1)~~ ].  
+|  (2) "In connection with an election" means:  
+|  (A) with regard to a contribution that is  
+| designated in writing for a particular election, the election  
+| designated; or  
+|  (B) with regard to a contribution that is not  
+| designated in writing for a particular election [ ~~or that is~~  
+|  ~~designated as an officeholder contribution~~ ], the next election for  
+| that office occurring after the contribution is made.  
+|  (3) "Judicial district" means the territory from which  
+| a judicial candidate is elected _or appointed_.  
+|  (4) _"Law firm" means a partnership, limited liability_  
+| _partnership, limited liability company, or professional_  
+| _corporation organized for the practice of law._  
+|  _(5) "Law firm group" means:_  
+|  _(A) a law firm;_  
+|  _(B)_ _____a general-purpose committee established or_  
+| _controlled by the law firm or a member of the law firm;_  
+|  _(C) a member of the law firm; and_  
+|  _(D) the spouse of a member of the law firm._  
+|  _(6) "Member of a law firm" means:_  
+|  _(A)_ _____a person designated "of counsel" or "of the_  
+| _firm";_  
+|  _(B)_ _____a partner of the law firm, whether an_  
+| _individual or an entity;_  
+|  _(C) an associate of the law firm;_  
+|  _(D)_ _____a shareholder of the law firm, whether an_  
+| _individual or an entity; or_  
+|  _(E) an employee of the law firm_ [ ~~"Noncomplying~~  
+|  ~~candidate" means a judicial candidate who:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~files a declaration of intent to exceed the~~  
+|  ~~limits on expenditures under Section 253.164(a)(2);~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~files a declaration of compliance under~~  
+|  ~~Section 253.164(a)(1) but later exceeds the limits on expenditures;~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~fails to file a declaration of compliance~~  
+|  ~~under Section 253.164(a)(1) or a declaration of intent under~~  
+|  ~~Section 253.164(a)(2); or~~  
+|  [ ~~(D) violates Section 253.173 or 253.174~~].  
+|  _(7)_ [ ~~(5)~~ ] "Statewide judicial office" means the  
+| office of chief justice or justice, supreme court, or presiding  
+| judge or judge, court of criminal appeals.  
+|  SECTION 2. The heading to Section 253.1541, Election Code,  
+| is amended to read as follows:  
+|  Sec. 253.1541. ACCEPTANCE OF _POLITICAL_ [ ~~OFFICEHOLDER~~ ]  
+| CONTRIBUTIONS BY PERSON APPOINTED TO FILL VACANCY.  
+|  SECTION 3. Section 253.1541(b), Election Code, is amended  
+| to read as follows:  
+|  (b) Notwithstanding Section 253.153, a person to whom this  
+| section applies may accept _political_ [ ~~officeholder~~ ] contributions  
+| beginning on the date the person assumes the duties of office and  
+| ending on the 60th day after that date.  
+|  SECTION 4. Sections 253.155(a), (b), and (e), Election  
+| Code, are amended to read as follows:  
+|  (a) _A_ [ ~~Subject to Section 253.1621, a~~ ] judicial candidate or  
+| officeholder may not[ ~~, except as provided by Subsection (c),~~ ]  
+| knowingly accept political contributions from a person that _,_ in the  
+| aggregate _,_ exceed the _contribution_ limits prescribed by Subsection  
+| (b) in connection with each election in which the _judicial_  
+| _candidate's name appears on the ballot_ [ ~~person is involved~~ ].  
+|  (b) The contribution limits _under this section_ are:  
+|  (1) for a statewide judicial office, $5,000; or  
+|  (2) for any other judicial office:  
+|  (A) $1,000, if the population of the judicial  
+| district is less than 250,000;  
+|  (B) $2,500, if the population of the judicial  
+| district is 250,000 to one million; or  
+|  (C) $5,000, if the population of the judicial  
+| district is more than one million.  
+|  (e) A person who receives a political contribution that  
+| violates _this section_ [ ~~Subsection (a)~~ ] shall return the  
+| contribution to the contributor not later than the later of:  
+|  (1) the last day of the reporting period in which the  
+| contribution is received; or  
+|  (2) the fifth day after the date the contribution is  
+| received.  
+|  SECTION 5. The heading to Section 253.157, Election Code,  
+| is amended to read as follows:  
+|  Sec. 253.157. LIMIT ON CONTRIBUTION BY LAW FIRM _GROUPS AND_  
+| [ ~~OR MEMBER OR~~ ] GENERAL-PURPOSE _COMMITTEES_ [ ~~COMMITTEE OF LAW
+FIRM~~ ].  
+|  SECTION 6. Section 253.157, Election Code, is amended by  
+| amending Subsections (a), (b), and (c) and adding Subsections (a-1)  
+| and (a-2) to read as follows:  
+|  (a) _In addition_ [ ~~Subject~~ ] to _the contribution limits_  
+| _imposed on each contributor under_ Section _253.155_ [ ~~253.1621~~ ], a  
+| judicial candidate or officeholder may not accept a political  
+| contribution in excess of $50 from a person if:  
+|  (1) the person is _part of_ a law firm _group_ [ ~~, a member~~  
+|  ~~of a law firm, or a general-purpose committee established or~~  
+|  ~~controlled by a law firm~~ ]; and  
+|  (2) the contribution _,_ when aggregated with all  
+| political contributions accepted by the candidate or officeholder  
+| from the _same_ law firm _group in connection with the election_ , [
+~~other~~  
+|  ~~members of the law firm, or a general-purpose committee established~~  
+|  ~~or controlled by the law firm in connection with the election~~ ] would  
+| exceed six times the applicable contribution limit under Section  
+| 253.155.  
+|  _(a-1)_ _____A judicial candidate or officeholder may not_  
+| _knowingly accept political contributions from a general-purpose_  
+| _committee that, in the aggregate, exceed the contribution limits_  
+| _prescribed by this subsection in connection with an election in_  
+| _which the judicial candidate's name appears on the ballot. The_  
+| _contribution limits under this subsection are:_  
+|  _(1) for a statewide judicial office, $25,000; or_  
+|  _(2) for any other judicial office, $5,000._  
+|  _(a-2)_ _____In addition to the contribution limits imposed on each_  
+| _contribution in Subsection (a-1), a judicial candidate or_  
+| _officeholder may not accept a political contribution in excess of_  
+| _$50 from a general-purpose committee if the contribution, when_  
+| _aggregated with all political contributions from all_  
+| _general-purpose committees in connection with an election, would_  
+| _exceed:_  
+|  _(1) for a statewide judicial office, $300,000;_  
+|  _(2)_ _____for the office of chief justice or justice, court_  
+| _of appeals:_  
+|  _(A)_ _____$75,000, if the population of the judicial_  
+| _district is more than one million; or_  
+|  _(B)_ _____$52,500, if the population of the judicial_  
+| _district is one million or less; or_  
+|  _(3)_ _____for an office other than an office included under_  
+| _Subdivision (1) or (2):_  
+|  _(A)_ _____$52,500, if the population of the judicial_  
+| _district is more than one million;_  
+|  _(B)_ _____$30,000, if the population of the judicial_  
+| _district is 250,000 to one million; or_  
+|  _(C)_ _____$15,000, if the population of the judicial_  
+| _district is less than 250,000._  
+|  (b) A person who receives a political contribution that  
+| violates _this section_ [ ~~Subsection (a)~~ ] shall return the  
+| contribution to the contributor not later than the later of:  
+|  (1) the last day of the reporting period in which the  
+| contribution is received; or  
+|  (2) the fifth day after the date the contribution is  
+| received.  
+|  (c) A person who _violates this section_ [ ~~fails to return a~~  
+|  ~~political contribution as required by Subsection (b)~~ ] is liable for  
+| a civil penalty not to exceed three times the [ ~~total~~ ] amount of _the_  
+| political contributions accepted _in violation of this section_ [ ~~from~~  
+|  ~~the law firm, members of the law firm, or general-purpose~~  
+|  ~~committees established or controlled by the law firm in connection~~  
+|  ~~with the election~~ ].  
+|  SECTION 7. Sections 253.158, 253.159, and 253.1601,  
+| Election Code, are amended to read as follows:  
+|  Sec. 253.158. CONTRIBUTION BY SPOUSE OR CHILD [ ~~CONSIDERED~~  
+|  ~~TO BE CONTRIBUTION BY INDIVIDUAL~~ ]. (a) For purposes of _this_  
+| _subchapter_ [ ~~Sections 253.155 and 253.157~~ ], a contribution by the  
+| spouse [ ~~or child~~ ] of an individual is _not_ considered to be a  
+| contribution by the individual.  
+|  (b) _For purposes of this subchapter, a contribution by a_  
+| _child of an individual is considered to be a contribution by the_  
+| _individual_ [ ~~In this section, "child" means a person under 18 years~~  
+|  ~~of age who is not and has not been married or who has not had the~~  
+|  ~~disabilities of minority removed for general purposes~~ ].  
+|  Sec. 253.159. EXCEPTION TO CONTRIBUTION LIMITS. _Section_  
+| [ ~~Sections~~ ] 253.155 _does_ [ ~~and 253.157 do~~ ] not apply to an
+individual  
+| who is related to the candidate or officeholder within the second  
+| degree by consanguinity, as determined under Subchapter B, Chapter  
+| 573, Government Code.  
+|  Sec. 253.1601. CONTRIBUTION TO CERTAIN COMMITTEES  
+| CONSIDERED CONTRIBUTION TO CANDIDATE _OR OFFICEHOLDER_. For purposes  
+| of Sections 253.155 _and_ [ ~~,~~ ] 253.157, [ ~~and 253.160,~~ ] a
+contribution  
+| to a specific-purpose committee for the purpose of supporting a  
+| judicial candidate, opposing the candidate's opponent, or  
+| assisting _a judicial_ [ ~~the candidate as an~~ ] officeholder is  
+| considered to be a contribution to the candidate _or officeholder_.  
+|  SECTION 8. Sections 253.161(a) and (b), Election Code, are  
+| amended to read as follows:  
+|  (a) A judicial candidate or officeholder, a  
+| specific-purpose committee for supporting or opposing a judicial  
+| candidate, or a specific-purpose committee for assisting a judicial  
+| officeholder may not use a political contribution to make a  
+| campaign expenditure for judicial office or to make an officeholder  
+| expenditure in connection with a judicial office if the  
+| contribution was accepted while the candidate or officeholder:  
+|  (1) was a candidate for an office other than a judicial  
+| office; or  
+|  (2) held an office other than a judicial office,  
+| unless the person had become a candidate for judicial office _and the_  
+| _contribution was made in connection with an election for judicial_  
+| _office_.  
+|  (b) A candidate, officeholder, or specific-purpose  
+| committee for supporting, opposing, or assisting the candidate or  
+| officeholder may not use a political contribution to make a  
+| campaign expenditure for an office other than a judicial office or  
+| to make an officeholder expenditure in connection with an office  
+| other than a judicial office if the contribution was accepted while  
+| the candidate or officeholder:  
+|  (1) was a candidate for a judicial office; or  
+|  (2) held a judicial office, unless the person had  
+| become a candidate for another office _and the contribution was made_  
+| _in connection with an election for nonjudicial office_.  
+|  SECTION 9. Subchapter F, Chapter 253, Election Code, is  
+| amended by adding Section 253.1612 to read as follows:  
+|  _Sec._ ___253.1612._ _____CERTAIN CAMPAIGN ACTIVITIES AUTHORIZED. The_  
+| _Code of Judicial Conduct may not prohibit, and a judicial candidate_  
+| _may not be penalized for, a joint campaign activity conducted by two_  
+| _or more judicial candidates if the joint campaign activity clearly_  
+| _indicates that a judicial candidate conducting the activity does_  
+| _not endorse another judicial or nonjudicial candidate._  
+|  SECTION 10. Sections 253.162(a) and (c), Election Code, are  
+| amended to read as follows:  
+|  (a) _A_ [ ~~Subject to Section 253.1621, a~~ ] judicial candidate or  
+| officeholder who makes political expenditures from the person's  
+| personal funds _or who accepts one or more political contributions_  
+| _in the form of a loan, including an extension of credit or guarantee_  
+| _of a loan or extension of credit, from one or more persons related_  
+| _to the candidate or officeholder within the second degree of_  
+| _affinity or consanguinity, as determined under Subchapter B,_  
+| _Chapter 573, Government Code,_ may not reimburse _those_ [ ~~the~~ ]  
+| personal funds _or repay those loans_ from political contributions in  
+| amounts that in the aggregate exceed, for each election in which the  
+| person's name appears on the ballot:  
+|  (1) for a statewide judicial office, $100,000; or  
+|  (2) for an office other than a statewide judicial  
+| office, five times the applicable contribution limit under Section  
+| 253.155.  
+|  (c) A person who is both a candidate and an officeholder may  
+| reimburse the person's personal funds _in_ only [ ~~in~~ ] one capacity.  
+|  SECTION 11. Section 253.1621, Election Code, is amended to  
+| read as follows:  
+|  Sec. 253.1621. APPLICATION OF CONTRIBUTION AND  
+| REIMBURSEMENT LIMITS TO CERTAIN CANDIDATES. (a) For purposes of  
+| _the_ [ ~~a~~ ] contribution _limits_ [ ~~limit~~ ] prescribed by Section
+253.155  
+| _or_ [ ~~,~~ ] 253.157[ ~~, or 253.160~~ ] and the limit on reimbursement of  
+| personal funds _and repayment of certain loans_ prescribed by Section  
+| 253.162, the general _and_ primary _elections_ [ ~~election and general~~  
+|  ~~election for state and county officers~~ ] are considered _separate_  
+| _elections for a candidate whose name appears on the ballot_ [ ~~to be a~~  
+|  ~~single election in which a judicial candidate is involved if the~~  
+|  ~~candidate:~~  
+|  [ ~~(1) is unopposed in the primary election; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~does not have an opponent in the general election~~  
+|  ~~whose name is to appear on the ballot~~ ].  
+|  (b) For _purposes of the_ [ ~~a candidate to whom Subsection (a)~~  
+|  ~~applies, each applicable~~ ] contribution _limits_ [ ~~limit~~ ]
+prescribed  
+| by _Sections_ [ ~~Section~~ ] 253.155 _and_ [ ~~,~~ ] 253.157 _and the
+limits on_  
+| _reimbursement of personal funds and repayment of certain loans_  
+| _prescribed by Section 253.162, a runoff election in which the_  
+| _candidate's name is on the ballot is considered a separate_  
+| _election_ [ ~~, or 253.160 is increased by 25 percent. A candidate who~~  
+|  ~~accepts political contributions from a person that in the aggregate~~  
+|  ~~exceed the applicable contribution limit prescribed by Section~~  
+|  ~~253.155, 253.157, or 253.160 but that do not exceed the adjusted~~  
+|  ~~limit as determined under this subsecton may use the amount of those~~  
+|  ~~contributions that exceeds the limit prescribed by Section 253.155,~~  
+|  ~~253.157, or 253.160 only for making an officeholder expenditure~~ ].  
+|  SECTION 12. The heading to Section 253.167, Election Code,  
+| is amended to read as follows:  
+|  Sec. 253.167. CERTIFICATION OF POPULATION; NOTICE OF  
+| CONTRIBUTION [ ~~AND EXPENDITURE~~ ] LIMITS.  
+|  SECTION 13. Section 253.167, Election Code, is amended by  
+| amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) Following certification of population under Subsection  
+| (a), the commission or county clerk, as appropriate, shall make  
+| available to each candidate for an office covered by this  
+| subchapter written notice of the contribution [ ~~and expenditure~~ ]  
+| limits applicable to the office the candidate seeks.  
+|  _(c)_ _____The commission shall post the written certification_  
+| _required by this section on the commission's Internet website._  
+|  SECTION 14. Section 253.171, Election Code, is amended to  
+| read as follows:  
+|  Sec. 253.171. CONTRIBUTION FROM OR DIRECT CAMPAIGN  
+| EXPENDITURE BY POLITICAL PARTY. _A political expenditure_  
+| [ ~~(a)~~ ~~~~ ~~~~ ~~Except as provided by Subsection (b), a political~~  
+|  ~~contribution to or a direct campaign expenditure on behalf of a~~  
+|  ~~complying candidate~~ ] that is made by the principal political  
+| committee of the state executive committee or a county executive  
+| committee of a political party [ ~~is considered to be a political~~  
+|  ~~expenditure by the candidate for purposes of the expenditure limits~~  
+|  ~~prescribed by Section 253.168.~~  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~Subsection (a) does not apply to a political~~  
+|  ~~expenditure~~ ] for a generic get-out-the-vote campaign or _to create_  
+| _and distribute_ [ ~~for~~ ] a written list of two or more candidates _is
+not_  
+| _considered a contribution to a judicial candidate who benefits from_  
+| _the get-out-the-vote campaign or is included in the written list_  
+| _and is not subject to the limits of Section 253.155 or 253.157 if_  
+| _the get-out-the-vote campaign or written list_ [ ~~that~~ ]:  
+|  (1) identifies the party's candidates by name and  
+| office sought, office held, or photograph;  
+|  (2) does not include any reference to the judicial  
+| philosophy or positions on issues of the party's judicial  
+| candidates; and  
+|  (3) is not broadcast, cablecast, published in a  
+| newspaper or magazine, or placed on a billboard.  
+|  SECTION 15. Section 253.176(a), Election Code, is amended  
+| to read as follows:  
+|  (a) The commission may impose a civil penalty against a  
+| person _as provided by this subchapter_ only after a formal hearing as  
+| provided by Subchapter E, Chapter 571, Government Code.  
+|  SECTION 16. Section 254.0611(b), Election Code, is amended  
+| to read as follows:  
+|  (b) In this section:  
+|  (1) "Child" _and "law firm" have_ [ ~~has~~ ] the _meanings_  
+| [ ~~meaning~~ ] assigned by Section _253.152_ [ ~~253.158~~ ].  
+|  (2) _"Member" has_ [ ~~"Law firm" and "member" have~~ ] the  
+| _meaning_ [ ~~meanings~~ ] assigned _to "member of a law firm"_ by Section  
+| _253.152_ [ ~~253.157~~ ].  
+|  SECTION 17. The following provisions of the Election Code  
+| are repealed:  
+|  (1) Section 253.155(d);  
+|  (2) Sections 253.157(d) and (e);  
+|  (3) Section 253.160;  
+|  (4) Section 253.161(c);  
+|  (5) Section 253.162(b);  
+|  (6) Sections 253.163, 253.164, 253.165, 253.166,  
+| 253.168, 253.169, 253.170, 253.172, 253.173, 253.174, and 253.175;  
+| and  
+|  (7) Section 253.176(c).  
+|  SECTION 18. This Act takes effect immediately if it  
+| receives a vote of two-thirds of all the members elected to each  
+| house, as provided by Section 39, Article III, Texas Constitution.  
+| If this Act does not receive the vote necessary for immediate  
+| effect, this Act takes effect September 1, 2019.
+

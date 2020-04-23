@@ -1,0 +1,61 @@
+| 86R12830 GRM-F  
+---|---  
+|  By: Swanson | H.B. No. 4130  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to use of an electronic device for accepting voters;  
+| authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 31, Election Code, is  
+| amended by adding Section 31.014 to read as follows:  
+|  _Sec._ ___31.014._ _____CERTIFICATION OF ELECTRONIC DEVICES TO ACCEPT_  
+| _VOTERS. (a)_ ___The secretary of state shall prescribe specific_  
+| _requirements and standards, consistent with this code, for the_  
+| _certification of an electronic device used to accept voters under_  
+| _Chapter 63 that require the device to:_  
+|  _(1)_ _____produce an electronic copy of the list of voters_  
+| _who were accepted to vote for delivery to the election judge after_  
+| _the polls close;_  
+|  _(2) display the voter's original signature;_  
+|  _(3)_ _____accept a voter for voting even when the device is_  
+| _off-line;_  
+|  _(4)_ _____provide the full list of voters registered in the_  
+| _county with an indication of the jurisdictional or distinguishing_  
+| _number for each territorial unit in which each voter resides;_  
+|  _(5)_ _____time-stamp when each voter is accepted at a_  
+| _polling place;_  
+|  _(6)_ _____if the county participates in the countywide_  
+| _polling place program under Section 43.007 or has more than one_  
+| _early voting polling place, transmit a time stamp when each voter is_  
+| _accepted to all polling place locations; and_  
+|  _(7)_ _____produce an electronic copy of the logs of each_  
+| _device for delivery to the secretary of state that includes:_  
+|  _(A)_ _____the polling location in which the device was_  
+| _used; and_  
+|  _(B)_ _____the dated time stamp for when each voter was_  
+| _accepted associated with the voter's unique identifier._  
+|  _(b)_ _____A device described by this section must be certified_  
+| _annually by the secretary of state._  
+|  _(c)_ _____The secretary of state shall adopt rules that require a_  
+| _device described by this section used during the early voting_  
+| _period or under the countywide polling place program under Section_  
+| _43.007 to update data in real time._ ___If a county uses a device that_  
+| _does not comply with the rule in two consecutive general elections_  
+| _for state and county officers, the secretary of state shall assess a_  
+| _noncompliance fee. The noncompliance fee shall be set at an amount_  
+| _determined by secretary of state rule._  
+|  SECTION 2. Section 63.003, Election Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____The poll list may be in the form of an electronic device_  
+| _approved by the secretary of state._ ___The secretary of state shall_  
+| _adopt rules governing the use of electronic poll lists._  
+|  SECTION 3. Section 63.004, Election Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____A combination form may be in the form of an electronic_  
+| _device approved by the secretary of state._ ___The secretary of state_  
+| _shall adopt rules governing the minimum requirements and approval_  
+| _of an electronic device used for any form used in connection with_  
+| _the acceptance of voters at a polling place._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

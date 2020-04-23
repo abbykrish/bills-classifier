@@ -1,0 +1,25 @@
+| 86R11297 JAM-D  
+---|---  
+|  By: Gonzalez of Dallas | H.B. No. 2532  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the eligibility of certain municipalities to designate  
+| homestead preservation districts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 373A.052(b), Local Government Code, is  
+| amended to read as follows:  
+|  (b) To be designated as a district within a municipality  
+| described by Section 373A.003(b) under this subchapter, an area  
+| must be composed of census tracts forming a spatially compact area  
+| [ ~~contiguous to a central business district and~~ ] with:  
+|  (1) fewer than 75,000 residents; _and_  
+|  (2) a median family income that is less than _70 percent_  
+| _of the area median family income, adjusted for household size, as_  
+| _determined annually by the United States Department of Housing and_  
+| _Urban Development_ [ ~~$30,000 according to the last decennial census;~~  
+|  ~~and~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~an overall poverty rate that is at least two times~~  
+|  ~~the poverty rate for the entire municipality~~ ].  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

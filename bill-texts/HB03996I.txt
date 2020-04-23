@@ -1,0 +1,124 @@
+|  
+---|---  
+|  By: Burrows | H.B. No. 3996  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to liability of certain political subdivisions in certain  
+| workers' compensation actions.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 504.053(e), Labor Code, is amended to  
+| read as follows:  
+|  (e) Nothing in this chapter waives sovereign immunity or  
+| creates a new cause of action, except that a political subdivision  
+| that self-insures either individually or collectively is liable  
+| for _:_  
+|  _(1)_ _____sanctions, administrative penalties, and other_  
+| _remedies authorized under Chapter 415;_  
+|  _(2)_ _____attorney's fees as provided by Section 408.221(c);_  
+| _and_  
+|  _(3)_ attorney's fees as provided by Section 417.003.  
+|  SECTION 2. Section 415.021, Labor Code, is amended by  
+| adding Subsection (a-1) to read as follows:  
+|  _(a-1)_ _____In addition to any sanctions, administrative penalty,_  
+| _or other remedy authorized by this subtitle, the commissioner may_  
+| _assess an administrative penalty against a political subdivision_  
+| _that self-insures either individually or collectively that commits_  
+| _an administrative violation in connection with a workers'_  
+| _compensation claim filed by an individual elected, appointed, or_  
+| _employed as a peace officer by the political subdivision under_  
+| _Article 2.12, Code of Criminal Procedure, or other law, or an_  
+| _individual who is employed by the political subdivision and is_  
+| _subject to certification by the Texas Commission on Fire_  
+| _Protection. The amount of the administrative penalty shall not be_  
+| _less than two times the total amount of medical benefits under_  
+| _Subchapter B, Chapter 408, Labor Code, and temporary income_  
+| _benefits under Subchapter F, Chapter 408, Labor Code, payable in_  
+| _connection with the employee's claim._  
+|  SECTION 3. Section 607.055, Government Code, is amended to  
+| read as follows:  
+|  (a) A firefighter or emergency medical technician who  
+| suffers from cancer resulting in death or total or partial  
+| disability is presumed to have developed the cancer during the  
+| course and scope of employment as a firefighter or emergency  
+| medical technician if:  
+|  (1) the firefighter or emergency medical technician:  
+|  (A) regularly responded on the scene to calls  
+| involving fires or fire fighting; or  
+|  (B) regularly responded to an event involving the  
+| documented release of radiation or a known or suspected carcinogen  
+| while the person was employed as a firefighter or emergency medical  
+| technician; and  
+|  (2) the cancer is ~~known to be associated with fire~~  
+|  ~~fighting or exposure to heat, smoke, radiation, or a known or~~  
+|  ~~suspected carcinogen, as described by Subsection (b)~~ _one of the_  
+| _following:_  
+|  _(A)_ _____Malignant neoplasms of the lip; tongue;_  
+| _salivary gland; floor of mouth; gum and other mouth; tonsil;_  
+| _oropharynx; hypopharynx; and other oral cavity and pharynx;_  
+|  _(B) Malignant neoplasm of the nasopharynx;_  
+|  _(C)_ _____Malignant neoplasms of the nose; nasal_  
+| _cavity; middle ear; and accessory sinuses;_  
+|  _(D) Malignant neoplasm of the larynx;_  
+|  _(E) Malignant neoplasm of the esophagus;_  
+|  _(F) Malignant neoplasm of the stomach;_  
+|  _(G) Malignant neoplasms of the colon and rectum;_  
+|  _(H)_ _____Malignant neoplasms of the liver and_  
+| _intrahepatic bile duct;_  
+|  _(I)_ _____Malignant neoplasms of the retroperitoneum_  
+| _and peritoneum; omentum; and mesentery;_  
+|  _(J)_ _____Malignant neoplasms of the trachea; bronchus_  
+| _and lung; heart, mediastinum and pleura; and other ill-defined_  
+| _sites in the respiratory system and intrathoracic organs;_  
+|  _(K) Mesothelioma;_  
+|  _(L)_ _____Malignant neoplasms of the peripheral nerves_  
+| _and autonomic nervous system; and other connective and soft tissue;_  
+|  _(M)_ _____Malignant neoplasms of the skin (melanoma and_  
+| _non-melanoma), including scrotal cancer;_  
+|  _(N) Malignant neoplasm of the female breast;_  
+|  _(O) Malignant neoplasm of the ovary;_  
+|  _(P) Malignant neoplasm of the prostate;_  
+|  _(Q) Malignant neoplasm of the urinary bladder;_  
+|  _(R) Malignant neoplasm of the kidney;_  
+|  _(S)_ _____Malignant neoplasms of the renal pelvis;_  
+| _ureter; and other urinary organs;_  
+|  _(T) Malignant neoplasms of the eye and orbit;_  
+|  _(U) Malignant neoplasm of the thyroid;_  
+|  _(V)_ _____Malignant neoplasms of the blood and lymphoid_  
+| _tissues, including, but not limited to lymphoma, leukemia, and_  
+| _myeloma;_  
+|  _(W)_ _____any type of cancer diagnosed in a person less_  
+| _than 20 years of age; and_  
+|  _(X)_ _____any type of cancer that occurs in less than 15_  
+| _cases per 100,000 persons per year in the United States, based on_  
+| _2005-2009 average annual data age-adjusted to the 2000 U.S._  
+| _population, as documented in Glenn Copeland, Andrew Lake, Rick_  
+| _Firth, et al. (eds), Cancer in North America: 2005-2009. Volume_  
+| _One: Combined Cancer Incidence for the United States, Canada and_  
+| _North America, Springfield, IL: North American Association of_  
+| _Central Cancer Registries, Inc., June 2012_.  
+|  ~~(b)~~ ~~~~ ~~~~ ~~This section applies only to a type of cancer that may
+be~~  
+|  ~~caused by exposure to heat, smoke, radiation, or a known or~~  
+|  ~~suspected carcinogen as determined by the International Agency for~~  
+|  ~~Research on Cancer.~~  
+|  SECTION 4. Section 415.021, Labor Code, as amended by this  
+| Act, applies only to an administrative violation under Chapter 415,  
+| Labor Code, that occurs on or after the effective date of this Act.  
+| An administrative violation that occurs before the effective date  
+| of this Act is governed by the law applicable to the violation  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose. Section 504.053, Labor Code,  
+| as amended by this Act, and Section 607.055, Government Code, as  
+| amended by this Act, apply only to a claim for workers' compensation  
+| benefits filed on or after the effective date of this Act. Claims  
+| for workers' compensation benefits filed before the effective date  
+| of this Act are governed by the law applicable to the claims  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

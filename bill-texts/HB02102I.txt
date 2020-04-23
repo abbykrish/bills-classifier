@@ -1,0 +1,110 @@
+| 86R5237 JES-F  
+---|---  
+|  By: Capriglione | H.B. No. 2102  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the payment of insurance deductibles related to  
+| property insurance policies; creating criminal offenses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle F, Title 5, Insurance Code, is amended  
+| by adding Chapter 707 to read as follows:  
+| _CHAPTER 707. PAYMENT OF INSURANCE DEDUCTIBLE_  
+|  _Sec. 707.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Person" means an individual, corporation,_  
+| _association, partnership, limited liability company, or other_  
+| _legal entity._  
+|  _(2)_ _____"Property insurance" means insurance that_  
+| _provides coverage for loss of or damage to real or personal_  
+| _property._  
+|  _Sec._ ___707.002._ _____PAYMENT OF DEDUCTIBLE REQUIRED. A person_  
+| _insured under a property insurance policy shall pay any deductible_  
+| _applicable to a first-party claim made under the policy._  
+|  _Sec._ ___707.003._ _____CONSUMER EDUCATION. The department shall_  
+| _develop and implement an education program related to the payment_  
+| _of property insurance deductibles. The program must:_  
+|  _(1)_ _____provide reasonable methods to educate insurance_  
+| _consumers and providers of goods or services that are regularly_  
+| _paid for from proceeds of property insurance claims; and_  
+|  _(2) include materials regarding:_  
+|  _(A) the requirements of this chapter; and_  
+|  _(B) the conduct prohibited by Section 707.006._  
+|  _Sec._ ___707.004._ _____REQUIRED CONTRACT NOTICE. A contract to_  
+| _provide a good or service that is reasonably expected to be paid_  
+| _wholly or partly from the proceeds of a claim under a property_  
+| _insurance policy and that has a contract price of $1,000 or more_  
+| _must contain the following notice in at least 12-point boldfaced_  
+| _type: "Texas law requires a person insured under a property_  
+| _insurance policy to pay any deductible applicable to a claim made_  
+| _under the policy. It is a violation of Texas law for a person or_  
+| _business paid wholly or partly from proceeds of a property_  
+| _insurance claim to knowingly allow the policyholder to fail to pay,_  
+| _or assist the policyholder's failure to pay, the applicable_  
+| _insurance deductible."_  
+|  _Sec._ ___707.005._ _____PROOF OF PAYMENT. (a)_ ___This section applies_  
+| _to any insurer that issues a policy providing coverage for loss of_  
+| _or damage to real or personal property, including a county mutual_  
+| _insurance company, a farm mutual insurance company, a reciprocal or_  
+| _interinsurance exchange, or a Lloyd's plan._  
+|  _(b)_ _____An insurer that issues a property insurance policy with_  
+| _replacement cost coverage may refuse to pay a claim for replacement_  
+| _cost under the policy until the insurer receives reasonable proof_  
+| _of payment by the policyholder of any deductible applicable to the_  
+| _claim._  
+|  _Sec._ ___707.006._ _____OFFENSES. (a)_ ___A person who sells goods or_  
+| _services commits an offense if the person:_  
+|  _(1)_ _____advertises or promises to provide a good or_  
+| _service to an insured under a property insurance policy in a_  
+| _transaction in which:_  
+|  _(A)_ _____the good or service will be paid for by the_  
+| _insured from the proceeds of a property insurance claim; and_  
+|  _(B)_ _____the person selling the good or service will,_  
+| _without the insurer's consent:_  
+|  _(i)_ _____pay, waive, absorb, or otherwise_  
+| _decline to charge or collect the amount of the insured's_  
+| _deductible;_  
+|  _(ii)_ _____provide a rebate or credit in_  
+| _connection with the sale of the good or service that will offset all_  
+| _or part of the amount paid by the insured as a deductible; or_  
+|  _(iii)_ _____in any other manner assist the_  
+| _insured in avoiding monetary payment of the required insurance_  
+| _deductible; or_  
+|  _(2)_ _____provides a good or service to an insured under a_  
+| _property insurance policy knowing that the insured will pay for the_  
+| _good or service with the proceeds of a claim under the policy and,_  
+| _without the insurer's consent:_  
+|  _(A)_ _____pays, waives, absorbs, or otherwise declines_  
+| _to charge or collect the amount of the insured's deductible;_  
+|  _(B)_ _____provides a rebate or credit in connection_  
+| _with the sale of the good or service that offsets all or part of the_  
+| _amount paid by the insured as a deductible; or_  
+|  _(C)_ _____in any other manner assists the insured in_  
+| _avoiding monetary payment of the required insurance deductible._  
+|  _(b)_ _____A person insured under a property insurance policy_  
+| _commits an offense if the person, in connection with a first-party_  
+| _claim under the policy for loss of or damage to real or personal_  
+| _property, knowingly:_  
+|  _(1)_ _____pays for a good or service with proceeds of the_  
+| _claim; and_  
+|  _(2) without the insurer's consent:_  
+|  _(A)_ _____fails to pay a required insurance deductible_  
+| _in connection with the claim; or_  
+|  _(B)_ _____accepts a rebate or credit in connection with_  
+| _the purchase that offsets all or part of the amount paid by the_  
+| _insured as a deductible._  
+|  _(c) An offense under this section is a Class A misdemeanor._  
+|  SECTION 2. Section 27.02, Business & Commerce Code, is  
+| repealed.  
+|  SECTION 3. The repeal by this Act of Section 27.02, Business &  
+|  Commerce Code, applies only to an offense committed on or after  
+| the effective date of this Act. An offense committed before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the offense was committed, and the former law is continued in  
+| effect for that purpose. For purposes of this section, an offense  
+| was committed before the effective date of this Act if any element  
+| of the offense occurred before that date.  
+|  SECTION 4. Section 707.004, Insurance Code, as added by  
+| this Act, applies only to a contract entered into on or after the  
+| effective date of this Act.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

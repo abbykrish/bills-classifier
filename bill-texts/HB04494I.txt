@@ -1,0 +1,138 @@
+| 86R5918 SMH-D  
+---|---  
+|  By: Toth | H.B. No. 4494  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the limitation on increases in the appraised value of a  
+| residence homestead for ad valorem tax purposes.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 23.23, Tax Code, is amended by amending  
+| Subsections (a), (b), and (c) and adding Subsections (a-1), (a-2),  
+| (a-3), (a-4), (a-5), (a-6), (a-7), and (c-1) to read as follows:  
+|  (a) _The_ [ ~~Notwithstanding the requirements of Section 25.18~~  
+|  ~~and regardless of whether the appraisal office has appraised the~~  
+|  ~~property and determined the market value of the property for the tax~~  
+|  ~~year, an appraisal office may increase the~~ ] appraised value of a  
+| residence homestead for a tax year _is equal_ to [ ~~an amount not to~~  
+|  ~~exceed the lesser of:~~  
+|  [ ~~(1)~~ ] the market value of the property for the _first_  
+| [ ~~most recent~~ ] tax year that the _owner qualified the property for an_  
+| _exemption under Section 11.13_ [ ~~market value was determined by the~~  
+|  ~~appraisal office; or~~  
+|  [ ~~(2) the sum of:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~10 percent of the appraised value of the~~  
+|  ~~property for the preceding tax year;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~the appraised value of the property for the~~  
+|  ~~preceding tax year; and~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~the market value of all new improvements to the~~  
+|  ~~property~~ ].  
+|  _(a-1)_ _____Notwithstanding Subsection (a), if the owner of real_  
+| _property qualified the property for an exemption under Section_  
+| _11.13 and the owner acquired the property as a bona fide purchaser_  
+| _for value, the appraised value of the property is equal to the_  
+| _purchase price of the property paid by the owner._  
+|  _(a-2)_ _____If the first tax year the property owner qualified the_  
+| _property for an exemption under Section 11.13 was a tax year before_  
+| _the 2020 tax year, the appraised value of the property as shown on_  
+| _the 2019 appraisal roll is considered to be:_  
+|  _(1)_ _____the market value of the property for the first tax_  
+| _year that the owner qualified the property for an exemption under_  
+| _Section 11.13 for purposes of Subsection (a); and_  
+|  _(2)_ _____the purchase price of the property paid by the_  
+| _owner for purposes of Subsection (a-1)._  
+|  _(a-3)_ _____Subsection (a-1) does not apply to a residence_  
+| _homestead if:_  
+|  _(1) the purchase was made:_  
+|  _(A) pursuant to a court order;_  
+|  _(B) from a trustee in bankruptcy;_  
+|  _(C)_ _____by one co-owner from one or more other_  
+| _co-owners;_  
+|  _(D)_ _____from a spouse or a person or persons within_  
+| _the first or second degree of lineal consanguinity of one or more of_  
+| _the purchasers; or_  
+|  _(E) from a governmental entity; or_  
+|  _(2)_ _____the chief appraiser determines that the applicant_  
+| _was not a bona fide purchaser for value under criteria established_  
+| _by rules adopted by the comptroller for that purpose._  
+|  _(a-4)_ _____To receive a limitation on appraised value under_  
+| _Subsection (a-1), an owner of the property must apply for the_  
+| _limitation. To apply for the limitation, the owner must file an_  
+| _application with the chief appraiser for each appraisal district in_  
+| _which the property subject to the claimed limitation is located._  
+| _The application must be filed not later than the latest date on_  
+| _which the owner may file an application for an exemption under_  
+| _Section 11.13 on the property for the year under Section 11.43. The_  
+| _comptroller by rule shall prescribe the form for the application to_  
+| _ensure that the applicant provides the information necessary to_  
+| _determine the applicant's eligibility for the limitation,_  
+| _including the purchase price of the property paid by the applicant._  
+|  _(a-5)_ _____An application filed with a chief appraiser under_  
+| _Subsection (a-4) is confidential and not open to public inspection._  
+| _The application and the information it contains may not be_  
+| _disclosed to another person other than an employee of the appraisal_  
+| _district who appraises property, except as provided by Subsection_  
+| _(a-6)._  
+|  _(a-6)_ _____Information that is confidential under Subsection_  
+| _(a-5) may be disclosed:_  
+|  _(1)_ _____in a judicial or administrative proceeding under a_  
+| _lawful subpoena;_  
+|  _(2)_ _____to a purchaser, grantee, seller, or grantor named_  
+| _in the application or in the deed to which the application applies_  
+| _or to a representative of the purchaser, grantee, seller, or_  
+| _grantor under a written authorization signed by the purchaser,_  
+| _grantee, seller, or grantor;_  
+|  _(3)_ _____to the comptroller or to an assessor for a taxing_  
+| _unit in which the property described in the application is located;_  
+|  _(4)_ _____in a judicial or administrative proceeding related_  
+| _to real property taxation:_  
+|  _(A)_ _____to which the purchaser, grantee, seller, or_  
+| _grantor is a party;_  
+|  _(B)_ _____to which an owner of the property described_  
+| _in the application is a party; or_  
+|  _(C)_ _____by the appraisal district for the purpose of_  
+| _establishing a value of the property or of providing evidence of_  
+| _comparable sales to appraise another property;_  
+|  _(5)_ _____for statistical purposes if the information is_  
+| _provided in a form that does not identify a specific property or_  
+| _specific purchaser, grantee, seller, or grantor;_  
+|  _(6)_ _____if and to the extent that the information is_  
+| _required to be included in a public document or record that the_  
+| _appraisal office is required to prepare or maintain; or_  
+|  _(7)_ _____to a taxing unit or its legal representative that_  
+| _is engaged in the collection of delinquent taxes on the property_  
+| _described in the application._  
+|  _(a-7)_ _____Information that is disclosed under Subsection (a-6)_  
+| _does not lose its confidential character._  
+|  (b) When appraising a residence homestead, the chief  
+| appraiser shall:  
+|  (1) appraise the property at its market value; and  
+|  (2) include in the appraisal records both the market  
+| value of the property and the amount computed under Subsection _(a)_  
+| _or (a-1), as applicable_ [ ~~(a)(2)~~ ].  
+|  (c) The limitation provided by Subsection (a) _or (a-1)_ takes  
+| effect as to a residence homestead on January 1 of the _first_ tax  
+| year [ ~~following the first tax year~~ ] the owner qualifies the  
+| property for an exemption under Section 11.13. The limitation  
+| expires on January 1 of the first tax year that neither the owner of  
+| the property when the limitation took effect nor the owner's spouse  
+| or surviving spouse qualifies for an exemption under Section 11.13.  
+|  _(c-1)_ _____Notwithstanding Subsection (c), a limitation_  
+| _established under Subsection (a) or (a-1) does not expire if a_  
+| _change in ownership of the property occurs by inheritance or under a_  
+| _will as long as the person who acquires the property qualifies for_  
+| _an exemption under Section 11.13._  
+|  SECTION 2. Sections 23.23(e), (f), and (g), Tax Code, are  
+| repealed.  
+|  SECTION 3. This Act applies only to ad valorem taxes imposed  
+| for a tax year beginning on or after the effective date of this Act.  
+|  SECTION 4. This Act takes effect January 1, 2020, but only  
+| if the constitutional amendment proposed by the 86th Legislature,  
+| Regular Session, 2019, authorizing the legislature to provide that  
+| the appraised value of a residence homestead for ad valorem tax  
+| purposes is the market value of the property for the first year that  
+| the owner qualified the property for a homestead exemption or, if  
+| the owner purchased the property, the purchase price of the  
+| property is approved by the voters. If that amendment is not  
+| approved by the voters, this Act has no effect.
+

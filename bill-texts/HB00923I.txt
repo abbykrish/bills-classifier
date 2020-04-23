@@ -1,0 +1,29 @@
+| 86R5017 SMT-D  
+---|---  
+|  By: Zedler | H.B. No. 923  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to coverage of an alternative treatment after the approval  
+| of a utilization review.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 4201, Insurance Code, is  
+| amended by adding Section 4201.005 to read as follows:  
+|  _Sec._ ___4201.005._ _____COVERAGE OF ALTERNATE HEALTH CARE SERVICES._  
+| _If a health care service is approved by a utilization review, the_  
+| _payor or the payor's administrator may not deny coverage for an_  
+| _alternate health care service if:_  
+|  _(1)_ _____the alternate health care service is approved by_  
+| _the United States Food and Drug Administration to treat the_  
+| _condition for which the utilization review was requested; and_  
+|  _(2)_ _____the cost of the alternate health care service does_  
+| _not exceed the cost of the approved health care service._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a health benefit plan that is delivered, issued for delivery, or  
+| renewed on or after January 1, 2020. A health benefit plan that is  
+| delivered, issued for delivery, or renewed before January 1, 2020,  
+| is governed by the law as it existed immediately before the  
+| effective date of this Act, and that law is continued in effect for  
+| that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

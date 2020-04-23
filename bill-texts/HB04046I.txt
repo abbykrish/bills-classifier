@@ -1,0 +1,67 @@
+| 86R11807 AAF-D  
+---|---  
+|  By: Lozano | H.B. No. 4046  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to providing information and communication regarding and  
+| during a disaster.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 418, Government Code, is  
+| amended by adding Sections 418.054, 418.055, and 418.056 to read as  
+| follows:  
+|  _Sec._ ___418.054._ _____COORDINATING 9-1-1 TEXT MESSAGE CAPABILITY._  
+| _The division, in consultation with the Texas A &M AgriLife Extension _  
+| _Service, shall coordinate state and local government efforts to_  
+| _make 9-1-1 emergency service capable of receiving text messages_  
+| _from a cellular telephone or other wireless communication device._  
+|  _Sec._ ___418.055._ _____DISASTER MOBILE APPLICATION. (a)_ ___The_  
+| _division, in consultation with the Texas A &M Forest Service, shall _  
+| _develop a mobile application for wireless communication devices to_  
+| _communicate critical information during a disaster directly to_  
+| _disaster victims and first responders._  
+|  _(b) The mobile application may provide information on:_  
+|  _(1) road and weather conditions during a disaster; and_  
+|  _(2) disaster response and recovery activities._  
+|  _Sec._ ___418.056._ _____STUDY ON IMPROVING COMMUNICATIONS DURING_  
+| _DISASTERS. (a)_ ___The division, in consultation with the Texas A &M _  
+| _Engineering Extension Service, the Texas A &M AgriLife Extension _  
+| _Service, and other appropriate entities, shall conduct a study on_  
+| _improving communication during a disaster._ ___The study must:_  
+|  _(1)_ _____consider ways to improve and standardize the use_  
+| _of social media as a communication tool during and after a disaster;_  
+|  _(2)_ _____examine the costs and benefits of promoting the_  
+| _use of a standard communication format to create a single_  
+| _comprehensive common operating framework;_  
+|  _(3)_ _____identify any costs that first responders may incur_  
+| _in acquiring equipment complying with a standard communication_  
+| _format;_  
+|  _(4)_ _____examine how private utility providers and the use_  
+| _of the providers' portable satellite communications equipment and_  
+| _portable mobile telephone towers may assist in response and_  
+| _recovery after disasters; and_  
+|  _(5)_ _____examine how the state may use data analytics for_  
+| _more effective and timely analysis of information to improve_  
+| _disaster management._  
+|  _(b)_ _____Not later than August 31, 2020, the division shall_  
+| _submit to the governor, lieutenant governor, and members of the_  
+| _legislature a report on the findings of the study._  
+|  _(c) This section expires December 1, 2020._  
+|  SECTION 2. Subchapter H, Chapter 418, Government Code, is  
+| amended by adding Section 418.193 to read as follows:  
+|  _Sec._ ___418.193._ _____DISASTER WEB PORTAL. The Texas A &M _  
+| _University System, in coordination with the governor and the_  
+| _division, shall develop a comprehensive disaster web portal._ ___The_  
+| _web portal must:_  
+|  _(1)_ _____provide disaster information to the public,_  
+| _including information on programs and services available to_  
+| _disaster victims and funding for and expenditures of disaster_  
+| _assistance programs;_  
+|  _(2)_ _____include information on disaster response and_  
+| _recovery activities; and_  
+|  _(3)_ _____provide information on obtaining assistance from_  
+| _the Federal Emergency Management Agency, state agencies, organized_  
+| _volunteer groups, and any other entities providing disaster_  
+| _assistance._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

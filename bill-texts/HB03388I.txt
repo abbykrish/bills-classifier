@@ -1,0 +1,148 @@
+| 86R13164 KFF-F  
+---|---  
+|  By: Sheffield | H.B. No. 3388  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to delivery of outpatient prescription drug benefits under  
+| certain public benefit programs, including Medicaid and the child  
+| health plan program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. DELIVERY OF OUTPATIENT PRESCRIPTION DRUG BENEFITS USING  
+| FEE-FOR-SERVICE DELIVERY MODEL UNDER CERTAIN PUBLIC BENEFIT  
+| PROGRAMS  
+|  SECTION 1.01. Subchapter B, Chapter 531, Government Code,  
+| is amended by adding Section 531.068 to read as follows:  
+|  _Sec._ ___531.068._ _____DELIVERY OF OUTPATIENT PRESCRIPTION DRUG_  
+| _BENEFITS UNDER CERTAIN PROGRAMS. (a)_ ___In this section, "recipient"_  
+| _means a person receiving benefits under a program described by_  
+| _Subsection (b)._  
+|  _(b)_ _____Notwithstanding any other law, beginning January 1,_  
+| _2020, the commission shall provide outpatient prescription drug_  
+| _benefits through the vendor drug program using a transparent_  
+| _fee-for-service delivery model to persons, including persons_  
+| _enrolled in a managed care program, receiving benefits under:_  
+|  _(1) Medicaid;_  
+|  _(2) the child health plan program;_  
+|  _(3) the kidney health care program; and_  
+|  _(4)_ _____any other benefits program administered by the_  
+| _commission that provides an outpatient prescription drug benefit._  
+|  _(c)_ _____In providing outpatient prescription drug benefits_  
+| _under this section, the commission shall:_  
+|  _(1)_ _____eliminate any obligation to pay fees included in_  
+| _the capitation rate or other amounts paid to managed care_  
+| _organizations that are associated with the provision of outpatient_  
+| _prescription drug benefits, including:_  
+|  _(A) the guaranteed risk margin; and_  
+|  _(B)_ _____the health insurance providers fee imposed_  
+| _under Section 9010 of the federal Patient Protection and Affordable_  
+| _Care Act (Pub. L. No._ ___111-148), as amended by the Health Care and_  
+| _Education Reconciliation Act of 2010 (Pub. L. No._ ___111-152), and the_  
+| _associated effects of that fee on federal income taxes;_  
+|  _(2)_ _____pay claims in accordance with the deadlines_  
+| _imposed by Section 843.339, Insurance Code;_  
+|  _(3)_ _____if the commission contracts with a claims_  
+| _processor for purposes of this section, pay the processor only for_  
+| _reimbursement of any prescribed drug and a contracted_  
+| _administrative fee; and_  
+|  _(4)_ _____in accordance with the findings of the study_  
+| _conducted by the commission in response to Section 60 following the_  
+| _Article II appropriations to the commission in Chapter 605_  
+| _(S.B._ ___1), Acts of the 85th Legislature, Regular Session, 2017 (the_  
+| _General Appropriations Act):_  
+|  _(A)_ _____consistently apply clinical prior_  
+| _authorization requirements statewide and use prior authorizations_  
+| _to control unnecessary utilization;_  
+|  _(B)_ _____ensure the preferred drug list is not_  
+| _disadvantaged;_  
+|  _(C) maintain drug utilization review; and_  
+|  _(D)_ _____coordinate data exchange under existing data_  
+| _warehouse and enterprise data resources._  
+|  _(d)_ _____In providing outpatient prescription drug benefits_  
+| _under this section, the commission may not:_  
+|  _(1)_ _____prohibit, limit, or interfere with a recipient's_  
+| _selection of a pharmacy or pharmacist of the recipient's choice for_  
+| _the provision of pharmaceutical services by imposing different_  
+| _copayments associated with a pharmacy or pharmacist; and_  
+|  _(2)_ _____prevent a pharmacy or pharmacist from_  
+| _participating as a provider if the pharmacy or pharmacist agrees to_  
+| _comply with the financial terms of the program and any contract_  
+| _required under the program._  
+|  _(e)_ _____In providing outpatient prescription drug benefits_  
+| _under this section, the commission may include mail-order_  
+| _pharmacies in the commission's network of pharmacy providers,_  
+| _except the commission may not:_  
+|  _(1)_ _____require recipients to use a mail-order pharmacy;_  
+| _or_  
+|  _(2)_ _____charge a recipient who elects to use a mail-order_  
+| _pharmacy a fee for using the mail order service, including a postage_  
+| _or handling fee._  
+|  _(f)_ _____Notwithstanding any other law, a managed care_  
+| _organization providing health care services under a benefit program_  
+| _described by Subsection (b) may not develop, implement, or_  
+| _maintain an outpatient pharmacy benefit plan for recipients_  
+| _beginning on the 180th day after the date the commission begins_  
+| _providing outpatient prescription drug benefits under this_  
+| _section._  
+|  SECTION 1.02. As soon as practicable after the effective  
+| date of this article, but not later than December 31, 2019, the  
+| Health and Human Services Commission shall amend each contract with  
+| a managed care organization entered into before the effective date  
+| of this article to prohibit the organization from providing  
+| outpatient prescription drug benefits to recipients under a public  
+| benefits program subject to Section 531.068, Government Code, as  
+| added by this Act, beginning on the 180th day after the date the  
+| commission begins providing outpatient prescription drug benefits  
+| in the manner required by that section.  
+| ARTICLE 2. CESSATION OF DELIVERY OF OUTPATIENT PRESCRIPTION DRUG  
+| BENEFITS BY MANAGED CARE ORGANIZATIONS  
+|  SECTION 2.01. Section 533.012(a), Government Code, is  
+| amended to read as follows:  
+|  (a) Each managed care organization contracting with the  
+| commission under this chapter shall submit the following, at no  
+| cost, to the commission and, on request, the office of the attorney  
+| general:  
+|  (1) a description of any financial or other business  
+| relationship between the organization and any subcontractor  
+| providing health care services under the contract;  
+|  (2) a copy of each type of contract between the  
+| organization and a subcontractor relating to the delivery of or  
+| payment for health care services;  
+|  (3) a description of the fraud control program used by  
+| any subcontractor that delivers health care services; and  
+|  (4) a description and breakdown of all funds paid to or  
+| by the managed care organization, including a health maintenance  
+| organization, primary care case management provider, [ ~~pharmacy~~  
+|  ~~benefit manager,~~ ] and exclusive provider organization, necessary  
+| for the commission to determine the actual cost of administering  
+| the managed care plan.  
+|  SECTION 2.02. Section 32.046(a), Human Resources Code, is  
+| amended to read as follows:  
+|  (a) The executive commissioner shall adopt rules governing  
+| sanctions and penalties that apply to a provider [ ~~who participates~~ ]  
+| in the vendor drug program [ ~~or is enrolled as a network pharmacy~~  
+|  ~~provider of a managed care organization contracting with the~~  
+|  ~~commission under Chapter 533, Government Code, or its subcontractor~~  
+|  ~~and~~ ] who submits an improper claim for reimbursement under the  
+| program.  
+|  SECTION 2.03. The following provisions are repealed:  
+|  (1) Sections 531.0697, 533.003(b), and 533.056,  
+| Government Code; and  
+|  (2) Section 32.073(c), Human Resources Code.  
+|  SECTION 2.04. The changes in law made by this article apply  
+| beginning on the 180th day after the date the Health and Human  
+| Services Commission begins providing outpatient prescription drug  
+| benefits in the manner required by Section 531.068, Government  
+| Code, as added by this Act. Until the changes in law made by this  
+| article apply, the law as it existed on the day immediately before  
+| the effective date of this article governs, and the former law is  
+| continued in effect for that purpose.  
+| ARTICLE 3. FEDERAL AUTHORIZATION AND EFFECTIVE DATE  
+|  SECTION 3.01. If before implementing any provision of this  
+| Act a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 3.02. This Act takes effect September 1, 2019.
+

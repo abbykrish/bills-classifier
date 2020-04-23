@@ -1,0 +1,61 @@
+| 86R5791 SOS-D  
+---|---  
+|  By: Minjarez | H.B. No. 904  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring The University of Texas at San Antonio to  
+| conduct a study regarding cyber attacks against financial  
+| institutions in this state.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 71, Education Code, is amended by adding  
+| Section 71.07 to read as follows:  
+|  _Sec._ ___71.07._ _____STUDY AND REPORT REGARDING CYBER ATTACKS_  
+| _AGAINST FINANCIAL INSTITUTIONS. (a) In this section:_  
+|  _(1)_ _____"Breach of system security"_ ___has the meaning_  
+| _assigned by Section 521.053, Business & Commerce Code._  
+|  _(2)_ _____"Financial institution" has the meaning assigned_  
+| _by Section 201.101, Finance Code._  
+|  _(b)_ _____The University of Texas at San Antonio shall conduct a_  
+| _study regarding cyber attacks against financial institutions in_  
+| _this state. The study must include:_  
+|  _(1) an evaluation of:_  
+|  _(A)_ _____the prevalence and impact of and breaches of_  
+| _system security resulting from cyber attacks on financial_  
+| _institutions; and_  
+|  _(B)_ _____the vulnerability of financial institutions_  
+| _to cyber attacks and the security risks cyber attacks present to_  
+| _those institutions;_  
+|  _(2) the identification of:_  
+|  _(A)_ _____any projects necessary to modernize the_  
+| _security systems of financial institutions;_  
+|  _(B)_ _____any recommendations to improve the_  
+| _cybersecurity infrastructure of financial institutions; and_  
+|  _(C)_ _____best practices to prevent or lessen the_  
+| _impact of cyber attacks on financial institutions; and_  
+|  _(3)_ _____an examination of any other aspect of cyber_  
+| _attacks on the operation of financial institutions as considered_  
+| _appropriate by the university._  
+|  _(c)_ _____In conducting the study, the university shall consult_  
+| _with:_  
+|  _(1) the Department of Information Resources;_  
+|  _(2) the Texas Department of Banking;_  
+|  _(3) the Department of Savings and Mortgage Lending;_  
+|  _(4) the Credit Union Department;_  
+|  _(5) community stakeholders; and_  
+|  _(6) other interested parties._  
+|  _(d)_ _____To the extent permitted by state or federal law, a_  
+| _financial institution shall cooperate with and provide, on request,_  
+| _information to The University of Texas at San Antonio to allow the_  
+| _university to perform its duties under this section._  
+|  _(e)_ _____Not later than December 1, 2020, The University of Texas_  
+| _at San Antonio shall submit a written report on the results of the_  
+| _study to the governor, the lieutenant governor, the speaker of the_  
+| _house of representatives, and the presiding officer of each_  
+| _standing committee of the senate and house of representatives_  
+| _having primary jurisdiction over financial services matters and to_  
+| _the Legislative Budget Board._ ___The report must include any_  
+| _recommendations for changes to applicable state statutes or rules._  
+|  _(f) This section expires September 1, 2021._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,37 @@
+| 86R9242 AJZ-F  
+---|---  
+|  By: Geren | H.B. No. 1539  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the punishment for the criminal offense of tampering  
+| with or fabricating physical evidence.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 37.09, Penal Code, is amended by  
+| amending Subsections (c) and (c-1) and adding Subsection (c-2) to  
+| read as follows:  
+|  (c) An offense under Subsection (a) or Subsection (d)(1) is  
+| a felony of the third degree, _except that the offense is:_  
+|  _(1) a felony of the second degree if_ [ ~~unless~~ ] the thing  
+| altered, destroyed, or concealed is a human corpse _; and_  
+|  _(2)_ _____a Class A misdemeanor if the thing altered,_  
+| _destroyed, or concealed could be used as evidence in the_  
+| _investigation only of or an official proceeding related to only an_  
+| _offense punishable as a misdemeanor_ [ ~~, in which case the offense is a~~  
+|  ~~felony of the second degree~~ ].  
+|  _(c-1)_ An offense under Subsection (d)(2) is a Class A  
+| misdemeanor.  
+|  _(c-2)_ [ ~~(c-1)~~ ] It is a defense to prosecution under  
+| Subsection (a) or (d)(1) that the record, document, or thing was  
+| visual material prohibited under Section 43.261 that was destroyed  
+| as described by Subsection _(f)(3)_ [ ~~(f)(3)(B)~~ ] of that section.  
+|  SECTION 2. The change in law made by this Act applies only  
+| to an offense committed on or after the effective date of this Act.  
+| An offense committed before the effective date of this Act is  
+| governed by the law in effect on the date the offense was committed,  
+| and the former law is continued in effect for that purpose. For  
+| purposes of this section, an offense was committed before the  
+| effective date of this Act if any element of the offense occurred  
+| before that date.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

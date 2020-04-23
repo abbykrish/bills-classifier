@@ -1,0 +1,92 @@
+| 86R11124 BRG-F  
+---|---  
+|  By: Davis of Dallas | H.B. No. 3341  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requirements for adding a dwelling unit that has  
+| individual unit metering to an electric service plan; imposing a  
+| civil penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 184, Utilities Code, is  
+| amended by adding Section 184.015 to read as follows:  
+|  _Sec. 184.015. DIRECT METER PROGRAMS. (a) In this section:_  
+|  _(1)_ _____"Dwelling unit" includes a manufactured home in a_  
+| _manufactured home rental community._  
+|  _(2)_ _____"Electric service plan" includes a plan offered_  
+| _by:_  
+|  _(A)_ _____a retail electric provider, as defined by_  
+| _Section 31.002;_  
+|  _(B)_ _____an electric cooperative, as defined by_  
+| _Section 11.003; or_  
+|  _(C)_ _____a municipally owned utility, as defined by_  
+| _Section 11.003._  
+|  _(3)_ _____"Manufactured home rental community" has the_  
+| _meaning assigned by Section 13.501, Water Code._  
+|  _(4)_ _____"Occupant" means a person who owns or rents a_  
+| _dwelling unit._  
+|  _(b)_ _____The owner, operator, or manager of an apartment house,_  
+| _single-family home, or manufactured home rental community that has_  
+| _individual utility metering may add a dwelling unit to the electric_  
+| _service plan that provides electric service to the owner, operator,_  
+| _or manager only with the written consent of:_  
+|  _(1) the owner-occupant; or_  
+|  _(2) all occupants renting the unit._  
+|  _(c)_ _____An owner, operator, or manager of an apartment house,_  
+| _single-family home, or manufactured home rental community who adds_  
+| _a dwelling unit to an electric service plan in accordance with_  
+| _Subsection (b) may:_  
+|  _(1)_ _____maintain the electric meter for the unit in the_  
+| _name of the owner, operator, or manager; and_  
+|  _(2)_ _____charge the occupants of the unit for the cost of_  
+| _the electric service provided to the unit and a reasonable_  
+| _administrative fee._  
+|  _(d)_ _____An owner, operator, or manager of an apartment house,_  
+| _single-family home, or manufactured home rental community may_  
+| _maintain a water or gas meter in the name of the owner, operator, or_  
+| _manager, and charge occupants of a dwelling unit for the cost of the_  
+| _water or gas utility service provided to the unit and a reasonable_  
+| _administrative fee._  
+|  _(e)_ _____An action taken by an owner, operator, or manager of an_  
+| _apartment home, single-family home, or manufactured home rental_  
+| _community under Subsection (b) or (c) does not constitute the_  
+| _provision of electric service for compensation._  
+|  _(f)_ _____The commission shall adopt rules as necessary to_  
+| _implement this section and to ensure that:_  
+|  _(1)_ _____an occupant of a dwelling unit has sufficient_  
+| _information to provide informed, written consent to add a dwelling_  
+| _unit to an electric service plan in accordance with Subsection (b);_  
+|  _(2)_ _____an owner, operator, or manager of an apartment_  
+| _home, single-family home, or manufactured home rental community_  
+| _fairly allocates the cost of electric, gas, and water utility_  
+| _services between occupants in a dwelling unit when multiple_  
+| _occupants are billed separately; and_  
+|  _(3)_ _____an owner, operator, or manager of an apartment_  
+| _home, single-family home, or manufactured home rental community_  
+| _maintains adequate records for each dwelling unit, including_  
+| _monthly consumption billing and payment records, and either:_  
+|  _(A)_ _____makes the records available for inspection by_  
+| _occupants of the unit during normal business hours; or_  
+|  _(B)_ _____if a third party maintains the records,_  
+| _provides a clear description of the third party and the third_  
+| _party's contact information in each billing statement sent to_  
+| _occupants._  
+|  SECTION 2. Section 184.071, Utilities Code, is amended to  
+| read as follows:  
+|  Sec. 184.071. LIABILITY. (a) A landlord _or manager_ who  
+| violates a commission rule relating to submetering of electric  
+| utilities consumed exclusively in a tenant's dwelling unit _,_ [ ~~or~~ ] a  
+| rule relating to the allocation of central system utility costs or  
+| nonsubmetered master metered electric utility costs _, or a rule_  
+| _adopted under Section 184.015_ is liable to the tenant _or an occupant_  
+| for:  
+|  (1) three times the amount of any overcharge;  
+|  (2) a civil penalty equal to one month's rent;  
+|  (3) reasonable attorney's fees; and  
+|  (4) court costs.  
+|  (b) A landlord _or manager_ is not liable for the civil  
+| penalty provided by Subsection (a)(2) if the landlord _or manager_  
+| proves that the [ ~~landlord's~~ ] violation of the rule was an  
+| unintentional mistake made in good faith.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,32 @@
+| 86R10799 SRS-D  
+---|---  
+|  By: Lozano | H.B. No. 4207  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the jurisdiction of a statutory county court in civil  
+| cases.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 25.0003(c), Government Code, is amended  
+| to read as follows:  
+|  (c) In addition to other jurisdiction provided by law, a  
+| statutory county court exercising civil jurisdiction concurrent  
+| with the constitutional jurisdiction of the county court has  
+| concurrent jurisdiction with the district court in:  
+|  (1) civil cases in which the matter in controversy  
+| exceeds $500 but does not exceed _$250,000_ [ ~~$200,000~~ ], excluding  
+| interest, statutory or punitive damages and penalties, and  
+| attorney's fees and costs, as alleged on the face of the petition;  
+| and  
+|  (2) appeals of final rulings and decisions of the  
+| division of workers' compensation of the Texas Department of  
+| Insurance regarding workers' compensation claims, regardless of  
+| the amount in controversy.  
+|  SECTION 2. Section 25.0003(c), Government Code, as amended  
+| by this Act, applies only to a cause of action filed on or after the  
+| effective date of this Act. A cause of action filed before the  
+| effective date of this Act is governed by the law in effect  
+| immediately before that date, and that law is continued in effect  
+| for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

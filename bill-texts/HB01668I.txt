@@ -1,0 +1,131 @@
+| 86R2706 SOS-D  
+---|---  
+|  By: Allison | H.B. No. 1668  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the licensing and regulation of pharmacists and  
+| pharmacies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 481.075(i), Health and Safety Code, is  
+| amended to read as follows:  
+|  (i) Each dispensing pharmacist shall:  
+|  (1) fill in on the official prescription form or note  
+| in the electronic prescription record each item of information  
+| given orally to the dispensing pharmacy under Subsection (h) and  
+| the date the prescription is filled, and:  
+|  (A) for a written prescription, fill in the  
+| dispensing pharmacist's signature; or  
+|  (B) for an electronic prescription,  
+| appropriately record the identity of the dispensing pharmacist in  
+| the electronic prescription record;  
+|  (2) retain with the records of the pharmacy for at  
+| least two years:  
+|  (A) the official prescription form or the  
+| electronic prescription record, as applicable; and  
+|  (B) the name or other patient identification  
+| required by Section 481.074(m) or (n); [ ~~and~~ ]  
+|  (3) send all required information, including any  
+| information required to complete an official prescription form or  
+| electronic prescription record, to the board by electronic transfer  
+| or another form approved by the board not later than the next  
+| business day after the date the prescription is completely filled _;_  
+| _and_  
+|  _(4)_ _____if the pharmacy does not dispense any controlled_  
+| _substance prescriptions during a period of seven consecutive days,_  
+| _send a report to the board indicating that the pharmacy did not_  
+| _dispense any controlled substance prescriptions during that_  
+| _period, unless the pharmacy has obtained a waiver or permission to_  
+| _delay reporting to the board_.  
+|  SECTION 2. Sections 481.076(a) and (k), Health and Safety  
+| Code, are amended to read as follows:  
+|  (a) The board may not permit any person to have access to  
+| information submitted to the board under Section 481.074(q) or  
+| 481.075 except:  
+|  (1) the board, the Texas Medical Board, the Texas  
+| _Department of Licensing and Regulation, with respect to the_  
+| _regulation of podiatrists_ [ ~~State Board of Podiatric Medical~~  
+|  ~~Examiners~~ ], the State Board of Dental Examiners, the State Board of  
+| Veterinary Medical Examiners, the Texas Board of Nursing, or the  
+| Texas Optometry Board for the purpose of:  
+|  (A) investigating a specific license holder; or  
+|  (B) monitoring for potentially harmful  
+| prescribing or dispensing patterns or practices under Section  
+| 481.0762;  
+|  (2) an authorized officer or member of the department  
+| or authorized employee of the board engaged in the administration,  
+| investigation, or enforcement of this chapter or another law  
+| governing illicit drugs in this state or another state;  
+|  (3) the department on behalf of a law enforcement or  
+| prosecutorial official engaged in the administration,  
+| investigation, or enforcement of this chapter or another law  
+| governing illicit drugs in this state or another state;  
+|  (4) a medical examiner conducting an investigation;  
+|  (5) provided that accessing the information is  
+| authorized under the Health Insurance Portability and  
+| Accountability Act of 1996 (Pub. L. No. 104-191) and regulations  
+| adopted under that Act:  
+|  (A) a pharmacist or a _pharmacist-intern,_  
+| pharmacy technician _, or pharmacy technician trainee_ , as defined by  
+| Section 551.003, Occupations Code, acting at the direction of a  
+| pharmacist _, who is inquiring about a recent Schedule II, III, IV, or_  
+| _V prescription history of a particular patient of the pharmacist_ ;  
+| or  
+|  (B) a practitioner who:  
+|  (i) is a physician, dentist, veterinarian,  
+| podiatrist, optometrist, or advanced practice nurse or is a  
+| physician assistant described by Section 481.002(39)(D) or an  
+| employee or other agent of a practitioner acting at the direction of  
+| a practitioner; and  
+|  (ii) is inquiring about a recent Schedule  
+| II, III, IV, or V prescription history of a particular patient of  
+| the practitioner;  
+|  (6) a pharmacist or practitioner who is inquiring  
+| about the person's own dispensing or prescribing activity _or a_  
+| _practitioner who is inquiring about the prescribing activity of an_  
+| _individual to whom the practitioner has delegated prescribing_  
+| _authority_ ; or  
+|  (7) one or more states or an association of states with  
+| which the board has an interoperability agreement, as provided by  
+| Subsection (j).  
+|  (k) A person authorized to access information under  
+| Subsection (a)(4) _or (5)_ who is registered with the board for  
+| electronic access to the information is entitled to directly access  
+| the information available from other states pursuant to an  
+| interoperability agreement described by Subsection (j).  
+|  SECTION 3. Section 481.0766(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) A wholesale distributor shall report to the board the  
+| _distribution of all Schedules II, III, IV, and V controlled_  
+| _substances_ [ ~~information that the distributor is required to report~~  
+|  ~~to the Automation of Reports and Consolidated Orders System (ARCOS)~~  
+|  ~~of the Federal Drug Enforcement Administration for the distribution~~  
+|  ~~of a controlled substance~~ ] by the distributor to a person in this  
+| state. The distributor shall report the information to the board in  
+| the same format and with the same frequency as the information is  
+| reported to _the Federal Drug Enforcement Administration_ [ ~~ARCOS~~ ].  
+|  SECTION 4. Section 481.353(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) The work group shall meet _when necessary as determined_  
+| _by the board_ [ ~~at least quarterly~~ ].  
+|  SECTION 5. Section 560.051(f), Occupations Code, is amended  
+| to read as follows:  
+|  (f) A Class E pharmacy license or nonresident pharmacy  
+| license may be issued to a pharmacy located in another state whose  
+| primary business is to:  
+|  _(1)_ [ ~~(A)~~ ] dispense a prescription drug or device under  
+| a prescription drug order[ ~~;~~ ] and  
+|  [ ~~(B)~~ ] deliver the drug or device to a patient,  
+| including a patient in this state, by United States mail, common  
+| carrier, or delivery service _;_  
+|  _(2)_ _____process a prescription drug order for a patient,_  
+| _including a patient in this state; or_  
+|  _(3)_ _____perform another pharmaceutical service, as_  
+| _defined by board rule_.  
+|  SECTION 6. The following provisions of the Occupations Code  
+| are repealed:  
+|  (1) Sections 554.016, 556.0555, 560.001(c), 560.0525,  
+| 561.003(f), 562.101(f-1), and 562.111; and  
+|  (2) Subchapter E, Chapter 562.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

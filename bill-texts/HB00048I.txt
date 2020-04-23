@@ -1,0 +1,85 @@
+| 86R928 JSC-D  
+---|---  
+|  By: Gonzalez of El Paso | H.B. No. 48  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a database of employers penalized for failure to pay  
+| wages or convicted of certain offenses involving wage theft.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter D, Chapter 301, Labor Code, is  
+| amended by adding Section 301.0705 to read as follows:  
+|  _Sec._ ___301.0705._ _____DATABASE REGARDING WAGE THEFT. (a) In this_  
+| _section:_  
+|  _(1)_ _____"Attorney representing the state"_ ___means a district_  
+| _attorney, criminal district attorney, or county attorney_  
+| _performing the duties of a district attorney._  
+|  _(2)_ _____"Employee" and "employer" have the meanings_  
+| _assigned by Section 61.001._  
+|  _(b)_ _____The commission shall make available on its Internet_  
+| _website a publicly accessible list of all employers in this state_  
+| _that have been:_  
+|  _(1)_ _____assessed an administrative penalty under Section_  
+| _61.053;_  
+|  _(2)_ _____ordered to pay wages by a final order of the_  
+| _commission and have failed to comply with Section 61.063; or_  
+|  _(3) convicted of an offense under:_  
+|  _(A) Section 61.019; or_  
+|  _(B)_ _____Section 31.04, Penal Code, if the offense_  
+| _involved the theft of a service that was rendered by an employee of_  
+| _the employer._  
+|  _(c)_ _____For an employer that is a business entity, the database_  
+| _must include the name under which the entity operates and the name_  
+| _of each individual who is an owner of the entity and actively_  
+| _involved in the management of the entity._  
+|  _(d)_ _____The commission must provide notice to an employer not_  
+| _later than the 180th day before the date the employer is listed in_  
+| _the database._  
+|  _(e)_ _____The commission by rule shall establish a process by_  
+| _which an employer may, at any time after receiving notice under_  
+| _Subsection (d), dispute the employer's inclusion in the database._  
+| _The process must require the commission to investigate and make a_  
+| _final determination regarding an employer dispute under this_  
+| _subsection not later than the 21st day after the date the dispute is_  
+| _filed._  
+|  _(f)_ _____The commission shall list an employer in the database_  
+| _until the third anniversary of the date the penalty is assessed or_  
+| _the employer is convicted._  
+|  _(g)_ _____An attorney representing the state shall report to the_  
+| _commission the name of each employer that is prosecuted and_  
+| _convicted in the attorney's jurisdiction of an offense described by_  
+| _Subsection (b)(3)._  
+|  _(h)_ _____For purposes of this section, a person has been_  
+| _convicted of an offense if the person was adjudged guilty of the_  
+| _offense or entered a plea of guilty or nolo contendere in return for_  
+| _a grant of deferred adjudication community supervision, regardless_  
+| _of whether the sentence for the offense was ever imposed or whether_  
+| _the sentence was probated and the person was subsequently_  
+| _discharged from community supervision._  
+|  _(i)_ _____This section does not impose any additional requirement_  
+| _on a contractor performing work under a contract that is subject to:_  
+|  _(1) Chapter 2258, Government Code; or_  
+|  _(2)_ _____the Davis-Bacon Act (40 U.S.C. Section 3141 et_  
+| _seq.) or another federal law that makes the Davis-Bacon Act_  
+| _applicable to the contract._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to an employer:  
+|  (1) for whom an administrative penalty is assessed on  
+| or after the effective date of this Act, regardless of whether the  
+| conduct giving rise to the penalty occurred before, on, or after  
+| that date;  
+|  (2) who is subject to a final order of the Texas  
+| Workforce Commission entered on or after the effective date of this  
+| Act, regardless of whether the conduct giving rise to the order  
+| occurred before, on, or after that date; or  
+|  (3) for whom a judgment of conviction is entered, or  
+| who is placed on deferred adjudication community supervision, on or  
+| after the effective date of this Act, regardless of whether the  
+| offense for which the employer was convicted, or for which the  
+| employer was placed on deferred adjudication community  
+| supervision, was committed before, on, or after that date.  
+|  SECTION 3. Not later than December 1, 2019, the Texas  
+| Workforce Commission shall establish the database required by  
+| Section 301.0705, Labor Code, as added by this Act.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

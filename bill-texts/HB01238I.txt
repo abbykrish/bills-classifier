@@ -1,0 +1,60 @@
+| 86R4753 SRS-D  
+---|---  
+|  By: Bucy | H.B. No. 1238  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the secretary of state posting on the secretary of  
+| state's Internet website a database containing information about  
+| each holder of and candidate for all elected offices in the state.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 31, Election Code, is  
+| amended by adding Section 31.015 to read as follows:  
+|  _Sec._ ___31.015._ _____INTERNET DATABASE FOR INCUMBENTS AND_  
+| _CANDIDATES. (a) The secretary of state shall post on the secretary_  
+| _of state's Internet website a database containing information about_  
+| _each holder of and candidate for any elected office in this state._  
+|  _(b)_ _____The database must include the following information_  
+| _about a holder of an elected office:_  
+|  _(1) name;_  
+|  _(2)_ _____office title, including any district, place, or_  
+| _position;_  
+|  _(3) if the office is elected at large or by district;_  
+|  _(4)_ _____date of the previous and next election for the_  
+| _office;_  
+|  _(5) public mailing address;_  
+|  _(6) public telephone number, if available; and_  
+|  _(7) public e-mail address, if available._  
+|  _(c)_ _____The database must include the following information_  
+| _about a candidate for an elected office:_  
+|  _(1) name;_  
+|  _(2)_ _____office sought, including any district, place, or_  
+| _position;_  
+|  _(3) if the office is elected at large or by district;_  
+|  _(4) date of the election;_  
+|  _(5) public mailing address;_  
+|  _(6) public telephone number, if available;_  
+|  _(7) public e-mail address, if available; _  
+|  _(8) name of the incumbent; and_  
+|  _(9)_ _____if the candidate has filed as a write-in_  
+| _candidate._  
+|  _(d)_ _____The authority with whom a declaration of candidacy is_  
+| _filed, a state chair of a political party, or the presiding officer_  
+| _of a political party's convention shall provide information about a_  
+| _candidate or officeholder to the secretary of state._  
+|  _(e)_ _____The secretary of state may prescribe any procedures_  
+| _necessary to implement this section._  
+|  SECTION 2. Section 52.003, Election Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____A candidate's name may not be printed on the ballot_  
+| _until the candidate's name appears on the secretary of state's_  
+| _Internet website as a candidate for elected office under Section_  
+| _31.015._  
+|  SECTION 3. Section 141.032, Election Code, is amended by  
+| adding Subsection (h) to read as follows:  
+|  _(h)_ _____The authority with whom the application is filed shall_  
+| _provide the secretary of state with the candidate's information_  
+| _required for the secretary of state's Internet website under_  
+| _Section 31.015._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

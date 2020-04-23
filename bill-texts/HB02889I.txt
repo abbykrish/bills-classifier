@@ -1,0 +1,129 @@
+|  
+---|---  
+|  By: Meza | H.B. No. 2889  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+|  
+| relating to amending the Texas Rules of Evidence to provide  
+| protections for victims of sexual assault.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The Texas Rules of Evidence Article IV is amended  
+| to read as follows:  
+|  Rule 412. Evidence of Previous Sexual Conduct in Criminal  
+| Cases  
+|  (a) ~~In General.~~ _Prohibited Uses._ The following evidence is  
+| not admissible in a ~~prosecution for sexual assault, aggravated~~  
+|  ~~sexual assault, or attempt to commit sexual assault or aggravated~~  
+|  ~~sexual assault:~~ _civil or criminal proceeding involving alleged_  
+| _sexual misconduct:_  
+|  (1) ~~reputation or opinion evidence of a victim's past~~  
+| _evidence offered to prove that a victim engaged in other_ sexual  
+| behavior; or  
+|  (2) ~~specific instances of~~ _evidence offered to prove_ a  
+| victim's ~~past~~ sexual ~~behavior~~ _predisposition_.  
+|  (b) Exceptions ~~for Specific Instances. Evidence of~~  
+|  ~~specific instances of a victim's past sexual behavior is admissible~~  
+|  ~~if:~~  
+|  (1) ~~the court admits the evidence in accordance with~~  
+|  ~~subdivisions (c) and (d); (1)~~ _Criminal Cases. The court may admit_  
+| _the following evidence in a criminal case:_  
+|  (A) _evidence of specific instances of a victim's_  
+| _sexual behavior, if offered to prove that someone other than the_  
+| _defendant was the source of semen, injury, or other physical_  
+| _evidence;_  
+|  (B _)_ _____evidence of specific instances of a victim's_  
+| _sexual behavior with respect to the person accused of the sexual_  
+| _misconduct, if offered by the defendant to prove consent or if_  
+| _offered by the prosecutor; and_  
+|  (C) _evidence whose exclusion would violate the_  
+| _defendant's constitutional rights._  
+|  (2) ~~the evidence:~~ _Civil Cases. In a civil case, the_  
+| _court may admit evidence offered to prove a victim's sexual_  
+| _behavior or sexual predisposition if its probative value_  
+| _substantially outweighs the danger of harm to any victim and of_  
+| _unfair prejudice to any party. The court may admit evidence of a_  
+| _victim's reputation only if the victim has placed it in_  
+| _controversy._  
+|  ~~(A)~~ ~~~~ ~~~~ ~~is necessary to rebut or explain scientific~~  
+|  ~~or medical evidence offered by the prosecutor;~~  
+|  ~~(B)~~ ~~~~ ~~~~ ~~concerns past sexual behavior with the~~  
+|  ~~defendant and is offered by the defendant to prove consent;~~  
+|  ~~(C) relates to the victim's motive or bias;~~  
+|  ~~(D) is admissible under Rule 609; or~~  
+|  ~~(E)~~ ~~~~ ~~~~ ~~is constitutionally required to be admitted;~~  
+|  ~~and~~  
+|  ~~(3)~~ ~~~~ ~~~~ ~~the probative value of the evidence outweighs the~~  
+|  ~~danger of unfair prejudice.~~  
+|  (c) Procedure ~~for Offering Evidence. Before offering any~~  
+|  ~~evidence of the victim's past sexual behavior, the defendant must~~  
+|  ~~inform the court outside the jury's presence. The court must then~~  
+|  ~~conduct an in camera hearing, recorded by a court reporter, and~~  
+|  ~~determine whether the proposed evidence is admissible. The~~  
+|  ~~defendant may not refer to any evidence ruled inadmissible without~~  
+|  ~~first requesting and gaining the court's approval outside the~~  
+|  ~~jury's presence.~~ _To Determine Admissibility_  
+|  _(1)_ _____Motion. If a party intends to offer evidence under_  
+| _Rule 412(b), the party must:_  
+|  _(A)_ _____file a motion that specifically describes the_  
+| _evidence and states the purpose for which it is to be offered;_  
+|  _(B)_ _____do so at least 14 days before trial unless the_  
+| _court, for good cause, sets a different time;_  
+|  _(C) serve the motion on all parties; and_  
+|  _(D)_ _____notify the victim or, when appropriate, the_  
+| _victim's guardian or representative._  
+|  _(2)_ _____Hearing. Before admitting evidence under this_  
+| _rule, the court must conduct an in camera hearing and give the_  
+| _victim and parties a right to attend and be heard. Unless the court_  
+| _orders otherwise, the motion, related materials, and the record of_  
+| _the hearing must be and remain sealed._  
+|  (d) ~~Record Sealed. The court must preserve the record of~~  
+|  ~~the in camera hearing, under seal, as part of the record.~~  
+|  ~~(e)~~ _(d)_ Definition of "Victim." In this rule, "victim"  
+| includes an alleged victim.  
+|  SECTION 2. The Texas Rules of Evidence Article IV is amended  
+| to add:  
+|  Rule 413. Similar Crimes in Sexual-Assault Cases  
+|  (a) Permitted Uses. In a criminal case in which a defendant  
+| is accused of a sexual assault, the court may admit evidence that  
+| the defendant committed any other sexual assault. The evidence may  
+| be considered on any matter to which it is relevant.  
+|  (b) Disclosure to the Defendant. If the prosecutor intends  
+| to offer this evidence, the prosecutor must disclose it to the  
+| defendant, including witnesses' statements or a summary of the  
+| expected testimony. The prosecutor must do so at least 15 days  
+| before trial or at a later time that the court allows for good  
+| cause.  
+|  (c) Effect on Other Rules. This rule does not limit the  
+| admission or consideration of evidence under any other rule.  
+|  (d) Definition of "Sexual Assault." In this rule and Rule  
+| 414, "sexual assault" means a crime under Texas law involving:  
+|  (1) any conduct prohibited by section 22.011 of the  
+| Texas Penal Code;  
+|  (2) contact, without consent, between any part of the  
+| defendant's body - or an object - and another person's genitals or  
+| anus;  
+|  (3) contact, without consent, between the defendant's  
+| genitals or anus and any part of another person's body;  
+|  (4) deriving sexual pleasure or gratification from  
+| inflicting death, bodily injury, or physical pain on another  
+| person; or  
+|  (5) an attempt or conspiracy to engage in conduct  
+| described in subparagraphs (1)-(4).  
+|  SECTION 3. The Texas Rules of Evidence Article IV is amended  
+| to add:  
+|  Rule 414 Civil Cases Involving Sexual Assault  
+|  (a) Permitted Uses. In a civil case involving a claim for  
+| relief based on a party's alleged sexual assault, the court may  
+| admit evidence that the party committed any other sexual assault.  
+| The evidence may be considered as provided in Rules 413.  
+|  (b) Disclosure to the Opponent. If a party intends to offer  
+| this evidence, the party must disclose it to the party against whom  
+| it will be offered, including witnesses' statements or a summary of  
+| the expected testimony. The party must do so at least 15 days  
+| before trial or at a later time that the court allows for good  
+| cause.  
+|  (c) Effect on Other Rules. This rule does not limit the  
+| admission or consideration of evidence under any other rule.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,25 @@
+| 86R12829 ATP-D  
+---|---  
+|  By: Swanson | H.B. No. 4129  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the omission from the ballot of a withdrawing  
+| candidate.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 145.098, Election Code, is amended to  
+| read as follows:  
+|  Sec. 145.098. WITHDRAWAL OF CANDIDATE BEFORE _CERTAIN EVENTS_  
+| _OCCUR_ [ ~~BALLOTS ARE PREPARED~~ ]. If a candidate files a withdrawal  
+| request after the deadline prescribed by Section 145.092, and the  
+| candidate complies with each requirement under Section 145.001  
+| except that the candidate's filing to withdraw is untimely, the  
+| authority responsible for preparing the ballots may choose to omit  
+| the candidate from the ballot if [ ~~the ballots have not been~~  
+|  ~~prepared~~ ] at the time the candidate files the withdrawal request _:_  
+|  _(1) the ballots have not been prepared; and_  
+|  _(2)_ _____if using a voting system to which Chapter 129_  
+| _applies, public notice of the test of logic and accuracy has not_  
+| _been published_.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

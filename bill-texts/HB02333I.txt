@@ -1,0 +1,222 @@
+| 86R6969 LED-F  
+---|---  
+|  By: Paddie | H.B. No. 2333  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Texas ambulance response safety net program;  
+| imposing a mandatory payment; authorizing an administrative  
+| penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 773.003, Health and Safety Code, is  
+| amended by adding Subdivision (5) to read as follows:  
+|  _(5)_ _____"Commission"_ ___means the Health and Human Services_  
+| _Commission._  
+|  SECTION 2. Chapter 773, Health and Safety Code, is amended  
+| by adding Subchapter J to read as follows:  
+| _SUBCHAPTER J. TEXAS AMBULANCE RESPONSE SAFETY NET PROGRAM_  
+|  _Sec._ ___773.301._ _____PURPOSE. The purpose of this subchapter is to_  
+| _authorize the commission to establish and administer the Texas_  
+| _ambulance response safety net program as a self-funded ground_  
+| _transport emergency medical services provider participation_  
+| _program for ground transport emergency medical services providers_  
+| _in accordance with this subchapter._  
+|  _Sec. 773.302. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Average commercial rate" means the average amount_  
+| _payable by commercial payors for the same services._ ___The rate is_  
+| _calculated by:_  
+|  _(A)_ _____aligning the paid Medicaid claims with the_  
+| _Medicare fees for each Healthcare Common Procedure Coding System_  
+| _code or Current Procedural Terminology code for a ground transport_  
+| _emergency medical services provider;_  
+|  _(B)_ _____calculating the Medicare payment for the_  
+| _claims described in Paragraph (A);_  
+|  _(C)_ _____calculating a commercial-to-Medicare_  
+| _conversion factor for each ground transport emergency medical_  
+| _services provider by dividing the total amount of the average_  
+| _commercial payments for the claims by the total Medicare payments_  
+| _for the claims; and_  
+|  _(D)_ _____recalculating at least once every three years_  
+| _the commercial-to-Medicare ratio for ground transport emergency_  
+| _medical services providers._  
+|  _(2)_ _____"Net patient revenue" means a ground transport_  
+| _emergency medical services provider's estimated net realizable_  
+| _revenue from patients, third-party payors, and other entities for_  
+| _ground transport emergency medical services rendered, including_  
+| _estimated retroactive adjustments required by reimbursement_  
+| _agreements with third-party payors._ ___The term does not include:_  
+|  _(A)_ _____the amounts the provider reduces for payors_  
+| _who have a fee schedule established by federal or state statute or a_  
+| _contractual agreement;_  
+|  _(B)_ _____Medicaid payments received by the provider,_  
+| _including any payments for individuals who are dually eligible for_  
+| _Medicaid and Medicare;_  
+|  _(C)_ _____amounts the provider reduces to zero as an_  
+| _uncollectible payment from any payor that are not contractual_  
+| _allowances, provided that the provider attempted to collect the_  
+| _payment; or_  
+|  _(D)_ _____amounts related to ground transport_  
+| _emergency medical services that are waived or forgiven by a paying_  
+| _entity due to the financial hardship of the patient, provided that_  
+| _the waiver or forgiveness is implemented in accordance with a_  
+| _written policy of the entity that is consistent with national_  
+| _standards adopted by the Healthcare Financial Management_  
+| _Association or a similar organization._  
+|  _Sec._ ___773.303._ _____APPLICABILITY. (a)_ ___This subchapter applies_  
+| _only to a ground transport emergency medical services provider that_  
+| _is:_  
+|  _(1)_ _____licensed as an emergency medical services provider_  
+| _under this chapter;_  
+|  _(2)_ _____a private, nonfederal provider of ground transport_  
+| _emergency medical services; and_  
+|  _(3) a participant in the state Medicaid program._  
+|  _(b) This subchapter does not apply to an entity that:_  
+|  _(1)_ _____provides only nonemergency ground transport_  
+| _ambulance services; or_  
+|  _(2)_ _____is required to hold a license under Section_  
+| _773.045(b)._  
+|  _Sec._ ___773.304._ _____MANDATORY PAYMENTS BASED ON NET PATIENT_  
+| _REVENUE. (a)_ ___Except as otherwise provided by this subchapter, the_  
+| _commission shall require an annual mandatory payment to be assessed_  
+| _on each ground transport emergency medical services provider's net_  
+| _patient revenue related to the provision of ground transport_  
+| _emergency medical services._ ___The mandatory payment is to be_  
+| _collected quarterly._ ___The commission shall update the amount of the_  
+| _mandatory payment at least annually._  
+|  _(b)_ _____The commission shall uniformly and consistently impose_  
+| _the mandatory payment on each ground transport emergency medical_  
+| _services provider and use the same formula for each provider in_  
+| _calculating the mandatory payment._  
+|  _(c)_ _____The total amount of all mandatory payments for the state_  
+| _fiscal year in which the mandatory payments are imposed may not_  
+| _exceed:_  
+|  _(1)_ _____the state portion, excluding any federal financial_  
+| _participation, of the cost of reimbursement enhancements provided_  
+| _in this subchapter that are directly attributable to reimbursements_  
+| _to ground transport emergency medical services providers; or_  
+|  _(2)_ _____an amount equal to six percent of the net operating_  
+| _revenue of all ground transport emergency medical services_  
+| _providers for the provision of emergency ground transport ambulance_  
+| _services, or a greater amount as permitted by federal law, provided_  
+| _that the maximum mandatory payment for a provider in any year may_  
+| _not exceed the provider's net patient revenue, as reported by the_  
+| _provider, subject to Section 773.306(b)._  
+|  _(d)_ _____Subject to the maximum amount prescribed by Subsection_  
+| _(c), the commission shall set the mandatory payment in an amount_  
+| _that in the aggregate generates sufficient revenue to cover the_  
+| _administrative expenses of the commission for activities under this_  
+| _subchapter._  
+|  _(e)_ _____Not later than the 30th day before the end of each_  
+| _quarter, the commission shall issue to each ground transport_  
+| _emergency medical services provider a notice of the amount of the_  
+| _mandatory payment required to be paid by the provider in the next_  
+| _quarter._  
+|  _(f)_ _____A ground transport emergency medical services provider_  
+| _may not add a mandatory payment required under this subchapter as a_  
+| _surcharge to a patient or a third-party payor._  
+|  _(g)_ _____A ground transport emergency medical services provider_  
+| _shall make mandatory payments only in the manner provided by this_  
+| _subchapter._  
+|  _Sec._ ___773.305._ _____ASSESSMENT AND COLLECTION OF MANDATORY_  
+| _PAYMENTS. (a) Subject to Subsection (b), the commission shall_  
+| _collect a mandatory payment required under this subchapter._  
+|  _(b)_ _____The commission may contract for the assessment and_  
+| _collection of mandatory payments under this subchapter._  
+|  _Sec._ ___773.306._ _____REPORT; INSPECTION OF RECORDS. (a) The_  
+| _commission shall require a ground transport emergency medical_  
+| _services provider to submit a report at least annually, but not more_  
+| _than quarterly, that includes information necessary to assist the_  
+| _commission in making a determination on mandatory payments under_  
+| _this subchapter._  
+|  _(b)_ _____The executive commissioner may audit or inspect the_  
+| _records of a ground transport emergency medical services provider_  
+| _to the extent necessary to ensure the accuracy of any data submitted_  
+| _to the commission under this subchapter._  
+|  _Sec._ ___773.307._ _____FAILURE TO SUBMIT TIMELY OR ACCURATE REPORT_  
+| _OR PAYMENT; AUDIT; ADMINISTRATIVE PENALTY. (a) The commission may_  
+| _assess a reasonable penalty against a ground transport emergency_  
+| _medical services provider, not to exceed 15 percent of the_  
+| _quarterly portion of the provider's mandatory payment, for failure_  
+| _to timely submit the quarterly portion of a mandatory payment or a_  
+| _report required under this subchapter._  
+|  _(b)_ _____If a ground transport emergency medical services_  
+| _provider submits an inaccurate report required under this_  
+| _subchapter, the commission may conduct an audit of the provider's_  
+| _records and may require the provider to pay the cost of any audit_  
+| _expenses and related hearings._  
+|  _(c)_ _____A penalty assessed under this section is in addition to_  
+| _any other penalties and remedies applicable under state or federal_  
+| _law._  
+|  _(d)_ _____If a ground transport emergency medical services_  
+| _provider refuses to submit a quarterly portion of a mandatory_  
+| _payment, the commission may suspend all Medicaid payments to the_  
+| _provider until:_  
+|  _(1)_ _____the provider submits the quarterly portion of the_  
+| _mandatory payment and any associated penalties; or_  
+|  _(2)_ _____the provider and the commission reach a negotiated_  
+| _settlement._  
+|  _Sec._ ___773.308._ _____TEXAS AMBULANCE RESPONSE SAFETY NET TRUST_  
+| _FUND. (a) The Texas ambulance response safety net trust fund is_  
+| _established as a trust fund to be held by the comptroller outside_  
+| _the state treasury and administered by the commission as trustee._  
+|  _(b) The trust fund consists of:_  
+|  _(1)_ _____all revenue from the mandatory payments required_  
+| _by this subchapter, including any administrative penalties and any_  
+| _interest attributable to delinquent payments; and_  
+|  _(2) the earnings of the fund._  
+|  _(c) Money deposited to the trust fund may be used only to:_  
+|  _(1)_ _____provide reimbursements for ground transport_  
+| _emergency medical services delivered to Medicaid recipients based_  
+| _on the provider's average commercial rate, including reimbursement_  
+| _enhancements to the statewide dollar amount rate used to reimburse_  
+| _ground transport emergency medical services providers;_  
+|  _(2)_ _____pay the administrative expenses of the commission_  
+| _solely for activities under this subchapter; and_  
+|  _(3)_ _____refund a portion of a mandatory payment collected_  
+| _in error from a provider._  
+|  _(d)_ _____All revenue from the mandatory payments required by this_  
+| _subchapter must be deposited in the trust fund._  
+|  _(e)_ _____Money in the trust fund may not be used to expand_  
+| _Medicaid eligibility under the Patient Protection and Affordable_  
+| _Care Act (Pub. L. No._ ___111-148) as amended by the Health Care and_  
+| _Education Reconciliation Act of 2010 (Pub. L. No._ ___111-152)._  
+|  _Sec._ ___773.309._ _____INVALIDITY; FEDERAL FUNDS. If any provision_  
+| _of or procedure under this subchapter is held invalid by a final_  
+| _court order that is not subject to appeal, or if the commission_  
+| _determines that the imposition of the mandatory payment and the_  
+| _expenditure of amounts collected as prescribed by this subchapter_  
+| _will not entitle the state to receive federal matching funds under_  
+| _the Medicaid program or will be inconsistent with the objectives_  
+| _described by Section 537.002(b)(7), Government Code, the_  
+| _commission shall:_  
+|  _(1) stop collection of the payment; and_  
+|  _(2)_ _____not later than the 30th day after the date_  
+| _collection is stopped, return to each ground transport emergency_  
+| _medical services provider, in proportion to the total amount paid_  
+| _by each provider compared to the total amount paid by all providers,_  
+| _any unspent money deposited to the credit of the trust fund._  
+|  _Sec._ ___773.310._ _____RULES. The executive commissioner shall_  
+| _adopt rules necessary to implement this subchapter._  
+|  SECTION 3. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall:  
+|  (1) adopt the rules necessary to implement Subchapter  
+| J, Chapter 773, Health and Safety Code, as added by this Act; and  
+|  (2) establish the amount of the initial mandatory  
+| payment imposed under Subchapter J, Chapter 773, Health and Safety  
+| Code, as added by this Act, based on available net patient revenue  
+| information.  
+|  SECTION 4. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and shall delay implementing that provision until the  
+| waiver or authorization is granted. The agency shall begin  
+| implementing the provision on the date the waiver or authorization  
+| is granted.  
+|  SECTION 5. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

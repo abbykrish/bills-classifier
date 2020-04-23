@@ -1,0 +1,220 @@
+| 86R11687 TSR-F  
+---|---  
+|  By: Perez | H.B. No. 2945  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to payment card skimmers on motor fuel dispensers;  
+| imposing a civil penalty; creating criminal offenses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 12, Business & Commerce Code, is amended by  
+| adding Chapter 607 to read as follows:  
+| _CHAPTER 607. PAYMENT CARD SKIMMERS ON MOTOR FUEL DISPENSERS_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 607.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Center" means the payment card fraud center_  
+| _established under Chapter 424, Government Code._  
+|  _(2)_ _____"Department" means the Texas Department of_  
+| _Agriculture._  
+|  _(3)_ _____"Financial institution"_ ___has the meaning assigned_  
+| _by Section 277.001, Finance Code._  
+|  _(4)_ _____"Merchant" means a person whose business includes_  
+| _the sale of motor fuel through motor fuel dispensers to retail_  
+| _customers._  
+|  _(5)_ _____"Motor fuel dispenser" means a machine that is_  
+| _used to pump gasoline, diesel, biofuels, or other types of fuels_  
+| _into motor vehicles._  
+|  _(6)_ _____"Payment card" has the meaning assigned by Section_  
+| _522.001._  
+|  _(7)_ _____"Service company" and "service technician" have_  
+| _the meanings assigned by Section 13.451, Agriculture Code._  
+|  _(8)_ _____"Skimmer" means a wire or electronic device that_  
+| _is capable of unlawfully intercepting electronic communications_  
+| _and used to perpetuate fraud. The term includes a re-encoder and_  
+| _scanning device, as those terms are defined by Section 522.001._  
+|  _(9)_ _____"Unattended payment terminal" means a_  
+| _point-of-sale terminal or kiosk that is operated by a customer to_  
+| _activate a transaction through use of a payment card._  
+| _SUBCHAPTER B. DUTIES RELATED TO USE OF CERTAIN UNATTENDED PAYMENT_  
+| _TERMINALS_  
+|  _Sec._ ___607.051._ _____MERCHANT DUTIES REGARDING UNATTENDED PAYMENT_  
+| _TERMINALS ON MOTOR FUEL DISPENSERS. A merchant that has an_  
+| _unattended payment terminal on a motor fuel dispenser at the_  
+| _merchant's place of business shall implement procedures in_  
+| _accordance with the rules adopted by the attorney general under_  
+| _Section 607.052 to:_  
+|  _(1)_ _____prevent the installation of a skimmer on the_  
+| _payment terminal;_  
+|  _(2)_ _____find and remove a skimmer placed on the payment_  
+| _terminal; and_  
+|  _(3)_ _____report the discovery of a skimmer to the_  
+| _department._  
+|  _Sec._ ___607.052._ _____RULES. (a)_ ___The attorney general by rule_  
+| _shall establish reasonable policies and procedures that identify_  
+| _best practices for merchants to use to comply with Section 607.051._  
+|  _(b)_ _____In adopting rules under Subsection (a), the attorney_  
+| _general must consider:_  
+|  _(1) emerging technology;_  
+|  _(2) compliance costs to merchants; and_  
+|  _(3)_ _____any impact the policies and procedures may have on_  
+| _consumers._  
+|  _Sec._ ___607.053._ _____DISCOVERY OF SKIMMERS. If a service_  
+| _technician discovers a skimmer on the unattended payment terminal_  
+| _of a motor fuel dispenser, the service technician or service_  
+| _company that employs the technician shall immediately notify the_  
+| _merchant of the skimmer._ ___If a merchant discovers the skimmer or is_  
+| _notified of the skimmer by a service technician or other person, the_  
+| _merchant shall:_  
+|  _(1)_ _____immediately disable, or cause to be disabled, the_  
+| _motor fuel dispenser on which the skimmer was discovered and notify_  
+| _a local law enforcement agency that a skimmer has been detected;_  
+|  _(2)_ _____take appropriate measures to protect from_  
+| _tampering with the motor fuel dispenser until a local law_  
+| _enforcement agency arrives; and_  
+|  _(3)_ _____not later than 24 hours after the discovery of the_  
+| _skimmer, or after a report of the discovery of a skimmer is made to_  
+| _the merchant, report the discovery to the department._  
+|  _Sec._ ___607.054._ _____REPORT TO DEPARTMENT. (a)_ ___In this section,_  
+| _"interested person"_ ___includes:_  
+|  _(1) a local law enforcement agency;_  
+|  _(2) a merchant;_  
+|  _(3) a financial institution;_  
+|  _(4)_ _____a credit card issuer as defined by Section_  
+| _505.001;_  
+|  _(5) a service technician or service company;_  
+|  _(6) a member of the public; or_  
+|  _(7) any other interested person._  
+|  _(b)_ _____An interested person may submit a report of the_  
+| _discovery of a skimmer on an unattended payment terminal of a motor_  
+| _fuel dispenser at a merchant's place of business to the department._  
+|  _Sec._ ___607.055._ _____INVESTIGATION OF SKIMMER REPORTS. (a)_ ___On_  
+| _receipt of a report under Section 607.053 or 607.054, the_  
+| _department shall conduct an investigation and share the report with_  
+| _the center._  
+|  _(b) The department may:_  
+|  _(1)_ _____coordinate with local law enforcement agencies in_  
+| _conducting an investigation under this section; and_  
+|  _(2)_ _____inspect the motor fuel dispenser that is the_  
+| _subject of the report._  
+|  _(c)_ _____A merchant shall cooperate with the department during an_  
+| _investigation conducted under this section and permit the_  
+| _department to inspect the motor fuel dispenser that is the subject_  
+| _of the report or alter the motor fuel dispenser as necessary._  
+|  _Sec._ ___607.056._ _____CONFIDENTIALITY. (a) Except as otherwise_  
+| _provided by this section, information is confidential and not_  
+| _subject to disclosure under Chapter 552, Government Code, if the_  
+| _information is:_  
+|  _(1)_ _____received by the department under Section 607.053_  
+| _or 607.054; or_  
+|  _(2)_ _____prepared or compiled by the department in_  
+| _connection with a report to or investigation conducted by the_  
+| _department under this subchapter._  
+|  _(b)_ _____Information described by Subsection (a) may be_  
+| _disclosed to:_  
+|  _(1) the attorney general;_  
+|  _(2)_ _____a criminal justice agency, as defined by Section_  
+| _411.082, Government Code;_  
+|  _(3) the center;_  
+|  _(4)_ _____a financial institution that may be impacted by_  
+| _the installation of a skimmer on the unattended payment terminal of_  
+| _a motor fuel dispenser; or_  
+|  _(5)_ _____another person if the disclosure of the_  
+| _information is permitted or required by other law or court order._  
+|  _(c)_ _____The disclosure of information under Subsection (b) is_  
+| _not a voluntary disclosure for purposes of Section 552.007,_  
+| _Government Code._  
+|  _(d)_ _____On the dismissal or final resolution of a report or_  
+| _investigation by the department, information described by_  
+| _Subsection (a) is subject to disclosure under Chapter 552,_  
+| _Government Code._  
+|  _(e)_ _____Notwithstanding Subsection (a), the attorney general_  
+| _may disclose to the public information made confidential by that_  
+| _subsection if the attorney general determines that the disclosure_  
+| _of the information furthers a law enforcement purpose._  
+| _SUBCHAPTER C. ENFORCEMENT_  
+|  _Sec._ ___607.101._ _____CORRECTIVE ACTION. If the attorney general_  
+| _has reason to believe that a merchant who, after an investigation_  
+| _conducted by a law enforcement agency, has at the merchant's place_  
+| _of business an unattended payment terminal of a motor fuel_  
+| _dispenser on which a skimmer was installed and who is in violation_  
+| _of a rule adopted by the attorney general under Section 607.052, the_  
+| _attorney general shall notify the merchant of the violation._ ___The_  
+| _attorney general may order the merchant to take corrective action_  
+| _as necessary, including the implementation of best practices and_  
+| _the training of employees to detect skimmers._  
+|  _Sec._ ___607.102._ _____CIVIL PENALTIES. (a)_ ___A merchant who wilfully_  
+| _violates a rule adopted by the attorney general under Section_  
+| _607.052 is liable to this state for a civil penalty in an amount not_  
+| _to exceed $5,000._  
+|  _(b)_ _____A merchant who negligently fails to make a report within_  
+| _the period prescribed by Section 607.053, or who has had at least_  
+| _three reports made under that section within a 24-month period as a_  
+| _result of the merchant failing to comply with Subchapter B, is_  
+| _liable to this state for a civil penalty of at least $1,000 but not_  
+| _more than $5,000 for each violation._  
+|  _Sec._ ___607.103._ _____OFFENSES; PENALTIES. (a) A person commits an_  
+| _offense if the person refuses to allow the department to inspect a_  
+| _motor fuel dispenser at the merchant's place of business in_  
+| _violation of Section 607.055._ ___An offense under this subsection is a_  
+| _Class C misdemeanor._  
+|  _(b)_ _____A person commits an offense if, after making a report_  
+| _under Section 607.053, the person negligently or recklessly_  
+| _disposes of a skimmer that was installed on the unattended payment_  
+| _terminal of a motor fuel dispenser by another person._ ___An offense_  
+| _under this subsection is a state jail felony._  
+|  _(c)_ _____A person commits an offense if, knowing that an_  
+| _investigation is ongoing or that a criminal proceeding has been_  
+| _commenced and is pending, the person disposes of a skimmer that was_  
+| _installed on the unattended payment terminal of a motor fuel_  
+| _dispenser by another person._ ___An offense under this subsection is a_  
+| _felony of the third degree._  
+|  SECTION 2. Subtitle B, Title 4, Government Code, is amended  
+| by adding Chapter 424 to read as follows:  
+| _CHAPTER 424. PAYMENT CARD FRAUD CENTER_  
+|  _Sec. 424.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Center" means the payment card fraud center_  
+| _established under this chapter._  
+|  _(2)_ _____"Payment card" has the meaning assigned by Section_  
+| _522.001, Business & Commerce Code._  
+|  _(3)_ _____"Skimmer" means a wire or electronic device that_  
+| _is capable of unlawfully intercepting electronic communications_  
+| _and used to perpetuate fraud. The term includes a re-encoder and_  
+| _scanning device, as those terms are defined by Section 522.001,_  
+| _Business & Commerce Code._  
+|  _Sec._ ___424.002._ _____PAYMENT CARD FRAUD CENTER._ ___(a)_ ___The_  
+| _Department of Public Safety, the Department of Agriculture, and_  
+| _other state or local agencies, as designated by the attorney_  
+| _general, may collaborate with the attorney general to establish a_  
+| _payment card fraud center as provided by this chapter._ ___The attorney_  
+| _general shall establish the center in the City of Tyler._  
+|  _(b)_ _____The attorney general shall appoint a director to_  
+| _supervise and manage the center. The director is under the_  
+| _supervision and direction of the attorney general._  
+|  _Sec._ ___424.003._ _____PURPOSE OF CENTER. (a)_ ___The center serves as_  
+| _the state's primary entity for the planning, coordination, and_  
+| _integration of the capabilities of law enforcement agencies and_  
+| _other agencies to respond to criminal activity that is related to_  
+| _payment card fraud, including through the use of skimmers._  
+|  _(b)_ _____The purpose of the center is to maximize the ability of_  
+| _state agencies and local law enforcement agencies to detect,_  
+| _prevent, and respond to criminal activities related to payment card_  
+| _fraud._  
+|  _(c)_ _____The center shall assist state agencies and local law_  
+| _enforcement agencies and merchants in their efforts to develop and_  
+| _implement strategies to:_  
+|  _(1) detect skimmers;_  
+|  _(2)_ _____ensure an effective response if a skimmer is_  
+| _found; and_  
+|  _(3) prevent payment card fraud._  
+|  _Sec._ ___424.004._ _____RULES. The attorney general by rule shall_  
+| _adopt reasonable policies and procedures necessary to implement_  
+| _this chapter._  
+|  _Sec._ ___424.005._ _____FACILITIES AND ADMINISTRATIVE SUPPORT. A_  
+| _municipality's police department may provide facilities and_  
+| _administrative support if the payment card fraud center is_  
+| _established in the municipality._  
+|  _Sec._ ___424.006._ _____GIFTS AND GRANTS. The payment card fraud_  
+| _center may accept gifts, grants, and donations to carry out the_  
+| _purpose of the center._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

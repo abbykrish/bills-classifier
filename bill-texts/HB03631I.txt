@@ -1,0 +1,46 @@
+| 86R10534 TJB-D  
+---|---  
+|  By: Bailes | H.B. No. 3631  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the confidentiality of the e-mail address of an  
+| applicant for or holder of a license issued by a state agency.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 552.137(c), Government Code, is amended  
+| to read as follows:  
+|  (c) Subsection (a) does not apply to an e-mail address:  
+|  (1) provided to a governmental body by a person who has  
+| a contractual relationship with the governmental body or by the  
+| contractor's agent;  
+|  (2) provided to a governmental body by a vendor who  
+| seeks to contract with the governmental body or by the vendor's  
+| agent;  
+|  (3) contained in a response to a request for bids or  
+| proposals, contained in a response to similar invitations  
+| soliciting offers or information relating to a potential contract,  
+| or provided to a governmental body in the course of negotiating the  
+| terms of a contract or potential contract;  
+|  (4) provided to a governmental body on a letterhead,  
+| coversheet, printed document, or other document made available to  
+| the public; [ ~~or~~ ]  
+|  (5) provided to a governmental body for the purpose of  
+| providing public comment on or receiving notices related to an  
+| application for a license as defined by Section 2001.003(2) of this  
+| code, or receiving orders or decisions from a governmental body _; or_  
+|  _(6)_ _____provided to a governmental body by an applicant_  
+| _for or holder of a license issued by a state agency, as those terms_  
+| _are defined by Section 57.001, Occupations Code_.  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a request for information that is received by a governmental body  
+| or an officer for public information on or after the effective date  
+| of this Act. A request for information that was received before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the request was received, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

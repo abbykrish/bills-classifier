@@ -1,0 +1,41 @@
+| 86R13498 SRS-D  
+---|---  
+|  By: Middleton | H.B. No. 3684  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to measures to prevent noncitizen voter registration and  
+| voting.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 11, Election Code, is amended by adding  
+| Section 11.0021 to read as follows:  
+|  _Sec._ ___11.0021._ _____MEASURES TO PREVENT NONCITIZEN VOTER_  
+| _REGISTRATION AND VOTING. Notwithstanding any other law, to ensure_  
+| _a person who is not a citizen of the United States may not register_  
+| _to vote or vote:_  
+|  _(1)_ _____at least twice each year, the secretary of state_  
+| _shall use the United States Department of Homeland Security_  
+| _database of noncitizens living in Texas to identify noncitizens_  
+| _whose voter registrations should be canceled and shall take all_  
+| _appropriate actions;_  
+|  _(2)_ _____the Department of Public Safety shall forward to_  
+| _the secretary of state the file of a person who applies for a Texas_  
+| _driver's license or identification card and provides on the_  
+| _application form that the person is not a citizen of the United_  
+| _States;_  
+|  _(3)_ _____the secretary of state may audit a county's voter_  
+| _registration list to ensure a county complies with:_  
+|  _(A) state law; and_  
+|  _(B)_ _____the secretary of state's directives,_  
+| _including a requested deletion from a county's voter registration_  
+| _list; and_  
+|  _(4)_ _____a county registrar shall take all appropriate_  
+| _actions to confirm the citizenship status of a person who applies_  
+| _for voter registration whose application does not provide:_  
+|  _(A)_ _____the person's Texas driver's license number or_  
+| _the number of an identification card issued by the Department of_  
+| _Public Safety to the person; or_  
+|  _(B)_ _____the last four digits of the person's social_  
+| _security number._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

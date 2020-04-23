@@ -1,0 +1,28 @@
+| 86R11039 GRM-F  
+---|---  
+|  By: Longoria | H.B. No. 3855  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to methods of computing interest charges on certain  
+| consumer loans.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 342.201, Finance Code, is amended by  
+| adding Subsection (e-1) to read as follows:  
+|  _(e-1)_ _____The interest charge under Subsection (e) must be_  
+| _contracted for, charged, or received using the scheduled_  
+| _installment earnings method or the true daily earnings method under_  
+| _one of the following methods:_  
+|  _(1)_ _____applying the applicable daily rate to each part of_  
+| _the unpaid principal balance corresponding to the brackets_  
+| _described by Subsection (e) for the actual or scheduled number of_  
+| _days during a payment period; or_  
+|  _(2)_ _____applying a single equivalent daily rate to the_  
+| _unpaid principal balance for the actual or scheduled number of days_  
+| _during a payment period, where the single equivalent daily rate is_  
+| _determined at the inception of the loan using the scheduled_  
+| _installment earnings method and would earn an amount of interest_  
+| _authorized under Subsection (e) if the debt were paid to maturity_  
+| _according to the schedule of payments._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

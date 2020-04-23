@@ -1,0 +1,87 @@
+| 86R11846 AJZ-F  
+---|---  
+|  By: Sherman, Sr. | H.B. No. 3827  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the procedures for appointing counsel to represent  
+| indigent defendants in certain post-conviction proceedings in  
+| capital cases.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2, Article 11.071, Code of Criminal  
+| Procedure, is amended by amending Subsections (b), (c), and (f) and  
+| adding Subsections (d) and (d-1) to read as follows:  
+|  (b) If a defendant is sentenced to death the convicting  
+| court, immediately after judgment is entered under Article 42.01,  
+| shall determine if the defendant is indigent and, if so, whether the  
+| defendant desires appointment of counsel for the purpose of a writ  
+| of habeas corpus. If the defendant _has not elected to proceed pro_  
+| _se, is not represented by retained counsel, and_ desires appointment  
+| of counsel for the purpose of a writ of habeas corpus, the court  
+| shall appoint _counsel_ [ ~~the office of capital and forensic writs~~ ] to  
+| represent the defendant as provided by Subsection (c).  
+|  (c) At the earliest practical time, but in no event later  
+| than 30 days, after the convicting court makes the findings  
+| required under Subsections (a) and (b), the convicting court shall  
+| appoint the office of capital and forensic writs _unless_ [ ~~or, if~~ ] the  
+| office of capital and forensic writs does not accept or is  
+| prohibited from accepting an appointment under Section 78.054,  
+| Government Code, _or the convicting court determines good cause_  
+| _exists for appointment of other counsel._ ___If the office of capital_  
+| _and forensic writs is not appointed under this subsection, the_  
+| _convicting court shall appoint_ other competent counsel under  
+| Subsection _(d)_ [ ~~(f), unless the applicant elects to proceed pro se~~  
+|  ~~or is represented by retained counsel~~ ].  
+|  _(d)_ _____If the office of capital and forensic writs does not_  
+| _accept or is prohibited from accepting an appointment under Section_  
+| _78.054, Government Code, or the convicting court determines good_  
+| _cause exists for appointment of other counsel, the convicting court_  
+| _shall appoint counsel from a list of competent counsel maintained_  
+| _by the presiding judges of the administrative judicial regions_  
+| _under Section 78.056, Government Code._  
+|  _(d-1)_ On appointing counsel under this section, the  
+| convicting court shall immediately notify the court of criminal  
+| appeals of the appointment, including in the notice a copy of the  
+| judgment and the name, address, and telephone number of the  
+| appointed counsel.  
+|  (f) [ ~~If the office of capital and forensic writs does not~~  
+|  ~~accept or is prohibited from accepting an appointment under Section~~  
+|  ~~78.054, Government Code, the convicting court shall appoint counsel~~  
+|  ~~from a list of competent counsel maintained by the presiding judges~~  
+|  ~~of the administrative judicial regions under Section 78.056,~~  
+|  ~~Government Code.~~ ]  The convicting court shall reasonably compensate  
+| as provided by Section 2A an attorney appointed under this section,  
+| other than an attorney employed by the office of capital and  
+| forensic writs, regardless of whether the attorney is appointed by  
+| the convicting court or was appointed by the court of criminal  
+| appeals under prior law.  An attorney appointed under this section  
+| who is employed by the office of capital and forensic writs shall be  
+| compensated in accordance with Subchapter B, Chapter 78, Government  
+| Code.  
+|  SECTION 2. Section 6(b-1), Article 11.071, Code of Criminal  
+| Procedure, is amended to read as follows:  
+|  (b-1) If the convicting court receives notice that the  
+| requirements of Section 5(a) for consideration of a subsequent  
+| application have been met and if the applicant has not elected to  
+| proceed pro se and is not represented by retained counsel, the  
+| convicting court shall appoint, in order of priority:  
+|  (1) the attorney who represented the applicant in the  
+| proceedings under Section 5, if the attorney seeks the appointment  
+| _and is otherwise competent for that purpose_ ;  
+|  (2) the office of capital and forensic writs, if the  
+| office represented the applicant in the proceedings under Section 5  
+| or otherwise accepts the appointment _in accordance with Chapter 78,_  
+| _Government Code_ ; or  
+|  (3) counsel from a list of competent counsel  
+| maintained by the presiding judges of the administrative judicial  
+| regions under Section 78.056, Government Code, if _counsel is not_  
+| _appointed under Subdivision (1) or (2) or if the convicting court_  
+| _determines good cause exists for appointment of counsel other than_  
+| _counsel described by those subdivisions_ [ ~~the office of capital and~~  
+|  ~~forensic writs:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~did not represent the applicant as described~~  
+|  ~~by Subdivision (2); or~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~does not accept or is prohibited from~~  
+|  ~~accepting the appointment under Section 78.054, Government Code~~ ].  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

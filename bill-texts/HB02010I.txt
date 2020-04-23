@@ -1,0 +1,400 @@
+| 86R9265 JRJ-D  
+---|---  
+|  By: Meza | H.B. No. 2010  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to preferential voting in a primary election.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 18.069, Election Code, is amended to  
+| read as follows:  
+|  Sec. 18.069. VOTING HISTORY.  Not later than the 30th day  
+| after the date of the primary[ ~~, runoff primary,~~ ] or general  
+| election or any special election ordered by the governor, the  
+| registrar shall electronically submit to the secretary of state the  
+| record of each voter participating in the election.  The record must  
+| include a notation of whether the voter voted on election day, voted  
+| early by personal appearance, voted early by mail under Chapter 86,  
+| or voted early by mail under Chapter 101.  
+|  SECTION 2. Section 31.093(c), Election Code, is amended to  
+| read as follows:  
+|  (c) On request of the county chair of a political party  
+| holding a primary election in the county, the county election  
+| officer shall contract with the county executive committee of the  
+| party to perform election services, as provided by this subchapter,  
+| in the party's general primary election [ ~~and runoff primary~~  
+|  ~~election~~ ] in accordance with a cost schedule agreed on by the  
+| contracting parties.  
+|  SECTION 3. Section 32.091(c), Election Code, is amended to  
+| read as follows:  
+|  (c) For a primary [ ~~or runoff primary~~ ] election, the minimum  
+| hourly rate is the greater of the maximum rate provided by  
+| Subsection (a) or, if the election officer attended a training  
+| program as provided by Subchapter F, $7.  
+|  SECTION 4. Section 41.001(c), Election Code, is amended to  
+| read as follows:  
+|  (c) Except for an election under Subsection (a) or Section  
+| 41.0011 or a runoff election following an election held under  
+| Subsection (a)(2), an election may not be held within 30 days before  
+| or after the date of the general election for state and county  
+| officers _or the_ [ ~~,~~ ] general primary election[ ~~, or runoff
+primary~~  
+|  ~~election~~ ].  
+|  SECTION 5. Section 43.007(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The secretary of state shall implement a program to  
+| allow each commissioners court participating in the program to  
+| eliminate county election precinct polling places and establish  
+| countywide polling places for:  
+|  (1) each general election for state and county  
+| officers;  
+|  (2) each election held on the uniform election date in  
+| May and any resulting runoff;  
+|  (3) each election on a proposed constitutional  
+| amendment;  
+|  (4) each primary election [ ~~and runoff primary~~  
+|  ~~election~~ ] if:  
+|  (A) the county chair or county executive  
+| committee of each political party participating in a joint primary  
+| election under Section 172.126 agrees to the use of countywide  
+| polling places; or  
+|  (B) the county chair or county executive  
+| committee of each political party required to nominate candidates  
+| by primary election agrees to use the same countywide polling  
+| places; and  
+|  (5) each election of a political subdivision located  
+| in the county that is held jointly with an election described by  
+| Subdivision (1), (2), (3), or (4).  
+|  SECTION 6. Section 85.001(b), Election Code, is amended to  
+| read as follows:  
+|  (b) For a special runoff election for the office of state  
+| senator or state representative [ ~~or for a runoff primary election~~ ],  
+| the period begins on the 10th day before election day.  
+|  SECTION 7. Section 85.062(b), Election Code, is amended to  
+| read as follows:  
+|  (b) A polling place established under this section may be  
+| located, subject to Subsection (d), at any place in the territory  
+| served by the early voting clerk and may be located in any  
+| stationary structure as directed by the authority establishing the  
+| branch office. The polling place may be located in a movable  
+| structure in the general election for state and county officers _or_  
+| _the_ [ ~~,~~ ] general primary election[ ~~, or runoff primary election~~
+].  
+| Ropes or other suitable objects may be used at the polling place to  
+| ensure compliance with Section 62.004. Persons who are not  
+| expressly permitted by law to be in a polling place shall be  
+| excluded from the polling place to the extent practicable.  
+|  SECTION 8. Sections 123.033(d) and (e), Election Code, are  
+| amended to read as follows:  
+|  (d) A county is not required to provide a political party's  
+| county executive committee with equipment for use in an election  
+| precinct in which fewer than 100 votes were cast in the political  
+| party's most recent general [ ~~or runoff~~ ] primary.  
+|  (e) The maximum amount that may be charged for leasing  
+| equipment to a county executive committee for a general [ ~~or runoff~~ ]  
+| primary is:  
+|  (1) $5 for each unit of electronic voting system  
+| equipment installed at a polling place; and  
+|  (2) $5 for each unit of other equipment not specified  
+| by this subsection.  
+|  SECTION 9. Section 142.006(a), Election Code, is amended to  
+| read as follows:  
+|  (a) An application for a place on the ballot must be filed  
+| not later than 5 p.m. of the 30th day after [ ~~runoff~~ ] primary  
+| election day, except as provided by Section 202.007.  
+|  SECTION 10. Section 142.008, Election Code, is amended to  
+| read as follows:  
+|  Sec. 142.008. STATEMENT ON PETITION. The following  
+| statement must appear at the top of each page of a candidate's  
+| petition: "I know the purpose of this petition. I have not voted in  
+| the general primary election [ ~~or runoff primary election~~ ] of any  
+| political party that has nominated, at either election, a candidate  
+| for the office of _(insert office title)_ for which _(insert_  
+| _candidate's name)_ is a candidate."  
+|  SECTION 11. Section 142.009, Election Code, is amended to  
+| read as follows:  
+|  Sec. 142.009. PETITION TO BE CIRCULATED AFTER PRIMARY. A  
+| signature on a candidate's petition is invalid if the signer:  
+|  (1) signed the petition on or before general primary  
+| election day [ ~~or, if a runoff primary is held for the office sought~~  
+|  ~~by the candidate, on or before runoff primary election day~~ ]; or  
+|  (2) voted in the general [ ~~or runoff~~ ] primary election  
+| of a political party that made a nomination, at either primary, for  
+| the office sought by the candidate.  
+|  SECTION 12. Section 162.004(c), Election Code, is amended  
+| to read as follows:  
+|  (c) If a voter is accepted to vote without presenting a  
+| registration certificate, the presiding judge shall issue the voter  
+| an affiliation certificate.  [ ~~The certificate is not required to be~~  
+|  ~~issued to a voter in a runoff primary unless the voter requests it.~~ ]  
+| The affiliation certificate may be combined with the notice  
+| provided under Section 172.1114.  If the combined form is used, an  
+| election officer is not required to comply with Subsection (b).  
+|  SECTION 13. Section 162.005, Election Code, is amended to  
+| read as follows:  
+|  Sec. 162.005. AFFILIATION PROCEDURE: EARLY VOTING BY MAIL.  
+| The early voting clerk in a general primary election shall provide  
+| an affiliation certificate with each early voting or limited ballot  
+| to be voted by mail. [ ~~The certificate is not required to be~~  
+|  ~~provided to an applicant for a runoff primary ballot unless the~~  
+|  ~~applicant requests it.~~ ]  
+|  SECTION 14. Section 163.004(a), Election Code, is amended  
+| to read as follows:  
+|  (a) A political party's rules, including amendments to  
+| rules, governing or affecting its general [ ~~or runoff~~ ] primary  
+| elections, conventions held under this code, or nominees may be  
+| adopted only by:  
+|  (1) a state convention; or  
+|  (2) the state executive committee as:  
+|  (A) a temporary rule, if adoption before the next  
+| state convention is necessary; or  
+|  (B) a permanent rule, if the state executive  
+| committee is expressly required or authorized by statute to adopt a  
+| rule.  
+|  SECTION 15. Sections 171.022(a), (b), and (c), Election  
+| Code, are amended to read as follows:  
+|  (a) A county executive committee consists of:  
+|  (1) a county chair, who is the presiding officer,  
+| elected at the general primary election [ ~~by majority vote of the~~  
+|  ~~qualified voters of the county who vote in the primary on that~~  
+|  ~~office~~ ] or appointed by the county executive committee as provided  
+| by this subchapter; and  
+|  (2) a precinct chair from each county election  
+| precinct, elected at the general primary [ ~~by majority vote of the~~  
+|  ~~qualified voters of the precinct who vote in the primary on that~~  
+|  ~~office~~ ], subject to Section 171.0221, or appointed by the county  
+| executive committee as provided by this subchapter.  
+|  (b) Except as provided by Subsection (d), if no candidate  
+| receives a majority of the votes, a _preferential voting system is_  
+| _used_ [ ~~runoff~~ ] to determine the office [ ~~is conducted~~ ] in the
+same  
+| manner as a _preferential voting system is used_ [ ~~runoff primary~~  
+|  ~~election~~ ] to determine a nomination for public office _under Section_  
+| _172.004_. [ ~~The candidates to be in a runoff are determined in the~~  
+|  ~~same manner as candidates in a runoff for a nomination.~~ ]  
+|  (c) Each committee member serves for a term of two years  
+| beginning the 20th day after [ ~~runoff~~ ] primary election day.  
+|  SECTION 16. Section 172.004, Election Code, is amended to  
+| read as follows:  
+|  Sec. 172.004. _PREFERENTIAL VOTING IN_ [ ~~RUNOFF~~ ] PRIMARY  
+| _ELECTION_. (a) If no candidate for nomination to a particular  
+| office receives the vote required for nomination in the general  
+| primary election, _the votes of the candidate receiving the fewest_  
+| _number of votes are reassigned to the candidate ranking next_  
+| _highest in the preference of a voter_ [ ~~a runoff primary election~~  
+|  ~~shall be held to determine the nomination~~ ].  
+|  (b) _If after reassigning votes under Subsection (a) no_  
+| _candidate receives a majority of the votes cast designating the_  
+| _modified highest favorable ranking, the reassignment of a vote to a_  
+| _voter's next most preferred candidate under Subsection (a)_  
+| _continues until one candidate receives a majority._  
+|  _(c)_ _____If two or more candidates tie for the least number of_  
+| _votes before a reassignment of votes under Subsection (a) or (b),_  
+| _the tied candidates shall cast lots to determine which candidate's_  
+| _votes are reassigned._  
+|  _(d)_ _____The secretary of state shall prescribe procedures to_  
+| _provide for an election to be held under this chapter using a_  
+| _preferential voting system._ ___The system must allow a voter to rank_  
+| _each candidate through a numerical designation from the candidate_  
+| _the voter favors most to the candidate the voter favors least_ [ ~~The~~  
+|  ~~candidates in a runoff for a nomination shall be determined and a~~  
+|  ~~tie vote in a runoff resolved as provided by Subchapter B, Chapter~~  
+|  ~~2, for a runoff for an election to office~~ ].  
+|  SECTION 17. Section 172.061(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Except for _Section_ [ ~~Sections~~ ] 172.058(b), [ ~~172.059(c),~~  
+|  ~~and 172.060(b),~~ ] this subchapter applies to a candidate for county  
+| chair or precinct chair.  
+|  SECTION 18. Section 172.117(a-2), Election Code, is amended  
+| to read as follows:  
+|  (a-2) The county chair shall update the notations after each  
+| general primary [ ~~and runoff primary~~ ] election. After any  
+| withdrawal or death of a candidate, and subsequent replacement of  
+| the candidate on the ballot, the chair shall notify the state chair,  
+| who shall update the notation on the website. All notations must  
+| be completed and accurate on the date prescribed by the secretary of  
+| state by rule to ensure that an authority printing general election  
+| ballots may rely on the information.  
+|  SECTION 19. Section 172.126(a), Election Code, is amended  
+| to read as follows:  
+|  (a) The primary elections in a county may be conducted  
+| jointly at the regular polling places designated for the general  
+| election for state and county officers. The county clerk shall  
+| supervise the overall conduct of the joint primary elections. This  
+| section applies to the conduct of joint primary elections  
+| notwithstanding and in addition to other applicable provisions of  
+| this code. The decision to conduct a joint general primary election  
+| [ ~~or runoff primary election, as applicable,~~ ] must be made by  
+| majority vote of the full membership of the commissioners court and  
+| with the unanimous approval of the county clerk and the county chair  
+| of each political party required to nominate candidates by primary  
+| election.  
+|  SECTION 20. Section 172.127(b), Election Code, is amended  
+| to read as follows:  
+|  (b) The presiding judge or alternate presiding judge for the  
+| precinct may post signs at a polling place for a primary election  
+| [ ~~or a primary runoff election~~ ] that:  
+|  (1) identify the names of, or symbols representing,  
+| any political parties holding an election at the polling place; and  
+|  (2) do not refer to a candidate or measure on the  
+| ballot.  
+|  SECTION 21. Section 172.130(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Notwithstanding a conflicting provision of this code,  
+| the state chair, or the state chair's designee, may perform any  
+| administrative duty of the county chair or county executive  
+| committee related to the conduct of a primary election that has not  
+| been performed in the time required by law, including the  
+| submission of candidate information under Section 172.029, drawing  
+| for ballot order under _Section_ [ ~~Sections~~ ] 172.082 [ ~~and 172.084~~
+],  
+| and canvassing returns under Section 172.116.  
+|  SECTION 22. Sections 173.083(a), (b), and (c), Election  
+| Code, are amended to read as follows:  
+|  (a) The amount of estimated primary election expenses  
+| payable with state funds under this section is equal to[ ~~:~~  
+|  [ ~~(1) for a general primary election,~~] the difference  
+| obtained by subtracting the sum of the filing fees and  
+| contributions reported in the statement of estimated primary  
+| election expenses from the total amount of estimated general  
+| primary expenses approved by the secretary of state under Section  
+| 173.082[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~for a runoff primary election, the total amount~~  
+|  ~~of estimated runoff primary expenses approved by the secretary~~ ].  
+|  (b) State payment of the estimated primary election  
+| expenses shall be made in installments as follows:  
+|  (1) the initial installment [ ~~for the expenses of a~~  
+|  ~~general primary~~ ] is equal to three-fourths, or three-fifths if the  
+| secretary of state determines that figure to be more efficient, of  
+| the amount of estimated general primary expenses payable with state  
+| funds; _and_  
+|  (2) [ ~~the initial installment for the expenses of a~~  
+|  ~~runoff primary is equal to three-fourths, or three-fifths if the~~  
+|  ~~secretary of state determines that figure to be more efficient, of~~  
+|  ~~the amount of estimated runoff primary expenses payable with state~~  
+|  ~~funds; and~~  
+|  [ ~~(3)~~ ] the final installment is equal to the difference  
+| obtained by subtracting the total of the _installment_ [ ~~installments~~ ]  
+| paid under _Subdivision_ [ ~~Subdivisions~~ ] (1) [ ~~and (2)~~ ] from the
+total  
+| of the actual general [ ~~and runoff~~ ] primary election expenses  
+| payable with state funds.  
+|  (c) After determining the amount of estimated primary  
+| expenses to approve under Section 173.082 for a general [ ~~or runoff~~ ]  
+| primary, the secretary of state shall calculate the amount of the  
+| installment payable under Subsection (b)(1) [ ~~or (2), as~~  
+|  ~~applicable~~ ]. The secretary shall then prepare and deliver to the  
+| comptroller of public accounts a certified statement indicating the  
+| amount of the installment, the total amount of estimated general  
+| [ ~~or runoff~~ ] primary expenses payable with state funds, and the name  
+| of the county or state chair who submitted the statement of  
+| estimated primary election expenses.  
+|  SECTION 23. Sections 173.0833(a) and (b), Election Code,  
+| are amended to read as follows:  
+|  (a) This section applies to election services and materials  
+| provided by a vendor for use in a primary election [ ~~or primary~~  
+|  ~~runoff election~~ ], including:  
+|  (1) the printing of paper ballot material containing  
+| candidates' names used in a polling place;  
+|  (2) the programming and testing of voting system  
+| equipment, including ballot layout, programming of equipment, and  
+| audio production;  
+|  (3) site support or technical support other than the  
+| programming or testing of voting system equipment;  
+|  (4) nonballot election materials used in a precinct on  
+| election day, including election kits, required party stamps,  
+| distance signs, and required forms; and  
+|  (5) the rental of non-county-owned electronic voting  
+| system equipment, including media components.  
+|  (b) A vendor providing election services or materials to a  
+| county chair or a county election officer contracting with a county  
+| chair for a primary [ ~~or runoff primary~~ ] election shall directly  
+| bill the secretary of state for the cost of the services or  
+| materials used on election day for which state funding is available  
+| under this chapter.  
+|  SECTION 24. Sections 173.084(a) and (b), Election Code, are  
+| amended to read as follows:  
+|  (a) Regardless of whether state funds are requested for  
+| paying primary expenses, each county chair and state chair shall  
+| prepare a report that includes:  
+|  (1) an itemized list of the actual expenses incurred  
+| in connection with the _primary election_ [ ~~general and runoff~~  
+|  ~~primaries~~ ] by the authority preparing the report and by the  
+| executive committee over which the authority presides;  
+|  (2) the amount of the primary candidates' filing fees  
+| required to be deposited in the county primary fund if the report is  
+| by a county chair, or in the state primary fund if the report is by  
+| the state chair;  
+|  (3) the amount of filing fees that have been refunded;  
+|  (4) the amount of the contributions to the executive  
+| committee over which the authority preparing the report presides  
+| that:  
+|  (A) are for the purpose of defraying primary  
+| election expenses; and  
+|  (B) have not been included in a report filed  
+| under this section for a previous primary election year; and  
+|  (5) the balance in the county primary fund if the  
+| report is by a county chair, or in the state primary fund if the  
+| report is by the state chair, that remains after deducting the  
+| primary election expenses actually incurred and the refunded filing  
+| fees.  
+|  (b) The authority preparing the report shall file it with  
+| the secretary of state not later than August 31 following the  
+| [ ~~applicable~~ ] primary election[ ~~, in the case of the county chair's~~  
+|  ~~report, or if no runoff primary is held for a statewide or district~~  
+|  ~~office, in the case of the state chair's report~~ ].  
+|  SECTION 25. Section 202.007(a), Election Code, is amended  
+| to read as follows:  
+|  (a) If a vacancy occurs after [ ~~runoff~~ ] primary election day,  
+| an independent candidate for the unexpired term must file the  
+| application for a place on the ballot not later than 5 p.m. of the  
+| 30th day after the date the vacancy occurs or 5 p.m. of the 70th day  
+| before general election day, whichever is earlier.  
+|  SECTION 26. Section 232.008(c), Election Code, is amended  
+| to read as follows:  
+|  (c) A contestant must file the petition not later than the  
+| 10th day after the date the official result is determined in a  
+| contest of:  
+|  (1) a primary [ ~~or runoff primary~~ ] election; or  
+|  (2) a general or special election for which a runoff is  
+| necessary according to the official result or will be necessary if  
+| the contestant prevails.  
+|  SECTION 27. Section 232.048(a), Election Code, is amended  
+| to read as follows:  
+|  (a) If no candidate receives a majority vote in a new  
+| election ordered by a court in the contest of an election in which a  
+| majority vote is required, a runoff election shall be held[ ~~:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~for a primary election contest, on the date set by~~  
+|  ~~the district court in which the contest was heard, except as~~  
+|  ~~provided by Subsection (c); or~~  
+|  [ ~~(2) for a contest of a general or special election,~~]  
+| on the date set by the authority responsible for ordering the runoff  
+| election.  
+|  SECTION 28. Section 255.002(a), Election Code, is amended  
+| to read as follows:  
+|  (a) The rate charged for political advertising by a radio or  
+| television station may not exceed:  
+|  (1) during the 45 days preceding a general [ ~~or runoff~~ ]  
+| primary election and during the 60 days preceding a general or  
+| special election, the broadcaster's lowest unit charge for  
+| advertising of the same class, for the same time, and for the same  
+| period; or  
+|  (2) at any time other than that specified by  
+| Subdivision (1), the amount charged other users for comparable use  
+| of the station.  
+|  SECTION 29. The following provisions of the Election Code  
+| are repealed:  
+|  (1) Section 41.007(b);  
+|  (2) Section 172.058(c);  
+|  (3) Section 172.059;  
+|  (4) Section 172.060;  
+|  (5) Section 172.061(b);  
+|  (6) Section 172.084;  
+|  (7) Section 172.120(b-1);  
+|  (8) Section 172.121;  
+|  (9) Section 172.125; and  
+|  (10) Section 173.081(e).  
+|  SECTION 30. The changes in law made by this Act apply only  
+| to an election ordered on or after September 1, 2019.  
+|  SECTION 31. This Act takes effect September 1, 2019.
+

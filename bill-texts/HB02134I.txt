@@ -1,0 +1,97 @@
+| 86R8296 SCL-F  
+---|---  
+|  By: Klick | H.B. No. 2134  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to health care specialty consultations in certain child  
+| abuse or neglect investigations and assessments.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 261.3017, Family Code, as added by  
+| Chapter 502 (H.B. 2848), Acts of the 85th Legislature, Regular  
+| Session, 2017, is amended by amending Subsections (b) and (c) and  
+| adding Subsections (c-1), (c-2), and (e) to read as follows:  
+|  (b) Any agreement between the department and the network or  
+| between the Department of State Health Services and the system to  
+| provide assistance in connection with abuse and neglect  
+| investigations conducted by the department must require the network  
+| and the system to have the ability to obtain consultations with  
+| physicians, including radiologists, geneticists, _orthopedists,_ and  
+| endocrinologists, who specialize in identifying unique health  
+| conditions, including:  
+|  (1) rickets;  
+|  (2) Ehlers-Danlos Syndrome;  
+|  (3) osteogenesis imperfecta;  
+|  (4) vitamin D deficiency; and  
+|  (5) other similar metabolic bone diseases or  
+| connective tissue disorders.  
+|  (c) _During_ [ ~~If, during~~ ] an abuse or neglect investigation or  
+| an assessment provided under Subsection (b), the department or a  
+| physician in the network [ ~~determines that a child requires a~~  
+|  ~~specialty consultation with a physician, the department or the~~  
+|  ~~physician~~ ] shall refer the child's case to the system for _a_  
+| _specialty_ [ ~~the~~ ] consultation[ ~~,~~ ] if _:_  
+|  _(1)_ _____the department or physician determines that the_  
+| _child requires a specialty consultation with another physician;_  
+|  _(2)_ _____the child's primary care physician or other health_  
+| _care provider who provided health care or treatment or otherwise_  
+| _evaluated the child recommends a specialty consultation; or_  
+|  _(3)_ _____the child's parent or legal guardian or the_  
+| _attorney of the parent or guardian requests a specialty_  
+| _consultation_ [ ~~the system has available capacity to take the child's~~  
+|  ~~case~~ ].  
+|  _(c-1)_ _____Before referring a child's case under Subsection (c),_  
+| _the department or physician in the network shall provide to the_  
+| _child's parent or legal guardian and any attorney of the parent or_  
+| _guardian written notice of the name, contact information, and_  
+| _credentials of the specialist. The parent or guardian may reject_  
+| _the proposed referral and request referral to a specialist who is_  
+| _selected by the parent or guardian and who has adequate expertise in_  
+| _identifying the unique health conditions described by Subsection_  
+| _(b)._  
+|  _(c-2)_ _____If a parent or legal guardian makes a request under_  
+| _Subsection (c-1), the department or physician and the parent or_  
+| _guardian shall collaborate in good faith to identify a mutually_  
+| _acceptable specialist with the appropriate expertise._  
+|  _(e)_ _____This section may not be construed to prohibit a child's_  
+| _parent or legal guardian from obtaining a second opinion from a_  
+| _physician or other health care provider of the parent's or_  
+| _guardian's choice._  
+|  SECTION 2. Subchapter D, Chapter 261, Family Code, is  
+| amended by adding Section 261.30175 to read as follows:  
+|  _Sec._ ___261.30175._ _____MITIGATION OF PROVIDER CONFLICTS IN ABUSE_  
+| _OR NEGLECT INVESTIGATION CONSULTATIONS. (a) In this section:_  
+|  _(1)_ _____"Consultation" means a medical evaluation,_  
+| _psychosocial assessment, medical case review, specialty_  
+| _evaluation, or other forensic consultation service provided in_  
+| _connection with a suspected case of abuse or neglect._  
+|  _(2)_ _____"Health care provider" means an individual or_  
+| _facility licensed, certified, or otherwise authorized to_  
+| _administer health care services, for profit or otherwise, in the_  
+| _ordinary course of business or professional practice. The term_  
+| _includes a physician, medical student, resident physician, child_  
+| _abuse fellow, advanced practice registered nurse, nurse, and_  
+| _physician assistant._  
+|  _(3)_ _____"Network" has the meaning assigned by Section_  
+| _261.3017._  
+|  _(4)_ _____"System" has the meaning assigned by Section_  
+| _261.3017._  
+|  _(b)_ _____A health care provider who reports the suspected abuse_  
+| _or neglect of a child may not serve as a consultant to the_  
+| _department on the reported case, and the department shall refer the_  
+| _case to another health care provider for consultation. This_  
+| _subsection applies regardless of whether the provider is a member_  
+| _of the network or system._  
+|  _(c)_ _____The network and system shall provide consultations for_  
+| _the department on suspected child abuse or neglect cases through a_  
+| _blind peer review process that conceals the identity of the alleged_  
+| _victim, the alleged perpetrator, and the reporting health care_  
+| _provider._  
+|  _(d)_ _____To protect the integrity of an investigation and ensure_  
+| _the privacy of all parties to the investigation, the network and_  
+| _system shall select for a consultation on a suspected child abuse or_  
+| _neglect case a health care provider who is located outside the_  
+| _geographic areas where the alleged abuse or neglect occurred and_  
+| _the reporting health care provider practices._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

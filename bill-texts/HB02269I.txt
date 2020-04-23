@@ -1,0 +1,167 @@
+| 86R11222 SLB-F  
+---|---  
+|  By: Landgraf | H.B. No. 2269  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the operations of the Texas Low-Level Radioactive Waste  
+| Disposal Compact waste disposal facility.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter F, Chapter 401, Health and Safety  
+| Code, is amended by adding Sections 401.2065 and 401.2066 to read as  
+| follows:  
+|  _Sec._ ___401.2065._ _____RESERVED CAPACITY FOR PARTY STATE WASTE._  
+| _(a) The following are reserved for the exclusive use of party state_  
+| _compact waste disposal in the compact waste disposal facility:_  
+|  _(1) the greater of:_  
+|  _(A) three million total cubic feet; and_  
+|  _(B)_ _____the required volume identified by the_  
+| _commission under Section 401.208; and_  
+|  _(2) the greater of:_  
+|  _(A) two million total curies; and_  
+|  _(B)_ _____the required curie capacity identified by the_  
+| _commission under Section 401.208._  
+|  _(b)_ _____Of the reserved volume and curie capacity described by_  
+| _Subsection (a):_  
+|  _(1)_ _____80 percent is reserved for compact waste generated_  
+| _in the host state; and_  
+|  _(2)_ _____20 percent is reserved for compact waste generated_  
+| _in nonhost party states._  
+|  _Sec._ ___401.2066._ _____CORRECTION FOR DECAY IN DETERMINING_  
+| _CAPACITY. The commission shall correct for radioactive decay in_  
+| _determining licensed disposal curie capacity in a compact waste_  
+| _disposal facility under this subchapter._  
+|  SECTION 2. Sections 401.207(d) and (g), Health and Safety  
+| Code, are amended to read as follows:  
+|  (d) The compact waste disposal facility license holder may  
+| not accept for disposal at the compact waste disposal facility  
+| nonparty compact waste that does not meet the waste characteristics  
+| and waste forms for disposal applicable to compact waste as set  
+| forth by the commission in the compact waste disposal facility  
+| license. Before the license holder may accept nonparty compact  
+| waste for disposal, the commission must certify [ ~~through a written~~  
+|  ~~evaluation~~ ] that the waste is authorized for disposal under the  
+| license. If the disposal is not authorized under the license, the  
+| commission must inform the license holder of the license amendments  
+| necessary to authorize the disposal.  
+|  (g) The commission shall assess a surcharge for the disposal  
+| of nonparty compact waste at the compact waste disposal facility.  
+| The surcharge is _five_ [ ~~20~~ ] percent of the total contracted rate  
+| under Section 401.2456 and must be assessed in addition to the total  
+| contracted rate under that section.  
+|  SECTION 3. Subchapter F, Chapter 401, Health and Safety  
+| Code, is amended by adding Section 401.2075 to read as follows:  
+|  _Sec._ ___401.2075._ _____LIMITATION ON NONPARTY COMPACT WASTE. (a)_  
+| _The compact waste disposal facility license holder may accept_  
+| _nonparty compact waste at the facility only if:_  
+|  _(1)_ _____the waste is authorized by the compact commission;_  
+| _and_  
+|  _(2)_ _____the facility has not less than three years' worth_  
+| _of constructed capacity based on the average amount of party state_  
+| _compact waste disposed in the preceding five years, not including:_  
+|  _(A)_ _____low-level radioactive waste from_  
+| _decommissioned nuclear electric generation facilities;_  
+|  _(B)_ _____oversized low-level radioactive waste_  
+| _components; or_  
+|  _(C)_ _____low-level radioactive waste from_  
+| _nonrecurring events._  
+|  _(b)_ _____If a compact waste disposal facility does not have_  
+| _sufficient constructed capacity as described by Subsection (a), in_  
+| _order to be permitted to accept nonparty compact waste, the compact_  
+| _waste disposal facility license holder must:_  
+|  _(1)_ _____add constructed capacity sufficient to meet the_  
+| _requirements of Subsection (a);_  
+|  _(2)_ _____file and have approved by the commission a_  
+| _performance bond acceptable to the commission conditioned on the_  
+| _construction of additional constructed capacity sufficient to meet_  
+| _the requirements of Subsection (a); or_  
+|  _(3)_ _____take an alternative action approved by a majority_  
+| _of the nuclear electric generation utilities operating in the party_  
+| _states._  
+|  _(c)_ _____If a party state has notified the federal commission_  
+| _that a nuclear electric generation facility located in the state_  
+| _will be decommissioned, and the time-phased decommissioning_  
+| _schedule and the Post-Shutdown Decommissioning Activities Report_  
+| _indicate that low-level radioactive waste is to be disposed of at_  
+| _the compact waste disposal facility, the compact waste disposal_  
+| _facility license holder must have constructed adequate disposal_  
+| _capacity at the time of the disposal of waste from the_  
+| _decommissioning._  
+|  _(d)_ _____The compact waste disposal facility license holder must_  
+| _obtain an amendment to the facility operating license to increase_  
+| _the allowable curie capacity by two million curies when the compact_  
+| _waste disposal facility has reached 80 percent of the total curies_  
+| _for which the facility is licensed._  
+|  SECTION 4. Subchapter F, Chapter 401, Health and Safety  
+| Code, is amended by adding Section 401.2465 to read as follows:  
+|  _Sec._ ___401.2465._ _____WASTE DISPOSAL FEE COMPARISON. (a) The_  
+| _compact waste disposal facility license holder shall conduct an_  
+| _annual comparison of party state and nonparty state compact waste_  
+| _disposal fees. The comparison:_  
+|  _(1) must include:_  
+|  _(A)_ _____the total invoiced compact waste disposal_  
+| _fees;_  
+|  _(B)_ _____the total volume of compact waste disposed;_  
+| _and_  
+|  _(C)_ _____an average disposal fee calculated by_  
+| _dividing the total invoiced compact waste disposal fees by the_  
+| _total volume of compact waste disposed; and_  
+|  _(2)_ _____may not include information regarding disposal_  
+| _fees or disposal volume for:_  
+|  _(A)_ _____low-level radioactive waste from_  
+| _decommissioned nuclear electric generation facilities;_  
+|  _(B)_ _____oversized low-level radioactive waste_  
+| _components; or_  
+|  _(C)_ _____low-level radioactive waste from_  
+| _nonrecurring events._  
+|  _(b)_ _____If the average compact waste disposal fee charged to_  
+| _party state generators exceeds the average compact waste disposal_  
+| _fee charged to nonparty state generators, the compact waste_  
+| _disposal facility license holder must issue a rebate for the_  
+| _preceding year's fees to the party state generators in an amount_  
+| _sufficient to reduce the average compact waste disposal fee charged_  
+| _to party state generators after the rebate to $1 less than the_  
+| _average compact waste disposal fee charged to nonparty state_  
+| _generators._  
+|  _(c)_ _____The compact waste disposal facility license holder_  
+| _shall allocate the rebate issued under Subsection (b) according to_  
+| _the fractional amount of the total compact waste disposal fees paid_  
+| _by each generator based on the compact waste disposal facility_  
+| _license holder's records for the preceding year._  
+|  _(d)_ _____On written request of a nuclear electric generation_  
+| _utility operating in a party state, the compact waste disposal_  
+| _facility license holder shall:_  
+|  _(1)_ _____retain an independent auditor, who must be_  
+| _approved by the compact waste disposal facility license holder and_  
+| _the utility making the request, to evaluate the computation of the_  
+| _average compact waste disposal fee and rebate described by this_  
+| _section; and_  
+|  _(2)_ _____not later than the 90th day after the date the_  
+| _license holder receives the final audit report, make a copy of the_  
+| _report available to the requesting utility._  
+|  SECTION 5. Sections 401.271(a) and (b), Health and Safety  
+| Code, are amended to read as follows:  
+|  (a) A holder of a license issued by the commission under  
+| this chapter that authorizes the disposal of a radioactive  
+| substance from other persons shall remit each quarter an amount  
+| equal to _five_ [ ~~10~~ ] percent of the license holder's gross receipts  
+| received from disposal operations under _the_ [ ~~a~~ ] license [ ~~issued~~  
+|  ~~under this chapter that occur after the effective date of the Act~~  
+|  ~~enacting this section as follows:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~five percent shall be remitted to the comptroller~~  
+|  ~~for deposit to the credit of the general revenue fund; and~~  
+|  [ ~~(2) five percent shall be remitted~~] to the host  
+| county in accordance with Sections 401.244(b) and (d).  
+|  (b) Subsection (a) does not apply to [ ~~compact waste or~~  
+|  ~~federal facility waste as defined by Section 401.2005 or~~ ]  
+| industrial solid waste as defined by Section 361.003.  
+|  SECTION 6. The following provisions of the Health and  
+| Safety Code are repealed:  
+|  (1) Section 401.202(c);  
+|  (2) Sections 401.207(d-1), (d-2), (d-3), (e), (e-1),  
+| (e-2), (f), and (h-1);  
+|  (3) Section 401.241(b);  
+|  (4) Section 401.2445; and  
+|  (5) Sections 401.2456(b), (c), (d), and (e).  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,94 @@
+| 86R7402 SCL-D  
+---|---  
+|  By: Vo | H.B. No. 4278  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to regulation of persons holding a certificate of  
+| self-insurance for establishment of financial responsibility for  
+| operating a motor vehicle.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 601.124, Transportation Code, is amended  
+| to read as follows:  
+|  Sec. 601.124. SELF-INSURANCE. (a) A person in whose name  
+| more than 25 motor vehicles are registered may qualify as a  
+| self-insurer by obtaining a certificate of self-insurance issued by  
+| the _Texas Department of Insurance_ [ ~~department~~ ] as provided by this  
+| section.  
+|  (b) The _Texas Department of Insurance_ [ ~~department~~ ] may  
+| issue a certificate of self-insurance to a person if:  
+|  (1) the person applies for the certificate; [ ~~and~~ ]  
+|  (2) _the person files with the Texas Department of_  
+| _Insurance a bond:_  
+|  _(A) in the amount of $10,000;_  
+|  _(B) conditioned for payment:_  
+|  _(i)_ _____in the amounts and under the same_  
+| _circumstances as required under a motor vehicle liability insurance_  
+| _policy; and_  
+|  _(ii)_ _____in accordance with the claims review_  
+| _procedure under Subsection (c-1) or a court order;_  
+|  _(C)_ _____that is not cancelable before the sixth day_  
+| _after the date the Texas Department of Insurance receives written_  
+| _notice of the cancellation; and_  
+|  _(D)_ _____approved by the Texas Department of_  
+| _Insurance; and_  
+|  _(3)_ the _commissioner of insurance_ [ ~~department~~ ] is  
+| satisfied that the person has and will continue to have the ability  
+| to pay judgments obtained against the person.  
+|  (c) The self-insurer must supplement the certificate with  
+| an agreement that, for accidents occurring while the certificate is  
+| in force, the self-insurer will pay the same judgments _within the_  
+| _time and_ in the same amounts as an insurer would be obligated to pay  
+| under an owner's motor vehicle liability insurance policy issued to  
+| the self-insurer if such policy were issued. _The agreement may_  
+| _include any other requirements that the commissioner of insurance_  
+| _determines are appropriate for ensuring that the self-insurer pays_  
+| _a legitimate claim timely._  
+|  _(c-1)_ _____The commissioner of insurance by rule shall establish_  
+| _a claims review procedure under which a claimant may file a motor_  
+| _vehicle collision claim against the self-insurer with the Texas_  
+| _Department of Insurance. If the claimant prevails, the claimant_  
+| _may recover the awarded amount from the bond filed by the_  
+| _self-insurer and the self-insurer shall replenish the bond as_  
+| _necessary for the bond to be in the amount described by Subsection_  
+| _(b)(2)(A). A claim under the procedure is a contested case under_  
+| _Chapter 2001, Government Code._  
+|  _(c-2)_ _____Notwithstanding any other law, a person may file suit_  
+| _against the self-insurer by using the self-insurer's assumed name_  
+| _stated on a certificate filed under Chapter 71, Business & Commerce _  
+| _Code, for a cause of action:_  
+|  _(1) provided by other law; and_  
+|  _(2) arising from a motor vehicle collision:_  
+|  _(A)_ _____occurring while the certificate is in effect;_  
+| _and_  
+|  _(B)_ _____in which a motor vehicle registered by the_  
+| _self-insurer is involved._  
+|  (d) The _Texas Department of Insurance_ [ ~~department~~ ] for  
+| cause _, including failure to pay a legitimate claim timely or_  
+| _failure to comply with a requirement imposed by the commissioner of_  
+| _insurance,_ may cancel a certificate of self-insurance after a  
+| hearing.  Cause includes failure to pay a judgment before the 31st  
+| day after the date the judgment becomes final.  
+|  (e) A self-insurer must receive at least five days' notice  
+| of a hearing held under Subsection (d).  The _Texas Department of_  
+| _Insurance_ [ ~~department~~ ] shall send notice of the hearing to the  
+| self-insurer by:  
+|  (1) first class mail; or  
+|  (2) e-mail if the self-insurer has provided an e-mail  
+| address to the _Texas Department of Insurance_ [ ~~department~~ ] and has  
+| elected to receive notice electronically.  
+|  _(f)_ _____The Texas Department of Insurance shall suspend a_  
+| _certificate under Subsection (d) for six months if the self-insurer_  
+| _fails to pay a legitimate claim timely. If the self-insurer_  
+| _subsequently fails to pay a legitimate claim timely, the Texas_  
+| _Department of Insurance shall cancel the certificate._  
+|  _(g)_ _____The commissioner of insurance may adopt rules necessary_  
+| _to implement this section._  
+|  SECTION 2. Section 601.124, Transportation Code, as amended  
+| by this Act, applies only to a certificate of self-insurance issued  
+| on or after January 1, 2020. A certificate of self-insurance issued  
+| before January 1, 2020, is governed by the law applicable to the  
+| certificate immediately before the effective date of this Act, and  
+| that law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

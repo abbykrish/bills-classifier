@@ -1,0 +1,51 @@
+| 86R5814 KJE-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 3426  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the procedure for an application for a writ of habeas  
+| corpus based on certain new evidence.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 11, Code of Criminal Procedure, is  
+| amended by adding Article 11.0732 to read as follows:  
+|  _Art._ ___11.0732._ _____PROCEDURE RELATED TO CERTAIN NEW EVIDENCE._  
+| _(a)_ ___This article applies to evidence, other than evidence_  
+| _described by Article 11.073(a), that:_  
+|  _(1)_ _____was not available to be offered by a convicted_  
+| _person at the person's trial; and_  
+|  _(2) is material to the person's conviction._  
+|  _(b)_ _____A court may grant a convicted person relief on an_  
+| _application for a writ of habeas corpus if:_  
+|  _(1)_ _____the convicted person files an application, in the_  
+| _manner provided by Article 11.07, 11.071, or 11.072, containing_  
+| _specific facts indicating that:_  
+|  _(A)_ _____evidence described by Subsection (a) is_  
+| _currently available and was not available at the time of the_  
+| _person's trial because the evidence was not ascertainable through_  
+| _the exercise of reasonable diligence by the person before the date_  
+| _of or during the person's trial; and_  
+|  _(B)_ _____the evidence would be admissible under the_  
+| _Texas Rules of Evidence at a trial held on the date of the_  
+| _application; and_  
+|  _(2)_ _____the court makes the findings described by_  
+| _Subdivisions (1)(A) and (B) and also finds that, had the evidence_  
+| _been presented at trial, on the preponderance of the evidence the_  
+| _person would not have been convicted._  
+|  _(c)_ _____For purposes of Section 4(a)(1), Article 11.07, Section_  
+| _5(a)(1), Article 11.071, and Section 9(a), Article 11.072, a claim_  
+| _or issue could not have been presented previously in an original_  
+| _application or in a previously considered application if the claim_  
+| _or issue is based on evidence described by Subsection (a) that was_  
+| _not ascertainable through the exercise of reasonable diligence by_  
+| _the convicted person on or before the date on which the original_  
+| _application or a previously considered application, as applicable,_  
+| _was filed._  
+|  SECTION 2. The change in law made by this Act applies only  
+| to an application for a writ of habeas corpus filed on or after the  
+| effective date of this Act. An application filed before the  
+| effective date of this Act is governed by the law in effect when the  
+| application was filed, and the former law is continued in effect for  
+| that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

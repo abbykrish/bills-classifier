@@ -1,0 +1,183 @@
+| 86R4346 CJC-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 402  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the adoption of the Uniform Electronic Legal Material  
+| Act.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 2051, Government Code, is amended by  
+| adding Subchapter E to read as follows:  
+| _SUBCHAPTER E. UNIFORM ELECTRONIC LEGAL MATERIAL ACT_  
+|  _Sec._ ___2051.151._ _____SHORT TITLE. This subchapter may be cited as_  
+| _the Uniform Electronic Legal Material Act._  
+|  _Sec. 2051.152. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Electronic" means relating to technology having_  
+| _electrical, digital, magnetic, wireless, optical, electromagnetic,_  
+| _or similar capabilities._  
+|  _(2) "Legal material" means, whether or not in effect:_  
+|  _(A) the constitution of this state;_  
+|  _(B)_ _____the general or special laws passed in a_  
+| _regular or special session of the Texas Legislature; and_  
+|  _(C)_ _____a state agency rule adopted in accordance_  
+| _with Chapter 2001._  
+|  _(3) "Official publisher" means:_  
+|  _(A)_ _____for legal material described by Subdivision_  
+| _(2)(A), the Texas Legislative Council; and_  
+|  _(B)_ _____for legal material described by Subdivision_  
+| _(2)(B) or (C), the secretary of state._  
+|  _(4)_ _____"Publish" means displaying, presenting, or_  
+| _releasing to the public, or causing to be displayed, presented, or_  
+| _released to the public, legal material by the official publisher._  
+|  _(5)_ _____"Record" means information that is inscribed on a_  
+| _tangible medium or that is stored in an electronic or other medium_  
+| _and is retrievable in perceivable form._  
+|  _Sec._ ___2051.153._ _____APPLICABILITY. (a)_ ___This subchapter applies_  
+| _to all legal material in an electronic record that is:_  
+|  _(1)_ _____designated as official by the official publisher_  
+| _under Section 2051.154; and_  
+|  _(2)_ _____first published electronically by the official_  
+| _publisher on or after January 1, 2021._  
+|  _(b)_ _____The official publisher is not required to publish legal_  
+| _material on or before the date on which the legal material takes_  
+| _effect._  
+|  _Sec._ ___2051.154._ _____LEGAL MATERIAL IN OFFICIAL ELECTRONIC_  
+| _RECORD. (a) If the official publisher publishes legal material_  
+| _only in an electronic record, the official publisher shall:_  
+|  _(1) designate the electronic record as official; and_  
+|  _(2)_ _____comply with Sections 2051.155, 2051.157, and_  
+| _2051.158._  
+|  _(b)_ _____If the official publisher publishes legal material in an_  
+| _electronic record and also publishes the material in a record other_  
+| _than an electronic record, the official publisher may designate the_  
+| _electronic record as official if the official publisher complies_  
+| _with Sections 2051.155, 2051.157, and 2051.158._  
+|  _Sec._ ___2051.155._ _____AUTHENTICATION OF OFFICIAL ELECTRONIC_  
+| _RECORD. (a) If the official publisher designates an electronic_  
+| _record as official in accordance with Section 2051.154, the_  
+| _official publisher shall authenticate the record._  
+|  _(b)_ _____The official publisher authenticates an electronic_  
+| _record by providing a method with which a person viewing the_  
+| _electronic record is able to determine that the electronic record_  
+| _is unaltered from the official record published by the official_  
+| _publisher._  
+|  _Sec._ ___2051.156._ _____EFFECT OF AUTHENTICATION. (a) Legal_  
+| _material in an electronic record that is authenticated as provided_  
+| _by Section 2051.155 is presumed to be an accurate copy of the legal_  
+| _material._  
+|  _(b)_ _____If another state has adopted a law that is substantially_  
+| _similar to this subchapter, legal material in an electronic record_  
+| _that is authenticated in that state is presumed to be an accurate_  
+| _copy of the legal material._  
+|  _(c)_ _____A party contesting the authenticity of legal material in_  
+| _an electronic record authenticated as provided by Section 2051.155_  
+| _has the burden of proving by a preponderance of the evidence that_  
+| _the record is not authentic._  
+|  _Sec._ ___2051.157._ _____PRESERVATION AND SECURITY OF LEGAL MATERIAL_  
+| _IN OFFICIAL ELECTRONIC RECORD. (a) The official publisher of legal_  
+| _material in an electronic record designated as official in_  
+| _accordance with Section 2051.154 shall provide for the preservation_  
+| _and security of the record in an electronic form or in a form that is_  
+| _not electronic._  
+|  _(b)_ _____If legal material is preserved under Subsection (a) in_  
+| _an electronic record, the official publisher shall:_  
+|  _(1) ensure the integrity of the record;_  
+|  _(2)_ _____provide for backup and disaster recovery of the_  
+| _record; and_  
+|  _(3)_ _____ensure the continuing usability of the legal_  
+| _material in the record._  
+|  _Sec._ ___2051.158._ _____PUBLIC ACCESS. The official publisher of_  
+| _legal material in an electronic record that is required to be_  
+| _preserved under Section 2051.157 shall ensure that the material is_  
+| _reasonably available for use by the public on a permanent basis._  
+|  _Sec._ ___2051.159._ _____STANDARDS. In implementing this subchapter,_  
+| _the official publisher of legal material in an electronic record_  
+| _shall consider:_  
+|  _(1)_ _____the standards and practices of other_  
+| _jurisdictions;_  
+|  _(2)_ _____the most recent standards regarding_  
+| _authentication, preservation, and security of and public access to_  
+| _legal material in an electronic record and other electronic_  
+| _records, as adopted by national standard-setting bodies;_  
+|  _(3)_ _____the needs of users of legal material in electronic_  
+| _records;_  
+|  _(4)_ _____the views of governmental officials and entities_  
+| _and other interested persons; and_  
+|  _(5)_ _____to the extent practicable, the methods and_  
+| _technologies for the authentication, preservation, and security of_  
+| _and public access to legal material that are compatible with the_  
+| _methods and technologies used by official publishers in other_  
+| _states that have adopted a law that is substantially similar to this_  
+| _subchapter._  
+|  _Sec._ ___2051.160._ _____UNIFORMITY OF APPLICATION AND CONSTRUCTION._  
+| _In applying and construing this subchapter, consideration must be_  
+| _given to the need to promote uniformity of the law with respect to_  
+| _the subject matter of this subchapter among states that enact a law_  
+| _similar to this subchapter._  
+|  _Sec._ ___2051.161._ _____RELATION TO ELECTRONIC SIGNATURES IN GLOBAL_  
+| _AND NATIONAL COMMERCE ACT. This subchapter modifies, limits, and_  
+| _supersedes the federal Electronic Signatures in Global and National_  
+| _Commerce Act (15 U.S.C. Section 7001 et seq.) but does not modify,_  
+| _limit, or supersede Section 101(c) of that Act (15 U.S.C. Section_  
+| _7001(c)) or authorize electronic delivery of any of the notices_  
+| _described in Section 103(b) of that Act (15 U.S.C. Section_  
+| _7003(b))._  
+|  SECTION 2. (a) An official publisher in the executive  
+| branch of state government shall comply with the applicable  
+| provisions of Subchapter E, Chapter 2051, Government Code, as added  
+| by this Act, in accordance with an implementation plan developed  
+| under Subsection (b) of this section.  
+|  (b) The Texas State Library and Archives Commission and an  
+| official publisher in the executive branch of state government are  
+| jointly responsible for developing an implementation plan for the  
+| applicable provisions of Subchapter E, Chapter 2051, Government  
+| Code, as added by this Act. The implementation plan must:  
+|  (1) for each applicable type of legal material defined  
+| by Subchapter E, Chapter 2051, Government Code, as added by this  
+| Act, advise as to the method by which the legal material may be  
+| authenticated, preserved, and made available on a permanent basis;  
+| and  
+|  (2) establish a timeline for the official publisher to  
+| comply with Sections 2051.154, 2051.155, 2051.157, and 2051.158,  
+| Government Code, as added by this Act.  
+|  (c) The implementation plan developed under Subsection (b)  
+| of this section may provide for compliance by an official publisher  
+| in the executive branch of state government with Sections 2051.154,  
+| 2051.155, 2051.157, and 2051.158, Government Code, as added by this  
+| Act, to be phased in over a period of time.  
+|  (d) The Texas State Library and Archives Commission shall  
+| provide the implementation plan developed under Subsection (b) of  
+| this section to the legislature not later than September 1, 2020.  
+|  SECTION 3. (a) An official publisher in the legislative  
+| branch of state government shall comply with the applicable  
+| provisions of Subchapter E, Chapter 2051, Government Code, as added  
+| by this Act, in accordance with an implementation plan developed  
+| under Subsection (b) of this section.  
+|  (b) An official publisher in the legislative branch of state  
+| government, in consultation with the lieutenant governor, the  
+| speaker of the house of representatives, the Senate Committee on  
+| Administration, and the House Committee on Administration, shall  
+| develop an implementation plan for the applicable provisions of  
+| Subchapter E, Chapter 2051, Government Code, as added by this Act.  
+| The implementation plan must:  
+|  (1) for each applicable type of legal material defined  
+| by Subchapter E, Chapter 2051, Government Code, as added by this  
+| Act, recommend the method by which the legal material may be  
+| authenticated, preserved, and made available on a permanent basis;  
+| and  
+|  (2) establish a timeline for the official publisher to  
+| comply with Sections 2051.154, 2051.155, 2051.157, and 2051.158,  
+| Government Code, as added by this Act.  
+|  (c) The implementation plan developed under Subsection (b)  
+| of this section may provide for compliance by an official publisher  
+| in the legislative branch of state government with Sections  
+| 2051.154, 2051.155, 2051.157, and 2051.158, Government Code, as  
+| added by this Act, to be phased in over a period of time.  
+|  (d) An official publisher in the legislative branch of state  
+| government shall provide the implementation plan developed under  
+| Subsection (b) of this section to the lieutenant governor and  
+| speaker of the house of representatives not later than September 1,  
+| 2020.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

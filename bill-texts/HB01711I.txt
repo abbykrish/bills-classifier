@@ -1,0 +1,168 @@
+| 86R4655 JRR-D  
+---|---  
+|  By: Paddie | H.B. No. 1711  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the issuance of digital license plates; authorizing a  
+| fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 504, Transportation Code, is amended by  
+| adding Subchapter B-1 to read as follows:  
+| _SUBCHAPTER B-1. DIGITAL LICENSE PLATES_  
+|  _Sec. 504.151. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Digital license plate" means an electronic_  
+| _display that is designed to:_  
+|  _(A)_ _____display the information required to be_  
+| _included on a physical license plate; and_  
+|  _(B)_ _____be placed on a vehicle registered under_  
+| _Chapter 502 in lieu of a physical license plate issued under this_  
+| _chapter._  
+|  _(2)_ _____"Digital license plate provider" means a person_  
+| _engaged in the business of providing digital license plate hardware_  
+| _and services to vehicle owners, including the sale or lease of_  
+| _digital license plates, processing of vehicle registration and_  
+| _collection of registration fees, and issuance of digital license_  
+| _plates._  
+|  _Sec._ ___504.152._ _____APPLICABILITY OF OTHER LAW. Except as_  
+| _otherwise provided by this subchapter or a rule adopted under this_  
+| _subchapter, a digital license plate issued under this subchapter is_  
+| _subject to the laws of this state applicable to a physical license_  
+| _plate._  
+|  _Sec._ ___504.153._ _____RULES. The board shall adopt rules as_  
+| _necessary to implement and administer this subchapter._  
+|  _Sec._ ___504.154._ _____DIGITAL LICENSE PLATES AUTHORIZED. (a) The_  
+| _board by rule shall allow a vehicle registered under Chapter 502 to_  
+| _be equipped with a digital license plate in lieu of a physical_  
+| _license plate issued under this chapter._  
+|  _(b)_ _____The department may contract with a digital license plate_  
+| _provider for the issuance of digital license plates, including any_  
+| _services related to the issuance of digital license plates._  
+|  _(c)_ _____Notwithstanding any other law, a rule adopted under this_  
+| _subchapter may:_  
+|  _(1)_ _____authorize a digital license plate provider to_  
+| _process vehicle registration transactions on behalf of the_  
+| _department for vehicles issued digital license plates, including_  
+| _the renewal of registration of the vehicle, and require the_  
+| _provider to remit any vehicle registration fees collected to the_  
+| _department in the manner prescribed by the department;_  
+|  _(2)_ _____authorize the display of the vehicle's_  
+| _registration insignia on each digital license plate issued for the_  
+| _vehicle in lieu of attaching the registration insignia to the_  
+| _inside of the vehicle's windshield as required by Section 502.059;_  
+|  _(3)_ _____authorize the owner of a vehicle issued a digital_  
+| _license plate to pay a prorated monthly registration fee for the_  
+| _vehicle, to be computed in the manner provided by Section_  
+| _502.044(c); or_  
+|  _(4)_ _____authorize the owner of a vehicle issued a digital_  
+| _license plate to attach the digital license plate to the rear of the_  
+| _vehicle in lieu of attaching two physical license plates to the_  
+| _vehicle._  
+|  _Sec._ ___504.155._ _____DIGITAL LICENSE PLATES REQUIREMENTS AND_  
+| _PERMISSIVE FUNCTIONALITY. (a) The board by rule shall set the_  
+| _specifications and requirements for digital license plates,_  
+| _including requirements for the placement of digital license plates._  
+| _The design of and information displayed on a digital license plate_  
+| _must be approved by the department._  
+|  _(b)_ _____A digital license plate issued under this subchapter_  
+| _must:_  
+|  _(1)_ _____meet the specifications and requirements adopted_  
+| _under Subsection (a);_  
+|  _(2)_ _____include the information required to be included on_  
+| _a physical license plate and legibly display that information at_  
+| _all times and in all light conditions, provided that the license_  
+| _plate may display the information in a smaller typeface when the_  
+| _vehicle is parked; and_  
+|  _(3) have wireless connectivity capability._  
+|  _(c)_ _____The department shall consult with law enforcement_  
+| _agencies when considering whether to approve the design of a_  
+| _digital license plate._  
+|  _(d) A rule adopted under this subchapter may:_  
+|  _(1)_ _____authorize the use of a digital license plate for_  
+| _electronic toll collection or to display a parking permit; or_  
+|  _(2)_ _____establish procedures for displaying on a digital_  
+| _license plate:_  
+|  _(A)_ _____an emergency alert or other public safety_  
+| _alert issued by a governmental entity, including an alert_  
+| _authorized under Subchapter L, M, or P, Chapter 411, Government_  
+| _Code;_  
+|  _(B) vehicle manufacturer safety recall notices;_  
+|  _(C)_ _____static logo displays, including unique_  
+| _displays for fleet vehicles; or_  
+|  _(D) advertising approved by the department._  
+|  _Sec._ ___504.156._ _____DIGITAL LICENSE PLATE PROVIDER POWERS AND_  
+| _DUTIES. A digital license plate provider with whom the department_  
+| _contracts under Section 504.154:_  
+|  _(1)_ _____shall maintain an inventory of the digital license_  
+| _plates issued by the provider in this state;_  
+|  _(2)_ _____shall make available a digital version of each_  
+| _specialty license plate authorized by this chapter, other than_  
+| _personalized license plates authorized for marketing and sale under_  
+| _Subchapter J, provided that:_  
+|  _(A)_ _____each issuance of a specialty license plate_  
+| _with restricted distribution, including a license plate authorized_  
+| _under Subchapter C, D, E, or F, must be approved by the department;_  
+| _and_  
+|  _(B)_ _____the provider shall remit to the department in_  
+| _the manner prescribed by the department all money:_  
+|  _(i) payable to the department; or_  
+|  _(ii)_ _____required to be used or deposited in the_  
+| _manner prescribed by the law establishing the license plate;_  
+|  _(3)_ _____may contract with the private vendor authorized_  
+| _under Subchapter J to make available a digital version of a_  
+| _personalized license plate authorized for marketing and sale under_  
+| _that subchapter, provided that the contract shall conform with any_  
+| _applicable requirements of Subchapter J and the terms of the_  
+| _private vendor's contract with the department;_  
+|  _(4)_ _____may process vehicle registration transactions for_  
+| _vehicles issued digital license plates, including the renewal of_  
+| _registration of the vehicle, and shall remit any vehicle_  
+| _registration fees collected to the department in the manner_  
+| _prescribed by the department, if authorized by a rule adopted under_  
+| _Section 504.154(c)(1);_  
+|  _(5)_ _____shall, if a digital license plate displays a_  
+| _registration insignia as authorized by a rule adopted under Section_  
+| _504.154(c)(2), promptly update the display of the registration_  
+| _insignia to reflect the current registration period for the vehicle_  
+| _and, on request of the department, suspend the display of the_  
+| _registration insignia or indicate on the license plate that the_  
+| _registration insignia for the vehicle is expired;_  
+|  _(6)_ _____may provide any service related to the issuance of_  
+| _a digital license plate that is authorized by board rule, including_  
+| _the sale, lease, and installation of and customer service for a_  
+| _digital license plate;_  
+|  _(7)_ _____may charge a fee, payable in installments, for the_  
+| _issuance of a digital license plate or any additional services_  
+| _provided by the provider for that license plate; and_  
+|  _(8)_ _____may, at the request of an owner of a vehicle issued_  
+| _a digital license plate and if authorized by a rule adopted under_  
+| _Section 504.154(c)(3), enter into an installment payment agreement_  
+| _with the owner that allows the owner to pay a prorated monthly_  
+| _registration fee for the vehicle._  
+|  _Sec._ ___504.157._ _____LIABILITY FOR REFUSAL TO PROCESS VEHICLE_  
+| _REGISTRATION. A digital license plate provider authorized to_  
+| _process vehicle registration transactions under this subchapter is_  
+| _not liable to any person for refusing to process a vehicle_  
+| _registration transaction because of the person's failure to provide_  
+| _verification of the person's compliance with Chapter 548._  
+|  _Sec._ ___504.158._ _____DEFENSE TO PROSECUTION OF CERTAIN OFFENSES._  
+| _It is a defense to prosecution of an offense involving the operation_  
+| _of a motor vehicle and relating to the placement of a license plate,_  
+| _including the number of license plates required to be displayed on_  
+| _the vehicle, or the display of a registration insignia that the_  
+| _vehicle was operated in compliance with rules issued under this_  
+| _subchapter governing the placement of a digital license plate,_  
+| _including the number of digital license plates required to be_  
+| _displayed on the vehicle, or the display of a registration insignia_  
+| _on a digital license plate, as applicable._  
+|  SECTION 2. Not later than December 31, 2019, the board of  
+| the Texas Department of Motor Vehicles shall adopt the rules  
+| required by Subchapter B-1, Chapter 504, Transportation Code, as  
+| added by this Act, and any other rules necessary to implement and  
+| administer that subchapter.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

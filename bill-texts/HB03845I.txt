@@ -1,0 +1,33 @@
+| 86R13641 AJZ-F  
+---|---  
+|  By: Calanni | H.B. No. 3845  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of video teleconferencing for testimony of a  
+| forensic analyst in a criminal proceeding.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 38, Code of Criminal Procedure, is  
+| amended by adding Article 38.076 to read as follows:  
+|  _Art._ ___38.076._ _____TESTIMONY OF FORENSIC ANALYST BY VIDEO_  
+| _TELECONFERENCE. (a)_ ___In this article, "forensic analyst" has the_  
+| _meaning assigned by Section 4-a, Article 38.01._  
+|  _(b)_ _____In a proceeding in the prosecution of a criminal offense_  
+| _in which a forensic analyst is required to testify as a witness, any_  
+| _testimony of the witness may be conducted by video teleconferencing_  
+| _in the manner described by Subsection (c) if:_  
+|  _(1)_ _____the use of video teleconferencing is approved by_  
+| _the court after providing notice to all parties;_  
+|  _(2)_ _____the video teleconferencing is coordinated in_  
+| _advance to ensure proper scheduling and equipment compatibility and_  
+| _reliability; and_  
+|  _(3)_ _____a method of electronically transmitting documents_  
+| _related to the proceeding is available at both the location at which_  
+| _the witness is testifying and in the court._  
+|  _(c)_ _____A video teleconferencing system used under this article_  
+| _must provide an encrypted, simultaneous, compressed full motion_  
+| _video and interactive communication of image and sound between the_  
+| _judge, the attorney representing the state, the attorney_  
+| _representing the defendant, and the witness._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

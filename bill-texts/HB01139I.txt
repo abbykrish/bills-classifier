@@ -1,0 +1,95 @@
+| 86R4918 ADM-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 1139  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the applicability of the death penalty to a capital  
+| offense committed by a person with an intellectual disability.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 1, Code of Criminal Procedure, is amended  
+| by adding Chapter 46D to read as follows:  
+| _CHAPTER 46D. CAPITAL CASE: EFFECT OF INTELLECTUAL DISABILITY_  
+|  _Art. 46D.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Adaptive behavior" means the effectiveness with_  
+| _or degree to which a person meets generally recognized standards of_  
+| _personal independence and social responsibility by using learned_  
+| _conceptual, social, and practical skills in everyday life._  
+|  _(2)_ _____"Intellectual disability" means significantly_  
+| _below average general intellectual functioning that is concurrent_  
+| _with significant deficits in adaptive behavior and originates_  
+| _during the developmental period._  
+|  _(3)_ _____"Significantly below average general intellectual_  
+| _functioning" refers to a measured intelligence quotient on a_  
+| _standardized psychometric instrument of two or more standard_  
+| _deviations below the age-group mean for the test used, considering_  
+| _the standard error of measurement applicable to the instrument._  
+|  _Art._ ___46D.002._ _____RESTRICTION ON DEATH PENALTY. A defendant_  
+| _who is a person with an intellectual disability may not be sentenced_  
+| _to death._  
+|  _Art._ ___46D.003._ _____HEARING; DETERMINATION. (a)_ _____The attorney_  
+| _for a defendant in a capital case, not later than the 30th day_  
+| _before the date trial is scheduled to begin, may request in writing_  
+| _that the judge hearing the case hold a hearing to determine whether_  
+| _the defendant is a person with an intellectual disability._  
+|  _(b)_ _____A request under Subsection (a) must be accompanied by_  
+| _evidence supporting the claim that the defendant is a person with an_  
+| _intellectual disability._  
+|  _(c)_ _____On receipt of a request under this article, if the judge_  
+| _determines that the request was timely filed and was accompanied by_  
+| _evidence sufficient to support a finding that the defendant is a_  
+| _person with an intellectual disability, the judge shall hold a_  
+| _hearing to determine the issue._  
+|  _(d)_ _____For purposes of Subsection (c), evidence sufficient to_  
+| _support a finding that the defendant is a person with an_  
+| _intellectual disability may consist solely of a representation from_  
+| _a credible source that the defendant may be a person with an_  
+| _intellectual disability._  
+|  _Art._ ___46D.004._ _____APPOINTMENT OF DISINTERESTED EXPERT. (a)_ _____On_  
+| _the request of either party or on the judge's own motion, the judge_  
+| _shall appoint a disinterested expert experienced and qualified in_  
+| _the field of diagnosing intellectual disabilities to examine the_  
+| _defendant and determine whether the defendant is a person with an_  
+| _intellectual disability._  
+|  _(b)_ _____The judge may order the defendant to submit to an_  
+| _examination by an expert appointed under this article._  
+|  _(c)_ _____An examination described by this article must be_  
+| _narrowly tailored to determine whether the defendant has an_  
+| _intellectual disability._  
+|  _Art._ ___46D.005._ _____BURDEN OF PROOF. (a)_ _____At a hearing under
+this_  
+| _chapter, the burden is on the defendant to prove by a preponderance_  
+| _of the evidence that the defendant is a person with an intellectual_  
+| _disability._  
+|  _(b)_ _____The state may offer evidence to rebut evidence offered_  
+| _by the defendant._  
+|  _Art._ ___46D.006._ _____PREVAILING MEDICAL STANDARDS. Evidence_  
+| _offered by either party for purposes of a hearing under this chapter_  
+| _must be consistent with prevailing medical standards for the_  
+| _diagnosis of intellectual disabilities._  
+|  _Art._ ___46D.007._ _____FINDING OF FACT RELATED TO INTELLECTUAL_  
+| _DISABILITY. (a)_ _____Not later than the 120th day after the conclusion_  
+| _of a hearing under this chapter, the judge shall issue a written_  
+| _finding of fact as to whether the defendant is a person with an_  
+| _intellectual disability. The finding of fact must explain the_  
+| _judge's reasoning and cite evidence in the record._  
+|  _(b)_ _____If the judge finds that the defendant is a person with an_  
+| _intellectual disability and the defendant is subsequently_  
+| _convicted of a capital offense, Article 37.071 does not apply to the_  
+| _defendant, and the judge shall sentence the defendant to_  
+| _imprisonment in the Texas Department of Criminal Justice for life_  
+| _without parole._  
+|  _(c)_ _____If the judge does not find that the defendant is a person_  
+| _with an intellectual disability, the judge shall conduct the trial_  
+| _of the offense in the same manner as if a hearing under this chapter_  
+| _had not been held. At the trial:_  
+|  _(1)_ _____the jury may not be informed of the fact that the_  
+| _judge held a hearing under this article; and_  
+|  _(2)_ _____the defendant may present evidence of intellectual_  
+| _disability as otherwise permitted by law._  
+|  SECTION 2. Chapter 46D, Code of Criminal Procedure, as  
+| added by this Act, applies only to a trial that commences on or  
+| after the effective date of this Act, regardless of whether the  
+| alleged offense was committed before, on, or after that date.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

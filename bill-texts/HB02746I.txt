@@ -1,0 +1,30 @@
+| 86R13697 SCL-D  
+---|---  
+|  By: Gervin-Hawkins | H.B. No. 2746  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to manufacturer disclosure of cosmetic ingredients;  
+| authorizing an administrative penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter F, Chapter 431, Health and Safety  
+| Code, is amended by adding Section 431.143 to read as follows:  
+|  _Sec._ ___431.143._ _____MANUFACTURER DISCLOSURE. (a) A manufacturer_  
+| _selling a cosmetic in this state shall disclose on the_  
+| _manufacturer's Internet website:_  
+|  _(1)_ _____a list of each ingredient in the cosmetic,_  
+| _including a fragrance, flavor, and color additive, in order of_  
+| _predominance except that the ingredients in the cosmetic with a_  
+| _concentration of less than one percent may be listed in any order_  
+| _for purposes of protecting a trade secret; and_  
+|  _(2)_ _____the chemical abstract service number for each_  
+| _listed ingredient._  
+|  _(b)_ _____A manufacturer is not required to list the concentration_  
+| _of each ingredient in a cosmetic under Subsection (a)._  
+|  SECTION 2. Section 431.054(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) The department may assess an administrative penalty  
+| against a person who violates Subchapter B _, Section 431.143,_ or an  
+| order adopted or registration issued under this chapter.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

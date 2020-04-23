@@ -1,0 +1,18 @@
+| 86R1301 JXC-D  
+---|---  
+|  By: Sanford | H.B. No. 2604  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the number of emissions inspections performed by  
+| certain vehicle inspection stations.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 548.3075(b), Transportation Code, is  
+| amended to read as follows:  
+|  (b) A department rule that allows _an_ [ ~~a qualified~~ ]  
+| inspection station to perform a limited emissions inspection of a  
+| motor vehicle may not restrict the _number of limited emissions_  
+| [ ~~station to fewer than 150~~ ] inspections _conducted by the station_  
+| [ ~~per month~~ ].  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

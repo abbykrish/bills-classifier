@@ -1,0 +1,149 @@
+| 86R685 CJC-D  
+---|---  
+|  By: Shaheen | H.B. No. 430  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain information included with ballot propositions  
+| for elections to authorize state and local general obligation  
+| bonds.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 274, Election Code, is  
+| amended by adding Section 274.005 to read as follows:  
+|  _Sec._ ___274.005._ _____PROPOSITION STATEMENT REGARDING GENERAL_  
+| _OBLIGATION BONDS OF THIS STATE. (a) In addition to any other_  
+| _wording for a ballot proposition for a proposed constitutional_  
+| _amendment to authorize the issuance of general obligation bonds of_  
+| _this state, the secretary of state shall require that the_  
+| _proposition, both on the ballot and in the proclamation ordering_  
+| _the election at which the amendment will be submitted, be_  
+| _accompanied by a statement that includes the following amounts,_  
+| _with each stated as a total amount and as a per capita amount for the_  
+| _current population of this state at the time the statement is_  
+| _prepared:_  
+|  _(1)_ _____the current general obligation debt of this state_  
+| _at the time the statement is prepared;_  
+|  _(2)_ _____the maximum amount of additional general_  
+| _obligation debt of this state that would be authorized by the_  
+| _proposed amendment; and_  
+|  _(3)_ _____the maximum estimated cost to repay the general_  
+| _obligation debt that would be authorized by the proposed amendment,_  
+| _including principal and interest, at a stated likely interest rate._  
+|  _(b)_ _____For the purposes of the information required by_  
+| _Subsection (a), on the request of the secretary of state the Bond_  
+| _Review Board shall:_  
+|  _(1)_ _____certify the current general obligation debt of_  
+| _this state;_  
+|  _(2)_ _____determine a likely interest rate for the proposed_  
+| _bonds; and_  
+|  _(3)_ _____compute the estimated maximum repayment cost in_  
+| _accordance with the likely interest rate determined under_  
+| _Subdivision (2)._  
+|  _(c)_ _____The ballot required by this section must be printed in_  
+| _substantially the following format:_  
+|  |  |  |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _DEBT ITEMS_ |  | _TOTAL_ | _PER CAPITA_ |  
+---|---|---|---|---|---  
+|  |  |  |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _CURRENT GENERAL_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _OBLIGATION DEBT_ |  | _$ _____ | _$ _____ |  
+---|---|---|---|---|---  
+|  |  |  |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _PROPOSED ADDITIONAL GENERAL_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _OBLIGATION DEBT_ |  | _$ _____ | _$ _____ |  
+---|---|---|---|---|---  
+|  |  |  |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _COST TO REPAY_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _ADDITIONAL GENERAL_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _OBLIGATION DEBT_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _AT __% INTEREST_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _OVER __ YEARS_ |  | _$ _____ | _$ _____ |  
+---|---|---|---|---|---  
+|  _(d) The statement required by this section must:_  
+|  _(1)_ _____be considered by the secretary of state before the_  
+| _secretary certifies the proposed amendment under Section_  
+| _274.003(a); and_  
+|  _(2)_ _____be appropriately translated as provided by Section_  
+| _274.003(c) for other ballot language._  
+|  SECTION 2. Subtitle C, Title 9, Government Code, is amended  
+| by adding Chapter 1253 to read as follows:  
+| _CHAPTER 1253. BALLOT INFORMATION FOR ELECTION TO AUTHORIZE LOCAL_  
+| _GOVERNMENTAL GENERAL OBLIGATION BONDS_  
+|  _Sec._ ___1253.0001._ _____DEFINITION. In this chapter, "local_  
+| _government" means a political subdivision or special-purpose_  
+| _district or authority of this state, including a county,_  
+| _municipality, school district, junior college district, hospital_  
+| _district, or conservation and reclamation district._  
+|  _Sec._ ___1253.0002._ _____BALLOT INFORMATION FOR ELECTION REGARDING_  
+| _GENERAL OBLIGATION BONDS. (a)_ _____This section applies to a ballot_  
+| _printed for an election to authorize a local government to issue_  
+| _general obligation bonds._  
+|  _(b)_ _____A ballot must include with the ballot proposition a_  
+| _statement that includes the following amounts, with each stated as_  
+| _a total amount and as a per capita amount for the current population_  
+| _of the local government at the time the statement is prepared:_  
+|  _(1)_ _____the current general obligation debt of the local_  
+| _government at the time the statement is prepared;_  
+|  _(2)_ _____the maximum amount of additional general_  
+| _obligation debt of the local government that would be authorized if_  
+| _the proposition is passed; and_  
+|  _(3)_ _____the maximum estimated cost to repay the general_  
+| _obligation debt that would be authorized by the proposition,_  
+| _including principal and interest, at a stated likely interest rate._  
+|  _(c)_ _____The ballot required by this section must be printed in_  
+| _substantially the following format:_  
+|  |  |  |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _DEBT ITEMS_ |  | _TOTAL_ | _PER CAPITA_ |  
+---|---|---|---|---|---  
+|  |  |  |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _CURRENT GENERAL_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _OBLIGATION DEBT_ |  | _$ _____ | _$ _____ |  
+---|---|---|---|---|---  
+|  |  |  |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _PROPOSED ADDITIONAL GENERAL_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _OBLIGATION DEBT_ |  | _$ _____ | _$ _____ |  
+---|---|---|---|---|---  
+|  |  |  |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _COST TO REPAY_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _ADDITIONAL GENERAL_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _OBLIGATION DEBT_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _AT __% INTEREST_ |  |  |  |  
+---|---|---|---|---|---  
+|  |  | _OVER __ YEARS_ |  | _$ _____ | _$ _____ |  
+---|---|---|---|---|---  
+|  _Sec._ ___1253.0003._ _____DETERMINATION OF BALLOT INFORMATION. For_  
+| _the purposes of the information required by Section 1253.0002(b),_  
+| _the treasurer of the local government, or another person as_  
+| _determined by the governing body of the local government, shall:_  
+|  _(1)_ _____certify the current general obligation debt of the_  
+| _local government;_  
+|  _(2)_ _____determine a likely interest rate for the proposed_  
+| _bonds; and_  
+|  _(3)_ _____compute the estimated maximum repayment cost in_  
+| _accordance with the likely interest rate determined under_  
+| _Subdivision (2)._  
+|  SECTION 3. Section 274.005, Election Code, as added by this  
+| Act, and Chapter 1253, Government Code, as added by this Act, apply  
+| only to a ballot proposition for an election held on or after  
+| November 1, 2020.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

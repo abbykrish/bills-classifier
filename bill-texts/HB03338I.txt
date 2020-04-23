@@ -1,0 +1,61 @@
+| 86R13088 PMO-D  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 3338  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to identification cards issued by health maintenance  
+| organizations and preferred provider organizations.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 843.209, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 843.209. IDENTIFICATION CARD. _(a)_ An identification  
+| card or other similar document issued by a health maintenance  
+| organization to an enrollee must:  
+|  (1) indicate that the health maintenance organization  
+| is regulated under this code and subject to the provisions of  
+| Subchapter J; [ ~~and~~ ]  
+|  (2) display:  
+|  (A) the first date on which the enrollee became  
+| enrolled; or  
+|  (B) a toll-free number a physician or provider  
+| may use to obtain that date _; and_  
+|  _(3)_ _____display the acronym "HMO" in the location of the_  
+| _health maintenance organization's choice_.  
+|  _(b)_ _____An identification card or other similar document that_  
+| _bears the acronym "HMO" as required by Subsection (a) indicates_  
+| _that health benefit coverage for health care services provided by a_  
+| _participating physician or provider does not ensure the enrollee_  
+| _has access to:_  
+|  _(1)_ _____health care services at a discounted rate if the_  
+| _services are provided by a physician or provider who is not included_  
+| _in the health maintenance organization delivery network; or_  
+|  _(2)_ _____other fee discounts available under the health_  
+| _maintenance organization delivery network._  
+|  SECTION 2. Section 1301.162, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 1301.162. IDENTIFICATION CARD. _(a)_ An identification  
+| card or other similar document issued by an insurer regulated by  
+| this code and subject to this chapter to an individual insured must _:_  
+|  _(1)_ display:  
+|  _(A)_ [ ~~(1)~~ ] the first date on which the individual  
+| became insured under the plan; or  
+|  _(B)_ [ ~~(2)~~ ] a toll-free number a physician or  
+| health care provider may use to obtain that date _; and_  
+|  _(2)_ _____display the acronym "PPO" in the location of the_  
+| _insurer's choice_.  
+|  _(b)_ _____An identification card or other similar document that_  
+| _bears the acronym "PPO" as required by Subsection (a) indicates_  
+| _that health benefit coverage for medical care or health care_  
+| _services provided by a preferred provider does not ensure the_  
+| _insured has access to:_  
+|  _(1)_ _____medical care or health care services at a_  
+| _discounted rate if the services are provided by an out-of-network_  
+| _provider; or_  
+|  _(2)_ _____other fee discounts available under the provider_  
+| _network._  
+|  SECTION 3. Sections 843.209 and 1301.162, Insurance Code,  
+| as amended by this Act, apply only to an identification card or  
+| other similar document issued on or after January 1, 2020.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

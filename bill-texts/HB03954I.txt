@@ -1,0 +1,222 @@
+| 86R13176 BEF-F  
+---|---  
+|  By: Burrows | H.B. No. 3954  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to motor fuel taxes applicable to gasoline and diesel fuel  
+| within the bulk transfer system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 162.001, Tax Code, is amended by  
+| amending Subdivisions (11), (12), and (57) and adding Subdivisions  
+| (40-b) and (42-a) to read as follows:  
+|  (11) "Bulk transfer" means a transfer of motor fuel  
+| from one location to another _within the United States_ by pipeline or  
+| marine movement within a bulk transfer/terminal system, including:  
+|  (A) a marine vessel movement of motor fuel _owned_  
+| _by a licensed supplier or permissive supplier_ [ ~~from a refinery or~~  
+|  ~~terminal to a terminal~~ ];  
+|  (B) a pipeline movement of motor fuel from a  
+| refinery _, motor fuel storage facility,_ or terminal to a terminal _or_  
+| _motor fuel storage facility_ ;  
+|  (C) a book transfer or in-tank transfer of motor  
+| fuel within a terminal _or motor fuel storage facility_ between  
+| licensed suppliers before completion of removal across the rack;  
+| and  
+|  (D) a two-party exchange between licensed  
+| suppliers or between licensed suppliers and permissive suppliers.  
+|  (12) "Bulk transfer/terminal system" means the motor  
+| fuel distribution system consisting of refineries, pipelines,  
+| marine vessels, _motor fuel storage facilities,_ and IRS-approved  
+| terminals. Motor fuel is in the bulk transfer/terminal system if  
+| the motor fuel is in a refinery, a pipeline, _a motor fuel storage_  
+| _facility,_ a terminal, or a marine vessel transporting motor fuel  
+| _owned by a licensed supplier or permissive supplier_ [ ~~to a refinery~~  
+|  ~~or terminal~~ ]. Motor fuel is not in the bulk transfer/terminal  
+| system if the motor fuel is in [ ~~a motor fuel storage facility,~~  
+|  ~~including~~ ]:  
+|  (A) a bulk plant that is not part of a refinery or  
+| terminal;  
+|  (B) the motor fuel supply tank of an engine or a  
+| motor vehicle; _or_  
+|  (C) [ ~~a marine vessel transporting motor fuel to a~~  
+|  ~~motor fuel storage facility that is not in the bulk~~  
+|  ~~transfer/terminal system; or~~  
+|  [ ~~(D)~~ ] a tank car, railcar, trailer, truck, or  
+| other equipment suitable for ground transportation.  
+|  _(40-b) "Marine vessel" includes a marine barge._  
+|  _(42-a) "Motor fuel storage facility" means a storage_  
+| _facility supplied by pipeline or marine vessel that does not have a_  
+| _rack for removal of motor fuel by truck, railcar, or any other means_  
+| _of conveyance that is outside the bulk transfer/terminal system._  
+|  (57) "Supplier" means a person that:  
+|  (A) is subject to the general taxing jurisdiction  
+| of this state;  
+|  (B) is registered under Section 4101, Internal  
+| Revenue Code, for transactions in motor fuel in the bulk  
+| transfer/terminal distribution system, and is:  
+|  (i) a position holder in motor fuel in a  
+| terminal or refinery in this state and may concurrently also be a  
+| position holder in motor fuel in another state; [ ~~or~~ ]  
+|  (ii) a person who receives motor fuel in  
+| this state under a two-party exchange; _or_  
+|  _(iii)_ _____a person who owns motor fuel in a_  
+| _marine vessel in this state;_ and  
+|  (C) may also be a terminal operator, provided  
+| that a terminal operator is not considered to also be a "supplier"  
+| based solely on the fact that the terminal operator handles motor  
+| fuel consigned to it within a terminal.  
+|  SECTION 2. Section 162.101, Tax Code, is amended by  
+| amending Subsection (e-1) and adding Subsection (e-3) to read as  
+| follows:  
+|  (e-1) A tax is imposed on gasoline that is otherwise exempt  
+| from taxation under Section 162.104(a)(4) or (7) if the gasoline is  
+| sold _into a truck or railcar_ in this state to a person who does not  
+| hold a license under Section 162.105(1), (2), (3), (4), or (6). The  
+| person _who_ [ ~~that~~ ] sold the gasoline is liable for and shall collect  
+| _and remit_ the tax.  
+|  _(e-3)_ _____A tax is imposed on gasoline that is otherwise exempt_  
+| _from taxation under Section 162.104(a)(7) if the gasoline is sold_  
+| _into a marine vessel in this state to a person who does not hold a_  
+| _license under Section 162.105(1), (2), (3), (4), or (6) unless the_  
+| _exporter of record is licensed under Section 162.105(1), (2), (3),_  
+| _(4), or (6). The person who sold the gasoline is liable for and_  
+| _shall collect and remit the tax._  
+|  SECTION 3. Section 162.104(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) The tax imposed by this subchapter does not apply to  
+| gasoline:  
+|  (1) sold to the United States for its exclusive use,  
+| provided that the exemption does not apply with respect to fuel sold  
+| or delivered to a person operating under a contract with the United  
+| States;  
+|  (2) sold to a public school district in this state for  
+| the district's exclusive use;  
+|  (3) sold to a commercial transportation company or a  
+| metropolitan rapid transit authority operating under Chapter 451,  
+| Transportation Code, that provides public school transportation  
+| services to a school district under Section 34.008, Education Code,  
+| and that uses the gasoline only to provide those services;  
+|  (4) exported by either a licensed supplier or a  
+| licensed exporter from this state to any other state, provided that  
+| the bill of lading indicates the destination state and the supplier  
+| collects the destination state tax;  
+|  (5) moved by truck or railcar between licensed  
+| suppliers or licensed permissive suppliers and in which the  
+| gasoline removed from the first terminal comes to rest in the second  
+| terminal, provided that the removal from the second terminal rack  
+| is subject to the tax imposed by this subchapter;  
+|  (6) delivered or sold into a storage facility of a  
+| licensed aviation fuel dealer from which gasoline will be delivered  
+| solely into the fuel supply tanks of aircraft or aircraft servicing  
+| equipment, or sold from one licensed aviation fuel dealer to  
+| another licensed aviation fuel dealer who will deliver the aviation  
+| fuel exclusively into the fuel supply tanks of aircraft or aircraft  
+| servicing equipment;  
+|  (7) exported to a foreign country if the bill of lading  
+| _or shipping documents indicate_ [ ~~indicates~~ ] the foreign destination  
+| and the fuel is actually exported to the foreign country;  
+|  (8) sold to a volunteer fire department in this state  
+| for the department's exclusive use; or  
+|  (9) sold to a nonprofit entity that is organized for  
+| the sole purpose of and engages exclusively in providing emergency  
+| medical services and that uses the gasoline exclusively to provide  
+| emergency medical services, including rescue and ambulance  
+| services.  
+|  SECTION 4. Section 162.201, Tax Code, is amended by  
+| amending Subsection (e-1) and adding Subsection (e-3) to read as  
+| follows:  
+|  (e-1) A tax is imposed on diesel fuel that is otherwise  
+| exempt from taxation under Section 162.204(a)(4) or (7) if the  
+| diesel fuel is sold _into a truck or railcar_ in this state to a person  
+| who does not hold a license under Section 162.205(a)(1), (2), (3),  
+| (4), or (6). The person _who_ [ ~~that~~ ] sold the diesel fuel is liable  
+| for and shall collect _and remit_ the tax.  
+|  _(e-3)_ _____A tax is imposed on diesel fuel that is otherwise_  
+| _exempt from taxation under Section 162.204(a)(7) if the diesel fuel_  
+| _is sold into a marine vessel in this state to a person who does not_  
+| _hold a license under Section 162.205(a)(1), (2), (3), (4), or (6),_  
+| _unless the exporter of record is licensed under Section_  
+| _162.205(a)(1), (2), (3), (4), or (6). The person who sold the diesel_  
+| _fuel is liable for and shall collect and remit the tax._  
+|  SECTION 5. Section 162.204(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) The tax imposed by this subchapter does not apply to:  
+|  (1) diesel fuel sold to the United States for its  
+| exclusive use, provided that the exemption does not apply to diesel  
+| fuel sold or delivered to a person operating under a contract with  
+| the United States;  
+|  (2) diesel fuel sold to a public school district in  
+| this state for the district's exclusive use;  
+|  (3) diesel fuel sold to a commercial transportation  
+| company or a metropolitan rapid transit authority operating under  
+| Chapter 451, Transportation Code, that provides public school  
+| transportation services to a school district under Section 34.008,  
+| Education Code, and that uses the diesel fuel only to provide those  
+| services;  
+|  (4) diesel fuel exported by either a licensed supplier  
+| or a licensed exporter from this state to any other state, provided  
+| that the bill of lading indicates the destination state and the  
+| supplier collects the destination state tax;  
+|  (5) diesel fuel moved by truck or railcar between  
+| licensed suppliers or licensed permissive suppliers and in which  
+| the diesel fuel removed from the first terminal comes to rest in the  
+| second terminal, provided that the removal from the second terminal  
+| rack is subject to the tax imposed by this subchapter;  
+|  (6) diesel fuel delivered or sold into a storage  
+| facility of a licensed aviation fuel dealer from which the diesel  
+| fuel will be delivered solely into the fuel supply tanks of aircraft  
+| or aircraft servicing equipment, or sold from one licensed aviation  
+| fuel dealer to another licensed aviation fuel dealer who will  
+| deliver the diesel fuel exclusively into the fuel supply tanks of  
+| aircraft or aircraft servicing equipment;  
+|  (7) diesel fuel exported to a foreign country if the  
+| bill of lading _or shipping documents indicate_ [ ~~indicates~~ ] the  
+| foreign destination and the fuel is actually exported to the  
+| foreign country;  
+|  (8) dyed diesel fuel sold or delivered by a supplier to  
+| another supplier and dyed diesel fuel sold or delivered by a  
+| supplier or distributor into the bulk storage facility of a dyed  
+| diesel fuel bonded user or to a purchaser who provides a signed  
+| statement as provided by Section 162.206;  
+|  (9) the volume of water, fuel ethanol, renewable  
+| diesel, biodiesel, or mixtures thereof that are blended together  
+| with taxable diesel fuel when the finished product sold or used is  
+| clearly identified on the retail pump, storage tank, and sales  
+| invoice as a combination of diesel fuel and water, fuel ethanol,  
+| renewable diesel, biodiesel, or mixtures thereof;  
+|  (10) dyed diesel fuel sold by a supplier or permissive  
+| supplier to a distributor, or by a distributor to another  
+| distributor;  
+|  (11) dyed diesel fuel delivered by a license holder  
+| into the fuel supply tanks of railway engines, motorboats, or  
+| refrigeration units or other stationary equipment powered by a  
+| separate motor from a separate fuel supply tank;  
+|  (12) dyed kerosene when delivered by a supplier,  
+| distributor, or importer into a storage facility at a retail  
+| business from which all deliveries are exclusively for heating,  
+| cooking, lighting, or similar nonhighway use;  
+|  (13) diesel fuel used by a person, other than a  
+| political subdivision, who owns, controls, operates, or manages a  
+| commercial motor vehicle as defined by Section 548.001,  
+| Transportation Code, if the fuel:  
+|  (A) is delivered exclusively into the fuel supply  
+| tank of the commercial motor vehicle; and  
+|  (B) is used exclusively to transport passengers  
+| for compensation or hire between points in this state on a fixed  
+| route or schedule;  
+|  (14) diesel fuel sold to a volunteer fire department  
+| in this state for the department's exclusive use; or  
+|  (15) diesel fuel sold to a nonprofit entity that is  
+| organized for the sole purpose of and engages exclusively in  
+| providing emergency medical services and that uses the diesel fuel  
+| exclusively to provide emergency medical services, including  
+| rescue and ambulance services.  
+|  SECTION 6. The changes in law made by this Act do not affect  
+| tax liability accruing before the effective date of this Act. That  
+| liability continues in effect as if this Act had not been enacted,  
+| and the former law is continued in effect for the collection of  
+| taxes due and for civil and criminal enforcement of the liability  
+| for those taxes.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

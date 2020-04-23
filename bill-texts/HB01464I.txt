@@ -1,0 +1,177 @@
+| 86R4740 JRJ-F  
+---|---  
+|  By: Gonzalez of Dallas | H.B. No. 1464  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to voter registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 13.004(a), (c), and (d), Election Code,  
+| are amended to read as follows:  
+|  (a) The registrar may not transcribe, copy, or otherwise  
+| record a telephone number _or e-mail address_ furnished on a  
+| registration application.  
+|  (c) The following information furnished on a registration  
+| application is confidential and does not constitute public  
+| information for purposes of Chapter 552, Government Code:  
+|  (1) a social security number;  
+|  (2) a Texas driver's license number;  
+|  (3) a number of a personal identification card issued  
+| by the Department of Public Safety;  
+|  (4) an indication that an applicant is interested in  
+| working as an election judge;  
+|  (5) _a telephone number or e-mail address;_  
+|  _(6)_ the residence address of the applicant, if the  
+| applicant is a federal judge or state judge, as defined by Section  
+| 13.0021, the spouse of a federal judge or state judge, or an  
+| individual to whom Section 552.1175, Government Code, applies and  
+| the applicant:  
+|  (A) included an affidavit with the registration  
+| application describing the applicant's status under this  
+| subdivision, including an affidavit under Section 13.0021 if the  
+| applicant is a federal judge or state judge or the spouse of a  
+| federal judge or state judge;  
+|  (B) provided the registrar with an affidavit  
+| describing the applicant's status under this subdivision,  
+| including an affidavit under Section 15.0215 if the applicant is a  
+| federal judge or state judge or the spouse of a federal judge or  
+| state judge; or  
+|  (C) provided the registrar with a completed form  
+| approved by the secretary of state for the purpose of notifying the  
+| registrar of the applicant's status under this subdivision;  
+|  _(7)_ [ ~~(6)~~ ] the residence address of the applicant, if  
+| the applicant, the applicant's child, or another person in the  
+| applicant's household is a victim of family violence as defined by  
+| Section 71.004, Family Code, who provided the registrar with:  
+|  (A) a copy of a protective order issued under  
+| Chapter 85, Family Code, or a magistrate's order for emergency  
+| protection issued under Article 17.292, Code of Criminal Procedure;  
+| or  
+|  (B) other independent documentary evidence  
+| necessary to show that the applicant, the applicant's child, or  
+| another person in the applicant's household is a victim of family  
+| violence;  
+|  _(8)_ [ ~~(7)~~ ] the residence address of the applicant, if  
+| the applicant, the applicant's child, or another person in the  
+| applicant's household is a victim of sexual assault or abuse,  
+| stalking, or trafficking of persons who provided the registrar  
+| with:  
+|  (A) a copy of a protective order issued under  
+| Chapter 7A or Article 6.09, Code of Criminal Procedure, or a  
+| magistrate's order for emergency protection issued under Article  
+| 17.292, Code of Criminal Procedure; or  
+|  (B) other independent documentary evidence  
+| necessary to show that the applicant, the applicant's child, or  
+| another person in the applicant's household is a victim of sexual  
+| assault or abuse, stalking, or trafficking of persons; or  
+|  _(9)_ [ ~~(8)~~ ] the residence address of the applicant, if  
+| the applicant:  
+|  (A) is a participant in the address  
+| confidentiality program administered by the attorney general under  
+| Subchapter C, Chapter 56, Code of Criminal Procedure; and  
+|  (B) provided the registrar with proof of  
+| certification under Article 56.84, Code of Criminal Procedure.  
+|  (d) The voter registrar or other county official who has  
+| access to the information furnished on a registration application  
+| may not post the following information on a website:  
+|  (1) a telephone number _or e-mail address_ ;  
+|  (2) a social security number;  
+|  (3) a driver's license number or a number of a personal  
+| identification card;  
+|  (4) a date of birth; or  
+|  (5) the residence address of a voter who is a federal  
+| judge or state judge, as defined by Section 13.0021, or the spouse  
+| of a federal judge or state judge, if the voter included an  
+| affidavit with the application under Section 13.0021 or the  
+| registrar has received an affidavit submitted under Section  
+| 15.0215.  
+|  SECTION 2. Subchapter A, Chapter 84, Election Code, is  
+| amended by adding Section 84.0022 to read as follows:  
+|  _Sec._ ___84.0022._ _____CONFIDENTIALITY AND USE OF CERTAIN_  
+| _INFORMATION. Information included on an application for a ballot_  
+| _to be voted by mail is subject to Section 13.004 in the same manner_  
+| _as that section applies to an application to register to vote._  
+|  SECTION 3. Section 84.011(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The officially prescribed application form for an early  
+| voting ballot must _combine the contents required under Section_  
+| _84.002 for an early voting ballot application with an officially_  
+| _prescribed voter registration application form and_ include:  
+|  (1) immediately preceding the signature space the  
+| statement: "I certify that the information given in this  
+| application is true, and I understand that giving false information  
+| in this application is a crime.";  
+|  (2) a statement informing the applicant of the  
+| offenses prescribed by Sections 84.003 and 84.004;  
+|  (3) spaces for entering an applicant's _information to_  
+| _register to vote or_ voter registration number and county election  
+| precinct of registration, _as applicable,_ with a statement informing  
+| the applicant that failure to furnish that information does not  
+| invalidate the application; and  
+|  (4) on an application for a ballot to be voted by mail:  
+|  (A) a space for an applicant applying on the  
+| ground of absence from the county of residence to indicate the date  
+| on or after which the applicant can receive mail at the address  
+| outside the county;  
+|  (B) a space for indicating the fact that an  
+| applicant whose application is signed by a witness cannot make the  
+| applicant's mark and a space for indicating the relationship or  
+| lack of relationship of the witness to the applicant;  
+|  (C) a space for entering an applicant's telephone  
+| number _and e-mail address_ , with a statement informing the applicant  
+| that failure to furnish that information does not invalidate the  
+| application;  
+|  (D) a space or box for an applicant applying on  
+| the ground of age or disability to indicate that the address to  
+| which the ballot is to be mailed is the address of a facility or  
+| relative described by Section 84.002(a)(3), if applicable;  
+|  (E) a space or box for an applicant applying on  
+| the ground of confinement in jail to indicate that the address to  
+| which the ballot is to be mailed is the address of a relative  
+| described by Section 84.002(a)(4), if applicable;  
+|  (F) a space for an applicant applying on the  
+| ground of age or disability to indicate if the application is an  
+| application under Section 86.0015;  
+|  (G) spaces for entering the signature, printed  
+| name, and residence address of any person assisting the applicant;  
+|  (H) a statement informing the applicant of the  
+| condition prescribed by Section 81.005; and  
+|  (I) a statement informing the applicant of the  
+| requirement prescribed by Section 86.003(c).  
+|  SECTION 4. Section 84.014, Election Code, is amended to  
+| read as follows:  
+|  Sec. 84.014. ACTION BY EARLY VOTING CLERK ON CERTAIN  
+| APPLICATIONS.  _(a)_ If an applicant provides a date of birth,  
+| driver's license number, [ ~~or~~ ] social security number _, or other_  
+| _information required for registration under Title 2_ on the  
+| applicant's application for an early voting ballot to be voted by  
+| mail that is different from or in addition to the information  
+| maintained by the voter registrar in accordance with _that title_  
+| [ ~~Title 2~~ ], the early voting clerk shall notify the voter  
+| registrar. The voter registrar shall update the voter's record  
+| with the information provided by the applicant.  
+|  _(b)_ _____The submission of an application for an early voting_  
+| _ballot to be voted by mail by an unregistered applicant that_  
+| _complies with the applicable requirements and contains the_  
+| _information required for registration under Title 2 constitutes_  
+| _registration by the applicant._  
+|  SECTION 5. Section 86.001(e), Election Code, is amended to  
+| read as follows:  
+|  (e) If the applicant does not have an effective voter  
+| registration for the election, the clerk shall reject the  
+| application unless _:_  
+|  _(1)_ the clerk can determine from the voter registrar  
+| that the applicant has submitted a voter registration application  
+| and the registration will be effective on election day _; or_  
+|  _(2)_ _____the application contains the information that is_  
+| _required for registration under Title 2 and the registration will_  
+| _be effective on election day_.  
+|  SECTION 6. The changes in law made by this Act apply to an  
+| application for a ballot to be voted by mail submitted for an  
+| election ordered on or after the effective date of this Act. An  
+| application for a ballot to be voted by mail submitted for an  
+| election ordered before the effective date of this Act is governed  
+| by the law in effect when the election was ordered, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

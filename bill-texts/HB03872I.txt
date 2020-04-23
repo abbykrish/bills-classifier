@@ -1,0 +1,73 @@
+| 86R11708 GRM-F  
+---|---  
+|  By: Longoria | H.B. No. 3872  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to data matching with financial institutions to facilitate  
+| the collection of state delinquent tax liabilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 111, Tax Code, is amended  
+| by adding Section 111.025 to read as follows:  
+|  _Sec._ ___111.025._ _____DELINQUENT TAXPAYER FINANCIAL RECORDS. (a)_  
+| _In this section:_  
+|  _(1)_ _____"Account" means a demand deposit account, checking_  
+| _or negotiable order of withdrawal account, savings account, time_  
+| _deposit account, or money-market mutual fund account._  
+|  _(2)_ _____"Delinquent taxpayer" means a person who at the_  
+| _time of the data match request is delinquent in a tax or fee_  
+| _administered by the comptroller._  
+|  _(3) "Financial institution" means:_  
+|  _(A)_ _____a depository institution or an_  
+| _institution-affiliated party, as defined by 12 U.S.C. Section 1813;_  
+|  _(B)_ _____a federal credit union or a state credit_  
+| _union, as defined by 12 U.S.C. Section 1752, including an_  
+| _institution-affiliated party of a credit union, as defined by 12_  
+| _U.S.C. Section 1786; or_  
+|  _(C)_ _____a benefit association, insurance company,_  
+| _safe deposit company, money-market mutual fund, or similar entity_  
+| _authorized to do business in this state._  
+|  _(b)_ _____For the purpose of carrying out the terms of this title,_  
+| _the comptroller may request a financial institution to perform a_  
+| _match that compares account holders' names, social security_  
+| _numbers, or federal employer identification numbers to delinquent_  
+| _taxpayer information provided by the comptroller._  
+|  _(c)_ _____Not later than the 90th day after the date of the match_  
+| _request under Subsection (b),_ _____the financial institution shall_  
+| _file a report with the comptroller containing the following_  
+| _information for each account containing matching information:_  
+|  _(1) the account holder's name;_  
+|  _(2) the account holder's address;_  
+|  _(3)_ _____the account holder's social security number or_  
+| _federal employer identification number;_  
+|  _(4) the financial institution account number; and_  
+|  _(5)_ _____the amount of all funds contained in the account,_  
+| _or any other account holder asset being held by the financial_  
+| _institution._  
+|  _(d)_ _____The comptroller shall make the match request under_  
+| _Subsection (b) compatible with the data processing system of the_  
+| _financial institution._  
+|  _(e)_ _____The comptroller may not request a financial institution_  
+| _to perform a match under this section more than once each calendar_  
+| _quarter._  
+|  _(f)_ _____The financial institution may not notify account_  
+| _holders that the comptroller has requested a match or whether a_  
+| _match has been made._  
+|  _(g)_ _____The information in the match request and the match_  
+| _report is subject to the confidentiality and the disclosure_  
+| _provisions of Section 111.006._  
+|  _(h)_ _____A financial institution is not liable to any person for_  
+| _disclosing information to the comptroller under this section or for_  
+| _any other action that the financial institution takes in good faith_  
+| _to comply with this section._  
+|  _(i)_ _____The comptroller may contract with third parties to_  
+| _facilitate the implementation of this section. Third-party_  
+| _contractors may use confidential information solely for the purpose_  
+| _of implementing this section._  
+|  _(j)_ _____The attorney general shall bring suit in the name of the_  
+| _state to enforce this section. Venue for a suit arising under this_  
+| _section is in Travis County._  
+|  _(k)_ _____The comptroller may adopt rules to implement this_  
+| _section._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

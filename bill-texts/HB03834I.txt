@@ -1,0 +1,131 @@
+| 86R13592 AAF-F  
+---|---  
+|  By: Capriglione | H.B. No. 3834  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the requirement that certain state and local government  
+| employees and state contractors complete a cybersecurity training  
+| program certified by the state cybersecurity coordinator.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Subchapter N-1, Chapter 2054,  
+| Government Code, is amended to read as follows:  
+| SUBCHAPTER N-1.  [ ~~STATE~~ ] CYBERSECURITY  
+|  SECTION 2. Section 2054.518(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The department shall develop a plan to address  
+| cybersecurity risks and incidents in this state. The department  
+| may enter into an agreement with a national organization, including  
+| the National Cybersecurity Preparedness Consortium, to support the  
+| department's efforts in implementing the components of the plan for  
+| which the department lacks resources to address internally. The  
+| agreement may include provisions for:  
+|  (1) [ ~~providing fee reimbursement for appropriate~~  
+|  ~~industry-recognized certification examinations for and training to~~  
+|  ~~state agencies preparing for and responding to cybersecurity risks~~  
+|  ~~and incidents;~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~developing and maintaining a cybersecurity risks~~  
+|  ~~and incidents curriculum using existing programs and models for~~  
+|  ~~training state agencies;~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~delivering to state agency personnel with access~~  
+|  ~~to state agency networks routine training related to appropriately~~  
+|  ~~protecting and maintaining information technology systems and~~  
+|  ~~devices, implementing cybersecurity best practices, and mitigating~~  
+|  ~~cybersecurity risks and vulnerabilities;~~  
+|  [ ~~(4)~~ ] providing technical assistance services to  
+| support preparedness for and response to cybersecurity risks and  
+| incidents;  
+|  _(2)_ [ ~~(5)~~ ~~~~ ~~~~ ~~conducting cybersecurity training and~~  
+|  ~~simulation exercises for state agencies to encourage coordination~~  
+|  ~~in defending against and responding to cybersecurity risks and~~  
+|  ~~incidents;~~  
+|  [ ~~(6)~~ ] assisting state agencies in developing  
+| cybersecurity information-sharing programs to disseminate  
+| information related to cybersecurity risks and incidents; and  
+|  _(3)_ [ ~~(7)~~ ] incorporating cybersecurity risk and  
+| incident prevention and response methods into existing state  
+| emergency plans, including continuity of operation plans and  
+| incident response plans.  
+|  SECTION 3. Subchapter N-1, Chapter 2054, Government Code,  
+| is amended by adding Sections 2054.519, 2054.5191, and 2054.5192 to  
+| read as follows:  
+|  _Sec._ ___2054.519._ _____STATE CERTIFIED CYBERSECURITY TRAINING_  
+| _PROGRAMS. (a) The state cybersecurity coordinator, in consultation_  
+| _with the cybersecurity council established under Section 2054.512_  
+| _and industry stakeholders, shall annually:_  
+|  _(1)_ _____certify at least 20 cybersecurity training_  
+| _programs for state and local government employees; and_  
+|  _(2)_ _____update standards for maintenance of certification_  
+| _by the cybersecurity training programs under this section._  
+|  _(b)_ _____To be certified under Subsection (a), a cybersecurity_  
+| _training program must include activities, case studies,_  
+| _hypothetical situations, and other methods that:_  
+|  _(1)_ _____focus on forming information security habits and_  
+| _procedures that protect information resources; and_  
+|  _(2)_ _____teach best practices for detecting, assessing,_  
+| _reporting, and addressing information security threats._  
+|  _(c)_ _____The department may contract with an independent third_  
+| _party to certify cybersecurity training programs under this_  
+| _section._  
+|  _(d)_ _____The department shall annually publish on the_  
+| _department's Internet website the list of cybersecurity training_  
+| _programs certified under this section._  
+|  _Sec._ ___2054.5191._ _____CYBERSECURITY TRAINING REQUIRED: CERTAIN_  
+| _EMPLOYEES. (a) At least once each year, a state or local government_  
+| _employee that uses a computer to complete at least 25 percent of the_  
+| _employee's required duties shall complete a cybersecurity training_  
+| _program certified under Section 2054.519._  
+|  _(b)_ _____The governing body of a local government may select the_  
+| _most appropriate cybersecurity training program certified under_  
+| _Section 2054.519 for employees of the local government to complete._  
+| _The governing body shall:_  
+|  _(1)_ _____verify and report on the completion of a_  
+| _cybersecurity training program by employees of the local government_  
+| _to the state cybersecurity coordinator or the coordinator's_  
+| _designee; and_  
+|  _(2)_ _____require periodic audits to ensure compliance with_  
+| _this section._  
+|  _(c)_ _____A state agency may select the most appropriate_  
+| _cybersecurity training program certified under Section 2054.519_  
+| _for employees of the state agency. The executive head of each state_  
+| _agency shall verify completion of a cybersecurity training program_  
+| _by employees of the state agency in a manner specified by the state_  
+| _cybersecurity coordinator._  
+|  _(d)_ _____The state cybersecurity coordinator shall require_  
+| _periodic audits of state agencies to ensure compliance with this_  
+| _section._  
+|  _Sec._ ___2054.5192._ _____CYBERSECURITY TRAINING REQUIRED: CERTAIN_  
+| _STATE CONTRACTORS._ ___(a)_ ___In this section, "contractor" includes a_  
+| _subcontractor, officer, or employee of the contractor._  
+|  _(b)_ _____A state agency shall require any contractor who has_  
+| _access to a state computer system or database to complete a_  
+| _cybersecurity training program certified under Section 2054.519 as_  
+| _selected by the agency._  
+|  _(c)_ _____The cybersecurity training program must be completed by_  
+| _a contractor during the term of the contract and during any renewal_  
+| _period._  
+|  _(d)_ _____Required completion of a cybersecurity training program_  
+| _must be included in the terms of a contract awarded by a state_  
+| _agency to a contractor._  
+|  _(e)_ _____A contractor required to complete a cybersecurity_  
+| _training program under this section shall verify completion of the_  
+| _program to the contracting state agency. The agency's contract_  
+| _manager shall:_  
+|  _(1)_ _____report the contractor's completion to the state_  
+| _cybersecurity coordinator or the coordinator's designee; and_  
+|  _(2)_ _____conduct periodic audits to ensure compliance with_  
+| _this section._  
+|  SECTION 4. Section 2054.518(c), Government Code, is  
+| repealed.  
+|  SECTION 5. The changes in law made by this Act apply to a  
+| contract entered into or renewed on or after the effective date of  
+| this Act. A contract entered into or renewed before the effective  
+| date of this Act is governed by the law in effect on the date the  
+| contract was entered into or renewed and the former law is continued  
+| in effect for that purpose.  
+|  SECTION 6. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

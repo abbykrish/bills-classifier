@@ -1,0 +1,305 @@
+| 86R9609 JRR-D  
+---|---  
+|  By: Guillen | H.B. No. 1844  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to content, issuance, and change of driver's licenses and  
+| other forms of identification issued by the Department of Public  
+| Safety, including automatic voter registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 507.001(b), Business & Commerce Code, is  
+| amended to read as follows:  
+|  (b) This section does not affect:  
+|  (1) the requirement _to display a handgun license_ under  
+| Section 411.205, Government Code[ ~~, that a person subject to that~~  
+|  ~~section present a driver's license or identification certificate in~~  
+|  ~~addition to a concealed handgun license~~ ]; or  
+|  (2) the types of identification required under federal  
+| law to access airport premises or pass through airport security.  
+|  SECTION 2. Section 1.005, Election Code, is amended by  
+| adding Subdivision (4-a) to read as follows:  
+|  _(4-a)_ _____"Driver's license" includes a commercial_  
+| _driver's license._  
+|  SECTION 3. Subchapter A, Chapter 13, Election Code, is  
+| amended by adding Section 13.009 to read as follows:  
+|  _Sec._ ___13.009._ _____VOTER REGISTRATION THROUGH DEPARTMENT OF_  
+| _PUBLIC SAFETY. (a) The voter registrar of each county shall_  
+| _automatically register any county resident who is eligible to vote_  
+| _as provided by Section 13.001 and:_  
+|  _(1)_ _____is issued an original or renewal Texas driver's_  
+| _license or a personal identification card by the Department of_  
+| _Public Safety; or_  
+|  _(2)_ _____makes a change to a Texas driver's license or_  
+| _personal identification card issued by the Department of Public_  
+| _Safety._  
+|  _(b)_ _____A driver's license or personal identification card_  
+| _transaction with an indication provided by Section 20.062(b) or_  
+| _20.063(c) that the transaction is not for voter registration_  
+| _purposes is not subject to this section._  
+|  SECTION 4. Section 20.061, Election Code, is amended to  
+| read as follows:  
+|  Sec. 20.061. APPLICABILITY OF OTHER PROVISIONS. The other  
+| provisions of this chapter apply to the Department of Public Safety  
+| except provisions that conflict with this subchapter _or Section_  
+| _13.009_.  
+|  SECTION 5. Section 20.062(b), Election Code, is amended to  
+| read as follows:  
+|  (b) The department shall prescribe and use a change of  
+| address form and procedure that combines department and voter  
+| registration functions. The form must allow a licensee or  
+| cardholder to indicate _that_ [ ~~whether~~ ] the change of address is _not_  
+| [ ~~also to be used~~ ] for voter registration purposes.  
+|  SECTION 6. Section 20.063, Election Code, is amended to  
+| read as follows:  
+|  Sec. 20.063. REGISTRATION PROCEDURES. (a)  The Department  
+| of Public Safety shall _consider an application made in person, by_  
+| _mail, or online at the department's Internet website_ [ ~~provide to~~  
+|  ~~each person who applies in person at the department's offices~~ ] for  
+| an original or renewal of a driver's license, a personal  
+| identification card, or a duplicate or corrected license or card _by_  
+| _a person who is eligible to vote as provided by Section 13.001_ an  
+| _application for_ [ ~~opportunity to complete a~~ ] voter registration _._  
+| _The date of application is considered to be the date of submission_  
+| _to the voter registrar for the purpose of determining the effective_  
+| _date of registration_ [ ~~application form~~ ].  
+|  (b) _The Department of Public Safety shall consider a change_  
+| _of address that relates to_ [ ~~When the department processes~~ ] a  
+| license or card _and that is submitted to_ [ ~~for renewal by mail,~~ ] the  
+| department [ ~~shall deliver to the applicant by mail a voter~~  
+|  ~~registration application form.~~  
+|  [ ~~(c)~~ ~~~~ ~~~~ ~~A change of address that relates to a license or
+card~~  
+|  ~~and that is submitted to the department~~ ] in person _,_ [ ~~or~~ ] by
+mail _, or_  
+| _online at the department's Internet website_ [ ~~serves~~ ] as a change
+_in_  
+| [ ~~of address for~~ ] voter registration [ ~~unless the licensee or~~  
+|  ~~cardholder indicates that the change is not for voter registration~~  
+|  ~~purposes~~ ]. The date of submission of a change of address to a  
+| department employee is considered to be the date of submission to  
+| the voter registrar for the purpose of determining the effective  
+| date of registration [ ~~only~~ ].  
+|  _(c) The registration of an eligible_ [ ~~(d) If a completed~~]  
+| voter _as required by Subsections (a) and (b) is automatic unless the_  
+| _person indicates that the transaction is not for voter_  
+| registration _purposes_ [ ~~application submitted to a department~~  
+|  ~~employee does not include the applicant's correct driver's license~~  
+|  ~~number or personal identification card number, a department~~  
+|  ~~employee shall enter the appropriate information on the~~  
+|  ~~application. If a completed application does not include the~~  
+|  ~~applicant's correct residence address or mailing address, a~~  
+|  ~~department employee shall obtain the appropriate information from~~  
+|  ~~the applicant and enter the information on the application~~ ].  
+|  SECTION 7. Section 20.065(b), Election Code, is amended to  
+| read as follows:  
+|  (b) Each weekday the department is regularly open for  
+| business, the department shall electronically transfer to the  
+| secretary of state the name _and information designated by the_  
+| _secretary of state for_ [ ~~of each person who completes a~~ ] voter  
+| registration _for each individual who is eligible to vote as_  
+| _provided by Section 13.001 and applies in person, by mail, or online_  
+| _at the department's Internet website for an original or renewal of a_  
+| _driver's license, a personal identification card, or a duplicate or_  
+| _corrected license or card_ [ ~~application submitted to the~~  
+|  ~~department~~ ].  The secretary shall prescribe procedures necessary to  
+| implement this subsection.  
+|  SECTION 8. Subchapter H, Chapter 411, Government Code, is  
+| amended by adding Section 411.1795 to read as follows:  
+|  _Sec._ ___411.1795._ _____DESIGNATION ON DRIVER'S LICENSE, COMMERCIAL_  
+| _DRIVER'S LICENSE, OR PERSONAL IDENTIFICATION CERTIFICATE. The_  
+| _department shall adopt rules allowing an applicant for an original,_  
+| _duplicate, modified, or renewed license under this subchapter, in_  
+| _addition to being issued an original, duplicate, modified, or_  
+| _renewed license, to elect to include on the person's driver's_  
+| _license, commercial driver's license, or personal identification_  
+| _certificate a designation indicating that the person is licensed_  
+| _under this subchapter._ ___The rules must include procedures to ensure_  
+| _that a person who makes an election under this section:_  
+|  _(1)_ _____receives a designation on the person's driver's_  
+| _license, commercial driver's license, or personal identification_  
+| _certificate only if the person meets the requirements for issuance_  
+| _of the original, duplicate, modified, or renewed handgun license;_  
+| _and_  
+|  _(2)_ _____maintains the designation only during the period_  
+| _for which the person is licensed to carry a handgun under this_  
+| _subchapter._  
+|  SECTION 9. Section 411.205, Government Code, is amended to  
+| read as follows:  
+|  Sec. 411.205. REQUIREMENT TO DISPLAY LICENSE. If a license  
+| holder is carrying a handgun on or about the license holder's person  
+| when a magistrate or a peace officer demands that the license holder  
+| display identification, the license holder shall display _either:_  
+|  _(1) the license holder's:_  
+|  _(A)_ _____driver's license or commercial driver's_  
+| _license that includes a handgun license designation under Section_  
+| _521.128 or 522.0302, Transportation Code; or_  
+|  _(B)_ _____personal identification certificate that_  
+| _includes a designation under Section 521.105, Transportation Code;_  
+| _or_  
+|  _(2)_ both the license holder's driver's license _,_  
+| _commercial driver's license,_ or _personal_ identification  
+| certificate issued by the department and the license holder's  
+| handgun license.  
+|  SECTION 10. Section 521.011, Transportation Code, is  
+| amended to read as follows:  
+|  Sec. 521.011. SERVICES INFORMATION FOR VETERANS.  The  
+| department and the Texas Veterans Commission shall jointly develop  
+| a one-page informational paper about veterans services provided by  
+| this state for veterans who receive:  
+|  (1) a driver's license with a designation under  
+| Section 521.1235; [ ~~or~~ ]  
+|  (2) _a commercial driver's license with a designation_  
+| _under Section 522.0301; or_  
+|  _(3)_ a personal identification certificate with a  
+| designation under Section 521.102.  
+|  SECTION 11. Section 521.101(l), Transportation Code, is  
+| amended to read as follows:  
+|  (l) The application for the personal identification  
+| certificate must provide space for the applicant:  
+|  (1) to voluntarily list any information that may  
+| qualify the applicant to receive a personal identification  
+| certificate with a designation under Section 521.102 _or 521.106_ ;  
+| and  
+|  (2) to include proof required by the department to  
+| determine the applicant's eligibility to receive that designation.  
+|  SECTION 12. Subchapter E, Chapter 521, Transportation Code,  
+| is amended by adding Sections 521.105 and 521.106 to read as  
+| follows:  
+|  _Sec._ ___521.105._ _____HANDGUN LICENSE DESIGNATION. Subject to_  
+| _available funds, the department shall include on each personal_  
+| _identification certificate issued to a person licensed to carry a_  
+| _handgun under Subchapter H, Chapter 411, Government Code, who makes_  
+| _an election under Section 411.1795, Government Code, a designation_  
+| _that shows the person is licensed under that subchapter. The_  
+| _designation must include the person's handgun license number and a_  
+| _statement of the period for which the handgun license is effective._  
+|  _Sec._ ___521.106._ _____LIFETIME RESIDENT HUNTING, FISHING, OR_  
+| _COMBINATION HUNTING AND FISHING LICENSE DESIGNATION. Subject to_  
+| _available funds, the department shall include on a personal_  
+| _identification certificate issued to a person who holds a lifetime_  
+| _resident hunting, fishing, or combination hunting and fishing_  
+| _license issued under Section 42.0021, 46.004(d), or 50.001(b),_  
+| _Parks and Wildlife Code, as applicable, a designation that shows_  
+| _the person's status as a holder of the applicable license if the_  
+| _person:_  
+|  _(1) requests the designation; and_  
+|  _(2)_ _____provides proof sufficient to the department that_  
+| _the person is a holder of the applicable license._  
+|  SECTION 13. Subchapter F, Chapter 521, Transportation Code,  
+| is amended by adding Sections 521.128 and 521.129 to read as  
+| follows:  
+|  _Sec._ ___521.128._ _____HANDGUN LICENSE DESIGNATION._ ___Subject to_  
+| _available funds, the department shall include on each driver's_  
+| _license issued to a person licensed to carry a handgun under_  
+| _Subchapter H, Chapter 411, Government Code, who makes an election_  
+| _under Section 411.1795, Government Code, a designation that shows_  
+| _the person is licensed under that subchapter. The designation must_  
+| _include the person's handgun license number and a statement of the_  
+| _period for which the handgun license is effective._  
+|  _Sec._ ___521.129._ _____LIFETIME RESIDENT HUNTING, FISHING, OR_  
+| _COMBINATION HUNTING AND FISHING LICENSE DESIGNATION. Subject to_  
+| _available funds, the department shall include on a driver's license_  
+| _issued to a person who holds a lifetime resident hunting, fishing,_  
+| _or combination hunting and fishing license issued under Section_  
+| _42.0021, 46.004(d), or 50.001(b), Parks and Wildlife Code, as_  
+| _applicable, a designation that shows the person's status as a_  
+| _holder of the applicable license if the person:_  
+|  _(1) requests the designation; and_  
+|  _(2)_ _____provides proof sufficient to the department that_  
+| _the person is a holder of the applicable license._  
+|  SECTION 14. Section 521.142(i), Transportation Code, is  
+| amended to read as follows:  
+|  (i) The application must provide space for the applicant:  
+|  (1) to voluntarily list any information that may  
+| qualify the applicant to receive a license with a designation under  
+| Section 521.1235 _or 521.129_ ; and  
+|  (2) to include proof required by the department to  
+| determine the applicant's eligibility to receive that designation.  
+|  SECTION 15. Section 522.021, Transportation Code, is  
+| amended by adding Subsection (f) to read as follows:  
+|  _(f) The application must provide space for the applicant:_  
+|  _(1)_ _____to voluntarily list any information that may_  
+| _qualify the applicant to receive a license with a designation under_  
+| _Section 522.0301 or 522.0303; and_  
+|  _(2)_ _____to include proof required by the department to_  
+| _determine the applicant's eligibility to receive that designation._  
+|  SECTION 16. Subchapter C, Chapter 522, Transportation Code,  
+| is amended by adding Sections 522.0301, 522.0302, and 522.0303 to  
+| read as follows:  
+|  _Sec._ ___522.0301._ _____DESIGNATION ON COMMERCIAL DRIVER'S LICENSE_  
+| _ISSUED TO VETERAN. (a)_ _____In this section:_  
+|  _(1)_ _____"Disability rating" has the meaning assigned by_  
+| _Section 11.22, Tax Code._  
+|  _(2)_ _____"Disabled veteran" and "veteran" have the meanings_  
+| _assigned by Section 521.1235._  
+|  _(b)_ _____The department shall include the designation "VETERAN"_  
+| _on a commercial driver's license issued to a veteran in an available_  
+| _space on the face of the commercial driver's license or on the_  
+| _reverse side of the commercial driver's license if:_  
+|  _(1) the veteran requests the designation; and_  
+|  _(2)_ _____the veteran provides proof sufficient to the_  
+| _department of the veteran's military service and honorable_  
+| _discharge._  
+|  _(c)_ _____If a disabled veteran provides proof sufficient to the_  
+| _department, the department, on request of the disabled veteran,_  
+| _shall include on a commercial driver's license issued to the_  
+| _disabled veteran in any available space on the face of the_  
+| _commercial driver's license or on the reverse side of the_  
+| _commercial driver's license:_  
+|  _(1) a disabled veteran designation; and_  
+|  _(2)_ _____the branch of the service in which the disabled_  
+| _veteran served._  
+|  _(d)_ _____The department shall provide to the recipient of a_  
+| _commercial driver's license with a designation under this section_  
+| _the informational paper described by Section 521.011 at the time_  
+| _the license is issued._  
+|  _(e)_ _____Notwithstanding any other law and except as provided by_  
+| _Subsection (f), for purposes of obtaining a service or benefit_  
+| _available for disabled veterans in this state, a disabled veteran_  
+| _may use a commercial driver's license described by Subsection (c)_  
+| _as satisfactory proof:_  
+|  _(1)_ _____that the disabled veteran has a disability rating_  
+| _described by Section 521.1235(a)(2)(A) or (B), as applicable; and_  
+|  _(2) of branch of service and honorable discharge._  
+|  _(f)_ _____A commercial driver's license described by Subsection_  
+| _(c) is not satisfactory proof of the disabled veteran's disability_  
+| _rating for purposes of obtaining a property tax exemption provided_  
+| _by Chapter 11, Tax Code._  
+|  _(g)_ _____A disabled veteran who renews a commercial driver's_  
+| _license described by Subsection (c) shall provide proof sufficient_  
+| _to the department of the disabled veteran's disability rating._  
+|  _Sec._ ___522.0302._ _____HANDGUN LICENSE DESIGNATION. Subject to_  
+| _available funds, the department shall include on each commercial_  
+| _driver's license issued to a person licensed to carry a handgun_  
+| _under Subchapter H, Chapter 411, Government Code, who makes an_  
+| _election under Section 411.1795, Government Code, a designation_  
+| _that shows the person is licensed under that subchapter._ ___The_  
+| _designation must include the person's handgun license number and a_  
+| _statement of the period for which the handgun license is effective._  
+|  _Sec._ ___522.0303._ _____LIFETIME RESIDENT HUNTING, FISHING, OR_  
+| _COMBINATION HUNTING AND FISHING LICENSE DESIGNATION. Subject to_  
+| _available funds, the department shall include on a commercial_  
+| _driver's license issued to a person who holds a lifetime resident_  
+| _hunting, fishing, or combination hunting and fishing license issued_  
+| _under Section 42.0021, 46.004(d), or 50.001(b), Parks and Wildlife_  
+| _Code, as applicable, a designation that shows the person's status_  
+| _as a holder of the applicable license if the person:_  
+|  _(1) requests the designation; and_  
+|  _(2)_ _____provides proof sufficient to the department that_  
+| _the person is a holder of the applicable license._  
+|  SECTION 17. Not later than December 1, 2019, the Department  
+| of Public Safety shall adopt the rules required by Section  
+| 411.1795, Government Code, as added by this Act.  
+|  SECTION 18. (a) Section 411.1795, Government Code, as  
+| added by this Act, applies only to an applicant for an original,  
+| duplicate, modified, or renewed license to carry a handgun under  
+| Subchapter H, Chapter 411, Government Code, as amended by this Act,  
+| who submits the application on or after January 1, 2020.  
+|  (b) The changes in law made by this Act to Chapters 521 and  
+| 522, Transportation Code, apply only to a driver's license,  
+| commercial driver's license, or personal identification  
+| certificate issued or renewed under Chapter 521 or 522,  
+| Transportation Code, on or after January 1, 2020.  
+|  SECTION 19. This Act takes effect September 1, 2019.
+

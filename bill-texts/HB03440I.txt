@@ -1,0 +1,25 @@
+|  
+---|---  
+|  By: Capriglione | H.B. No. 3440  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the electronic submission of required jail reports.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 511, Government Code, is amended by  
+| adding Section 511.0104 to read as follows:  
+|  _Sect. 511.0104. ELECTRONIC SUBMISSION OF FORMS, DATA, AND_  
+| _DOCUMENTS._ ___(a)_ ___The commission by rule shall:_  
+|  _(1)_ _____develop and establish a system for the submission_  
+| _of forms, data, and documents required to be submitted to the_  
+| _commission under this chapter in electronic format; and_  
+|  _(2)_ _____once that system is established, require_  
+| _facilities under the commission's purview to submit to the_  
+| _commission electronically and in electronic format any form, data,_  
+| _or document required to be submitted to the commission under this_  
+| _chapter._  
+|  _(3)_ _____The commission may allow submission in a_  
+| _non-electronic format but shall set and collect a reasonable fee_  
+| _for processing._  
+|  SECTION 2. This Act takes effect September 1, 2020.
+

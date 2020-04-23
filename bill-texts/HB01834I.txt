@@ -1,0 +1,46 @@
+| 86R8483 SRA-F  
+---|---  
+|  By: Ashby | H.B. No. 1834  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to invoices and payments under certain state contracts for  
+| outside legal services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 402.0212, Government Code, is amended by  
+| amending Subsection (b) and adding Subsection (b-1) to read as  
+| follows:  
+|  (b) An invoice submitted to a state agency under a contract  
+| for legal services as described by Subsection (a) must be _:_  
+|  _(1)_ _____submitted to the attorney general by the agency's_  
+| _office of general counsel not later than the 25th day after the date_  
+| _the agency receives the invoice; and_  
+|  _(2)_ reviewed by the attorney general to determine  
+| whether _the legal services for which the agency is billed are within_  
+| _the terms and scope of the legal services authorized by the contract_  
+| _and therefore_ [ ~~the invoice is~~ ] eligible for payment.  
+|  _(b-1)_ _____A state agency's office of general counsel shall_  
+| _include with an invoice submitted under Subsection (b)(1) a written_  
+| _certification that the legal services for which the agency is_  
+| _billed are within the terms and scope of the legal services_  
+| _authorized by the contract and reasonably necessary to fulfill the_  
+| _contract._  
+|  SECTION 2. Section 2251.021, Government Code, is amended by  
+| amending Subsection (a) and adding Subsection (b-1) to read as  
+| follows:  
+|  (a) Except as _otherwise_ provided by _this section_  
+| [ ~~Subsection (b)~~ ], a payment by a governmental entity under a  
+| contract executed on or after September 1, 1987, is overdue on the  
+| 31st day after the later of:  
+|  (1) the date the governmental entity receives the  
+| goods under the contract;  
+|  (2) the date the performance of the service under the  
+| contract is completed; or  
+|  (3) the date the governmental entity receives an  
+| invoice for the goods or service.  
+|  _(b-1)_ _____A payment under a contract for legal services_  
+| _described by Section 402.0212 owed by a state agency is overdue on_  
+| _the 46th day after the date the agency receives an invoice for the_  
+| _legal services._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

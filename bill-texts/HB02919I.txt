@@ -1,0 +1,61 @@
+| 86R7614 KKR-D  
+---|---  
+|  By: Shine | H.B. No. 2919  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a demonstration program at the State Office of Risk  
+| Management for real-time processing of workers' compensation  
+| authorizations of payment for medical services and medical bills.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 412, Labor Code, is  
+| amended by adding Section 412.0129 to read as follows:  
+|  _Sec._ ___412.0129._ _____AUTHORIZATION OF PAYMENT FOR MEDICAL_  
+| _SERVICES AND MEDICAL BILLS REAL-TIME PROCESSING DEMONSTRATION_  
+| _PROGRAM. (a)_ ___The office may develop and implement a demonstration_  
+| _program for processing workers' compensation authorizations of_  
+| _payment for medical services and medical bills in real time if the_  
+| _office determines that the program would be cost-effective._  
+|  _(b)_ _____The demonstration program described by Subsection (a)_  
+| _must include:_  
+|  _(1)_ _____a secure single platform, Internet-based portal_  
+| _for use by the office, state agencies, injured employees, and_  
+| _health care providers;_  
+|  _(2)_ _____the ability to collect, input, and transmit_  
+| _administrative and clinical data, including:_  
+|  _(A) patient information;_  
+|  _(B) provider contracts;_  
+|  _(C) treatment guidelines; and_  
+|  _(D)_ _____other information the office considers_  
+| _necessary for processing authorizations and medical bills;_  
+|  _(3)_ _____an automated process to streamline requests for_  
+| _authorizations of payment for medical services and peer reviews at_  
+| _the point of care; and_  
+|  _(4)_ _____return-to-work best practices for workers'_  
+| _compensation claims, including complex case management._  
+|  _(c)_ _____The workers' compensation research and evaluation group_  
+| _shall assist the office in identifying and adopting measures for_  
+| _evaluating the demonstration program._  
+|  _(d)_ _____The evaluation period for the demonstration program_  
+| _shall end on June 30, 2022._  
+|  _(e)_ _____If the office implements a demonstration program under_  
+| _this section, not later than December 31, 2022, the office shall_  
+| _provide to the board a report that:_  
+|  _(1)_ _____evaluates the program, including any effects of_  
+| _the program on administrative cost savings; and_  
+|  _(2)_ _____recommends whether to use the process implemented_  
+| _under the program on a permanent basis._  
+|  _(f)_ _____If the report of the demonstration program under_  
+| _Subsection (e) indicates that administrative cost savings are_  
+| _achieved by the process implemented under the program, the board_  
+| _may adopt and use the process on a permanent basis._  
+|  _(g) This section expires September 1, 2023._  
+|  SECTION 2. Not later than January 1, 2020, the State Office  
+| of Risk Management shall make a determination as to whether the  
+| demonstration program described by Section 412.0129, Labor Code, as  
+| added by this Act, would be cost-effective. If the office  
+| determines the program would be cost-effective and decides to  
+| implement the program, the office shall fully implement the program  
+| not later than January 1, 2021.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

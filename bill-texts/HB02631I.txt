@@ -1,0 +1,133 @@
+| 86R11465 SCL-D  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 2631  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to physician and health care practitioner credentialing by  
+| managed care plan issuers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 1452, Insurance Code, is amended by  
+| adding Subchapter F to read as follows:  
+| _SUBCHAPTER F. CREDENTIALING OF PHYSICIANS AND PROVIDERS BY MANAGED_  
+| _CARE PLAN ISSUER_  
+|  _Sec. 1452.251. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Enrollee" means an individual who is eligible to_  
+| _receive health care services under a managed care plan._  
+|  _(2)_ _____"Health benefit plan" means a plan that provides_  
+| _benefits for medical, surgical, or other treatment expenses_  
+| _incurred as a result of a health condition, a mental health_  
+| _condition, an accident, sickness, or substance abuse, including:_  
+|  _(A)_ _____an individual, group, blanket, or franchise_  
+| _insurance policy or insurance agreement, a group hospital service_  
+| _contract, or an individual or group evidence of coverage or similar_  
+| _coverage document that is issued by:_  
+|  _(i) an insurance company;_  
+|  _(ii)_ _____a group hospital service corporation_  
+| _operating under Chapter 842;_  
+|  _(iii)_ _____a health maintenance organization_  
+| _operating under Chapter 843;_  
+|  _(iv)_ _____an approved nonprofit health_  
+| _corporation that holds a certificate of authority under Chapter_  
+| _844;_  
+|  _(v)_ _____a multiple employer welfare arrangement_  
+| _that holds a certificate of authority under Chapter 846;_  
+|  _(vi)_ _____a stipulated premium company operating_  
+| _under Chapter 884;_  
+|  _(vii)_ _____a fraternal benefit society operating_  
+| _under Chapter 885;_  
+|  _(viii)_ _____a Lloyd's plan operating under_  
+| _Chapter 941; or_  
+|  _(ix)_ _____an exchange operating under Chapter_  
+| _942;_  
+|  _(B)_ _____a small employer health benefit plan written_  
+| _under Chapter 1501;_  
+|  _(C)_ _____a health benefit plan issued under Chapter_  
+| _1551, 1575, 1579, or 1601; or_  
+|  _(D)_ _____a health benefit plan issued under the_  
+| _Medicaid managed care program under Chapter 533, Government Code._  
+|  _(3)_ _____"Health care practitioner" means an individual,_  
+| _other than a physician, who is licensed to provide and provides_  
+| _health care services._  
+|  _(4)_ _____"Managed care plan" means a health benefit plan_  
+| _under which health care services are provided to enrollees through_  
+| _contracts with physicians or health care practitioners and that_  
+| _requires enrollees to use participating providers or that provides_  
+| _a different level of coverage for enrollees who use participating_  
+| _providers._  
+|  _(5)_ _____"Participating provider" means a physician or_  
+| _health care practitioner who has contracted with a managed care_  
+| _plan issuer to provide services to enrollees._  
+|  _(6)_ _____"Physician" means an individual licensed to_  
+| _practice medicine in this state._  
+|  _Sec._ ___1452.252._ _____PROMPT CREDENTIALING REQUIRED. A managed_  
+| _care plan issuer shall determine in a reasonable time in accordance_  
+| _with commissioner rule whether to credential a physician or health_  
+| _care practitioner who is not eligible for expedited credentialing_  
+| _under Subchapter C._  
+|  _Sec._ ___1452.253._ _____ELIGIBILITY REQUIREMENTS. To qualify for_  
+| _credentialing under this subchapter and payment under Section_  
+| _1452.254, an applicant must:_  
+|  _(1)_ _____be licensed in this state by, and in good standing_  
+| _with, the Texas Medical Board or other appropriate licensing_  
+| _authority;_  
+|  _(2)_ _____submit all documentation and other information_  
+| _required by the issuer of the managed care plan as necessary to_  
+| _enable the issuer to begin the credentialing process required by_  
+| _the issuer to include the applicant in the issuer's managed care_  
+| _plan network; and_  
+|  _(3)_ _____agree to comply with the terms of the applicable_  
+| _managed care plan's participating provider contract._  
+|  _Sec._ ___1452.254._ _____PAYMENT OF APPLICANT DURING CREDENTIALING_  
+| _PROCESS. On agreement to participating provider contract terms by_  
+| _an applicant and managed care plan issuer, and for payment purposes_  
+| _only, the issuer shall treat the applicant as if the applicant is a_  
+| _participating provider in the managed care plan network when the_  
+| _applicant provides services to the managed care plan's enrollees,_  
+| _including:_  
+|  _(1)_ _____authorizing the applicant to collect copayments_  
+| _from the enrollees; and_  
+|  _(2) making payments to the applicant._  
+|  _Sec._ ___1452.255._ _____EFFECT OF FAILURE TO MEET CREDENTIALING_  
+| _REQUIREMENTS. If, on completion of the credentialing process, the_  
+| _managed care plan issuer determines that the applicant does not_  
+| _meet the issuer's credentialing requirements:_  
+|  _(1)_ _____the managed care plan issuer may recover from the_  
+| _applicant an amount equal to the difference between payments for_  
+| _in-network benefits and out-of-network benefits; and_  
+|  _(2)_ _____the applicant may retain any copayments collected_  
+| _or in the process of being collected as of the date of the issuer's_  
+| _determination._  
+|  _Sec._ ___1452.256._ _____ENROLLEE HELD HARMLESS. An enrollee in the_  
+| _managed care plan is not responsible and shall be held harmless for_  
+| _the difference between in-network copayments paid by the enrollee_  
+| _to an applicant who is determined to be ineligible under Section_  
+| _1452.255 and the managed care plan's charges for out-of-network_  
+| _services._ ___The applicant may not charge the enrollee for any portion_  
+| _of the amount that is not paid or reimbursed by the enrollee's_  
+| _managed care plan._  
+|  _Sec._ _____1452.257._ _____LIMITATION ON MANAGED CARE PLAN ISSUER_  
+| _LIABILITY. A managed care plan issuer that complies with this_  
+| _subchapter is not subject to liability for damages arising out of or_  
+| _in connection with, directly or indirectly, the payment by the_  
+| _issuer of an applicant as if the applicant were a participating_  
+| _provider in the managed care plan network._  
+|  _Sec._ ___1452.258._ _____DEPARTMENT AUDIT. A managed care plan_  
+| _issuer shall make available all relevant information to the_  
+| _department to allow the department to audit the credentialing_  
+| _process to determine compliance with this subchapter._  
+|  _Sec._ ___1452.259._ _____PUBLIC INSURANCE COUNSEL REPORT. The Office_  
+| _of Public Insurance Counsel shall create and publish an annual_  
+| _report on the counsel's Internet website of the largest managed_  
+| _care plan issuers in this state and include information for each_  
+| _issuer on:_  
+|  _(1) the issuer's network adequacy;_  
+|  _(2)_ _____the percentage of enrollees receiving a bill from_  
+| _an out-of-network provider due to provider charges unpaid by the_  
+| _issuer and the enrollee's responsibility under the managed care_  
+| _plan; and_  
+|  _(3)_ _____the impact of managed care plan issuer_  
+| _credentialing policies on network adequacy and enrollee payment of_  
+| _out-of-network charges._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

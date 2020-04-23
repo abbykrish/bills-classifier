@@ -1,0 +1,47 @@
+| 86R12745 BRG-D  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 2500  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to settlement offers in certain civil actions.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 42.002(c), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (c) This chapter does not apply until a _party to the action_  
+| [ ~~defendant~~ ] files a declaration that the settlement procedure  
+| allowed by this chapter is available in the action. _The_ [ ~~If there is~~  
+|  ~~more than one defendant, the~~ ] settlement procedure allowed by this  
+| chapter is available only in relation to the _party_ [ ~~defendant~~ ] that  
+| filed the declaration and to the parties that make or receive offers  
+| of settlement in relation to that _party_ [ ~~defendant~~ ].  
+|  SECTION 2. Section 42.005(b), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (b) The rules promulgated by the supreme court must provide:  
+|  (1) the date by which a _party to the action_ [ ~~defendant~~  
+|  ~~or defendants~~ ] must file the declaration required by Section  
+| 42.002(c);  
+|  (2) the date before which a party may not make a  
+| settlement offer;  
+|  (3) the date after which a party may not make a  
+| settlement offer; and  
+|  (4) procedures for:  
+|  (A) making an initial settlement offer;  
+|  (B) making successive settlement offers;  
+|  (C) withdrawing a settlement offer;  
+|  (D) accepting a settlement offer;  
+|  (E) rejecting a settlement offer; and  
+|  (F) modifying the deadline for making,  
+| withdrawing, accepting, or rejecting a settlement offer.  
+|  SECTION 3. (a) The Supreme Court of Texas shall adopt rules  
+| implementing the amendment made by this Act to Section 42.005(b),  
+| Civil Practice and Remedies Code. The rules must be in effect on  
+| January 1, 2020.  
+|  (b) The changes in law made by this Act apply only to a civil  
+| action filed on or after January 1, 2020. An action filed before  
+| January 1, 2020, including an action filed before that date on which  
+| a party is joined or designated after that date, is governed by the  
+| law as it existed immediately before the effective date of this Act,  
+| and that law is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

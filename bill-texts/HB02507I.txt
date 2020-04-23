@@ -1,0 +1,138 @@
+| 86R6572 SMT-F  
+---|---  
+|  By: Lucio III | H.B. No. 2507  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of short-term limited-duration health  
+| insurance policies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1201.104(a), Insurance Code, is amended  
+| to read as follows:  
+|  (a) For individual accident and health insurance policies,  
+| the commissioner shall adopt rules establishing minimum standards  
+| for benefits under each of the following categories of coverage:  
+|  (1) basic hospital expense;  
+|  (2) basic medical-surgical expense;  
+|  (3) hospital indemnity or other fixed indemnity;  
+|  (4) major medical expense;  
+|  (5) disability income protection;  
+|  (6) accident only;  
+|  (7) specified disease;  
+|  (8) specified accident; [ ~~and~~ ]  
+|  (9) limited benefit _; and_  
+|  _(10) short-term limited-duration health_.  
+|  SECTION 2. Chapter 1201, Insurance Code, is amended by  
+| adding Subchapter G to read as follows:  
+| _SUBCHAPTER G._ ___SHORT-TERM LIMITED-DURATION HEALTH INSURANCE_  
+|  _Sec. 1201.301. DEFINITIONS.  In this subchapter:_  
+|  _(1)_ _____"Health benefit exchange"_ ___has the meaning assigned_  
+| _by Section 1369.201._  
+|  _(2)_ _____"Short-term limited-duration health insurance_  
+| _policy"_ ___means a health insurance policy under which coverage is_  
+| _limited to fewer than 365 days in duration._  
+|  _Sec._ ___1201.302._ _____ADVERTISING DISCLOSURES REQUIRED. (a)_ ___An_  
+| _insurer issuing a short-term limited-duration health insurance_  
+| _policy shall display, on all sales and marketing materials,_  
+| _including any Internet websites advertising or selling the policy,_  
+| _the following statement in bold type at least 14-point in size:_  
+|  _"NOTICE: THIS SHORT-TERM LIMITED-DURATION INSURANCE POLICY_  
+| _DOES NOT INCLUDE ALL ESSENTIAL HEALTH BENEFITS AS REQUIRED BY THE_  
+| _AFFORDABLE CARE ACT._ ___PREEXISTING CONDITIONS (ARE/ARE NOT) COVERED._ __  
+| _BE SURE TO CHECK YOUR POLICY CAREFULLY TO MAKE SURE YOU UNDERSTAND_  
+| _WHAT THE POLICY DOES AND DOES NOT COVER. THIS POLICY CANNOT BE_  
+| _RENEWED. WHEN THIS COVERAGE ENDS, YOU MIGHT HAVE TO WAIT UP TO A_  
+| _YEAR UNTIL THE NEXT OPEN ENROLLMENT PERIOD TO GET OTHER HEALTH_  
+| _COVERAGE._ ___YOU MAY BE ABLE TO GET LONGER TERM INSURANCE WITH_  
+| _ESSENTIAL HEALTH BENEFITS AND HELP TO PAY FOR IT AT (health benefit_  
+| _exchange Internet website address)."_  
+|  _(b)_ _____An agent selling a short-term limited-duration health_  
+| _insurance policy in person or through the telephone shall read out_  
+| _loud the disclosure prescribed by Subsection (a) to a prospective_  
+| _purchaser._  
+|  _Sec._ ___1201.303._ _____POLICY DISCLOSURE FORM. (a)_ ___The_  
+| _commissioner by rule shall prescribe a disclosure form to be_  
+| _provided with the short-term limited-duration health insurance_  
+| _policy and the application._  
+|  _(b)_ _____The disclosure form must be in an easily readable font_  
+| _at least 14-point in size and include:_  
+|  _(1) the duration of coverage;_  
+|  _(2) a statement that:_  
+|  _(A) the policy may not be renewed;_  
+|  _(B)_ _____the expiration of short-term coverage does_  
+| _not make a person eligible for a special enrollment period; and_  
+|  _(C)_ _____when the policy ends, the insured may have to_  
+| _wait up to a year until the next open enrollment period;_  
+|  _(3) whether the policy covers preexisting conditions;_  
+|  _(4)_ _____the maximum dollar amount payable under the_  
+| _policy;_  
+|  _(5)_ _____the deductibles under the policy and the health_  
+| _care services to which the deductibles apply;_  
+|  _(6)_ _____whether common health care services are covered,_  
+| _including:_  
+|  _(A) prescription drug coverage;_  
+|  _(B) mental health services;_  
+|  _(C) substance abuse treatment;_  
+|  _(D) maternity care;_  
+|  _(E) hospitalization;_  
+|  _(F) surgery;_  
+|  _(G) emergency health care; and_  
+|  _(H) preventive health care; and_  
+|  _(7)_ _____a statement that, before enrolling, an individual_  
+| _should determine whether the individual is able to purchase_  
+| _long-term health coverage through the health benefit exchange and_  
+| _that the individual may be eligible for financial assistance to pay_  
+| _for it._  
+|  _(c)_ _____An insurer issuing a short-term limited-duration health_  
+| _insurance policy shall adopt procedures in accordance with_  
+| _commissioner rule to obtain a signed form from the insured_  
+| _acknowledging receipt of the disclosure form described by this_  
+| _section. The insurer shall retain the acknowledgment form until_  
+| _the fifth anniversary of the date the insurer receives the form, and_  
+| _the insurer shall make the form available to the department on_  
+| _request._  
+|  _Sec._ ___1201.304._ _____DURATION. A short-term limited-duration_  
+| _health insurance policy must expire not later than the 91st day_  
+| _after the date the policy takes effect._  
+|  _Sec._ ___1201.305._ _____RENEWAL PROHIBITED; NEW POLICY LIMITATION._  
+| _(a)_ ___An insurer may not renew a short-term limited-duration health_  
+| _insurance policy._  
+|  _(b)_ _____An insurer may not issue a short-term limited-duration_  
+| _health insurance policy to an individual covered by a short-term_  
+| _limited-duration health insurance policy during the preceding 275_  
+| _days._  
+|  _Sec._ ___1201.306._ _____TERMINATION. (a)_ ___Except as provided by_  
+| _Subsection (b), an insurer issuing a short-term limited-duration_  
+| _health insurance policy may not terminate the policy before the_  
+| _policy's expiration date except for nonpayment of premiums or_  
+| _fraud._  
+|  _(b)_ _____An insurer issuing a short-term limited-duration health_  
+| _insurance policy shall provide an option under the policy for the_  
+| _insured to cancel the policy effective after each 30-day interval_  
+| _after the effective date of coverage._  
+|  _Sec._ ___1201.307._ _____ADVERTISING FILING REQUIREMENTS. An insurer_  
+| _that advertises or issues a short-term limited-duration health_  
+| _insurance policy shall file for informational purposes with the_  
+| _department a copy of any sales or marketing materials for the policy_  
+| _that the insurer intends to use in this state._  
+|  SECTION 3. Subchapter B, Chapter 1701, Insurance Code, is  
+| amended by adding Section 1701.0525 to read as follows:  
+|  _Sec._ ___1701.0525._ _____APPROVAL REQUIRED FOR CERTAIN DOCUMENTS._  
+| _Notwithstanding Section 1701.052, an insurer may not use a document_  
+| _described by Section 1701.002 until the document has been approved_  
+| _by the commissioner if the document relates to a short-term_  
+| _limited-duration health insurance policy as defined by Section_  
+| _1201.301._  
+|  SECTION 4. Not later than January 1, 2020, the commissioner  
+| of insurance shall adopt rules necessary to implement Section  
+| 1201.104, Insurance Code, as amended by this Act, and Subchapter G,  
+| Chapter 1201, Insurance Code, as added by this Act.  
+|  SECTION 5. Subchapter G, Chapter 1201, and Section  
+| 1701.0525, Insurance Code, as added by this Act, apply only to an  
+| insurance policy delivered, issued for delivery, or renewed on or  
+| after January 1, 2020. An insurance policy delivered, issued for  
+| delivery, or renewed before January 1, 2020, is governed by the law  
+| as it existed immediately before the effective date of this Act, and  
+| that law is continued in effect for that purpose.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

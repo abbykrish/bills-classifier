@@ -1,0 +1,86 @@
+| 86R1953 SLB-D  
+---|---  
+|  By: Farrar | H.B. No. 245  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a requirement to make certain environmental and water  
+| use permit applications available online.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 5.552, Water Code, is amended by  
+| amending Subsection (b) and adding Subsection (b-1) to read as  
+| follows:  
+|  (b) Not later than the 30th day after the date the executive  
+| director determines the application to be administratively  
+| complete:  
+|  (1) the applicant shall _:_  
+|  _(A)_ _____post a copy of the application on a publicly_  
+| _accessible Internet website and provide to the commission the_  
+| _address of that website; and_  
+|  _(B)_ publish _,_ [ ~~notice of intent to obtain a~~  
+|  ~~permit~~ ] at least once in the newspaper of largest circulation in the  
+| county in which the facility to which the application relates is  
+| located or proposed to be located or, if the facility to which the  
+| application relates is located or proposed to be located in a  
+| municipality, at least once in a newspaper of general circulation  
+| in the municipality _, a notice of intent to obtain a permit that_  
+| _includes the Internet website address provided under Paragraph (A)_ ;  
+| and  
+|  (2) the chief clerk of the commission shall mail  
+| notice of intent to obtain a permit to:  
+|  (A) the state senator and representative who  
+| represent the general area in which the facility is located or  
+| proposed to be located;  
+|  (B) the mayor and health authorities of the  
+| municipality in which the facility is located or proposed to be  
+| located;  
+|  (C) the county judge and health authorities of  
+| the county in which the facility is located or proposed to be  
+| located; and  
+|  (D) the river authority in which the facility is  
+| located or proposed to be located if the application is under  
+| Chapter 26[ ~~, Water Code~~ ].  
+|  _(b-1) The applicant shall:_  
+|  _(1)_ _____post at the Internet website address described by_  
+| _Subsection (b)(1) any subsequent revision or supplement to the_  
+| _application as the revision or supplement becomes available; and_  
+|  _(2)_ _____maintain the posting at the Internet website_  
+| _address described by Subsection (b)(1) until the commission takes_  
+| _final action on the application._  
+|  SECTION 2. Section 11.124, Water Code, is amended by adding  
+| Subsection (g) to read as follows:  
+|  _(g)_ _____The applicant shall post a copy of the application, map,_  
+| _and any supporting materials required by this subchapter on a_  
+| _publicly accessible Internet website and provide the commission_  
+| _with the address of that website in the application sent to the_  
+| _commission under this section. The applicant shall:_  
+|  _(1)_ _____post any subsequent revision or supplement to the_  
+| _application as the revision or supplement becomes available; and_  
+|  _(2)_ _____maintain the posting until the commission takes_  
+| _final action on the application._  
+|  SECTION 3. Section 11.132(c), Water Code, is amended to  
+| read as follows:  
+|  (c) In the notice, the commission shall:  
+|  (1) state the name and address of the applicant;  
+|  (2) state the date the application was filed;  
+|  (3) state the purpose and extent of the proposed  
+| appropriation of water;  
+|  (4) identify the source of supply and the place where  
+| the water is to be stored or taken or diverted from the source of  
+| supply;  
+|  (5) identify any proposed alternative source of water,  
+| other than state water, identified by the applicant;  
+|  (6) specify the time and location where the commission  
+| will consider the application;  
+|  _(7)_ _____provide the Internet website address of the posted_  
+| _application, map, and supporting materials;_ and  
+|  _(8)_ [ ~~(7)~~ ] give any additional information the  
+| commission considers necessary.  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| an application received by the Texas Commission on Environmental  
+| Quality on or after the effective date of this Act. An application  
+| received before the effective date of this Act is governed by the  
+| law in effect on the date the application was received, and the  
+| former law is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

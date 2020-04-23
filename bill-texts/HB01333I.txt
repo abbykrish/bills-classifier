@@ -1,0 +1,170 @@
+| 86R1642 LHC-D  
+---|---  
+|  By: Krause | H.B. No. 1333  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the administration of the ad valorem tax system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1.07(a), Tax Code, is amended to read as  
+| follows:  
+|  (a) An official or agency required by this title to deliver  
+| a notice to a property owner may deliver the notice by regular  
+| first-class mail, with postage prepaid, unless this section or  
+| another provision of this title requires or authorizes a different  
+| method of delivery or the parties agree that the notice must be  
+| delivered as provided by Section 1.085 _or 1.086_.  
+|  SECTION 2. Chapter 1, Tax Code, is amended by adding Section  
+| 1.086 to read as follows:  
+|  _Sec._ ___1.086._ _____DELIVERY OF CERTAIN NOTICES BY E-MAIL. (a) On_  
+| _the written request of the owner of a residential property that is_  
+| _occupied by the owner as the owner's principal residence, the chief_  
+| _appraiser of the appraisal district in which the property is_  
+| _located shall send each notice required by this title related to the_  
+| _following to the e-mail address of the owner:_  
+|  _(1) a change in value of the property; or_  
+|  _(2)_ _____the grant, denial, cancellation, or other change_  
+| _in the status of an exemption or exemption application applicable_  
+| _to the property._  
+|  _(b)_ _____A property owner must provide the e-mail address to_  
+| _which the chief appraiser must send the notices described by_  
+| _Subsection (a) in a request made under that subsection._  
+|  _(c)_ _____A chief appraiser who delivers a notice electronically_  
+| _under this section is not required to mail the same notice to the_  
+| _property owner._  
+|  _(d)_ _____A request made under this section remains in effect_  
+| _until revoked by the property owner in a written revocation filed_  
+| _with the chief appraiser._  
+|  SECTION 3. Section 6.03(a), Tax Code, is amended to read as  
+| follows:  
+|  (a) The appraisal district is governed by a board of  
+| directors. Five directors are appointed by the taxing units that  
+| participate in the district as provided by this section. If the  
+| county assessor-collector is not appointed to the board, the county  
+| assessor-collector serves as a nonvoting director. The county  
+| assessor-collector is ineligible to serve if the board enters into  
+| a contract under Section 6.05(b) or if the commissioners court of  
+| the county enters into a contract under Section 6.24(b). To be  
+| eligible to serve on the board of directors, an individual other  
+| than a county assessor-collector serving as a nonvoting director  
+| must be a resident of the district and must have resided in the  
+| district for at least two years immediately preceding the date the  
+| individual takes office. An individual [ ~~who~~ ] is _ineligible_  
+| [ ~~otherwise eligible~~ ] to serve on the board _if the individual is an_  
+| _officer or employee_ [ ~~is not ineligible because of membership on the~~  
+|  ~~governing body of a taxing unit. An employee~~ ] of a taxing unit that  
+| participates in the district [ ~~is not eligible to serve on the board~~  
+|  ~~unless the individual is also a member of the governing body or an~~  
+|  ~~elected official of a taxing unit that participates in the~~  
+|  ~~district~~ ].  
+|  SECTION 4. Subchapter A, Chapter 6, Tax Code, is amended by  
+| adding Section 6.054 to read as follows:  
+|  _Sec._ ___6.054._ _____RESTRICTION ON EMPLOYMENT BY APPRAISAL_  
+| _DISTRICT. An individual may not be employed by an appraisal_  
+| _district if the individual is:_  
+|  _(1)_ _____an officer of a taxing unit that participates in_  
+| _the appraisal district; or_  
+|  _(2)_ _____an employee of a taxing unit that participates in_  
+| _the appraisal district._  
+|  SECTION 5. Subchapter A, Chapter 6, Tax Code, is amended by  
+| adding Section 6.16 to read as follows:  
+|  _Sec._ ___6.16._ _____RESIDENTIAL PROPERTY OWNER ASSISTANCE. (a) The_  
+| _chief appraiser of each appraisal district shall maintain a list of_  
+| _the following individuals who have designated themselves as an_  
+| _individual who will provide free assistance to an owner of_  
+| _residential property that is occupied by the owner as the owner's_  
+| _principal residence:_  
+|  _(1)_ _____a real estate broker or sales agent licensed under_  
+| _Chapter 1101, Occupations Code;_  
+|  _(2)_ _____a real estate appraiser licensed or certified_  
+| _under Chapter 1103, Occupations Code; or_  
+|  _(3)_ _____a property tax consultant registered under Chapter_  
+| _1152, Occupations Code._  
+|  _(b)_ _____On the request of an owner described by Subsection (a),_  
+| _the chief appraiser shall provide to the owner a copy of the list_  
+| _maintained under this section._  
+|  SECTION 6. Section 23.01(b), Tax Code, is amended to read as  
+| follows:  
+|  (b) The market value of property shall be determined by the  
+| application of generally accepted appraisal methods and  
+| techniques.  If the appraisal district determines the appraised  
+| value of a property using mass appraisal standards, the mass  
+| appraisal standards must comply with the Uniform Standards of  
+| Professional Appraisal Practice.  The same or similar appraisal  
+| methods and techniques shall be used in appraising the same or  
+| similar kinds of property. However, each property shall be  
+| appraised based upon the individual characteristics that affect the  
+| property's market value, _including cosmetic defects of the_  
+| _property,_ and all available evidence that is specific to the value  
+| of the property shall be taken into account in determining the  
+| property's market value.  
+|  SECTION 7. Chapter 25, Tax Code, is amended by adding  
+| Sections 25.192 and 25.193 to read as follows:  
+|  _Sec._ ___25.192._ _____NOTICE OF RESIDENCE HOMESTEAD EXEMPTION_  
+| _ELIGIBILITY. (a) This section applies only to residential_  
+| _property that has not qualified for a residence homestead exemption_  
+| _in the current tax year._  
+|  _(b)_ _____If the records of the appraisal district indicate that_  
+| _the address of the property is also the address of the owner of the_  
+| _property, the chief appraiser must send to the property owner a_  
+| _notice that contains:_  
+|  _(1)_ _____the following statement in boldfaced 18-point type_  
+| _at the top of the first page of the notice:_ ___"NOTICE: A residence_  
+| _homestead exemption from ad valorem taxation is NOT currently being_  
+| _allowed on the property listed below._ ___However, our records show_  
+| _that this property may qualify for a residence homestead exemption,_  
+| _which will reduce your taxes.";_  
+|  _(2)_ _____following the statement described by Subdivision_  
+| _(1), the following statement in 12-point type:_ ___"According to the_  
+| _records of the appraisal district, the property described in this_  
+| _notice may be your primary residence and may qualify for a residence_  
+| _homestead exemption from ad valorem taxation._ ___If the property is_  
+| _your home and you occupy it as your primary residence, the property_  
+| _likely qualifies for one or more residence homestead exemptions,_  
+| _which will reduce the amount of taxes imposed on the property._ ___The_  
+| _form needed to apply for a residence homestead exemption is_  
+| _enclosed._ ___Although the form may state that the deadline for filing_  
+| _an application for a residence homestead exemption is April 30, a_  
+| _late application for a residence homestead exemption will be_  
+| _accepted if filed before February 1, (insert year application must_  
+| _be filed)._ ___There is no fee or charge for filing an application or a_  
+| _late application for a residence homestead exemption."; and_  
+|  _(3)_ _____following the statement described by Subdivision_  
+| _(2), the address to which the notice is sent._  
+|  _(c)_ _____The notice required by this section must be accompanied_  
+| _by an application form for a residence homestead exemption._  
+|  _(d)_ _____The notice required by this section must be sent_  
+| _separately from any other notice sent to the property owner by the_  
+| _chief appraiser._  
+|  _Sec._ ___25.193._ _____NOTICE OF CERTAIN CANCELED OR REDUCED_  
+| _EXEMPTIONS. (a) By April 1 or as soon thereafter as practicable if_  
+| _the property is a single-family residence that qualifies for an_  
+| _exemption under Section 11.13, or by May 1 or as soon thereafter as_  
+| _practicable in connection with residential property that does not_  
+| _qualify for an exemption under Section 11.13, the chief appraiser_  
+| _shall deliver a clear and understandable written notice to a_  
+| _property owner if an exemption or partial exemption that was_  
+| _approved for the preceding year was canceled or reduced for the_  
+| _current year._  
+|  _(b)_ _____The notice required by this section must be sent_  
+| _regardless of whether the information was also included in a notice_  
+| _under Section 25.19 and must be sent separately from any other_  
+| _notice sent to the property owner by the chief appraiser._  
+|  SECTION 8. Section 25.19(b-2), Tax Code, is repealed.  
+|  SECTION 9. (a) Section 6.03(a), Tax Code, as amended by  
+| this Act, does not affect the right of a person serving on the board  
+| of directors of an appraisal district on the effective date of this  
+| Act to complete the person's term on the board.  
+|  (b) Section 23.01(b), Tax Code, as amended by this Act,  
+| applies only to the appraisal of property for ad valorem tax  
+| purposes for a tax year beginning on or after the effective date of  
+| this Act.  
+|  (c) Section 25.19, Tax Code, as amended by this Act, and  
+| Sections 25.192 and 25.193, Tax Code, as added by this Act, apply  
+| only to a notice for a tax year beginning on or after the effective  
+| date of this Act. A notice for a tax year beginning before the  
+| effective date of this Act is governed by the law in effect  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 10. This Act takes effect January 1, 2020.
+

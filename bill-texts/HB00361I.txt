@@ -1,0 +1,65 @@
+| 86R2311 ADM-D  
+---|---  
+|  By: Israel | H.B. No. 361  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to electronic voter registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 13, Election Code, is  
+| amended by adding Section 13.009 to read as follows:  
+|  _Sec._ ___13.009._ _____ELECTRONIC VOTER REGISTRATION. (a) The_  
+| _secretary of state shall implement a program to allow a person to_  
+| _complete a voter registration application over the Internet from_  
+| _the official website of this state._ ___The websites of the secretary_  
+| _of state and the Department of Public Safety must also provide a_  
+| _link to the location of the application on the official website of_  
+| _this state._  
+|  _(b)_ _____An applicant for electronic voter registration who has_  
+| _an unexpired driver's license or personal identification card_  
+| _issued in this state must:_  
+|  _(1)_ _____attest to the truth of the information provided on_  
+| _the application by affirmatively accepting the information as true;_  
+| _and_  
+|  _(2)_ _____affirmatively consent to the use of the signature_  
+| _on the applicant's driver's license or personal identification card_  
+| _for voter registration purposes._  
+|  _(c)_ _____An applicant for electronic voter registration who does_  
+| _not have an unexpired driver's license or personal identification_  
+| _card issued in this state must:_  
+|  _(1)_ _____attest to the truth of the information provided on_  
+| _the application by affirmatively accepting the information as true;_  
+| _and_  
+|  _(2)_ _____print a registration application from the website_  
+| _the applicant is using to register, sign the application, and mail_  
+| _it to the registrar._  
+|  _(d)_ _____For each application submitted under Subsection (b),_  
+| _the program shall require that a digital copy of the applicant's_  
+| _signature be obtained from the Department of Public Safety._  
+|  _(e)_ _____For each application submitted under Subsection (c),_  
+| _the program shall provide the applicant with:_  
+|  _(1)_ _____a registration application that the applicant can_  
+| _print from the registration website, sign, and mail to the_  
+| _registrar as required under Subsection (c)(2); and_  
+|  _(2)_ _____information about how the applicant can obtain a_  
+| _driver's license or personal identification card from the_  
+| _Department of Public Safety._  
+|  _(f)_ _____An application submitted under this section is_  
+| _considered for all purposes an application submitted by mail under_  
+| _this title._  
+|  _(g)_ _____The secretary of state shall adopt rules as necessary to_  
+| _implement this section, including rules to provide for additional_  
+| _security measures necessary to ensure the accuracy and integrity of_  
+| _applications submitted electronically._  
+|  _(h)_ _____The rules adopted under Subsection (g) must require_  
+| _that:_  
+|  _(1)_ _____the Internet website through which a person may_  
+| _complete a voter registration application include a description of_  
+| _the offense described by Section 13.007 in a conspicuous location_  
+| _on the website near the place where the person begins or submits the_  
+| _application; and_  
+|  _(2)_ _____the state electronic Internet portal project be_  
+| _used to authenticate the identity of a person who submits an_  
+| _application electronically under this section._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

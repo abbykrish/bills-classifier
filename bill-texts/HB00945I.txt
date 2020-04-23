@@ -1,0 +1,224 @@
+| 86R3502 LHC-D  
+---|---  
+|  By: Metcalf | H.B. No. 945  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a limitation on increases in the appraised value of real  
+| property for ad valorem tax purposes.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1.12(d), Tax Code, is amended to read as  
+| follows:  
+|  (d) For purposes of this section, the appraisal ratio of  
+| _real property_ [ ~~a homestead~~ ] to which Section 23.23 applies is the  
+| ratio of the property's market value as determined by the appraisal  
+| district or appraisal review board, as applicable, to the market  
+| value of the property according to law. The appraisal ratio is not  
+| calculated according to the appraised value of the property as  
+| limited by Section 23.23.  
+|  SECTION 2. The heading to Section 23.23, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 23.23. LIMITATION ON APPRAISED VALUE OF _REAL PROPERTY_  
+| [ ~~RESIDENCE HOMESTEAD~~ ].  
+|  SECTION 3. Section 23.23, Tax Code, is amended by amending  
+| Subsections (a), (b), (c), and (e) and adding Subsections (c-1),  
+| (c-2), and (c-3) to read as follows:  
+|  (a) Notwithstanding the requirements of Section 25.18 and  
+| regardless of whether the appraisal office has appraised the  
+| property and determined the market value of the property for the tax  
+| year, an appraisal office may increase the appraised value of _real_  
+| _property_ [ ~~a residence homestead~~ ] for a tax year to an amount not to  
+| exceed the lesser of:  
+|  (1) the market value of the property for the most  
+| recent tax year that the market value was determined by the  
+| appraisal office; or  
+|  (2) the sum of:  
+|  (A) 10 percent of the appraised value of the  
+| property for the preceding tax year;  
+|  (B) the appraised value of the property for the  
+| preceding tax year; and  
+|  (C) the market value of all new improvements to  
+| the property.  
+|  (b) When appraising _real property_ [ ~~a residence homestead~~ ],  
+| the chief appraiser shall:  
+|  (1) appraise the property at its market value; and  
+|  (2) include in the appraisal records both the market  
+| value of the property and the amount computed under Subsection  
+| (a)(2).  
+|  (c) The limitation provided by Subsection (a) takes effect  
+| _on January 1 of the tax year following the first tax year in which_  
+| _the owner owns the property on January 1, or, if the property_  
+| _qualifies_ as _the_ [ ~~to a~~ ] residence homestead _of the owner under_  
+| _Section 11.13 in the tax year in which the owner acquires the_  
+| _property, the limitation takes effect_ on January 1 of the tax year  
+| following _that_ [ ~~the first~~ ] tax year [ ~~the owner qualifies the~~  
+|  ~~property for an exemption under Section 11.13~~ ]. _Except as provided_  
+| _by Subsection (c-1) or (c-2), the_ [ ~~The~~ ] limitation expires on  
+| January 1 of the first tax year _following the year in which_ [ ~~that~~  
+|  ~~neither~~ ] the owner of the property _ceases to own the property._  
+|  _(c-1)_ _____If property subject to a limitation under this section_  
+| _qualifies for an exemption under Section 11.13 when the ownership_  
+| _of the property is transferred to the owner's spouse or surviving_  
+| _spouse, the limitation expires on January 1 of the first tax year_  
+| _following the year in which_ [ ~~when the limitation took effect nor~~ ]  
+| the owner's spouse or surviving spouse _ceases to own the property,_  
+| _unless the limitation is further continued under this subsection on_  
+| _the subsequent transfer to a spouse or surviving spouse_ [ ~~qualifies~~  
+|  ~~for an exemption under Section 11.13~~ ].  
+|  _(c-2)_ _____If property subject to a limitation under Subsection_  
+| _(a), other than a residence homestead, is owned by two or more_  
+| _persons, the limitation expires on January 1 of the first tax year_  
+| _following the year in which the ownership of at least a 50 percent_  
+| _interest in the property is sold or otherwise transferred._  
+|  _(c-3)_ _____For purposes of applying the limitation provided by_  
+| _this section in the first tax year after the 2019 tax year in which_  
+| _the property is appraised for taxation:_  
+|  _(1)_ _____the property is considered to have been appraised_  
+| _for taxation in the 2019 tax year at a market value equal to the_  
+| _appraised value of the property for that tax year;_  
+|  _(2)_ _____a person who acquired real property in a tax year_  
+| _before the 2019 tax year is considered to have acquired the property_  
+| _on January 1, 2019; and_  
+|  _(3)_ _____a person who qualified the property for an_  
+| _exemption under Section 11.13 as the person's residence homestead_  
+| _for any portion of the 2019 tax year is considered to have acquired_  
+| _the property in the 2019 tax year._  
+|  (e) In this section, "new improvement" means an improvement  
+| to _real property_ [ ~~a residence homestead~~ ] made after the most recent  
+| appraisal of the property that increases the market value of the  
+| property and the value of which is not included in the appraised  
+| value of the property for the preceding tax year. The term does not  
+| include repairs to or ordinary maintenance of an existing structure  
+| or the grounds or another feature of the property.  
+|  SECTION 4. Section 42.26(d), Tax Code, is amended to read as  
+| follows:  
+|  (d) For purposes of this section, the value of the property  
+| subject to the suit and the value of a comparable property or sample  
+| property that is used for comparison must be the market value  
+| determined by the appraisal district when the property is [ ~~a~~  
+|  ~~residence homestead~~ ] subject to the limitation on appraised value  
+| imposed by Section 23.23.  
+| SECTION 5. Sections 403.302(d) and (i), Government Code,  
+| are amended to read as follows:  
+|  (d) For the purposes of this section, "taxable value" means  
+| the market value of all taxable property less:  
+|  (1) the total dollar amount of any residence homestead  
+| exemptions lawfully granted under Section 11.13(b) or (c), Tax  
+| Code, in the year that is the subject of the study for each school  
+| district;  
+|  (2) one-half of the total dollar amount of any  
+| residence homestead exemptions granted under Section 11.13(n), Tax  
+| Code, in the year that is the subject of the study for each school  
+| district;  
+|  (3) the total dollar amount of any exemptions granted  
+| before May 31, 1993, within a reinvestment zone under agreements  
+| authorized by Chapter 312, Tax Code;  
+|  (4) subject to Subsection (e), the total dollar amount  
+| of any captured appraised value of property that:  
+|  (A) is within a reinvestment zone created on or  
+| before May 31, 1999, or is proposed to be included within the  
+| boundaries of a reinvestment zone as the boundaries of the zone and  
+| the proposed portion of tax increment paid into the tax increment  
+| fund by a school district are described in a written notification  
+| provided by the municipality or the board of directors of the zone  
+| to the governing bodies of the other taxing units in the manner  
+| provided by former Section 311.003(e), Tax Code, before May 31,  
+| 1999, and within the boundaries of the zone as those boundaries  
+| existed on September 1, 1999, including subsequent improvements to  
+| the property regardless of when made;  
+|  (B) generates taxes paid into a tax increment  
+| fund created under Chapter 311, Tax Code, under a reinvestment zone  
+| financing plan approved under Section 311.011(d), Tax Code, on or  
+| before September 1, 1999; and  
+|  (C) is eligible for tax increment financing under  
+| Chapter 311, Tax Code;  
+|  (5) the total dollar amount of any captured appraised  
+| value of property that:  
+|  (A) is within a reinvestment zone:  
+|  (i) created on or before December 31, 2008,  
+| by a municipality with a population of less than 18,000; and  
+|  (ii) the project plan for which includes  
+| the alteration, remodeling, repair, or reconstruction of a  
+| structure that is included on the National Register of Historic  
+| Places and requires that a portion of the tax increment of the zone  
+| be used for the improvement or construction of related facilities  
+| or for affordable housing;  
+|  (B) generates school district taxes that are paid  
+| into a tax increment fund created under Chapter 311, Tax Code; and  
+|  (C) is eligible for tax increment financing under  
+| Chapter 311, Tax Code;  
+|  (6) the total dollar amount of any exemptions granted  
+| under Section 11.251 or 11.253, Tax Code;  
+|  (7) the difference between the comptroller's estimate  
+| of the market value and the productivity value of land that  
+| qualifies for appraisal on the basis of its productive capacity,  
+| except that the productivity value estimated by the comptroller may  
+| not exceed the fair market value of the land;  
+|  (8) the portion of the appraised value of residence  
+| homesteads of individuals who receive a tax limitation under  
+| Section 11.26, Tax Code, on which school district taxes are not  
+| imposed in the year that is the subject of the study, calculated as  
+| if the residence homesteads were appraised at the full value  
+| required by law;  
+|  (9) a portion of the market value of property not  
+| otherwise fully taxable by the district at market value because of:  
+|  (A) action required by statute or the  
+| constitution of this state, other than Section 11.311, Tax Code,  
+| that, if the tax rate adopted by the district is applied to it,  
+| produces an amount equal to the difference between the tax that the  
+| district would have imposed on the property if the property were  
+| fully taxable at market value and the tax that the district is  
+| actually authorized to impose on the property, if this subsection  
+| does not otherwise require that portion to be deducted; or  
+|  (B) action taken by the district under Subchapter  
+| B or C, Chapter 313, Tax Code, before the expiration of the  
+| subchapter;  
+|  (10) the market value of all tangible personal  
+| property, other than manufactured homes, owned by a family or  
+| individual and not held or used for the production of income;  
+|  (11) the appraised value of property the collection of  
+| delinquent taxes on which is deferred under Section 33.06, Tax  
+| Code;  
+|  (12) the portion of the appraised value of property  
+| the collection of delinquent taxes on which is deferred under  
+| Section 33.065, Tax Code; and  
+|  (13) the amount by which the market value of _real_  
+| _property_ [ ~~a residence homestead~~ ] to which Section 23.23, Tax Code,  
+| applies exceeds the appraised value of that property as calculated  
+| under that section.  
+|  (i) If the comptroller determines in the study that the  
+| market value of property in a school district as determined by the  
+| appraisal district that appraises property for the school district,  
+| less the total of the amounts and values listed in Subsection (d) as  
+| determined by that appraisal district, is valid, the comptroller,  
+| in determining the taxable value of property in the school district  
+| under Subsection (d), shall for purposes of Subsection (d)(13)  
+| subtract from the market value as determined by the appraisal  
+| district of _properties_ [ ~~residence homesteads~~ ] to which Section  
+| 23.23, Tax Code, applies the amount by which that amount exceeds the  
+| appraised value of those properties as calculated by the appraisal  
+| district under Section 23.23, Tax Code. If the comptroller  
+| determines in the study that the market value of property in a  
+| school district as determined by the appraisal district that  
+| appraises property for the school district, less the total of the  
+| amounts and values listed in Subsection (d) as determined by that  
+| appraisal district, is not valid, the comptroller, in determining  
+| the taxable value of property in the school district under  
+| Subsection (d), shall for purposes of Subsection (d)(13) subtract  
+| from the market value as estimated by the comptroller of _properties_  
+| [ ~~residence homesteads~~ ] to which Section 23.23, Tax Code, applies  
+| the amount by which that amount exceeds the appraised value of those  
+| properties as calculated by the appraisal district under Section  
+| 23.23, Tax Code.  
+|  SECTION 6. This Act applies only to the appraisal for ad  
+| valorem tax purposes of real property for a tax year that begins on  
+| or after the effective date of this Act.  
+|  SECTION 7. This Act takes effect January 1, 2020, but only  
+| if the constitutional amendment proposed by the 86th Legislature,  
+| Regular Session, 2019, to authorize the legislature to limit the  
+| maximum appraised value of real property for ad valorem tax  
+| purposes to 110 percent or more of the appraised value of the  
+| property for the preceding tax year is approved by the voters. If  
+| that amendment is not approved by the voters, this Act has no  
+| effect.
+

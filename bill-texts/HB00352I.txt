@@ -1,0 +1,389 @@
+| 86R102 JCG-D  
+---|---  
+|  By: Blanco | H.B. No. 352  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to warrants issued to obtain cell site information through  
+| the use of a cell site simulator device and to public access to  
+| certain information relating to investigatory equipment; creating  
+| a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 18.02(a), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (a) A search warrant may be issued to search for and seize:  
+|  (1) property acquired by theft or in any other manner  
+| which makes its acquisition a penal offense;  
+|  (2) property specially designed, made, or adapted for  
+| or commonly used in the commission of an offense;  
+|  (3) arms and munitions kept or prepared for the  
+| purposes of insurrection or riot;  
+|  (4) weapons prohibited by the Penal Code;  
+|  (5) gambling devices or equipment, altered gambling  
+| equipment, or gambling paraphernalia;  
+|  (6) obscene materials kept or prepared for commercial  
+| distribution or exhibition, subject to the additional rules set  
+| forth by law;  
+|  (7) a drug, controlled substance, immediate  
+| precursor, chemical precursor, or other controlled substance  
+| property, including an apparatus or paraphernalia kept, prepared,  
+| or manufactured in violation of the laws of this state;  
+|  (8) any property the possession of which is prohibited  
+| by law;  
+|  (9) implements or instruments used in the commission  
+| of a crime;  
+|  (10) property or items, except the personal writings  
+| by the accused, constituting evidence of an offense or constituting  
+| evidence tending to show that a particular person committed an  
+| offense;  
+|  (11) persons;  
+|  (12) contraband subject to forfeiture under Chapter 59  
+| [ ~~of this code~~ ];  
+|  (13) electronic customer data held in electronic  
+| storage, including the contents of and records and other  
+| information related to a wire communication or electronic  
+| communication held in electronic storage; [ ~~or~~ ]  
+|  (14) a cellular telephone or other wireless  
+| communications device, subject to Article 18.0215 _; or_  
+|  _(15)_ _____cell site information as defined by Article_  
+| _18B.221_.  
+|  SECTION 2. Chapter 18B, Code of Criminal Procedure, is  
+| amended by adding Subchapter E-1 to read as follows:  
+| _SUBCHAPTER E-1. CELL SITE SIMULATOR DEVICES_  
+|  _Art. 18B.221. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Cell site information" means any information,_  
+| _including the content of a wire communication or electronic_  
+| _communication, that is obtained from a cellular telephone or other_  
+| _wireless communications device by operation of a cell site_  
+| _simulator device and that concerns the location of the telephone or_  
+| _device or reveals the identity of the subscriber or customer of a_  
+| _communication common carrier, an electronic communications_  
+| _service, or a remote computing service._  
+|  _(2)_ _____"Cell site simulator device" means an_  
+| _international mobile subscriber identity catcher or other device or_  
+| _equipment that mimics a cellular telephone tower by transmitting to_  
+| _cellular telephones or other wireless communications devices_  
+| _within range of the device a signal that causes those cellular_  
+| _telephones or other wireless communications devices to send cell_  
+| _site information to the device._  
+|  _Art._ ___18B.222._ _____WARRANT FOR CELL SITE INFORMATION. (a) A_  
+| _district judge may issue a warrant for the use of a cell site_  
+| _simulator device to obtain cell site information from a cellular_  
+| _telephone or other wireless communications device._  
+|  _(b)_ _____A district judge may issue the warrant only on the_  
+| _application of an authorized peace officer. An application must be_  
+| _written and signed and sworn to or affirmed before the judge._ ___The_  
+| _affidavit must:_  
+|  _(1)_ _____state the name, department, agency, and address of_  
+| _the applicant;_  
+|  _(2)_ _____identify the cellular telephone or other wireless_  
+| _communications device to be monitored;_  
+|  _(3)_ _____state the name of the owner or possessor of the_  
+| _cellular telephone or other wireless communications device to be_  
+| _monitored;_  
+|  _(4)_ _____state the judicial district in which the cellular_  
+| _telephone or other wireless communications device is reasonably_  
+| _expected to be located; and_  
+|  _(5)_ _____state the facts and circumstances that provide the_  
+| _applicant with probable cause to believe that:_  
+|  _(A)_ _____criminal activity has been, is being, or will_  
+| _be committed; and_  
+|  _(B)_ _____acquisition of cell site information from the_  
+| _cellular telephone or other wireless communications device is_  
+| _likely to produce evidence in a criminal investigation of the_  
+| _criminal activity described in Paragraph (A)._  
+|  _Art._ ___18B.223._ _____JURISDICTION. (a) A warrant under this_  
+| _subchapter may be issued in the same judicial district as the site_  
+| _of:_  
+|  _(1) the investigation;_  
+|  _(2)_ _____the person who owns or possesses the cellular_  
+| _telephone or other wireless communications device with respect to_  
+| _which the warrant is sought; or_  
+|  _(3)_ _____the cellular telephone or other wireless_  
+| _communications device with respect to which the warrant is sought._  
+|  _(b)_ _____The warrant may authorize the acquisition of cell site_  
+| _information obtained from a cellular telephone or other wireless_  
+| _communications device that, at the time the cell site information_  
+| _is acquired, is located outside the judicial district but within_  
+| _the state if the applicant for the warrant reasonably believes the_  
+| _telephone or device to be located within the district at the time_  
+| _the warrant is issued._  
+|  _Art._ ___18B.224._ _____DURATION OF WARRANT. (a) A warrant issued_  
+| _under this subchapter expires not later than the 90th day after the_  
+| _date the warrant is issued, and cell site information may not be_  
+| _obtained after the expiration date without an extension of the_  
+| _warrant._  
+|  _(b)_ _____For good cause shown, the judge may grant an extension_  
+| _for an additional 90-day period._  
+|  _Art._ ___18B.225._ _____NOTIFICATION OF OWNER OR POSSESSOR. Not_  
+| _later than the seventh day after the date of the expiration of a_  
+| _warrant or the date of the expiration of any additional period, as_  
+| _applicable, the authorized peace officer who requested the warrant_  
+| _shall deliver a copy of the warrant to the owner or possessor of the_  
+| _cellular telephone or other wireless communications device_  
+| _searched by the cell site simulator device._  
+|  _Art._ ___18B.226._ _____ACCESS TO CELL SITE INFORMATION WITHOUT_  
+| _WARRANT. (a) Notwithstanding any other law, an authorized peace_  
+| _officer may obtain cell site information from a cellular telephone_  
+| _or other wireless communications device by operation of a cell site_  
+| _simulator device and without a warrant if:_  
+|  _(1)_ _____the telephone or device is reported stolen by the_  
+| _owner or possessor; or_  
+|  _(2)_ _____there exists an immediate life-threatening_  
+| _situation, as defined by Article 18A.201, that:_  
+|  _(A)_ _____is in the territorial jurisdiction of the law_  
+| _enforcement agency that employs:_  
+|  _(i)_ _____the authorized peace officer operating_  
+| _the device; or_  
+|  _(ii)_ _____a peace officer the authorized peace_  
+| _officer operating the device is assisting; and_  
+|  _(B)_ _____to prevent death or serious bodily injury,_  
+| _necessitates the use of the device before a warrant may be obtained_  
+| _under this subchapter._  
+|  _(b)_ _____An authorized peace officer must apply as soon as_  
+| _practicable for a warrant to obtain cell site information from a_  
+| _cellular telephone or other wireless communications device under a_  
+| _circumstance described by Subsection (a)(2). If the district judge_  
+| _finds that an immediate life-threatening situation, as defined by_  
+| _Article 18A.201, did not occur and declines to issue the warrant,_  
+| _any evidence obtained is not admissible in a criminal action._  
+|  _Art._ ___18B.227._ _____PROHIBITED ACTS BY PEACE OFFICER. A peace_  
+| _officer may not obtain or use cell site information to assist with,_  
+| _participate in, provide material support or resources for, or_  
+| _enable or facilitate an investigation conducted by a law_  
+| _enforcement agency of the federal government or of another state:_  
+|  _(1) without:_  
+|  _(A)_ _____the effective consent of the owner or_  
+| _possessor of the cellular telephone or other wireless_  
+| _communications device; or_  
+|  _(B) a warrant obtained under this subchapter; or_  
+|  _(2)_ _____unless Article 18B.226 or another exception to the_  
+| _warrant requirement under state or federal law applies._  
+|  _Art._ ___18B.228._ _____CONTROL OF CELL SITE SIMULATOR DEVICE._  
+| _Except as otherwise provided by this subchapter, only the_  
+| _department or a county or municipal law enforcement agency is_  
+| _authorized to own, possess, install, operate, or monitor a cell_  
+| _site simulator device._  
+|  _Art._ ___18B.229._ _____POLICY FOR DELETING EXTRANEOUS CELL SITE_  
+| _INFORMATION REQUIRED. A state or local law enforcement agency that_  
+| _obtains or uses a cell site simulator device shall adopt a written_  
+| _policy for promptly deleting any cell site information collected by_  
+| _the device that:_  
+|  _(1)_ _____is not relevant to a warrant issued under this_  
+| _subchapter authorizing the use of the device; or_  
+|  _(2)_ _____does not provide the agency with a reasonable_  
+| _suspicion that other criminal activity has been, is being, or will_  
+| _be committed._  
+|  SECTION 3. Article 39.14(c), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (c) _Except as otherwise provided by this subsection, if_ [ ~~If~~ ]  
+| only a portion of the applicable document, item, or information is  
+| subject to discovery under this article, the state is not required  
+| to produce or permit the inspection of the remaining portion that is  
+| not subject to discovery and may withhold or redact that portion.  
+| The state shall inform the defendant that a portion of the document,  
+| item, or information has been withheld or redacted.  On request of  
+| the defendant, the court shall conduct a hearing to determine  
+| whether withholding or redaction is justified under this article or  
+| other law. _The state may not withhold on a claim of confidentiality_  
+| _arising under a contract with any party, including under a_  
+| _nondisclosure agreement, any portion of a document, an item, or_  
+| _information that was obtained as a result of the execution of a_  
+| _warrant under Subchapter E-1, Chapter 18B, and that is otherwise_  
+| _discoverable under this article._  
+|  SECTION 4. Section 552.022(a), Government Code, is amended  
+| to read as follows:  
+|  (a) Without limiting the amount or kind of information that  
+| is public information under this chapter, the following categories  
+| of information are public information and not excepted from  
+| required disclosure unless made confidential under this chapter or  
+| other law:  
+|  (1) a completed report, audit, evaluation, or  
+| investigation made of, for, or by a governmental body, except as  
+| provided by Section 552.108;  
+|  (2) the name, sex, ethnicity, salary, title, and dates  
+| of employment of each employee and officer of a governmental body;  
+|  (3) information in an account, voucher, or contract  
+| relating to the receipt or expenditure of public or other funds by a  
+| governmental body;  
+|  (4) the name of each official and the final record of  
+| voting on all proceedings in a governmental body;  
+|  (5) all working papers, research material, and  
+| information used to estimate the need for or expenditure of public  
+| funds or taxes by a governmental body, on completion of the  
+| estimate;  
+|  (6) the name, place of business, and the name of the  
+| municipality to which local sales and use taxes are credited, if  
+| any, for the named person, of a person reporting or paying sales and  
+| use taxes under Chapter 151, Tax Code;  
+|  (7) a description of an agency's central and field  
+| organizations, including:  
+|  (A) the established places at which the public  
+| may obtain information, submit information or requests, or obtain  
+| decisions;  
+|  (B) the employees from whom the public may obtain  
+| information, submit information or requests, or obtain decisions;  
+|  (C) in the case of a uniformed service, the  
+| members from whom the public may obtain information, submit  
+| information or requests, or obtain decisions; and  
+|  (D) the methods by which the public may obtain  
+| information, submit information or requests, or obtain decisions;  
+|  (8) a statement of the general course and method by  
+| which an agency's functions are channeled and determined, including  
+| the nature and requirements of all formal and informal policies and  
+| procedures;  
+|  (9) a rule of procedure, a description of forms  
+| available or the places at which forms may be obtained, and  
+| instructions relating to the scope and content of all papers,  
+| reports, or examinations;  
+|  (10) a substantive rule of general applicability  
+| adopted or issued by an agency as authorized by law, and a statement  
+| of general policy or interpretation of general applicability  
+| formulated and adopted by an agency;  
+|  (11) each amendment, revision, or repeal of  
+| information described by Subdivisions (7)-(10);  
+|  (12) final opinions, including concurring and  
+| dissenting opinions, and orders issued in the adjudication of  
+| cases;  
+|  (13) a policy statement or interpretation that has  
+| been adopted or issued by an agency;  
+|  (14) administrative staff manuals and instructions to  
+| staff that affect a member of the public;  
+|  (15) information regarded as open to the public under  
+| an agency's policies;  
+|  (16) information that is in a bill for attorney's fees  
+| and that is not privileged under the attorney-client privilege;  
+|  (17) information that is also contained in a public  
+| court record; [ ~~and~~ ]  
+|  (18) a settlement agreement to which a governmental  
+| body is a party _; and_  
+|  _(19)_ _____information regarding the purchase, sale,_  
+| _receipt, possession, or use of investigatory equipment by a state_  
+| _or local law enforcement agency or by a criminal justice agency of_  
+| _the state or of a political subdivision of the state_.  
+|  SECTION 5. Section 552.108, Government Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____This section does not except from the requirements of_  
+| _Section 552.021 information regarding the purchase, sale, receipt,_  
+| _possession, or use of investigatory equipment by a state or local_  
+| _law enforcement agency or by a criminal justice agency of the state_  
+| _or of a political subdivision of the state._  
+|  SECTION 6. Subchapter C, Chapter 552, Government Code, is  
+| amended by adding Section 552.1086 to read as follows:  
+|  _Sec._ ___552.1086._ _____INVESTIGATORY EQUIPMENT._ ___(a)_ ___Information_  
+| _described by Section 552.022(a)(19) remains subject to the_  
+| _requirements of Section 552.021 regardless of whether that_  
+| _information is included in a contract in which one of the parties is_  
+| _the state, a state agency, a political subdivision of the state, or_  
+| _an agency of a political subdivision of the state._  
+|  _(b)_ _____A term included in a contract described by Subsection_  
+| _(a) or in any nondisclosure agreement between the parties to that_  
+| _contract is not effective to except from disclosure information_  
+| _described by Section 552.022(a)(19)._  
+|  SECTION 7. The heading to Section 16.03, Penal Code, is  
+| amended to read as follows:  
+|  Sec. 16.03. UNLAWFUL USE OF _CELL SITE SIMULATOR DEVICE,_ PEN  
+| REGISTER _,_ OR TRAP AND TRACE DEVICE.  
+|  SECTION 8. Section 16.03, Penal Code, is amended by  
+| amending Subsections (a), (b), as effective January 1, 2019, and  
+| (c), as effective January 1, 2019, and adding Subsections (a-1),  
+| (c-1), and (c-2) to read as follows:  
+|  (a) A person commits an offense if the person knowingly  
+| installs or uses _:_  
+|  _(1)_ _____a cell site simulator device to obtain cell site_  
+| _information from a cellular telephone or other wireless_  
+| _communications device; or_  
+|  _(2)_ a pen register or trap and trace device to record  
+| or decode electronic or other impulses for the purpose of  
+| identifying telephone numbers dialed or otherwise transmitted on a  
+| telephone line.  
+|  _(a-1)_ _____A person commits an offense if the person knowingly_  
+| _obtains or uses cell site information to assist with, participate_  
+| _in, provide material support or resources for, or enable or_  
+| _facilitate an investigation conducted by a law enforcement agency_  
+| _of the federal government or of another state._  
+|  (b) In this section:  
+|  (1) "Authorized peace officer," "pen register,"  
+| _"remote computing service,"_ and "trap and trace device" have the  
+| meanings assigned by Article 18B.001, Code of Criminal Procedure.  
+|  (2) _"Cell site information" and "cell site simulator_  
+| _device" have the meanings assigned by Article 18B.221, Code of_  
+| _Criminal Procedure._  
+|  _(3)_ "Communication common carrier" _and "electronic_  
+| _communications service"_ ___have_ [ ~~has~~ ] the _meanings_ [ ~~meaning~~
+] assigned  
+| by Article 18A.001, Code of Criminal Procedure.  
+|  (c) It is an affirmative defense to prosecution under  
+| Subsection (a) that the actor is:  
+|  (1) an officer, employee, or agent of a communication  
+| common carrier _or of the provider of an electronic communications_  
+| _service or remote computing service_ and the actor installs or uses a  
+| device or equipment to _obtain information from a cellular telephone_  
+| _or other wireless communications device or to_ record a number  
+| dialed from or to a telephone [ ~~instrument~~ ] in the normal course of  
+| business of the carrier _or service provider_ for purposes of:  
+|  (A) protecting property or services provided by  
+| the carrier _or service provider_ ; or  
+|  (B) assisting another who the actor reasonably  
+| believes to be a peace officer authorized to install or use a _cell_  
+| _site simulator device,_ pen register _,_ or trap and trace device under  
+| Chapter 18B, Code of Criminal Procedure;  
+|  (2) an officer, employee, or agent of a lawful  
+| enterprise and the actor installs or uses a device or equipment  
+| while engaged in an activity that:  
+|  (A) is a necessary incident to the rendition of  
+| service or to the protection of property of or services provided by  
+| the enterprise; and  
+|  (B) is not made for the purpose of gathering  
+| information for a law enforcement agency or private investigative  
+| agency, other than information related to the theft of  
+| communication or information services provided by the enterprise;  
+| or  
+|  (3) a person authorized to install or use a _cell site_  
+| _simulator device,_ pen register _,_ or trap and trace device under  
+| Chapter 18B, Code of Criminal Procedure.  
+|  _(c-1)_ _____It is an affirmative defense to prosecution under_  
+| _Subsection (a) for the use of a cell site simulator device that the_  
+| _owner or possessor of a cellular telephone or other wireless_  
+| _communications device gave effective consent to the actor's_  
+| _retrieval of cell site information from the telephone or device._  
+|  _(c-2)_ _____It is an affirmative defense to prosecution under_  
+| _Subsection (a-1) that the actor is an authorized peace officer and:_  
+|  _(1)_ _____the actor obtained the effective consent of the_  
+| _owner or possessor of the cellular telephone or other wireless_  
+| _communications device;_  
+|  _(2)_ _____a warrant authorizing the conduct has been_  
+| _obtained under Subchapter E-1, Chapter 18B, Code of Criminal_  
+| _Procedure; or_  
+|  _(3)_ _____Article 18B.226, Code of Criminal Procedure, or_  
+| _another exception to the warrant requirement under state or federal_  
+| _law applies._  
+|  SECTION 9. The changes in law made by this Act to Article  
+| 18.02 and Chapter 18B, Code of Criminal Procedure, apply only to a  
+| warrant issued on or after the effective date of this Act. A  
+| warrant issued before the effective date of this Act is governed by  
+| the law in effect on the date the warrant was issued, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 10. The change in law made by this Act to Article  
+| 39.14(c), Code of Criminal Procedure, applies only to the  
+| prosecution of an offense committed on or after the effective date  
+| of this Act. The prosecution of an offense committed before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the offense was committed, and the former law is continued in  
+| effect for that purpose. For purposes of this section, an offense  
+| is committed before the effective date of this Act if any element of  
+| the offense occurs before the effective date.  
+|  SECTION 11. The changes in law made by this Act to Chapter  
+| 552, Government Code, apply to information, records, and notations  
+| collected, made, assembled, or maintained on, before, or after the  
+| effective date of this Act.  
+|  SECTION 12. The change in law made by this Act to Section  
+| 16.03, Penal Code, applies only to an offense committed on or after  
+| the effective date of this Act. An offense committed before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the offense was committed, and the former law is continued in  
+| effect for that purpose. For purposes of this section, an offense  
+| was committed before the effective date of this Act if any element  
+| of the offense occurred before that date.  
+|  SECTION 13. This Act takes effect September 1, 2019.
+

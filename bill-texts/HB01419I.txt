@@ -1,0 +1,55 @@
+| 86R10240 ADM-D  
+---|---  
+|  By: Thompson of Harris | H.B. No. 1419  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to qualifications and registration of certain voters  
+| convicted of a felony.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 11.002(a), Election Code, is amended to  
+| read as follows:  
+|  (a) In this code, "qualified voter" means a person who:  
+|  (1) is 18 years of age or older;  
+|  (2) is a United States citizen;  
+|  (3) has not been determined by a final judgment of a  
+| court exercising probate jurisdiction to be:  
+|  (A) totally mentally incapacitated; or  
+|  (B) partially mentally incapacitated without the  
+| right to vote;  
+|  (4) has not been finally convicted of a felony or, if  
+| so convicted, _is not currently incarcerated for that offense_ [ ~~has:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~fully discharged the person's sentence,~~  
+|  ~~including any term of incarceration, parole, or supervision, or~~  
+|  ~~completed a period of probation ordered by any court; or~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~been pardoned or otherwise released from the~~  
+|  ~~resulting disability to vote~~ ];  
+|  (5) is a resident of this state; and  
+|  (6) is a registered voter.  
+|  SECTION 2. Section 13.001(a), Election Code, is amended to  
+| read as follows:  
+|  (a) To be eligible for registration as a voter in this  
+| state, a person must:  
+|  (1) be 18 years of age or older;  
+|  (2) be a United States citizen;  
+|  (3) not have been determined by a final judgment of a  
+| court exercising probate jurisdiction to be:  
+|  (A) totally mentally incapacitated; or  
+|  (B) partially mentally incapacitated without the  
+| right to vote;  
+|  (4) not have been finally convicted of a felony or, if  
+| so convicted, must _not currently be incarcerated for that offense_  
+| [ ~~have:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~fully discharged the person's sentence,~~  
+|  ~~including any term of incarceration, parole, or supervision, or~~  
+|  ~~completed a period of probation ordered by any court; or~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~been pardoned or otherwise released from the~~  
+|  ~~resulting disability to vote~~ ]; and  
+|  (5) be a resident of the county in which application  
+| for registration is made.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

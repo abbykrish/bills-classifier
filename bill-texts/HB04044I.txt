@@ -1,0 +1,111 @@
+| 86R6446 MAW-D  
+---|---  
+|  By: Dominguez | H.B. No. 4044  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the funding of community supervision and corrections  
+| departments.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 509.011, Government Code, is amended by  
+| amending Subsections (a), (e), and (f) and adding Subsections  
+| (e-1), (f-1), and (i) to read as follows:  
+|  (a) If the division determines that a department complies  
+| with division standards and if the department has submitted a  
+| strategic plan under Section 509.007 and the supporting information  
+| required by the division and the division determines the plan and  
+| supporting information are acceptable, the division shall prepare  
+| and submit to the comptroller vouchers for payment to the  
+| department as follows:  
+|  (1) for per capita funding, a per diem amount _based on_  
+| _the formula established under Subsection (e)_ for each felony  
+| defendant _who is_ [ ~~directly~~ ] supervised by the department pursuant  
+| to lawful authority _and:_  
+|  _(A) placed on community supervision; or_  
+|  _(B)_ _____participating in a pretrial service or_  
+| _intervention program_ ;  
+|  (2) for per capita funding, a per diem amount _based on_  
+| _the formula established under Subsection (e)_ for a period not to  
+| exceed 182 days for each _misdemeanor_ defendant _who is_ supervised by  
+| the department pursuant to lawful authority _and placed on community_  
+| _supervision_ [ ~~, other than a felony defendant~~ ]; and  
+|  (3) for formula funding, an annual amount as computed  
+| by multiplying a percentage determined by the allocation formula  
+| established under Subsection (f) times the total amount provided in  
+| the General Appropriations Act for payments under this subdivision.  
+|  (e) _The division annually shall establish a per capita_  
+| _funding formula to determine the percentage of the total amount_  
+| _provided in the General Appropriations Act for payments under_  
+| _Subsections (a)(1) and (2) that each department is entitled to_  
+| _receive. For purposes of funding distributed for a defendant_  
+| _described by Subsection (a)(1)(A), the formula must include:_  
+|  _(1)_ _____a higher per capita funding rate for the_  
+| _supervision of a defendant during the earliest period of the_  
+| _defendant's community supervision term than the rate for the_  
+| _supervision of a defendant during a later period of the defendant's_  
+| _community supervision term;_  
+|  _(2)_ _____provisions to decrease per capita funding for each_  
+| _defendant supervised by a department who has the defendant's_  
+| _community supervision revoked due to a technical violation of a_  
+| _condition of community supervision; and_  
+|  _(3)_ _____provisions to award additional per capita funding_  
+| _based on each defendant supervised by a department who receives a_  
+| _discharge following an early termination of community supervision_  
+| _under Article 42A.111 or 42A.701, Code of Criminal Procedure, as_  
+| _applicable._  
+|  _(e-1)_ In establishing _the per capita funding formula under_  
+| _Subsection (e)_ [ ~~per diem payments authorized by Subsections (a)(1)~~  
+|  ~~and (a)(2)~~ ], the division shall consider the amounts appropriated  
+| in the General Appropriations Act for basic supervision as  
+| sufficient to provide basic supervision in each year of the fiscal  
+| biennium.  
+|  (f) The division annually shall compute for each department  
+| for community corrections program formula funding a percentage  
+| determined by assigning equal weights to the percentage of the  
+| state's population residing in the counties served by the  
+| department and the department's percentage of all felony defendants  
+| in the state under direct community supervision. The division  
+| shall use the most recent information available in making  
+| computations under this subsection.  
+|  _(f-1)_ The board by rule may adopt a policy limiting for all  
+| departments the percentage of benefit or loss that may be realized  
+| as a result of the operation of _a_ [ ~~the~~ ] formula _established under_  
+| _Subsection (e) or (f)_.  
+|  _(i)_ _____In this section, "technical violation"_ ___means any_  
+| _violation of a condition of community supervision committed by a_  
+| _defendant other than a violation that involves:_  
+|  _(1)_ _____being arrested for, charged with, or convicted of_  
+| _an offense:_  
+|  _(A) punishable as a felony; or_  
+|  _(B)_ _____under Title 5, Penal Code, that is punishable_  
+| _as a misdemeanor;_  
+|  _(2)_ _____the operation of a motor vehicle in a public place_  
+| _while intoxicated, regardless of whether the defendant was arrested_  
+| _for, charged with, or convicted of an offense based on that conduct;_  
+|  _(3)_ _____a failure to report to a supervision officer as_  
+| _directed for 90 days or more if the supervision officer or a peace_  
+| _officer or other officer attempted to contact the defendant in_  
+| _person at the defendant's last known residential or employment_  
+| _address; or_  
+|  _(4) leaving the state without permission._  
+|  SECTION 2. Section 509.014(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The division shall:  
+|  (1) review the funding formulas specified under  
+| Section 509.011 and study the feasibility of adopting _additional_  
+| performance-based _components_ [ ~~funding formulas~~ ], including whether  
+| the formulas should take into consideration an offender's risk  
+| level or other appropriate factors in allocating funding; and  
+|  (2) make recommendations for modifying the current  
+| funding formulas.  
+|  SECTION 3. (a) Not later than January 1, 2020, the  
+| community justice assistance division of the Texas Department of  
+| Criminal Justice shall establish the per capita funding formula  
+| required by Section 509.011(e), Government Code, as amended by this  
+| Act, that is to be used for the state fiscal year beginning  
+| September 1, 2020.  
+|  (b) Section 509.011, Government Code, as amended by this  
+| Act, applies only to a payment based on an appropriation made for  
+| any state fiscal year beginning on or after September 1, 2020.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

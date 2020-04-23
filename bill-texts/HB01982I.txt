@@ -1,0 +1,199 @@
+| 86R7110 JES-F  
+---|---  
+|  By: Paul | H.B. No. 1982  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the operation of the Texas Property and Casualty  
+| Insurance Guaranty Association.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 462.004(5), Insurance Code, is amended  
+| to read as follows:  
+|  (5) "Impaired insurer" means a member insurer that is  
+| _subject to a final, nonappealable order of liquidation that_  
+| _includes a finding of insolvency issued by a court of competent_  
+| _jurisdiction in this state or in the insurer's state of domicile_ [ ~~:~~  
+|  [ ~~(A) placed in:~~  
+|  [ ~~(i)~~ ~~~~ ~~~~ ~~temporary or permanent receivership or~~  
+|  ~~liquidation under a court order, including a court order of another~~  
+|  ~~state, based on a finding of insolvency; or~~  
+|  [ ~~(ii)~~ ~~~~ ~~~~ ~~conservatorship after the~~  
+|  ~~commissioner determines that the insurer is insolvent; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~designated by the commissioner as an~~  
+|  ~~impaired insurer~~ ].  
+|  SECTION 2. Section 462.055(b), Insurance Code, is amended  
+| to read as follows:  
+|  (b) The remaining board members, by majority vote, shall  
+| fill a vacancy on the board for the unexpired term _of a director who_  
+| _serves as an insurance industry board member_ , subject to the  
+| commissioner's approval _. The commissioner shall appoint a director_  
+| _to fill a vacancy on the board for the unexpired term of a director_  
+| _who serves as a public representative_.  
+|  SECTION 3. Section 462.059, Insurance Code, is amended by  
+| amending Subsections (a), (b), and (c) and adding Subsection (a-1)  
+| to read as follows:  
+|  (a) Notwithstanding Chapter 551, Government Code, the board  
+| may hold an open meeting by telephone conference call [ ~~if immediate~~  
+|  ~~action is required and convening of a quorum of the board at a~~  
+|  ~~single location is not reasonable or practical~~ ]. _A meeting held by_  
+| _telephone conference call:_  
+|  _(1)_ _____must be audible to the public at the location_  
+| _specified in the notice described by Subsection (c); and_  
+|  _(2)_ _____must allow two-way audio communication during the_  
+| _entire meeting between the members of the board attending a meeting_  
+| _authorized by this section._  
+|  _(a-1)_ _____If the two-way audio communication required under_  
+| _Subsection (a) is disrupted during a meeting so that a quorum of the_  
+| _board is no longer able to participate, the meeting may not continue_  
+| _until the two-way audio communication is reestablished._  
+|  (b) The meeting is subject to the notice requirements that  
+| apply to other meetings _of the board of directors_.  
+|  (c) The notice of the meeting must specify [ ~~as~~ ] the location  
+| of the meeting [ ~~the location at which meetings of the board are~~  
+|  ~~usually held~~ ], and each part of the meeting that is required to be  
+| open to the public must be audible to the public at that location _._  
+| _The association must make an audio recording of the meeting. The_  
+| _recording of the open portion of the meeting must be posted publicly_  
+| _to the association's Internet website_ [ ~~and must be tape recorded.~~  
+|  ~~The tape recording shall be made available to the public~~ ].  
+|  SECTION 4. Section 462.207, Insurance Code, is amended by  
+| amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) An impaired insurer's insured is not liable, and the  
+| reinsurer, insurer, self-insurer, insurance pool, or underwriting  
+| association is not entitled to sue or continue a suit against the  
+| insured, for a subrogation recovery, reinsurance recovery,  
+| contribution, indemnification, or any other claim asserted  
+| directly or indirectly by a reinsurer, insurer _, self-insurer_ ,  
+| insurance pool, or underwriting association to the extent of the  
+| applicable liability limits of the insurance policy written and  
+| issued to the insured by the insolvent insurer.  
+|  _(c)_ _____The association is entitled to recover the_  
+| _association's costs, expenses, and reasonable attorney's fees_  
+| _incurred in defending the association or an impaired insurer's_  
+| _insured against a claim brought in violation of this subsection by a_  
+| _reinsurer, insurer, self-insurer, insurance pool, or underwriting_  
+| _association, on that entity's own behalf or on behalf of the_  
+| _entity's insured, after the date on which the entity is provided_  
+| _notice by the association or otherwise of the provisions of this_  
+| _section applicable to the entity's suit._  
+|  SECTION 5. Sections 462.212(d), (e), and (f), Insurance  
+| Code, are amended to read as follows:  
+|  (d) In an instance described by Subsection (c), the  
+| association is entitled to assert a claim in the bankruptcy or  
+| receivership proceeding to recover the amount of any covered claim  
+| and costs of defense paid on behalf of the insured. _A court shall_  
+| _award the association the association's costs, expenses, and_  
+| _reasonable attorney's fees incurred in seeking recovery under this_  
+| _section._  
+|  (e) The association may establish procedures for requesting  
+| financial information from an insured [ ~~or claimant~~ ] on a  
+| confidential basis for the purpose of applying sections concerning  
+| the net worth of _insureds_ [ ~~first-party and third-party claimants~~ ],  
+| subject to any information requested under this subsection being  
+| shared with any other association similar to the association and  
+| with the liquidator for the impaired insurer on the same  
+| confidential basis. If the insured [ ~~or claimant~~ ] refuses to  
+| provide the requested financial information, the [ ~~association~~  
+|  ~~requests an auditor's certification of that information, and the~~  
+|  ~~auditor's certification is available but not provided, the~~ ]  
+| association may deem the net worth of the insured [ ~~or claimant~~ ] to  
+| be in excess of $50 million at the relevant time.  
+|  (f) In any lawsuit contesting the applicability of Section  
+| 462.308 or this section when the insured [ ~~or claimant~~ ] has declined  
+| to provide financial information _requested by the association_  
+| [ ~~under the procedure provided in the plan of operation under~~  
+|  ~~Section 462.103~~ ], the insured [ ~~or claimant~~ ] bears the burden of  
+| proof concerning its net worth at the relevant time _and shall pay_ [ ~~.~~  
+|  ~~If the insured or claimant fails to prove that its net worth at the~~  
+|  ~~relevant time was less than the applicable amount, the court shall~~  
+|  ~~award~~ ] the association _the association's_ [ ~~its full~~ ] costs,  
+| expenses, and reasonable attorney's fees _incurred in attempting to_  
+| _obtain the insured's financial information_ [ ~~in contesting the~~  
+|  ~~claim~~ ].  
+|  SECTION 6. Section 462.303, Insurance Code, is amended by  
+| amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) A judgment, settlement, or release described by  
+| Subsection (a) is not evidence of liability or of damages in  
+| connection with a claim brought against the association _, an_  
+| _impaired insurer's insured,_ or another party under this chapter.  
+|  _(c)_ _____The association is entitled to recover the_  
+| _association's costs, expenses, and reasonable attorney's fees_  
+| _incurred in contesting a claim based on a judgment, settlement, or_  
+| _release described by Subsection (a) on the association's behalf or_  
+| _on behalf of an impaired insurer's insured after the date on which_  
+| _the party asserting the claim is provided notice by the association_  
+| _or otherwise of the provisions of this section applicable to the_  
+| _judgment, settlement, or release._  
+|  SECTION 7. Sections 462.304(a) and (c), Insurance Code, are  
+| amended to read as follows:  
+|  (a) The association shall handle claims through _:_  
+|  _(1)_ the association's employees _or contract claims_  
+| _adjusters;_ or  
+|  _(2) subject to the approval of the commissioner,_  
+| [ ~~through~~ ] one or more insurers [ ~~or other persons~~ ] designated[
+~~,~~  
+|  ~~subject to the approval of the commissioner,~~ ] as _a_ servicing  
+| _facility under a servicing agreement or loss portfolio transfer_  
+| _agreement_ [ ~~facilities~~ ].  
+|  (c) The association shall[ ~~:~~  
+|  [ ~~(1)~~ ] reimburse a servicing facility for[ ~~:~~  
+|  [ ~~(A)~~ ] obligations of the association paid by the  
+| facility[ ~~;~~ ] and  
+|  [ ~~(B)~~ ] expenses incurred by the facility in  
+| handling claims for the association _. The association shall_  
+| _reimburse a servicing facility under this subsection in a manner_  
+| _that is consistent with the applicable servicing agreement or loss_  
+| _portfolio agreement_ [ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~pay the other expenses of the association~~  
+|  ~~authorized by this chapter~~ ].  
+|  SECTION 8. Section 462.307, Insurance Code, is amended by  
+| amending Subsection (d) and adding Subsection (f) to read as  
+| follows:  
+|  (d) Except as provided by Section 462.308 _or 462.212_ , the  
+| association does not have a cause of action against the impaired  
+| insurer's insured for money the association has paid, other than a  
+| cause of action that the impaired insurer would have had if the  
+| money had been paid by the impaired insurer.  
+|  _(f)_ _____To the extent the association has a right to recover_  
+| _proceeds from the sale of salvage property related to a covered_  
+| _claim, the association's right to recover the proceeds may not be_  
+| _reduced in the amount of any pre-impairment costs, fees, or_  
+| _expenses related to the salvage property that are not part of a_  
+| _covered claim under Subchapter E. A person or entity in possession_  
+| _of salvage property subject to the association's right of recovery_  
+| _may not seek recovery from the association for any pre-impairment_  
+| _costs, fees, or expenses related to the salvage property that are_  
+| _not a covered claim under Subchapter E._  
+|  SECTION 9. Section 462.308, Insurance Code, is amended by  
+| amending Subsection (a) and adding Subsection (d) to read as  
+| follows:  
+|  (a) The association is entitled to recover:  
+|  (1) the amount of a covered claim and the cost of  
+| defense paid on behalf of a person:  
+|  (A) who is an affiliate of the impaired insurer;  
+| and  
+|  (B) whose liability obligations to other persons  
+| are satisfied wholly or partly by payment made under this chapter;  
+| and  
+|  (2) the amount of a covered claim for workers'  
+| compensation insurance benefits and the costs of administration and  
+| defense of the claim paid under this chapter from an insured  
+| employer _or any successor entity to the insured employer under_  
+| _state, federal, or international law_ whose net worth on December 31  
+| of the year preceding the date the insurer becomes an impaired  
+| insurer exceeds $50 million.  
+|  _(d)_ _____A court shall award the association the association's_  
+| _costs, expenses, and reasonable attorney's fees incurred in seeking_  
+| _recovery under this section._  
+|  SECTION 10. Except as provided by this section, the changes  
+| in law made by this Act apply only with respect to a property and  
+| casualty insurance company that is designated as an impaired  
+| insurer on or after the effective date of this Act. The law as it  
+| existed immediately before the effective date of this Act applies  
+| with respect to a property and casualty insurance company that is  
+| designated as an impaired insurer before the effective date of this  
+| Act, and that law is continued in effect for that purpose.  
+|  SECTION 11. This Act takes effect September 1, 2019.
+

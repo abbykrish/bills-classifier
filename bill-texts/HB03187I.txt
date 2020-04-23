@@ -1,0 +1,384 @@
+| 86R13385 KKR-F  
+---|---  
+|  By: Muñoz, Jr. | H.B. No. 3187  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the processing and payment of claims for reimbursement  
+| by certain providers under the Medicaid program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 533.005(a), Government Code, is amended  
+| to read as follows:  
+|  (a) A contract between a managed care organization and the  
+| commission for the organization to provide health care services to  
+| recipients must contain:  
+|  (1) procedures to ensure accountability to the state  
+| for the provision of health care services, including procedures for  
+| financial reporting, quality assurance, utilization review, and  
+| assurance of contract and subcontract compliance;  
+|  (2) capitation rates that ensure the cost-effective  
+| provision of quality health care;  
+|  (3) a requirement that the managed care organization  
+| provide ready access to a person who assists recipients in  
+| resolving issues relating to enrollment, plan administration,  
+| education and training, access to services, and grievance  
+| procedures;  
+|  (4) a requirement that the managed care organization  
+| provide ready access to a person who assists providers in resolving  
+| issues relating to payment, plan administration, education and  
+| training, and grievance procedures;  
+|  (5) a requirement that the managed care organization  
+| provide information and referral about the availability of  
+| educational, social, and other community services that could  
+| benefit a recipient;  
+|  (6) procedures for recipient outreach and education;  
+|  (7) a requirement that the managed care organization  
+| make payment to a physician or provider for health care services  
+| rendered to a recipient under a managed care plan on any claim for  
+| payment that is received with documentation reasonably necessary  
+| for the managed care organization to process the claim[ ~~:~~  
+|  [ ~~(A)~~ ] not later than:  
+|  _(A)_ [ ~~(i)~~ ] the 10th day after the date the claim  
+| is received if the claim relates to services provided by a nursing  
+| facility, intermediate care facility, or group home; _and_  
+|  _(B) on average,_ [ ~~(ii)~~ ] the _15th_ [ ~~30th~~ ] day after  
+| the date the claim is received if the claim _, including a claim that_  
+| relates to the provision of long-term services and supports _, is_ not  
+| subject to _Paragraph (A)_ [ ~~Subparagraph (i); and~~  
+|  [ ~~(iii)~~ ~~~~ ~~~~ ~~the 45th day after the date the claim~~  
+|  ~~is received if the claim is not subject to Subparagraph (i) or (ii);~~  
+|  ~~or~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~within a period, not to exceed 60 days,~~  
+|  ~~specified by a written agreement between the physician or provider~~  
+|  ~~and the managed care organization~~ ];  
+|  (7-a) a requirement that the managed care organization  
+| demonstrate to the commission that the organization pays claims  
+| described by Subdivision _(7)(B)_ [ ~~(7)(A)(ii)~~ ] on average not later  
+| than the _15th_ [ ~~21st~~ ] day after the date the claim is received by the  
+| organization;  
+|  _(7-b)_ _____a requirement that the managed care organization_  
+| _allow a physician or provider to electronically submit_  
+| _documentation necessary for the managed care organization to_  
+| _process a claim for payment for health care services rendered to a_  
+| _recipient under a managed care plan, including additional_  
+| _documentation necessary when the claim is not submitted with_  
+| _documentation reasonably necessary for the managed care_  
+| _organization to process the claim;_  
+|  (8) a requirement that the commission, on the date of a  
+| recipient's enrollment in a managed care plan issued by the managed  
+| care organization, inform the organization of the recipient's  
+| Medicaid certification date;  
+|  (9) a requirement that the managed care organization  
+| comply with Section 533.006 as a condition of contract retention  
+| and renewal;  
+|  (10) a requirement that the managed care organization  
+| provide the information required by Section 533.012 and otherwise  
+| comply and cooperate with the commission's office of inspector  
+| general and the office of the attorney general;  
+|  (11) a requirement that the managed care  
+| organization's usages of out-of-network providers or groups of  
+| out-of-network providers may not exceed limits for those usages  
+| relating to total inpatient admissions, total outpatient services,  
+| and emergency room admissions determined by the commission;  
+|  (12) if the commission finds that a managed care  
+| organization has violated Subdivision (11), a requirement that the  
+| managed care organization reimburse an out-of-network provider for  
+| health care services at a rate that is equal to the allowable rate  
+| for those services, as determined under Sections 32.028 and  
+| 32.0281, Human Resources Code;  
+|  (13) a requirement that, notwithstanding any other  
+| law, including Sections 843.312 and 1301.052, Insurance Code, the  
+| organization:  
+|  (A) use advanced practice registered nurses and  
+| physician assistants in addition to physicians as primary care  
+| providers to increase the availability of primary care providers in  
+| the organization's provider network; and  
+|  (B) treat advanced practice registered nurses  
+| and physician assistants in the same manner as primary care  
+| physicians with regard to:  
+|  (i) selection and assignment as primary  
+| care providers;  
+|  (ii) inclusion as primary care providers in  
+| the organization's provider network; and  
+|  (iii) inclusion as primary care providers  
+| in any provider network directory maintained by the organization;  
+|  (14) a requirement that the managed care organization  
+| reimburse a federally qualified health center or rural health  
+| clinic for health care services provided to a recipient outside of  
+| regular business hours, including on a weekend day or holiday, at a  
+| rate that is equal to the allowable rate for those services as  
+| determined under Section 32.028, Human Resources Code, if the  
+| recipient does not have a referral from the recipient's primary  
+| care physician;  
+|  (15) a requirement that the managed care organization  
+| develop, implement, and maintain a system for tracking and  
+| resolving all provider appeals related to claims payment, including  
+| a process that will require:  
+|  (A) a tracking mechanism to document the status  
+| and final disposition of each provider's claims payment appeal;  
+|  (B) the contracting with physicians who are not  
+| network providers and who are of the same or related specialty as  
+| the appealing physician to resolve claims disputes related to  
+| denial on the basis of medical necessity that remain unresolved  
+| subsequent to a provider appeal;  
+|  (C) the determination of the physician resolving  
+| the dispute to be binding on the managed care organization and  
+| provider; and  
+|  (D) the managed care organization to allow a  
+| provider with a claim that has not been paid before the time  
+| prescribed by Subdivision _(7)(B)_ [ ~~(7)(A)(ii)~~ ] to initiate an appeal  
+| of that claim;  
+|  (16) a requirement that a medical director who is  
+| authorized to make medical necessity determinations is available to  
+| the region where the managed care organization provides health care  
+| services;  
+|  (17) a requirement that the managed care organization  
+| ensure that a medical director and patient care coordinators and  
+| provider and recipient support services personnel are located in  
+| the South Texas service region, if the managed care organization  
+| provides a managed care plan in that region;  
+|  (18) a requirement that the managed care organization  
+| provide special programs and materials for recipients with limited  
+| English proficiency or low literacy skills;  
+|  (19) a requirement that the managed care organization  
+| develop and establish a process for responding to provider appeals  
+| in the region where the organization provides health care services;  
+|  (20) a requirement that the managed care organization:  
+|  (A) develop and submit to the commission, before  
+| the organization begins to provide health care services to  
+| recipients, a comprehensive plan that describes how the  
+| organization's provider network complies with the provider access  
+| standards established under Section 533.0061;  
+|  (B) as a condition of contract retention and  
+| renewal:  
+|  (i) continue to comply with the provider  
+| access standards established under Section 533.0061; and  
+|  (ii) make substantial efforts, as  
+| determined by the commission, to mitigate or remedy any  
+| noncompliance with the provider access standards established under  
+| Section 533.0061;  
+|  (C) pay liquidated damages for each failure, as  
+| determined by the commission, to comply with the provider access  
+| standards established under Section 533.0061 in amounts that are  
+| reasonably related to the noncompliance; and  
+|  (D) regularly, as determined by the commission,  
+| submit to the commission and make available to the public a report  
+| containing data on the sufficiency of the organization's provider  
+| network with regard to providing the care and services described  
+| under Section 533.0061(a) and specific data with respect to access  
+| to primary care, specialty care, long-term services and supports,  
+| nursing services, and therapy services on the average length of  
+| time between:  
+|  (i) the date a provider requests prior  
+| authorization for the care or service and the date the organization  
+| approves or denies the request; and  
+|  (ii) the date the organization approves a  
+| request for prior authorization for the care or service and the date  
+| the care or service is initiated;  
+|  (21) a requirement that the managed care organization  
+| demonstrate to the commission, before the organization begins to  
+| provide health care services to recipients, that, subject to the  
+| provider access standards established under Section 533.0061:  
+|  (A) the organization's provider network has the  
+| capacity to serve the number of recipients expected to enroll in a  
+| managed care plan offered by the organization;  
+|  (B) the organization's provider network  
+| includes:  
+|  (i) a sufficient number of primary care  
+| providers;  
+|  (ii) a sufficient variety of provider  
+| types;  
+|  (iii) a sufficient number of providers of  
+| long-term services and supports and specialty pediatric care  
+| providers of home and community-based services; and  
+|  (iv) providers located throughout the  
+| region where the organization will provide health care services;  
+| and  
+|  (C) health care services will be accessible to  
+| recipients through the organization's provider network to a  
+| comparable extent that health care services would be available to  
+| recipients under a fee-for-service or primary care case management  
+| model of Medicaid managed care;  
+|  (22) a requirement that the managed care organization  
+| develop a monitoring program for measuring the quality of the  
+| health care services provided by the organization's provider  
+| network that:  
+|  (A) incorporates the National Committee for  
+| Quality Assurance's Healthcare Effectiveness Data and Information  
+| Set (HEDIS) measures;  
+|  (B) focuses on measuring outcomes; and  
+|  (C) includes the collection and analysis of  
+| clinical data relating to prenatal care, preventive care, mental  
+| health care, and the treatment of acute and chronic health  
+| conditions and substance abuse;  
+|  (23) subject to Subsection (a-1), a requirement that  
+| the managed care organization develop, implement, and maintain an  
+| outpatient pharmacy benefit plan for its enrolled recipients:  
+|  (A) that exclusively employs the vendor drug  
+| program formulary and preserves the state's ability to reduce  
+| waste, fraud, and abuse under Medicaid;  
+|  (B) that adheres to the applicable preferred drug  
+| list adopted by the commission under Section 531.072;  
+|  (C) that includes the prior authorization  
+| procedures and requirements prescribed by or implemented under  
+| Sections 531.073(b), (c), and (g) for the vendor drug program;  
+|  (D) for purposes of which the managed care  
+| organization:  
+|  (i) may not negotiate or collect rebates  
+| associated with pharmacy products on the vendor drug program  
+| formulary; and  
+|  (ii) may not receive drug rebate or pricing  
+| information that is confidential under Section 531.071;  
+|  (E) that complies with the prohibition under  
+| Section 531.089;  
+|  (F) under which the managed care organization may  
+| not prohibit, limit, or interfere with a recipient's selection of a  
+| pharmacy or pharmacist of the recipient's choice for the provision  
+| of pharmaceutical services under the plan through the imposition of  
+| different copayments;  
+|  (G) that allows the managed care organization or  
+| any subcontracted pharmacy benefit manager to contract with a  
+| pharmacist or pharmacy providers separately for specialty pharmacy  
+| services, except that:  
+|  (i) the managed care organization and  
+| pharmacy benefit manager are prohibited from allowing exclusive  
+| contracts with a specialty pharmacy owned wholly or partly by the  
+| pharmacy benefit manager responsible for the administration of the  
+| pharmacy benefit program; and  
+|  (ii) the managed care organization and  
+| pharmacy benefit manager must adopt policies and procedures for  
+| reclassifying prescription drugs from retail to specialty drugs,  
+| and those policies and procedures must be consistent with rules  
+| adopted by the executive commissioner and include notice to network  
+| pharmacy providers from the managed care organization;  
+|  (H) under which the managed care organization may  
+| not prevent a pharmacy or pharmacist from participating as a  
+| provider if the pharmacy or pharmacist agrees to comply with the  
+| financial terms and conditions of the contract as well as other  
+| reasonable administrative and professional terms and conditions of  
+| the contract;  
+|  (I) under which the managed care organization may  
+| include mail-order pharmacies in its networks, but may not require  
+| enrolled recipients to use those pharmacies, and may not charge an  
+| enrolled recipient who opts to use this service a fee, including  
+| postage and handling fees;  
+|  (J) under which the managed care organization or  
+| pharmacy benefit manager, as applicable, must pay claims _and allow_  
+| _the electronic submission of claims documentation_ in accordance  
+| with _Subdivisions (7) and (7-b)_ [ ~~Section 843.339, Insurance Code~~ ];  
+| and  
+|  (K) under which the managed care organization or  
+| pharmacy benefit manager, as applicable:  
+|  (i) to place a drug on a maximum allowable  
+| cost list, must ensure that:  
+|  (a) the drug is listed as "A" or "B"  
+| rated in the most recent version of the United States Food and Drug  
+| Administration's Approved Drug Products with Therapeutic  
+| Equivalence Evaluations, also known as the Orange Book, has an "NR"  
+| or "NA" rating or a similar rating by a nationally recognized  
+| reference; and  
+|  (b) the drug is generally available  
+| for purchase by pharmacies in the state from national or regional  
+| wholesalers and is not obsolete;  
+|  (ii) must provide to a network pharmacy  
+| provider, at the time a contract is entered into or renewed with the  
+| network pharmacy provider, the sources used to determine the  
+| maximum allowable cost pricing for the maximum allowable cost list  
+| specific to that provider;  
+|  (iii) must review and update maximum  
+| allowable cost price information at least once every seven days to  
+| reflect any modification of maximum allowable cost pricing;  
+|  (iv) must, in formulating the maximum  
+| allowable cost price for a drug, use only the price of the drug and  
+| drugs listed as therapeutically equivalent in the most recent  
+| version of the United States Food and Drug Administration's  
+| Approved Drug Products with Therapeutic Equivalence Evaluations,  
+| also known as the Orange Book;  
+|  (v) must establish a process for  
+| eliminating products from the maximum allowable cost list or  
+| modifying maximum allowable cost prices in a timely manner to  
+| remain consistent with pricing changes and product availability in  
+| the marketplace;  
+|  (vi) must:  
+|  (a) provide a procedure under which a  
+| network pharmacy provider may challenge a listed maximum allowable  
+| cost price for a drug;  
+|  (b) respond to a challenge not later  
+| than the 15th day after the date the challenge is made;  
+|  (c) if the challenge is successful,  
+| make an adjustment in the drug price effective on the date the  
+| challenge is resolved[ ~~,~~ ] and make the adjustment applicable to all  
+| similarly situated network pharmacy providers, as determined by the  
+| managed care organization or pharmacy benefit manager, as  
+| appropriate;  
+|  (d) if the challenge is denied,  
+| provide the reason for the denial; and  
+|  (e) report to the commission every 90  
+| days the total number of challenges that were made and denied in the  
+| preceding 90-day period for each maximum allowable cost list drug  
+| for which a challenge was denied during the period;  
+|  (vii) must notify the commission not later  
+| than the 21st day after implementing a practice of using a maximum  
+| allowable cost list for drugs dispensed at retail but not by mail;  
+| and  
+|  (viii) must provide a process for each of  
+| its network pharmacy providers to readily access the maximum  
+| allowable cost list specific to that provider;  
+|  (24) a requirement that the managed care organization  
+| and any entity with which the managed care organization contracts  
+| for the performance of services under a managed care plan disclose,  
+| at no cost, to the commission and, on request, the office of the  
+| attorney general all discounts, incentives, rebates, fees, free  
+| goods, bundling arrangements, and other agreements affecting the  
+| net cost of goods or services provided under the plan;  
+|  (25) a requirement that the managed care organization  
+| not implement significant, nonnegotiated, across-the-board  
+| provider reimbursement rate reductions unless:  
+|  (A) subject to Subsection (a-3), the  
+| organization has the prior approval of the commission to make the  
+| _reductions_ [ ~~reduction~~ ]; or  
+|  (B) the rate reductions are based on changes to  
+| the Medicaid fee schedule or cost containment initiatives  
+| implemented by the commission; and  
+|  (26) a requirement that the managed care organization  
+| make initial and subsequent primary care provider assignments and  
+| changes.  
+|  SECTION 2. Subchapter B, Chapter 32, Human Resources Code,  
+| is amended by adding Section 32.0292 to read as follows:  
+|  _Sec._ ___32.0292._ _____PAYMENT OF CERTAIN TRANSPORTATION CLAIMS._ __  
+| _The executive commissioner shall adopt rules to ensure the_  
+| _commission or the commission's designee pays a claim for_  
+| _nonemergency ambulance services provided to a recipient of medical_  
+| _assistance under this chapter not later than the 15th day after the_  
+| _date the claim for payment is received with documentation_  
+| _reasonably necessary for the commission or the designee to process_  
+| _the claim._  
+|  SECTION 3. The executive commissioner of the Health and  
+| Human Services Commission shall adopt the rules necessary to  
+| implement Section 32.0292, Human Resources Code, as added by this  
+| Act, not later than October 1, 2019.  
+|  SECTION 4. (a) The Health and Human Services Commission, in  
+| a contract between the commission and a managed care organization  
+| under Chapter 533, Government Code, that is entered into or renewed  
+| on or after the effective date of this Act, shall require that the  
+| managed care organization comply with Sections 533.005(a)(7),  
+| (7-a), and (23)(J), Government Code, as amended by this Act, and  
+| Section 533.005(a)(7-b), Government Code, as added by this Act.  
+|  (b) The Health and Human Services Commission shall seek to  
+| amend contracts entered into with managed care organizations under  
+| Chapter 533, Government Code, before the effective date of this Act  
+| to require that those managed care organizations comply with  
+| Sections 533.005(a)(7), (7-a), and (23)(J), Government Code, as  
+| amended by this Act, and Section 533.005(a)(7-b), Government Code,  
+| as added by this Act. To the extent of a conflict between those  
+| provisions and a provision of a contract with a managed care  
+| organization entered into before the effective date of this Act,  
+| the contract provision prevails.  
+|  SECTION 5. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

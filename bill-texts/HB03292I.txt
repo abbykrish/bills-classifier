@@ -1,0 +1,23 @@
+| 86R13090 GRM-F  
+---|---  
+|  By: Gutierrez | H.B. No. 3292  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to sale-leaseback transactions.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 341.001(9), Finance Code, is amended to  
+| read as follows:  
+|  (9) "Loan" has the meaning assigned by Section 301.002  
+| and includes [ ~~a sale-leaseback transaction and~~ ] a deferred  
+| presentment transaction.  
+|  SECTION 2. Sections 341.001(10), 342.009, and 349.503,  
+| Finance Code, are repealed.  
+|  SECTION 3. The changes in law made by this Act apply only to  
+| a sale-leaseback transaction entered into on or after the effective  
+| date of this Act.  A sale-leaseback transaction entered into before  
+| the effective date of this Act is governed by the law in effect on  
+| the date the sale-leaseback transaction was entered into, and the  
+| former law is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

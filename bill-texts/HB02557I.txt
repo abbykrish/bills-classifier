@@ -1,0 +1,36 @@
+| 86R13025 MM-D  
+---|---  
+|  By: Schaefer | H.B. No. 2557  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to information about certain veterans and their dependents  
+| reported by institutions of higher education to the Texas Veterans  
+| Commission.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 434.00791(b), Government Code, is  
+| amended to read as follows:  
+|  (b) The commission shall ensure a system to electronically  
+| monitor the use of tuition and fee exemptions at institutions of  
+| higher education under Section 54.341, Education Code, is  
+| developed.  The system must allow the commission to electronically  
+| receive, for each semester, the following information from  
+| institutions of higher education:  
+|  (1) the name of the institution;  
+|  (2) the name, identification number, and date of birth  
+| of each individual attending the institution and receiving benefits  
+| for the semester under Section 54.341, Education Code;  
+|  (3) for each individual receiving benefits, the number  
+| of credit hours for which the individual received an exemption for  
+| the semester;  
+|  (4) for each individual receiving benefits at the  
+| institution during the semester, the total cumulative number of  
+| credit hours for which the individual has received an exemption at  
+| the institution; [ ~~and~~ ]  
+|  (5) _in a manner that does not identify the individual_  
+| _receiving benefits, the length of service of each individual_  
+| _receiving benefits as indicated by official documentation from the_  
+| _United States Department of Defense; and_  
+|  _(6)_ any other information required by the commission.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

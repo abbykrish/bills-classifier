@@ -1,0 +1,412 @@
+| 86R8097 BEE-F  
+---|---  
+|  By: Burns | H.B. No. 991  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the acquisition of real property by an entity with  
+| eminent domain authority.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 21.0113, Property Code, is amended by  
+| adding Subsections (c) and (d) to read as follows:  
+|  _(c)_ _____Notwithstanding Subsection (b), a private entity as_  
+| _defined by Section 21.031 has made a bona fide offer only if the_  
+| _entity:_  
+|  _(1) satisfies the requirements of Subsection (b);_  
+|  _(2) includes in the initial offer:_  
+|  _(A) a copy of the provisions of Section 21.0471;_  
+|  _(B)_ _____a statement of the compensation being offered_  
+| _for:_  
+|  _(i)_ _____the value of the property the entity_  
+| _seeks to acquire; and_  
+|  _(ii)_ _____the damage and loss of value to the_  
+| _remaining property, if applicable; and_  
+|  _(C)_ _____notice that the property owner will also_  
+| _receive a final offer accompanied by an appraisal; and_  
+|  _(3)_ _____includes, in the initial offer and in any_  
+| _subsequent offer, a certification by the entity that the offer is in_  
+| _an amount that will not require the entity to make a payment for a_  
+| _low initial offer under Section 21.0471._  
+|  _(d)_ _____Notwithstanding Subsections (b) and (c), a private_  
+| _entity subject to Subchapter B-1 has made a bona fide offer only if_  
+| _the entity:_  
+|  _(1)_ _____satisfies the requirements of Subsections (b) and_  
+| _(c);_  
+|  _(2)_ _____includes in the initial offer a copy of the notice_  
+| _of public meeting required by Section 21.036; and_  
+|  _(3)_ _____participates in the public meeting in the manner_  
+| _prescribed by Section 21.038._  
+|  SECTION 2. Subchapter B, Chapter 21, Property Code, is  
+| amended by adding Sections 21.0114 and 21.0115 to read as follows:  
+|  _Sec._ ___21.0114._ _____REQUIRED TERMS FOR INSTRUMENTS OF CONVEYANCE_  
+| _BY CERTAIN PRIVATE ENTITIES._ ___(a) Except as provided by Subsection_  
+| _(b), the deed, easement, or other instrument provided to a property_  
+| _owner by a private entity, as defined by Section 21.031, must_  
+| _include the following terms, as applicable:_  
+|  _(1)_ _____if the instrument conveys a pipeline right-of-way_  
+| _easement:_  
+|  _(A)_ _____the maximum number of pipelines that may be_  
+| _installed in the easement;_  
+|  _(B)_ _____the maximum diameter, excluding any_  
+| _protective coating or wrapping, of each pipeline to be installed in_  
+| _the easement;_  
+|  _(C)_ _____the type or category of each substance to be_  
+| _transported through the pipelines to be installed in the easement;_  
+|  _(D)_ _____a general description of any use of the_  
+| _surface of the easement the entity intends to acquire;_  
+|  _(E)_ _____a metes and bounds or centerline description_  
+| _of the location of the easement, plat, or other legally sufficient_  
+| _description of the location of the easement;_  
+|  _(F) the maximum width of the easement;_  
+|  _(G)_ _____the minimum depth at which the pipeline will_  
+| _initially be installed;_  
+|  _(H)_ _____whether the double-ditch method will be used_  
+| _for installation of the pipeline in areas that are not_  
+| _bore-drilled;_  
+|  _(I)_ _____a prohibition against the transfer of the_  
+| _property without:_  
+|  _(i)_ _____written notice to the property owner;_  
+| _or_  
+|  _(ii)_ _____the express written consent of the_  
+| _property owner if the transferee, including a transferee that is an_  
+| _affiliate or subsidiary of or entity related to the private entity,_  
+| _does not have eminent domain authority;_  
+|  _(J)_ _____whether the entity has exclusive,_  
+| _nonexclusive, or otherwise limited rights to the easement;_  
+|  _(K)_ _____a provision limiting access to the easement_  
+| _area by a third party for a purpose that is not related to the_  
+| _pipeline's construction, safety, maintenance, or operation_  
+| _activities;_  
+|  _(L)_ _____a provision regarding the right to recover_  
+| _actual monetary damages arising from construction, maintenance,_  
+| _repair, replacement, or future removal of the pipeline in the_  
+| _easement, including any actual monetary damages to growing crops or_  
+| _livestock, or a statement that the offer includes such future_  
+| _damages;_  
+|  _(M)_ _____a provision regarding the property owner's_  
+| _right to negotiate to recover damages for:_  
+|  _(i) tree loss;_  
+|  _(ii)_ _____income loss from interference with_  
+| _hunting or recreational activities; or_  
+|  _(iii)_ _____income loss from disruption of_  
+| _agricultural production;_  
+|  _(N)_ _____a provision regarding the use and repair of_  
+| _any gates and fences;_  
+|  _(O)_ _____a provision regarding the entity's_  
+| _obligation to maintain the easement, including leveling of the_  
+| _easement area;_  
+|  _(P)_ _____a provision regarding the repair and_  
+| _restoration of areas used or damaged outside the easement area to_  
+| _their original condition or better, to the extent reasonably_  
+| _practicable, or the payment of actual monetary damages for areas_  
+| _not restored; and_  
+|  _(Q)_ _____the manner in which the entity will access_  
+| _the easement;_  
+|  _(2)_ _____if the instrument conveys an electrical_  
+| _transmission right-of-way easement:_  
+|  _(A)_ _____a general description of any use of the_  
+| _surface of the easement the entity intends to acquire;_  
+|  _(B)_ _____a depiction identifying the approximate_  
+| _location of the easement on the property;_  
+|  _(C)_ _____a metes and bounds or centerline description_  
+| _of the location of the easement, plat, or other legally sufficient_  
+| _description of the location of the easement;_  
+|  _(D) the maximum width of the easement;_  
+|  _(E)_ _____the manner in which the entity will access_  
+| _the easement;_  
+|  _(F)_ _____a provision limiting access to the easement_  
+| _area by a third party for a purpose that is not related to the_  
+| _transmission line's construction, safety, maintenance, or_  
+| _operation activities;_  
+|  _(G)_ _____a provision regarding the right to recover_  
+| _actual monetary damages arising from construction, maintenance,_  
+| _repair, replacement, or future removal of lines and support_  
+| _facilities in the easement or a statement that the offer includes_  
+| _such future damages;_  
+|  _(H)_ _____a provision regarding the property owner's_  
+| _right to negotiate to recover damages for:_  
+|  _(i) tree loss;_  
+|  _(ii)_ _____income loss from interference with_  
+| _hunting or recreational activities; or_  
+|  _(iii)_ _____income loss from disruption of_  
+| _agricultural production;_  
+|  _(I)_ _____a provision regarding the use and repair of_  
+| _any gates and fences;_  
+|  _(J)_ _____a provision regarding the entity's_  
+| _obligation to maintain the easement;_  
+|  _(K)_ _____a provision regarding the repair and_  
+| _restoration of areas used or damaged outside the easement area to_  
+| _their original condition or better, to the extent reasonably_  
+| _practicable, or the payment of actual monetary damages for areas_  
+| _not restored;_  
+|  _(L)_ _____whether the entity has exclusive,_  
+| _nonexclusive, or otherwise limited rights to the right-of-way; and_  
+|  _(M)_ _____a prohibition against the transfer of the_  
+| _property without:_  
+|  _(i)_ _____written notice to the property owner;_  
+| _or_  
+|  _(ii)_ _____the express written consent of the_  
+| _property owner if the transferee, including a transferee that is an_  
+| _affiliate or subsidiary of or entity related to the private entity,_  
+| _does not have eminent domain authority;_  
+|  _(3)_ _____a prohibition against any use of the property_  
+| _being conveyed, other than a use stated in the deed, easement, or_  
+| _other instrument, without the express written consent of the_  
+| _property owner;_  
+|  _(4)_ _____a covenant that the entity will keep in effect at_  
+| _all times while the entity uses the condemned property, including_  
+| _during construction and operations on the easement, a policy or_  
+| _policies of liability insurance:_  
+|  _(A)_ _____issued by an insurer authorized to issue such_  
+| _policies in this state; and_  
+|  _(B)_ _____insuring the property owner against_  
+| _liability for personal injuries and property damage sustained by_  
+| _any person that arises from or is related to the use of the easement_  
+| _property by the entity or the entity's agents or contractors; and_  
+|  _(5)_ _____a statement that the terms of the deed, easement,_  
+| _or other instrument will bind the successors and assigns of the_  
+| _parties to the instrument._  
+|  _(b)_ _____The private entity, as defined by Section 21.031, may_  
+| _present and include terms in addition to the terms required under_  
+| _Subsection (a)._ ___The property owner and the entity may consider and_  
+| _agree to the additional terms, including rights and uses that may_  
+| _not be the subject of a later condemnation proceeding, if so stated_  
+| _in the instrument. A property owner may negotiate a deed, easement,_  
+| _or other instrument that does not include all of the terms required_  
+| _under Subsection (a)._  
+|  _(c)_ _____The attorney general shall prepare and make generally_  
+| _available a standard form that contains the terms required by_  
+| _Subsection (a)._  
+|  _(d) The attorney general may:_  
+|  _(1)_ _____bring an action in the name of the state to enjoin_  
+| _a violation of this section; and_  
+|  _(2)_ _____recover reasonable attorney's fees and costs_  
+| _incurred in bringing an action under this subsection._  
+|  _Sec._ ___21.0115._ _____COMMUNICATION BY CERTAIN PRIVATE ENTITIES._  
+| _(a) A private entity, as defined by Section 21.031, that wants to_  
+| _acquire real property for a public use may not, without first_  
+| _attempting to include the owner of the real property, engage in ex_  
+| _parte communication with:_  
+|  _(1)_ _____a court that has jurisdiction of a condemnation_  
+| _proceeding involving the property; or_  
+|  _(2)_ _____a special commissioner appointed in the_  
+| _condemnation proceeding._  
+|  _(b)_ _____A private entity shall provide written notice to a_  
+| _property owner of any communication between the entity and a court_  
+| _or special commissioner described by Subsection (a) for which the_  
+| _property owner is not present._  
+|  _(c)_ _____For the purposes of this section, "private entity"_  
+| _includes:_  
+|  _(1) the entity's attorney; and_  
+|  _(2)_ _____any third-party contractor of the entity,_  
+| _including a right-of-way agent._  
+|  SECTION 3. Section 21.012, Property Code, is amended by  
+| adding Subsection (b-1) to read as follows:  
+|  _(b-1)_ _____In addition to the contents prescribed by Subsection_  
+| _(b), a petition filed by a private entity as defined by Section_  
+| _21.031 must state the terms to be included in the instrument of_  
+| _conveyance under Section 21.0114 using the form prepared by the_  
+| _attorney general under Section 21.0114(c)._  
+|  SECTION 4. Chapter 21, Property Code, is amended by adding  
+| Subchapter B-1 to read as follows:  
+| _SUBCHAPTER B-1. ACQUISITION OF PROPERTY BY CERTAIN PRIVATE_  
+| _ENTITIES_  
+|  _Sec._ ___21.031._ _____DEFINITION. In this subchapter, "private_  
+| _entity" includes:_  
+|  _(1)_ _____a corporation, including a corporation organized_  
+| _under Chapter 67, Water Code, authorized to exercise the power of_  
+| _eminent domain to acquire private property for public use; and_  
+|  _(2)_ _____any affiliate or subsidiary of or entity related_  
+| _to the corporation._  
+|  _Sec._ ___21.032._ _____APPLICABILITY OF SUBCHAPTER. This subchapter_  
+| _applies only to a private entity that wants to acquire for the same_  
+| _public use one or more tracts or parcels of real property:_  
+|  _(1) located entirely in one county; and_  
+|  _(2) owned by at least four property owners._  
+|  _Sec._ ___21.033._ _____NOTICE OF INTENT. (a) Not later than the 45th_  
+| _day before the date a private entity makes an initial offer to_  
+| _acquire real property under this chapter, the entity must send a_  
+| _written notice of intent to a court that would have jurisdiction of_  
+| _a condemnation proceeding involving the property._  
+|  _(b) A notice sent under Subsection (a) must:_  
+|  _(1)_ _____state the private entity's intent to acquire real_  
+| _property for public use;_  
+|  _(2) specify the public use;_  
+|  _(3)_ _____identify the real property the entity intends to_  
+| _acquire and the owners of the property; and_  
+|  _(4)_ _____disclose the date by which the entity will make the_  
+| _initial offer._  
+|  _Sec._ ___21.034._ _____PUBLIC MEETING. (a) Not later than the 30th_  
+| _day after the date a court receives a notice of intent required by_  
+| _Section 21.033, the court shall select the date on which a public_  
+| _meeting regarding the proposed acquisition will be held. The court_  
+| _shall facilitate the meeting._  
+|  _(b) The meeting described by Subsection (a):_  
+|  _(1)_ _____must take place in a public location appropriate_  
+| _to the size and nature of the meeting in the county in which the real_  
+| _property is located; and_  
+|  _(2)_ _____may not take place earlier than the 14th day after_  
+| _the date a private entity makes an initial offer to a property owner_  
+| _identified in the notice of intent under Section 21.033._  
+|  _Sec._ ___21.035._ _____NOTICE OF PUBLIC MEETING. (a) As soon as is_  
+| _practicable after a court selects a date for a public meeting under_  
+| _Section 21.034, the court shall:_  
+|  _(1)_ _____give notice of the meeting to the private entity_  
+| _that sent the notice of intent under Section 21.033;_  
+|  _(2)_ _____publish notice of the public meeting on the_  
+| _county's Internet website; and_  
+|  _(3)_ _____publish notice of the public meeting in a_  
+| _newspaper of general circulation in the county._  
+|  _(b)_ _____A notice of public meeting under this section must_  
+| _include the date, time, and location of the meeting._  
+|  _Sec._ ___21.036._ _____NOTICE OF PUBLIC MEETING IN INITIAL OFFER. A_  
+| _private entity that gives a notice of intent under Section 21.033_  
+| _must include with the entity's initial offer notice of the public_  
+| _meeting to be held under Section 21.034, including the date, time,_  
+| _and location of the meeting._  
+|  _Sec._ ___21.037._ _____PARTICIPATION BY PRIVATE ENTITY REQUIRED. A_  
+| _representative of the private entity that gives a notice of intent_  
+| _under Section 21.033 shall:_  
+|  _(1) attend the public meeting; and_  
+|  _(2)_ _____participate in the public meeting in the manner_  
+| _prescribed by Section 21.038._  
+|  _Sec._ ___21.038._ _____PUBLIC MEETING AGENDA. At a public meeting_  
+| _scheduled under Section 21.034:_  
+|  _(1)_ _____the court shall present the information contained_  
+| _in the landowner's bill of rights statement required to be provided_  
+| _to a property owner under Section 21.0112;_  
+|  _(2) the private entity shall present:_  
+|  _(A)_ _____a description of the public use for which the_  
+| _entity wants to acquire the real property, including technical_  
+| _details;_  
+|  _(B)_ _____if applicable, a statement of the terms_  
+| _required under Section 21.0114 to be included in a deed, easement,_  
+| _or other instrument provided by the entity to the property owner;_  
+|  _(C)_ _____the method and factors used by the entity to_  
+| _calculate the entity's initial offer, including:_  
+|  _(i)_ _____how damages to remaining property were_  
+| _evaluated; and_  
+|  _(ii)_ _____if the entity used a property_  
+| _appraisal or market value study, the name of the person that_  
+| _performed the appraisal or study;_  
+|  _(D)_ _____the entity's justification for the proposed_  
+| _public use, including any materials used by the entity to obtain a_  
+| _determination that the project is a public use;_  
+|  _(E)_ _____the legal and factual basis for the entity's_  
+| _exercise of its eminent domain authority;_  
+|  _(F)_ _____the name and contact information of any_  
+| _third-party contractor to be used by the entity to acquire the land_  
+| _or undertake the project; and_  
+|  _(G)_ _____a description of any regulatory process_  
+| _required for approval of the project, including any evaluation of_  
+| _the project's necessity, and information about how a property owner_  
+| _may participate in the process; and_  
+|  _(3)_ _____the property owners identified by the private_  
+| _entity under Section 21.033, the public, and public officials must_  
+| _be given an opportunity to ask questions and make comments_  
+| _regarding:_  
+|  _(A) the rights of the property owners;_  
+|  _(B) the proposed public use; and_  
+|  _(C)_ _____terms required under Section 21.0114 to be_  
+| _included in a deed, easement, or other instrument provided by the_  
+| _entity to a property owner._  
+|  _Sec._ ___21.039._ _____CONTACT AFTER PUBLIC MEETING. A private_  
+| _entity may not contact a property owner to whom the entity has made_  
+| _an initial offer before the seventh day after the date of the public_  
+| _meeting held under Section 21.034._  
+|  _Sec._ ___21.0391._ _____CERTIFICATION OF ENTITY PARTICIPATION IN_  
+| _PUBLIC MEETING REQUIRED. (a) After a private entity participates_  
+| _in a meeting held under Section 21.034, the entity shall submit_  
+| _evidence documenting its participation to the court that_  
+| _facilitated the meeting. The court shall review the evidence_  
+| _submitted by the entity and, if the court determines that the entity_  
+| _has satisfied the requirements of this subchapter, shall certify_  
+| _that the entity has satisfied the requirements of this subchapter._  
+|  _(b)_ _____A private entity may not acquire property to which this_  
+| _subchapter applies unless the entity receives the certification_  
+| _under Subsection (a) with respect to the property._  
+|  _Sec._ ___21.0392._ _____PUBLICATION AND PROVISION OF CERTAIN_  
+| _MATERIALS. A private entity shall:_  
+|  _(1)_ _____publish on an Internet website any materials_  
+| _presented under Section 21.038(2)(D); and_  
+|  _(2)_ _____provide to property owners identified by the_  
+| _entity under Section 21.033 any materials presented under Section_  
+| _21.038(2)(D)._  
+|  _Sec._ ___21.0393._ _____PROPERTY OWNER CHALLENGE OF EMINENT DOMAIN_  
+| _AUTHORITY. (a) A property owner identified by a private entity_  
+| _under Section 21.033 may challenge the eminent domain authority of_  
+| _the entity in the court that provided the certification under_  
+| _Section 21.0391._  
+|  _(b)_ _____A challenge under Subsection (a) must be filed not later_  
+| _than the 30th day after the date of the public meeting held under_  
+| _Section 21.038._  
+|  _Sec._ ___21.0394._ _____INJUNCTION. (a) The attorney general may_  
+| _bring an action in the name of the state to enjoin a violation of_  
+| _this subchapter._  
+|  _(b)_ _____The attorney general may recover reasonable attorney's_  
+| _fees and costs incurred in bringing an action under this section._  
+|  SECTION 5. Section 21.042, Property Code, is amended by  
+| amending Subsection (d) and adding Subsections (d-1) and (d-2) to  
+| read as follows:  
+|  (d) In estimating injury or benefit under Subsection (c),  
+| the special commissioners shall consider an injury or benefit that  
+| is peculiar to the property owner and that relates to the property  
+| owner's ownership, use, or enjoyment of the particular parcel of  
+| real property, including _:_  
+|  _(1)_ _____an injury or benefit to the remaining property as a_  
+| _result of:_  
+|  _(A)_ _____the characteristics of any infrastructure on_  
+| _the condemned property, including the size or visibility of the_  
+| _infrastructure or the pressure or voltage range provided by the_  
+| _infrastructure;_  
+|  _(B)_ _____any limitation of future expansion on the_  
+| _remaining property; and_  
+|  _(C)_ _____a provision in an easement acquired in_  
+| _connection with, or the alignment of an easement in connection_  
+| _with, the condemnation; and_  
+|  _(2)_ a material impairment of direct access on or off  
+| the remaining property that affects the market value of the  
+| remaining property _._  
+|  _(d-1)_ _____In estimating injury or benefit under Subsection (c),_  
+| _the special commissioners_ [ ~~, but they~~ ] may not consider an injury or  
+| benefit that the property owner experiences in common with the  
+| general community, including circuity of travel and diversion of  
+| traffic.  
+|  _(d-2)_ In _Subsection (d)(2)_ [ ~~this subsection~~ ], "direct  
+| access" means ingress and egress on or off a public road, street, or  
+| highway at a location where the remaining property adjoins that  
+| road, street, or highway.  
+|  SECTION 6. Subchapter C, Chapter 21, Property Code, is  
+| amended by adding Section 21.0471 to read as follows:  
+|  _Sec._ ___21.0471._ _____PAYMENT FOR LOW INITIAL OFFER BY PRIVATE_  
+| _ENTITY. (a) This section applies only to a condemnor that is a_  
+| _private entity as defined by Section 21.031._  
+|  _(b)_ _____If the special commissioners award to the property owner_  
+| _damages in an amount that exceeds the amount of the condemnor's_  
+| _initial offer by:_  
+|  _(1)_ _____at least 25 percent but less than 50 percent, the_  
+| _condemnor shall pay to the property owner the damages awarded and an_  
+| _additional amount equal to 25 percent of the damages awarded;_  
+|  _(2)_ _____at least 50 percent but less than 100 percent, the_  
+| _condemnor shall pay to the property owner the damages awarded and an_  
+| _additional amount equal to 30 percent of the damages awarded; or_  
+|  _(3)_ _____100 percent or more, the condemnor shall pay to the_  
+| _property owner the damages awarded and an additional amount equal_  
+| _to 35 percent of the damages awarded._  
+|  _(c)_ _____A property owner is entitled to an additional amount_  
+| _under Subsection (b) without regard to:_  
+|  _(1)_ _____whether the condemnor objects to the findings of_  
+| _the special commissioners or appeals the decision of a trial court_  
+| _in the condemnation proceeding; or_  
+|  _(2)_ _____the amount of damages ultimately awarded to the_  
+| _property owner by a court._  
+|  SECTION 7. The changes in law made by this Act apply only to  
+| the acquisition of real property in connection with an initial  
+| offer made under Chapter 21, Property Code, on or after the  
+| effective date of this Act.  An acquisition of real property in  
+| connection with an initial offer made under Chapter 21, Property  
+| Code, before the effective date of this Act is governed by the law  
+| applicable to the acquisition immediately before the effective date  
+| of this Act, and that law is continued in effect for that purpose.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

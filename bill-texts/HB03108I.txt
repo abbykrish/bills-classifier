@@ -1,0 +1,40 @@
+| 86R12860 PMO-F  
+---|---  
+|  By: Murphy | H.B. No. 3108  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the cancellation of certain homeowners insurance  
+| policies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 551.104(g), Insurance Code, is amended  
+| to read as follows:  
+|  (g) An insurer may cancel any insurance policy other than a  
+| personal automobile or homeowners insurance policy if the policy  
+| has been in effect less than 90 days. An insurer may cancel a  
+| personal automobile _or homeowners_ insurance policy if the policy  
+| has been in effect less than 60 days _and the insurer obtains from_  
+| _the policyholder written consent to the cancellation_.  [ ~~An insurer~~  
+|  ~~may cancel a homeowners insurance policy if the policy has been in~~  
+|  ~~effect less than 60 days and:~~  
+|  [ ~~(1) the insurer identifies a condition that:~~  
+|  [ ~~(A) creates an increased risk of hazard;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~was not disclosed in the application for~~  
+|  ~~insurance coverage; and~~  
+|  [ ~~(C) is not the subject of a prior claim; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~before the effective date of the policy, the~~  
+|  ~~insurer does not accept a copy of a required inspection report that:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~was completed by an inspector who is~~  
+|  ~~licensed by the Texas Real Estate Commission or who is otherwise~~  
+|  ~~authorized to perform inspections; and~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~is dated not earlier than the 90th day~~  
+|  ~~before the effective date of the policy.~~ ]  
+|  SECTION 2. Section 551.104(h), Insurance Code, is repealed.  
+|  SECTION 3. The change in law made by this Act applies only  
+| to an insurance policy delivered, issued for delivery, or renewed  
+| on or after January 1, 2020. A policy delivered, issued for  
+| delivery, or renewed before that date is governed by the law as it  
+| existed immediately before the effective date of this Act, and that  
+| law is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

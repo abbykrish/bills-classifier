@@ -1,0 +1,433 @@
+| 86R6274 SRA-F  
+---|---  
+|  By: Capriglione | H.B. No. 2458  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the operation and administration of the Texas Bullion  
+| Depository.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 151.002(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) This section defines general terms that apply to an  
+| applicant for or holder of a money services license issued under  
+| this chapter, regardless of whether the license is a money  
+| transmission license _or_ [ ~~,~~ ] a currency exchange license[ ~~, or a~~  
+|  ~~depository agent license~~ ]. Additional terms that apply  
+| specifically to money transmission are defined in Section  
+| 151.301. Additional terms that apply specifically to currency  
+| exchange are defined in Section 151.501. [ ~~Additional terms that~~  
+|  ~~apply specifically to depository agents are defined in Section~~  
+|  ~~151.851.~~ ]  
+|  SECTION 2. Section 151.002(b)(11), Finance Code, is amended  
+| to read as follows:  
+|  (11) "License holder" means a person that holds a  
+| money transmission license _or_ [ ~~,~~ ] a currency exchange license[ ~~,
+or a~~  
+|  ~~depository agent license~~ ].  
+|  SECTION 3. Section 151.003, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 151.003. EXCLUSIONS. _The_ [ ~~Subject to Subchapter J,~~  
+|  ~~the~~ ] following persons are not required to be licensed under this  
+| chapter:  
+|  (1) the United States or an instrumentality of the  
+| United States, including the United States Post Office or a  
+| contractor acting on behalf of the United States Post Office;  
+|  (2) a state or an agency, political subdivision, or  
+| other instrumentality of a state;  
+|  (3) a federally insured financial institution, as that  
+| term is defined by Section 201.101, that is organized under the laws  
+| of this state, another state, or the United States;  
+|  (4) a foreign bank branch or agency in the United  
+| States established under the federal International Banking Act of  
+| 1978 (12 U.S.C. Section 3101 et seq.);  
+|  (5) a person acting as an agent for an entity excluded  
+| under Subdivision (3) or (4), to the extent of the person's actions  
+| in that capacity, provided that:  
+|  (A) the entity is liable for satisfying the money  
+| services obligation owed to the purchaser on the person's receipt  
+| of the purchaser's money; and  
+|  (B) the entity and person enter into a written  
+| contract that appoints the person as the entity's agent and the  
+| person acts only within the scope of authority conferred by the  
+| contract;  
+|  (6) a person that, on behalf of the United States or a  
+| department, agency, or instrumentality of the United States, or a  
+| state or county, city, or any other governmental agency or  
+| political subdivision of a state, provides electronic funds  
+| transfer services of governmental benefits for a federal, state,  
+| county, or local governmental agency;  
+|  (7) a person that acts as an intermediary on behalf of  
+| and at the direction of a license holder in the process by which the  
+| license holder, after receiving money or monetary value from a  
+| purchaser, either directly or through an authorized delegate,  
+| transmits the money or monetary value to the purchaser's designated  
+| recipient, provided that the license holder is liable for  
+| satisfying the obligation owed to the purchaser;  
+|  (8) an attorney or title company that in connection  
+| with a real property transaction receives and disburses domestic  
+| currency or issues an escrow or trust fund check only on behalf of a  
+| party to the transaction;  
+|  (9) a person engaged in the business of currency  
+| transportation who is both a registered motor carrier under Chapter  
+| 643, Transportation Code, and a licensed armored car company or  
+| courier company under Chapter 1702, Occupations Code, provided that  
+| the person:  
+|  (A) only transports currency:  
+|  (i) from a person to the same person at  
+| another location;  
+|  (ii) from a person to a financial  
+| institution to be deposited in an account belonging to the same  
+| person; or  
+|  (iii) to a person from a financial  
+| institution after being withdrawn from an account belonging to the  
+| same person; and  
+|  (B) does not otherwise engage in the money  
+| transmission or currency exchange business [ ~~or depository agent~~  
+|  ~~services business~~ ] without a license issued under this chapter;  
+|  (9-a) a trust company, as defined by Section  
+| 187.001(a), that is organized under the laws of this state; and  
+|  (10) any other person, transaction, or class of  
+| persons or transactions exempted by commission rule or any other  
+| person or transaction exempted by the commissioner's order on a  
+| finding that the licensing of the person is not necessary to achieve  
+| the purposes of this chapter.  
+|  SECTION 4. Section 151.201, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 151.201. SCOPE. This subchapter sets out the general  
+| qualifications and provisions that apply to a money services  
+| license, regardless of whether the license is a money transmission  
+| license _or_ [ ~~,~~ ] a currency exchange license[ ~~, or a depository
+agent~~  
+|  ~~license~~ ]. Subchapters D and E set forth the additional  
+| qualifications and provisions that apply specifically to a money  
+| transmission license. Subchapter F sets forth the additional  
+| qualifications and provisions that apply specifically to a currency  
+| exchange license. [ ~~Subchapter J sets forth the additional~~  
+|  ~~qualifications and provisions that apply specifically to a~~  
+|  ~~depository agent license.~~ ]  
+|  SECTION 5. Sections 151.207(a), (b), and (d), Finance Code,  
+| are amended to read as follows:  
+|  (a) If a license holder does not continue to meet the  
+| qualifications or satisfy the requirements that apply to an  
+| applicant for a new money transmission license _or_ [ ~~,~~ ] currency  
+| exchange license, [ ~~or depository agent license,~~ ] as applicable, the  
+| commissioner may suspend or revoke the license holder's license.  
+|  (b) In addition to complying with Subsection (a), a license  
+| holder must annually:  
+|  (1) pay a license fee in an amount established by  
+| commission rule; and  
+|  (2) submit a report that is under oath, is in the form  
+| and medium required by the commissioner, and contains:  
+|  (A) if the license is a money transmission  
+| license [ ~~or depository agent license~~ ], an audited unconsolidated  
+| financial statement dated as of the last day of the license holder's  
+| fiscal year that ended in the immediately preceding calendar year;  
+|  (B) if the license is a currency exchange  
+| license, a financial statement, audited or unaudited, dated as of  
+| the last day of the license holder's fiscal year that ended in the  
+| immediately preceding calendar year; and  
+|  (C) documentation and certification, or any  
+| other information the commissioner reasonably requires to  
+| determine the security, net worth, permissible investments, and  
+| other requirements the license holder must satisfy and whether the  
+| license holder continues to meet the qualifications and  
+| requirements for licensure.  
+|  (d) If the license holder fails to submit the completed  
+| annual report and pay the annual license fee and any late fee due  
+| within the time prescribed by Subsection (c)(1), the license  
+| expires, and the license holder must cease and desist from engaging  
+| in the business of money transmission _or_ [ ~~,~~ ] currency exchange, [
+~~or~~  
+|  ~~depository agent services,~~ ] as applicable, as of that date. The  
+| expiration of a license is not subject to appeal.  
+|  SECTION 6. Section 151.302(a), Finance Code, as amended by  
+| Chapters 75 (S.B. 899) and 1000 (H.B. 483), Acts of the 84th  
+| Legislature, Regular Session, 2015, is reenacted to read as  
+| follows:  
+|  (a) A person may not engage in the business of money  
+| transmission in this state or advertise, solicit, or represent that  
+| the person engages in the business of money transmission in this  
+| state unless the person:  
+|  (1) is licensed under this subchapter;  
+|  (2) is an authorized delegate of a person licensed  
+| under this subchapter, appointed by the license holder in  
+| accordance with Section 151.402;  
+|  (3) is excluded from licensure under Section 151.003;  
+| or  
+|  (4) has been granted an exemption under Subsection  
+| (c).  
+|  SECTION 7. Section 151.502(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) A person may not engage in the business of currency  
+| exchange or advertise, solicit, or hold itself out as providing  
+| currency exchange unless the person:  
+|  (1) is licensed under this subchapter;  
+|  (2) is licensed for money transmission under  
+| Subchapter D;  
+|  (3) is an authorized delegate of a person licensed for  
+| money transmission under Subchapter D;  
+|  (4) is excluded under Section 151.003; _or_  
+|  (5) [ ~~is licensed as a depository agent under~~  
+|  ~~Subchapter J and only engages in the business of currency exchange~~  
+|  ~~in connection with, and to the extent necessary for, the~~  
+|  ~~performance of depository agent activities; or~~  
+|  [ ~~(6)~~ ] has been granted an exemption under Subsection  
+| (d).  
+|  SECTION 8. Section 151.602(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) A license holder must prepare, maintain, and preserve  
+| the following books, accounts, and other records for at least five  
+| years or another period as may be prescribed by rule of the  
+| commission:  
+|  (1) a record of each money transmission transaction _or_  
+| [ ~~,~~ ] currency exchange transaction, [ ~~or depository agent services~~  
+|  ~~transaction,~~ ] as applicable;  
+|  (2) a general ledger posted in accordance with  
+| generally accepted accounting principles containing all asset,  
+| liability, capital, income, and expense accounts, unless directed  
+| otherwise by the commissioner;  
+|  (3) bank statements and bank reconciliation records;  
+|  (4) all records and reports required by applicable  
+| state and federal law, including the reporting and recordkeeping  
+| requirements imposed by the Bank Secrecy Act, the USA PATRIOT ACT,  
+| and Chapter 271, and other federal and state laws pertaining to  
+| money laundering, drug trafficking, or terrorist funding; and  
+|  (5) any other records required by commission rule or  
+| reasonably requested by the commissioner to determine compliance  
+| with this chapter.  
+|  SECTION 9. Section 2116.001, Government Code, is amended by  
+| amending Subdivision (9) and adding Subdivision (9-a) to read as  
+| follows:  
+|  (9) "Depository agent" means a _financial institution_  
+| _that has entered into an agreement with the depository to provide a_  
+| _retail location for the provision of depository services to the_  
+| _general public on behalf of_ [ ~~person licensed in accordance with~~  
+|  ~~this chapter to serve as an intermediary between~~ ] the depository  
+| [ ~~and a retail customer in making a transaction in precious metals~~  
+|  ~~bullion or specie~~ ].  
+|  _(9-a)_ _____"Financial institution" has the meaning_  
+| _assigned by Section 201.101, Finance Code._  
+|  SECTION 10. Section 2116.002, Government Code, is amended  
+| by adding Subsection (c) to read as follows:  
+|  _(c)_ _____The comptroller shall adopt rules necessary to carry out_  
+| _this chapter._  
+|  SECTION 11. Section 2116.003, Government Code, is amended  
+| by amending Subsections (a) and (c) and adding Subsection (d) to  
+| read as follows:  
+|  (a) The depository is administered as a division of the  
+| office of the comptroller and under the direction and supervision  
+| of a bullion depository administrator appointed by the comptroller  
+| [ ~~with the advice and consent of the governor, lieutenant governor,~~  
+|  ~~and senate~~ ].  
+|  (c) The administrator may appoint _or employ_ , subject to the  
+| approval of the comptroller, a deputy administrator or other  
+| subordinate _officers or employees_ [ ~~officer~~ ] as necessary and  
+| appropriate to the efficient administration of the depository.  
+|  _(d)_ _____The comptroller may employ security officers to provide_  
+| _needed security services for the depository and may commission the_  
+| _officers as peace officers._  
+|  SECTION 12. Sections 2116.005(c) and (d), Government Code,  
+| are amended to read as follows:  
+|  (c) The comptroller [ ~~by rule~~ ] shall adopt standards by which  
+| the quantities of precious metals deposited are credited to a  
+| depositor's depository account by reference to the particular form  
+| in which the metals were deposited, classified by mint,  
+| denomination, weight, assay mark, or other indicator, as  
+| applicable. The standards must conform to applicable national and  
+| international standards of weights and measures.  
+|  (d) The comptroller [ ~~by rule~~ ] may, if the comptroller  
+| determines that to do so is in the public interest, restrict the  
+| forms in which deposits of precious metals may be made [ ~~to those~~  
+|  ~~forms that conveniently lend themselves to measurement and~~  
+|  ~~accounting in units of troy ounces and standardized fractions of~~  
+|  ~~troy ounces~~ ].  
+|  SECTION 13. Sections 2116.006(b) and (c), Government Code,  
+| are amended to read as follows:  
+|  (b) The depository shall make a delivery described by  
+| Subsection (a) on demand by the presentment of a _written demand_  
+| [ ~~suitable check, draft,~~ ] or digital electronic instruction to the  
+| depository or a depository agent. The comptroller _may prescribe_  
+| [ ~~by rule shall adopt~~ ] the forms, standards, and processes through  
+| which an order for delivery on demand may be made, presented, and  
+| honored.  
+|  (c) The depository shall make a delivery at the depository's  
+| settlement facility designated by the comptroller, shipping to an  
+| address specified by the account holder or, at the depository's  
+| discretion, at a facility of a depository agent at which  
+| presentment is made, not later than _10_ [ ~~five~~ ] business days after  
+| the date of presentment.  
+|  SECTION 14. Section 2116.007, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2116.007. TRANSFER OF DEPOSITORY ACCOUNT BALANCE.  (a)  
+| In accordance with rules adopted under this chapter, a depository  
+| account holder may transfer any portion of the balance of the  
+| holder's depository account by _written demand_ [ ~~check, draft,~~ ] or  
+| digital electronic instruction to another _person_ [ ~~depository~~  
+|  ~~account holder or to a person who at the time the transfer is~~  
+|  ~~initiated is not a depository account holder~~ ].  
+|  (b) The depository shall adjust the depository account  
+| balances of the depository accounts to reflect a transfer  
+| transaction between depository account holders on presentment of  
+| the _written demand_ [ ~~check, draft,~~ ] or other instruction by reducing  
+| the payor's depository account balance and increasing the  
+| depository account balance of the payee accordingly.  
+|  (c) If a depository account holder transfers to a payee who  
+| is not a depository account holder any portion of the balance of the  
+| _depository account_ holder's depository account, the depository  
+| shall _, if the payee is otherwise eligible to open a depository_  
+| _account under applicable laws and depository policy,_ allow the  
+| payee to establish a depository account [ ~~by presentment of the~~  
+|  ~~payor's check, draft, or instruction to the depository or to a~~  
+|  ~~depository agent~~ ]. The depository shall credit a newly  
+| established account on behalf of the payee and shall debit the  
+| payor's account accordingly.  
+|  SECTION 15. Sections 2116.008(c) and (e), Government Code,  
+| are amended to read as follows:  
+|  (c) The depository [ ~~or a depository agent~~ ] shall hold the  
+| contract for a depository account in the records pertaining to the  
+| account.  
+|  (e) The depository and the depository account holder may  
+| amend a contract for a depository account by agreement, or the  
+| depository may amend the deposit contract by _providing_ [ ~~mailing a~~ ]  
+| written notice of the amendment to the account holder, separately  
+| or as an enclosure with or part of the account holder's statement of  
+| account or passbook. In the case of amendment by notice from the  
+| depository, the notice must include the text and effective date of  
+| the amendment. _The notice may be provided electronically._ The  
+| effective date may not be earlier than the 30th day after the date  
+| the notice is mailed, unless otherwise provided by rules adopted  
+| under this chapter.  
+|  SECTION 16. Section 2116.010, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2116.010. FEES; SERVICE CHARGES; PENALTIES. The  
+| comptroller [ ~~by rule~~ ] may establish fees, service charges, and  
+| penalties to be charged a depository account holder for a service or  
+| activity regarding a depository account, including a fee for an  
+| overdraft, an insufficient fund check or draft, or a stop payment  
+| order. _The comptroller may waive any fees, service charges, or_  
+| _penalties established under this section._  
+|  SECTION 17. Section 2116.021, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2116.021. TRANSACTIONS AND RELATIONSHIPS _; MARKETING_  
+| _AND PUBLICITY_. _(a)_ The depository _may_ [ ~~shall~~ ] enter into  
+| transactions and relationships with bullion banks, depositories,  
+| dealers, central banks, sovereign wealth funds, financial  
+| institutions, international nongovernmental organizations, and  
+| other persons, located inside or outside of this state or inside or  
+| outside of the United States, as the comptroller determines to be  
+| prudent and suitable to facilitate the operations of the depository  
+| and to further the purposes of this chapter.  
+|  _(b)_ _____The depository may advertise and promote the depository_  
+| _in any available media._  
+|  _(c)_ _____The depository may issue, sell, or license for sale_  
+| _promotional items approved by the administrator to further the_  
+| _purposes of this chapter and to promote the depository. The_  
+| _depository may set commercially reasonable prices for items_  
+| _licensed or sold under this section._  
+|  SECTION 18. Section 2116.023, Government Code, is amended  
+| by adding Subsection (d) to read as follows:  
+|  _(d)_ _____The depository shall refer any matter relating to an_  
+| _action described by Subsection (a) to the attorney general for_  
+| _resolution._  
+|  SECTION 19. Section 2116.024, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2116.024. OFFICIAL EXCHANGE RATES. The comptroller  
+| [ ~~by rule~~ ] shall establish the references by which the official  
+| exchange rate for pricing precious metals transactions in terms of  
+| United States dollars or other currency must be established at the  
+| time of a depository transaction. The comptroller shall establish  
+| procedures and facilities through which the rates are made  
+| discoverable at all reasonable times by system participants, both  
+| on a real-time basis and retrospectively.  
+|  SECTION 20. Section 2116.025, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2116.025. FACILITATION OF ACCOUNTING AND REPORTING OF  
+| TAXABLE GAINS. The comptroller [ ~~by rule~~ ] shall establish  
+| procedures and requirements for the depository and depository  
+| agents designed to minimize the burden to system participants of  
+| accounting for and reporting taxable gains and losses arising out  
+| of depository transactions as denominated in United States dollars  
+| or another currency.  
+|  SECTION 21. Subchapter A, Chapter 2116, Government Code, is  
+| amended by adding Sections 2116.027 and 2116.028 to read as  
+| follows:  
+|  _Sec._ ___2116.027._ _____CONFIDENTIALITY OF RECORDS; OTHER RECORDS_  
+| _EXEMPT FROM DISCLOSURE. (a)_ ___Records relating to individual_  
+| _depository accounts or depository account holders, including_  
+| _current, former, or prospective depository account holders, that_  
+| _are in the custody of the depository or a vendor performing services_  
+| _related to the depository are confidential and exempt from_  
+| _disclosure under Chapter 552._  
+|  _(b)_ _____The following information of the depository is excepted_  
+| _from the requirements of Section 552.021:_  
+|  _(1)_ _____records and other information related to the_  
+| _security of the depository;_  
+|  _(2)_ _____records related to the method of setting the_  
+| _depository's fees, service charges, penalties, and other charges or_  
+| _payments; and_  
+|  _(3)_ _____commercial or financial information that would_  
+| _cause substantial competitive harm to the depository, including_  
+| _operational or other information that would give advantage to_  
+| _competitors or bidders._  
+|  _(c)_ _____Notwithstanding Subsection (a), depository account_  
+| _information may be disclosed:_  
+|  _(1)_ _____to a depository account holder regarding the_  
+| _depository account holder's account;_  
+|  _(2)_ _____to a state or federal agency as required by_  
+| _applicable law;_  
+|  _(3) to a vendor providing services to the depository;_  
+|  _(4)_ _____to a current or prospective depository account_  
+| _holder;_  
+|  _(5)_ _____in response to a subpoena issued under applicable_  
+| _law;_  
+|  _(6)_ _____if compiled as collective information that does_  
+| _not include any identifying information about a person; or_  
+|  _(7)_ _____as otherwise permitted by the depository account_  
+| _agreement applicable to a depository account holder's account._  
+|  _Sec._ ___2116.028._ _____EXEMPTION FROM CREDITORS' CLAIMS._  
+| _(a)_ _____Property held in the depository is exempt from garnishment,_  
+| _attachment, execution, or other seizure by a creditor if the_  
+| _property has an aggregate fair market value of not more than $1_  
+| _million, exclusive of the amount of any liens, security interests,_  
+| _or other charges encumbering the property._  
+|  _(b)_ _____Subsection (a) does not apply to the claim of a creditor_  
+| _for a debt, judgment, lien, or claim, including a tax delinquency,_  
+| _that is asserted by or owed to:_  
+|  _(1)_ _____this state or a political subdivision of this_  
+| _state;_  
+|  _(2)_ _____a person who has perfected a pledge made under this_  
+| _chapter;_  
+|  _(3)_ _____a person who is owed restitution in a criminal_  
+| _matter, as reflected in an order of a court; or_  
+|  _(4)_ _____a person who is owed child support arrearages by_  
+| _the depository account holder, as reflected in a child support lien_  
+| _notice that complies with the requirements of Section 157.313,_  
+| _Family Code._  
+|  _(c)_ _____Subsection (a) does not apply to a claim asserted by a_  
+| _governmental entity other than this state if the claim is for a_  
+| _debt, judgment, or lien for a tax delinquency._  
+|  _(d)_ _____Nothing in this section may be construed to increase the_  
+| _personal property exemptions available to a person in a bankruptcy_  
+| _proceeding._  
+|  SECTION 22. Section 2116.051, Government Code, is amended  
+| to read as follows:  
+|  Sec. 2116.051. USE OF DEPOSITORY AGENTS. The depository  
+| _may_ [ ~~shall~~ ] use private, independently managed _financial_ [
+~~firms~~  
+|  ~~and~~ ] institutions _to provide retail locations for the provision of_  
+| _depository services to the public_ [ ~~licensed as depository agents as~~  
+|  ~~intermediaries to conduct retail transactions in bullion and~~  
+|  ~~specie~~ ] on behalf of the depository [ ~~with current and prospective~~  
+|  ~~depository account holders~~ ].  
+|  SECTION 23. The following laws are repealed:  
+|  (1) Sections 151.002(b)(9-a), (9-b), and (9-c),  
+| Finance Code;  
+|  (2) Section 151.603(c-1), Finance Code; and  
+|  (3) Subchapter J, Chapter 151, Finance Code.  
+|  SECTION 24. This Act takes effect immediately if it  
+| receives a vote of two-thirds of all the members elected to each  
+| house, as provided by Section 39, Article III, Texas Constitution.  
+| If this Act does not receive the vote necessary for immediate  
+| effect, this Act takes effect September 1, 2019.
+

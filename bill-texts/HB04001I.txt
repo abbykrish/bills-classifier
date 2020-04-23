@@ -1,0 +1,60 @@
+| 86R10792 JXC-D  
+---|---  
+|  By: Nevarez | H.B. No. 4001  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the issuance of a permit by the Public Utility  
+| Commission of Texas for the routing of certain oil or gas pipelines;  
+| authorizing administrative penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The Utilities Code is amended by adding Title 6  
+| to read as follows:  
+| _TITLE 6. PIPELINE REGULATION_  
+| _CHAPTER 601. OIL OR GAS PIPELINE ROUTE PERMITS_  
+|  _Sec._ ___601.0101._ _____DEFINITION. In this chapter, "commission"_  
+| _means the Public Utility Commission of Texas._  
+|  _Sec._ ___601.0102._ _____APPLICABILITY. (a) This chapter applies_  
+| _only to a pipeline that transports gas or petroleum and is owned,_  
+| _operated, or managed by:_  
+|  _(1) a gas corporation, as defined by Chapter 181; or_  
+|  _(2)_ _____a common carrier subject to Chapter 111, Natural_  
+| _Resources Code._  
+|  _(b) This chapter does not apply to a pipeline:_  
+|  _(1)_ _____the routing of which is subject solely to the_  
+| _jurisdiction of a federal agency;_  
+|  _(2) that is a gas distribution pipeline facility; or_  
+|  _(3)_ _____that is a sour gas pipeline facility, as defined by_  
+| _Section 121.451._  
+|  _Sec._ ___601.0103._ _____ROUTE PERMIT; MANDAMUS. (a) A person may_  
+| _not begin construction of a pipeline before the person obtains from_  
+| _the commission a permit that authorizes the route of the pipeline._  
+|  _(b)_ _____The commission may approve an application and grant a_  
+| _permit only if the commission determines that the route of the_  
+| _pipeline, if reasonable, moderates negative effects on the affected_  
+| _community and landowners after consideration of:_  
+|  _(1) community values;_  
+|  _(2) recreational and park areas;_  
+|  _(3) historical and aesthetic values; and_  
+|  _(4) environmental integrity._  
+|  _(c) The commission may:_  
+|  _(1) grant the permit as requested;_  
+|  _(2)_ _____grant the permit for the construction of a portion_  
+| _of the requested pipeline; or_  
+|  _(3) deny the permit._  
+|  _(d)_ _____The commission must grant or deny a permit not later_  
+| _than the first anniversary of the date the application for the_  
+| _permit is filed. If the commission does not grant or deny the_  
+| _permit on or before that date, a party may seek a writ of mandamus in_  
+| _a district court of Travis County to compel the commission to take_  
+| _action under Subsection (c)._  
+|  _Sec._ ___601.0104._ _____ENFORCEMENT AND PENALTIES. (a) The_  
+| _commission and the attorney general may enforce the provisions of_  
+| _this chapter in the manner authorized for the judicial or_  
+| _administrative enforcement of a provision of Title 2 by Subchapter_  
+| _B, Chapter 15, including by imposing administrative penalties._  
+|  _(b)_ _____A person may complain to the commission about a claimed_  
+| _violation of a provision of this chapter in the manner provided by_  
+| _Section 15.051._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,111 @@
+| 86R7202 EAS-D  
+---|---  
+|  By: Israel | H.B. No. 1332  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the repeal of the authority of political subdivisions  
+| to adopt or enforce juvenile curfews.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 45.045(c), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (c) This article does not limit the authority of a court to  
+| order a child taken into custody under Article 45.058 [ ~~or 45.059~~ ].  
+|  SECTION 2. Article 45.060(a), Code of Criminal Procedure,  
+| is amended to read as follows:  
+|  (a) Except as provided by _Article_ [ ~~Articles~~ ] 45.058 [ ~~and~~  
+|  ~~45.059~~ ], an individual may not be taken into secured custody for  
+| offenses alleged to have occurred before the individual's 17th  
+| birthday.  
+|  SECTION 3. Section 51.02(15), Family Code, is amended to  
+| read as follows:  
+|  (15) "Status offender" means a child who is accused,  
+| adjudicated, or convicted for conduct that would not, under state  
+| law, be a crime if committed by an adult, including:  
+|  (A) running away from home under Section  
+| 51.03(b)(2);  
+|  (B) a fineable only offense under Section  
+| 51.03(b)(1) transferred to the juvenile court under Section  
+| 51.08(b), but only if the conduct constituting the offense would  
+| not have been criminal if engaged in by an adult;  
+|  (C) a violation of standards of student conduct  
+| as described by Section 51.03(b)(4);  
+|  (D) [ ~~a violation of a juvenile curfew ordinance or~~  
+|  ~~order;~~  
+|  [ ~~(E)~~ ] a violation of a provision of the Alcoholic  
+| Beverage Code applicable to minors only; or  
+|  _(E)_ [ ~~(F)~~ ] a violation of any other fineable only  
+| offense under Section 8.07(a)(4) or (5), Penal Code, but only if the  
+| conduct constituting the offense would not have been criminal if  
+| engaged in by an adult.  
+|  SECTION 4. Section 38.003(a), Government Code, is amended  
+| to read as follows:  
+|  (a) The judge of a county, justice, or municipal court, in  
+| accordance with Section 38.002, may award money from a judicial  
+| donation trust fund established under Section 38.001 to eligible  
+| children or families who appear before the court for a truancy [ ~~or~~  
+|  ~~curfew~~ ] violation or in another misdemeanor offense proceeding  
+| before the court.  
+|  SECTION 5. Section 71.0352, Government Code, is amended to  
+| read as follows:  
+|  Sec. 71.0352. JUVENILE DATA: JUSTICE, MUNICIPAL, AND  
+| TRUANCY COURTS. As a component of the official monthly report  
+| submitted to the Office of Court Administration of the Texas  
+| Judicial System:  
+|  (1) a justice court, municipal court, or truancy court  
+| shall report the number of cases filed for:  
+|  (A) truant conduct under Section 65.003(a),  
+| Family Code; _and_  
+|  (B) the offense of parent contributing to  
+| nonattendance under Section 25.093, Education Code; and  
+|  [ ~~(C) a violation of a local daytime curfew~~  
+|  ~~ordinance adopted under Section 341.905 or 351.903, Local~~  
+|  ~~Government Code; and~~ ]  
+|  (2) in cases in which a child fails to obey an order of  
+| a justice court, municipal court, or truancy court under  
+| circumstances that would constitute contempt of court, the justice  
+| court, municipal court, or truancy court shall report the number of  
+| incidents in which the child is:  
+|  (A) referred to the appropriate juvenile court  
+| for delinquent conduct as provided by Article 45.050(c)(1), Code of  
+| Criminal Procedure, or Section 65.251, Family Code; or  
+|  (B) held in contempt, fined, or denied driving  
+| privileges as provided by Article 45.050(c)(2), Code of Criminal  
+| Procedure, or Section 65.251, Family Code.  
+|  SECTION 6. Chapter 370, Local Government Code, is amended  
+| by adding Section 370.007 to read as follows:  
+|  _Sec._ ___370.007._ _____JUVENILE CURFEWS PROHIBITED. (a)_ __  
+| _Notwithstanding any other law, a political subdivision may not_  
+| _adopt or enforce an order, ordinance, or other measure that imposes_  
+| _a curfew to regulate the movements or actions of persons younger_  
+| _than 18 years of age._  
+|  _(b)_ _____This section does not apply to a curfew implemented_  
+| _under Chapter 418, Government Code, for purposes of emergency_  
+| _management._  
+|  SECTION 7. Section 8.07(e), Penal Code, is amended to read  
+| as follows:  
+|  (e) A person who is at least 10 years of age but younger than  
+| 15 years of age is presumed incapable of committing an offense  
+| described by Subsection (a)(4) or (5)[ ~~, other than an offense under~~  
+|  ~~a juvenile curfew ordinance or order~~ ]. This presumption may be  
+| refuted if the prosecution proves to the court by a preponderance of  
+| the evidence that the actor had sufficient capacity to understand  
+| that the conduct engaged in was wrong at the time the conduct was  
+| engaged in. The prosecution is not required to prove that the actor  
+| at the time of engaging in the conduct knew that the act was a  
+| criminal offense or knew the legal consequences of the offense.  
+|  SECTION 8. The following provisions are repealed:  
+|  (1) Article 45.059, Code of Criminal Procedure;  
+|  (2) Section 341.905, Local Government Code;  
+|  (3) Section 351.903, Local Government Code; and  
+|  (4) Section 370.002, Local Government Code.  
+|  SECTION 9. A violation of a juvenile curfew ordinance or  
+| order may not be prosecuted or adjudicated after the effective date  
+| of this Act. If on the effective date of this Act a criminal or  
+| civil action is pending for a violation of a juvenile curfew  
+| ordinance or order, the action is dismissed on that date. However,  
+| a final conviction or adjudication for a violation of a juvenile  
+| curfew ordinance or order that exists on the effective date of this  
+| Act is unaffected by this Act.  
+|  SECTION 10. This Act takes effect September 1, 2019.
+

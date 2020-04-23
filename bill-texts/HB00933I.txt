@@ -1,0 +1,218 @@
+| 86R4750 SRS-D  
+---|---  
+|  By: Bucy | H.B. No. 933  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to posting of election information on the secretary of  
+| state's and each county's Internet website.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 4.003(b), Election Code, is amended to  
+| read as follows:  
+|  (b) In addition to any other notice given for an election  
+| under Subsection (a), not later than the 21st day before election  
+| day, the authority responsible for giving notice of the election  
+| shall post a copy of the notice, which must include the location of  
+| each polling place, on the _county's Internet website and may post a_  
+| _copy of the notice on the_ bulletin board used for posting notices of  
+| the meetings of the governing body of the political subdivision  
+| that the authority serves. For each precinct that is combined to  
+| form a consolidated precinct under Section 42.008, not later than  
+| the 10th day before election day, the authority shall also post, at  
+| the polling place used in the preceding general election, notice of  
+| the precinct's consolidation and the location of the polling place  
+| in the consolidated precinct. A notice posted under this  
+| subsection must remain posted continuously through election day.  
+|  SECTION 2. Section 31.012(a), Election Code, as effective  
+| September 1, 2020, is amended to read as follows:  
+|  (a) The secretary of state and the voter registrar of each  
+| county [ ~~that maintains a website~~ ] shall provide notice of the  
+| identification requirements for voting prescribed by Chapter 63 and  
+| that straight ticket voting has been eliminated pursuant to H.B.  
+| 25, Acts of the 85th Legislature, Regular Session, 2017 _,_ on each  
+| entity's respective website in each language in which voter  
+| registration and election materials are available. The secretary  
+| of state shall prescribe the wording of the notice to be included on  
+| the websites.  
+|  SECTION 3. Subchapter A, Chapter 31, Election Code, is  
+| amended by adding Section 31.016 to read as follows:  
+|  _Sec._ ___31.016._ _____VOTER INFORMATION ON SECRETARY OF STATE'S_  
+| _WEBSITE. (a) The secretary of state shall prescribe procedures_  
+| _requiring the county officer responsible for administering_  
+| _elections to submit contact information of the county election_  
+| _office to the secretary of state for inclusion on the secretary of_  
+| _state's Internet website, including:_  
+|  _(1) the street address and zip code;_  
+|  _(2)_ _____the mailing address if different from the address_  
+| _provided in Subdivision (1);_  
+|  _(3) telephone number;_  
+|  _(4) facsimile number; and_  
+|  _(5) e-mail address._  
+|  _(b)_ _____The secretary of state shall prescribe procedures_  
+| _requiring each entity designating the location of a polling place,_  
+| _including an early voting polling place, to submit information on_  
+| _the location to the secretary of state for inclusion on the_  
+| _secretary of state's Internet website._  
+|  _(c)_ _____For each polling place the information submitted must_  
+| _include:_  
+|  _(1)_ _____the name of the building in which the polling place_  
+| _is located, if available;_  
+|  _(2)_ _____the street address and zip code of the polling_  
+| _place; and_  
+|  _(3) the days and hours of voting at each location._  
+|  _(d)_ _____The polling information under Subsection (c) shall be_  
+| _posted on the secretary of state's Internet website in a_  
+| _downloadable format._  
+|  SECTION 4. Subchapter E, Chapter 31, Election Code, is  
+| amended by adding Section 31.125 to read as follows:  
+|  _Sec._ ___31.125._ _____COUNTY WEBSITE. (a)_ ___The county officer_  
+| _responsible for administering elections shall post on the county's_  
+| _Internet website contact information for the county election office_  
+| _including:_  
+|  _(1) the street address and zip code;_  
+|  _(2)_ _____the mailing address if different from the address_  
+| _provided in Subdivision (1);_  
+|  _(3) telephone number;_  
+|  _(4) facsimile number; and_  
+|  _(5) e-mail address._  
+|  _(b)_ _____For each polling place located in the county, the county_  
+| _shall post on the county's Internet website:_  
+|  _(1)_ _____the name of the building in which the polling place_  
+| _is located, if available;_  
+|  _(2)_ _____the street address and zip code of the polling_  
+| _place; and_  
+|  _(3) the days and hours of voting at each location._  
+|  SECTION 5. Section 32.114(c), Election Code, is amended to  
+| read as follows:  
+|  (c) The county clerk shall:  
+|  (1) post a notice of the time and place of each session  
+| on the _county's Internet website and may post the notice on the_  
+| bulletin board used for posting notice of meetings of the  
+| commissioners court and shall include on the notice a statement  
+| that the program is open to the public;  
+|  (2) notify each presiding judge appointed by the  
+| commissioners court of the time and place of each session and of the  
+| duty of each election judge to complete the training program;  
+|  (3) notify the county chair of each political party in  
+| the county of the time and place of each session; and  
+|  (4) notify the voter registrar of the date, hour, and  
+| place of each session.  
+|  SECTION 6. Section 42.035(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Beginning with the first week following the week in  
+| which an order changing a county election precinct boundary is  
+| adopted, the commissioners court shall publish notice of the  
+| change _:_  
+|  _(1)_ in a newspaper in the county once a week for three  
+| consecutive weeks _; and_  
+|  _(2)_ _____on the county's Internet website for three_  
+| _consecutive weeks_.  
+|  SECTION 7. Section 43.061(c), Election Code, is amended to  
+| read as follows:  
+|  (c) Notice required by Subsection (b) must be given by:  
+|  (1) notifying each candidate whose name appears on the  
+| ballot in the election or, in the case of an office filled by voters  
+| of more than one county, notifying the county chair or, for an  
+| independent candidate, the county judge of the county in which the  
+| change occurs; or  
+|  (2) posting the notice in a listing used specifically  
+| to inform the public of changes to the location of a polling place  
+| on _the_ [ ~~any~~ ] Internet website that the county clerk maintains to  
+| provide information on elections held in the county.  
+|  SECTION 8. Section 66.059, Election Code, is amended by  
+| amending Subsection (b) and adding Subsection (b-1) to read as  
+| follows:  
+|  (b) _If the political subdivision holding the election is not_  
+| _a county, the_ [ ~~The~~ ] district judge shall post a notice of the date,  
+| hour, and place for opening the box on the bulletin board used for  
+| posting notices of the meetings of the governing body of the  
+| political subdivision served by the general custodian of election  
+| records. The notice must remain posted continuously for the 24  
+| hours immediately preceding the hour set for opening the box.  
+|  _(b-1)_ _____If the political subdivision holding the election is a_  
+| _county, the district judge shall post a notice of the date, hour,_  
+| _and place for opening the box on the county's Internet website. The_  
+| _notice must remain posted continuously for the 24 hours preceding_  
+| _the hour set for opening the box._  
+|  SECTION 9. Section 67.012(b), Election Code, is amended to  
+| read as follows:  
+|  (b) The secretary of state shall post, on the _secretary of_  
+| _state's Internet website_ [ ~~bulletin board used for posting notice of~~  
+|  ~~meetings of state governmental bodies~~ ], a notice of the date, hour,  
+| and place of the canvass at least 72 hours before the canvass is  
+| conducted.  
+|  SECTION 10. Section 85.007(c), Election Code, is amended to  
+| read as follows:  
+|  (c) Notice under Subsection (b) shall be posted  
+| continuously for at least 72 hours immediately preceding the first  
+| hour that the voting to which the notice pertains will be conducted.  
+| The notice shall be posted on _:_  
+|  _(1)_ the bulletin board used for posting notice of  
+| meetings of the [ ~~commissioners court if the early voting clerk is~~  
+|  ~~the county clerk, or of the~~ ] city governing body if the early voting  
+| clerk is the city secretary _; or_  
+|  _(2)_ _____the county's Internet website if the early voting_  
+| _clerk is the county clerk_.  
+|  SECTION 11. Section 85.067(d), Election Code, is amended to  
+| read as follows:  
+|  (d) The schedule shall be posted on _:_  
+|  _(1)_ the bulletin board used for posting notice of  
+| meetings of the governing body of the political subdivision served  
+| by the authority ordering the election or, if the early voting clerk  
+| is the [ ~~county clerk or~~ ] city secretary, meetings of the  
+| [ ~~commissioners court or~~ ] city governing body _; or_  
+|  _(2)_ _____the county's Internet website if the early voting_  
+| _clerk is the county clerk_ [ ~~, as applicable~~ ].  
+|  SECTION 12. Section 87.027, Election Code, is amended by  
+| amending Subsection (k) and adding Subsection (k-1) to read as  
+| follows:  
+|  (k) Postings required by this section shall be made on the  
+| bulletin board used for posting notice of meetings of the  
+| [ ~~commissioners court, in an election for which the county election~~  
+|  ~~board is established or a primary election, or of the~~ ] governing  
+| body of the political subdivision in _an election other than an_  
+| _election for which the county election board is established or a_  
+| _primary election_ [ ~~other elections~~ ].  
+|  _(k-1)_ _____Postings required by this section shall be made on the_  
+| _county's Internet website in an election for which the county_  
+| _election board is established or a primary election._  
+|  SECTION 13. Section 172.113(d), Election Code, is amended  
+| to read as follows:  
+|  (d) The authority shall make periodic announcements of the  
+| current state of the tabulation, including by posting the  
+| announcements on the Internet website of the county[ ~~, if the county~~  
+|  ~~maintains a website~~ ].  
+|  SECTION 14. Section 181.006(k), Election Code, is amended  
+| to read as follows:  
+|  (k) The secretary of state shall post a notice of the  
+| receipt of a petition on the _secretary of state's Internet website_  
+| _and may post the notice on a_ bulletin board used for posting notice  
+| of meetings of state governmental bodies. Any person may challenge  
+| the validity of the petition by filing a written statement of the  
+| challenge with the secretary of state not later than the fifth day  
+| after the date notice is posted. The secretary of state may verify  
+| the petition signatures regardless of whether the petition is  
+| timely challenged.  
+|  SECTION 15. Section 203.012(c), Election Code, is amended  
+| to read as follows:  
+|  (c) The secretary of state shall post, on the _secretary of_  
+| _state's Internet website_ [ ~~bulletin board used for posting notice of~~  
+|  ~~meetings of state governmental bodies~~ ], a notice of the date, hour,  
+| and place of the canvass at least 24 hours before the canvass is  
+| conducted.  
+|  SECTION 16. Section 274.002(c), Election Code, is amended  
+| to read as follows:  
+|  (c) The secretary of state shall post on the _secretary of_  
+| _state's Internet website and may post on a_ bulletin board for  
+| posting notice of a meeting of a state governmental body a notice of  
+| the date, hour, and place of the drawing. The notice must remain  
+| posted continuously for 72 hours immediately preceding the  
+| scheduled time of the drawing.  
+|  SECTION 17. (a) Not later than September 1, 2019, the  
+| secretary of state shall post the information as required by  
+| Section 31.016, Election Code, as added by this Act.  
+|  (b) Not later than October 1, 2019, the county shall post  
+| information as required by Section 31.125, Election Code, as added  
+| by this Act.  
+|  SECTION 18. This Act takes effect September 1, 2019.
+

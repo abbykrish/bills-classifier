@@ -1,0 +1,1415 @@
+| 86R3750 SMH-F  
+---|---  
+|  By: Shine | H.B. No. 490  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the administration of the ad valorem tax system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 5, Tax Code, is amended by adding Section  
+| 5.01 to read as follows:  
+|  _Sec._ ___5.01._ _____PROPERTY TAX ADMINISTRATION ADVISORY BOARD._  
+| _(a)_ _____The comptroller shall appoint the property tax administration_  
+| _advisory board to advise the comptroller with respect to the_  
+| _division or divisions within the office of the comptroller with_  
+| _primary responsibility for state administration of property_  
+| _taxation and state oversight of appraisal districts. The advisory_  
+| _board may make recommendations to the comptroller regarding_  
+| _improving the effectiveness and efficiency of the property tax_  
+| _system, best practices, and complaint resolution procedures. The_  
+| _comptroller shall post the recommendations of the advisory board on_  
+| _the comptroller's Internet website._  
+|  _(b)_ _____The advisory board is composed of at least six members_  
+| _appointed by the comptroller. The members of the board should_  
+| _include:_  
+|  _(1)_ _____representatives of property tax payers, appraisal_  
+| _districts, local tax offices, and school districts; and_  
+|  _(2)_ _____a person who has knowledge or experience in_  
+| _conducting ratio studies._  
+|  _(c)_ _____The members of the advisory board serve at the pleasure_  
+| _of the comptroller._  
+|  _(d)_ _____Any advice to the comptroller relating to a matter_  
+| _described by Subsection (a) that is provided by a member of the_  
+| _advisory board must be provided at a meeting called by the_  
+| _comptroller._  
+|  _(e)_ _____Chapter 2110, Government Code, does not apply to the_  
+| _advisory board._  
+|  SECTION 2. Section 5.07, Tax Code, is amended by adding  
+| Subsections (f), (g), (h), and (i) to read as follows:  
+|  _(f)_ _____The comptroller shall prescribe tax rate calculation_  
+| _forms to be used by the designated officer or employee of each_  
+| _taxing unit to calculate and submit the no-new-revenue tax rate and_  
+| _the rollback tax rate for the taxing unit as required by Chapter 26._  
+|  _(g)_ _____The forms described by Subsection (f) must be in an_  
+| _electronic format and:_  
+|  _(1) have blanks that can be filled in electronically;_  
+|  _(2)_ _____be capable of being certified by the designated_  
+| _officer or employee after completion as accurately calculating the_  
+| _applicable tax rates and using values that are the same as the_  
+| _values shown in the taxing unit's certified appraisal roll; and_  
+|  _(3)_ _____be capable of being submitted electronically to_  
+| _the chief appraiser of each appraisal district in which the taxing_  
+| _unit is located._  
+|  _(h)_ _____For purposes of Subsections (f) and (g), the comptroller_  
+| _shall use the forms published on the comptroller's Internet website_  
+| _as of January 1, 2019, modified as necessary to comply with the_  
+| _requirements of those subsections. The forms may be updated, at the_  
+| _discretion of the comptroller acting through the director of the_  
+| _property tax assistance division, to reflect statutory changes that_  
+| _do not substantially change the tax rate calculations provided for_  
+| _by the form or for the purpose of making formatting or other_  
+| _nonsubstantive changes. The director may determine, in the_  
+| _director's discretion, whether a proposed change substantially_  
+| _changes the tax rate calculations provided for by the forms and_  
+| _therefore must be made in the manner provided by Subsection (i)._  
+|  _(i)_ _____The comptroller may revise the forms to reflect_  
+| _statutory changes that substantially change the tax rate_  
+| _calculations provided for by the forms or on receipt of a request in_  
+| _writing. A revision under this subsection must be approved by the_  
+| _agreement of a majority of the members of a committee selected by_  
+| _the comptroller. The members of the committee must represent,_  
+| _equally, taxpayers and either taxing units or persons designated by_  
+| _taxing units. In the case of a revision for which the comptroller_  
+| _receives a request in writing, the person requesting the revision_  
+| _shall pay the costs of mediation if the comptroller determines that_  
+| _mediation is required._  
+|  SECTION 3. Section 5.091, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 5.091. STATEWIDE LIST OF TAX RATES. (a) Each year the  
+| comptroller shall prepare a list that includes the _maintenance and_  
+| _operations rate, the debt rate, and the_ total tax rate imposed by  
+| each taxing unit in this state, _as_ [ ~~other than a school district, if~~  
+|  ~~the tax rate is~~ ] reported to the comptroller _by each appraisal_  
+| _district_ , for the year [ ~~preceding the year~~ ] in which the list is  
+| prepared. The comptroller shall _:_  
+|  _(1)_ _____prescribe the manner in which and deadline by_  
+| _which appraisal districts are required to submit the tax rates to_  
+| _the comptroller; and_  
+|  _(2)_ list the tax rates _alphabetically according to:_  
+|  _(A)_ _____the county or counties in which each taxing_  
+| _unit is located; and_  
+|  _(B) the name of each taxing unit_ [ ~~in descending~~  
+|  ~~order~~ ].  
+|  (b) Not later than _January 1_ [ ~~December 31~~ ] of _the following_  
+| [ ~~each~~ ] year, the comptroller shall publish on the comptroller's  
+| Internet website the list required by Subsection (a).  _The_  
+| _comptroller shall maintain the list on the comptroller's Internet_  
+| _website until at least the third anniversary of the date the list is_  
+| _required to be published._  
+|  SECTION 4. Section 5.102(a), Tax Code, is amended to read as  
+| follows:  
+|  (a) At least once every two years, the comptroller shall  
+| review the governance of each appraisal district, _the_ taxpayer  
+| assistance provided _by each appraisal district_ , and the operating  
+| and appraisal standards, procedures, and methodology used by each  
+| appraisal district, to determine compliance with generally  
+| accepted standards, procedures, and methodology. After  
+| consultation with the _property tax administration_ advisory _board_  
+| [ ~~committee created under Section 403.302, Government Code~~ ], the  
+| comptroller by rule may establish procedures and standards for  
+| conducting and scoring the review.  
+|  SECTION 5. Sections 25.19(b) and (i), Tax Code, are amended  
+| to read as follows:  
+|  (b) The chief appraiser shall separate real from personal  
+| property and include in the notice for each:  
+|  (1) a list of the taxing units in which the property is  
+| taxable;  
+|  (2) the appraised value of the property in the  
+| preceding year;  
+|  (3) the taxable value of the property in the preceding  
+| year for each taxing unit taxing the property;  
+|  (4) the appraised value of the property for the  
+| current year, the kind and amount of each exemption and partial  
+| exemption, if any, approved for the property for the current year  
+| and for the preceding year, and, if an exemption or partial  
+| exemption that was approved for the preceding year was canceled or  
+| reduced for the current year, the amount of the exemption or partial  
+| exemption canceled or reduced;  
+|  (5) [ ~~if the appraised value is greater than it was in~~  
+|  ~~the preceding year, the amount of tax that would be imposed on the~~  
+|  ~~property on the basis of the tax rate for the preceding year;~~  
+|  [ ~~(6)~~ ] in italic typeface, the following  
+| statement: "The Texas Legislature does not set the amount of your  
+| local taxes. Your property tax _bill_ [ ~~burden~~ ] is _set_ [ ~~decided~~
+] by  
+| your locally elected officials, and all inquiries concerning your  
+| taxes should be directed to those officials";  
+|  _(6)_ [ ~~(7)~~ ] a detailed explanation of the time and  
+| procedure for protesting the value;  
+|  _(7)_ [ ~~(8)~~ ] the date and place the appraisal review  
+| board will begin hearing protests; and  
+|  _(8)_ [ ~~(9)~~ ] a brief explanation that the governing body  
+| of each taxing unit decides whether or not taxes on the property  
+| will increase and the appraisal district only determines the value  
+| of the property.  
+|  (i) Delivery with a notice required by Subsection (a) or (g)  
+| of a copy of the pamphlet published by the comptroller under Section  
+| 5.06 or a copy of the notice published by the chief appraiser under  
+| Section 41.70 is sufficient to comply with the requirement that the  
+| notice include the information specified by Subsection _(b)(6)_  
+| [ ~~(b)(7)~~ ] or (g)(3), as applicable.  
+|  SECTION 6. Section 26.012(9), Tax Code, is redesignated as  
+| Section 26.012(18), Tax Code, and amended to read as follows:  
+|  _(18) "No-new-revenue_ [ ~~(9) "Effective~~ ] maintenance  
+| and operations rate" means a rate expressed in dollars per $100 of  
+| taxable value and calculated according to the following formula:  
+| _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ] MAINTENANCE AND OPERATIONS  
+| RATE = (LAST YEAR'S LEVY - LAST YEAR'S DEBT LEVY - LAST  
+| YEAR'S JUNIOR COLLEGE LEVY) / (CURRENT TOTAL VALUE -  
+| NEW PROPERTY VALUE)  
+|  SECTION 7. The heading to Section 26.04, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 26.04. SUBMISSION OF ROLL TO GOVERNING BODY;  
+| _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ] AND ROLLBACK TAX RATES.  
+|  SECTION 8. Section 26.04, Tax Code, is amended by amending  
+| Subsections (b), (c), (d), (e), (e-1), (f), (g), (i), and (j) and  
+| adding Subsections (d-1), (d-2), (e-2), (e-3), and (e-4) to read as  
+| follows:  
+|  (b) The assessor shall submit the appraisal roll for the  
+| _taxing_ unit showing the total appraised, assessed, and taxable  
+| values of all property and the total taxable value of new property  
+| to the governing body of the _taxing_ unit by August 1 or as soon  
+| thereafter as practicable. By August 1 or as soon thereafter as  
+| practicable, the taxing unit's collector shall certify [ ~~an estimate~~  
+|  ~~of~~ ] the _anticipated_ collection rate _, as defined by Subsection
+(h),_  
+| for the current year to the governing body. If the collector  
+| certified an anticipated collection rate in the preceding year and  
+| the actual collection rate in that year exceeded the anticipated  
+| rate, the collector shall also certify the amount of debt taxes  
+| collected in excess of the anticipated amount in the preceding  
+| year.  
+|  (c) _After the assessor for the taxing unit submits the_  
+| _appraisal roll for the taxing unit to the governing body of the_  
+| _taxing unit as required by Subsection (b), an_ [ ~~An~~ ] officer or  
+| employee designated by the governing body shall calculate the  
+| _no-new-revenue_ [ ~~effective~~ ] tax rate and the rollback tax rate for  
+| the _taxing_ unit, where:  
+|  (1) " _No-new-revenue_ [ ~~Effective~~ ] tax rate" means a rate  
+| expressed in dollars per $100 of taxable value calculated according  
+| to the following formula:  
+|  _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ] TAX RATE = (LAST  
+| YEAR'S LEVY - LOST PROPERTY LEVY) / (CURRENT TOTAL  
+| VALUE - NEW PROPERTY VALUE)  
+|  ; and  
+|  (2) "Rollback tax rate" means a rate expressed in  
+| dollars per $100 of taxable value calculated according to the  
+| following formula:  
+|  ROLLBACK TAX RATE = ( _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ]  
+| MAINTENANCE AND OPERATIONS RATE x 1.08) + CURRENT DEBT  
+| RATE  
+|  (d) The _no-new-revenue_ [ ~~effective~~ ] tax rate for a county is  
+| the sum of the _no-new-revenue_ [ ~~effective~~ ] tax rates calculated for  
+| each type of tax the county levies and the rollback tax rate for a  
+| county is the sum of the rollback tax rates calculated for each type  
+| of tax the county levies.  
+|  _(d-1)_ _____The designated officer or employee shall use the tax_  
+| _rate calculation forms prescribed by the comptroller under Section_  
+| _5.07 in calculating the no-new-revenue tax rate and the rollback_  
+| _tax rate._  
+|  _(d-2)_ _____The designated officer or employee may not submit the_  
+| _no-new-revenue tax rate and the rollback tax rate to the governing_  
+| _body of the taxing unit and the taxing unit may not adopt a tax rate_  
+| _until the designated officer or employee certifies on the tax rate_  
+| _calculation forms that the designated officer or employee has_  
+| _accurately calculated the tax rates and has used values that are the_  
+| _same as the values shown in the taxing unit's certified appraisal_  
+| _roll in performing the calculations._  
+|  (e) By August 7 or as soon thereafter as practicable, the  
+| designated officer or employee shall submit the rates to the  
+| governing body. _The designated officer or employee_ [ ~~He~~ ] shall  
+| deliver by mail to each property owner in the _taxing_ unit _,_ [ ~~or~~ ]  
+| publish in a newspaper _, or post prominently on the home page of the_  
+| _taxing unit's Internet website, if applicable,_ in the form  
+| prescribed by the comptroller:  
+|  (1) the _no-new-revenue_ [ ~~effective~~ ] tax rate, the  
+| rollback tax rate, and an explanation of how they were calculated;  
+|  (2) the estimated amount of interest and sinking fund  
+| balances and the estimated amount of maintenance and operation or  
+| general fund balances remaining at the end of the current fiscal  
+| year that are not encumbered with or by corresponding existing debt  
+| obligation;  
+|  (3) a schedule of the _taxing_ unit's debt obligations  
+| showing:  
+|  (A) the amount of principal and interest that  
+| will be paid to service the _taxing_ unit's debts in the next year  
+| from property tax revenue, including payments of lawfully incurred  
+| contractual obligations providing security for the payment of the  
+| principal of and interest on bonds and other evidences of  
+| indebtedness issued on behalf of the _taxing_ unit by another  
+| political subdivision and, if the _taxing_ unit is created under  
+| Section 52, Article III, or Section 59, Article XVI, Texas  
+| Constitution, payments on debts that the _taxing_ unit anticipates to  
+| incur in the next calendar year;  
+|  (B) the amount by which taxes imposed for debt  
+| are to be increased because of the _taxing_ unit's anticipated  
+| collection rate; and  
+|  (C) the total of the amounts listed in Paragraphs  
+| (A)-(B), less any amount collected in excess of the previous year's  
+| anticipated collections certified as provided in Subsection (b);  
+|  (4) the amount of additional sales and use tax revenue  
+| anticipated in calculations under Section 26.041;  
+|  (5) a statement that the adoption of a tax rate equal  
+| to the _no-new-revenue_ [ ~~effective~~ ] tax rate would result in an  
+| increase or decrease, as applicable, in the amount of taxes imposed  
+| by the _taxing_ unit as compared to last year's levy, and the amount  
+| of the increase or decrease;  
+|  (6) in the year that a taxing unit calculates an  
+| adjustment under Subsection (i) or (j), a schedule that includes  
+| the following elements:  
+|  (A) the name of the _taxing_ unit discontinuing the  
+| department, function, or activity;  
+|  (B) the amount of property tax revenue spent by  
+| the _taxing_ unit listed under Paragraph (A) to operate the  
+| discontinued department, function, or activity in the 12 months  
+| preceding the month in which the calculations required by this  
+| chapter are made; and  
+|  (C) the name of the _taxing_ unit that operates a  
+| distinct department, function, or activity in all or a majority of  
+| the territory of a taxing unit that has discontinued operating the  
+| distinct department, function, or activity; and  
+|  (7) in the year following the year in which a taxing  
+| unit raised its rollback _tax_ rate as required by Subsection (j), a  
+| schedule that includes the following elements:  
+|  (A) the amount of property tax revenue spent by  
+| the _taxing_ unit to operate the department, function, or activity  
+| for which the taxing unit raised the rollback _tax_ rate as required  
+| by Subsection (j) for the 12 months preceding the month in which the  
+| calculations required by this chapter are made; and  
+|  (B) the amount published by the _taxing_ unit in  
+| the preceding tax year under Subdivision (6)(B).  
+|  (e-1) The _tax rate certification requirements imposed by_  
+| _Subsection (d-2) and the_ notice requirements imposed by Subsections  
+| (e)(1)-(6) do not apply to a school district.  
+|  _(e-2)_ _____By August 7 or as soon thereafter as practicable, the_  
+| _chief appraiser of each appraisal district shall deliver by regular_  
+| _mail or e-mail to each owner of property located in the appraisal_  
+| _district a notice that the estimated amount of taxes to be imposed_  
+| _on the owner's property by each taxing unit in which the property is_  
+| _located may be found in the property tax database maintained by the_  
+| _appraisal district under Section 26.17. The notice must include:_  
+|  _(1)_ _____a statement directing the property owner to an_  
+| _Internet website from which the owner may access information_  
+| _related to the actions taken or proposed to be taken by each taxing_  
+| _unit in which the property is located that may affect the taxes_  
+| _imposed on the owner's property;_  
+|  _(2)_ _____a statement that the property owner may request_  
+| _from the county assessor-collector for the county in which the_  
+| _property is located or, if the county assessor-collector does not_  
+| _assess taxes for the county, the person who assesses taxes for the_  
+| _county under Section 6.24(b), contact information for the assessor_  
+| _for each taxing unit in which the property is located, who must_  
+| _provide the information described by this subsection to the owner_  
+| _on request; and_  
+|  _(3)_ _____the name, address, and telephone number of the_  
+| _county assessor-collector for the county in which the property is_  
+| _located or, if the county assessor-collector does not assess taxes_  
+| _for the county, the person who assesses taxes for the county under_  
+| _Section 6.24(b)._  
+|  _(e-3)_ _____The statement described by Subsection (e-2)(1) must_  
+| _include a heading that is in bold, capital letters in type larger_  
+| _than that used in the other provisions of the notice._  
+|  _(e-4) The comptroller:_  
+|  _(1)_ _____with the advice of the property tax administration_  
+| _advisory board, shall adopt rules prescribing the form of the_  
+| _notice required by Subsection (e-2); and_  
+|  _(2)_ _____may adopt rules regarding the format and delivery_  
+| _of the notice._  
+|  (f) If as a result of consolidation of taxing units a taxing  
+| unit includes territory that was in two or more taxing units in the  
+| preceding year, the amount of taxes imposed in each in the preceding  
+| year is combined for purposes of calculating the _no-new-revenue_  
+| [ ~~effective~~ ] and rollback tax rates under this section.  
+|  (g) A person who owns taxable property is entitled to an  
+| injunction prohibiting the taxing unit in which the property is  
+| taxable from adopting a tax rate if the assessor or designated  
+| officer or employee of the _taxing_ unit, _the chief appraiser of the_  
+| _applicable appraisal district, or the taxing unit,_ as applicable,  
+| has not complied with the computation _,_ [ ~~or~~ ] publication _, or
+posting_  
+| requirements of this section _or Section 26.17 or 26.18_ [ ~~and the~~  
+|  ~~failure to comply was not in good faith~~ ]. _It is a defense in an_  
+| _action for an injunction under this subsection that the failure to_  
+| _comply was in good faith._  
+|  (i) This subsection applies to a taxing unit that has agreed  
+| by written contract to transfer a distinct department, function, or  
+| activity to another taxing unit and discontinues operating that  
+| distinct department, function, or activity if the operation of that  
+| department, function, or activity in all or a majority of the  
+| territory of the taxing unit is continued by another existing  
+| taxing unit or by a new taxing unit. The rollback tax rate of a  
+| taxing unit to which this subsection applies in the first tax year  
+| in which a budget is adopted that does not allocate revenue to the  
+| discontinued department, function, or activity is calculated as  
+| otherwise provided by this section, except that last year's levy  
+| used to calculate the _no-new-revenue_ [ ~~effective~~ ] maintenance and  
+| operations rate of the _taxing_ unit is reduced by the amount of  
+| maintenance and operations tax revenue spent by the taxing unit to  
+| operate the department, function, or activity for the 12 months  
+| preceding the month in which the calculations required by this  
+| chapter are made and in which the _taxing_ unit operated the  
+| discontinued department, function, or activity. If the _taxing_ unit  
+| did not operate that department, function, or activity for the full  
+| 12 months preceding the month in which the calculations required by  
+| this chapter are made, the _taxing_ unit shall reduce last year's levy  
+| used for calculating the _no-new-revenue_ [ ~~effective~~ ] maintenance  
+| and operations rate of the _taxing_ unit by the amount of the revenue  
+| spent in the last full fiscal year in which the _taxing_ unit operated  
+| the discontinued department, function, or activity.  
+|  (j) This subsection applies to a taxing unit that had agreed  
+| by written contract to accept the transfer of a distinct  
+| department, function, or activity from another taxing unit and  
+| operates a distinct department, function, or activity if the  
+| operation of a substantially similar department, function, or  
+| activity in all or a majority of the territory of the taxing unit  
+| has been discontinued by another taxing unit, including a dissolved  
+| taxing unit. The rollback tax rate of a taxing unit to which this  
+| subsection applies in the first tax year after the other taxing unit  
+| discontinued the substantially similar department, function, or  
+| activity in which a budget is adopted that allocates revenue to the  
+| department, function, or activity is calculated as otherwise  
+| provided by this section, except that last year's levy used to  
+| calculate the _no-new-revenue_ [ ~~effective~~ ] maintenance and  
+| operations rate of the _taxing_ unit is increased by the amount of  
+| maintenance and operations tax revenue spent by the taxing unit  
+| that discontinued operating the substantially similar department,  
+| function, or activity to operate that department, function, or  
+| activity for the 12 months preceding the month in which the  
+| calculations required by this chapter are made and in which the  
+| _taxing_ unit operated the discontinued department, function, or  
+| activity. If the _taxing_ unit did not operate the discontinued  
+| department, function, or activity for the full 12 months preceding  
+| the month in which the calculations required by this chapter are  
+| made, the _taxing_ unit may increase last year's levy used to  
+| calculate the _no-new-revenue_ [ ~~effective~~ ] maintenance and  
+| operations rate by an amount not to exceed the amount of property  
+| tax revenue spent by the discontinuing _taxing_ unit to operate the  
+| discontinued department, function, or activity in the last full  
+| fiscal year in which the discontinuing _taxing_ unit operated the  
+| department, function, or activity.  
+|  SECTION 9. Sections 26.041(a), (b), (c), (e), (g), and (h),  
+| Tax Code, are amended to read as follows:  
+|  (a) In the first year in which an additional sales and use  
+| tax is required to be collected, the _no-new-revenue_ [ ~~effective~~ ] tax  
+| rate and rollback tax rate for the _taxing_ unit are calculated  
+| according to the following formulas:  
+|  _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ] TAX RATE = _[_ (LAST YEAR'S  
+| LEVY - LOST PROPERTY LEVY) / (CURRENT TOTAL VALUE - NEW  
+| PROPERTY VALUE) _]_ \- SALES TAX GAIN RATE  
+| and  
+|  ROLLBACK _TAX_ RATE = ( _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ]  
+| MAINTENANCE AND OPERATIONS RATE x 1.08) + CURRENT DEBT  
+| RATE - SALES TAX GAIN RATE  
+| where "sales tax gain rate" means a number expressed in dollars per  
+| $100 of taxable value, calculated by dividing the revenue that will  
+| be generated by the additional sales and use tax in the following  
+| year as calculated under Subsection (d) [ ~~of this section~~ ] by the  
+| current total value.  
+|  (b) Except as provided by Subsections (a) and (c) [ ~~of this~~  
+|  ~~section~~ ], in a year in which a taxing unit imposes an additional  
+| sales and use tax _,_ the rollback tax rate for the _taxing_ unit is  
+| calculated according to the following formula, regardless of  
+| whether the _taxing_ unit levied a property tax in the preceding year:  
+|  ROLLBACK _TAX_ RATE = [(LAST YEAR'S MAINTENANCE AND  
+| OPERATIONS EXPENSE x 1.08) / ([ ~~TOTAL~~ ] CURRENT _TOTAL_  
+| VALUE - NEW PROPERTY VALUE)] + (CURRENT DEBT RATE -  
+| SALES TAX REVENUE RATE)  
+| where "last year's maintenance and operations expense" means the  
+| amount spent for maintenance and operations from property tax and  
+| additional sales and use tax revenues in the preceding year, and  
+| "sales tax revenue rate" means a number expressed in dollars per  
+| $100 of taxable value, calculated by dividing the revenue that will  
+| be generated by the additional sales and use tax in the current year  
+| as calculated under Subsection (d) [ ~~of this section~~ ] by the current  
+| total value.  
+|  (c) In a year in which a taxing unit that has been imposing  
+| an additional sales and use tax ceases to impose an additional sales  
+| and use tax _,_ the _no-new revenue_ [ ~~effective~~ ] tax rate and rollback  
+| tax rate for the _taxing_ unit are calculated according to the  
+| following formulas:  
+|  _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ] TAX RATE = [(LAST YEAR'S  
+| LEVY - LOST PROPERTY LEVY) / (CURRENT TOTAL VALUE - NEW  
+| PROPERTY VALUE)] + SALES TAX LOSS RATE  
+| and  
+|  ROLLBACK TAX RATE = [(LAST YEAR'S MAINTENANCE AND  
+| OPERATIONS EXPENSE x 1.08) / ([ ~~TOTAL~~ ] CURRENT _TOTAL_  
+| VALUE - NEW PROPERTY VALUE)] + CURRENT DEBT RATE  
+| where "sales tax loss rate" means a number expressed in dollars per  
+| $100 of taxable value, calculated by dividing the amount of sales  
+| and use tax revenue generated in the last four quarters for which  
+| the information is available by the current total value and "last  
+| year's maintenance and operations expense" means the amount spent  
+| for maintenance and operations from property tax and additional  
+| sales and use tax revenues in the preceding year.  
+|  (e) If a city that imposes an additional sales and use tax  
+| receives payments under the terms of a contract executed before  
+| January 1, 1986, in which the city agrees not to annex certain  
+| property or a certain area and the owners or lessees of the property  
+| or of property in the area agree to pay at least annually to the city  
+| an amount determined by reference to all or a percentage of the  
+| property tax rate of the city and all or a part of the value of the  
+| property subject to the agreement or included in the area subject to  
+| the agreement, the governing body, by order adopted by a majority  
+| vote of the governing body, may direct the designated officer or  
+| employee to add to the _no-new-revenue_ [ ~~effective~~ ] and rollback tax  
+| rates the amount that, when applied to the total taxable value  
+| submitted to the governing body, would produce an amount of taxes  
+| equal to the difference between the total amount of payments for the  
+| tax year under contracts described by this subsection under the  
+| rollback tax rate calculated under this section and the total  
+| amount of payments for the tax year that would have been obligated  
+| to the city if the city had not adopted an additional sales and use  
+| tax.  
+|  (g) If the rate of the additional sales and use tax is  
+| increased, the designated officer or employee shall make two  
+| projections, in the manner provided by Subsection (d) [ ~~of this~~  
+|  ~~section~~ ], of the revenue generated by the additional sales and use  
+| tax in the following year. The first projection must take into  
+| account the increase and the second projection must not take into  
+| account the increase. The _designated_ officer or employee shall  
+| then subtract the amount of the result of the second projection from  
+| the amount of the result of the first projection to determine the  
+| revenue generated as a result of the increase in the additional  
+| sales and use tax. In the first year in which an additional sales  
+| and use tax is increased, the _no-new-revenue_ [ ~~effective~~ ] tax rate  
+| for the _taxing_ unit is the _no-new-revenue_ [ ~~effective~~ ] tax rate  
+| before the increase minus a number the numerator of which is the  
+| revenue generated as a result of the increase in the additional  
+| sales and use tax, as determined under this subsection, and the  
+| denominator of which is the current total value minus the new  
+| property value.  
+|  (h) If the rate of the additional sales and use tax is  
+| decreased, the designated officer or employee shall make two  
+| projections, in the manner provided by Subsection (d) [ ~~of this~~  
+|  ~~section~~ ], of the revenue generated by the additional sales and use  
+| tax in the following year. The first projection must take into  
+| account the decrease and the second projection must not take into  
+| account the decrease. The _designated_ officer or employee shall  
+| then subtract the amount of the result of the first projection from  
+| the amount of the result of the second projection to determine the  
+| revenue lost as a result of the decrease in the additional sales and  
+| use tax. In the first year in which an additional sales and use tax  
+| is decreased, the _no-new-revenue_ [ ~~effective~~ ] tax rate for the  
+| _taxing_ unit is the _no-new-revenue_ [ ~~effective~~ ] tax rate before the  
+| decrease plus a number the numerator of which is the revenue lost as  
+| a result of the decrease in the additional sales and use tax, as  
+| determined under this subsection, and the denominator of which is  
+| the current total value minus the new property value.  
+|  SECTION 10. The heading to Section 26.043, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 26.043. _ROLLBACK AND NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ] TAX  
+| _RATES_ [ ~~RATE~~ ] IN CITY IMPOSING MASS TRANSIT SALES AND USE TAX.  
+|  SECTION 11. Sections 26.043(a) and (b), Tax Code, are  
+| amended to read as follows:  
+|  (a) In the tax year in which a city has set an election on  
+| the question of whether to impose a local sales and use tax under  
+| Subchapter H, Chapter 453, Transportation Code, the officer or  
+| employee designated to make the calculations provided by Section  
+| 26.04 may not make those calculations until the outcome of the  
+| election is determined. If the election is determined in favor of  
+| the imposition of the tax, the _designated officer or employee_  
+| [ ~~representative~~ ] shall subtract from the city's rollback and  
+| _no-new-revenue_ [ ~~effective~~ ] tax rates the amount that, if applied to  
+| the city's current total value, would impose an amount equal to the  
+| amount of property taxes budgeted in the current tax year to pay for  
+| expenses related to mass transit services.  
+|  (b) In a tax year to which this section applies, a reference  
+| in this chapter to the city's _no-new-revenue_ [ ~~effective~~ ] or  
+| rollback tax rate refers to that rate as adjusted under this  
+| section.  
+|  SECTION 12. The heading to Section 26.044, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 26.044. _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ] TAX RATE TO PAY FOR  
+| STATE CRIMINAL JUSTICE MANDATE.  
+|  SECTION 13. Sections 26.044(a), (b), and (c), Tax Code, are  
+| amended to read as follows:  
+|  (a) The first time that a county adopts a tax rate after  
+| September 1, 1991, in which the state criminal justice mandate  
+| applies to the county, the _no-new-revenue_ [ ~~effective~~ ] maintenance  
+| and operation rate for the county is increased by the rate  
+| calculated according to the following formula:  
+|  (State Criminal Justice Mandate) / (Current Total  
+| Value - New Property Value)  
+|  (b) In the second and subsequent years that a county adopts  
+| a tax rate, if the amount spent by the county for the state criminal  
+| justice mandate increased over the previous year, the  
+| _no-new-revenue_ [ ~~effective~~ ] maintenance and operation rate for the  
+| county is increased by the rate calculated according to the  
+| following formula:  
+|  (This Year's State Criminal Justice Mandate - Previous  
+| Year's State Criminal Justice Mandate) / (Current  
+| Total Value - New Property Value)  
+|  (c) The county shall include a notice of the increase in the  
+| _no-new-revenue_ [ ~~effective~~ ] maintenance and operation rate provided  
+| by this section, including a description and amount of the state  
+| criminal justice mandate, in the information published under  
+| Section 26.04(e) and Section 26.06(b) [ ~~of this code~~ ].  
+|  SECTION 14. Sections 26.0441(a), (b), and (c), Tax Code,  
+| are amended to read as follows:  
+|  (a) In the first tax year in which a taxing unit adopts a tax  
+| rate after January 1, 2000, and in which the enhanced minimum  
+| eligibility standards for indigent health care established under  
+| Section 61.006, Health and Safety Code, apply to the taxing unit,  
+| the _no-new-revenue_ [ ~~effective~~ ] maintenance and operations rate for  
+| the taxing unit is increased by the rate computed according to the  
+| following formula:  
+|  Amount of Increase = Enhanced Indigent Health Care  
+| Expenditures / (Current Total Value - New Property  
+| Value)  
+|  (b) In each subsequent tax year, if the taxing unit's  
+| enhanced indigent health care expenses exceed the amount of those  
+| expenses for the preceding year, the _no-new-revenue_ [ ~~effective~~ ]  
+| maintenance and operations rate for the taxing unit is increased by  
+| the rate computed according to the following formula:  
+|  Amount of Increase = (Current Tax Year's Enhanced  
+| Indigent Health Care Expenditures - Preceding Tax  
+| Year's Indigent Health Care Expenditures) / (Current  
+| Total Value - New Property Value)  
+|  (c) The taxing unit shall include a notice of the increase  
+| in its _no-new-revenue_ [ ~~effective~~ ] maintenance and operations rate  
+| provided by this section, including a brief description and the  
+| amount of the enhanced indigent health care expenditures, in the  
+| information published under Section 26.04(e) and, if applicable,  
+| Section 26.06(b).  
+|  SECTION 15. Section 26.05, Tax Code, is amended by amending  
+| Subsections (b), (c), (d), (e), and (g) and adding Subsections  
+| (d-1) and (d-2) to read as follows:  
+|  (b) A taxing unit may not impose property taxes in any year  
+| until the governing body has adopted a tax rate for that year, and  
+| the annual tax rate must be set by ordinance, resolution, or order,  
+| depending on the method prescribed by law for adoption of a law by  
+| the governing body. The vote on the ordinance, resolution, or order  
+| setting the tax rate must be separate from the vote adopting the  
+| budget. For a taxing unit other than a school district, the vote on  
+| the ordinance, resolution, or order setting a tax rate that exceeds  
+| the _no-new-revenue_ [ ~~effective~~ ] tax rate must be a record vote, and  
+| at least 60 percent of the members of the governing body must vote  
+| in favor of the ordinance, resolution, or order. For a school  
+| district, the vote on the ordinance, resolution, or order setting a  
+| tax rate that exceeds the sum of the _no-new-revenue_ [ ~~effective~~ ]  
+| maintenance and operations tax rate of the district as determined  
+| under Section 26.08(i) and the district's current debt rate must be  
+| a record vote, and at least 60 percent of the members of the  
+| governing body must vote in favor of the ordinance, resolution, or  
+| order. A motion to adopt an ordinance, resolution, or order setting  
+| a tax rate that exceeds the _no-new-revenue_ [ ~~effective~~ ] tax rate  
+| must be made in the following form: "I move that the property tax  
+| rate be increased by the adoption of a tax rate of (specify tax  
+| rate), which is effectively a (insert percentage by which the  
+| proposed tax rate exceeds the _no-new-revenue_ [ ~~effective~~ ] tax rate)  
+| percent increase in the tax rate." If the ordinance, resolution, or  
+| order sets a tax rate that, if applied to the total taxable value,  
+| will impose an amount of taxes to fund maintenance and operation  
+| expenditures of the taxing unit that exceeds the amount of taxes  
+| imposed for that purpose in the preceding year, the taxing unit  
+| must:  
+|  (1) include in the ordinance, resolution, or order in  
+| type larger than the type used in any other portion of the document:  
+|  (A) the following statement:  "THIS TAX RATE WILL  
+| RAISE MORE TAXES FOR MAINTENANCE AND OPERATIONS THAN LAST YEAR'S  
+| TAX RATE."; and  
+|  (B) if the tax rate exceeds the _no-new-revenue_  
+| [ ~~effective~~ ] maintenance and operations rate, the following  
+| statement:  "THE TAX RATE WILL EFFECTIVELY BE RAISED BY (INSERT  
+| PERCENTAGE BY WHICH THE TAX RATE EXCEEDS THE _NO-NEW-REVENUE_  
+| [ ~~EFFECTIVE~~ ] MAINTENANCE AND OPERATIONS RATE) PERCENT AND WILL RAISE  
+| TAXES FOR MAINTENANCE AND OPERATIONS ON A $100,000 HOME BY  
+| APPROXIMATELY $(Insert amount)."; and  
+|  (2) include on the home page of any Internet website  
+| operated by the _taxing_ unit:  
+|  (A) the following statement: "(Insert name of  
+| _taxing_ unit) ADOPTED A TAX RATE THAT WILL RAISE MORE TAXES FOR  
+| MAINTENANCE AND OPERATIONS THAN LAST YEAR'S TAX RATE"; and  
+|  (B) if the tax rate exceeds the _no-new-revenue_  
+| [ ~~effective~~ ] maintenance and operations rate, the following  
+| statement:  "THE TAX RATE WILL EFFECTIVELY BE RAISED BY (INSERT  
+| PERCENTAGE BY WHICH THE TAX RATE EXCEEDS THE _NO-NEW-REVENUE_  
+| [ ~~EFFECTIVE~~ ] MAINTENANCE AND OPERATIONS RATE) PERCENT AND WILL RAISE  
+| TAXES FOR MAINTENANCE AND OPERATIONS ON A $100,000 HOME BY  
+| APPROXIMATELY $(Insert amount)."  
+|  (c) If the governing body of a taxing unit does not adopt a  
+| tax rate before the date required by Subsection (a), the tax rate  
+| for the taxing unit for that tax year is the lower of the  
+| _no-new-revenue_ [ ~~effective~~ ] tax rate calculated for that tax year or  
+| the tax rate adopted by the taxing unit for the preceding tax year.  
+| A tax rate established by this subsection is treated as an adopted  
+| tax rate. Before the fifth day after the establishment of a tax  
+| rate by this subsection, the governing body of the taxing unit must  
+| ratify the applicable tax rate in the manner required by Subsection  
+| (b).  
+|  (d) The governing body of a taxing unit other than a school  
+| district may not adopt a tax rate that exceeds the lower of the  
+| rollback tax rate or the _no-new-revenue_ [ ~~effective~~ ] tax rate  
+| calculated as provided by this chapter until the governing body has  
+| held two public hearings on the proposed tax rate and has otherwise  
+| complied with Section 26.06 and Section 26.065. The governing body  
+| of a taxing unit shall reduce a tax rate set by law or by vote of the  
+| electorate to the lower of the rollback tax rate or the  
+| _no-new-revenue_ [ ~~effective~~ ] tax rate and may not adopt a higher rate  
+| unless it first complies with Section 26.06.  
+|  _(d-1)_ _____The governing body of a taxing unit other than a_  
+| _school district may not hold a public hearing on a proposed tax rate_  
+| _or a public meeting to adopt a tax rate until the seventh day after_  
+| _the date the chief appraiser of each appraisal district in which the_  
+| _taxing unit participates has:_  
+|  _(1)_ _____delivered the notice required by Section_  
+| _26.04(e-2); and_  
+|  _(2) complied with Section 26.17(e)._  
+|  _(d-2)_ _____Notwithstanding Subsection (a), the governing body of_  
+| _a taxing unit other than a school district may not adopt a tax rate_  
+| _until the chief appraiser of each appraisal district in which the_  
+| _taxing unit participates has complied with Subsection (d-1)._  
+|  (e) A person who owns taxable property is entitled to an  
+| injunction restraining the collection of taxes by a taxing unit in  
+| which the property is taxable if the taxing unit has not complied  
+| with the requirements of this section _or Section 26.04_ [ ~~and the~~  
+|  ~~failure to comply was not in good faith~~ ]. _It is a defense in an_  
+| _action for an injunction under this subsection that the failure to_  
+| _comply was in good faith._ An action to enjoin the collection of  
+| taxes must be filed _not later than the 15th day after the date the_  
+| _taxing unit adopts a tax rate. A property owner is not required to_  
+| _pay the taxes imposed by a taxing unit on the owner's property while_  
+| _an action filed by the property owner to enjoin the collection of_  
+| _taxes imposed by the taxing unit on the owner's property is pending._  
+| _If the property owner pays the taxes and subsequently prevails in_  
+| _the action, the property owner is entitled to a refund of the taxes_  
+| _paid, together with reasonable attorney's fees and court costs._ __  
+| _The property owner is not required to apply to the collector for the_  
+| _taxing unit to receive the refund_ [ ~~prior to the date a taxing unit~~  
+|  ~~delivers substantially all of its tax bills~~ ].  
+|  (g) Notwithstanding Subsection (a), the governing body of a  
+| school district that elects to adopt a tax rate before the adoption  
+| of a budget for the fiscal year that begins in the current tax year  
+| may adopt a tax rate for the current tax year before receipt of the  
+| certified appraisal roll for the school district if the chief  
+| appraiser of the appraisal district in which the school district  
+| participates has certified to the assessor for the school district  
+| an estimate of the taxable value of property in the school district  
+| as provided by Section 26.01(e).  If a school district adopts a tax  
+| rate under this subsection, the _no-new-revenue_ [ ~~effective~~ ] tax rate  
+| and the rollback tax rate of the district shall be calculated based  
+| on the certified estimate of taxable value.  
+|  SECTION 16. Sections 26.052(c) and (e), Tax Code, are  
+| amended to read as follows:  
+|  (c) A taxing unit to which this section applies may provide  
+| public notice of its proposed tax rate in _one_ [ ~~either~~ ] of the  
+| following methods not later than the seventh day before the date on  
+| which the tax rate is adopted:  
+|  (1) mailing a notice of the proposed tax rate to each  
+| owner of taxable property in the taxing unit; [ ~~or~~ ]  
+|  (2) publishing notice of the proposed tax rate in the  
+| legal notices section of a newspaper having general circulation in  
+| the taxing unit _; or_  
+|  _(3)_ _____posting notice of the proposed tax rate_  
+| _prominently on the home page of the Internet website maintained by_  
+| _the taxing unit, if applicable_.  
+|  (e) Public notice provided under Subsection (c) must  
+| specify:  
+|  (1) the tax rate that the governing body proposes to  
+| adopt;  
+|  (2) the date, time, and location of the meeting of the  
+| governing body of the taxing unit at which the governing body will  
+| consider adopting the proposed tax rate; and  
+|  (3) if the proposed tax rate for the taxing unit  
+| exceeds the _taxing_ unit's _no-new-revenue_ [ ~~effective~~ ] tax rate  
+| calculated as provided by Section 26.04, a statement substantially  
+| identical to the following: "The proposed tax rate would increase  
+| total taxes in (name of taxing unit) by (percentage by which the  
+| proposed tax rate exceeds the _no-new-revenue_ [ ~~effective~~ ] tax  
+| rate)."  
+|  SECTION 17. Sections 26.06(b), (c), (d), and (e), Tax Code,  
+| are amended to read as follows:  
+|  (b) The notice of a public hearing may not be smaller than  
+| one-quarter page of a standard-size or a tabloid-size newspaper,  
+| and the headline on the notice must be in 24-point or larger type.  
+| The notice must contain a statement in the following form:  
+| "NOTICE OF PUBLIC HEARING ON TAX INCREASE  
+|  "The (name of the taxing unit) will hold two public hearings  
+| on a proposal to increase total tax revenues from properties on the  
+| tax roll in the preceding tax year by (percentage by which proposed  
+| tax rate exceeds lower of rollback tax rate or _no-new-revenue_  
+| [ ~~effective~~ ] tax rate calculated under this chapter) percent. Your  
+| individual taxes may increase at a greater or lesser rate, or even  
+| decrease, depending on the _tax rate that is adopted and on the_  
+| change in the taxable value of your property in relation to the  
+| change in taxable value of all other property [ ~~and the tax rate that~~  
+|  ~~is adopted~~ ]. _The change in the taxable value of your property in_  
+| _relation to the change in the taxable value of all other property_  
+| _determines the distribution of the tax burden among all property_  
+| _owners._  
+|  "The first public hearing will be held on (date and time) at  
+| (meeting place).  
+|  "The second public hearing will be held on (date and time) at  
+| (meeting place).  
+|  "(Names of all members of the governing body, showing how  
+| each voted on the proposal to consider the tax increase or, if one  
+| or more were absent, indicating the absences.)  
+|  "The average taxable value of a residence homestead in (name  
+| of taxing unit) last year was $____ (average taxable value of a  
+| residence homestead in the taxing unit for the preceding tax year,  
+| disregarding residence homestead exemptions available only to  
+| disabled persons or persons 65 years of age or older). Based on  
+| last year's tax rate of $____ (preceding year's adopted tax rate)  
+| per $100 of taxable value, the amount of taxes imposed last year on  
+| the average home was $____ (tax on average taxable value of a  
+| residence homestead in the taxing unit for the preceding tax year,  
+| disregarding residence homestead exemptions available only to  
+| disabled persons or persons 65 years of age or older).  
+|  "The average taxable value of a residence homestead in (name  
+| of taxing unit) this year is $____ (average taxable value of a  
+| residence homestead in the taxing unit for the current tax year,  
+| disregarding residence homestead exemptions available only to  
+| disabled persons or persons 65 years of age or older). If the  
+| governing body adopts the _no-new-revenue_ [ ~~effective~~ ] tax rate for  
+| this year of $____ ( _no-new-revenue_ [ ~~effective~~ ] tax rate) per $100  
+| of taxable value, the amount of taxes imposed this year on the  
+| average home would be $____ (tax on average taxable value of a  
+| residence homestead in the taxing unit for the current tax year,  
+| disregarding residence homestead exemptions available only to  
+| disabled persons or persons 65 years of age or older).  
+|  "If the governing body adopts the proposed tax rate of $____  
+| (proposed tax rate) per $100 of taxable value, the amount of taxes  
+| imposed this year on the average home would be $____ (tax on the  
+| average taxable value of a residence in the taxing unit for the  
+| current year disregarding residence homestead exemptions available  
+| only to disabled persons or persons 65 years of age or older).  
+|  "Members of the public are encouraged to attend the hearings  
+| and express their views."  
+|  (c) The notice of a public hearing under this section may be  
+| delivered by mail to each property owner in the _taxing_ unit, [ ~~or may~~  
+|  ~~be~~ ] published in a newspaper _, or posted prominently on the home
+page_  
+| _of the Internet website operated by the taxing unit, if applicable_.  
+| If the notice is published in a newspaper, it may not be in the part  
+| of the paper in which legal notices and classified advertisements  
+| appear. If the taxing unit _posts the notice on_ [ ~~operates~~ ] an  
+| Internet website _operated by the taxing unit_ , the notice must be  
+| posted on the website from the date the notice is first _posted_  
+| [ ~~published~~ ] until the second public hearing is concluded.  
+|  (d) At the public hearings the governing body shall announce  
+| the date, time, and place of the meeting at which it will vote on the  
+| proposed tax rate. After each hearing the governing body shall give  
+| notice of the meeting at which it will vote on the proposed tax rate  
+| and the notice shall be in the same form as prescribed by  
+| Subsections (b) and (c), except that it must state the following:  
+| "NOTICE OF TAX REVENUE INCREASE  
+|  "The (name of the taxing unit) conducted public hearings on  
+| (date of first hearing) and (date of second hearing) on a proposal  
+| to increase the total tax revenues of the (name of the taxing unit)  
+| from properties on the tax roll in the preceding year by (percentage  
+| by which proposed tax rate exceeds lower of rollback tax rate or  
+| _no-new-revenue_ [ ~~effective~~ ] tax rate calculated under this chapter)  
+| percent.  
+|  "The total tax revenue proposed to be raised last year at last  
+| year's tax rate of (insert tax rate for the preceding year) for each  
+| $100 of taxable value was (insert total amount of taxes imposed in  
+| the preceding year).  
+|  "The total tax revenue proposed to be raised this year at the  
+| proposed tax rate of (insert proposed tax rate) for each $100 of  
+| taxable value, excluding tax revenue to be raised from new property  
+| added to the tax roll this year, is (insert amount computed by  
+| multiplying proposed tax rate by the difference between current  
+| total value and new property value).  
+|  "The total tax revenue proposed to be raised this year at the  
+| proposed tax rate of (insert proposed tax rate) for each $100 of  
+| taxable value, including tax revenue to be raised from new property  
+| added to the tax roll this year, is (insert amount computed by  
+| multiplying proposed tax rate by current total value).  
+|  "The (governing body of the taxing unit) is scheduled to vote  
+| on the tax rate that will result in that tax increase at a public  
+| meeting to be held on (date of meeting) at (location of meeting,  
+| including mailing address) at (time of meeting).  
+|  "The (governing body of the taxing unit) proposes to use the  
+| increase in total tax revenue for the purpose of (description of  
+| purpose of increase)."  
+|  (e) The meeting to vote on the tax increase may not be  
+| earlier than the third day or later than the 14th day after the date  
+| of the second public hearing. The meeting must be held inside the  
+| boundaries of the taxing unit in a publicly owned building or, if a  
+| suitable publicly owned building is not available, in a suitable  
+| building to which the public normally has access. If the governing  
+| body does not adopt a tax rate that exceeds the lower of the  
+| rollback tax rate or the _no-new-revenue_ [ ~~effective~~ ] tax rate by the  
+| 14th day, it must give a new notice under Subsection (d) before it  
+| may adopt a rate that exceeds the lower of the rollback tax rate or  
+| the _no-new-revenue_ [ ~~effective~~ ] tax rate.  
+|  SECTION 18. Section 26.065(b), Tax Code, is amended to read  
+| as follows:  
+|  (b) If the taxing unit owns, operates, or controls an  
+| Internet website, the _taxing_ unit shall post notice of the public  
+| hearing _prominently_ on the _home page of the_ website continuously  
+| for at least seven days immediately before the public hearing on the  
+| proposed tax rate increase and at least seven days immediately  
+| before the date of the vote proposing the increase in the tax rate.  
+|  SECTION 19. Sections 26.08(g), (i), (n), and (p), Tax Code,  
+| are amended to read as follows:  
+|  (g) In a school district that received distributions from an  
+| equalization tax imposed under former Chapter 18, Education Code,  
+| the _no-new-revenue_ [ ~~effective~~ ] rate of that tax as of the date of  
+| the county unit system's abolition is added to the district's  
+| rollback tax rate.  
+|  (i) For purposes of this section, the _no-new-revenue_  
+| [ ~~effective~~ ] maintenance and operations tax rate of a school  
+| district is the tax rate that, applied to the current total value  
+| for the district, would impose taxes in an amount that, when added  
+| to state funds that would be distributed to the district under  
+| Chapter 42, Education Code, for the school year beginning in the  
+| current tax year using that tax rate, would provide the same amount  
+| of state funds distributed under Chapter 42, Education Code, and  
+| maintenance and operations taxes of the district per student in  
+| weighted average daily attendance for that school year that would  
+| have been available to the district in the preceding year if the  
+| funding elements for Chapters 41 and 42, Education Code, for the  
+| current year had been in effect for the preceding year.  
+|  (n) For purposes of this section, the rollback tax rate of a  
+| school district whose maintenance and operations tax rate for the  
+| 2005 tax year was $1.50 or less per $100 of taxable value is:  
+|  (1) for the 2006 tax year, the sum of the rate that is  
+| equal to 88.67 percent of the maintenance and operations tax rate  
+| adopted by the district for the 2005 tax year, the rate of $0.04 per  
+| $100 of taxable value, and the district's current debt rate; and  
+|  (2) for the 2007 and subsequent tax years, the lesser  
+| of the following:  
+|  (A) the sum of the following:  
+|  (i) the rate per $100 of taxable value that  
+| is equal to the product of the state compression percentage, as  
+| determined under Section 42.2516, Education Code, for the current  
+| year and $1.50;  
+|  (ii) the rate of $0.04 per $100 of taxable  
+| value;  
+|  (iii) the rate that is equal to the sum of  
+| the differences for the 2006 and each subsequent tax year between  
+| the adopted tax rate of the district for that year if the rate was  
+| approved at an election under this section and the rollback tax rate  
+| of the district for that year; and  
+|  (iv) the district's current debt rate; or  
+|  (B) the sum of the following:  
+|  (i) the _no-new-revenue_ [ ~~effective~~ ]  
+| maintenance and operations tax rate of the district as computed  
+| under Subsection (i) [ ~~or (k), as applicable~~ ];  
+|  (ii) the rate per $100 of taxable value that  
+| is equal to the product of the state compression percentage, as  
+| determined under Section 42.2516, Education Code, for the current  
+| year and $0.06; and  
+|  (iii) the district's current debt rate.  
+|  (p) Notwithstanding Subsections (i), (n), and (o), if for  
+| the preceding tax year a school district adopted a maintenance and  
+| operations tax rate that was less than the district's  
+| _no-new-revenue_ [ ~~effective~~ ] maintenance and operations tax rate for  
+| that preceding tax year, the rollback tax rate of the district for  
+| the current tax year is calculated as if the district adopted a  
+| maintenance and operations tax rate for the preceding tax year that  
+| was equal to the district's _no-new-revenue_ [ ~~effective~~ ] maintenance  
+| and operations tax rate for that preceding tax year.  
+|  SECTION 20. Section 26.16, Tax Code, is amended by amending  
+| Subsections (a) and (d) and adding Subsection (a-1) to read as  
+| follows:  
+|  (a) The county assessor-collector for each county that  
+| maintains an Internet website shall post on the website of the  
+| county the following information for the most recent five tax years  
+| [ ~~beginning with the 2012 tax year~~ ] for each taxing unit all or part  
+| of the territory of which is located in the county:  
+|  (1) the adopted tax rate;  
+|  (2) the maintenance and operations rate;  
+|  (3) the debt rate;  
+|  (4) the _no-new-revenue_ [ ~~effective~~ ] tax rate;  
+|  (5) the _no-new-revenue_ [ ~~effective~~ ] maintenance and  
+| operations rate; and  
+|  (6) the rollback tax rate.  
+|  _(a-1)_ _____For purposes of Subsection (a), a reference to the_  
+| _no-new-revenue tax rate or the no-new-revenue maintenance and_  
+| _operations rate includes the equivalent effective tax rate or_  
+| _effective maintenance and operations rate for a preceding year._  
+| _This subsection expires January 1, 2026._  
+|  (d) The county assessor-collector shall post immediately  
+| below the table prescribed by Subsection (c) the following  
+| statement:  
+|  "The county is providing this table of property tax rate  
+| information as a service to the residents of the county. Each  
+| individual taxing unit is responsible for calculating the property  
+| tax rates listed in this table pertaining to that taxing unit and  
+| providing that information to the county.  
+|  "The adopted tax rate is the tax rate adopted by the governing  
+| body of a taxing unit.  
+|  "The maintenance and operations rate is the component of the  
+| adopted tax rate of a taxing unit that will impose the amount of  
+| taxes needed to fund maintenance and operation expenditures of the  
+| _taxing_ unit for the following year.  
+|  "The debt rate is the component of the adopted tax rate of a  
+| taxing unit that will impose the amount of taxes needed to fund the  
+| _taxing_ unit's debt service for the following year.  
+|  "The _no-new-revenue_ [ ~~effective~~ ] tax rate is the tax rate that  
+| would generate the same amount of revenue in the current tax year as  
+| was generated by a taxing unit's adopted tax rate in the preceding  
+| tax year from property that is taxable in both the current tax year  
+| and the preceding tax year.  
+|  "The _no-new-revenue_ [ ~~effective~~ ] maintenance and operations  
+| rate is the tax rate that would generate the same amount of revenue  
+| for maintenance and operations in the current tax year as was  
+| generated by a taxing unit's maintenance and operations rate in the  
+| preceding tax year from property that is taxable in both the current  
+| tax year and the preceding tax year.  
+|  "The rollback tax rate is the highest tax rate a taxing unit  
+| may adopt before requiring voter approval at an election. In the  
+| case of a taxing unit other than a school district, the voters by  
+| petition may require that a rollback election be held if the _taxing_  
+| unit adopts a tax rate in excess of the _taxing_ unit's rollback tax  
+| rate. In the case of a school district, an election will  
+| automatically be held if the district wishes to adopt a tax rate in  
+| excess of the district's rollback tax rate."  
+|  SECTION 21. Chapter 26, Tax Code, is amended by adding  
+| Sections 26.17 and 26.18 to read as follows:  
+|  _Sec._ ___26.17._ _____DATABASE OF PROPERTY-TAX-RELATED INFORMATION._  
+| _(a) The chief appraiser of each appraisal district shall create and_  
+| _maintain a property tax database that:_  
+|  _(1)_ _____is identified by the name of the county in which_  
+| _the appraisal district is established instead of the name of the_  
+| _appraisal district;_  
+|  _(2)_ _____contains information that is provided by_  
+| _designated officers or employees of the taxing units that are_  
+| _located in the appraisal district in the manner required by the_  
+| _comptroller;_  
+|  _(3)_ _____is continuously updated as preliminary and revised_  
+| _data become available to and are provided by the designated_  
+| _officers or employees of taxing units;_  
+|  _(4) is accessible to the public; and_  
+|  _(5)_ _____is searchable by property address and owner,_  
+| _except to the extent that access to the information in the database_  
+| _is restricted by Section 25.025 or 25.026._  
+|  _(b)_ _____The database must include, with respect to each property_  
+| _listed on the appraisal roll for the appraisal district:_  
+|  _(1) the property's identification number;_  
+|  _(2) the property's market value;_  
+|  _(3) the property's taxable value;_  
+|  _(4)_ _____the name of each taxing unit in which the property_  
+| _is located;_  
+|  _(5)_ _____for each taxing unit other than a school district_  
+| _in which the property is located:_  
+|  _(A) the no-new-revenue tax rate; and_  
+|  _(B) the rollback tax rate;_  
+|  _(6)_ _____for each school district in which the property is_  
+| _located:_  
+|  _(A)_ _____the tax rate that would maintain the same_  
+| _amount of state and local revenue per weighted student that the_  
+| _district received in the school year beginning in the preceding tax_  
+| _year; and_  
+|  _(B) the rollback tax rate;_  
+|  _(7)_ _____the tax rate proposed by the governing body of each_  
+| _taxing unit in which the property is located;_  
+|  _(8)_ _____for each taxing unit other than a school district_  
+| _in which the property is located, the taxes that would be imposed on_  
+| _the property if the taxing unit adopted a tax rate equal to:_  
+|  _(A) the no-new-revenue tax rate; and_  
+|  _(B) the proposed tax rate;_  
+|  _(9)_ _____for each school district in which the property is_  
+| _located, the taxes that would be imposed on the property if the_  
+| _district adopted a tax rate equal to:_  
+|  _(A)_ _____the tax rate that would maintain the same_  
+| _amount of state and local revenue per weighted student that the_  
+| _district received in the school year beginning in the preceding tax_  
+| _year; and_  
+|  _(B) the proposed tax rate;_  
+|  _(10)_ _____for each taxing unit other than a school district_  
+| _in which the property is located, the difference between the amount_  
+| _calculated under Subdivision (8)(A) and the amount calculated under_  
+| _Subdivision (8)(B);_  
+|  _(11)_ _____for each school district in which the property is_  
+| _located, the difference between the amount calculated under_  
+| _Subdivision (9)(A) and the amount calculated under Subdivision_  
+| _(9)(B);_  
+|  _(12)_ _____the date and location of each public hearing, if_  
+| _applicable, on the proposed tax rate to be held by the governing_  
+| _body of each taxing unit in which the property is located;_  
+|  _(13)_ _____the date and location of the public meeting at_  
+| _which the tax rate will be adopted to be held by the governing body_  
+| _of each taxing unit in which the property is located; and_  
+|  _(14)_ _____for each taxing unit in which the property is_  
+| _located, an e-mail address at which the taxing unit is capable of_  
+| _receiving written comments regarding the proposed tax rate of the_  
+| _taxing unit._  
+|  _(c)_ _____The database must provide a link to the Internet website_  
+| _used by each taxing unit in which the property is located to post_  
+| _the information described by Section 26.18._  
+|  _(d)_ _____The officer or employee designated by the governing body_  
+| _of each taxing unit in which the property is located to calculate_  
+| _the no-new-revenue tax rate and the rollback tax rate for the taxing_  
+| _unit must electronically incorporate into the database:_  
+|  _(1)_ _____the information described by Subsections (b)(5),_  
+| _(6), (7), (12), and (13), as applicable, as the information becomes_  
+| _available; and_  
+|  _(2)_ _____the tax rate calculation forms prepared under_  
+| _Section 26.04(d-1) at the same time the designated officer or_  
+| _employee submits the tax rates to the governing body of the taxing_  
+| _unit under Section 26.04(e)._  
+|  _(e)_ _____The chief appraiser shall make the information_  
+| _described by Subsection (d)(1) and the tax rate calculation forms_  
+| _described by Subsection (d)(2) available to the public not later_  
+| _than the third business day after the date the information and forms_  
+| _are incorporated into the database._  
+|  _Sec._ ___26.18._ _____POSTING OF TAX RATE AND BUDGET INFORMATION BY_  
+| _TAXING UNIT ON WEBSITE. Each taxing unit shall maintain an Internet_  
+| _website or have access to a generally accessible Internet website_  
+| _that may be used for the purposes of this section. Each taxing unit_  
+| _shall post or cause to be posted on the Internet website the_  
+| _following information in a format prescribed by the comptroller:_  
+|  _(1)_ _____the name of each member of the governing body of_  
+| _the taxing unit;_  
+|  _(2)_ _____the mailing address, e-mail address, and telephone_  
+| _number of the taxing unit;_  
+|  _(3)_ _____the official contact information for each member_  
+| _of the governing body of the taxing unit, if that information is_  
+| _different from the information described by Subdivision (2);_  
+|  _(4)_ _____the taxing unit's budget for the preceding two_  
+| _years;_  
+|  _(5)_ _____the taxing unit's proposed or adopted budget for_  
+| _the current year;_  
+|  _(6)_ _____the change in the amount of the taxing unit's_  
+| _budget from the preceding year to the current year, by dollar amount_  
+| _and percentage;_  
+|  _(7)_ _____in the case of a taxing unit other than a school_  
+| _district, the amount of property tax revenue budgeted for_  
+| _maintenance and operations for:_  
+|  _(A) the preceding two years; and_  
+|  _(B) the current year;_  
+|  _(8)_ _____in the case of a taxing unit other than a school_  
+| _district, the amount of property tax revenue budgeted for debt_  
+| _service for:_  
+|  _(A) the preceding two years; and_  
+|  _(B) the current year;_  
+|  _(9)_ _____the tax rate for maintenance and operations_  
+| _adopted by the taxing unit for the preceding two years;_  
+|  _(10)_ _____in the case of a taxing unit other than a school_  
+| _district, the tax rate for debt service adopted by the taxing unit_  
+| _for the preceding two years;_  
+|  _(11)_ _____in the case of a school district, the interest and_  
+| _sinking fund tax rate adopted by the district for the preceding two_  
+| _years;_  
+|  _(12)_ _____the tax rate for maintenance and operations_  
+| _proposed by the taxing unit for the current year;_  
+|  _(13)_ _____in the case of a taxing unit other than a school_  
+| _district, the tax rate for debt service proposed by the taxing unit_  
+| _for the current year;_  
+|  _(14)_ _____in the case of a school district, the interest and_  
+| _sinking fund tax rate proposed by the district for the current year;_  
+| _and_  
+|  _(15)_ _____the most recent financial audit of the taxing_  
+| _unit._  
+|  SECTION 22. Section 45.105(e), Education Code, is amended  
+| to read as follows:  
+|  (e) The governing body of an independent school district  
+| that governs a junior college district under Subchapter B, Chapter  
+| 130, in a county with a population of more than two million may  
+| dedicate a specific percentage of the local tax levy to the use of  
+| the junior college district for facilities and equipment or for the  
+| maintenance and operating expenses of the junior college district.  
+| To be effective, the dedication must be made by the governing body  
+| on or before the date on which the governing body adopts its tax  
+| rate for a year. The amount of local tax funds derived from the  
+| percentage of the local tax levy dedicated to a junior college  
+| district from a tax levy may not exceed the amount that would be  
+| levied by five percent of the _no-new-revenue_ [ ~~effective~~ ] tax rate  
+| for the tax year calculated as provided by Section 26.04, Tax Code,  
+| on all property taxable by the school district. All real property  
+| purchased with these funds is the property of the school district,  
+| but is subject to the exclusive control of the governing body of the  
+| junior college district for as long as the junior college district  
+| uses the property for educational purposes.  
+|  SECTION 23. Section 130.016(b), Education Code, is amended  
+| to read as follows:  
+|  (b) If the board of trustees of an independent school  
+| district that divests itself of the management, control, and  
+| operation of a junior college district under this section or under  
+| Section 130.017 [ ~~of this code~~ ] was authorized by [ ~~Subsection (e)~~  
+|  ~~of~~ ] Section _45.105(e) or under former Section 20.48(e)_ [ ~~20.48
+of~~  
+|  ~~this code~~ ] to dedicate a portion of its tax levy to the junior  
+| college district before the divestment, the junior college district  
+| may levy an ad valorem tax from and after the divestment. In the  
+| first two years in which the junior college district levies an ad  
+| valorem tax, the tax rate adopted by the governing body may not  
+| exceed the rate that, if applied to the total taxable value  
+| submitted to the governing body under Section 26.04, Tax Code,  
+| would impose an amount equal to the amount of taxes of the school  
+| district dedicated to the junior college under [ ~~Subsection (e) of~~ ]  
+| Section _45.105(e) or former Section 20.48(e)_ [ ~~20.48 of this code~~ ]  
+| in the last dedication before the divestment. In subsequent years,  
+| the tax rate of the junior college district is subject to Section  
+| 26.07, Tax Code.  
+|  SECTION 24. Section 403.302(o), Government Code, is amended  
+| to read as follows:  
+|  (o) The comptroller shall adopt rules governing the conduct  
+| of the study after consultation with the _comptroller's property tax_  
+| _administration advisory board_ [ ~~Comptroller's Property Value Study~~  
+|  ~~Advisory Committee~~ ].  
+|  SECTION 25. Section 102.007(d), Local Government Code, is  
+| amended to read as follows:  
+|  (d) An adopted budget must contain a cover page that  
+| includes:  
+|  (1) one of the following statements in 18-point or  
+| larger type that accurately describes the adopted budget:  
+|  (A) "This budget will raise more revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of increase), which is a (insert percentage increase)  
+| percent increase from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll).";  
+|  (B) "This budget will raise less revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of decrease), which is a (insert percentage decrease)  
+| percent decrease from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll)."; or  
+|  (C) "This budget will raise the same amount of  
+| revenue from property taxes as last year's budget. The property  
+| tax revenue to be raised from new property added to the tax roll  
+| this year is (insert amount computed by multiplying the proposed  
+| tax rate by the value of new property added to the roll).";  
+|  (2) the record vote of each member of the governing  
+| body by name voting on the adoption of the budget;  
+|  (3) the municipal property tax rates for the preceding  
+| fiscal year, and each municipal property tax rate that has been  
+| adopted or calculated for the current fiscal year, including:  
+|  (A) the property tax rate;  
+|  (B) the _no-new-revenue_ [ ~~effective~~ ] tax rate;  
+|  (C) the _no-new-revenue_ [ ~~effective~~ ] maintenance  
+| and operations tax rate;  
+|  (D) the rollback tax rate; and  
+|  (E) the debt rate; and  
+|  (4) the total amount of municipal debt obligations.  
+|  SECTION 26. Section 111.008(d), Local Government Code, is  
+| amended to read as follows:  
+|  (d) An adopted budget must contain a cover page that  
+| includes:  
+|  (1) one of the following statements in 18-point or  
+| larger type that accurately describes the adopted budget:  
+|  (A) "This budget will raise more revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of increase), which is a (insert percentage increase)  
+| percent increase from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll).";  
+|  (B) "This budget will raise less revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of decrease), which is a (insert percentage decrease)  
+| percent decrease from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll)."; or  
+|  (C) "This budget will raise the same amount of  
+| revenue from property taxes as last year's budget. The property  
+| tax revenue to be raised from new property added to the tax roll  
+| this year is (insert amount computed by multiplying the proposed  
+| tax rate by the value of new property added to the roll).";  
+|  (2) the record vote of each member of the  
+| commissioners court by name voting on the adoption of the budget;  
+|  (3) the county property tax rates for the preceding  
+| fiscal year, and each county property tax rate that has been adopted  
+| or calculated for the current fiscal year, including:  
+|  (A) the property tax rate;  
+|  (B) the _no-new-revenue_ [ ~~effective~~ ] tax rate;  
+|  (C) the _no-new-revenue_ [ ~~effective~~ ] maintenance  
+| and operations tax rate;  
+|  (D) the rollback tax rate; and  
+|  (E) the debt rate; and  
+|  (4) the total amount of county debt obligations.  
+|  SECTION 27. Section 111.039(d), Local Government Code, is  
+| amended to read as follows:  
+|  (d) An adopted budget must contain a cover page that  
+| includes:  
+|  (1) one of the following statements in 18-point or  
+| larger type that accurately describes the adopted budget:  
+|  (A) "This budget will raise more revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of increase), which is a (insert percentage increase)  
+| percent increase from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll).";  
+|  (B) "This budget will raise less revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of decrease), which is a (insert percentage decrease)  
+| percent decrease from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll)."; or  
+|  (C) "This budget will raise the same amount of  
+| revenue from property taxes as last year's budget. The property  
+| tax revenue to be raised from new property added to the tax roll  
+| this year is (insert amount computed by multiplying the proposed  
+| tax rate by the value of new property added to the roll).";  
+|  (2) the record vote of each member of the  
+| commissioners court by name voting on the adoption of the budget;  
+|  (3) the county property tax rates for the preceding  
+| fiscal year, and each county property tax rate that has been adopted  
+| or calculated for the current fiscal year, including:  
+|  (A) the property tax rate;  
+|  (B) the _no-new-revenue_ [ ~~effective~~ ] tax rate;  
+|  (C) the _no-new-revenue_ [ ~~effective~~ ] maintenance  
+| and operations tax rate;  
+|  (D) the rollback tax rate; and  
+|  (E) the debt rate; and  
+|  (4) the total amount of county debt obligations.  
+|  SECTION 28. Section 111.068(c), Local Government Code, is  
+| amended to read as follows:  
+|  (c) An adopted budget must contain a cover page that  
+| includes:  
+|  (1) one of the following statements in 18-point or  
+| larger type that accurately describes the adopted budget:  
+|  (A) "This budget will raise more revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of increase), which is a (insert percentage increase)  
+| percent increase from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll).";  
+|  (B) "This budget will raise less revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of decrease), which is a (insert percentage decrease)  
+| percent decrease from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll)."; or  
+|  (C) "This budget will raise the same amount of  
+| revenue from property taxes as last year's budget. The property  
+| tax revenue to be raised from new property added to the tax roll  
+| this year is (insert amount computed by multiplying the proposed  
+| tax rate by the value of new property added to the roll).";  
+|  (2) the record vote of each member of the  
+| commissioners court by name voting on the adoption of the budget;  
+|  (3) the county property tax rates for the preceding  
+| fiscal year, and each county property tax rate that has been adopted  
+| or calculated for the current fiscal year, including:  
+|  (A) the property tax rate;  
+|  (B) the _no-new-revenue_ [ ~~effective~~ ] tax rate;  
+|  (C) the _no-new-revenue_ [ ~~effective~~ ] maintenance  
+| and operations tax rate;  
+|  (D) the rollback tax rate; and  
+|  (E) the debt rate; and  
+|  (4) the total amount of county debt obligations.  
+|  SECTION 29. Sections 140.010(a), (d), (e), and (f), Local  
+| Government Code, are amended to read as follows:  
+|  (a) In this section, " _no-new-revenue_ [ ~~effective~~ ] tax rate"  
+| and "rollback tax rate" mean the _no-new-revenue_ [ ~~effective~~ ] tax  
+| rate and rollback tax rate of a county or municipality, as  
+| applicable, as calculated under Chapter 26, Tax Code.  
+|  (d) A county or municipality that proposes a property tax  
+| rate that does not exceed the lower of the _no-new-revenue_  
+| [ ~~effective~~ ] tax rate or the rollback tax rate shall provide the  
+| following notice:  
+| "NOTICE OF (INSERT CURRENT TAX YEAR) TAX YEAR PROPOSED PROPERTY TAX  
+| RATE FOR (INSERT NAME OF COUNTY OR MUNICIPALITY)  
+| "A tax rate of $______ per $100 valuation has been proposed by the  
+| governing body of (insert name of county or municipality).  
+|  PROPOSED TAX RATE $______ per $100  
+|  PRECEDING YEAR'S TAX RATE $______ per $100  
+|  _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ] TAX RATE $______ per $100  
+| "The _no-new-revenue_ [ ~~effective~~ ] tax rate is the total tax rate  
+| needed to raise the same amount of property tax revenue for (insert  
+| name of county or municipality) from the same properties in both the  
+| (insert preceding tax year) tax year and the (insert current tax  
+| year) tax year.  
+| "YOUR TAXES OWED UNDER ANY OF THE ABOVE RATES CAN BE CALCULATED AS  
+| FOLLOWS:  
+| property tax amount = (rate) x (taxable value of your property) /  
+| 100  
+| "For assistance or detailed information about tax calculations,  
+| please contact:  
+|  (insert name of county or municipal tax assessor-collector)  
+|  (insert name of county or municipality) tax  
+| assessor-collector  
+|  (insert address)  
+|  (insert telephone number)  
+|  (insert e-mail address)  
+|  (insert Internet website address, if applicable)"  
+|  (e) A county or municipality that proposes a property tax  
+| rate that exceeds the lower of the _no-new-revenue_ [ ~~effective~~ ] tax  
+| rate or the rollback tax rate shall provide the following notice:  
+| "NOTICE OF (INSERT CURRENT TAX YEAR) TAX YEAR PROPOSED PROPERTY TAX  
+| RATE FOR (INSERT NAME OF COUNTY OR MUNICIPALITY)  
+| "A tax rate of $_____ per $100 valuation has been proposed for  
+| adoption by the governing body of (insert name of county or  
+| municipality). This rate exceeds the lower of the _no-new-revenue_  
+| [ ~~effective~~ ] or rollback tax rate, and state law requires that two  
+| public hearings be held by the governing body before adopting the  
+| proposed tax rate. The governing body of (insert name of county or  
+| municipality) proposes to use revenue attributable to the tax rate  
+| increase for the purpose of (description of purpose of increase).  
+|  PROPOSED TAX RATE$______ per $100  
+|  PRECEDING YEAR'S TAX RATE$______ per $100  
+|  _NO-NEW-REVENUE_ [ ~~EFFECTIVE~~ ] TAX RATE$______ per $100  
+|  ROLLBACK TAX RATE$______ per $100  
+| "The _no-new-revenue_ [ ~~effective~~ ] tax rate is the total tax rate  
+| needed to raise the same amount of property tax revenue for (insert  
+| name of county or municipality) from the same properties in both the  
+| (insert preceding tax year) tax year and the (insert current tax  
+| year) tax year.  
+| "The rollback tax rate is the highest tax rate that (insert name of  
+| county or municipality) may adopt before _the_ voters are entitled to  
+| petition for an election to limit the rate that may be approved to  
+| the rollback _tax_ rate.  
+| "YOUR TAXES OWED UNDER ANY OF THE ABOVE RATES CAN BE CALCULATED AS  
+| FOLLOWS:  
+| property tax amount = (rate) x (taxable value of your property) /  
+| 100  
+| "For assistance or detailed information about tax calculations,  
+| please contact:  
+|  (insert name of county or municipal tax assessor-collector)  
+|  (insert name of county or municipality) tax  
+| assessor-collector  
+|  (insert address)  
+|  (insert telephone number)  
+|  (insert e-mail address)  
+|  (insert Internet website address, if applicable)  
+| "You are urged to attend and express your views at the following  
+| public hearings on the proposed tax rate:  
+|  First Hearing: (insert date and time) at (insert location of  
+| meeting).  
+|  Second Hearing: (insert date and time) at (insert location  
+| of meeting)."  
+|  (f) A county or municipality shall[ ~~:~~  
+|  [ ~~(1)~~ ] provide the notice required by Subsection (d) or  
+| (e), as applicable, not later than the later of September 1 or the  
+| 30th day after the first date that the taxing unit has received each  
+| applicable certified appraisal roll by:  
+|  _(1)_ [ ~~(A)~~ ] publishing the notice in a newspaper having  
+| general circulation in:  
+|  _(A)_ [ ~~(i)~~ ] the county, in the case of notice  
+| published by a county; or  
+|  _(B)_ [ ~~(ii)~~ ] the county in which the municipality  
+| is located or primarily located, in the case of notice published by  
+| a municipality; [ ~~or~~ ]  
+|  _(2)_ [ ~~(B)~~ ] mailing the notice to each property owner  
+| in:  
+|  _(A)_ [ ~~(i)~~ ] the county, in the case of notice  
+| provided by a county; or  
+|  _(B)_ [ ~~(ii)~~ ] the municipality, in the case of  
+| notice provided by a municipality; _or_ [ ~~and~~ ]  
+|  _(3) posting_ [ ~~(2) post~~] the notice _prominently_ on the  
+| _home page of the_ Internet website of the county or municipality, if  
+| applicable, beginning not later than the later of September 1 or the  
+| 30th day after the first date that the taxing unit has received each  
+| applicable certified appraisal roll and continuing until the county  
+| or municipality adopts a tax rate.  
+|  SECTION 30. Sections 403.302(m-1) and (n), Government Code,  
+| are repealed.  
+|  SECTION 31. The comptroller shall comply with Sections  
+| 5.07(f), (g), (h), and (i), Tax Code, as added by this Act, as soon  
+| as practicable after January 1, 2020, but not later than April 30,  
+| 2020.  
+|  SECTION 32. A person is entitled to an injunction under  
+| Section 26.04(g), Tax Code, as amended by this Act, for failure to  
+| comply with the requirements of Section 26.17(c) or 26.18, Tax  
+| Code, as added by this Act, beginning with the 2021 tax year.  
+|  SECTION 33. Each appraisal district and taxing unit shall  
+| comply with Sections 26.17(c) and 26.18, Tax Code, as added by this  
+| Act, beginning with the 2021 tax year.  
+|  SECTION 34. (a) Except as otherwise provided by this Act,  
+| this Act takes effect January 1, 2020.  
+|  (b) The following provisions take effect January 1, 2021:  
+|  (1) Sections 25.19(b) and (i), Tax Code, as amended by  
+| this Act; and  
+|  (2) Section 26.18, Tax Code, as added by this Act.
+

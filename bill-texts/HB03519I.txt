@@ -1,0 +1,285 @@
+| 86R8532 SCL-F  
+---|---  
+|  By: Allison | H.B. No. 3519  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to disclosure of confidential patient information by a  
+| physician or mental health professional.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. (a) The legislature finds that the privilege of  
+| confidentiality between a physician and a patient and between a  
+| mental health professional and a patient is essential to foster  
+| trust and candid communication. This confidentiality should not be  
+| breached absent a compelling interest. Over the years, the  
+| legislature has created exceptions to the privilege of  
+| confidentiality, authorizing physicians and mental health  
+| professionals to disclose confidential information in certain  
+| circumstances. These exceptions recognize the importance of  
+| providing physicians and mental health professionals with  
+| discretion, rather than imposing a mandate, to disclose certain  
+| patient information to satisfy certain compelling interests.  
+|  (b) In light of recent events involving and affecting  
+| individuals living with mental health issues, the legislature  
+| finds there is a greater need to afford physicians and mental  
+| health professionals discretion to disclose patient information  
+| when that disclosure could help mitigate harm to the patient or  
+| others.  
+|  (c) The legislature supports the Supreme Court of Texas  
+| holding in _Thapar v. Zezulka_ , 994 S.W.2d 635 (Tex. 1999),  
+| concluding that when law states a health professional "may"  
+| perform an action, the law grants discretion rather than imposes a  
+| requirement. The legislature intends for the exceptions created  
+| under this Act to be construed in the same manner, as providing  
+| discretion to disclose, but not imposing a duty to disclose. The  
+| legislature reiterates this intent by including express language to  
+| that effect in the law.  
+|  SECTION 2. Section 611.002(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) Confidential communications or records may not be  
+| disclosed except as provided by Section 611.004 _, 611.0041,_ or  
+| 611.0045.  
+|  SECTION 3. Section 611.004, Health and Safety Code, is  
+| amended by amending Subsection (a) and adding Subsection (e) to  
+| read as follows:  
+|  (a) A professional may disclose confidential information  
+| only:  
+|  (1) to a governmental agency if the disclosure is  
+| required or authorized by law;  
+|  (2) to _a person reasonably able to prevent or mitigate_  
+| _a threat, including the subject of the threat,_ [ ~~medical or law~~  
+|  ~~enforcement personnel~~ ] if the professional _, in good faith, believes_  
+| [ ~~determines~~ ] that _disclosure is necessary to prevent or mitigate a_  
+| _serious and_ [ ~~there is a probability of~~ ] imminent _threat_ [
+~~physical~~  
+|  ~~injury by the patient~~ ] to the _health or safety of a person or the_  
+| _public_ [ ~~patient or others or there is a probability of immediate~~  
+|  ~~mental or emotional injury to the patient~~ ];  
+|  (3) to qualified personnel for management audits,  
+| financial audits, program evaluations, or research, in accordance  
+| with Subsection (b);  
+|  (4) to a person who has the written consent of the  
+| patient, or a parent if the patient is a minor, or a guardian if the  
+| patient has been adjudicated as incompetent to manage the patient's  
+| personal affairs;  
+|  (5) to the patient's personal representative if the  
+| patient is deceased;  
+|  (6) to individuals, corporations, or governmental  
+| agencies involved in paying or collecting fees for mental or  
+| emotional health services provided by a professional;  
+|  (7) to other professionals and personnel under the  
+| professionals' direction who participate in the diagnosis,  
+| evaluation, or treatment of the patient;  
+|  (8) in an official legislative inquiry relating to a  
+| state hospital or state school as provided by Subsection (c);  
+|  (9) to designated persons or personnel of a  
+| correctional facility in which a person is detained if the  
+| disclosure is for the sole purpose of providing treatment and  
+| health care to the person in custody;  
+|  (10) to an employee or agent of the professional who  
+| requires mental health care information to provide mental health  
+| care services or in complying with statutory, licensing, or  
+| accreditation requirements, if the professional has taken  
+| appropriate action to ensure that the employee or agent:  
+|  (A) will not use or disclose the information for  
+| any other purposes; and  
+|  (B) will take appropriate steps to protect the  
+| information; [ ~~or~~ ]  
+|  (11) to satisfy a request for medical records of a  
+| deceased or incompetent person pursuant to Section 74.051(e), Civil  
+| Practice and Remedies Code _; or_  
+|  _(12) to a person in accordance with Section 611.0041_.  
+|  _(e)_ _____A professional who discloses confidential information_  
+| _under Subsection (a)(2) is presumed to have acted in good faith with_  
+| _regard to a belief described by that subsection if the belief is_  
+| _based on the professional's actual knowledge or in reliance on a_  
+| _credible representation by a person with apparent knowledge or_  
+| _authority._  
+|  SECTION 4. Chapter 611, Health and Safety Code, is amended  
+| by adding Sections 611.0041 and 611.0042 to read as follows:  
+|  _Sec._ ___611.0041._ ___DISCLOSURE OF CONFIDENTIAL INFORMATION FOR_  
+| _NOTICE AND PATIENT'S CARE. (a) For a patient who is available and_  
+| _has the capacity to make health care decisions, a professional may_  
+| _disclose confidential information in accordance with this section_  
+| _if the professional:_  
+|  _(1) obtains the patient's consent;_  
+|  _(2)_ _____provides the patient with the opportunity to_  
+| _object to the disclosure, and the patient does not object; or_  
+|  _(3)_ _____reasonably infers from the circumstances, based on_  
+| _the exercise of professional judgment, that the patient does not_  
+| _object to the disclosure._  
+|  _(b)_ _____For a patient who is not available or for whom the_  
+| _opportunity to consent or for objection to the use or disclosure_  
+| _under Subsection (a) cannot practicably be provided because of the_  
+| _patient's incapacity or an emergency, a professional may, in the_  
+| _exercise of professional judgment, determine whether the_  
+| _disclosure is in the best interests of the patient and disclose the_  
+| _patient's confidential information in accordance with this section_  
+| _if determined to be in the patient's best interests._  
+|  _(c)_ _____A professional authorized to disclose confidential_  
+| _information under this section may only disclose a patient's_  
+| _confidential information that, in the exercise of professional_  
+| _judgment, is directly relevant to:_  
+|  _(1)_ _____the recipient's involvement with the patient's_  
+| _health care, including obtaining prescriptions, medical supplies,_  
+| _test results, or other similar forms of confidential information;_  
+|  _(2)_ _____the recipient's involvement with payment for the_  
+| _patient's health care; or_  
+|  _(3)_ _____notification to the patient's family member, the_  
+| _patient's legally authorized representative, or a person_  
+| _responsible for the patient's care of the patient's location,_  
+| _general condition, or death._  
+|  _(d)_ _____A professional may disclose a patient's confidential_  
+| _information under this section only to:_  
+|  _(1) the patient's relative;_  
+|  _(2) the patient's close personal friend;_  
+|  _(3)_ _____a person identified by the patient to receive the_  
+| _disclosure;_  
+|  _(4) the patient's legally authorized representative;_  
+|  _(5) a person responsible for the patient's care; or_  
+|  _(6)_ _____a governmental or private entity authorized by law_  
+| _to assist in disaster relief efforts for the purpose described by_  
+| _Subsection (c)(3)._  
+|  _(e)_ _____A professional may disclose a patient's confidential_  
+| _information to a person described by Subsection (d)(6) without_  
+| _complying with Subsection (a) or (b) to the extent the_  
+| _professional, in the exercise of professional judgment, determines_  
+| _that the requirements interfere with the professional's ability to_  
+| _respond to the disaster._  
+|  _(f)_ _____A professional may disclose a deceased patient's_  
+| _confidential information to a person described by Subsection (d)_  
+| _who is involved in the patient's care or with payment of the_  
+| _patient's health care that is relevant to the recipient's_  
+| _involvement unless the patient informed the professional that the_  
+| _patient preferred that the information not be disclosed._  
+|  _Sec._ ___611.0042._ _____CONSTRUCTION OF AUTHORIZED DISCLOSURE_  
+| _PROVISIONS. The authorization to disclose confidential_  
+| _information described by Sections 611.004 and 611.0041 may not be_  
+| _construed to create an independent duty or requirement to disclose_  
+| _the information._  
+|  SECTION 5. Section 159.004, Occupations Code, is amended to  
+| read as follows:  
+|  Sec. 159.004. EXCEPTIONS TO CONFIDENTIALITY IN OTHER  
+| SITUATIONS. _(a)_ An exception to the privilege of confidentiality in  
+| a situation other than a court or administrative proceeding,  
+| allowing disclosure of confidential information by a physician,  
+| exists only with respect to the following:  
+|  (1) a governmental agency, if the disclosure is  
+| required or authorized by law;  
+|  (2) _a person reasonably able to prevent or mitigate a_  
+| _threat, including the subject of the threat_ [ ~~medical or law~~  
+|  ~~enforcement personnel~~ ], if the physician _, in good faith, believes_  
+| [ ~~determines~~ ] that _disclosure is necessary to prevent or mitigate a_  
+| _serious and_ [ ~~there is a probability of:~~  
+|  [ ~~(A)~~ ] imminent _threat_ [ ~~physical injury~~ ] to the  
+| _health or safety of a_ [ ~~patient, the physician, or another~~ ] person
+_or_  
+| _the public_ [ ~~; or~~  
+|  [ ~~(B) immediate mental or emotional injury to the~~  
+|  ~~patient~~ ];  
+|  (3) qualified personnel for research or for a  
+| management audit, financial audit, or program evaluation, but the  
+| personnel may not directly or indirectly identify a patient in any  
+| report of the research, audit, or evaluation or otherwise disclose  
+| identity in any manner;  
+|  (4) those parts of the medical records reflecting  
+| specific services provided if necessary in the collection of fees  
+| for medical services provided by a physician, professional  
+| association, or other entity qualified to provide or arrange for  
+| medical services;  
+|  (5) a person who has consent, as provided by Section  
+| 159.005;  
+|  (6) a person, corporation, or governmental agency  
+| involved in the payment or collection of fees for medical services  
+| provided by a physician;  
+|  (7) another physician or other personnel acting under  
+| the direction of the physician who participate in the diagnosis,  
+| evaluation, or treatment of the patient;  
+|  (8) an official legislative inquiry regarding state  
+| hospitals or state schools, if:  
+|  (A) information or a record that identifies a  
+| patient or client is not released for any purpose unless proper  
+| consent to the release is given by the patient; and  
+|  (B) only records created by the state hospital or  
+| school or its employees are included; [ ~~or~~ ]  
+|  (9) health care personnel of a penal or other  
+| custodial institution in which the patient is detained if the  
+| disclosure is for the sole purpose of providing health care to the  
+| patient _; or_  
+|  _(10) a person in accordance with Section 159.0043._  
+|  _(b)_ _____A physician who discloses confidential information_  
+| _under Subsection (a)(2) is presumed to have acted in good faith with_  
+| _regard to a belief described by that subsection if the belief is_  
+| _based on the physician's actual knowledge or in reliance on a_  
+| _credible representation by a person with apparent knowledge or_  
+| _authority_.  
+|  SECTION 6. Chapter 159, Occupations Code, is amended by  
+| adding Sections 159.0043 and 159.0047 to read as follows:  
+|  _Sec._ ___159.0043._ ___DISCLOSURE OF CONFIDENTIAL INFORMATION FOR_  
+| _NOTICE AND PATIENT'S CARE. (a) For a patient who is available and_  
+| _has the capacity to make health care decisions, a physician may_  
+| _disclose confidential information in accordance with this section_  
+| _if the physician:_  
+|  _(1) obtains the patient's consent;_  
+|  _(2)_ _____provides the patient with the opportunity to_  
+| _object to the disclosure, and the patient does not object; or_  
+|  _(3)_ _____reasonably infers from the circumstances, based on_  
+| _the exercise of professional judgment, that the patient does not_  
+| _object to the disclosure._  
+|  _(b)_ _____For a patient who is not available or for whom the_  
+| _opportunity to consent or for objection to the use or disclosure_  
+| _under Subsection (a) cannot practicably be provided because of the_  
+| _patient's incapacity or an emergency, a physician may, in the_  
+| _exercise of professional judgment, determine whether the_  
+| _disclosure is in the best interests of the patient and disclose the_  
+| _patient's confidential information in accordance with this section_  
+| _if determined to be in the patient's best interests._  
+|  _(c)_ _____A physician authorized to disclose confidential_  
+| _information under this section may only disclose a patient's_  
+| _confidential information that, in the exercise of professional_  
+| _judgment, is directly relevant to:_  
+|  _(1)_ _____the recipient's involvement with the patient's_  
+| _health care, including obtaining prescriptions, medical supplies,_  
+| _test results, or other similar forms of confidential information;_  
+|  _(2)_ _____the recipient's involvement with payment for the_  
+| _patient's health care; or_  
+|  _(3)_ _____notification to the patient's family member, the_  
+| _patient's legally authorized representative, or a person_  
+| _responsible for the patient's care of the patient's location,_  
+| _general condition, or death._  
+|  _(d)_ _____A physician may disclose a patient's confidential_  
+| _information under this section only to:_  
+|  _(1) the patient's relative;_  
+|  _(2) the patient's close personal friend;_  
+|  _(3)_ _____a person identified by the patient to receive the_  
+| _disclosure;_  
+|  _(4) the patient's legally authorized representative;_  
+|  _(5) a person responsible for the patient's care; or_  
+|  _(6)_ _____a governmental or private entity authorized by law_  
+| _to assist in disaster relief efforts for the purpose described by_  
+| _Subsection (c)(3)._  
+|  _(e)_ _____A physician may disclose a patient's confidential_  
+| _information to a person described by Subsection (d)(6) without_  
+| _complying with Subsection (a) or (b) to the extent the physician, in_  
+| _the exercise of professional judgment, determines that the_  
+| _requirements interfere with the physician's ability to respond to_  
+| _the disaster._  
+|  _(f)_ _____A physician may disclose a deceased patient's_  
+| _confidential information to a person described by Subsection (d)_  
+| _who is involved in the patient's care or with payment of the_  
+| _patient's health care that is relevant to the recipient's_  
+| _involvement unless the patient informed the physician that the_  
+| _patient preferred that the information not be disclosed._  
+|  _Sec._ ___159.0047._ _____CONSTRUCTION OF AUTHORIZED DISCLOSURE_  
+| _PROVISIONS. The authorization to disclose confidential_  
+| _information described by Sections 159.003, 159.004, and 159.0043_  
+| _may not be construed to create an independent duty or requirement to_  
+| _disclose the information._  
+|  SECTION 7. The change in law made by this Act applies only  
+| to confidential information provided on or after the effective date  
+| of this Act. Confidential information provided before the  
+| effective date of this Act is governed by the law in effect  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

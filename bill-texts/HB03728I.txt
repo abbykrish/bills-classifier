@@ -1,0 +1,268 @@
+| 86R13438 KKR-D  
+---|---  
+|  By: Bernal | H.B. No. 3728  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requiring certain employers to provide paid sick leave  
+| to employees; providing administrative penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle D, Title 2, Labor Code, is amended by  
+| adding Chapter 83 to read as follows:  
+| _CHAPTER 83. EARNED PAID SICK LEAVE_  
+|  _Sec. 83.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Commission" means the Texas Workforce_  
+| _Commission._  
+|  _(2)_ _____"Employee" means a person employed by an employer_  
+| _for compensation who works at least 80 hours in a calendar year._  
+| _The term includes a person who works through an employment agency,_  
+| _as defined by Section 21.002, and a temporary help firm, as defined_  
+| _by Section 201.011. The term does not include a person who is:_  
+|  _(A) an unpaid volunteer; or_  
+|  _(B) an independent contractor._  
+|  _(3)_ _____"Employer" means a person who is engaged in an_  
+| _industry affecting commerce and who employs one or more employees._  
+|  _(4) "Family member" means:_  
+|  _(A)_ _____a person related to an employee within the_  
+| _third degree by consanguinity or affinity, as described by_  
+| _Subchapter B, Chapter 573, Government Code; or_  
+|  _(B)_ _____a person related to an employee by_  
+| _consanguinity or affinity who lives in the employee's household._  
+|  _(5)_ _____"Family violence" has the meaning assigned by_  
+| _Section 71.004, Family Code._  
+|  _(6)_ _____"Household" has the meaning assigned by Section_  
+| _71.005, Family Code._  
+|  _(7)_ _____"Sexual assault" means any conduct that_  
+| _constitutes an offense under Section 22.011 or 22.021, Penal Code._  
+|  _(8)_ _____"Stalking" means any conduct that constitutes an_  
+| _offense under Section 42.072, Penal Code._  
+|  _Sec._ ___83.002._ _____APPLICABILITY OF CHAPTER. This chapter does_  
+| _not apply to an employer who is:_  
+|  _(1)_ _____a state agency or political subdivision, as those_  
+| _terms are defined by Section 21.002; or_  
+|  _(2)_ _____an agency of or a corporation wholly owned by the_  
+| _federal government._  
+|  _Sec._ ___83.003._ _____PAID SICK LEAVE REQUIRED._ ___Each employer shall_  
+| _provide paid sick leave annually to each employee in this state_  
+| _under the terms of this chapter._  
+|  _Sec._ ___83.004._ _____PAID SICK LEAVE ACCRUAL AND CARRYOVER. (a)_  
+| _Paid sick leave under this chapter accrues beginning on the date of_  
+| _hire at a rate of one hour of paid sick leave for each 30 hours_  
+| _worked by an employee._  
+|  _(b)_ _____An employer may not limit the maximum number of hours of_  
+| _paid sick leave an employee may accrue to less than:_  
+|  _(1)_ _____64 hours per calendar year, if the employer_  
+| _employed at least 15 employees, not including family members, at_  
+| _any time during the preceding calendar year; or_  
+|  _(2)_ _____48 hours per calendar year, if the employer_  
+| _employed fewer than 15 employees, not including family members, at_  
+| _any time during the preceding calendar year._  
+|  _(c)_ _____Each employee is entitled to carry over not more than_  
+| _the number of hours specified in Subsection (b) of unused paid sick_  
+| _leave from the current calendar year to the following calendar year_  
+| _unless the employer elects to make paid sick leave available at the_  
+| _beginning of a year as provided by Section 83.005(c)._  
+|  _(d)_ _____Sick leave hours carried over from a previous calendar_  
+| _year must be immediately available to the employee in the following_  
+| _calendar year._  
+|  _Sec._ ___83.005._ _____ENTITLEMENT TO USE PAID SICK LEAVE;_  
+| _LIMITATIONS. (a) An employee is entitled to use accrued paid sick_  
+| _leave under this chapter 60 calendar days after the date of hire,_  
+| _unless the employer agrees to an earlier date._  
+|  _(b)_ _____An employee is not entitled to use accrued paid sick_  
+| _leave under this chapter on more than eight calendar days in any_  
+| _calendar year._  
+|  _(c)_ _____An employer may make immediately available to an_  
+| _employee at the beginning of a year, quarter, or other period the_  
+| _entire amount of paid sick leave that the employee is expected to_  
+| _accrue during the year, quarter, or other period._  
+|  _(d)_ _____At the employer's discretion, an employer may loan paid_  
+| _sick leave time to an employee in advance of accrual by the_  
+| _employee._  
+|  _(e)_ _____On the mutual consent of the employee and employer, an_  
+| _employee who chooses to work additional hours or shifts during the_  
+| _same or following pay period, instead of hours or shifts missed,_  
+| _does not use accrued paid sick leave. An employer may establish_  
+| _incentives to encourage employees to work additional hours or_  
+| _shifts as provided by this subsection instead of using accrued paid_  
+| _sick leave._  
+|  _(f)_ _____Unless an employee policy or collective bargaining_  
+| _agreement provides for the payment of accrued fringe benefits on_  
+| _termination, an employee is not entitled to payment of unused_  
+| _accrued paid sick leave under this chapter on termination of_  
+| _employment._  
+|  _Sec._ ___83.006._ _____PAY RATE FOR SICK LEAVE. Each employer shall_  
+| _pay each employee for paid sick leave taken at a pay rate equal to_  
+| _the normal hourly wage for that employee. The employee's normal_  
+| _hourly wage may not be less than the amount required by Section_  
+| _62.051._  
+|  _Sec._ ___83.007._ _____USE OF PAID SICK LEAVE. (a) An employee may_  
+| _use paid sick leave accrued under this chapter if:_  
+|  _(1)_ _____the employee is ill, is injured, or has an_  
+| _appointment with a health care provider;_  
+|  _(2) it is necessary for the employee to:_  
+|  _(A)_ _____care for a family member who is ill or_  
+| _injured; or_  
+|  _(B)_ _____accompany a family member to an appointment_  
+| _with a health care provider; or_  
+|  _(3)_ _____the employee or the employee's family member is a_  
+| _victim of family violence, sexual assault, or stalking and the_  
+| _employee or the family member needs to:_  
+|  _(A) receive medical attention;_  
+|  _(B)_ _____relocate the employee's or the family_  
+| _member's residence;_  
+|  _(C)_ _____receive services from a victim services_  
+| _organization; or_  
+|  _(D)_ _____participate in a legal proceeding or_  
+| _court-ordered requirement relating to the family violence, sexual_  
+| _assault, or stalking._  
+|  _(b)_ _____An employer may adopt a reasonable procedure to verify_  
+| _that the use of paid sick leave by an employee who uses the leave for_  
+| _more than three consecutive work days meets the requirements of_  
+| _this section._  
+|  _(c)_ _____An employer may not require an employee to find another_  
+| _employee to work during the time the employee intends to use paid_  
+| _sick leave as a condition of using paid sick leave._  
+|  _Sec._ ___83.008._ _____NOTICE TO EMPLOYER. (a)_ ___If an employee's need_  
+| _to use paid sick leave under this chapter is foreseeable, an_  
+| _employer may require advance notice of the intention to use paid_  
+| _sick leave._  
+|  _(b)_ _____If an employee's need for paid sick leave is not_  
+| _foreseeable, an employer may require the employee to give notice of_  
+| _the intention to use paid sick leave under this chapter as soon as_  
+| _practicable._  
+|  _Sec._ ___83.009._ _____EMPLOYER STATEMENT. (a) At least monthly, an_  
+| _employer shall provide to each employee an electronic or written_  
+| _statement that includes an accounting of the paid sick leave taken_  
+| _by the employee and the current amount of paid sick leave available_  
+| _to the employee._  
+|  _(b)_ _____An employer shall retain records that document the_  
+| _amount of paid sick leave accrued and taken by each employee. The_  
+| _records must be maintained for the applicable period of time_  
+| _required by 29 C.F.R. Part 516, Subpart A._  
+|  _(c)_ _____This section does not create a new requirement for a_  
+| _certified payroll._  
+|  _Sec._ ___83.010._ _____NOTICE TO EMPLOYEES. (a) An employer shall_  
+| _include in the employer's employee handbook a notice containing an_  
+| _employee's rights and remedies relating to paid sick leave required_  
+| _by this chapter._  
+|  _(b)_ _____This section does not require an employer to create an_  
+| _employee handbook._  
+|  _(c)_ _____An employer shall display in a conspicuous place,_  
+| _accessible to employees, at the employer's place of business a_  
+| _notice that describes the requirements of this chapter. The_  
+| _commission by rule shall prescribe the form and content of the_  
+| _notice._  
+|  _Sec._ ___83.011._ _____EMPLOYER COMPLIANCE._ _____An employer is in_  
+| _compliance with this chapter if the employer offers paid leave_  
+| _that:_  
+|  _(1)_ _____may be used for the purposes described by Section_  
+| _83.007; and_  
+|  _(2)_ _____is accrued at a rate equal to or greater than the_  
+| _rate described by Section 83.004._  
+|  _Sec._ ___83.012._ _____BREAK IN SERVICE. (a) Termination of an_  
+| _employee's employment by an employer, regardless of whether_  
+| _voluntary or involuntary, is considered a break in service for_  
+| _purposes of this chapter._  
+|  _(b)_ _____An employee who is subsequently rehired by the employer_  
+| _following a break in service:_  
+|  _(1)_ _____begins to accrue paid sick leave under this_  
+| _chapter; and_  
+|  _(2)_ _____is not entitled to any unused hours of paid sick_  
+| _leave that accrued before the employee's break in service, unless_  
+| _the employee is rehired within six months of separation or the_  
+| _employer agrees to reinstate all of the employee's previously_  
+| _accrued paid sick leave._  
+|  _Sec._ ___83.013._ _____TRANSFER OF EMPLOYEE. (a) The transfer of an_  
+| _employee to a separate division, entity, or location of the same_  
+| _employer is not considered to be a break in service for purposes of_  
+| _this chapter._  
+|  _(b)_ _____Following a transfer described by Subsection (a), the_  
+| _transferred employee is entitled to:_  
+|  _(1)_ _____retain all accrued paid sick leave under this_  
+| _chapter; and_  
+|  _(2)_ _____immediately access the retained paid sick leave_  
+| _without any waiting period._  
+|  _Sec._ ___83.014._ _____SUCCESSOR EMPLOYER. If an employer succeeds_  
+| _or takes the place of an existing employer, employees of the former_  
+| _employer who are employed by the successor are entitled to:_  
+|  _(1)_ _____retain all accrued paid sick leave under this_  
+| _chapter; and_  
+|  _(2)_ _____immediately access the retained paid sick leave_  
+| _without any waiting period._  
+|  _Sec._ ___83.015._ _____LIMITATIONS OF CHAPTER. This chapter does_  
+| _not:_  
+|  _(1)_ _____prevent an employer from providing more paid sick_  
+| _leave than is required under this chapter;_  
+|  _(2)_ _____prohibit an employer that provides paid leave in_  
+| _addition to the paid sick leave required under this chapter from_  
+| _restricting the purposes for which an employee may take that_  
+| _additional leave; or_  
+|  _(3)_ _____diminish any rights provided to any employee under_  
+| _a collective bargaining agreement._  
+|  _Sec._ ___83.016._ _____COLLECTIVE BARGAINING AGREEMENTS. A_  
+| _collective bargaining agreement may waive the requirements of this_  
+| _chapter by clear and unambiguous language within the agreement._  
+|  _Sec._ ___83.017._ _____RETALIATION PROHIBITED._ ___An employer may not_  
+| _take retaliatory personnel action or otherwise discriminate_  
+| _against an employee because the employee:_  
+|  _(1)_ _____requests or uses paid sick leave in accordance_  
+| _with this chapter; or_  
+|  _(2)_ _____files a complaint with the commission alleging the_  
+| _employer's violation of this chapter._  
+|  _Sec._ ___83.018._ _____COMPLAINT; HEARING; ADMINISTRATIVE PENALTY._  
+| _(a) Any employee aggrieved by a violation of this chapter may file_  
+| _a claim with the commission in the manner prescribed by Subchapter_  
+| _D, Chapter 61._  
+|  _(b)_ _____On receipt of a complaint, the commission shall_  
+| _investigate and dispose of the complaint in the same manner as a_  
+| _wage claim under Subchapter D, Chapter 61._  
+|  _(c)_ _____An employer who is found by the commission, by a_  
+| _preponderance of the evidence, to have violated Section 83.017 is_  
+| _liable to the commission for an administrative penalty of $500 for_  
+| _each violation._  
+|  _(d)_ _____An employer who is found by the commission, by a_  
+| _preponderance of the evidence, to have violated a provision under_  
+| _this chapter other than Section 83.017 is liable to the commission_  
+| _for an administrative penalty of not more than $100 for each_  
+| _violation._  
+|  _(e)_ _____If the commission finds that an employer violated_  
+| _Section 83.017, the commission shall award to the employee all_  
+| _appropriate relief, including payment for used paid sick leave,_  
+| _rehiring or reinstatement to the employee's previous job, payment_  
+| _of back wages, and reestablishment of employee benefits for which_  
+| _the employee otherwise would have been eligible if the employee had_  
+| _not been subject to retaliatory personnel action or other_  
+| _discrimination._  
+|  _(f)_ _____A complaint under this section must be brought not later_  
+| _than the second anniversary of the date of the violation._  
+|  _Sec._ ___83.019._ _____INFORMATION FROM AND OUTREACH BY COMMISSION._  
+| _(a) The commission shall make available to the public on the_  
+| _commission's Internet website information regarding:_  
+|  _(1)_ _____the requirements of and the rights and remedies_  
+| _under this chapter; and_  
+|  _(2)_ _____best practices for employers with respect to paid_  
+| _sick leave._  
+|  _(b)_ _____The commission may conduct additional public outreach_  
+| _efforts to inform employees and the public about this chapter._  
+|  SECTION 2. (a) The change in law made by this Act applies to  
+| an employee hired on or after January 1, 2021. For an employee  
+| hired before January 1, 2021, paid sick leave under Chapter 83,  
+| Labor Code, as added by this Act, begins to accrue on that date, and  
+| the employee may begin to use the paid sick leave 90 calendar days  
+| after that date, unless the employer agrees to an earlier date.  
+|  (b) Chapter 83, Labor Code, as added by this Act, does not  
+| preempt or override the terms of any collective bargaining  
+| agreement effective before January 1, 2021.  
+|  SECTION 3. Not later than September 1, 2020, the Texas  
+| Workforce Commission shall:  
+|  (1) prescribe the form and content of the notice  
+| required by Section 83.010(c), Labor Code, as added by this Act;  
+|  (2) post on the commission's Internet website the  
+| information required by Section 83.019(a), Labor Code, as added by  
+| this Act; and  
+|  (3) adopt rules necessary to implement Chapter 83,  
+| Labor Code, as added by this Act.  
+|  SECTION 4. Except as provided by Section 3 of this Act, this  
+| Act takes effect January 1, 2021.
+

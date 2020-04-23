@@ -1,0 +1,302 @@
+| 86R9103 SCL-F  
+---|---  
+|  By: Reynolds | H.B. No. 1794  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to price transparency for certain prescription drugs;  
+| authorizing civil penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 6, Health and Safety Code, is  
+| amended by adding Chapter 441 to read as follows:  
+| _CHAPTER 441. PRESCRIPTION DRUG PRICE TRANSPARENCY_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 441.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Advisory committee" means the drug price_  
+| _transparency advisory committee established under Subchapter D._  
+|  _(2)_ _____"Average wholesale price" means the average_  
+| _wholesale cost of an expensive drug that is based on the Medi-Span_  
+| _price references for the drug's 11-digit national drug code as_  
+| _submitted and used by the dispensing pharmacy to fill the_  
+| _prescription for the drug._  
+|  _(3)_ _____"Expensive drug" means a prescription drug made_  
+| _available by a manufacturer in this state that has a wholesale_  
+| _acquisition cost of $2,500 or more per year or through the course of_  
+| _a patient's treatment._  
+|  _(4) "Manufacturer" means a person who:_  
+|  _(A)_ _____is authorized by the United States Food and_  
+| _Drug Administration to market and sell an expensive drug in the_  
+| _United States as an originator or license holder; or_  
+|  _(B)_ _____directly or indirectly, through one or more_  
+| _intermediaries, controls, is controlled by, or is under common_  
+| _control with a person described by Paragraph (A)._  
+|  _(5)_ _____"Purchaser" means a person who purchases a_  
+| _prescription drug under a health benefit plan, including:_  
+|  _(A)_ _____this state or an administrator of a health_  
+| _benefit plan sponsored by this state, including:_  
+|  _(i)_ _____the state Medicaid program operated_  
+| _under Chapter 32, Human Resources Code;_  
+|  _(ii)_ _____a basic coverage plan under Chapter_  
+| _1551, Insurance Code; and_  
+|  _(iii)_ _____the child health plan program under_  
+| _Chapter 62;_  
+|  _(B) a political subdivision of this state;_  
+|  _(C)_ _____a health benefit plan issuer subject to_  
+| _regulation by this state; and_  
+|  _(D)_ _____a pharmacy benefit manager as defined by_  
+| _Section 4151.151, Insurance Code._  
+|  _(6)_ _____"Therapeutic class" means a therapeutic category_  
+| _or class of prescription drugs established by the United States_  
+| _Pharmacopeia that reflects therapeutic uses of drugs based on the_  
+| _International Classification of Diseases diagnostic codes._  
+|  _(7)_ _____"Wholesale acquisition cost" has the meaning_  
+| _assigned by 42 U.S.C. Section 1395w-3a._  
+| _SUBCHAPTER B. MANUFACTURER REPORTING_  
+|  _Sec._ ___441.0051._ _____ANNUAL REPORT REQUIRED. Not later than_  
+| _March 31 of each year, a manufacturer of an expensive drug sold or_  
+| _offered for sale in this state shall submit a report to the_  
+| _department in the form and manner prescribed by department rule and_  
+| _in accordance with this subchapter._  
+|  _Sec._ ___441.0052._ _____REPORT CONTENTS. A manufacturer shall_  
+| _include in the report described by Section 441.0051 for each_  
+| _expensive drug:_  
+|  _(1)_ _____the total research and development costs for the_  
+| _drug, including the costs:_  
+|  _(A) incurred by the manufacturer;_  
+|  _(B)_ _____incurred by any predecessor to the_  
+| _manufacturer;_  
+|  _(C) incurred by any other person; and_  
+|  _(D)_ _____paid by or through governmental sources or_  
+| _grants;_  
+|  _(2)_ _____the intellectual property rights, approvals, and_  
+| _associated regulatory costs for the drug, including:_  
+|  _(A)_ _____a list of all product and process patents and_  
+| _all data market and exclusivity awarded by the United States Patent_  
+| _and Trademark Office for the drug;_  
+|  _(B)_ _____all reverse payment settlements involving_  
+| _the drug; and_  
+|  _(C)_ _____all regulatory costs paid by the manufacturer_  
+| _or its predecessors in obtaining the rights and approvals,_  
+| _including the United States Food and Drug Administration user and_  
+| _filing fees and patent filing fees;_  
+|  _(3)_ _____the manufacturing, production, marketing, and_  
+| _advertising costs, including:_  
+|  _(A)_ _____the total annual and cumulative itemized_  
+| _costs to produce the drug from the time the manufacturer began_  
+| _producing the drug;_  
+|  _(B)_ _____the manufacturer's total direct costs for_  
+| _materials, manufacturing, and administration attributable to the_  
+| _drug; and_  
+|  _(C)_ _____all marketing and advertising costs to_  
+| _promote the drug directly to consumers, including:_  
+|  _(i)_ _____costs associated with consumer copay_  
+| _coupons;_  
+|  _(ii)_ _____amounts redeemed with consumer copay_  
+| _coupons; and_  
+|  _(iii)_ _____marketing and advertising costs for_  
+| _promotion of the drug directly or indirectly to individuals who are_  
+| _prescribed the drug;_  
+|  _(4)_ _____the prices of the drug and revenue from the drug's_  
+| _sales, including:_  
+|  _(A)_ _____the total revenues from sales in this state_  
+| _and in the United States, listed separately, for each of the_  
+| _preceding five calendar years; and_  
+|  _(B)_ _____a cumulative monthly history of increases in_  
+| _the average wholesale price or wholesale acquisition cost for the_  
+| _drug in the preceding five calendar years, including each month in_  
+| _which an increase took effect;_  
+|  _(5)_ _____the manufacturer's federal, state, and local_  
+| _income tax rates, governmental benefits, and credits, including:_  
+|  _(A)_ _____the federal income tax rate paid by the_  
+| _manufacturer;_  
+|  _(B)_ _____the total amount paid by any person other_  
+| _than the manufacturer for materials, manufacturing, marketing,_  
+| _advertising, administration, and other costs associated with the_  
+| _drug, including any federal, state, or local tax credits or_  
+| _subsidies, tax deductions, grants, or other support received or_  
+| _deferred; and_  
+|  _(C)_ _____income from any source for any of the_  
+| _following activities occurring in a foreign country by or on behalf_  
+| _of the manufacturer:_  
+|  _(i)_ _____the research, development,_  
+| _manufacture, or production of the drug;_  
+|  _(ii)_ _____the sale, exchange, or disposition of_  
+| _the drug; or_  
+|  _(iii)_ _____the lease, rental, or licensing of_  
+| _the drug;_  
+|  _(6)_ _____the manufacturer's financial assistance to_  
+| _patients, including:_  
+|  _(A)_ _____the total amount of financial assistance to_  
+| _patients the manufacturer has provided for the drug during the_  
+| _preceding five calendar years, including:_  
+|  _(i) discounts;_  
+|  _(ii)_ _____rebates and patient prescription_  
+| _assistance programs;_  
+|  _(iii) copay assistance costs; and_  
+|  _(iv)_ _____total donations to patient assistance_  
+| _nonprofits and the related tax deductions; and_  
+|  _(B)_ _____the number of patients who have benefited_  
+| _from the manufacturer's financial assistance for each of the_  
+| _preceding five calendar years;_  
+|  _(7)_ _____the comparative effectiveness of the drug,_  
+| _including:_  
+|  _(A) the therapeutic class of the drug;_  
+|  _(B)_ _____the names of any other brand or generic drug_  
+| _approved by the United States Food and Drug Administration in the_  
+| _same therapeutic class; and_  
+|  _(C)_ _____any clinical or pharmacoeconomic evidence_  
+| _indicating the drug's improved efficacy compared to all other brand_  
+| _or generic drugs described by Paragraph (B); and_  
+|  _(8)_ _____any other information required to be included_  
+| _under rules adopted under this chapter._  
+|  _Sec._ ___441.0053._ _____MANUFACTURER DUTIES. A manufacturer_  
+| _required to submit a report under Section 441.0051 shall:_  
+|  _(1)_ _____separately identify by page number and line the_  
+| _information included in the report to the maximum extent possible_  
+| _to promote public transparency and understanding of the_  
+| _information;_  
+|  _(2)_ _____provide documentation for the information_  
+| _included in the report;_  
+|  _(3)_ _____have the information in the annual report audited_  
+| _by an independent third-party auditor before the report is filed_  
+| _with the department; and_  
+|  _(4)_ _____include information for the preceding calendar_  
+| _year unless otherwise required under this subchapter or a rule_  
+| _adopted under this chapter._  
+|  _Sec._ ___441.0054._ _____PUBLIC INFORMATION. (a) A report described_  
+| _by Section 441.0051 is public information under Chapter 552,_  
+| _Government Code._  
+|  _(b)_ _____The department shall post each report described by_  
+| _Section 441.0051 on the department's Internet website._  
+|  _Sec._ ___441.0055._ _____ENFORCEMENT. (a) If a manufacturer_  
+| _violates this subchapter or a rule adopted under this subchapter:_  
+|  _(1)_ _____the manufacturer is liable for a civil penalty not_  
+| _to exceed $10,000 for each day the violation continues; and_  
+|  _(2)_ _____the attorney general may bring a writ of mandamus_  
+| _against the manufacturer to compel compliance with this subchapter._  
+|  _(b)_ _____If the attorney general brings a writ of mandamus under_  
+| _Subsection (a):_  
+|  _(1)_ _____the attorney general shall provide written notice_  
+| _to the manufacturer not later than the seventh day before the date_  
+| _the attorney general brings the writ; and_  
+|  _(2)_ _____the attorney general may recover attorney's fees_  
+| _and costs if the attorney general prevails._  
+|  _(c)_ _____The attorney general may sue to collect a civil penalty_  
+| _imposed under this section and may recover attorney's fees and_  
+| _costs if the attorney general prevails._  
+| _SUBCHAPTER C. DISCLOSURE OF PRICE INCREASES_  
+|  _Sec._ ___441.0101._ _____NOTICE REQUIRED. (a) Not later than the_  
+| _60th day before the date a price increase takes effect, a_  
+| _manufacturer shall submit written notice to the department before_  
+| _the manufacturer increases the average wholesale price or wholesale_  
+| _acquisition cost of an expensive drug by more than:_  
+|  _(1)_ _____the lesser of 10 percent or $2,500 during a_  
+| _12-month period; or_  
+|  _(2)_ _____15 percent cumulatively during any 24-month_  
+| _period._  
+|  _(b) The notice described by Subsection (a) must state:_  
+|  _(1) the justification for the price increase;_  
+|  _(2)_ _____the marketing budget for the drug in the preceding_  
+| _calendar year;_  
+|  _(3)_ _____if the drug was not developed by the manufacturer,_  
+| _the date the drug was acquired by the manufacturer and the price of_  
+| _the acquisition; and_  
+|  _(4)_ _____the history of all price increases for the drug_  
+| _that took effect during the preceding five calendar years._  
+|  _Sec._ ___441.0102._ _____DEPARTMENT DUTIES; RULES. (a) Not later_  
+| _than 15 days after the date a manufacturer submits a notice under_  
+| _Section 441.0101, the department shall:_  
+|  _(1)_ _____post the notice on the department's Internet_  
+| _website; and_  
+|  _(2) send electronic notice of the submission to:_  
+|  _(A)_ _____purchasers that have requested to receive_  
+| _notification; and_  
+|  _(B) the Texas State Board of Pharmacy._  
+|  _(b)_ _____The executive commissioner by rule shall establish a_  
+| _process through which a purchaser may request to receive notice of a_  
+| _submission under this subchapter._  
+|  _Sec._ ___441.0103._ _____PUBLIC INFORMATION. A notice described by_  
+| _Section 441.0101 is public information under Chapter 552,_  
+| _Government Code._  
+|  _Sec._ ___441.0104._ _____CIVIL PENALTY. (a)_ ___If a manufacturer_  
+| _violates this subchapter or a rule adopted under this subchapter_  
+| _the manufacturer is liable for a civil penalty in an amount not to_  
+| _exceed $10,000 for each day the violation continues._  
+|  _(b)_ _____The attorney general may sue to collect a civil penalty_  
+| _imposed under this section and may recover attorney's fees and_  
+| _costs if the attorney general prevails._  
+| _SUBCHAPTER D. DRUG PRICE TRANSPARENCY ADVISORY COMMITTEE_  
+|  _Sec._ ___441.0151._ _____ESTABLISHMENT. The department shall_  
+| _establish the drug price transparency advisory committee._  
+|  _Sec._ ___441.0152._ _____COMPOSITION. (a) The advisory committee_  
+| _consists of nine members appointed by the commissioner as follows:_  
+|  _(1) the commissioner or the commissioner's designee;_  
+|  _(2) two academic public health researchers;_  
+|  _(3) one economist;_  
+|  _(4) one certified public accountant;_  
+|  _(5)_ _____one licensed physician who practices in this_  
+| _state;_  
+|  _(6)_ _____one licensed pharmacist who practices in this_  
+| _state; and_  
+|  _(7) two consumer representatives._  
+|  _(b)_ _____An advisory committee member may not be affiliated with_  
+| _a manufacturer or have any other conflict of interest regarding_  
+| _advisory committee duties._  
+|  _(c)_ _____The commissioner or the commissioner's designee serves_  
+| _as the presiding officer of the advisory committee._  
+|  _Sec._ ___441.0153._ _____DUTIES. The advisory committee shall advise_  
+| _the department or executive commissioner, as applicable,_  
+| _regarding:_  
+|  _(1)_ _____the development of rules adopted under this_  
+| _chapter;_  
+|  _(2)_ _____the review of annual reports required under_  
+| _Section 441.0051; and_  
+|  _(3)_ _____the preparation of a report the department is_  
+| _required to publish under Section 441.0202._  
+|  _Sec._ ___441.0154._ _____ADVISORY COMMITTEE RULES. The executive_  
+| _commissioner shall adopt rules necessary to implement this_  
+| _subchapter, including rules on:_  
+|  _(1)_ _____the number of times the advisory committee is_  
+| _required to meet each year;_  
+|  _(2)_ _____the compensation for and reimbursement for_  
+| _expenses incurred by advisory committee members; and_  
+|  _(3) the terms of advisory committee members._  
+| _SUBCHAPTER E. RULES AND DEPARTMENT REPORT_  
+|  _Sec._ ___441.0201._ _____RULES. The executive commissioner, in_  
+| _consultation with the advisory committee, shall adopt rules_  
+| _necessary to implement this chapter. The rules must:_  
+|  _(1) facilitate public transparency regarding:_  
+|  _(A) the pricing of expensive drugs;_  
+|  _(B)_ _____the revenue realized by the manufacturers_  
+| _from the sale of expensive drugs; and_  
+|  _(C)_ _____the return on public investment in the_  
+| _development of expensive drugs made through federal, state, or_  
+| _local grants or other governmental financial assistance;_  
+|  _(2)_ _____identify any additional specific information_  
+| _within each of the categories listed in Section 441.0052 that a_  
+| _manufacturer must include in the report; and_  
+|  _(3)_ _____include a uniform reporting form that a_  
+| _manufacturer must use to facilitate the disclosure of information_  
+| _required to be reported under this chapter and the department's_  
+| _preparation of the report required under Section 441.0202._  
+|  _Sec._ ___441.0202._ _____DEPARTMENT REPORT. (a) Not later than_  
+| _September 30 of each year, the department shall prepare and publish_  
+| _on the department's Internet website a report that summarizes the_  
+| _reports filed by manufacturers under Subchapter B during the_  
+| _preceding calendar year._  
+|  _(b)_ _____The department shall provide a copy of the report_  
+| _described by Subsection (a) to the governor, lieutenant governor,_  
+| _speaker of the house of representatives, and each member of the_  
+| _legislature._  
+|  SECTION 2\.  (a)  A manufacturer is not required to submit an  
+| annual report under Section 441.0051, Health and Safety Code, as  
+| added by this Act, before March 31, 2021.  
+|  (b) The Department of State Health Services is not required  
+| to publish a report under Section 441.0202, Health and Safety Code,  
+| as added by this Act, before September 30, 2021.  
+|  SECTION 3. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall adopt rules necessary to implement  
+| Chapter 441, Health and Safety Code, as added by this Act.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

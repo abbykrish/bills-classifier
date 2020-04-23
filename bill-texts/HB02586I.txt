@@ -1,0 +1,166 @@
+| 86R14396 TYPED  
+---|---  
+|  By: Leach | H.B. No. 2586  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to direct campaign expenditures by political committees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 251.001, Election Code, is amended by  
+| amending subdivision (12) and adding new subdivisions (21) and (22)  
+| to read as follows:  
+|  (12) "Political committee" means [ ~~a group of~~ ] _two or_  
+| _more_ persons _acting in concert with_ [ ~~that has~~ ] a principal purpose  
+| _of_ accepting political contributions or making political  
+| expenditures. _The term does not include a group composed_  
+| _exclusively of two or more individual filers or political_  
+| _committees required to file reports under this title who make_  
+| _reportable expenditures for a joint activity._  
+|  _(21)_ _____"Acting in concert" means acting in cooperation_  
+| _or consultation with another, or under an express or implied_  
+| _agreement, to pursue a common activity._  
+|  _(22)_ _____"In-kind contribution" is a contribution of_  
+| _goods, services, or any other thing of value, except money, and_  
+| _includes an agreement made or other obligation incurred, whether_  
+| _legally enforceable or not, to make such a contribution. The term_  
+| _does not include a direct campaign expenditure._  
+|  SECTION 2. Chapter 251, Election Code, is amended by adding  
+| Section 251.0015 to read as follows:  
+|  _Sec._ ___251.0015._ _____AFFIDAVIT FOR MEETING. (a) For purposes of_  
+| _Subsection 251.001(21), meeting with a candidate, or a candidate's_  
+| _agent or staff, is not evidence of acting in concert with the_  
+| _candidate for a person at the meeting who signs an affidavit in_  
+| _accordance with Subsection (b) within five days after the meeting,_  
+| _unless there is evidence that the person violated Section 37.02,_  
+| _Penal Code, in signing the affidavit under Subsection (b)._  
+|  _(b)_ _____The affidavit must state that no person at the meeting_  
+| _provided to another person during the meeting:_  
+|  _(1) mailing, email, or telephone lists;_  
+|  _(2) dates for prospective campaign communications;_  
+|  _(3)_ _____amounts being spent on prospective campaign_  
+| _communications; or_  
+|  _(4)_ _____drafts or final proofs of prospective political_  
+| _advertising._  
+|  SECTION 3. Section 252.003(a), Election Code, is amended to  
+| read as follows:  
+|  (a) In addition to the information required by Section  
+| 252.002, a campaign treasurer appointment by a general-purpose  
+| committee must include:  
+|  (1) the full name, and any acronym of the name that  
+| will be used in the name of the committee as provided by Subsection  
+| (d), of each corporation, labor organization, or other association  
+| or legal entity that directly establishes, administers, or controls  
+| the committee, if applicable, or the name of each person who  
+| determines to whom the committee makes contributions or the name of  
+| each person who determines for what purposes the committee makes  
+| expenditures;  
+|  (2) the full name and address of each general-purpose  
+| committee to whom the committee intends to make political  
+| contributions; [ ~~and~~ ]  
+|  (3) the name of the committee and, if the name is an  
+| acronym, the words the acronym represents _; and_  
+|  _(4)_ _____if the committee intends to use a political_  
+| _contribution from a corporation or a labor organization to make any_  
+| _direct campaign expenditures in connection with a campaign for an_  
+| _elective office, an affidavit stating that:_  
+|  _(A)_ _____the committee is not established or_  
+| _controlled by a candidate or an officeholder; and_  
+|  _(B)_ _____the committee will not use any political_  
+| _contribution from a corporation or a labor organization to make a_  
+| _political contribution to any:_  
+|  _(i) candidate for elective office;_  
+|  _(ii) officeholder; or_  
+|  _(iii)_ _____political committee that has not_  
+| _filed an affidavit under this subdivision_.  
+|  SECTION 4. Section 252.0031, Election Code, is amended to  
+| read as follows:  
+|  Sec. 252.0031. CONTENTS OF APPOINTMENT BY SPECIFIC-PURPOSE  
+| COMMITTEE. (a) In addition to the information required by Section  
+| 252.002, a campaign treasurer appointment by a specific-purpose  
+| committee for supporting or opposing a candidate for an office  
+| specified by Section 252.005(1) must include _:_  
+|  _(1)_ the name of and the office sought by the candidate _;_  
+| _and_  
+|  _(2)_ _____if the committee intends to use a political_  
+| _contribution from a corporation or a labor organization to make any_  
+| _direct campaign expenditures in connection with a campaign for an_  
+| _elective office, an affidavit in accordance with the requirements_  
+| _of Section 252.003(a)(4)_.  
+|  _(b)_ If [ ~~that~~ ] _any of the_ information required _to be included_  
+| _in a specific-purpose committee's appointment_ changes, the  
+| committee shall immediately file an amended appointment reflecting  
+| the change.  
+|  _(c)_ [ ~~(b)~~ ] The name of a specific-purpose committee for  
+| supporting a candidate for an office specified by Section  
+| 252.005(1) must include the name of the candidate that the  
+| committee supports.  
+|  SECTION 5. Subchapter D, Chapter 253, Election Code, is  
+| amended by adding Section 253.097 to read as follows:  
+|  _Sec._ ___253.097._ _____CONTRIBUTION FOR DIRECT CAMPAIGN_  
+| _EXPENDITURES. A corporation or labor organization may make_  
+| _campaign contributions from its own property to a political_  
+| _committee that has filed an affidavit with the commission in_  
+| _accordance with Section 252.003(a)(4) or 252.0031(a)(2)._  
+|  SECTION 6. Sections 253.100(a), (d) and (e), Election Code,  
+| are amended to read as follows:  
+|  (a) A corporation, acting alone or with one or more other  
+| corporations, may make one or more political expenditures to  
+| finance the establishment or administration of a general-purpose  
+| committee. In addition to any other expenditure that is considered  
+| permissible under this section, a corporation may make an  
+| expenditure for the maintenance and operation of a general-purpose  
+| committee, including an expenditure for:  
+|  (1) office space maintenance and repairs;  
+|  (2) telephone and Internet services;  
+|  (3) office equipment;  
+|  (4) utilities;  
+|  (5) general office and meeting supplies;  
+|  (6) salaries for routine clerical, data entry, and  
+| administrative assistance necessary for the proper administrative  
+| operation of the committee;  
+|  (7) legal and accounting fees for the committee's  
+| compliance with this title;  
+|  (8) routine administrative expenses incurred in  
+| establishing and administering a general-purpose political  
+| committee;  
+|  (9) management and supervision of the committee,  
+| including expenses incurred in holding meetings of the committee's  
+| governing body to interview candidates and make endorsements  
+| relating to the committee's support;  
+|  (10) the recording of committee decisions;  
+|  (11) expenses incurred in hosting candidate forums in  
+| which all candidates for a particular office in an election are  
+| invited to participate on the same terms; ~~or~~  
+|  (12) expenses incurred in preparing and delivering  
+| committee contributions _; or_  
+|  _(13)_ _____creation and maintenance of the committee's_  
+| _public Internet webpages that do not contain political advertising_.  
+|  (d) A corporation or labor organization may not make  
+| expenditures under this section for:  
+|  (1) political consulting to support or oppose a  
+| candidate;  
+|  (2) telephoning or telephone banks to communicate with  
+| the public;  
+|  (3) brochures and direct mail supporting or opposing a  
+| candidate;  
+|  (4) partisan voter registration and get-out-the-vote  
+| drives;  
+|  (5) political fund-raising other than from its  
+| stockholders or members, as applicable, or the families of its  
+| stockholders or members;  
+|  (6) voter identification efforts, voter lists, or  
+| voter databases that include persons other than its stockholders or  
+| members, as applicable, or the families of its stockholders or  
+| members;  
+|  (7) polling designed to support or oppose a candidate  
+| other than of its stockholders or members, as applicable, or the  
+| families of its stockholders or members; or  
+|  (8) recruiting candidates.  
+|  (e) Subsection (d) does not apply to a corporation or labor  
+| organization making an expenditure [ ~~to communicate with its~~  
+|  ~~stockholders or members, as applicable, or with the families of its~~  
+|  ~~stockholders or members as provided~~ ] _authorized_ by Section _253.097_  
+| _or_ 253.098.  
+|  SECTION 7. Section 253.101, Election Code, is repealed.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

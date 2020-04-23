@@ -1,0 +1,133 @@
+| 86R3212 TSR-D  
+---|---  
+|  By: Shine | H.B. No. 1198  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to employee-owned companies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 301.004, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 301.004. AUTHORIZED PERSON. For purposes of this  
+| title, a person is an authorized person with respect to:  
+|  (1) a professional association if the person is a  
+| professional individual; [ ~~and~~ ]  
+|  (2) a [ ~~professional corporation or a~~ ] professional  
+| limited liability company if the person is a professional  
+| individual or professional organization _; and_  
+|  _(3) a professional corporation if the person is:_  
+|  _(A) a professional individual;_  
+|  _(B) a professional organization; or_  
+|  _(C)_ _____an employee stock ownership plan, as_  
+| _described by Section 303.0015, established by the corporation_.  
+|  SECTION 2. Chapter 303, Business Organizations Code, is  
+| amended by adding Section 303.0015 to read as follows:  
+|  _Sec._ ___303.0015._ _____AUTHORIZED PERSON. For purposes of this_  
+| _chapter, an employee stock ownership plan, as defined by Section_  
+| _4975(e) of the Internal Revenue Code, established by a professional_  
+| _corporation, is an authorized person if:_  
+|  _(1)_ _____all of the voting trustees of the plan are_  
+| _professional individuals who are licensed to provide at least one_  
+| _category of the professional services described in the_  
+| _corporation's certificate of formation; and_  
+|  _(2)_ _____the ownership interests in the plan are not_  
+| _directly issued to any person other than the plan trust or a_  
+| _professional individual licensed to provide at least one category_  
+| _of the professional services described in the corporation's_  
+| _certificate of formation._  
+|  SECTION 3. Chapter 481, Government Code, is amended by  
+| adding Subchapter CC to read as follows:  
+| _SUBCHAPTER CC. EMPLOYEE OWNERSHIP ASSISTANCE OFFICE_  
+|  _Sec._ ___481.451._ _____ESTABLISHMENT OF EMPLOYEE OWNERSHIP_  
+| _ASSISTANCE OFFICE. The employee ownership assistance office is an_  
+| _office within the Texas Economic Development and Tourism Office._  
+|  _Sec._ ___481.452._ _____DUTIES. (a) The employee ownership_  
+| _assistance office shall establish and administer for businesses in_  
+| _this state:_  
+|  _(1)_ _____an outreach and information dissemination program_  
+| _to foster increased awareness of employee stock ownership plans;_  
+| _and_  
+|  _(2)_ _____a technical assistance program to assist_  
+| _businesses in determining the feasibility of establishing an_  
+| _employee stock ownership plan._  
+|  _(b)_ _____The employee ownership assistance office shall make_  
+| _available to businesses in this state information relating to_  
+| _obtaining assistance under the programs established under_  
+| _Subsection (a)._  
+|  SECTION 4. Subchapter H, Chapter 2155, Government Code, is  
+| amended by adding Section 2155.454 to read as follows:  
+|  _Sec._ ___2155.454._ _____PREFERENCE TO TEXAS EMPLOYEE-OWNED_  
+| _COMPANIES. (a) In this section, "employee-owned company" means a_  
+| _corporation in which a majority of the stock is held by an employee_  
+| _stock ownership plan, as that term is defined by Section 4975(e),_  
+| _Internal Revenue Code of 1986._  
+|  _(b)_ _____The comptroller and all state agencies purchasing goods_  
+| _or services may give preference to an employee-owned company_  
+| _domiciled in this state if other considerations are equal._  
+|  SECTION 5. Section 2161.001(2), Government Code, is amended  
+| to read as follows:  
+|  (2) "Historically underutilized business" means an  
+| entity with its principal place of business in this state that is:  
+|  (A) a corporation formed for the purpose of  
+| making a profit in which 51 percent or more of all classes of the  
+| shares of stock or other equitable securities are owned by one or  
+| more economically disadvantaged persons who have a proportionate  
+| interest and actively participate in the corporation's control,  
+| operation, and management;  
+|  (B) a sole proprietorship created for the purpose  
+| of making a profit that is completely owned, operated, and  
+| controlled by an economically disadvantaged person;  
+|  (C) a partnership formed for the purpose of  
+| making a profit in which 51 percent or more of the assets and  
+| interest in the partnership are owned by one or more economically  
+| disadvantaged persons who have a proportionate interest and  
+| actively participate in the partnership's control, operation, and  
+| management;  
+|  (D) a joint venture in which each entity in the  
+| venture is a historically underutilized business, as determined  
+| under another paragraph of this subdivision; [ ~~or~~ ]  
+|  (E) a supplier contract between a historically  
+| underutilized business as determined under another paragraph of  
+| this subdivision and a prime contractor under which the  
+| historically underutilized business is directly involved in the  
+| manufacture or distribution of the goods or otherwise warehouses  
+| and ships the goods _; or_  
+|  _(F)_ _____an employee-owned company as defined by_  
+| _Section 2155.454_.  
+|  SECTION 6. Section 2161.061, Government Code, is amended by  
+| adding Subsection (f) to read as follows:  
+|  _(f)_ _____A business that has been certified under this section as_  
+| _a historically underutilized business described by Section_  
+| _2161.001(2)(A), (B), (C), (D), or (E) retains the business's status_  
+| _as a historically underutilized business if the business converts_  
+| _to a historically underutilized business described by Section_  
+| _2161.001(2)(F)._  
+|  SECTION 7. Section 2161.125, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2161.125. CATEGORIZATION OF HISTORICALLY  
+| UNDERUTILIZED BUSINESSES. The comptroller, in cooperation with  
+| each state agency reporting under this subchapter, shall categorize  
+| each historically underutilized business included in a report under  
+| this subchapter by _:_  
+|  _(1)_ sex, race, and ethnicity _;_ and  
+|  _(2)_ [ ~~by~~ ] whether the business qualifies as a  
+| historically underutilized business _:_  
+|  _(A)_ because it is owned or owned, operated, and  
+| controlled, as applicable, wholly or partly by one or more veterans  
+| as defined by 38 U.S.C. Section 101(2) who have suffered at least a  
+| 20 percent service-connected disability as defined by 38 U.S.C.  
+| Section 101(16) _; or_  
+|  _(B) under Section 2161.001(2)(F)_.  
+|  SECTION 8. Subchapter Z, Chapter 271, Local Government  
+| Code, is amended by adding Section 271.909 to read as follows:  
+|  _Sec._ ___271.909._ _____PREFERENCE TO TEXAS EMPLOYEE-OWNED_  
+| _COMPANIES. (a) In this section:_  
+|  _(1)_ _____"Employee-owned company" has the meaning assigned_  
+| _by Section 2155.454, Government Code._  
+|  _(2)_ _____"Local government" means a municipality, a county,_  
+| _or a special district._  
+|  _(b)_ _____In purchasing goods or services, a local government may_  
+| _give preference to an employee-owned company domiciled in this_  
+| _state if other considerations are equal._  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

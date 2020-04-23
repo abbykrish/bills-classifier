@@ -1,0 +1,121 @@
+| 86R13731 PMO-D  
+---|---  
+|  By: Sheffield | H.B. No. 4391  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain group and individual health benefit plans and  
+| the provision of health care benefits under health care plans  
+| through provider networks.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle C, Title 6, Insurance Code, is amended  
+| by adding Chapter 849 to read as follows:  
+| _CHAPTER 849. PROHIBITION OF PROVIDER NETWORKS_  
+|  _Sec._ ___849.0001._ _____PURPOSE; CERTAIN PRACTICES PROHIBITED. The_  
+| _purpose of this chapter is to prohibit the provision of health care_  
+| _benefits by entities such as insurers and health maintenance_  
+| _organizations through provider networks, preferred providers, or_  
+| _similar arrangements._  
+|  _Sec._ ___849.0002._ _____DEFINITION. In this chapter, "health_  
+| _benefit plan issuer" means:_  
+|  _(1)_ _____a health maintenance organization operating under_  
+| _Chapter 843 or other person who arranges for or provides to_  
+| _enrollees on a prepaid basis a health care plan, a limited health_  
+| _care service plan, or a single health care service plan; and_  
+|  _(2)_ _____a life, health, and accident insurance company,_  
+| _health and accident insurance company, health insurance company, or_  
+| _other company operating under Chapter 841, 842, 884, 885, 982,_  
+| _1301, or 1501, that is authorized to issue, deliver, or issue for_  
+| _delivery in this state health insurance policies._  
+|  _Sec._ ___849.0003._ _____PROHIBITION OF NETWORKS. (a) A health_  
+| _benefit plan issuer may not:_  
+|  _(1)_ _____arrange for or provide to covered persons health_  
+| _care services using a delivery network that directly or indirectly_  
+| _contracts or subcontracts with physicians and other health care_  
+| _providers;_  
+|  _(2)_ _____provide, through a policy or plan, for the payment_  
+| _of a level of coverage that is different from the basic level of_  
+| _coverage provided by the policy or plan if the covered person uses a_  
+| _physician or health care provider, or an organization of physicians_  
+| _or health care providers, who contracts to provide medical or_  
+| _health care services to persons covered by the policy or plan; or_  
+|  _(3)_ _____otherwise provide health care benefits or arrange_  
+| _for health care benefits to be provided to a covered person by_  
+| _contracting directly or indirectly with a physician or health care_  
+| _provider, or an organization of physicians or health care_  
+| _providers, to provide medical or health care services to a covered_  
+| _person on a capitation basis or otherwise._  
+|  _(b)_ _____This section applies without regard to whether the_  
+| _physician or health care provider who is a party to a contract_  
+| _described by Subsection (a) is designated as a network provider or a_  
+| _preferred provider or uses another designation._  
+|  _(c)_ _____Notwithstanding any other law, a health benefit plan_  
+| _issuer may provide health care benefits only by indemnifying the_  
+| _covered person for medical or health care expenses._  
+|  _Sec._ ___849.0004._ _____EXCEPTION. Notwithstanding Section_  
+| _849.0003, health care benefits under the following programs may be_  
+| _provided through health maintenance organizations, provider_  
+| _networks, preferred providers, or similar arrangements:_  
+|  _(1)_ _____the child health plan program operated under_  
+| _Chapter 62, Health and Safety Code;_  
+|  _(2)_ _____the state Medicaid program operated under Chapter_  
+| _32, Human Resources Code;_  
+|  _(3)_ _____the Medicaid managed care program operated under_  
+| _Chapter 533, Government Code;_  
+|  _(4) the group benefits program under Chapter 1551;_  
+|  _(5) the group program under Chapter 1575;_  
+|  _(6)_ _____the uniform group coverage program under Chapter_  
+| _1579; and_  
+|  _(7) the uniform program under Chapter 1601._  
+|  SECTION 2. Subtitle B, Title 8, Insurance Code, is amended  
+| by adding Chapter 1255 to read as follows:  
+| _CHAPTER 1255. RESTRICTION OF AVAILABILITY OF GROUP HEALTH COVERAGE_  
+| _IN CERTAIN CIRCUMSTANCES_  
+|  _Sec._ ___1255.0001._ _____APPLICABILITY OF CHAPTER._ ___(a) This_  
+| _chapter applies only to a health benefit plan that provides_  
+| _benefits for medical or surgical expenses incurred as a result of a_  
+| _health condition, accident, or sickness, including a group,_  
+| _blanket, or franchise insurance policy or insurance agreement, a_  
+| _group hospital service contract, or a group evidence of coverage or_  
+| _similar coverage document that is issued by:_  
+|  _(1) an insurance company;_  
+|  _(2)_ _____a group hospital service corporation operating_  
+| _under Chapter 842;_  
+|  _(3)_ _____a health maintenance organization operating under_  
+| _Chapter 843;_  
+|  _(4)_ _____an approved nonprofit health corporation that_  
+| _holds a certificate of authority under Chapter 844;_  
+|  _(5)_ _____a multiple employer welfare arrangement that holds_  
+| _a certificate of authority under Chapter 846;_  
+|  _(6)_ _____a stipulated premium company operating under_  
+| _Chapter 884;_  
+|  _(7)_ _____a fraternal benefit society operating under_  
+| _Chapter 885;_  
+|  _(8) a Lloyd's plan operating under Chapter 941; or_  
+|  _(9) an exchange operating under Chapter 942._  
+|  _(b)_ _____Notwithstanding any other law, this chapter applies to a_  
+| _small employer health benefit plan subject to Chapter 1501,_  
+| _including coverage provided through a health group cooperative_  
+| _under Subchapter B of that chapter._  
+|  _Sec._ ___1255.0002._ _____RESTRICTION ON AVAILABILITY OF GROUP HEALTH_  
+| _COVERAGE. (a)_ ___Notwithstanding Chapter 1251 or any other law, a_  
+| _group health benefit policy that provides health benefits to an_  
+| _employer group may not require that each employee eligible to_  
+| _receive group health benefit coverage as a member of the employer_  
+| _group be covered by the policy._  
+|  _(b)_ _____An employee who is eligible to receive group health_  
+| _benefit coverage as a member of an employer group may elect to_  
+| _instead obtain health benefit coverage in the individual market or_  
+| _from another source._  
+|  SECTION 3. The commissioner of insurance shall adopt rules  
+| not later than January 1, 2020, to implement Chapters 849 and 1255,  
+| Insurance Code, as added by this Act.  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| a health benefit plan that is delivered, issued for delivery, or  
+| renewed on or after January 1, 2021. A health benefit plan  
+| delivered, issued for delivery, or renewed before January 1, 2021,  
+| is governed by the law as it existed immediately before the  
+| effective date of this Act, and that law is continued in effect for  
+| that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

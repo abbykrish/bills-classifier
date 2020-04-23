@@ -1,0 +1,86 @@
+|  
+---|---  
+|  By: Blanco | H.B. No. 4599  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment and implementation by the Texas  
+| Commission on Environmental Quality of a program to reduce the  
+| emissions of greenhouse gases in this state; authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle C, Title 5, Health and Safety Code, is  
+| amended by adding Chapter 396 to read as follows:  
+| _CHAPTER 396. GREENHOUSE GAS EMISSIONS REDUCTION PROGRAM_  
+|  _Sec. 396.0101. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Carbon dioxide equivalent emissions" means the_  
+| _number of metric tons of emissions of carbon dioxide that has the_  
+| _same global warming potential as one metric ton of a compared_  
+| _greenhouse gas._  
+|  _(2)_ _____"Commission" means the Texas Commission on_  
+| _Environmental Quality._  
+|  _(3) "Covered entity" means:_  
+|  _(A)_ _____an entity permitted under Section 382.05102_  
+| _in a manner consistent with Section 382.051; and_  
+|  _(B)_ _____an entity or class of entities that, as_  
+| _determined by the commission, is transporting, selling, or_  
+| _otherwise using a covered fuel in a manner that emits a greenhouse_  
+| _gas into the atmosphere._  
+|  _(4)_ _____"Covered fuel" means crude oil, natural gas, coal,_  
+| _or another product derived from crude oil, natural gas, biofuel or_  
+| _coal that is used in a manner that emits greenhouse gases into the_  
+| _atmosphere._  
+|  _(5)_ _____"Greenhouse gas" includes carbon dioxide,_  
+| _methane, nitrous oxide, sulfur hexafluoride, hydrofluorocarbons,_  
+| _and perfluorocarbons._  
+|  _Sec._ ___396.0102._ _____GREENHOUSE GAS EMISSIONS REDUCTION PROGRAM;_  
+| _FEE._ ___The commission by rule shall establish a program that:_  
+|  _(1)_ _____reduces emissions of greenhouse gases in this_  
+| _state;_  
+|  _(2)_ _____imposes a fee on emissions resulting from the use_  
+| _or transfer of a covered fuel by a covered entity; and_  
+|  _(3)_ _____issues payments for facilities that capture and_  
+| _sequester carbon dioxide._  
+|  _Sec._ ___396.0103._ _____FEE AMOUNT AND RATE. (a) The commission_  
+| _shall impose a fee on the emission of a greenhouse gas in this state_  
+| _for each metric ton of carbon dioxide equivalent emissions of the_  
+| _greenhouse gas multiplied by the fee rate._  
+|  _(b)_ _____The commission by rule shall establish a fee rate of not_  
+| _less than $5._  
+|  _Sec._ ___396.0104._ _____DISPOSITION OF FEE._ ___The commission shall_  
+| _deposit to the credit of the emissions fee account the fees_  
+| _collected under this chapter._  
+|  _Sec._ ___396.0105._ _____EMISSIONS FEE ACCOUNT. (a) The emissions_  
+| _fee account is an account in the general revenue fund._  
+|  _(b)_ _____The account is administered by the commission for the_  
+| _benefit of the program established under this chapter. Interest_  
+| _earned on the account is credited to the account._  
+|  _(c)_ _____The account consists of fees deposited to the credit of_  
+| _the account under Section 396.0104 and any other money appropriated_  
+| _or transferred to the account._  
+|  _(d) Money in the account may be used only for:_  
+|  _(1) payments made under Section 396.0107;_  
+|  _(2)_ _____administration of the program established under_  
+| _this chapter; or_  
+|  _(3)_ _____other programs to reduce the emissions of_  
+| _greenhouse gases in this state._  
+|  _Sec. 396.0106. FEE EXEMPTIONS. The commission:_  
+|  _(1)_ _____shall exempt agricultural uses of covered fuel_  
+| _from payment of the fee imposed under Section 396.0103; and_  
+|  _(2)_ _____may establish other appropriate exemptions under_  
+| _the program._  
+|  _Sec._ ___396.0107._ _____SEQUESTRATION PAYMENTS. (a) The commission_  
+| _shall pay to a facility that captures and sequesters carbon dioxide_  
+| _an amount equal to the metric tons of carbon dioxide captured and_  
+| _sequestered multiplied by the rate established under Section_  
+| _396.0103(b)._  
+|  _Sec._ ___396.0108._ _____EMISSIONS REDUCTION SCHEDULE._ ___The_  
+| _commission shall establish a schedule for annual reductions of_  
+| _emissions of greenhouse gases._  
+|  _Sec._ ___396.0109._ _____TERMINATION OF FEE. The commission may not_  
+| _collect a fee under Section 396.0103 or make a payment under Section_  
+| _396.0107 if the executive director of the commission determines_  
+| _that the actual emissions of greenhouse gases from covered fuels is_  
+| _not more than 10 percent of the emissions of greenhouse gases from_  
+| _covered fuels during the year 2016._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

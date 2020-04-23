@@ -1,0 +1,37 @@
+|  
+---|---  
+|  By: Middleton | H.B. No. 4061  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to pilotage rates in Galveston County.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter D, Chapter 67, Transportation Code,  
+| is amended by adding Sections 67.0611 to read as follows:  
+|  _Sec._ ___67.0611._ _____LIMIT ON PILOTAGE RATE INCREASE. (a)_ ___In this_  
+| _section:_  
+|  _(1)_ _____"Consumer price index" means the index that the_  
+| _comptroller considers to most accurately report changes in the_  
+| _purchasing power of the dollar for consumers in this state._  
+|  _(2)_ _____"Inflation rate" means the amount, expressed in_  
+| _decimal form rounded to the nearest thousandth, computed by_  
+| _determining the percentage change in the consumer price index for_  
+| _the most recent 12-month period for which the index can be_  
+| _determined as compared to the consumer price index for the 12-month_  
+| _period preceding that period._  
+|  _(3)_ _____"Population growth rate" means the annual rate of_  
+| _growth of a county's or municipality's population, as applicable,_  
+| _as determined in accordance with the most recent annual population_  
+| _estimates provided by the state demographer under Section 468.004,_  
+| _Government Code, expressed in decimal form rounded to the nearest_  
+| _thousandth._  
+|  _(b)_ _____By July 1 or as soon thereafter as practicable, the_  
+| _comptroller shall determine the inflation rate in this state and_  
+| _publish that rate in the Texas Register._  
+|  _(c)_ _____The board may not increase a pilotage rate by a rate that_  
+| _exceeds the sum of:_  
+|  _(1) the inflation rate in this state; and_  
+|  _(2) the population growth rate of Galveston County._  
+|  SECTION 2. This Act takes effect September 1, 2019.  
+|
+

@@ -1,0 +1,51 @@
+| 86R13646 TSS-D  
+---|---  
+|  By: Murphy | H.B. No. 3109  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain entities' access to information in criminal  
+| justice information databases.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 66.201, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 66.201. ACCESS TO DATABASES BY CRIMINAL JUSTICE  
+| AGENCIES AND OTHER ENTITIES. (a) _The following entities_ [ ~~Criminal~~  
+|  ~~justice agencies, the Legislative Budget Board, and the council~~ ]  
+| are entitled to access the databases of the Department of Public  
+| Safety, the Texas Juvenile Justice Department, and the Texas  
+| Department of Criminal Justice in accordance with applicable state  
+| or federal law or regulations _:_  
+|  _(1) criminal justice agencies;_  
+|  _(2) the Legislative Budget Board;_  
+|  _(3) the council; and_  
+|  _(4)_ _____an individual or an agency that has a specific_  
+| _agreement with a criminal justice agency to provide services_  
+| _required for the administration of criminal justice under that_  
+| _agreement, if the agreement:_  
+|  _(A)_ _____specifically authorizes access to_  
+| _information;_  
+|  _(B)_ _____limits the use of information to the purposes_  
+| _for which it is given;_  
+|  _(C)_ _____ensures the security and confidentiality of_  
+| _the information;_  
+|  _(D)_ _____provides for sanctions if a requirement_  
+| _imposed under Paragraph (A), (B), or (C) is violated; and_  
+|  _(E)_ _____requires the individual or agency to perform_  
+| _the applicable services in a manner prescribed by the Department of_  
+| _Public Safety_.  
+|  (b) The access granted by this article does not entitle _an_  
+| _entity authorized to access information under Subsection (a)_ [ ~~a~~  
+|  ~~criminal justice agency, the Legislative Budget Board, or the~~  
+|  ~~council~~ ] to add, delete, or alter data maintained by another _entity_  
+| [ ~~agency~~ ].  
+|  SECTION 2. Article 66.203, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 66.203. PUBLIC DISCLOSURE OF DATA PROHIBITED. _An_  
+| _entity authorized to access information under Article 66.201(a)_ [ ~~A~~  
+|  ~~criminal justice agency, the council, and the Legislative Budget~~  
+|  ~~Board~~ ] may not disclose to the public information in an  
+| individual's criminal history record if the record is protected by  
+| state or federal law or regulation.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

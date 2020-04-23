@@ -1,0 +1,31 @@
+| 86R5530 JES-D  
+---|---  
+|  By: Leman | H.B. No. 1992  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prohibiting telemarketers from transmitting misleading  
+| caller identification information or otherwise misrepresenting the  
+| origin of a telemarketing call.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 304.151, Business & Commerce Code, is  
+| amended by amending Subsection (b) and adding Subsection (c) to  
+| read as follows:  
+|  (b) A telemarketer may not:  
+|  (1) interfere with or circumvent the capability of a  
+| caller identification service or device to access or provide to the  
+| recipient of the telemarketing call any information regarding the  
+| call that the service or device is capable of providing; [ ~~or~~ ]  
+|  (2) fail to provide caller identification information  
+| in a manner that is accessible by a caller identification service or  
+| device, if the telemarketer is capable of providing the information  
+| in that manner _; or_  
+|  _(3)_ _____cause misleading information to be transmitted to_  
+| _a recipient's caller identification service or device or to_  
+| _otherwise misrepresent the origin of a telemarketing call_.  
+|  _(c)_ _____A telemarketer does not violate Subsection (b)(3) if the_  
+| _telemarketer substitutes the name and telephone number of the_  
+| _person on whose behalf the call is made for the telemarketer's name_  
+| _and telephone number._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

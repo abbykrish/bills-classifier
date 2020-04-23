@@ -1,0 +1,77 @@
+| 86R6933 CLG-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 2268  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a provision in a construction contract that  
+| incorporates the terms and conditions of another document.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 272.0001, Business & Commerce Code, is  
+| amended to read as follows:  
+|  Sec. 272.0001. _DEFINITIONS_ [ ~~DEFINITION~~ ]. In this chapter _:_  
+|  _(1) "Construction_[ ~~,"construction~~ ] contract" means a  
+| contract, subcontract, or agreement entered into or made by an  
+| owner, architect, engineer, contractor, construction manager,  
+| subcontractor, supplier, or material or equipment lessor for the  
+| design, construction, alteration, renovation, remodeling, or  
+| repair of, or for the furnishing of material or equipment for, a  
+| building, structure, appurtenance, or other improvement to or on  
+| public or private real property, including moving, demolition, and  
+| excavation connected with the real property. The term includes an  
+| agreement to which an architect, engineer, or contractor and an  
+| owner's lender are parties regarding an assignment of the  
+| construction contract or other modifications thereto.  
+|  _(2)_ _____"Copy" means an accurate reproduction of an_  
+| _original document reproduced in paper form or in an electronic_  
+| _format that a person can access, download, save, and print for the_  
+| _person's own records._  
+|  _(3)_ _____"Original contract" means an agreement to which an_  
+| _owner is a party either directly or by implication of law._  
+|  _(4)_ _____"Original contractor" means a person contracting_  
+| _with an owner directly or through the owner's agent._  
+|  _(5)_ _____"Owner" means a person who owns any interest in_  
+| _real property or an authorized agent, trustee, or receiver of the_  
+| _person._  
+|  _(6)_ _____"Subcontractor" means a person who furnishes labor_  
+| _or materials to fulfill an obligation to an original contractor or_  
+| _to a subcontractor of any tier to perform all or part of the work_  
+| _required by an original contract._  
+|  SECTION 2. The heading to Section 272.001, Business &  
+| Commerce Code, is amended to read as follows:  
+|  Sec. 272.001. VOIDABLE CONTRACT _PROVISIONS_ [ ~~PROVISION~~ ].  
+|  SECTION 3. Section 272.001, Business & Commerce Code, is  
+| amended by adding Subsections (c), (d), (e), and (f) to read as  
+| follows:  
+|  _(c)_ _____Except as provided by Subsection (f), a provision in a_  
+| _construction contract between an original contractor and owner that_  
+| _incorporates the terms and conditions of another document, by_  
+| _reference or otherwise, is voidable by the original contractor if_  
+| _the owner does not provide a copy of the incorporated document to_  
+| _the original contractor before the contract is executed. This_  
+| _subsection does not preclude the owner from redacting information_  
+| _from a document to be incorporated into the contract, provided that_  
+| _any redacted information may not be incorporated into the contract_  
+| _by reference or otherwise._  
+|  _(d)_ _____Except as provided by Subsection (f), a provision in a_  
+| _construction contract between a subcontractor and an original_  
+| _contractor that incorporates the terms and conditions of another_  
+| _document, by reference or otherwise, is voidable by the_  
+| _subcontractor if the original contractor does not provide a copy of_  
+| _the incorporated document to the subcontractor before the contract_  
+| _is executed. This subsection does not preclude the original_  
+| _contractor from redacting information from a document to be_  
+| _incorporated into the contract, provided that any redacted_  
+| _information may not be incorporated into the contract by reference_  
+| _or otherwise._  
+|  _(e)_ _____A provision in a construction contract made void by a_  
+| _party to the contract under Subsection (c) or (d) is void only to_  
+| _the extent of the provision's applicability to the incorporated_  
+| _document not provided to the party._  
+|  _(f)_ _____Subsections (c) and (d) do not apply to the_  
+| _incorporation of a publicly available document._  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| a contract that is entered into on or after the effective date of  
+| this Act.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,64 @@
+| 86R13483 LED-D  
+---|---  
+|  By: Muñoz, Jr. | H.B. No. 2349  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to transparency in the rate-setting processes for the  
+| Medicaid managed care and child health plan programs.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.01314 to read as follows:  
+|  _Sec._ ___533.01314._ _____TRANSPARENCY OF PREMIUM PAYMENT_  
+| _RATE-SETTING PROCESS FOR MEDICAID MANAGED CARE PROGRAM._ ___(a)_ ___The_  
+| _commission shall ensure the transparency of the premium payment_  
+| _rate-setting process for the Medicaid managed care program by_  
+| _publishing actuarial reports:_  
+|  _(1)_ _____in a format that allows for tracing data and_  
+| _formulas across attachments, exhibits, and examples; and_  
+|  _(2) that clearly identify and describe:_  
+|  _(A)_ _____the methodology by which the executive_  
+| _commissioner set the payment rates;_  
+|  _(B) the data sources used;_  
+|  _(C)_ _____the components of the process that are_  
+| _assumptions and how the assumptions are developed;_  
+|  _(D)_ _____multipliers and factors used throughout the_  
+| _reports, including the source and purpose of the multipliers and_  
+| _factors; and_  
+|  _(E)_ _____the methodology by which the executive_  
+| _commissioner determined that the rates are actuarially sound for_  
+| _the populations covered and the services provided._  
+|  _(b)_ _____Notwithstanding Subsection (a), the commission is not_  
+| _required to publish particular information in an actuarial report_  
+| _if the commission determines the information is proprietary._  
+|  SECTION 2. Subchapter B, Chapter 62, Health and Safety  
+| Code, is amended by adding Section 62.061 to read as follows:  
+|  _Sec._ ___62.061._ _____TRANSPARENCY OF PREMIUM PAYMENT RATE-SETTING_  
+| _PROCESS._ ___(a)_ ___The commission shall ensure the transparency of the_  
+| _premium payment rate-setting process for the child health plan_  
+| _program by publishing actuarial reports:_  
+|  _(1)_ _____in a format that allows for tracing data and_  
+| _formulas across attachments, exhibits, and examples; and_  
+|  _(2) that clearly identify and describe:_  
+|  _(A)_ _____the methodology by which the executive_  
+| _commissioner set the payment rates;_  
+|  _(B) the data sources used;_  
+|  _(C)_ _____the components of the process that are_  
+| _assumptions and how the assumptions are developed;_  
+|  _(D)_ _____multipliers and factors used throughout the_  
+| _reports, including the source and purpose of the multipliers and_  
+| _factors; and_  
+|  _(E)_ _____the methodology by which the executive_  
+| _commissioner determined that the rates are actuarially sound for_  
+| _the populations covered and the services provided._  
+|  _(b)_ _____Notwithstanding Subsection (a), the commission is not_  
+| _required to publish particular information in an actuarial report_  
+| _if the commission determines the information is proprietary._  
+|  SECTION 3. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

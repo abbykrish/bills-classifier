@@ -1,0 +1,164 @@
+| 86R13835 BRG-F  
+---|---  
+|  By: Smith | H.B. No. 3248  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the medical authorization required to release protected  
+| health information in a health care liability claim.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 74.052(c), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (c) The medical authorization required by this section  
+| shall be in the following form and shall be construed in accordance  
+| with the "Standards for Privacy of Individually Identifiable Health  
+| Information" (45 C.F.R. Parts 160 and 164).  
+| AUTHORIZATION FORM FOR RELEASE OF PROTECTED HEALTH INFORMATION  
+| Patient Name:______ Patient _Date_ [ ~~Place~~ ] of  
+| Birth:________  
+| Patient Address:  
+| ____________ Street_________________ City, State, ZIP  
+| Patient Telephone:__________ Patient E-mail:_________  
+|  NOTICE TO PHYSICIAN OR HEALTH CARE PROVIDER: THIS  
+| AUTHORIZATION FORM HAS BEEN AUTHORIZED BY THE TEXAS LEGISLATURE  
+| PURSUANT TO SECTION 74.052, CIVIL PRACTICE AND REMEDIES CODE. YOU  
+| ARE REQUIRED TO PROVIDE THE MEDICAL AND BILLING RECORDS AS  
+| REQUESTED IN THIS AUTHORIZATION.  
+|  A. I, __________ (name of patient or authorized  
+| representative), hereby authorize __________ (name of physician or  
+| other health care provider to whom the notice of health care claim  
+| is directed) to obtain and disclose (within the parameters set out  
+| below) the protected health information and associated billing  
+| records described below for the following specific purposes (check  
+| all that apply):  
+|  [ ] To facilitate the investigation and evaluation of  
+| the health care claim described in the accompanying Notice of  
+| Health Care Claim.  
+|  [ ] Defense of any litigation arising out of the claim  
+| made the basis of the accompanying Notice of Health Care Claim.  
+|  [ ] Other - Specify:_________________  
+|  B. The health information to be obtained, used, or disclosed  
+| extends to and includes the verbal as well as written and electronic  
+| and is specifically described as follows:  
+|  1. The health information and billing records in the  
+| custody of the physicians or health care providers who have  
+| examined, evaluated, or treated __________ (patient) in connection  
+| with the injuries alleged to have been sustained in connection with  
+| the claim asserted in the accompanying Notice of Health Care Claim.  
+|  Names and current addresses of treating physicians or  
+| health care providers:  
+|  1.__________________________  
+|  2.__________________________  
+|  3.__________________________  
+|  4.__________________________  
+|  5.__________________________  
+|  6.__________________________  
+|  7.__________________________  
+|  8.__________________________  
+|  This authorization extends to an additional physician or  
+| health care provider that may in the future evaluate, examine, or  
+| treat __________ (patient) for injuries alleged in connection with  
+| the claim made the basis of the attached Notice of Health Care Claim  
+| only if the claimant gives notice to the recipient of the attached  
+| Notice of Health Care Claim of that additional physician or health  
+| care provider;  
+|  2. The health information and billing records in the  
+| custody of the following physicians or health care providers who  
+| have examined, evaluated, or treated __________ (patient) during a  
+| period commencing five years prior to the incident made the basis of  
+| the accompanying Notice of Health Care Claim.  
+|  Names and current addresses of treating physicians or  
+| health care providers, if applicable:  
+|  1.__________________________  
+|  2.__________________________  
+|  3.__________________________  
+|  4.__________________________  
+|  5.__________________________  
+|  6.__________________________  
+|  7.__________________________  
+|  8.__________________________  
+|  C. Exclusions  
+|  1. Providers excluded from authorization.  
+|  The following constitutes a list of physicians or health care  
+| providers possessing health care information concerning __________  
+| (patient) to whom this authorization does not apply because I  
+| contend that such health care information is not relevant to the  
+| damages being claimed or to the physical, mental, or emotional  
+| condition of __________ (patient) arising out of the claim made the  
+| basis of the accompanying Notice of Health Care Claim. List the  
+| names of each physician or health care provider to whom this  
+| authorization does not extend and the inclusive dates of  
+| examination, evaluation, or treatment to be withheld from  
+| disclosure, or state "none":  
+|  1.__________________________  
+|  2.__________________________  
+|  3.__________________________  
+|  4.__________________________  
+|  5.__________________________  
+|  6.__________________________  
+|  7.__________________________  
+|  8.__________________________  
+|  2. By initialing below, the patient or patient's  
+| personal or legal representative excludes the following  
+| information from this authorization:  
+|  ________ HIV/AIDS test results and/or treatment  
+|  ________ Drug/alcohol/substance abuse treatment  
+|  ________ Mental health records (mental health records  
+| do not include psychotherapy notes)  
+|  ________ Genetic information (including genetic test  
+| results)  
+|  D. The persons or class of persons to whom the patient's  
+| health information and billing records will be disclosed or who  
+| will make use of said information are:  
+|  1. Any and all physicians or health care providers  
+| providing care or treatment to __________ (patient);  
+|  2. Any liability insurance entity providing liability  
+| insurance coverage or defense to any physician or health care  
+| provider to whom Notice of Health Care Claim has been given with  
+| regard to the care and treatment of __________ (patient);  
+|  3. Any consulting or testifying experts employed by or  
+| on behalf of __________ (name of physician or health care provider  
+| to whom Notice of Health Care Claim has been given) with regard to  
+| the matter set out in the Notice of Health Care Claim accompanying  
+| this authorization;  
+|  4. Any attorneys (including secretarial, clerical,  
+| experts, or paralegal staff) employed by or on behalf of __________  
+| (name of physician or health care provider to whom Notice of Health  
+| Care Claim has been given) with regard to the matter set out in the  
+| Notice of Health Care Claim accompanying this authorization;  
+|  5. Any trier of the law or facts relating to any suit  
+| filed seeking damages arising out of the medical care or treatment  
+| of __________ (patient).  
+|  E. This authorization shall expire upon resolution of the  
+| claim asserted or at the conclusion of any litigation instituted in  
+| connection with the subject matter of the Notice of Health Care  
+| Claim accompanying this authorization, whichever occurs sooner.  
+|  F. I understand that, without exception, I have the right to  
+| revoke this authorization at any time by giving notice in writing to  
+| the person or persons named in Section B above of my intent to  
+| revoke this authorization. I understand that prior actions taken  
+| in reliance on this authorization by a person that had permission to  
+| access my protected health information will not be affected. I  
+| further understand the consequence of any such revocation as set  
+| out in Section 74.052, Civil Practice and Remedies Code.  
+|  G. I understand that the signing of this authorization is  
+| not a condition for continued treatment, payment, enrollment, or  
+| eligibility for health plan benefits.  
+|  H. I understand that information used or disclosed pursuant  
+| to this authorization may be subject to redisclosure by the  
+| recipient and may no longer be protected by federal HIPAA privacy  
+| regulations.  
+|  Name of Patient  
+|  ____________________  
+|  Signature of Patient/Personal or Legal Representative  
+|  __________  
+|  Description of Personal or Legal Representative's Authority  
+|  __________  
+|  Date  
+|  _______________  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

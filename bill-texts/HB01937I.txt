@@ -1,0 +1,224 @@
+| 86R6131 SMT-D  
+---|---  
+|  By: Goldman | H.B. No. 1937  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a franchise or insurance tax credit for low-income  
+| housing developments.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 171, Tax Code, is amended by adding  
+| Subchapter V to read as follows:  
+| _SUBCHAPTER V. TAX CREDIT FOR LOW-INCOME HOUSING DEVELOPMENTS_  
+|  _Sec. 171.9241. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Allocation certificate" means a statement issued_  
+| _by the department certifying that a qualified development qualifies_  
+| _for credits under this subchapter and Chapter 233, Insurance Code,_  
+| _and specifying the total amount of the credits awarded in_  
+| _connection with the qualified development._  
+|  _(2)_ _____"Credit" means the low-income housing development_  
+| _tax credit authorized by this subchapter._  
+|  _(3)_ _____"Credit period" means the period of 10 tax years_  
+| _beginning with the tax year in which a qualified development is_  
+| _placed in service. A qualified development consisting of more than_  
+| _one building is not considered to be in service until all buildings_  
+| _in the qualified development are placed in service._  
+|  _(4)_ _____"Department" means the Texas Department of Housing_  
+| _and Community Affairs._  
+|  _(5)_ _____"Development" has the meaning assigned by Section_  
+| _2306.6702, Government Code._  
+|  _(6)_ _____"Federal tax credit" means the federal low-income_  
+| _housing credit created by Section 42, Internal Revenue Code._  
+|  _(7)_ _____"Qualified basis" means the qualified basis of a_  
+| _qualified development, as determined under Section 42, Internal_  
+| _Revenue Code._  
+|  _(8)_ _____"Qualified development" means a development in_  
+| _this state that the department determines is eligible for a federal_  
+| _tax credit and that:_  
+|  _(A) is financed with tax-exempt bonds;_  
+|  _(B)_ _____is the subject of a recorded restrictive_  
+| _covenant requiring the development to be maintained and operated as_  
+| _a qualified development; and_  
+|  _(C)_ _____for the lesser of 15 years after the_  
+| _beginning of the credit period or the period required by the_  
+| _department, is in compliance with:_  
+|  _(i)_ _____all accessibility and adaptability_  
+| _requirements for a federal tax credit; and_  
+|  _(ii)_ _____Title VIII of the Civil Rights Act of_  
+| _1968 (42 U.S.C. Section 3601 et seq.)._  
+|  _Sec._ ___171.9242._ _____ENTITLEMENT TO CREDIT. A taxable entity is_  
+| _entitled to a credit against the taxes imposed under this chapter in_  
+| _the amount and under the limitations provided by this subchapter if_  
+| _the taxable entity owns an interest in a qualified development._  
+|  _Sec._ ___171.9243._ _____ALLOCATION CERTIFICATE; CREDIT. (a)_ ___In a_  
+| _year during a credit period, a taxable entity or an entity subject_  
+| _to state insurance tax liability as defined by Section 233.0001,_  
+| _Insurance Code, may apply to the department for an allocation_  
+| _certificate in connection with a development in which the taxable_  
+| _entity or other entity owns an interest._  
+|  _(b)_ _____The department shall issue an allocation certificate if_  
+| _the development is a qualified development._  
+|  _(c)_ _____The department may determine the total amount of credits_  
+| _under this subchapter and Chapter 233, Insurance Code, awarded in_  
+| _connection with a qualified development, subject to the following:_  
+|  _(1)_ _____the amount of credits awarded in connection with a_  
+| _qualified development must be the minimum amount necessary for the_  
+| _financial feasibility of the qualified development after_  
+| _considering any federal tax credit;_  
+|  _(2)_ _____the amount of credits awarded in connection with a_  
+| _qualified development over the credit period may not exceed the_  
+| _total federal tax credit awarded to the owner or owners of the_  
+| _qualified development over the 10-year federal tax credit period;_  
+|  _(3)_ _____the manner in which the department awards the_  
+| _amount of credits must be consistent with criteria established by_  
+| _the department; and_  
+|  _(4)_ _____in a year, the total amount of credits awarded in_  
+| _connection with all qualified developments may not exceed the sum_  
+| _of:_  
+|  _(A) $35 million;_  
+|  _(B)_ _____any unallocated credits for the preceding_  
+| _year; and_  
+|  _(C)_ _____any credit recaptured or otherwise returned_  
+| _to the department in the year._  
+|  _(d)_ _____The owners of a qualified development who intend to_  
+| _claim a credit under this subchapter or Chapter 233, Insurance_  
+| _Code, may by agreement determine the portion of the total amount of_  
+| _credits awarded under Subsection (c) that each owner is entitled to_  
+| _claim._ ___If the owners do not agree, the department shall determine_  
+| _the portion each owner is entitled to claim based on each owner's_  
+| _ownership interest in the qualified development._  
+|  _Sec._ ___171.9244._ _____LENGTH OF CREDIT; LIMITATION._ ___(a)_ ___A
+taxable_  
+| _entity entitled to a credit under this subchapter shall claim the_  
+| _credit in equal installments during each year of the credit period._  
+|  _(b)_ _____The total credit claimed under this subchapter for a_  
+| _report, including any carry forward or backward under Section_  
+| _171.9245, may not exceed the amount of franchise tax due for the_  
+| _report after any other applicable credit._  
+|  _Sec._ ___171.9245._ _____CARRY FORWARD OR BACKWARD. (a)_ ___If a taxable_  
+| _entity is eligible for a credit that exceeds the limitations under_  
+| _Section 171.9244, the taxable entity may carry the unused credit_  
+| _back for not more than three tax years or forward for not more than_  
+| _10 consecutive reports following the tax year in which the_  
+| _allocation was made._ ___A credit carryforward from a previous report_  
+| _is considered to be used before the current year installment._  
+|  _(b) A credit that is not used may not be refunded._  
+|  _Sec._ ___171.9246._ _____RECAPTURE. (a)_ ___The comptroller shall_  
+| _recapture the amount of a credit claimed on a franchise tax report_  
+| _filed under this chapter from a taxable entity if, on the last day_  
+| _of a tax year, the amount of the qualified basis of the qualified_  
+| _development is less than the amount of the qualified basis as of the_  
+| _last day of the prior tax year._ ___The comptroller shall determine the_  
+| _amount required to be recaptured using the formula provided by_  
+| _Section 42(j), Internal Revenue Code, as that section existed on_  
+| _January 1, 2019._  
+|  _(b)_ _____A franchise tax report must include any portion of_  
+| _credit required to be recaptured, the identity of any taxable_  
+| _entity subject to the recapture, and the amount of any credit_  
+| _previously allocated to the taxable entity._  
+|  _Sec._ ___171.9247._ _____ASSIGNMENT OF CREDIT. (a)_ ___If a taxable_  
+| _entity receiving a credit under this subchapter is a partnership,_  
+| _limited liability company, S corporation, or similar pass-through_  
+| _entity, the taxable entity may assign the credit to its partners,_  
+| _shareholders, members, or other constituent taxable entities in any_  
+| _manner agreed by those entities._  
+|  _(b)_ _____A taxable entity that makes an assignment under this_  
+| _section shall certify to the comptroller the amount of credit_  
+| _assigned to each constituent taxable entity or shall notify the_  
+| _comptroller that it has delegated the duty of certification to one_  
+| _constituent taxable entity that shall provide the notification to_  
+| _the comptroller. Each constituent taxable entity is entitled to_  
+| _claim the assigned amount subject to any restrictions prescribed by_  
+| _this subchapter._  
+|  _(c)_ _____An assignment under this section is not a transfer for_  
+| _purposes of state law._  
+|  _Sec._ ___171.9248._ _____FILING REQUIREMENTS AFTER ASSIGNMENT. A_  
+| _taxable entity that assigns a portion of the credit under Section_  
+| _171.9247, and each taxable entity to which a portion was assigned,_  
+| _shall file with the taxable entity's report a copy of the allocation_  
+| _certificate received for that year._  
+|  _Sec._ ___171.9249._ _____RULES; PROCEDURES. The department and_  
+| _comptroller, in consultation with each other, shall adopt rules and_  
+| _procedures to implement, administer, and enforce this subchapter._  
+|  _Sec._ ___171.9250._ _____COMPLIANCE MONITORING. (a)_ ___The department,_  
+| _in consultation with the comptroller, shall monitor compliance with_  
+| _this subchapter in the same manner as the department monitors_  
+| _compliance with the federal tax credit program._  
+|  _(b)_ _____The department shall report any instances of_  
+| _noncompliance with this subchapter to the comptroller._  
+|  _Sec._ ___171.9251._ _____REPORT. (a)_ ___Not later than December 31 of_  
+| _each year, the department shall deliver a written report to the_  
+| _legislature. The report must:_  
+|  _(1)_ _____specify the number of qualified developments for_  
+| _which allocation certificates were issued during the year and the_  
+| _total number of units supported by the developments;_  
+|  _(2)_ _____describe each qualified development for which an_  
+| _allocation certificate was issued during the year, including:_  
+|  _(A) location;_  
+|  _(B) household type;_  
+|  _(C)_ _____available demographic information for the_  
+| _residents intended to be served by the development;_  
+|  _(D)_ _____the income levels intended to be served by_  
+| _the development; and_  
+|  _(E)_ _____the rents or set-asides authorized for the_  
+| _development;_  
+|  _(3)_ _____include housing market and demographic_  
+| _information to demonstrate how the qualified developments,_  
+| _supported by the tax credits under this subchapter and Chapter 233,_  
+| _Insurance Code, are addressing the need for affordable housing in_  
+| _their communities; and_  
+|  _(4)_ _____analyze any remaining disparities in the_  
+| _affordability of housing within those communities._  
+|  _(b)_ _____The department shall make a report delivered under this_  
+| _section available to the public._  
+|  SECTION 2. Subtitle B, Title 3, Insurance Code, is amended  
+| by adding Chapter 233 to read as follows:  
+| _CHAPTER 233._ ___CREDIT AGAINST CERTAIN TAXES_  
+| _FOR LOW-INCOME HOUSING DEVELOPMENTS_  
+| _SUBCHAPTER A._ ___GENERAL PROVISIONS_  
+|  _Sec. 233.0001. DEFINITIONS.  In this chapter:_  
+|  _(1)_ _____"Allocation certificate" and "qualified_  
+| _development" have the meanings assigned by Section 171.9241, Tax_  
+| _Code._  
+|  _(2)_ _____"State insurance tax liability" means any tax_  
+| _liability incurred by an entity under Chapters 221 through 226 or_  
+| _Chapter 281._  
+| _SUBCHAPTER B._ ___CREDIT_  
+|  _Sec._ ___233.0051._ _____CREDIT._ ___An entity is eligible for a credit_  
+| _against the entity's state insurance tax liability in the amount_  
+| _and under the conditions and limitations provided by this chapter_  
+| _if the entity owns an interest in a qualified development._  
+|  _Sec._ ___233.0052._ _____LENGTH OF CREDIT; LIMITATION._ ___The entity_  
+| _shall claim the credit in the manner provided by Section_  
+| _171.9244(a), Tax Code, subject to the limitation provided by_  
+| _Section 171.9244(b), Tax Code._ ___The entity may carry a surplus_  
+| _credit forward or backward as provided by Section 171.9245, Tax_  
+| _Code._  
+|  _Sec._ ___233.0053._ _____APPLICATION FOR CREDIT._ ___(a)_ ___An entity
+must_  
+| _apply for a credit under this chapter on or with the tax report for_  
+| _the tax year for which the credit is claimed and submit with the_  
+| _application a copy of the allocation certificate issued in_  
+| _connection with the qualified development and any other information_  
+| _required by Subchapter V, Chapter 171, Tax Code._  
+|  _(b)_ _____The comptroller shall adopt a form for the application_  
+| _for the credit. An entity must use this form in applying for the_  
+| _credit._  
+|  _Sec._ ___233.0054._ _____RULES; PROCEDURES. The comptroller and the_  
+| _Texas Department of Housing and Community Affairs, in consultation_  
+| _with each other, shall adopt rules and procedures to implement,_  
+| _administer, and enforce this chapter._  
+|  _Sec._ ___233.0055._ _____APPLICABLE PROVISIONS._ ___The provisions of_  
+| _Subchapter V, Chapter 171, Tax Code, relating to recapture,_  
+| _allocation of credit, filing requirements after allocation, and_  
+| _compliance monitoring apply to the credit authorized by this_  
+| _chapter._  
+|  SECTION 3. (a) The Texas Department of Housing and  
+| Community Affairs may begin issuing allocation certificates under  
+| Section 171.9243, Tax Code, as added by this Act, in an open cycle  
+| beginning on January 1, 2020.  
+|  (b) Subchapter V, Chapter 171, Tax Code, as added by this  
+| Act, and Chapter 233, Insurance Code, as added by this Act, apply  
+| only to a tax report originally due on or after January 1, 2021.  
+|  SECTION 4. This Act takes effect January 1, 2020.
+

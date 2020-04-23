@@ -1,0 +1,63 @@
+|  
+---|---  
+|  By: Deshotel | H.B. No. 2401  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the requirement that state agency employees complete  
+| cybersecurity awareness training.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter N-1, Chapter 2054, Government Code,  
+| is amended by adding Section 2054.5175 to read as follows:  
+|  Sec. 2054.5175. CYBERSECURITY AWARENESS TRAINING. Each  
+| state agency shall require all employees of the agency who have  
+| access to the agency's network or online systems, including  
+| electronic mail or Internet access, to complete training on  
+| cybersecurity awareness. The training must:  
+|  (1) be designed, administered, and maintained by a  
+| third-party vendor based in this state that:  
+|  (A) has offered professional security awareness  
+| training in this state for at least five years;  
+|  (B) has provided security awareness training to  
+| at least 100,000 people; and  
+|  (C) is recognized by the legal community as a  
+| leader in the security awareness training field;  
+|  (2) run on a web-based learning management system;  
+|  (3) include industry standards of content for  
+| cybersecurity training, including training on information  
+| governance, privacy, acceptable use, records management, password  
+| management, open records, spam, electronic mail and phishing, spear  
+| phishing, computer viruses and malware, ransomware, social  
+| engineering, data management, external or removable media, safe  
+| Internet habits, impersonation, improper usage, physical security,  
+| mobile data, and incident response;  
+|  (4) be capable of training at least 100,000 people;  
+|  (5) incorporate a management console allowing the  
+| entering of the employee's first name, last name, electronic mail  
+| address, state agency employer, and division in which the employee  
+| is employed;  
+|  (6) track the progress of an employee in completing  
+| the training;  
+|  (7) generate reports, including reports that display  
+| the progress in completing the training of:  
+|  (A) each division of a state agency;  
+|  (B) each state agency as a whole; and  
+|  (C) the entire state workforce;  
+|  (8) provide a flexible number of training licenses to  
+| accommodate an unknown number of employees being trained each year;  
+|  (9) be regularly updated to include training about new  
+| cybersecurity threats;  
+|  (10) have the ability to include content in addition  
+| to cybersecurity awareness training, including training on human  
+| resources policies and sexual harassment prevention;  
+|  (11) have the ability to display an image of the state  
+| seal or a state agency's seal or logo;  
+|  (12) have the ability to create groups and allow  
+| employees to be assigned to the groups;  
+|  (13) have the ability to assign training requirements  
+| to specific groups of employees; and  
+|  (14) have the ability to send electronic mail  
+| notifications that are customizable to employees enrolled in the  
+| training.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

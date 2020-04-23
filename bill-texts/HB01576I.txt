@@ -1,0 +1,241 @@
+| 86R5772 JG-F  
+---|---  
+|  By: Phelan | H.B. No. 1576  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the delivery of certain transportation services under  
+| Medicaid and certain other health and human services programs.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 531.02414(a), Government Code, is  
+| amended by amending Subdivision (1) and adding Subdivisions (1-a)  
+| and (3) to read as follows:  
+|  (1) "Medical transportation program" means the  
+| program that provides nonemergency transportation services [ ~~to and~~  
+|  ~~from covered health care services, based on medical necessity,~~ ] to  
+| recipients under Medicaid, the children with special health care  
+| needs program, and the transportation for indigent cancer patients  
+| program, who have no other means of transportation.  
+|  _(1-a)_ _____"Nonemergency transportation service" means a_  
+| _service provided to transport a person to or from medically_  
+| _necessary services covered under a health care program in which the_  
+| _person is enrolled. The term does not include a nonmedical_  
+| _transportation service as defined by Section 531.024142._  
+|  _(3)_ _____"Transportation network company" has the meaning_  
+| _assigned by Section 2402.001, Occupations Code._  
+|  SECTION 2. Section 531.02414, Government Code, is amended  
+| by amending Subsection (f) and adding Subsections (i) and (j) to  
+| read as follows:  
+|  (f) _Except as provided by Subsection (i), the_ [ ~~The~~ ]  
+| commission shall require compliance with the rules adopted under  
+| Subsection (e) in any contract entered into with a regional  
+| contracted broker to provide nonemergency transportation services  
+| under the medical transportation program.  
+|  _(i)_ _____A regional contracted broker may subcontract with a_  
+| _transportation network company to provide services under this_  
+| _section._ ___A rule or other requirement adopted by the executive_  
+| _commissioner under Subsection (e) does not apply to the_  
+| _subcontracted transportation network company or a motor vehicle_  
+| _operator who is part of the company's network._ ___The commission or_  
+| _the regional contracted broker may not require a motor vehicle_  
+| _operator who is part of the subcontracted transportation network_  
+| _company's network to enroll as a Medicaid provider to provide_  
+| _services under this section._  
+|  _(j)_ _____Notwithstanding any other law, a motor vehicle operator_  
+| _who is part of the network of a transportation network company that_  
+| _subcontracts with a regional contracted broker under Subsection (i)_  
+| _and who satisfies the driver requirements in Section 2402.107,_  
+| _Occupations Code, is qualified to provide services under this_  
+| _section. The commission and the regional contracted broker may not_  
+| _impose any additional requirements on a motor vehicle operator who_  
+| _satisfies the driver requirements in Section 2402.107, Occupations_  
+| _Code, to provide services under this section._  
+|  SECTION 3. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.024142 to read as follows:  
+|  _Sec._ ___531.024142._ _____NONMEDICAL TRANSPORTATION SERVICES UNDER_  
+| _MEDICAID. (a) In this section:_  
+|  _(1)_ _____"Managed care organization"_ ___means a managed care_  
+| _organization that contracts with the commission to provide health_  
+| _care services to Medicaid recipients under Chapter 533._  
+|  _(2) "Nonmedical transportation service" means:_  
+|  _(A)_ _____transportation of a Medicaid recipient_  
+| _enrolled in a managed care plan, other than a recipient whose_  
+| _medical or physical condition contraindicates the use of_  
+| _transportation services, to and from a medically necessary,_  
+| _nonemergency covered health care service that is scheduled not more_  
+| _than 48 hours before the transportation occurs, including_  
+| _transportation related to:_  
+|  _(i)_ _____discharge of a recipient from a health_  
+| _care facility;_  
+|  _(ii) receipt of urgent care;_  
+|  _(iii)_ _____obtaining pharmacy services and_  
+| _prescription drugs; and_  
+|  _(iv)_ _____obtaining any other time-sensitive_  
+| _covered health care service; and_  
+|  _(B)_ _____any other transportation to or from a_  
+| _medically necessary, nonemergency covered health care service the_  
+| _commission considers appropriate to be provided by a transportation_  
+| _vendor, as determined by commission rule or policy._  
+|  _(3)_ _____"Transportation network company" has the meaning_  
+| _assigned by Section 2402.001, Occupations Code._  
+|  _(4)_ _____"Transportation vendor" means an entity,_  
+| _including a transportation network company, that contracts with a_  
+| _managed care organization to provide nonmedical transportation_  
+| _services._  
+|  _(b)_ _____The executive commissioner shall adopt rules regarding_  
+| _the manner in which nonmedical transportation services may be_  
+| _arranged and provided._  
+|  _(c)_ _____The rules must require a managed care organization to_  
+| _create a process to:_  
+|  _(1)_ _____verify that a passenger is eligible to receive_  
+| _nonmedical transportation services; and_  
+|  _(2)_ _____ensure that nonmedical transportation services_  
+| _are provided only to and from covered health care services._  
+|  _(d)_ _____The rules must require a transportation vendor to,_  
+| _before permitting a motor vehicle operator to provide nonmedical_  
+| _transportation services:_  
+|  _(1) confirm that the operator:_  
+|  _(A) is at least 18 years of age;_  
+|  _(B)_ _____maintains a valid driver's license issued by_  
+| _this state, another state, or the District of Columbia; and_  
+|  _(C)_ _____possesses proof of registration and_  
+| _automobile financial responsibility for each motor vehicle to be_  
+| _used to provide nonmedical transportation services;_  
+|  _(2)_ _____conduct, or cause to be conducted, a local, state,_  
+| _and national criminal background check for the operator that_  
+| _includes the use of:_  
+|  _(A)_ _____a commercial multistate and_  
+| _multijurisdiction criminal records locator or other similar_  
+| _commercial nationwide database; and_  
+|  _(B)_ _____the national sex offender public website_  
+| _maintained by the United States Department of Justice or a_  
+| _successor agency;_  
+|  _(3)_ _____confirm that any vehicle to be used to provide_  
+| _nonmedical transportation services:_  
+|  _(A)_ _____meets the applicable requirements of Chapter_  
+| _548, Transportation Code; and_  
+|  _(B) has at least four doors; and_  
+|  _(4) obtain and review the operator's driving record._  
+|  _(e)_ _____The rules may not permit a motor vehicle operator to_  
+| _provide nonmedical transportation services if the operator:_  
+|  _(1)_ _____has been convicted in the three-year period_  
+| _preceding the issue date of the driving record obtained under_  
+| _Subsection (d)(4) of:_  
+|  _(A)_ _____more than three offenses classified by the_  
+| _Department of Public Safety as moving violations; or_  
+|  _(B) one or more of the following offenses:_  
+|  _(i)_ _____fleeing or attempting to elude a police_  
+| _officer under Section 545.421, Transportation Code;_  
+|  _(ii)_ _____reckless driving under Section_  
+| _545.401, Transportation Code;_  
+|  _(iii)_ _____driving without a valid driver's_  
+| _license under Section 521.025, Transportation Code; or_  
+|  _(iv)_ _____driving with an invalid driver's_  
+| _license under Section 521.457, Transportation Code;_  
+|  _(2)_ _____has been convicted in the preceding seven-year_  
+| _period of any of the following:_  
+|  _(A)_ _____driving while intoxicated under Section_  
+| _49.04 or 49.045, Penal Code;_  
+|  _(B) use of a motor vehicle to commit a felony;_  
+|  _(C) a felony crime involving property damage;_  
+|  _(D) fraud;_  
+|  _(E) theft;_  
+|  _(F) an act of violence; or_  
+|  _(G) an act of terrorism; or_  
+|  _(3)_ _____is found to be registered in the national sex_  
+| _offender public website maintained by the United States Department_  
+| _of Justice or a successor agency._  
+|  _(f) The commission may not require:_  
+|  _(1)_ _____a motor vehicle operator to enroll as a Medicaid_  
+| _provider to provide nonmedical transportation services; or_  
+|  _(2)_ _____a managed care organization to credential a motor_  
+| _vehicle operator to provide nonmedical transportation services._  
+|  _(g)_ _____Notwithstanding any other law, a motor vehicle operator_  
+| _who is part of a transportation network company's network and who_  
+| _satisfies the driver requirements in Section 2402.107, Occupations_  
+| _Code, is qualified to provide nonmedical transportation services._  
+| _The commission and a managed care organization may not impose any_  
+| _additional requirements on a motor vehicle operator who satisfies_  
+| _the driver requirements in Section 2402.107, Occupations Code, to_  
+| _provide nonmedical transportation services._  
+|  SECTION 4. Section 533.00257(a), Government Code, is  
+| amended by adding Subdivision (2-a) to read as follows:  
+|  _(2-a)_ _____"Transportation network company" has the_  
+| _meaning assigned by Section 2402.001, Occupations Code._  
+|  SECTION 5. Section 533.00257, Government Code, is amended  
+| by amending Subsections (d) and (g) and adding Subsections (k) and  
+| (l) to read as follows:  
+|  (d) A managed transportation organization that participates  
+| in the medical transportation program must attempt to contract with  
+| medical transportation providers that:  
+|  (1) are considered significant traditional providers,  
+| as defined by rule by the executive commissioner;  
+|  (2) _except as provided by Subsections (k) and (l),_  
+| meet the minimum quality and efficiency measures required under  
+| Subsection (g) and other requirements that may be imposed by the  
+| managed transportation organization; and  
+|  (3) agree to accept the prevailing contract rate of  
+| the managed transportation organization.  
+|  (g) _Except as provided by Subsections (k) and (l), the_ [ ~~The~~ ]  
+| commission shall require that managed transportation organizations  
+| and providers participating in the medical transportation program  
+| meet minimum quality and efficiency measures as determined by the  
+| commission.  
+|  _(k)_ _____A managed transportation organization may subcontract_  
+| _with a transportation network company to provide services under_  
+| _this section._ ___A rule or other requirement adopted by the executive_  
+| _commissioner under this section or Section 531.02414 does not apply_  
+| _to the subcontracted transportation network company or a motor_  
+| _vehicle operator who is part of the company's network._ ___The_  
+| _commission or the managed transportation organization may not_  
+| _require a motor vehicle operator who is part of the subcontracted_  
+| _transportation network company's network to enroll as a Medicaid_  
+| _provider to provide services under this section._  
+|  _(l)_ _____Notwithstanding any other law, a motor vehicle operator_  
+| _who is part of the network of a transportation network company that_  
+| _subcontracts with a managed transportation organization under_  
+| _Subsection (k) and who satisfies the driver requirements in Section_  
+| _2402.107, Occupations Code, is qualified to provide services under_  
+| _this section. The commission and the managed transportation_  
+| _organization may not impose any additional requirements on a motor_  
+| _vehicle operator who satisfies the driver requirements in Section_  
+| _2402.107, Occupations Code, to provide services under this section._  
+|  SECTION 6. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.00259 to read as follows:  
+|  _Sec._ ___533.00259._ _____DELIVERY OF NONMEDICAL TRANSPORTATION_  
+| _SERVICES. (a) In this section, "nonmedical transportation_  
+| _service" and "transportation vendor" have the meanings assigned by_  
+| _Section 531.024142._  
+|  _(b)_ _____Each managed care organization that contracts with the_  
+| _commission to provide health care services to recipients shall_  
+| _arrange for the provision of nonmedical transportation services. A_  
+| _managed care organization may contract with a transportation vendor_  
+| _or other third party to arrange for the provision of nonmedical_  
+| _transportation services. If a managed care organization contracts_  
+| _with a third party that is not a transportation vendor to arrange_  
+| _for the provision of nonmedical transportation services, the third_  
+| _party shall contract with a transportation vendor to deliver the_  
+| _nonmedical transportation services._  
+|  _(c)_ _____A managed care organization that contracts with a_  
+| _transportation vendor or other third party to arrange for the_  
+| _provision of nonmedical transportation services shall ensure the_  
+| _effective sharing and integration of service coordination, service_  
+| _authorization, and utilization management data between the managed_  
+| _care organization and the transportation vendor or third party._  
+|  _(d) A managed care organization may not require:_  
+|  _(1)_ _____a motor vehicle operator to enroll as a Medicaid_  
+| _provider to provide nonmedical transportation services; or_  
+|  _(2)_ _____the credentialing of a motor vehicle operator to_  
+| _provide nonmedical transportation services._  
+|  SECTION 7. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall adopt rules as necessary to implement the  
+| changes in law made by this Act.  
+|  SECTION 8. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

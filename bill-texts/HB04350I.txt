@@ -1,0 +1,55 @@
+| 86R13488 EAS-F  
+---|---  
+|  By: Bohac | H.B. No. 4350  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to emergency communications districts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 772.001(11), Health and Safety Code, is  
+| amended to read as follows:  
+|  (11) "Public agency" means a municipality _,_ [ ~~or~~ ]  
+| county _, or emergency services district_ in this state that provides  
+| or has authority to provide fire-fighting, law enforcement,  
+| ambulance, medical, or other emergency services.  
+|  SECTION 2. Section 772.112(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) A public safety answering point may transmit emergency  
+| response requests to private safety entities _, with the approval of_  
+| _the board and the consent of each participating jurisdiction_  
+| _serving the relevant area._ ___A participating jurisdiction's consent_  
+| _may be withdrawn at any time_.  
+|  SECTION 3. Section 772.212(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) A public safety answering point may transmit emergency  
+| response requests to private safety entities, with the approval of  
+| the board and the consent of _each_ [ ~~the~~ ] participating jurisdiction  
+| _serving the relevant area._ ___A participating jurisdiction's consent_  
+| _may be withdrawn at any time_.  
+|  SECTION 4. Section 772.312(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) A public safety answering point may transmit emergency  
+| response requests to private safety entities _, with the approval of_  
+| _the board and the consent of each participating jurisdiction_  
+| _serving the relevant area._ ___A participating jurisdiction's consent_  
+| _may be withdrawn at any time_.  
+|  SECTION 5. Section 772.515(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) A public safety answering point may transmit emergency  
+| response requests to private safety entities _, with the approval of_  
+| _the board and the consent of each participating jurisdiction_  
+| _serving the relevant area._ ___A participating jurisdiction's consent_  
+| _may be withdrawn at any time_.  
+|  SECTION 6. Section 772.614(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) A public safety answering point may transmit emergency  
+| response requests to private safety entities _,_ with the [ ~~board's~~ ]  
+| approval _of the board and the consent of each participating_  
+| _jurisdiction serving the relevant area._ ___A participating_  
+| _jurisdiction's consent may be withdrawn at any time_.  
+|  SECTION 7. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

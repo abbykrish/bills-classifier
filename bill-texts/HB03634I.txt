@@ -1,0 +1,36 @@
+|  
+---|---  
+|  By: Meza | H.B. No. 3634  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the authority of political subdivisions to establish  
+| election precincts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 42.061, Election Code, is amended to  
+| read as follows:  
+|  (a) The governing body of a political subdivision other than  
+| a county _may_ ~~shall~~ establish the election precincts for elections  
+| ordered by an authority of the political subdivision.  
+|  (c) An election precinct established for an election  
+| ordered by a city authority may not divide a county election  
+| precinct except as necessary to follow the city's boundary.  
+|  (d) _If a county precinct is divided according to Section_  
+| _42.061(c)the City shall maintain the informational integrity of the_  
+| _county precincts by submitting the voter ID numbers of those who_  
+| _cast votes to the county elections office by county precinct as well_  
+| _as the election precinct that was created under this section._  
+|  SECTION 2. Section 42.0615, Election Code, is amended to  
+| read as follows:  
+|  (2) Provide the voter registrar with a map of an  
+| adopted boundary change in a format that is compatible with the  
+| mapping format used by the registrar's office.  
+|  (3) _Provide the voter registrar with a corresponding_  
+| _list of voters in each of the county precincts that have been_  
+| _divided_.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution.  If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

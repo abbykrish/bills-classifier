@@ -1,0 +1,36 @@
+| 86R11097 KJE-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 3424  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to postconviction forensic DNA testing.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 64.03, Code of Criminal Procedure, is  
+| amended by adding Subsection (a-1) and amending Subsection (c) to  
+| read as follows:  
+|  _(a-1)_ _____In this article, the term "exculpatory results"_  
+| _includes DNA test results that indicate a match, pursuant to a_  
+| _comparison procedure conducted by a laboratory described by_  
+| _Subsection (c), between an unidentified DNA profile on the evidence_  
+| _tested and another individual's DNA profile contained in a DNA_  
+| _database described by Article 64.035 or otherwise in the possession_  
+| _of a law enforcement agency._  
+|  (c) If the convicting court finds in the affirmative the  
+| issues listed in Subsection (a)(1) and the convicted person meets  
+| the requirements of Subsection (a)(2), the court shall order that  
+| the requested forensic DNA testing be conducted. The court may  
+| order the test to be conducted by:  
+|  (1) _a laboratory of_ the Department of Public Safety;  
+|  (2) a laboratory operating under a contract with the  
+| department; or  
+|  (3) on the request of the convicted person, another  
+| laboratory if that laboratory is accredited under Article 38.01.  
+|  SECTION 2. The change in law made by this Act applies to a  
+| motion for forensic DNA testing filed on or after the effective date  
+| of this Act. A motion for forensic DNA testing filed before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the motion was filed, and the former law is continued in effect  
+| for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

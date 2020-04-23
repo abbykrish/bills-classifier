@@ -1,0 +1,41 @@
+| 86R11057 BRG-D  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 2375  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the enforcement of certain arbitration agreements.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 171, Civil Practice and  
+| Remedies Code, is amended by adding Section 171.0221 to read as  
+| follows:  
+|  _Sec._ ___171.0221._ _____CERTAIN ARBITRATION AGREEMENTS_  
+| _UNENFORCEABLE. (a) In this section:_  
+|  _(1)_ _____"Antitrust dispute" means a dispute involving a_  
+| _claim for damages caused by a violation of an antitrust law in which_  
+| _plaintiffs seek certification as a class._  
+|  _(2)_ _____"Civil rights dispute" means a dispute regarding a_  
+| _violation of the United States Constitution, the constitution of_  
+| _this state, or a statute that prohibits discrimination on the basis_  
+| _of race, sex, disability, religion, or national origin in which a_  
+| _party alleging a violation is an individual._  
+|  _(3)_ _____"Consumer dispute" means a dispute between an_  
+| _individual who seeks or acquires real or personal property,_  
+| _services, securities or other investments, money, or credit for_  
+| _personal, family, or household purposes and a seller or provider of_  
+| _the property, services, investments, money, or credit._  
+|  _(4)_ _____"Employment dispute" means a dispute between an_  
+| _employer and an employee._  
+|  _(b)_ _____A court may not enforce an agreement to arbitrate a_  
+| _dispute that had not yet arisen at the time the agreement was made_  
+| _if the agreement would require arbitration of an employment_  
+| _dispute, consumer dispute, antitrust dispute, or civil rights_  
+| _dispute or would have the effect of waiving the right of an employee_  
+| _to seek judicial enforcement of a right arising under federal or_  
+| _state law._  
+|  _(c)_ _____This section does not apply to an agreement to arbitrate_  
+| _between an employer and a labor union or between labor unions._  
+|  SECTION 2. This Act applies only to an agreement to  
+| arbitrate entered into on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

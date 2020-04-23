@@ -1,0 +1,140 @@
+|  
+---|---  
+|  By: Goldman | H.B. No. 2399  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of a biometric identity verification device to  
+| comply with certain alcohol related laws.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1.04, Alcoholic Beverage Code, is  
+| amended by adding subsection 29 to read as follows:  
+|  _(29)_ _____"Biometric Identity Verification Device" means a_  
+| _commercial device that instantly verifies the identity and age of a_  
+| _person by an electronic scan of a biometric of such person, via a_  
+| _fingerprint, iris image, facial image, or other biometric, or any_  
+| _combination thereof, which is referenced against identification_  
+| _issued by a governmental entity, where:_  
+|  _(A)_ _____the authenticity of the record was previously_  
+| _verified by electronic authentication process;_  
+|  _(B)_ _____the identity of and information about the_  
+| _record holder was previously verified through a secondary,_  
+| _electronic, authentication process or processes, utilizing_  
+| _commercially available data, such as a public records query or a_  
+| _knowledge based authentication quiz; and_  
+|  _(C)_ _____the authenticated record was securely linked_  
+| _to biometrics contemporaneously collected from the verified record_  
+| _holder and is stored in a centralized, highly secured, encrypted,_  
+| _biometric database._  
+|  SECTION 2. Section 106.03, Alcoholic Beverage Code, is  
+| amended to read as follows:  
+|  Sec. 106.03. SALE TO MINORS. (a)  A person commits an  
+| offense if with criminal negligence he sells an alcoholic beverage  
+| to a minor.  
+|  (b) A person who sells a minor an alcoholic beverage does  
+| not commit an offense _under this section, or any other section of_  
+| _this Code,_ if the minor falsely represents himself to be 21 years  
+| old or older by displaying an apparently valid proof of  
+| identification that contains a physical description and photograph  
+| consistent with the minor's appearance, purports to establish that  
+| the minor is 21 years of age or older, and was issued by a  
+| governmental agency, _or if the person relied on a biometric_  
+| _identity verification device as proof of identification._ The proof  
+| of identification may include a driver's license or identification  
+| card issued by the Department of Public Safety, a passport, or a  
+| military identification card, _or a biometric identity verification_  
+| _device_.  
+|  (c) An offense under this section is a Class A misdemeanor.  
+|  (d) Subsection (b) does not apply to a person who accesses  
+| electronically readable information under Section 109.61 _or a_  
+| _biometric identity verification device,_ that identifies a driver's  
+| license or identification certificate, as invalid.  
+|  SECTION 3. Section 106.13, Alcoholic Beverage Code, is  
+| amended to read as follows:  
+|  Sec. 106.13. SANCTIONS AGAINST RETAILER. (a)  Except as  
+| provided in Subsections (b) and (c) of this section, the commission  
+| or administrator may cancel or suspend for not more than 90 days a  
+| retail license or permit or a private club registration permit if it  
+| is found, on notice and hearing, that the licensee or permittee with  
+| criminal negligence sold, served, dispensed, or delivered an  
+| alcoholic beverage to a minor or with criminal negligence permitted  
+| a minor to violate Section 106.04 or 106.05 of this code on the  
+| licensed premises.  
+|  (b) For a second offense the commission or administrator may  
+| cancel the license or permit or suspend it for not more than six  
+| months. For a third offense within a period of 36 consecutive months  
+| the commission or administrator may cancel the permit or suspend it  
+| for not more than 12 months.  
+|  (c) The commission or administrator may relax the  
+| provisions of this section concerning suspension and cancellation  
+| and assess a sanction the commission or administrator finds just  
+| under the circumstances if, at a hearing, the licensee or permittee  
+| establishes to the satisfaction of the commission or administrator:  
+|  (1) that the violation could not reasonably have been  
+| prevented by the permittee or licensee by the exercise of due  
+| diligence;  
+|  (2) that the permittee or licensee was entrapped; or  
+|  (3) that an agent, servant, or employee of the  
+| permittee or licensee violated this code without the knowledge of  
+| the permittee or licensee;  
+|  (4) _or, if the permittee of its agent, servant, or_  
+| _employee relied on a biometric identity verification device to_  
+| _verify the customer's age._  
+|  SECTION 4. Section 109.61, Alcoholic Beverage Code, is  
+| amended to read as follows:  
+|  Sec. 109.61. USE OF CERTAIN ELECTRONICALLY READABLE  
+| INFORMATION. (a)  A person may access electronically readable  
+| information on a driver's license, commercial driver's license, or  
+| identification certificate, or _biometric identity verification_  
+| _device_ for the purpose of complying with this code or a rule of the  
+| commission, including for the purpose of preventing the person from  
+| committing an offense under this code.  
+|  (b) A person may not retain information accessed under this  
+| section unless the commission by rule requires the information to  
+| be retained. The person may not retain the information longer than  
+| the commission requires.  
+|  (b-1) Information retained may be printed to hard copy with  
+| a time and date confirmation from the transaction scan device or  
+| transferred to an electronic encrypted data storage or electronic  
+| record.  After printing or transferring data, the transaction scan  
+| device may clear the scanned information from the device or any  
+| memory in the device.  The commission by rule may set further  
+| requirements for the retention of information under this  
+| subsection.  
+|  (c) Information accessed under this section may not be  
+| marketed in any manner.  
+|  (d) A person who violates this section commits an offense.  
+| An offense under this section is a Class A misdemeanor.  
+|  (e) It is an affirmative defense to prosecution under this  
+| code, for an offense having as an element the age of a person, that:  
+|  (1) a transaction scan device _or biometric identity_  
+| _verification device_ identified the license or certificate of the  
+| purchaser as valid and that the person is over 21, and the defendant  
+| accessed the information and relied on the results in good faith; or  
+|  (2) if the defendant is the owner of a store in which  
+| alcoholic beverages are sold at retail, the offense occurs in  
+| connection with a sale by an employee of the owner, and the owner  
+| had provided the employee with:  
+|  (A) a transaction scan device _or biometric_  
+| _identity verification device_ in working condition;  
+|  (B) adequate training in the use of the  
+| transaction scan device _or biometric identity verification device_ ;  
+| and  
+|  (C) the defendant did not directly or indirectly  
+| encourage the employee to violate the law.  
+|  (f) The defense offered in Subsection (e) does not apply  
+| _applies_ in actions to cancel, deny, or suspend the license or  
+| permit, except as provided by rules adopted by the commission under  
+| Section 5.31.  
+|  (g) In this section, "transaction scan device" includes an  
+| electronic age verification system authorized by commission rule  
+| operated in conjunction with a point of sale terminal that scans the  
+| purchaser's driver's license or identification certificate upon  
+| enrollment, associates the purchaser's personal identifying  
+| information, as defined by Section 521.002(1)(C), Business &  
+| Commerce Code, with the purchaser's license or identification  
+| certificate information, and is capable of allowing a seller to  
+| verify a purchaser's age solely by accessing the data and  
+| information.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

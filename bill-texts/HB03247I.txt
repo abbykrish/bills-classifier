@@ -1,0 +1,724 @@
+| 86R6559 KFF-F  
+---|---  
+|  By: Martinez | H.B. No. 3247  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Texas Emergency Services Retirement System.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 861.001, Government Code, is amended by  
+| amending Subdivisions (4), (5), (8), (10), and (11-a) and adding  
+| Subdivisions (6-a), (6-b), (8-a), (8-b), and (10-a) to read as  
+| follows:  
+|  (4) "Dependent" means an unmarried child, natural or  
+| adopted, who:  
+|  (A) is less than 18 years of age;  
+|  (B) is less than 19 years of age and a full-time  
+| student at an elementary or secondary school; or  
+|  (C) became _permanently_ disabled before the  
+| child's 22nd birthday _, as determined by a local board_ [ ~~and remains~~  
+|  ~~disabled~~ ].  
+|  (5) "Emergency services" means only those services  
+| relating to fire, rescue, [ ~~and~~ ] emergency medical services, _and_  
+| _emergency response services_ [ ~~including support services for those~~  
+|  ~~duties, performed by a volunteer or auxiliary employee of a~~  
+|  ~~participating department~~ ].  
+|  _(6-a)_ _____"Governing body of a department" or "governing_  
+| _body of a participating department" means:_  
+|  _(A)_ _____the board of trustees or other governing body_  
+| _of the department; or_  
+|  _(B)_ _____if the department does not have a governing_  
+| _body, the governing body of the political subdivision._  
+|  _(6-b)_ _____"Governing body of a political subdivision"_  
+| _means the governing body of the political subdivision or unit of_  
+| _government of which the department is a part._  
+|  (8) "Member" means a _person having membership_  
+| [ ~~volunteer or auxiliary employee who participates~~ ] in the pension  
+| system.  
+|  _(8-a)_ _____"Participating department" means a department_  
+| _that elects to participate in the pension system under Section_  
+| _862.001._  
+|  _(8-b)_ _____"Participating department head" means the_  
+| _person designated as a participating department head under Section_  
+| _865.0115._  
+|  (10) "Qualified service" means service _performed_ :  
+|  (A) for a participating department that [ ~~is~~  
+|  ~~recognized as an emergency services department by its governing~~  
+|  ~~body and that~~ ] conducts at least 48 hours of training in a calendar  
+| year; and  
+|  (B) [ ~~that is performed~~ ] by a member in good  
+| standing in the department who:  
+|  (i) attends at least 20 hours of annual  
+| training and at least 25 percent of the department's emergencies in  
+| a calendar year;  
+|  (ii) attends at least 20 hours of annual  
+| training and provides support services for at least 25 percent of  
+| the department's emergencies in a calendar year; or  
+|  (iii) does not attend because the member is  
+| absent because of military duty.  
+|  _(10-a)_ _____"Retiree" means a person who receives a service_  
+| _or disability retirement benefit from the pension system._  
+|  (11-a) "Support services" means services that  
+| directly assist in the delivery of emergency services. The term  
+| includes _:_  
+|  _(A)_ directing traffic at an emergency scene _;_  
+|  _(B)_ [ ~~,~~ ] dispatching emergency services  
+| personnel _;_  
+|  _(C)_ [ ~~,~~ ] driving an emergency services vehicle _;_  
+|  _(D)_ [ ~~,~~ ] supplying or maintaining equipment at an  
+| emergency scene _;_  
+|  _(E)_ [ ~~,~~ ] providing essential recordkeeping for a  
+| participating department _;_ [ ~~,~~ ] and  
+|  _(F)_ other similar services as determined by a  
+| _participating_ department.  
+|  SECTION 2. Section 861.008, Government Code, is amended to  
+| read as follows:  
+|  Sec. 861.008. IMMUNITY FROM LIABILITY. The state board,  
+| _the_ executive director, _a local board, each department head,_ and  
+| employees of the pension system are not liable for any action taken  
+| or omission made or suffered by them in good faith in the  
+| performance of any duty or prerogative in connection with the  
+| administration of the pension system.  
+|  SECTION 3. Section 862.001, Government Code, is amended to  
+| read as follows:  
+|  Sec. 862.001. PARTICIPATION BY DEPARTMENT. (a) _For_  
+| _purposes of this section, "department" means a department or other_  
+| _organization that:_  
+|  _(1)_ _____performs emergency services, including a_  
+| _volunteer fire department, as defined by Section 614.101; and_  
+|  _(2) is not a for-profit entity._  
+|  _(a-1)_ The governing body of a department [ ~~that performs~~  
+|  ~~emergency services~~ ] may, in the manner provided for taking official  
+| action by the body, elect to participate in the pension system. _The_  
+| [ ~~A~~ ] governing body _of a department_ shall notify the executive  
+| director as soon as practicable of an election made under this  
+| subsection. Except as provided by Subsection (b), an election to  
+| participate under this subsection is irrevocable.  
+|  (b) The _state board may adopt rules that allow the_ governing  
+| body of a _participating_ department _to revoke its_ [ ~~that makes an~~ ]  
+| election _to participate in the pension system_ under Subsection  
+| _(a-1) in a manner that maintains an actuarially sound_ [ ~~(a) may~~  
+|  ~~terminate participation in the~~ ] pension system [ ~~not later than
+the~~  
+|  ~~fifth anniversary of the date of the election to participate,~~  
+|  ~~except that a department that begins participation after September~~  
+|  ~~1, 2005, may not terminate that participation~~ ].  
+|  SECTION 4. Section 862.002, Government Code, is amended to  
+| read as follows:  
+|  Sec. 862.002. MEMBERSHIP BY INDIVIDUAL. (a) Except as  
+| otherwise provided by this section and Section 862.0021, each  
+| person who performs _emergency services or, subject to Section_  
+| _862.0025, support services_ [ ~~service~~ ] as a volunteer or [
+~~auxiliary~~ ]  
+| employee of a participating department _, regardless of whether the_  
+| _person receives compensation from the participating department for_  
+| _the services,_ is a member of the pension system.  
+|  (b) A person is not a member of the pension system if the  
+| person:  
+|  (1) is less than 18 years of age;  
+|  (2) is _subject to_ [ ~~in~~ ] a _waiting_ [ ~~probationary~~ ] period  
+| _under Section 862.0021_ [ ~~of service before becoming a regular member~~  
+|  ~~of a participating department~~ ] for which the _participating_  
+| department is not making contributions for the _training or_ service;  
+|  (3) does not receive a certification of physical  
+| fitness or assignment to perform support services under Section  
+| 862.003; or  
+|  (4) is _a retiree_ [ ~~retired under this subtitle~~ ],  
+| regardless of whether the person continues to _perform emergency or_  
+| _support services_ [ ~~participate in emergency service-related~~  
+|  ~~functions~~ ] for a department [ ~~from which the person retired~~ ].  
+|  SECTION 5. Section 862.0021, Government Code, is amended to  
+| read as follows:  
+|  Sec. 862.0021. _WAITING_ [ ~~PROBATIONARY~~ ] PERIOD BEFORE  
+| MEMBERSHIP. (a) A participating department may impose a _waiting_  
+| [ ~~probationary~~ ] period for a _person who begins performing, or_  
+| _training to perform, emergency services or, subject to Section_  
+| _862.0025, support services as a_ volunteer or [ ~~auxiliary~~ ] employee  
+| _of the department during which time the department is not required_  
+| _to enroll the person as a member of the pension system_.  
+|  (b) A _waiting_ [ ~~probationary~~ ] period imposed under this  
+| section must end not later than six months after the date the person  
+| begins service _or training_ with the participating department.  
+|  (c) The _governing body of a_ participating department _may,_  
+| _but_ is not required to _,_ pay contributions for the person during the  
+| _waiting_ [ ~~probationary~~ ] period.  
+|  (d) A person's membership in the pension system begins on  
+| the date that the _governing body of a participating_ department  
+| begins payment of contributions for that person, without regard to  
+| whether the _:_  
+|  _(1)_ person's _membership in the pension system_  
+| [ ~~service~~ ] is subject to a _waiting_ [ ~~probationary~~ ] period _under
+this_  
+| _section; or_  
+|  _(2)_ _____person is subject to a probationary period imposed_  
+| _by a participating department_ for other purposes.  
+|  SECTION 6. Sections 862.0025(a) and (c), Government Code,  
+| are amended to read as follows:  
+|  (a) Except as provided by Subsection (b), the governing body  
+| of a participating department may _, at any time,_ make an election to  
+| include all persons who provide support services for the department  
+| as members of the pension system [ ~~on the same terms as all other~~  
+|  ~~volunteers of the department~~ ]. An election under this section  
+| takes effect on the first day of the calendar month that begins  
+| after the month in which the election is made and communicated to  
+| the executive director. Once made, an election under this section  
+| is irrevocable.  
+|  (c) After an election under this section, a participating  
+| department that previously did not enroll its support staff as  
+| members of the pension system may purchase service credit _for_  
+| _service_ performed before the date of the election under the terms  
+| required for prior service credit for service before departmental  
+| participation _under Section 863.004_.  
+|  SECTION 7. Section 862.003, Government Code, is amended to  
+| read as follows:  
+|  Sec. 862.003. CERTIFICATION OF PHYSICAL FITNESS. (a) A  
+| _person who performs emergency services for a participating_  
+| _department_ [ ~~prospective member~~ ] shall present to the _participating_  
+| _department_ [ ~~local~~ ] head [ ~~of the department, for delivery to the~~  
+|  ~~local board,~~ ] a certification of physical fitness by a qualified  
+| physician. [ ~~The person becomes a member of the pension system if~~  
+|  ~~the local board accepts the certification or if the local board~~  
+|  ~~assigns the person to perform support services and enrolls its~~  
+|  ~~support staff as members of the system.~~ ]  
+|  (b) _If a participating department provides membership to a_  
+| _person who performs support services under Section 862.0025, the_  
+| _participating department head_ [ ~~A local board~~ ] shall assign a person  
+| to perform support services if the person _:_  
+|  _(1)_ does not present an acceptable certification _under_  
+| _Subsection (a); or_  
+|  _(2)_ _____will only perform support services for the_  
+| _department_ [ ~~and the person is at least 18 years of age, is not~~  
+|  ~~retired from the pension system, and is not serving a probationary~~  
+|  ~~period before becoming a regular member of a participating~~  
+|  ~~department~~ ].  
+|  SECTION 8. Section 863.003, Government Code, is amended to  
+| read as follows:  
+|  Sec. 863.003. _RECOGNITION_ [ ~~TRANSFER~~ ] OF _PRIOR_ SERVICE  
+| CREDIT. A member who terminates service, except by _service_  
+| retirement _under Chapter 864_ , and later resumes service with the  
+| same participating department or begins service with another  
+| participating department may _receive service credit for_ [ ~~transfer~~ ]  
+| all previously accrued service credit _in the pension system earned_  
+| _for service with any participating_ [ ~~to the new~~ ] department.  
+|  SECTION 9. Chapter 863, Government Code, is amended by  
+| adding Section 863.0045 to read as follows:  
+|  _Sec._ ___863.0045._ _____SERVICE CREDIT AND MEMBERSHIP IN MULTIPLE_  
+| _PUBLIC RETIREMENT SYSTEMS. In accordance with Section 67(a)(2),_  
+| _Article XVI, Texas Constitution, a person may not earn service_  
+| _credit for the same service with the pension system and another_  
+| _public retirement system._  
+|  SECTION 10. Section 863.005, Government Code, is amended to  
+| read as follows:  
+|  Sec. 863.005. CHARGE FOR CERTAIN PAST DUE CONTRIBUTIONS.  
+| The state board by rule may impose an interest charge on  
+| contributions due because of a correction of an error [ ~~by a local~~  
+|  ~~board~~ ] related to enrollment or qualified service. The charge must  
+| be based on the pension system's current assumed rate of return.  
+| Charges collected shall be deposited in the fund.  
+|  SECTION 11. Section 864.001(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The state board may change the benefit formula for any  
+| person who is not _a retiree_ [ ~~an annuitant~~ ] of the pension system.  
+|  SECTION 12. Section 864.002(a), Government Code, is amended  
+| to read as follows:  
+|  (a) A service retirement annuity is payable in monthly  
+| installments based on:  
+|  (1) the [ ~~governing body's~~ ] average monthly  
+| contribution during the member's term of qualified service _with all_  
+| _participating departments_ under this subtitle, not including a  
+| contribution to reduce the unfunded accrued actuarial liability of  
+| the pension system; and  
+|  (2) a formula adopted by the state board by rule that  
+| allows the pension system, assuming maximum state contributions are  
+| provided under Section 865.015, to be maintained as actuarially  
+| sound.  
+|  SECTION 13. Section 864.004, Government Code, is amended to  
+| read as follows:  
+|  Sec. 864.004. _TEMPORARY_ DISABILITY RETIREMENT BENEFITS.  
+| (a) A member is entitled to disability retirement benefits from the  
+| pension system only if a local board determines that the member  
+| became disabled during the performance of emergency _services or_  
+| _support services_ [ ~~service duties~~ ] and is unable to return to work at  
+| the member's regular occupation or, if the member is a student, is  
+| unable to return to the member's scholastic studies. A disabled  
+| member must, at the time of disability, elect between a service  
+| retirement annuity or disability retirement benefits, if eligible  
+| for both.  
+|  (b) _Subject to Subsection (c), a_ [ ~~A disabled~~ ] member  
+| described by Subsection (a) who does not elect to receive a service  
+| retirement annuity is entitled to _a temporary_ disability retirement  
+| _benefit_ [ ~~benefits~~ ] of _:_  
+|  _(1)_ $300 _per_ [ ~~a~~ ] month _;_ or  
+|  _(2)_ a greater amount that the state board by rule  
+| adopts based on _the_ monthly contributions _made for the members by_  
+| [ ~~of~~ ] a participating department [ ~~for its members~~ ].  
+|  (c) _Except as provided by Section 864.005, a temporary_ [ ~~To~~  
+|  ~~continue to receive~~ ] disability retirement _benefit under_ [
+~~benefits~~  
+|  ~~in the form of a continuing annuity, computed in the manner~~  
+|  ~~described by~~ ] Subsection (b) _must cease on the expiration of a_  
+| _period, not to exceed one year, determined to be the likely duration_  
+| _of the disability by a physician in a written statement to the_  
+| _pension board. The local board shall select the physician making a_  
+| _determination under this subsection_ [ ~~, a person who is determined by~~  
+|  ~~a local board to be temporarily disabled must:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~apply to the medical board appointed by the state~~  
+|  ~~board; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~not later than the first anniversary of the date~~  
+|  ~~the person was determined to be temporarily disabled, be certified~~  
+|  ~~by the medical board as permanently disabled for the performance of~~  
+|  ~~the duties of the person's regular occupation~~ ].  
+|  SECTION 14. Sections 864.005(a), (b), (d), and (h),  
+| Government Code, are amended to read as follows:  
+|  (a) A local board _may_ [ ~~shall~~ ] require a member who is  
+| receiving _a_ temporary disability _retirement benefit_ [ ~~benefits~~ ] to  
+| file a disability rating report every three months from a physician  
+| chosen by the local board. If a report indicates a significant  
+| improvement in condition, the local board, after notice and a  
+| hearing, may adopt an order to terminate _temporary disability_  
+| _retirement benefit_ payments. The local board shall send a copy of  
+| each order adopted under this subsection to the executive director.  
+|  (b) Temporary disability benefits cease if _:_  
+|  _(1)_ the recipient returns to work at the person's  
+| regular occupation, resumes scholastic studies, or performs  
+| emergency _services or support services_ [ ~~service duties~~ ] for any  
+| _participating department or other entity; or_  
+|  _(2)_ [ ~~agency, or if~~ ] the local board adopts an order  
+| under Subsection (d).  
+|  (d) If the local board has reason to believe that a ground  
+| for termination of temporary disability _retirement_ benefits  
+| exists, the local board may set a date for a hearing on the matter.  
+| The local board, after notice and a hearing, may adopt an order  
+| terminating temporary disability _retirement_ benefits if the local  
+| board determines that a ground for termination exists. The local  
+| board may not adopt an order under this subsection on the basis of a  
+| physician's previously submitted statement as to the likely  
+| duration of the disability if the local board determines, after a  
+| hearing, that the disability continues. The local board shall send  
+| a copy of each order adopted under this subsection to the executive  
+| director.  
+|  (h) _A_ [ ~~The state board or a~~ ] local board may require  
+| financial information from a person as a condition to the continued  
+| receipt of _temporary_ disability retirement benefits, including  
+| federal income tax returns and wage earning forms. Failure to  
+| timely provide requested information is a ground for terminating  
+| benefits.  
+|  SECTION 15. Chapter 864, Government Code, is amended by  
+| adding Section 864.0051 to read as follows:  
+|  _Sec._ ___864.0051._ _____CONTINUING DISABILITY RETIREMENT BENEFITS._  
+| _(a) To receive disability retirement benefits in the form of a_  
+| _continuing annuity provided beyond the time prescribed under_  
+| _Section 864.005, a person who has been determined by a local board_  
+| _to be temporarily disabled must:_  
+|  _(1)_ _____not later than the first anniversary of the date_  
+| _the person was determined to be temporarily disabled, apply to the_  
+| _medical board designated under Section 865.020 in the manner and_  
+| _form prescribed by the medical board; and_  
+|  _(2)_ _____be certified by the medical board as permanently_  
+| _disabled for the performance of the duties of any occupation:_  
+|  _(A)_ _____for which the person is reasonably suited by_  
+| _education, training, and experience; and_  
+|  _(B)_ _____that could reasonably be expected to provide_  
+| _the person with at least 75 percent of the salary the person was_  
+| _earning at the time the disability occurred._  
+|  _(b)_ _____The amount of a continuing disability retirement_  
+| _annuity under this section is determined in the same manner as for a_  
+| _temporary disability retirement benefit under Section 864.004(b)._  
+|  _(c)_ _____Except as otherwise provided by this section, a_  
+| _continuing disability retirement annuity terminates on the fifth_  
+| _anniversary of the date that payment of the continuing disability_  
+| _retirement annuity begins following the certification of the_  
+| _continuation of the disability under Subsection (a)._  
+|  _(d)_ _____To continue receiving payments of a continuing_  
+| _disability retirement annuity after the fifth anniversary, the_  
+| _retiree must be recertified as permanently disabled by the medical_  
+| _board every five years using the same standard prescribed by_  
+| _Subsection (a)(2)._  
+|  _(e)_ _____Payments of a continuing disability retirement annuity_  
+| _to a retiree certified by the medical board as permanently disabled_  
+| _under Subsection (a) or (d) shall cease if the retiree:_  
+|  _(1)_ _____returns to work at any occupation that provides_  
+| _the person with at least 75 percent of the salary the person was_  
+| _earning at the time the disability occurred;_  
+|  _(2)_ _____performs emergency services or support services_  
+| _for any participating department; or_  
+|  _(3)_ _____rejects a suitable offer of employment, as_  
+| _determined by the local board._  
+|  _(f)_ _____If the state board has reason to believe that a ground_  
+| _for termination of a continuing disability retirement annuity_  
+| _exists, the state board shall set a date for a hearing on the_  
+| _continuation or termination of the annuity. If the state board_  
+| _determines that a ground for termination exists, the state board,_  
+| _after notice and a hearing, shall adopt an order terminating the_  
+| _continuing disability retirement annuity._  
+|  _(g)_ _____The state board may require financial information,_  
+| _including federal income tax returns and wage earning forms, from a_  
+| _retiree as a condition of the continued receipt of continuing_  
+| _disability retirement benefits. Failure to timely provide_  
+| _requested information is a ground for terminating benefits._  
+|  SECTION 16. Section 864.006, Government Code, is amended to  
+| read as follows:  
+|  Sec. 864.006. MEMBER SERVICE DEATH BENEFITS. (a) The  
+| surviving spouse and dependents of a member who dies as a result of  
+| performing emergency _services or support services_ [ ~~service duties~~ ]  
+| are entitled to receive in equal shares a death benefit annuity  
+| equal to the service retirement annuity that the decedent would  
+| have been entitled to receive if the decedent had been able to  
+| retire, vested at 100 percent, on the date of the decedent's death.  
+|  (b) The beneficiary of a member who dies as a result of  
+| performing emergency _services or support services_ [ ~~service duties~~ ]  
+| is entitled to a lump-sum benefit of $5,000 or a greater amount that  
+| the state board provides by rule.  
+|  SECTION 17. Sections 864.007(a) and (b), Government Code,  
+| are amended to read as follows:  
+|  (a) The state board by rule may provide one or more  
+| beneficiaries of a deceased member whose death did not result from  
+| the performance of emergency _services or support services_ [ ~~service~~  
+|  ~~duties~~ ] a benefit, which may be a lump-sum amount or an annuity.  
+|  (b) A rule adopted under this section must include the type  
+| of eligible recipient of the benefit, including any service or age  
+| requirement, and the method of calculating the amount of the  
+| benefit. A rule may include any other terms the _state_ board  
+| considers appropriate.  
+|  SECTION 18. Section 864.010, Government Code, is amended to  
+| read as follows:  
+|  Sec. 864.010. BENEFITS FOR MEMBERS AND RETIREES OF  
+| DEPARTMENT THAT WITHDRAWS FROM PARTICIPATION OR CEASES TO EXIST.  
+| (a) The executive director shall continue to administer benefits  
+| of the pension system for members and retirees who _performed_  
+| _emergency services or support services_ [ ~~perform service~~ ] for a  
+| formerly participating department that has withdrawn from  
+| participation in the pension system or has ceased to exist.  
+|  (b) The governing body of a political subdivision [ ~~in which~~  
+|  ~~a department described by Subsection (a) is or was located~~ ] shall  
+| perform the duties required of a local board for the members and  
+| retirees who served for the formerly participating department _. The_  
+| _state board may by rule:_  
+|  _(1)_ _____provide a procedure under which the governing body_  
+| _of a department may delegate its duties under this subsection to the_  
+| _executive director; or_  
+|  _(2)_ _____appoint the executive director to perform the_  
+| _duties of a governing body of a political subdivision if the_  
+| _governing body fails to perform or delegate its duties under this_  
+| _subsection within a prescribed period of time_.  
+|  SECTION 19. Section 864.011, Government Code, is amended to  
+| read as follows:  
+|  Sec. 864.011. FIRST PAYMENT OF RETIREMENT OR DEATH BENEFIT  
+| ANNUITY. The cashing or depositing of the first payment of a  
+| service retirement annuity, disability retirement annuity, or  
+| death benefit annuity by a person entitled to it, or the receipt by  
+| a financial institution for credit to that person's account of a  
+| transfer of funds by the pension system through electronic means,  
+| is considered acceptance of the amount of the annuity and of the  
+| amount of _qualified_ service of the person on whose service the  
+| annuity is based.  
+|  SECTION 20. Section 864.013, Government Code, is amended to  
+| read as follows:  
+|  Sec. 864.013. COST-OF-LIVING INCREASE. The state board by  
+| rule may provide a cost-of-living increase for any benefit provided  
+| by the pension system. If benefits are increased, the state board  
+| shall require an increase in _monthly_ [ ~~governing body~~ ] contributions  
+| if necessary to maintain an actuarially sound pension system.  
+|  SECTION 21. Section 864.0135, Government Code, is amended  
+| to read as follows:  
+|  Sec. 864.0135. OPTIONAL ANNUITY INCREASE OR SUPPLEMENTAL  
+| PAYMENTS. (a) The state board by rule may authorize _the governing_  
+| _body of_ a participating department to:  
+|  (1) make one or more supplemental payments to _its_  
+| retirees and [ ~~other~~ ] beneficiaries of the pension system; or  
+|  (2) provide an increase in the amount of annuities  
+| paid to retirees and [ ~~other~~ ] beneficiaries of the pension system.  
+|  (b) _The governing body of a_ [ ~~A~~ ] participating department  
+| that elects an option under a rule adopted under this section shall  
+| fund all increased benefits that are provided to _its_ retirees and  
+| [ ~~other~~ ] beneficiaries of the _pension system_ [ ~~department~~ ] under
+the  
+| option.  
+|  SECTION 22. The heading to Section 864.015, Government  
+| Code, is amended to read as follows:  
+|  Sec. 864.015. BENEFICIARY CAUSING DEATH OF MEMBER OR  
+| _RETIREE_ [ ~~ANNUITANT~~ ].  
+|  SECTION 23. Sections 864.015(a), (b), and (d), Government  
+| Code, are amended to read as follows:  
+|  (a) A benefit payable on the death of a member or _retiree_  
+| [ ~~annuitant~~ ] may not be paid to a person convicted of causing that  
+| death but instead is payable as if the convicted person had  
+| predeceased the decedent.  
+|  (b) The pension system is not required to change the  
+| recipient of benefits under this section unless it receives actual  
+| notice of the conviction of a beneficiary.  The system may delay  
+| payment of a benefit payable on the death of a member or _retiree_  
+| [ ~~annuitant~~ ] pending the results of a criminal investigation and of  
+| legal proceedings relating to the cause of death.  
+|  (d) For the purposes of this section, a person has been  
+| convicted of causing the death of a member or _retiree_ [ ~~annuitant~~ ] if  
+| the person:  
+|  (1) pleads guilty or nolo contendere to, or is found  
+| guilty by a court of, an offense at the trial of which it is  
+| established that the person's intentional, knowing, or reckless act  
+| or omission resulted in the death of a person who was a member or  
+| _retiree_ [ ~~annuitant~~ ], regardless of whether sentence is imposed or  
+| probated; and  
+|  (2) has no appeal of the conviction pending and the  
+| time provided for appeal has expired.  
+|  SECTION 24. Section 864.016, Government Code, is amended by  
+| amending Subsections (a), (b), (c), (d), and (e) and adding  
+| Subsection (a-1) to read as follows:  
+|  (a) _An application_ [ ~~A claim~~ ] for disability retirement  
+| benefits or a [ ~~lump-sum~~ ] death benefit must be filed with the local  
+| board.  [ ~~A claim for service retirement benefits must be filed with~~  
+|  ~~the executive director, who shall forward the claim to the~~  
+|  ~~appropriate local board for a hearing. A claim for a death benefit~~  
+|  ~~annuity must be filed with the executive director.~~ ~~~~ ~~The
+executive~~  
+|  ~~director shall make a determination of the merits of the claim for a~~  
+|  ~~death benefit annuity and issue a decision to the claimant.~~ ]  On  
+| receiving _an application_ [ ~~a claim~~ ] under this _subsection_ [
+~~section~~ ],  
+| the local board shall hold a hearing to decide the _merits of the_  
+| _application and whether to approve or deny the application_ [ ~~claim~~ ].  
+| The local board shall send a written copy of its decision to the  
+| claimant _,_ [ ~~and~~ ] the _applicant, and the_ executive director.  [
+~~If a~~  
+|  ~~local board does not determine a claim for service retirement~~  
+|  ~~benefits and file its determination with the executive director~~  
+|  ~~before the 16th day after the date the local board receives the~~  
+|  ~~claim, the executive director may determine the merits of the~~  
+|  ~~claim.~~ ]  
+|  _(a-1)_ _____A claim for a service retirement annuity must be filed_  
+| _with the executive director._  
+|  (b) A person aggrieved by a decision of a local board _or of_  
+| _the executive director_ relating to eligibility for or the amount of  
+| benefits under this subtitle may appeal the decision to the state  
+| board.  
+|  (c) An appeal of a local board _or executive director_  
+| decision under this section is begun by delivering a notice of  
+| appeal to the presiding officer or secretary of the local board that  
+| made the decision _or to the executive director, as applicable_.  The  
+| notice must be delivered not later than the 20th day after the date  
+| of the decision and contain a brief description of the reasons for  
+| the appeal.  The aggrieved person must file a copy of the notice  
+| with the state board.  
+|  (d) An appeal of a local board _or executive director_  
+| decision under this section is held in Austin and is a contested  
+| case under Chapter 2001, conducted as a de novo hearing by the State  
+| Office of Administrative Hearings.  
+|  (e) After a hearing under Subsection (d), the state board  
+| shall decide each appeal from a local board _or executive director_  
+| decision, issue a written opinion, and notify the local board _or_  
+| _executive director, as applicable,_ and the claimant if the state  
+| board overrules the [ ~~local board's~~ ] decision.  
+|  SECTION 25. Section 865.001, Government Code, is amended by  
+| amending Subsection (b) and adding Subsection (b-1) to read as  
+| follows:  
+|  (b) _Except as provided by Subsection (b-1), at_ [ ~~At~~ ] least  
+| five trustees must be active members of the pension system, one of  
+| whom must represent emergency medical services personnel.  
+|  _(b-1)_ _____If there are no participating departments in the_  
+| _pension system that provide emergency medical services, the_  
+| _governor is not required to appoint a trustee to represent_  
+| _emergency medical services personnel._  
+|  SECTION 26. Section 865.006, Government Code, is amended by  
+| amending Subsection (a) and adding Subsection (d) to read as  
+| follows:  
+|  (a) The state board shall employ a certified public  
+| accountant, an actuary, and an investment consultant for the fund  
+| and may acquire computer, custodial, or investment management  
+| services for the fund.  The costs of accounting, actuarial,  
+| investment consulting, computer, custodial, or investment  
+| management services and other administrative expenses may be paid  
+| from income earned by investment of the fund.  No portion of the  
+| corpus or income of the fund may be used for purposes other than the  
+| benefit of members, _retirees_ [ ~~retired emergency services~~  
+|  ~~personnel~~ ], and their beneficiaries.  
+|  _(d)_ _____The state board is responsible for seeking and_  
+| _recovering any benefits fraudulently acquired from the pension_  
+| _system. If the state board suspects fraud has occurred, the state_  
+| _board shall notify the appropriate local board and the benefit_  
+| _recipient and hold a hearing to determine whether fraud has_  
+| _occurred. If, after the hearing, the state board determines that_  
+| _benefits from the pension system have been or are being_  
+| _fraudulently acquired, the state board shall seek appropriate_  
+| _relief._  
+|  SECTION 27. Section 865.007(c), Government Code, is amended  
+| to read as follows:  
+|  (c) The state board or the executive director may accept on  
+| behalf of the pension system gifts of money or other property from  
+| any public or private source. _Money received under this subsection_  
+| _shall be deposited into the fund._  
+|  SECTION 28. Section 865.0095(a), Government Code, is  
+| amended to read as follows:  
+|  (a) The state board, by a majority vote of all members,  
+| shall appoint a person other than a member of the _state_ board to  
+| serve at the _state_ board's will as executive director.  
+|  SECTION 29. Section 865.010, Government Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____Not later than the 30th day after the date the executive_  
+| _director receives from a participating department head notice of a_  
+| _change in the membership records of the participating department,_  
+| _the executive director shall notify the presiding officer of the_  
+| _local board of the participating department of the change._  
+|  SECTION 30. Sections 865.011(a) and (b), Government Code,  
+| are amended to read as follows:  
+|  (a) The executive director may at any reasonable time  
+| examine the _:_  
+|  _(1)_ records and accounts of _a_ local _board; and_  
+|  _(2)_ _____membership records of a participating department_  
+| _head_ [ ~~boards~~ ].  
+|  (b) The executive director shall _:_  
+|  _(1)_ require in a timely manner periodic reports from  
+| _participating department heads and_ [ ~~the~~ ] local boards _;_ and  
+|  _(2)_ [ ~~shall~~ ] prepare necessary forms for use by  
+| _participating departments and_ local boards.  
+|  SECTION 31. Chapter 865, Government Code, is amended by  
+| adding Sections 865.0115 and 865.0116 to read as follows:  
+|  _Sec._ ___865.0115._ _____PARTICIPATING DEPARTMENT HEAD. (a)_ ___Except_  
+| _as provided by Subsection (b), the chief, designated leader, or_  
+| _other executive head of a participating department is the_  
+| _participating department head._  
+|  _(b)_ _____Subject to the approval of the executive director, the_  
+| _governing body of a participating department may designate a_  
+| _participating department head._  
+|  _Sec._ ___865.0116._ _____PARTICIPATING DEPARTMENT HEAD'S DUTIES. The_  
+| _participating department head:_  
+|  _(1) is responsible for:_  
+|  _(A)_ _____enrolling new members in the pension system;_  
+| _and_  
+|  _(B)_ _____maintaining current and accurate membership_  
+| _records; and_  
+|  _(2)_ _____shall provide information to the pension system_  
+| _related to changes in the membership records of the participating_  
+| _department in the time and manner prescribed by the pension system._  
+|  SECTION 32. Sections 865.012(a), (a-1), and (c), Government  
+| Code, are amended to read as follows:  
+|  (a) A local board is composed of:  
+|  (1) one trustee selected by the governing body of the  
+| political subdivision [ ~~of which a participating department is a~~  
+|  ~~part~~ ];  
+|  (2) except as provided by Subsection (a-1), three  
+| trustees who are active members representing a participating  
+| department chosen by a majority of the _members_ [ ~~emergency services~~  
+|  ~~personnel~~ ] in the department [ ~~who are eligible to participate in~~  
+|  ~~the pension system~~ ]; and  
+|  (3) two trustees who are representatives of the  
+| political subdivision _or unit of government_ who are chosen by the  
+| other members of the local board.  
+|  (a-1) If a participating department does not have a  
+| sufficient number of active members to serve on a local board under  
+| Subsection (a)(2), the other members of the local board, or if there  
+| are no other members of the local board, the governing body of the  
+| political subdivision [ ~~of which the department is a part~~ ] shall  
+| select one or more trustees to serve under that _subsection_  
+| [ ~~subdivision~~ ]. A person selected under this subsection to serve as  
+| a trustee must be:  
+|  (1) a retiree of the pension system; or  
+|  (2) a beneficiary of the pension system who is the  
+| surviving spouse of a former member or retiree.  
+|  (c) A local board shall hold not fewer than _two_ [ ~~four~~ ]  
+| meetings a year under Chapter 551.  
+|  SECTION 33. Chapter 865, Government Code, is amended by  
+| adding Section 865.0121 to read as follows:  
+|  _Sec._ ___865.0121._ _____DELEGATION OF LOCAL BOARD DUTIES. The state_  
+| _board by rule may adopt a procedure by which the duties of a local_  
+| _board may be delegated to the executive director if:_  
+|  _(1)_ _____trustees of the local board have not been_  
+| _appointed under Section 865.012(a) or (a-1); or_  
+|  _(2)_ _____the local board fails to perform its duties under_  
+| _this subtitle within a reasonable time, as determined by the board,_  
+| _including failure to hold the minimum number of meetings each year_  
+| _required by Section 865.012(c)._  
+|  SECTION 34. Sections 865.014(a), (c), and (d), Government  
+| Code, are amended to read as follows:  
+|  (a) _The_ [ ~~Each~~ ] governing body of a political subdivision [ ~~of~~  
+|  ~~which a participating department is a part~~ ] shall contribute for  
+| each member _performing emergency services or support services for_  
+| _the participating department_ for each month of service beginning on  
+| the date that the member enters the pension system at a rate  
+| determined in accordance with Subsection (b) and may make  
+| additional contributions as determined by the _governing body of the_  
+| political subdivision.  _The pension system may collect from_ [ ~~If the~~  
+|  ~~participating department is located in more than one political~~  
+|  ~~subdivision,~~ ] the governing _body_ [ ~~bodies~~ ] of the political  
+| _subdivision any contributions the governing body fails to make_  
+| _under this section and associated interest accrued in accordance_  
+| _with Subsection (c). The pension system_ [ ~~subdivisions~~ ] shall  
+| _deposit interest collected under this section into the fund_  
+| [ ~~contribute equally for each member for each month of service~~ ].  
+|  (c) Contributions required as provided by this section  
+| shall be paid at the times and in the manner that the state board  
+| prescribes by rule.  Contributions required by this section shall  
+| be submitted by electronic funds transfer, by wire transfer, or as  
+| an automated clearinghouse withdrawal (ACH debit) unless the  
+| executive director grants an exception based on the difficulty of  
+| _the_ [ ~~a participating department's~~ ] use of those payment methods.  
+| Contributions that are not paid within the time required by the  
+| state board accrue interest at the most recent assumed actuarial  
+| rate of return on investments of the fund.  
+|  (d) The state board may by rule require a monthly  
+| contribution _be made by the governing bodies of_ [ ~~from~~ ] political  
+| subdivisions that do not participate in the pension system but  
+| whose employees or former employees are members or retirees of the  
+| pension system in an amount necessary to pay the expenses of  
+| administering benefits for those persons.  
+|  SECTION 35. Section 865.017(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The pension system may not begin service or disability  
+| retirement annuity or death benefit payments based on the service  
+| of a person whose local board _or participating department head_ is  
+| not current in its filing of a required periodic report.  
+|  SECTION 36. The heading to Section 865.019, Government  
+| Code, is amended to read as follows:  
+|  Sec. 865.019. CONFIDENTIALITY OF INFORMATION ABOUT  
+| MEMBERS, _RETIREES_ [ ~~ANNUITANTS~~ ], AND BENEFICIARIES.  
+|  SECTION 37. Sections 865.019(a) and (d), Government Code,  
+| are amended to read as follows:  
+|  (a) Information contained in records that are in the custody  
+| of the pension system concerning an individual member, _retiree_  
+| [ ~~annuitant~~ ], or beneficiary is confidential under Section 552.101  
+| and may not be disclosed in a form identifiable with a specific  
+| individual unless:  
+|  (1) the information is disclosed to:  
+|  (A) the individual or the individual's attorney,  
+| guardian, executor, administrator, conservator, or other person  
+| who the executive director determines is acting in the interest of  
+| the individual or the individual's estate;  
+|  (B) a spouse or former spouse of the individual  
+| after the executive director determines that the information is  
+| relevant to the spouse's or former spouse's interest in member  
+| accounts, benefits, or other amounts payable by the pension system;  
+|  (C) a governmental official or employee after the  
+| executive director determines that disclosure of the information  
+| requested is reasonably necessary to the performance of the duties  
+| of the official or employee; or  
+|  (D) a person authorized by the individual in  
+| writing to receive the information; or  
+|  (2) the information is disclosed under a subpoena and  
+| the executive director determines that the individual will have a  
+| reasonable opportunity to contest the subpoena.  
+|  (d) A determination and disclosure under Subsection (a) may  
+| be made without notice to the individual member, _retiree_  
+| [ ~~annuitant~~ ], or beneficiary.  
+|  SECTION 38. The following provisions of the Government Code  
+| are repealed:  
+|  (1) Section 861.001(2);  
+|  (2) Section 864.003;  
+|  (3) Sections 864.005(c), (e), (f), and (g); and  
+|  (4) Section 865.010(d).  
+|  SECTION 39. Section 864.005, Government Code, as amended by  
+| this Act, and Section 864.0051, Government Code, as added by this  
+| Act, apply only to a claim for a disability retirement benefit that  
+| is filed on or after the effective date of this Act. A claim for a  
+| disability retirement benefit that is filed before the effective  
+| date of this Act is governed by the law in effect immediately before  
+| the effective date of this Act, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 40. Section 864.016, Government Code, as amended by  
+| this Act, applies only to an application for a disability  
+| retirement or death benefit that is filed on or after the effective  
+| date of this Act.  A claim for a disability retirement or death  
+| benefit that is filed before the effective date of this Act is  
+| governed by the law in effect immediately before the effective date  
+| of this Act, and the former law is continued in effect for that  
+| purpose.  
+|  SECTION 41. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,47 @@
+| 86R5004 BEE-D  
+---|---  
+|  By: Israel | H.B. No. 2219  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the operation of public transit vehicles equipped with  
+| connected braking systems.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 545, Transportation Code,  
+| is amended by adding Section 545.0621 to read as follows:  
+|  _Sec._ ___545.0621._ _____FOLLOWING DISTANCE FOR CERTAIN PUBLIC_  
+| _TRANSIT VEHICLES. (a) In this section:_  
+|  _(1)_ _____"Automated motor vehicle" has the meaning assigned_  
+| _by Section 545.451._  
+|  _(2)_ _____"Connected braking system" has the meaning_  
+| _assigned by Section 545.062(d)._  
+|  _(3)_ _____"Public transit vehicle" means a bus or other_  
+| _vehicle, including an automated motor vehicle, used to provide_  
+| _transit services to the public by:_  
+|  _(A) a political subdivision of this state; or_  
+|  _(B)_ _____a private entity operating under a contract_  
+| _with a political subdivision of this state._  
+|  _(b)_ _____Sections 545.062(b), (c), and (d) do not apply to an_  
+| _operator of a public transit vehicle that is following one or more_  
+| _other public transit vehicles if:_  
+|  _(1)_ _____the vehicles are equipped with a connected braking_  
+| _system; and_  
+|  _(2)_ _____the speed of each vehicle is automatically_  
+| _coordinated through the connected braking system._  
+|  SECTION 2. Subchapter J, Chapter 545, Transportation Code,  
+| is amended by adding Section 545.457 to read as follows:  
+|  _Sec._ ___545.457._ _____FOLLOWING DISTANCE FOR CERTAIN AUTOMATED_  
+| _MOTOR VEHICLES._ ___(a)_ ___In this section:_  
+|  _(1)_ _____"Connected braking system" has the meaning_  
+| _assigned by Section 545.062(d)._  
+|  _(2)_ _____"Public transit vehicle" has the meaning assigned_  
+| _by Section 545.0621._  
+|  _(b)_ _____This section applies only to an automated motor vehicle_  
+| _that is a public transit vehicle._  
+|  _(c)_ _____Notwithstanding Section 545.062, an automated motor_  
+| _vehicle equipped with a connected braking system that is following_  
+| _another automated motor vehicle equipped with that system may be_  
+| _assisted by the system to maintain any desired distance between the_  
+| _vehicles._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

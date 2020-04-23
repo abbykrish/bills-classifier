@@ -1,0 +1,19 @@
+| 86R4742 ATP-F  
+---|---  
+|  By: Fierro | H.B. No. 2904  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the provision of the reason for rejecting a voter  
+| registration application.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.073, Election Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____In providing a written or oral reason for rejection_  
+| _under Subsection (a) or (b), the registrar shall identify which_  
+| _section or sections of the application resulted in the rejection._  
+| _For each section identified, the registrar shall specify if the_  
+| _section was incomplete, was improperly filled out, or contained_  
+| _information identifying the applicant as ineligible to vote._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

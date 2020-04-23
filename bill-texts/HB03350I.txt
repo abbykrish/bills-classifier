@@ -1,0 +1,29 @@
+| 86R12225 ADM-F  
+---|---  
+|  By: Bucy | H.B. No. 3350  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the reporting of voting history.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 18.069, Election Code, is amended to  
+| read as follows:  
+|  Sec. 18.069. VOTING HISTORY.  _(a) The_ [ ~~Not later than the~~  
+|  ~~30th day after the date of the primary, runoff primary, or general~~  
+|  ~~election or any special election ordered by the governor, the~~ ]  
+| registrar shall electronically submit to the secretary of state the  
+| record of each voter participating in _a primary, runoff primary,_  
+| _general election, or any special election ordered by the governor_  
+| _not later than the day the voter votes in person or the early voting_  
+| _clerk receives a ballot voted by mail_ [ ~~the election~~ ].  
+|  _(b)_ The record must include a notation of whether the voter  
+| voted on election day, voted early by personal appearance, voted  
+| early by mail under Chapter 86, or voted early by mail under Chapter  
+| 101.  
+|  SECTION 2. Section 87.121, Election Code, is amended by  
+| adding Subsection (i) to read as follows:  
+|  _(i)_ _____The secretary of state shall make any early voting_  
+| _roster created under this section available to the public on the_  
+| _secretary's Internet website._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

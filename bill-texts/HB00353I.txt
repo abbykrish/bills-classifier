@@ -1,0 +1,87 @@
+| 86R1257 JSC-D  
+---|---  
+|  By: Blanco | H.B. No. 353  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to law enforcement access to cell site information stored  
+| by certain entities providing wireless service to a wireless  
+| communications device.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 18.02(a), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (a) A search warrant may be issued to search for and seize:  
+|  (1) property acquired by theft or in any other manner  
+| which makes its acquisition a penal offense;  
+|  (2) property specially designed, made, or adapted for  
+| or commonly used in the commission of an offense;  
+|  (3) arms and munitions kept or prepared for the  
+| purposes of insurrection or riot;  
+|  (4) weapons prohibited by the Penal Code;  
+|  (5) gambling devices or equipment, altered gambling  
+| equipment, or gambling paraphernalia;  
+|  (6) obscene materials kept or prepared for commercial  
+| distribution or exhibition, subject to the additional rules set  
+| forth by law;  
+|  (7) a drug, controlled substance, immediate  
+| precursor, chemical precursor, or other controlled substance  
+| property, including an apparatus or paraphernalia kept, prepared,  
+| or manufactured in violation of the laws of this state;  
+|  (8) any property the possession of which is prohibited  
+| by law;  
+|  (9) implements or instruments used in the commission  
+| of a crime;  
+|  (10) property or items, except the personal writings  
+| by the accused, constituting evidence of an offense or constituting  
+| evidence tending to show that a particular person committed an  
+| offense;  
+|  (11) persons;  
+|  (12) contraband subject to forfeiture under Chapter 59  
+| of this code;  
+|  (13) electronic customer data held in electronic  
+| storage, including _:_  
+|  _(A)_ the contents of and records and other  
+| information related to a wire communication or electronic  
+| communication held in electronic storage _; and_  
+|  _(B) cell site information_; or  
+|  (14) a cellular telephone or other wireless  
+| communications device, subject to Article 18.0215.  
+|  SECTION 2. Article 18.02(b)(2), Code of Criminal Procedure,  
+| as effective January 1, 2019, is amended to read as follows:  
+|  (2) _"Cell site information," "electronic_  
+| [ ~~"Electronic~~ ] customer _data,"_ [ ~~data"~~ ] and "electronic storage"  
+| have the meanings assigned by Article 18B.001.  
+|  SECTION 3. Article 18B.001, Code of Criminal Procedure, is  
+| amended by adding Subdivision (1-a) and amending Subdivision (7) to  
+| read as follows:  
+|  _(1-a) "Cell site information" means information that_  
+| _reveals the location of a cellular telephone or other wireless_  
+| _communications device and that is derived from the device's_  
+| _connections to radio antennas through which a provider of an_  
+| _electronic communications service or provider of a remote computing_  
+| _service provides wireless service to that device._  
+|  (7) "Electronic customer data" means data or records  
+| that:  
+|  (A) are in the possession, care, custody, or  
+| control of a provider of an electronic communications service or  
+| provider of a remote computing service; and  
+|  (B) contain:  
+|  (i) information revealing the identity of  
+| customers of the applicable service;  
+|  (ii) information about a customer's use of  
+| the applicable service;  
+|  (iii) information that identifies the  
+| recipient or destination of a wire or electronic communication sent  
+| to or by a customer;  
+|  (iv) the content of a wire or electronic  
+| communication sent to or by a customer; [ ~~and~~ ]  
+|  (v) _cell site information; and_  
+|  _(vi)_ any data stored with the applicable  
+| service provider by or on behalf of a customer.  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| a warrant issued on or after the effective date of this Act. A  
+| warrant issued before the effective date of this Act is governed by  
+| the law in effect on the date the warrant was issued, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

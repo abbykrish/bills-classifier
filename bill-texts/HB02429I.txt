@@ -1,0 +1,106 @@
+| 86R10960 JRJ-D  
+---|---  
+|  By: Reynolds | H.B. No. 2429  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the Texas Voting Rights Act.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 1, Election Code, is amended by adding  
+| Chapter 5 to read as follows:  
+| _CHAPTER 5. TEXAS VOTING RIGHTS ACT_  
+|  _Sec. 5.001. DEFINITIONS. As used in this chapter:_  
+|  _(1)_ _____"At-large election" means any of the following_  
+| _methods of electing members to the governing body of a political_  
+| _subdivision:_  
+|  _(A)_ _____one in which the voters of the entire_  
+| _jurisdiction elect the members to the governing body;_  
+|  _(B)_ _____one in which the candidates are required to_  
+| _reside within given areas of the jurisdiction and the voters of the_  
+| _entire jurisdiction elect the members to the governing body; or_  
+|  _(C)_ _____one that combines at-large elections with_  
+| _district-based elections._  
+|  _(2)_ _____"District-based election" means a method of_  
+| _electing members to the governing body of a political subdivision_  
+| _in which the candidate must reside within an election district that_  
+| _is a divisible part of the political subdivision and is elected only_  
+| _by voters residing within that election district._  
+|  _(3)_ _____"Protected class" means a class of voters who are_  
+| _members of a race, color, or language minority group, as this class_  
+| _is defined in the federal Voting Rights Act of 1965 (52 U.S.C._  
+| _Section 10101 et seq.)._  
+|  _(4)_ _____"Racially polarized voting" means voting in which_  
+| _there is a difference, as defined in case law regarding enforcement_  
+| _of the federal Voting Rights Act of 1965 (52 U.S.C. Section 10101 et_  
+| _seq.), in the choice of candidates or other electoral choices that_  
+| _are preferred by voters in a protected class, and in the choice of_  
+| _candidates and electoral choices that are preferred by voters in_  
+| _the rest of the electorate._  
+|  _Sec._ ___5.002._ _____PURPOSE. The Texas Voting Rights Act is enacted_  
+| _to implement the guarantees of Sections 3a and 19, Article I, and_  
+| _Section 2, Article VI, Texas Constitution._  
+|  _Sec._ ___5.003._ _____METHODOLOGIES. The methodologies for_  
+| _estimating group voting behavior as approved in applicable federal_  
+| _cases to enforce the federal Voting Rights Act of 1965 (52 U.S.C._  
+| _Section 10101 et seq.) to establish racially polarized voting may_  
+| _be used for purposes of this chapter to prove that elections are_  
+| _characterized by racially polarized voting._  
+|  _Sec._ ___5.004._ _____RESTRICTION ON METHOD OF ELECTION. If it is_  
+| _shown that racially polarized voting occurs in elections for_  
+| _members of the governing body of a political subdivision, a method_  
+| _of election may not be imposed or applied in a manner that impairs_  
+| _the ability of a protected class to elect candidates of its choice_  
+| _or its ability to influence the outcome of an election._  
+|  _Sec._ ___5.005._ _____RELEVANT FACTORS. (a) Elections conducted_  
+| _before the filing of an action are more probative to establish the_  
+| _existence of racially polarized voting than elections conducted_  
+| _after the filing of the action._  
+|  _(b)_ _____The occurrence of racially polarized voting shall be_  
+| _determined from an examination of results of elections in which at_  
+| _least one candidate is a member of a protected class or elections_  
+| _involving ballot measures, or other electoral choices that affect_  
+| _the rights and privileges of members of a protected class. One_  
+| _circumstance that may be considered is the extent to which_  
+| _candidates who are members of a protected class and who are_  
+| _preferred by voters of the protected class, as determined by an_  
+| _analysis of voting behavior, have been elected to the governing_  
+| _body of a political subdivision that is the subject of an action_  
+| _based on Section 5.004._ ___In multiseat at-large election districts,_  
+| _where the number of candidates who are members of a protected class_  
+| _is lower than the number of seats available, the relative_  
+| _class-wide support received by candidates from members of a_  
+| _protected class shall be the basis for the racial polarization_  
+| _analysis._  
+|  _(c)_ _____The fact that members of a protected class are not_  
+| _geographically compact or concentrated may not preclude_  
+| _establishing racially polarized voting or finding a violation of_  
+| _Section 5.004 but may be a factor in determining an appropriate_  
+| _remedy for a violation of that section._  
+|  _(d)_ _____Proof of intent on the part of the voters or elected_  
+| _officials to discriminate against a protected class is not_  
+| _required._  
+|  _(e)_ _____Other factors such as the history of discrimination, the_  
+| _use of electoral devices or other voting practices or procedures_  
+| _that may enhance the dilutive effects of a method of election,_  
+| _denial of access to those processes determining which groups of_  
+| _candidates will receive financial or other support in a given_  
+| _election, the extent to which members of a protected class bear the_  
+| _effects of past discrimination in areas such as education,_  
+| _employment, and health, which hinder their ability to participate_  
+| _effectively in the political process, and the use of overt or subtle_  
+| _racial appeals in political campaigns are probative, but not_  
+| _necessary factors to establish a violation of Section 5.004._  
+|  _Sec._ ___5.006._ _____REMEDY. On a finding of a violation of Section_  
+| _5.004, the court shall implement appropriate remedies, including_  
+| _the imposition of district-based elections, that are tailored to_  
+| _remedy the violation._  
+|  _Sec._ ___5.007._ _____CIVIL ACTION. Any voter who is a member of a_  
+| _protected class and who resides in a political subdivision where a_  
+| _violation of Section 5.004 is alleged may bring a civil action to_  
+| _enforce that section._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

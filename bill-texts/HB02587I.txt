@@ -1,0 +1,433 @@
+| 86R8793 PMO-F  
+---|---  
+|  By: Lucio III | H.B. No. 2587  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the business of travel insurance.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 12, Insurance Code, is amended by adding  
+| Chapter 3504 to read as follows:  
+| _CHAPTER 3504._ ___TRAVEL INSURANCE_  
+|  _Sec. 3504.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Aggregator site" means a website that provides_  
+| _access to information regarding insurance products from more than_  
+| _one insurer, including product and insurer information, for use in_  
+| _comparison shopping._  
+|  _(2)_ _____"Blanket travel insurance" means a policy of_  
+| _travel insurance issued to an eligible group that provides coverage_  
+| _for specific classes of persons with coverage provided to each_  
+| _member of the eligible group defined in the policy without a_  
+| _separate charge to individual members of the eligible group._  
+|  _(3)_ _____"Cancellation fee waiver" means a contractual_  
+| _agreement between a supplier of travel services and the supplier's_  
+| _customer to waive some or all of the nonrefundable cancellation fee_  
+| _provisions of the supplier's underlying travel contract with or_  
+| _without regard to the reason for the cancellation or form of_  
+| _reimbursement. A cancellation fee waiver is not insurance._  
+|  _(4)_ _____"Eligible group" means two or more persons who are_  
+| _engaged in a common enterprise or have an economic, educational, or_  
+| _social affinity or relationship, including any of the following:_  
+|  _(A)_ _____an entity engaged in the business of_  
+| _providing travel or travel services, including a tour operator, a_  
+| _lodging provider, a vacation property owner, a hotel or resort, a_  
+| _travel club, a travel agency, a property manager, a cultural_  
+| _exchange program, and a common carrier or the operator, owner, or_  
+| _lessor of a means of transportation of passengers, including an_  
+| _airline, a cruise line, a railroad, a steamship company, and a_  
+| _public bus carrier, wherein with regard to any particular travel or_  
+| _type of travel or travelers, all members or customers of the group_  
+| _must have a common exposure to risk attendant to the travel;_  
+|  _(B)_ _____a college, school, or other institution of_  
+| _learning covering students, teachers, employees, or volunteers;_  
+|  _(C)_ _____an employer covering a board of directors or_  
+| _a group of employees, volunteers, contractors, dependents, or_  
+| _guests;_  
+|  _(D)_ _____a sports team or camp or sponsor of a team or_  
+| _camp covering participants, members, campers, employees,_  
+| _officials, supervisors, or volunteers;_  
+|  _(E)_ _____a religious, charitable, recreational,_  
+| _educational, or civic organization or branch of the organization_  
+| _covering members, participants, or volunteers;_  
+|  _(F)_ _____a financial institution or financial_  
+| _institution vendor or a parent holding company, trustee, or agent_  
+| _or designee of a financial institution or financial institution_  
+| _vendor covering persons, including account holders, credit card_  
+| _holders, debtors, guarantors, or purchasers;_  
+|  _(G)_ _____an incorporated or unincorporated_  
+| _association, including a labor union that has a common interest,_  
+| _constitution, and bylaws, organized and maintained in good faith_  
+| _for a purpose other than obtaining insurance for the association's_  
+| _members or participants;_  
+|  _(H)_ _____a trust, or the trustees of a fund,_  
+| _established, created, or maintained for the benefit of and covering_  
+| _members, employees, or customers of one or more associations_  
+| _meeting the requirements of Paragraph (G), subject to the_  
+| _commissioner's approval and the state premium tax provisions of_  
+| _Section 3504.0005;_  
+|  _(I)_ _____an entertainment production company covering_  
+| _a group of participants, volunteers, audience members,_  
+| _contestants, or workers;_  
+|  _(J)_ _____a volunteer fire department or an ambulance,_  
+| _rescue, police, court, first aid, or civil defense volunteer group_  
+| _or other similar volunteer group;_  
+|  _(K)_ _____a preschool, a daycare institution for_  
+| _children or adults, or a senior citizen club;_  
+|  _(L)_ _____an automobile or truck rental or leasing_  
+| _company covering a group of individuals who may become renters,_  
+| _lessees, or passengers defined by the individual's status on the_  
+| _rented or leased vehicles, in which circumstance the common_  
+| _carrier, the operator, owner, or lessor of a means of_  
+| _transportation, or the automobile or truck rental or leasing_  
+| _company is the policyholder; or_  
+|  _(M)_ _____any other group with respect to which the_  
+| _commissioner has determined:_  
+|  _(i)_ _____the members are engaged in a common_  
+| _enterprise or have an economic, educational, or social affinity or_  
+| _relationship; and_  
+|  _(ii)_ _____issuance of the policy is not contrary_  
+| _to the public interest._  
+|  _(5)_ _____"Fulfillment materials" means documentation sent_  
+| _to the purchaser of a travel protection plan that confirms the_  
+| _purchase and provides the travel protection plan's coverage and_  
+| _assistance details._  
+|  _(6)_ _____"Group travel insurance" means travel insurance_  
+| _issued to an eligible group._  
+|  _(7)_ _____"Planned trip" or "planned travel"_ ___means any_  
+| _journey or travel arranged through the services of a travel agency._  
+|  _(8)_ _____"Primary certificate holder," specific to Section_  
+| _3504.0005, means an individual who elects and purchases travel_  
+| _insurance under a group policy._  
+|  _(9)_ _____"Primary policyholder," specific to Section_  
+| _3504.0005, means an individual who elects and purchases individual_  
+| _travel insurance._  
+|  _(10)_ _____"Travel assistance services" means noninsurance_  
+| _services that do not indemnify the consumer based on a fortuitous_  
+| _event or result in the transfer or shifting of risk constituting the_  
+| _business of insurance._ ___Travel assistance services include security_  
+| _advisories, destination information, vaccination and immunization_  
+| _information services, travel reservation services, entertainment,_  
+| _activity and event planning, translation assistance, emergency_  
+| _messaging, international legal and medical referrals, medical case_  
+| _monitoring, coordination of transportation arrangements, emergency_  
+| _cash transfer assistance, medical prescription replacement_  
+| _assistance, passport and travel document replacement assistance,_  
+| _lost luggage assistance, concierge services, and any other service_  
+| _that is furnished in connection with planned travel. Travel_  
+| _assistance services are not insurance and not related to insurance._  
+|  _(11)_ _____"Travel insurance" means insurance coverage for_  
+| _personal risks incident to planned travel, including:_  
+|  _(A)_ _____interruption or cancellation of a trip or_  
+| _event;_  
+|  _(B) loss of baggage or personal effects;_  
+|  _(C)_ _____damages to accommodations or rental_  
+| _vehicles;_  
+|  _(D)_ _____sickness, accident, disability, or death_  
+| _occurring during travel;_  
+|  _(E) emergency evacuation;_  
+|  _(F) repatriation of remains; or_  
+|  _(G)_ _____any other contractual obligations to_  
+| _indemnify or pay a specified amount to the traveler on determinable_  
+| _contingencies related to travel as approved by the commissioner by_  
+| _rule._ ___Travel insurance does not include a major medical plan that_  
+| _provides comprehensive medical protection for a traveler on a trip_  
+| _of longer than six months, such as an individual working or residing_  
+| _overseas as an expatriate, or any other insurance product that must_  
+| _be sold by an agent with a specific agent's license._  
+|  _(12)_ _____"Travel protection plan" means a plan that_  
+| _provides one or more of the following:_  
+|  _(A) travel insurance;_  
+|  _(B) travel assistance services; and_  
+|  _(C) cancellation fee waivers._  
+|  _Sec._ ___3504.0002._ _____APPLICABILITY._ ___(a)_ ___This chapter applies_  
+| _to a travel insurance policy or certificate that:_  
+|  _(1)_ _____provides coverage to a resident of this state or is_  
+| _sold, solicited, negotiated, or offered in this state; and_  
+|  _(2) is delivered or issued for delivery in this state._  
+|  _(b)_ _____This chapter does not apply to a cancellation fee waiver_  
+| _or travel assistance service except as expressly provided in this_  
+| _chapter._  
+|  _Sec._ ___3504.0003._ _____CONFLICT OF LAWS. This chapter prevails to_  
+| _the extent of any conflict with another provision of this code._  
+|  _Sec._ ___3504.0004._ _____LINE OF INSURANCE. (a)_ ___Notwithstanding_  
+| _any other provision of this code, travel insurance is classified_  
+| _and filed for purposes of rates and forms under an inland marine_  
+| _line of insurance, except as provided by Subsection (b)._  
+|  _(b)_ _____Travel insurance that provides coverage for sickness,_  
+| _accident, disability, or death occurring during travel,_  
+| _exclusively or in conjunction with related coverage for emergency_  
+| _evacuation, repatriation of remains, or incidental limited_  
+| _property and casualty benefits, including baggage or trip_  
+| _cancellation, may be filed by an authorized insurer under an_  
+| _accident and health line of insurance or an inland marine line of_  
+| _insurance._  
+|  _(c)_ _____Eligibility and underwriting standards for travel_  
+| _insurance may be developed and provided based on travel protection_  
+| _plans designed for individual or identified marketing or_  
+| _distribution channels if the standards meet underwriting standards_  
+| _for an inland marine line of insurance._  
+|  _Sec._ ___3504.0005._ _____PREMIUM TAX. (a)_ ___A travel insurer shall_  
+| _pay premium tax, as provided by Section 221.002, on travel_  
+| _insurance premiums paid by any of the following:_  
+|  _(1)_ _____an individual primary policyholder who is a_  
+| _resident of this state;_  
+|  _(2)_ _____a primary certificate holder who is a resident of_  
+| _this state and elects and purchases coverage under a group travel_  
+| _insurance policy; or_  
+|  _(3)_ _____subject to apportionment of premium in accordance_  
+| _with Chapter 229 or other law, a blanket travel insurance_  
+| _policyholder who buys a blanket travel insurance policy in this_  
+| _state for members of the eligible group if:_  
+|  _(A) the policyholder is a resident of this state;_  
+|  _(B)_ _____the policyholder's principal place of_  
+| _business is located in this state; or_  
+|  _(C)_ _____the principal place of business of an_  
+| _affiliate or subsidiary of the policyholder is located in this_  
+| _state._  
+|  _(b) A travel insurer shall:_  
+|  _(1)_ _____document the state of residence or principal place_  
+| _of business of the policyholder or certificate holder described by_  
+| _Subsection (a); and_  
+|  _(2)_ _____report as premium only the amount allocable to_  
+| _travel insurance and not amounts received for travel assistance_  
+| _services or cancellation fee waivers._  
+|  _Sec._ ___3504.0006._ _____TRAVEL PROTECTION PLANS. A travel_  
+| _protection plan composed of multiple features may be offered for a_  
+| _combined price if:_  
+|  _(1)_ _____at the time of or before the consumer buys the_  
+| _travel protection plan it is clearly disclosed to the consumer that_  
+| _the plan includes travel insurance, travel assistance services, and_  
+| _cancellation fee waivers, as applicable, and information and an_  
+| _opportunity is provided for the consumer to obtain additional_  
+| _information regarding the features and the pricing of each feature;_  
+| _and_  
+|  _(2) the fulfillment materials:_  
+|  _(A)_ _____describe the travel insurance, travel_  
+| _assistance services, and cancellation fee waivers in the travel_  
+| _protection plan; and_  
+|  _(B)_ _____include the travel insurance disclosures and_  
+| _the contact information for persons providing travel assistance_  
+| _services and cancellation fee waivers, as applicable._  
+|  _Sec._ ___3504.0007._ _____SALES PRACTICES; PROHIBITED PRACTICES._ ___(a)_
+__  
+| _Offering or selling a travel insurance policy that could never_  
+| _result in payment of a claim for an insured under the policy is an_  
+| _unfair trade practice under Subtitle C, Title 5._  
+|  _(b)_ _____All documents provided to a consumer before the purchase_  
+| _of travel insurance, including sales materials, advertising_  
+| _materials, and marketing materials, must be consistent with the_  
+| _travel insurance policy, including forms, endorsements, policies,_  
+| _rate filings, and certificates of insurance._  
+|  _(c)_ _____Before the consumer buys travel insurance, the consumer_  
+| _must be provided information in the fulfillment materials about any_  
+| _preexisting condition exclusion that is included in the travel_  
+| _insurance policy or certificate. The consumer must have the_  
+| _opportunity to learn more about the exclusion._  
+|  _(d)_ _____The fulfillment materials and the information described_  
+| _in Section 3504.0006 must be provided to a policyholder or_  
+| _certificate holder as soon as practicable after the purchase of a_  
+| _travel protection plan. Unless the policyholder or certificate_  
+| _holder has started a covered trip or filed a claim under the travel_  
+| _insurance coverage, the policyholder or certificate holder may_  
+| _cancel a policy or certificate for a full refund of the travel_  
+| _protection plan price. The consumer must exercise the right to_  
+| _cancel a travel protection plan before:_  
+|  _(1)_ _____the 15th day after the date of delivery of the_  
+| _travel protection plan's fulfillment materials by United States_  
+| _mail or a later date specified by the plan; or_  
+|  _(2)_ _____the 10th day after the date of delivery of the_  
+| _travel protection plan's fulfillment materials by means other than_  
+| _United States mail or a later date specified by the plan._  
+|  _(e)_ _____For the purposes of this section, delivery means handing_  
+| _fulfillment materials to the policyholder or certificate holder or_  
+| _sending fulfillment materials by United States mail or electronic_  
+| _means to the policyholder or certificate holder._  
+|  _(f)_ _____The company shall disclose in the policy documentation_  
+| _and fulfillment materials if the travel insurance is primary or_  
+| _secondary to other applicable coverage._  
+|  _(g)_ _____If travel insurance is marketed directly to a consumer_  
+| _through an insurer's website or by others through an aggregator_  
+| _site, it is not an unfair trade practice or other violation of law_  
+| _if:_  
+|  _(1)_ _____an accurate summary or short description of_  
+| _coverage is provided on the website; and_  
+|  _(2)_ _____the consumer has access to the full provisions of_  
+| _the policy through electronic means._  
+|  _(h)_ _____A person offering, soliciting, or negotiating travel_  
+| _insurance or travel protection plans on an individual or group_  
+| _basis may not do so by using negative option or opt out that_  
+| _requires a consumer to take an affirmative action to deselect_  
+| _coverage, such as unchecking a box on an electronic form, when the_  
+| _consumer purchases a trip._  
+|  _(i)_ _____It is an unfair trade practice to market blanket travel_  
+| _insurance coverage as free._  
+|  _(j)_ _____If a consumer's destination jurisdiction requires_  
+| _insurance coverage, it is not an unfair trade practice to require_  
+| _that a consumer choose between the following options as a condition_  
+| _of purchasing a trip or travel package:_  
+|  _(1)_ _____purchasing the coverage required by the_  
+| _destination jurisdiction through the travel retailer or_  
+| _supervising entity supplying the trip or travel package; or_  
+|  _(2)_ _____agreeing to obtain and provide proof of coverage_  
+| _that meets the destination jurisdiction's requirements before_  
+| _departure._  
+|  SECTION 2. Section 4055.151, Insurance Code, is amended by  
+| amending Subdivision (1) and adding Subdivisions (1-a) and (1-c) to  
+| read as follows:  
+|  (1) _"Offer and disseminate" means:_  
+|  _(A)_ _____providing general information, including the_  
+| _price and a description of the coverage; and_  
+|  _(B)_ _____processing the application and collecting_  
+| _premiums._  
+|  _(1-a)_ "Planned trip" means any journey or travel  
+| arranged through the services of a travel agency.  
+|  _(1-c)_ _____"Travel administrator" means a person who,_  
+| _directly or indirectly, underwrites, collects a charge,_  
+| _collateral, or a premium from, or adjusts or settles a claim of a_  
+| _resident of this state in connection with travel insurance. A_  
+| _person is not a travel administrator if the person's only actions_  
+| _that would otherwise cause the person to be considered a travel_  
+| _administrator include:_  
+|  _(A)_ _____the person working for a travel administrator_  
+| _to the extent the person's activities are subject to the_  
+| _supervision and control of the travel administrator;_  
+|  _(B)_ _____an insurance agent selling insurance or_  
+| _engaged in administrative and claims-related activities within the_  
+| _scope of the agent's license;_  
+|  _(C)_ _____a travel retailer, registered under the_  
+| _license of a supervising entity in accordance with this subchapter,_  
+| _offering and disseminating travel insurance;_  
+|  _(D)_ _____an individual adjusting or settling claims in_  
+| _the normal course of the individual's practice or employment as an_  
+| _attorney and who does not collect charges or premiums in connection_  
+| _with insurance coverage; or_  
+|  _(E)_ _____a business entity that is affiliated with a_  
+| _licensed insurer acting as a travel administrator for the direct_  
+| _and assumed insurance business of an affiliated insurer._  
+|  SECTION 3. Sections 4055.1515, 4055.153, and 4055.154,  
+| Insurance Code, are amended to read as follows:  
+|  Sec. 4055.1515. TRAVEL INSURANCE SUPERVISING ENTITY _AND_  
+| _TRAVEL ADMINISTRATOR_. _(a)_ An insurer authorized to engage in the  
+| business of travel insurance in this state may designate a travel  
+| insurance supervising entity for purposes of this subchapter. The  
+| supervising entity must be:  
+|  (1) a licensed managing general agent;  
+|  (2) a licensed third-party administrator; [ ~~or~~ ]  
+|  (3) a licensed insurance agent, including a specialty  
+| license holder and a person described by Section 4055.002(a) _; or_  
+|  _(4) a travel administrator_.  
+|  _(b)_ _____Notwithstanding any other provisions of this code, a_  
+| _person may not act or represent the person as a travel administrator_  
+| _for travel insurance unless the person is:_  
+|  _(1) a licensed property and casualty insurance agent;_  
+|  _(2) a licensed managing general agent; or_  
+|  _(3)_ _____a third-party administrator engaging in the_  
+| _business of insurance in this state under a certificate of_  
+| _authority._  
+|  _(c)_ _____A travel administrator and a travel administrator's_  
+| _employees are exempt from the licensing requirements under Chapter_  
+| _4101 with respect to travel insurance._  
+|  _(d)_ _____An insurer is responsible for the acts of a travel_  
+| _administrator administering travel insurance underwritten by the_  
+| _insurer._ ___The insurer must ensure that the travel administrator_  
+| _maintains all books and records relevant to the insurer and makes_  
+| _the books and records available to the department on request of the_  
+| _commissioner._  
+|  Sec. 4055.153. AUTHORITY OF TRAVEL RETAILER. [ ~~(a)~~ ] A  
+| travel retailer may offer and disseminate travel insurance as a  
+| service to the retailer's customers on behalf of and under the  
+| license and direction of a supervising entity only:  
+|  (1) in connection with the sale or arrangement of  
+| transportation, accommodations, or events for travelers; and  
+|  (2) with respect to travel insurance [ ~~that includes:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~accident and health insurance that provides~~  
+|  ~~coverage to a traveler for accidental death or dismemberment and~~  
+|  ~~for medical expenses resulting from an accident or sickness~~  
+|  ~~involving the traveler that occurs during the planned trip;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~insurance that provides coverage to a~~  
+|  ~~traveler for expenses incurred as a result of trip cancellation or~~  
+|  ~~interruption of a planned trip or event;~~  
+|  [ ~~(C)~~ ~~~~ ~~~~ ~~personal effects insurance that provides~~  
+|  ~~coverage to a traveler for loss of or damage to personal effects~~  
+|  ~~during the planned trip or event;~~  
+|  [ ~~(D)~~ ~~~~ ~~~~ ~~insurance that provides coverage for damage~~  
+|  ~~to accommodations or rental vehicles; or~~  
+|  [ ~~(E)~~ ~~~~ ~~~~ ~~any other coverage the commissioner~~  
+|  ~~approves as meaningful and appropriate in connection with the~~  
+|  ~~transportation or accommodations arranged through a travel~~  
+|  ~~agency~~ ].  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~Travel insurance does not include major medical~~  
+|  ~~expense coverage for a traveler on a planned trip for six months or~~  
+|  ~~more, including:~~  
+|  [ ~~(1) an individual working abroad;~~  
+|  [ ~~(2) an expatriate; and~~  
+|  [ ~~(3) a military service member on deployment.~~]  
+|  Sec. 4055.154. TRAVEL INSURANCE GENERALLY. (a)  A travel  
+| retailer, or the supervising entity, shall provide to a traveler  
+| seeking to purchase travel insurance:  
+|  (1) a description of the material terms or the actual  
+| terms of the _insurance_ coverage;  
+|  (2) a description of the claims filing process;  
+|  (3) a description of the review and cancellation  
+| process for the _travel_ insurance policy; and  
+|  (4) the name and contact information for the insurer  
+| and the supervising entity.  
+|  (b) Travel insurance coverage may be provided under an  
+| individual _,_ [ ~~policy or a~~ ] group _,_ or _blanket_ [ ~~master~~ ]
+policy _as_  
+| _defined by Section 3504.0001_.  
+|  SECTION 4. Section 4055.155, Insurance Code, is amended by  
+| amending Subsection (e) and adding Subsections (g-1) and (j) to  
+| read as follows:  
+|  (e) The supervising entity must certify in a form prescribed  
+| by the commissioner by rule that each registered travel retailer is  
+| in compliance with 18 U.S.C. Section 1033. _The grounds for_  
+| _suspension or revocation and the penalties that apply to a resident_  
+| _insurance agent apply to a supervising entity and travel retailer._  
+|  _(g-1)_ _____The supervising entity shall pay all applicable_  
+| _licensing fees required by state law with respect to travel_  
+| _insurance._  
+|  _(j)_ _____Any person licensed in a major line of authority, as_  
+| _determined by the commissioner, as an insurance agent may sell,_  
+| _solicit, and negotiate travel insurance. A property and casualty_  
+| _insurance agent is not required to be appointed by an insurer to_  
+| _sell, solicit, or negotiate travel insurance._  
+|  SECTION 5. Section 221.002(b), Insurance Code, is amended  
+| to read as follows:  
+|  (b) Except as provided by Subsection (c), in determining an  
+| insurer's taxable premium receipts, the insurer shall include the  
+| total gross amounts of premiums, membership fees, assessments,  
+| dues, revenues, and any other considerations for insurance written  
+| by the insurer in a calendar year from any kind of insurance written  
+| by the insurer on each kind of property or risk located in this  
+| state, including:  
+|  (1) fire insurance;  
+|  (2) ocean marine insurance;  
+|  (3) inland marine insurance;  
+|  (4) accident insurance;  
+|  (5) credit insurance;  
+|  (6) livestock insurance;  
+|  (7) fidelity insurance;  
+|  (8) guaranty insurance;  
+|  (9) surety insurance;  
+|  (10) casualty insurance;  
+|  (11) workers' compensation insurance;  
+|  (12) employers' liability insurance;  
+|  (13) crop insurance written by a farm mutual insurance  
+| company; [ ~~and~~ ]  
+|  (14) home warranty insurance _; and_  
+|  _(15) travel insurance_.  
+|  SECTION 6. The commissioner of insurance shall promulgate  
+| forms and adopt rules as necessary to implement Chapter 3504,  
+| Insurance Code, as added by this Act, and Chapter 4055, Insurance  
+| Code, as amended by this Act, as soon as practicable after the  
+| effective date of this Act, but not later than January 1, 2020.  
+|  SECTION 7. This Act applies only to a travel insurance  
+| policy or certificate that is delivered or issued for delivery on or  
+| after January 1, 2020. A travel insurance policy or certificate  
+| delivered or issued for delivery before January 1, 2020, is  
+| governed by the law as it existed immediately before the effective  
+| date of this Act, and that law is continued in effect for that  
+| purpose.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

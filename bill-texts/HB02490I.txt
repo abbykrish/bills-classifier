@@ -1,0 +1,30 @@
+| 86R13273 MCK-F  
+---|---  
+|  By: Wu | H.B. No. 2490  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the system for maintaining records relating to children  
+| in the conservatorship of the Department of Family and Protective  
+| Services.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 40, Human Resources Code,  
+| is amended by adding Section 40.043 to read as follows:  
+|  _Sec._ ___40.043._ _____CASE TRACKING AND INFORMATION MANAGEMENT_  
+| _SYSTEM. (a)_ ___The department shall ensure that the department's case_  
+| _tracking and information management system:_  
+|  _(1)_ _____provides a date and time stamp and identifies the_  
+| _author for each entry of information in a child's case file in the_  
+| _system; and_  
+|  _(2)_ _____once information is added to a child's case file in_  
+| _the system, prohibits a person from modifying or deleting the_  
+| _information but allows a person to add new or revised information to_  
+| _update a child's case file._  
+|  _(b)_ _____For each entry of information in a child's case file in_  
+| _the case tracking and information management system, the_  
+| _descriptive and technical metadata for the information must be in a_  
+| _format that allows a system user to clearly and fully understand the_  
+| _date, time, and author identity provided as required by Subsection_  
+| _(a)(1)._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

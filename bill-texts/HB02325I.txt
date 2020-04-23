@@ -1,0 +1,95 @@
+| 86R13424 AAF-F  
+---|---  
+|  By: Metcalf | H.B. No. 2325  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to providing information and communication regarding and  
+| during a disaster.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 418, Government Code, is  
+| amended by adding Sections 418.054, 418.055, 418.056, 418.057, and  
+| 418.058 to read as follows:  
+|  _Sec._ ___418.054._ _____COORDINATING 9-1-1 TEXT MESSAGE CAPABILITY._  
+| _The division, in consultation with the Texas A &M AgriLife Extension _  
+| _Service, shall coordinate state and local government efforts to_  
+| _make 9-1-1 emergency service capable of receiving text messages_  
+| _from a cellular telephone or other wireless communication device._  
+|  _Sec._ ___418.055._ _____SOCIAL MEDIA USE DURING AND AFTER DISASTERS._  
+| _The division, in consultation with the Texas A &M Engineering _  
+| _Extension Service and other appropriate public and private_  
+| _entities, shall develop standards for the use of social media as a_  
+| _communication tool by governmental entities during and after a_  
+| _disaster. The standards must:_  
+|  _(1)_ _____require state agencies, political subdivisions,_  
+| _first responders, and volunteers that use social media during and_  
+| _after a disaster to post consistent and clear information;_  
+|  _(2)_ _____optimize the effectiveness of social media use_  
+| _during and after a disaster; and_  
+|  _(3)_ _____require certain official social media accounts be_  
+| _used during and after a disaster only for providing credible_  
+| _sources of information._  
+|  _Sec._ ___418.056._ _____DISASTER MOBILE APPLICATION. (a) The_  
+| _division, in consultation with the Texas A &M Forest Service, shall _  
+| _develop a mobile application for wireless communication devices to_  
+| _communicate critical information during a disaster directly to_  
+| _disaster victims and first responders._  
+|  _(b) The mobile application may provide information on:_  
+|  _(1) road and weather conditions during a disaster; and_  
+|  _(2) disaster response and recovery activities._  
+|  _Sec._ ___418.057._ _____USE OF DATA ANALYTICS IN DISASTER MANAGEMENT._ __  
+| _To the extent feasible, the division shall use data analytics_  
+| _software to integrate data from federal, state, local, and_  
+| _nongovernmental sources to more effectively manage disaster_  
+| _response and recovery._  
+|  _Sec._ ___418.058._ _____STUDY ON STANDARD COMMUNICATION FORMAT. (a)_  
+| _To improve the state's response to disasters, the division, in_  
+| _consultation with the Texas A &M Engineering Extension Service, _  
+| _shall conduct a study on the use of a standard communication format_  
+| _by first responders to create a common operating framework during a_  
+| _disaster. The study must:_  
+|  _(1)_ _____examine the costs and benefits of promoting the_  
+| _use of a standard communication format to create a single_  
+| _comprehensive common operating framework;_  
+|  _(2)_ _____identify any costs that first responders may incur_  
+| _in acquiring equipment complying with a standard communication_  
+| _format; and_  
+|  _(3)_ _____identify necessary actions to adopt a standard_  
+| _communication format._  
+|  _(b)_ _____Not later than September 1, 2020, the division shall_  
+| _submit to the governor, lieutenant governor, and members of the_  
+| _legislature a report on the findings of the study._  
+|  _(c) This section expires December 1, 2020._  
+|  SECTION 2. Subchapter F, Chapter 418, Government Code, is  
+| amended by adding Section 418.127 to read as follows:  
+|  _Sec._ ___418.127._ _____DISASTER PREPAREDNESS COMMUNITY OUTREACH. To_  
+| _the extent practicable, the following entities shall conduct_  
+| _community outreach, including public awareness campaigns, and_  
+| _education activities on disaster preparedness each year:_  
+|  _(1) municipalities and counties;_  
+|  _(2) the division;_  
+|  _(3) the Texas Education Agency;_  
+|  _(4) the office of the comptroller;_  
+|  _(5) the Texas Department of Insurance;_  
+|  _(6) the Texas Department of Transportation;_  
+|  _(7)_ _____the Texas Department of Housing and Community_  
+| _Affairs; and_  
+|  _(8) the Department of State Health Services._  
+|  SECTION 3. Subchapter H, Chapter 418, Government Code, is  
+| amended by adding Section 418.193 to read as follows:  
+|  _Sec._ ___418.193._ _____DISASTER WEB PORTAL. The Texas A &M _  
+| _University System, in coordination with the governor and the_  
+| _division, shall develop a comprehensive disaster web portal._ ___The_  
+| _web portal must:_  
+|  _(1)_ _____provide disaster information to the public,_  
+| _including information on programs and services available to_  
+| _disaster victims and funding for and expenditures of disaster_  
+| _assistance programs;_  
+|  _(2)_ _____include information on disaster response and_  
+| _recovery activities; and_  
+|  _(3)_ _____provide information on obtaining assistance from_  
+| _the Federal Emergency Management Agency, state agencies, organized_  
+| _volunteer groups, and any other entities providing disaster_  
+| _assistance._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

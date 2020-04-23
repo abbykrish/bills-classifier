@@ -1,0 +1,42 @@
+| 86R9930 SRS-D  
+---|---  
+|  By: Bucy | H.B. No. 2552  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the secretary of state posting on the secretary of  
+| state's Internet website a database of certain election information  
+| collected from authorities responsible for giving notice of an  
+| election.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 4.003(e), Election Code, is amended to  
+| read as follows:  
+|  (e) The authority responsible for giving notice of the  
+| election shall deliver to the secretary of state _:_  
+|  _(1)_ a copy of the notice of a consolidated precinct  
+| required by Subsection (b) not later than the date of the election _;_  
+| _and_  
+|  _(2)_ _____information for the secretary of state's database_  
+| _of election information under Section 31.017 in an electronic_  
+| _format required by the secretary of state_.  
+|  SECTION 2. Subchapter A, Chapter 31, Election Code, is  
+| amended by adding Section 31.017 to read as follows:  
+|  _Sec._ ___31.017._ _____INTERNET DATABASE OF ELECTION INFORMATION._  
+| _(a) The secretary of state shall post on the secretary of state's_  
+| _public Internet website a database containing information provided_  
+| _by each authority responsible for giving notice of an election in_  
+| _this state. The database must include the following information:_  
+|  _(1) the name of the authority;_  
+|  _(2) each office to be filled at the election;_  
+|  _(3)_ _____whether the office is elected at large or by_  
+| _district; and_  
+|  _(4)_ _____the dates of the preceding and next election for_  
+| _the office._  
+|  _(b) The secretary of state:_  
+|  _(1)_ _____may solicit and accept gifts, grants, and_  
+| _donations from any public or private source for the creation and_  
+| _maintenance of the database; and_  
+|  _(2)_ _____shall adopt rules as necessary to implement this_  
+| _section._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

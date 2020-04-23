@@ -1,0 +1,75 @@
+| 86R11429 JG-F  
+---|---  
+|  By: Klick | H.B. No. 3735  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an electronic portal for disclosures and consent  
+| regarding certain newborn screening information.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 33.0111(c), Health and Safety Code, is  
+| amended to read as follows:  
+|  (c) At the time a newborn child is subjected to screening  
+| tests under Section 33.011 _or at a time before the screening as_  
+| _determined by_ [ ~~,~~ ] the physician attending a newborn child or the  
+| person attending the delivery of a newborn child that is not  
+| attended by a physician _, the physician or person_ shall provide the  
+| parent, managing conservator, or guardian of a newborn child a copy  
+| of the written disclosure statement developed by the department  
+| under this section.  
+|  SECTION 2. Subchapter B, Chapter 33, Health and Safety  
+| Code, is amended by adding Section 33.0113 to read as follows:  
+|  _Sec._ ___33.0113._ _____ELECTRONIC PORTAL. (a) Each birthing_  
+| _facility or other entity at which screening tests required under_  
+| _this chapter are conducted may maintain an electronic portal_  
+| _through which a parent, managing conservator, or guardian of a_  
+| _newborn child may:_  
+|  _(1)_ _____access and confirm receipt of the disclosure_  
+| _statement described by Section 33.0111 before or at the time of the_  
+| _newborn screening;_  
+|  _(2)_ _____request an exemption to the screening tests under_  
+| _Section 33.012 before the newborn screening; and_  
+|  _(3)_ _____provide electronic consent, including through_  
+| _audio or video recording, to the disclosure of screening results_  
+| _under Section 33.018(c-1) before or at the time of the screening._  
+|  _(b)_ _____An electronic portal described by Subsection (a) must_  
+| _allow a parent, managing conservator, or guardian of a newborn_  
+| _child to revoke or modify the request for an exemption or consent to_  
+| _the disclosure of information provided through the portal._  
+|  SECTION 3. Section 47.007(g), Health and Safety Code, is  
+| amended to read as follows:  
+|  (g) The department shall ensure that the written _or_  
+| _electronic_ consent of a parent is obtained before any information  
+| individually identifying the newborn or infant is released through  
+| the information management, reporting, and tracking system.  
+|  SECTION 4. Section 47.008(c), Health and Safety Code, is  
+| amended to read as follows:  
+|  (c) The executive commissioner by rule shall develop  
+| guidelines to protect the confidentiality of patients in accordance  
+| with Chapter 159, Occupations Code, and require the written _or_  
+| _electronic_ consent of a parent or guardian of a patient before any  
+| individually identifying information is provided to the department  
+| as set out in this chapter. The department shall permit a parent or  
+| guardian at any time to withdraw information provided to the  
+| department under this chapter.  
+|  SECTION 5. Chapter 47, Health and Safety Code, is amended by  
+| adding Section 47.0085 to read as follows:  
+|  _Sec._ ___47.0085._ _____ELECTRONIC PORTAL. (a) Each birthing_  
+| _facility or other entity at which screening tests required under_  
+| _this chapter are conducted may maintain an electronic portal_  
+| _through which a parent of a newborn child may:_  
+|  _(1) receive notice of the screening requirements;_  
+|  _(2) electronically decline the screening; and_  
+|  _(3)_ _____provide electronic consent, including through_  
+| _audio or video recording, to the disclosure of any information for_  
+| _which consent is required under Sections 47.007 and 47.008._  
+|  _(b)_ _____An electronic portal described by Subsection (a) must_  
+| _allow a parent of a newborn child to revoke or modify any consent to_  
+| _the disclosure of information and other information provided_  
+| _through the portal._  
+|  SECTION 6. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall adopt rules necessary to implement the  
+| changes in law made by this Act.  
+|  SECTION 7. This Act takes effect September 1, 2019.
+

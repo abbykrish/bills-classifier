@@ -1,0 +1,30 @@
+| 86R3673 ATP-D  
+---|---  
+|  By: Martinez Fischer | H.B. No. 2117  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the submission by telephonic facsimile or electronic  
+| transmission of an application for a ballot to be voted by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 84.007(b), Election Code, is amended to  
+| read as follows:  
+|  (b) An application must be submitted to the early voting  
+| clerk by:  
+|  (1) mail;  
+|  (2) common or contract carrier;  
+|  (3) [ ~~subject to Subsection (b-1),~~ ] telephonic  
+| facsimile machine, if a machine is available in the clerk's office;  
+| or  
+|  (4) [ ~~subject to Subsection (b-1),~~ ] electronic  
+| transmission of a scanned application containing an original  
+| signature.  
+|  SECTION 2. Section 84.007(b-1), Election Code, is repealed.  
+|  SECTION 3. The change in law made by this Act applies only  
+| to an application for a ballot to be voted by mail submitted on or  
+| after the effective date of this Act. An application for a ballot  
+| to be voted by mail submitted before the effective date of this Act  
+| is governed by the law in effect when the application was submitted,  
+| and the former law is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

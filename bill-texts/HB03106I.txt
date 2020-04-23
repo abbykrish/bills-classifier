@@ -1,0 +1,50 @@
+|  
+---|---  
+|  By: Goldman | H.B. No. 3106  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+|  
+| relating to a requirement that law enforcement agencies enter into  
+| the Texas Data Exchange information related to investigations of  
+| sexual assault or other sex offenses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. This Act shall be known as Molly Jane's Law.  
+|  SECTION 2. Subchapter B, Chapter 420, Government Code, is  
+| amended by adding Section 420.035 to read as follows:  
+|  _Sec._ ___420.035._ _____DUTY TO ENTER INVESTIGATION INFORMATION INTO_  
+| _INTELLIGENCE DATABASE. (a) In this section, "database" means the_  
+| _Texas Data Exchange or a successor comprehensive intelligence_  
+| _database._  
+|  _(b)_ _____A law enforcement agency that identifies a person as a_  
+| _suspect in the investigation of a sexual assault or other sex_  
+| _offense, regardless of how the person is identified, shall enter_  
+| _into the database information regarding the agency's investigation_  
+| _of that person. The information entered must include:_  
+|  _(1) the suspect's name and date of birth;_  
+|  _(2) the sex offense being investigated; and_  
+|  _(3)_ _____the concurrent physical offenses being_  
+| _investigated; and_  
+|  _(4)_ _____the law enforcement agency investigating the_  
+| _offense._  
+|  _(c)_ _____A law enforcement agency described by Subsection (b)_  
+| _shall remove the information from the database on the earliest of_  
+| _the following dates:_  
+|  _(1)_ _____the date the agency no longer considers the person_  
+| _a suspect in the relevant investigation;_  
+|  _(2)_ _____the date the person is charged with the offense_  
+| _being investigated or a similar offense; or_  
+|  _(3)_ _____the fifth anniversary of the date the information_  
+| _was entered into the database._  
+|  _(d)_ _____The department may, as necessary, remove from the_  
+| _database any information entered under this section._  
+|  _(e)_ _____Information entered into the database under this_  
+| _section is excepted from required disclosure under Chapter 552 in_  
+| _the manner provided by Section 552.108._  
+|  SECTION 3. Section 420.035, Government Code, as added by  
+| this Act, applies only to a pending investigation of a sexual  
+| assault or other sex offense, regardless of whether the  
+| investigation was commenced before, on, or after the effective date  
+| of this Act.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

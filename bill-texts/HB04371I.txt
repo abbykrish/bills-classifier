@@ -1,0 +1,51 @@
+| 86R14398 GRM-D  
+---|---  
+|  By: Stephenson | H.B. No. 4371  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to digital currencies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 15, Business & Commerce Code,  
+| is amended by adding Chapter 662 to read as follows:  
+| _CHAPTER 662. DIGITAL CURRENCIES_  
+|  _Sec. 662.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Digital currency" means an electronic form of_  
+| _currency that can be denominated to sovereign currency and employs_  
+| _the use of a distributed ledger._  
+|  _(2)_ _____"Digital wallet" means an electronic device or_  
+| _online service that allows a person to pay for transactions using_  
+| _digital currency._  
+|  _(3)_ _____"Distributed ledger" means a structured data_  
+| _representation that grows only by appending new data, authenticates_  
+| _users with strong cryptography, and leverages economic incentives_  
+| _to encourage users to manage and secure updates._  
+|  _(4)_ _____"Verified identity digital currency" means a_  
+| _digital currency that allows the true identities of the sender and_  
+| _the receiver to be known before a person has access to another_  
+| _person's digital wallet._  
+|  _Sec._ ___662.0002._ _____VERIFICATION OF IDENTITY REQUIRED. (a)_ __  
+| _Before accepting payment by a digital currency, a person must_  
+| _verify the identity of the person sending payment. A person is not_  
+| _required to verify the identify of a person sending payment if the_  
+| _payment is sent by a verified identity digital currency._  
+|  _(b)_ _____This state may not use a digital currency that is not a_  
+| _verified identity digital currency._  
+|  _Sec._ ___662.0003._ _____VERIFIED IDENTITY DIGITAL CURRENCY_  
+| _AWARENESS. (a)_ ___The Texas Department of Banking, Credit Union_  
+| _Commission, Texas Department of Public Safety, and State Securities_  
+| _Board shall collaborate to encourage the use of verified identity_  
+| _digital currencies._  
+|  _(b) The agencies listed in Subsection (a) shall:_  
+|  _(1)_ _____provide tools for people to distinguish a verified_  
+| _identity digital currency from digital currencies that allow users_  
+| _to remain anonymous;_  
+|  _(2)_ _____educate law enforcement agencies on digital_  
+| _currencies; and_  
+|  _(3)_ _____promote the use of verified identity digital_  
+| _currencies._  
+|  _(c)_ _____The Finance Commission of Texas, Credit Union_  
+| _Commission, Texas Department of Public Safety, and State Securities_  
+| _Board shall adopt rules to implement this section._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

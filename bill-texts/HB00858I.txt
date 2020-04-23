@@ -1,0 +1,50 @@
+| 86R4693 BRG-D  
+---|---  
+|  By: Anchia | H.B. No. 858  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the posting by the Railroad Commission of Texas on its  
+| Internet website of certain enforcement information.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 81, Natural Resources  
+| Code, is amended by adding Section 81.073 to read as follows:  
+|  _Sec._ ___81.073._ _____ENFORCEMENT INFORMATION. (a)_ ___The commission_  
+| _shall post on the commission's Internet website:_  
+|  _(1)_ _____comprehensive information regarding the_  
+| _commission's enforcement of this title and rules, orders, licenses,_  
+| _permits, and certificates issued under this title, including_  
+| _information regarding:_  
+|  _(A) inspection and enforcement activity;_  
+|  _(B) violations; and_  
+|  _(C) the amount of penalties finally assessed;_  
+|  _(2)_ _____information evidencing quarterly trends regarding_  
+| _enforcement activity by the commission, including:_  
+|  _(A)_ _____the number of complaints received and the_  
+| _manner in which they were resolved;_  
+|  _(B)_ _____the total number of inspections conducted,_  
+| _the number of inspections conducted following the receipt of a_  
+| _complaint, and the number of inspections conducted on the_  
+| _commission's own initiative;_  
+|  _(C)_ _____the number of violations, categorized_  
+| _according to the degree of severity of the violation and the_  
+| _statute, rule, order, license, permit, or certificate violated, for_  
+| _which enforcement action has been taken;_  
+|  _(D)_ _____the number of repeat violations determined to_  
+| _have been committed; and_  
+|  _(E)_ _____the number of violations referred to the_  
+| _attorney general for enforcement; and_  
+|  _(3)_ _____an analysis of annual trends regarding complaints_  
+| _filed with the commission and enforcement activity by the_  
+| _commission._  
+|  _(b)_ _____Information required to be posted under this section_  
+| _must be:_  
+|  _(1) in a searchable format;_  
+|  _(2)_ _____organized by county, by operator or other entity,_  
+| _and by well, if applicable; and_  
+|  _(3) capable of being downloaded in bulk._  
+|  SECTION 2. The Railroad Commission of Texas shall comply  
+| with Section 83.073(b), Natural Resources Code, as added by this  
+| Act, not later than January 1, 2021.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

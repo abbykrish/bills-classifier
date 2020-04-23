@@ -1,0 +1,52 @@
+| 86R12350 JRJ-F  
+---|---  
+|  By: Swanson | H.B. No. 4540  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to verification of the citizenship status of certain  
+| registered voters.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 16.0332(a), Election Code, is amended to  
+| read as follows:  
+|  (a) After the registrar receives _notification_ [ ~~a list~~ ]  
+| under Section 18.068 of this code or Section 62.113, Government  
+| Code, of persons excused or disqualified from jury service because  
+| of citizenship status _or who have indicated a lack of citizenship_  
+| _status in connection with a motor vehicle record_ , the registrar  
+| shall deliver to each registered voter whose name appears on the  
+| list a written notice requiring the voter to submit to the registrar  
+| proof of United States citizenship in the form of a certified copy  
+| of the voter's birth certificate, United States passport, or  
+| certificate of naturalization or any other form prescribed by the  
+| secretary of state. The notice shall be delivered by forwardable  
+| mail to the mailing address on the voter's registration application  
+| and to any new address of the voter known to the registrar.  
+|  SECTION 2. Sections 18.068(a) and (b), Election Code, are  
+| amended to read as follows:  
+|  (a) The secretary of state shall quarterly compare the  
+| information received under Section 16.001 of this code _,_ [ ~~and~~ ]  
+| Section 62.113, Government Code, _and Section 730.005(9),_  
+| _Transportation Code,_ to the statewide computerized voter  
+| registration list. If the secretary determines that a voter on the  
+| registration list is deceased _,_ [ ~~or~~ ] has been excused or  
+| disqualified from jury service because the voter is not a citizen,  
+| _or has indicated the voter is not a citizen in connection with a_  
+| _motor vehicle record,_ the secretary shall send notice of the  
+| determination to the voter registrar of the counties considered  
+| appropriate by the secretary.  
+|  (b) The secretary of state shall by rule determine what  
+| information combinations identified as common to a voter and to an  
+| individual _for whom the secretary of state has received information_  
+| _under this section_ [ ~~who is deceased~~ ] constitute a weak match or a  
+| strong match in order to:  
+|  (1) produce the least possible impact on Texas voters;  
+| and  
+|  (2) fulfill its responsibility to manage the voter  
+| rolls.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

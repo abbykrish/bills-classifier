@@ -1,0 +1,76 @@
+| 86R367 GRM-D  
+---|---  
+|  By: King of Hemphill | H.B. No. 669  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to eligibility of certain local exchange companies for  
+| support from the universal service fund for the provision of  
+| broadband service.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 56.021, Utilities Code, is amended to  
+| read as follows:  
+|  Sec. 56.021. UNIVERSAL SERVICE FUND ESTABLISHED. The  
+| commission shall adopt and enforce rules requiring local exchange  
+| companies to establish a universal service fund to:  
+|  (1) assist telecommunications providers in providing  
+| basic local telecommunications service at reasonable rates in high  
+| cost rural areas under two plans:  
+|  (A) the Texas High Cost Universal Service Plan  
+| (16 T.A.C. Section 26.403); and  
+|  (B) the Small and Rural Incumbent Local Exchange  
+| Company Universal Service Plan (16 T.A.C. Section 26.404);  
+|  (2) reimburse the telecommunications carrier that  
+| provides the statewide telecommunications relay access service  
+| under Subchapter D;  
+|  (3) finance the specialized telecommunications  
+| assistance program established under Subchapter E;  
+|  (4) reimburse the department and the commission for  
+| costs incurred in implementing this chapter and Chapter 57;  
+|  (5) reimburse a telecommunications carrier providing  
+| lifeline service as provided by 47 C.F.R. Part 54, Subpart E, as  
+| amended;  
+|  (6) finance the implementation and administration of  
+| the identification process under Section 17.007 for  
+| telecommunications services;  
+|  (7) reimburse a designated provider under Subchapter  
+| F;  
+|  (8) reimburse a successor utility under Subchapter G;  
+| [ ~~and~~ ]  
+|  (9) finance the program established under Subchapter  
+| H _; and_  
+|  _(10)_ _____finance the rural broadband service program_  
+| _established under Subchapter I_.  
+|  SECTION 2. Chapter 56, Utilities Code, is amended by adding  
+| Subchapter I to read as follows:  
+| _SUBCHAPTER I. RURAL BROADBAND SERVICE PROGRAM_  
+|  _Sec._ ___56.351._ _____DEFINITION. For the purposes of this_  
+| _subchapter, "broadband service" means a mass-market retail service_  
+| _by wire or radio that provides the capability to transmit data to_  
+| _and receive data from all or substantially all Internet endpoints._  
+| _The term includes any capabilities that are incidental to and_  
+| _enable the operation of the communications service but does not_  
+| _include dial-up Internet access service._  
+|  _Sec._ ___56.352._ _____SUPPORT FOR BROADBAND SERVICES IN RURAL AREAS._  
+| _(a) The commission shall provide from the universal service fund_  
+| _financial assistance for an incumbent local exchange company to_  
+| _build and maintain facility-based networks capable of providing_  
+| _access to broadband service in rural areas of this state where_  
+| _support is necessary to allow the provision of services at rates_  
+| _comparable to the benchmark rates established by the Federal_  
+| _Communications Commission._  
+|  _(b)_ _____Support received under this subchapter may not be used_  
+| _for a purpose other than a purpose described by Subsection (a)._  
+|  _(c)_ _____The commission by rule shall adopt criteria for areas of_  
+| _this state to qualify as rural areas for the purposes of this_  
+| _subchapter._  
+|  _Sec._ ___56.353._ _____NETWORK STANDARDS. The commission by rule_  
+| _shall establish standards for networks built or maintained using_  
+| _support disbursed under this subchapter. The standards must_  
+| _require a network to provide broadband service and be consistent_  
+| _with standards established by the federal government._  
+|  _Sec._ ___56.354._ _____ACCOUNTING. The commission shall adopt rules_  
+| _to ensure that support provided under this subchapter is calculated_  
+| _in a manner that is consistent with standard accounting principles._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

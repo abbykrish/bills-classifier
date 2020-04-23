@@ -1,0 +1,102 @@
+| 86R8231 JES-F  
+---|---  
+|  By: Collier | H.B. No. 996  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the collection of consumer debt by debt buyers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. This Act shall be known as the Fair Consumer Debt  
+| Collection Act.  
+|  SECTION 2. Subchapter D, Chapter 392, Finance Code, is  
+| amended by adding Section 392.307 to read as follows:  
+|  _Sec._ ___392.307._ _____COLLECTION OF CERTAIN CONSUMER DEBT BY DEBT_  
+| _BUYERS. (a) In this section:_  
+|  _(1)_ _____"Charged-off debt" means a consumer debt that a_  
+| _creditor has determined to be a loss or expense to the creditor_  
+| _instead of an asset._  
+|  _(2)_ _____"Debt buyer" means a person who purchases or_  
+| _otherwise acquires a consumer debt from a creditor or other_  
+| _subsequent owner of the consumer debt, regardless of whether the_  
+| _person collects the consumer debt, hires a third party to collect_  
+| _the consumer debt, or hires an attorney to pursue collection_  
+| _litigation in connection with the consumer debt. The term does not_  
+| _include:_  
+|  _(A)_ _____a person who acquires a charged-off debt_  
+| _incidental to the purchase of a portfolio that predominantly_  
+| _consists of consumer debt that has not been charged off; or_  
+|  _(B)_ _____a check services company that acquires the_  
+| _right to collect on a paper or electronic negotiable instrument,_  
+| _including an Automated Clearing House (ACH) authorization to debit_  
+| _an account that has not been processed._  
+|  _(b)_ _____Unless otherwise expressly provided, this section_  
+| _prevails to the extent of any conflict between this section and any_  
+| _other law of this state._  
+|  _(c)_ _____A debt buyer may not, directly or indirectly, commence_  
+| _an action against or initiate arbitration with a consumer to_  
+| _collect a consumer debt later than the earlier of:_  
+|  _(1)_ _____the fourth anniversary of the date of the_  
+| _consumer's last activity on the consumer debt; or_  
+|  _(2)_ _____the expiration date of any otherwise applicable_  
+| _statute of limitations._  
+|  _(d)_ _____If an action to collect a consumer debt is barred under_  
+| _Subsection (c), the cause of action is not revived by a payment of_  
+| _the consumer debt, an oral or written reaffirmation of the consumer_  
+| _debt, or any other activity on the consumer debt._  
+|  _(e)_ _____If a debt buyer is engaged in debt collection for a_  
+| _consumer debt for which an action to collect the debt is barred_  
+| _under Subsection (c), the debt buyer, or a debt collector acting on_  
+| _behalf of the debt buyer, shall provide the following notice in the_  
+| _initial written communication with the consumer relating to the_  
+| _debt collection:_  
+|  _(1)_ _____if the reporting period for including the consumer_  
+| _debt in a consumer report prepared by a consumer reporting agency_  
+| _has not expired under Section 605, Fair Credit Reporting Act (15_  
+| _U.S.C. Section 1681c), and the debt buyer furnishes to a consumer_  
+| _reporting agency information regarding the consumer debt, "THE LAW_  
+| _LIMITS HOW LONG YOU CAN BE SUED ON A DEBT. BECAUSE OF THE AGE OF_  
+| _YOUR DEBT, WE WILL NOT SUE YOU FOR IT. IF YOU DO NOT PAY THE DEBT,_  
+| _[INSERT NAME OF DEBT BUYER] MAY CONTINUE TO REPORT IT TO CREDIT_  
+| _REPORTING AGENCIES AS UNPAID FOR AS LONG AS THE LAW PERMITS THIS_  
+| _REPORTING. THIS NOTICE IS REQUIRED BY LAW.";_  
+|  _(2)_ _____if the reporting period for including the consumer_  
+| _debt in a consumer report prepared by a consumer reporting agency_  
+| _has not expired under Section 605, Fair Credit Reporting Act (15_  
+| _U.S.C. Section 1681c), but the debt buyer does not furnish to a_  
+| _consumer reporting agency information regarding the consumer debt,_  
+| _"THE LAW LIMITS HOW LONG YOU CAN BE SUED ON A DEBT. BECAUSE OF THE_  
+| _AGE OF YOUR DEBT, WE WILL NOT SUE YOU FOR IT. THIS NOTICE IS_  
+| _REQUIRED BY LAW."; or_  
+|  _(3)_ _____if the reporting period for including the consumer_  
+| _debt in a consumer report prepared by a consumer reporting agency_  
+| _has expired under Section 605, Fair Credit Reporting Act (15 U.S.C._  
+| _Section 1681c), "THE LAW LIMITS HOW LONG YOU CAN BE SUED ON A DEBT._  
+| _BECAUSE OF THE AGE OF YOUR DEBT, WE WILL NOT SUE YOU FOR IT, AND WE_  
+| _WILL NOT REPORT IT TO ANY CREDIT REPORTING AGENCY. THIS NOTICE IS_  
+| _REQUIRED BY LAW."_  
+|  _(f)_ _____A notice required under Subsection (e) must be in at_  
+| _least 12-point type that is boldfaced, capitalized, or underlined_  
+| _or otherwise conspicuously set out from the surrounding written_  
+| _material._  
+|  SECTION 3. Section 392.402, Finance Code, is amended by  
+| amending Subsection (a) and adding Subsection (d) to read as  
+| follows:  
+|  (a) _Except as provided by Subsection (d), a_ [ ~~A~~ ] person  
+| commits an offense if the person violates this chapter.  
+|  _(d)_ _____This section does not apply to a violation of Section_  
+| _392.307._  
+|  SECTION 4. Section 392.404(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) A violation of this chapter is a deceptive trade  
+| practice under Subchapter E, Chapter 17, Business & Commerce Code,  
+| and is actionable under that subchapter. _This subsection does not_  
+| _apply to a violation of Section 392.307._  
+|  SECTION 5. The changes in law made by this Act apply only to  
+| an action of a debt buyer to collect a consumer debt if the action  
+| occurs on or after the effective date of this Act. An action of a  
+| debt buyer to collect a consumer debt that occurs before the  
+| effective date of this Act is governed by the law in effect  
+| immediately before that date, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

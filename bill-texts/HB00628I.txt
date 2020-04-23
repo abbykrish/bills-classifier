@@ -1,0 +1,62 @@
+| 86R4706 JG-D  
+---|---  
+|  By: Thierry | H.B. No. 628  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an acute psychiatric bed registry to list available  
+| beds for the psychiatric treatment of certain individuals.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.0995 to read as follows:  
+|  _Sec._ ___531.0995._ _____ACUTE PSYCHIATRIC BED REGISTRY. (a)_ ___In this_  
+| _section, "inpatient mental health facility" has the meaning_  
+| _assigned by Section 571.003, Health and Safety Code._  
+|  _(b)_ _____The commission shall develop and administer an_  
+| _Internet-based and searchable acute psychiatric bed registry to_  
+| _collect, aggregate, and display information about beds at inpatient_  
+| _mental health facilities located in a county with a population of_  
+| _four million or more that are available for the inpatient_  
+| _psychiatric treatment of individuals._  
+|  _(c)_ _____For each inpatient mental health facility, the acute_  
+| _psychiatric bed registry must list:_  
+|  _(1) the name and contact information of the facility;_  
+|  _(2) the number of available beds;_  
+|  _(3) the type of individual who may be admitted;_  
+|  _(4) the level of security provided; and_  
+|  _(5)_ _____any other information that may be necessary to_  
+| _identify appropriate beds for the inpatient psychiatric treatment_  
+| _of individuals._  
+|  _(d)_ _____The commission shall make the acute psychiatric bed_  
+| _registry available to law enforcement agencies, community service_  
+| _boards, mental health facilities, public and private residential_  
+| _crisis stabilization units, emergency care facilities, and_  
+| _emergency care providers located in a county with a population of_  
+| _four million or more._ ___The commission may make the registry_  
+| _available to any other person the commission considers appropriate._  
+|  _(e)_ _____An inpatient mental health facility located in a county_  
+| _with a population of four million or more shall submit to the_  
+| _commission information for the acute psychiatric bed registry as_  
+| _required by the commission and review the information and confirm_  
+| _its accuracy to the commission at least once daily and whenever_  
+| _there is a change in bed availability at the facility._  
+|  _(f)_ _____An inpatient mental health facility located in a county_  
+| _with a population of four million or more shall designate an_  
+| _employee or employees as necessary to:_  
+|  _(1)_ _____submit to the commission the information required_  
+| _under Subsection (e) and review the information as required by that_  
+| _subsection; and_  
+|  _(2)_ _____serve as a contact for questions about the_  
+| _information submitted._  
+|  _(g)_ _____The commission may contract with any person the_  
+| _commission considers appropriate to develop and administer the_  
+| _acute psychiatric bed registry._  
+|  _(h)_ _____The commission may accept gifts, grants, or donations_  
+| _from any public or private source for the purpose of carrying out_  
+| _this section._  
+|  SECTION 2. Not later than January 1, 2022, the Health and  
+| Human Services Commission shall establish the acute psychiatric bed  
+| registry required by Section 531.0995, Government Code, as added by  
+| this Act.  
+|  SECTION 3. This Act takes effect September 1, 2021.
+

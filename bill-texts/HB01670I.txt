@@ -1,0 +1,1334 @@
+| 86R7842 JCG-D  
+---|---  
+|  By: Lambert | H.B. No. 1670  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the transfer of the regulation of plumbing to the Texas  
+| Department of Licensing and Regulation, following recommendations  
+| of the Sunset Advisory Commission; requiring an occupational  
+| license; authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1301.002, Occupations Code, is amended  
+| by amending Subdivisions (1), (1-a), (1-b), (2), (3), (4), (5),  
+| (6), (8), (9), (10), and (11) and adding Subdivisions (1-c) and  
+| (7-a) to read as follows:  
+|  (1) _"Advisory board"_ [ ~~"Board"~~ ] means the Texas [ ~~State~~  
+|  ~~Board of~~ ] Plumbing _Advisory Board established under Subchapter C_  
+| [ ~~Examiners~~ ].  
+|  (1-a) _"Commission" means the Texas Commission of_  
+| _Licensing and Regulation._  
+|  _(1-b)_ "Control valve" means a valve that operates each  
+| time water is supplied to, or shut off from, a receptacle or  
+| plumbing fixture. The term does not include a stop valve that may be  
+| installed in the water supply branch to the control valve.  
+|  _(1-c)_ _____"Department" means the Texas Department of_  
+| _Licensing and Regulation._  
+|  _(2)_ [ ~~(1-b)~~ ] "Executive director" means the executive  
+| director of the _department_ [ ~~Texas State Board of Plumbing~~  
+|  ~~Examiners~~ ].  
+|  _(3) "Drain cleaning"_ [ ~~(2) "Drain cleaner"~~ ] means [ ~~a~~  
+|  ~~person who~~ ]:  
+|  (A) _installing_ [ ~~has completed at least 4,000~~  
+|  ~~hours working under the supervision of a responsible master plumber~~  
+|  ~~as a drain cleaner-restricted registrant;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~has fulfilled the requirements of and is~~  
+|  ~~registered with the board; and~~  
+|  [ ~~(C) installs~~] cleanouts and _removing_ [ ~~removes~~ ]  
+| and _resetting_ [ ~~resets~~ ] p-traps to eliminate obstructions in  
+| building drains and sewers under the supervision of a [ ~~responsible~~ ]  
+| master plumber _; or_  
+|  _(B) clearing_ [ ~~.~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~"Drain cleaner-restricted registrant" means a~~  
+|  ~~person who:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~has worked as a plumber's apprentice under~~  
+|  ~~the supervision of a responsible master plumber;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~has fulfilled the requirements of and is~~  
+|  ~~registered with the board; and~~  
+|  [ ~~(C) clears~~] obstructions in sewer and drain  
+| lines through any code-approved existing opening under the  
+| supervision of a [ ~~responsible~~ ] master plumber.  
+|  (4) "Journeyman plumber" means a person licensed under  
+| this chapter who:  
+|  (A) has met the qualifications for registration  
+| as a plumber's apprentice or for licensing as a tradesman  
+| plumber-limited license holder;  
+|  (B) has completed at least 8,000 hours working  
+| under the supervision of a [ ~~responsible~~ ] master plumber;  
+|  (C) installs, changes, repairs, services, or  
+| renovates plumbing or supervises any of those activities under the  
+| supervision of a [ ~~responsible~~ ] master plumber;  
+|  (D) has passed the required examination; and  
+|  (E) has fulfilled the other requirements of the  
+| _commission_ [ ~~board~~ ].  
+|  (5) "Master plumber" means a person licensed under  
+| this chapter who:  
+|  (A) is skilled in the design, planning, and  
+| superintending of plumbing and in the practical installation,  
+| repair, and servicing of plumbing;  
+|  (B) has worked as a journeyman plumber:  
+|  (i) for at least four years; or  
+|  (ii) for at least one year and has  
+| successfully completed a training program approved by the United  
+| States Department of Labor Office of Apprenticeship or another  
+| nationally recognized apprentice training program accepted by the  
+| _commission_ [ ~~board~~ ];  
+|  (C) performs or supervises plumbing work;  
+|  (D) has passed the required examination; and  
+|  (E) has fulfilled the other requirements of the  
+| _commission_ [ ~~board~~ ].  
+|  (6) "Plumber's apprentice" means a person other than a  
+| master plumber, journeyman plumber, or tradesman plumber-limited  
+| license holder who _:_  
+|  _(A)_ [ ~~,~~ ] as the person's principal occupation,  
+| learns about and assists in the installation of plumbing, _including_  
+| _drain cleaning and residential utilities installation;_  
+|  _(B)_ has fulfilled the requirements of _the_  
+| _commission_ and is registered by the _department;_ [ ~~board,~~ ] and  
+|  _(C)_ works under the supervision of a  
+| [ ~~responsible~~ ] master plumber [ ~~and the direct supervision of a~~  
+|  ~~licensed plumber~~ ].  
+|  _(7-a)_ _____"Plumbing contractor" means a person licensed as_  
+| _a plumbing contractor under this chapter who:_  
+|  _(A)_ _____is a master plumber, or employs a master_  
+| _plumber, for the purpose of offering and performing plumbing work_  
+| _that will be performed or supervised by the master plumber;_  
+|  _(B)_ _____is authorized to obtain permits for plumbing_  
+| _work;_  
+|  _(C)_ _____assumes responsibility for plumbing work_  
+| _performed for compensation paid to the person; and_  
+|  _(D)_ _____has submitted a certificate of insurance as_  
+| _required by Section 1301.3576._  
+|  (8) "Plumbing inspector" means a person who:  
+|  (A) is employed by a political subdivision or  
+| state agency, or contracts as an independent contractor with a  
+| political subdivision or state agency, to inspect plumbing in  
+| connection with health and safety laws, including ordinances, and  
+| plumbing and gas codes;  
+|  (B) has passed the required examination; and  
+|  (C) has fulfilled the other requirements of the  
+| _commission_ [ ~~board~~ ].  
+|  (9) _"Residential utilities installation"_  
+| [ ~~"Residential utilities installer"~~ ] means _constructing and_  
+| _installing_ [ ~~a person who:~~  
+|  [ ~~(A)~~ ~~~~ ~~~~ ~~has completed at least 2,000 hours working~~  
+|  ~~under the supervision of a master plumber as a plumber's~~  
+|  ~~apprentice;~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~has fulfilled the requirements of and is~~  
+|  ~~registered with the board; and~~  
+|  [ ~~(C) constructs and installs~~] yard water service  
+| piping for one-family or two-family dwellings and building sewers  
+| under the supervision of a [ ~~responsible~~ ] master plumber.  
+|  (10) "Tradesman plumber-limited license holder" means  
+| a person who:  
+|  (A) has completed at least 4,000 hours working  
+| under the [ ~~direct~~ ] supervision of a [ ~~journeyman or~~ ] master
+plumber  
+| as a plumber's apprentice;  
+|  (B) has passed the required examination;  
+|  (C) constructs and installs plumbing for  
+| one-family or two-family dwellings under _general_ [ ~~the~~ ] supervision  
+| [ ~~of a responsible master plumber~~ ]; and  
+|  (D) has fulfilled the other requirements of the  
+| _commission_ [ ~~board~~ ].  
+|  (11) "Water supply protection specialist" means a  
+| person who holds an endorsement issued by the _department_ [ ~~board~~ ] to  
+| engage in:  
+|  (A) customer service inspections, as defined by  
+| rule of the Texas Commission on Environmental Quality; and  
+|  (B) the installation, service, and repair of  
+| plumbing associated with the treatment, use, and distribution use  
+| of rainwater to supply a plumbing fixture or appliance.  
+|  SECTION 2. Sections 1301.056 and 1301.057, Occupations  
+| Code, are amended to read as follows:  
+|  Sec. 1301.056. LAWN IRRIGATION SYSTEMS. A person licensed  
+| by the _department under this chapter_ [ ~~board~~ ] is not required to be  
+| licensed by another board or agency to install or work on a lawn  
+| irrigation system.  
+|  Sec. 1301.057. SELF-HELP PROJECT. (a) A person is not  
+| required to be licensed under this chapter to perform plumbing,  
+| limited to the provision of a residential potable water supply or  
+| residential sanitary sewer connection, for a project that:  
+|  (1) is in a county a part of which is within 50 miles of  
+| an international border; and  
+|  (2) is performed by an organization that:  
+|  (A) is certified by the Texas [ ~~Natural Resource~~  
+|  ~~Conservation~~ ] Commission _on Environmental Quality_ to provide  
+| self-help project assistance; and  
+|  (B) provides the _department_ [ ~~board~~ ] with the  
+| following information before the 30th day before the date the  
+| project begins:  
+|  (i) the exact location of the project;  
+|  (ii) the intended duration of the project;  
+| and  
+|  (iii) other information the _department_  
+| [ ~~board~~ ] requires.  
+|  (b) The _department_ [ ~~board~~ ] may require under Subsection  
+| (a)(2)(B)(iii) that the organization provide a post-construction  
+| report signed by a plumbing inspector stating that the plumbing is  
+| safe.  
+|  (c) The _department_ [ ~~board~~ ] may provide training to an  
+| organization that provides self-help project assistance under this  
+| section.  
+|  SECTION 3. The heading to Subchapter C, Chapter 1301,  
+| Occupations Code, is amended to read as follows:  
+| SUBCHAPTER C.  TEXAS [ ~~STATE BOARD OF~~ ] PLUMBING _ADVISORY BOARD_  
+| [ ~~EXAMINERS~~ ]  
+|  SECTION 4. Section 1301.151, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.151. TEXAS [ ~~STATE BOARD OF~~ ] PLUMBING _ADVISORY_  
+| _BOARD_ [ ~~EXAMINERS~~ ] MEMBERSHIP. (a) The Texas [ ~~State Board of~~ ]  
+| Plumbing _Advisory Board_ [ ~~Examiners~~ ] consists of nine members  
+| appointed by the _presiding officer of the commission, with_  
+| _commission approval,_ [ ~~governor with the advice and consent of the~~  
+|  ~~senate~~ ] as follows:  
+|  (1) one member who has at least 10 years' practical  
+| experience and is licensed as a master plumber;  
+|  (2) one member who has at least five years' practical  
+| experience and is licensed as a journeyman plumber;  
+|  (3) one member who has at least five years' practical  
+| experience and is licensed as a plumbing inspector;  
+|  (4) one member who _is_ [ ~~has been~~ ] a _plumbing contractor_  
+| [ ~~responsible master plumber for at least five years with at least 10~~  
+|  ~~years' experience as a licensed journeyman plumber or master~~  
+|  ~~plumber~~ ];  
+|  (5) one member who is a licensed engineer practicing  
+| in the field of plumbing engineering;  
+|  (6) two members who are building contractors with at  
+| least five years' contracting experience, one of whom is  
+| principally engaged in home building and one of whom is principally  
+| engaged in commercial building; [ ~~and~~ ]  
+|  (7) _one member who is a licensed plumber; and_  
+|  _(8) one member_ [ ~~two members~~ ] who _represents_  
+| [ ~~represent~~ ] the public.  
+|  (b) Each member of the _advisory_ board must be a United  
+| States citizen.  
+|  (c) Appointments to the _advisory_ board shall be made without  
+| regard to the race, color, disability, sex, religion, age, or  
+| national origin of the appointee.  
+|  _(d)_ _____Chapter 2110, Government Code, does not apply to the_  
+| _composition or duration of the advisory board or to the appointment_  
+| _of the advisory board's presiding officer._  
+|  SECTION 5. Section 1301.152, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.152. ELIGIBILITY OF PUBLIC _MEMBER_ [ ~~MEMBERS~~ ]. A  
+| person is not eligible for appointment as a public member of the  
+| _advisory_ board if the person or the person's spouse:  
+|  (1) is licensed by an occupational regulatory agency  
+| in the building construction industry;  
+|  (2) is employed by or participates in the management  
+| of an agency or business entity related to the building  
+| construction industry; or  
+|  (3) has, other than as a consumer, a financial  
+| interest in a business entity related to the building construction  
+| industry.  
+|  SECTION 6. Section 1301.154, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.154. TERMS.  _Advisory board_ [ ~~Board~~ ] members serve  
+| staggered six-year terms.  
+|  SECTION 7. Section 1301.157, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.157. _OFFICER_ [ ~~OFFICERS~~ ]. [ ~~(a)~~ ] The _presiding_  
+| _officer of the commission_ [ ~~governor~~ ] shall designate a member of  
+| the _advisory_ board as the presiding officer of the board to serve in  
+| that capacity at the pleasure of the _presiding officer of the_  
+| _commission_ [ ~~governor~~ ].  
+|  [ ~~(b) The board shall elect a secretary from its membership.~~]  
+|  SECTION 8. Section 1301.158, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.158. _COMPENSATION_ [ ~~PER DIEM; REIMBURSEMENT~~ ]. _An_  
+| _advisory_ [ ~~(a) A~~ ] board member may not receive _compensation_ [ ~~a
+fixed~~  
+|  ~~salary~~ ] for service on the _advisory_ board.  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~A board member is entitled to receive a per diem as
+set~~  
+|  ~~by the General Appropriations Act for each day the member engages in~~  
+|  ~~the business of the board.~~  
+|  [ ~~(c)~~ ~~~~ ~~~~ ~~A board member may not receive reimbursement for
+travel~~  
+|  ~~expenses, including expenses for meals and lodging, other than~~  
+|  ~~transportation expenses. A member is entitled to reimbursement for~~  
+|  ~~transportation expenses as provided by the General Appropriations~~  
+|  ~~Act.~~ ]  
+|  SECTION 9. Subchapter C, Chapter 1301, Occupations Code, is  
+| amended by adding Section 1301.160 to read as follows:  
+|  _Sec._ ___1301.160._ _____DUTIES OF ADVISORY BOARD. The advisory_  
+| _board shall provide advice and recommendations to the department on_  
+| _technical matters relevant to the administration and enforcement of_  
+| _this chapter, including examinations, licensing qualifications,_  
+| _plumbing code requirements, and continuing education requirements._  
+|  SECTION 10. The heading to Subchapter D, Chapter 1301,  
+| Occupations Code, is amended to read as follows:  
+| SUBCHAPTER D. _DEPARTMENT_ [ ~~EXECUTIVE DIRECTOR AND OTHER BOARD~~ ]  
+| PERSONNEL  
+|  SECTION 11. Section 1301.202, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.202. _CERTAIN_ PLUMBING _EXAMINERS_ [ ~~EXAMINER~~ ]. (a)  
+| _If an examination required for the issuance of a license,_  
+| _endorsement, or certificate of registration under this chapter_  
+| _contains a practical component, the department_ [ ~~The board~~ ] shall  
+| employ _or contract with_ one or more plumbing examiners _to_  
+| _administer that portion of the examination_. [ ~~A plumbing examiner~~  
+|  ~~serves at the will of the board.~~ ] A plumbing examiner must:  
+|  (1) hold a license as a plumber issued under this  
+| chapter; _and_  
+|  (2) be knowledgeable of this chapter and municipal  
+| ordinances relating to plumbing[ ~~; and~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~be qualified by experience and training in~~  
+|  ~~plumbing practice~~ ].  
+|  (b) A plumbing examiner shall:  
+|  (1) examine the fitness and qualifications of a person  
+| applying to the _department_ [ ~~board~~ ] for a license as a master  
+| plumber, journeyman plumber, tradesman plumber-limited license  
+| holder, or plumbing inspector; and  
+|  (2) promptly certify the result of the examination to  
+| the _department_ [ ~~board~~ ].  
+|  SECTION 12. Section 1301.203, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.203. FIELD REPRESENTATIVE; INSPECTIONS. (a) The  
+| _department_ [ ~~board~~ ] may employ a field representative to assist the  
+| _department_ [ ~~board~~ ] in enforcing this chapter and rules adopted  
+| under this chapter. A field representative must[ ~~:~~  
+|  [ ~~(1) hold a license as a plumber under this chapter;~~  
+|  [ ~~(2)~~ ] be knowledgeable of this chapter and municipal  
+| ordinances relating to plumbing[ ~~; and~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~be qualified by experience and training in~~  
+|  ~~plumbing practice~~ ].  
+|  (b) A field representative may:  
+|  (1) conduct on-site license checks to determine  
+| compliance with this chapter;  
+|  (2) investigate consumer complaints [ ~~filed under~~  
+|  ~~Section 1301.303~~ ]; _and_  
+|  (3) assist municipal plumbing inspectors in enforcing  
+| this chapter[ ~~;~~  
+|  [ ~~(4)~~ ~~~~ ~~~~ ~~issue citations as provided by Section 1301.502;~~  
+|  ~~and~~  
+|  [ ~~(5)~~ ~~~~ ~~~~ ~~in the performance of the field representative's~~  
+|  ~~other duties under this chapter, check the license, registration,~~  
+|  ~~or endorsement of a person regulated by the Texas Department of~~  
+|  ~~Licensing and Regulation in accordance with the memorandum of~~  
+|  ~~understanding adopted under Section 1301.259 and report any~~  
+|  ~~noncompliance to that agency~~ ].  
+|  SECTION 13. The heading to Subchapter E, Chapter 1301,  
+| Occupations Code, is amended to read as follows:  
+| SUBCHAPTER E.  [ ~~BOARD~~ ] POWERS AND DUTIES  
+|  SECTION 14. Sections 1301.251 and 1301.253, Occupations  
+| Code, are amended to read as follows:  
+|  Sec. 1301.251. GENERAL DUTIES [ ~~OF BOARD~~ ]. The _executive_  
+| _director or commission, as appropriate,_ [ ~~board~~ ] shall:  
+|  (1) administer this chapter; _and_  
+|  (2) adopt and enforce rules necessary to administer  
+| this chapter _, including requirements for the issuance and renewal_  
+| _of a license, endorsement, or certificate of registration under_  
+| _this chapter_ [ ~~; and~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~keep a record of each proceeding conducted before~~  
+|  ~~and action taken by the board~~ ].  
+|  Sec. 1301.253. FEES. The _commission_ [ ~~board~~ ] shall set fees  
+| _under this chapter_ in amounts that are reasonable and necessary to  
+| cover the cost of administering this chapter.  
+|  SECTION 15. Sections 1301.255(a), (b), (c), and (d),  
+| Occupations Code, are amended to read as follows:  
+|  (a) The _commission_ [ ~~board~~ ] shall adopt the following  
+| plumbing codes, as those codes existed on May 31, 2001:  
+|  (1) the Uniform Plumbing Code, as published by the  
+| International Association of Plumbing and Mechanical Officials;  
+| and  
+|  (2) the International Plumbing Code, as published by  
+| the International Code Council.  
+|  (b) The _commission_ [ ~~board~~ ] by rule may adopt later editions  
+| of the plumbing codes listed in Subsection (a).  
+|  (c) Plumbing installed in an area not otherwise subject to  
+| regulation under this chapter by a person licensed under this  
+| chapter must be installed in accordance with a plumbing code  
+| adopted by the _commission_ [ ~~board~~ ] under Subsection (a) or (b).  
+|  (d) In adopting a code for the design, installation, and  
+| maintenance of a plumbing system under this section, a municipality  
+| or an owner of a public water system may amend any provisions of the  
+| code to conform to local concerns that do not substantially vary  
+| from _commission_ [ ~~board~~ ] rules or other rules of this state.  
+|  SECTION 16. Section 1301.262, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.262. _CODES_ [ ~~PLUMBING INSPECTOR CODE~~ ] OF CONDUCT.  
+| _(a)_ The _commission_ [ ~~board~~ ] by rule shall establish a code of  
+| conduct for licensed plumbing inspectors. The code of conduct  
+| shall require a plumbing inspector to enforce this chapter and  
+| _commission_ [ ~~board~~ ] rules in a consistent manner across job sites.  
+|  _(b)_ _____The commission by rule may establish standards of_  
+| _conduct for a holder of a license, endorsement, or certificate of_  
+| _registration issued under this chapter._  
+|  SECTION 17. Subchapter E, Chapter 1301, Occupations Code,  
+| is amended by adding Section 1301.263 to read as follows:  
+|  _Sec._ ___1301.263._ _____EXAMINATION ADMINISTRATION AND CONTENT. (a)_  
+| _The department shall recognize, prepare, administer, or arrange for_  
+| _the administration of an examination required by this chapter._  
+|  _(b)_ _____The department shall determine the minimum requirements_  
+| _and passing score for an examination required by this chapter._  
+|  _(c)_ _____If an examination required by this chapter contains a_  
+| _practical component, the practical component must be administered_  
+| _by a plumbing examiner as provided by Section 1301.202._  
+|  SECTION 18. The heading to Subchapter F, Chapter 1301,  
+| Occupations Code, is amended to read as follows:  
+| SUBCHAPTER F. _PRACTICE BY LICENSE HOLDER_ [ ~~CONSUMER INTEREST~~  
+|  ~~INFORMATION AND COMPLAINT PROCEDURES~~ ]  
+|  SECTION 19. Section 1301.302, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.302. CONTRACT INFORMATION; REQUIRED DOCUMENTS. A  
+| written proposal, invoice, or contract relating to plumbing  
+| services performed by or under the direction of a plumber licensed  
+| under this chapter must contain the name and license number of the  
+| _plumbing contractor_ [ ~~responsible master plumber~~ ] and the name,  
+| mailing address, and telephone number of the _department_ [ ~~board~~ ].  
+| The person who performed the services shall give the customer an  
+| invoice or completed contract document on completion of the job,  
+| regardless of whether the person charged a fee for performing the  
+| services.  
+|  SECTION 20. Subchapter F, Chapter 1301, Occupations Code,  
+| is amended by adding Section 1301.305 to read as follows:  
+|  _Sec._ ___1301.305._ _____SUPERVISION RULES; RESPONSIBILITY FOR_  
+| _PLUMBING WORK. (a) The commission by rule shall:_  
+|  _(1)_ _____require that, for each task involved in plumbing,_  
+| _a master plumber:_  
+|  _(A) perform the task; or_  
+|  _(B)_ _____provide general or direct supervision of a_  
+| _less experienced plumber who performs the task;_  
+|  _(2)_ _____require that each plumber's apprentice and_  
+| _tradesman plumber-limited license holder perform plumbing under_  
+| _the direct or general supervision of a more experienced plumber;_  
+|  _(3)_ _____specify the plumbing tasks that a plumber's_  
+| _apprentice or tradesman plumber-limited license holder must_  
+| _perform under direct supervision and the plumbing tasks a plumber's_  
+| _apprentice or tradesman plumber-limited license holder must_  
+| _perform under general supervision;_  
+|  _(4)_ _____specify the amount of classroom training meeting_  
+| _the requirements of Subsection (b), practical plumbing experience,_  
+| _or a combination of that training and experience necessary to:_  
+|  _(A)_ _____exempt a plumber from the direct supervision_  
+| _requirements under this section; and_  
+|  _(B)_ _____permit the plumber to perform the plumbing_  
+| _under general supervision;_  
+|  _(5)_ _____require a plumber, other than a master plumber, to_  
+| _document the plumber's:_  
+|  _(A)_ _____classroom training that meets the_  
+| _requirements of Subsection (b); and_  
+|  _(B) practical plumbing experience; and_  
+|  _(6)_ _____require the plumbing contractor, and supervising_  
+| _plumber, if any, to assume responsibility for plumbing performed,_  
+| _including the quality of the plumbing and the supervision of less_  
+| _experienced plumbers._  
+|  _(b)_ _____Notwithstanding the minimum requirements for a_  
+| _continuing education program or instructor established under this_  
+| _chapter, the commission by rule shall establish minimum_  
+| _requirements for classroom training, other than a continuing_  
+| _education program under this chapter, that, if successfully_  
+| _completed and documented by a plumber, the department shall credit_  
+| _toward:_  
+|  _(1) the necessary classroom training required to:_  
+|  _(A)_ _____exempt the plumber from the direct_  
+| _supervision requirements under this section; and_  
+|  _(B)_ _____permit the plumber to perform specified_  
+| _plumbing tasks under general supervision;_  
+|  _(2)_ _____the continuing education required under this_  
+| _chapter to renew a license, endorsement, or certificate of_  
+| _registration, as applicable to the plumber; and_  
+|  _(3)_ _____the eligibility requirements for a license under_  
+| _this chapter, as applicable to the plumber._  
+|  SECTION 21. Sections 1301.351(a), (a-1), and (c),  
+| Occupations Code, are amended to read as follows:  
+|  (a) A person[ ~~, other than a responsible master plumber,~~ ] may  
+| not _perform or offer to perform_ [ ~~engage in~~ ] plumbing _for_  
+| _compensation_ unless:  
+|  (1) the person holds _:_  
+|  _(A) a plumbing contractor license; and_  
+|  _(B)_ the proper license, _endorsement, or_  
+| _certificate of_ registration[ ~~, or endorsement~~ ] required by this  
+| chapter _to perform or supervise the performance of plumbing_ ; [ ~~and~~ ]  
+|  (2) _the person:_  
+|  _(A) is employed by a plumbing contractor;_  
+|  _(B)_ _____performs or supervises the plumbing on behalf_  
+| _of the plumbing contractor; and_  
+|  _(C)_ _____holds the proper license, endorsement, or_  
+| _certificate of registration required by this chapter; or_  
+|  _(3)_ _____the person offers to perform plumbing and_  
+| _contracts with a plumbing contractor for the performance of the_  
+| _plumbing_ [ ~~the person's work is supervised and controlled by a~~  
+|  ~~person licensed under this chapter~~ ].  
+|  (a-1) A person may not act as a _plumbing contractor_  
+| [ ~~responsible master plumber~~ ] unless the person holds the  
+| appropriate license and meets the _applicable_ requirements [ ~~for a~~  
+|  ~~responsible master plumber~~ ] under this chapter.  
+|  (c) A _plumbing contractor_ [ ~~license holder~~ ] who is  
+| supervising and controlling [ ~~under Subsection (a)(2)~~ ] the work of a  
+| person engaged in the business of plumbing in the construction of a  
+| new one-family or two-family dwelling in an unincorporated area of  
+| the state must have training and management responsibility for, and  
+| shall review and inspect, the person's work. The _plumbing_  
+| _contractor_ [ ~~license holder~~ ] is not required to provide continuous  
+| or uninterrupted on-the-job oversight of the person's work.  
+|  SECTION 22. Subchapter G, Chapter 1301, Occupations Code,  
+| is amended by adding Section 1301.3515 to read as follows:  
+|  _Sec._ ___1301.3515._ _____CRIMINAL HISTORY RECORD INFORMATION FOR_  
+| _LICENSE ISSUANCE. (a) The department shall require that an_  
+| _applicant for a license submit a complete and legible set of_  
+| _fingerprints, on a form prescribed by the executive director, to_  
+| _the department or to the Department of Public Safety for the purpose_  
+| _of obtaining criminal history record information from the_  
+| _Department of Public Safety and the Federal Bureau of_  
+| _Investigation._  
+|  _(b)_ _____The department may not issue a license to a person who_  
+| _does not comply with the requirement of Subsection (a)._  
+|  _(c)_ _____The department shall conduct a criminal history record_  
+| _information check of each applicant for a license using_  
+| _information:_  
+|  _(1) provided by the individual under this section; and_  
+|  _(2)_ _____made available to the department by the Department_  
+| _of Public Safety, the Federal Bureau of Investigation, and any_  
+| _other criminal justice agency under Chapter 411, Government Code._  
+|  _(d) The department may:_  
+|  _(1)_ _____enter into an agreement with the Department of_  
+| _Public Safety to administer a criminal history record information_  
+| _check required under this section; and_  
+|  _(2)_ _____authorize the Department of Public Safety to_  
+| _collect from each applicant the costs incurred by the Department of_  
+| _Public Safety in conducting the criminal history record information_  
+| _check._  
+|  SECTION 23. Section 1301.352, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.352. EXAMINATION REQUIRED. The _department_  
+| [ ~~board~~ ] shall issue a license or endorsement as a master plumber,  
+| journeyman plumber, plumbing inspector, tradesman plumber-limited  
+| license holder, medical gas piping installation endorsement  
+| holder, water supply protection specialist, or multipurpose  
+| residential fire protection sprinkler specialist to a person who  
+| demonstrates the fitness, competence, and qualifications to  
+| receive the license or endorsement by passing a uniform, reasonable  
+| examination.  
+|  SECTION 24. Section 1301.3522, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.3522. EXAMINATION REVIEW COURSE. (a) The  
+| _department_ [ ~~board~~ ] shall develop a review course in English and  
+| Spanish to assist license applicants in preparation for each  
+| license examination offered by the _department_ [ ~~board~~ ]. If the  
+| _department_ [ ~~board~~ ] provides the review course, the _department_  
+| [ ~~board~~ ] may charge a fee to an applicant who applies to take the  
+| review course.  
+|  (b) The _department_ [ ~~board~~ ] may provide the review course  
+| training materials to private course providers for a fee determined  
+| by the _commission_ [ ~~board~~ ].  
+|  SECTION 25. Section 1301.353, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.353. INSPECTOR CONFLICTS PROHIBITED. The  
+| _department_ [ ~~board~~ ] may not issue a plumbing inspector license to a  
+| person who has a financial or advisory interest in a plumbing  
+| company.  
+|  SECTION 26. Sections 1301.354(b), (b-1), (c), (c-1), and  
+| (d), Occupations Code, are amended to read as follows:  
+|  (b) A person who has worked as a plumber's apprentice for a  
+| period established by law or _commission_ [ ~~board~~ ] rule may apply to  
+| take an examination for a license as a journeyman plumber or  
+| tradesman plumber-limited license holder. Before the applicant may  
+| take the examination, the applicant must complete classroom  
+| training provided by a _department-approved_ [ ~~board-approved~~ ]  
+| instructor in a _department-approved_ [ ~~board-approved~~ ] training  
+| program in the areas of health and safety, applicable plumbing  
+| codes, and water conservation for at least:  
+|  (1) 24 hours if the applicant is applying to take a  
+| tradesman plumber-limited license holder examination; or  
+|  (2) 48 hours if the applicant is applying to take a  
+| journeyman plumber examination.  
+|  (b-1) At the applicant's request, the _department_ [ ~~board~~ ]  
+| may credit an applicant under Subsection (b) with a number of hours  
+| determined by _commission_ [ ~~board~~ ] rule against the number of hours  
+| of work experience required to take an examination if the applicant  
+| has received an associate of applied science degree from a plumbing  
+| technology program that:  
+|  (1) includes a combination of classroom and on-the-job  
+| training; and  
+|  (2) is approved by the _department_ [ ~~board~~ ] and the  
+| Texas Higher Education Coordinating Board.  
+|  (c) At the applicant's request, the _department_ [ ~~board~~ ] may  
+| credit an applicant under Subsection (b) with up to 1,000 hours of  
+| the work experience required before taking an examination if the  
+| applicant has completed the classroom portion of a training  
+| program:  
+|  (1) approved by the United States Department of Labor,  
+| Office of Apprenticeship; or  
+|  (2) provided by a person approved by the _department_  
+| [ ~~board~~ ] and based on course materials approved by the _department_  
+| [ ~~board~~ ].  
+|  (c-1) At the applicant's request, the _department_ [ ~~board~~ ]  
+| may credit an applicant under Subsection (b) with up to 250 hours of  
+| the work experience required before taking an examination if the  
+| applicant has completed a coherent sequence of courses in the  
+| construction trade that are offered through a career and technical  
+| education program that is approved by the State Board of Education.  
+|  (d) Notwithstanding the classroom training required by  
+| Subsection (b), a plumber's apprentice may apply for and take an  
+| examination for a license as a journeyman plumber or tradesman  
+| plumber-limited license holder if the apprentice has received an  
+| associate of applied science degree from a plumbing technology  
+| program that:  
+|  (1) includes a combination of classroom and on-the-job  
+| training; and  
+|  (2) is approved by the _department_ [ ~~board~~ ] and the  
+| Texas Higher Education Coordinating Board.  
+|  SECTION 27. Section 1301.3541, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.3541. APPRENTICE REGISTRATION REQUIREMENTS. The  
+| _commission_ [ ~~board~~ ] by rule may adopt registration requirements for  
+| plumber's apprentices, including training and education  
+| requirements.  
+|  SECTION 28. Sections 1301.356(d) and (e), Occupations Code,  
+| are amended to read as follows:  
+|  (d) An endorsement under this section coincides with rules  
+| adopted by the _executive commissioner of the Health and Human_  
+| _Services Commission_ [ ~~Texas Department of Health~~ ].  
+|  (e) A plumbing inspector who meets the requirements of the  
+| _commission_ [ ~~board~~ ] may hold a medical gas endorsement and inspect  
+| medical gas piping installations.  
+|  SECTION 29. Sections 1301.3565(b) and (f), Occupations  
+| Code, are amended to read as follows:  
+|  (b) The _department_ [ ~~board~~ ] shall issue an endorsement as a  
+| multipurpose residential fire protection sprinkler specialist to a  
+| person who:  
+|  (1) holds the license described by Subsection (a);  
+|  (2) applies to the _department_ [ ~~board~~ ] on a form  
+| prescribed by the _department_ [ ~~board~~ ];  
+|  (3) pays a fee set by the _commission_ [ ~~board~~ ];  
+|  (4) presents evidence satisfactory to the _department_  
+| [ ~~board~~ ] of successful completion of a training program approved by  
+| the _department_ [ ~~board~~ ] that provides the training necessary for the  
+| proper design and installation of a multipurpose residential fire  
+| protection sprinkler system as required by the applicable codes and  
+| standards recognized by the state; and  
+|  (5) passes an examination required by the _department_  
+| [ ~~board~~ ].  
+|  (f) A plumbing inspector who meets the requirements of the  
+| _commission_ [ ~~board~~ ] may inspect a multipurpose residential fire  
+| protection sprinkler installation.  
+|  SECTION 30. Section 1301.357(b), Occupations Code, is  
+| amended to read as follows:  
+|  (b) The _department_ [ ~~board~~ ] shall issue an endorsement as a  
+| water supply protection specialist to a person who:  
+|  (1) is licensed under this chapter as a master plumber  
+| or journeyman plumber;  
+|  (2) applies to the _department_ [ ~~board~~ ] on a form  
+| prescribed by the _department_ [ ~~board~~ ];  
+|  (3) pays a fee set by the _commission_ [ ~~board~~ ];  
+|  (4) presents evidence satisfactory to the _department_  
+| [ ~~board~~ ] of successful completion of a certification program  
+| approved by the _department_ [ ~~board~~ ] for water supply protection  
+| specialists; and  
+|  (5) passes an examination required by the _department_  
+| [ ~~board~~ ].  
+|  SECTION 31. Section 1301.3575, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.3575. REGISTRATION OF _PLUMBER'S APPRENTICES_  
+| [ ~~CERTAIN PERSONS~~ ]. The _department_ [ ~~board~~ ] shall register a
+person  
+| who complies with this chapter as a [ ~~drain cleaner, drain~~  
+|  ~~cleaner-restricted registrant, residential utilities installer,~~  
+|  ~~or~~ ] plumber's apprentice.  
+|  SECTION 32. Section 1301.3576, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.3576. CERTIFICATE OF INSURANCE [ ~~AND TRAINING~~ ] FOR  
+| _PLUMBING CONTRACTOR_ [ ~~RESPONSIBLE MASTER PLUMBER~~ ]. Before a  
+| _plumbing contractor offers or performs plumbing_ [ ~~master plumber~~  
+|  ~~works as a responsible master plumber~~ ], the _plumbing contractor_  
+| [ ~~master plumber~~ ] must[ ~~:~~  
+|  [ ~~(1)~~ ] provide the _department_ [ ~~board~~ ] with a  
+| certificate of insurance that meets the requirements of Section  
+| 1301.552[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~present evidence satisfactory to the board of~~  
+|  ~~successful completion of a training program approved or~~  
+|  ~~administered by the board regarding the laws and rules applicable~~  
+|  ~~to the operation of a plumbing business in this state~~ ].  
+|  SECTION 33. Subchapter G, Chapter 1301, Occupations Code,  
+| is amended by adding Sections 1301.3581 and 1301.360 to read as  
+| follows:  
+|  _Sec._ ___1301.3581._ _____RECIPROCITY. (a) The commission or_  
+| _department may waive any prerequisite to obtaining a license,_  
+| _endorsement, or certificate of registration issued under this_  
+| _chapter for an applicant who holds a similar license, endorsement,_  
+| _or certificate issued by another jurisdiction._  
+|  _(b)_ _____The commission may make an agreement, subject to the_  
+| _approval of the governor, with another state to allow for licensing_  
+| _by reciprocity if the other state has requirements for a license,_  
+| _endorsement, or certificate substantially equivalent to those of_  
+| _this state._  
+|  _(c) An applicant under this section must:_  
+|  _(1)_ _____apply in the same manner and form as any other_  
+| _applicant under this chapter; and_  
+|  _(2)_ _____provide the department with documents and other_  
+| _evidence that substantiate the applicant's qualifications._  
+|  _(d)_ _____An applicant for a license, endorsement, or certificate_  
+| _of registration issued under this section may not be required to_  
+| _undergo an examination to obtain the license, endorsement, or_  
+| _certificate if the applicant has held an equivalent license,_  
+| _endorsement, or certificate in another jurisdiction for at least_  
+| _two years. The department in accordance with commission rules may_  
+| _determine whether a license, endorsement, or certificate issued by_  
+| _another jurisdiction is equivalent to a license, endorsement, or_  
+| _certificate issued under this chapter._  
+|  _Sec._ ___1301.360._ _____TEMPORARY LICENSE. (a) The department may_  
+| _issue a temporary license, endorsement, or certificate of_  
+| _registration to an applicant as provided by Section 51.407._  
+|  _(b)_ _____Notwithstanding Section 51.407, a temporary license_  
+| _issued under this section expires on the 30th day after the date of_  
+| _issuance and may not be renewed._  
+|  SECTION 34. Section 1301.401, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.401. [ ~~ANNUAL~~ ] RENEWAL REQUIRED. (a) A license or  
+| _certificate of_ registration under this chapter is valid for one _or_  
+| _two years as determined by commission rule_ [ ~~year~~ ]. On payment of  
+| the required fee, a license may be renewed [ ~~annually~~ ].  
+|  (b) The _commission_ [ ~~board~~ ] by rule _shall establish the_  
+| _requirements for renewing a license, endorsement, or certificate of_  
+| _registration under this chapter and_ may adopt a system under which  
+| licenses, endorsements, and _certificates of registration_  
+| [ ~~registrations~~ ] expire on various dates during the year.  
+|  _(c)_ _____An endorsement issued under Section 1301.356,_  
+| _1301.3565, or 1301.357 expires on the date the master plumber or_  
+| _journeyman plumber license of the endorsement holder expires. Any_  
+| _continuing education requirement established by rule and_  
+| _applicable to an endorsement issued under this chapter must be_  
+| _completed before the endorsement holder may renew the endorsement._  
+|  SECTION 35. Sections 1301.404(a), (c), (d), (e), and (f),  
+| Occupations Code, are amended to read as follows:  
+|  (a) The _commission by rule_ [ ~~board~~ ] shall _establish:_  
+|  _(1) minimum curriculum standards for_ [ ~~recognize,~~  
+|  ~~approve, and administer~~ ] continuing education programs _and courses_  
+| for persons who hold _a license_ [ ~~licenses~~ ] or _endorsement issued_  
+| [ ~~endorsements~~ ] under this chapter _; and_  
+|  _(2)_ _____minimum qualifications for an instructor of the_  
+| _continuing education programs and courses described by Subdivision_  
+| _(1)_.  
+|  (c) The _department shall approve:_  
+|  _(1)_ _____a program or course that meets the minimum_  
+| _curriculum standards established by the commission under_  
+| _Subsection (a); and_  
+|  _(2)_ _____an instructor who meets the minimum qualifications_  
+| _established by the commission under Subsection (a)_ [ ~~board by rule~~  
+|  ~~shall adopt the criteria for the continuing professional~~  
+|  ~~education~~ ].  
+|  (d) A person may receive credit for participating in a  
+| continuing professional education program or course only if the  
+| program or course is _approved by the department_ [ ~~provided:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~by an individual, business, or association~~  
+|  ~~approved by the board; and~~  
+|  [ ~~(2) according to criteria adopted by the board~~].  
+|  (e) A person may complete the continuing professional  
+| education requirement of this section through a correspondence  
+| course as approved by the _department_ [ ~~board~~ ].  
+|  (f) The _commission_ [ ~~board~~ ] by rule may exempt certain  
+| persons from the requirements of this section if the _commission_  
+| [ ~~board~~ ] determines that the exemption is in the public interest.  
+|  SECTION 36. Section 1301.405, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.405. [ ~~MANDATORY~~ ] TRAINING FOR _PLUMBER'S_  
+| _APPRENTICE_ [ ~~DRAIN CLEANER, DRAIN CLEANER-RESTRICTED REGISTRANT,~~  
+|  ~~AND RESIDENTIAL UTILITIES INSTALLER~~ ]. _The commission by rule may_  
+| _establish continuing education requirements for persons_ [ ~~(a)~~ ~~~~
+~~~~ ~~To~~  
+|  ~~renew the certificate of registration, a person~~ ] who _hold_ [
+~~holds~~ ] a  
+| certificate of registration under this chapter as a _plumber's_  
+| _apprentice_ [ ~~drain cleaner, drain cleaner-restricted registrant, or~~  
+|  ~~residential utilities installer must annually complete at least six~~  
+|  ~~hours of approved training that includes training in health and~~  
+|  ~~safety requirements, board-approved plumbing codes, and water~~  
+|  ~~conservation~~ ].  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~A person may receive credit for participating in a~~  
+|  ~~training program only if the program is provided:~~  
+|  [ ~~(1) by a person approved by the board; and~~  
+|  [ ~~(2) according to criteria adopted by the board.~~  
+|  [ ~~(c)~~ ~~~~ ~~~~ ~~The board by rule may exempt certain persons from
+the~~  
+|  ~~requirements of this section if the board determines that the~~  
+|  ~~exemption is in the public interest.~~ ]  
+|  SECTION 37. Sections 1301.406(a) and (c), Occupations Code,  
+| are amended to read as follows:  
+|  (a) On approval by the _department_ [ ~~board~~ ], a person who  
+| holds an unexpired license under this chapter and whose license has  
+| been held continuously for at least 35 consecutive years may  
+| transfer the license number on the date of the person's retirement  
+| or death to another person who:  
+|  (1) is related within the second degree by  
+| consanguinity to the transferor; and  
+|  (2) holds a license issued under this chapter that is  
+| the same type of license as the license held by the transferor.  
+|  (c) The _department_ [ ~~board~~ ] shall transfer a license number  
+| to a person who submits an application and presents evidence  
+| satisfactory to the _department_ [ ~~board~~ ] that:  
+|  (1) the person meets the requirements under  
+| Subsections (a)(1) and (a)(2); and  
+|  (2) the transferor is retired or dead.  
+|  SECTION 38. The heading to Subchapter I, Chapter 1301,  
+| Occupations Code, is amended to read as follows:  
+| SUBCHAPTER I. DISCIPLINARY _ACTION_ [ ~~PROCEDURES~~ ]  
+|  SECTION 39. Section 1301.452, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.452. GROUNDS FOR DISCIPLINARY ACTION.  _The_  
+| _commission, department, or executive director may enforce this_  
+| _chapter, a rule adopted under this chapter, or an order of the_  
+| _commission or executive director as provided by Chapter 51_ [ ~~(a)~~ ~~~~
+~~A~~  
+|  ~~person is subject to disciplinary action under Section 1301.451 if~~  
+|  ~~the person violates this chapter, an order issued by the board, or a~~  
+|  ~~board rule~~ ]. A violation of this chapter includes:  
+|  (1) _attempting to obtain or_ obtaining a license,  
+| endorsement, or registration through [ ~~error or~~ ] fraud;  
+|  (2) wilfully, negligently, or arbitrarily violating a  
+| municipal rule or ordinance that regulates sanitation, drainage, or  
+| plumbing;  
+|  (3) making a misrepresentation of services provided or  
+| to be provided;  
+|  (4) making a false promise with the intent to induce a  
+| person to contract for a service; [ ~~or~~ ]  
+|  (5) employing a person who does not hold a license or  
+| endorsement or who is not registered to engage in an activity for  
+| which a license, endorsement, or _certificate of_ registration is  
+| required under this chapter _;_  
+|  _(6)_ _____performing plumbing without holding the proper_  
+| _license, endorsement, or certificate of registration required by_  
+| _this chapter;_  
+|  _(7)_ _____offering to perform or performing plumbing for_  
+| _compensation without holding a plumbing contractor license or_  
+| _acting on behalf of a plumbing contractor, or contracting with a_  
+| _plumbing contractor to perform the offered plumbing;_  
+|  _(8)_ _____performing plumbing in violation of a plumbing_  
+| _code adopted under Section 1301.255; or_  
+|  _(9)_ _____failing to supervise plumbing as required by this_  
+| _chapter or commission rule_.  
+|  [ ~~(b)~~ ~~~~ ~~~~ ~~Retesting procedures may be used to determine
+whether~~  
+|  ~~grounds exist for suspension or revocation of a license,~~  
+|  ~~endorsement, or registration due to incompetence or a wilful~~  
+|  ~~violation by a person licensed under this chapter.~~ ]  
+|  SECTION 40. Section 1301.501(b), Occupations Code, is  
+| amended to read as follows:  
+|  (b) The _commission_ [ ~~board~~ ] shall adopt rules under this  
+| section that include a list describing the types of plumbing to  
+| which this section applies.  
+|  SECTION 41. Section 1301.502(a), Occupations Code, is  
+| amended to read as follows:  
+|  (a) A [ ~~field representative,~~ ] water district plumbing  
+| inspector[ ~~,~~ ] or, within the jurisdiction of the municipality,  
+| municipal plumbing inspector may issue a citation to a person who  
+| engages in conduct described by Section 1301.508.  
+|  SECTION 42. Sections 1301.507 and 1301.5071, Occupations  
+| Code, are amended to read as follows:  
+|  Sec. 1301.507. CIVIL PENALTY. A person who violates this  
+| chapter or a rule, permit, or order of the _commission issued under_  
+| _this chapter_ [ ~~board~~ ] is subject to a civil penalty of not less than  
+| $50 or more than $1,000 for each act of violation and for each day of  
+| violation after notice is provided to the person.  
+|  Sec. 1301.5071. INFORMAL SETTLEMENT CONFERENCE;  
+| RESTITUTION. (a) The _commission_ [ ~~board~~ ] by rule shall establish  
+| procedures under which an informal settlement conference is  
+| conducted to resolve a complaint against a person licensed under  
+| this chapter.  
+|  (b) Subject to Subsection (c), the _executive director_  
+| [ ~~board~~ ] may order a person licensed under this chapter to pay  
+| restitution to a person as provided in an agreement resulting from  
+| an informal settlement conference instead of or in addition to  
+| assessing an administrative penalty [ ~~under Subchapter N~~ ].  
+|  (c) The amount of restitution ordered as provided by an  
+| agreement resulting from an informal settlement conference may not  
+| exceed the amount the person paid to the license holder for a  
+| service regulated by this chapter. The _executive director_ [ ~~board~~ ]  
+| may not require payment of other damages or estimate harm in a  
+| restitution order.  
+|  SECTION 43. Section 1301.551(g), Occupations Code, is  
+| amended to read as follows:  
+|  (g) A [ ~~responsible master plumber,~~ ] plumbing contractor[ ~~,~~ ]  
+| or other person who is required to obtain a permit under this  
+| section is not required to pay a plumbing registration fee or  
+| administrative fee in a municipality or any other political  
+| subdivision.  
+|  SECTION 44. Section 1301.552, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1301.552. CERTIFICATE OF INSURANCE FOR PLUMBING PERMIT  
+| IN POLITICAL SUBDIVISION. A political subdivision that requires a  
+| _plumbing contractor_ [ ~~responsible master plumber~~ ] or an agent of a  
+| _plumbing contractor_ [ ~~responsible master plumber~~ ] to obtain a permit  
+| before performing plumbing in the political subdivision shall  
+| verify through the _department's_ [ ~~board's~~ ] Internet website, or by  
+| contacting the _department_ [ ~~board~~ ] by telephone, that the _plumbing_  
+| _contractor_ [ ~~responsible master plumber~~ ] has on file with the  
+| _department_ [ ~~board~~ ] a certificate of insurance. The certificate of  
+| insurance must:  
+|  (1) be written by an insurer authorized to engage in  
+| the business of insurance in this state or an eligible surplus lines  
+| insurer _under Chapter 981_ [ ~~, as defined by Section 981.002~~ ],  
+| Insurance Code;  
+|  (2) provide for commercial general liability  
+| insurance for the _plumbing contractor_ [ ~~responsible master plumber~~ ]  
+| for a claim for property damage or bodily injury, regardless of  
+| whether the claim arises from negligence or on a contract; and  
+|  (3) provide coverage of not less than $300,000 for all  
+| claims arising in a one-year period.  
+|  SECTION 45. Sections 1301.652(a) and (b), Occupations Code,  
+| are amended to read as follows:  
+|  (a) The _department_ [ ~~board~~ ] and the Texas Workforce  
+| Commission shall, through the local workforce development boards,  
+| coordinate efforts to educate the public about the plumbing  
+| profession and the resources available to employers for the  
+| recruitment and training of plumbers, including providing:  
+|  (1) each local workforce development board with:  
+|  (A) information about the licensing requirements  
+| for the plumbing profession; and  
+|  (B) available statistical data regarding  
+| plumbing; and  
+|  (2) a link to each agency's Internet site and to the  
+| Internet sites of other local workforce development boards.  
+|  (b) The _department_ [ ~~board~~ ] may, during public and industry  
+| awareness seminars, raise awareness of the career ladder in the  
+| plumbing industry and the opportunities that plumbing  
+| apprenticeships offer.  
+|  SECTION 46. Section 132.002(a), Education Code, is amended  
+| to read as follows:  
+|  (a) The following schools or educational institutions may  
+| be exempted from this chapter by the commission under Subsection  
+| (d):  
+|  (1) a school or educational institution supported by  
+| taxation from either a local or state source;  
+|  (2) a nonprofit school owned, controlled, operated,  
+| and conducted by a bona fide religious, denominational,  
+| eleemosynary, or similar public institution exempt from property  
+| taxation under the laws of this state;  
+|  (3) a school or training program that offers  
+| instruction of purely avocational or recreational subjects as  
+| determined by the commission;  
+|  (4) a course or courses of instruction or study  
+| sponsored by an employer for the training and preparation of its own  
+| employees, and for which no tuition fee is charged to the student;  
+|  (5) a course or courses of study or instruction  
+| sponsored by a recognized trade, business, or professional  
+| organization for the instruction of the members of the organization  
+| with a closed membership;  
+|  (6) a private college or university that awards a  
+| recognized baccalaureate, or higher degree, and that maintains and  
+| operates educational programs for which a majority of the credits  
+| given are transferable to a college, junior college, or university  
+| supported entirely or partly by taxation from either a local or  
+| state source;  
+|  (7) a school or course that is otherwise regulated and  
+| approved under and pursuant to any other law or rulemaking process  
+| of this state or approved for continuing education credit by an  
+| organization that accredits courses for the maintenance of a  
+| license, except as provided by Subsection (c);  
+|  (8) an aviation school or instructor approved by and  
+| under the supervision of the Federal Aviation Administration;  
+|  (9) a school that offers intensive review of a  
+| student's acquired education, training, or experience to prepare  
+| the student for an examination, other than a high school  
+| equivalency examination, that the student by law may not take  
+| unless the student has completed or substantially completed a  
+| particular degree program, or that the student is required to take  
+| as a precondition for enrollment in or admission to a particular  
+| degree program;  
+|  (10) a private school offering primary or secondary  
+| education, which may include a kindergarten or prekindergarten  
+| program, and that satisfies the compulsory attendance requirements  
+| of Section 25.085 pursuant to Section 25.086(a)(1);  
+|  (11) a course or courses of instruction by bona fide  
+| electrical trade associations for the purpose of preparing students  
+| for electrical tests required for licensing and for the purpose of  
+| providing continuing education to students for the renewal of  
+| electrical licenses;  
+|  (12) a nonprofit arts organization that has as its  
+| primary purpose the provision of instruction in the dramatic arts  
+| and the communications media to persons younger than 19 years of  
+| age;  
+|  (13) a course or training program conducted by a  
+| nonprofit association of air conditioning and refrigeration  
+| contractors approved by the Air Conditioning and Refrigeration  
+| Contractors Advisory Board to provide instruction for technical,  
+| business, or license examination preparation programs relating to  
+| air conditioning and refrigeration contracting, as that term is  
+| defined by Chapter 1302, Occupations Code;  
+|  (14) a course of instruction by a plumbing trade  
+| association to prepare students for a plumbing test or program  
+| required for licensing, _registration_ [ ~~certification~~ ], or  
+| endorsement or to provide continuing education approved by the  
+| Texas _Department of Licensing and Regulation_ [ ~~State Board of~~  
+|  ~~Plumbing Examiners~~ ]; and  
+|  (15) a course of instruction in the use of  
+| technological hardware or software if the course is offered to a  
+| purchaser of the hardware or software or to the purchaser's  
+| employee by a person who manufactures and sells, or develops and  
+| sells, the hardware or software, and if the seller is not primarily  
+| in the business of providing courses of instruction in the use of  
+| the hardware or software, as determined by the commission.  
+|  SECTION 47. Section 411.122(d), Government Code, is amended  
+| to read as follows:  
+|  (d) The following state agencies are subject to this  
+| section:  
+|  (1) Texas Appraiser Licensing and Certification  
+| Board;  
+|  (2) Texas Board of Architectural Examiners;  
+|  (3) Texas Board of Chiropractic Examiners;  
+|  (4) State Board of Dental Examiners;  
+|  (5) Texas Board of Professional Engineers;  
+|  (6) Texas Funeral Service Commission;  
+|  (7) Texas Board of Professional Geoscientists;  
+|  (8) _Health and Human Services Commission_ [ ~~Department~~  
+|  ~~of State Health Services~~ ], except as provided by Section 411.110,  
+| and agencies attached to the _commission_ [ ~~department~~ ], including:  
+|  (A) Texas State Board of Examiners of Marriage  
+| and Family Therapists;  
+|  (B) Texas State Board of Examiners of  
+| Professional Counselors; and  
+|  (C) Texas State Board of Social Worker Examiners;  
+|  (9) Texas Board of Professional Land Surveying;  
+|  (10) Texas Department of Licensing and Regulation,  
+| except as provided by Section 411.093;  
+|  (11) Texas Commission on Environmental Quality;  
+|  (12) Texas Board of Occupational Therapy Examiners;  
+|  (13) Texas Optometry Board;  
+|  (14) Texas State Board of Pharmacy;  
+|  (15) Texas Board of Physical Therapy Examiners;  
+|  (16) [ ~~Texas State Board of Plumbing Examiners;~~  
+|  [ ~~(17)~~ ~~~~ ~~~~ ~~Texas State Board of Podiatric Medical~~  
+|  ~~Examiners;~~  
+|  [ ~~(18)~~ ] Texas State Board of Examiners of  
+| Psychologists;  
+|  _(17)_ [ ~~(19)~~ ] Texas Real Estate Commission;  
+|  _(18)_ [ ~~(20)~~ ] Texas Department of Transportation;  
+|  _(19)_ [ ~~(21)~~ ] State Board of Veterinary Medical  
+| Examiners;  
+|  _(20)_ [ ~~(22)~~ ] Texas Department of Housing and Community  
+| Affairs;  
+|  _(21)_ [ ~~(23)~~ ] secretary of state;  
+|  _(22)_ [ ~~(24)~~ ] state fire marshal;  
+|  _(23)_ [ ~~(25)~~ ] Texas Education Agency;  
+|  _(24)_ [ ~~(26)~~ ] Department of Agriculture; and  
+|  _(25)_ [ ~~(27)~~ ] Texas Department of Motor Vehicles.  
+|  SECTION 48. Section 2054.352(a), Government Code, is  
+| amended to read as follows:  
+|  (a) The following licensing entities shall participate in  
+| the system established under Section 2054.353:  
+|  (1) Texas Board of Chiropractic Examiners;  
+|  (2) Judicial Branch Certification Commission;  
+|  (3) State Board of Dental Examiners;  
+|  (4) Texas Funeral Service Commission;  
+|  (5) Texas Board of Professional Land Surveying;  
+|  (6) Texas Medical Board;  
+|  (7) Texas Board of Nursing;  
+|  (8) Texas Optometry Board;  
+|  (9) Department of Agriculture, for licenses issued  
+| under Chapter 1951, Occupations Code;  
+|  (10) Texas State Board of Pharmacy;  
+|  (11) Executive Council of Physical Therapy and  
+| Occupational Therapy Examiners;  
+|  (12) [ ~~Texas State Board of Plumbing Examiners;~~  
+|  [ ~~(13)~~ ~~~~ ~~~~ ~~Texas State Board of Podiatric Medical~~  
+|  ~~Examiners;~~  
+|  [ ~~(14)~~ ] Texas State Board of Examiners of  
+| Psychologists;  
+|  _(13)_ [ ~~(15)~~ ] State Board of Veterinary Medical  
+| Examiners;  
+|  _(14)_ [ ~~(16)~~ ] Texas Real Estate Commission;  
+|  _(15)_ [ ~~(17)~~ ] Texas Appraiser Licensing and  
+| Certification Board;  
+|  _(16)_ [ ~~(18)~~ ] Texas Department of Licensing and  
+| Regulation;  
+|  _(17)_ [ ~~(19)~~ ] Texas State Board of Public Accountancy;  
+|  _(18)_ [ ~~(20)~~ ] State Board for Educator Certification;  
+|  _(19)_ [ ~~(21)~~ ] Texas Board of Professional Engineers;  
+|  _(20) Health and Human Services Commission_  
+| [ ~~(22) Department of State Health Services~~];  
+|  _(21)_ [ ~~(23)~~ ] Texas Board of Architectural Examiners;  
+|  _(22)_ [ ~~(24)~~ ] Texas Racing Commission;  
+|  _(23)_ [ ~~(25)~~ ] Texas Commission on Law Enforcement; and  
+|  _(24)_ [ ~~(26)~~ ] Texas Private Security Board.  
+|  SECTION 49. Sections 341.034(d) and (e), Health and Safety  
+| Code, are amended to read as follows:  
+|  (d) A person who inspects homes and businesses to identify  
+| potential or actual cross-connections or other contaminant hazards  
+| in public water systems must hold a license issued by the commission  
+| under Chapter 37, Water Code, unless the person is licensed by the  
+| Texas _Department of Licensing and Regulation_ [ ~~State Board of~~  
+|  ~~Plumbing Examiners~~ ] as a plumbing inspector or water supply  
+| protection specialist.  
+|  (e) Unless the person is licensed by the Texas _Department of_  
+| _Licensing and Regulation to perform plumbing_ [ ~~State Board of~~  
+|  ~~Plumbing Examiners~~ ], a person must hold a license issued by the  
+| commission under Chapter 37, Water Code, if, under a contract, the  
+| person:  
+|  (1) installs, exchanges, connects, maintains, or  
+| services potable water treatment equipment and appliances in public  
+| or private water systems; or  
+|  (2) analyzes water to determine how to treat influent  
+| or effluent water, alter or purify water, or add or remove a  
+| mineral, chemical, or bacterial content or substance as part of the  
+| complete installation, exchange, connection, maintenance, or  
+| service of potable water treatment equipment and appliances.  
+|  SECTION 50. Section 341.042(b-2), Health and Safety Code,  
+| is amended to read as follows:  
+|  (b-2) A person who installs and maintains rainwater  
+| harvesting systems that are connected to a public water supply  
+| system and are used for potable purposes must be licensed by the  
+| Texas _Department of Licensing and Regulation_ [ ~~State Board of~~  
+|  ~~Plumbing Examiners~~ ] as a master plumber or journeyman plumber and  
+| hold an endorsement issued by the _department_ [ ~~board~~ ] as a water  
+| supply protection specialist.  
+|  SECTION 51. Section 341.068(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) The executive commissioner shall adopt rules to  
+| implement Subsection (a), including a rule that in providing  
+| sufficient restrooms a ratio of not less than 2:1 women's-to-men's  
+| restrooms or other minimum standards established in consultation  
+| with the Texas _Department of Licensing and Regulation_ [ ~~State Board~~  
+|  ~~of Plumbing Examiners~~ ] shall be maintained if the use of the  
+| restrooms is designated by gender. The rules shall apply to  
+| facilities where the public congregates and on which construction  
+| is started on or after January 1, 1994, or on which structural  
+| alterations, repairs, or improvements exceeding 50 percent of the  
+| entire facility are undertaken on or after January 1, 1994.  
+|  SECTION 52. Section 372.003(d), Health and Safety Code, is  
+| amended to read as follows:  
+|  (d) Rules adopted or amended under this section shall be  
+| developed by the commission in conjunction with a technical  
+| advisory panel of designated representatives of the Texas Water  
+| Development Board and the Texas [ ~~State Board of~~ ] Plumbing _Advisory_  
+| _Board established under Subchapter C, Chapter 1301, Occupations_  
+| _Code_ [ ~~Examiners~~ ].  
+|  SECTION 53. Sections 372.0035(f) and (h), Health and Safety  
+| Code, are amended to read as follows:  
+|  (f) If a person licensed under Chapter 1301, Occupations  
+| Code, violates this section, the Texas _Department of Licensing and_  
+| _Regulation_ [ ~~State Board of Plumbing Examiners~~ ] may discipline the  
+| person [ ~~under Subchapter I of that chapter~~ ] as if a violation of  
+| this section were a violation of _Chapter 1301, Occupations Code_  
+| [ ~~that chapter~~ ].  
+|  (h) _Within_ [ ~~A field representative of the Texas State Board~~  
+|  ~~of Plumbing Examiners or, within~~ ] the jurisdiction of a  
+| municipality, a municipal plumbing inspector may issue a citation  
+| to a person who violates this section.  
+|  SECTION 54. Section 233.154(a), Local Government Code, is  
+| amended to read as follows:  
+|  (a) A person who builds new residential construction  
+| described by Section 233.153 shall have the construction inspected  
+| to ensure building code compliance in accordance with this section  
+| as follows:  
+|  (1) for new residential construction on a vacant lot,  
+| a minimum of three inspections must be performed during the  
+| construction project to ensure code compliance, as applicable, at  
+| the following stages of construction:  
+|  (A) the foundation stage, before the placement of  
+| concrete;  
+|  (B) the framing and mechanical systems stage,  
+| before covering with drywall or other interior wall covering; and  
+|  (C) on completion of construction of the  
+| residence;  
+|  (2) for new residential construction of an addition to  
+| an existing residence as described by Section 233.151(a)(2), the  
+| inspections under Subdivision (1) must be performed as necessary  
+| based on the scope of work of the construction project; and  
+|  (3) for new residential construction on a vacant lot  
+| and for construction of an addition to an existing residence, the  
+| builder:  
+|  (A) is responsible for contracting to perform the  
+| inspections required by this subsection with:  
+|  (i) a licensed engineer;  
+|  (ii) a registered architect;  
+|  (iii) a professional inspector licensed by  
+| the Texas Real Estate Commission;  
+|  (iv) a plumbing inspector employed by a  
+| municipality and licensed by the Texas _Department of Licensing and_  
+| _Regulation_ [ ~~State Board of Plumbing Examiners~~ ];  
+|  (v) a building inspector employed by a  
+| political subdivision; or  
+|  (vi) an individual certified as a  
+| residential combination inspector by the International Code  
+| Council; and  
+|  (B) may use the same inspector for all the  
+| required inspections or a different inspector for each required  
+| inspection.  
+|  SECTION 55. Section 113.081(d), Natural Resources Code, is  
+| amended to read as follows:  
+|  (d) The commission by rule may exempt from Section  
+| 113.082(a)(4) [ ~~of this code~~ ] journeymen or master plumbers licensed  
+| by the Texas _Department of Licensing and Regulation_ [ ~~State Board of~~  
+|  ~~Plumbing Examiners~~ ].  
+|  SECTION 56. Section 113.087(o), Natural Resources Code, is  
+| amended to read as follows:  
+|  (o) The commission by rule may exempt from any provision of  
+| this section:  
+|  (1) a journeyman or master plumber licensed by the  
+| Texas _Department of Licensing and Regulation_ [ ~~State Board of~~  
+|  ~~Plumbing Examiners~~ ];  
+|  (2) a person licensed under Chapter 1302, Occupations  
+| Code; or  
+|  (3) company representatives, operations supervisors,  
+| or employees of a testing laboratory that was registered under  
+| _former_ Section 113.135 prior to the effective date of this  
+| subsection.  
+|  SECTION 57. Section 113.097(j), Natural Resources Code, is  
+| amended to read as follows:  
+|  (j) The commission by rule may exempt from the insurance  
+| requirements of this section or adopt a reasonable alternative to  
+| those requirements for:  
+|  (1) a master or journeyman plumber licensed by the  
+| Texas _Department of Licensing and Regulation_ [ ~~State Board of~~  
+|  ~~Plumbing Examiners~~ ]; or  
+|  (2) a person licensed under Chapter 1302, Occupations  
+| Code.  
+|  SECTION 58. Section 1903.002(b), Occupations Code, is  
+| amended to read as follows:  
+|  (b) The licensing requirements of this chapter do not apply  
+| to a person who is:  
+|  (1) licensed _, endorsed, or registered_ by the _Texas_  
+| _Department of Licensing and Regulation to perform plumbing_ [ ~~Texas~~  
+|  ~~State Board of Plumbing Examiners~~ ]; or  
+|  (2) a licensed engineer, registered architect, or  
+| registered landscape architect to the extent the person's acts are  
+| incidental to the pursuit of the person's profession.  
+|  SECTION 59. The following provisions of the Occupations  
+| Code are repealed:  
+|  (1) Sections 51.351(c) and (d);  
+|  (2) Section 1301.002(9-a);  
+|  (3) Section 1301.003;  
+|  (4) Section 1301.153;  
+|  (5) Section 1301.155;  
+|  (6) Section 1301.156;  
+|  (7) Section 1301.159;  
+|  (8) Section 1301.201;  
+|  (9) Section 1301.204;  
+|  (10) Section 1301.205;  
+|  (11) Section 1301.207;  
+|  (12) Section 1301.208;  
+|  (13) Section 1301.252;  
+|  (14) Section 1301.254;  
+|  (15) Section 1301.256;  
+|  (16) Section 1301.258, as added by Chapter 1276 (H.B.  
+| 3507), Acts of the 78th Legislature, Regular Session, 2003;  
+|  (17) Section 1301.258, as added by Chapter 819 (S.B.  
+| 282), Acts of the 78th Legislature, Regular Session, 2003;  
+|  (18) Section 1301.259;  
+|  (19) Section 1301.260;  
+|  (20) Section 1301.261;  
+|  (21) Section 1301.301;  
+|  (22) Section 1301.3015;  
+|  (23) Section 1301.303;  
+|  (24) Section 1301.304;  
+|  (25) Section 1301.351(a-2);  
+|  (26) Section 1301.3521;  
+|  (27) Section 1301.355;  
+|  (28) Section 1301.356(c);  
+|  (29) Section 1301.3565(c);  
+|  (30) Section 1301.357(c);  
+|  (31) Section 1301.358;  
+|  (32) Section 1301.3585;  
+|  (33) Section 1301.402;  
+|  (34) Section 1301.403;  
+|  (35) Section 1301.451;  
+|  (36) Section 1301.4521;  
+|  (37) Section 1301.4522;  
+|  (38) Section 1301.453;  
+|  (39) Section 1301.454;  
+|  (40) Section 1301.502(b);  
+|  (41) Section 1301.504;  
+|  (42) Section 1301.5045;  
+|  (43) Section 1301.505;  
+|  (44) Section 1301.506; and  
+|  (45) Subchapter N, Chapter 1301.  
+|  SECTION 60. (a) The Texas State Board of Plumbing Examiners  
+| is abolished but continues in existence until September 1, 2020,  
+| for the sole purpose of transferring obligations, property, rights,  
+| powers, and duties to the Texas Department of Licensing and  
+| Regulation. The Texas Department of Licensing and Regulation  
+| assumes all of the obligations, property, rights, powers, and  
+| duties of the Texas State Board of Plumbing Examiners as they exist  
+| immediately before the effective date of this Act.  All unexpended  
+| funds appropriated to the Texas State Board of Plumbing Examiners  
+| are transferred to the Texas Department of Licensing and  
+| Regulation.  
+|  (b) The Texas State Board of Plumbing Examiners and the  
+| Texas Department of Licensing and Regulation shall, in consultation  
+| with appropriate state entities, ensure that the transfer of the  
+| obligations, property, rights, powers, and duties of the Texas  
+| State Board of Plumbing Examiners to the Texas Department of  
+| Licensing and Regulation is completed not later than September 1,  
+| 2020.  
+|  (c) All rules of the Texas State Board of Plumbing Examiners  
+| are continued in effect as rules of the Texas Department of  
+| Licensing and Regulation until superseded by a rule of the Texas  
+| Department of Licensing and Regulation.  A license, endorsement, or  
+| certificate of registration issued by the Texas State Board of  
+| Plumbing Examiners is continued in effect as provided by the law in  
+| effect immediately before the effective date of this Act.  An  
+| application for a license, endorsement, or certificate of  
+| registration pending on the effective date of this Act is continued  
+| without change in status after the effective date of this Act.  A  
+| complaint, investigation, contested case, or other proceeding  
+| pending on the effective date of this Act is continued without  
+| change in status after the effective date of this Act.  
+|  (d) Unless the context indicates otherwise, a reference to  
+| the Texas State Board of Plumbing Examiners in a law or  
+| administrative rule means the Texas Department of Licensing and  
+| Regulation.  
+|  SECTION 61. Notwithstanding any other provision of this  
+| Act:  
+|  (1) the authorization of a person holding a  
+| designation on September 1, 2019, to act as a responsible master  
+| plumber continues in effect until September 1, 2020;  
+|  (2) a person is not required to hold a plumbing  
+| contractor license to perform or offer to perform plumbing for  
+| compensation until September 1, 2020; and  
+|  (3) a person holding a designation to act as a  
+| responsible master plumber on September 1, 2019, may apply at no  
+| cost to the person for a plumbing contractor license until  
+| September 1, 2020, and after September 1, 2020, if the person  
+| applies for a plumbing contractor license, the person shall pay any  
+| fee required by law for the plumbing contractor license.  
+|  SECTION 62. (a) Not later than December 1, 2019, the  
+| presiding officer of the Texas Commission of Licensing and  
+| Regulation shall appoint members to the Texas Plumbing Advisory  
+| Board in accordance with Section 1301.151, Occupations Code, as  
+| amended by this Act. A member whose term expired under Section 60  
+| of this Act is eligible for appointment to the advisory board.  
+|  (b) The members of the Texas State Board of Plumbing  
+| Examiners whose terms expire under Section 60 of this Act shall  
+| continue to provide advice to the Texas Department of Licensing and  
+| Regulation until a majority of the members of the advisory board are  
+| appointed under Subsection (a) of this section and qualified.  
+|  SECTION 63. (a)  Not later than:  
+|  (1) September 1, 2021, the Texas Department of  
+| Licensing and Regulation shall obtain criminal history record  
+| information using a person's name, date of birth, and other  
+| alphanumeric identifiers on each person who:  
+|  (A) on September 1, 2019, holds a license issued  
+| under Chapter 1301, Occupations Code; and  
+|  (B) did not undergo a criminal history record  
+| information check based on the person's name or fingerprints on  
+| submission of the person's initial license application; and  
+|  (2) September 1, 2023, the Texas Department of  
+| Licensing and Regulation shall obtain criminal history record  
+| information using a person's fingerprints on each person who:  
+|  (A) on September 1, 2019, holds a license issued  
+| under Chapter 1301, Occupations Code; and  
+|  (B) did not undergo a criminal history record  
+| information check based on the person's fingerprints on submission  
+| of the person's initial license application.  
+|  (b) The Texas Department of Licensing and Regulation may  
+| suspend the license of a person who holds a license under Chapter  
+| 1301, Occupations Code, who does not comply with a request by the  
+| department to provide information or fingerprints, in a form and  
+| manner prescribed by the department, that would enable the  
+| department to obtain criminal history record information as  
+| required by this section.  
+|  SECTION 64. (a)  A violation of a law that is repealed by  
+| this Act is governed by the law in effect when the violation was  
+| committed, and the former law is continued in effect for that  
+| purpose.  
+|  (b) For purposes of this section, a violation was committed  
+| before September 1, 2019, if any element of the violation occurred  
+| before that date.  
+|  SECTION 65. To the extent of any conflict, this Act prevails  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 66. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,30 @@
+| 86R12307 TSS-F  
+---|---  
+|  By: Dean | H.B. No. 2689  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the designation of a cybersecurity coordinator by each  
+| school district.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter D, Chapter 37, Education Code, is  
+| amended by adding Section 37.116 to read as follows:  
+|  _Sec. 37.116. DISTRICT CYBERSECURITY. (a)  In this section:_  
+|  _(1)_ _____"Cyber attack"_ ___means an attempt to damage,_  
+| _disrupt, or gain unauthorized access to a computer, computer_  
+| _network, or computer system._  
+|  _(2)_ _____"Cybersecurity"_ ___means the measures taken to_  
+| _protect a computer, computer network, or computer system against_  
+| _unauthorized use or access._  
+|  _(b)_ _____The superintendent of each school district shall_  
+| _designate a cybersecurity coordinator to serve as a liaison between_  
+| _the district and the agency in cybersecurity matters._  
+|  _(c)_ _____The district's cybersecurity coordinator shall report_  
+| _to the agency any cyber attack, attempted cyber attack, or other_  
+| _cybersecurity incident against the district cyberinfrastructure as_  
+| _soon as practicable after the discovery of the attack or incident._  
+|  _(d)_ _____Information reported under Subsection (c) is_  
+| _confidential and not subject to disclosure under Chapter 552,_  
+| _Government Code._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

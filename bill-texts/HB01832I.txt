@@ -1,0 +1,39 @@
+| 86R735 LED-D  
+---|---  
+|  By: J. Johnson of Dallas | H.B. No. 1832  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prohibited practices relating to health benefit plan  
+| coverage for emergency care.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 533.005, Government Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____In addition to the requirements under Subsection (a), a_  
+| _contract described by that subsection must require the managed care_  
+| _organization to comply with Section 541.062, Insurance Code._  
+|  SECTION 2. Subchapter B, Chapter 541, Insurance Code, is  
+| amended by adding Section 541.062 to read as follows:  
+|  _Sec._ ___541.062._ _____EMERGENCY CARE. (a) In this section,_  
+| _"emergency care" and "utilization review"_ ___have the meanings_  
+| _assigned by Section 4201.002._  
+|  _(b)_ _____It is an unfair method of competition or an unfair or_  
+| _deceptive act or practice in the business of insurance to make_  
+| _health benefit plan coverage for an emergency care claim dependent_  
+| _on a utilization review determination that the patient's medical_  
+| _condition required emergency care._  
+|  SECTION 3. Section 541.062, Insurance Code, as added by  
+| this Act, applies only to a health benefit plan delivered, issued  
+| for delivery, or renewed on or after January 1, 2020. A health  
+| benefit plan delivered, issued for delivery, or renewed before  
+| January 1, 2020, is governed by the law as it existed immediately  
+| before the effective date of this Act, and that law is continued in  
+| effect for that purpose.  
+|  SECTION 4. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

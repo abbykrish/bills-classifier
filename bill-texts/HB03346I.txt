@@ -1,0 +1,42 @@
+| 86R5229 SRS-D  
+---|---  
+|  By: Bucy | H.B. No. 3346  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the classification of certain voter information as  
+| public information for a provisional or rejected vote by mail  
+| ballot.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 63.011, Election Code, is amended by  
+| adding Subsection (f) to read as follows:  
+|  _(f)_ _____If a provisional ballot is cast under this section_  
+| _because the voter does not meet the identification requirements of_  
+| _Section 63.001(b), a list of the voter's name and registration_  
+| _number shall be compiled, and the information contained on the list_  
+| _is public information for the purposes of Chapter 552, Government_  
+| _Code. The governmental entity responsible for conducting the_  
+| _election shall post daily the compiled list on the entity's_  
+| _Internet website if it maintains one._  
+|  SECTION 2. Subchapter D, Chapter 87, Election Code, is  
+| amended by adding Section 87.064 to read as follows:  
+|  _Sec._ ___87.064._ _____DAILY STATUS REPORT ON EARLY VOTING BALLOTS BY_  
+| _MAIL. (a)_ ___Each day that early voting by personal appearance is_  
+| _conducted, the early voting ballot board shall compile a list of_  
+| _voters who voted early by mail._ ___The information contained on the_  
+| _list is public information for the purposes of Chapter 552,_  
+| _Government Code._ ___The list shall contain for each person to whom a_  
+| _ballot to be voted by mail was provided:_  
+|  _(1) the voter's name and registration number;_  
+|  _(2)_ _____whether the voter's early voting ballot by mail was_  
+| _received;_  
+|  _(3)_ _____to the extent applicable to the election, whether_  
+| _the signature verification committee has determined the signatures_  
+| _are not those of the voter; and_  
+|  _(4)_ _____whether the early voting ballot by mail has been_  
+| _accepted or rejected by the early voting board._  
+|  _(b)_ _____The governmental entity responsible for conducting the_  
+| _election shall post daily the compiled list on the entity's_  
+| _Internet website if it maintains one._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

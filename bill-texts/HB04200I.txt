@@ -1,0 +1,31 @@
+| 86R16822 TSS-F  
+---|---  
+|  By: Reynolds | H.B. No. 4200  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an exception from required disclosure of information  
+| related to certain crime victims maintained by a county or district  
+| clerk.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 552, Government Code, is  
+| amended by adding Section 552.1315 to read as follows:  
+|  _Sec._ ___552.1315._ _____EXCEPTION: CONFIDENTIALITY OF CERTAIN CRIME_  
+| _VICTIM RECORDS. Information maintained by a county or district_  
+| _clerk is confidential and not subject to disclosure under this_  
+| _chapter if the information identifies an individual as:_  
+|  _(1)_ _____a victim of an offense under Section 22.011 or_  
+| _22.021, Penal Code; or_  
+|  _(2)_ _____a victim of any criminal offense, if the victim was_  
+| _younger than 17 years of age when any element of the offense was_  
+| _committed._  
+|  SECTION 2. The change in law made by this Act applies to a  
+| request for information that is received by a governmental body or  
+| an officer for public information on or after the effective date of  
+| this Act.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution.  If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

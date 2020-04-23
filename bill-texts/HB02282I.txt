@@ -1,0 +1,18 @@
+| 86R5423 JES-F  
+---|---  
+|  By: Parker | H.B. No. 2282  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the applicability of certain limitations on the capture  
+| and use of biometric identifiers to financial institutions.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 503.001(e), Business & Commerce Code, is  
+| amended to read as follows:  
+|  (e) This section does not apply to [ ~~voiceprint data retained~~  
+|  ~~by~~ ] a financial institution or an affiliate of a financial  
+| institution _subject to the requirements of Subtitle A, Title V,_  
+| _Gramm-Leach-Bliley Act (15 U.S.C. Sections 6801 to 6809)_ [ ~~, as those~~  
+|  ~~terms are defined by 15 U.S.C. Section 6809~~ ].  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

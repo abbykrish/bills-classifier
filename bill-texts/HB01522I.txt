@@ -1,0 +1,69 @@
+| 86R5653 GRM-F  
+---|---  
+|  By: Paddie | H.B. No. 1522  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a prohibition against covenants not to compete for  
+| independent contractors in connection with oil and gas operations.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 15.50(a), Business & Commerce Code, is  
+| amended to read as follows:  
+|  (a) Notwithstanding Section 15.05 of this code, and subject  
+| to any applicable provision of Subsection (b), a covenant not to  
+| compete is enforceable if it is ancillary to or part of an otherwise  
+| enforceable agreement at the time the agreement is made to the  
+| extent that it contains limitations as to time, geographical area,  
+| and scope of activity to be restrained that are reasonable and do  
+| not impose a greater restraint than is necessary to protect the  
+| goodwill or other business interest of the promisee _, except as_  
+| _provided by Section 15.501_.  
+|  SECTION 2. Subchapter E, Chapter 15, Business & Commerce  
+| Code, is amended by adding Section 15.501 to read as follows:  
+|  _Sec._ ___15.501._ _____PROHIBITION AGAINST CERTAIN COVENANTS NOT TO_  
+| _COMPETE IN CONNECTION WITH OIL AND GAS OPERATIONS. (a)_ ___In this_  
+| _section:_  
+|  _(1)_ _____"Downstream oil and gas operation" means an_  
+| _activity associated with the processing and refining of oil and gas_  
+| _into petroleum products and the distribution, marketing, and_  
+| _shipping of those products, including safety-related activities._  
+|  _(2)_ _____"Midstream oil and gas operation" means an_  
+| _activity associated with the transportation, processing, and_  
+| _storage of oil and gas between the upstream oil and gas operation_  
+| _and the downstream oil and gas operation, including safety-related_  
+| _activities._  
+|  _(3)_ _____"Upstream oil and gas operation" means an activity_  
+| _associated with the exploration, development, production,_  
+| _processing, and transportation of oil and gas, including drilling,_  
+| _hydraulic fracture stimulation, completion, maintenance,_  
+| _reworking, recompletion, disposal, plugging and abandonment,_  
+| _secondary and tertiary recovery, and remediation or safety-related_  
+| _activities._  
+|  _(b)_ _____An entity engaged in a downstream, midstream, or_  
+| _upstream oil and gas operation may not require an independent_  
+| _contractor with whom the entity contracts to enter into a covenant_  
+| _not to compete that restricts the independent contractor from_  
+| _performing work or providing a service for another entity engaged_  
+| _in a downstream, midstream, or upstream oil and gas operation._  
+|  _(c)_ _____A covenant not to compete described by Subsection (b) is_  
+| _void and unenforceable._  
+|  _(d)_ _____Section 15.51 does not apply to a covenant not to_  
+| _compete described by Subsection (b)._  
+|  SECTION 3. Section 15.52, Business & Commerce Code, is  
+| amended to read as follows:  
+|  Sec. 15.52. PREEMPTION OF OTHER LAW. The criteria for  
+| enforceability of a covenant not to compete provided by _Sections_  
+| [ ~~Section~~ ] 15.50 _and 15.501_ of this code and the procedures and  
+| remedies in an action to enforce a covenant not to compete provided  
+| by Section 15.51 of this code are exclusive and preempt any other  
+| criteria for enforceability of a covenant not to compete or  
+| procedures and remedies in an action to enforce a covenant not to  
+| compete under common law or otherwise.  
+|  SECTION 4. The change in law made by this Act applies only  
+| to a covenant entered into on or after the effective date of this  
+| Act. A covenant entered into before the effective date of this Act  
+| is governed by the law in effect on the date the covenant was  
+| entered into, and the former law is continued in effect for that  
+| purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,35 @@
+| 86R6950 AJA-F  
+---|---  
+|  By: Murphy | H.B. No. 2064  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to recovery of the funds of an estate delivered to the  
+| comptroller.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 551.003(b), Estates Code, is amended to  
+| read as follows:  
+|  (b) _Recovery of_ [ ~~An action to recover~~ ] the proceeds of a  
+| sale under this section is governed by Subchapter B.  
+|  SECTION 2. Section 551.051, Estates Code, is amended to  
+| read as follows:  
+|  Sec. 551.051. RECOVERY OF FUNDS. If funds of an estate have  
+| been paid to the comptroller under this chapter, an heir or devisee  
+| or an assignee of an heir or devisee may recover the share of the  
+| funds to which the heir, devisee, or assignee is entitled _by filing_  
+| _a claim with the comptroller in the manner provided by Chapter 74,_  
+| _Property Code, for property delivered to the comptroller under that_  
+| _chapter_.  
+|  SECTION 3. Section 74.501(e), Property Code, is amended to  
+| read as follows:  
+|  (e) Except as provided by Subsection (f) _or Section 551.051,_  
+| _Estates Code_ , the comptroller may not pay to the following persons a  
+| claim to which this section applies:  
+|  (1) a creditor, a judgment creditor, a lienholder, or  
+| an assignee of the reported owner or of the owner's heirs; or  
+|  (2) a person holding a power of attorney from the  
+| reported owner or the owner's heirs.  
+|  SECTION 4. Sections 551.052, 551.053, 551.054, and 551.055,  
+| Estates Code, are repealed.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

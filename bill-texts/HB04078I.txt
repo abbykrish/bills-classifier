@@ -1,0 +1,142 @@
+| 86R1160 JTS-F  
+---|---  
+|  By: Reynolds | H.B. No. 4078  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to applications for permits issued by the Texas Commission  
+| on Environmental Quality for certain new or expanded facilities in  
+| certain low-income and minority communities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle G, Title 5, Health and Safety Code, is  
+| amended by adding Chapter 428 to read as follows:  
+| _CHAPTER 428. ENVIRONMENTAL JUSTICE COMMUNITIES_  
+|  _Sec. 428.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Affecting facility" means a facility required to_  
+| _obtain a permit, as "permit"_ ___is defined by Section 5.752, Water_  
+| _Code, under:_  
+|  _(A) Chapter 361 of this code;_  
+|  _(B) Chapter 382 of this code; or_  
+|  _(C) Chapter 26 or 27, Water Code._  
+|  _(2)_ _____"Commission"_ ___means the Texas Commission on_  
+| _Environmental Quality._  
+|  _(3)_ _____"Environmental justice community" means a United_  
+| _States census block group, as determined in accordance with the_  
+| _most recent United States census, for which:_  
+|  _(A)_ _____30 percent or more of the_  
+| _noninstitutionalized population consists of persons who have an_  
+| _income below 200 percent of the federal poverty level; or_  
+|  _(B)_ _____50 percent or more of the population consists_  
+| _of members of racial minority or ethnic minority groups._  
+|  _Sec._ ___428.002._ _____ENVIRONMENTAL JUSTICE REPORT._ ___(a) A person_  
+| _applying for a permit for a new affecting facility or the expansion_  
+| _of an affecting facility must submit to the commission an_  
+| _environmental justice report stating whether the facility or_  
+| _expansion is to be located in an environmental justice community._  
+| _The report must include demographic information to support the_  
+| _applicant's conclusion as to whether the facility or expansion is_  
+| _to be located in an environmental justice community._  
+|  _(b)_ _____The commission shall review the environmental justice_  
+| _report and conduct research to determine whether the affecting_  
+| _facility or expansion is to be located in an environmental justice_  
+| _community. The commission shall publish its determination and_  
+| _findings in writing._  
+|  _Sec._ ___428.003._ _____REQUIREMENTS FOR FACILITIES IN ENVIRONMENTAL_  
+| _JUSTICE COMMUNITIES. If the commission determines that the_  
+| _affecting facility or expansion is to be located in an_  
+| _environmental justice community, the applicant must, before the_  
+| _commission may issue a permit:_  
+|  _(1)_ _____file with the commission a public participation_  
+| _plan that meets the requirements of Section 428.004 and obtain the_  
+| _commission's approval of the plan;_  
+|  _(2)_ _____consult with the chief elected official of the_  
+| _municipality in which the facility or expansion is to be located, or_  
+| _with the chief elected official of the county if the facility or_  
+| _expansion is to be located outside the boundaries of a_  
+| _municipality, to evaluate the need for a community environmental_  
+| _benefit agreement in accordance with Section 428.006; and_  
+|  _(3)_ _____participate in a public hearing under Section_  
+| _428.005._  
+|  _Sec._ ___428.004._ _____PUBLIC PARTICIPATION PLAN. A public_  
+| _participation plan must:_  
+|  _(1)_ _____contain measures to facilitate effective public_  
+| _participation in the regulatory process, including measures that:_  
+|  _(A)_ _____allow residents of the environmental justice_  
+| _community to have an appropriate opportunity to participate in_  
+| _decisions about a proposed affecting facility or expansion that may_  
+| _adversely affect residents' environment or health; and_  
+|  _(B)_ _____seek out and facilitate the participation of_  
+| _those who potentially would be affected by the facility or_  
+| _expansion; and_  
+|  _(2)_ _____include a certification that the applicant will_  
+| _undertake the measures contained in the plan._  
+|  _Sec._ ___428.005._ _____PUBLIC HEARING; NOTICE. (a) If the commission_  
+| _determines that an affecting facility or expansion is to be located_  
+| _in an environmental justice community, the commission shall conduct_  
+| _a hearing to address issues of environmental justice posed by the_  
+| _construction or expansion of the facility._  
+|  _(b)_ _____Not more than 30 or less than 10 days before the date set_  
+| _for the public hearing, the applicant shall:_  
+|  _(1)_ _____publish the date, time, location, and nature of_  
+| _the hearing:_  
+|  _(A)_ _____in a newspaper having general circulation in_  
+| _the area affected and any other appropriate local newspaper serving_  
+| _the area;_  
+|  _(B)_ _____on the applicant's website, if applicable;_  
+| _and_  
+|  _(C)_ _____on a reasonably visible sign posted at the_  
+| _location of the proposed affecting facility or expansion, printed_  
+| _in English and in each language spoken by at least 20 percent of the_  
+| _population that resides within one-half mile of the proposed or_  
+| _existing facility; and_  
+|  _(2)_ _____provide written notice of the date, time,_  
+| _location, and nature of the meeting to:_  
+|  _(A)_ _____neighborhood and environmental groups in a_  
+| _language appropriate for the target audience; and_  
+|  _(B)_ _____local and state elected officials who_  
+| _represent the community._  
+|  _(c)_ _____At the hearing, the person applying for the permit shall_  
+| _make a reasonable and good faith effort to provide clear, accurate,_  
+| _and complete information about the proposed affecting facility or_  
+| _expansion and the potential environmental and health impacts of the_  
+| _facility or expansion on the community._  
+|  _(d)_ _____The commission may not take any action on the person's_  
+| _application for a permit before the 60th day after the date of the_  
+| _hearing._  
+|  _Sec._ ___428.006._ _____COMMUNITY ENVIRONMENTAL BENEFIT AGREEMENTS._  
+| _(a) A municipality and the owner or developer of an affecting_  
+| _facility may enter into a community environmental benefit agreement_  
+| _under which the owner or developer agrees to mitigate adverse_  
+| _impacts reasonably related to the facility, including impacts on_  
+| _the environment, traffic, parking, and noise, by:_  
+|  _(1)_ _____developing real property that is to be used for the_  
+| _facility or expansion in a way that mitigates the impacts; or_  
+|  _(2) providing financial resources for mitigation._  
+|  _(b)_ _____If an affecting facility will be located outside the_  
+| _boundaries of a municipality, a community environmental benefit_  
+| _agreement may be entered into between a county and the owner or_  
+| _developer of the affecting facility._  
+|  _(c)_ _____Mitigation may include on-site and off-site_  
+| _improvements, activities, and programs, including funding for_  
+| _activities such as:_  
+|  _(1) providing environmental education;_  
+|  _(2) reducing diesel pollution;_  
+|  _(3) constructing bicycle and pedestrian trails;_  
+|  _(4) staffing parks;_  
+|  _(5) supporting and promoting urban forestry;_  
+|  _(6) supporting and promoting community gardens; and_  
+|  _(7)_ _____providing for any other negotiated benefit to the_  
+| _environment in the environmental justice community._  
+|  _(d)_ _____Before negotiating the terms of a community_  
+| _environmental benefit agreement, the municipality or county shall_  
+| _provide a reasonable and public opportunity for residents of the_  
+| _potentially affected environmental justice community to be heard_  
+| _concerning the need for, and terms of, an agreement._  
+|  SECTION 2. Chapter 428, Health and Safety Code, as added by  
+| this Act, applies only to an application to construct or expand an  
+| affecting facility in an environmental justice community as those  
+| terms are defined by Section 428.001, Health and Safety Code, as  
+| added by this Act, that is received by the Texas Commission on  
+| Environmental Quality on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

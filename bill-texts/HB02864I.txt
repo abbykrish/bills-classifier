@@ -1,0 +1,20 @@
+| 86R9675 SMT-F  
+---|---  
+|  By: King of Uvalde | H.B. No. 2864  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the E-Z computation of the franchise tax.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 171.1016(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) Notwithstanding any other provision of this chapter, a  
+| taxable entity whose total revenue from its entire business is not  
+| more than _$25_ [ ~~$20~~ ] million may elect to pay the tax imposed under  
+| this chapter in the amount computed and at the rate provided by this  
+| section rather than in the amount computed and at the tax rate  
+| provided by Section 171.002.  
+|  SECTION 2. This Act applies only to a report originally due  
+| on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect January 1, 2020.
+

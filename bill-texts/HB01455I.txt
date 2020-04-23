@@ -1,0 +1,55 @@
+| 86R888 LED-F  
+---|---  
+|  By: Hunter | H.B. No. 1455  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the audit of wholesale invoices during certain audits  
+| of pharmacists and pharmacies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter F, Chapter 1369, Insurance Code, is  
+| amended by adding Section 1369.2581 to read as follows:  
+|  _Sec._ ___1369.2581._ _____AUDIT DISCREPANCIES; WHOLESALE INVOICES._  
+| _(a) A health benefit plan issuer or pharmacy benefit manager that_  
+| _audits wholesale invoices during an audit of a pharmacist or_  
+| _pharmacy may not audit the pharmacy claims of another health_  
+| _benefit plan or pharmacy benefit manager._  
+|  _(b)_ _____A health benefit plan issuer or pharmacy benefit manager_  
+| _shall reverse a finding of a discrepancy if:_  
+|  _(1)_ _____the National Drug Code for the dispensed drug is in_  
+| _a quantity that is a subunit or multiple of the drug purchased by_  
+| _the pharmacist or pharmacy as supported by a wholesale invoice;_  
+|  _(2)_ _____the pharmacist or pharmacy dispensed the correct_  
+| _quantity of the drug; and_  
+|  _(3)_ _____the dispensed drug is identical in strength and_  
+| _dosage to the drug purchased by the pharmacist or pharmacy from the_  
+| _wholesaler._  
+|  _(c)_ _____A health benefit plan issuer or pharmacy benefit manager_  
+| _must accept as evidence to support the validity of a pharmacy claim_  
+| _related to a dispensed drug:_  
+|  _(1)_ _____copies of supplier invoices in the pharmacist's or_  
+| _pharmacy's possession, including:_  
+|  _(A)_ _____supplier invoices issued before the date the_  
+| _drug was dispensed; and_  
+|  _(B)_ _____invoices from any supplier authorized to_  
+| _transfer ownership of the drug acquired by the pharmacist or_  
+| _pharmacy; and_  
+|  _(2) reports required by any state board or agency._  
+|  _(d)_ _____A health benefit plan issuer or pharmacy benefit manager_  
+| _must provide, not later than the fifth business day after a request_  
+| _by the pharmacist or pharmacy, any supporting documents the_  
+| _pharmacist's or pharmacy's suppliers provided to the health benefit_  
+| _plan issuer or pharmacy benefit manager._  
+|  _(e)_ _____A health benefit plan issuer or pharmacy benefit manager_  
+| _may not recoup any amount based on a wholesale invoice discrepancy_  
+| _regarding the patient's receipt of a dispensed drug if the audited_  
+| _pharmacy claim is supported by records of the pharmacist or_  
+| _pharmacy showing that the patient or patient's agent received the_  
+| _dispensed drug underlying the audited pharmacy claim._  
+|  SECTION 2. The changes in law made by this Act apply only to  
+| an audit conducted under a contract between a pharmacist or  
+| pharmacy and a health benefit plan issuer or pharmacy benefit  
+| manager entered into, amended, or renewed on or after the effective  
+| date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

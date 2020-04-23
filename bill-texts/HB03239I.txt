@@ -1,0 +1,58 @@
+| 86R1133 LHC-F  
+---|---  
+|  By: Middleton | H.B. No. 3239  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the school district property value study conducted by  
+| the comptroller of public accounts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 403.3011(2), Government Code, is amended  
+| to read as follows:  
+|  (2) "Eligible school district" means a school district  
+| for which the comptroller has determined the following:  
+|  (A) in the most recent study, the local value is  
+| invalid under Section 403.302(c) and does not exceed the state  
+| value for the school district determined in the study;  
+|  (B) in the two studies preceding the most recent  
+| study, the school district's local value was valid under Section  
+| 403.302(c);  
+|  (C) in the most recent study, the aggregate local  
+| value of all of the categories of property sampled by the  
+| comptroller is not less than _80_ [ ~~90~~ ] percent of the lower limit of  
+| the margin of error as determined by the comptroller of the  
+| aggregate value as determined by the comptroller of all of the  
+| categories of property sampled by the comptroller; and  
+|  (D) the appraisal district that appraises  
+| property for the school district was in compliance with the scoring  
+| requirement of the comptroller's most recent review of the  
+| appraisal district conducted under Section 5.102, Tax Code.  
+|  SECTION 2. Section 403.302(c), Government Code, is amended  
+| to read as follows:  
+|  (c) If after conducting the study the comptroller  
+| determines that the local value for a school district is valid, the  
+| local value is presumed to represent taxable value for the school  
+| district. In the absence of that presumption, taxable value for a  
+| school district is the state value for the school district  
+| determined by the comptroller under Subsections (a) and (b) unless  
+| the local value exceeds the state value, in which case the taxable  
+| value for the school district is the district's local value. In  
+| determining whether the local value for a school district is valid,  
+| the comptroller shall use a margin of error that does not exceed _10_  
+| [ ~~five~~ ] percent unless the comptroller determines that the size of  
+| the sample of properties necessary to make the determination makes  
+| the use of such a margin of error not feasible, in which case the  
+| comptroller may use a larger margin of error.  
+|  SECTION 3. The change in law made by this Act applies only  
+| to the annual study conducted under Section 403.302, Government  
+| Code, for a tax year that begins on or after January 1, 2020.  The  
+| annual study for a tax year that begins before that date is covered  
+| by the law in effect immediately before the effective date of this  
+| Act, and the prior law is continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect on the 91st day after the last day of the  
+| legislative session.
+

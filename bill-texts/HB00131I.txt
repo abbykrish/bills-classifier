@@ -1,0 +1,377 @@
+| 86R346 SMT-F  
+---|---  
+|  By: Moody | H.B. No. 131  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to extreme risk protective orders and the prosecution of  
+| the criminal offense of unlawful transfer of a firearm; creating a  
+| criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Title 1, Code of Criminal Procedure, is amended  
+| by adding Chapter 7C to read as follows:  
+| _CHAPTER 7C. EXTREME RISK PROTECTIVE ORDER_  
+|  _Art. 7C.01. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Bodily injury"_ ___and "serious bodily injury"_ ___have_  
+| _the meanings assigned by Section 1.07, Penal Code._  
+|  _(2)_ _____"Family," "family violence," and "household" have_  
+| _the meanings assigned by Chapter 71, Family Code._  
+|  _(3)_ _____"Firearm" has the meaning assigned by Section_  
+| _46.01, Penal Code._  
+|  _(4)_ _____"Local mental health authority" has the meaning_  
+| _assigned by Section 571.003, Health and Safety Code._  
+|  _(5)_ _____"Serious mental illness" has the meaning assigned_  
+| _by Section 1355.001, Insurance Code._  
+|  _Art._ ___7C.02._ _____APPLICATION FOR EXTREME RISK PROTECTIVE ORDER._  
+| _(a) An application for a protective order under this chapter may be_  
+| _filed by:_  
+|  _(1) a member of the respondent's family or household;_  
+|  _(2)_ _____a parent, guardian, or conservator of a person who_  
+| _is under 18 years of age and a member of the respondent's family or_  
+| _household; or_  
+|  _(3) a prosecuting attorney acting:_  
+|  _(A)_ _____on behalf of a person described by_  
+| _Subdivision (1) or (2); or_  
+|  _(B) at the request of a peace officer._  
+|  _(b) An application must:_  
+|  _(1) include:_  
+|  _(A)_ _____detailed allegations, based on personal_  
+| _knowledge of a person described by Subsection (a)(1) or (2) or of a_  
+| _peace officer, regarding_ ___any dangerous behavior or conduct_  
+| _exhibited by the respondent as a result of a serious mental illness,_  
+| _including any behavior or conduct related to the respondent's use_  
+| _of firearms;_  
+|  _(B)_ _____any relevant medical or mental health_  
+| _information concerning the respondent, including copies of_  
+| _relevant medical or mental health records, if available;_  
+|  _(C)_ _____information concerning the quantity, type,_  
+| _and location of any firearms the applicant believes to be in the_  
+| _respondent's possession or control, if any;_  
+|  _(D)_ _____any other relevant facts indicating a need_  
+| _for a protective order; and_  
+|  _(E)_ _____a statement that the applicant believes the_  
+| _respondent poses an immediate and present danger of causing bodily_  
+| _injury, serious bodily injury, or death to any person, including_  
+| _the respondent, as a result of the respondent's serious mental_  
+| _illness and access to firearms; and_  
+|  _(2)_ _____be signed by the applicant under an oath that, to_  
+| _the knowledge and belief of the applicant, the facts and_  
+| _circumstances contained in the application are true._  
+|  _(c)_ _____An application for a protective order under this chapter_  
+| _may be filed in a district court, juvenile court having the_  
+| _jurisdiction of a district court, statutory county court, or_  
+| _constitutional county court in the county in which the applicant or_  
+| _the respondent resides._  
+|  _Art._ ___7C.03._ _____CONFIDENTIALITY OF CERTAIN INFORMATION. On_  
+| _receiving an application containing specific medical or mental_  
+| _health information concerning the respondent, the court shall order_  
+| _the clerk to:_  
+|  _(1)_ _____strike the information from the public records of_  
+| _the court; and_  
+|  _(2)_ _____maintain a confidential record of the information_  
+| _for use only by the court._  
+|  _Art._ ___7C.04._ _____TEMPORARY EX PARTE ORDER. (a)_ ___If the court_  
+| _finds from the information contained in an application for a_  
+| _protective order under this chapter that there is reasonable cause_  
+| _to believe that the respondent poses an immediate and present_  
+| _danger of causing bodily injury, serious bodily injury, or death to_  
+| _any person, including the respondent, as a result of the_  
+| _respondent's serious mental illness and access to firearms, the_  
+| _court, without further notice to the respondent and without a_  
+| _hearing, may issue a temporary ex parte order prohibiting the_  
+| _respondent from purchasing, owning, possessing, or controlling a_  
+| _firearm._  
+|  _(b)_ _____In a temporary ex parte order, the court may order the_  
+| _respondent to:_  
+|  _(1)_ _____relinquish, without delay, any firearms owned by_  
+| _or in the actual or constructive possession or control of the_  
+| _respondent to a law enforcement agency for holding in the manner_  
+| _provided by Article 18.192;_  
+|  _(2)_ _____if applicable, surrender to the court the_  
+| _respondent's license to carry a handgun issued under Subchapter H,_  
+| _Chapter 411, Government Code; and_  
+|  _(3)_ _____for purposes of determining whether the respondent_  
+| _has a serious mental illness, submit to an examination by the local_  
+| _mental health authority or a disinterested expert who is qualified_  
+| _to diagnose, and experienced in diagnosing, mental illness._  
+|  _Art._ ___7C.05._ _____HEARING; ISSUANCE OF PROTECTIVE ORDER. (a) Not_  
+| _later than the 14th day after the later of the date an application_  
+| _is filed or the date a temporary ex parte order is issued, the court_  
+| _shall hold a hearing on the issuance of the protective order._  
+|  _(b)_ _____The court shall provide personal notice of the hearing_  
+| _to the respondent._  
+|  _(c)_ _____In determining whether to issue a protective order under_  
+| _this article, the court:_  
+|  _(1) shall consider:_  
+|  _(A)_ _____the results of any examination described by_  
+| _Article 7C.04(b)(3);_  
+|  _(B)_ _____any relevant medical or mental health_  
+| _information concerning the respondent;_  
+|  _(C)_ _____any history of threats or acts of violence by_  
+| _the respondent directed at any person, including the respondent;_  
+|  _(D)_ _____any history of the respondent using,_  
+| _attempting to use, or threatening to use physical force against_  
+| _another person;_  
+|  _(E)_ _____any recent violation by the respondent of an_  
+| _order issued:_  
+|  _(i) under Chapter 7A or Article 17.292;_  
+|  _(ii)_ _____under Section 6.504 or Chapter 85,_  
+| _Family Code;_  
+|  _(iii)_ _____under Chapter 83, Family Code, if the_  
+| _temporary ex parte order has been served on the respondent; or_  
+|  _(iv)_ _____by another jurisdiction as provided by_  
+| _Chapter 88, Family Code;_  
+|  _(F)_ _____any arrest or conviction of the respondent_  
+| _for:_  
+|  _(i)_ _____an offense under Section 42.072, Penal_  
+| _Code; or_  
+|  _(ii)_ _____a misdemeanor offense involving_  
+| _violence, including family violence;_  
+|  _(G)_ _____any conviction of the respondent for an_  
+| _offense under Section 42.09, 42.091, or 42.092, Penal Code; and_  
+|  _(H)_ _____evidence related to the respondent's abuse of_  
+| _a controlled substance or alcohol, including evidence of any_  
+| _treatment for and recovery from abusing a controlled substance or_  
+| _alcohol; and_  
+|  _(2) may consider any other relevant factor including:_  
+|  _(A)_ _____any previous violation by the respondent of_  
+| _an order described by Subdivision (1)(E); and_  
+|  _(B)_ _____evidence regarding the respondent's recent_  
+| _acquisition of firearms, ammunition, or other deadly weapons._  
+|  _(d)_ _____At the close of the hearing, if the court finds by clear_  
+| _and convincing evidence that the respondent poses an immediate and_  
+| _present danger of causing bodily injury, serious bodily injury, or_  
+| _death to any person, including the respondent, as a result of the_  
+| _respondent's serious mental illness and access to firearms, the_  
+| _court shall issue a protective order that includes a statement of_  
+| _the required finding._  
+|  _(e)_ _____If the court does not make the finding described by_  
+| _Subsection (d), the court shall, as applicable, immediately rescind_  
+| _any temporary ex parte order issued under Article 7C.04 and return_  
+| _the respondent's license to carry a handgun._  
+|  _Art._ ___7C.06._ _____CONTENTS OF PROTECTIVE ORDER. In a protective_  
+| _order issued under Article 7C.05, the court shall:_  
+|  _(1)_ _____prohibit the person who is subject to the order_  
+| _from purchasing, owning, possessing, or controlling a firearm for_  
+| _the duration of the order; and_  
+|  _(2) order the person to:_  
+|  _(A)_ _____relinquish, without delay, any firearms_  
+| _owned by or in the actual or constructive possession or control of_  
+| _the person to a law enforcement agency for holding in the manner_  
+| _provided by Article 18.192;_  
+|  _(B)_ _____if applicable, surrender to the court the_  
+| _person's license to carry a handgun issued under Subchapter H,_  
+| _Chapter 411, Government Code; and_  
+|  _(C)_ _____if applicable, receive outpatient mental_  
+| _health services if recommended by the local mental health authority_  
+| _or expert after the authority or expert performs an examination_  
+| _described by Article 7C.04(b)(3)._  
+|  _Art._ ___7C.07._ _____DURATION OF PROTECTIVE ORDER. (a)_ ___A protective_  
+| _order issued under Article 7C.05 is effective until the first_  
+| _anniversary of the date the order was issued._  
+|  _(b)_ _____The court may renew a protective order issued under_  
+| _Article 7C.05 for a period not to exceed one year after the order's_  
+| _original expiration date. Before renewing the order the court must_  
+| _hold a hearing and provide personal notice of the hearing to the_  
+| _person who is the subject of the order._  
+|  _(c)_ _____A person who is the subject of a protective order may_  
+| _file a motion not earlier than the 91st day after the date on which_  
+| _the order was initially issued or renewed, as applicable,_  
+| _requesting that the court review the order and determine whether_  
+| _there is a continuing need for the order. After a hearing on the_  
+| _motion, if the court fails to make the finding that there is no_  
+| _continuing need for the order, the order remains in effect until the_  
+| _date the order expires as provided by this article._  
+|  _(d)_ _____At a hearing to renew or rescind a protective order_  
+| _under this article, the court shall consider the factors described_  
+| _by Article 7C.05(c)._  
+|  _Art._ ___7C.08._ _____NOTICE TO DEPARTMENT OF PUBLIC SAFETY REGARDING_  
+| _ISSUANCE OR EXPIRATION OF ORDER. (a) Not later than the 30th day_  
+| _after the date a protective order is issued under Article 7C.05, the_  
+| _clerk of the issuing court shall provide the following to the_  
+| _Department of Public Safety:_  
+|  _(1)_ _____the complete name, race, and sex of the person who_  
+| _is the subject of the order;_  
+|  _(2)_ _____any known identifying number of the person,_  
+| _including a social security number, driver's license number, or_  
+| _state identification number;_  
+|  _(3) the person's date of birth; and_  
+|  _(4)_ _____if applicable, the person's license to carry a_  
+| _handgun issued under Subchapter H, Chapter 411, Government Code._  
+|  _(b)_ _____Not later than the 30th day after the date the_  
+| _protective order expires under Article 7C.07, the clerk of the_  
+| _issuing court shall notify the Department of Public Safety of the_  
+| _expiration._  
+|  _Art._ ___7C.09._ _____APPLICATION OF OTHER LAW. To the extent_  
+| _applicable, except as otherwise provided by this chapter, Title 4,_  
+| _Family Code, applies to a protective order issued under this_  
+| _chapter._  
+|  SECTION 2. Chapter 18, Code of Criminal Procedure, is  
+| amended by adding Article 18.192 to read as follows:  
+|  _Art._ ___18.192._ _____HOLDING AND DISPOSITION OF FIREARM_  
+| _RELINQUISHED UNDER EXTREME RISK PROTECTIVE ORDER. (a) A law_  
+| _enforcement officer who takes possession of a firearm from a person_  
+| _who is the subject of an extreme risk protective order issued under_  
+| _Chapter 7C shall immediately provide the person a written copy of_  
+| _the receipt for the firearm and a written notice of the procedure_  
+| _for the return of a firearm under this article._  
+|  _(b)_ _____Not later than the seventh day after the date a firearm_  
+| _subject to disposition under this article is received, the law_  
+| _enforcement agency holding the firearm shall notify the court that_  
+| _issued the extreme risk protective order that the person who is the_  
+| _subject of the order has relinquished the firearm._  
+|  _(c)_ _____Not later than the 30th day after the date the extreme_  
+| _risk protective order is rescinded or expires, the clerk of the_  
+| _court shall notify the law enforcement agency of the rescission or_  
+| _expiration._  
+|  _(d)_ _____Not later than the 30th day after the date the law_  
+| _enforcement agency holding a firearm subject to disposition under_  
+| _this article receives the notice described by Subsection (c), the_  
+| _law enforcement agency shall conduct a check of state and national_  
+| _criminal history record information to verify whether the person_  
+| _may lawfully possess a firearm under 18 U.S.C. Section 922(g) and_  
+| _under the law of this state._  
+|  _(e)_ _____If the check conducted under Subsection (d) verifies_  
+| _that the person may lawfully possess a firearm, the law enforcement_  
+| _agency shall provide to the person by certified mail written notice_  
+| _stating that the firearm may be returned to the person if the person_  
+| _submits a written request before the 121st day after the date of the_  
+| _notice._  
+|  _(f)_ _____An unclaimed firearm that is received under an extreme_  
+| _risk protective order issued under Chapter 7C may not be destroyed_  
+| _or forfeited to the state._  
+|  _(g)_ _____The law enforcement agency holding the firearm may_  
+| _provide for the firearm to be sold by a person who is a licensed_  
+| _firearms dealer under 18 U.S.C. Section 923 if:_  
+|  _(1)_ _____the check conducted under Subsection (d) shows_  
+| _that the person who was the subject of the extreme risk protective_  
+| _order may not lawfully possess a firearm; or_  
+|  _(2)_ _____the notice is provided under Subsection (e) and_  
+| _the person who was the subject of the extreme risk protective order_  
+| _does not submit, before the 121st day after the date of the notice,_  
+| _a written request for the return of the firearm._  
+|  _(h)_ _____The proceeds from the sale of a firearm under this_  
+| _article shall be paid to the owner of the seized firearm, less the_  
+| _cost of administering this article with respect to the firearm._  
+|  _(i)_ _____A law enforcement officer or other employee of a law_  
+| _enforcement agency is subject to punishment for contempt of court_  
+| _if the officer or employee violates this article with the intent to_  
+| _withhold a firearm from a person who, at the time the violation_  
+| _occurred:_  
+|  _(1)_ _____was the subject of an extreme risk protective_  
+| _order that was rescinded or that expired; and_  
+|  _(2) may lawfully possess the firearm._  
+|  SECTION 3. Subchapter D, Chapter 411, Government Code, is  
+| amended by adding Section 411.0522 to read as follows:  
+|  _Sec._ ___411.0522._ _____INFORMATION CONCERNING EXTREME RISK_  
+| _PROTECTIVE ORDER. (a) The department by rule shall establish a_  
+| _procedure to provide information concerning a person who is the_  
+| _subject of an extreme risk protective order to the Federal Bureau of_  
+| _Investigation for inclusion in the National Instant Criminal_  
+| _Background Check System._  
+|  _(b)_ _____The procedure must require the department to provide any_  
+| _information received under Article 7C.08, Code of Criminal_  
+| _Procedure, to the Federal Bureau of Investigation not later than_  
+| _the 30th day after the date the department received the_  
+| _information._  
+|  SECTION 4. Section 411.172(a), Government Code, is amended  
+| to read as follows:  
+|  (a) A person is eligible for a license to carry a handgun if  
+| the person:  
+|  (1) is a legal resident of this state for the six-month  
+| period preceding the date of application under this subchapter or  
+| is otherwise eligible for a license under Section 411.173(a);  
+|  (2) is at least 21 years of age;  
+|  (3) has not been convicted of a felony;  
+|  (4) is not charged with the commission of a Class A or  
+| Class B misdemeanor or equivalent offense, or of an offense under  
+| Section 42.01, Penal Code, or equivalent offense, or of a felony  
+| under an information or indictment;  
+|  (5) is not a fugitive from justice for a felony or a  
+| Class A or Class B misdemeanor or equivalent offense;  
+|  (6) is not a chemically dependent person;  
+|  (7) is not incapable of exercising sound judgment with  
+| respect to the proper use and storage of a handgun;  
+|  (8) has not, in the five years preceding the date of  
+| application, been convicted of a Class A or Class B misdemeanor or  
+| equivalent offense or of an offense under Section 42.01, Penal  
+| Code, or equivalent offense;  
+|  (9) is fully qualified under applicable federal and  
+| state law to purchase a handgun;  
+|  (10) has not been finally determined to be delinquent  
+| in making a child support payment administered or collected by the  
+| attorney general;  
+|  (11) has not been finally determined to be delinquent  
+| in the payment of a tax or other money collected by the comptroller,  
+| the tax collector of a political subdivision of the state, or any  
+| agency or subdivision of the state;  
+|  (12) is not currently _:_  
+|  _(A)_ restricted under a court protective order _,_  
+| _including an extreme risk protective order issued under Chapter 7C,_  
+| _Code of Criminal Procedure;_ or  
+|  _(B)_ subject to a restraining order affecting the  
+| spousal relationship, other than a restraining order solely  
+| affecting property interests;  
+|  (13) has not, in the 10 years preceding the date of  
+| application, been adjudicated as having engaged in delinquent  
+| conduct violating a penal law of the grade of felony; and  
+|  (14) has not made any material misrepresentation, or  
+| failed to disclose any material fact, in an application submitted  
+| pursuant to Section 411.174.  
+|  SECTION 5. Chapter 37, Penal Code, is amended by adding  
+| Section 37.082 to read as follows:  
+|  _Sec._ ___37.082._ _____FALSE REPORT REGARDING REQUEST FOR EXTREME_  
+| _RISK PROTECTIVE ORDER. (a) In this section, "prosecuting_  
+| _attorney" means a district attorney, criminal district attorney, or_  
+| _county attorney._  
+|  _(b)_ _____A person commits an offense if, with intent to deceive,_  
+| _the person knowingly makes to a prosecuting attorney or peace_  
+| _officer a false statement relating to a request that a prosecuting_  
+| _attorney file an application for an extreme risk protective order_  
+| _under Chapter 7C, Code of Criminal Procedure._  
+|  _(c) An offense under this section is a Class B misdemeanor._  
+|  SECTION 6. Section 46.06(a), Penal Code, is amended to read  
+| as follows:  
+|  (a) A person commits an offense if the person:  
+|  (1) sells, rents, leases, loans, or gives a handgun to  
+| any person knowing that the person to whom the handgun is to be  
+| delivered intends to use it unlawfully or in the commission of an  
+| unlawful act;  
+|  (2) intentionally or knowingly sells, rents, leases,  
+| or gives or offers to sell, rent, lease, or give to any child  
+| younger than 18 years of age any firearm, club, or  
+| location-restricted knife;  
+|  (3) intentionally, knowingly, or recklessly sells a  
+| firearm or ammunition for a firearm to any person who is  
+| intoxicated;  
+|  (4) knowingly sells a firearm or ammunition for a  
+| firearm to any person who has been convicted of a felony before the  
+| fifth anniversary of the later of the following dates:  
+|  (A) the person's release from confinement  
+| following conviction of the felony; or  
+|  (B) the person's release from supervision under  
+| community supervision, parole, or mandatory supervision following  
+| conviction of the felony;  
+|  (5) sells, rents, leases, loans, or gives a handgun to  
+| any person knowing that an active protective order is directed to  
+| the person to whom the handgun is to be delivered;  
+|  _(6)_ _____sells, rents, leases, loans, or gives a firearm to_  
+| _any person knowing that an active extreme risk protective order_  
+| _under Chapter 7C, Code of Criminal Procedure, is directed to the_  
+| _person to whom the firearm is to be delivered;_ or  
+|  _(7)_ [ ~~(6)~~ ] knowingly purchases, rents, leases, or  
+| receives as a loan or gift from another a handgun while an active  
+| protective order is directed to the actor.  
+|  SECTION 7. Section 46.06, Penal Code, as amended by this  
+| Act, applies only to an offense committed on or after the effective  
+| date of this Act. An offense committed before the effective date of  
+| this Act is governed by the law in effect on the date the offense was  
+| committed, and the former law is continued in effect for that  
+| purpose. For purposes of this section, an offense was committed  
+| before the effective date of this Act if any element of the offense  
+| occurred before that date.  
+|  SECTION 8. Not later than October 1, 2019, the Department of  
+| Public Safety shall adopt rules as required by Section 411.0522,  
+| Government Code, as added by this Act.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

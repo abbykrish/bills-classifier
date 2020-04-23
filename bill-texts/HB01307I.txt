@@ -1,0 +1,22 @@
+| 86R3140 AAF-D  
+---|---  
+|  By: Hinojosa | H.B. No. 1307  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of a disaster case management system by the  
+| Texas Division of Emergency Management.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 418, Government Code, is  
+| amended by adding Section 418.054 to read as follows:  
+|  _Sec._ ___418.054._ _____DISASTER CASE MANAGEMENT SYSTEM. (a)_ ___The_  
+| _division shall, subject to the availability of funds, contract with_  
+| _a vendor to develop and maintain an electronic disaster case_  
+| _management system._ ___The system may be used for case management_  
+| _during and after a disaster by persons determined by the division._ __  
+| _The system may include the capability for persons affected by a_  
+| _disaster to apply for assistance from multiple sources._  
+|  _(b)_ _____The division shall adopt rules necessary to implement_  
+| _this section._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

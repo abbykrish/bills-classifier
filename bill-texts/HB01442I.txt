@@ -1,0 +1,980 @@
+| 86R2054 GRM-D  
+---|---  
+|  By: Paddie | H.B. No. 1442  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the continuation and functions of the Office of  
+| Consumer Credit Commissioner and the licensing and registration of  
+| persons regulated by that state agency.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 14.062, Finance Code, is amended to read  
+| as follows:  
+|  Sec. 14.062. CONSUMER INFORMATION AND COMPLAINTS. (a)  The  
+| office shall maintain a _system to promptly and efficiently act on_  
+| _complaints_ [ ~~file on each written complaint~~ ] filed with the office.  
+| _The office shall maintain information about parties to the_  
+| _complaint, the subject matter of the complaint, a summary of the_  
+| _results of the review or investigation of the complaint, and its_  
+| _disposition_ [ ~~The file must include:~~  
+|  [ ~~(1) the name of the person who filed the complaint;~~  
+|  [ ~~(2) the date the complaint is received by the office;~~  
+|  [ ~~(3) the subject matter of the complaint;~~  
+|  [ ~~(4)~~ ~~~~ ~~~~ ~~the name of each person contacted in relation to~~  
+|  ~~the complaint;~~  
+|  [ ~~(5)~~ ~~~~ ~~~~ ~~a summary of the results of the review or~~  
+|  ~~investigation of the complaint; and~~  
+|  [ ~~(6)~~ ~~~~ ~~~~ ~~an explanation of the reason the file was closed,~~  
+|  ~~if the office closed the file without taking action other than to~~  
+|  ~~investigate the complaint~~ ].  
+|  (b) The office shall _make information available describing_  
+| _its procedures for_ [ ~~provide to the person filing the complaint and~~  
+|  ~~to each person who is a subject of the complaint a copy of the~~  
+|  ~~office's policies and procedures relating to~~ ] complaint  
+| investigation and resolution.  
+|  (c) The office[ ~~, at least quarterly until final disposition~~  
+|  ~~of the complaint,~~ ] shall _periodically_ notify the _complaint parties_  
+| [ ~~person filing the complaint and each person who is a subject of the~~  
+|  ~~complaint~~ ] of the status of the _complaint until final disposition_  
+| [ ~~investigation unless the notice would jeopardize an undercover~~  
+|  ~~investigation~~ ].  
+|  SECTION 2. Section 14.066, Finance Code, is amended to read  
+| as follows:  
+|  Sec. 14.066. SUNSET PROVISION. The office is subject to  
+| Chapter 325, Government Code (Texas Sunset Act). Unless continued  
+| in existence as provided by that chapter, the office is abolished  
+| September 1, _2031_ [ ~~2019~~ ].  
+|  SECTION 3. Section 14.107(b), Finance Code, is amended to  
+| read as follows:  
+|  (b) The finance commission by rule shall set the fees for  
+| licensing and examination, as applicable, under Chapter 393 with  
+| respect to a credit access business or Chapter 342, 347, 348, 351,  
+| 353, or 371 at amounts or rates necessary to recover the costs of  
+| administering those chapters. The rules may provide that the amount  
+| of a fee charged to a license holder is based on the volume of the  
+| license holder's regulated business and other key factors. The  
+| commissioner may provide for collection of a single [ ~~annual~~ ] fee  
+| _for the term of the license_ from a person licensed under Subchapter  
+| G of Chapter 393 or Chapter 342, 347, 348, 351, or 371 _. The fee must_  
+| [ ~~to~~ ] include amounts due for both licensing and examination.  
+|  SECTION 4. Subchapter C, Chapter 14, Finance Code, is  
+| amended by adding Sections 14.110, 14.111, and 14.112 to read as  
+| follows:  
+|  _Sec._ ___14.110._ _____ALTERNATIVE RULEMAKING AND DISPUTE_  
+| _RESOLUTION. (a) The finance commission by rule shall develop a_  
+| _policy to encourage the use of:_  
+|  _(1)_ _____negotiated rulemaking procedures under Chapter_  
+| _2008, Government Code, for the adoption of rules by the finance_  
+| _commission applicable to the office; and_  
+|  _(2)_ _____appropriate alternative dispute resolution_  
+| _procedures under Chapter 2009, Government Code, to assist in the_  
+| _resolution of internal and external disputes under the office's_  
+| _jurisdiction._  
+|  _(b)_ _____The procedures applicable to the office relating to_  
+| _alternative dispute resolution must conform, to the extent_  
+| _possible, to any model guidelines issued by the State Office of_  
+| _Administrative Hearings for the use of alternative dispute_  
+| _resolution by state agencies._  
+|  _(c) The office shall:_  
+|  _(1)_ _____coordinate the implementation of the policy_  
+| _adopted under Subsection (a);_  
+|  _(2)_ _____provide training as needed to implement the_  
+| _procedures for negotiated rulemaking or alternative dispute_  
+| _resolution; and_  
+|  _(3)_ _____collect data concerning the effectiveness of those_  
+| _procedures._  
+|  _Sec._ ___14.111._ _____ADVISORY COMMITTEES. (a) The commissioner may_  
+| _appoint advisory committees to assist the office and commissioner_  
+| _in performing their duties._  
+|  _(b)_ _____The commissioner shall specify each committee's_  
+| _purpose, powers, and duties and shall require each committee to_  
+| _report to the commissioner or office in the manner specified by the_  
+| _commissioner concerning the committee's activities and the results_  
+| _of its work._  
+|  _Sec._ ___14.112._ _____LICENSING AND REGISTRATION TERMS. (a)_ ___The_  
+| _finance commission by rule shall prescribe the licensing or_  
+| _registration period for licenses and registrations issued under_  
+| _Chapters 342, 345, 347, 348, 351, 352, 353, 371, 393, and 394 of_  
+| _this code and Chapter 1956, Occupations Code, not to exceed two_  
+| _years._  
+|  _(b)_ _____In adopting rules under Subsection (a), the finance_  
+| _commission shall set terms for licenses that comply with Chapter_  
+| _180 and the federal Secure and Fair Enforcement for Mortgage_  
+| _Licensing Act of 2008 (Pub. L. No. 110-289)._  
+|  _(c)_ _____If the finance commission prescribes the term of a_  
+| _license or registration under Subsection (a) for a period other_  
+| _than one year, the commissioner shall prorate the applicable fee_  
+| _required under a chapter specified in Subsection (a) as necessary_  
+| _to reflect the term of the license or registration._  
+|  SECTION 5. Section 14.201, Finance Code, is amended to read  
+| as follows:  
+|  Sec. 14.201. INVESTIGATION AND ENFORCEMENT AUTHORITY.  
+| Investigative and enforcement authority under this subchapter  
+| applies only to _:_  
+|  _(1)_ this chapter _;_  
+|  _(2)_ [ ~~,~~ ] Subtitles B and C _,_ [ ~~of~~ ] Title 4 _;_  
+|  _(3)_ [ ~~,~~ ] Chapter 393 with respect to a credit access  
+| business _;_  
+|  _(4)_ [ ~~, and~~ ] Chapter 394 _; and_  
+|  _(5) Subchapter B, Chapter 1956, Occupations Code_.  
+|  SECTION 6. Section 14.2015, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 14.2015. CONFIDENTIALITY OF CERTAIN INFORMATION.  (a)  
+| Except as provided by Subsection (b), information or material  
+| obtained or compiled by the commissioner in relation to an  
+| examination or investigation by the commissioner or the  
+| commissioner's representative of a license holder, registrant,  
+| applicant, or other person under Subtitle B or C, Title 4,  
+| Subchapter G of Chapter 393, or Chapter 394 _of this code or_  
+| _Subchapter B, Chapter 1956, Occupations Code,_ is confidential and  
+| may not be disclosed by the commissioner or an officer or employee  
+| of the _office_ [ ~~Office of Consumer Credit Commissioner~~ ], including:  
+|  (1) information obtained from a license holder,  
+| registrant, applicant, or other person examined or investigated  
+| under Subtitle B or C, Title 4, Subchapter G of Chapter 393, or  
+| Chapter 394 _of this code or Subchapter B, Chapter 1956, Occupations_  
+| _Code_ ;  
+|  (2) work performed by the commissioner or the  
+| commissioner's representative on information obtained from a  
+| license holder, registrant, applicant, or other person for the  
+| purposes of an examination or investigation conducted under  
+| Subtitle B or C, Title 4, Chapter 393 with respect to a credit  
+| access business, or Chapter 394 _of this code or Subchapter B,_  
+| _Chapter 1956, Occupations Code_ ;  
+|  (3) a report on an examination or investigation of a  
+| license holder, registrant, applicant, or other person conducted  
+| under Subtitle B or C, Title 4, Chapter 393 with respect to a credit  
+| access business, or Chapter 394 _of this code or Subchapter B,_  
+| _Chapter 1956, Occupations Code_ ; and  
+|  (4) any written communications between the license  
+| holder, registrant, applicant, or other person, as applicable, and  
+| the commissioner or the commissioner's representative relating to  
+| or referencing an examination or investigation conducted under  
+| Subtitle B or C, Title 4, Chapter 393 with respect to a credit  
+| access business, or Chapter 394 _of this code or Subchapter B,_  
+| _Chapter 1956, Occupations Code_.  
+|  (b) The commissioner or the commissioner's representative  
+| may disclose the confidential information or material described by  
+| Subsection (a):  
+|  (1) to a department, agency, or instrumentality of  
+| this state or the United States if the commissioner considers  
+| disclosure to be necessary or proper to the enforcement of the laws  
+| of this state or the United States and in the best interest of the  
+| public;  
+|  (2) if the license holder, registrant, applicant, or  
+| other person consents to the release of the information or has  
+| published the information contained in the release; [ ~~or~~ ]  
+|  (3) if the commissioner determines that release of the  
+| information is required for an administrative hearing _; or_  
+|  _(4)_ _____to provide a summary of investigation information_  
+| _to the person who filed the complaint with the office_.  
+|  SECTION 7. Section 14.202, Finance Code, is amended to read  
+| as follows:  
+|  Sec. 14.202. REQUEST FOR INFORMATION; _INVESTIGATION_  
+| _AUTHORITY_ [ ~~FAILURE TO COMPLY~~ ]. [ ~~(a)~~ ] On receipt of a written  
+| complaint or other reasonable cause to believe that a person is  
+| violating a statute listed by Section 14.201, the commissioner may _:_  
+|  _(1)_ require the person to furnish information  
+| regarding a specific loan, retail transaction, or business practice  
+| to which the violation relates _; and_ [ ~~.~~ ]  
+|  _(2)_ [ ~~(b) If a person fails to furnish the information~~  
+|  ~~requested by the commissioner, the commissioner may~~ ] conduct an  
+| investigation to determine whether a violation exists.  
+|  SECTION 8. Section 14.208(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) If the commissioner has reasonable cause to believe that  
+| a person is violating a statute to which this chapter applies, the  
+| commissioner, in addition to any other authorized action, may issue  
+| an order to cease and desist from the violation or an order to take  
+| affirmative action, or both, to enforce compliance. _After the_  
+| _opportunity for a hearing under Chapter 2001, Government Code, a_  
+| [ ~~A~~ ] person may appeal the order [ ~~to the finance commission as~~  
+|  ~~provided by Subsection (d) or directly~~ ] to district court in  
+| accordance with _that chapter_ [ ~~Chapter 2001, Government Code~~ ].  
+|  SECTION 9. Section 14.251, Finance Code, is amended to read  
+| as follows:  
+|  Sec. 14.251. ASSESSMENT OF PENALTY; RESTITUTION ORDER.  (a)  
+| The commissioner may assess an administrative penalty against a  
+| person who [ ~~knowingly and wilfully~~ ] violates or causes a violation  
+| of this chapter, Chapter 394, or Subtitle B, Title 4, or a rule  
+| adopted under this chapter, Chapter 394, or Subtitle B, Title 4.  
+|  (a-1) The commissioner shall assess an administrative  
+| penalty against a credit access business who [ ~~knowingly and~~  
+|  ~~wilfully~~ ] violates or causes a violation of Chapter 393, or a rule  
+| adopted under Chapter 393.  
+|  (b) The commissioner may order _the following businesses or_  
+| _other persons_ [ ~~a person who violates or causes a violation of this~~  
+|  ~~chapter, Chapter 394, or Subtitle B, Title 4, or a rule adopted~~  
+|  ~~under this chapter, Chapter 394, or Subtitle B, Title 4, or a credit~~  
+|  ~~access business who violates or causes a violation of Chapter 393 or~~  
+|  ~~a rule adopted under Chapter 393,~~ ] to _pay_ [ ~~make~~ ] restitution
+to an  
+| identifiable person _:_  
+|  _(1)_ _____a person who violates or causes a violation of this_  
+| _chapter, Chapter 394, or Subtitle B, Title 4, or a rule adopted_  
+| _under this chapter, Chapter 394, or Subtitle B, Title 4;_  
+|  _(2)_ _____a credit access business who violates or causes a_  
+| _violation of Chapter 393 or a rule adopted under Chapter 393; or_  
+|  _(3)_ _____a person who violates or causes a violation of_  
+| _Subchapter B, Chapter 1956, Occupations Code, or a rule adopted_  
+| _under that subchapter_ [ ~~injured by the violation~~ ].  
+|  SECTION 10. Section 342.0515(c), Finance Code, is amended  
+| to read as follows:  
+|  (c) _Subject to Section 14.112, the_ [ ~~The~~ ] finance commission  
+| shall adopt rules establishing procedures for issuing, renewing,  
+| and enforcing an individual license under this section. In adopting  
+| rules under this subsection, the finance commission shall ensure  
+| that:  
+|  (1) the minimum eligibility requirements for issuance  
+| of an individual license are the same as the requirements of Section  
+| 180.055;  
+|  (2) the minimum eligibility requirements for renewal  
+| of an individual license are the same as the requirements of Section  
+| 180.059; and  
+|  (3) the applicant pays:  
+|  (A) an investigation fee in a reasonable amount  
+| determined by the commissioner; and  
+|  (B) _a_ [ ~~an annual~~ ] license fee in an amount  
+| determined as provided by Section 14.107.  
+|  SECTION 11. Section 342.101(c), Finance Code, is amended to  
+| read as follows:  
+|  (c) On the filing of each license application, the applicant  
+| shall pay to the commissioner [ ~~for the license's year of issuance~~ ] a  
+| license fee in an amount determined as provided by Section 14.107.  
+|  SECTION 12. Section 342.102(c), Finance Code, is amended to  
+| read as follows:  
+|  (c) The bond must be conditioned on:  
+|  (1) the license holder's faithful performance under  
+| this chapter and rules adopted under this chapter; and  
+|  (2) the payment of all amounts that become due to the  
+| state or another person under this chapter during the _period_  
+| [ ~~calendar year~~ ] for which the bond is given.  
+|  SECTION 13. Subchapter C, Chapter 342, Finance Code, is  
+| amended by adding Section 342.106 to read as follows:  
+|  _Sec._ ___342.106._ _____LICENSE TERM. A license issued under this_  
+| _chapter is valid for the period prescribed by finance commission_  
+| _rule adopted under Section 14.112._  
+|  SECTION 14. Section 342.154, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 342.154. [ ~~ANNUAL~~ ] LICENSE FEE. Not later than _30 days_  
+| _before the date the license expires_ [ ~~December 1~~ ], a license holder  
+| shall pay to the commissioner for each license held _a_ [ ~~an annual~~ ]  
+| fee [ ~~for the year beginning the next January 1,~~ ] in an amount  
+| determined as provided by Section 14.107.  
+|  SECTION 15. Section 342.155, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 342.155. EXPIRATION OF LICENSE ON FAILURE TO PAY  
+| [ ~~ANNUAL~~ ] FEE. If the [ ~~annual~~ ] fee for a license is not paid
+before  
+| the 16th day after the date on which the written notice of  
+| delinquency of payment has been given to the license holder, the  
+| license expires on [ ~~the later of:~~  
+|  [ ~~(1)~~ ] that day[ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~December 31 of the last year for which an annual~~  
+|  ~~fee was paid~~ ].  
+|  SECTION 16. Subchapter D, Chapter 342, Finance Code, is  
+| amended by adding Section 342.1555 to read as follows:  
+|  _Sec._ ___342.1555._ _____GROUNDS FOR REFUSING RENEWAL. The_  
+| _commissioner may refuse to renew the license of a person who fails_  
+| _to comply with an order issued by the commissioner to enforce this_  
+| _chapter._  
+|  SECTION 17. Section 342.156, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 342.156. LICENSE SUSPENSION OR REVOCATION. After  
+| notice and _opportunity for_ a hearing _,_ the commissioner may suspend  
+| or revoke a license if the commissioner finds that:  
+|  (1) the license holder failed to pay the [ ~~annual~~ ]  
+| license fee, an examination fee, an investigation fee, or another  
+| charge imposed by the commissioner under this chapter;  
+|  (2) the license holder, knowingly or without the  
+| exercise of due care, violated this chapter or a rule adopted or  
+| order issued under this chapter;  
+|  (3) a fact or condition exists that, if it had existed  
+| or had been known to exist at the time of the original application  
+| for the license, clearly would have justified the commissioner's  
+| denial of the application; or  
+|  (4) the license holder has failed to ensure that an  
+| individual acting as a residential mortgage loan originator, as  
+| defined by Section 180.002, in the making, transacting, or  
+| negotiating of a loan subject to this chapter is licensed under this  
+| chapter in accordance with Section 342.0515.  
+|  SECTION 18. Section 345.351, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 345.351. REGISTRATION OF HOLDER.  (a)  A holder who is  
+| not an authorized lender under Chapter 342 or a credit union shall:  
+|  (1) register with the Office of Consumer Credit  
+| Commissioner; and  
+|  (2) pay _a_ [ ~~an annual~~ ] fee of $10 for each location at  
+| which a retail installment transaction is originated, serviced, or  
+| collected.  
+|  (b) _Subject to Section 14.112, the_ [ ~~The~~ ] finance commission  
+| by rule may establish procedures to facilitate the registration and  
+| collection of fees under this section[ ~~, including rules staggering~~  
+|  ~~throughout the year the dates on which fees are due~~ ].  
+|  _(c)_ _____A registration issued under this section is valid for_  
+| _the period prescribed by finance commission rule adopted under_  
+| _Section 14.112._  
+|  _(d)_ _____The commissioner may refuse to renew the registration of_  
+| _a holder who fails to comply with an order issued by the_  
+| _commissioner to enforce this chapter._  
+|  SECTION 19. Section 347.451, Finance Code, is amended by  
+| amending Subsections (a), (b), and (d) and adding Subsections (a-1)  
+| and (e) to read as follows:  
+|  (a) A creditor who is not an authorized lender under Chapter  
+| 342 or a credit union shall:  
+|  (1) register with the Office of Consumer Credit  
+| Commissioner; and  
+|  (2) pay _a_ [ ~~an annual~~ ] fee of $15 for each location at  
+| which a credit transaction is originated, serviced, or collected.  
+|  _(a-1)_ _____A registration issued under this section is valid for_  
+| _the period prescribed by finance commission rule adopted under_  
+| _Section 14.112._  
+|  (b) _Subject to Section 14.112, the_ [ ~~The~~ ] finance commission  
+| by rule may establish procedures to facilitate the registration and  
+| collection of fees under this section[ ~~, including rules staggering~~  
+|  ~~the due dates of the fees throughout the year~~ ].  
+|  (d) A creditor shall file the registration renewal and pay  
+| the [ ~~annual~~ ] registration fee to the commissioner not later than  
+| the 30th day after the date on which the creditor receives the  
+| notice under Subsection (c).  
+|  _(e)_ _____The commissioner may refuse to renew the registration of_  
+| _a creditor who fails to comply with an order issued by the_  
+| _commissioner to enforce this chapter._  
+|  SECTION 20. Section 347.4515, Finance Code, is amended by  
+| adding Subsections (a-1) and (e) and amending Subsection (c) to  
+| read as follows:  
+|  _(a-1)_ _____A license issued under this section is valid for the_  
+| _period prescribed by finance commission rule adopted under Section_  
+| _14.112._  
+|  (c) _Subject to Section 14.112, the_ [ ~~The~~ ] finance commission  
+| shall adopt rules establishing procedures for issuing, renewing,  
+| and enforcing an individual license under this section. In adopting  
+| rules under this subsection, the finance commission shall ensure  
+| that:  
+|  (1) the minimum eligibility requirements for issuance  
+| of an individual license are the same as the requirements of Section  
+| 180.055;  
+|  (2) the minimum eligibility requirements for renewal  
+| of an individual license are the same as the requirements of Section  
+| 180.059; and  
+|  (3) the applicant pays:  
+|  (A) an investigation fee in a reasonable amount  
+| determined by the commissioner; and  
+|  (B) _a_ [ ~~an annual~~ ] license fee in an amount  
+| determined as provided by Section 14.107.  
+|  _(e)_ _____The commissioner may refuse to renew the license of an_  
+| _individual described by Subsection (b) who fails to comply with an_  
+| _order issued by the commissioner to enforce this chapter._  
+|  SECTION 21. Section 348.5015(c), Finance Code, is amended  
+| to read as follows:  
+|  (c) _Subject to Section 14.112, the_ [ ~~The~~ ] finance commission  
+| shall adopt rules establishing procedures for applying for issuing,  
+| renewing, and enforcing a license under this section. In adopting  
+| rules under this subsection, the finance commission shall ensure  
+| that:  
+|  (1) the minimum eligibility requirements for issuance  
+| of a license are the same as the requirements of Section 180.055;  
+|  (2) the minimum eligibility requirements for renewal  
+| of a license are the same as the requirements of Section 180.059;  
+| and  
+|  (3) the applicant pays:  
+|  (A) an investigation fee in a reasonable amount  
+| determined by the commissioner; and  
+|  (B) _a_ [ ~~an annual~~ ] license fee in an amount  
+| determined as provided by Section 14.107.  
+|  SECTION 22. Section 348.502(b), Finance Code, is amended to  
+| read as follows:  
+|  (b) On the filing of a license application, the applicant  
+| shall pay to the commissioner:  
+|  (1) an investigation fee not to exceed $200; and  
+|  (2) [ ~~for the license's year of issuance,~~ ] a license fee  
+| in an amount determined as provided by Section 14.107.  
+|  SECTION 23. Subchapter F, Chapter 348, Finance Code, is  
+| amended by adding Section 348.5055 to read as follows:  
+|  _Sec._ ___348.5055._ _____LICENSE TERM. A license issued under this_  
+| _chapter is valid for the period prescribed by finance commission_  
+| _rule adopted under Section 14.112._  
+|  SECTION 24. Section 348.506, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 348.506. [ ~~ANNUAL~~ ] LICENSE FEE.  Not later than _the 30th_  
+| _day before the date the license expires_ [ ~~December 1~~ ], a license  
+| holder shall pay to the commissioner for each license held _a_ [ ~~an~~  
+|  ~~annual~~ ] fee [ ~~for the year beginning the next January 1,~~ ] in an  
+| amount determined as provided by Section 14.107.  
+|  SECTION 25. Subchapter F, Chapter 348, Finance Code, is  
+| amended by adding Section 348.5065 to read as follows:  
+|  _Sec._ ___348.5065._ _____GROUNDS FOR REFUSAL TO RENEW. The_  
+| _commissioner may refuse to renew the license of a person who fails_  
+| _to comply with an order issued by the commissioner to enforce this_  
+| _chapter._  
+|  SECTION 26. Section 348.507, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 348.507. EXPIRATION OF LICENSE ON FAILURE TO PAY  
+| [ ~~ANNUAL~~ ] FEE.  If the [ ~~annual~~ ] fee for a license is not paid
+before  
+| the 16th day after the date on which the written notice of  
+| delinquency of payment has been given to the license holder, the  
+| license expires on [ ~~the later of:~~  
+|  [ ~~(1)~~ ] that day[ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~December 31 of the last year for which an annual~~  
+|  ~~fee was paid~~ ].  
+|  SECTION 27. Section 348.508, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 348.508. LICENSE SUSPENSION OR REVOCATION. After  
+| notice and _opportunity for_ a hearing _,_ the commissioner may suspend  
+| or revoke a license if the commissioner finds that:  
+|  (1) the license holder failed to pay the [ ~~annual~~ ]  
+| license fee, an examination fee, an investigation fee, or another  
+| charge imposed by the commissioner;  
+|  (2) the license holder, knowingly or without the  
+| exercise of due care, violated this chapter or a rule adopted or  
+| order issued under this chapter; or  
+|  (3) a fact or condition exists that, if it had existed  
+| or had been known to exist at the time of the original application  
+| for the license, clearly would have justified the commissioner's  
+| denial of the application.  
+|  SECTION 28. Section 349.301, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 349.301. PAYMENT OF FEES. A person who registers or  
+| obtains or renews a license under this title after the date on which  
+| the person was required to register or to obtain or renew the  
+| license may limit the person's liability as provided by this  
+| subchapter by paying to the commissioner:  
+|  (1) all _prior_ registration or license fees that the  
+| person should have paid under this title [ ~~for prior years~~ ]; and  
+|  (2) except as provided by Section 349.302(a), a late  
+| filing fee as provided by this subchapter.  
+|  SECTION 29. Section 351.006(b), Finance Code, is amended to  
+| read as follows:  
+|  (b) _The_ [ ~~Notwithstanding Section 14.251, the~~ ] commissioner  
+| may assess an administrative penalty under Subchapter F, Chapter  
+| 14, against a person who violates Section 32.06(b-1), Tax Code,  
+| regardless of whether the violation is knowing or wilful.  
+|  SECTION 30. Section 351.0515(c), Finance Code, is amended  
+| to read as follows:  
+|  (c) _Subject to Section 14.112, the_ [ ~~The~~ ] finance commission  
+| shall adopt rules establishing procedures for issuing, renewing,  
+| and enforcing an individual license under this section. In adopting  
+| rules under this subsection, the finance commission shall ensure  
+| that:  
+|  (1) the minimum eligibility requirements for issuance  
+| of an individual license are the same as the requirements of Section  
+| 180.055;  
+|  (2) the minimum eligibility requirements for renewal  
+| of an individual license are the same as the requirements of Section  
+| 180.059; and  
+|  (3) the applicant pays:  
+|  (A) an investigation fee in a reasonable amount  
+| determined by the commissioner; and  
+|  (B) _a_ [ ~~an annual~~ ] license fee in an amount  
+| determined as provided by Section 14.107.  
+|  SECTION 31. Section 351.101(c), Finance Code, is amended to  
+| read as follows:  
+|  (c) On the filing of each license application, the applicant  
+| shall pay to the commissioner [ ~~for the license's year of issuance~~ ] a  
+| license fee in an amount determined as provided by Section 14.107.  
+|  SECTION 32. Section 351.102(c), Finance Code, is amended to  
+| read as follows:  
+|  (c) The bond must be conditioned on:  
+|  (1) the license holder's faithful performance under  
+| this chapter and rules adopted under this chapter; and  
+|  (2) the payment of all amounts that become due to the  
+| state or another person under this chapter during the _period_  
+| [ ~~calendar year~~ ] for which the bond is given.  
+|  SECTION 33. Subchapter C, Chapter 351, Finance Code, is  
+| amended by adding Section 351.106 to read as follows:  
+|  _Sec._ ___351.106._ _____LICENSE TERM. A license issued under this_  
+| _chapter is valid for the period prescribed by finance commission_  
+| _rule adopted under Section 14.112._  
+|  SECTION 34. Subchapter D, Chapter 351, Finance Code, is  
+| amended by adding Section 351.1535 to read as follows:  
+|  _Sec._ ___351.1535._ _____GROUNDS FOR REFUSAL TO RENEW. The_  
+| _commissioner may refuse to renew the license of a person who fails_  
+| _to comply with an order issued by the commissioner to enforce this_  
+| _chapter._  
+|  SECTION 35. Section 351.154, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 351.154. [ ~~ANNUAL~~ ] LICENSE FEE.  Not later than _the 30th_  
+| _day before the date the license expires_ [ ~~December 1~~ ], a license  
+| holder shall pay to the commissioner for each license held _a_ [ ~~an~~  
+|  ~~annual~~ ] fee [ ~~for the year beginning the next January 1,~~ ] in an  
+| amount determined as provided by Section 14.107.  
+|  SECTION 36. Section 351.155, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 351.155. EXPIRATION OF LICENSE ON FAILURE TO PAY  
+| [ ~~ANNUAL~~ ] FEE.  If the [ ~~annual~~ ] fee for a license is not paid
+before  
+| the 16th day after the date on which the written notice of  
+| delinquency of payment has been given to the license holder, the  
+| license expires on [ ~~the later of:~~  
+|  [ ~~(1)~~ ] that day[ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~December 31 of the last year for which an annual~~  
+|  ~~fee was paid~~ ].  
+|  SECTION 37. Section 351.156, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 351.156. LICENSE SUSPENSION OR REVOCATION. After  
+| notice and _opportunity for_ a hearing _,_ the commissioner may suspend  
+| or revoke a license if the commissioner finds that:  
+|  (1) the license holder failed to pay the [ ~~annual~~ ]  
+| license fee, an examination fee, an investigation fee, or another  
+| charge imposed by the commissioner under this chapter;  
+|  (2) the license holder, knowingly or without the  
+| exercise of due care, violated this chapter or Section 32.06 or  
+| 32.065, Tax Code, or a rule adopted or an order issued under this  
+| chapter or Section 32.06 or 32.065, Tax Code;  
+|  (3) a fact or condition exists that, if it had existed  
+| or had been known to exist at the time of the original application  
+| for the license, clearly would have justified the commissioner's  
+| denial of the application; or  
+|  (4) the license holder has failed to ensure that an  
+| individual acting as a residential mortgage loan originator, as  
+| defined by Section 180.002, in the making, transacting, or  
+| negotiating of a property tax loan for a principal dwelling is  
+| licensed under this chapter in accordance with Section 351.0515.  
+|  SECTION 38. Section 352.003, Finance Code, is amended by  
+| amending Subsections (a) and (c) and adding Subsections (a-1),  
+| (c-1), and (f) to read as follows:  
+|  (a) To register as a facilitator, a person must provide to  
+| the commissioner[ ~~, on or before December 31 preceding each calendar~~  
+|  ~~year in which the person seeks to act as a facilitator~~ ]:  
+|  (1) a list of each location in this state at which  
+| e-file providers authorized by the Internal Revenue Service file  
+| tax returns on behalf of borrowers for whom the facilitator acts to  
+| allow the making of a refund anticipation loan; and  
+|  (2) a processing fee for each location included on the  
+| list furnished under Subdivision (1).  
+|  _(a-1)_ _____A registration issued under this section is valid for_  
+| _the period prescribed by finance commission rule adopted under_  
+| _Section 14.112._  
+|  (c) _The finance commission by rule shall establish a_  
+| _deadline for the submission of the information and fee required by_  
+| _Subsection (a) for initial issuance and renewal of registrations_  
+| _under this section._  
+|  _(c-1)_ After the _applicable_ [ ~~December 31~~ ] deadline _for_  
+| _initial or renewal registrations_ , a facilitator may amend the  
+| registration required under Subsection (a) to reflect any change in  
+| the information provided by the registration.  
+|  _(f)_ _____The commissioner may refuse to renew the registration of_  
+| _a person who fails to comply with an order issued by the_  
+| _commissioner to enforce this chapter._  
+|  SECTION 39. Section 352.007, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 352.007. ADMINISTRATIVE PENALTY. The commissioner may  
+| assess an administrative penalty of $500 against a person for each  
+| [ ~~knowing and wilful~~ ] violation of this chapter.  
+|  SECTION 40. Section 353.502(b), Finance Code, is amended to  
+| read as follows:  
+|  (b) On the filing of a license application, the applicant  
+| shall pay to the commissioner:  
+|  (1) an investigation fee not to exceed $200; and  
+|  (2) [ ~~for the license's year of issuance,~~ ] a license fee  
+| in an amount determined as provided by Section 14.107.  
+|  SECTION 41. Subchapter F, Chapter 353, Finance Code, is  
+| amended by adding Section 353.5055 to read as follows:  
+|  _Sec._ ___353.5055._ _____LICENSE TERM. A license issued under this_  
+| _chapter is valid for the period prescribed by finance commission_  
+| _rule adopted under Section 14.112._  
+|  SECTION 42. Section 353.506, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 353.506. [ ~~ANNUAL~~ ] LICENSE FEE. Not later than _the 30th_  
+| _day before the date the license expires_ [ ~~December 1~~ ], a license  
+| holder shall pay to the commissioner for each license held _a_ [ ~~an~~  
+|  ~~annual~~ ] fee [ ~~for the year beginning the next January 1,~~ ] in an  
+| amount determined as provided by Section 14.107.  
+|  SECTION 43. Subchapter F, Chapter 353, Finance Code, is  
+| amended by adding Section 353.5065 to read as follows:  
+|  _Sec._ ___353.5065._ _____GROUNDS FOR REFUSAL OF RENEWAL. The_  
+| _commissioner may refuse to renew the license of a person who fails_  
+| _to comply with an order issued by the commissioner to enforce this_  
+| _chapter._  
+|  SECTION 44. Section 353.507, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 353.507. EXPIRATION OF LICENSE ON FAILURE TO PAY  
+| [ ~~ANNUAL~~ ] FEE. If the [ ~~annual~~ ] fee for a license is not paid
+before  
+| the 16th day after the date on which the written notice of  
+| delinquency of payment has been given to the license holder, the  
+| license expires on [ ~~the later of:~~  
+|  [ ~~(1)~~ ] that day[ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~December 31 of the last year for which an annual~~  
+|  ~~fee was paid~~ ].  
+|  SECTION 45. Section 353.508, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 353.508. LICENSE SUSPENSION OR REVOCATION. After  
+| notice and _opportunity for_ a hearing _,_ the commissioner may suspend  
+| or revoke a license if the commissioner finds that:  
+|  (1) the license holder failed to pay the [ ~~annual~~ ]  
+| license fee, an investigation fee, or another charge imposed by the  
+| commissioner;  
+|  (2) the license holder, knowingly or without the  
+| exercise of due care, violated this chapter or a rule adopted or  
+| order issued under this chapter; or  
+|  (3) a fact or condition exists that, if it had existed  
+| or had been known to exist at the time of the original application  
+| for the license, clearly would have justified the commissioner's  
+| denial of the application.  
+|  SECTION 46. Section 354.005(d), Finance Code, is amended to  
+| read as follows:  
+|  (d) The commissioner may deny approval of a form only if the  
+| form excludes the language required by Sections 354.003 and 354.004  
+| or contains any inconsistent or misleading provisions. All form  
+| denials _, after an opportunity for a hearing under Chapter 2001,_  
+| _Government Code,_ may be appealed to _a district court in accordance_  
+| _with that chapter_ [ ~~the finance commission~~ ].  
+|  SECTION 47. Section 371.002, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 371.002. PURPOSES. The purposes of this chapter are  
+| to:  
+|  (1) prevent fraud, unfair practices, discrimination,  
+| imposition, and abuse of state residents;  
+|  (2) exercise the state's police power to ensure a sound  
+| system of making pawn loans and transfers of personal property by  
+| and through pawnshops;  
+|  (3) prevent transactions in stolen property and other  
+| unlawful property transactions by licensing and regulating  
+| pawnbrokers [ ~~and pawnshop employees~~ ];  
+|  (4) provide for licensing and investigation fees;  
+|  (5) provide minimum capital requirements for  
+| pawnbrokers;  
+|  (6) ensure financial responsibility to the state and  
+| its residents and compliance with federal, state, and local law,  
+| including rules and ordinances; and  
+|  (7) assist local governments in the exercise of their  
+| police power.  
+|  SECTION 48. Section 371.052(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) To be eligible for a pawnshop license, an applicant  
+| must:  
+|  (1) [ ~~be of good moral character;~~  
+|  [ ~~(2)~~ ] meet the net assets requirement of Section  
+| 371.072; and  
+|  _(2)_ [ ~~(3)~~ ] show that:  
+|  (A) the pawnshop will be operated lawfully and  
+| fairly under this chapter; and  
+|  (B) the applicant or the applicant's owners and  
+| managers have the financial responsibility, experience, character,  
+| and general fitness to command the confidence of the public in the  
+| pawnshop's operations.  
+|  SECTION 49. Section 371.055, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 371.055. FEES; PROOF OF INSURANCE. An applicant must  
+| submit with the application:  
+|  (1) an investigation fee of:  
+|  (A) $500 if the applicant does not hold a  
+| license; or  
+|  (B) $250 if the application:  
+|  (i) is for an additional license for a  
+| separate location; or  
+|  (ii) involves substantially identical  
+| principals and owners of a licensed pawnshop at a separate  
+| location;  
+|  (2) _a_ [ ~~an annual~~ ] fee in an amount determined as  
+| provided by Section 14.107; and  
+|  (3) proof of general liability and fire insurance in a  
+| reasonable amount and form required by the commissioner.  
+|  SECTION 50. Section 371.062, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 371.062. DISPOSITION OF FEES ON DENIAL OF APPLICATION.  
+| If the commissioner denies the application, the commissioner shall  
+| retain the investigation fee and shall return to the applicant the  
+| [ ~~annual~~ ] license fee submitted with the application.  
+|  SECTION 51. Subchapter B, Chapter 371, Finance Code, is  
+| amended by adding Section 371.0625 to read as follows:  
+|  _Sec._ ___371.0625._ _____LICENSE TERM. A license issued under this_  
+| _chapter is valid for the period prescribed by finance commission_  
+| _rule adopted under Section 14.112._  
+|  SECTION 52. Section 371.064, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 371.064. [ ~~ANNUAL~~ ] LICENSE FEE; EXPIRATION. (a) Not  
+| later than _the 30th day before the date the license expires_  
+| [ ~~December 1~~ ], a pawnbroker shall pay to the commissioner for each  
+| license held _a_ [ ~~an annual~~ ] fee in an amount determined as provided  
+| by Section 14.107 [ ~~for the year beginning the next January 1~~ ].  
+|  (b) If the [ ~~annual~~ ] fee for a license is not paid before the  
+| 16th day after the date on which written notice of delinquency of  
+| payment has been given to the pawnbroker by the commissioner, the  
+| license expires on [ ~~the later of:~~  
+|  [ ~~(1)~~ ] that day[ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~December 31 of the last year for which an annual~~  
+|  ~~fee was paid~~ ].  
+|  SECTION 53. Subchapter B, Chapter 371, Finance Code, is  
+| amended by adding Section 371.0645 to read as follows:  
+|  _Sec._ ___371.0645._ _____GROUNDS FOR REFUSAL TO RENEW. The_  
+| _commissioner may refuse to renew the license of a person who fails_  
+| _to comply with an order issued by the commissioner to enforce this_  
+| _chapter._  
+|  SECTION 54. Subchapter B, Chapter 371, Finance Code, is  
+| amended by adding Section 371.074 to read as follows:  
+|  _Sec._ ___371.074._ _____PAWNBROKER RESPONSIBLE FOR EMPLOYEES AND_  
+| _AGENTS. A license holder under this subchapter is responsible for_  
+| _all acts of the license holder's officers, directors, employees,_  
+| _and agents acting on behalf of the pawnshop._  
+|  SECTION 55. Section 371.251(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) After notice and _opportunity for a_ hearing, the  
+| commissioner may revoke or suspend a pawnshop license if the  
+| commissioner finds that:  
+|  (1) the pawnbroker has not paid a fee or charge imposed  
+| by the commissioner under this chapter;  
+|  (2) the pawnbroker, knowingly or without exercising  
+| due care to prevent the violation, has violated this chapter or a  
+| rule adopted or an order issued under this chapter;  
+|  (3) a fact or condition exists that, if it had existed  
+| or had been known to exist at the time of the original license  
+| application, clearly would have justified refusal to issue the  
+| license;  
+|  (4) the pawnbroker has established an association with  
+| an unlicensed person who, with the knowledge of the pawnbroker, has  
+| violated this chapter;  
+|  (5) the pawnbroker has aided or conspired with a  
+| person to circumvent this chapter;  
+|  (6) the pawnbroker or a legal or beneficial owner of  
+| the pawnbroker [ ~~is not of good moral character or~~ ] has been  
+| convicted of a crime that the commissioner finds directly relates  
+| to the duties and responsibilities of the occupation of pawnbroker  
+| or would otherwise make the person unfit for a pawnshop license  
+| under Section 371.052;  
+|  (7) the financial responsibility, experience,  
+| character, or general fitness of the pawnbroker or its owners and  
+| managers do not command the confidence of the public or warrant the  
+| belief that the business will be operated lawfully, fairly, and  
+| within the purposes of this chapter; or  
+|  (8) the pawnbroker has not maintained the minimum net  
+| assets required by Section 371.072.  
+|  SECTION 56. Section 371.257(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) The holder of a pawnshop license [ ~~or a pawnshop employee~~  
+|  ~~license~~ ] may surrender the license by delivering it to the  
+| commissioner with written notice of surrender.  
+|  SECTION 57. Section 371.258, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 371.258. REINSTATEMENT OF LICENSE. (a) This section  
+| applies to a pawnshop license [ ~~or a pawnshop employee license~~ ].  
+|  (b) The commissioner may reinstate a suspended pawnshop  
+| license [ ~~or pawnshop employee license~~ ] or issue a new license to the  
+| person whose license or licenses have been revoked if no fact or  
+| condition exists that clearly would have justified refusal to issue  
+| the license originally.  
+|  (c) The commissioner shall reinstate an expired pawnbroker  
+| license if, not later than the 180th day after the date on which the  
+| license expired, the pawnbroker pays the commissioner the  
+| delinquent $125 [ ~~annual~~ ] fee plus a reinstatement fee of $1,000.  
+| After a pawnbroker's license has expired, the commissioner shall  
+| promptly send notice of reinstatement rights to the delinquent  
+| pawnbroker by certified mail.  
+|  SECTION 58. Section 371.259, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 371.259. CERTIFICATE OF STANDING; COPIES. The  
+| commissioner, under the commissioner's seal and signature, shall  
+| provide a certificate of good standing or a certified copy of a  
+| pawnshop license [ ~~or a pawnshop employee license~~ ] to a person who  
+| applies and pays for the certificate or copy.  
+|  SECTION 59. Section 393.224, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 393.224. ADMINISTRATIVE PENALTY. The consumer credit  
+| commissioner, in accordance with rules adopted by the Finance  
+| Commission of Texas, may assess an administrative penalty against a  
+| credit access business that [ ~~knowingly and wilfully~~ ] violates this  
+| subchapter or a rule adopted under this subchapter in the manner  
+| provided by Subchapter F, Chapter 14.  
+|  SECTION 60. Section 393.604(c), Finance Code, is amended to  
+| read as follows:  
+|  (c) On the filing of each license application, the applicant  
+| shall pay to the commissioner [ ~~for the license's year of issuance~~ ] a  
+| license fee in an amount determined as provided by Section 14.107.  
+|  SECTION 61. Section 393.605(c), Finance Code, is amended to  
+| read as follows:  
+|  (c) The bond must be conditioned on:  
+|  (1) the license holder's faithful performance under  
+| this subchapter and rules adopted under this subchapter; and  
+|  (2) the payment of all amounts that become due to this  
+| state or another person under this subchapter during the _period_  
+| [ ~~calendar year~~ ] for which the bond is given.  
+|  SECTION 62. Subchapter G, Chapter 393, Finance Code, is  
+| amended by adding Sections 393.6085 and 393.6115 to read as  
+| follows:  
+|  _Sec._ ___393.6085._ _____LICENSE TERM. A license issued under this_  
+| _chapter is valid for the period prescribed by finance commission_  
+| _rule adopted under Section 14.112._  
+|  _Sec._ ___393.6115._ _____GROUNDS FOR REFUSAL TO RENEW. The_  
+| _commissioner may refuse to renew the license of a credit access_  
+| _business who fails to comply with an order issued by the_  
+| _commissioner to enforce this chapter._  
+|  SECTION 63. Section 393.612, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 393.612. [ ~~ANNUAL~~ ] LICENSE FEE. Not later than _the 30th_  
+| _day before the date the license expires_ [ ~~December 1~~ ], a license  
+| holder shall pay to the commissioner for each license held _a_ [ ~~an~~  
+|  ~~annual~~ ] fee [ ~~for the year beginning the next January 1,~~ ] in an  
+| amount determined as provided by Section 14.107.  
+|  SECTION 64. Section 393.613, Finance Code, is amended to  
+| read as follows:  
+|  Sec. 393.613. EXPIRATION OF LICENSE ON FAILURE TO PAY  
+| [ ~~ANNUAL~~ ] FEE. If the [ ~~annual~~ ] fee for a license is not paid
+before  
+| the 16th day after the date on which the written notice of  
+| delinquency of payment has been given to the license holder, the  
+| license expires on [ ~~the later of:~~  
+|  [ ~~(1)~~ ] that day[ ~~; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~December 31 of the last year for which an annual~~  
+|  ~~fee was paid~~ ].  
+|  SECTION 65. Section 393.614(a), Finance Code, is amended to  
+| read as follows:  
+|  (a) After notice and _opportunity for_ a hearing _,_ the  
+| commissioner may suspend or revoke a license if the commissioner  
+| finds that:  
+|  (1) the license holder failed to pay the [ ~~annual~~ ]  
+| license fee, an examination fee, an investigation fee, or another  
+| charge imposed by the commissioner under this subchapter;  
+|  (2) the license holder, knowingly or without the  
+| exercise of due care, violated this chapter or a rule adopted or  
+| order issued under this chapter; or  
+|  (3) a fact or condition exists that, if it had existed  
+| or had been known to exist at the time of the original application  
+| for the license, clearly would have justified the commissioner's  
+| denial of the application.  
+|  SECTION 66. Section 394.204, Finance Code, is amended by  
+| amending Subsections (b), (f), (g), and (k) and adding Subsection  
+| (j-1) to read as follows:  
+|  (b) _A registration issued under this section is valid for_  
+| _the period prescribed by finance commission rule adopted under_  
+| _Section 14.112_ [ ~~Registration expires on December 31 of the year in~~  
+|  ~~which the registration occurs and must be renewed annually~~ ].  
+|  (f) _Subject to Subsection (j-1), a_ [ ~~A~~ ] person may renew a  
+| registration by paying the appropriate fee and completing all  
+| required documents.  
+|  (g) _Subject to Section 14.112, the_ [ ~~The~~ ] finance commission  
+| by rule may establish procedures to facilitate the registration and  
+| collection of fees under this section[ ~~, including rules staggering~~  
+|  ~~throughout the year the dates on which fees are due~~ ].  
+|  _(j-1)_ _____The commissioner may refuse to renew the registration_  
+| _of a person who fails to comply with an order issued by the_  
+| _commissioner to enforce this chapter._  
+|  (k) In addition to the power to refuse an initial  
+| application as specified in this section, the commissioner may  
+| suspend or revoke a provider's registration after notice and  
+| _opportunity for a_ hearing if the commissioner finds that any of the  
+| following conditions are met:  
+|  (1) a fact or condition exists that _,_ if it had existed  
+| when the provider applied for registration _,_ would have been grounds  
+| for denying registration;  
+|  (2) a fact or condition exists that the commissioner  
+| was not aware of when the provider applied for registration and  
+| would have been grounds for denying registration;  
+|  (3) the provider violates this subchapter or rule or  
+| order of the commissioner under this subchapter;  
+|  (4) the provider is insolvent;  
+|  (5) the provider refuses to permit the commissioner to  
+| make an examination authorized by this subchapter;  
+|  (6) the provider fails to respond within a reasonable  
+| time and in an appropriate manner to communications from the  
+| commissioner;  
+|  (7) the provider has received money from or on behalf  
+| of a consumer for disbursement to a creditor under a debt management  
+| plan that provides for regular periodic payments to creditors in  
+| full repayment of the principal amount of the debts and the provider  
+| has failed to disburse money to the creditor on behalf of the  
+| consumer within a reasonable time, normally 30 days;  
+|  (8) the commissioner determines that the provider's  
+| trust account is not materially in balance with and reconciled to  
+| the consumer's account; or  
+|  (9) the provider fails to warrant the belief that the  
+| business will be operated lawfully and fairly and within the  
+| provisions and purposes of this subchapter.  
+|  SECTION 67. Section 394.205(b), Finance Code, is amended to  
+| read as follows:  
+|  (b) Each provider shall file a report with the commissioner  
+| at each renewal of the provider's registration.  The report must at  
+| a minimum disclose in detail and under appropriate headings:  
+|  (1) the assets and liabilities of the provider at the  
+| beginning and end of the period, if the provider is a nonprofit or  
+| tax exempt organization;  
+|  (2) the total number of debt management plans the  
+| provider has initiated on behalf of consumers in this state during  
+| that _period_ [ ~~year~~ ]; and  
+|  (3) records of total and average fees charged to  
+| consumers, including all voluntary contributions received from  
+| consumers.  
+|  SECTION 68. Section 394.214(e), Finance Code, is amended to  
+| read as follows:  
+|  (e) The commissioner may enforce this subchapter and rules  
+| adopted under this subchapter by:  
+|  (1) ordering the violator to cease and desist from the  
+| violation and any similar violations;  
+|  (2) ordering the violator to take affirmative action  
+| to correct the violation, including the restitution of money or  
+| property to a person aggrieved by the violation;  
+|  (3) imposing an administrative penalty not to exceed  
+| $1,000 for each violation as provided by Subchapter F, Chapter 14;  
+| or  
+|  (4) rejecting an initial application _, refusing to_  
+| _renew a registration,_ or revoking or suspending a registration as  
+| provided by Section 394.204.  
+|  SECTION 69. Section 1956.0612, Occupations Code, is amended  
+| by amending Subsections (b) and (d) and adding Subsections (b-1),  
+| (d-1), and (h) to read as follows:  
+|  (b) To register as a dealer, a person must provide to the  
+| commissioner[ ~~, on or before December 31 preceding each calendar~~  
+|  ~~year in which the person seeks to act as a dealer~~ ]:  
+|  (1) a list of each location in this state at which the  
+| person will conduct business as a dealer; and  
+|  (2) a processing fee for each location included on the  
+| list furnished under Subdivision (1).  
+|  _(b-1)_ _____A registration issued under this section is valid for_  
+| _the period prescribed by commission rule adopted under Section_  
+| _14.112, Finance Code._  
+|  (d) _The commission by rule shall establish a deadline for_  
+| _the submission of the information and fee required by Subsection_  
+| _(b) for initial issuance and renewal of registrations under this_  
+| _section._  
+|  _(d-1)_ After the _applicable_ [ ~~December 31~~ ] deadline _for_  
+| _initial or renewal registrations_ , a dealer may amend the  
+| registration required under Subsection (a) to reflect any change in  
+| the information provided by the registration.  
+|  _(h)_ _____The commissioner may refuse to renew the registration of_  
+| _a person who fails to comply with an order issued by the_  
+| _commissioner to enforce this chapter._  
+|  SECTION 70. Section 1956.0614(a), Occupations Code, is  
+| amended to read as follows:  
+|  (a) The commissioner may revoke the registration of a dealer  
+| if the commissioner concludes that the dealer has violated this  
+| chapter _or an order issued by the commissioner to enforce this_  
+| _chapter_.  The commissioner shall recite the basis of the decision in  
+| an order revoking the registration.  
+|  SECTION 71. Section 1956.0615, Occupations Code, is amended  
+| to read as follows:  
+|  Sec. 1956.0615. ADMINISTRATIVE PENALTY. The commissioner  
+| may assess an administrative penalty not to exceed $500 against a  
+| person for each [ ~~knowing and wilful~~ ] violation of this chapter.  
+|  SECTION 72. The following provisions of the Finance Code  
+| are repealed:  
+|  (1) Section 14.208(d);  
+|  (2) Section 351.0023(g);  
+|  (3) Section 371.052(b);  
+|  (4) Subchapter C, Chapter 371;  
+|  (5) Sections 371.255 and 371.256; and  
+|  (6) Sections 371.304(b), (c), and (d).  
+|  SECTION 73. Section 14.112, Finance Code, as added by this  
+| Act, applies only to a license or registration issued or renewed on  
+| or after September 1, 2019. A license or registration issued or  
+| renewed before that date is governed by the law in effect  
+| immediately before the effective date of this Act, and the former  
+| law is continued in effect for that purpose.  
+|  SECTION 74. (a) On the effective date of this Act, a  
+| license issued under former Section 371.104, Finance Code, expires.  
+|  (b) The repeal of a law by this Act does not entitle a person  
+| to a refund of an application, licensing, or other fee paid by the  
+| person before the effective date of this Act.  
+|  SECTION 75. The changes in law made by this Act do not  
+| affect the validity of a disciplinary action or other proceeding  
+| that was initiated before the effective date of this Act and that is  
+| pending before a court or other governmental entity on that date.  
+|  SECTION 76. (a) A violation of a law that is repealed by  
+| this Act is governed by the law in effect on the date the violation  
+| was committed, and the former law is continued in effect for that  
+| purpose.  
+|  (b) For purposes of this section, a violation was committed  
+| before the effective date of this Act if any element of the  
+| violation occurred before that date.  
+|  SECTION 77. This Act takes effect September 1, 2019.
+

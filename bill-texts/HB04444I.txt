@@ -1,0 +1,53 @@
+|  
+---|---  
+|  By: Martinez Fischer | H.B. No. 4444  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to consumer protections against surprise billing.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter E, Chapter 17, Business & Commerce  
+| Code, is amended by adding Section 17.464 to read as follows:  
+|  _Sec. 17.464. SURPRISE BILLING. (a) In this section:_  
+|  _(1)_ _____"Emergency care" has the meaning assigned by_  
+| _Section 1301.155._  
+|  _(2)_ _____"Emergency care provider" means a physician,_  
+| _health care practitioner, facility, or other health care provider_  
+| _who provides emergency care._  
+|  _(3)_ _____"Facility" has the meaning assigned by Section_  
+| _324.001, Health and Safety Code._  
+|  _(4)_ _____"Facility-based provider" means a physician or_  
+| _health care provider who provides health care services to patients_  
+| _of a health care facility._  
+|  _(5)_ _____"Health care practitioner" means an individual who_  
+| _is licensed to provide health care services._  
+|  _(6)_ _____"Participating provider" means a physician or_  
+| _health care provider who has contracted with an eligible plan_  
+| _administrator to provide services to enrollees._  
+|  _(7)_ _____"Surprise bill" means a bill received by an_  
+| _insured or enrollee for amounts in addition to the applicable_  
+| _copayment, coinsurance, and deductible:_  
+|  _(A)_ _____for services furnished by an out-of-network_  
+| _facility-based provider who performed the service at a facility_  
+| _that is an in-network provider; or_  
+|  _(B)_ _____for emergency care services furnished by an_  
+| _out-of-network provider._  
+|  _(b)_ _____For purposes of Section 17.46(a), the term "false,_  
+| _misleading, or deceptive acts or practices" includes a_  
+| _facility-based provider that bills an enrollee receiving health_  
+| _care services described by Subsection (a)(7), except for the_  
+| _enrollee's responsibility under the enrollee's health plan,_  
+| _including an applicable copayment, coinsurance, or deductible._  
+|  _(c)_ _____The consumer protection division may not bring an action_  
+| _under Section 17.47 for an act or practice described by Subsection_  
+| _(b) if the bill sent to the enrollee is less than five hundred_  
+| _dollars._  
+|  _(d)_ _____In an action brought under Section 17.47 to enforce this_  
+| _section, the consumer protection division may request, and the_  
+| _trier of fact may award the recovery of:_  
+|  _(1) reasonable attorney's fees and court costs; and_  
+|  _(2)_ _____the reasonable expenses incurred by the division_  
+| _in obtaining any remedy available under Section 17.47, including_  
+| _the cost of investigation, witness fees, and deposition expenses._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

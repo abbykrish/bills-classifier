@@ -1,0 +1,24 @@
+| 86R1585 JG-D  
+---|---  
+|  By: Blanco | H.B. No. 350  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the composition of the cybersecurity council.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2054.512(b), Government Code, is amended  
+| to read as follows:  
+|  (b) The cybersecurity council must include:  
+|  (1) one member who is an employee of the office of the  
+| governor;  
+|  (2) one member of the senate appointed by the  
+| lieutenant governor;  
+|  (3) one member of the house of representatives  
+| appointed by the speaker of the house of representatives; [ ~~and~~ ]  
+|  (4) _one member who is an employee of the Elections_  
+| _Division of the Office of the Secretary of State; and_  
+|  _(5)_ additional members appointed by the state  
+| cybersecurity coordinator, including representatives of  
+| institutions of higher education and private sector leaders.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

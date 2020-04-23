@@ -1,0 +1,28 @@
+| 86R13190 BEF-D  
+---|---  
+|  By: Deshotel | H.B. No. 3175  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the confidentiality of certain personal information of  
+| an applicant for disaster recovery funds.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 552, Government Code, is  
+| amended by adding Section 552.160 to read as follows:  
+|  _Sec._ ___552.160._ _____CONFIDENTIALITY OF PERSONAL INFORMATION OF_  
+| _APPLICANT FOR DISASTER RECOVERY FUNDS. (a) In this section,_  
+| _"disaster" has the meaning assigned by Section 418.004._  
+|  _(b)_ _____Except as provided by Subsection (c), the following_  
+| _information maintained by a governmental body is confidential:_  
+|  _(1)_ _____the name, social security number, house number,_  
+| _street name, and telephone number of an individual or household_  
+| _that applies for state or federal disaster recovery funds; and_  
+|  _(2)_ _____any other information the disclosure of which_  
+| _would identify or tend to identify an individual or household that_  
+| _applies for state or federal disaster recovery funds._  
+|  _(c)_ _____The street name of and the amount of disaster recovery_  
+| _funds awarded to an individual or household are not confidential_  
+| _after the date on which disaster recovery funds are awarded to the_  
+| _individual or household._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

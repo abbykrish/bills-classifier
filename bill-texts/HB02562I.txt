@@ -1,0 +1,84 @@
+| 86R4743 ATP-F  
+---|---  
+|  By: Israel | H.B. No. 2562  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to procedures relating to the acceptance or rejection of a  
+| ballot voted by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 87, Election Code, is  
+| amended by adding Section 87.0271 to read as follows:  
+|  _Sec._ ___87.0271._ _____OPPORTUNITY TO CORRECT DEFECT: SIGNATURE_  
+| _VERIFICATION COMMITTEE. (a) This section applies to an early_  
+| _voting ballot voted by mail:_  
+|  _(1)_ _____for which the voter did not sign the carrier_  
+| _envelope certificate; or_  
+|  _(2)_ _____for which it cannot be determined whether the_  
+| _signature on the carrier envelope certificate is that of the voter._  
+|  _(b)_ _____Before deciding whether to accept or reject a timely_  
+| _delivered ballot under Section 87.027, the signature verification_  
+| _committee shall:_  
+|  _(1)_ _____return the carrier envelope to the voter by mail,_  
+| _if the voter did not sign the carrier envelope certificate and the_  
+| _signature verification committee determines that it would be_  
+| _possible to sign and return the carrier envelope before the fifth_  
+| _day after election day; or_  
+|  _(2)_ _____notify the voter of the defect by telephone or_  
+| _e-mail and inform the voter that the voter may come to the early_  
+| _voting clerk's office in person before the fifth day after election_  
+| _day to:_  
+|  _(A) sign the carrier envelope certificate; or_  
+|  _(B)_ _____affirm that the ballot was submitted by the_  
+| _voter._  
+|  _(c)_ _____A voter may not correct a defect under this section_  
+| _later than the fifth day after election day._  
+|  _(d)_ _____A poll watcher is entitled to observe an action taken_  
+| _under Subsection (b)._  
+|  _(e)_ _____The secretary of state may prescribe any procedures_  
+| _necessary to implement this section._  
+|  SECTION 2. Subchapter C, Chapter 87, Election Code, is  
+| amended by adding Section 87.0411 to read as follows:  
+|  _Sec._ ___87.0411._ _____OPPORTUNITY TO CORRECT DEFECT: EARLY VOTING_  
+| _BALLOT BOARD. (a) This section applies to an early voting ballot_  
+| _voted by mail:_  
+|  _(1)_ _____for which the voter did not sign the carrier_  
+| _envelope certificate; or_  
+|  _(2)_ _____for which it cannot be determined whether the_  
+| _signature on the carrier envelope certificate is that of the voter._  
+|  _(b)_ _____Before deciding whether to accept or reject a timely_  
+| _delivered ballot under Section 87.041, the early voting ballot_  
+| _board shall:_  
+|  _(1)_ _____return the carrier envelope to the voter by mail,_  
+| _if the voter did not sign the carrier envelope certificate and the_  
+| _early voting ballot board determines that it would be possible to_  
+| _sign and return the carrier envelope before the fifth day after_  
+| _election day; or_  
+|  _(2)_ _____notify the voter of the defect by telephone or_  
+| _e-mail and inform the voter that the voter may come to the early_  
+| _voting clerk's office in person before the fifth day after election_  
+| _day to:_  
+|  _(A) sign the carrier envelope certificate; or_  
+|  _(B)_ _____affirm that the ballot was submitted by the_  
+| _voter._  
+|  _(c)_ _____A voter may not correct a defect under this section_  
+| _later than the fifth day after election day._  
+|  _(d)_ _____A poll watcher is entitled to observe an action taken_  
+| _under Subsection (b)._  
+|  _(e)_ _____The secretary of state may prescribe any procedures_  
+| _necessary to implement this section._  
+|  SECTION 3. Subchapter C, Chapter 87, Election Code, is  
+| amended by adding Section 87.045 to read as follows:  
+|  _Sec._ ___87.045._ _____REJECTED BALLOT INFORMATION LIST. (a) The_  
+| _early voting ballot board for each election shall create a list of_  
+| _the voters whose ballots have been rejected. The list must include:_  
+|  _(1) the voter's name;_  
+|  _(2)_ _____the voter's address, unless the voter's residence_  
+| _address is confidential under Section 13.004(c);_  
+|  _(3)_ _____the voter's unique identifier assigned under_  
+| _Section 18.061; and_  
+|  _(4) the reason the voter's ballot was rejected._  
+|  _(b)_ _____The list created under Subsection (a) is a public record_  
+| _and shall be made available for public inspection._  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

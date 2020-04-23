@@ -1,0 +1,126 @@
+| 86R3475 JES-F  
+---|---  
+|  By: Thompson of Harris | H.B. No. 1251  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to financially impaired fraternal benefit societies.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 885.311, Insurance Code, is amended by  
+| amending Subsection (a) and adding Subsections (d) and (e) to read  
+| as follows:  
+|  (a) A fraternal benefit society shall provide in the  
+| fraternal benefit society's laws that if the society's reserves for  
+| any class of the society's benefit certificates become impaired,  
+| the society's supreme governing body or board of directors may  
+| require the certificate holders to pay the society an equitable  
+| proportion of the deficiency as determined by the governing body or  
+| board.  _The aggregate assessment for the impaired reserves may not_  
+| _exceed the total amount required to comply with Section 885.408._  
+|  _(d)_ _____Not later than the 90th day before the proposed_  
+| _effective date of an assessment under Subsection (a), the fraternal_  
+| _benefit society shall file with the department an application for_  
+| _approval of the assessment and a statement sworn to by the president_  
+| _and secretary or corresponding officers of the society._ ___The_  
+| _statement must:_  
+|  _(1) include:_  
+|  _(A)_ _____the terms of the assessment, including the_  
+| _proposed effective date; and_  
+|  _(B)_ _____the financial condition of the fraternal_  
+| _benefit society; and_  
+|  _(2) state that the assessment:_  
+|  _(A)_ _____received approval by a majority vote of the_  
+| _supreme governing body or board of directors of the society; and_  
+|  _(B)_ _____complies with the requirements of this_  
+| _section._  
+|  _(e)_ _____The commissioner shall approve or disapprove an_  
+| _application under this section not later than the 60th day after the_  
+| _date the department receives the application. If the commissioner_  
+| _does not approve or disapprove the application before the_  
+| _expiration of the 60-day period, the application is considered_  
+| _approved. The commissioner may impose an effective date earlier_  
+| _than the date requested in the application if the earlier effective_  
+| _date is in the best interests of the certificate holders._  
+|  SECTION 2. Section 885.407, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 885.407. SOLVENCY.  _(a)_ ___If a fraternal benefit society_  
+| _reports a ratio of total adjusted capital to authorized control_  
+| _level risk-based capital that triggers an authorized control level_  
+| _as determined by the commissioner in accordance with 28 T.A.C._  
+| _Section 7.402 and the commissioner reasonably believes the impaired_  
+| _society's financial condition will not be promptly remedied without_  
+| _intervention by the department, the commissioner may order the_  
+| _impaired society to promptly seek and negotiate an agreement to_  
+| _transfer in accordance with this section all benefit members,_  
+| _benefit certificates, assets, and liabilities of the impaired_  
+| _society to another fraternal benefit society. A transfer under this_  
+| _section:_  
+|  _(1)_ _____may be by merger, consolidation, assumption, or_  
+| _otherwise;_  
+|  _(2)_ _____constitutes an entire novation of each benefit_  
+| _certificate transferred by the impaired society, and the receiving_  
+| _society is legally and contractually responsible for each_  
+| _transferred certificate;_  
+|  _(3)_ _____must conclude before the deadline set by the_  
+| _commissioner;_  
+|  _(4)_ _____may be approved by a vote of the majority of the_  
+| _supreme governing body or board of directors of the impaired_  
+| _society, notwithstanding Section 885.063 or any provision of the_  
+| _impaired society's laws to the contrary; and_  
+|  _(5) is subject to approval by the commissioner._  
+|  _(b)_ _____Not later than the 30th day after the date the_  
+| _commissioner approves a transfer under Subsection (a), the impaired_  
+| _society transferring the certificates shall notify the certificate_  
+| _holders of the transfer._  
+|  _(c)_ _____The supreme governing body or board of directors of a_  
+| _fraternal benefit society receiving benefit certificates pursuant_  
+| _to a transfer under an agreement described by Subsection (a) may_  
+| _suspend or modify qualifications for membership in the receiving_  
+| _society to the extent necessary to permit the society to accept the_  
+| _certificate holders of the impaired society under the agreement,_  
+| _notwithstanding any provision of the receiving society's laws to_  
+| _the contrary._  
+|  _(d)_ _____The commissioner may grant to a fraternal benefit_  
+| _society that is not authorized to engage in the business of_  
+| _insurance in this state the authority to service benefit_  
+| _certificates transferred pursuant to Subsection (a) and fulfill all_  
+| _obligations to the holders of the certificates._ ___Commissioner_  
+| _action under this subsection does not authorize the fraternal_  
+| _benefit society to otherwise engage in the business of insurance in_  
+| _this state._  
+|  _(e)_ _____A transfer under Subsection (a) may be made to an_  
+| _insurer that is not a fraternal benefit society if the insurer is_  
+| _authorized to engage in the business of insurance in this state._ ___A_  
+| _holder of a certificate subject to a transfer as authorized by this_  
+| _subsection is deemed to agree that any term in the certificate,_  
+| _including a term that makes the certificate subject to the_  
+| _transferring society's laws or that provides for maintenance of the_  
+| _transferring society's solvency that is inconsistent with transfer_  
+| _to an insurer that is not a fraternal benefit society, is void on_  
+| _transfer of the certificate._ ___The receiving insurer shall endorse_  
+| _each benefit certificate received by a transfer made under this_  
+| _section to reflect any terms of the certificate voided by this_  
+| _subsection._ ___A certificate holder's obligation to pay an_  
+| _outstanding assessment under Section 885.311 that is not released_  
+| _under the transfer agreement is not released or voided by this_  
+| _subsection._  
+|  _(f)_ _____The commissioner may request the attorney general bring_  
+| _an action under Section 885.502 to terminate a fraternal benefit_  
+| _society that fails to comply with an order under this section or_  
+| _fails to remedy the financial condition that gave rise to the order._  
+|  _(g)_ _____The powers and authority of the commissioner under this_  
+| _section are cumulative and in addition to all other powers and_  
+| _authority to remediate the financial condition of a fraternal_  
+| _benefit society available to the commissioner, including the powers_  
+| _and authority under 28 T.A.C. Section 7.402._ [ ~~A fraternal benefit~~  
+|  ~~society is considered solvent if its admissible assets are equal to~~  
+|  ~~or greater than its liabilities.~~ ]  
+|  SECTION 3. The changes in law made by this Act to Section  
+| 885.311, Insurance Code, apply only to an assessment by a fraternal  
+| benefit society with an effective date on or after January 1, 2020.  
+| An assessment by a fraternal benefit society with an effective date  
+| before January 1, 2020, is governed by the law as it existed  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,69 @@
+| 86R14182 MP-F  
+---|---  
+|  By: Walle | H.B. No. 4314  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the adoption of noise regulations by certain counties;  
+| creating a criminal offense; authorizing fees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 240, Local Government Code, is amended  
+| by adding Subchapter D to read as follows:  
+| _SUBCHAPTER D. REGULATION OF NOISE AND SOUND LEVELS IN CERTAIN_  
+| _COUNTIES_  
+|  _Sec._ ___240.061._ _____APPLICABILITY OF SUBCHAPTER._ ___This subchapter_  
+| _applies only to a county with a population of more than 3.3 million._  
+|  _Sec._ ___240.062._ _____AUTHORITY TO REGULATE. (a) The_  
+| _commissioners court of a county by order shall prohibit the_  
+| _production of sound from a loudspeaker or sound amplifier the level_  
+| _of which exceeds 85 decibels at a distance of 50 feet from the_  
+| _property line of the property on which the loudspeaker or sound_  
+| _amplifier is operated._  
+|  _(b)_ _____A regulation adopted under this subchapter applies only_  
+| _to the unincorporated area of the county._  
+|  _Sec._ ___240.063._ _____EXEMPTIONS. A sound is exempt from_  
+| _regulation under this subchapter if it is a sound produced by the_  
+| _operations or facilities of:_  
+|  _(1) a chemical manufacturing facility;_  
+|  _(2)_ _____an electric utility as defined by Section 31.002,_  
+| _Utilities Code; or_  
+|  _(3)_ _____a gas utility as defined by Section 101.003 or_  
+| _121.001, Utilities Code._  
+|  _Sec._ ___240.064._ _____PERMIT FOR CERTAIN EVENTS; PERMIT FEES. (a)_  
+| _The commissioners court of a county by order may authorize the_  
+| _holding of events at which loudspeakers or sound amplifiers that_  
+| _produce sounds exceeding the levels specified by Section 240.062_  
+| _will be used, if the person holding an event obtains a permit from_  
+| _the county for the event._  
+|  _(b)_ _____In determining whether to grant a permit under this_  
+| _section, the commissioners court shall consider whether the sound_  
+| _is recurrent, intermittent, or constant._  
+|  _(c)_ _____A person must apply for the permit in accordance with_  
+| _regulations adopted by the county._  
+|  _(d)_ _____The regulations adopted under this section may provide_  
+| _for the denial, suspension, or revocation of a permit by the county._  
+|  _(e)_ _____A district court has jurisdiction of a suit that arises_  
+| _from the denial, suspension, or revocation of a permit by the_  
+| _county._  
+|  _(f)_ _____A county may impose fees on an applicant for a permit_  
+| _under this section. The fees must be based on the administrative_  
+| _costs of issuing the permit. A county that imposes a permit fee_  
+| _shall establish procedures to reduce the fee amount if the_  
+| _applicant is unable to pay the full permit fee._  
+|  _Sec._ ___240.065._ _____METHOD OF SOUND MEASUREMENT._ ___The_  
+| _commissioners court of a county by rule shall adopt a procedure to_  
+| _measure noise and sound levels under this subchapter._  
+|  _Sec._ ___240.066._ _____INJUNCTION. A county may sue in a district_  
+| _court for an injunction to prohibit the violation or threatened_  
+| _violation of a prohibition or other regulation adopted under this_  
+| _subchapter._  
+|  _Sec._ ___240.067._ _____CRIMINAL PENALTY. (a) A person commits an_  
+| _offense if the person violates a prohibition or other regulation_  
+| _adopted under this subchapter._  
+|  _(b) An offense under this section is a Class C misdemeanor._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

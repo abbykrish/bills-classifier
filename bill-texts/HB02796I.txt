@@ -1,0 +1,43 @@
+| 86R3540 SMT-F  
+---|---  
+|  By: Morrison | H.B. No. 2796  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of certain data collected by the Texas Workforce  
+| Commission to determine general prevailing wage rates for certain  
+| public work contracts.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2258.022(a), Government Code, is amended  
+| to read as follows:  
+|  (a) For a contract for a public work awarded by a political  
+| subdivision of the state, the public body shall determine the  
+| general prevailing rate of per diem wages in the locality in which  
+| the public work is to be performed for each craft or type of worker  
+| needed to execute the contract and the prevailing rate for legal  
+| holiday and overtime work by:  
+|  (1) conducting a survey of the wages received by  
+| classes of workers employed on projects of a character similar to  
+| the contract work in the political subdivision of the state in which  
+| the public work is to be performed; [ ~~or~~ ]  
+|  (2) using the prevailing wage rate as determined by  
+| the United States Department of Labor in accordance with the  
+| Davis-Bacon Act (40 U.S.C. Section _3141_ [ ~~276a~~ ] et seq.), and its  
+| subsequent amendments _; or_  
+|  _(3)_ _____using data compiled by the Texas Workforce_  
+| _Commission's Labor Market and Career Information Department,_  
+| _including occupational employment statistics wage data for:_  
+|  _(A)_ _____the local workforce development area or_  
+| _metropolitan statistical area relating to the locality in which the_  
+| _public work is performed; or_  
+|  _(B)_ _____the state, but only if there is no data_  
+| _available for the relevant local workforce development area or the_  
+| _metropolitan statistical area for the specific occupation, as_  
+| _classified by the United States Bureau of Labor Statistics in the_  
+| _2018 Standard Occupational Classification system, for which data is_  
+| _sought_.  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a public work contract entered into or renewed on or after the  
+| effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

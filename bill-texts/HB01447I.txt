@@ -1,0 +1,36 @@
+| 86R4745 ADM-D  
+---|---  
+|  By: Israel | H.B. No. 1447  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to election information provided to voters through a  
+| mobile application for wireless communication devices.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 31, Election Code, is  
+| amended by adding Section 31.014 to read as follows:  
+|  _Sec._ ___31.014._ _____ELECTION INFORMATION MOBILE APPLICATION. (a)_  
+| _The secretary of state, in conjunction with the Department of_  
+| _Information Resources, shall develop a mobile application for_  
+| _wireless communication devices and make the application available_  
+| _to the public._  
+|  _(b)_ _____The application must allow a person to access_  
+| _information relevant to a voter in this state, including:_  
+|  _(1)_ _____a secure digital copy of the voter's registration_  
+| _card, subject to the restrictions imposed by Section 18.066(b);_  
+|  _(2)_ _____information on the scheduled dates for early_  
+| _voting and election day, including the delivery of notifications_  
+| _reminding the voter of those dates;_  
+|  _(3) sample ballots;_  
+|  _(4)_ _____information on how to vote and the identification_  
+| _required to vote under Section 63.001(b);_  
+|  _(5)_ _____a map or list by county of polling place locations_  
+| _and hours for voting;_  
+|  _(6) current and historical election results; and_  
+|  _(7)_ _____other information relevant to a voter in this_  
+| _state, as determined by the secretary of state._  
+|  _(c)_ _____The secretary of state shall coordinate with election_  
+| _officers in each county of this state to ensure that information_  
+| _provided through the application is accurate and up to date._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

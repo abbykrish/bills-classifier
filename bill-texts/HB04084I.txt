@@ -1,0 +1,73 @@
+| 86R10821 JCG-F  
+---|---  
+|  By: Walle | H.B. No. 4084  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the operation of unmanned aircraft over certain  
+| facilities; creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 423, Government Code, is amended by  
+| adding Section 423.0047 to read as follows:  
+|  _Sec._ ___423.0047._ _____OFFENSE: OPERATION OF UNMANNED AIRCRAFT OVER_  
+| _OR NEAR SCHOOL. (a) In this section, "school" means any_  
+| _instructional or noninstructional facility owned or operated by:_  
+|  _(1)_ _____a public or private elementary or secondary_  
+| _school; or_  
+|  _(2)_ _____an institution of higher education or a private or_  
+| _independent institution of higher education, as those terms are_  
+| _defined by Section 61.003, Education Code._  
+|  _(b)_ _____A person commits an offense if the person intentionally_  
+| _or knowingly operates an unmanned aircraft over a school or within_  
+| _1,000 feet of the school._  
+|  _(c)_ _____This section does not apply to conduct described by_  
+| _Subsection (b) that is committed by:_  
+|  _(1)_ _____the federal government, the state, or a_  
+| _governmental entity;_  
+|  _(2)_ _____a person under contract with or otherwise acting_  
+| _under the direction or on behalf of the federal government, the_  
+| _state, or a governmental entity;_  
+|  _(3)_ _____a law enforcement agency that provides to a school_  
+| _prior notice of the agency's operation of an unmanned aircraft over_  
+| _or near the school;_  
+|  _(4)_ _____a person under contract with or otherwise acting_  
+| _under the direction or on behalf of a law enforcement agency that_  
+| _provides prior notice as described by Subdivision (3);_  
+|  _(5)_ _____an operator of an unmanned aircraft that is being_  
+| _used for a commercial purpose, if the operation is conducted in_  
+| _compliance with:_  
+|  _(A)_ _____each applicable Federal Aviation_  
+| _Administration rule, restriction, or exemption; and_  
+|  _(B)_ _____all required Federal Aviation Administration_  
+| _authorizations;_  
+|  _(6)_ _____a person under contract with or otherwise acting_  
+| _under the direction or on behalf of the governing body of the_  
+| _school; or_  
+|  _(7)_ _____a person who has the prior written consent of the_  
+| _person who is primarily responsible for the security of the school._  
+|  _(d)_ _____An offense under this section is a Class B misdemeanor,_  
+| _except that the offense is a Class A misdemeanor if the actor has_  
+| _previously been convicted under this section or Section 423.0045 or_  
+| _423.0046._  
+|  SECTION 2. Section 423.0045(d), Government Code, is amended  
+| to read as follows:  
+|  (d) An offense under this section is a Class B misdemeanor,  
+| except that the offense is a Class A misdemeanor if the actor has  
+| previously been convicted under this section or Section 423.0046 _or_  
+| _423.0047_.  
+|  SECTION 3. Section 423.0046(d), Government Code, is amended  
+| to read as follows:  
+|  (d) An offense under this section is a Class B misdemeanor,  
+| except that the offense is a Class A misdemeanor if the actor has  
+| previously been convicted under this section or Section 423.0045 _or_  
+| _423.0047_.  
+|  SECTION 4. The change in law made by this Act applies only  
+| to an offense committed on or after the effective date of this Act.  
+| An offense committed before the effective date of this Act is  
+| governed by the law in effect on the date the offense was committed,  
+| and the former law is continued in effect for that purpose. For  
+| purposes of this section, an offense was committed before the  
+| effective date of this Act if any element of the offense occurred  
+| before that date.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

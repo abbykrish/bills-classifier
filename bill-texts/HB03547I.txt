@@ -1,0 +1,120 @@
+| 86R11341 SCL-F  
+---|---  
+|  By: Moody | H.B. No. 3547  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to civil actions involving the exercise of certain  
+| constitutional rights.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 27.001(2) and (6), Civil Practice and  
+| Remedies Code, are amended to read as follows:  
+|  (2) "Exercise of the right of association" means a  
+| communication between individuals who join together to  
+| collectively express, promote, pursue, or defend common interests.  
+| _The term does not include a communication that is the basis of a_  
+| _claim asserting a misappropriation of a trade secret or a breach of_  
+| _a covenant not to compete._  
+|  (6) "Legal action" means a lawsuit, cause of action,  
+| petition, complaint, cross-claim, or counterclaim or any other  
+| judicial pleading or filing that requests legal _,_ [ ~~or~~ ] equitable _,
+or_  
+| _declaratory_ relief.  
+|  SECTION 2. The heading to Section 27.003, Civil Practice  
+| and Remedies Code, is amended to read as follows:  
+|  Sec. 27.003. MOTION TO DISMISS _; RESPONSE_.  
+|  SECTION 3. Section 27.003, Civil Practice and Remedies  
+| Code, is amended by amending Subsections (a) and (b) and adding  
+| Subsections (d) and (e) to read as follows:  
+|  (a) _Except as provided by this subsection, if_ [ ~~If~~ ] a legal  
+| action is based on, relates to, or is in response to a party's  
+| exercise of the right of free speech, right to petition, or right of  
+| association, that party may file a motion to dismiss the legal  
+| action. _A party that is a governmental entity or governmental_  
+| _official or employee acting in an official capacity may not file a_  
+| _motion to dismiss under this subsection._  
+|  (b) A motion to dismiss a legal action under this section  
+| must be filed not later than the 60th day after the date of service  
+| of the legal action. The _parties may agree to extend the time to_  
+| _file a motion under this section, or the_ court may extend the time  
+| to file a motion under this section on a showing of good cause.  
+|  _(d)_ _____The moving party shall provide a nonmoving party written_  
+| _notice of the date and time of the hearing on the motion to dismiss_  
+| _not later than the 14th day before the date of the hearing unless_  
+| _otherwise provided by an agreement of the parties or an order of the_  
+| _court._  
+|  _(e)_ _____A party responding to the motion to dismiss shall file_  
+| _the response not later than the seventh day before the date of the_  
+| _hearing on the motion to dismiss unless otherwise provided by an_  
+| _agreement of the parties or an order of the court._  
+|  SECTION 4. Sections 27.005(a) and (d), Civil Practice and  
+| Remedies Code, are amended to read as follows:  
+|  (a) The court must rule on a motion under Section 27.003 not  
+| later than the 30th day following the date _on which_ [ ~~of~~ ] the hearing  
+| on the motion _concludes_.  
+|  (d) Notwithstanding the provisions of Subsection (c), the  
+| court shall dismiss a legal action against the moving party if the  
+| moving party establishes _that the legal action fails as a matter of_  
+| _law_ [ ~~by a preponderance of the evidence each essential element of a~~  
+|  ~~valid defense to the nonmovant's claim~~ ].  
+|  SECTION 5. The heading to Section 27.006, Civil Practice  
+| and Remedies Code, is amended to read as follows:  
+|  Sec. 27.006. _PROOF_ [ ~~EVIDENCE~~ ].  
+|  SECTION 6. Section 27.006(a), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (a) In determining whether a legal action should be  
+| dismissed under this chapter, the court shall consider the  
+| pleadings _, admissible evidence submitted by the parties,_ and  
+| supporting and opposing affidavits stating the facts on which the  
+| liability or defense is based.  
+|  SECTION 7. Chapter 27, Civil Practice and Remedies Code, is  
+| amended by adding Section 27.0075 to read as follows:  
+|  _Sec._ ___27.0075._ _____EFFECT OF RULING. (a) A court's ruling on a_  
+| _motion filed under Section 27.003 or the fact that the court made_  
+| _the ruling is not admissible in evidence at any later stage of the_  
+| _legal action._  
+|  _(b)_ _____A court's ruling on a motion filed under Section 27.003_  
+| _does not affect a party's applicable burden of proof._  
+|  SECTION 8. Section 27.009(a), Civil Practice and Remedies  
+| Code, is amended to read as follows:  
+|  (a) If the court orders dismissal of a legal action under  
+| this chapter, the court [ ~~shall award to the moving party~~ ]:  
+|  (1) _shall award to the moving party_ court costs _and_ [ ~~,~~ ]  
+| reasonable attorney's fees[ ~~, and other expenses~~ ] incurred in  
+| defending against the legal action [ ~~as justice and equity may~~  
+|  ~~require~~ ]; and  
+|  (2) _may award to the moving party_ sanctions against  
+| the party who brought the legal action as the court determines  
+| sufficient to deter the party who brought the legal action from  
+| bringing similar actions described in this chapter.  
+|  SECTION 9. The heading to Section 27.010, Civil Practice  
+| and Remedies Code, is amended to read as follows:  
+|  Sec. 27.010. _APPLICABILITY OF CHAPTER_ [ ~~EXEMPTIONS~~ ].  
+|  SECTION 10. Section 27.010, Civil Practice and Remedies  
+| Code, is amended by adding Subsections (c-1) and (e) to read as  
+| follows:  
+|  _(c-1)_ _____Notwithstanding Subsections (b) and (c), this chapter_  
+| _applies to a legal action against a person based on the creation,_  
+| _dissemination, exhibition, advertisement, or other similar_  
+| _promotion of a dramatic, literary, musical, political, or other_  
+| _artistic work, including a motion picture or television program, or_  
+| _an article published in a newspaper or magazine of general_  
+| _circulation._  
+|  _(e)_ _____This chapter does not apply to an action filed under_  
+| _Title 1, 2, 4, or 5, Family Code, or an application for a protective_  
+| _order under Chapter 7A, Code of Criminal Procedure._  
+|  SECTION 11. Section 27.011, Civil Practice and Remedies  
+| Code, is amended by adding Subsection (c) to read as follows:  
+|  _(c)_ _____This chapter does not limit or preclude the enforcement_  
+| _by a legislative or executive body or a public agency of the rules_  
+| _of procedure and rules of order of the body or agency._  
+|  SECTION 12. Section 27.007, Civil Practice and Remedies  
+| Code, is repealed.  
+|  SECTION 13. Chapter 27, Civil Practice and Remedies Code,  
+| as amended by this Act, applies only to an action filed on or after  
+| the effective date of this Act. An action filed before the  
+| effective date of this Act is governed by the law applicable to the  
+| action immediately before the effective date of this Act, and that  
+| law is continued in effect for that purpose.  
+|  SECTION 14. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,515 @@
+| 86R8229 KFF-F  
+---|---  
+|  By: Flynn | H.B. No. 2820  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the registration and certification of certain  
+| investment products made available to public school employees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1.  ELIGIBLE QUALIFIED INVESTMENTS  
+|  SECTION 1.01. Section 4, Chapter 22 (S.B. 17), Acts of the  
+| 57th Legislature, 3rd Called Session, 1962 (Article 6228a-5,  
+| Vernon's Texas Civil Statutes), is amended to read as follows:  
+|  Sec. 4. In this section and in Sections 5, 6, [ ~~7, 8, 8A,~~ ] 9,  
+| 9A, 9B, 10, 11, _and_ 12[ ~~, and 13~~ ] of this Act:  
+|  (1) [ ~~"Board of trustees" means the board of trustees~~  
+|  ~~of the Teacher Retirement System of Texas.~~  
+|  [ ~~(2)~~ ] "Educational institution" means a school  
+| district or an open-enrollment charter school.  
+|  _(2)_ [ ~~(3)~~ ] "Eligible qualified investment" means a  
+| qualified investment product offered by a company that[ ~~:~~  
+|  [ ~~(A)~~ ] is _eligible to offer the product_ [ ~~certified~~  
+|  ~~to the board of trustees~~ ] under Section _6_ [ ~~5~~ ] of this Act[ ~~;
+or~~  
+|  [ ~~(B)~~ ~~~~ ~~~~ ~~is eligible to certify to the board of~~  
+|  ~~trustees under Section 8 of this Act~~ ].  
+|  _(3)_ [ ~~(4)~~ ] "Employee" means an employee of an  
+| educational institution.  
+|  _(4)_ [ ~~(5)~~ ] "Qualified investment product" means an  
+| annuity or investment that:  
+|  (A) meets the requirements of Section 403(b),  
+| Internal Revenue Code of 1986, and its subsequent amendments;  
+|  (B) complies with applicable federal insurance  
+| and securities laws and regulations; and  
+|  (C) complies with applicable state insurance and  
+| securities laws and rules.  
+|  _(5)_ [ ~~(6)~~ ~~~~ ~~~~ ~~"Retirement system" means the Teacher~~  
+|  ~~Retirement System of Texas.~~  
+|  [ ~~(7)~~ ] "Salary reduction agreement" means an agreement  
+| between an educational institution and an employee to reduce the  
+| employee's salary for the purpose of making direct contributions to  
+| or purchases of a qualified investment product.  
+|  SECTION 1.02. Sections 5(a) and (f), Chapter 22 (S.B. 17),  
+| Acts of the 57th Legislature, 3rd Called Session, 1962 (Article  
+| 6228a-5, Vernon's Texas Civil Statutes), are amended to read as  
+| follows:  
+|  (a) An educational institution may enter into a salary  
+| reduction agreement with an employee of the institution only if the  
+| qualified investment product [ ~~:~~  
+|  [ ~~(1)~~ ] is an eligible qualified investment[ ~~; and~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~is registered with the retirement system under~~  
+|  ~~Section 8A of this Act~~ ].  
+|  (f) To the greatest degree possible, _educational_  
+| _institutions that enter into a salary reduction agreement with_  
+| [ ~~employers of~~ ] employees [ ~~who participate in the program offered~~
+]  
+| under this section shall require that contributions to eligible  
+| qualified investments be made by automatic payroll deduction and  
+| deposited directly in the investment accounts.  
+|  SECTION 1.03. Sections 6(a) and (b), Chapter 22 (S.B. 17),  
+| Acts of the 57th Legislature, 3rd Called Session, 1962 (Article  
+| 6228a-5, Vernon's Texas Civil Statutes), are amended to read as  
+| follows:  
+|  (a) _An insurance_ [ ~~A~~ ] company is eligible to _offer qualified_  
+| _investment products to the employees of educational institutions_  
+| _under_ [ ~~certify to the retirement system under Section 5 of~~ ] this Act  
+| if the company satisfies the following [ ~~financial strength~~ ]  
+| criteria:  
+|  (1) the _company is licensed by the Texas Department of_  
+| _Insurance and is in compliance with minimum capital and surplus_  
+| _requirements, including applicable risk-based capital and surplus_  
+| _requirements prescribed by rules adopted by the department_  
+| [ ~~company's actuarial opinions required under Articles 1.11 and~~  
+|  ~~3.28, Insurance Code, have not been adverse or qualified in the five~~  
+|  ~~years preceding the date the application is filed;~~  
+|  [ ~~(2) the company is subject to the annual audit~~  
+|  ~~requirements of Article 1.15A, Insurance Code, and its most recent~~  
+|  ~~audit of financial strength conducted by an independent certified~~  
+|  ~~public accountant is timely filed and does not indicate the~~  
+|  ~~existence of any material adverse financial conditions in the~~  
+|  ~~company for the five years preceding the filing deadline for the~~  
+|  ~~audit;~~  
+|  [ ~~(3) the company has not been the subject of an~~  
+|  ~~administrative or regulatory action by the Texas Department of~~  
+|  ~~Insurance under Article 1.32 or 21.28-A or Section 83.051,~~  
+|  ~~Insurance Code, in the five years preceding the date the~~  
+|  ~~application is filed;~~  
+|  [ ~~(4) the company has maintained during the five years~~  
+|  ~~preceding the date the application is filed an average of at least~~  
+|  ~~400 percent of the authorized control level, as calculated in~~  
+|  ~~accordance with the risk-based capital and surplus requirements~~  
+|  ~~established in rules adopted by the Texas Department of Insurance;~~  
+|  [ ~~(5) the company has not fallen below 300 percent of the~~  
+|  ~~authorized control level, as calculated in accordance with the~~  
+|  ~~risk-based capital and surplus established in rules adopted by the~~  
+|  ~~Texas Department of Insurance, at any time in the five years~~  
+|  ~~preceding the date the application is filed~~ ]; and  
+|  _(2)_ [ ~~(6)~~ ] the company has [ ~~at least five years'~~ ]  
+| experience in _providing_ qualified investment products and has a  
+| specialized department dedicated to the service of qualified  
+| investment products _, as determined by the educational institution_.  
+|  (b) _A company that offers qualified investment products_  
+| _other than annuity contracts, including a company that offers_  
+| _custodial accounts under Section 403(b)(7), Internal Revenue Code_  
+| _of 1986, is eligible to offer qualified investment products to_  
+| _employees of educational institutions under this Act_ [ ~~For purposes~~  
+|  ~~of Subsection (a)(4) of this section, the company must calculate~~  
+|  ~~the five-year average on the same date each year~~ ].  
+|  SECTION 1.04. Section 9(a), Chapter 22 (S.B. 17), Acts of  
+| the 57th Legislature, 3rd Called Session, 1962 (Article 6228a-5,  
+| Vernon's Texas Civil Statutes), is amended to read as follows:  
+|  (a) An educational institution may not:  
+|  (1) except as provided by Subdivision (8) of this  
+| subsection and Subsection (b) of this section, refuse to enter into  
+| a salary reduction agreement with an employee if the qualified  
+| investment product that is the subject of the salary reduction is an  
+| eligible qualified investment [ ~~and is registered with the system~~  
+|  ~~under Section 8A~~ ];  
+|  (2) require or coerce an employee's attendance at any  
+| meeting at which qualified investment products are marketed;  
+|  (3) limit the ability of an employee to initiate,  
+| change, or terminate a qualified investment product at any time the  
+| employee chooses;  
+|  (4) grant exclusive access to an employee by  
+| discriminating against or imposing barriers to any agent, broker,  
+| or company that provides qualified investment products under this  
+| Act;  
+|  (5) grant exclusive access to information about an  
+| employee's financial information, including information about an  
+| employee's qualified investment products, to a company or agent or  
+| affiliate of a company offering qualified investment products  
+| unless the employee consents in writing to the access;  
+|  (6) accept any benefit from a company or from an agent  
+| or affiliate of a company that offers qualified investment  
+| products;  
+|  (7) use public funds to recommend a qualified  
+| investment product offered by a company or an agent or affiliate of  
+| a company that offers a qualified investment product; or  
+|  (8) enter into or continue a salary reduction  
+| agreement with an employee if the qualified investment product that  
+| is the subject of the salary reduction agreement is not an eligible  
+| qualified investment[ ~~, including the investment product of a~~  
+|  ~~company whose certification has been denied, suspended, or revoked~~ ]  
+| without first providing the employee with notice in writing that:  
+|  (A) indicates the reason the subject of the  
+| salary reduction agreement is no longer an eligible qualified  
+| investment [ ~~or why certification has been denied, suspended, or~~  
+|  ~~revoked~~ ]; and  
+|  (B) clearly states that by signing the notice the  
+| employee is agreeing to enter into or continue the salary reduction  
+| agreement.  
+|  SECTION 1.05. Section 9A, Chapter 22 (S.B. 17), Acts of the  
+| 57th Legislature, 3rd Called Session, 1962 (Article 6228a-5,  
+| Vernon's Texas Civil Statutes), is amended to read as follows:  
+|  Sec. 9A. A person, other than an employee of an educational  
+| institution, or an affiliate of the person may not enter into or  
+| renew a contract under which the person is to provide services for  
+| or administer a plan offered by the institution under Section  
+| 403(b), Internal Revenue Code of 1986, unless the person:  
+|  (1) holds a license or certificate of authority issued  
+| by the Texas Department of Insurance;  
+|  (2) is registered as a securities dealer or agent or  
+| investment advisor with the State Securities Board; or  
+|  (3) is a financial institution that:  
+|  (A) is authorized by state or federal law to  
+| exercise fiduciary powers; and  
+|  (B) has _sufficient presence_ [ ~~its main office, a~~  
+|  ~~branch office, or a trust office~~ ] in this state _to serve the_  
+| _employees of educational institutions who participate in the plan_.  
+|  SECTION 1.06. Section 9B(b), Chapter 22 (S.B. 17), Acts of  
+| the 57th Legislature, 3rd Called Session, 1962 (Article 6228a-5,  
+| Vernon's Texas Civil Statutes), is amended to read as follows:  
+|  (b) If a person described by Subsection (a) holds a meeting  
+| at which qualified investment products will be marketed to  
+| employees of the educational institution, the person must provide  
+| representatives of other companies _eligible to sell qualified_  
+| _investment products under Section 6_ [ ~~certified to the retirement~~  
+|  ~~system under Section 5 or 8~~ ] of this Act an opportunity to attend  
+| and market their qualified investment products at the meeting.  
+|  SECTION 1.07. Section 10(a), Chapter 22 (S.B. 17), Acts of  
+| the 57th Legislature, 3rd Called Session, 1962 (Article 6228a-5,  
+| Vernon's Texas Civil Statutes), is amended to read as follows:  
+|  (a) A person commits an offense if the person:  
+|  (1) sells or offers for sale an investment product  
+| that is not an eligible qualified investment [ ~~or that is not~~  
+|  ~~registered under Section 8A of this Act~~ ] and that the person knows  
+| will be the subject of a salary reduction agreement;  
+|  (2) violates the licensing requirements of Title 13,  
+| Insurance Code, with regard to a qualified investment product that  
+| the person knows will be the subject of a salary reduction  
+| agreement; or  
+|  (3) engages in activity described by Subchapter B,  
+| Chapter 541, Insurance Code, with regard to a qualified investment  
+| product that the person knows will be the subject of a salary  
+| reduction agreement.  
+|  SECTION 1.08. Section 11(c), Chapter 22 (S.B. 17), Acts of  
+| the 57th Legislature, 3rd Called Session, 1962 (Article 6228a-5,  
+| Vernon's Texas Civil Statutes), is amended to read as follows:  
+|  (c) The notice required under this section must be uniform  
+| and:  
+|  (1) be in at least 14-point type;  
+|  (2) contain spaces for:  
+|  (A) the name, address, and telephone number of  
+| the agent and company offering the annuity contract for sale;  
+|  (B) the name, address, and telephone number of  
+| the company underwriting the annuity;  
+|  (C) the license number of the person offering to  
+| sell the product;  
+|  (D) the name of the state agency that issued the  
+| person's license;  
+|  (E) the name of the company account  
+| representative who has the authority to respond to inquiries or  
+| complaints; and  
+|  (F) with respect to fixed annuity products:  
+|  (i) the current interest rate or the  
+| formula used to calculate the current rate of interest;  
+|  (ii) the guaranteed rate of interest and  
+| the percentage of the premium to which the interest rate applies;  
+|  (iii) how interest is compounded;  
+|  (iv) the amount of any up-front, surrender,  
+| withdrawal, deferred sales, and market value adjustment charges or  
+| any other contract restriction that exceeds 10 years;  
+|  (v) the time, if any, the annuity is  
+| required to be in force before the purchaser is entitled to the full  
+| bonus accumulation value;  
+|  (vi) the manner in which the amount of the  
+| guaranteed benefit under the annuity is computed;  
+|  (vii) whether loans are guaranteed to be  
+| available under the annuity;  
+|  (viii) what restrictions, if any, apply to  
+| the availability of money attributable to the value of the annuity  
+| once the purchaser is retired or separated from the employment of  
+| the employer;  
+|  (ix) the amount of any other fees, costs, or  
+| penalties;  
+|  (x) whether the annuity guarantees the  
+| participant the right to surrender a percentage of the surrender  
+| value each year, and the percentage, if any; and  
+|  (xi) whether the annuity guarantees the  
+| interest rate associated with any settlement option; and  
+|  (3) state, in plain language:  
+|  (A) that the company offering the annuity must  
+| comply with Section _6_ [ ~~5~~ ] of this Act and that the annuity must be a  
+| qualified investment product [ ~~registered under Section 8A of this~~  
+|  ~~Act~~ ];  
+|  (B) [ ~~that the potential purchaser may contact the~~  
+|  ~~retirement system or access its Internet website to determine which~~  
+|  ~~companies are in compliance with Section 5 of this Act and which~~  
+|  ~~qualified investment products are registered under Section 8A of~~  
+|  ~~this Act;~~  
+|  [ ~~(C)~~ ] the civil remedies available to the  
+| employee;  
+|  _(C)_ [ ~~(D)~~ ] that the employee may purchase any  
+| eligible qualified investment through a salary reduction  
+| agreement;  
+|  _(D)_ [ ~~(E)~~ ] the name and telephone number of the  
+| Texas Department of Insurance division that specializes in consumer  
+| protection; and  
+|  _(E)_ [ ~~(F)~~ ] the name and telephone number of the  
+| attorney general's division that specializes in consumer  
+| protection.  
+|  SECTION 1.09. Section 12, Chapter 22 (S.B. 17), Acts of the  
+| 57th Legislature, 3rd Called Session, 1962 (Article 6228a-5,  
+| Vernon's Texas Civil Statutes), is amended to read as follows:  
+|  Sec. 12. A company that offers an eligible qualified  
+| investment that is subject to a salary reduction agreement shall  
+| _require_ [ ~~demonstrate annually to the retirement system~~ ] that each  
+| of its representatives are properly licensed and qualified, by  
+| training and continuing education, to sell and service the  
+| company's eligible qualified investments.  
+|  SECTION 1.10. The following laws are repealed:  
+|  (1) Sections 5(b), (c), (d), and (e), Chapter 22 (S.B.  
+| 17), Acts of the 57th Legislature, 3rd Called Session, 1962  
+| (Article 6228a-5, Vernon's Texas Civil Statutes);  
+|  (2) Sections 6(c), (d), (d-1), (d-2), (e), (f), (f-1),  
+| (g), (h), and (i), Chapter 22 (S.B. 17), Acts of the 57th  
+| Legislature, 3rd Called Session, 1962 (Article 6228a-5, Vernon's  
+| Texas Civil Statutes);  
+|  (3) Section 7, Chapter 22 (S.B. 17), Acts of the 57th  
+| Legislature, 3rd Called Session, 1962 (Article 6228a-5, Vernon's  
+| Texas Civil Statutes);  
+|  (4) Section 8, Chapter 22 (S.B. 17), Acts of the 57th  
+| Legislature, 3rd Called Session, 1962 (Article 6228a-5, Vernon's  
+| Texas Civil Statutes);  
+|  (5) Section 8A, Chapter 22 (S.B. 17), Acts of the 57th  
+| Legislature, 3rd Called Session, 1962 (Article 6228a-5, Vernon's  
+| Texas Civil Statutes);  
+|  (6) Section 11(b), Chapter 22 (S.B. 17), Acts of the  
+| 57th Legislature, 3rd Called Session, 1962 (Article 6228a-5,  
+| Vernon's Texas Civil Statutes); and  
+|  (7) Section 13, Chapter 22 (S.B. 17), Acts of the 57th  
+| Legislature, 3rd Called Session, 1962 (Article 6228a-5, Vernon's  
+| Texas Civil Statutes).  
+| ARTICLE 2. CONFORMING CHANGE  
+|  SECTION 2.01. Section 17.46(b), Business & Commerce Code,  
+| as amended by Chapters 324 (S.B. 1488), 858 (H.B. 2552), and 967  
+| (S.B. 2065), Acts of the 85th Legislature, Regular Session, 2017,  
+| is reenacted and amended to read as follows:  
+|  (b) Except as provided in Subsection (d) of this section,  
+| the term "false, misleading, or deceptive acts or practices"  
+| includes, but is not limited to, the following acts:  
+|  (1) passing off goods or services as those of another;  
+|  (2) causing confusion or misunderstanding as to the  
+| source, sponsorship, approval, or certification of goods or  
+| services;  
+|  (3) causing confusion or misunderstanding as to  
+| affiliation, connection, or association with, or certification by,  
+| another;  
+|  (4) using deceptive representations or designations  
+| of geographic origin in connection with goods or services;  
+|  (5) representing that goods or services have  
+| sponsorship, approval, characteristics, ingredients, uses,  
+| benefits, or quantities which they do not have or that a person has  
+| a sponsorship, approval, status, affiliation, or connection which  
+| the person does not;  
+|  (6) representing that goods are original or new if  
+| they are deteriorated, reconditioned, reclaimed, used, or  
+| secondhand;  
+|  (7) representing that goods or services are of a  
+| particular standard, quality, or grade, or that goods are of a  
+| particular style or model, if they are of another;  
+|  (8) disparaging the goods, services, or business of  
+| another by false or misleading representation of facts;  
+|  (9) advertising goods or services with intent not to  
+| sell them as advertised;  
+|  (10) advertising goods or services with intent not to  
+| supply a reasonable expectable public demand, unless the  
+| advertisements disclosed a limitation of quantity;  
+|  (11) making false or misleading statements of fact  
+| concerning the reasons for, existence of, or amount of price  
+| reductions;  
+|  (12) representing that an agreement confers or  
+| involves rights, remedies, or obligations which it does not have or  
+| involve, or which are prohibited by law;  
+|  (13) knowingly making false or misleading statements  
+| of fact concerning the need for parts, replacement, or repair  
+| service;  
+|  (14) misrepresenting the authority of a salesman,  
+| representative or agent to negotiate the final terms of a consumer  
+| transaction;  
+|  (15) basing a charge for the repair of any item in  
+| whole or in part on a guaranty or warranty instead of on the value of  
+| the actual repairs made or work to be performed on the item without  
+| stating separately the charges for the work and the charge for the  
+| warranty or guaranty, if any;  
+|  (16) disconnecting, turning back, or resetting the  
+| odometer of any motor vehicle so as to reduce the number of miles  
+| indicated on the odometer gauge;  
+|  (17) advertising of any sale by fraudulently  
+| representing that a person is going out of business;  
+|  (18) advertising, selling, or distributing a card  
+| which purports to be a prescription drug identification card issued  
+| under Section 4151.152, Insurance Code, in accordance with rules  
+| adopted by the commissioner of insurance, which offers a discount  
+| on the purchase of health care goods or services from a third party  
+| provider, and which is not evidence of insurance coverage, unless:  
+|  (A) the discount is authorized under an agreement  
+| between the seller of the card and the provider of those goods and  
+| services or the discount or card is offered to members of the  
+| seller;  
+|  (B) the seller does not represent that the card  
+| provides insurance coverage of any kind; and  
+|  (C) the discount is not false, misleading, or  
+| deceptive;  
+|  (19) using or employing a chain referral sales plan in  
+| connection with the sale or offer to sell of goods, merchandise, or  
+| anything of value, which uses the sales technique, plan,  
+| arrangement, or agreement in which the buyer or prospective buyer  
+| is offered the opportunity to purchase merchandise or goods and in  
+| connection with the purchase receives the seller's promise or  
+| representation that the buyer shall have the right to receive  
+| compensation or consideration in any form for furnishing to the  
+| seller the names of other prospective buyers if receipt of the  
+| compensation or consideration is contingent upon the occurrence of  
+| an event subsequent to the time the buyer purchases the merchandise  
+| or goods;  
+|  (20) representing that a guaranty or warranty confers  
+| or involves rights or remedies which it does not have or involve,  
+| provided, however, that nothing in this subchapter shall be  
+| construed to expand the implied warranty of merchantability as  
+| defined in Sections 2.314 through 2.318 and Sections 2A.212 through  
+| 2A.216 to involve obligations in excess of those which are  
+| appropriate to the goods;  
+|  (21) promoting a pyramid promotional scheme, as  
+| defined by Section 17.461;  
+|  (22) representing that work or services have been  
+| performed on, or parts replaced in, goods when the work or services  
+| were not performed or the parts replaced;  
+|  (23) filing suit founded upon a written contractual  
+| obligation of and signed by the defendant to pay money arising out  
+| of or based on a consumer transaction for goods, services, loans, or  
+| extensions of credit intended primarily for personal, family,  
+| household, or agricultural use in any county other than in the  
+| county in which the defendant resides at the time of the  
+| commencement of the action or in the county in which the defendant  
+| in fact signed the contract; provided, however, that a violation of  
+| this subsection shall not occur where it is shown by the person  
+| filing such suit that the person neither knew or had reason to know  
+| that the county in which such suit was filed was neither the county  
+| in which the defendant resides at the commencement of the suit nor  
+| the county in which the defendant in fact signed the contract;  
+|  (24) failing to disclose information concerning goods  
+| or services which was known at the time of the transaction if such  
+| failure to disclose such information was intended to induce the  
+| consumer into a transaction into which the consumer would not have  
+| entered had the information been disclosed;  
+|  (25) using the term "corporation," "incorporated," or  
+| an abbreviation of either of those terms in the name of a business  
+| entity that is not incorporated under the laws of this state or  
+| another jurisdiction;  
+|  (26) selling, offering to sell, or illegally promoting  
+| an annuity contract under Chapter 22, Acts of the 57th Legislature,  
+| 3rd Called Session, 1962 (Article 6228a-5, Vernon's Texas Civil  
+| Statutes), with the intent that the annuity contract will be the  
+| subject of a salary reduction agreement, as defined by that Act, if  
+| the annuity contract is not an eligible qualified investment under  
+| that Act [ ~~or is not registered with the Teacher Retirement System of~~  
+|  ~~Texas as required by Section 8A of that Act~~ ];  
+|  (27) taking advantage of a disaster declared by the  
+| governor under Chapter 418, Government Code, by:  
+|  (A) selling or leasing fuel, food, medicine, or  
+| another necessity at an exorbitant or excessive price; or  
+|  (B) demanding an exorbitant or excessive price in  
+| connection with the sale or lease of fuel, food, medicine, or  
+| another necessity;  
+|  (28) using the translation into a foreign language of  
+| a title or other word, including "attorney," "immigration  
+| consultant," "immigration expert," "lawyer," "licensed," "notary,"  
+| and "notary public," in any written or electronic material,  
+| including an advertisement, a business card, a letterhead,  
+| stationery, a website, or an online video, in reference to a person  
+| who is not an attorney in order to imply that the person is  
+| authorized to practice law in the United States;  
+|  (29) delivering or distributing a solicitation in  
+| connection with a good or service that:  
+|  (A) represents that the solicitation is sent on  
+| behalf of a governmental entity when it is not; or  
+|  (B) resembles a governmental notice or form that  
+| represents or implies that a criminal penalty may be imposed if the  
+| recipient does not remit payment for the good or service;  
+|  (30) delivering or distributing a solicitation in  
+| connection with a good or service that resembles a check or other  
+| negotiable instrument or invoice, unless the portion of the  
+| solicitation that resembles a check or other negotiable instrument  
+| or invoice includes the following notice, clearly and conspicuously  
+| printed in at least 18-point type:  
+|  "SPECIMEN-NON-NEGOTIABLE";  
+|  (31) in the production, sale, distribution, or  
+| promotion of a synthetic substance that produces and is intended to  
+| produce an effect when consumed or ingested similar to, or in excess  
+| of, the effect of a controlled substance or controlled substance  
+| analogue, as those terms are defined by Section 481.002, Health and  
+| Safety Code:  
+|  (A) making a deceptive representation or  
+| designation about the synthetic substance; or  
+|  (B) causing confusion or misunderstanding as to  
+| the effects the synthetic substance causes when consumed or  
+| ingested;  
+|  (32) a licensed public insurance adjuster directly or  
+| indirectly soliciting employment, as defined by Section 38.01,  
+| Penal Code, for an attorney, or a licensed public insurance  
+| adjuster entering into a contract with an insured for the primary  
+| purpose of referring the insured to an attorney without the intent  
+| to actually perform the services customarily provided by a licensed  
+| public insurance adjuster, provided that this subdivision may not  
+| be construed to prohibit a licensed public insurance adjuster from  
+| recommending a particular attorney to an insured; [ ~~or~~ ]  
+|  (33) owning, operating, maintaining, or advertising a  
+| massage establishment, as defined by Section 455.001, Occupations  
+| Code, that:  
+|  (A) is not appropriately licensed under Chapter  
+| 455, Occupations Code, or is not in compliance with the applicable  
+| licensing and other requirements of that chapter; or  
+|  (B) is not in compliance with an applicable local  
+| ordinance relating to the licensing or regulation of massage  
+| establishments _; or_  
+|  _(34)_ [ ~~(33)~~ ] a warrantor of a vehicle protection  
+| product warranty using, in connection with the product, a name that  
+| includes "casualty," "surety," "insurance," "mutual," or any other  
+| word descriptive of an insurance business, including property or  
+| casualty insurance, or a surety business.  
+| ARTICLE 3. TRANSITIONS; CONFLICT WITH OTHER LEGISLATION; EFFECTIVE  
+| DATE  
+|  SECTION 3.01. The changes in law made by this Act to Chapter  
+| 22 (S.B. 17), Acts of the 57th Legislature, 3rd Called Session,  
+| 1962 (Article 6228a-5, Vernon's Texas Civil Statutes), apply only  
+| to an offer of a qualified investment product under that Act that is  
+| made on or after the effective date of this Act. An offer of a  
+| qualified investment product that is made before the effective date  
+| of this Act is governed by the law as it existed immediately before  
+| the effective date of this Act, and that law is continued in effect  
+| for that purpose.  
+|  SECTION 3.02. The change in law made by this Act to Section  
+| 10(a), Chapter 22 (S.B. 17), Acts of the 57th Legislature, 3rd  
+| Called Session, 1962 (Article 6228a-5, Vernon's Texas Civil  
+| Statutes), applies only to an offense committed on or after the  
+| effective date of this Act. For purposes of this section, an  
+| offense is committed before the effective date of this Act if any  
+| element of the offense occurs before that date. An offense  
+| committed before the effective date of this Act is governed by the  
+| law in effect when the offense was committed, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 3.03. Section 17.46(b), Business & Commerce Code,  
+| as amended by this Act, applies only to a cause of action that  
+| accrues on or after the effective date of this Act. A cause of  
+| action that accrues before the effective date of this Act is  
+| governed by the law as it existed immediately before the effective  
+| date of this Act, and that law is continued in effect for that  
+| purpose.  
+|  SECTION 3.04. To the extent of any conflict, this Act  
+| prevails over another Act of the 86th Legislature, Regular Session,  
+| 2019, relating to nonsubstantive additions to and corrections in  
+| enacted codes.  
+|  SECTION 3.05. This Act takes effect September 1, 2019.
+

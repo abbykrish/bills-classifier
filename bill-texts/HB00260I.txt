@@ -1,0 +1,33 @@
+| 86R2069 JRR-D  
+---|---  
+|  By: Blanco | H.B. No. 260  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of a cross-border motor vehicle traffic  
+| congestion web portal.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter D, Chapter 201, Transportation Code,  
+| is amended by adding Section 201.2075 to read as follows:  
+|  _Sec._ ___201.2075._ _____CROSS-BORDER TRAFFIC CONGESTION WEB PORTAL._  
+| _(a) The department in collaboration with the Texas A &M _  
+| _Transportation Institute shall develop and maintain a publicly_  
+| _accessible web portal designed to provide real-time information_  
+| _regarding motor vehicle movements at ports of entry between this_  
+| _state and the United Mexican States and in surrounding areas for the_  
+| _purpose of alleviating cross-border motor vehicle traffic_  
+| _congestion._  
+|  _(b)_ _____In developing and maintaining the web portal, the_  
+| _department may collaborate with other governmental entities,_  
+| _including federal agencies, state and local transportation_  
+| _agencies of this state or the United Mexican States, and political_  
+| _subdivisions of this state or the United Mexican States._  
+|  SECTION 2. Not later than September 1, 2021, the Texas  
+| Department of Transportation shall develop the web portal required  
+| under Section 201.2075, Transportation Code, as added by this Act.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

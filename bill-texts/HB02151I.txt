@@ -1,0 +1,52 @@
+| 86R11289 MEW-D  
+---|---  
+|  By: Muñoz, Jr. | H.B. No. 2151  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of extrapolation by a health maintenance  
+| organization or an insurer to audit claims.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 843.010, Insurance Code, is amended to  
+| read as follows:  
+|  Sec. 843.010. APPLICABILITY OF CERTAIN PROVISIONS TO  
+| GOVERNMENTAL HEALTH BENEFIT PLANS. Sections 843.306(f) _, 843.322,_  
+| and 843.363(a)(4) do not apply to coverage under:  
+|  (1) the child health plan program under Chapter 62,  
+| Health and Safety Code, or the health benefits plan for children  
+| under Chapter 63, Health and Safety Code; or  
+|  (2) a Medicaid program, including a Medicaid managed  
+| care program operated under Chapter 533, Government Code.  
+|  SECTION 2. Subchapter I, Chapter 843, Insurance Code, is  
+| amended by adding Section 843.322 to read as follows:  
+|  _Sec._ ___843.322._ _____USE OF EXTRAPOLATION PROHIBITED._ ___(a)_ ___In
+this_  
+| _section, "extrapolation" means a mathematical process or technique_  
+| _used by a health maintenance organization in the audit of a_  
+| _participating physician or provider to estimate audit results or_  
+| _findings for a larger batch or group of claims not reviewed by the_  
+| _health maintenance organization._  
+|  _(b)_ _____A health maintenance organization may not use_  
+| _extrapolation to complete an audit of a participating physician or_  
+| _provider._ ___Any additional payment due a participating physician or_  
+| _provider or any refund due the health maintenance organization must_  
+| _be based on the actual overpayment or underpayment and may not be_  
+| _based on an extrapolation._  
+|  SECTION 3. Subchapter B, Chapter 1301, Insurance Code, is  
+| amended by adding Section 1301.0642 to read as follows:  
+|  _Sec._ ___1301.0642._ _____USE OF EXTRAPOLATION PROHIBITED._ ___(a)_ ___In_  
+| _this section, "extrapolation" means a mathematical process or_  
+| _technique used by an insurer in the audit of a preferred provider to_  
+| _estimate audit results or findings for a larger batch or group of_  
+| _claims not reviewed by the insurer._  
+|  _(b)_ _____An insurer may not use extrapolation to complete an_  
+| _audit of a preferred provider._ ___Any additional payment due a_  
+| _preferred provider or any refund due the insurer must be based on_  
+| _the actual overpayment or underpayment and may not be based on an_  
+| _extrapolation._  
+|  SECTION 4. The change in law made by this Act applies only  
+| to the audit of a physician or provider under a contract with an  
+| insurer or health maintenance organization entered into or renewed  
+| on or after the effective date of this Act.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

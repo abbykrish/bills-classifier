@@ -1,0 +1,95 @@
+| 86R13758 ADM-D  
+---|---  
+|  By: Klick | H.B. No. 3578  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a requirement that a registrar receive a court order to  
+| cancel the voter registration of a person finally convicted of a  
+| felony.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 42, Code of Criminal Procedure, is  
+| amended by adding Article 42.0193 to read as follows:  
+|  _Art._ ___42.0193._ _____FINDING REGARDING FELONY CONVICTION AND ORDER_  
+| _CANCELING VOTER REGISTRATION. In the trial of a felony offense, if_  
+| _the defendant is 18 years of age or older and is adjudged guilty of_  
+| _the offense, the court shall:_  
+|  _(1)_ _____make an affirmative finding that the person has_  
+| _been found guilty of a felony and enter the affirmative finding in_  
+| _the judgment of the case; and_  
+|  _(2)_ _____at the time the conviction becomes final, issue an_  
+| _order that the defendant's voter registration be canceled and send_  
+| _the order to the secretary of state._  
+|  SECTION 2. Section 16.003, Election Code, is amended to  
+| read as follows:  
+|  Sec. 16.003. FELONY CONVICTION. _At the time the secretary_  
+| _of state receives an order described by Article 42.0193, Code of_  
+| _Criminal Procedure, the secretary of state shall determine if the_  
+| _person named in the order is a registered voter in this state and,_  
+| _if so, forward the order to the appropriate registrar._ [ ~~Each~~  
+|  ~~weekday the Department of Public Safety is regularly open for~~  
+|  ~~business, the department shall:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~prepare an abstract of each final judgment~~  
+|  ~~received by the department convicting a person 18 years of age or~~  
+|  ~~older who is a resident of the state of a felony; and~~  
+|  [ ~~(2) file each abstract with the secretary of state.~~]  
+|  SECTION 3. Section 16.005, Election Code, is amended to  
+| read as follows:  
+|  Sec. 16.005. PRESERVATION OF ABSTRACT _OR ORDER_. If an  
+| abstract _or order_ received under this subchapter affects a  
+| registered voter of the county, the registrar shall retain a copy of  
+| the abstract on file with the affected voter's registration  
+| application.  
+|  SECTION 4. Section 16.031, Election Code, is amended by  
+| amending Subsection (a) and adding Subsection (a-1) to read as  
+| follows:  
+|  (a) The registrar shall cancel a voter's registration  
+| immediately on receipt of:  
+|  (1) notice under Section 13.072(b) or 15.021 or a  
+| response under Section 15.053 that the voter's residence is outside  
+| the county;  
+|  (2) an abstract of the voter's death certificate under  
+| Section 16.001(a) or an abstract of an application indicating that  
+| the voter is deceased under Section 16.001(b);  
+|  (3) an abstract of a final judgment of the voter's  
+| total mental incapacity, partial mental incapacity without the  
+| right to vote, [ ~~conviction of a felony,~~ ] or disqualification under  
+| Section 16.002[ ~~, 16.003,~~ ] or 16.004;  
+|  (4) _a court order received under Section 16.003_  
+| _ordering the cancellation of the voter's registration because the_  
+| _voter has been convicted of a felony;_  
+|  _(5)_ notice under Section 112.012 that the voter has  
+| applied for a limited ballot in another county;  
+|  _(6)_ [ ~~(5)~~ ] notice from a voter registration official in  
+| another state that the voter has registered to vote outside this  
+| state;  
+|  _(7)_ [ ~~(6)~~ ] notice from the early voting clerk under  
+| Section 101.053 that a federal postcard application submitted by an  
+| applicant states a voting residence address located outside the  
+| registrar's county; or  
+|  _(8)_ [ ~~(7)~~ ] notice from the secretary of state that the  
+| voter has registered to vote in another county, as determined by the  
+| voter's driver's license number or personal identification card  
+| number issued by the Department of Public Safety or social security  
+| number.  
+|  _(a-1)_ _____A registrar may not cancel a voter's registration on_  
+| _the grounds that the voter has been convicted of a felony unless the_  
+| _registrar has received a court order under Section 16.003._  
+|  SECTION 5. Section 16.036(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Immediately after, but not later than the 30th day after  
+| the date a voter's registration is canceled under Section  
+| 16.031(a)(3) _or (4)_ , 16.033, 16.0331, or 16.0332, the registrar  
+| shall deliver written notice of the cancellation to the voter.  
+|  SECTION 6. Section 18.061(e), Election Code, is amended to  
+| read as follows:  
+|  (e) The secretary of state shall prescribe procedures to  
+| ensure that when a voter registers in another county, as determined  
+| under Section _16.031(a)(7) or (8)_ [ ~~16.031(a)(6)~~ ], the statewide  
+| computerized voter registration list is updated to reflect the  
+| voter's registration in the new county.  
+|  SECTION 7. The change in law made by this Act applies only  
+| to a person convicted of a felony on or after the effective date of  
+| this Act.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

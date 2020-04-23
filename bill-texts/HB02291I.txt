@@ -1,0 +1,79 @@
+| 86R10885 AJZ-F  
+---|---  
+|  By: Buckley | H.B. No. 2291  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the operation of a gas-powered bicycle.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 502.143, Transportation Code, is amended  
+| to read as follows:  
+|  Sec. 502.143. OTHER VEHICLES. An owner may not register the  
+| following vehicles for operation on a public highway:  
+|  (1) power sweepers;  
+|  (2) motorized mobility devices;  
+|  (3) electric personal assistive mobility devices;  
+| [ ~~and~~ ]  
+|  (4) electric bicycles _; and_  
+|  _(5)_ _____gas-powered bicycles, as defined by Section_  
+| _541.201_.  
+|  SECTION 2. Section 521.225, Transportation Code, is amended  
+| by adding Subsection (e) to read as follows:  
+|  _(e)_ _____For the purposes of this section, a gas-powered bicycle,_  
+| _as defined by Section 541.201, is not a moped._  
+|  SECTION 3. Section 541.201, Transportation Code, is amended  
+| by adding Subdivision (4-a) and amending Subdivisions (8) and (11)  
+| to read as follows:  
+|  _(4-a) "Gas-powered bicycle" means a bicycle that:_  
+|  _(A)_ _____is designed to be propelled by a gas motor,_  
+| _exclusively or in combination with the application of human power;_  
+|  _(B)_ _____cannot attain a speed of more than 20 miles_  
+| _per hour without the application of human power; and_  
+|  _(C) does not exceed 100 pounds._  
+|  (8) "Moped" means a motor-driven cycle that cannot  
+| attain a speed in one mile of more than 30 miles per hour _, has an_  
+| [ ~~and the~~ ] engine _that_ [ ~~of which:~~  
+|  [ ~~(A)~~ ] cannot produce more than two-brake  
+| horsepower _,_ [ ~~;~~ ] and  
+|  [ ~~(B)~~ ] if _the engine is_ an internal combustion  
+| engine, has a piston displacement of 50 cubic centimeters or less  
+| and connects to a power drive system that does not require the  
+| operator to shift gears. _The term does not include a gas-powered_  
+| _bicycle._  
+|  (11) "Motor vehicle" means a self-propelled vehicle or  
+| a vehicle that is propelled by electric power from overhead trolley  
+| wires. The term does not include an electric bicycle _, a gas-powered_  
+| _bicycle,_ or an electric personal assistive mobility device, as  
+| defined by Section 551.201.  
+|  SECTION 4. Section 551.002, Transportation Code, is amended  
+| to read as follows:  
+|  Sec. 551.002. MOPED _,_ [ ~~AND~~ ] ELECTRIC BICYCLE _, AND_  
+| _GAS-POWERED BICYCLE_ INCLUDED. A provision of this subtitle  
+| applicable to a bicycle also applies to:  
+|  (1) a moped, other than a provision that by its nature  
+| cannot apply to a moped; [ ~~and~~ ]  
+|  (2) an electric bicycle, other than a provision that  
+| by its nature cannot apply to an electric bicycle _; and_  
+|  _(3)_ _____a gas-powered bicycle, other than a provision that_  
+| _by its nature cannot apply to a gas-powered bicycle_.  
+|  SECTION 5. Section 551.351(2), Transportation Code, is  
+| amended to read as follows:  
+|  (2) "Pocket bike or minimotorbike" means a  
+| self-propelled vehicle that is equipped with an electric motor or  
+| internal combustion engine having a piston displacement of less  
+| than 50 cubic centimeters, is designed to propel itself with not  
+| more than two wheels in contact with the ground, has a seat or  
+| saddle for the use of the operator, is not designed for use on a  
+| highway, and is ineligible for a certificate of title under Chapter  
+| 501. The term does not include:  
+|  (A) a moped or motorcycle;  
+|  (B) an electric bicycle _, gas-powered bicycle,_ or  
+| motor-driven cycle, as defined by Section 541.201;  
+|  (C) a motorized mobility device, as defined by  
+| Section 542.009;  
+|  (D) an electric personal assistive mobility  
+| device, as defined by Section 551.201; or  
+|  (E) a neighborhood electric vehicle, as defined  
+| by Section 551.301.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

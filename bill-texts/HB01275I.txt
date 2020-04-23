@@ -1,0 +1,388 @@
+| 86R854 ADM-D  
+---|---  
+|  By: Lucio III | H.B. No. 1275  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the regulation of sports betting; requiring an  
+| occupational permit; authorizing a fee; imposing a tax; creating  
+| criminal offenses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 13, Occupations Code, is  
+| amended by adding Chapter 2005 to read as follows:  
+| _CHAPTER 2005. SPORTS BETTING_  
+| _SUBCHAPTER A._ ___GENERAL PROVISIONS_  
+|  _Sec. 2005.001. DEFINITIONS. In this chapter:_  
+|  _(1) "College sport" means an athletic event:_  
+|  _(A)_ _____in which at least one participant is a team_  
+| _from a public or private institution of higher education,_  
+| _regardless of where the institution is located; and_  
+|  _(B) that is not a Texas college sport._  
+|  _(2)_ _____"Commission" means the Texas Commission of_  
+| _Licensing and Regulation._  
+|  _(3)_ _____"Department" means the Texas Department of_  
+| _Licensing and Regulation._  
+|  _(4)_ _____"Executive director" means the executive director_  
+| _of the department._  
+|  _(5)_ _____"Permit holder" means a person who holds a permit_  
+| _issued under this chapter._  
+|  _(6)_ _____"Professional sport" means an athletic event_  
+| _involving at least two human competitors who receive compensation,_  
+| _in excess of their expenses, for participating in the event. The_  
+| _term does not include greyhound racing or horse racing regulated_  
+| _under Subtitle A-1 (Texas Racing Act)._  
+|  _(7)_ _____"Sports betting" means placing a wager on a_  
+| _professional sport or college sport competition._ ___The term does not_  
+| _include wagering on greyhound racing or horse racing regulated_  
+| _under Subtitle A-1 (Texas Racing Act)._  
+|  _(8)_ _____"Sports betting platform" means a website, an_  
+| _application for a wireless telecommunication device, or any other_  
+| _similar technology that allows sports bettors to engage in sports_  
+| _betting._  
+|  _(9)_ _____"Sports bettor" means an individual physically_  
+| _located in this state who participates in sports betting._  
+|  _(10)_ _____"Texas college sport" means an athletic event in_  
+| _which at least one participant is a team from a Texas public or_  
+| _private institution of higher education._  
+|  _(11) "Youth sport" means an athletic event:_  
+|  _(A)_ _____involving a participant who is 17 years of_  
+| _age or younger; or_  
+|  _(B)_ _____in which at least one participant is a team_  
+| _from a public or private elementary, middle, or secondary school,_  
+| _regardless of where the school is located._  
+| _SUBCHAPTER B._ ___POWERS AND DUTIES_  
+|  _Sec._ ___2005.051._ _____SPORTS BETTING PROGRAM. (a) The commission_  
+| _shall operate a sports betting program under the direction of the_  
+| _executive director that allows applicants to apply for permits to_  
+| _engage in sports betting operations in this state._  
+|  _(b)_ _____The commission may establish a sports betting program_  
+| _directed by the executive director that authorizes the department_  
+| _to operate a sports betting platform. Any revenue received from a_  
+| _sports betting platform operated by the department that exceeds the_  
+| _expenses necessary to operate the platform shall be deposited to_  
+| _the credit of the foundation school fund._  
+|  _(c) The executive director may:_  
+|  _(1)_ _____require bond or other surety satisfactory to the_  
+| _executive director from permit holders in the amount provided by_  
+| _rules adopted under this chapter;_  
+|  _(2)_ _____suspend, revoke, or refuse to renew a permit_  
+| _issued under this chapter; and_  
+|  _(3)_ _____enter into contracts for the operation of the_  
+| _sports betting program established under this section and enter_  
+| _into contracts related to sports betting with other states,_  
+| _provided that any contract entered into by the executive director_  
+| _prohibits assignment of the contract except with specific approval_  
+| _of the executive director._  
+|  _Sec._ ___2005.052._ _____RULES._ ___The commission shall adopt the rules_  
+| _necessary to protect the public health and safety, administer this_  
+| _chapter, and regulate a sports betting program established under_  
+| _this chapter._  
+|  _Sec._ ___2005.053._ _____REPORTS._ ___(a)_ ___The executive director
+shall_  
+| _provide to the commission, the comptroller, the governor, the chair_  
+| _of the senate finance committee, and the chair of the house_  
+| _appropriations committee a monthly statement of the sports betting_  
+| _revenues received by the department and the expenses incurred by_  
+| _the department in regulating sports betting for the preceding_  
+| _month._  
+|  _(b)_ _____The executive director shall submit to the governor and_  
+| _the legislature an annual report that includes:_  
+|  _(1)_ _____a statement of the sports betting revenues_  
+| _received by the department and the expenses incurred by the_  
+| _department in regulating sports betting for the preceding state_  
+| _fiscal year; and_  
+|  _(2)_ _____any recommendations, including statutory_  
+| _amendments, of the executive director or commission related to_  
+| _regulating sports betting._  
+|  _(c)_ _____The executive director shall immediately report to the_  
+| _governor and the legislature any matter that requires an immediate_  
+| _change in state law to prevent abuse and circumvention of this_  
+| _chapter or rules adopted under this chapter or to rectify_  
+| _undesirable conditions in connection with the administration or_  
+| _operation of a sports betting program._  
+| _SUBCHAPTER C. SPORTS BETTING REGULATION_  
+|  _Sec._ ___2005.101._ _____PERMIT REQUIRED._ ___A person may not operate a_  
+| _sports betting program in this state unless the person holds a_  
+| _permit issued under this chapter._  
+|  _Sec._ ___2005.102._ _____APPLICATION AND FEE FOR SPORTS BETTING_  
+| _PERMIT; OFFENSE. (a) An applicant for a sports betting permit shall_  
+| _submit to the department:_  
+|  _(1)_ _____an application on a form prescribed by the_  
+| _executive director, containing the information prescribed in_  
+| _Subsection (b); and_  
+|  _(2) a fee of $250,000._  
+|  _(b)_ _____An application for a sports betting permit must include_  
+| _the following information:_  
+|  _(1) the applicant's background in sports betting;_  
+|  _(2)_ _____the applicant's experience in wagering activities_  
+| _in this state and other jurisdictions, including the applicant's_  
+| _history and reputation of operational integrity and regulatory_  
+| _compliance;_  
+|  _(3)_ _____the applicant's proposed internal controls,_  
+| _including controls to ensure that an individual who is excluded_  
+| _from participating in sports betting does not participate in sports_  
+| _betting;_  
+|  _(4)_ _____the applicant's history of preventing compulsive_  
+| _gambling, including employee training programs; and_  
+|  _(5)_ _____any other information the executive director_  
+| _considers necessary._  
+|  _(c)_ _____The department shall conduct a background investigation_  
+| _on each applicant for a sports betting permit. The background_  
+| _investigation must include a credit history check, a tax record_  
+| _check, and a criminal history record check._  
+|  _(d)_ _____The executive director may issue no more than five_  
+| _permits under this section._ ___If more than five applicants submit_  
+| _applications, the executive director shall issue permits to the_  
+| _five applicants the executive director determines will best:_  
+|  _(1) perform the duties of a permit holder; and_  
+|  _(2) maximize revenue to this state._  
+|  _(e)_ _____A permit that is revoked or expired is not counted for_  
+| _purposes of the limit provided by Subsection (d)._  
+|  _(f)_ _____The executive director shall approve an application and_  
+| _grant a permit not later than the 60th day after the date the_  
+| _application is received unless the executive director:_  
+|  _(1)_ _____is prohibited from issuing additional permits_  
+| _under Subsection (d); or_  
+|  _(2)_ _____finds an applicable ground for denial under_  
+| _Section 2005.103._  
+|  _(g)_ _____The executive director's decision under Subsection (f)_  
+| _is final unless appealed in accordance with this chapter._  
+|  _Sec._ ___2005.103._ _____DENIAL OF PERMIT ISSUANCE OR RENEWAL._ ___The_  
+| _executive director may deny issuance or renewal of a permit if:_  
+|  _(1) the executive director reasonably believes:_  
+|  _(A)_ _____the applicant is unable to satisfy the duties_  
+| _of a permit holder as described in Section 2005.107;_  
+|  _(B)_ _____the applicant or its directors lack good_  
+| _character, honesty, or integrity; or_  
+|  _(C)_ _____the applicant's prior activities, criminal_  
+| _history, reputation, or associations are likely to:_  
+|  _(i) pose a threat to the public interest;_  
+|  _(ii)_ _____impede the regulation of sports_  
+| _betting; or_  
+|  _(iii)_ _____promote unfair or illegal activities_  
+| _in the conduct of sports betting;_  
+|  _(2)_ _____the applicant or its directors knowingly make a_  
+| _false statement of material fact or deliberately fail to disclose_  
+| _information requested by the executive director;_  
+|  _(3)_ _____the applicant or its directors knowingly fail to_  
+| _comply with this chapter, rules adopted under this chapter, or any_  
+| _requirements of the executive director;_  
+|  _(4)_ _____the applicant or its directors were convicted of a_  
+| _felony, a crime of moral turpitude, or any criminal offense_  
+| _involving dishonesty or breach of trust within the 10 years_  
+| _preceding the date the permit application is submitted;_  
+|  _(5)_ _____the applicant's license, registration, or permit_  
+| _to conduct a sports betting operation issued by any other_  
+| _jurisdiction has been suspended or revoked;_  
+|  _(6)_ _____the applicant defaults in payment of any_  
+| _obligation or debt due to this state; or_  
+|  _(7) the applicant's application is incomplete._  
+|  _Sec._ ___2005.104._ _____BOND REQUIRED._ ___Before issuance of a permit,_  
+| _each permit holder must be bonded by a surety company entitled to_  
+| _conduct business in this state in the amount provided by commission_  
+| _rule._  
+|  _Sec._ ___2005.105._ _____RENEWAL OF PERMIT. (a) A permit issued under_  
+| _this subchapter expires on the third anniversary of the date the_  
+| _permit is issued._  
+|  _(b)_ _____Not later than the 60th day before the date a permit_  
+| _expires, a permit holder wishing to renew the permit shall submit to_  
+| _the department:_  
+|  _(1)_ _____a renewal application on a form prescribed by the_  
+| _executive director; and_  
+|  _(2) a renewal fee of $200,000._  
+|  _(c)_ _____The executive director may deny a permit renewal if the_  
+| _executive director finds a ground for denial under Section_  
+| _2005.103._  
+|  _(d)_ _____The executive director's action is final unless_  
+| _appealed in accordance with this chapter._  
+|  _Sec._ ___2005.106._ _____CRIMINAL PENALTY._ ___(a)_ ___Any person who_  
+| _knowingly falsifies, conceals, or misrepresents a material fact or_  
+| _knowingly makes a false, fictitious, or fraudulent statement or_  
+| _representation in any application under this subchapter commits an_  
+| _offense._  
+|  _(b)_ _____An offense under Subsection (a) is a Class A_  
+| _misdemeanor._  
+|  _Sec._ ___2005.107._ _____DUTIES OF PERMIT HOLDERS. (a) A permit_  
+| _holder shall ensure that its sports betting operation takes_  
+| _reasonable measures to:_  
+|  _(1)_ _____allow only individuals physically located in this_  
+| _state to place bets through the permit holder's sports betting_  
+| _platform;_  
+|  _(2)_ _____protect the confidential information of sports_  
+| _bettors using the permit holder's sports betting platform;_  
+|  _(3)_ _____prevent betting that is prohibited under this_  
+| _chapter or other state law;_  
+|  _(4)_ _____allow an individual to restrict the individual's_  
+| _access to placing bets with the permit holder, including sharing_  
+| _with the department on the individual's request the restriction for_  
+| _the sole purpose of the department disseminating the request to_  
+| _other permit holders;_  
+|  _(5)_ _____establish procedures to detect suspicious or_  
+| _illegal betting activity, including measures to immediately report_  
+| _the activity to the department; and_  
+|  _(6)_ _____provide for the appropriate withholding of the_  
+| _applicable amount of state tax as required by Section 2005.108 and_  
+| _any federal income tax required under other laws or by rule for_  
+| _persons who receive income from sports betting._  
+|  _(b) A permit holder shall maintain records on:_  
+|  _(1)_ _____all sports betting placed with the permit holder,_  
+| _including records of:_  
+|  _(A) a sports bettor's personal information;_  
+|  _(B) the amount and type of bet;_  
+|  _(C) the time and location of the bet; and_  
+|  _(D) the outcome of the bet; and_  
+|  _(2) suspicious or illegal sports betting activity._  
+|  _(c)_ _____A permit holder shall disclose the records described in_  
+| _Subsection (b) to the department on request and shall maintain the_  
+| _records until at least the third anniversary of the date the related_  
+| _sports event occurs._  
+|  _(d)_ _____A permit holder shall ensure that advertisements for its_  
+| _sports betting operations:_  
+|  _(1) disclose the identity of the permit holder;_  
+|  _(2)_ _____provide information about or links to resources_  
+| _related to gambling addiction;_  
+|  _(3) are not misleading to a reasonable person; and_  
+|  _(4) do not target persons under the age of 21._  
+|  _(e)_ _____A permit holder may not sublicense, convey, concede, or_  
+| _otherwise transfer a permit to a third party._  
+|  _(f)_ _____A permit holder is prohibited from holding itself out to_  
+| _the public as a sports betting operation under more than two brands._  
+|  _(g)_ _____A permit holder shall conspicuously display the permit_  
+| _holder's identity to sports bettors on any sports betting platform_  
+| _operated by the permit holder._  
+|  _Sec._ ___2005.108._ _____TAX; USE OF TAX REVENUE. (a)_ _____A tax of 6.25_  
+| _percent is imposed on each bet placed by a sports bettor under this_  
+| _chapter. The tax is to be collected by the permit holder at the time_  
+| _the bet is placed._  
+|  _(b)_ _____The tax imposed under this section is payable monthly to_  
+| _the department, and the permit holder shall remit the taxes on or_  
+| _before the 20th day of the next calendar month._  
+|  _(c)_ _____If the permit holder's accounting necessitates_  
+| _corrections to a previously remitted tax, the permit holder shall_  
+| _document the corrections when the following month's taxes are paid._  
+|  _(d)_ _____The department shall deposit tax revenue collected_  
+| _under this section to the credit of the foundation school fund._  
+|  _Sec._ ___2005.109._ _____LIQUIDITY POOLS. (a)_ _____The commission may_  
+| _adopt rules authorizing permit holders to offset loss and manage_  
+| _risk, directly or with a third party approved by the department,_  
+| _through the use of a liquidity pool in this state or another_  
+| _jurisdiction provided that the permit holder, or an affiliate of_  
+| _the permit holder, is licensed or otherwise authorized by that_  
+| _jurisdiction to operate a sports betting business._  
+|  _(b)_ _____A permit holder's use of a liquidity pool does not_  
+| _eliminate the permit holder's duty to ensure that sufficient funds_  
+| _are available to pay bettors._  
+|  _Sec._ ___2005.110._ _____INTERMEDIATE ROUTING OF ELECTRONIC DATA._  
+| _(a)_ _____Sports betting offered to a sports bettor in this state must be_  
+| _initiated and received within this state unless otherwise_  
+| _authorized by federal law._  
+|  _(b)_ _____The intermediate routing of electronic data relating to_  
+| _sports betting authorized under this chapter does not determine the_  
+| _location in which a bet is initiated and received for purposes of_  
+| _determining compliance with this chapter._  
+| _SUBCHAPTER D. DISCIPLINARY ACTIONS AND PENALTIES_  
+|  _Sec._ ___2005.151._ _____CIVIL PENALTIES; SUSPENSION AND REVOCATION_  
+| _OF PERMIT. (a)_ _____If the executive director determines a permit_  
+| _holder has violated this chapter or rules adopted under this_  
+| _chapter, the executive director in accordance with Chapter 51 may:_  
+|  _(1) suspend or revoke the permit holder's permit; and_  
+|  _(2)_ _____impose a monetary penalty not to exceed $1,000 for_  
+| _each violation of this chapter._  
+|  _(b)_ _____An action taken by the executive director under this_  
+| _section is final unless appealed in accordance with Sec. 2005.152._  
+|  _Sec._ ___2005.152._ _____APPEAL. (a)_ _____The commission shall hear and_  
+| _decide an appeal of any denial of a permit by the executive director_  
+| _or suspension or revocation of a permit under this chapter._  
+|  _(b)_ _____The action of the commission in granting or denying a_  
+| _permit, or suspending or revoking a permit under this chapter may be_  
+| _referred to the State Office of Administrative Hearings for a_  
+| _contested case hearing._  
+|  _Sec._ ___2005.153._ _____PROHIBITED BETTING; OFFENSES. (a)_ _____A person_  
+| _commits an offense if the person places or accepts a bet on Texas_  
+| _college sports or youth sports._  
+|  _(b)_ _____A person commits an offense if the person knowingly_  
+| _accepts or redeems or offers to accept or redeem a sports bet made_  
+| _by or on behalf of a person under 21 years of age._  
+|  _(c) An offense under this section is a Class A misdemeanor._  
+|  _(d)_ _____If conduct that constitutes an offense under this_  
+| _section also constitutes an offense under another law, the actor_  
+| _may be prosecuted under this section, the other law, or both._  
+|  _Sec._ ___2005.154._ _____PERSONS PROHIBITED FROM BETTING; OFFENSE._  
+| _(a)_ _____A person commits an offense if the person places a sports bet_  
+| _and the person is:_  
+|  _(1)_ _____a member, officer, or employee of the commission_  
+| _or the department;_  
+|  _(2)_ _____a permit holder or an officer or employee of a_  
+| _permit holder;_  
+|  _(3)_ _____an officer or an employee of any entity working_  
+| _directly on a contract relating to sports betting with the_  
+| _department; or_  
+|  _(4)_ _____a competitor, coach, trainer, employee, or owner_  
+| _of a team in a sports event, or any referee for a sports event, and_  
+| _the actor places the sports bet on that event._  
+|  _(b) An offense under this section is a Class A misdemeanor._  
+|  _(c)_ _____If conduct that constitutes an offense under this_  
+| _section also constitutes an offense under another law, the actor_  
+| _may be prosecuted under this section, the other law, or both._  
+|  _Sec._ ___2005.155._ _____OPERATION AND ADVERTISING OF UNPERMITTED_  
+| _FACILITY PROHIBITED; CIVIL PENALTY. (a)_ _____A person may not make the_  
+| _person's premises available for placing wagers on sports betting_  
+| _using the Internet or advertise that the person's premises may be_  
+| _used for that purpose unless the person holds a permit issued under_  
+| _this chapter._  
+|  _(b)_ _____The executive director may impose a monetary penalty for_  
+| _each violation of this section. For a person determined to have_  
+| _made the person's premises available for placing wagers on sports_  
+| _betting using the Internet, the penalty may not exceed $1,000 per_  
+| _day per individual who places a bet. For a person determined to have_  
+| _advertised that the person's premises may be used for that purpose,_  
+| _the penalty may not exceed $10,000 per violation._  
+|  SECTION 2. Section 47.02(c), Penal Code, as effective April  
+| 1, 2019, is amended to read as follows:  
+|  (c) It is a defense to prosecution under this section that  
+| the actor reasonably believed that the conduct:  
+|  (1) was permitted under Chapter 2001, Occupations  
+| Code;  
+|  (2) was permitted under Chapter 2002, Occupations  
+| Code;  
+|  (3) was permitted under Chapter 2004, Occupations  
+| Code;  
+|  (4) _was permitted under Chapter 2005, Occupations_  
+| _Code;_  
+|  _(5)_ consisted entirely of participation in the state  
+| lottery authorized by the State Lottery Act (Chapter 466,  
+| Government Code);  
+|  _(6)_ [ ~~(5)~~ ] was permitted under Subtitle A-1, Title 13,  
+| Occupations Code (Texas Racing Act); or  
+|  _(7)_ [ ~~(6)~~ ] consisted entirely of participation in a  
+| drawing for the opportunity to participate in a hunting, fishing,  
+| or other recreational event conducted by the Parks and Wildlife  
+| Department.  
+|  SECTION 3. Section 47.09(a), Penal Code, as effective April  
+| 1, 2019, is amended to read as follows:  
+|  (a) It is a defense to prosecution under this chapter that  
+| the conduct:  
+|  (1) was authorized under:  
+|  (A) Chapter 2001, Occupations Code;  
+|  (B) Chapter 2002, Occupations Code;  
+|  (C) Chapter 2004, Occupations Code;  
+|  (D) _Chapter 2005, Occupations Code;_  
+|  _(E)_ Subtitle A-1, Title 13, Occupations Code  
+| (Texas Racing Act); or  
+|  _(F)_ [ ~~(E)~~ ] Chapter 280, Finance Code;  
+|  (2) consisted entirely of participation in the state  
+| lottery authorized by Chapter 466, Government Code; or  
+|  (3) was a necessary incident to the operation of the  
+| state lottery and was directly or indirectly authorized by:  
+|  (A) Chapter 466, Government Code;  
+|  (B) the lottery division of the Texas Lottery  
+| Commission;  
+|  (C) the Texas Lottery Commission; or  
+|  (D) the director of the lottery division of the  
+| Texas Lottery Commission.  
+|  SECTION 4. This Act takes effect January 1, 2020, but only  
+| if the constitutional amendment authorizing the legislature to  
+| legalize sports betting in this state is approved by the voters.  If  
+| that amendment is not approved by the voters, this Act has no  
+| effect.
+

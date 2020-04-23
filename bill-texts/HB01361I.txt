@@ -1,0 +1,28 @@
+| 86R3304 SRA-F  
+---|---  
+|  By: Wu | H.B. No. 1361  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an immunization rate tracking system for employees and  
+| residents of certain long-term care facilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 161, Health and Safety  
+| Code, is amended by adding Section 161.0053 to read as follows:  
+|  _Sec._ ___161.0053._ _____IMMUNIZATION RATE TRACKING SYSTEM FOR_  
+| _LONG-TERM CARE FACILITIES. (a) In this section, "long-term care_  
+| _facility" means a facility licensed or regulated under Chapter 242,_  
+| _247, or 252._  
+|  _(b)_ _____A long-term care facility shall maintain a system to_  
+| _track the immunization rates of the facility's employees and_  
+| _residents. The system must include information on:_  
+|  _(1)_ _____the aggregate immunization rates of the facility's_  
+| _employees and residents; and_  
+|  _(2)_ _____changes to the aggregate immunization rates_  
+| _described by Subdivision (1)._  
+|  _(c)_ _____A long-term care facility on request shall provide the_  
+| _immunization rate data described by Subsection (b). The data_  
+| _provided by the facility may not in any manner identify an employee_  
+| _or resident._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

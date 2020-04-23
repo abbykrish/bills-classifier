@@ -1,0 +1,101 @@
+| 86R24844 GRM-D  
+---|---  
+|  By: Lopez | H.B. No. 4756  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to authorizing the increase or decrease of the rates of the  
+| gasoline and diesel fuel taxes based on the cost of certain highway  
+| projects.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. (a)  Subchapter B, Chapter 162, Tax Code, is  
+| amended by adding Section 162.1021 to read as follows:  
+|  _Sec._ ___162.1021._ _____ANNUAL RATE CHANGE ACCORDING TO HIGHWAY COST_  
+| _INDEX. (a) In this section:_  
+|  _(1)_ _____"Highway cost index" means the 12-month moving_  
+| _average of the price of materials and labor compiled by the Texas_  
+| _Department of Transportation and incorporated into state highway_  
+| _projects._  
+|  _(2)_ _____"Highway cost index percentage change" means the_  
+| _percentage increase or decrease in the highway cost index of a given_  
+| _state fiscal year from the highway cost index of the preceding state_  
+| _fiscal year._  
+|  _(b)_ _____Notwithstanding Section 162.102,_ ___on January 1 of each_  
+| _year, the rate of the gasoline tax imposed under this subchapter is_  
+| _increased or decreased by a percentage equal to the highway cost_  
+| _index percentage change for the preceding state fiscal year._  
+|  _(c)_ _____Not later than December 1 of each year, the comptroller_  
+| _shall:_  
+|  _(1)_ _____compute the new tax rate as provided by this_  
+| _section;_  
+|  _(2)_ _____give the new tax rate to the secretary of state for_  
+| _publication in the Texas Register; and_  
+|  _(3)_ _____notify each license holder under this subchapter_  
+| _of the applicable new tax rate._  
+|  (b) The comptroller shall compute the initial adjusted tax  
+| rate as required by Section 162.1021(c), Tax Code, as added by this  
+| section, not later than December 1, 2019. The initial adjusted rate  
+| takes effect January 1, 2020.  
+|  SECTION 2. Effective January 1, 2020, Section 162.103(a),  
+| Tax Code, is amended to read as follows:  
+|  (a) A backup tax is imposed at the rate prescribed by  
+| Section 162.102 _or 162.1021_ on:  
+|  (1) a person who obtains a refund of tax on gasoline by  
+| claiming the gasoline was used for an off-highway purpose, but  
+| actually uses the gasoline to operate a motor vehicle on a public  
+| highway;  
+|  (2) a person who operates a motor vehicle on a public  
+| highway using gasoline on which tax has not been paid;  
+|  (3) a person who sells to the ultimate consumer  
+| gasoline on which tax has not been paid and who knew or had reason to  
+| know that the gasoline would be used for a taxable purpose; and  
+|  (4) a person, other than a person exempted under  
+| Section 162.104, who acquires gasoline on which tax has not been  
+| paid from any source in this state.  
+|  SECTION 3. (a)  Subchapter C, Chapter 162, Tax Code, is  
+| amended by adding Section 162.2021 to read as follows:  
+|  _Sec._ ___162.2021._ _____ANNUAL RATE CHANGE ACCORDING TO HIGHWAY COST_  
+| _INDEX. (a) In this section:_  
+|  _(1)_ _____"Highway cost index" means the 12-month moving_  
+| _average of the price of materials and labor compiled by the Texas_  
+| _Department of Transportation and incorporated into state highway_  
+| _projects._  
+|  _(2)_ _____"Highway cost index percentage change" means the_  
+| _percentage increase or decrease in the highway cost index of a given_  
+| _state fiscal year from the highway cost index of the preceding state_  
+| _fiscal year._  
+|  _(b)_ _____Notwithstanding Section 162.202,_ ___on January 1 of each_  
+| _year, the rate of the diesel fuel tax imposed under this subchapter_  
+| _is increased or decreased by a percentage equal to the highway cost_  
+| _index percentage change for the preceding state fiscal year._  
+|  _(c)_ _____Not later than December 1 of each year, the comptroller_  
+| _shall:_  
+|  _(1)_ _____compute the new tax rate as provided by this_  
+| _section;_  
+|  _(2)_ _____give the new tax rate to the secretary of state for_  
+| _publication in the Texas Register; and_  
+|  _(3)_ _____notify each license holder under this subchapter_  
+| _of the applicable new tax rate._  
+|  (b) The comptroller shall compute the initial adjusted tax  
+| rate as required by Section 162.2021(c), Tax Code, as added by this  
+| section, not later than December 1, 2019. The initial adjusted rate  
+| takes effect January 1, 2020.  
+|  SECTION 4. Effective January 1, 2020, Section 162.203(a),  
+| Tax Code, is amended to read as follows:  
+|  (a) A backup tax is imposed at the rate prescribed by  
+| Section 162.202 _or 162.2021_ on:  
+|  (1) a person who obtains a refund of tax on diesel fuel  
+| by claiming the diesel fuel was used for an off-highway purpose, but  
+| actually uses the diesel fuel to operate a motor vehicle on a public  
+| highway;  
+|  (2) a person who operates a motor vehicle on a public  
+| highway using diesel fuel on which tax has not been paid;  
+|  (3) a person who sells to the ultimate consumer diesel  
+| fuel on which a tax has not been paid and who knew or had reason to  
+| know that the diesel fuel would be used for a taxable purpose; and  
+|  (4) a person, other than a person exempted under  
+| Section 162.204, who acquires diesel fuel on which tax has not been  
+| paid from any source in this state.  
+|  SECTION 5. Except as otherwise provided by this Act, this  
+| Act takes effect September 1, 2019.
+

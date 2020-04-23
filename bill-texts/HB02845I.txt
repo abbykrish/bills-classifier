@@ -1,0 +1,179 @@
+| 86R8618 JXC-F  
+---|---  
+|  By: Canales | H.B. No. 2845  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the removal of wind power facilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The Utilities Code is amended by adding Title 6  
+| to read as follows:  
+| _TITLE 6. WIND POWER_  
+| _CHAPTER 301. WIND POWER FACILITY AGREEMENTS_  
+|  _Sec. 301.0001. DEFINITIONS. In this chapter:_  
+|  _(1) "Grantee" means a person who:_  
+|  _(A) leases property from a landowner; and_  
+|  _(B)_ _____operates a wind power facility on the_  
+| _property._  
+|  _(2) "Wind power facility" includes:_  
+|  _(A) a wind turbine generator; and_  
+|  _(B)_ _____a facility or equipment used to support the_  
+| _operation of a wind turbine generator, including an underground or_  
+| _aboveground electrical transmission or communications line, an_  
+| _electric transformer, a battery storage facility, an energy storage_  
+| _facility, telecommunications equipment, a road, a meteorological_  
+| _tower with wind measurement equipment, or a maintenance yard._  
+|  _(3)_ _____"Wind power facility agreement" means a lease_  
+| _agreement between a grantee and a landowner that authorizes the_  
+| _grantee to operate a wind power facility on the leased property._  
+|  _Sec._ ___301.0002._ _____WAIVER VOID; REMEDIES. (a) A provision of a_  
+| _wind power facility agreement that purports to waive a right or_  
+| _exempt a grantee from a liability or duty established by this_  
+| _chapter is void._  
+|  _(b)_ _____A person who is harmed by a violation of this chapter is_  
+| _entitled to appropriate injunctive relief to prevent further_  
+| _violation of this chapter._  
+|  _(c)_ _____The provisions of this section are not exclusive. The_  
+| _remedies provided in this section are in addition to any other_  
+| _procedures or remedies provided by other law._  
+|  _Sec._ ___301.0003._ _____REQUIRED AGREEMENT PROVISIONS ON FACILITY_  
+| _REMOVAL. (a) A wind power facility agreement must provide that the_  
+| _grantee is responsible for removing the grantee's wind power_  
+| _facilities from the landowner's property and that the grantee_  
+| _shall, in accordance with any other applicable laws or regulations,_  
+| _safely:_  
+|  _(1) clear, clean, and remove from the property:_  
+|  _(A)_ _____each wind turbine generator, including_  
+| _towers and pad-mount transformers;_  
+|  _(B)_ _____all liquids, greases, or similar substances_  
+| _contained in a wind turbine generator;_  
+|  _(C) each substation; and_  
+|  _(D)_ _____all liquids, greases, or similar substances_  
+| _contained in a substation;_  
+|  _(2)_ _____for each tower foundation and pad-mount_  
+| _transformer foundation installed in the ground:_  
+|  _(A)_ _____clear, clean, and remove the foundation from_  
+| _the ground at least three feet from the grade of the land affected_  
+| _by the foundation; and_  
+|  _(B)_ _____ensure that each hole or cavity created in_  
+| _the ground by the removal is filled with topsoil of the same type or_  
+| _a similar type as the predominant topsoil found on the property;_  
+|  _(3)_ _____for each buried cable, including power,_  
+| _fiber-optic, and communications cables, installed in the ground:_  
+|  _(A)_ _____clear, clean, and remove the cable from the_  
+| _ground at least three feet below the grade of the land affected by_  
+| _the cable; and_  
+|  _(B)_ _____ensure that each hole or cavity created in_  
+| _the ground by the removal is filled with topsoil of the same type or_  
+| _a similar type as the predominant topsoil found on the property; and_  
+|  _(4)_ _____clear, clean, and remove from the property each_  
+| _overhead power or communications line installed by the grantee on_  
+| _the property._  
+|  _(b)_ _____The agreement must provide that, at the request of the_  
+| _landowner, the grantee shall:_  
+|  _(1)_ _____clear, clean, and remove each road constructed by_  
+| _the grantee on the property; and_  
+|  _(2)_ _____ensure that each hole or cavity created in the_  
+| _ground by the removal is filled with topsoil of the same type or a_  
+| _similar type as the predominant topsoil found on the property._  
+|  _(c)_ _____The agreement must provide that, at the request of the_  
+| _landowner, if reasonable, the grantee shall:_  
+|  _(1)_ _____remove from the property all rocks over 12 inches_  
+| _in diameter excavated during the decommissioning or removal_  
+| _process;_  
+|  _(2)_ _____return the property to a tillable state using_  
+| _scarification, V-rip, or disc methods, as appropriate; and_  
+|  _(3) ensure that:_  
+|  _(A)_ _____each hole or cavity created in the ground by_  
+| _the removal is filled with topsoil of the same type or a similar_  
+| _type as the predominant topsoil found on the property; and_  
+|  _(B)_ _____the surface is returned to the same condition_  
+| _as before the grantee dug holes or cavities, including by reseeding_  
+| _pastureland with native grasses prescribed by an appropriate_  
+| _governmental agency, if any._  
+|  _(d)_ _____The agreement may not authorize the landowner to make a_  
+| _request under Subsection (b) or (c) after the first anniversary of_  
+| _the end of the wind power facility's useful life._ ___The facility's_  
+| _useful life is presumed to be at an end if the facility is no longer_  
+| _being used to generate electricity._  
+|  _Sec._ ___301.0004._ _____REQUIRED AGREEMENT PROVISIONS ON REMOVAL_  
+| _BOND. (a) A wind power facility agreement must provide that the_  
+| _grantee shall obtain and deliver to the landowner a bond or other_  
+| _form of financial assurance, such as a letter of credit, an escrow_  
+| _account, or other form of financial assurance acceptable to the_  
+| _landowner, that conforms to the requirements of this section to_  
+| _secure the performance of the grantee's obligation to remove the_  
+| _grantee's wind power facilities located on the landowner's property_  
+| _as described by Section 301.0003._  
+|  _(b)_ _____The amount of the bond or other financial assurance must_  
+| _be at least equal to the estimated cost of removing the wind power_  
+| _facilities from the landowner's property and restoring the property_  
+| _to as near as reasonably possible the condition of the property as_  
+| _of the date the agreement begins._  
+|  _(c) The agreement must provide that:_  
+|  _(1)_ _____if the landowner and the grantee cannot agree in_  
+| _good faith on the estimated cost described by Subsection (b) before_  
+| _the 60th day after the date of their first attempt to agree on the_  
+| _cost, the landowner and the grantee shall mutually select a_  
+| _qualified independent engineer who will determine an estimated_  
+| _cost; and_  
+|  _(2)_ _____if the landowner and the grantee cannot mutually_  
+| _select an engineer before the 30th day after the date of their first_  
+| _attempt to agree on an engineer, the landowner may petition the_  
+| _district judge of the county in which the landowner's property is_  
+| _located to appoint a qualified independent engineer to determine an_  
+| _estimated cost._  
+|  _(d)_ _____The estimated cost determined by an engineer selected or_  
+| _appointed under Subsection (c) is binding, and the grantee shall_  
+| _obtain and deliver to the landowner a bond or other financial_  
+| _assurance of that amount._  
+|  _(e) The agreement must provide that:_  
+|  _(1)_ _____the landowner may request that the grantee_  
+| _increase the amount of the bond or other financial assurance not_  
+| _more than once every two years;_  
+|  _(2)_ _____the amount of the new bond or other financial_  
+| _assurance shall be determined according to the procedures provided_  
+| _by Subsections (b), (c), and (d); and_  
+|  _(3)_ _____except as provided by Subsection (f), the amount_  
+| _of the bond or other financial assurance may not be decreased._  
+|  _(f)_ _____The agreement must provide that the grantee may decrease_  
+| _the amount of a bond or other financial assurance described by this_  
+| _section if:_  
+|  _(1)_ _____at least 60 percent of the wind turbines in the_  
+| _wind power facilities located on the landowner's property are_  
+| _repowered and refitted after the effective date of the original_  
+| _bond or other financial assurance; and_  
+|  _(2)_ _____the amount of the new bond or other financial_  
+| _assurance is determined according to the procedures provided by_  
+| _Subsections (b), (c), and (d)._  
+|  _(g)_ _____The grantee is responsible for the costs of obtaining a_  
+| _bond or other financial assurance described by this section and_  
+| _costs of determining the estimated removal costs, including any_  
+| _costs associated with obtaining an estimate from an independent_  
+| _engineer._  
+|  _(h)_ _____The agreement must provide that the grantee shall_  
+| _deliver the bond or other financial assurance not later than the_  
+| _earlier of:_  
+|  _(1)_ _____the date the wind power facility agreement is_  
+| _terminated; or_  
+|  _(2)_ _____the 10th anniversary of the date that wind turbine_  
+| _generators representing at least 95 percent of the installed_  
+| _capacity of the wind power facilities located on the landowner's_  
+| _leased property are authorized and able to continuously and_  
+| _reliably generate and deliver energy, other than test energy, to_  
+| _the electric utility grid._  
+|  _(i)_ _____The grantee may not cancel a bond or other financial_  
+| _assurance before the date the grantee has completed the grantee's_  
+| _obligation to remove the grantee's wind power facilities located on_  
+| _the landowner's property in the manner provided by this chapter,_  
+| _unless the grantee provides the landowner with a replacement bond_  
+| _or replacement financial assurance at the time of or before the_  
+| _cancellation._  
+|  SECTION 2. Chapter 301, Utilities Code, as added by this  
+| Act, applies only to a wind power facility agreement entered into on  
+| or after the effective date of this Act. A wind power facility  
+| agreement entered into before the effective date of this Act is  
+| governed by the law as it existed immediately before that date, and  
+| that law is continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

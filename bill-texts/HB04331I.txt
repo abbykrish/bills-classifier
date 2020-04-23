@@ -1,0 +1,120 @@
+| 86R15082 JRJ-D  
+---|---  
+|  By: Schaefer | H.B. No. 4331  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the verification of citizenship of an applicant for  
+| voter registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.002(a), Election Code, is amended to  
+| read as follows:  
+|  (a) A person desiring to register to vote must submit an  
+| application to the registrar of the county in which the person  
+| resides. Except as provided by Subsection (e), an application must  
+| be submitted by personal delivery, by mail, or by telephonic  
+| facsimile machine in accordance with _Section 13.143(d-2)_ [ ~~Sections~~  
+|  ~~13.143(d) and (d-2)~~ ].  
+|  SECTION 2. Section 13.046(f), Election Code, is amended to  
+| read as follows:  
+|  (f) Except as provided by this subsection, Sections  
+| 13.039[ ~~, 13.041,~~ ] and 13.042 apply to the submission and delivery  
+| of registration applications under this section, and for that  
+| purpose, "volunteer deputy registrar" in those sections includes a  
+| high school deputy registrar. A high school deputy registrar may  
+| review an application for completeness out of the applicant's  
+| presence. A deputy may deliver a group of applications to the  
+| registrar by mail in an envelope or package, and, for the purpose of  
+| determining compliance with the delivery deadline, an application  
+| delivered by mail is considered to be delivered at the time of its  
+| receipt by the registrar.  
+|  SECTION 3. Section 13.071, Election Code, is amended by  
+| amending Subsection (a) and adding Subsection (c) to read as  
+| follows:  
+|  (a) The registrar shall review each submitted application  
+| for registration to determine whether it complies with Section  
+| 13.002 and indicates that the applicant is _a United States citizen_  
+| eligible for registration.  
+|  _(c)_ _____In making a determination under this section, the_  
+| _registrar must compare the information on the application for_  
+| _registration with information submitted to the secretary of state_  
+| _by the Department of Public Safety under Section 18.068(a-1). If_  
+| _information combinations identified as common to an applicant and_  
+| _to an individual who may not be a citizen constitute a match, the_  
+| _registrar shall verify the applicant's citizenship in the same_  
+| _manner the registrar verifies a registered voter's citizenship_  
+| _under Section 16.0332. The secretary of state shall adopt rules and_  
+| _prescribe procedures to implement this subsection._  
+|  SECTION 4. Section 13.143(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Except as provided by _Subsection_ [ ~~Subsections~~ ] (b) [ ~~and~~  
+|  ~~(e)~~ ], if an applicant's registration application is approved, the  
+| registration becomes effective on the 30th day after the date the  
+| application is _approved_ [ ~~submitted to the registrar~~ ] or on the date  
+| the applicant becomes 18 years of age, whichever is later.  
+|  SECTION 5. Section 16.0332, Election Code, is amended to  
+| read as follows:  
+|  Sec. 16.0332. CANCELLATION BECAUSE OF CITIZENSHIP STATUS.  
+| (a)  After the registrar receives _notification_ [ ~~a list~~ ] under  
+| Section 18.068 of this code or Section 62.113, Government Code, of  
+| persons excused or disqualified from jury service because of  
+| citizenship status _or notification under Section 18.068 that a_  
+| _person registered to vote in the county may not be a citizen_ , the  
+| registrar shall deliver to each registered voter whose name appears  
+| _in the notification_ [ ~~on the list~~ ] a written notice requiring the  
+| voter to submit to the registrar proof of United States citizenship  
+| in the form of a certified copy of the voter's birth certificate,  
+| United States passport, or certificate of naturalization or any  
+| other form prescribed by the secretary of state.  
+|  _(a-1)_ The notice shall be delivered by forwardable mail to  
+| the mailing address on the voter's registration application and to  
+| any new address of the voter known to the registrar.  
+|  (b) If a voter fails to submit to the registrar proof of  
+| citizenship on or before the 30th day after the date the notice is  
+| mailed, the registrar shall cancel the voter's registration.  
+|  (c) The registrar shall retain a copy of the notice mailed  
+| to a voter under this section on file with the voter's registration  
+| application.  The registrar shall also retain any proof of  
+| citizenship received under this section on file with the  
+| application _and send an electronic copy of the proof to the_  
+| _secretary of state_.  
+|  _(d)_ _____The secretary of state shall adopt rules and prescribe_  
+| _procedures to implement this section._  
+|  SECTION 6. Section 18.068, Election Code, is amended by  
+| amending Subsections (b) and (d) and adding Subsection (a-1) to  
+| read as follows:  
+|  _(a-1)_ _____Once a month on a date specified by the secretary of_  
+| _state, the Department of Public Safety shall in accordance with_  
+| _Section 730.005(9), Transportation Code, provide to the secretary_  
+| _of state available information as determined by the secretary of_  
+| _state related to the citizenship of the applicant submitted on an_  
+| _application for a driver's license or personal identification card_  
+| _issued by the department. Periodically, the secretary of state_  
+| _shall compare the information received to the statewide_  
+| _computerized voter registration list._ ___If the secretary determines_  
+| _that a voter on the registration list may not be a citizen, the_  
+| _secretary shall send notice of the determination to the voter_  
+| _registrar of the counties considered appropriate by the secretary._  
+|  (b) The secretary of state shall by rule determine what  
+| information combinations identified as common to a voter and to an  
+| individual _for whom the secretary of state has received information_  
+| _under this section_ [ ~~who is deceased~~ ] constitute a weak match or a  
+| strong match in order to:  
+|  (1) produce the least possible impact on Texas voters;  
+| and  
+|  (2) fulfill its responsibility to manage the voter  
+| rolls.  
+|  (d) On receiving notification from the secretary of state  
+| under Subsection (c) that a weak match of identifying information  
+| exists for a county voter and an individual who is deceased, _or_  
+| _notification under Subsection (a-1) that a match exists for a_  
+| _county voter and an individual who may not be a citizen,_ the county  
+| shall investigate whether the voter is the individual who is  
+| deceased _or whether the voter is a citizen, as applicable_.  
+|  SECTION 7. Sections 13.041 and 13.143(d) and (e), Election  
+| Code, are repealed.  
+|  SECTION 8. The changes in law made by this Act apply only to  
+| an application to register to vote submitted on or after the  
+| effective date of this Act.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

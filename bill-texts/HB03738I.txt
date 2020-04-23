@@ -1,0 +1,80 @@
+| 86R11501 EAS-D  
+---|---  
+|  By: Goldman | H.B. No. 3738  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to creating an Internet website of certain day-care  
+| providers and parenting resources.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The heading to Section 42.025, Human Resources  
+| Code, is amended to read as follows:  
+|  Sec. 42.025. SEARCHABLE DATABASE _OF PREVIOUSLY DISCIPLINED_  
+| _FAMILY HOMES_.  
+|  SECTION 2. Subchapter B, Chapter 42, Human Resources Code,  
+| is amended by adding Section 42.026 to read as follows:  
+|  _Sec._ ___42.026._ _____INTERNET WEBSITE LISTING DAY-CARE PROVIDERS._  
+| _(a)_ ___The commission shall maintain a single, statewide Internet_  
+| _website of day-care providers, including day-care centers, group_  
+| _day-care homes, listed and registered family homes, and_  
+| _prekindergarten programs provided by public school districts or_  
+| _charter schools under Chapter 29, Education Code._  
+|  _(b) The Internet website must:_  
+|  _(1)_ ___be user-friendly, easy to navigate, and designed to_  
+| _assist parents in locating and selecting day-care providers;_  
+|  _(2)_ _____be searchable by the information provided under_  
+| _Subdivision (5)(D);_  
+|  _(3)_ _____provide resources for parents regarding early_  
+| _childhood education and development, including information or_  
+| _materials developed under Section 2308.317(a)(5), Government Code;_  
+|  _(4) be easily accessible by:_  
+|  _(A)_ _____persons who speak a language other than_  
+| _English; and_  
+|  _(B)_ _____persons and families of persons with a_  
+| _disability; and_  
+|  _(5) include:_  
+|  _(A)_ _____information to assist families in_  
+| _understanding the importance of licensed day-care facilities;_  
+|  _(B)_ _____an annual report compiled by the commission_  
+| _on the number of deaths, serious injuries, and incidents of child_  
+| _abuse and neglect that have occurred in day-care facilities;_  
+|  _(C)_ _____contact information for state and local_  
+| _agencies that can provide additional assistance to parents and_  
+| _individuals with questions about day-care facilities;_  
+|  _(D)_ _____the following information for each day-care_  
+| _provider:_  
+|  _(i) the provider's address and zip code;_  
+|  _(ii)_ _____whether the provider is licensed,_  
+| _listed, or registered;_  
+|  _(iii) the provider's hours of operation;_  
+|  _(iv) the setting of the day-care provider;_  
+|  _(v)_ _____the ages of children served by the_  
+| _provider;_  
+|  _(vi)_ _____whether the provider participates in_  
+| _the Texas Workforce Commission's child care subsidy program;_  
+|  _(vii)_ _____the provider's Texas Rising Star_  
+| _Program rating provided by the Texas Workforce Commission;_  
+|  _(viii)_ _____the provider's status as an Early_  
+| _Head Start or Head Start provider as provided by the Texas Head_  
+| _Start State Collaboration Office; and_  
+|  _(ix)_ _____a link to each inspection report for_  
+| _the provider posted on the commission's Internet website; and_  
+|  _(E)_ _____an optional profile for each day-care_  
+| _provider, developed in collaboration with the provider, that_  
+| _includes a brief narrative about the provider, information about_  
+| _the provider's services, and photographs._  
+|  _(c)_ _____The commission shall consult with the Texas Early_  
+| _Learning Council in developing the Internet website required by_  
+| _this section._  
+|  _(d)_ _____The commission shall make the Internet website_  
+| _available through a mobile application for wireless communication_  
+| _devices._  
+|  _(e)_ _____The commission may contract with a third party to_  
+| _establish the Internet website and mobile application for wireless_  
+| _communication devices required under this section._  
+|  SECTION 3. Not later than January 1, 2020, the Health and  
+| Human Services Commission shall make the Internet website required  
+| by Section 42.026, Human Resources Code, as added by this Act,  
+| available to the public.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

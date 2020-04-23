@@ -1,0 +1,32 @@
+| 86R4653 GRM-F  
+---|---  
+|  By: Kuempel | H.B. No. 1446  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to use of an electric cooperative's easements or property  
+| for broadband service.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 181, Utilities Code, is  
+| amended by adding Section 181.048 to read as follows:  
+|  _Sec._ ___181.048._ _____ELECTRIC COOPERATIVE BROADBAND FACILITIES._  
+| _(a)_ ___In this section, "broadband service" means Internet service_  
+| _with:_  
+|  _(1)_ _____a download speed of 25 megabits per second or_  
+| _faster; and_  
+|  _(2)_ _____an upload speed of three megabits per second or_  
+| _faster._  
+|  _(b)_ _____An electric cooperative organized under Chapter 161 or_  
+| _an electric cooperative affiliate may construct, operate, and_  
+| _maintain cables and other facilities for providing broadband_  
+| _service over, under, across, on, or along real property, personal_  
+| _property, rights-of-way, and easements owned, held, or used by the_  
+| _cooperative._ ___An easement or other property right owned, held, or_  
+| _used by the electric cooperative to provide electricity or other_  
+| _services may also be used to provide broadband service._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

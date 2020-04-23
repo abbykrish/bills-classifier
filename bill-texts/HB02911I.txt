@@ -1,0 +1,342 @@
+| 86R10495 GRM-D  
+---|---  
+|  By: Klick | H.B. No. 2911  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to voter registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.002(i), Election Code, is amended to  
+| read as follows:  
+|  (i) An applicant who wishes to receive an exemption from the  
+| requirements of Section 63.001(b) on the basis of disability must  
+| _submit_ [ ~~include with the person's application~~ ]:  
+|  (1) written documentation:  
+|  (A) from the United States Social Security  
+| Administration evidencing the applicant has been determined to have  
+| a disability; or  
+|  (B) from the United States Department of Veterans  
+| Affairs evidencing the applicant has a disability rating of at  
+| least 50 percent; and  
+|  (2) a statement in a form prescribed by the secretary  
+| of state that the applicant does not have a form of identification  
+| acceptable under Section 63.0101.  
+|  SECTION 2. Section 13.004(c), Election Code, is amended to  
+| read as follows:  
+|  (c) The following information furnished on a registration  
+| application is confidential and does not constitute public  
+| information for purposes of Chapter 552, Government Code:  
+|  (1) a social security number;  
+|  (2) a Texas driver's license number;  
+|  (3) a number of a personal identification card issued  
+| by the Department of Public Safety;  
+|  (4) [ ~~an indication that an applicant is interested in~~  
+|  ~~working as an election judge;~~  
+|  [ ~~(5)~~ ] the residence address of the applicant, if the  
+| applicant is a federal judge or state judge, as defined by Section  
+| 13.0021, the spouse of a federal judge or state judge, or an  
+| individual to whom Section 552.1175, Government Code, applies and  
+| the applicant:  
+|  (A) included an affidavit with the registration  
+| application describing the applicant's status under this  
+| subdivision, including an affidavit under Section 13.0021 if the  
+| applicant is a federal judge or state judge or the spouse of a  
+| federal judge or state judge;  
+|  (B) provided the registrar with an affidavit  
+| describing the applicant's status under this subdivision,  
+| including an affidavit under Section 15.0215 if the applicant is a  
+| federal judge or state judge or the spouse of a federal judge or  
+| state judge; or  
+|  (C) provided the registrar with a completed form  
+| approved by the secretary of state for the purpose of notifying the  
+| registrar of the applicant's status under this subdivision;  
+|  _(5)_ [ ~~(6)~~ ] the residence address of the applicant, if  
+| the applicant, the applicant's child, or another person in the  
+| applicant's household is a victim of family violence as defined by  
+| Section 71.004, Family Code, who provided the registrar with:  
+|  (A) a copy of a protective order issued under  
+| Chapter 85, Family Code, or a magistrate's order for emergency  
+| protection issued under Article 17.292, Code of Criminal Procedure;  
+| or  
+|  (B) other independent documentary evidence  
+| necessary to show that the applicant, the applicant's child, or  
+| another person in the applicant's household is a victim of family  
+| violence;  
+|  _(6)_ [ ~~(7)~~ ] the residence address of the applicant, if  
+| the applicant, the applicant's child, or another person in the  
+| applicant's household is a victim of sexual assault or abuse,  
+| stalking, or trafficking of persons who provided the registrar  
+| with:  
+|  (A) a copy of a protective order issued under  
+| Chapter 7A or Article 6.09, Code of Criminal Procedure, or a  
+| magistrate's order for emergency protection issued under Article  
+| 17.292, Code of Criminal Procedure; or  
+|  (B) other independent documentary evidence  
+| necessary to show that the applicant, the applicant's child, or  
+| another person in the applicant's household is a victim of sexual  
+| assault or abuse, stalking, or trafficking of persons; or  
+|  _(7)_ [ ~~(8)~~ ] the residence address of the applicant, if  
+| the applicant:  
+|  (A) is a participant in the address  
+| confidentiality program administered by the attorney general under  
+| Subchapter C, Chapter 56, Code of Criminal Procedure; and  
+|  (B) provided the registrar with proof of  
+| certification under Article 56.84, Code of Criminal Procedure.  
+|  SECTION 3. Section 13.072(d), Election Code, is amended to  
+| read as follows:  
+|  (d) If an application clearly indicates that the applicant  
+| resides in another county, the registrar shall forward the  
+| application to the other county's registrar not later than the  
+| second day after the date the application is received [ ~~and, if the~~  
+|  ~~other county is not contiguous, shall deliver written notice of~~  
+|  ~~that action to the applicant not later than the seventh day after~~  
+|  ~~the date the application is received~~ ]. The date of submission of a  
+| completed application to the wrong registrar is considered to be  
+| the date of submission to the proper registrar for purposes of  
+| determining the effective date of the registration.  
+|  SECTION 4. Section 13.142(a), Election Code, is amended to  
+| read as follows:  
+|  (a) After approval of a registration application, the  
+| registrar shall:  
+|  (1) prepare a voter registration certificate [ ~~in~~  
+|  ~~duplicate~~ ] and issue the original certificate to the applicant; and  
+|  (2) enter the applicant's county election precinct  
+| number and registration number on the applicant's registration  
+| application.  
+|  SECTION 5. Section 13.143(d-2), Election Code, is amended  
+| to read as follows:  
+|  (d-2) For a registration application submitted by  
+| telephonic facsimile machine to be effective, a copy of the  
+| _original_ registration application _containing the voter's original_  
+| _signature_ must be submitted by _personal delivery or_ mail and be  
+| received by the registrar not later than the fourth business day  
+| after the transmission by telephonic facsimile machine is received.  
+|  SECTION 6. Section 15.001(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Each voter registration certificate issued must  
+| contain:  
+|  (1) the voter's name in the form indicated by the  
+| voter, subject to applicable requirements prescribed by Section  
+| 13.002 and by rule of the secretary of state;  
+|  (2) the voter's residence address or, if the residence  
+| has no address, the address at which the voter receives mail and a  
+| concise description of the location of the voter's residence;  
+|  (3) the [ ~~month, day, and~~ ] year of the voter's birth;  
+|  (4) the number of the county election precinct in  
+| which the voter resides;  
+|  (5) the voter's effective date of registration if an  
+| initial certificate;  
+|  (6) the voter's registration number;  
+|  (7) an indication of the period for which the  
+| certificate is issued;  
+|  (8) a statement explaining the circumstances under  
+| which the voter will receive a new certificate;  
+|  (9) a space for stamping the voter's political party  
+| affiliation;  
+|  (10) a statement that voting with the certificate by a  
+| person other than the person in whose name the certificate is issued  
+| is a felony;  
+|  (11) a space for the voter's signature;  
+|  (12) a statement that the voter must sign the  
+| certificate personally, if able to sign, immediately on receipt;  
+|  (13) a space for the voter to correct the information  
+| on the certificate followed by a signature line;  
+|  (14) the statement: "If any information on this  
+| certificate changes or is incorrect, correct the information in the  
+| space provided, sign below, and return this certificate to the  
+| voter registrar.";  
+|  (15) the registrar's mailing address and telephone  
+| number; and  
+|  (16) the jurisdictional or distinguishing number for  
+| the following territorial units in which the voter resides, as  
+| determined by the voter registrar:  
+|  (A) congressional district;  
+|  (B) state senatorial district;  
+|  (C) state representative district;  
+|  (D) commissioners precinct;  
+|  (E) justice precinct;  
+|  (F) city election precinct; and  
+|  (G) school district election precinct.  
+|  SECTION 7. Section 15.022(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The registrar shall make the appropriate corrections in  
+| the registration records, including, if necessary, deleting a  
+| voter's name from the suspense list:  
+|  (1) after receipt of a notice of a change in  
+| registration information under Section 15.021;  
+|  (2) after receipt of a voter's reply to a notice of  
+| investigation given under Section 16.033;  
+|  (3) after receipt of any affidavits executed under  
+| Section 63.006, following an election;  
+|  (4) after receipt of a voter's statement of residence  
+| executed under Section 63.0011;  
+|  (5) before the effective date of the abolishment of a  
+| county election precinct or a change in its boundary;  
+|  (6) after receipt of United States Postal Service  
+| information indicating an address reclassification;  
+|  (7) after receipt of a voter's response under Section  
+| 15.053; [ ~~or~~ ]  
+|  (8) after receipt of a registration application or  
+| change of address under Chapter 20 _; or_  
+|  _(9) on discovering a data entry error has been made_.  
+|  SECTION 8. Section 15.023, Election Code, is amended to  
+| read as follows:  
+|  Sec. 15.023. TIME FOR CERTAIN DELETIONS FROM SUSPENSE LIST.  
+| If the name of a voter [ ~~whose residence is changed~~ ] on the _list of_  
+| _registered voters_ [ ~~registration records to another county election~~  
+|  ~~precinct in the same county~~ ] appears on the suspense list, the  
+| voter's name shall be deleted from the list on the date the _voter_  
+| _provides a completed application to register to vote in accordance_  
+| _with Section 13.002_ [ ~~voter's registration in the precinct of new~~  
+|  ~~residence becomes effective~~ ].  
+|  SECTION 9. Section 15.051(d), Election Code, is amended to  
+| read as follows:  
+|  (d) The registrar shall maintain _with the voter's record an_  
+| _indication that a confirmation notice was sent to the voter_ [ ~~a list~~  
+|  ~~of the confirmation notices mailed to voters, which for each notice~~  
+|  ~~must include the voter's name and the date the notice is mailed.~~  
+|  ~~The registrar shall maintain and retain the list in accordance with~~  
+|  ~~rules prescribed by the secretary of state~~ ].  
+|  SECTION 10. Section 15.053(a), Election Code, is amended to  
+| read as follows:  
+|  (a) _The_ [ ~~Not later than the 30th day after the date a~~  
+|  ~~confirmation notice is mailed, the~~ ] voter shall submit to the  
+| registrar a written, signed response to the notice that confirms  
+| the voter's current residence. The response must contain all of  
+| the information that a person must include in an application to  
+| register to vote under Section 13.002.  
+|  SECTION 11. Section 15.082(b), Election Code, is amended to  
+| read as follows:  
+|  (b) The [ ~~fee for each~~ ] list _shall be provided in accordance_  
+| _with Chapter 552, Government Code_ [ ~~or portion of a list furnished~~  
+|  ~~under this section may not exceed the actual expense incurred in~~  
+|  ~~reproducing the list or portion for the person requesting it and~~  
+|  ~~shall be uniform for each type of copy furnished. The registrar~~  
+|  ~~shall make reasonable efforts to minimize the reproduction~~  
+|  ~~expenses~~ ].  
+|  SECTION 12. Section 16.031(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The registrar shall cancel a voter's registration  
+| immediately on receipt of:  
+|  (1) notice under Section 13.072(b) _,_ [ ~~or~~ ] 15.021 _, or_  
+| _18.0681(d)_ or a response under Section 15.053 that the voter's  
+| residence is outside the county;  
+|  (2) an abstract of the voter's death certificate under  
+| Section 16.001(a) or an abstract of an application indicating that  
+| the voter is deceased under Section 16.001(b);  
+|  (3) an abstract of a final judgment of the voter's  
+| total mental incapacity, partial mental incapacity without the  
+| right to vote, conviction of a felony, or disqualification under  
+| Section 16.002, 16.003, or 16.004;  
+|  (4) notice under Section 112.012 that the voter has  
+| applied for a limited ballot in another county;  
+|  (5) notice from a voter registration official in  
+| another state that the voter has registered to vote outside this  
+| state;  
+|  (6) notice from the early voting clerk under Section  
+| 101.053 that a federal postcard application submitted by an  
+| applicant states a voting residence address located outside the  
+| registrar's county; or  
+|  (7) notice from the secretary of state that the voter  
+| has registered to vote in another county, as determined by the  
+| voter's driver's license number or personal identification card  
+| number issued by the Department of Public Safety or social security  
+| number.  
+|  SECTION 13. Section 16.032, Election Code, is amended to  
+| read as follows:  
+|  Sec. 16.032. CANCELLATION FOLLOWING END OF SUSPENSE LIST  
+| PERIOD. If on November 30 following the second general election for  
+| state and county officers that occurs after the date the voter's  
+| name is entered on the suspense list a registered voter's name  
+| appears on the suspense list, the registrar shall cancel the  
+| voter's registration unless the name is to be deleted from the list  
+| under Section _15.022 or_ 15.023.  
+|  SECTION 14. Sections 16.0921(a) and (b), Election Code, are  
+| amended to read as follows:  
+|  (a) Except as provided by Subsection (c), on the filing of a  
+| sworn statement under Section 16.092 alleging a ground based on  
+| residence, the registrar shall promptly deliver to the voter whose  
+| registration is challenged a confirmation notice in accordance with  
+| Section 15.051 _, unless the residential address provided in the_  
+| _challenge for the voter is different from the voter's current_  
+| _residential address indicated on the registration records_.  
+|  (b) If the voter _is delivered a confirmation notice_ [ ~~fails~~  
+|  ~~to submit a response to the registrar in accordance with Section~~  
+|  ~~15.053~~ ], the registrar shall enter the voter's name on the suspense  
+| list.  
+|  SECTION 15. Section 18.002(c), Election Code, is amended to  
+| read as follows:  
+|  (c) An additional copy of each list shall be furnished for  
+| use in early voting _and as needed in order to ensure all voters_  
+| _eligible to vote in an election appear correctly on the original_  
+| _list_.  
+|  SECTION 16. Section 18.003(c), Election Code, is amended to  
+| read as follows:  
+|  (c) An additional copy of each list shall be furnished for  
+| use in early voting _and as needed in order to ensure all voters_  
+| _eligible to vote in an election appear correctly on the original_  
+| _list_.  
+|  SECTION 17. Section 18.005(a), Election Code, is amended to  
+| read as follows:  
+|  (a) Each original and supplemental list of registered  
+| voters must:  
+|  (1) contain the voter's name, date of birth, and  
+| registration number as provided by the statewide computerized voter  
+| registration list;  
+|  (2) contain the voter's residence address, except as  
+| provided by Subsections (b) and (c) [ ~~or Section 18.0051~~ ];  
+|  (3) be arranged alphabetically by voter name; and  
+|  (4) contain the notation required by Section 15.111.  
+|  SECTION 18. Sections 18.061(b) and (d), Election Code, are  
+| amended to read as follows:  
+|  (b) The statewide computerized voter registration list  
+| must:  
+|  (1) contain the name and registration information of  
+| each voter registered in the state;  
+|  (2) assign a unique identifier to each registered  
+| voter; and  
+|  (3) be available to any _county_ election official in  
+| the state through immediate electronic access.  
+|  (d) The secretary of state may contract with counties to  
+| provide them with electronic data services to facilitate the  
+| implementation _and maintenance_ of the statewide computerized voter  
+| registration list. The secretary shall use funds collected under  
+| the contracts to defray expenses incurred in implementing _and_  
+| _maintaining_ the statewide computerized voter registration list.  
+|  SECTION 19. Section 18.069, Election Code, is amended to  
+| read as follows:  
+|  Sec. 18.069. VOTING HISTORY. Not later than the 30th day  
+| after the date of the primary, runoff primary, or general election  
+| or any special election ordered by the governor, the _general_  
+| _custodian of election records_ [ ~~registrar~~ ] shall electronically  
+| submit to the secretary of state the record of each voter  
+| participating in the election. The record must include a notation  
+| of whether the voter voted on election day, voted early by personal  
+| appearance, voted early by mail under Chapter 86, or voted early by  
+| mail under Chapter 101.  
+|  SECTION 20. Section 18.0681(d), Election Code, is amended  
+| to read as follows:  
+|  (d) If the secretary of state determines that a voter on the  
+| registration list has more than one registration record on file  
+| based on a strong match, the secretary shall send notice of the  
+| determination to the voter registrar of _the_ [ ~~each~~ ] county _with the_  
+| _oldest registration record_ in which the voter is registered to  
+| vote. If the voter records identified are:  
+|  (1) located in the same county, the voter registrar  
+| may merge the records following a determination that each record  
+| belongs to the same voter using the procedure for the correction of  
+| registration records under Section 15.022; or  
+|  (2) located in more than one county, the registrar of  
+| the county with the oldest record may deliver a written  
+| confirmation notice in accordance with Section 15.051 _or cancel the_  
+| _registration of the voter in accordance with Section 16.031(a)(1),_  
+| _provided that the voter's record in the county with the newest_  
+| _registration record is not on the suspense list_.  
+|  SECTION 21. The following provisions of the Election Code  
+| are repealed:  
+|  (1) Sections 15.082(c) and (d);  
+|  (2) Subchapter F, Chapter 15;  
+|  (3) Section 18.0051; and  
+|  (4) Section 18.008(c).  
+|  SECTION 22. This Act takes effect September 1, 2019.
+

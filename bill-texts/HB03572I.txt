@@ -1,0 +1,52 @@
+| 86R13781 CLG-D  
+---|---  
+|  By: Meza | H.B. No. 3572  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to referrals by the Department of Family and Protective  
+| Services to probate courts concerning allegedly incapacitated  
+| persons.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 48.209, Human Resources Code, is amended  
+| by amending Subsection (d) and adding Subsections (d-1) and (d-2)  
+| to read as follows:  
+|  (d) _Subject to Subsection (d-1), this_ [ ~~Nothing in this~~ ]  
+| section _does not_ [ ~~shall~~ ] prohibit the department from also making a  
+| referral of an individual to a court having probate jurisdiction in  
+| the county where the individual is domiciled or found, if the court  
+| has requested the department to notify the court of any individuals  
+| who may be appropriate for a court-initiated guardianship  
+| proceeding under Chapter 1102, Estates Code.  
+|  _(d-1) Before_ [ ~~In~~ ] making a referral under _Subsection (d),_  
+| _the department shall investigate the conditions and circumstances_  
+| _of an individual described by Subsection (a)(2) to determine_  
+| _whether a referral to the probate court is appropriate or whether an_  
+| _alternative to guardianship, as defined by Section 1002.0015,_  
+| _Estates Code, is available and more appropriate for the individual._  
+| _On completion of the investigation, the department shall prepare a_  
+| _report that:_  
+|  _(1)_ _____states each of the alternatives to guardianship_  
+| _considered by the department, if any; and_  
+|  _(2)_ _____if alternatives to guardianship were considered_  
+| _and determined to be available, includes a recommendation as to_  
+| _which of those alternatives is the most appropriate for the_  
+| _individual._  
+|  _(d-2)_ _____If after completion of an investigation under_  
+| _Subsection (d-1) the department refers an individual to a probate_  
+| _court described by Subsection (d), the department shall provide a_  
+| _copy of the report prepared under Subsection (d-1) to the court. To_  
+| _the extent allowed by law, the court may use any relevant_  
+| _information included in the report in a court-initiated_  
+| _investigation or hearing to determine whether a guardianship is_  
+| _necessary for the individual. If_ [ ~~this subsection and if~~ ] requested  
+| by the court, the department shall, to the extent allowed by law,  
+| provide the court with all _other_ relevant information in the  
+| department's records relating to the individual. [ ~~The court, as~~  
+|  ~~part of this process, may not require the department to:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~perform the duties of a guardian ad litem or court~~  
+|  ~~investigator as prescribed by Chapter 1102, Estates Code; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~gather additional information not contained in~~  
+|  ~~the department's records.~~ ]  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

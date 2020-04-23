@@ -1,0 +1,112 @@
+|  
+---|---  
+|  By: Raymond | H.B. No. 4572  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment of the independent provider health  
+| plan monitor for certain appeals in the Medicaid managed care  
+| program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 533, Government Code, is amended by  
+| adding Subchapter F to read as follows:  
+| _SUBCHAPTER F. INDEPENDENT PROVIDER HEALTH PLAN MONITOR_  
+|  _Sec._ ___533.301._ _____DEFINITION. In this subchapter, "monitor"_  
+| _means the person serving as the independent provider health plan_  
+| _monitor under this subchapter._  
+|  _Sec._ ___533.302._ _____ESTABLISHMENT. (a) The commission shall_  
+| _establish the position of independent provider health plan monitor_  
+| _within the commission._  
+|  _(b)_ _____The independent provider health plan monitor shall_  
+| _create an independent review process that utilizes the standards of_  
+| _the Independent Review Organization process under Section_  
+| _4202.002, Texas Insurance Code._  
+|  _Sec._ ___533.303._ _____REVIEW OF CORRECTIVE ACTIONS. (a) A health_  
+| _care provider in the managed care organization's provider network_  
+| _may petition the monitor in the form and manner provided by_  
+| _commission rule to review a corrective action taken by a managed_  
+| _care organization that is not agreed to by the provider in_  
+| _connection with, but not limited to, pre-authorization denials,_  
+| _reimbursement, standard of care, a claim payment denial,_  
+| _disagreement about medical or treatment necessity, or compliance_  
+| _with commission rules and contractual terms._  
+|  _(b)_ _____The monitor shall review a case submitted under_  
+| _Subsection (a) and issue a decision in accordance with this_  
+| _subchapter._  
+|  _Sec. 533.304. PROCEDURES. (a) The monitor shall:_  
+|  _(1)_ _____provide written notice of the submission of a_  
+| _petition under Section 533.303 to the party opposing the party that_  
+| _submitted the petition; and_  
+|  _(2)_ _____allow the opposing party to submit evidence to the_  
+| _monitor not later than the:_  
+|  _(A)_ _____10th day after the monitor provided the_  
+| _notice for petitions involving pre-authorizations, or medical or_  
+| _treatment necessity denials, or_  
+|  _(B)_ _____30th day after the date the monitor provided_  
+| _the notice for all other petitions._  
+|  _(b)_ _____Not later than the 30th day after the deadline for the_  
+| _submission of evidence under Subsection (a), the monitor shall_  
+| _provide written notice to the parties of the monitor's decision for_  
+| _the case._  
+|  _(c)_ _____While the review process or an appeal by either a_  
+| _provider or the managed care organization is ongoing, the managed_  
+| _care organization shall not recoup any funds or otherwise penalize_  
+| _a provider._  
+|  _(d)_ _____In reaching a decision under Subsection (b), the monitor_  
+| _shall conduct interviews with all relevant parties and review any_  
+| _submitted documentation and other evidence to determine whether:_  
+|  _(1) the managed care organization complied with:_  
+|  _(A) applicable commission rules; and_  
+|  _(B)_ _____the organization's internal policies_  
+| _and procedures for auditing or taking a corrective action against a_  
+| _health care provider; and_  
+|  _(2) the health care provider:_  
+|  _(A)_ _____complied with applicable commission_  
+| _rules;_  
+|  _(B)_ _____submitted required documentation in_  
+| _accordance with the law; and_  
+|  _(C) engaged with a recipient._  
+|  _(e)_ _____The decision made by the monitor shall be binding unless_  
+| _appealed by the provider or the managed care organization._  
+|  _(f)_ _____An adverse decision against a managed care organization_  
+| _shall be registered as a verified complaint within the commission's_  
+| _system and shall be subject to any appropriate penalties by the_  
+| _commission._  
+|  _(g)_ _____An adverse decision against a managed care organization_  
+| _shall be subject to the prompt payment penalty from the beginning_  
+| _date of the late payment._  
+|  _Sec._ ___533.305._ _____APPEAL. A managed care organization or_  
+| _health care provider may appeal the monitor's decision under_  
+| _Section 533.304 to the State Office of Administrative Hearings._  
+|  _Sec._ ___533.306._ _____REPORT. The monitor shall compile and_  
+| _provide an annual report to the commission on:_  
+|  _(1)_ _____the number of corrective actions reviewed by the_  
+| _monitor for which petitions were submitted by a health care_  
+| _provider;_  
+|  _(2)_ _____the number of corrective actions reviewed by the_  
+| _monitor for which petitions were submitted by a managed care_  
+| _organization;_  
+|  _(3)_ _____the number of corrective actions overturned by the_  
+| _monitor;_  
+|  _(4)_ _____the number of corrective actions upheld by the_  
+| _monitor;_  
+|  _(5)_ _____the reasons for submissions by health care_  
+| _providers of petitions to the monitor;_  
+|  _(6)_ _____the amount of money managed care organizations_  
+| _recovered in corrective actions upheld by the monitor; and_  
+|  _(7)_ _____the amount of money reimbursed to health care_  
+| _providers through corrective actions overturned by the monitor._  
+|  SECTION 2. As soon as practicable after the effective date  
+| of this Act, the executive commissioner of the Health and Human  
+| Services Commission shall adopt rules necessary to implement  
+| Subchapter F, Chapter 533, Government Code, as added by this Act,  
+| and the commission shall establish the position of independent  
+| provider health plan monitor under that subchapter.  
+|  SECTION 3. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

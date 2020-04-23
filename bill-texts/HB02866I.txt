@@ -1,0 +1,218 @@
+| 86R9000 SCL-D  
+---|---  
+|  By: Deshotel | H.B. No. 2866  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain investigation and evaluation information  
+| regarding certain child-care facilities, homes, and programs.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 261.203, Family Code, is amended by  
+| adding Subsections (a-1) and (g) and amending Subsection (b) to  
+| read as follows:  
+|  _(a-1)_ _____Subsection (a) applies to an investigation of alleged_  
+| _abuse or neglect that occurred in a residential child-care_  
+| _facility, day-care center, group day-care home, before-school or_  
+| _after-school program, school-age program, or family home_  
+| _regardless of whether the facility or program is licensed,_  
+| _registered, or listed in accordance with Chapter 42, Human_  
+| _Resources Code._  
+|  (b) If, after a child abuse or neglect investigation  
+| described by Subsection (a) is completed, the department determines  
+| a child's death or a child's near fatality was caused by abuse or  
+| neglect, the department on request shall promptly release  
+| investigation information not prohibited from release under  
+| federal law, including the following information:  
+|  (1) the information described by Subsection (a), if  
+| not previously released to the person requesting the information;  
+|  (2) information on whether a child's death or near  
+| fatality:  
+|  (A) was determined by the department to be  
+| attributable to abuse or neglect; or  
+|  (B) resulted in a criminal investigation or the  
+| filing of criminal charges if known at the time the investigation is  
+| completed;  
+|  (3) for cases in which the child's death or near  
+| fatality occurred while the child was living with the child's  
+| parent, managing conservator, guardian, or other person entitled to  
+| possession of the child:  
+|  (A) a summary of any previous reports of abuse or  
+| neglect of the child or another child made while the child was  
+| living with that parent, managing conservator, guardian, or other  
+| person entitled to possession of the child;  
+|  (B) the disposition of any report under Paragraph  
+| (A);  
+|  (C) a description of any services, including  
+| family-based safety services, that were provided or offered by the  
+| department to the child or the child's family as a result of any  
+| report under Paragraph (A) and whether the services were accepted  
+| or declined; and  
+|  (D) the results of any risk or safety assessment  
+| completed by the department relating to the child; [ ~~and~~ ]  
+|  (4) for a case in which the child's death or near  
+| fatality occurred while the child was in substitute care with the  
+| department or with a residential child-care _facility_ [ ~~provider~~ ]  
+| regulated under Chapter 42, Human Resources Code, the following  
+| information:  
+|  (A) the date the substitute care provider with  
+| whom the child was residing at the time of death or near fatality  
+| was licensed or verified;  
+|  (B) a summary of any previous reports of abuse or  
+| neglect investigated by the department relating to the substitute  
+| care provider, including the disposition of any investigation  
+| resulting from a report;  
+|  (C) any reported licensing violations, including  
+| notice of any action taken by the _Health and Human Services_  
+| _Commission_ [ ~~department~~ ] regarding a violation; and  
+|  (D) records of any training completed by the  
+| substitute care provider while the child was placed with the  
+| provider _; and_  
+|  _(5)_ _____for a case in which the child's death or near_  
+| _fatality occurred in a day-care center, group day-care home,_  
+| _before-school or after-school program, school-age program, or_  
+| _family home, the following information:_  
+|  _(A)_ _____whether the day-care center, group day-care_  
+| _home, before-school or after-school program, school-age program,_  
+| _or family home was licensed, registered, or listed at the time of_  
+| _the child's death or near fatality;_  
+|  _(B)_ _____a summary of any previous reports of abuse or_  
+| _neglect investigated by the department relating to the day-care_  
+| _center, group day-care home, before-school or after-school_  
+| _program, school-age program, or family home, including the_  
+| _disposition of any investigation resulting from a report;_  
+|  _(C)_ _____any reported licensing, registration, or_  
+| _listing violations, including notice of any action taken by the_  
+| _Health and Human Services Commission regarding a violation; and_  
+|  _(D)_ _____records of any training completed by the_  
+| _day-care center, group day-care home, before-school or_  
+| _after-school program, school-age program, or family home_.  
+|  _(g)_ _____In this section, "residential child-care facility,"_  
+| _"day-care center,"_ ___"group day-care home,"_ ___"before-school or_  
+| _after-school program,"_ ___"school-age program,"_ ___and "family home"_ __  
+| _have the meanings assigned by Section 42.002, Human Resources Code._  
+|  SECTION 2. Section 42.04425, Human Resources Code, is  
+| amended to read as follows:  
+|  Sec. 42.04425. INSPECTION INFORMATION DATABASE. (a) If  
+| feasible using available information systems, the _commission_  
+| [ ~~department~~ ] shall establish a computerized database containing  
+| relevant inspection information on licensed day-care centers,  
+| licensed group day-care homes, and registered family homes from  
+| other state agencies and political subdivisions of the state.  
+|  (b) The _commission_ [ ~~department~~ ] shall make the data  
+| collected by the _commission_ [ ~~department~~ ] available to another state  
+| agency or political subdivision of the state for the purpose of  
+| administering programs or enforcing laws within the jurisdiction of  
+| that agency or subdivision. If feasible using available  
+| information systems, the _commission_ [ ~~department~~ ] shall make the  
+| data directly available to [ ~~the Department of State Health~~  
+|  ~~Services, the Department of Aging and Disability Services, and~~ ] the  
+| Texas Workforce Commission through electronic information  
+| systems. The _commission_ [ ~~department, the Department of State~~  
+|  ~~Health Services, the Department of Aging and Disability Services,~~ ]  
+| and the Texas Workforce Commission shall jointly plan the  
+| development of child-care inspection databases that, to the extent  
+| feasible, are similar in their design and architecture to promote  
+| the sharing of data.  
+|  (c) The _commission_ [ ~~department~~ ] may provide inspection data  
+| on licensed day-care centers, licensed group day-care homes, or  
+| registered family homes to the public if the _commission_  
+| [ ~~department~~ ] determines that providing inspection data enhances  
+| consumer choice with respect to those facilities.  
+|  _(d)_ _____The inspection data the commission provides to the_  
+| _public under Subsection (c) regarding a licensed day-care center,_  
+| _licensed group day-care home, or registered family home must_  
+| _include:_  
+|  _(1)_ _____information on any violation by the center or home_  
+| _that is related to the sexual abuse of a child attending the center_  
+| _or home and details of the violation;_  
+|  _(2)_ _____information on any incident at the center or home_  
+| _that the commission determines violates the minimum standards for_  
+| _the center or home or results in abuse or neglect of a child_  
+| _attending the center or home; and_  
+|  _(3)_ _____a sufficient amount of detail in the information_  
+| _provided under Subdivision (1) or (2) for the public to understand_  
+| _the circumstances surrounding a violation, including any action_  
+| _taken by the center or home to remedy the violation._  
+|  _(e)_ _____The commission may collaborate with parents and other_  
+| _interested parties in determining the type of information provided_  
+| _to the public under this section._ ___The commission shall protect a_  
+| _child's identity in all information provided to the public under_  
+| _this section._  
+|  _(f)_ _____The commission shall retain in the inspection data the_  
+| _information required under Subsection (d) until at least the fifth_  
+| _anniversary of the date the information is added to the data._  
+|  SECTION 3. Subchapter C, Chapter 42, Human Resources Code,  
+| is amended by adding Section 42.0552 to read as follows:  
+|  _Sec._ ___42.0552._ _____REQUIRED NOTICE OF CERTAIN VIOLATIONS RELATED_  
+| _TO SEXUAL ABUSE. (a) If the commission determines that a_  
+| _child-care facility or family home has violated a statute or rule_  
+| _and the violation results in the sexual abuse of a child attending_  
+| _the facility or home, the commission shall provide written notice_  
+| _of the violation to the facility or home._  
+|  _(b)_ _____On receipt of the notice described by Subsection (a), a_  
+| _child-care facility or family home shall provide written notice of_  
+| _the violation described by the commission's notice to each parent_  
+| _or legal guardian of a child attending the facility or home._  
+|  SECTION 4. Section 302.0042, Labor Code, is amended by  
+| amending Subsection (b) and adding Subsection (c) to read as  
+| follows:  
+|  (b) The commission's evaluation must assess:  
+|  (1) the use of current federal child care funds by each  
+| local workforce development board;  
+|  (2) the ability of each local workforce development  
+| board to meet child care performance measures;  
+|  (3) the _estimated_ [ ~~average~~ ] cost _incurred by child_  
+| _care providers_ [ ~~of child care~~ ] in each local workforce development  
+| area _as stated in the report required under 45 C.F.R. Section_  
+| _98.45(f)(1)_ ;  
+|  (4) _the average price charged by child care providers_  
+| _for child care in each local workforce development area as stated in_  
+| _the market rate survey conducted under 45 C.F.R. Section 98.45(c);_  
+|  _(5)_ the poverty rate of each local workforce  
+| development area compared to the state's poverty rate;  
+|  _(6)_ [ ~~(5)~~ ] the number of children on waiting lists for  
+| child care in each local workforce development area; [ ~~and~~ ]  
+|  _(7)_ [ ~~(6)~~ ] the number of _places that are reserved for_  
+| _participants in the child care subsidy program out of the total_  
+| _number of children enrolled with a provider on a full-time basis_  
+| _categorized by age of the child for each provider_ [ ~~vacant slots~~  
+|  ~~available for child care placement~~ ] in each local workforce  
+| development area _that is certified as a 2-star, 3-star, or 4-star_  
+| _provider in the Texas Rising Star Program or that does not_  
+| _participate in the Texas Rising Star Program;_  
+|  _(8)_ _____the total number of child care providers_  
+| _participating in the Texas Rising Star Program in each local_  
+| _workforce development area and the number of 2-star, 3-star, and_  
+| _4-star rated child care providers in the local workforce_  
+| _development area;_  
+|  _(9)_ _____the number of child care providers participating_  
+| _in the Texas Rising Star Program in each local workforce_  
+| _development area as a percentage of the total number of subsidized_  
+| _child care providers in the local workforce development area and_  
+| _the number of 2-star, 3-star, and 4-star rated child care providers_  
+| _in the local workforce development area as a percentage of the total_  
+| _number of subsidized child care providers in the local workforce_  
+| _development area;_  
+|  _(10)_ _____the total number of children enrolled in_  
+| _subsidized child care providers participating in the Texas Rising_  
+| _Star Program in each local workforce development area and the_  
+| _number of subsidized children enrolled in 2-star, 3-star, and_  
+| _4-star rated child care providers in the local workforce_  
+| _development area; and_  
+|  _(11)_ _____the number of subsidized children enrolled in_  
+| _child care providers participating in the Texas Rising Star Program_  
+| _in each local workforce development area as a percentage of the_  
+| _total number of subsidized children enrolled in child care_  
+| _providers in the local workforce development area and the number of_  
+| _subsidized children enrolled in 2-star, 3-star, and 4-star rated_  
+| _child care providers in the local workforce development area as a_  
+| _percentage of the total number of subsidized children enrolled in_  
+| _child care providers in the local workforce development area_.  
+|  _(c)_ _____For the purposes of evaluation under this section, the_  
+| _commission shall annually update the information described by_  
+| _Subsections (b)(6)-(11)._  
+|  SECTION 5. Section 42.0552, Human Resources Code, as added  
+| by this Act, applies only to a violation occurring on or after the  
+| effective date of this Act.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

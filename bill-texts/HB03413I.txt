@@ -1,0 +1,40 @@
+| 86R12407 CJC-F  
+---|---  
+|  By: Capriglione | H.B. No. 3413  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the application of the franchise tax to and computation  
+| of franchise tax owed by certain entities that hold precious  
+| metals.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 171, Tax Code, is amended  
+| by adding Section 171.0021 to read as follows:  
+|  _Sec._ ___171.0021._ _____CERTAIN ENTITIES NOT ENGAGED IN BUSINESS IN_  
+| _THIS STATE. (a) In this section:_  
+|  _(1)_ _____"Bullion" has the meaning assigned by Section_  
+| _2116.001, Government Code._  
+|  _(2)_ _____"Bullion holder" means a person who holds, stores,_  
+| _purchases, sells, trades, or manages the ownership of platinum,_  
+| _gold, or silver bullion, including gold, silver, or numismatic_  
+| _coins, at the depository._  
+|  _(3)_ _____"Depository" means the Texas Bullion Depository_  
+| _created under Chapter 2116, Government Code._  
+|  _(b)_ _____A taxable entity whose only activity in this state is as_  
+| _a bullion holder is not considered to be doing business in this_  
+| _state for purposes of Section 171.001 and is not required to file a_  
+| _report under Subchapter E._  
+|  SECTION 2. Section 171.1011, Tax Code, is amended by adding  
+| Subsection (g-13) to read as follows:  
+|  _(g-13)_ _____A taxable entity that is a bullion holder shall_  
+| _exclude from its total revenue, to the extent included under_  
+| _Subsection (c)(1)(A), (c)(2)(A), or (c)(3), all gains or losses_  
+| _attributable to the purchase or the sale, trade, barter, gift,_  
+| _donation, or other disposal of platinum, gold, or silver bullion,_  
+| _including gold, silver, or numismatic coins. For purposes of this_  
+| _subsection, "bullion" and "bullion holder" have the meanings_  
+| _assigned by Section 171.0021._  
+|  SECTION 3. This Act applies only to a report originally due  
+| on or after the effective date of this Act.  
+|  SECTION 4. This Act takes effect January 1, 2020.
+

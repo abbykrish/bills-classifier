@@ -1,0 +1,70 @@
+|  
+---|---  
+|  By: Sanford | H.B. No. 4190  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to remedies for the recovery of debts by certain  
+| creditors.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 42.001, Property Code, is amended by  
+| amending Subsection (a) and adding subsections (a-1) and (a-2) to  
+| read as follows:  
+|  Sec. 42.001. PERSONAL PROPERTY EXEMPTION. (a) _Except as_  
+| _provided by subsections (a-1) and (a-2), personal_ [ ~~Personal~~ ]  
+| property, as described in Section 42.002, is exempt from  
+| garnishment, attachment, execution, or other seizure if:  
+|  (1) the property is provided for a family and has an  
+| aggregate fair market value of not more than $100,000, exclusive of  
+| the amount of any liens, security interests, or other charges  
+| encumbering the property; or  
+|  (2) the property is owned by a single adult, who is not  
+| a member of a family, and has an aggregate fair market value of not  
+| more than $50,000, exclusive of the amount of any liens, security  
+| interests, or other charges encumbering the property.  
+|  _(a-1)_ _____The personal property of a person against whom more_  
+| _than one unpaid judgment has been entered for more than one year is_  
+| _exempt from garnishment, attachment, execution, or other seizure_  
+| _if:_  
+|  _(1)_ _____the property is provided for a family and has an_  
+| _aggregate fair market value of not more than $50,000, exclusive of_  
+| _the amount of any liens, security interests, or other charges_  
+| _encumbering the property; or_  
+|  _(2)_ _____the property is owned by a single adult, who is not_  
+| _a member of a family, and has an aggregate fair market value of not_  
+| _more than $25,000, exclusive of the amount of any liens, security_  
+| _interests, or other charges encumbering the property._  
+|  _(a-2)_ _____The personal property of a person against whom more_  
+| _than one unpaid judgment has been entered for more than three years_  
+| _is not exempt from garnishment, attachment, execution, or other_  
+| _seizure._  
+|  SECTION 2. Chapter 42, Property Code, is amended by adding  
+| Section 42.006 to read as follows:  
+|  _Sec._ ___232.0135._ _____DENIAL OF LICENSE ISSUANCE OR RENEWAL. (a)_  
+| _A creditor who has obtained a judgment against a debtor that, after_  
+| _six months, has not been satisfied, may provide notice to a_  
+| _licensing authority concerning the debtor that requests the_  
+| _authority to refuse to approve an application for issuance of a_  
+| _license to the obligor or renewal of an existing license of the_  
+| _debtor._  
+|  _(b)_ _____A licensing authority that receives a request described_  
+| _by Subsection (a) shall, after confirmation of the facts alleged in_  
+| _the notice, refuse to approve an application for issuance of a_  
+| _license to the debtor or renewal of an existing license of the_  
+| _debtor until the authority is notified by the creditor that the_  
+| _debtor has:_  
+|  _(1) paid the judgment;_  
+|  _(2)_ _____made an immediate payment of not less than $200_  
+| _toward the total amount owed and established with the creditor a_  
+|  
+| _satisfactory repayment schedule for the remainder; or_  
+|  _(3)_ _____been granted an exemption from this subsection as_  
+| _part of a court-supervised plan to improve the debtor's earnings_  
+| _payments._  
+|  _(c)_ _____On providing a licensing authority with the notice_  
+| _described by Subsection (a), the creditor shall send a copy to the_  
+| _debtor by first class mail and inform the debtor of the steps the_  
+| _debtor must take to permit the authority to approve the debtor's_  
+| _application for license issuance or renewal._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

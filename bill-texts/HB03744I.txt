@@ -1,0 +1,33 @@
+| 86R170 AJA-F  
+---|---  
+|  By: Burrows | H.B. No. 3744  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the rule against perpetuities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 112.036, Property Code, is amended to  
+| read as follows:  
+|  Sec. 112.036. RULE AGAINST PERPETUITIES. _(a)_ The rule  
+| against perpetuities applies to _an interest in a trust_ [ ~~trusts~~ ]  
+| other than _a_ charitable _trust_ [ ~~trusts~~ ].  
+|  _(b)_ _____For purposes of this section, the effective date of a_  
+| _trust is the date the trust becomes irrevocable._  
+|  _(c) An interest in a trust must vest, if at all:_  
+|  _(1)_ _____not later than 300 years after the effective date_  
+| _of the trust, if the effective date of the trust is on or after_  
+| _September 1, 2019; or_  
+|  _(2) except as provided by Subsection (d),_  
+| [ ~~Accordingly, an interest is not good unless it must vest, if at~~  
+|  ~~all,~~ ] not later than 21 years after some life in being at the time of  
+| the creation of the interest, plus a period of gestation _, if the_  
+| _effective date of the trust is before September 1, 2019_.  
+|  _(d)_ _____An interest in a trust that has an effective date before_  
+| _September 1, 2019, may vest as described by Subsection (c)(1) if the_  
+| _trust instrument provides that an interest in the trust vests under_  
+| _the provisions of this section applicable to trusts_ ___on the date_  
+| _that the interest vests._  
+|  _(e)_ Any interest in a trust may[ ~~, however,~~ ] be reformed or  
+| construed to the extent and as provided by Section 5.043.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

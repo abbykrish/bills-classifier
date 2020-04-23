@@ -1,0 +1,39 @@
+| 86R2680 ADM-F  
+---|---  
+|  By: Reynolds | H.B. No. 192  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to electronic voter registration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 13, Election Code, is  
+| amended by adding Section 13.009 to read as follows:  
+|  _Sec._ ___13.009._ _____ELECTRONIC VOTER REGISTRATION. (a) The_  
+| _secretary of state shall implement a program to allow a person with_  
+| _an unexpired driver's license or personal identification card_  
+| _issued in this state to complete a voter registration application_  
+| _over the Internet from a secure Internet website._  
+|  _(b)_ _____The Internet website established under this section_  
+| _must allow a person to submit:_  
+|  _(1) an initial application for registration; and_  
+|  _(2)_ _____an application to update a voter registration_  
+| _record._  
+|  _(c)_ _____When a person submits an application under this section,_  
+| _the secretary of state shall compare the information provided by_  
+| _the applicant against the Department of Public Safety records._  
+|  _(d)_ _____The completed online application and information from_  
+| _the Department of Public Safety, including the applicant's digital_  
+| _signature, shall be provided to:_  
+|  _(1)_ _____the county voter registration office for the_  
+| _county where the applicant currently resides; and_  
+|  _(2)_ _____the secretary of state for the statewide_  
+| _computerized voter registration list under Section 18.061._  
+|  _(e)_ _____An application electronically submitted under this_  
+| _section is considered for all purposes as an application submitted_  
+| _by mail under this title._ ___A digital signature given as provided by_  
+| _secretary of state rule meets the signature requirement under_  
+| _Section 13.002(b)._  
+|  _(f)_ _____The secretary of state shall adopt rules as necessary to_  
+| _implement this section._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

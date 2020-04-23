@@ -1,0 +1,29 @@
+| 86R9026 TSS-D  
+---|---  
+|  By: Wray | H.B. No. 2211  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to certain counties that are required to operate a  
+| juvenile justice alternative education program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 37.011(a-2), Education Code, is amended  
+| to read as follows:  
+|  (a-2) _Notwithstanding Subsection (a-1), for_ [ ~~For~~ ] purposes  
+| of this section and Section 37.010(a), a county [ ~~with a population~~  
+|  ~~greater than 125,000~~ ] is considered to be a county with a population  
+| _greater than_ [ ~~of~~ ] 125,000 [ ~~or less~~ ] if the county:  
+|  (1) has a population _greater than 125,000 and less_  
+| _than_ [ ~~of~~ ] 180,000 [ ~~or less~~ ];  
+|  (2) is adjacent to two counties, each of which has a  
+| population of more than 1.7 million; and  
+|  (3) has seven or more school districts located wholly  
+| within the county's boundaries.  
+|  SECTION 2. This Act applies beginning with the 2019-2020  
+| school year.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

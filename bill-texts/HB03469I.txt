@@ -1,0 +1,216 @@
+| 86R11646 BEE-D  
+---|---  
+|  By: Wilson | H.B. No. 3469  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to fees charged for the operation of certain commercial  
+| motor vehicles on public highways; authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 621, Transportation Code, is amended by  
+| adding Subchapter E-1 to read as follows:  
+| _SUBCHAPTER E-1. FEES FOR HIGHWAY OPERATION OF CERTAIN COMMERCIAL_  
+| _MOTOR VEHICLES_  
+|  _Sec. 621.361. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Highway" has the meaning assigned by Section_  
+| _366.003._  
+|  _(2)_ _____"Transportation department" means the Texas_  
+| _Department of Transportation._  
+|  _Sec._ ___621.362._ _____APPLICABILITY. (a) This subchapter applies_  
+| _only to a commercial motor vehicle operating on a highway in this_  
+| _state:_  
+|  _(1)_ _____that is subject to the federal electronic logging_  
+| _device requirements of 49 C.F.R. Part 395; or_  
+|  _(2)_ _____operating only in intrastate commerce that would_  
+| _be subject to the federal electronic logging device requirements of_  
+| _49 C.F.R. Part 395 if operating in interstate or international_  
+| _commerce._  
+|  _(b)_ _____The transportation department by rule may determine_  
+| _whether this subchapter applies to a particular commercial motor_  
+| _vehicle or type of commercial motor vehicle._  
+|  _Sec._ ___621.363._ _____PAVEMENT CONSUMPTION FEE IMPOSED. (a) A_  
+| _pavement consumption fee is imposed on the operation of a_  
+| _commercial motor vehicle to which this subchapter applies in the_  
+| _amount equal to the reasonable cost to repair damage to the pavement_  
+| _of a highway caused by the normal operation of the vehicle._  
+|  _(b)_ _____The pavement consumption fee is due and payable to the_  
+| _comptroller by the operator of a commercial motor vehicle quarterly_  
+| _on or before the 25th day of the month following each calendar_  
+| _quarter._  
+|  _(c)_ _____The comptroller shall adopt rules necessary to_  
+| _administer, collect, and enforce the highway repair fee, including_  
+| _rules allowing for prepayment of estimated fees calculated by the_  
+| _operator of a commercial motor vehicle under Section 621.368._  
+|  _Sec._ ___621.364._ _____OPERATOR TO COLLECT AND REMIT FEE. (a)_  
+| _Except as provided by Subsection (b), the operator of a commercial_  
+| _motor vehicle subject to the pavement consumption fee who operates_  
+| _the vehicle in the performance of a service for a customer shall:_  
+|  _(1)_ _____add the amount of the estimated fee calculated by_  
+| _the operator under Section 621.368 to the cost of the service and_  
+| _collect the fee at the same time that the operator collects from the_  
+| _customer the charge for the service performed; and_  
+|  _(2)_ _____remit the fee to the comptroller in accordance_  
+| _with the rules adopted by the comptroller under this subchapter._  
+|  _(b)_ _____The operator of a commercial motor vehicle subject to_  
+| _the pavement consumption fee who operates the vehicle on the_  
+| _operator's own behalf shall remit the fee to the comptroller in_  
+| _accordance with the rules adopted by the comptroller under this_  
+| _subchapter._  
+|  _Sec._ ___621.365._ _____PAVEMENT CONSUMPTION RATES. (a) The_  
+| _transportation department, in consultation with the University of_  
+| _Texas Center for Transportation Research and the Texas A &M _  
+| _Transportation Institute, shall establish rates for the fee that_  
+| _reflect the cost per mile to repair damage caused to the pavement of_  
+| _each section of a specific highway by the normal operation of a_  
+| _commercial motor vehicle subject to the pavement consumption fee._  
+|  _(b)_ _____In determining the rates under Subsection (a), the_  
+| _transportation department shall consider:_  
+|  _(1)_ _____the type of each section of a specific highway,_  
+| _including the highway pavement material of each section; and_  
+|  _(2)_ _____the characteristics of commercial motor vehicles_  
+| _normally operating on the section of the specific highway,_  
+| _including the vehicles' weight and the number of axles of the_  
+| _vehicles._  
+|  _(c)_ _____To the maximum extent feasible, the transportation_  
+| _department shall establish a rate under this section for each_  
+| _section of a specific highway based on the characteristics of that_  
+| _section. If a rate for a section of a highway cannot be_  
+| _established, the transportation department may establish an_  
+| _average rate for each county that applies to the sections of the_  
+| _highway in that county._  
+|  _(d)_ _____At least once every two years, the transportation_  
+| _department shall review the rates established under this section_  
+| _and update the rates as appropriate._  
+|  _Sec._ ___621.366._ _____ELECTRONIC LOGGING DEVICE; REPORT REQUIRED BY_  
+| _OPERATOR. (a) The operator of a commercial motor vehicle subject_  
+| _to the pavement consumption fee shall:_  
+|  _(1)_ _____install or cause to be installed on the vehicle an_  
+| _electronic logging device, if a device is not already installed,_  
+| _that complies with the requirements of 49 C.F.R. Part 395; and_  
+|  _(2)_ _____not later than the fifth day of the month following_  
+| _each calendar quarter, report to the transportation department any_  
+| _route traveled by the vehicle on a highway of this state during the_  
+| _preceding month as recorded by the electronic device required under_  
+| _Subdivision (1)._  
+|  _(b) A report required under Subsection (a) must include:_  
+|  _(1) the vehicle's weight;_  
+|  _(2) the number of axles of the vehicle; and_  
+|  _(3)_ _____any other information required by transportation_  
+| _department rule to be included in the report._  
+|  _Sec._ ___621.367._ _____FEE CALCULATION SYSTEM; REPORT TO COMPTROLLER_  
+| _AND OPERATOR OF COMMERCIAL MOTOR VEHICLE. (a) The transportation_  
+| _department, in consultation with the University of Texas Center for_  
+| _Transportation Research and the Texas A &M Transportation _  
+| _Institute, shall develop a system to calculate the total amount of_  
+| _the fee due for each reporting period from the operator of a_  
+| _commercial motor vehicle subject to the pavement consumption fee._  
+|  _(b)_ _____A system developed under this section shall calculate_  
+| _the pavement consumption fee for each commercial motor vehicle_  
+| _operating on a highway during each reporting period based on:_  
+|  _(1)_ _____the vehicle's route reported under Section_  
+| _621.366;_  
+|  _(2)_ _____the pavement consumption rates established under_  
+| _Section 621.365 for each section of each specific highway included_  
+| _in the vehicle's route; and_  
+|  _(3)_ _____the vehicle's weight and the number of axles of the_  
+| _vehicle._  
+|  _(c) The transportation department shall:_  
+|  _(1)_ _____use the system developed under this section to_  
+| _calculate the amount of the pavement consumption fee due quarterly_  
+| _from each operator of a commercial motor vehicle who reports the_  
+| _information required under Section 621.366; and_  
+|  _(2)_ _____notify the comptroller and operator of the actual_  
+| _amount of the fee calculated for the preceding quarter not later_  
+| _than the 15th day of each month following each calendar quarter._  
+|  _Sec._ ___621.368._ _____USE OF FEE CALCULATION SYSTEM BY OPERATOR TO_  
+| _ESTIMATE AMOUNT OF FEE. (a) The system developed under Section_  
+| _621.367 must allow the operator of a commercial motor vehicle_  
+| _subject to the pavement consumption fee to:_  
+|  _(1)_ _____enter a proposed route for and characteristics of_  
+| _the vehicle; and_  
+|  _(2)_ _____calculate an estimated pavement consumption fee_  
+| _based on the information entered under Subdivision (1)._  
+|  _(b)_ _____The operator of a commercial motor vehicle shall use the_  
+| _calculation of the estimated amount of a pavement consumption fee_  
+| _to:_  
+|  _(1)_ _____collect the fee from a customer under Section_  
+| _621.364(a); or_  
+|  _(2)_ _____prepay the fee to the comptroller in accordance_  
+| _with rules adopted under Section 621.363(c) if the operator chooses_  
+| _to prepay the fee._  
+|  _(c)_ _____If an operator of a commercial motor vehicle chooses to_  
+| _prepay the fee and, based on the calculation made by the_  
+| _transportation department under Section 621.367, it is determined_  
+| _that the operator prepaid an amount that exceeds the actual amount_  
+| _due:_  
+|  _(1)_ _____the comptroller shall refund the overpaid fees to_  
+| _the operator; and_  
+|  _(2)_ _____the operator shall refund the overpaid fees to the_  
+| _customers from which the operator collected the fees under Section_  
+| _621.364(a)(1), if any._  
+|  _(d)_ _____If it is determined that an operator of a commercial_  
+| _motor vehicle prepaid an amount that is less than the actual amount_  
+| _due, the operator shall remit the amount due to the comptroller in_  
+| _accordance with rules adopted by the comptroller under Section_  
+| _621.363(c)._  
+|  _Sec._ ___621.369._ _____RESPONSIBILITY FOR HIGHWAY MAINTENANCE. The_  
+| _transportation department, in consultation with the University of_  
+| _Texas Center for Transportation Research and the Texas A &M _  
+| _Transportation Institute, shall determine the state agency or_  
+| _political subdivision responsible for the maintenance of each_  
+| _section of each highway:_  
+|  _(1)_ _____under the supervision of the state or a political_  
+| _subdivision of the state; and_  
+|  _(2)_ _____on which a commercial motor vehicle subject to the_  
+| _pavement consumption fee is operated._  
+|  _Sec._ ___621.370._ _____AGENCIES' AND POLITICAL SUBDIVISIONS' SHARE_  
+| _OF FEE. (a) A state agency or political subdivision responsible_  
+| _for the maintenance of a highway on which a commercial motor vehicle_  
+| _subject to the pavement consumption fee is operated is entitled to a_  
+| _share of the fee in an amount equal to the length in miles of any_  
+| _route of the vehicle on a section of a specific highway maintained_  
+| _by the state agency or political subdivision multiplied by the_  
+| _pavement consumption rate established for the section of highway_  
+| _under Section 621.365 for a vehicle of comparable weight and number_  
+| _of axles._  
+|  _(b)_ _____Not later than the 15th day of each month following each_  
+| _calendar quarter, the transportation department shall report to the_  
+| _comptroller the total amount of the pavement consumption fees_  
+| _collected in the preceding calendar quarter to which each state_  
+| _agency or political subdivision is entitled under Subsection (a)._  
+|  _(c)_ _____Not later than the 45th day following each calendar_  
+| _quarter, the comptroller shall distribute the pavement consumption_  
+| _fees collected in the preceding calendar quarter to each state_  
+| _agency or political subdivision entitled to a share of a fee as_  
+| _reported by the transportation department under Subsection (b)._  
+|  _Sec._ ___621.371._ _____REGISTRATION AND PERMIT FEES. (a)_  
+| _Notwithstanding any other provision of this code, a registration or_  
+| _permit fee for a commercial motor vehicle subject to the pavement_  
+| _consumption fee may not include any amount that is allocated to be_  
+| _used for the maintenance of a highway by a state agency or political_  
+| _subdivision._  
+|  _(b)_ _____A state agency that charges a registration or permit fee_  
+| _for a commercial motor vehicle subject to the pavement consumption_  
+| _fee shall:_  
+|  _(1)_ _____determine whether any portion of the registration_  
+| _or permit fee is allocated to be used for the maintenance of a_  
+| _highway by a state agency or political subdivision; and_  
+|  _(2)_ _____adjust any registration or permit fee for a_  
+| _commercial motor vehicle subject to the pavement consumption fee in_  
+| _accordance with Subsection (a)._  
+|  SECTION 2. Not later than September 1, 2020:  
+|  (1) the Texas Department of Transportation, in  
+| consultation with the University of Texas Center for Transportation  
+| Research and the Texas A&M Transportation Institute, shall develop  
+| a system to calculate the pavement consumption fee in accordance  
+| with Subchapter E-1, Chapter 621, Transportation Code, as added by  
+| this Act; and  
+|  (2) the comptroller shall adopt rules necessary to  
+| administer, collect, and enforce the pavement consumption fee.  
+|  SECTION 3. Section 621.371, Transportation Code, as added  
+| by this Act, applies only to a registration or permit fee charged on  
+| or after the effective date of this Act.  
+|  SECTION 4. (a)  Except as provided by Subsection (b) of this  
+| section, this Act takes effect September 1, 2020.  
+|  (b) Section 2 of this Act takes effect September 1, 2019.
+

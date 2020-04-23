@@ -1,0 +1,241 @@
+| 86R13397 CJC-D  
+---|---  
+|  By: Bohac | H.B. No. 4376  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the temporary exemption of certain tangible personal  
+| property related to certain colocation data centers from the sales  
+| and use tax.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter H, Chapter 151, Tax Code, is amended  
+| by adding Section 151.3596 to read as follows:  
+|  _Sec._ ___151.3596._ _____PROPERTY USED IN COLOCATION DATA CENTERS;_  
+| _TEMPORARY EXEMPTION. (a) In this section:_  
+|  _(1)_ _____"Colocation data center" means all or part of a new_  
+| _or redeveloped facility that:_  
+|  _(A) is located in this state;_  
+|  _(B)_ _____is composed of space in a building or a series_  
+| _of buildings and related improvements located or to be located on_  
+| _one or more parcels of land;_  
+|  _(C)_ _____is specifically constructed or refurbished,_  
+| _repaired, restored, remodeled, or otherwise modified and actually_  
+| _used primarily to house servers and related equipment and support_  
+| _staff for the processing, storage, and distribution of data;_  
+|  _(D)_ _____is designed for use by one or more qualifying_  
+| _tenants for the processing, storage, and distribution of data; and_  
+|  _(E)_ _____has an uninterruptible power source or_  
+| _generator backup power and cooling systems, towers, and other_  
+| _temperature control infrastructure._  
+|  _(2)_ _____"Qualifying colocation data center" means a_  
+| _colocation data center that:_  
+|  _(A)_ _____meets the qualifications prescribed by_  
+| _Subsection (d); and_  
+|  _(B)_ _____does not generate electricity for resale or_  
+| _for use outside the colocation data center._  
+|  _(3)_ _____"Qualifying operator" means a person who controls_  
+| _access to a qualifying colocation data center, regardless of_  
+| _whether that person owns each item of tangible personal property_  
+| _located at the qualifying colocation data center._  
+|  _(4) "Qualifying tenant" means a person who:_  
+|  _(A)_ _____contracts with a qualifying operator, for a_  
+| _period of at least five years:_  
+|  _(i)_ _____for at least one megawatt of critical IT_  
+| _load capacity per month beginning not later than the first_  
+| _anniversary of the date the qualifying operator and qualifying_  
+| _tenant enter into the contract; and_  
+|  _(ii)_ _____to place, or cause to be placed, and to_  
+| _use tangible personal property at the qualifying colocation data_  
+| _center; or_  
+|  _(B)_ _____in the case of a qualifying tenant who is also_  
+| _the qualifying operator, places or causes to be placed and uses_  
+| _tangible personal property at the qualifying colocation data_  
+| _center._  
+|  _(b)_ _____Except as otherwise provided by this section, tangible_  
+| _personal property that is necessary and essential to the operation_  
+| _of a qualifying colocation data center is exempted from the taxes_  
+| _imposed by this chapter if the tangible personal property is_  
+| _purchased for installation at, incorporation into, or in the case_  
+| _of electricity, use in a qualifying colocation data center by a_  
+| _qualifying operator or qualifying tenant, and the tangible personal_  
+| _property is:_  
+|  _(1) electricity;_  
+|  _(2) an electrical system;_  
+|  _(3) a cooling system;_  
+|  _(4) an emergency generator;_  
+|  _(5)_ _____hardware or a distributed mainframe computer or_  
+| _server;_  
+|  _(6) a data storage device;_  
+|  _(7) network connectivity equipment;_  
+|  _(8) a rack, cabinet, and raised floor system;_  
+|  _(9) a peripheral component or system;_  
+|  _(10) software;_  
+|  _(11)_ _____a mechanical, electrical, or plumbing system that_  
+| _is necessary to operate any tangible personal property described by_  
+| _Subdivisions (2)-(10);_  
+|  _(12)_ _____any other item of equipment or system necessary_  
+| _to operate any tangible personal property described by Subdivisions_  
+| _(2)-(11), including a fixture; and_  
+|  _(13)_ _____a component part of any tangible personal_  
+| _property described by Subdivisions (2)-(10)._  
+|  _(c)_ _____The exemption provided by this section does not apply_  
+| _to:_  
+|  _(1) office equipment or supplies;_  
+|  _(2) maintenance or janitorial supplies or equipment;_  
+|  _(3)_ _____equipment or supplies used primarily in sales_  
+| _activities or transportation activities;_  
+|  _(4)_ _____tangible personal property on which the purchaser_  
+| _has received or has a pending application for a refund under Section_  
+| _151.429;_  
+|  _(5)_ _____tangible personal property not otherwise exempted_  
+| _under Subsection (b) that is incorporated into real estate or into_  
+| _an improvement of real estate;_  
+|  _(6)_ _____tangible personal property that is rented or_  
+| _leased for a term of one year or less; or_  
+|  _(7)_ _____notwithstanding Section 151.3111, a taxable_  
+| _service that is performed on tangible personal property exempted_  
+| _under this section._  
+|  _(d)_ _____A colocation data center may be certified by the_  
+| _comptroller as a qualifying colocation data center for purposes of_  
+| _this section if, on or after January 1, 2019:_  
+|  _(1)_ _____a qualifying tenant_ ___contracts with a qualifying_  
+| _operator to lease space in which the qualifying tenant will locate a_  
+| _colocation data center; and_  
+|  _(2)_ _____the qualifying operator and qualifying tenants,_  
+| _independently or jointly:_  
+|  _(A)_ _____employ at least 500 people full time in this_  
+| _state; and_  
+|  _(B)_ _____make or agree to make, on or after January 1,_  
+| _2019, a capital investment of at least $15 million in that_  
+| _particular colocation data center over a three-year period_  
+| _beginning on the date the colocation data center is certified by the_  
+| _comptroller as a qualifying colocation data center._  
+|  _(e)_ _____A colocation data center that is eligible under_  
+| _Subsection (d) to be certified by the comptroller as a qualifying_  
+| _colocation data center shall apply to the comptroller for_  
+| _certification and for the issuance of a registration number or_  
+| _numbers by the comptroller. The application must be made on a form_  
+| _prescribed by the comptroller and must include the information_  
+| _required by the comptroller. The application must include the name_  
+| _and contact information for each qualifying tenant, if any, as of_  
+| _the date on which the application is filed with the comptroller and_  
+| _the name and contact information for the qualifying operator who_  
+| _will claim the exemption authorized under this section, as well as_  
+| _the address of the colocation data center. The application form_  
+| _must include a section for the applicant to certify that the capital_  
+| _investment required by Subsection (d)(2)(B) will be met_  
+| _independently or jointly by the qualifying operator or qualifying_  
+| _tenants within the time period prescribed by that paragraph._  
+|  _(f)_ _____A person who is not listed as a qualifying tenant on an_  
+| _application filed under Subsection (e) may submit an application to_  
+| _the comptroller for a registration number in relation to a_  
+| _certified qualifying colocation data center on a form prescribed by_  
+| _the comptroller. The comptroller shall issue the registration_  
+| _number to the applicant on receipt of information sufficient for_  
+| _the comptroller to determine that the applicant is a qualifying_  
+| _tenant of the certified qualifying colocation data center._  
+|  _(g) The comptroller shall:_  
+|  _(1)_ _____act on an application submitted under Subsection_  
+| _(e) or (f) not later than the 60th day after the date the_  
+| _comptroller receives the application from the applicant; and_  
+|  _(2)_ _____issue the certification and registration number or_  
+| _numbers to the applicant not later than the 14th day after the date_  
+| _the comptroller approves the application._  
+|  _(h)_ _____The exemption provided by this section begins on the_  
+| _date the colocation data center is certified by the comptroller as a_  
+| _qualifying colocation data center and expires:_  
+|  _(1)_ _____on the 10th anniversary of that date, if the_  
+| _qualifying operator or qualifying tenants, independently or_  
+| _jointly, make a capital investment of at least $15 million but less_  
+| _than $50 million as provided by Subsection (d)(2)(B); or_  
+|  _(2)_ _____on the 15th anniversary of that date, if the_  
+| _qualifying operator or qualifying tenants, independently or_  
+| _jointly, make a capital investment of $50 million or more as_  
+| _provided by Subsection (d)(2)(B)._  
+|  _(i)_ _____Each person who is eligible to claim an exemption_  
+| _authorized by this section must hold a registration number issued_  
+| _by the comptroller. The registration number must be stated on the_  
+| _exemption certificate provided by the purchaser to the seller of_  
+| _tangible personal property eligible for the exemption._  
+|  _(j)_ _____The comptroller shall revoke all registration numbers_  
+| _issued in connection with a qualifying colocation data center that_  
+| _the comptroller determines does not meet the requirements_  
+| _prescribed by Subsection (d). Each person who has the person's_  
+| _registration number revoked by the comptroller is liable for taxes,_  
+| _including penalty and interest from the date of purchase, imposed_  
+| _under this chapter on purchases for which the person claimed an_  
+| _exemption under this section, regardless of whether the purchase_  
+| _occurred before the date the registration number was revoked._  
+|  _(k)_ _____The comptroller shall adopt rules consistent with and_  
+| _necessary to implement this section, including rules relating to:_  
+|  _(1)_ _____a qualifying colocation data center, qualifying_  
+| _operator, and qualifying tenant;_  
+|  _(2)_ _____issuance and revocation of a registration number_  
+| _required under this section; and_  
+|  _(3)_ _____reporting and other procedures necessary to ensure_  
+| _that a qualifying colocation data center, qualifying operator, and_  
+| _qualifying tenant comply with this section and remain entitled to_  
+| _the exemption authorized by this section._  
+|  _(l)_ _____The exemption provided under this section does not apply_  
+| _to the taxes imposed under Chapter 321, 322, or 323._  
+|  _(m)_ _____Information submitted to the comptroller in an_  
+| _application under Subsection (e) or (f) is confidential and_  
+| _excepted from the requirements of Section 552.021, Government Code._  
+|  SECTION 2. Section 151.317(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) Subject to Sections 151.1551, 151.359, [ ~~and~~ ] 151.3595 _,_  
+| _and 151.3596_ and Subsection (d) of this section, gas and  
+| electricity are exempted from the taxes imposed by this chapter  
+| when sold for:  
+|  (1) residential use;  
+|  (2) use in powering equipment exempt under Section  
+| 151.318 or 151.3185 by a person processing tangible personal  
+| property for sale as tangible personal property, other than  
+| preparation or storage of prepared food described by Section  
+| 151.314(c-2);  
+|  (3) use in lighting, cooling, and heating in the  
+| manufacturing area during the actual manufacturing or processing of  
+| tangible personal property for sale as tangible personal property,  
+| other than preparation or storage of prepared food described by  
+| Section 151.314(c-2);  
+|  (4) use directly in exploring for, producing, or  
+| transporting, a material extracted from the earth;  
+|  (5) use in agriculture, including dairy or poultry  
+| operations and pumping for farm or ranch irrigation;  
+|  (6) use directly in electrical processes, such as  
+| electroplating, electrolysis, and cathodic protection;  
+|  (7) use directly in the off-wing processing, overhaul,  
+| or repair of a jet turbine engine or its parts for a certificated or  
+| licensed carrier of persons or property;  
+|  (8) use directly in providing, under contracts with or  
+| on behalf of the United States government or foreign governments,  
+| defense or national security-related electronics, classified  
+| intelligence data processing and handling systems, or  
+| defense-related platform modifications or upgrades;  
+|  (9) use directly by a data center _,_ [ ~~or~~ ] large data  
+| center project _, or colocation data center_ that is certified by the  
+| comptroller as a qualifying data center under Section 151.359 _,_ [ ~~or~~ ]  
+| a qualifying large data center project under Section 151.3595 _, or a_  
+| _qualifying colocation data center under Section 151.3596_ in the  
+| processing, storage, and distribution of data;  
+|  (10) a direct or indirect use, consumption, or loss of  
+| electricity by an electric utility engaged in the purchase of  
+| electricity for resale; or  
+|  (11) use in timber operations, including pumping for  
+| irrigation of timberland.  
+|  SECTION 3. The change in law made by this Act does not  
+| affect tax liability accruing before the effective date of this  
+| Act. That liability continues in effect as if this Act had not been  
+| enacted, and the former law is continued in effect for the  
+| collection of taxes due and for civil and criminal enforcement of  
+| the liability for those taxes.  
+|  SECTION 4. Section 151.3596, Tax Code, as added by this Act,  
+| applies only to:  
+|  (1) a colocation data center that becomes a qualifying  
+| colocation data center on or after the effective date of this Act;  
+| or  
+|  (2) an operator or tenant of a colocation data center  
+| that becomes a qualifying operator or a qualifying tenant on or  
+| after the effective date of this Act.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

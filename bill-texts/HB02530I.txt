@@ -1,0 +1,28 @@
+| 86R11837 AAF-D  
+---|---  
+|  By: Flynn | H.B. No. 2530  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the development by the Texas Veterans Commission of an  
+| online repository of information of use to active duty military  
+| relocating to this state.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 434, Government Code, is  
+| amended by adding Section 434.026 to read as follows:  
+|  _Sec._ ___434.026._ _____ONLINE REPOSITORY FOR ACTIVE DUTY MILITARY._  
+| _(a)_ ___The Texas Veterans Commission shall develop and maintain on the_  
+| _state electronic Internet portal project described by Section_  
+| _2054.252 an online repository of information of use to active duty_  
+| _members of the United States armed forces and their families_  
+| _relocating to this state._  
+|  _(b)_ _____The repository under Subsection (a) must include_  
+| _information on assistance, fee waivers, and programs the state_  
+| _provides to active duty members of the United States armed forces_  
+| _and their families related to occupational and professional_  
+| _licenses, education, and health care._  
+|  _(c)_ _____A link to the repository developed under Subsection (a)_  
+| _must be prominently displayed on the public home page of the state_  
+| _electronic Internet portal project described by Section 2054.252._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

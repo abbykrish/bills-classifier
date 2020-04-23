@@ -1,0 +1,538 @@
+| 86R10814 MM-F  
+---|---  
+|  By: Collier | H.B. No. 2894  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the prosecution of health care fraud.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Article 12.01, Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  Art. 12.01. FELONIES. Except as provided in Article 12.03,  
+| felony indictments may be presented within these limits, and not  
+| afterward:  
+|  (1) no limitation:  
+|  (A) murder and manslaughter;  
+|  (B) sexual assault under Section 22.011(a)(2),  
+| Penal Code, or aggravated sexual assault under Section  
+| 22.021(a)(1)(B), Penal Code;  
+|  (C) sexual assault, if:  
+|  (i) during the investigation of the offense  
+| biological matter is collected and subjected to forensic DNA  
+| testing and the testing results show that the matter does not match  
+| the victim or any other person whose identity is readily  
+| ascertained; or  
+|  (ii) probable cause exists to believe that  
+| the defendant has committed the same or a similar sexual offense  
+| against five or more victims;  
+|  (D) continuous sexual abuse of young child or  
+| children under Section 21.02, Penal Code;  
+|  (E) indecency with a child under Section 21.11,  
+| Penal Code;  
+|  (F) an offense involving leaving the scene of an  
+| accident under Section 550.021, Transportation Code, if the  
+| accident resulted in the death of a person;  
+|  (G) trafficking of persons under Section  
+| 20A.02(a)(7) or (8), Penal Code;  
+|  (H) continuous trafficking of persons under  
+| Section 20A.03, Penal Code; or  
+|  (I) compelling prostitution under Section  
+| 43.05(a)(2), Penal Code;  
+|  (2) ten years from the date of the commission of the  
+| offense:  
+|  (A) theft of any estate, real, personal or mixed,  
+| by an executor, administrator, guardian or trustee, with intent to  
+| defraud any creditor, heir, legatee, ward, distributee,  
+| beneficiary or settlor of a trust interested in such estate;  
+|  (B) theft by a public servant of government  
+| property over which _the public servant_ [ ~~he~~ ] exercises control in  
+| _the public servant's_ [ ~~his~~ ] official capacity;  
+|  (C) forgery or the uttering, using or passing of  
+| forged instruments;  
+|  (D) injury to an elderly or disabled individual  
+| punishable as a felony of the first degree under Section 22.04,  
+| Penal Code;  
+|  (E) sexual assault, except as provided by  
+| Subdivision (1);  
+|  (F) arson;  
+|  (G) trafficking of persons under Section  
+| 20A.02(a)(1), (2), (3), or (4), Penal Code; or  
+|  (H) compelling prostitution under Section  
+| 43.05(a)(1), Penal Code;  
+|  (3) seven years from the date of the commission of the  
+| offense:  
+|  (A) misapplication of fiduciary property or  
+| property of a financial institution;  
+|  (B) securing execution of document by deception;  
+|  (C) a felony violation under Chapter 162, Tax  
+| Code;  
+|  (D) false statement to obtain property or credit  
+| under Section 32.32, Penal Code;  
+|  (E) money laundering;  
+|  (F) credit card or debit card abuse under Section  
+| 32.31, Penal Code;  
+|  (G) fraudulent use or possession of identifying  
+| information under Section 32.51, Penal Code;  
+|  (H) exploitation of a child, elderly individual,  
+| or disabled individual under Section 32.53, Penal Code;  
+|  (I) _health care_ [ ~~Medicaid~~ ] fraud under Section  
+| 35A.02, Penal Code; or  
+|  (J) bigamy under Section 25.01, Penal Code,  
+| except as provided by Subdivision (6);  
+|  (4) five years from the date of the commission of the  
+| offense:  
+|  (A) theft or robbery;  
+|  (B) except as provided by Subdivision (5),  
+| kidnapping or burglary;  
+|  (C) injury to an elderly or disabled individual  
+| that is not punishable as a felony of the first degree under Section  
+| 22.04, Penal Code;  
+|  (D) abandoning or endangering a child; or  
+|  (E) insurance fraud;  
+|  (5) if the investigation of the offense shows that the  
+| victim is younger than 17 years of age at the time the offense is  
+| committed, 20 years from the 18th birthday of the victim of one of  
+| the following offenses:  
+|  (A) sexual performance by a child under Section  
+| 43.25, Penal Code;  
+|  (B) aggravated kidnapping under Section  
+| 20.04(a)(4), Penal Code, if the defendant committed the offense  
+| with the intent to violate or abuse the victim sexually; or  
+|  (C) burglary under Section 30.02, Penal Code, if  
+| the offense is punishable under Subsection (d) of that section and  
+| the defendant committed the offense with the intent to commit an  
+| offense described by Subdivision (1)(B) or (D) of this article or  
+| Paragraph (B) of this subdivision;  
+|  (6) ten years from the 18th birthday of the victim of  
+| the offense:  
+|  (A) trafficking of persons under Section  
+| 20A.02(a)(5) or (6), Penal Code;  
+|  (B) injury to a child under Section 22.04, Penal  
+| Code; or  
+|  (C) bigamy under Section 25.01, Penal Code, if  
+| the investigation of the offense shows that the person, other than  
+| the legal spouse of the defendant, whom the defendant marries or  
+| purports to marry or with whom the defendant lives under the  
+| appearance of being married is younger than 18 years of age at the  
+| time the offense is committed; or  
+|  (7) three years from the date of the commission of the  
+| offense: all other felonies.  
+|  SECTION 2. Section 3(a)(3), Article 37.07, Code of Criminal  
+| Procedure, is amended to read as follows:  
+|  (3) Regardless of the plea and whether the punishment  
+| is assessed by the judge or the jury, during the punishment phase of  
+| the trial of an offense under Section 35A.02, Penal Code, subject to  
+| the applicable rules of evidence, the state and the defendant may  
+| offer evidence not offered during the guilt or innocence phase of  
+| the trial concerning the total pecuniary loss to the _affected_  
+| _health care_ [ ~~Medicaid~~ ] program caused by the defendant's conduct  
+| or, if applicable, the scheme or continuing course of conduct of  
+| which the defendant's conduct is part.  _Evidence may be offered in_  
+| _summary form_ [ ~~Subject to the applicable rules of evidence, an~~  
+|  ~~employee of the Health and Human Services Commission's office of~~  
+|  ~~inspector general or the office of attorney general's Medicaid~~  
+|  ~~fraud control unit may testify~~ ] concerning the total pecuniary loss  
+| to the _affected health care_ [ ~~Medicaid~~ ] program.  _Testimony_  
+| _regarding the total pecuniary loss to the affected health care_  
+| _program_ [ ~~An employee who testifies under this subdivision~~ ] is  
+| subject to cross-examination.  Evidence offered under this  
+| subdivision may be considered by the judge or jury in ordering or  
+| recommending the amount of any restitution to be made to the  
+| _affected health care_ [ ~~Medicaid~~ ] program or the appropriate  
+| punishment for the defendant.  
+|  SECTION 3. Article 59.01(2), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (2) "Contraband" means property of any nature,  
+| including real, personal, tangible, or intangible, that is:  
+|  (A) used in the commission of:  
+|  (i) any first or second degree felony under  
+| the Penal Code;  
+|  (ii) any felony under Section 15.031(b),  
+| 20.05, 20.06, 21.11, 38.04, or Chapter 43, 20A, 29, 30, 31, 32, 33,  
+| 33A, or 35, Penal Code;  
+|  (iii) any felony under The Securities Act  
+| (Article 581-1 et seq., Vernon's Texas Civil Statutes); or  
+|  (iv) any offense under Chapter 49, Penal  
+| Code, that is punishable as a felony of the third degree or state  
+| jail felony, if the defendant has been previously convicted three  
+| times of an offense under that chapter;  
+|  (B) used or intended to be used in the commission  
+| of:  
+|  (i) any felony under Chapter 481, Health  
+| and Safety Code (Texas Controlled Substances Act);  
+|  (ii) any felony under Chapter 483, Health  
+| and Safety Code;  
+|  (iii) a felony under Chapter 151, Finance  
+| Code;  
+|  (iv) any felony under Chapter 34, Penal  
+| Code;  
+|  (v) a Class A misdemeanor under Subchapter  
+| B, Chapter 365, Health and Safety Code, if the defendant has been  
+| previously convicted twice of an offense under that subchapter;  
+|  (vi) any felony under Chapter 32, Human  
+| Resources Code, or Chapter 31, 32, 35A, or 37, Penal Code, that  
+| involves _a health care_ [ ~~the state Medicaid~~ ] program _, as defined
+by_  
+| _Section 35A.01, Penal Code_ ;  
+|  (vii) a Class B misdemeanor under Chapter  
+| 522, Business & Commerce Code;  
+|  (viii) a Class A misdemeanor under Section  
+| 306.051, Business & Commerce Code;  
+|  (ix) any offense under Section 42.10, Penal  
+| Code;  
+|  (x) any offense under Section 46.06(a)(1)  
+| or 46.14, Penal Code;  
+|  (xi) any offense under Chapter 71, Penal  
+| Code;  
+|  (xii) any offense under Section 20.05 or  
+| 20.06, Penal Code; or  
+|  (xiii) an offense under Section 326.002,  
+| Business & Commerce Code;  
+|  (C) the proceeds gained from the commission of a  
+| felony listed in Paragraph (A) or (B) of this subdivision, a  
+| misdemeanor listed in Paragraph (B)(vii), (ix), (x), or (xi) of  
+| this subdivision, or a crime of violence;  
+|  (D) acquired with proceeds gained from the  
+| commission of a felony listed in Paragraph (A) or (B) of this  
+| subdivision, a misdemeanor listed in Paragraph (B)(vii), (ix), (x),  
+| or (xi) of this subdivision, or a crime of violence;  
+|  (E) used to facilitate or intended to be used to  
+| facilitate the commission of a felony under Section 15.031 or  
+| 43.25, Penal Code; or  
+|  (F) used to facilitate or intended to be used to  
+| facilitate the commission of a felony under Section 20A.02 or  
+| Chapter 43, Penal Code.  
+|  SECTION 4. Article 59.06(p), Code of Criminal Procedure, is  
+| amended to read as follows:  
+|  (p) Notwithstanding Subsection (a), and to the extent  
+| necessary to protect the _state's_ [ ~~commission's~~ ] ability to recover  
+| amounts wrongfully obtained by the owner of the property and  
+| associated damages and penalties to which the _affected health care_  
+| _program_ [ ~~commission~~ ] may otherwise be entitled by law, the attorney  
+| representing the state shall transfer to the _governmental entity_  
+| _administering the affected health care program_ [ ~~Health and Human~~  
+|  ~~Services Commission~~ ] all forfeited property defined as contraband  
+| under Article 59.01(2)(B)(vi).  If the forfeited property consists  
+| of property other than money or negotiable instruments, the  
+| attorney representing the state may, _with the consent of the_  
+| _governmental entity administering the affected health care program_  
+| [ ~~if approved by the commission~~ ], sell the property and deliver to  
+| the _governmental entity administering the affected health care_  
+| _program_ [ ~~commission~~ ] the proceeds from the sale, minus costs  
+| attributable to the sale.  The sale must be conducted in a manner  
+| that is reasonably expected to result in receiving the fair market  
+| value for the property.  
+|  SECTION 5. Section 250.006(a), Health and Safety Code, is  
+| amended to read as follows:  
+|  (a) A person for whom the facility or the individual  
+| employer is entitled to obtain criminal history record information  
+| may not be employed in a facility or by an individual employer if  
+| the person has been convicted of an offense listed in this  
+| subsection:  
+|  (1) an offense under Chapter 19, Penal Code (criminal  
+| homicide);  
+|  (2) an offense under Chapter 20, Penal Code  
+| (kidnapping, unlawful restraint, and smuggling of persons);  
+|  (3) an offense under Section 21.02, Penal Code  
+| (continuous sexual abuse of young child or children), or Section  
+| 21.11, Penal Code (indecency with a child);  
+|  (4) an offense under Section 22.011, Penal Code  
+| (sexual assault);  
+|  (5) an offense under Section 22.02, Penal Code  
+| (aggravated assault);  
+|  (6) an offense under Section 22.04, Penal Code (injury  
+| to a child, elderly individual, or disabled individual);  
+|  (7) an offense under Section 22.041, Penal Code  
+| (abandoning or endangering child);  
+|  (8) an offense under Section 22.08, Penal Code (aiding  
+| suicide);  
+|  (9) an offense under Section 25.031, Penal Code  
+| (agreement to abduct from custody);  
+|  (10) an offense under Section 25.08, Penal Code (sale  
+| or purchase of child);  
+|  (11) an offense under Section 28.02, Penal Code  
+| (arson);  
+|  (12) an offense under Section 29.02, Penal Code  
+| (robbery);  
+|  (13) an offense under Section 29.03, Penal Code  
+| (aggravated robbery);  
+|  (14) an offense under Section 21.08, Penal Code  
+| (indecent exposure);  
+|  (15) an offense under Section 21.12, Penal Code  
+| (improper relationship between educator and student);  
+|  (16) an offense under Section 21.15, Penal Code  
+| _(invasive_ [ ~~(improper photography or~~ ] visual recording);  
+|  (17) an offense under Section 22.05, Penal Code  
+| (deadly conduct);  
+|  (18) an offense under Section 22.021, Penal Code  
+| (aggravated sexual assault);  
+|  (19) an offense under Section 22.07, Penal Code  
+| (terroristic threat);  
+|  (20) an offense under Section 32.53, Penal Code  
+| (exploitation of child, elderly individual, or disabled  
+| individual);  
+|  (21) an offense under Section 33.021, Penal Code  
+| (online solicitation of a minor);  
+|  (22) an offense under Section 34.02, Penal Code (money  
+| laundering);  
+|  (23) an offense under Section 35A.02, Penal Code  
+| ( _health care_ [ ~~Medicaid~~ ] fraud);  
+|  (24) an offense under Section 36.06, Penal Code  
+| (obstruction or retaliation);  
+|  (25) an offense under Section 42.09, Penal Code  
+| (cruelty to livestock animals), or under Section 42.092, Penal Code  
+| (cruelty to nonlivestock animals); or  
+|  (26) a conviction under the laws of another state,  
+| federal law, or the Uniform Code of Military Justice for an offense  
+| containing elements that are substantially similar to the elements  
+| of an offense listed by this subsection.  
+|  SECTION 6. Chapter 35A, Penal Code, is amended to read as  
+| follows:  
+| CHAPTER 35A. _HEALTH CARE_ [ ~~MEDICAID~~ ] FRAUD  
+|  Sec. 35A.01. DEFINITIONS. In this chapter:  
+|  (1) "Claim" _means a written or electronically_  
+| _submitted request or demand that:_  
+|  _(A)_ _____is submitted by a provider or the provider's_  
+| _agent and identifies a service or product provided or purported to_  
+| _have been provided to a health care recipient as reimbursable under_  
+| _a health care program, without regard to whether the money that is_  
+| _requested or demanded is paid; or_  
+|  _(B)_ _____states the income earned or expense incurred_  
+| _by a provider in providing a service or product and is used to_  
+| _determine a rate of payment under a health care program_ [ ~~has the~~  
+|  ~~meaning assigned by Section 36.001, Human Resources Code~~ ].  
+|  (2) "Fiscal agent" _means:_  
+|  _(A)_ _____a person who, through a contractual_  
+| _relationship with a state agency or the federal government,_  
+| _receives, processes, and pays a claim under a health care program;_  
+| _or_  
+|  _(B)_ _____the designated agent of a person described by_  
+| _Paragraph (A)_ [ ~~has the meaning assigned by Section 36.001, Human~~  
+|  ~~Resources Code~~ ].  
+|  (3) "Health care practitioner" _means a dentist,_  
+| _podiatrist, psychologist, physical therapist, chiropractor,_  
+| _registered nurse, or other provider licensed to provide health care_  
+| _services in this state_ [ ~~has the meaning assigned by Section 36.001,~~  
+|  ~~Human Resources Code~~ ].  
+|  (4) _"Health care program" means a program funded by_  
+| _this state, the federal government, or both and designed to provide_  
+| _health care services to health care recipients, including a program_  
+| _that is administered in whole or in part through a managed care_  
+| _delivery model._  
+|  _(5)_ _____"Health care recipient" means an individual to_  
+| _whom a service or product is provided or purported to have been_  
+| _provided and with respect to whom a person claims or receives a_  
+| _payment for that service or product from a health care program or_  
+| _fiscal agent, without regard to whether the individual was eligible_  
+| _for benefits under the health care program._  
+|  _(6)_ "Managed care organization" _means a person who is_  
+| _authorized or otherwise permitted by law to arrange for or provide a_  
+| _managed care plan_ [ ~~has the meaning assigned by Section 36.001,~~  
+|  ~~Human Resources Code~~ ].  
+|  [ ~~(5)~~ ~~~~ ~~~~ ~~"Medicaid program" has the meaning assigned by~~  
+|  ~~Section 36.001, Human Resources Code.~~  
+|  [ ~~(6)~~ ~~~~ ~~~~ ~~"Medicaid recipient" has the meaning assigned by~~  
+|  ~~Section 36.001, Human Resources Code.~~ ]  
+|  (7) "Physician" _means a physician licensed to practice_  
+| _medicine in this state_ [ ~~has the meaning assigned by Section 36.001,~~  
+|  ~~Human Resources Code~~ ].  
+|  (8) "Provider" _means a person who participates in or_  
+| _has applied to participate in a health care program as a supplier of_  
+| _a service or product and includes:_  
+|  _(A)_ _____a management company that manages, operates,_  
+| _or controls another provider;_  
+|  _(B)_ _____a person, including a medical vendor, who_  
+| _provides a service or product to another provider or the other_  
+| _provider's agent;_  
+|  _(C)_ _____an employee of the person who participates in_  
+| _or has applied to participate in the program;_  
+|  _(D) a managed care organization; and_  
+|  _(E)_ _____a manufacturer or distributor of a product_  
+| _for which a health care program provides reimbursement_ [ ~~has the~~  
+|  ~~meaning assigned by Section 36.001, Human Resources Code~~ ].  
+|  (9) "Service" _includes care or treatment of a health_  
+| _care recipient_ [ ~~has the meaning assigned by Section 36.001, Human~~  
+|  ~~Resources Code~~ ].  
+|  (10) "High managerial agent" means a director,  
+| officer, or employee who is authorized to act on behalf of a  
+| provider and has duties of such responsibility that the conduct of  
+| the director, officer, or employee reasonably may be assumed to  
+| represent the policy or intent of the provider.  
+|  Sec. 35A.02. _HEALTH CARE_ [ ~~MEDICAID~~ ] FRAUD. (a) A person  
+| commits an offense if the person:  
+|  (1) knowingly makes or causes to be made a false  
+| statement or misrepresentation of a material fact to permit a  
+| person to receive a benefit or payment under _a health care_ [ ~~the~~  
+|  ~~Medicaid~~ ] program that is not authorized or that is greater than the  
+| benefit or payment that is authorized;  
+|  (2) knowingly conceals or fails to disclose  
+| information that permits a person to receive a benefit or payment  
+| under _a health care_ [ ~~the Medicaid~~ ] program that is not authorized or  
+| that is greater than the benefit or payment that is authorized;  
+|  (3) knowingly applies for and receives a benefit or  
+| payment on behalf of another person under _a health care_ [ ~~the~~  
+|  ~~Medicaid~~ ] program and converts any part of the benefit or payment to  
+| a use other than for the benefit of the person on whose behalf it was  
+| received;  
+|  (4) knowingly makes, causes to be made, induces, or  
+| seeks to induce the making of a false statement or  
+| misrepresentation of material fact concerning:  
+|  (A) the conditions or operation of a facility in  
+| order that the facility may qualify for certification or  
+| recertification _under a health care program_ [ ~~required by the~~  
+|  ~~Medicaid program, including certification or recertification as:~~  
+|  [ ~~(i) a hospital;~~  
+|  [ ~~(ii)~~ ~~~~ ~~~~ ~~a nursing facility or skilled nursing~~  
+|  ~~facility;~~  
+|  [ ~~(iii) a hospice;~~  
+|  [ ~~(iv)~~ ~~~~ ~~~~ ~~an intermediate care facility for the~~  
+|  ~~mentally retarded;~~  
+|  [ ~~(v) an assisted living facility; or~~  
+|  [ ~~(vi) a home health agency~~]; or  
+|  (B) information required to be provided by a  
+| federal or state law, rule, regulation, or provider agreement  
+| pertaining to _a health care_ [ ~~the Medicaid~~ ] program;  
+|  (5) except as authorized under _a health care_ [ ~~the~~  
+|  ~~Medicaid~~ ] program, knowingly pays, charges, solicits, accepts, or  
+| receives, in addition to an amount paid under the _health care_  
+| [ ~~Medicaid~~ ] program, a gift, money, [ ~~a~~ ] donation, or other  
+| consideration as a condition to the provision of a service or  
+| product or the continued provision of a service or product if the  
+| cost of the service or product is paid for, in whole or in part,  
+| under _a health care_ [ ~~the Medicaid~~ ] program;  
+|  (6) knowingly presents or causes to be presented a  
+| claim for payment under _a health care_ [ ~~the Medicaid~~ ] program for a  
+| product provided or a service rendered by a person who:  
+|  (A) is not licensed to provide the product or  
+| render the service, if a license is required; or  
+|  (B) is not licensed in the manner claimed;  
+|  (7) knowingly makes or causes to be made a claim under  
+| _a health care_ [ ~~the Medicaid~~ ] program for:  
+|  (A) a service or product that has not been  
+| approved or acquiesced in by a treating physician or health care  
+| practitioner;  
+|  (B) a service or product that is substantially  
+| inadequate or inappropriate when compared to generally recognized  
+| standards within the particular discipline or within the health  
+| care industry; or  
+|  (C) a product that has been adulterated, debased,  
+| mislabeled, or that is otherwise inappropriate;  
+|  (8) makes a claim under _a health care_ [ ~~the Medicaid~~ ]  
+| program and knowingly fails to indicate the type of license and the  
+| identification number of the licensed health care _practitioner_  
+| [ ~~provider~~ ] who actually provided the service;  
+|  (9) knowingly enters into an agreement, combination,  
+| or conspiracy to defraud the state _or federal government_ by  
+| obtaining or aiding another person in obtaining an unauthorized  
+| payment or benefit from _a health care_ [ ~~the Medicaid~~ ] program or [
+~~a~~ ]  
+| fiscal agent;  
+|  (10) is a managed care organization that contracts  
+| with the Health and Human Services Commission _, another_ [ ~~or other~~ ]  
+| state agency _, or the federal government_ to provide or arrange to  
+| provide health care benefits or services to individuals eligible  
+| under _a health care_ [ ~~the Medicaid~~ ] program and knowingly:  
+|  (A) fails to provide to an individual a health  
+| care benefit or service that the organization is required to  
+| provide under the contract;  
+|  (B) fails to provide [ ~~to the commission~~ ] or  
+| _falsifies_ [ ~~appropriate state agency~~ ] information required to be  
+| provided by law, [ ~~commission or agency~~ ] rule, or contractual  
+| provision; or  
+|  (C) engages in a fraudulent activity in  
+| connection with the enrollment of an individual eligible under _a_  
+| _health care_ [ ~~the Medicaid~~ ] program in the organization's managed  
+| care plan or in connection with marketing the organization's  
+| services to an individual eligible under _a health care_ [ ~~the~~  
+|  ~~Medicaid~~ ] program;  
+|  (11) knowingly obstructs an investigation by the  
+| attorney general of an alleged unlawful act under this section or  
+| under Section 32.039, 32.0391, or 36.002, Human Resources Code; or  
+|  (12) knowingly makes, uses, or causes the making or  
+| use of a false record or statement to conceal, avoid, or decrease an  
+| obligation to pay or transmit money or property to this state _or the_  
+| _federal government_ under _a health care_ [ ~~the Medicaid~~ ] program.  
+|  (b) An offense under this section is:  
+|  (1) a Class C misdemeanor if the amount of any payment  
+| or the value of any monetary or in-kind benefit provided or claim  
+| for payment made under _a health care_ [ ~~the Medicaid~~ ] program,  
+| directly or indirectly, as a result of the conduct is less than  
+| $100;  
+|  (2) a Class B misdemeanor if the amount of any payment  
+| or the value of any monetary or in-kind benefit provided or claim  
+| for payment made under _a health care_ [ ~~the Medicaid~~ ] program,  
+| directly or indirectly, as a result of the conduct is $100 or more  
+| but less than $750;  
+|  (3) a Class A misdemeanor if the amount of any payment  
+| or the value of any monetary or in-kind benefit provided or claim  
+| for payment made under _a health care_ [ ~~the Medicaid~~ ] program,  
+| directly or indirectly, as a result of the conduct is $750 or more  
+| but less than $2,500;  
+|  (4) a state jail felony if:  
+|  (A) the amount of any payment or the value of any  
+| monetary or in-kind benefit provided or claim for payment made  
+| under _a health care_ [ ~~the Medicaid~~ ] program, directly or indirectly,  
+| as a result of the conduct is $2,500 or more but less than $30,000;  
+|  (B) the offense is committed under Subsection  
+| (a)(11); or  
+|  (C) it is shown on the trial of the offense that  
+| the amount of the payment or value of the benefit described by this  
+| subsection cannot be reasonably ascertained;  
+|  (5) a felony of the third degree if:  
+|  (A) the amount of any payment or the value of any  
+| monetary or in-kind benefit provided or claim for payment made  
+| under _a health care_ [ ~~the Medicaid~~ ] program, directly or indirectly,  
+| as a result of the conduct is $30,000 or more but less than  
+| $150,000; or  
+|  (B) it is shown on the trial of the offense that  
+| the defendant submitted more than 25 but fewer than 50 fraudulent  
+| claims under _a health care_ [ ~~the Medicaid~~ ] program and the  
+| submission of each claim constitutes conduct prohibited by  
+| Subsection (a);  
+|  (6) a felony of the second degree if:  
+|  (A) the amount of any payment or the value of any  
+| monetary or in-kind benefit provided or claim for payment made  
+| under _a health care_ [ ~~the Medicaid~~ ] program, directly or indirectly,  
+| as a result of the conduct is $150,000 or more but less than  
+| $300,000; or  
+|  (B) it is shown on the trial of the offense that  
+| the defendant submitted 50 or more fraudulent claims under _a health_  
+| _care_ [ ~~the Medicaid~~ ] program and the submission of each claim  
+| constitutes conduct prohibited by Subsection (a); or  
+|  (7) a felony of the first degree if the amount of any  
+| payment or the value of any monetary or in-kind benefit provided or  
+| claim for payment made under _a health care_ [ ~~the Medicaid~~ ] program,  
+| directly or indirectly, as a result of the conduct is $300,000 or  
+| more.  
+|  (c) If conduct constituting an offense under this section  
+| also constitutes an offense under another section of this code or  
+| another provision of law, the actor may be prosecuted under either  
+| this section or the other section or provision or both this section  
+| and the other section or provision.  
+|  (d) When multiple payments or monetary or in-kind benefits  
+| are provided under _one or more health care programs_ [ ~~the Medicaid~~  
+|  ~~program~~ ] as a result of one scheme or continuing course of conduct,  
+| the conduct may be considered as one offense and the amounts of the  
+| payments or monetary or in-kind benefits aggregated in determining  
+| the grade of the offense.  
+|  (e) The punishment prescribed for an offense under this  
+| section, other than the punishment prescribed by Subsection (b)(7),  
+| is increased to the punishment prescribed for the next highest  
+| category of offense if it is shown beyond a reasonable doubt on the  
+| trial of the offense that the actor was a [ ~~provider or~~ ] high  
+| managerial agent at the time of the offense.  
+|  (f) With the consent of the appropriate local county or  
+| district attorney, the attorney general has concurrent  
+| jurisdiction with that consenting local prosecutor to prosecute an  
+| offense under this section that involves _a health care_ [ ~~the~~  
+|  ~~Medicaid~~ ] program.  
+|  SECTION 7. The change in law made by this Act applies only  
+| to an offense committed on or after the effective date of this Act.  
+| An offense committed before the effective date of this Act is  
+| governed by the law in effect on the date the offense was committed,  
+| and the former law is continued in effect for that purpose. For  
+| purposes of this section, an offense was committed before the  
+| effective date of this Act if any element of the offense occurred  
+| before that date.  
+|  SECTION 8. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,32 @@
+| 86R2603 KKR-F  
+---|---  
+|  By: Cole | H.B. No. 3492  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the eligibility of a first responder for workers'  
+| compensation benefits for mental trauma injuries, including  
+| post-traumatic stress disorder.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 504.019(b), Labor Code, is amended to  
+| read as follows:  
+|  (b) _It is presumed that post-traumatic_ [ ~~Post-traumatic~~ ]  
+| stress disorder suffered by a first responder is a compensable  
+| injury under this subtitle _unless it is shown by a preponderance of_  
+| _the evidence_ [ ~~only if it is based on a diagnosis~~ ] that:  
+|  (1) the disorder is caused by an event occurring  
+| _outside_ [ ~~in~~ ] the course and scope of the first responder's  
+| employment; _or_ [ ~~and~~ ]  
+|  (2) _no_ [ ~~the preponderance of the evidence indicates~~  
+|  ~~that the~~ ] event _that occurred in the course and scope of the first_  
+| _responder's employment_ was a substantial contributing factor of the  
+| disorder.  
+|  SECTION 2. The change in law made by this Act applies only  
+| to a claim for workers' compensation benefits based on a  
+| compensable injury that occurs on or after the effective date of  
+| this Act. A claim based on a compensable injury that occurs before  
+| that date is governed by the law as it existed on the date the  
+| compensable injury occurred, and the former law is continued in  
+| effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

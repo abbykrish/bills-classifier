@@ -1,0 +1,82 @@
+| 86R5697 MCK-F  
+---|---  
+|  By: Wu | H.B. No. 1362  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the caseloads of child protective services caseworkers.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C, Chapter 40, Human Resources Code,  
+| is amended by adding Section 40.05291 to read as follows:  
+|  _Sec._ ___40.05291._ _____CASEWORKER CASELOAD SCORING SYSTEM AND_  
+| _REPORT. (a)_ ___The department shall develop a scoring system to_  
+| _ensure equity in the distribution of cases among child protective_  
+| _services caseworkers. The scoring system must evaluate each child_  
+| _protective services case on:_  
+|  _(1) the total number of children involved in the case;_  
+|  _(2) the total number of parents involved in the case;_  
+|  _(3)_ _____the type of placement for each child involved in_  
+| _the case;_  
+|  _(4) the total number of placements for the case;_  
+|  _(5)_ _____the level of care required for each child involved_  
+| _in the case and the difficulty in providing that care;_  
+|  _(6)_ _____the level of department intervention and parental_  
+| _or family services required for the case and the difficulty in_  
+| _providing those services;_  
+|  _(7)_ _____the level of cooperation of each parent involved_  
+| _in the case;_  
+|  _(8)_ _____the amount of travel required to manage the case_  
+| _considering the geographic distances between the caseworker's_  
+| _office and the location of the child's residence, the child's_  
+| _service providers, the court in which the case is pending, and any_  
+| _other considerations affecting the caseworker's travel;_  
+|  _(9)_ _____any difficulties associated with handling cases in_  
+| _each specific department region; and_  
+|  _(10)_ _____any other factor the department determines_  
+| _reasonable and necessary to assess the difficulty of handling a_  
+| _case._  
+|  _(b)_ _____After considering the factors described by Subsection_  
+| _(a), the department shall assign each child protective services_  
+| _case a score. The department shall assign average cases a score of_  
+| _one, more difficult cases a score of greater than one, and easier_  
+| _cases a score of less than one._  
+|  _(c)_ _____Using the score for each case, the department shall_  
+| _calculate each caseworker's daily average caseload for each month._  
+| _The caseworker's daily average caseload for a month is calculated_  
+| _by:_  
+|  _(1)_ _____multiplying the score assigned under Subsection_  
+| _(b) for the case by the number of days in the month the caseworker_  
+| _was assigned the case;_  
+|  _(2)_ _____dividing the product of the calculation determined_  
+| _under Subdivision (1) by the number of days in the month;_  
+|  _(3)_ _____repeating the calculations in Subdivisions (1) and_  
+| _(2) for each case assigned to the caseworker in the month; and_  
+|  _(4)_ _____adding the quotients of each calculation under_  
+| _Subdivision (2)._  
+|  _(d)_ _____The department shall establish a maximum daily average_  
+| _caseload for child protective services caseworkers based on the_  
+| _caseworker's experience and the stage of each case, including_  
+| _whether the case involves the provision of family-based safety_  
+| _services, the department being named permanent managing_  
+| _conservator of the child, or the adoption of the child._  
+|  _(e)_ _____The department shall establish a procedure for_  
+| _authorizing a child protective services caseworker to exceed the_  
+| _maximum daily average caseload. The procedure must include a_  
+| _report stating:_  
+|  _(1)_ _____the reasons for authorizing the caseworker to_  
+| _exceed the maximum daily average caseload; and_  
+|  _(2)_ _____the number of days the caseworker may exceed the_  
+| _maximum daily average caseload._  
+|  _(f)_ _____The department shall publish on the department's_  
+| _Internet website the maximum daily average caseload for child_  
+| _protective services caseworkers and the methodology for_  
+| _determining that maximum._  
+|  _(g)_ _____Not later than the December 1 of each year, the_  
+| _department shall submit to the governor, lieutenant governor,_  
+| _speaker of the house of representatives, and chairs of the standing_  
+| _committees of the senate and house of representatives having_  
+| _primary jurisdiction over child protection issues a report_  
+| _containing information relating to the caseloads of child_  
+| _protective services caseworkers._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

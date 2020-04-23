@@ -1,0 +1,21 @@
+| 86R9198 SRS-D  
+---|---  
+|  By: Rosenthal | H.B. No. 1366  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the method of returning a ballot to be voted by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 86.006, Election Code, is amended by  
+| amending Subsection (a-1) and adding Subsection (a-2) to read as  
+| follows:  
+|  (a-1) The voter may deliver a marked ballot in person to _:_  
+|  _(1)_ the early voting clerk's office only while the  
+| polls are open on election day _; or_  
+|  _(2)_ _____a polling place while polls are open during the_  
+| _early voting period or on election day_.  
+|  _(a-2)_ A voter who delivers a marked ballot in person _under_  
+| _Subsection (a-1)_ must present an acceptable form of identification  
+| described by Section 63.0101.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

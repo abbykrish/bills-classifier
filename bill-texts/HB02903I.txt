@@ -1,0 +1,69 @@
+| 86R7741 GRM-D  
+---|---  
+|  By: Fierro | H.B. No. 2903  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to voter registration applications.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.073, Election Code, is amended by  
+| amending Subsection (a) and adding Subsection (b-1) to read as  
+| follows:  
+|  (a) Except as provided by Subsection (b) _or (b-1)_ , the  
+| registrar shall deliver written notice of the reason for the  
+| rejection of an application to the applicant not later than the  
+| second day after the date of rejection.  
+|  _(b-1)_ _____Before rejecting an application on which an applicant_  
+| _provided an e-mail address, the registrar may notify an applicant_  
+| _by e-mail that the registrar needs additional information to_  
+| _approve the application, including correcting an applicant's date_  
+| _of birth, correcting the spelling of the applicant's name, or_  
+| _providing additional information to correct an address or county of_  
+| _residence. The registrar shall make a reasonable effort to contact_  
+| _the applicant by e-mail. If no response is received before the_  
+| _fourth day after the date the registrar sends the notification, the_  
+| _registrar may reject the application._  
+|  SECTION 2. Section 13.122(a), Election Code, is amended to  
+| read as follows:  
+|  (a) In addition to the other statements and spaces for  
+| entering information that appear on an officially prescribed  
+| registration application form, each official form must include:  
+|  (1) the statement: "I understand that giving false  
+| information to procure a voter registration is perjury and a crime  
+| under state and federal law.";  
+|  (2) a space for the applicant's registration number;  
+|  (3) a space for the applicant's Texas driver's license  
+| number or number of a personal identification card issued by the  
+| Department of Public Safety;  
+|  (4) a space for the applicant's telephone number;  
+|  (5) a space for the applicant's social security  
+| number;  
+|  (6) a space for the applicant's sex;  
+|  (7) a statement indicating that the furnishing of the  
+| applicant's telephone number _, e-mail address,_ and sex is optional;  
+|  (8) a space or box for indicating whether the  
+| applicant or voter is submitting new registration information or a  
+| change in current registration information;  
+|  (9) a statement instructing a voter who is using the  
+| form to make a change in current registration information to enter  
+| the voter's name and the changed information in the appropriate  
+| spaces on the form;  
+|  (10) a statement that if the applicant declines to  
+| register to vote, that fact will remain confidential and will be  
+| used only for voter registration purposes;  
+|  (11) a statement that if the applicant does register  
+| to vote, information regarding the agency or office to which the  
+| application is submitted will remain confidential and will be used  
+| only for voter registration purposes;  
+|  (12) a space or box for indicating whether the  
+| applicant is interested in working as an election judge;  
+|  (13) a statement warning that a conviction for making  
+| a false statement may result in imprisonment for up to the maximum  
+| amount of time provided by law, a fine of up to the maximum amount  
+| provided by law, or both the imprisonment and the fine; [ ~~and~~ ]  
+|  (14) _a space for the applicant's e-mail address; and_  
+|  _(15)_ any other voter registration information  
+| required by federal law or considered appropriate and required by  
+| the secretary of state.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

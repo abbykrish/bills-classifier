@@ -1,0 +1,36 @@
+| 86R6098 KKR-F  
+---|---  
+|  By: Lozano | H.B. No. 1985  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to administrative violations committed by certified  
+| self-insurer administrators under the Texas Workers' Compensation  
+| Act; authorizing an administrative penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 415.002, Labor Code, is amended by  
+| adding Subsections (c) and (d) to read as follows:  
+|  _(c)_ _____Notwithstanding any provision of a contract entered_  
+| _into under Section 4151.253, Insurance Code, an administrator, as_  
+| _defined by Section 4151.001 of that code, commits an administrative_  
+| _violation under Subsection (a) if the administrator:_  
+|  _(1)_ _____is under contract with a certified self-insurer;_  
+| _and_  
+|  _(2)_ _____engages in conduct described by Subsection (a) in_  
+| _the course of administering a claim on behalf of the certified_  
+| _self-insurer._  
+|  _(d)_ _____A certified self-insurer may not be charged with an_  
+| _administrative violation under Subsection (a) if the conduct that_  
+| _is the subject of the violation was engaged in by an administrator,_  
+| _as defined by Section 4151.001, Insurance Code, of the certified_  
+| _self-insurer, unless the certified self-insurer directed the_  
+| _administrator to engage in that conduct._  
+|  SECTION 2. Sections 415.002(c) and (d), Labor Code, as  
+| added by this Act, apply only to an administrative violation  
+| committed on or after the effective date of this Act. An  
+| administrative violation committed before the effective date of  
+| this Act is governed by the law in effect on the date the  
+| administrative violation was committed, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

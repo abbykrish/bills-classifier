@@ -1,0 +1,115 @@
+| 86R8340 NC-D  
+---|---  
+|  By: Wray | H.B. No. 2069  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the foreclosure of a lien on real property of a  
+| decedent.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 51.0001(2), Property Code, is amended to  
+| read as follows:  
+|  (2) "Debtor's last known address" means:  
+|  (A) for a debt secured by the debtor's residence,  
+| the debtor's residence address unless the debtor provided the  
+| mortgage servicer a written change of address before the date the  
+| mortgage servicer mailed a notice required by Section 51.002 _or_  
+| _51.0022_ ; or  
+|  (B) for a debt other than a debt described by  
+| Paragraph (A), the debtor's last known address as shown by the  
+| records of the mortgage servicer of the security instrument unless  
+| the debtor provided the current mortgage servicer a written change  
+| of address before the date the mortgage servicer mailed a notice  
+| required by Section 51.002 _or 51.0022_.  
+|  SECTION 2. Sections 51.002(b) and (d), Property Code, are  
+| amended to read as follows:  
+|  (b) Except as provided by Subsection (b-1), notice of the  
+| sale, which must include a statement of the earliest time at which  
+| the sale will begin, must be given at least 21 days _, or 45 days if_  
+| _Section 51.0022(d) or (e) applies,_ before the date of the sale by:  
+|  (1) posting at the courthouse door of each county in  
+| which the property is located a written notice designating the  
+| county in which the property will be sold;  
+|  (2) filing in the office of the county clerk of each  
+| county in which the property is located a copy of the notice posted  
+| under Subdivision (1); and  
+|  (3) serving written notice of the sale by certified  
+| mail on each debtor who, according to the records of the mortgage  
+| servicer of the debt, is obligated to pay the debt _or serving_  
+| _written notice under Section 51.0022, if applicable_.  
+|  (d) Notwithstanding any agreement to the contrary _and_  
+| _except as provided by Section 51.0022_ , the mortgage servicer of the  
+| debt shall serve a debtor in default under a deed of trust or other  
+| contract lien on real property used as the debtor's residence with  
+| written notice by certified mail stating that the debtor is in  
+| default under the deed of trust or other contract lien and giving  
+| the debtor at least 20 days to cure the default before notice of  
+| sale can be given under Subsection (b).  The entire calendar day on  
+| which the notice required by this subsection is given, regardless  
+| of the time of day at which the notice is given, is included in  
+| computing the 20-day notice period required by this subsection, and  
+| the entire calendar day on which notice of sale is given under  
+| Subsection (b) is excluded in computing the 20-day notice period.  
+|  SECTION 3. Chapter 51, Property Code, is amended by adding  
+| Section 51.0022 to read as follows:  
+|  _Sec._ ___51.0022._ _____FORECLOSURE SALE OF REAL PROPERTY OF DECEASED_  
+| _DEBTOR. (a) This section applies to the sale under Section 51.002_  
+| _of real property of a debtor who is deceased and whose debt secured_  
+| _by the deed of trust or other contract lien is in default,_  
+| _regardless of whether the property is a homestead._  
+|  _(b)_ _____Except as provided by Subsection (c), if an independent_  
+| _administration regarding the deceased debtor's estate is pending,_  
+| _the mortgage servicer shall send the notice required to be sent to_  
+| _the debtor under Section 51.002(b)(3) or (d) to the independent_  
+| _personal representative of the debtor's estate at the most recent_  
+| _address for the representative as reflected in the records of the_  
+| _probate court in which the administration is pending._  
+|  _(c)_ _____The mortgage servicer of the debt is not required to_  
+| _send notice under Section 51.002(d) to any person if the debtor:_  
+|  _(1) is deceased; and_  
+|  _(2) is the sole obligor of the debt._  
+|  _(d)_ _____If there is a surviving spouse of the deceased debtor,_  
+| _the mortgage servicer shall send to the surviving spouse, not later_  
+| _than the 45th day before the date of a sale under Section 51.002,_  
+| _the notice otherwise required to be sent to the debtor under Section_  
+| _51.002(b)(3) if:_  
+|  _(1)_ _____an administration of the debtor's estate was not_  
+| _opened or is not pending; and_  
+|  _(2)_ _____the sale will be held before the fourth_  
+| _anniversary of the debtor's date of death._  
+|  _(e)_ _____If an administration of the deceased debtor's estate was_  
+| _not opened before the fourth anniversary after the debtor's date of_  
+| _death, not later than the 45th day before the date of a sale under_  
+| _Section 51.002, the mortgage servicer shall:_  
+|  _(1)_ _____address the notice of sale required by Section_  
+| _51.002(b)(3) to the deceased debtor and unknown heirs of the debtor_  
+| _and:_  
+|  _(A)_ _____post the notice on the outside of any main_  
+| _entry door of the debtor's real property if the property is a_  
+| _residence;_  
+|  _(B)_ _____send the notice by certified mail to the last_  
+| _known address of the person who paid the most recent debt service_  
+| _installment that was accepted by the mortgage servicer as reflected_  
+| _in the servicer's records; or_  
+|  _(C)_ _____if providing notice under Paragraph (A) or_  
+| _(B) is not possible, send the notice by certified mail to the_  
+| _debtor's last known address; and_  
+|  _(2)_ _____file in the office of the county clerk of each_  
+| _county in which the property is located an affidavit stating the_  
+| _method used to provide the notice under Subdivision (1) and the_  
+| _reason that method was used._  
+|  _(f)_ _____A public sale under Section 51.002 of the real property_  
+| _of a deceased debtor may not be held before the 180th day after the_  
+| _date of the debtor's death._  
+|  _(g)_ _____If notice is given in accordance with this section, a_  
+| _subsequent opening of an administration of the debtor's estate,_  
+| _whether dependent or independent, does not affect the validity of a_  
+| _sale under Section 51.002 that is properly completed._  
+|  SECTION 4. The changes in law made by this Act apply only to  
+| a default under a deed of trust or other contract lien that occurs  
+| on or after the effective date of this Act. A default that occurs  
+| before the effective date of this Act is governed by the law as it  
+| existed when the default occurred, and the former law is continued  
+| in effect for that purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

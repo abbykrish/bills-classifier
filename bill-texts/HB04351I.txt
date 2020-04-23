@@ -1,0 +1,120 @@
+| 86R14017 LED-D  
+---|---  
+|  By: Martinez Fischer | H.B. No. 4351  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to utilization review of and health benefit plan coverage  
+| for emergency care.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle E, Title 8, Insurance Code, is amended  
+| by adding Chapter 1380 to read as follows:  
+| _CHAPTER 1380. COVERAGE FOR EMERGENCY CARE_  
+|  _Sec. 1380.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Emergency care" has the meaning assigned by_  
+| _Section 4201.002._  
+|  _(2)_ _____"Enrollee"_ ___means an individual covered by a health_  
+| _benefit plan._  
+|  _(3)_ _____"Health benefit plan" means a plan to which this_  
+| _chapter applies under Section 1380.0002._  
+|  _(4)_ _____"Health benefit plan issuer" means an entity_  
+| _authorized under this code or another insurance law of this state_  
+| _that provides health insurance or health benefits in this state._  
+|  _(5)_ _____"Utilization review" has the meaning assigned by_  
+| _Section 4201.002._  
+|  _Sec._ ___1380.0002._ _____APPLICABILITY OF CHAPTER. (a) This_  
+| _chapter applies only to a health benefit plan that provides_  
+| _benefits for medical or surgical expenses incurred as a result of a_  
+| _health condition, accident, or sickness, including an individual,_  
+| _group, blanket, or franchise insurance policy or insurance_  
+| _agreement, a group hospital service contract, or an individual or_  
+| _group evidence of coverage or similar coverage document that is_  
+| _issued by:_  
+|  _(1) an insurance company;_  
+|  _(2)_ _____a group hospital service corporation operating_  
+| _under Chapter 842;_  
+|  _(3)_ _____a health maintenance organization operating under_  
+| _Chapter 843;_  
+|  _(4)_ _____an approved nonprofit health corporation that_  
+| _holds a certificate of authority under Chapter 844;_  
+|  _(5)_ _____a multiple employer welfare arrangement that holds_  
+| _a certificate of authority under Chapter 846;_  
+|  _(6)_ _____a stipulated premium company operating under_  
+| _Chapter 884;_  
+|  _(7)_ _____a fraternal benefit society operating under_  
+| _Chapter 885;_  
+|  _(8) a Lloyd's plan operating under Chapter 941; or_  
+|  _(9) an exchange operating under Chapter 942._  
+|  _(b) Notwithstanding any other law, this chapter applies to:_  
+|  _(1)_ _____a small employer health benefit plan subject to_  
+| _Chapter 1501, including coverage provided through a health group_  
+| _cooperative under Subchapter B of that chapter;_  
+|  _(2)_ _____a standard health benefit plan issued under_  
+| _Chapter 1507;_  
+|  _(3) a basic coverage plan under Chapter 1551;_  
+|  _(4) a basic plan under Chapter 1575;_  
+|  _(5) a primary care coverage plan under Chapter 1579;_  
+|  _(6)_ _____a plan providing basic coverage under Chapter_  
+| _1601;_  
+|  _(7)_ _____health benefits provided by or through a church_  
+| _benefits board under Subchapter I, Chapter 22, Business_  
+| _Organizations Code;_  
+|  _(8)_ _____group health coverage made available by a school_  
+| _district in accordance with Section 22.004, Education Code;_  
+|  _(9)_ _____a managed care program under the state Medicaid_  
+| _program, including the Medicaid managed care program operated under_  
+| _Chapter 533, Government Code;_  
+|  _(10)_ _____a managed care program under the child health_  
+| _plan program under Chapter 62, Health and Safety Code;_  
+|  _(11)_ _____a regional or local health care program operated_  
+| _under Section 75.104, Health and Safety Code;_  
+|  _(12)_ _____a self-funded health benefit plan sponsored by a_  
+| _professional employer organization under Chapter 91, Labor Code;_  
+|  _(13)_ _____county employee group health benefits provided_  
+| _under Chapter 157, Local Government Code; and_  
+|  _(14)_ _____health and accident coverage provided by a risk_  
+| _pool created under Chapter 172, Local Government Code._  
+|  _Sec._ ___1380.0003._ _____EMERGENCY CARE. (a)_ ___When prospective,_  
+| _concurrent, or retrospective utilization review is being conducted_  
+| _for a health benefit plan issuer or the issuer makes a benefit_  
+| _determination to determine the medical necessity and_  
+| _appropriateness of emergency care, the health benefit plan issuer_  
+| _and any utilization review agent acting on the issuer's behalf_  
+| _shall comply with this chapter._  
+|  _(b) The issuer:_  
+|  _(1)_ _____shall provide coverage for emergency care_  
+| _necessary to screen and stabilize an enrollee, as determined by the_  
+| _health care provider providing the emergency care;_  
+|  _(2)_ _____may not require prior authorization of emergency_  
+| _care; and_  
+|  _(3)_ _____shall comply with other applicable provisions of_  
+| _this code, including Sections 843.252, 843.258, 1271.155,_  
+| _1301.0053, 1301.155, 4201.304, and 4201.357, as applicable._  
+|  _(c)_ _____Coverage of emergency care may be subject to applicable_  
+| _copayments, coinsurance, and deductibles under the health benefit_  
+| _plan._  
+|  _(d)_ _____Before a health benefit plan issuer retrospectively_  
+| _denies coverage for emergency care based on the determination that_  
+| _it was not medically necessary or appropriate to provide the care as_  
+| _emergency care, the issuer or the utilization review agent acting_  
+| _on the issuer's behalf shall review the enrollee's medical record_  
+| _regarding the medical condition for which the emergency care was_  
+| _provided._ ___If the issuer or agent requests a record relating to a_  
+| _retrospective review of emergency care, the health care provider_  
+| _who provided the emergency care shall submit the record of the_  
+| _emergency care to the issuer or agent in accordance with Section_  
+| _4201.305._  
+|  _(e)_ _____Notwithstanding Section 4201.152, a board-certified_  
+| _physician licensed in this state must complete a retrospective_  
+| _review of emergency care for a health benefit plan issuer._  
+|  _(f)_ _____The process for an appeal of a determination subject to_  
+| _this section must comply with Section 4201.357._  
+|  SECTION 2. Section 1380.0003, Insurance Code, as added by  
+| this Act, applies only to a health benefit plan that is delivered,  
+| issued for delivery, or renewed on or after January 1, 2020. A  
+| health benefit plan delivered, issued for delivery, or renewed  
+| before January 1, 2020, is governed by the law as it existed  
+| immediately before the effective date of this Act, and that law is  
+| continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

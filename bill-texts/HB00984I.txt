@@ -1,0 +1,167 @@
+| 86R4641 TJB-F  
+---|---  
+|  By: Parker | H.B. No. 984  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to requirements for new or increased municipal fees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 102, Local Government Code, is amended  
+| by adding Section 102.0001 to read as follows:  
+|  _Sec._ ___102.0001._ _____DEFINITION._ ___In this chapter, "fee"_ ___has
+the_  
+| _meaning assigned by Section 109.001._  
+|  SECTION 2. Section 102.005, Local Government Code, is  
+| amended by adding Subsection (b-1) to read as follows:  
+|  _(b-1)_ _____A proposed budget that includes estimated revenue_  
+| _from a new fee or the increase of an existing fee must contain a_  
+| _cover page with the following statement in 18-point or larger type:_  
+| _"This budget includes estimated revenue from the following new or_  
+| _increased fees: (include a description of each new or increased_  
+| _fee, the dollar amount of each new fee, and the dollar amount of and_  
+| _percentage of increase of each increased fee)."_  
+|  SECTION 3. Section 102.006(c), Local Government Code, is  
+| amended to read as follows:  
+|  (c) The governing body shall provide for public notice of  
+| the date, time, and location of the hearing. The notice must  
+| include, in type of a size at least equal to the type used for other  
+| items in the notice, any statement required to be included in the  
+| proposed budget under Section 102.005(b) _or (b-1)_.  
+|  SECTION 4. Section 102.0065(d), Local Government Code, is  
+| amended to read as follows:  
+|  (d) Notice under this section must include, in type of a  
+| size at least equal to the type used for other items in the notice,  
+| any statement required to be included in the proposed budget under  
+| Section 102.005(b) _or (b-1)_.  
+|  SECTION 5. Section 102.007, Local Government Code, is  
+| amended by adding Subsection (c-1) and amending Subsection (d) to  
+| read as follows:  
+|  _(c-1)_ _____Adoption of a budget that includes estimated revenue_  
+| _from a new fee or the increase of an existing fee requires a_  
+| _separate vote of the governing body to ratify the use of that_  
+| _revenue._ ___A vote under this subsection is in addition to and_  
+| _separate from the vote to adopt the budget or a vote to adopt or_  
+| _increase the fee._  
+|  (d) An adopted budget must contain a cover page that  
+| includes:  
+|  (1) one of the following statements in 18-point or  
+| larger type that accurately describes the adopted budget:  
+|  (A) "This budget will raise more revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of increase), which is a (insert percentage increase)  
+| percent increase from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll).";  
+|  (B) "This budget will raise less revenue from  
+| property taxes than last year's budget by an amount of (insert total  
+| dollar amount of decrease), which is a (insert percentage decrease)  
+| percent decrease from last year's budget. The property tax revenue  
+| to be raised from new property added to the tax roll this year is  
+| (insert amount computed by multiplying the proposed tax rate by the  
+| value of new property added to the roll)."; or  
+|  (C) "This budget will raise the same amount of  
+| revenue from property taxes as last year's budget. The property  
+| tax revenue to be raised from new property added to the tax roll  
+| this year is (insert amount computed by multiplying the proposed  
+| tax rate by the value of new property added to the roll).";  
+|  (2) _if applicable, the following statement in 18-point_  
+| _or larger type: "This budget includes estimated revenue from the_  
+| _following new or increased fees: (include a description of each new_  
+| _or increased fee, the dollar amount of each new fee, and the dollar_  
+| _amount of and percentage of increase of each increased fee).";_  
+|  _(3)_ the record vote of each member of the governing  
+| body by name voting on the adoption of the budget;  
+|  _(4)_ [ ~~(3)~~ ] the municipal property tax rates for the  
+| preceding fiscal year, and each municipal property tax rate that  
+| has been adopted or calculated for the current fiscal year,  
+| including:  
+|  (A) the property tax rate;  
+|  (B) the effective tax rate;  
+|  (C) the effective maintenance and operations tax  
+| rate;  
+|  (D) the rollback tax rate; and  
+|  (E) the debt rate; and  
+|  _(5)_ [ ~~(4)~~ ] the total amount of municipal debt  
+| obligations.  
+|  SECTION 6. Section 102.008, Local Government Code, is  
+| amended to read as follows:  
+|  Sec. 102.008. APPROVED BUDGET FILED WITH MUNICIPAL  
+| CLERK: POSTING ON INTERNET. (a) On final approval of the budget  
+| by the governing body of the municipality, the governing body  
+| shall:  
+|  (1) file the budget with the municipal clerk; and  
+|  (2) if the municipality maintains an Internet website,  
+| take action to ensure that:  
+|  (A) a copy of the budget, including the cover  
+| page, is posted on the website; and  
+|  (B) the record vote described by Section  
+| _102.007(d)(3)_ [ ~~102.007(d)(2)~~ ] is posted on the website at least  
+| until the first anniversary of the date the budget is adopted.  
+|  (b) The governing body shall take action to ensure that the  
+| cover page of the budget is amended to include the property tax  
+| rates required by Section _102.007(d)(4)_ [ ~~102.007(d)(3)~~ ] for the  
+| current fiscal year if the rates are not included on the cover page  
+| when the budget is filed with the municipal clerk. The governing  
+| body shall file an amended cover page with the municipal clerk and  
+| take action to ensure that the amended cover page is posted on the  
+| municipality's website.  
+|  SECTION 7. Subtitle A, Title 4, Local Government Code, is  
+| amended by adding Chapter 109 to read as follows:  
+| _CHAPTER 109. NOTIFICATION OF NEW OR INCREASED MUNICIPAL FEES_  
+|  _Sec._ ___109.001._ _____DEFINITION. In this chapter, "fee" means any_  
+| _fee, charge, assessment, or similar payment required by a_  
+| _municipality for a privilege, service, authorization, permit,_  
+| _license, registration, certification, filing, or other municipal_  
+| _action or approval._  
+|  _Sec._ ___109.002._ _____E-MAIL NOTIFICATION SERVICE IN CERTAIN_  
+| _MUNICIPALITIES. (a) This section does not apply to a municipality_  
+| _located primarily in a county with a population of less than 30,000._  
+|  _(b)_ _____Except as provided by Subsection (c), each municipality_  
+| _shall establish and maintain an e-mail notification service to_  
+| _which any person may electronically subscribe to receive_  
+| _information regarding new or increased municipal fees._  
+|  _(c)_ _____A municipality that does not maintain an e-mail_  
+| _notification service for any purpose on January 1, 2019, may post_  
+| _the notifications described by Subsection (d)(1) on the Internet_  
+| _website of the municipality that are accessible from a prominently_  
+| _displayed link on the home page of that website instead of_  
+| _establishing an e-mail notification service as prescribed by this_  
+| _section._  
+|  _(d) The e-mail notification service must:_  
+|  _(1)_ _____allow a subscriber to request notification of_  
+| _each:_  
+|  _(A)_ _____new fee proposed to be adopted by the_  
+| _municipality;_  
+|  _(B)_ _____existing fee proposed to be increased by the_  
+| _municipality;_  
+|  _(C)_ _____proposed budget of the municipality that_  
+| _includes use of revenue from a fee described by Paragraph (A) or_  
+| _(B);_  
+|  _(D)_ _____adopted budget of the municipality that_  
+| _includes use of revenue from a fee described by Paragraph (A) or_  
+| _(B); or_  
+|  _(E)_ _____public hearing scheduled to be held at which_  
+| _a fee or budget described by Paragraphs (A)-(D) is scheduled to be_  
+| _discussed;_  
+|  _(2)_ _____include a link in the notification to any web page_  
+| _maintained by the municipality on which the fee or budget may be_  
+| _viewed; and_  
+|  _(3)_ _____notify the subscriber by e-mail not later than the_  
+| _day:_  
+|  _(A)_ _____the municipality provides public notice of a_  
+| _public hearing at which a proposed new or increased fee or a_  
+| _proposed budget is scheduled to be discussed, for notification of a_  
+| _public hearing for a proposed fee or budget;_  
+|  _(B)_ _____the budget officer files a proposed budget_  
+| _with the municipal clerk as required by Section 102.005, for_  
+| _notification of a proposed budget; or_  
+|  _(C)_ _____the governing body files an adopted budget_  
+| _with the municipal clerk as required by Section 102.008, for_  
+| _notification of an adopted budget._  
+|  SECTION 8. Sections 102.005, 102.006, 102.0065, 102.007,  
+| and 102.008, Local Government Code, as amended by this Act, apply  
+| only to a proposed or adopted budget for a fiscal year beginning on  
+| or after January 1, 2020.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,68 @@
+| 86R3541 JES-D  
+---|---  
+|  By: Turner of Tarrant | H.B. No. 447  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prohibiting certain telemarketing calls by a credit  
+| access business.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 304.004, Business & Commerce Code, is  
+| amended to read as follows:  
+|  Sec. 304.004. INAPPLICABILITY OF CHAPTER TO CERTAIN CALLS.  
+| This chapter does not apply to a call made:  
+|  (1) by a consumer:  
+|  (A) as the result of a solicitation by a seller or  
+| telemarketer; or  
+|  (B) in response to general media advertising by a  
+| direct mail solicitation that clearly, conspicuously, and  
+| truthfully makes all disclosures required by federal or state law;  
+|  (2) in connection with:  
+|  (A) an established business relationship; or  
+|  (B) a business relationship that has been  
+| terminated, if the call is made before the later of:  
+|  (i) the publication date of the first Texas  
+| no-call list in which the consumer's telephone number appears; or  
+|  (ii) the first anniversary of the date of  
+| termination;  
+|  (3) between a telemarketer and a business, other than  
+| by a facsimile solicitation, unless the business has informed the  
+| telemarketer that the business does not wish to receive a  
+| telemarketing call from the telemarketer;  
+|  (4) to collect a debt; or  
+|  (5) by a state licensee _, other than a credit access_  
+| _business licensed under Subchapter G, Chapter 393, Finance Code,_  
+| if:  
+|  (A) the call is not made by an automated  
+| telephone dialing system;  
+|  (B) the solicited transaction is not completed  
+| until a face-to-face sales presentation by the seller occurs and  
+| the consumer is not required to pay or authorize payment until after  
+| the presentation; and  
+|  (C) the consumer has not informed the  
+| telemarketer that the consumer does not wish to receive a  
+| telemarketing call from the telemarketer.  
+|  SECTION 2. Subchapter G, Chapter 393, Finance Code, is  
+| amended by adding Section 393.6245 to read as follows:  
+|  _Sec._ ___393.6245._ _____TELEMARKETING. (a) Except as provided by_  
+| _Subsection (b), a credit access business or a representative of a_  
+| _credit access business may not make a telemarketing call, as_  
+| _defined by Section 304.002, Business & Commerce Code, to a consumer _  
+| _whose name and telephone number are on the Texas no-call list_  
+| _maintained under Subchapter B, Chapter 304, Business & Commerce _  
+| _Code._  
+|  _(b)_ _____A credit access business or a representative of the_  
+| _business may make a telemarketing call to a consumer described by_  
+| _Subsection (a) who:_  
+|  _(1)_ _____is a party to a contract with the business if the_  
+| _call is made during the term of the contract; or_  
+|  _(2)_ _____was a party to a contract with the business if the_  
+| _call is made before the first anniversary of the date on which the_  
+| _contract was terminated, unless the consumer requests that the_  
+| _business or representative stop calling the consumer._  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

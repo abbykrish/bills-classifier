@@ -1,0 +1,612 @@
+| 86R15311 SRA-F  
+---|---  
+|  By: Guillen | H.B. No. 3475  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the cigarette tax and the tax on cigars and other  
+| tobacco products; requiring permits.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 154.001, Tax Code, is amended by  
+| amending Subdivisions (1), (7), (9), (10), (11), (12), (14), (15),  
+| (17), and (18) and adding Subdivisions (7-a) and (17-a) to read as  
+| follows:  
+|  (1) "Bonded agent" means a person in this state who is  
+| _a third-party_ [ ~~an~~ ] agent of a _manufacturer_ [ ~~person~~ ] outside
+this  
+| state and _who_ receives cigarettes in interstate commerce and stores  
+| the cigarettes for distribution or delivery to distributors under  
+| orders from the _manufacturer_ [ ~~person outside this state~~ ].  
+|  (7) "Distributor" means a person who:  
+|  (A) is authorized to purchase for the purpose of  
+| making a first sale in this state cigarettes in unstamped packages  
+| from manufacturers who distribute cigarettes in this state and to  
+| stamp cigarette packages;  
+|  (B) ships, transports, imports into this state,  
+| acquires, or possesses cigarettes and makes a first sale of the  
+| cigarettes in this state;  
+|  (C) manufactures or produces cigarettes; or  
+|  (D) is an importer [ ~~or import broker~~ ].  
+|  _(7-a)_ _____"Engage in business" means, in relation to_  
+| _cigarettes, engaging by a person, either directly or through a_  
+| _representative, in any of the following activities:_  
+|  _(A) selling cigarettes in or into this state;_  
+|  _(B)_ _____using a warehouse or another location to_  
+| _store cigarettes; or_  
+|  _(C)_ _____otherwise conducting through a physical_  
+| _presence cigarette-related business in this state._  
+|  (9) "First sale" means, except as otherwise provided  
+| by this chapter:  
+|  (A) the first transfer of possession in  
+| connection with a purchase, sale, or any exchange for value of  
+| cigarettes _in or into this state, which:_  
+|  _(i) includes the sale of cigarettes by:_  
+|  _(a)_ _____a distributor in or outside this_  
+| _state to a distributor, wholesaler, or retailer in this state; and_  
+|  _(b)_ _____a manufacturer in this state who_  
+| _transfers the cigarettes in this state; and_  
+|  _(ii) does not include:_  
+|  _(a)_ _____the sale of cigarettes by a_  
+| _manufacturer outside this state to a distributor in this state; or_  
+|  _(b)_ _____the transfer of cigarettes from a_  
+| _manufacturer outside this state to a bonded agent in this state_ [ ~~in~~  
+|  ~~intrastate commerce~~ ];  
+|  (B) the first use or consumption of cigarettes in  
+| this state; or  
+|  (C) the loss of cigarettes in this state whether  
+| through negligence, theft, or other unaccountable loss.  
+|  (10) "Importer" [ ~~or "import broker"~~ ] means a person  
+| who ships, transports, or imports into this state cigarettes  
+| manufactured or produced outside the United States for the purpose  
+| of making a first sale in this state.  
+|  (11) "Individual package of cigarettes" means a  
+| package that contains _at least 20_ [ ~~not fewer than 10~~ ] cigarettes.  
+|  (12) "Manufacturer" means a person who manufactures _,_  
+| _fabricates, or assembles cigarettes, or causes or arranges for the_  
+| _manufacture, fabrication, or assembly of cigarettes, for sale or_  
+| _distribution_ [ ~~and sells cigarettes to a distributor~~ ].  
+|  (14) "Permit holder" means a bonded agent,  
+| distributor, wholesaler, manufacturer, importer, _export warehouse,_  
+| or retailer _who obtains_ [ ~~required to obtain~~ ] a permit under Section  
+| 154.101.  
+|  (15) "Place of business" means:  
+|  (A) a commercial business location where  
+| cigarettes are sold;  
+|  (B) a commercial business location where  
+| cigarettes are kept for sale or consumption or otherwise stored;  
+| [ ~~or~~ ]  
+|  (C) a vehicle from which cigarettes are sold _; or_  
+|  _(D)_ _____a vending machine from which cigarettes are_  
+| _sold_.  
+|  (17) "Retailer" means a person who engages in the  
+| _business_ [ ~~practice~~ ] of selling cigarettes to consumers and includes  
+| the owner of a [ ~~coin-operated~~ ] cigarette vending machine.  
+|  _(17-a) "Roll-your-own machine" means a machine for_  
+| _commercial use at a retail premise that is capable of producing_  
+| _cigarettes only in quantities for personal use._  
+|  (18) "Stamp" includes only a stamp that:  
+|  (A) is printed, manufactured, or made by  
+| authority of the comptroller;  
+|  (B) shows payment of the tax imposed by this  
+| chapter; [ ~~and~~ ]  
+|  (C) is consecutively numbered and uniquely  
+| identifiable as a Texas tax stamp _; and_  
+|  _(D) is legible and undamaged_.  
+|  SECTION 2. Section 154.002, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 154.002. STORAGE. _(a)_ The commercial business  
+| location where cigarettes are stored or kept cannot be a residence  
+| or a unit in a public storage facility.  
+|  _(b)_ _____For the purpose of Subsection (a), the vehicle of a_  
+| _manufacturer's representative is not a residence or public storage_  
+| _facility._  
+|  SECTION 3. Section 154.022, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 154.022. TAX IMPOSED ON FIRST SALE OF CIGARETTES. The  
+| cigarette tax is imposed and becomes due and payable when a person  
+| [ ~~in this state~~ ] receives cigarettes to make a first sale.  
+|  SECTION 4. Subchapter B, Chapter 154, Tax Code, is amended  
+| by adding Section 154.0225 to read as follows:  
+|  _Sec._ ___154.0225._ _____LIABILITY OF PERMITTED DISTRIBUTOR._ ___A_  
+| _permitted distributor who makes a first sale to a permitted_  
+| _distributor in this state is liable for and shall pay the tax_  
+| _imposed by this chapter._  
+|  SECTION 5. Section 154.024(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) A person who imports and personally transports 200 or  
+| fewer cigarettes into this state from another state _or from an_  
+| _Indian reservation under the jurisdiction of the United States_  
+| _government_ is not required to pay the tax imposed by this chapter if  
+| the person uses the cigarettes and does not sell them or offer them  
+| for sale. A person who imports and personally transports 200 or  
+| fewer cigarettes into this state from a foreign country shall pay  
+| the tax imposed by this chapter and have affixed on each individual  
+| package of cigarettes a stamp to show payment of the tax.  
+|  SECTION 6. Section 154.060, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 154.060. CANCELLATION. No person may cancel, mark,  
+| _alter,_ or mutilate a stamp on a package of cigarettes so that the  
+| comptroller is prevented from or hindered in examining the  
+| genuineness of the stamp.  
+|  SECTION 7. Section 154.101, Tax Code, is amended by  
+| amending Subsections (a), (b), and (h) and adding Subsections (i)  
+| and (j) to read as follows:  
+|  (a) A person may not engage in business as a distributor,  
+| wholesaler, bonded agent, manufacturer, _export warehouse,_  
+| importer, or retailer unless the person has applied for and  
+| received the applicable permit from the comptroller.  
+|  (b) Each distributor, wholesaler, bonded agent,  
+| manufacturer, _export warehouse,_ importer, or retailer shall obtain  
+| a permit for each place of business owned or operated by the  
+| distributor, wholesaler, bonded agent, manufacturer, _export_  
+| _warehouse,_ importer, or retailer.  _The comptroller may not issue a_  
+| _permit for a place of business that is a residence or a unit in a_  
+| _public storage facility._  
+|  (h) Permits for engaging in business as a distributor,  
+| wholesaler, bonded agent, manufacturer, _export warehouse,_  
+| importer, or retailer shall be governed exclusively by the  
+| provisions of this code.  
+|  _(i)_ _____This section does not apply to a research facility that_  
+| _possesses and uses cigarettes only for experimental purposes._  
+|  _(j)_ _____A person engaged in the business of selling cigarettes_  
+| _for commercial purposes who provides a roll-your-own machine_  
+| _available for use by consumers must obtain manufacturer's,_  
+| _distributor's, and retailer's permits._  
+|  SECTION 8. Section 154.1015, Tax Code, is amended by  
+| amending Subsection (a) and adding Subsections (c), (d), (e), (f),  
+| (g), (h), and (i) to read as follows:  
+|  (a) Except for retail sales to consumers, cigarettes may  
+| only be sold or distributed by and between permit holders _as_  
+| _provided by this section_.  
+|  _(c)_ _____A manufacturer outside this state who is not a permitted_  
+| _distributor may sell cigarettes only to a permitted distributor._  
+|  _(d)_ _____A permitted distributor may sell cigarettes only to a_  
+| _permitted distributor, wholesaler, or retailer._  
+|  _(e)_ _____A permitted importer may sell cigarettes only to a_  
+| _permitted distributor, wholesaler, or retailer._  
+|  _(f)_ _____A permitted wholesaler may sell cigarettes only to a_  
+| _permitted distributor, wholesaler, or retailer._  
+|  _(g)_ _____A permitted retailer may sell cigarettes only to the_  
+| _consumer and may purchase cigarettes only from a permitted_  
+| _distributor or wholesaler in this state._  
+|  _(h)_ _____A permitted export warehouse may sell cigarettes only to_  
+| _persons authorized to sell or consume unstamped cigarettes outside_  
+| _the United States._  
+|  _(i)_ _____A manufacturer's representative may sell cigarettes_  
+| _only to a permitted distributor, wholesaler, or retailer._  
+|  SECTION 9. Section 154.110(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) The comptroller shall issue a permit to a distributor,  
+| wholesaler, bonded agent, manufacturer, _export warehouse,_  
+| importer, or retailer if the comptroller:  
+|  (1) has received an application and fee, if required;  
+|  (2) believes that the applicant has complied with  
+| Section 154.101; and  
+|  (3) determines that issuing the permit will not  
+| jeopardize the administration and enforcement of this chapter.  
+|  SECTION 10. Section 154.111, Tax Code, is amended by adding  
+| Subsections (c) and (g) to read as follows:  
+|  _(c) A fee is not required for an export warehouse permit._  
+|  _(g)_ _____A person issued a permit for a place of business that_  
+| _permanently closes before the permit expiration date is not_  
+| _entitled to a refund of the permit fee._  
+|  SECTION 11. Section 154.201, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 154.201. RECORD OF PURCHASE OR RECEIPT. Each  
+| distributor, wholesaler, bonded agent, and export warehouse shall  
+| keep records at each place of business of all cigarettes purchased  
+| or received, including records of those cigarettes for which no tax  
+| is due under federal law. Each retailer shall keep records at a  
+| single _commercial business_ location, which the retailer shall  
+| designate as its principal place of business in this state, of all  
+| cigarettes purchased and received. These records must include:  
+|  (1) the name and address of the shipper or carrier and  
+| the mode of transportation;  
+|  (2) all shipping records or copies of records,  
+| including invoices, bills of lading, waybills, freight bills, and  
+| express receipts;  
+|  (3) the date and the name of the place of origin of the  
+| cigarette shipment;  
+|  (4) the date and the name of the place of arrival of  
+| the cigarette shipment;  
+|  (5) a statement of the number, kind, and price paid for  
+| cigarettes, including cigarettes in stamped and unstamped  
+| packages;  
+|  (6) the name, address, permit number, and tax  
+| identification number of the seller;  
+|  (7) in the case of a distributor, copies of the customs  
+| certificates required by 19 U.S.C. Section 1681a(c), as amended,  
+| for all cigarettes imported into the United States to which the  
+| distributor has affixed a tax stamp; and  
+|  (8) any other information required by rules of the  
+| comptroller.  
+|  SECTION 12. Section 154.204(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) A manufacturer who sells cigarettes to a permit holder  
+| in this state shall file with the comptroller, on or before the _25th_  
+| [ ~~end~~ ] of each month, a report showing the information listed in  
+| _Subsections (a)(1)_ [ ~~Subdivisions (1)~~ ], (2), (3), and (5) [ ~~of~~  
+|  ~~Subsection (a)~~ ] for the previous month. Information related to the  
+| manufacturer's list prices must be submitted by the manufacturer 15  
+| days prior to any scheduled changes.  
+|  SECTION 13. Section 154.207(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) The comptroller and the attorney general are entitled to  
+| access during regular business hours [ ~~to~~ ] all records pertaining to  
+| cigarettes that are transported.  
+|  SECTION 14. Section 154.208(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) Each bonded agent shall keep, at each _of the agent's_  
+| _places_ [ ~~place~~ ] of business in this state, records of all cigarettes  
+| received, distributed, and delivered.  
+|  SECTION 15. Subchapter F, Chapter 154, Tax Code, is amended  
+| by adding Section 154.2085 to read as follows:  
+|  _Sec._ ___154.2085._ _____EXPORT WAREHOUSE'S RECORDS. (a)_ ___Each export_  
+| _warehouse shall keep, at each of the warehouse's places of business_  
+| _in this state, records of all cigarettes received, distributed, and_  
+| _delivered._  
+|  _(b) The records must include:_  
+|  _(1) invoices for receipts and deliveries;_  
+|  _(2) orders for receipts and deliveries;_  
+|  _(3) shipping records for receipts and deliveries; and_  
+|  _(4) shipping records for distribution and delivery._  
+|  SECTION 16. Section 154.209(b), Tax Code, is amended to  
+| read as follows:  
+|  (b) If a permit holder's place of business is a vehicle or _a_  
+| vending machine, the permit holder shall designate in the  
+| application for a permit a permanent place of business to keep the  
+| records. The permit holder shall keep the records in the designated  
+| place.  
+|  SECTION 17. Sections 154.501(a), (b), and (d), Tax Code,  
+| are amended to read as follows:  
+|  (a) A person violates this chapter if the person:  
+|  (1) is a distributor, wholesaler, manufacturer,  
+| _export warehouse,_ importer, bonded agent, manufacturer's  
+| representative, or retailer and fails to keep records required by  
+| this chapter;  
+|  (2) engages in the business of a bonded agent,  
+| distributor, wholesaler, manufacturer, _export warehouse,_ importer,  
+| or retailer without a valid permit;  
+|  (3) is a distributor, wholesaler, manufacturer,  
+| _export warehouse,_ importer, bonded agent, or retailer and fails to  
+| make a report or makes a false or incomplete report or application  
+| required by this chapter to the comptroller; or  
+|  (4) is a person affected by this chapter and fails or  
+| refuses to abide by or violates a provision of this chapter or a  
+| rule adopted by the comptroller under this chapter.  
+|  (b) A person who violates this section [ ~~forfeits and~~ ] shall  
+| pay to the state a penalty of not more than $2,000 for each  
+| violation.  
+|  (d) The attorney general shall bring _a suit_ [ ~~suits~~ ] to  
+| recover penalties under this section.  
+|  SECTION 18. Section 154.502, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 154.502. UNSTAMPED CIGARETTES. Except as provided by  
+| Section 154.026(b), a person commits an offense if the person:  
+|  (1) makes a first sale of unstamped cigarettes;  
+|  (2) sells, offers for sale, or presents as a prize or  
+| gift unstamped cigarettes; or  
+|  (3) knowingly consumes, uses, or smokes cigarettes  
+| _subject to the tax_ [ ~~taxed~~ ] under this chapter without a stamp  
+| affixed to each individual package.  
+|  SECTION 19. Section 154.509, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 154.509. PERMITS. A person commits an offense if the  
+| person _acting_ :  
+|  (1) as a distributor, wholesaler, or retailer,  
+| receives or possesses cigarettes without having a valid permit;  
+|  (2) as a distributor, wholesaler, or retailer,  
+| receives or possesses cigarettes without having a permit posted  
+| where it can be easily seen by the public;  
+|  (3) as a distributor or wholesaler, does not deliver  
+| an invoice to the purchaser as required by Section 154.203;  
+|  (4) as a distributor, wholesaler, or retailer, sells  
+| cigarettes without having a valid permit; or  
+|  (5) as a bonded agent _or export warehouse_ , stores,  
+| distributes, or delivers cigarettes in unstamped packages without  
+| having a valid permit.  
+|  SECTION 20. Section 154.520(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) A person commits an offense if the person:  
+|  (1) prints, engraves, makes, _duplicates,_ issues,  
+| sells, or circulates counterfeit stamps;  
+|  (2) possesses _,_ with intent to use, sell, circulate, or  
+| pass _,_ a counterfeit stamp;  
+|  (3) uses or consents to the use of a counterfeit stamp  
+| in the sale or offering for sale of cigarettes; or  
+|  (4) places or causes to be placed a counterfeit stamp  
+| on an individual package of cigarettes.  
+|  SECTION 21. Section 155.001, Tax Code, is amended by  
+| amending Subdivisions (1), (6), (7), (8), (9), (10), (11), (12),  
+| (13), (14), and (15) and adding Subdivisions (6-a) and (13-a) to  
+| read as follows:  
+|  (1) "Bonded agent" means a person in this state who is  
+| _a third-party_ [ ~~an~~ ] agent of a _manufacturer_ [ ~~person~~ ] outside
+this  
+| state and _who_ receives [ ~~cigars and~~ ] tobacco products in interstate  
+| commerce and stores the [ ~~cigars and~~ ] tobacco products for  
+| distribution or delivery to distributors under orders from the  
+| _manufacturer_ [ ~~person outside this state~~ ].  
+|  (6) "Distributor" means a person who:  
+|  (A) receives _untaxed_ tobacco products for the  
+| purpose of making a first sale in this state from a manufacturer  
+| outside the state or within the state or otherwise brings or causes  
+| to be brought into this state _untaxed_ tobacco products for sale,  
+| use, or consumption;  
+|  (B) manufactures or produces tobacco products;  
+| or  
+|  (C) is an importer [ ~~or import broker~~ ].  
+|  _(6-a)_ _____"Engage in business" means, in relation to_  
+| _tobacco products, engaging by a person, either directly or through_  
+| _a representative, in any of the following activities:_  
+|  _(A)_ _____selling tobacco products in or into this_  
+| _state;_  
+|  _(B)_ _____using a warehouse or another location to_  
+| _store tobacco products; or_  
+|  _(C)_ _____otherwise conducting through a physical_  
+| _presence tobacco product-related business in this state._  
+|  (7) "Export warehouse" means a person in this state  
+| who receives _untaxed_ tobacco products from manufacturers and stores  
+| the tobacco products for the purpose of making sales to authorized  
+| persons for resale, use, or consumption outside the United States.  
+|  (8) "First sale" means, except as otherwise provided  
+| by this chapter:  
+|  (A) the first transfer of possession in  
+| connection with a purchase, sale, or any exchange for value of  
+| tobacco products _in or into this state, which:_  
+|  _(i)_ _____includes the sale of tobacco products_  
+| _by:_  
+|  _(a)_ _____a distributor in or outside this_  
+| _state to a distributor, wholesaler, or retailer in this state; and_  
+|  _(b)_ _____a manufacturer in this state who_  
+| _transfers the tobacco products in this state; and_  
+|  _(ii) does not include:_  
+|  _(a)_ _____the sale of tobacco products by a_  
+| _manufacturer outside this state to a distributor in this state; or_  
+|  _(b)_ _____the transfer of tobacco products_  
+| _from a manufacturer outside this state to a bonded agent in this_  
+| _state_ [ ~~in intrastate commerce~~ ];  
+|  (B) the first use or consumption of tobacco  
+| products in this state; or  
+|  (C) the loss of tobacco products in this state  
+| whether through negligence, theft, or other unaccountable loss.  
+|  (9) "Importer" [ ~~or "import broker"~~ ] means a person who  
+| ships, transports, or imports into this state tobacco products  
+| manufactured or produced outside the United States for the purpose  
+| of making a first sale in this state.  
+|  (10) "Manufacturer" means a person who manufactures _,_  
+| _fabricates, or assembles tobacco products, or causes or arranges_  
+| _for the manufacture, fabrication, or assembly of tobacco products,_  
+| _for sale or distribution_ [ ~~or produces tobacco products and sells~~  
+|  ~~tobacco products to a distributor~~ ].  
+|  (11) "Manufacturer's representative" means a person  
+| employed by a manufacturer to sell or distribute the manufacturer's  
+| tobacco products _for which the tax imposed under this chapter has_  
+| _been paid_.  
+|  (12) "Permit holder" means a bonded agent,  
+| distributor, wholesaler, manufacturer, importer, _export warehouse,_  
+| or retailer _who obtains_ [ ~~required to obtain~~ ] a permit under Section  
+| 155.041.  
+|  (13) "Place of business" means:  
+|  (A) a commercial business location where tobacco  
+| products are sold;  
+|  (B) a commercial business location where tobacco  
+| products are kept for sale or consumption or otherwise stored; [ ~~or~~ ]  
+|  (C) a vehicle from which tobacco products are  
+| sold _; or_  
+|  _(D)_ _____a vending machine from which tobacco products_  
+| _are sold_.  
+|  _(13-a)_ _____"Raw tobacco" means any part of the tobacco_  
+| _plant, including the tobacco leaf or stem, that is harvested from_  
+| _the ground and is not a tobacco product as the term is defined in_  
+| _this chapter._  
+|  (14) "Retailer" means a person who engages in the  
+| _business_ [ ~~practice~~ ] of selling tobacco products to consumers and  
+| includes the owner of a [ ~~coin-operated~~ ] vending machine.  
+|  (15) "Tobacco product" means:  
+|  (A) a cigar;  
+|  (B) smoking tobacco, including granulated,  
+| plug-cut, crimp-cut, ready-rubbed, and any form of tobacco suitable  
+| for smoking in a pipe or as a cigarette;  
+|  (C) chewing tobacco, including Cavendish, Twist,  
+| plug, scrap, and any kind of tobacco suitable for chewing;  
+|  (D) snuff or other preparations of pulverized  
+| tobacco; or  
+|  (E) an article or product that is made of tobacco  
+| or a tobacco substitute and that is not a cigarette _or an_  
+| _e-cigarette as defined by Section 161.081, Health and Safety Code_.  
+|  SECTION 22. Subchapter B, Chapter 155, Tax Code, is amended  
+| by adding Sections 155.0212, 155.025, and 155.028 to read as  
+| follows:  
+|  _Sec._ ___155.0212._ _____LIABILITY OF PERMITTED DISTRIBUTOR. A_  
+| _permitted distributor who makes a first sale to a permitted_  
+| _distributor in this state is liable for and shall pay the tax_  
+| _imposed by this chapter._  
+|  _Sec._ ___155.025._ _____MANUFACTURING EXEMPTION. Raw tobacco sold to_  
+| _a permitted manufacturer in this state for the purpose of using the_  
+| _tobacco in manufacturing is not subject to the taxes imposed by this_  
+| _chapter._  
+|  _Sec._ ___155.028._ _____IMPACT OF TAX. The ultimate consumer or user_  
+| _in this state bears the impact of the tax imposed by this chapter._  
+| _If another person pays the tax, the amount of the tax is added to the_  
+| _price charged to the ultimate consumer or user._  
+|  SECTION 23. Sections 155.041(a), (b), and (h), Tax Code,  
+| are amended to read as follows:  
+|  (a) A person may not engage in business as a distributor,  
+| wholesaler, bonded agent, manufacturer, _export warehouse,_  
+| importer, or retailer unless the person has applied for and  
+| received the applicable permit from the comptroller.  
+|  (b) Each distributor, wholesaler, bonded agent,  
+| manufacturer, _export warehouse,_ importer, or retailer shall obtain  
+| a permit for each place of business owned or operated by the  
+| distributor, wholesaler, bonded agent, manufacturer, _export_  
+| _warehouse,_ importer, or retailer.  
+|  (h) Permits for engaging in business as a distributor,  
+| wholesaler, bonded agent, manufacturer, _export warehouse,_  
+| importer, or retailer shall be governed exclusively by the  
+| provisions of this code.  
+|  SECTION 24. Section 155.0415, Tax Code, is amended by  
+| amending Subsection (a) and adding Subsections (c), (d), (e), (f),  
+| (g), (h), and (i) to read as follows:  
+|  (a) Except for retail sales to consumers, tobacco products  
+| may only be sold or distributed by and between permit holders _as_  
+| _provided by this section_.  
+|  _(c)_ _____A manufacturer outside this state who is not a permitted_  
+| _distributor may sell tobacco products only to a permitted_  
+| _distributor._  
+|  _(d)_ _____A permitted distributor may sell tobacco products only_  
+| _to a permitted distributor, wholesaler, or retailer._  
+|  _(e)_ _____A permitted importer may sell tobacco products only to a_  
+| _permitted distributor, wholesaler, or retailer._  
+|  _(f)_ _____A permitted wholesaler may sell tobacco products only to_  
+| _a permitted distributor, wholesaler, or retailer._  
+|  _(g)_ _____A permitted retailer may sell tobacco products only to_  
+| _the consumer and may purchase tobacco products only from a_  
+| _permitted distributor or wholesaler in this state._  
+|  _(h)_ _____A permitted export warehouse may sell tobacco products_  
+| _only to persons authorized to sell or consume untaxed tobacco_  
+| _products outside the United States._  
+|  _(i)_ _____A manufacturer's representative may sell tobacco_  
+| _products only to a permitted distributor, wholesaler, or retailer._  
+|  SECTION 25. The heading to Section 155.049, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 155.049. _PERMIT_ [ ~~LICENSING~~ ] YEAR; FEES.  
+|  SECTION 26. Section 155.049, Tax Code, is amended by adding  
+| Subsections (c) and (g) to read as follows:  
+|  _(c) A fee is not required for an export warehouse permit._  
+|  _(g)_ _____A person issued a permit for a place of business that_  
+| _permanently closes before the permit expiration date is not_  
+| _entitled to a refund of the permit fee._  
+|  SECTION 27. Section 155.101, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 155.101. RECORD OF PURCHASE OR RECEIPT. Each  
+| distributor, wholesaler, bonded agent, and export warehouse shall  
+| keep records at each place of business of all tobacco products  
+| purchased or received. Each retailer shall keep records at a  
+| single _commercial business_ location, which the retailer shall  
+| designate as its principal place of business in the state, of all  
+| tobacco products purchased and received. These records must  
+| include the following, except that Subdivision (7) applies to  
+| distributors only and Subdivision (8) applies only to the purchase  
+| or receipt of tobacco products other than cigars:  
+|  (1) the name and address of the shipper or carrier and  
+| the mode of transportation;  
+|  (2) all shipping records or copies of records,  
+| including invoices, bills of lading, waybills, freight bills, and  
+| express receipts;  
+|  (3) the date and the name of the place of origin of the  
+| tobacco product shipment;  
+|  (4) the date and the name of the place of arrival of  
+| the tobacco product shipment;  
+|  (5) a statement of the number, kind, and price paid for  
+| the tobacco products;  
+|  (6) the name, address, permit number, and tax  
+| identification number of the seller;  
+|  (7) the manufacturer's list price for the tobacco  
+| products;  
+|  (8) the net weight as listed by the manufacturer for  
+| each unit; and  
+|  (9) any other information required by rules of the  
+| comptroller.  
+|  SECTION 28. Subchapter D, Chapter 155, Tax Code, is amended  
+| by adding Section 155.109 to read as follows:  
+|  _Sec._ ___155.109._ _____EXPORT WAREHOUSE'S RECORDS. (a) Each export_  
+| _warehouse shall keep, at each of the warehouse's places of business_  
+| _in this state, records of all tobacco products received,_  
+| _distributed, and delivered._  
+|  _(b) The records must include:_  
+|  _(1) invoices for receipts and deliveries;_  
+|  _(2) orders for receipts and deliveries;_  
+|  _(3) shipping records for receipts and deliveries; and_  
+|  _(4) shipping records for distribution and delivery._  
+|  SECTION 29. Sections 155.201(a) and (b), Tax Code, are  
+| amended to read as follows:  
+|  (a) A person violates this chapter if the person:  
+|  (1) is a distributor, wholesaler, manufacturer,  
+| _export warehouse,_ importer, bonded agent, manufacturer's  
+| representative, or retailer and fails to keep records required by  
+| this chapter;  
+|  (2) engages in the business of a bonded agent,  
+| distributor, wholesaler, manufacturer, _export warehouse,_ importer,  
+| or retailer without a valid permit;  
+|  (3) is a distributor, wholesaler, manufacturer,  
+| _export warehouse,_ importer, bonded agent, or retailer and fails to  
+| make a report required by this chapter to the comptroller or makes a  
+| false or incomplete report or application required by this chapter  
+| to the comptroller; or  
+|  (4) is a person affected by this chapter and fails or  
+| refuses to abide by or violates a provision of this chapter or a  
+| rule adopted by the comptroller under this chapter.  
+|  (b) A person who violates this chapter [ ~~forfeits and~~ ] shall  
+| pay to the state a penalty of not more than $2,000 for each  
+| violation.  
+|  SECTION 30. Section 155.202, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 155.202. NONPAYMENT OF TAX. A person commits an  
+| offense if the person, without the tax being paid:  
+|  (1) receives or possesses in this state tobacco  
+| products for the purpose of making a first sale;  
+|  (2) sells, offers for sale, or presents tobacco  
+| products as a prize or gift; or  
+|  (3) knowingly consumes, uses, or smokes tobacco  
+| products _subject to the tax imposed by this chapter_ [ ~~in an amount on~~  
+|  ~~which a tax of more than $50 is due~~ ].  
+|  SECTION 31. Section 155.207, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 155.207. PERMITS. A person commits an offense if the  
+| person _acting_ :  
+|  (1) as a distributor, wholesaler, or retailer,  
+| receives or possesses tobacco products without having a valid  
+| permit;  
+|  (2) as a distributor, wholesaler, or retailer,  
+| receives or possesses tobacco products without having a permit  
+| posted where it can be easily seen by the public;  
+|  (3) as a distributor or wholesaler, does not deliver  
+| an invoice to the purchaser as required by Section 155.102;  
+|  (4) as a distributor, wholesaler, or retailer, sells  
+| tobacco products without having a valid permit; or  
+|  (5) as a bonded agent _or export warehouse_ , stores,  
+| distributes, or delivers tobacco products on which the tax has not  
+| been paid without having a valid permit.  
+|  SECTION 32. Section 155.209, Tax Code, is amended to read as  
+| follows:  
+|  Sec. 155.209. TRANSPORTATION OF TOBACCO PRODUCTS. A person  
+| commits an offense if the person:  
+|  (1) knowingly transports tobacco products _subject to_  
+| _the tax_ [ ~~taxed~~ ] under this chapter without the tax being paid;  
+|  (2) wilfully refuses to stop a motor vehicle operated  
+| to transport tobacco products after a request to stop from an  
+| authorized representative of the comptroller; or  
+|  (3) while transporting tobacco products, refuses to  
+| permit a complete inspection of the cargo by an authorized  
+| representative of the comptroller.  
+|  SECTION 33. The heading to Section 155.211, Tax Code, is  
+| amended to read as follows:  
+|  Sec. 155.211. POSSESSION: TAX DUE [ ~~MORE THAN $50~~ ].  
+|  SECTION 34. Section 155.211(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) A person commits an offense if the person possesses, in  
+| violation of this chapter, tobacco products on which a tax [ ~~of more~~  
+|  ~~than $50~~ ] is required to be paid _that has not been paid_. _The
+absence_  
+| _of evidence of a tax payment is prima facie evidence of nonpayment._  
+|  SECTION 35. Sections 155.022, 155.112(b), and 155.203, Tax  
+| Code, are repealed.  
+|  SECTION 36. The changes in law made by this Act to Sections  
+| 154.502, 154.509, 154.520, 155.202, 155.207, 155.209, and 155.211,  
+| Tax Code, and the repeal by this Act of Section 155.203, Tax Code,  
+| apply only to an offense committed on or after the effective date of  
+| this Act. An offense committed before the effective date of this  
+| Act is governed by the law in effect on the date the offense was  
+| committed, and the former law is continued in effect for that  
+| purpose. For purposes of this section, an offense was committed  
+| before the effective date of this Act if any element of the offense  
+| occurred before that date.  
+|  SECTION 37. The changes in law made by this Act do not  
+| affect tax liability accruing before the effective date of this  
+| Act. That liability continues in effect as if this Act had not been  
+| enacted, and the former law is continued in effect for the  
+| collection of taxes due and for civil and criminal enforcement of  
+| the liability for those taxes.  
+|  SECTION 38. This Act takes effect September 1, 2019.
+

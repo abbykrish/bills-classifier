@@ -1,0 +1,59 @@
+| 86R12616 JXC-D  
+---|---  
+|  By: Anderson | H.B. No. 2422  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the coordination of certain broadband projects by the  
+| Public Utility Commission of Texas.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 2, Utilities Code, is amended  
+| by adding Chapter 19 to read as follows:  
+| _CHAPTER 19. COORDINATION OF BROADBAND INSTALLATION_  
+|  _Sec. 19.0101. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Broadband" means a mass-market retail service by_  
+| _wire or radio that provides the capability to transmit data to and_  
+| _receive data from all or substantially all Internet endpoints,_  
+| _including capabilities that are incidental to and enable the_  
+| _operation of the service._ ___The term includes a service that is_  
+| _functionally equivalent to the service described by this_  
+| _subdivision._  
+|  _(2)_ _____"Broadband conduit" means a conduit, pipe,_  
+| _innerduct, or microduct for fiber optic or other cables that_  
+| _supports broadband and wireless facilities for broadband._  
+|  _Sec._ ___19.0102._ _____DUTIES. (a) In collaboration with the Texas_  
+| _Department of Transportation and private entities, the commission_  
+| _shall encourage and coordinate efforts to plan, relocate, install,_  
+| _or improve broadband conduit in highway rights-of-way in_  
+| _conjunction with any current or planned highway construction. To_  
+| _the extent necessary, in collaboration with the Texas Department of_  
+| _Transportation the commission shall:_  
+|  _(1)_ _____evaluate engineering and design standards,_  
+| _procedures and criteria for contracts or lease agreements, and_  
+| _pricing requirements; and_  
+|  _(2)_ _____provide for allocation of risk, costs, and any_  
+| _revenue generated._  
+|  _(b)_ _____In collaboration with any other state agency the_  
+| _commission considers necessary, the commission shall develop a_  
+| _strategy to facilitate the timely and efficient deployment of_  
+| _broadband conduit or other broadband facilities on state-owned land_  
+| _and in state-owned buildings._  
+|  _(c)_ _____The commission shall give special consideration to_  
+| _projects described by Subsection (a) or (b) that are likely to_  
+| _improve access to broadband by rural or underserved communities._  
+|  _(d)_ _____To the extent practicable, the commission shall assist_  
+| _political subdivisions in adopting and implementing projects_  
+| _similar to those in Subsections (a) and (b) for the construction or_  
+| _improvement of roads under the jurisdiction of political_  
+| _subdivisions and for broadband deployment on land or in buildings_  
+| _owned by political subdivisions._  
+|  _Sec._ ___19.0103._ _____REPORT. Annually, the commission shall_  
+| _submit to the legislature a report that explains the actions taken_  
+| _by the commission in carrying out this chapter, the number of_  
+| _current and planned projects receiving assistance from the_  
+| _commission, any gains in broadband speed or access associated with_  
+| _the projects, and any costs or cost savings to the state, private_  
+| _entities, or end users of broadband services associated with the_  
+| _projects._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,24 @@
+| 86R358 KKA-F  
+---|---  
+|  By: Capriglione | H.B. No. 567  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to adjustment of a school district's wealth per student  
+| under the school finance system to reflect campus security costs.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 41.001(2), Education Code, is amended to  
+| read as follows:  
+|  (2) "Wealth per student" means the taxable value of  
+| property, as determined under Subchapter M, Chapter 403, Government  
+| Code, divided by the number of students in weighted average daily  
+| attendance _and adjusted in accordance with Section 41.0011_.  
+|  SECTION 2. Subchapter A, Chapter 41, Education Code, is  
+| amended by adding Section 41.0011 to read as follows:  
+|  _Sec._ ___41.0011._ _____ADJUSTMENT OF WEALTH PER STUDENT FOR CAMPUS_  
+| _SECURITY COSTS. The commissioner shall adjust a school district's_  
+| _wealth per student by deducting the amount of revenue per student in_  
+| _weighted average daily attendance expended by the district to pay_  
+| _campus security costs during the preceding school year._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

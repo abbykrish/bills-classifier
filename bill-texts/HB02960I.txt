@@ -1,0 +1,63 @@
+| 86R13256 LED-D  
+---|---  
+|  By: Hinojosa | H.B. No. 2960  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a prohibition against covenants not to compete for  
+| certain low-wage employees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 15.50(a), Business & Commerce Code, is  
+| amended to read as follows:  
+|  (a) Notwithstanding Section 15.05 of this code, and subject  
+| to any applicable provision of Subsection (b), a covenant not to  
+| compete is enforceable if it is ancillary to or part of an otherwise  
+| enforceable agreement at the time the agreement is made to the  
+| extent that it contains limitations as to time, geographical area,  
+| and scope of activity to be restrained that are reasonable and do  
+| not impose a greater restraint than is necessary to protect the  
+| goodwill or other business interest of the promisee _, except as_  
+| _provided by Section 15.501_.  
+|  SECTION 2. Subchapter E, Chapter 15, Business & Commerce  
+| Code, is amended by adding Section 15.501 to read as follows:  
+|  _Sec._ ___15.501._ _____PROHIBITION AGAINST COVENANT NOT TO COMPETE_  
+| _FOR CERTAIN LOW-WAGE EMPLOYEES. (a) In this section:_  
+|  _(1)_ _____"Employee"_ ___means an individual who is employed by_  
+| _an employer for compensation._  
+|  _(2)_ _____"Employer"_ ___means a person who employs one or more_  
+| _employees._ ___The term does not include a public employer._  
+|  _(b)_ _____This section applies only to an employee who earns not_  
+| _more than the greater of:_  
+|  _(1)_ _____the federal minimum wage under Section 6, Fair_  
+| _Labor Standards Act of 1938 (29 U.S.C. Section 206); or_  
+|  _(2) $15.00 an hour._  
+|  _(c)_ _____An employer may not require an employee to whom this_  
+| _section applies to enter into a covenant not to compete that_  
+| _restricts the employee from performing work:_  
+|  _(1)_ _____for another employer for a specified period of_  
+| _time;_  
+|  _(2) in a specified geographical area; or_  
+|  _(3)_ _____for another employer similar to the employee's_  
+| _work for the current employer._  
+|  _(d)_ _____A covenant not to compete described by Subsection (c) is_  
+| _void and unenforceable._  
+|  _(e)_ _____Section 15.51 does not apply to a covenant not to_  
+| _compete described by Subsection (c)._  
+|  SECTION 3. Section 15.52, Business & Commerce Code, is  
+| amended to read as follows:  
+|  Sec. 15.52. PREEMPTION OF OTHER LAW. The criteria for  
+| enforceability of a covenant not to compete provided by _Sections_  
+| [ ~~Section~~ ] 15.50 _and 15.501_ of this code and the procedures and  
+| remedies in an action to enforce a covenant not to compete provided  
+| by Section 15.51 of this code are exclusive and preempt any other  
+| criteria for enforceability of a covenant not to compete or  
+| procedures and remedies in an action to enforce a covenant not to  
+| compete under common law or otherwise.  
+|  SECTION 4. The change in law made by this Act applies only  
+| to a covenant entered into on or after the effective date of this  
+| Act. A covenant entered into before the effective date of this Act  
+| is governed by the law in effect at the time the covenant was  
+| entered into, and the former law is continued in effect for that  
+| purpose.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

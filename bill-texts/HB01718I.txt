@@ -1,0 +1,228 @@
+|  
+---|---  
+|  By: Muñoz, Jr. | H.B. No. 1718  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to participation in the health care market by managed care  
+| plan enrollees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle C, Title 8, Insurance Code, is amended  
+| by adding Chapter 1275 to read as follows:  
+| _CHAPTER 1275. HEALTH CARE MARKET PARTICIPATION_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 1275.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Allowed amount" means the amount paid by a health_  
+| _benefit plan issuer to a participating provider for a covered_  
+| _service under a contract between the issuer and provider._  
+|  _(2)_ _____"Enrollee" means an individual who is eligible to_  
+| _receive benefits for health care services through a health benefit_  
+| _plan._  
+|  _(3) "Health benefit plan" means:_  
+|  _(A)_ _____an individual, group, blanket, or franchise_  
+| _insurance policy, a certificate issued under an individual or group_  
+| _policy, or a group hospital service contract that provides benefits_  
+| _for health care services; or_  
+|  _(B)_ _____a group subscriber contract or group or_  
+| _individual evidence of coverage issued by a health maintenance_  
+| _organization that provides benefits for health care services._  
+|  _(4)_ _____"Health benefit plan issuer" means a health_  
+| _maintenance organization operating under Chapter 843, a preferred_  
+| _provider organization operating under Chapter 1301, an approved_  
+| _nonprofit health corporation that holds a certificate of authority_  
+| _under Chapter 844, and any other entity that issues a health benefit_  
+| _plan, including:_  
+|  _(A) an insurance company;_  
+|  _(B)_ _____a group hospital service corporation_  
+| _operating under Chapter 842;_  
+|  _(C)_ _____a fraternal benefit society operating under_  
+| _Chapter 885; or_  
+|  _(D)_ _____a stipulated premium company operating under_  
+| _Chapter 884._  
+|  _(5)_ _____"Health care provider" means a physician,_  
+| _hospital, pharmacy, pharmacist, laboratory, or other person or_  
+| _organization that furnishes health care services and that is_  
+| _licensed or otherwise authorized to practice in this state._  
+|  _(6)_ _____"Health care service" means a service for the_  
+| _diagnosis, prevention, treatment, cure, or relief of a health_  
+| _condition, illness, injury, or disease._  
+|  _(7)_ _____"Managed care plan" means a health benefit plan_  
+| _under which health care services are provided to enrollees through_  
+| _contracts with health care providers and that requires enrollees to_  
+| _use participating providers or that provides a different level of_  
+| _coverage for enrollees who use participating providers._  
+|  _(8)_ _____"Out-of-network provider," with respect to a_  
+| _managed care plan, means a health care provider who is not a_  
+| _participating provider of the plan._  
+|  _(9)_ _____"Participating provider" means a health care_  
+| _provider who has contracted with a health benefit plan issuer to_  
+| _provide health care services to enrollees._  
+|  _Sec._ ___1275.0002._ _____APPLICABILITY OF CHAPTER; EXEMPTION. (a)_  
+| _This chapter applies only with respect to nonemergency health care_  
+| _services covered under a managed care plan._  
+|  _(b)_ _____Notwithstanding Subsection (a), Subchapters B and C do_  
+| _not apply to a covered health care service described by Subsection_  
+| _(a) for which the commissioner approves an application for_  
+| _exemption filed by the issuer with the department in the form and_  
+| _manner prescribed by the commissioner that includes sufficient_  
+| _evidence to demonstrate that the variation in allowed amounts for_  
+| _the service among participating providers is less than $50._  
+|  _Sec._ ___1275.0003._ _____RULES. The commissioner may adopt rules to_  
+| _implement this chapter._  
+| _SUBCHAPTER B. TRANSPARENCY TOOLS_  
+|  _Sec._ ___1275.0051._ _____APPLICABILITY OF SUBCHAPTER. This_  
+| _subchapter applies only to:_  
+|  _(1)_ _____a small employer health benefit plan written under_  
+| _Chapter 1501;_  
+|  _(2)_ _____an individual insurance policy or insurance_  
+| _agreement; or_  
+|  _(3)_ _____an individual evidence of coverage or similar_  
+| _coverage document._  
+|  _Sec._ ___1275.0052._ _____AVAILABILITY OF PRICE AND QUALITY_  
+| _INFORMATION. (a) A health benefit plan issuer shall provide on its_  
+| _publicly available Internet website an interactive mechanism that,_  
+| _for a specific health care service, allows an enrollee to:_  
+|  _(1) request and obtain from the issuer:_  
+|  _(A)_ _____information on the payments made by the_  
+| _issuer to participating providers under the enrollee's health_  
+| _benefit plan; and_  
+|  _(B)_ _____quality data on participating providers to_  
+| _the extent that data is available;_  
+|  _(2)_ _____compare allowed amounts among participating_  
+| _providers;_  
+|  _(3)_ _____estimate the enrollee's out-of-pocket costs under_  
+| _the enrollee's health benefit plan; and_  
+|  _(4)_ _____view the median or mode amount paid to_  
+| _participating providers under the enrollee's health benefit plan_  
+| _within a reasonable time not to exceed one year._  
+|  _(b)_ _____A health benefit plan issuer may contract with a third_  
+| _party to provide the interactive mechanism described by Subsection_  
+| _(a)._  
+|  _Sec._ ___1275.0053._ _____ESTIMATE REQUIREMENTS. To satisfy the_  
+| _requirement under Section 1275.0052(a)(3), a health benefit plan_  
+| _issuer shall provide a good-faith estimate of the amount the_  
+| _enrollee will be responsible to pay for a health care service_  
+| _provided by a participating provider based on the information_  
+| _available to the issuer at the time the estimate is requested._  
+|  _Sec._ ___1275.0054._ _____NOTICE TO ENROLLEES. A health benefit plan_  
+| _issuer shall inform an enrollee requesting an estimate under_  
+| _Section 1275.0052(a)(3) that the actual amount of the charges and_  
+| _the amount the enrollee is responsible to pay for the service may_  
+| _vary based upon unforeseen services that arise from the proposed_  
+| _service._  
+|  _Sec._ ___1275.0055._ _____WAIVER. (a) A health benefit plan issuer_  
+| _may file with the department a request for a waiver from compliance_  
+| _with this subchapter for a health care service for which the issuer_  
+| _determines that the issuer is unable to comply with Section_  
+| _1275.0052._  
+|  _(b)_ _____A health benefit plan issuer filing a request under_  
+| _Subsection (a) must:_  
+|  _(1)_ _____file the request in the form and manner prescribed_  
+| _by the commissioner; and_  
+|  _(2)_ _____include evidence supporting the issuer's_  
+| _determination that the issuer cannot comply with Section 1275.0052_  
+| _for the health care service._  
+|  _(c)_ _____The commissioner shall approve a waiver request under_  
+| _this section if the commissioner determines that the issuer_  
+| _provided sufficient evidence to support the waiver. If the_  
+| _commissioner approves a waiver request, the commissioner shall_  
+| _publicly release the contents of the request._  
+|  _Sec._ ___1275.0056._ _____EFFECT OF SUBCHAPTER. This subchapter does_  
+| _not prohibit a health benefit plan issuer from imposing_  
+| _deductibles, copayments, or coinsurance under the health benefit_  
+| _plan for an unforeseen health care service:_  
+|  _(1)_ _____arising from the health care service that is the_  
+| _basis for the original estimate to the enrollee provided under_  
+| _Section 1275.0052; and_  
+|  _(2)_ _____that was not included in the original estimate_  
+| _provided under Section 1275.0052._  
+| _SUBCHAPTER C. INCENTIVE PROGRAM_  
+|  _Sec._ ___1275.0101._ _____APPLICABILITY OF SUBCHAPTER. (a) This_  
+| _subchapter applies only to:_  
+|  _(1)_ _____a small employer health benefit plan written under_  
+| _Chapter 1501;_  
+|  _(2)_ _____an individual insurance policy or insurance_  
+| _agreement; or_  
+|  _(3)_ _____an individual evidence of coverage or similar_  
+| _coverage document._  
+|  _(b)_ _____This subchapter does not apply to a health benefit plan_  
+| _for which an enrollee receives a premium subsidy under the Patient_  
+| _Protection and Affordable Care Act (Pub. L. No._ ___111-148)._  
+|  _Sec._ ___1275.0102._ _____ESTABLISHMENT OF INCENTIVE PROGRAM. A_  
+| _health benefit plan issuer shall establish an incentive program for_  
+| _each health benefit plan subject to this subchapter. The program_  
+| _must provide an incentive paid in accordance with this subchapter_  
+| _to an enrollee who elects to receive a health care service from a_  
+| _participating provider who provides that service at a cost that is_  
+| _lower than the median or mode allowed amount for that service._  
+|  _Sec._ ___1275.0103._ _____PROGRAM DESCRIPTION REQUIRED. Before_  
+| _offering the program required by this subchapter, a health benefit_  
+| _plan issuer shall file a description of the program with the_  
+| _department in the form and manner prescribed by the commissioner._  
+|  _Sec._ ___1275.0104._ _____NOTICE TO ENROLLEES. Annually and at_  
+| _enrollment or renewal of a health benefit plan, the health benefit_  
+| _plan issuer shall provide written notice to enrollees about:_  
+|  _(1) the availability of the program;_  
+|  _(2) the program's incentives; and_  
+|  _(3) methods to obtain the program's incentives._  
+|  _Sec._ ___1275.0105._ _____INCENTIVE PAYMENTS. (a) A health benefit_  
+| _plan issuer shall pay an incentive under the program regardless of_  
+| _whether the enrollee has exceeded the out-of-pocket limit under the_  
+| _enrollee's health benefit plan._  
+|  _(b)_ _____A health benefit plan issuer may pay a program incentive_  
+| _in the form of:_  
+|  _(1) cash;_  
+|  _(2) a gift card; or_  
+|  _(3)_ _____a credit or reduction in the health benefit plan's_  
+| _premium, deductible, copayment, or coinsurance._  
+|  _(c)_ _____An incentive payment made in accordance with this_  
+| _section is not an administrative expense of a health benefit plan_  
+| _issuer for purposes of rate development or rate filing._  
+| _SUBCHAPTER D. PARTICIPATION IN OUT-OF-NETWORK PROVIDER MARKET_  
+|  _Sec._ ___1275.0151._ _____ENROLLEE ELECTION OF CERTAIN_  
+| _OUT-OF-NETWORK CARE; PROVIDER REIMBURSEMENT. (a) If an enrollee_  
+| _elects to receive a covered health care service from an_  
+| _out-of-network provider who is based in the United States and the_  
+| _provider makes the agreement described by Subsection (b), the_  
+| _enrollee's health benefit plan issuer shall:_  
+|  _(1)_ _____allow the enrollee to obtain the service from the_  
+| _out-of-network provider; and_  
+|  _(2)_ _____pay the provider an amount not to exceed the median_  
+| _or mode contracted amount for the service during a reasonable_  
+| _period not to exceed one year._  
+|  _(b)_ _____An out-of-network provider may elect to receive a_  
+| _payment under Subsection (a) if the provider agrees to not charge_  
+| _the enrollee an amount that exceeds the enrollee's responsibility_  
+| _under the health benefit plan for the same service provided by a_  
+| _participating provider._  
+|  _Sec._ ___1275.0152._ _____APPLICATION OF ENROLLEE PAYMENT. (a) An_  
+| _enrollee who makes an election under Section 1275.0151(a) may file_  
+| _with a health benefit plan issuer a request for the enrollee's_  
+| _payment to the out-of-network provider to be treated as a payment to_  
+| _a participating provider under the enrollee's health benefit plan_  
+| _for purposes of a deductible or out-of-pocket maximum if:_  
+|  _(1)_ _____the out-of-network provider made the election_  
+| _described by Section 1275.0151(b) with respect to the service that_  
+| _is the basis for the request; and_  
+|  _(2)_ _____the enrollee provides proof of payment to the_  
+| _out-of-network provider._  
+|  _(b)_ _____A health benefit plan issuer shall provide a_  
+| _downloadable or interactive online form for submitting a request_  
+| _under Subsection (a)._  
+|  _(c)_ _____A health benefit plan issuer shall grant a request that_  
+| _complies with Subsection (a) and rules adopted under this chapter._  
+|  _Sec._ ___1275.0153._ _____NOTICE TO ENROLLEES. A health benefit plan_  
+| _issuer shall provide written notice to enrollees on the issuer's_  
+| _Internet website and in the enrollees' health benefit plan_  
+| _materials of the enrollees' rights to make an election under_  
+| _Section 1275.0151 and a request under Section 1275.0152 and the_  
+| _process for making the election and request._  
+|  SECTION 2. Chapter 1275, Insurance Code, as added by this  
+| Act, applies only to a health benefit plan delivered, issued for  
+| delivery, or renewed on or after January 1, 2020. A health benefit  
+| plan that is delivered, issued for delivery, or renewed before  
+| January 1, 2020, is governed by the law as it existed immediately  
+| before the effective date of this Act, and that law is continued in  
+| effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

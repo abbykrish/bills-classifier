@@ -1,0 +1,315 @@
+| 86R6269 TJB-D  
+---|---  
+|  By: Capriglione | H.B. No. 2189  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the disclosure of certain contracting information under  
+| the public information law.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 552.003, Government Code, is amended by  
+| adding Subdivision (7) to read as follows:  
+|  _(7) "Contracting information" means:_  
+|  _(A)_ _____information in an account, voucher, or_  
+| _contract relating to the receipt or expenditure of public or other_  
+| _funds by a governmental body;_  
+|  _(B) solicitation or bid documents;_  
+|  _(C)_ _____communications sent between a governmental_  
+| _body and a vendor or contractor, or potential vendor or contractor,_  
+| _during the solicitation, evaluation, or negotiation of a contract;_  
+|  _(D)_ _____documents, including bid tabulations,_  
+| _showing the criteria by which a governmental body evaluates each_  
+| _vendor or contractor responding to a solicitation and, if_  
+| _applicable, an explanation of why the vendor or contractor was_  
+| _selected; and_  
+|  _(E)_ _____communications and other information sent_  
+| _between a governmental body and a vendor or contractor related to_  
+| _the performance of a final contract or work performed on behalf of_  
+| _the governmental body._  
+|  SECTION 2. Subchapter B, Chapter 552, Government Code, is  
+| amended by adding Section 552.0222 to read as follows:  
+|  _Sec._ ___552.0222._ _____DISCLOSURE OF CONTRACTING INFORMATION._  
+| _Contracting information is public and must be released unless_  
+| _specially excepted from disclosure under Section 552.1101 or_  
+| _another provision of this chapter._  
+|  SECTION 3. Section 552.104(a), Government Code, is amended  
+| to read as follows:  
+|  (a) Information is excepted from the requirements of  
+| Section 552.021 if _a governmental body demonstrates that release of_  
+| _the_ [ ~~it is~~ ] information [ ~~that, if released,~~ ] would _harm its_  
+| _interests by providing an_ [ ~~give~~ ] advantage to a competitor or  
+| bidder _in a particular ongoing competitive situation or in a_  
+| _particular competitive situation where the governmental body_  
+| _establishes the situation at issue is of a recurring nature or there_  
+| _is a specific and demonstrable intent to enter into the competitive_  
+| _situation again in the future_.  
+|  SECTION 4. Subchapter C, Chapter 552, Government Code, is  
+| amended by adding Section 552.1101 to read as follows:  
+|  _Sec._ ___552.1101._ _____EXCEPTION: CONFIDENTIALITY OF PROPRIETARY_  
+| _INFORMATION._ ___(a)_ ___Contracting information is excepted from the_  
+| _requirements of Section 552.021 if the vendor or contractor or_  
+| _potential vendor or contractor to whom the information relates_  
+| _demonstrates that disclosure of the information would:_  
+|  _(1)_ _____reveal an individual approach to work,_  
+| _organizational structure, staffing, line-item pricing, pricing_  
+| _information that will be used in future solicitation or bid_  
+| _documents, or internal operations; and_  
+|  _(2)_ _____cause competitive harm to the vendor or contractor_  
+| _or potential vendor or contractor if released._  
+|  _(b)_ _____The exception to disclosure provided by Subsection (a)_  
+| _does not apply to contracting information related to:_  
+|  _(1)_ _____a contract described by Section 2261.253(a),_  
+| _subject to Subsection (e) of that section;_  
+|  _(2)_ _____a contract described by Section 322.020(c),_  
+| _subject to Subsection (d) of that section;_  
+|  _(3)_ _____the following contract or offer terms or their_  
+| _functional equivalent:_  
+|  _(A)_ _____the overall or total price, overall or total_  
+| _value, maximum liability, or other contract term that describes the_  
+| _total consideration the governmental body will or could potentially_  
+| _pay;_  
+|  _(B)_ _____a description of the items or services to be_  
+| _delivered;_  
+|  _(C) the delivery and service deadlines;_  
+|  _(D) the remedies for breach of contract;_  
+|  _(E) the identity of all parties to the contract;_  
+|  _(F) the identity of all subcontractors;_  
+|  _(G)_ _____the vendor or contractor or potential vendor_  
+| _or contractor affiliate overall or total pricing;_  
+|  _(H) the execution dates;_  
+|  _(I) the effective dates; and_  
+|  _(J) the contract duration terms; or_  
+|  _(4)_ _____information indicating whether a vendor or_  
+| _contractor or potential vendor or contractor performed its duties_  
+| _under a contract, including information regarding:_  
+|  _(A) a breach of contract;_  
+|  _(B) a contract variance;_  
+|  _(C) a remedial action;_  
+|  _(D) an amendment to a contract;_  
+|  _(E) any assessed or paid liquidated damages;_  
+|  _(F) a key measures report;_  
+|  _(G) a progress report; and_  
+|  _(H) a final payment checklist._  
+|  _(c)_ _____The exception to disclosure provided by Subsection (a)_  
+| _may be asserted only by a vendor or contractor in the manner_  
+| _described by Section 552.305(b) for the purpose of protecting the_  
+| _vendor or contractor's interests._ ___A governmental body shall_  
+| _decline to release information as provided by Section 552.305(a) to_  
+| _the extent necessary to allow a vendor or contractor to assert the_  
+| _exception to disclosure provided by Subsection (a)._  
+|  SECTION 5. Sections 552.305(a) and (d), Government Code,  
+| are amended to read as follows:  
+|  (a) In a case in which information is requested under this  
+| chapter and a person's privacy or property interests may be  
+| involved, including a case under Section 552.101, [ ~~552.104,~~ ]  
+| 552.110, _552.1101,_ or 552.114, a governmental body may decline to  
+| release the information for the purpose of requesting an attorney  
+| general decision.  
+|  (d) If release of a person's proprietary information may be  
+| subject to exception under Section 552.101, 552.110, _552.1101,_  
+| 552.113, or 552.131, the governmental body that requests an  
+| attorney general decision under Section 552.301 shall make a good  
+| faith attempt to notify that person of the request for the attorney  
+| general decision. Notice under this subsection must:  
+|  (1) be in writing and sent within a reasonable time not  
+| later than the 10th business day after the date the governmental  
+| body receives the request for the information; and  
+|  (2) include:  
+|  (A) a copy of the written request for the  
+| information, if any, received by the governmental body; and  
+|  (B) a statement, in the form prescribed by the  
+| attorney general, that the person is entitled to submit in writing  
+| to the attorney general within a reasonable time not later than the  
+| 10th business day after the date the person receives the notice:  
+|  (i) each reason the person has as to why the  
+| information should be withheld; and  
+|  (ii) a letter, memorandum, or brief in  
+| support of that reason.  
+|  SECTION 6. Section 552.321, Government Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____A requestor may file suit for a writ of mandamus_  
+| _compelling a governmental body or an entity to comply with the_  
+| _requirements of Subchapter J._  
+|  SECTION 7. Chapter 552, Government Code, is amended by  
+| adding Subchapter J to read as follows:  
+| _SUBCHAPTER J. ADDITIONAL PROVISIONS RELATED TO CONTRACTING_  
+| _INFORMATION_  
+|  _Sec._ ___552.371._ _____CERTAIN ENTITIES SUBJECT TO LAW. (a)_ ___This_  
+| _section applies only to the following entities:_  
+|  _(1)_ _____a confinement facility operated under a contract_  
+| _with any division of the Texas Department of Criminal Justice;_  
+|  _(2)_ _____a civil commitment housing facility owned, leased,_  
+| _or operated by a vendor under contract with the state as provided by_  
+| _Chapter 841, Health and Safety Code;_  
+|  _(3)_ _____a child-care facility and child-placing agency as_  
+| _those terms are defined by Section 42.002, Human Resources Code;_  
+|  _(4)_ _____an entity that receives at least $1 million in_  
+| _public funds in the current or preceding state fiscal year under one_  
+| _or more contracts with the Health and Human Services Commission to_  
+| _manage or provide health care services in the state;_  
+|  _(5)_ _____an entity that receives public funds in the_  
+| _current or preceding state fiscal year to manage the daily_  
+| _operations or restoration of the Alamo;_  
+|  _(6)_ _____an entity that receives at least $1 million in_  
+| _public funds in the current or preceding state fiscal year and those_  
+| _public funds account for at least 51 percent of the entity's income_  
+| _for the applicable current or preceding state fiscal year;_  
+|  _(7)_ _____an entity that maintains cash or cash equivalents_  
+| _received from a state agency or a political subdivision with which_  
+| _the entity contracts and those public funds constitute at least 51_  
+| _percent of the entity's net assets; and_  
+|  _(8)_ _____an economic development entity whose mission or_  
+| _purpose is to develop and promote the economic growth of a state_  
+| _agency or political subdivision with which the entity contracts and_  
+| _that receives public funds from the state agency or political_  
+| _subdivision and that:_  
+|  _(A)_ _____requires an officer of the state agency or_  
+| _political subdivision to hold office as a member of the board of_  
+| _directors of the entity;_  
+|  _(B)_ _____uses staff or office space of the state_  
+| _agency or political subdivision that is not available to the public_  
+| _without charge;_  
+|  _(C)_ _____does not track the entity's receipt and_  
+| _expenditure of public funds separately from the entity's receipt_  
+| _and expenditure of private funds; or_  
+|  _(D)_ _____does not provide at least quarterly public_  
+| _reports to the state agency or political subdivision regarding work_  
+| _performed on behalf of the state agency or political subdivision._  
+|  _(b)_ _____An entity to which this section applies is subject to_  
+| _this chapter in the same manner as a governmental body for the_  
+| _limited purpose of the disclosure of contracting information_  
+| _related to a contract with a governmental entity that is in the_  
+| _possession or custody of the entity._  
+|  _(c)_ _____An entity to which this section applies may designate on_  
+| _the Internet website of the entity one mailing address and one_  
+| _e-mail address for receiving written requests for public_  
+| _information._  
+|  _(d)_ _____An entity that makes the designations described by_  
+| _Subsection (c) is not required to respond to a written request for_  
+| _public information that is not received at one of those addresses._  
+|  _(e)_ _____An entity that does not make the designations described_  
+| _by Subsection (c) must respond to a written request for public_  
+| _information received by the entity at:_  
+|  _(1) any valid mailing address of the entity; or_  
+|  _(2)_ _____the e-mail address of the chief administrative_  
+| _officer of the entity._  
+|  _Sec._ ___552.372._ _____CERTAIN ENTITIES SUBJECT TO REQUIREMENTS_  
+| _RELATED TO THE LAW. (a)_ ___This section applies to an entity not_  
+| _described by Section 552.371(a) that executes a contract with a_  
+| _governmental body for the purchase of goods or services with a value_  
+| _of at least $1 million in public funds._  
+|  _(b)_ _____This section applies to a written request for public_  
+| _information received by a governmental body that is a party to a_  
+| _contract described by Subsection (a) for contracting information_  
+| _related to the contract that is in the custody or possession of the_  
+| _entity and not maintained by the governmental body._  
+|  _(c)_ _____A governmental body that receives a written request for_  
+| _information described by Subsection (b) shall request that the_  
+| _entity provide the information to the governmental body._ ___The_  
+| _governmental body must send the request in writing to the entity not_  
+| _later than the third business day after the date the governmental_  
+| _body receives the written request described by Subsection (b)._  
+|  _(d) Notwithstanding Section 552.301:_  
+|  _(1)_ _____a request for an attorney general's decision under_  
+| _Section 552.301(b) to determine whether contracting information_  
+| _subject to a written request described by Subsection (b) falls_  
+| _within an exception to disclosure under this chapter is considered_  
+| _timely if made not later than the 13th business day after the date_  
+| _the governmental body receives the written request described by_  
+| _Subsection (b);_  
+|  _(2)_ _____the statement and copy described by Section_  
+| _552.301(d) is considered timely if provided to the requestor not_  
+| _later than the 13th business day after the date the governmental_  
+| _body receives the written request described by Subsection (b);_  
+|  _(3)_ _____a submission described by Section 552.301(e) is_  
+| _considered timely if submitted to the attorney general not later_  
+| _than the 18th business day after the date the governmental body_  
+| _receives the written request described by Subsection (b); and_  
+|  _(4)_ _____a copy described by Section 552.301(e-1) is_  
+| _considered timely if sent to the requestor not later than the 18th_  
+| _business day after the date the governmental body receives the_  
+| _written request described by Subsection (b)._  
+|  _Sec._ ___552.373._ _____BIDS AND CONTRACTS. (a)_ ___A contract described_  
+| _by Section 552.371:_  
+|  _(1)_ _____must include a provision that outlines the_  
+| _responsibilities of the contracting entity under that section;_  
+|  _(2)_ _____must include contact information for the office of_  
+| _the attorney general; and_  
+|  _(3)_ _____may not include a provision that has the effect of_  
+| _limiting a requirement imposed on the contracting entity under this_  
+| _subchapter._  
+|  _(b)_ _____A contract described by Section 552.372 must require a_  
+| _contracting entity to:_  
+|  _(1)_ _____preserve all contracting information related to_  
+| _the contract for the duration of the contract;_  
+|  _(2)_ _____promptly produce any contracting information_  
+| _related to the contract that is in the custody or possession of the_  
+| _entity on request of the governmental body; and_  
+|  _(3) on completion of the contract, either:_  
+|  _(A)_ _____provide at no cost to the governmental body_  
+| _all contracting information related to the contract that is in the_  
+| _custody or possession of the entity; or_  
+|  _(B)_ _____preserve the contracting information related_  
+| _to the contract as provided by the records retention requirements_  
+| _applicable to the governmental body._  
+|  _(c)_ _____A bid for a contract described by Section 552.371 or_  
+| _552.372 and the contract must include the following statement: "The_  
+| _contractor or vendor certifies that the individual or business_  
+| _entity named in this (include "bid" or "contract" as applicable) is_  
+| _in compliance with the requirements of Subchapter J, Chapter 552,_  
+| _Government Code, that are applicable to the contractor or vendor_  
+| _and agrees that the contract can be terminated if the contractor or_  
+| _vendor fails to comply with a requirement of that subchapter."_  
+|  _(d)_ _____A governmental body may not accept a bid for a contract_  
+| _described by Section 552.371 or 552.372 or award the contract to an_  
+| _entity that the governmental body has determined has knowingly or_  
+| _intentionally failed to comply with this subchapter in a previous_  
+| _bid or contract described by those sections._  
+|  _Sec._ ___552.374._ _____NONCOMPLIANCE WITH PROVISION OF SUBCHAPTER._  
+| _A governmental entity that is the party to a contract described by_  
+| _Section 552.371 or 552.372 shall provide notice to the entity that_  
+| _is a party to the contract if the entity fails to comply with a_  
+| _requirement of this subchapter applicable to the entity. The notice_  
+| _must:_  
+|  _(1) be in writing;_  
+|  _(2)_ _____state the requirement of this subchapter that the_  
+| _entity has violated; and_  
+|  _(3)_ _____advise the entity that the governmental body may_  
+| _terminate the contract without further obligation to the entity if_  
+| _the entity does not cure the violation on or before the third_  
+| _business day after the date the governmental entity provides the_  
+| _notice._  
+|  _Sec._ ___552.375._ _____TERMINATION OF CONTRACT FOR NONCOMPLIANCE._  
+| _(a)_ ___A governmental body may terminate a contract described by_  
+| _Section 552.371 or 552.372 if:_  
+|  _(1)_ _____the governmental body provides notice under_  
+| _Section 552.374 to the entity that is party to the contract;_  
+|  _(2)_ _____the contracting entity does not cure the violation_  
+| _in the period prescribed by Section 552.374;_  
+|  _(3)_ _____the governmental body determines that the_  
+| _contracting entity has intentionally or knowingly failed to comply_  
+| _with a requirement of this subchapter; and_  
+|  _(4)_ _____the governmental body determines that the entity_  
+| _has not taken adequate steps to ensure future compliance with the_  
+| _requirements of this subchapter._  
+|  _(b)_ _____For the purpose of Subsection (a), an entity has taken_  
+| _adequate steps to ensure future compliance with this subchapter if:_  
+|  _(1)_ _____the entity produces contracting information_  
+| _requested by the governmental body that is in the custody or_  
+| _possession of the entity not later than the third business day after_  
+| _the date the governmental body makes the request; and_  
+|  _(2)_ _____the entity establishes a records management_  
+| _program to enable the entity to comply with this subchapter._  
+|  _Sec._ ___552.376._ _____CAUSE OF ACTION NOT CREATED. This subchapter_  
+| _does not create a cause of action to contest a bid for or the award_  
+| _of a state contract._  
+|  SECTION 8. The changes in law made by this Act apply only to  
+| a request for public information that is received by a governmental  
+| body or an officer for public information on or after the effective  
+| date of this Act.  
+|  SECTION 9. Subchapter J, Chapter 552, Government Code, as  
+| added by this Act, applies only to a contract described by that  
+| subchapter that is executed on or after the effective date of this  
+| Act.  
+|  SECTION 10. This Act takes effect January 1, 2020.
+

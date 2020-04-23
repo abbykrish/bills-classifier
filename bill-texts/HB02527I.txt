@@ -1,0 +1,42 @@
+| 86R3186 SRS-D  
+---|---  
+|  By: Leach | H.B. No. 2527  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a requirement that certain water districts make audio  
+| and video recordings of open meetings available on the Internet.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 551.128(a) and (b-1), Government Code,  
+| are amended to read as follows:  
+|  (a) In this section _:_  
+|  _(1)_ [ ~~,~~ ] "Internet" means the largest nonproprietary  
+| cooperative public computer network, popularly known as the  
+| Internet.  
+|  _(2)_ _____"Water district" has the meaning assigned by_  
+| _Section 551.131(a)._  
+|  (b-1) A transit authority or department subject to Chapter  
+| 451, 452, 453, or 460, Transportation Code, an elected school  
+| district board of trustees for a school district that has a student  
+| enrollment of 10,000 or more, an elected governing body of a  
+| home-rule municipality that has a population of 50,000 or more, _a_  
+| _water district whose territory includes land in three or more_  
+| _counties,_ or a county commissioners court for a county that has a  
+| population of 125,000 or more shall:  
+|  (1) make a video and audio recording of reasonable  
+| quality of each:  
+|  (A) regularly scheduled open meeting that is not  
+| a work session or a special called meeting; and  
+|  (B) open meeting that is a work session or  
+| special called meeting if:  
+|  (i) the governmental body is an elected  
+| school district board of trustees for a school district that has a  
+| student enrollment of 10,000 or more; and  
+|  (ii) at the work session or special called  
+| meeting, the board of trustees votes on any matter or allows public  
+| comment or testimony; and  
+|  (2) make available an archived copy of the video and  
+| audio recording of each meeting described by Subdivision (1) on the  
+| Internet.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

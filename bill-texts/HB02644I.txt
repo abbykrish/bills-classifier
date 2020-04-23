@@ -1,0 +1,43 @@
+| 86R11414 JXC-D  
+---|---  
+|  By: Martinez | H.B. No. 2644  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the notification of a peace officer through an  
+| indication associated with vehicle registration that a person has a  
+| health condition that may impede communication.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 502, Transportation Code,  
+| is amended by adding Section 502.061 to read as follows:  
+|  _Sec._ ___502.061._ _____REGISTRATION BY OWNER WITH CONDITION THAT_  
+| _IMPEDES COMMUNICATION. (a)_ ___An application for registration must_  
+| _provide space for the applicant to voluntarily list any health_  
+| _condition that may impede communication with a peace officer as_  
+| _evidenced by:_  
+|  _(1)_ _____for a physical health condition, a written_  
+| _statement from a licensed physician; or_  
+|  _(2)_ _____for a mental health condition, a written statement_  
+| _from a licensed physician, a licensed psychologist, or a_  
+| _non-physician mental health professional, as defined by Section_  
+| _571.003, Health and Safety Code._  
+|  _(b)_ _____The department shall provide to the Department of Public_  
+| _Safety the vehicle registration information of a person who_  
+| _voluntarily lists a health condition on an application under_  
+| _Subsection (a)._  
+|  _(c)_ _____The Department of Public Safety shall establish a system_  
+| _to include information received under Subsection (b) in the Texas_  
+| _Law Enforcement Telecommunications System for the purpose of_  
+| _alerting a peace officer who makes a traffic stop that the operator_  
+| _of the stopped vehicle may have a health condition that may impede_  
+| _communication._  
+|  _(d)_ _____The department may not issue a license plate with a_  
+| _visible marking that indicates to the general public that a person_  
+| _voluntarily listed a health condition on an application under_  
+| _Subsection (a)._  
+|  _(e)_ _____Information supplied to the department relating to an_  
+| _applicant's health condition is for the confidential use of the_  
+| _department and the Department of Public Safety and may not be_  
+| _disclosed to any person._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

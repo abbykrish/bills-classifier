@@ -1,0 +1,42 @@
+| 86R1568 SRS-D  
+---|---  
+|  By: Paul | H.B. No. 305  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the requirement that a state agency or political  
+| subdivision with authority to impose a tax post certain information  
+| on an Internet website.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 2051, Government Code, is amended by  
+| adding Subchapter E to read as follows:  
+| _SUBCHAPTER E. INTERNET WEBSITE_  
+|  _Sec._ ___2051.151._ _____APPLICABILITY OF SUBCHAPTER. This_  
+| _subchapter applies only to a state agency or political subdivision_  
+| _with the authority to impose a tax._  
+|  _Sec._ ___2051.152._ _____INFORMATION REQUIRED ON WEBSITE. (a) A_  
+| _state agency or political subdivision shall create and maintain a_  
+| _publicly accessible Internet website with the following_  
+| _information:_  
+|  _(1)_ _____the state agency's or political subdivision's_  
+| _contact information, including a mailing address, telephone_  
+| _number, and e-mail address;_  
+|  _(2)_ _____each elected officer of the state agency or_  
+| _political subdivision;_  
+|  _(3)_ _____each candidate for an elected office of the state_  
+| _agency or political subdivision;_  
+|  _(4)_ _____the date and location of the next election for_  
+| _officers of the state agency or political subdivision;_  
+|  _(5)_ _____each notice of a meeting under Subchapter C,_  
+| _Chapter 551; and_  
+|  _(6)_ _____each record of a meeting under Subchapter B,_  
+| _Chapter 551._  
+|  _(b)_ _____A state agency or political subdivision that on_  
+| _September 1, 2019, maintained an official, publicly accessible_  
+| _Internet website may provide the information described under_  
+| _Subsection (a) on that website._  
+|  SECTION 2. Sections 2051.152(a)(5) and (6), Government  
+| Code, as added by this Act, apply only to a meeting held on or after  
+| the effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

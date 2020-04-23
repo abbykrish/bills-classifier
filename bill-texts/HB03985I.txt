@@ -1,0 +1,49 @@
+| 86R10765 MEW-D  
+---|---  
+|  By: Leach | H.B. No. 3985  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the provision of certain historical claims data and  
+| other information to school districts and other participating  
+| entities in the Texas school employees uniform group health  
+| coverage program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 1579, Insurance Code, is  
+| amended by adding Section 1579.009 to read as follows:  
+|  _Sec._ ___1579.009._ _____PARTICIPATING ENTITY REQUEST FOR CERTAIN_  
+| _INFORMATION. (a)_ ___Subject to Subsection (b), the trustee shall_  
+| _provide to a participating entity any historical claims data,_  
+| _enrollment information, or other relevant information available to_  
+| _the trustee as requested by the entity in connection with a search_  
+| _for alternative health benefit plan coverage for the entity's_  
+| _employees and the employees' dependents._ ___The information provided_  
+| _must include, for each tier of group coverage and for the five-year_  
+| _period preceding the date of the request:_  
+|  _(1) the monthly claims experience history;_  
+|  _(2)_ _____information concerning the type of illness or_  
+| _injury and the ongoing status of the illness or injury for:_  
+|  _(A) each medical claim that exceeds $50,000; and_  
+|  _(B)_ _____each related series of medical claims for the_  
+| _same covered individual and for the same diagnosis that exceeds_  
+| _$50,000;_  
+|  _(3)_ _____any other information requested by the_  
+| _participating entity concerning covered individuals who are_  
+| _responsible for a claim or claims that total a large amount, as_  
+| _specified by the requesting participating entity;_  
+|  _(4)_ _____information concerning prescription drug claims_  
+| _and costs; and_  
+|  _(5) plan enrollment._  
+|  _(b)_ _____The information provided by the trustee under this_  
+| _section may not include any personally identifying information of a_  
+| _covered individual, including any information that would identify a_  
+| _named covered individual as having a particular medical condition._  
+|  _(c)_ _____The trustee shall provide the information requested_  
+| _under this section at no cost to the requesting participating_  
+| _entity._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

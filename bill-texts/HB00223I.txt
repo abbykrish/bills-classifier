@@ -1,0 +1,112 @@
+| 86R2652 JXC-F  
+---|---  
+|  By: Reynolds | H.B. No. 223  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the funding through greenhouse gas emissions fees of  
+| energy efficiency programs administered by certain utilities;  
+| authorizing a fee.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 382.0621(f), Health and Safety Code, is  
+| amended to read as follows:  
+|  (f) The commission may impose _operating permit_ fees for  
+| emissions of greenhouse gas only _:_  
+|  _(1)_ to the extent the fees are necessary to cover the  
+| commission's additional reasonably necessary direct costs of  
+| implementing Section 382.05102 _; or_  
+|  _(2) as authorized under Section 382.0623_.  
+|  SECTION 2. Subchapter C, Chapter 382, Health and Safety  
+| Code, is amended by adding Section 382.0623 to read as follows:  
+|  _Sec._ ___382.0623._ _____GREENHOUSE GAS EMISSIONS FEE. (a)_ ___In this_  
+| _section, "carbon dioxide equivalent" means the amount of carbon_  
+| _dioxide by weight that would produce the same global warming impact_  
+| _as a given weight of another greenhouse gas, based on the best_  
+| _available science._  
+|  _(b)_ _____The commission shall adopt, charge, and collect an_  
+| _annual fee on each facility permitted under Section 382.05185 that_  
+| _is subject to federal greenhouse gas reporting requirements._ __  
+| _Except as provided by Subsection (d), the fee is in the amount of $5_  
+| _per ton of carbon dioxide equivalent emitted from the facility each_  
+| _year._  
+|  _(c)_ _____Not later than April 15 of each year, a facility_  
+| _described by Subsection (b) shall submit to the commission each_  
+| _annual report required by federal greenhouse gas reporting_  
+| _requirements._ ___The commission shall use a report received under_  
+| _this subsection to compute the total amount of the fee to be imposed_  
+| _on the reporting facility._  
+|  _(d)_ _____The commission by rule may provide for an automatic_  
+| _annual increase in the amount of the fee imposed under this section_  
+| _in the manner provided for increasing operating permit fees by_  
+| _Section 382.0621(c)._  
+|  _(e)_ _____The commission shall deposit fees collected under this_  
+| _section to the credit of a greenhouse gas emissions fee account_  
+| _established in the general revenue fund._ ___The fees collected may be_  
+| _appropriated only for the purposes of Section 39.9053, Utilities_  
+| _Code._  
+|  SECTION 3. Section 39.905, Utilities Code, is amended by  
+| amending Subsection (f) and adding Subsection (f-1) to read as  
+| follows:  
+|  (f) _Each_ [ ~~Unless funding is provided under Section 39.903,~~  
+|  ~~each~~ ] unbundled transmission and distribution utility shall  
+| include in its energy efficiency plan a targeted low-income energy  
+| efficiency program [ ~~as described by Section 39.903(f)(2)~~ ], and the  
+| savings achieved by the program shall count toward the transmission  
+| and distribution utility's energy efficiency goal. The commission  
+| shall determine the appropriate level of funding to be allocated to  
+| both targeted and standard offer low-income energy efficiency  
+| programs in each unbundled transmission and distribution utility  
+| service area. The level of funding for low-income energy  
+| efficiency programs shall be provided from money approved by the  
+| commission for the transmission and distribution utility's energy  
+| efficiency programs. The commission shall ensure that annual  
+| expenditures for the targeted low-income energy efficiency  
+| programs of each unbundled transmission and distribution utility  
+| are not less than 10 percent of the transmission and distribution  
+| utility's energy efficiency budget for the year. _A grant received_  
+| _by an unbundled transmission and distribution utility under Section_  
+| _39.9053 may be considered as part of the utility's energy_  
+| _efficiency budget._ A targeted low-income energy efficiency program  
+| must comply with the same audit requirements that apply to federal  
+| weatherization subrecipients. In an energy efficiency cost  
+| recovery factor proceeding related to expenditures under this  
+| subsection, the commission shall make findings of fact regarding  
+| whether the utility meets requirements imposed under this  
+| subsection. The state agency that administers the federal  
+| weatherization assistance program shall participate in energy  
+| efficiency cost recovery factor proceedings related to  
+| expenditures under this subsection to ensure that targeted  
+| low-income weatherization programs are consistent with federal  
+| weatherization programs and adequately funded.  
+|  _(f-1)_ _____For the purposes of Subsection (f), a "low-income_  
+| _energy efficiency program" is a program that offers assistance to_  
+| _an electric customer:_  
+|  _(1)_ _____whose household income is not more than 125_  
+| _percent of the federal poverty guidelines; or_  
+|  _(2)_ _____who receives benefits under the supplemental_  
+| _nutrition assistance program established under Chapter 33, Human_  
+| _Resources Code._  
+|  SECTION 4. Subchapter Z, Chapter 39, Utilities Code, is  
+| amended by adding Section 39.9053 to read as follows:  
+|  _Sec._ ___39.9053._ _____ENERGY EFFICIENCY FUNDING. (a)_ ___The_  
+| _commission by rule shall establish a grant program through which_  
+| _electric utilities, municipally owned utilities, and electric_  
+| _cooperatives may receive money from the greenhouse gas emissions_  
+| _fee account to assist those utilities with meeting goals_  
+| _established under and implementing programs under Sections 39.905,_  
+| _39.9051, and 39.9052._  
+|  _(b)_ _____Except as provided by Subsection (c), the commission_  
+| _shall make grant money available to an electric utility,_  
+| _municipally owned utility, or electric cooperative in proportion to_  
+| _the percentage of electric energy consumed by the retail customers_  
+| _in this state that are served by the electric utility, municipally_  
+| _owned utility, or electric cooperative._  
+|  _(c)_ _____The commission shall allocate at least 50 percent of the_  
+| _money provided under Subsection (a) each year for programs_  
+| _described by Section 39.905(f)._  
+|  SECTION 5. The Texas Commission on Environmental Quality  
+| may not provide for an increase in the amount of the fee established  
+| by Section 382.0623, Health and Safety Code, as added by this Act,  
+| to occur before August 31, 2020.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

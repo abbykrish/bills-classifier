@@ -1,0 +1,40 @@
+| 86R4669 BEF-F  
+---|---  
+|  By: Morrison | H.B. No. 2611  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the treatment of certain limited liability companies as  
+| passive entities for purposes of the franchise tax.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 171.0003(a), Tax Code, is amended to  
+| read as follows:  
+|  (a) An entity is a passive entity only if:  
+|  (1) the entity is a general or limited partnership _, a_  
+| _limited liability company,_ or a trust, other than a business trust;  
+|  (2) during the period on which margin is based, the  
+| entity's federal gross income consists of at least 90 percent of the  
+| following income:  
+|  (A) dividends, interest, foreign currency  
+| exchange gain, periodic and nonperiodic payments with respect to  
+| notional principal contracts, option premiums, cash settlement or  
+| termination payments with respect to a financial instrument, and  
+| income from a limited liability company _, if the entity is a general_  
+| _or limited partnership or a trust, or from another limited_  
+| _liability company, if the entity is a limited liability company_ ;  
+|  (B) distributive shares of partnership income to  
+| the extent that those distributive shares of income are greater  
+| than zero;  
+|  (C) capital gains from the sale of real property,  
+| gains from the sale of commodities traded on a commodities  
+| exchange, and gains from the sale of securities; and  
+|  (D) royalties, bonuses, or delay rental income  
+| from mineral properties and income from other nonoperating mineral  
+| interests; and  
+|  (3) the entity does not receive more than 10 percent of  
+| its federal gross income from conducting an active trade or  
+| business.  
+|  SECTION 2. This Act applies only to a report originally due  
+| on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect January 1, 2020.
+

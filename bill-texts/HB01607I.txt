@@ -1,0 +1,73 @@
+| 86R5685 BEF-D  
+---|---  
+|  By: Goldman | H.B. No. 1607  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a deduction under the franchise tax for certain  
+| contracts with the federal government.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. The legislature finds that:  
+|  (1) Texas is an epicenter of this nation's aerospace,  
+| aviation, defense, and military industries;  
+|  (2) with NASA's Johnson Space Center in Houston, the  
+| new Army Futures Command, 15 active military bases across the  
+| state, and major military aircraft manufacturing and maintenance  
+| operations, the Texas economy and our nation's aerospace and  
+| defense capabilities are inextricably linked;  
+|  (3) these crucial industries employ tens of thousands  
+| of Texans and support dozens of our communities across the state;  
+| and  
+|  (4) it is therefore paramount that state tax policy  
+| foster a competitive economic climate to ensure growth and  
+| retention of jobs related to the development, manufacture,  
+| maintenance, and ongoing services for military hardware, aircraft,  
+| spacecraft, and weapons systems used by and produced for our armed  
+| forces, related federal government agencies, and our global allies.  
+|  SECTION 2. Section 171.101(a), Tax Code, is amended to read  
+| as follows:  
+|  (a) The taxable margin of a taxable entity is computed by:  
+|  (1) determining the taxable entity's margin, which is  
+| the lesser of:  
+|  (A) the amount provided by this paragraph, which  
+| is the lesser of:  
+|  (i) 70 percent of the taxable entity's total  
+| revenue from its entire business, as determined under Section  
+| 171.1011; or  
+|  (ii) an amount equal to the taxable entity's  
+| total revenue from its entire business as determined under Section  
+| 171.1011 minus $1 million; or  
+|  (B) an amount computed by determining the taxable  
+| entity's total revenue from its entire business under Section  
+| 171.1011 and subtracting the greater of:  
+|  (i) $1 million; or  
+|  (ii) an amount equal to the sum of:  
+|  (a) at the election of the taxable  
+| entity, either:  
+|  (1) cost of goods sold, as  
+| determined under Section 171.1012; or  
+|  (2) compensation, as determined  
+| under Section 171.1013; [ ~~and~~ ]  
+|  (b) any compensation, as determined  
+| under Section 171.1013, paid to an individual during the period the  
+| individual is serving on active duty as a member of the armed forces  
+| of the United States if the individual is a resident of this state  
+| at the time the individual is ordered to active duty and the cost of  
+| training a replacement for the individual; _and_  
+|  _(c)_ _____any costs not already subtracted_  
+| _under Sub-subparagraph (a) that are properly allowable under the_  
+| _Federal Acquisition Regulation (48 C.F.R. Chapter 1), or a_  
+| _successor regulation, for contracts, or subcontracts supporting_  
+| _those contracts, for the sale of goods or services to the federal_  
+| _government by a taxable entity that is a party to at least one_  
+| _contract subject to the requirements of 48 C.F.R. Chapter 2;_  
+|  (2) apportioning the taxable entity's margin to this  
+| state as provided by Section 171.106 to determine the taxable  
+| entity's apportioned margin; and  
+|  (3) subtracting from the amount computed under  
+| Subdivision (2) any other allowable deductions to determine the  
+| taxable entity's taxable margin.  
+|  SECTION 3. This Act applies only to a report originally due  
+| on or after January 1, 2020.  
+|  SECTION 4. This Act takes effect January 1, 2020.
+

@@ -1,0 +1,437 @@
+| 86R7939 LED-D  
+---|---  
+|  By: Walle | H.B. No. 4037  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation of a state-administered retirement plan;  
+| authorizing administrative penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle D, Title 2, Labor Code, is amended by  
+| adding Chapter 83 to read as follows:  
+| _CHAPTER 83. SECURE RETIREMENT SAVINGS PROGRAM OF TEXAS_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 83.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Annuity" means a fixed sum of money paid on a_  
+| _monthly basis to a participant on retirement._  
+|  _(2)_ _____"Board" means the board of trustees established_  
+| _under Section 83.002._  
+|  _(3)_ _____"Compensation," unless the context otherwise_  
+| _requires, means compensation within the meaning of Section_  
+| _219(f)(1), Internal Revenue Code, that is received by an eligible_  
+| _employee from an eligible employer._  
+|  _(4)_ _____"Contribution rate" means the percentage of an_  
+| _eligible employee's compensation that is withheld from their_  
+| _compensation and paid to the employee's individual retirement_  
+| _account under the program._  
+|  _(5)_ _____"Eligible employee" means any individual who is 18_  
+| _years of age or older, who is employed by an eligible employer, and_  
+| _whose compensation is subject to federal income taxes._  
+|  _(6) "Eligible employer" means an employer that:_  
+|  _(A)_ _____has not been a participating or contributing_  
+| _employer in a retirement plan under Sections 401(a), 401(k),_  
+| _403(a), 403(b), 408(k), or 408(p), Internal Revenue Code, at any_  
+| _time during the preceding two calendar years; and_  
+|  _(B)_ _____elects to be a participating employer as_  
+| _permitted in accordance with rules and procedures established by_  
+| _the board._  
+|  _(7) "Employer":_  
+|  _(A) means a person that:_  
+|  _(i)_ _____is engaged in a business, profession,_  
+| _trade, or other enterprise in this state, whether for profit or not_  
+| _for profit, that employs two or more individuals living in this_  
+| _state; or_  
+|  _(ii)_ _____for the purpose of this chapter only,_  
+| _issues an Internal Revenue Service Form 1099-Miscellaneous Income_  
+| _to five or more individuals living in this state; and_  
+|  _(B)_ _____does not include a federal or state entity,_  
+| _agency, instrumentality, or political subdivision._  
+|  _(8)_ _____"Individual retirement account" means an_  
+| _individual retirement account or individual retirement annuity as_  
+| _defined by Section 408, Internal Revenue Code, or a Roth IRA as_  
+| _defined by Section 408A, Internal Revenue Code._  
+|  _(9)_ _____"Internal Revenue Code" means the Internal Revenue_  
+| _Code of 1986._  
+|  _(10)_ _____"IRA plan" means a plan described by Section_  
+| _83.059(b)(1)._  
+|  _(11)_ _____"IRA trust account" means the IRA plan's account_  
+| _within the trust fund established under Section 83.059._  
+|  _(12)_ _____"Multiple-employer plan" means a plan described_  
+| _by Section 83.059(b)(2)._  
+|  _(13)_ _____"Multiple-employer plan account" means a_  
+| _participant's account that accepts contributions from the_  
+| _participant, the participant's employer, or both, and that is_  
+| _established under Sections 401(a) and 414(i), Internal Revenue_  
+| _Code._  
+|  _(14)_ _____"Multiple-employer trust account" means the_  
+| _multiple-employer plan's account within the trust fund established_  
+| _under Section 83.059._  
+|  _(15)_ _____"Participant" means an individual who_  
+| _contributes or has contributed through payroll deductions or_  
+| _through voluntary contributions to the program and includes:_  
+|  _(A)_ _____an individual who moves out of state and_  
+| _elects to continue participating in the program by making direct_  
+| _contributions; and_  
+|  _(B)_ _____the beneficiary of a deceased individual who_  
+| _contributed to the program and an alternate payee under state law_  
+| _for purposes of the withdrawal, transfer, rollover, or other_  
+| _distribution of savings._  
+|  _(16)_ _____"Participating employer" means an eligible_  
+| _employer that provides a payroll deposit retirement savings_  
+| _arrangement under this chapter for an eligible employee._  
+|  _(17)_ _____"Payroll" means any method of transferring_  
+| _compensation to an employee of an employer._  
+|  _(18)_ _____"Program" means the secure retirement savings_  
+| _program established by this chapter._  
+|  _Sec._ ___83.002._ _____BOARD OF TRUSTEES. (a)_ ___The board of trustees_  
+| _is composed of five trustees as follows:_  
+|  _(1)_ _____the comptroller, or a designee, who serves as_  
+| _chair;_  
+|  _(2)_ _____a participating employer, appointed by the_  
+| _governor;_  
+|  _(3)_ _____a participant, appointed by the speaker of the_  
+| _house of representatives;_  
+|  _(4)_ _____a resident of this state with expertise in_  
+| _regulatory matters relating to retirement savings, appointed by the_  
+| _chief justice of the supreme court; and_  
+|  _(5)_ _____a resident of this state with expertise in_  
+| _investment matters relating to retirement savings, appointed by the_  
+| _attorney general._  
+|  _(b)_ _____Appointments to the board are subject to the advice and_  
+| _consent of the senate._  
+|  _(c) The term of office for each trustee is two years._  
+|  _(d)_ _____In the event of a trustee vacancy, the appointing_  
+| _official shall appoint a replacement to serve for the trustee's_  
+| _unexpired term._  
+|  _(e)_ _____A majority of the board constitutes a quorum for the_  
+| _transaction of business._  
+|  _(f)_ _____A trustee serves without compensation but is entitled to_  
+| _receive reimbursement of travel expenses incurred by the trustee_  
+| _while conducting the business of the board as provided in the_  
+| _General Appropriations Act._  
+|  _Sec._ ___83.003._ _____BOARD POWERS AND DUTIES; ANNUAL FINANCIAL_  
+| _REPORT REQUIRED. (a)_ ___The board shall:_  
+|  _(1)_ _____design, establish, administer, and enforce the_  
+| _program in accordance with Subchapter B;_  
+|  _(2)_ _____employ a program director and other individuals as_  
+| _the board considers necessary to administer the program and the_  
+| _administrative fund;_  
+|  _(3)_ _____adopt administrative rules and procedures,_  
+| _including contested case and enforcement provisions, to carry out_  
+| _the purposes of this chapter;_  
+|  _(4)_ _____enter into contracts necessary or recommended to_  
+| _administer the program;_  
+|  _(5)_ _____request and receive information from any state_  
+| _agency or entity as needed to administer the program;_  
+|  _(6)_ _____request and receive information from employers of_  
+| _eligible employees residing in this state as needed to administer_  
+| _the program;_  
+|  _(7)_ _____annually publish an audited financial report on_  
+| _the operations of the program in accordance with Subsection (b);_  
+| _and_  
+|  _(8)_ _____annually prepare and adopt a written statement of_  
+| _investment policy that includes a risk management and oversight_  
+| _program._  
+|  _(b)_ _____The audited financial report required by Subsection_  
+| _(a)(7) must be prepared in accordance with generally accepted_  
+| _accounting principles._ ___The audited financial report must include a_  
+| _calculation of the program's actual net rate of return less_  
+| _expenses._ ___The audit must:_  
+|  _(1)_ _____be conducted by an independent certified public_  
+| _accountant; and_  
+|  _(2)_ _____include direct and indirect costs attributable to_  
+| _the use of outside consultants, independent contractors, and any_  
+| _other persons who are not employees of the program._  
+|  _Sec._ ___83.004._ _____FIDUCIARY DUTIES. (a)_ ___The board and each_  
+| _investment adviser or other person who has control over the assets_  
+| _of the trust funds established under this chapter are fiduciaries_  
+| _and subject to the fiduciary standards established under the_  
+| _Employee Retirement Income Security Act of 1974 (29 U.S.C. Section_  
+| _1001 et seq.) with respect to the trust funds and the individual_  
+| _accounts._  
+|  _(b)_ _____Each fiduciary shall discharge duties with respect to_  
+| _the program solely in the interest of the participants and with the_  
+| _care, skill, prudence, and diligence under the circumstances then_  
+| _prevailing that a prudent person acting in a like capacity and_  
+| _familiar with those matters would use in the conduct of the same or_  
+| _similar enterprise._  
+|  _(c)_ _____The board may require each eligible employer to provide_  
+| _eligible employees with certain information as the board directs._  
+| _An employer acting in that capacity:_  
+|  _(1)_ _____is not a fiduciary with respect to the trust funds_  
+| _established under this chapter or the participants' accounts within_  
+| _a trust fund; and_  
+|  _(2) does not have fiduciary duties under this chapter._  
+|  _Sec._ ___83.005._ _____IMMUNITY FROM LIABILITY._ ___(a)_ ___The board,_  
+| _executive director, plan administrator, members of any advisory_  
+| _committee appointed by the board, and employees of the program are_  
+| _not liable for any action taken or omission made or suffered by them_  
+| _in good faith in the performance of any duty in connection with any_  
+| _program or trust administered under this chapter._  
+|  _(b)_ _____This section does not waive the state's immunity from_  
+| _suit or liability._  
+| _SUBCHAPTER B. PROGRAM DESIGN AND OPERATION_  
+|  _Sec._ ___83.051._ _____PROGRAM DESIGN. (a) The board shall design and_  
+| _implement the secure retirement savings program. The board shall_  
+| _design, establish, and administer the program in accordance with_  
+| _this subchapter._  
+|  _(b)_ _____The board shall require an eligible employer to offer to_  
+| _each eligible employee an opportunity to contribute through payroll_  
+| _deduction to:_  
+|  _(1)_ _____an individual retirement account in the IRA plan;_  
+| _and_  
+|  _(2) a savings account in the multiple-employer plan._  
+|  _(c)_ _____Unless an eligible employee chooses otherwise, the_  
+| _board shall automatically enroll the employee in the IRA plan._  
+|  _(d)_ _____A participant is not responsible for choosing_  
+| _investments in the program._  
+|  _(e)_ _____The board shall allow the following persons to enroll in_  
+| _the program:_  
+|  _(1) self-employed individuals; and_  
+|  _(2) employers who are not eligible employers._  
+|  _(f)_ _____The board shall operate the program in a manner that_  
+| _prevents the program from being considered an employee pension_  
+| _benefit plan as defined by Section 3(2)(A), Employee Retirement_  
+| _Income Security Act of 1974 (29 U.S.C. Section 1002(2)(A))._  
+|  _Sec._ ___83.052._ _____PARTICIPANT BENEFIT. (a)_ ___A participant's_  
+| _retirement savings benefit is calculated from the participant's_  
+| _plan account balance on the date the retirement savings benefit_  
+| _becomes payable._  
+|  _(b)_ _____The board shall establish the minimum savings_  
+| _requirement to create an adequate lifetime annuity._  
+|  _(c)_ _____The board may establish benefits other than a lifetime_  
+| _annuity when the minimum savings requirement is not met._  
+|  _(d)_ _____For a married participant, the automatic form of benefit_  
+| _payment is a joint and survivor annuity._  
+|  _Sec._ ___83.053._ _____PARTICIPANT CONTRIBUTIONS._ ___(a)_ ___The_  
+| _employee's employer shall deduct contributions from the employee's_  
+| _compensation at a rate set by the board, unless the employee elects_  
+| _not to contribute or to contribute at a higher rate._  
+|  _(b)_ _____The board shall set the default contribution rate of at_  
+| _least three percent of an eligible employee's gross income. Subject_  
+| _to Subsection (c), the board may increase the default contribution_  
+| _rate of each IRA plan participant in an amount and at intervals_  
+| _determined by the board._  
+|  _(c)_ _____An IRA plan participant may opt out of increases_  
+| _determined by the board._  
+|  _Sec._ ___83.054._ _____PARTICIPATING EMPLOYER POWERS AND DUTIES._ ___(a)_
+__  
+| _A participating employer shall:_  
+|  _(1)_ _____make the program available to an eligible employee_  
+| _not later than the 15th day after the date the employee begins_  
+| _employment; and_  
+|  _(2)_ _____deposit a participant's deduction in a manner_  
+| _determined by the board, provided that the employer delivers the_  
+| _amount withheld in a reasonable time period and not later than the_  
+| _10th business day after the date the amount otherwise would have_  
+| _been paid to the participant._  
+|  _(b)_ _____A participating employer may not contribute to the IRA_  
+| _plan._  
+|  _(c) A participating employer may:_  
+|  _(1)_ _____make voluntary contributions to a participating_  
+| _employee's multiple-employer plan account in the manner_  
+| _established by the board; and_  
+|  _(2)_ _____elect to contribute an amount above the payroll_  
+| _deduction amount by contributing from an eligible rollover that an_  
+| _individual retirement account or Roth IRA may accept under the_  
+| _Internal Revenue Code._  
+|  _(d)_ _____Participating employer contributions under Subsection_  
+| _(c) must be equal to or less than the applicable limitation to_  
+| _contributions to a defined contribution plan prescribed by Section_  
+| _415(c), Internal Revenue Code._  
+|  _Sec._ ___83.055._ _____VESTING._ ___Contributions to a participant's_  
+| _account vest immediately with the participant._  
+|  _Sec._ ___83.056._ _____ADMINISTRATIVE FEES AND INVESTMENT EXPENSES._ __  
+| _(a)_ ___The board shall allocate administrative fees and investment_  
+| _expenses to each participant's account balance or annuity on a pro_  
+| _rata basis or another basis as the board determines fair and_  
+| _equitable._  
+|  _(b)_ _____The board shall keep the program's administrative fees_  
+| _and investment expenses as low as possible, and the fees and_  
+| _expenses combined may not exceed 0.25 percent of the total balance_  
+| _of the trust funds established under this chapter._  
+|  _Sec._ ___83.057._ _____REQUIRED DISCLOSURES. (a)_ ___The board shall_  
+| _design and disseminate to participating employers an employee_  
+| _information packet to be further distributed to the employer's_  
+| _employees._ ___The packet must include background information on the_  
+| _program, the two plans offered under the program, and appropriate_  
+| _disclosures for employees with regard to a lifetime annuity._  
+|  _(b) The disclosure form must:_  
+|  _(1) include information about:_  
+|  _(A)_ _____federal income tax and retirement benefits_  
+| _and investment risks associated with participating in the plans;_  
+|  _(B) how to join each plan;_  
+|  _(C)_ _____how to opt out of the IRA plan, including an_  
+| _opt-out form;_  
+|  _(D)_ _____how to apply for payment of retirement_  
+| _benefits; and_  
+|  _(E)_ _____how to obtain additional information on the_  
+| _program; and_  
+|  _(2) clearly state:_  
+|  _(A)_ _____the program is not an employer-sponsored_  
+| _retirement plan;_  
+|  _(B)_ _____an employer is not liable for an employee's_  
+| _decision under this chapter; and_  
+|  _(C)_ _____plan investments are not guaranteed by the_  
+| _state._  
+|  _(c)_ _____The board shall provide the required disclosures in_  
+| _English._ ___An employer may notify the board of an eligible employee_  
+| _who speaks a language other than English, and the board shall_  
+| _provide a translation of the required disclosures in the eligible_  
+| _employee's language to the employer to distribute to the employee._  
+|  _Sec._ ___83.058._ _____SECURE RETIREMENT SAVINGS PROGRAM_  
+| _ADMINISTRATIVE FUND. (a)_ ___The secure retirement savings program_  
+| _administrative fund is established as a trust fund held outside the_  
+| _treasury by the comptroller and administered by the board. The_  
+| _board shall use money in the administrative fund to pay for_  
+| _administrative and investment expenses the board incurs in the_  
+| _performance of the board's duties under this chapter._  
+|  _(b)_ _____The administrative fund is separate from the trust fund_  
+| _established under Section 83.059._  
+|  _(c)_ _____The administrative fund may receive gifts, grants, or_  
+| _other money deposited to the administrative fund, including money_  
+| _received from a governmental entity._  
+|  _(d)_ _____The legislature may appropriate money to the fund for_  
+| _the initial administrative costs required to establish the program._ __  
+| _The board shall repay to the state any amount appropriated under_  
+| _this subsection._  
+|  _Sec._ ___83.059._ _____SECURE RETIREMENT SAVINGS PROGRAM TRUST FUND._  
+| _(a)_ ___The secure retirement savings program trust fund is_  
+| _established as a trust fund held outside the treasury by the_  
+| _comptroller and administered by the board._ ___The board shall:_  
+|  _(1)_ _____invest the trust fund assets as a pooled single_  
+| _fund without distinction as to their source;_  
+|  _(2)_ _____hold the trust fund assets collectively for the_  
+| _proportionate benefit of the participants; and_  
+|  _(3)_ _____use the trust fund assets to defray reasonable_  
+| _expenses of administering, maintaining, and managing investments_  
+| _of the trust._  
+|  _(b)_ _____The trust fund is intended to provide participants with_  
+| _a source of retirement income for life._ ___The trust fund holds_  
+| _separate accounts for each plan within the program as follows:_  
+|  _(1)_ _____the IRA trust account is established to accept_  
+| _individual contributions into individual retirement accounts_  
+| _established under Sections 408 and 408A, Internal Revenue Code, in_  
+| _an IRA plan established by the board; and_  
+|  _(2)_ _____the multiple-employer trust account is_  
+| _established for purposes of administering a defined contribution_  
+| _plan under Sections 401(a)(27) and 414(i), Internal Revenue Code_  
+| _that:_  
+|  _(A)_ _____is a qualified plan under Section 401(a),_  
+| _Internal Revenue Code; and_  
+|  _(B)_ _____may accept contributions from an employer and_  
+| _employee participating in the multiple-employer plan established_  
+| _by the board._  
+|  _(c)_ _____The board shall establish investments within the trust_  
+| _fund that pursue an investment strategy set by the board._ ___The_  
+| _underlying investments of the trust fund must be diversified so as_  
+| _to maintain an overall rate of return that is reflective of a medium_  
+| _level of risk, as determined by the board._  
+|  _(d)_ _____Subject to Subsection (e), money in the trust accounts_  
+| _may be invested or reinvested by the comptroller or may be invested_  
+| _wholly or partly under contract with other retirement systems,_  
+| _private money managers, or both, as determined by the board._  
+|  _(e)_ _____The board shall preserve, invest, and expend the assets_  
+| _of the trust fund at all times solely for the benefit of_  
+| _participants._  
+|  _(f)_ _____The state or an eligible employer has no property rights_  
+| _in the trust fund._  
+|  _(g)_ _____The state may not transfer or use trust fund assets for_  
+| _any purpose other than the purpose of the trust fund or funding the_  
+| _expenses of operating the program. Amounts deposited in the trust_  
+| _fund are not property of the state and may not be commingled with_  
+| _state money. The state has no claim to or against, or interest in,_  
+| _the trust fund assets._  
+|  _(h)_ _____The trust fund assets must at all times be held separate_  
+| _and apart from the assets of the state. The state, the program, the_  
+| _board, a board member, or an employer may not make a representation_  
+| _of a guaranty on any investment, rate of return, or interest rate on_  
+| _amounts held in the trust fund._  
+| _SUBCHAPTER C. ENFORCEMENT_  
+|  _Sec._ ___83.101._ _____ATTORNEY GENERAL. (a)_ ___The attorney general is_  
+| _the legal adviser to the board and shall represent the board in all_  
+| _litigation._  
+|  _(b)_ _____The attorney general may enforce the provisions of this_  
+| _chapter._  
+|  _Sec._ ___83.102._ _____ADMINISTRATIVE PENALTIES. (a)_ ___The board may_  
+| _impose an administrative penalty on a participating employer for_  
+| _failure to comply with the requirements under this chapter or a rule_  
+| _or order adopted under this chapter. The amount of the penalty may_  
+| _not exceed $1,000 per employee per year._  
+|  _(b)_ _____The amount of an administrative penalty must be based_  
+| _on:_  
+|  _(1)_ _____the seriousness of the violation, including the_  
+| _nature, circumstances, extent, and gravity of the violation;_  
+|  _(2) the economic harm caused by the violation;_  
+|  _(3) the history of previous violations;_  
+|  _(4) the amount necessary to deter a future violation;_  
+|  _(5) efforts to correct the violation; and_  
+|  _(6) any other matter that justice may require._  
+|  _(c)_ _____The enforcement of the penalty may be stayed during the_  
+| _time the order is under judicial review if the participating_  
+| _employer pays the penalty to the clerk of the court or files a_  
+| _supersedeas bond with the court in the amount of the penalty._ ___A_  
+| _participating employer who cannot afford to pay the penalty or file_  
+| _the bond may stay the enforcement by filing an affidavit in the_  
+| _manner required by the Texas Rules of Civil Procedure for a party_  
+| _who cannot afford to file security for costs, subject to the right_  
+| _of the board to contest the affidavit as provided by those rules._  
+|  _(d)_ _____The board or the attorney general may recover reasonable_  
+| _expenses, including attorney's fees, incurred in recovering the_  
+| _administrative penalty._  
+|  _(e)_ _____Except as provided by Subsection (g), an administrative_  
+| _penalty collected under this section shall be deposited to the_  
+| _credit of the secure retirement savings program trust fund_  
+| _established under Section 83.059._  
+|  _(f)_ _____In addition to the penalty prescribed by Subsection (a),_  
+| _the board may impose an administrative penalty on a participating_  
+| _employer that does not deposit a participant's deduction within the_  
+| _time required by Section 83.054._ ___The amount of the penalty is equal_  
+| _to the lost earnings and interest on the participant's_  
+| _contribution._ ___The comptroller shall prescribe a methodology for_  
+| _calculating the lost earnings and interest._  
+|  _(g)_ _____An administrative penalty collected under Subsection_  
+| _(f) shall be deposited to the credit of the secure retirement_  
+| _savings program trust fund established under Section 83.059 and_  
+| _credited to the accounts of the affected participants on a pro rata_  
+| _basis._  
+| _SUBCHAPTER D. UNCLAIMED PROPERTY_  
+|  _Sec._ ___83.151._ _____UNCLAIMED PROPERTY. (a)_ ___Subject to this_  
+| _section, the board shall adopt rules regarding the disposition of_  
+| _unclaimed proceeds from a participant's account._  
+|  _(b)_ _____The board shall, using due diligence, contact the_  
+| _participant or the participant's beneficiaries._  
+|  _(c)_ _____Unclaimed proceeds of an account must be delivered to_  
+| _the comptroller as provided by Chapter 74, Property Code, except if_  
+| _the participant's or beneficiary's last known address is in this_  
+| _state, the comptroller may elect to leave the proceeds deposited in_  
+| _the fund under the program until a claim is made._  
+|  SECTION 2. (a) Not later than December 1, 2019, the state  
+| officials described by Section 83.002, Labor Code, as added by this  
+| Act, shall appoint individuals to the board of trustees as required  
+| by that section.  
+|  (b) The board of trustees of the secure retirement savings  
+| program established under Chapter 83, Labor Code, as added by this  
+| Act, shall:  
+|  (1) not later than September 1, 2020, design and  
+| establish the secure retirement savings program required under  
+| Chapter 83, Labor Code, as added by this Act, including  
+| establishing and opening up for enrollment the IRA plan described  
+| by Section 83.059(b)(1), Labor Code, as added by this Act;  
+|  (2) not later than December 1, 2020, allow eligible  
+| employers, as defined by Section 83.001, Labor Code, as added by  
+| this Act, with more than 100 eligible employees, as defined by  
+| Section 83.001, Labor Code, as added by this Act, to implement a  
+| board-approved procedure that allows each of its eligible employees  
+| to participate in the plan;  
+|  (3) not later than March 1, 2020, allow eligible  
+| employers with more than 50 eligible employees to implement a  
+| board-approved procedure that allows each of its eligible employees  
+| to participate in the plan; and  
+|  (4) not later than June 1, 2020, allow all eligible  
+| employers and other employers permitted to participate in the  
+| program under Section 83.051(e), Labor Code, as added by this Act,  
+| to implement a board-approved procedure that allows each of its  
+| eligible employees to participate in the plan.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

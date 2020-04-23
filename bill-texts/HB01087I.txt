@@ -1,0 +1,160 @@
+| 86R5399 JAM-F  
+---|---  
+|  By: Kuempel | H.B. No. 1087  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an exception to the titling requirement for certain  
+| vehicles; creating a criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter E, Chapter 501, Transportation Code,  
+| is amended by adding Section 501.098 to read as follows:  
+|  _Sec._ ___501.098._ _____EXCEPTION TO TITLE REQUIREMENT FOR CERTAIN_  
+| _VEHICLES. (a) Notwithstanding any other law, a metal recycler,_  
+| _salvage vehicle dealer, or used automotive parts recycler may_  
+| _purchase a motor vehicle without obtaining a title to the vehicle_  
+| _if:_  
+|  _(1)_ _____the vehicle is at least 10 years old and is_  
+| _purchased solely for parts, dismantling, or scrap;_  
+|  _(2)_ _____the recycler or dealer does not dismantle, crush,_  
+| _or shred the vehicle before the second business day after the date_  
+| _of purchase; and_  
+|  _(3)_ _____except as provided by Subsection (l), the recycler_  
+| _or dealer complies with Subsections (b) and (c)._  
+|  _(b)_ _____A metal recycler, salvage vehicle dealer, or used_  
+| _automotive parts recycler who purchases a motor vehicle under this_  
+| _section shall obtain the following information:_  
+|  _(1)_ _____the name, address, and National Motor Vehicle_  
+| _Title Information System identification number of the recycler or_  
+| _dealer;_  
+|  _(2)_ _____the name, initials, or other identification of the_  
+| _individual recording the information required by this subsection;_  
+|  _(3) the date of the transaction;_  
+|  _(4)_ _____a description of the vehicle, including the make_  
+| _and model to the extent practicable;_  
+|  _(5)_ _____the vehicle identification number of the vehicle_  
+| _to the extent practicable;_  
+|  _(6)_ _____the license plate number of any vehicle_  
+| _transporting the vehicle being sold;_  
+|  _(7) the amount of consideration given for the vehicle;_  
+|  _(8)_ _____a written statement signed by the seller or an_  
+| _agent acting on behalf of the seller:_  
+|  _(A)_ _____certifying that the seller or agent has the_  
+| _lawful right to sell the vehicle;_  
+|  _(B)_ _____certifying that the vehicle is not subject to_  
+| _any security interest or lien;_  
+|  _(C)_ _____acknowledging that a person who falsifies_  
+| _information contained in the written statement is subject to_  
+| _criminal penalties and restitution for losses incurred as a result_  
+| _of the sale of the vehicle based on falsified information contained_  
+| _in the statement; and_  
+|  _(D) certifying that the vehicle:_  
+|  _(i) will not be titled again; and_  
+|  _(ii) will be dismantled or destroyed;_  
+|  _(9)_ _____the name and address of the seller, and the_  
+| _seller's agent if applicable;_  
+|  _(10) a photocopy or electronic scan of:_  
+|  _(A)_ _____a valid driver's license of the seller or the_  
+| _seller's agent; or_  
+|  _(B)_ _____any other photographic identification card_  
+| _of the seller or the seller's agent issued by any state or federal_  
+| _agency; and_  
+|  _(11)_ _____proof demonstrating that the recycler or dealer_  
+| _has reported the vehicle to the department as provided by_  
+| _Subsection (c)._  
+|  _(c)_ _____A metal recycler, salvage vehicle dealer, or used_  
+| _automotive parts recycler who purchases a motor vehicle under this_  
+| _section shall submit to the department information necessary to_  
+| _satisfy any applicable requirement for reporting information to the_  
+| _National Motor Vehicle Title Information System in accordance with_  
+| _rules adopted under 28 C.F.R. Section 25.56 not later than 48 hours,_  
+| _not counting weekends or official state holidays, after the close_  
+| _of business on the day the vehicle was received. The department_  
+| _shall report information received under this subsection to the_  
+| _National Motor Vehicle Title Information System on behalf of the_  
+| _recycler or dealer._  
+|  _(d)_ _____Not later than 24 hours after receiving information from_  
+| _a recycler or dealer under Subsection (c) about a motor vehicle, the_  
+| _department shall notify the recycler or dealer whether the vehicle_  
+| _has been reported stolen._  
+|  _(e)_ _____If the department notifies a recycler or dealer under_  
+| _Subsection (d) that a motor vehicle has been reported stolen, the_  
+| _recycler or dealer shall notify the appropriate local law_  
+| _enforcement agency of the current location of the vehicle and_  
+| _provide to the agency identifying information of the person who_  
+| _sold the vehicle._  
+|  _(f)_ _____The department shall cancel the title of a motor vehicle_  
+| _purchased under this section._  
+|  _(g)_ _____A person who purchases a motor vehicle under this_  
+| _section that is later determined by the department or another_  
+| _governmental entity to have been reported stolen is not criminally_  
+| _or civilly liable unless the person had knowledge that the vehicle_  
+| _was a stolen vehicle or failed to comply with the requirements of_  
+| _Subsection (b) or (c)._  
+|  _(h)_ _____If the department has not received information from a_  
+| _federal, state, or local department or independent source that a_  
+| _motor vehicle purchased under this section has been reported stolen_  
+| _before the time the department is required to notify a recycler or_  
+| _dealer of whether the vehicle has been reported stolen under_  
+| _Subsection (d), the department shall continue to check with the_  
+| _National Crime Information Center for a period of 30 days. If the_  
+| _vehicle is not reported stolen, any person damaged by the purchase_  
+| _may not bring a cause of action against the department._  
+|  _(i)_ _____A court shall order a person who sells a motor vehicle_  
+| _under this section to make restitution, including attorney's fees,_  
+| _to the owner or lienholder of the vehicle, or to a metal recycler,_  
+| _salvage vehicle dealer, or used automotive parts recycler, for any_  
+| _damage or loss caused by an offense committed by the seller related_  
+| _to the vehicle._  
+|  _(j)_ _____The records required to be maintained under this section_  
+| _must be open to inspection by a representative of the department or_  
+| _a law enforcement officer during reasonable business hours._  
+|  _(k)_ _____The department may satisfy its responsibilities under_  
+| _this section through a contract with a United States Department of_  
+| _Justice approved third-party data consolidator, pursuant to 28_  
+| _C.F.R. Part 25._  
+|  _(l)_ _____A metal recycler, salvage vehicle dealer, or used_  
+| _automotive parts recycler may purchase a vehicle under this section_  
+| _without complying with Subsections (b) and (c) if:_  
+|  _(1)_ _____the vehicle has been flattened, crushed, baled, or_  
+| _logged such that the vehicle is less than 50 percent of its original_  
+| _volume and is no longer the vehicle described by the certificate of_  
+| _title;_  
+|  _(2)_ _____the vehicle is purchased for purposes of scrap_  
+| _metal only; and_  
+|  _(3)_ _____the seller or an agent acting on behalf of the_  
+| _seller of the vehicle certifies to the purchaser that all vehicles_  
+| _included in the sale were reported to the department or the National_  
+| _Motor Vehicle Title Information System._  
+|  _(m)_ _____This section preempts all requirements that are_  
+| _inconsistent with specific provisions of this section relating to_  
+| _the purchase and dismantling, crushing, or shredding of a motor_  
+| _vehicle without obtaining the title to the vehicle._  
+|  SECTION 2. Section 501.109, Transportation Code, is amended  
+| by adding Subsections (c-1) and (i) and amending Subsections (d)  
+| and (e) to read as follows:  
+|  _(c-1) A person commits an offense if the person knowingly:_  
+|  _(1)_ _____fails to submit information required under Section_  
+| _501.098(c);_  
+|  _(2)_ _____falsifies the information required under Section_  
+| _501.098(b);_  
+|  _(3)_ _____falsifies the statement required under Section_  
+| _501.098(b)(8);_  
+|  _(4)_ _____sells a vehicle under Section 501.098 that is the_  
+| _subject of a security interest or lien; or_  
+|  _(5) otherwise violates Section 501.098._  
+|  (d) Except as provided by Subsection (e), an offense under  
+| Subsection (a), (b), [ ~~or~~ ] (c) _, or (c-1)_ is a Class C misdemeanor.  
+|  (e) If it is shown on the trial of an offense under  
+| Subsection (a), (b), [ ~~or~~ ] (c) _, or (c-1)_ that the defendant has been  
+| previously convicted of:  
+|  (1) one offense under Subsection (a), (b), [ ~~or~~ ] (c) _,_  
+| _or (c-1)_ , the offense is a Class B misdemeanor; or  
+|  (2) two or more offenses under Subsection (a), (b),  
+| [ ~~or~~ ] (c) _, or (c-1)_ , the offense is a state jail felony.  
+|  _(i)_ _____Money generated from penalties collected for offenses_  
+| _under Subsection (c-1) may be used only for enforcement,_  
+| _investigation, prosecution, and training activities related to_  
+| _motor vehicle related offenses._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

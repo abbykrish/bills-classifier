@@ -1,0 +1,33 @@
+| 86R13037 ATP-F  
+---|---  
+|  By: Bohac | H.B. No. 3964  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the location of countywide polling places within a  
+| county.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 43.007(m), Election Code, is amended to  
+| read as follows:  
+|  (m) In adopting a methodology under Subsection (f), the  
+| county must ensure that:  
+|  (1) each county commissioners precinct contains at  
+| least one countywide polling place _and the percentage of the total_  
+| _number of countywide polling places located in each commissioners_  
+| _precinct must be as equal as mathematically possible to the_  
+| _percentage of registered voters of the county whose registrations_  
+| _are effective on the date of the election residing in each_  
+| _commissioners precinct_ ; and  
+|  (2) _in a county with a population of 400,000 or more,_  
+| _the percentage of the total number of countywide polling places_  
+| _located in each state representative district in the county_  
+| _containing territory in which the election is held must be as equal_  
+| _as mathematically possible to the percentage of registered voters_  
+| _of the county whose registrations are effective on the date of the_  
+| _election residing in each state representative district_ [ ~~the total~~  
+|  ~~number of permanent branch and temporary branch polling places open~~  
+|  ~~for voting in a county commissioners precinct does not exceed more~~  
+|  ~~than twice the number of permanent branch and temporary branch~~  
+|  ~~polling places in another county commissioners precinct~~ ].  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

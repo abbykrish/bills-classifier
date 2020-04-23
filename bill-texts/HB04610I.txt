@@ -1,0 +1,68 @@
+|  
+---|---  
+|  By: Shaheen | H.B. No. 4610  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the emergency detention of certain persons with a  
+| mental illness or cognitive disability.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 573.0001, Health and Safety Code, is  
+| amended by adding Subdivision (3) to read as follows:  
+|  _(3)_ _____"Cognitive disability" means a condition that_  
+| _places certain limitations on a person's mental functioning or_  
+| _skills._ ___Cognitive disabilities include autism, Down syndrome,_  
+| _traumatic brain injury, and dementia._  
+|  SECTION 2. Section 573.001, Health and Safety Code, is  
+| amended by adding Subsections (i), and (j) to read as follows:  
+|  _(i)_ _____Except as provided by Subsection (j), a peace officer_  
+| _who transports a person to a facility under Subsection (d) shall_  
+| _immediately transfer custody of the person to the facility._  
+|  _(j)_ _____If the person transported under Subsection (d) commits_  
+| _an assault, as described by Section 22.01, Penal Code, against the_  
+| _peace officer during the transportation, the peace officer is not_  
+| _required to immediately transfer custody of the person to the_  
+| _facility._  
+|  SECTION 3. Section 573.012, Health and Safety Code, is  
+| amended by amending Subsections (b) and (d) and adding Subsections  
+| (d-1) and (j) to read as follows:  
+|  (b) The _judge or_ magistrate shall deny the application  
+| unless the _judge or_ magistrate finds that there is reasonable cause  
+| to believe that:  
+|  (1) the person evidences mental illness;  
+|  (2) the person evidences a substantial risk of serious  
+| harm to _the person_ [ ~~himself~~ ] or others;  
+|  (3) the risk of harm is imminent unless the person is  
+| immediately restrained; and  
+|  (4) the necessary restraint cannot be accomplished  
+| without emergency detention.  
+|  (d) The _judge or_ magistrate shall issue to an on-duty peace  
+| officer a warrant for the person's immediate apprehension if the  
+| _judge or_ magistrate finds that each criterion under Subsection (b)  
+| is satisfied.  _The judge or magistrate shall notify the applicable_  
+| _law enforcement agency of the warrant by:_  
+|  _(1)_ _____e-mail with the warrant attached as a secure_  
+| _document in a portable document format (PDF); or_  
+|  _(2) secure electronic means, including:_  
+|  _(A) satellite transmission;_  
+|  _(B) closed-circuit television transmission; or_  
+|  _(C)_ _____any other method of two-way electronic_  
+| _communication that:_  
+|  _(i) is secure;_  
+|  _(ii)_ _____is available to the judge or_  
+| _magistrate; and_  
+|  _(iii)_ _____provides for a simultaneous,_  
+| _compressed full-motion video and interactive communication of_  
+| _image and sound between the judge or magistrate and the agency._  
+|  _(d-1)_ _____A law enforcement agency that receives a warrant_  
+| _issued under Subsection (d) shall serve the warrant as soon as_  
+| _practicable after the hour the agency receives the warrant._  
+|  _(j)_ _____A court may not charge a fee in excess of $25 for filing_  
+| _an application for emergency detention or for issuing a warrant_  
+| _under this subchapter._  
+|  SECTION 4. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution.  If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

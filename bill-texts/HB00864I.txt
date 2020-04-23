@@ -1,0 +1,70 @@
+| 86R2567 BRG-D  
+---|---  
+|  By: Anchia | H.B. No. 864  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to pipeline incident reporting requirements for gas  
+| pipeline operators; clarifying changes to related administrative  
+| penalties.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Sections 121.206(a) and (d), Utilities Code, are  
+| amended to read as follows:  
+|  (a) The railroad commission may assess an administrative  
+| penalty against a person who violates Section 121.201 or a safety  
+| standard or other rule prescribed or adopted under _this subchapter_  
+| [ ~~that section~~ ].  
+|  (d) The railroad commission by rule shall adopt guidelines  
+| to be used in determining the amount of a penalty under this  
+| subchapter. The guidelines shall include a penalty calculation  
+| worksheet that specifies the typical penalty for certain  
+| violations, circumstances justifying enhancement of a penalty and  
+| the amount of the enhancement, and circumstances justifying a  
+| reduction in a penalty and the amount of the reduction. The  
+| guidelines shall take into account:  
+|  (1) the person's history of previous violations of  
+| Section 121.201 or a safety standard or other rule prescribed or  
+| adopted under _this subchapter_ [ ~~that section~~ ], including the number  
+| of previous violations;  
+|  (2) the seriousness of the violation and of any  
+| pollution resulting from the violation;  
+|  (3) any hazard to the health or safety of the public;  
+|  (4) the degree of culpability;  
+|  (5) the demonstrated good faith of the person charged;  
+| and  
+|  (6) any other factor the commission considers  
+| relevant.  
+|  SECTION 2. Subchapter E, Chapter 121, Utilities Code, is  
+| amended by adding Section 121.215 to read as follows:  
+|  _Sec._ ___121.215._ _____PIPELINE INCIDENT REPORTING. (a) In this_  
+| _section, "pipeline incident" means an event involving a release of_  
+| _gas from a pipeline that results in one or more of the following_  
+| _consequences:_  
+|  _(1)_ _____a death or a personal injury necessitating_  
+| _in-patient hospitalization;_  
+|  _(2)_ _____estimated property damage of $50,000 or more,_  
+| _including loss to the operator, loss to others, or both, but_  
+| _excluding cost of gas lost; or_  
+|  _(3)_ _____unintentional estimated gas loss of three million_  
+| _cubic feet or more._  
+|  _(b)_ _____The railroad commission by rule shall require a_  
+| _distribution gas pipeline facility operator to provide the_  
+| _following information to the commission after a pipeline incident:_  
+|  _(1) the pipeline operator's name and telephone number;_  
+|  _(2) the location of the incident;_  
+|  _(3) the time of the incident;_  
+|  _(4)_ _____the fatalities and personal injuries caused by the_  
+| _incident;_  
+|  _(5)_ _____the telephone number of the operator's on-site_  
+| _person;_  
+|  _(6) the cost of gas lost;_  
+|  _(7)_ _____estimated property damage to the operator and_  
+| _others; and_  
+|  _(8)_ _____any other significant facts relevant to the_  
+| _incident, including facts related to ignition, explosion,_  
+| _rerouting of traffic, evacuation of a building, and media interest._  
+|  SECTION 3. The Railroad Commission of Texas shall adopt the  
+| rules required by Section 121.215, Utilities Code, as added by this  
+| Act, not later than December 31, 2019.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

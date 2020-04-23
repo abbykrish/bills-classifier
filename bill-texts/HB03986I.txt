@@ -1,0 +1,451 @@
+| 86R12855 ADM-D  
+---|---  
+|  By: Lang | H.B. No. 3986  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to election integrity; creating criminal offenses;  
+| imposing a civil penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+| ARTICLE 1. EARLY VOTING AND POLLING PLACES  
+|  SECTION 1.01. Section 11.003, Election Code, is amended to  
+| read as follows:  
+|  Sec. 11.003. PLACE FOR VOTING _; OFFENSES_.  _(a)_ Except as  
+| otherwise provided by this code, a person may vote only in the  
+| election precinct in which the person resides.  
+|  _(b)_ _____A person commits an offense if the person casts a vote in_  
+| _violation of Subsection (a)._  
+|  _(c)_ _____An election officer commits an offense if the officer_  
+| _knowingly permits a person to cast a vote in violation of Subsection_  
+| _(a)._  
+|  _(d)_ _____An offense under Subsection (b) or (c) is a Class A_  
+| _misdemeanor._  
+|  SECTION 1.02. Section 62.0115(b), Election Code, is amended  
+| to read as follows:  
+|  (b) Except as revised by the secretary of state under  
+| Subsection (d), the notice must state that a voter has the right to:  
+|  (1) vote a ballot and view written instructions on how  
+| to cast a ballot;  
+|  (2) vote in secret and free from intimidation;  
+|  (3) receive up to two additional ballots if the voter  
+| mismarks, damages, or otherwise spoils a ballot;  
+|  (4) request instructions on how to cast a ballot, but  
+| not to receive suggestions on how to vote;  
+|  (5) bring an interpreter to translate the ballot and  
+| any instructions from election officials;  
+|  (6) receive assistance in casting the ballot if the  
+| voter:  
+|  (A) has a physical disability that renders the  
+| voter unable to write or see; or  
+|  (B) cannot read the language in which the ballot  
+| is written;  
+|  (7) cast a ballot on executing an affidavit as  
+| provided by law, if the voter's eligibility to vote is questioned;  
+|  (8) report an existing or potential abuse of voting  
+| rights to the secretary of state or the local election official; _and_  
+|  (9) [ ~~except as provided by Section 85.066(b), Election~~  
+|  ~~Code, vote at any early voting location in the county in which the~~  
+|  ~~voter resides in an election held at county expense, a primary~~  
+|  ~~election, or a special election ordered by the governor; and~~  
+|  [ ~~(10)~~ ] file an administrative complaint with the  
+| secretary of state concerning a violation of federal or state  
+| voting procedures.  
+|  SECTION 1.03. Sections 85.001(a) and (c), Election Code,  
+| are amended to read as follows:  
+|  (a) The period for early voting by personal appearance  
+| begins on the _10th_ [ ~~17th~~ ] day before election day and continues  
+| through the [ ~~fourth~~ ] day before election day, except as otherwise  
+| provided by this section.  
+|  (c) If the date prescribed by Subsection (a) [ ~~or (b)~~ ] for  
+| beginning the period is a Saturday, Sunday, or legal state holiday,  
+| the early voting period begins on the next regular business day _,_  
+| _except as otherwise provided by Section 85.006_.  
+|  SECTION 1.04. Section 85.004, Election Code, is amended to  
+| read as follows:  
+|  Sec. 85.004. PUBLIC NOTICE OF MAIN POLLING PLACE LOCATION.  
+| The election order and the election notice must state the location  
+| of the main early voting polling place. _The election notice must_  
+| _state that a voter is only permitted to vote at the main early_  
+| _voting polling place if it is located within the voter's election_  
+| _precinct._  
+|  SECTION 1.05. Section 85.005(d), Election Code, is amended  
+| to read as follows:  
+|  (d) In an election ordered by a city, early voting by  
+| personal appearance at the main early voting polling place shall be  
+| conducted for at least 12 hours[ ~~:~~  
+|  [ ~~(1)~~ ] on one weekday[ ~~, if the early voting period~~  
+|  ~~consists of less than six weekdays; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~on two weekdays, if the early voting period~~  
+|  ~~consists of six or more weekdays~~ ].  
+|  SECTION 1.06. Sections 85.006(a), (d), and (e), Election  
+| Code, are amended to read as follows:  
+|  (a) Except as provided by Subsection (b), the authority  
+| ordering an election may order early voting by personal appearance  
+| at the main early voting polling place to be conducted on _a Saturday_  
+| _or Sunday_ [ ~~one or more Saturdays or Sundays~~ ] during the early voting  
+| period.  
+|  (d) The authority authorized to order early voting on a  
+| Saturday or Sunday under Subsection (a) or (b) shall order the  
+| voting under the applicable subsection on receipt of a written  
+| request submitted by at least 15 registered voters of the territory  
+| covered by the election.  The request must be submitted in time to  
+| enable compliance with Section 85.007.  The authority [ ~~is not~~  
+|  ~~required to order the voting on a particular date specified by the~~  
+|  ~~request but~~ ] shall order the voting on [ ~~at least one~~ ] Saturday
+if  
+| [ ~~a~~ ] Saturday is requested and on [ ~~at least one~~ ] Sunday if [
+~~a~~ ] Sunday  
+| is requested.  
+|  (e) In a primary election or the general election for state  
+| and county officers in a county with a population of 100,000 or  
+| more, the early voting clerk shall order personal appearance voting  
+| at the main early voting polling place to be conducted for at least  
+| 12 hours on [ ~~the last~~ ] Saturday and for at least five hours on [
+~~the~~  
+|  ~~last~~ ] Sunday _during_ [ ~~of~~ ] the early voting period.  The early
+voting  
+| clerk shall order voting to be conducted at those times in those  
+| elections in a county with a population under 100,000 on receipt of  
+| a written request for those hours submitted by at least 15  
+| registered voters of the county.  The request must be submitted in  
+| time to enable compliance with Section 85.007.  This subsection  
+| supersedes any provision of this subchapter to the extent of any  
+| conflict.  
+|  SECTION 1.07. Section 85.010(b), Election Code, is amended  
+| to read as follows:  
+|  (b) A political subdivision that holds an election  
+| described by Subsection (a) shall designate as an early voting  
+| polling place for the election any early voting polling place[ ~~,~~  
+|  ~~other than a polling place established under Section 85.062(e),~~ ]  
+| established by the county and located in the political subdivision.  
+|  SECTION 1.08. Section 85.033, Election Code, is amended to  
+| read as follows:  
+|  Sec. 85.033. SECURITY OF VOTING MACHINE.  _(a)_ At the close  
+| of early voting each day, the early voting clerk shall secure each  
+| voting machine used for early voting in the manner prescribed by the  
+| secretary of state so that its unauthorized operation is prevented.  
+| The clerk shall unsecure the machine before the beginning of early  
+| voting the following day.  
+|  _(b)_ _____A voting machine used for early voting may not be_  
+| _removed from the polling place until the polls close on election_  
+| _day._  
+|  _(c)_ _____A person commits an offense if the person violates_  
+| _Subsection (b)._  
+|  _(d) An offense under this section is a state jail felony._  
+|  SECTION 1.09. Section 85.061(b), Election Code, is amended  
+| to read as follows:  
+|  (b) In an election in which a temporary branch polling place  
+| is established under Section 85.062(a)(1) [ ~~or (d)~~ ], the  
+| commissioners court may provide by resolution, order, or other  
+| official action that any one or more of the county clerk's regularly  
+| maintained branch clerical offices are not to be branch early  
+| voting polling places in the election.  
+|  SECTION 1.10. Sections 85.062(a) and (b), Election Code,  
+| are amended to read as follows:  
+|  (a) _One_ [ ~~Except as provided by Subsection (d) or (e), one~~ ]  
+| or more early voting polling places other than the main early voting  
+| polling place _shall_ [ ~~may~~ ] be established _in each election precinct_  
+| _in the territory covered by the election_ by:  
+|  (1) the commissioners court, for an election in which  
+| the county clerk is the early voting clerk; or  
+|  (2) the governing body of the political subdivision  
+| served by the authority ordering the election, for an election in  
+| which a person other than the county clerk is the early voting  
+| clerk.  
+|  (b) A polling place established under this section may be  
+| located[ ~~, subject to Subsection (d),~~ ] at any place in the territory  
+| served by the early voting clerk and may be located in any  
+| stationary structure as directed by the authority establishing the  
+| branch office. The polling place may be located in a movable  
+| structure _, but the structure may not change locations during the_  
+| _early voting period_ [ ~~in the general election for state and county~~  
+|  ~~officers, general primary election, or runoff primary election~~ ].  
+| Ropes or other suitable objects may be used at the polling place to  
+| ensure compliance with Section 62.004.  Persons who are not  
+| expressly permitted by law to be in a polling place shall be  
+| excluded from the polling place to the extent practicable.  
+|  SECTION 1.11. Section 85.063, Election Code, is amended to  
+| read as follows:  
+|  Sec. 85.063. DAYS AND HOURS FOR VOTING: PERMANENT _OR_  
+| _TEMPORARY_ BRANCH. Early voting by personal appearance at each  
+| permanent _or temporary_ branch polling place shall be conducted on  
+| the same days and during the same hours as voting is conducted at  
+| the main early voting polling place.  
+|  SECTION 1.12. Section 85.068(a), Election Code, is amended  
+| to read as follows:  
+|  (a) The early voting clerk shall post notice for each  
+| election stating any dates and the hours that voting on Saturday or  
+| Sunday will be conducted _at a temporary branch polling place_ [ ~~under~~  
+|  ~~Section 85.064(d) or 85.065(b)~~ ], if the early voting clerk is a  
+| county clerk or city secretary under Section 83.002 or 83.005.  
+| ARTICLE 2.  ELECTION DAY AND TABULATION OF RESULTS  
+|  SECTION 2.01. Section 52.075, Election Code, is amended to  
+| read as follows:  
+|  Sec. 52.075. MODIFICATION OF BALLOT FORM FOR CERTAIN VOTING  
+| SYSTEMS.  The secretary of state may prescribe the form and content  
+| of a ballot for an election using a voting system, including an  
+| electronic voting system [ ~~or a voting system that uses direct~~  
+|  ~~recording electronic voting machines~~ ], to conform to the formatting  
+| requirements of the system.  
+|  SECTION 2.02. Section 63.001, Election Code, is amended by  
+| adding Subsection (c-2) to read as follows:  
+|  _(c-2)_ _____If the list of registered voters for the precinct_  
+| _required under Subsection (c) is electronic, a paper copy must be_  
+| _kept at the polling place and must be used to accept voters if the_  
+| _electronic copy malfunctions._  
+|  SECTION 2.03. Section 122.001, Election Code, is amended by  
+| adding Subsection (d-1) to read as follows:  
+|  _(d-1)_ _____Effective September 1, 2023, a voting system may not_  
+| _be used in an election if the voting system does not use a paper_  
+| _record or produce a paper receipt that can be used to verify the_  
+| _tabulation of electronic voting system results._  
+|  SECTION 2.04. Subchapter A, Chapter 122, Election Code, is  
+| amended by adding Section 122.0031 to read as follows:  
+|  _Sec._ ___122.0031._ _____UNIFORM PROCEDURES FOR CERTAIN VOTING_  
+| _SYSTEMS. (a)_ ___This section applies to an election in which a voting_  
+| _system described by Section 122.001(d-1) is used._  
+|  _(b)_ _____Not later than the 90th day before an election to which_  
+| _this section applies, the secretary of state shall adopt uniform_  
+| _procedures for the numbering of ballots in the election and the_  
+| _accountability of ballots._  
+|  SECTION 2.05. Subchapter A, Chapter 123, Election Code, is  
+| amended by adding Section 123.010 to read as follows:  
+|  _Sec._ ___123.010._ _____DIRECT RECORDING ELECTRONIC VOTING SYSTEM_  
+| _PROHIBITED. Except as necessary to comply with Section 61.012, an_  
+| _authority may not adopt a voting system that uses direct recording_  
+| _electronic voting machines._  
+|  SECTION 2.06. Subchapter C, Chapter 127, Election Code, is  
+| amended by adding Section 127.062 to read as follows:  
+|  _Sec._ ___127.062._ _____SEALED BALLOT BOXES FOR HYBRID VOTING SYSTEM._  
+| _(a)_ ___This section applies to an election where a voting system is_  
+| _used that produces both an electronic system ballot and a paper_  
+| _record or receipt._  
+|  _(b)_ _____All provisions of this subchapter that apply to an_  
+| _electronic system ballot also apply to the paper record or receipt_  
+| _generated by a voting system._  
+| ARTICLE 3. STATE OFFICIALS, CITIZENSHIP, AND REGISTRATION  
+|  SECTION 3.01. Section 13.071, Election Code, is amended to  
+| read as follows:  
+|  Sec. 13.071. REVIEW OF APPLICATION. (a) The registrar  
+| shall review each submitted application for registration to  
+| determine whether it complies with Section 13.002 and indicates  
+| that the applicant is _a United States citizen_ eligible for  
+| registration.  
+|  (b) _If the application is submitted to the Department of_  
+| _Public Safety in person with the proof of citizenship required by_  
+| _Section 20.063(e), the_ [ ~~The~~ ] registrar shall make the determination  
+| not later than the seventh day after the date the application is  
+| submitted to the registrar.  
+|  _(c)_ _____If the application is submitted in a manner other than_  
+| _the manner described by Subsection (b), the registrar shall forward_  
+| _the information relating to the applicant to the secretary of state_  
+| _for determining citizenship as provided by Section 13.0721._  
+|  SECTION 3.02. Subchapter C, Chapter 13, Election Code, is  
+| amended by adding Section 13.0721 to read as follows:  
+|  _Sec._ ___13.0721._ _____DETERMINATION OF CITIZENSHIP. (a) This_  
+| _section does not apply to an application for registration submitted_  
+| _to the Department of Public Safety in person with the proof of_  
+| _citizenship required by Section 20.063(e)._  
+|  _(b)_ _____The secretary of state shall verify with the Department_  
+| _of Public Safety the citizenship status of each applicant for voter_  
+| _registration whose information is forwarded to the secretary of_  
+| _state as provided by Section 13.071(c). If the department verifies_  
+| _the applicant's citizenship status, the secretary of state shall_  
+| _notify the registrar. If the department does not have information_  
+| _regarding the citizenship status of the applicant or has_  
+| _information indicating that the applicant is not a citizen, the_  
+| _registrar and the applicant shall be notified as provided by_  
+| _secretary of state rule._  
+|  _(c)_ _____An applicant for voter registration who receives notice_  
+| _under Subsection (b) must provide proof of citizenship to the_  
+| _registrar not later than the 60th day after the date of receipt._  
+| _Except as provided by Subsection (d), this proof must be presented_  
+| _in person. The following is acceptable as proof of citizenship_  
+| _under this section:_  
+|  _(1) an unexpired passport issued to the person;_  
+|  _(2)_ _____a certified copy of a birth certificate or other_  
+| _document confirming the person's birth that is admissible in a_  
+| _court of law and establishes the person's identity, presented with_  
+| _a government-issued identification that contains the person's_  
+| _photograph; or_  
+|  _(3)_ _____United States citizenship papers issued to the_  
+| _person, presented with a government-issued identification that_  
+| _contains the person's photograph._  
+|  _(d)_ _____An applicant may mail a certified copy of a document_  
+| _described by Subsection (c)(2) or (3) with a copy of the person's_  
+| _government-issued photo identification to the registrar._  
+|  _(e)_ _____If an applicant does not provide proof of citizenship as_  
+| _required, the registrar shall reject the application and notify the_  
+| _secretary of state. The secretary of state shall keep a list of_  
+| _applicants for which the secretary receives notice under this_  
+| _section._  
+|  _(f)_ _____The secretary of state shall adopt rules and prescribe_  
+| _procedures to implement this section._  
+|  SECTION 3.03. Section 13.143(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Except as provided by _Subsection_ [ ~~Subsections~~ ] (b) [ ~~and~~  
+|  ~~(e)~~ ], if an applicant's registration application is approved, the  
+| registration becomes effective on the 30th day after the date the  
+| application is _approved_ [ ~~submitted to the registrar~~ ] or on the date  
+| the applicant becomes 18 years of age, whichever is later.  
+|  SECTION 3.04. Section 16.031(a), Election Code, is amended  
+| to read as follows:  
+|  (a) The registrar shall cancel a voter's registration  
+| immediately on receipt of:  
+|  (1) notice under Section 13.072(b) or 15.021 or a  
+| response under Section 15.053 that the voter's residence is outside  
+| the county;  
+|  (2) an abstract of the voter's death certificate under  
+| Section 16.001(a) or an abstract of an application indicating that  
+| the voter is deceased under Section 16.001(b);  
+|  (3) an abstract of a final judgment of the voter's  
+| total mental incapacity, partial mental incapacity without the  
+| right to vote, conviction of a felony, or disqualification under  
+| Section 16.002, 16.003, or 16.004;  
+|  (4) notice under Section 112.012 that the voter has  
+| applied for a limited ballot in another county;  
+|  (5) notice from a voter registration official in  
+| another state that the voter has registered to vote outside this  
+| state;  
+|  (6) notice from the early voting clerk under Section  
+| 101.053 that a federal postcard application submitted by an  
+| applicant states a voting residence address located outside the  
+| registrar's county; [ ~~or~~ ]  
+|  (7) notice from the secretary of state that the voter  
+| has registered to vote in another county, as determined by the  
+| voter's driver's license number or personal identification card  
+| number issued by the Department of Public Safety or social security  
+| number _; or_  
+|  _(8)_ _____a list under Section 18.068 of this code or Section_  
+| _62.113, Government Code, of persons excused or disqualified from_  
+| _jury service because of citizenship status that includes the voter,_  
+| _or notice from any governmental agency that the voter has_  
+| _acknowledged that the voter is not a citizen of the United States_.  
+|  SECTION 3.05. Section 16.036(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Immediately after, but not later than the 30th day after  
+| the date a voter's registration is canceled under Section  
+| 16.031(a)(3) _or (8)_ , 16.033, _or_ 16.0331, [ ~~or 16.0332,~~ ] the  
+| registrar shall deliver written notice of the cancellation to the  
+| voter.  
+|  SECTION 3.06. Section 18.065, Election Code, is amended by  
+| adding Subsections (e), (f), and (g) to read as follows:  
+|  _(e)_ _____If a registrar fails to correct a violation within 30_  
+| _days of a notice under Subsection (b), the secretary of state shall_  
+| _correct the violation on behalf of the registrar._  
+|  _(f)_ _____A registrar is liable to this state for a civil penalty_  
+| _of $50 for each violation corrected by the secretary of state under_  
+| _Subsection (e). The attorney general may bring an action to recover_  
+| _a civil penalty imposed under this section._  
+|  _(g)_ _____A civil penalty collected by the attorney general under_  
+| _this section shall be deposited in the state treasury to the credit_  
+| _of the general revenue fund._  
+|  SECTION 3.07. Section 18.068, Election Code, is amended to  
+| read as follows:  
+|  Sec. 18.068. COMPARISON OF INFORMATION REGARDING  
+| INELIGIBILITY. (a) The secretary of state shall quarterly compare  
+| the information received under Section 16.001 of this code and  
+| Section 62.113, Government Code, to the statewide computerized  
+| voter registration list.  
+|  _(a-1)_ _____The secretary of state shall enter into an agreement_  
+| _with the Department of Public Safety under which information in the_  
+| _statewide computerized voter registration list is compared against_  
+| _information in the database of the Department of Public Safety on a_  
+| _monthly basis to verify the accuracy of information provided on_  
+| _voter registration applications. The Department of Public Safety_  
+| _shall use any available information under the federal REAL ID_  
+| _program to assist the secretary under this subsection. The_  
+| _information compared must include, at a minimum, a voter's:_  
+|  _(1) full legal name;_  
+|  _(2) former name, if applicable;_  
+|  _(3) date of birth;_  
+|  _(4) residence address;_  
+|  _(5)_ _____driver's license or state identification card_  
+| _number;_  
+|  _(6) signature;_  
+|  _(7) social security number;_  
+|  _(8)_ _____documentation of lawful presence in this state;_  
+| _and_  
+|  _(9) citizenship status._  
+|  _(a-2)_ If the secretary _of state_ determines _from information_  
+| _received under Subsection (a) or (a-1)_ that a voter on the  
+| registration list _may be ineligible to vote_ [ ~~is deceased or has been~~  
+|  ~~excused or disqualified from jury service because the voter is not a~~  
+|  ~~citizen~~ ], the secretary shall send notice of the determination to _:_  
+|  _(1)_ the voter registrar of the counties considered  
+| appropriate by the secretary _; and_  
+|  _(2) if appropriate, the attorney general_.  
+|  (b) The secretary of state shall by rule determine what  
+| information combinations identified as common to a voter and to an  
+| individual who is deceased _or ineligible to vote_ constitute a weak  
+| match or a strong match in order to:  
+|  (1) produce the least possible impact on Texas voters;  
+| and  
+|  (2) fulfill its responsibility to manage the voter  
+| rolls.  
+|  (c) The secretary of state may not determine that a voter is  
+| deceased _or ineligible to vote_ based on a weak match.  The secretary  
+| of state may inform the county of the voter's residence that a weak  
+| match exists.  
+|  (d) On receiving notification from the secretary of state  
+| under Subsection (c) that a weak match of identifying information  
+| exists for a county voter and an individual who is deceased _or_  
+| _ineligible to vote_ , the county shall investigate whether the voter  
+| is _that_ [ ~~the~~ ] individual [ ~~who is deceased~~ ].  
+|  (e) The secretary of state may determine that a voter is  
+| deceased _or ineligible to vote_ based on a strong match.  
+|  (f) The secretary of state may obtain, for purposes of  
+| determining whether a voter is deceased _or ineligible to vote_ ,  
+| information from other state agency databases relating to a voter  
+| that is the same type of information that the secretary of state or  
+| a voter registrar collects or stores for voter registration  
+| purposes.  
+|  SECTION 3.08. Section 19.001(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Before May 15 of each year, the registrar shall prepare  
+| and submit to the secretary of state a statement containing:  
+|  (1) the total number of initial registrations for the  
+| previous voting year;  
+|  (2) the total number of registrations canceled under  
+| Sections 16.031(a)(1) _and (8) and Section_ [ ~~,~~ ] 16.033[ ~~, and
+16.0332~~ ]  
+| for the previous voting year; and  
+|  (3) the total number of registrations for which  
+| information was updated for the previous voting year.  
+|  SECTION 3.09. Section 20.063, Election Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____A person who submits a voter registration application to_  
+| _the department in person shall at the time of submission present as_  
+| _proof of citizenship:_  
+|  _(1) an unexpired passport issued to the person;_  
+|  _(2)_ _____a certified copy of a birth certificate or other_  
+| _document confirming the person's birth that is admissible in a_  
+| _court of law and establishes the person's identity; or_  
+|  _(3)_ _____United States citizenship papers issued to the_  
+| _person._  
+| ARTICLE 4. REPEALER, TRANSITION, AND EFFECTIVE DATE  
+|  Section 4.01. The following provisions of the Election Code  
+| are repealed:  
+|  (1) Section 13.041;  
+|  (2) Sections 13.143(d) and (e);  
+|  (3) Section 16.0332;  
+|  (4) Sections 85.001(b) and (e);  
+|  (5) Section 85.003;  
+|  (6) Sections 85.062(d) and (e);  
+|  (7) Section 85.064;  
+|  (8) Section 85.065;  
+|  (9) Section 85.066;  
+|  (10) Chapter 129; and  
+|  (11) Section 213.016.  
+|  SECTION 4.02. Section 33.05, Penal Code, is repealed.  
+|  SECTION 4.03. The changes in law made by this Act in  
+| repealing the punishments for existing criminal offenses apply only  
+| to an offense committed on or after the effective date of this Act.  
+| An offense committed before the effective date of this Act is  
+| governed by the law in effect on the date the offense was committed,  
+| and the former law is continued in effect for that purpose. For  
+| purposes of this section, an offense was committed before the  
+| effective date of this Act if any element of the offense occurred  
+| before that date.  
+|  SECTION 4.04. This Act takes effect September 1, 2019.
+

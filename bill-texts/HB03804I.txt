@@ -1,0 +1,79 @@
+| 86R14124 MEW-D  
+---|---  
+|  By: Hinojosa | H.B. No. 3804  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an annual cost-of-living adjustment for school district  
+| employees and an annual adjustment to the basic allotment under the  
+| public school finance system to reflect inflation.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter A, Chapter 22, Education Code, is  
+| amended by adding Section 22.012 to read as follows:  
+|  _Sec._ ___22.012._ _____COST-OF-LIVING ADJUSTMENT._ ___(a)_ ___Each school_  
+| _year, the commissioner shall determine a cost-of-living adjustment_  
+| _based on the Consumer Price Index for All Urban Consumers published_  
+| _by the Bureau of Labor Statistics of the United States Department of_  
+| _Labor for the salary or wages paid to a school district employee_  
+| _based on any change in the average cost of living since the_  
+| _preceding school year._  
+|  _(b)_ _____From funds available to the state as a result of_  
+| _attendance credits purchased under Subchapter D, Chapter 41, the_  
+| _commissioner shall provide funding to each school district to_  
+| _provide the cost-of-living adjustment determined under Subsection_  
+| _(a) to each district employee._  
+|  _(c)_ _____The cost-of-living adjustment provided under Subsection_  
+| _(b) is in addition to the salary or wages that the district would_  
+| _otherwise pay the employee during the school year._  
+|  SECTION 2. Subchapter A, Chapter 41, Education Code, is  
+| amended by adding Section 41.0012 to read as follows:  
+|  _Sec._ ___41.0012._ _____EXCLUSION OF CERTAIN REVENUE._  
+| _Notwithstanding Section 41.001(3), in making any determination_  
+| _necessary for purposes of this chapter, the commissioner shall_  
+| _exclude the portion of the basic allotment under Section 42.101_  
+| _that is funded using revenue available to the state as a result of_  
+| _attendance credits purchased under Subchapter D._  
+|  SECTION 3. Section 41.094(b), Education Code, is amended to  
+| read as follows:  
+|  (b) Receipts shall be deposited in the state treasury and  
+| may be used only _:_  
+|  _(1)_ _____to increase the basic allotment as provided by_  
+| _Section 42.101(a-3); and_  
+|  _(2)_ _____to provide a cost-of-living adjustment under_  
+| _Section 22.012_ [ ~~for foundation school program purposes~~ ].  
+|  SECTION 4. Section 42.101, Education Code, is amended by  
+| amending Subsection (a) and adding Subsections (a-3) and (a-4) to  
+| read as follows:  
+|  (a) _Subject to adjustment under Subsection (a-3), for_ [ ~~For~~ ]  
+| each student in average daily attendance, not including the time  
+| students spend each day in special education programs in an  
+| instructional arrangement other than mainstream or career and  
+| technology education programs, for which an additional allotment is  
+| made under Subchapter C, a district is entitled to an allotment  
+| equal to the lesser of $4,765 or the amount that results from the  
+| following formula:  
+| A = $4,765 X (DCR/MCR)  
+| where:  
+|  "A" is the allotment to which a district is entitled;  
+|  "DCR" is the district's compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by the maintenance and operations tax  
+| rate adopted by the district for the 2005 tax year; and  
+|  "MCR" is the state maximum compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by $1.50.  
+|  _(a-3)_ _____Beginning with the 2019-2020 school year, the basic_  
+| _allotment provided to a district under Subsection (a) or (b) is_  
+| _adjusted annually to increase the allotment by the amount that_  
+| _results from applying the inflation rate, as determined by the_  
+| _comptroller on the basis of changes in the Consumer Price Index for_  
+| _All Urban Consumers published by the Bureau of Labor Statistics of_  
+| _the United States Department of Labor, to the allotment for the_  
+| _preceding school year._  
+|  _(a-4)_ _____The commissioner shall provide the adjustment to the_  
+| _basic allotment under Subsection (a-3) using funds available to the_  
+| _state as a result of attendance credits purchased under Subchapter_  
+| _D, Chapter 41, and, if necessary, funds deposited to the foundation_  
+| _school fund under Sections 201.404 and 202.353, Tax Code._  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

@@ -1,0 +1,104 @@
+| 86R13128 SRS-D  
+---|---  
+|  By: Romero, Jr. | H.B. No. 3313  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to information provided on an application for a ballot to  
+| be voted by mail.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 84.002(a), Election Code, is amended to  
+| read as follows:  
+|  (a) An early voting ballot application must include:  
+|  (1) the applicant's name and the address at which the  
+| applicant is registered to vote;  
+|  (2) for an application for a ballot to be voted by mail  
+| on the ground of absence from the county of residence, the address  
+| outside the applicant's county of residence to which the ballot is  
+| to be mailed;  
+|  (3) for an application for a ballot to be voted by mail  
+| on the ground of age or disability, the address of the hospital,  
+| nursing home or other long-term care facility, or retirement  
+| center, or of a person related to the applicant within the second  
+| degree by affinity or the third degree by consanguinity, as  
+| determined under Chapter 573, Government Code, if the applicant is  
+| living at that address and that address is different from the  
+| address at which the applicant is registered to vote;  
+|  (4) for an application for a ballot to be voted by mail  
+| on the ground of confinement in jail, the address of the jail or of a  
+| person related to the applicant within the degree described by  
+| Subdivision (3);  
+|  (5) for an application for a ballot to be voted by mail  
+| on any ground, an indication of each election for which the  
+| applicant is applying for a ballot; [ ~~and~~ ]  
+|  (6) an indication of the ground of eligibility for  
+| early voting _;_  
+|  _(7)_ _____the month, day, and year of the applicant's birth;_  
+| _and_  
+|  _(8) the following information:_  
+|  _(A)_ _____the applicant's Texas driver's license number_  
+| _or the number of a personal identification card issued by the_  
+| _Department of Public Safety;_  
+|  _(B)_ _____if the applicant has not been issued a number_  
+| _described by Paragraph (A), the last four digits of the applicant's_  
+| _social security number; or_  
+|  _(C)_ _____a statement by the applicant that the_  
+| _applicant has not been issued a number described by Paragraph (A) or_  
+| _(B)_.  
+|  SECTION 2. Section 84.011(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The officially prescribed application form for an early  
+| voting ballot must include:  
+|  (1) immediately preceding the signature space the  
+| statement: "I certify that the information given in this  
+| application is true, and I understand that giving false information  
+| in this application is a crime.";  
+|  (2) a statement informing the applicant of the  
+| offenses prescribed by Sections 84.003 and 84.004;  
+|  (3) spaces for entering an applicant's voter  
+| registration number and county election precinct of registration,  
+| with a statement informing the applicant that failure to furnish  
+| that information does not invalidate the application; [ ~~and~~ ]  
+|  (4) on an application for a ballot to be voted by mail:  
+|  (A) a space for an applicant applying on the  
+| ground of absence from the county of residence to indicate the date  
+| on or after which the applicant can receive mail at the address  
+| outside the county;  
+|  (B) a space for indicating the fact that an  
+| applicant whose application is signed by a witness cannot make the  
+| applicant's mark and a space for indicating the relationship or  
+| lack of relationship of the witness to the applicant;  
+|  (C) a space for entering an applicant's telephone  
+| number, with a statement informing the applicant that failure to  
+| furnish that information does not invalidate the application;  
+|  (D) a space or box for an applicant applying on  
+| the ground of age or disability to indicate that the address to  
+| which the ballot is to be mailed is the address of a facility or  
+| relative described by Section 84.002(a)(3), if applicable;  
+|  (E) a space or box for an applicant applying on  
+| the ground of confinement in jail to indicate that the address to  
+| which the ballot is to be mailed is the address of a relative  
+| described by Section 84.002(a)(4), if applicable;  
+|  (F) a space for an applicant applying on the  
+| ground of age or disability to indicate if the application is an  
+| application under Section 86.0015;  
+|  (G) spaces for entering the signature, printed  
+| name, and residence address of any person assisting the applicant;  
+|  (H) a statement informing the applicant of the  
+| condition prescribed by Section 81.005; and  
+|  (I) a statement informing the applicant of the  
+| requirement prescribed by Section 86.003(c) _;_  
+|  _(5)_ _____a space for providing the month, day, and year of_  
+| _the applicant's birth; and_  
+|  _(6)_ _____a space or box for an applicant to provide the_  
+| _following information:_  
+|  _(A)_ _____the applicant's Texas driver's license number_  
+| _or the number of a personal identification card issued by the_  
+| _Department of Public Safety;_  
+|  _(B)_ _____the last four digits of the applicant's_  
+| _social security number; or_  
+|  _(C)_ _____a statement by the applicant that the_  
+| _applicant has not been issued a number described by Paragraph (A) or_  
+| _(B)_.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

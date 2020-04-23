@@ -1,0 +1,87 @@
+| 86R13476 KLA-D  
+---|---  
+|  By: Muñoz, Jr. | H.B. No. 2357  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to utilization reviews and care coordination under the  
+| Medicaid managed care program.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 533.00281, Government Code, is amended  
+| by adding Subsection (f) to read as follows:  
+|  _(f)_ _____Nothing in this section precludes the commission from_  
+| _conducting a utilization review for managed care organizations_  
+| _participating in another Medicaid managed care program or with_  
+| _respect to other service types within a Medicaid managed care_  
+| _program._  
+|  SECTION 2. Subchapter A, Chapter 533, Government Code, is  
+| amended by adding Section 533.00294 to read as follows:  
+|  _Sec._ ___533.00294._ _____CARE COORDINATION BENEFITS._ ___(a)_ ___In this_  
+| _section:_  
+|  _(1)_ _____"Care coordination" means assisting recipients to_  
+| _develop a plan of care, including a service plan, that meets the_  
+| _recipient's needs and coordinating the provision of Medicaid_  
+| _benefits in a manner that is consistent with the plan of care. The_  
+| _term is synonymous with "case management," "service coordination,"_  
+| _and "service management."_  
+|  _(2)_ _____"Medicaid managed care organization"_ ___means a_  
+| _managed care organization that contracts with the commission under_  
+| _this chapter to provide health care services to recipients._  
+|  _(b)_ _____The commission shall streamline and clarify the_  
+| _provision of care coordination benefits across Medicaid programs_  
+| _and services for recipients receiving benefits under a managed care_  
+| _delivery model. In streamlining and clarifying the provision of_  
+| _care coordination benefits, the commission shall, at a minimum,_  
+| _include requirements in Medicaid managed care contracts that are_  
+| _designed to:_  
+|  _(1)_ _____subject to Subsection (c), establish a process for_  
+| _determining and designating a single person as the primary person_  
+| _responsible for a recipient's care coordination;_  
+|  _(2)_ _____evaluate and eliminate duplicative services_  
+| _intended to achieve recipient care coordination, including care_  
+| _coordination or related benefits provided:_  
+|  _(A) by a Medicaid managed care organization;_  
+|  _(B) by a recipient's medical or health home;_  
+|  _(C)_ _____through a disease management program_  
+| _provided by a Medicaid managed care organization;_  
+|  _(D)_ _____by a provider of targeted case management and_  
+| _psychiatric rehabilitation services; or_  
+|  _(E)_ _____through a program of case management for_  
+| _high-risk pregnant women and high-risk children established under_  
+| _Section 22.0031, Human Resources Code;_  
+|  _(3)_ _____evaluate and, if the commission determines it_  
+| _appropriate, modify the capitation rate paid to Medicaid managed_  
+| _care organizations to account for the provision of care_  
+| _coordination benefits by a person not affiliated with the_  
+| _organization; and_  
+|  _(4)_ _____establish and use a consistent set of terms for_  
+| _care coordination provided under a managed care delivery model._  
+|  _(c)_ _____In establishing a process under Subsection (b)(1), the_  
+| _commission shall ensure that:_  
+|  _(1)_ _____for a recipient who receives targeted case_  
+| _management and psychiatric rehabilitation services through a local_  
+| _mental health authority, the default entity to act as the primary_  
+| _entity responsible for the recipient's care coordination under_  
+| _Subsection (b)(1) is the local mental health authority;_  
+|  _(2)_ _____for a recipient who receives targeted case_  
+| _management and psychiatric rehabilitation services through a_  
+| _Medicaid managed care organization network provider, the default_  
+| _person to act as the primary person responsible for the recipient's_  
+| _care coordination under Subsection (b)(1) is the network provider;_  
+| _and_  
+|  _(3)_ _____for recipients other than those described by_  
+| _Subdivision (1) or (2), the process includes an evaluation designed_  
+| _to identify the provider that would best and most cost-effectively_  
+| _meet the care coordination needs of a recipient._  
+|  SECTION 3. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and may delay implementing that provision until the  
+| waiver or authorization is granted.  
+|  SECTION 4. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

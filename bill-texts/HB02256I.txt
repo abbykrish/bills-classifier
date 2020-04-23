@@ -1,0 +1,80 @@
+| 86R6322 SMT-F  
+---|---  
+|  By: Sanford | H.B. No. 2256  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to procedures for tax auditing and determining amounts of  
+| overpayments of gas production taxes.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 201.001, Tax Code, is amended by adding  
+| Subdivision (7-a) to read as follows:  
+|  _(7-a)_ _____"Selected marketing cost sampling" means the_  
+| _use of a sample of marketing transactions to determine the_  
+| _percentage of gross receipts attributable to marketing costs._  
+|  SECTION 2. Subchapter E, Chapter 201, Tax Code, is amended  
+| by adding Section 201.207 to read as follows:  
+|  _Sec._ ___201.207._ _____DETERMINATION OF OVERPAID AMOUNTS._ ___(a) This_  
+| _section applies to the tax paid under this chapter by a person who_  
+| _filed a report under Section 201.203 or 201.2035 and remitted tax in_  
+| _error to this state._  
+|  _(b)_ _____A person to whom this section applies may compute the_  
+| _amount of overpayment by use of selected marketing cost sampling._  
+| _The sampling method used must comply with generally accepted_  
+| _sampling methods described by Statement on Auditing Standards No._  
+| _39, "Audit Sampling,"_ ___and be approved by the comptroller._  
+|  _(c)_ _____The person may obtain reimbursement for amounts_  
+| _determined to have been overpaid by taking a credit on one or more_  
+| _reports filed under Section 201.203 or 201.2035 or by filing a claim_  
+| _for refund with the comptroller within the limitation period_  
+| _specified by Subchapter D, Chapter 111._  
+|  _(d)_ _____The person must record the method by which the_  
+| _computation is performed and must make available on request by the_  
+| _comptroller the records on which the computation is based._  
+|  _(e)_ _____The comptroller may adopt rules specifying additional_  
+| _procedures that must be followed in connection with claiming a_  
+| _credit under this section._  
+|  SECTION 3. Subchapter G, Chapter 201, Tax Code, is amended  
+| by adding Section 201.3021 to read as follows:  
+|  _Sec._ ___201.3021._ _____MANAGED AUDITS._ ___(a) In this section,_  
+| _"managed audit" means a review and analysis of invoices, checks,_  
+| _accounting records, or other documents or information conducted by_  
+| _a taxpayer to determine a taxpayer's liability for tax under this_  
+| _chapter._  
+|  _(b)_ _____The comptroller may, in a written agreement, authorize a_  
+| _taxpayer to conduct a managed audit under this section. The_  
+| _agreement must:_  
+|  _(1)_ _____be signed by an authorized representative of the_  
+| _comptroller and the taxpayer; and_  
+|  _(2)_ _____specify the period to be audited and the procedure_  
+| _to be followed._  
+|  _(c)_ _____The decision to authorize or not authorize a managed_  
+| _audit rests solely with the comptroller._  
+|  _(d)_ _____The comptroller may examine records and perform reviews_  
+| _that the comptroller determines are necessary before the audit is_  
+| _finalized to verify the results of the audit._  
+|  _(e)_ _____Unless the audit or information reviewed by the_  
+| _comptroller under Subsection (d) discloses fraud or wilful evasion_  
+| _of the tax, the comptroller may not assess a penalty and may waive_  
+| _all or part of the interest that would otherwise accrue on any_  
+| _amount identified to be due in a managed audit. This subsection does_  
+| _not apply to any amount collected by the taxpayer that was a tax or_  
+| _represented to be a tax but that was not remitted to this state._  
+|  _(f)_ _____Except as provided by Section 111.104(f), the taxpayer_  
+| _is entitled to a refund of any tax overpayment disclosed by a_  
+| _managed audit under this section._  
+|  _(g)_ _____The comptroller may authorize the use of selected_  
+| _marketing cost sampling in a managed audit under this section if:_  
+|  _(1)_ _____the comptroller approves the selection of_  
+| _marketing transactions to be used in the sample; and_  
+|  _(2)_ _____the sampling method complies with generally_  
+| _accepted sampling methods described by Statement on Auditing_  
+| _Standards No._ ___39, "Audit Sampling."_  
+|  SECTION 4. The change in law made by this Act does not  
+| affect tax liability accruing before the effective date of this  
+| Act. That liability continues in effect as if this Act had not been  
+| enacted, and the former law is continued in effect for the  
+| collection of taxes due and for civil and criminal enforcement of  
+| the liability for those taxes.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

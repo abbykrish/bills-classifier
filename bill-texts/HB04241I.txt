@@ -1,0 +1,132 @@
+| 86R14148 JXC-F  
+---|---  
+|  By: Wray | H.B. No. 4241  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to providing services for or acquiring certain water  
+| utilities and establishing related rates.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 13.043, Water Code, is amended by adding  
+| Subsection (b-4) to read as follows:  
+|  _(b-4)_ _____Notwithstanding Subsection (b), ratepayers described_  
+| _by that subsection may not appeal to the utility commission the_  
+| _decision of the governing body of the entity affecting their water,_  
+| _drainage, or sewer rates if the decision relates to a rate charged_  
+| _to recover the costs associated with the acquisition of a_  
+| _nonfunctioning system, as defined by Section 13.4134._  
+|  SECTION 2. Section 13.046, Water Code, is transferred to  
+| Subchapter K, Chapter 13, Water Code, redesignated as Section  
+| 13.4134, and amended to read as follows:  
+|  Sec. _13.4134_ [ ~~13.046~~ ]. [ ~~TEMPORARY~~ ] RATES FOR SERVICES  
+| PROVIDED FOR NONFUNCTIONING SYSTEM; SANCTIONS FOR NONCOMPLIANCE.  
+| (a) _In this section,_ ___"nonfunctioning system" means a system that is_  
+| _operating as a retail public utility and:_  
+|  _(1)_ _____does not have a required certificate of_  
+| _convenience and necessity;_  
+|  _(2)_ _____is under the supervision of the utility commission_  
+| _in the manner provided by Section 13.4131; or_  
+|  _(3)_ _____is under the supervision of a receiver or_  
+| _temporary manager or has been referred for the appointment of a_  
+| _temporary manager or receiver in the manner provided by Section_  
+| _13.412 or 13.4132._  
+|  _(b)_ The utility commission by rule shall establish a  
+| procedure that allows a retail public utility that takes over the  
+| provision of services for a nonfunctioning _system or acquires a_  
+| _nonfunctioning system_ [ ~~retail water or sewer utility service~~  
+|  ~~provider~~ ] to charge a reasonable rate for the services provided to  
+| the customers of the nonfunctioning system and to bill the  
+| customers for the services at that rate immediately to recover  
+| [ ~~service~~ ] costs _described by Subsection (c)_.  
+|  _(c)_ [ ~~(b)~~ ] The rules must provide a streamlined process  
+| that the retail public utility that takes over _the provision of_  
+| _services for or acquires_ the nonfunctioning system may use to apply  
+| to the utility commission for a ruling on the reasonableness of the  
+| rates the utility is charging under Subsection _(b)_ [ ~~(a)~~ ]. The  
+| process must allow for adequate consideration of costs for  
+| interconnection or other costs incurred in making services  
+| available _or during the acquisition_ and of the costs that may  
+| necessarily be incurred to bring the nonfunctioning system into  
+| compliance with utility commission and commission rules.  
+|  _(d)_ _____A rate process under this section is an uncontested_  
+| _matter and is not a rate case. Sections 13.187, 13.1871, and 13.1872_  
+| _do not apply to a rate process under this section. However, the_  
+| _utility commission shall hold a public meeting to provide_  
+| _information on the rate process:_  
+|  _(1)_ _____on the request of a member of the legislature who_  
+| _represents the area formerly served by the nonfunctioning system;_  
+| _or_  
+|  _(2)_ _____if the utility commission determines that there is_  
+| _substantial public interest in the matter._  
+|  _(e)_ [ ~~(c)~~ ] The utility commission _and the commission_ shall  
+| provide a reasonable period for the retail public utility that  
+| takes over the nonfunctioning system to bring the nonfunctioning  
+| system into compliance with utility commission and commission rules  
+| during which the utility commission or the commission may not  
+| impose a penalty for any deficiency in the system that is present at  
+| the time the utility takes over the nonfunctioning system. The  
+| utility commission _and the commission_ must consult with the utility  
+| before determining the period and may grant an extension of the  
+| period for good cause.  
+|  _(f)_ _____During the period described by Subsection (e), the_  
+| _retail public utility that provides services for or acquires the_  
+| _nonfunctioning system shall report to the utility commission, in_  
+| _the manner and frequency specified by the utility commission, the_  
+| _retail public utility's progress in bringing the nonfunctioning_  
+| _system into compliance with the utility commission's financial,_  
+| _managerial, and technical standards._  
+|  SECTION 3. Section 15.971, Water Code, is amended by adding  
+| Subdivision (3-a) to read as follows:  
+|  _(3-a)_ _____"Nonfunctioning system" has the meaning_  
+| _assigned by Section 13.4134._  
+|  SECTION 4. Section 15.973(a), Water Code, is amended to  
+| read as follows:  
+|  (a) The water infrastructure fund is a special fund in the  
+| state treasury to be administered by the board under this  
+| subchapter and rules adopted by the board under this subchapter.  
+| Money in the fund may be used to pay _:_  
+|  _(1)_ for the implementation of water projects  
+| recommended through the state and regional water planning processes  
+| under Sections 16.051 and 16.053 _; and_  
+|  _(2)_ _____costs related to the acquisition of a_  
+| _nonfunctioning system by a retail public utility that will take_  
+| _over the provision of services for the system_.  
+|  SECTION 5. The heading to Section 15.974, Water Code, is  
+| amended to read as follows:  
+|  Sec. 15.974. USE OF WATER INFRASTRUCTURE FUND _FOR PROJECTS_.  
+|  SECTION 6. Subchapter Q, Chapter 15, Water Code, is amended  
+| by adding Section 15.9741 to read as follows:  
+|  _Sec._ ___15.9741._ _____USE OF WATER INFRASTRUCTURE FUND FOR_  
+| _ACQUISITION OF NONFUNCTIONING SYSTEMS._ _____The board may use the fund_  
+| _in accordance with board rules to provide a grant, low-interest_  
+| _loan, or zero-interest loan to a retail public utility to pay for:_  
+|  _(1)_ _____an interconnection between the retail public_  
+| _utility and a nonfunctioning system; and_  
+|  _(2)_ _____costs associated with bringing the nonfunctioning_  
+| _system into compliance with all applicable financial, managerial,_  
+| _and technical standards._  
+|  SECTION 7. Section 15.975(a), Water Code, is amended to  
+| read as follows:  
+|  (a) On review and recommendation by the executive  
+| administrator, the board by resolution may approve an application  
+| _only_ if the board finds that[ ~~:~~  
+|  [ ~~(1)~~ ] the application and the assistance applied for  
+| meet the requirements of this subchapter and board rules _._ ___For an_  
+| _application related to a project, the board must also find that:_  
+|  _(1)_ [ ~~;~~  
+|  [ ~~(2)~~ ] the revenue or taxes, or both the revenue and  
+| taxes, pledged by the applicant will be sufficient to meet all the  
+| obligations assumed by the political subdivision _for the project_ ;  
+| and  
+|  _(2)_ [ ~~(3)~~ ] the project will meet water needs in a  
+| manner consistent with the state and regional water plans as  
+| required by Section 16.053(j), unless otherwise specified by an act  
+| of the legislature.  
+|  SECTION 8. Section 15.976, Water Code, is amended to read as  
+| follows:  
+|  Sec. 15.976. APPLICABLE LAW. Subchapter E, Chapter 17,  
+| applies to financial assistance made available from the fund _for a_  
+| _project_ , except that the board may also execute contracts as  
+| necessary to evidence grant agreements.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

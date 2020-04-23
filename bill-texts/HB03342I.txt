@@ -1,0 +1,280 @@
+| 86R4872 LED-F  
+---|---  
+|  By: Sheffield | H.B. No. 3342  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the creation and operation of a health care quality  
+| provider participation program; authorizing an administrative  
+| penalty.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 242, Health and Safety Code, is amended  
+| by adding Subchapter P to read as follows:  
+| _SUBCHAPTER P. QUALITY PROVIDER PARTICIPATION PROGRAM_  
+|  _Sec._ ___242.701._ _____PURPOSE. The purpose of this subchapter is to_  
+| _authorize the commission to administer a long-term care quality_  
+| _provider participation program that provides additional_  
+| _compensation to nursing facilities that meet quality requirements_  
+| _and to increase Medicaid reimbursement rates by collecting payments_  
+| _from certain nursing facilities._ ___The payments must be used to pay_  
+| _the nonfederal share of the quality provider participation program_  
+| _and for other purposes authorized by this subchapter._  
+|  _Sec._ ___242.702._ _____DEFINITION._ ___In this subchapter,_  
+| _"non-Medicare resident day"_ ___means a day on which the primary payer_  
+| _for a nursing facility resident is not Medicare Part A or a Medicare_  
+| _Advantage or special needs plan._  
+|  _Sec._ ___242.703._ _____APPLICABILITY._ ___This subchapter does not_  
+| _apply to:_  
+|  _(1) a state-owned veterans nursing facility;_  
+|  _(2)_ _____a facility that provides on a single campus a_  
+| _combination of services, which may include independent living_  
+| _services, licensed assisted living services, or licensed nursing_  
+| _facility care services, and that either:_  
+|  _(A)_ _____holds a certificate of authority to operate a_  
+| _continuing care retirement community under Chapter 246; or_  
+|  _(B) had during the previous 12 months:_  
+|  _(i)_ _____a combined number of non-Medicare_  
+| _resident days of service provided to independent living and_  
+| _assisted living residents, excluding services provided to persons_  
+| _occupying facility beds in a licensed nursing facility, that_  
+| _exceeded the number of non-Medicare resident days of service_  
+| _provided to nursing facility residents; and_  
+|  _(ii)_ _____on a contiguous campus of a facility, a_  
+| _minimum ratio of two licensed independent or assisted living beds_  
+| _for each one nursing facility bed; or_  
+|  _(3)_ _____a nonprofit corporation governed by Chapter 22,_  
+| _Business Organizations Code._  
+|  _Sec._ ___242.704._ _____CALCULATION OF PAYMENTS. (a)_ ___Each nursing_  
+| _facility to which this subchapter applies shall pay a quality_  
+| _provider participation payment._ ___The amount of the payment may not_  
+| _be uniform to satisfy the redistributive requirements of 42 C.F.R._  
+| _Section 433.68(e)(2)(i)._  
+|  _(b)_ _____The commission annually shall calculate the quality_  
+| _provider participation payment._ ___The payment must be set in_  
+| _accordance with the maximum rate allowed under 42 C.F.R. Section_  
+| _433.68(f)(3)(i)._  
+|  _(c)_ _____If, during the course of the state fiscal year, the_  
+| _commission determines that the total amount of quality provider_  
+| _participation payment revenue differs significantly from the_  
+| _amount previously estimated, the commission may recalculate and_  
+| _prospectively modify the payment amount to reflect the_  
+| _recalculation._  
+|  _(d)_ _____A nursing facility may not list the quality provider_  
+| _participation payment as a separate charge on a resident's billing_  
+| _statement or otherwise directly or indirectly attempt to charge the_  
+| _payment to a resident._  
+|  _Sec._ ___242.705._ _____RESIDENT DAYS. For each calendar day, a_  
+| _nursing facility shall determine the number of non-Medicare_  
+| _resident days by adding the number of non-Medicare residents_  
+| _occupying a bed in the nursing facility immediately before midnight_  
+| _of that day plus the number of residents admitted that day, less the_  
+| _number of residents discharged that day, except a resident is_  
+| _included in the count under this section if:_  
+|  _(1)_ _____the resident is admitted and discharged on the_  
+| _same day; or_  
+|  _(2)_ _____the resident is discharged that day because of the_  
+| _resident's death._  
+|  _Sec._ ___242.706._ _____COLLECTION AND REPORTING. (a) The_  
+| _commission shall impose and collect the quality provider_  
+| _participation payment._  
+|  _(b)_ _____Not later than the 25th day after the last day of a_  
+| _month, each nursing facility shall:_  
+|  _(1)_ _____file with the commission a report stating the_  
+| _total non-Medicare resident days for the month; and_  
+|  _(2) pay the quality provider participation payment._  
+|  _Sec._ ___242.707._ _____RULES; ADMINISTRATIVE PENALTY. (a) The_  
+| _executive commissioner shall adopt rules to administer this_  
+| _subchapter, including rules related to imposing and collecting the_  
+| _quality provider participation payment._  
+|  _(b)_ _____Notwithstanding Section 242.066, an administrative_  
+| _penalty assessed under that section for a violation of this_  
+| _subchapter may not exceed the greater of:_  
+|  _(1)_ _____one-half of the amount of the nursing facility's_  
+| _outstanding quality provider participation payment; or_  
+|  _(2) $20,000._  
+|  _(c)_ _____An administrative penalty assessed for a violation of_  
+| _this subchapter is in addition to the nursing facility's_  
+| _outstanding quality provider participation payment._  
+|  _(d)_ _____A facility described by Section 242.703 is not subject_  
+| _to an administrative penalty under this subchapter._  
+|  _Sec._ ___242.708._ _____QUALITY PROVIDER PARTICIPATION PROGRAM TRUST_  
+| _FUND. (a) The quality provider participation program trust fund is_  
+| _established as a trust fund to be held by the comptroller outside of_  
+| _the state treasury and administered by the commission as trustee._  
+| _Interest and income from the assets of the trust fund shall be_  
+| _credited to and deposited in the trust fund._ ___The commission may use_  
+| _money in the fund only as provided by Section 242.709._  
+|  _(b)_ _____The commission shall remit the quality provider_  
+| _participation payment collected under this subchapter to the_  
+| _comptroller for deposit in the trust fund._  
+|  _Sec._ ___242.709._ _____REIMBURSEMENT OF FACILITIES. (a) The_  
+| _commission shall use money in the quality provider participation_  
+| _program trust fund, along with any corresponding federal matching_  
+| _funds, only for the following purposes:_  
+|  _(1)_ _____paying any reasonable and necessary commission_  
+| _cost to develop and administer systems for managing the quality_  
+| _provider participation payment;_  
+|  _(2)_ _____reimbursing the Medicaid share of the payment as_  
+| _an allowable cost in the Medicaid daily rate; and_  
+|  _(3)_ _____allocating the remainder to improve resident care_  
+| _and quality of life and to be distributed as follows:_  
+|  _(A)_ _____50 percent of the remainder must be_  
+| _distributed through increased reimbursement rates to nursing_  
+| _facilities that participate in the state Medicaid program and_  
+| _demonstrate historical expenditures for capital improvements,_  
+| _renovations, or other enhancements designed to create a more_  
+| _home-like environment, wages and benefits, or other direct care_  
+| _services; and_  
+|  _(B)_ _____50 percent of the remainder must be_  
+| _distributed to nursing facilities based on the following in order_  
+| _of importance:_  
+|  _(i)_ _____performance under the Centers for_  
+| _Medicare and Medicaid Services five-star quality rating system;_  
+|  _(ii)_ _____increases in direct care staffing and_  
+| _revenue enhancements program funding for participating facilities_  
+| _under Sections 32.028(g) and (i), Human Resources Code, to the_  
+| _maximum level achieved and allowed for those facilities on_  
+| _September 1, 2019; and_  
+|  _(iii)_ _____development and funding of additional_  
+| _quality payments for unique, long-term care needs that are not_  
+| _funded separately, including Alzheimer's disease, dementia,_  
+| _obesity, and other conditions or initiatives identified by the_  
+| _commission._  
+|  _(a-1)_ _____Notwithstanding Subsection (a)(3), before September_  
+| _1, 2020, the commission shall allocate 100 percent of the remainder_  
+| _of the money described by that subsection for distribution to_  
+| _nursing facilities that participate in the state Medicaid program._  
+|  _(a-2)_ _____The programs described by Subsection (a)(3) may not_  
+| _begin earlier than September 1, 2020._ ___This subsection and_  
+| _Subsection (a-1) expire September 1, 2023._  
+|  _(b)_ _____In consultation with the advisory committee established_  
+| _under Section 242.712, the commission shall devise a formula by_  
+| _which amounts received under this subchapter increase the_  
+| _reimbursement rates paid to nursing facilities under the state_  
+| _Medicaid program consistent with Subsection (a)(3) and with the_  
+| _goal of improving resident care and quality._ ___The commission, in_  
+| _consultation with the advisory committee, shall develop a weighted_  
+| _formula for distributing the money described by Subsection_  
+| _(a)(3)(B)._  
+|  _(c)_ _____The commission shall distribute unearned money for the_  
+| _programs described by Subsection (a)(3) to all nursing facilities_  
+| _that qualify for a distribution in proportion to the amount of the_  
+| _total earned money each qualifying nursing facility receives._  
+|  _(d)_ _____Money in the quality provider participation program_  
+| _trust fund may not be used to expand Medicaid eligibility under the_  
+| _Patient Protection and Affordable Care Act (Pub. L. No._ ___111-148) as_  
+| _amended by the Health Care and Education Reconciliation Act of 2010_  
+| _(Pub. L. No._ ___111-152)._  
+|  _Sec._ ___242.710._ _____INVALIDITY; FEDERAL FUNDS. If any provision_  
+| _of or procedure under this subchapter is held invalid by a final_  
+| _court order that is not subject to appeal, or if the commission_  
+| _determines that the imposition of the quality provider_  
+| _participation payment and the expenditure of amounts collected as_  
+| _prescribed by this subchapter will not entitle the state to receive_  
+| _federal matching funds under the Medicaid program or will be_  
+| _inconsistent with the objectives described by Section_  
+| _537.002(b)(7), Government Code, the commission shall:_  
+|  _(1) stop collection of the payment; and_  
+|  _(2)_ _____not later than the 30th day after the date_  
+| _collection is stopped, return to each nursing facility, in_  
+| _proportion to the total amount paid by each facility compared to the_  
+| _total amount paid by all facilities, any unspent money deposited to_  
+| _the credit of the quality provider participation program trust_  
+| _fund._  
+|  _Sec._ ___242.711._ _____AUTHORITY TO ACCOMPLISH PURPOSES OF_  
+| _SUBCHAPTER. (a) Subject to Subsection (b), the executive_  
+| _commissioner by rule may adopt a definition, a method of_  
+| _computation, or a rate that differs from those expressly provided_  
+| _by or expressly authorized by this subchapter to the extent the_  
+| _difference is necessary to accomplish the purposes of this_  
+| _subchapter._  
+|  _(b)_ _____The executive commissioner may not modify the_  
+| _applicability of this subchapter under Section 242.703._  
+|  _Sec._ ___242.712._ _____ADVISORY COMMITTEE. (a) The commission_  
+| _shall establish an advisory committee of interested persons to make_  
+| _recommendations to the commission before the adoption of a rule,_  
+| _policy, or procedure affecting persons regulated under this_  
+| _subchapter. The advisory committee has the purposes, powers, and_  
+| _duties prescribed by the commission._  
+|  _(b)_ _____Chapter 2110, Government Code, does not apply to the_  
+| _advisory committee._  
+|  _(c)_ _____The commission shall appoint to the advisory committee_  
+| _individuals who:_  
+|  _(1)_ _____are selected from a list provided by the executive_  
+| _commissioner;_  
+|  _(2)_ _____have knowledge about and interests in the work of_  
+| _the advisory committee; and_  
+|  _(3)_ _____represent a broad range of viewpoints on the work_  
+| _of the advisory committee._  
+|  _(d)_ _____The advisory committee must include a member of the_  
+| _public if the commission determines that is appropriate and_  
+| _beneficial._  
+|  _(e)_ _____A member of the advisory committee may not receive_  
+| _compensation for serving on the committee and may not be reimbursed_  
+| _for travel expenses incurred while conducting the business of the_  
+| _committee._  
+|  _(f)_ _____Meetings of the committee are subject to Chapter 551,_  
+| _Government Code._  
+|  _Sec._ ___242.713._ _____EXPIRATION. This subchapter expires August_  
+| _31, 2029._  
+|  SECTION 2. (a) Not later than January 1, 2020, the  
+| executive commissioner of the Health and Human Services Commission  
+| shall establish the advisory committee as required by Section  
+| 242.712, Health and Safety Code, as added by this Act.  
+|  (b) As soon as practicable after the effective date of this  
+| Act, the executive commissioner of the Health and Human Services  
+| Commission shall:  
+|  (1) in consultation with the advisory committee  
+| established by Section 242.712, Health and Safety Code, as added by  
+| this Act, adopt the rules necessary to implement Subchapter P,  
+| Chapter 242, Health and Safety Code, as added by this Act; and  
+|  (2) notwithstanding Section 242.704, Health and  
+| Safety Code, as added by this Act, establish the amount of the  
+| initial payment imposed under Subchapter P, Chapter 242, Health and  
+| Safety Code, as added by this Act, based on available revenue and  
+| resident day information.  
+|  (c) The amount of the initial payment established under  
+| Subsection (b) of this section remains in effect until the Health  
+| and Human Services Commission obtains the information necessary to  
+| set the amount of the payment under Section 242.704, Health and  
+| Safety Code, as added by this Act.  
+|  SECTION 3. If before implementing any provision of this Act  
+| a state agency determines that a waiver or authorization from a  
+| federal agency is necessary for implementation of that provision,  
+| the agency affected by the provision shall request the waiver or  
+| authorization and shall delay implementing that provision until the  
+| waiver or authorization is granted. The agency shall begin  
+| implementing the provision on the date the waiver or authorization  
+| is granted.  
+|  SECTION 4. Notwithstanding any other law, a payment may not  
+| be imposed under Section 242.704, Health and Safety Code, as added  
+| by this Act, or collected under Section 242.706, Health and Safety  
+| Code, as added by this Act, until an amendment to the state Medicaid  
+| plan that increases the rates paid to long-term care facilities  
+| licensed under Chapter 242, Health and Safety Code, for providing  
+| services under the state Medicaid program is approved by the  
+| Centers for Medicare and Medicaid Services or another applicable  
+| federal government agency.  
+|  SECTION 5. The Health and Human Services Commission shall  
+| retroactively compensate long-term care facilities licensed under  
+| Chapter 242, Health and Safety Code, at the increased rate for  
+| services provided under the state Medicaid program:  
+|  (1) beginning on the date the state Medicaid plan  
+| amendment is approved by the Centers for Medicare and Medicaid  
+| Services or another applicable federal government agency; and  
+|  (2) only for the period for which the payment has been  
+| imposed and collected.  
+|  SECTION 6. The Health and Human Services Commission shall  
+| discontinue the payment imposed under Subchapter P, Chapter 242,  
+| Health and Safety Code, as added by this Act, if the commission  
+| reduces Medicaid reimbursement rates below the sum of:  
+|  (1) the rates in effect on September 1, 2019; and  
+|  (2) the rates that increased due to funds from the  
+| quality provider participation program trust fund and federal  
+| matching funds.  
+|  SECTION 7. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

@@ -1,0 +1,92 @@
+| 86R1101 ADM-D  
+---|---  
+|  By: Romero, Jr. | H.B. No. 73  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to assistance provided to a voter.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 63.0013(e), Election Code, as added by  
+| Chapter 980 (H.B. 658), Acts of the 85th Legislature, Regular  
+| Session, 2017, is amended to read as follows:  
+|  (e) A person assisting a voter in accordance with Section  
+| _64.031_ [ ~~64.032(c)~~ ] may be accepted to vote concurrently with a  
+| person accepted under Subsection (b) of this section at the voter's  
+| request.  
+|  SECTION 2. Sections 64.031 and 64.032, Election Code, are  
+| amended to read as follows:  
+|  Sec. 64.031. ELIGIBILITY FOR ASSISTANCE. _(a) A voter who_  
+| _requires assistance to vote by reason of blindness, disability, or_  
+| _inability to read or write, or who requires an interpreter to_  
+| _comprehend the language in which the ballot is printed or to_  
+| _communicate with an election officer, may be given assistance by:_  
+|  _(1)_ _____a person of the voter's choice, other than the_  
+| _voter's employer, an agent of that employer, or an officer or agent_  
+| _of a labor union to which the voter belongs; or_  
+|  _(2)_ _____if the voter does not choose a person under_  
+| _Subdivision (1),_ [ ~~A voter is eligible to receive assistance in~~  
+|  ~~marking the ballot, as provided by this subchapter, if the voter~~  
+|  ~~cannot prepare the ballot because of:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~a physical disability that renders the voter~~  
+|  ~~unable to write or see; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~an inability to read the language in which the~~  
+|  ~~ballot is written.~~  
+|  [ ~~Sec.~~ ~~~~ ~~64.032.~~ ~~~~ ~~~~ ~~PERSONS PROVIDING ASSISTANCE. (a)
+Except as~~  
+|  ~~provided by Subsection (c), on a voter's request for assistance in~~  
+|  ~~marking the ballot,~~ ] two election officers [ ~~shall provide the~~  
+|  ~~assistance~~ ].  
+|  (b) If a voter is assisted by election officers in the  
+| general election for state and county officers, each officer must  
+| be aligned with a different political party unless there are not two  
+| or more election officers serving the polling place who are aligned  
+| with different parties.  
+|  (c) [ ~~On the voter's request, the voter may be assisted by~~  
+|  ~~any person selected by the voter other than the voter's employer, an~~  
+|  ~~agent of the voter's employer, or an officer or agent of a labor~~  
+|  ~~union to which the voter belongs.~~  
+|  [ ~~(d)~~ ] If assistance is provided by a person of the voter's  
+| choice _under Subsection (a)(1)_ , an election officer shall enter the  
+| person's name and address on the poll list beside the voter's name.  
+|  SECTION 3. Section 64.034, Election Code, is amended to  
+| read as follows:  
+|  Sec. 64.034. OATH. _(a) Except as provided by Subsection_  
+| _(b), a_ [ ~~A~~ ] person selected to provide assistance to a voter must  
+| take the following oath, administered by an election officer at the  
+| polling place, before providing assistance:  
+|  "I swear (or affirm) that I will not suggest, by word, sign,  
+| or gesture, how the voter should vote; I will confine my assistance  
+| to answering the voter's questions, to stating propositions on the  
+| ballot, and to naming candidates and, if listed, their political  
+| parties; I will prepare the voter's ballot as the voter directs; and  
+| I am not the voter's employer, an agent of the voter's employer, or  
+| an officer or agent of a labor union to which the voter belongs."  
+|  _(b)_ _____A person whose assistance to the voter consists only of_  
+| _serving as an interpreter must take the following oath administered_  
+| _by an election officer:_  
+|  _"I swear (or affirm) that, to the best of my ability, I will_  
+| _correctly interpret and translate each question, answer, or_  
+| _statement addressed either to the voter by any election officer or_  
+| _to an election officer by the voter."_  
+|  SECTION 4. Sections 64.036(b) and (c), Election Code, are  
+| amended to read as follows:  
+|  (b) A person commits an offense if the person knowingly  
+| assists a voter in violation of Section _64.031_ [ ~~64.032(c)~~ ].  
+|  (c) An election officer commits an offense if the officer  
+| knowingly permits a person to provide assistance:  
+|  (1) to a voter who is not eligible for assistance; or  
+|  (2) in violation of Section _64.031_ [ ~~64.032(c)~~ ].  
+|  SECTION 5. Section 86.010(a), Election Code, is amended to  
+| read as follows:  
+|  (a) A voter casting a ballot by mail who would be eligible  
+| under Section 64.031 to receive assistance at a polling place may  
+| select a person as provided by _that section_ [ ~~Section 64.032(c)~~ ] to  
+| assist the voter in preparing the ballot.  
+|  SECTION 6. Sections 61.032, 61.033, 61.034, and 61.035,  
+| Election Code, are repealed.  
+|  SECTION 7. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

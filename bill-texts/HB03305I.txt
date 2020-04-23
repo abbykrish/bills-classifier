@@ -1,0 +1,58 @@
+|  
+---|---  
+|  By: Smithee | H.B. No. 3305  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to personal information that may be omitted from certain  
+| property records and political reports and to other court security  
+| measures.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 254, Election Code, is  
+| amended by adding Section 254.0313 to read as follows:  
+|  _Sec._ ___254.0313._ _____OMISSION OF ADDRESS FOR JUDGE AND SPOUSE._ __  
+| _(a)_ ___In this section, "federal judge" and "state judge" have the_  
+| _meanings assigned by Section 13.0021._  
+|  _(b)_ _____On receiving notice from the Office of Court_  
+| _Administration of the Texas Judicial System of the judge's_  
+| _qualification for the judge's office or upon receipt of a written_  
+| _request from a federal judge, state judge or spouse of a federal or_  
+| _state judge, the commission shall remove or redact the residence_  
+| _address of a federal judge, a state judge, or the spouse of a_  
+| _federal or state judge before permitting a person to inspect a_  
+| _report filed under this chapter or making a report filed available_  
+| _on the Internet as required by Section 254.0401._  
+|  SECTION 2. Section 72.015, Government Code, is amended by  
+| adding Subsection (d) to read as follows:  
+|  _(d)_ _____The director of security and emergency preparedness_  
+| _shall annually submit to the legislature:_  
+|  _(1)_ _____a report on court security activities throughout_  
+| _the state supported by the judicial security division, including:_  
+|  _(A)_ _____the technical aspects of providing court_  
+| _security;_  
+|  _(B)_ _____court security training provided or required_  
+| _by the judicial security division;_  
+|  _(C)_ _____sufficiency of judicial security division_  
+| _resources to evaluate and monitor court security; and_  
+|  _(D)_ _____the adequacy of funding to maintain court_  
+| _security; and_  
+|  _(2) recommendations for:_  
+|  _(A)_ _____monitoring the use of state resources in_  
+| _providing court security;_  
+|  _(B) improving court security; and_  
+|  _(C)_ _____increasing the amount of state funds and_  
+| _other resources made available for court security._  
+|  SECTION 3. Section 11.008(j), Property Code, is amended to  
+| read as follows:  
+|  (j) On receipt of a written request from a federal judge,  
+| state judge as defined by Section 572.002, Government Code, or  
+| spouse of a federal or state judge, the county clerk shall omit or  
+| redact from _any documents_ ~~an instrument described by this section~~  
+| that ~~is~~  
+| _are_ available in an online database made public by the  
+| county clerk, or by a provider with which the county commissioners  
+| court contracts to provide the online database, the social security  
+| number, driver's license number, and residence address of the  
+| federal judge, state judge, or spouse of the federal or state judge.  
+|  SECTION 4. This Act takes effect September 1, 2019.
+

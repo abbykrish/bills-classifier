@@ -1,0 +1,368 @@
+| 86R9861 SCL-F  
+---|---  
+|  By: Cain | H.B. No. 1500  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to prohibiting abortions after detection of an unborn  
+| child's heartbeat and to requirements for performing or inducing an  
+| abortion; authorizing an administrative penalty; creating a  
+| criminal offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. This Act shall be known as the Texas Heartbeat  
+| Bill.  
+|  SECTION 2. Chapter 171, Health and Safety Code, is amended  
+| by adding Subchapter H to read as follows:  
+| _SUBCHAPTER H. DETECTION OF FETAL HEARTBEAT_  
+|  _Sec. 171.201. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Fetal heartbeat" means cardiac activity or the_  
+| _steady and repetitive rhythmic contraction of the fetal heart_  
+| _within the gestational sac._  
+|  _(2)_ _____"Gestational age" means the amount of time that_  
+| _has elapsed from the first day of a woman's last menstrual period._  
+|  _(3)_ _____"Gestational sac" means the structure comprising_  
+| _the extraembryonic membranes that envelop the unborn child and that_  
+| _is typically visible by ultrasound after the fourth week of_  
+| _pregnancy._  
+|  _(4)_ _____"Physician" means an individual licensed to_  
+| _practice medicine in this state, including a medical doctor and a_  
+| _doctor of osteopathic medicine._  
+|  _(5)_ _____"Pregnancy" means the human female reproductive_  
+| _condition that:_  
+|  _(A) begins with fertilization;_  
+|  _(B)_ _____occurs when the woman is carrying the_  
+| _developing human offspring; and_  
+|  _(C)_ _____is calculated from the first day of the_ __  
+| _woman's last menstrual period._  
+|  _(6)_ _____"Standard medical practice" means the degree of_  
+| _skill, care, and diligence that a physician of the same medical_  
+| _specialty would employ in similar circumstances._  
+|  _(7)_ _____"Unborn child" means an offspring of human beings_  
+| _from fertilization until birth._  
+|  _Sec._ ___171.202._ _____LEGISLATIVE FINDINGS. The legislature finds,_  
+| _according to contemporary medical research, that:_  
+|  _(1)_ _____as many as 30 percent of natural pregnancies end in_  
+| _spontaneous miscarriage;_  
+|  _(2)_ _____less than five percent of all natural pregnancies_  
+| _end in spontaneous miscarriage after detection of fetal cardiac_  
+| _activity;_  
+|  _(3)_ _____over 90 percent of in vitro pregnancies survive_  
+| _the first trimester if cardiac activity is detected in the_  
+| _gestational sac;_  
+|  _(4)_ _____nearly 90 percent of in vitro pregnancies do not_  
+| _survive the first trimester where cardiac activity is not detected_  
+| _in the gestational sac;_  
+|  _(5)_ _____fetal heartbeat, therefore, has become a key_  
+| _medical predictor that an unborn child will reach live birth;_  
+|  _(6)_ _____cardiac activity begins at a biologically_  
+| _identifiable moment in time, normally when the fetal heart is_  
+| _formed in the gestational sac;_  
+|  _(7)_ _____Texas has legitimate interests from the outset of_  
+| _a woman's pregnancy in protecting the health of the woman and the_  
+| _life of an unborn child who may be born; and_  
+|  _(8)_ _____to make an informed choice about whether to_  
+| _continue her pregnancy, the pregnant woman has a legitimate_  
+| _interest in knowing the likelihood of the unborn child surviving to_  
+| _full-term birth based on the presence of cardiac activity._  
+|  _Sec._ ___171.203._ _____DETERMINATION OF PRESENCE OF FETAL HEARTBEAT_  
+| _REQUIRED; RECORD. (a) Except as provided by Section 171.205, a_  
+| _physician may not intentionally perform or induce an abortion on a_  
+| _pregnant woman unless the physician has determined, in accordance_  
+| _with this section, whether the woman's unborn child has a_  
+| _detectable fetal heartbeat._  
+|  _(b)_ _____In making a determination under Subsection (a), the_  
+| _physician must use a test that is:_  
+|  _(1)_ _____consistent with the physician's good faith_  
+| _understanding of standard medical practice;_  
+|  _(2)_ _____consistent with rules adopted under this_  
+| _subchapter; and_  
+|  _(3)_ _____appropriate for the estimated gestational age of_  
+| _the unborn child and the condition of the pregnant woman and her_  
+| _pregnancy._  
+|  _(c)_ _____A physician making a determination under Subsection (a)_  
+| _shall record in the pregnant woman's medical record the estimated_  
+| _gestational age of the unborn child, the test used for detecting a_  
+| _fetal heartbeat, the date and time of the test, and the results of_  
+| _the test._  
+|  _(d)_ _____The executive commissioner may adopt rules specifying_  
+| _the appropriate tests to be used in determining the presence of a_  
+| _fetal heartbeat based on standard medical practice._  
+|  _Sec._ ___171.204._ _____ABORTION OF UNBORN CHILD WITH DETECTABLE_  
+| _FETAL HEARTBEAT PROHIBITED. (a) Except as provided by Section_  
+| _171.205, a physician may not intentionally perform or induce an_  
+| _abortion on a pregnant woman with the specific intent of causing or_  
+| _abetting the termination of the life of the woman's unborn child if_  
+| _the physician detected a fetal heartbeat for the unborn child under_  
+| _Section 171.203 or failed to perform a test to detect a fetal_  
+| _heartbeat._  
+|  _(b)_ _____A physician does not violate this section if the_  
+| _physician performed a test for a fetal heartbeat under Section_  
+| _171.203 and did not detect a fetal heartbeat._  
+|  _(c)_ _____This section does not affect the provisions of this_  
+| _chapter that restrict or regulate an abortion by a particular_  
+| _method or during a particular stage of pregnancy._  
+|  _Sec._ ___171.205._ _____EXCEPTION FOR MEDICAL EMERGENCY; RECORDS._  
+| _(a) This subchapter does not apply if a physician believes a_  
+| _medical emergency exists that prevents compliance with this_  
+| _subchapter._  
+|  _(b)_ _____A physician who performs or induces an abortion under_  
+| _circumstances described by Subsection (a) shall make written_  
+| _notations in the pregnant woman's medical record of:_  
+|  _(1)_ _____the physician's belief that a medical emergency_  
+| _necessitated the abortion; and_  
+|  _(2)_ _____the medical condition of the pregnant woman that_  
+| _prevented compliance with this subchapter._  
+|  _(c)_ _____A physician performing or inducing an abortion under_  
+| _this section shall maintain in the physician's practice records a_  
+| _copy of the notations made under Subsection (b) until the seventh_  
+| _anniversary of the date that the abortion is performed or induced._  
+|  _Sec._ ___171.206._ _____CONSTRUCTION OF SUBCHAPTER. (a) This_  
+| _subchapter does not create or recognize a right to abortion before a_  
+| _fetal heartbeat is detected._  
+|  _(b)_ _____This subchapter may not be construed to authorize the_  
+| _initiation of a cause of action against or the prosecution of a_  
+| _woman on whom an abortion is performed or induced or attempted to be_  
+| _performed or induced in violation of this subchapter._  
+|  _Sec._ ___171.207._ _____CRIMINAL OFFENSE. (a)_ ___A person commits an_  
+| _offense if the person violates this subchapter._  
+|  _(b) An offense under this section is a state jail felony._  
+|  _Sec._ ___171.208._ _____ADMINISTRATIVE PENALTY. The Texas Medical_  
+| _Board may take disciplinary action under Chapter 164, Occupations_  
+| _Code, or assess an administrative penalty under Subchapter A,_  
+| _Chapter 165, Occupations Code, against a person who violates this_  
+| _subchapter._  
+|  _Sec._ ___171.209._ _____WRONGFUL DEATH ACTION. (a) A woman on whom_  
+| _an abortion is performed or induced in violation of this subchapter_  
+| _may file a civil action for wrongful death under Section 71.002,_  
+| _Civil Practice and Remedies Code._  
+|  _(b)_ _____Notwithstanding Section 71.010, Civil Practice and_  
+| _Remedies Code, a woman who prevails in an action described by_  
+| _Subsection (a) may:_  
+|  _(1)_ _____elect damages in the amount of $10,000 or an amount_  
+| _determined by the trier of fact after the consideration of evidence_  
+| _and before final judgment; and_  
+|  _(2)_ _____recover court costs and reasonable attorney's_  
+| _fees._  
+|  _(c)_ _____If a physician prevails in an action described by_  
+| _Subsection (a) and the court finds that the pleading for the action_  
+| _violated Section 9.011, Civil Practice and Remedies Code, the court_  
+| _shall award reasonable attorney's fees to the physician._  
+|  SECTION 3. Subchapter A, Chapter 171, Health and Safety  
+| Code, is amended by adding Section 171.008 to read as follows:  
+|  _Sec._ ___171.008._ _____REQUIRED DOCUMENTATION. (a) If an abortion_  
+| _is performed or induced on a pregnant woman because of a medical_  
+| _emergency, the physician who performs or induces the abortion shall_  
+| _execute a written document that certifies the abortion is necessary_  
+| _due to a medical emergency and specifies the woman's medical_  
+| _condition requiring the abortion._  
+|  _(b) A physician shall:_  
+|  _(1)_ _____place the document described by Subsection (a) in_  
+| _the pregnant woman's medical record; and_  
+|  _(2)_ _____maintain a copy of the document described by_  
+| _Subsection (a) in the physician's practice records until the_  
+| _seventh anniversary of the date that the document is executed._  
+|  SECTION 4. Section 171.012, Health and Safety Code, is  
+| amended by amending Subsection (a) and adding Subsection (f) to  
+| read as follows:  
+|  (a) Consent to an abortion is voluntary and informed only  
+| if:  
+|  (1) the physician who is to perform the abortion  
+| informs the pregnant woman on whom the abortion is to be performed  
+| of:  
+|  (A) the physician's name;  
+|  (B) the particular medical risks associated with  
+| the particular abortion procedure to be employed, including, when  
+| medically accurate:  
+|  (i) the risks of infection and hemorrhage;  
+|  (ii) the potential danger to a subsequent  
+| pregnancy and of infertility; and  
+|  (iii) the possibility of increased risk of  
+| breast cancer following an induced abortion and the natural  
+| protective effect of a completed pregnancy in avoiding breast  
+| cancer;  
+|  (C) the probable gestational age of the unborn  
+| child at the time the abortion is to be performed; and  
+|  (D) the medical risks associated with carrying  
+| the child to term;  
+|  (2) the physician who is to perform the abortion or the  
+| physician's agent informs the pregnant woman that:  
+|  (A) medical assistance benefits may be available  
+| for prenatal care, childbirth, and neonatal care;  
+|  (B) the father is liable for assistance in the  
+| support of the child without regard to whether the father has  
+| offered to pay for the abortion; and  
+|  (C) public and private agencies provide  
+| pregnancy prevention counseling and medical referrals for  
+| obtaining pregnancy prevention medications or devices, including  
+| emergency contraception for victims of rape or incest;  
+|  (3) the physician who is to perform the abortion or the  
+| physician's agent:  
+|  (A) provides the pregnant woman with the printed  
+| materials described by Section 171.014; and  
+|  (B) informs the pregnant woman that those  
+| materials:  
+|  (i) have been provided by the _commission_  
+| [ ~~Department of State Health Services~~ ];  
+|  (ii) are accessible on an Internet website  
+| sponsored by the _commission_ [ ~~department~~ ];  
+|  (iii) describe the unborn child and list  
+| agencies that offer alternatives to abortion; and  
+|  (iv) include a list of agencies that offer  
+| sonogram services at no cost to the pregnant woman;  
+|  (4) before any sedative or anesthesia is administered  
+| to the pregnant woman and at least 24 hours before the abortion or  
+| at least two hours before the abortion if the pregnant woman waives  
+| this requirement by certifying that she currently lives 100 miles  
+| or more from the nearest abortion provider that is a facility  
+| licensed under Chapter 245 or a facility that performs more than 50  
+| abortions in any 12-month period:  
+|  (A) the physician who is to perform the abortion  
+| or an agent of the physician who is also a sonographer certified by  
+| a national registry of medical sonographers performs a sonogram on  
+| the pregnant woman on whom the abortion is to be performed;  
+|  (B) the physician who is to perform the abortion  
+| displays the sonogram images in a quality consistent with current  
+| medical practice in a manner that the pregnant woman may view them;  
+|  (C) the physician who is to perform the abortion  
+| provides, in a manner understandable to a layperson, a verbal  
+| explanation of the results of the sonogram images, including a  
+| medical description of the dimensions of the embryo or fetus, the  
+| presence of cardiac activity, and the presence of external members  
+| and internal organs; [ ~~and~~ ]  
+|  (D) the physician who is to perform the abortion  
+| or an agent of the physician who is also a sonographer certified by  
+| a national registry of medical sonographers makes audible the heart  
+| auscultation for the pregnant woman to hear, if present, in a  
+| quality consistent with current medical practice and provides, in a  
+| manner understandable to a layperson, a simultaneous verbal  
+| explanation of the heart auscultation; _and_  
+|  _(E)_ _____if a fetal heartbeat is detected under_  
+| _Section 171.203, the physician who is to perform the abortion_  
+| _informs the woman in writing of the statistical probability of_  
+| _bringing the unborn child to term:_  
+|  _(i)_ _____to the best of the physician's_  
+| _knowledge, based on the gestational age of the unborn child; or_  
+|  _(ii) as provided by commission rule;_  
+|  (5) before receiving a sonogram under Subdivision  
+| (4)(A) and before the abortion is performed and before any sedative  
+| or anesthesia is administered, the pregnant woman completes and  
+| certifies with her signature an election form that states as  
+| follows:  
+| "ABORTION AND SONOGRAM ELECTION  
+|  (1) THE INFORMATION AND PRINTED MATERIALS DESCRIBED BY  
+| SECTIONS 171.012(a)(1)-(3), TEXAS HEALTH AND SAFETY CODE, HAVE BEEN  
+| PROVIDED AND EXPLAINED TO ME.  
+|  (2) I UNDERSTAND THE NATURE AND CONSEQUENCES OF AN  
+| ABORTION.  
+|  (3) TEXAS LAW REQUIRES THAT I RECEIVE A SONOGRAM PRIOR  
+| TO RECEIVING AN ABORTION.  
+|  (4) I UNDERSTAND THAT I HAVE THE OPTION TO VIEW THE  
+| SONOGRAM IMAGES.  
+|  (5) I UNDERSTAND THAT I HAVE THE OPTION TO HEAR THE  
+| HEARTBEAT.  
+|  (6) I UNDERSTAND THAT I AM REQUIRED BY LAW TO HEAR AN  
+| EXPLANATION OF THE SONOGRAM IMAGES UNLESS I CERTIFY IN WRITING TO  
+| ONE OF THE FOLLOWING:  
+|  ___ I AM PREGNANT AS A RESULT OF A SEXUAL ASSAULT,  
+| INCEST, OR OTHER VIOLATION OF THE TEXAS PENAL CODE THAT HAS BEEN  
+| REPORTED TO LAW ENFORCEMENT AUTHORITIES OR THAT HAS NOT BEEN  
+| REPORTED BECAUSE I REASONABLY BELIEVE THAT DOING SO WOULD PUT ME AT  
+| RISK OF RETALIATION RESULTING IN SERIOUS BODILY INJURY.  
+|  ___ I AM A MINOR AND OBTAINING AN ABORTION IN ACCORDANCE  
+| WITH JUDICIAL BYPASS PROCEDURES UNDER CHAPTER 33, TEXAS FAMILY  
+| CODE.  
+|  ___ MY FETUS HAS AN IRREVERSIBLE MEDICAL CONDITION OR  
+| ABNORMALITY, AS IDENTIFIED BY RELIABLE DIAGNOSTIC PROCEDURES AND  
+| DOCUMENTED IN MY MEDICAL FILE.  
+|  (7) I AM MAKING THIS ELECTION OF MY OWN FREE WILL AND  
+| WITHOUT COERCION.  
+|  (8) FOR A WOMAN WHO LIVES 100 MILES OR MORE FROM THE  
+| NEAREST ABORTION PROVIDER THAT IS A FACILITY LICENSED UNDER CHAPTER  
+| 245 _, TEXAS HEALTH AND SAFETY CODE,_ OR A FACILITY THAT PERFORMS MORE  
+| THAN 50 ABORTIONS IN ANY 12-MONTH PERIOD ONLY:  
+|  I CERTIFY THAT, BECAUSE I CURRENTLY LIVE 100 MILES OR  
+| MORE FROM THE NEAREST ABORTION PROVIDER THAT IS A FACILITY LICENSED  
+| UNDER CHAPTER 245 OR A FACILITY THAT PERFORMS MORE THAN 50 ABORTIONS  
+| IN ANY 12-MONTH PERIOD, I WAIVE THE REQUIREMENT TO WAIT 24 HOURS  
+| AFTER THE SONOGRAM IS PERFORMED BEFORE RECEIVING THE ABORTION  
+| PROCEDURE. MY PLACE OF RESIDENCE IS:__________.  
+|  ________________________________________  
+|  SIGNATURE DATE";  
+|  (6) before the abortion is performed, the physician  
+| who is to perform the abortion receives a copy of the signed,  
+| written certification required by Subdivision (5); and  
+|  (7) the pregnant woman is provided the name of each  
+| person who provides or explains the information required under this  
+| subsection.  
+|  _(f)_ _____The executive commissioner may adopt rules that specify_  
+| _the information required under Subsection (a)(4)(E) regarding the_  
+| _statistical probability of bringing an unborn child to term based_  
+| _on the gestational age of the child. The information in the rules_  
+| _must be based on available medical evidence._  
+|  SECTION 5. Section 245.011(c), Health and Safety Code, is  
+| amended to read as follows:  
+|  (c) The report must include:  
+|  (1) whether the abortion facility at which the  
+| abortion is performed is licensed under this chapter;  
+|  (2) the patient's year of birth, race, marital status,  
+| and state and county of residence;  
+|  (3) the type of abortion procedure;  
+|  (4) the date the abortion was performed;  
+|  (5) whether the patient survived the abortion, and if  
+| the patient did not survive, the cause of death;  
+|  (6) the probable post-fertilization age of the unborn  
+| child based on the best medical judgment of the attending physician  
+| at the time of the procedure;  
+|  (7) the date, if known, of the patient's last menstrual  
+| cycle;  
+|  (8) the number of previous live births of the patient;  
+| [ ~~and~~ ]  
+|  (9) the number of previous induced abortions of the  
+| patient _;_  
+|  _(10)_ _____whether the abortion was performed or induced_  
+| _because of a medical emergency and any medical condition of the_  
+| _pregnant woman that required the abortion;_  
+|  _(11)_ _____whether the physician made a determination of the_  
+| _presence of a fetal heartbeat in accordance with Section 171.203;_  
+| _and_  
+|  _(12)_ _____whether the physician performed or induced the_  
+| _abortion under circumstances described by Section 171.205_.  
+|  SECTION 6. (a) After the issuance of a decision by the  
+| United States Supreme Court overruling any prior ruling that  
+| prohibits states from wholly or partly prohibiting abortion, the  
+| issuance of any court order or judgment restoring, expanding, or  
+| clarifying the authority of states to wholly or partly prohibit or  
+| regulate abortion, or the effective date of an amendment to the  
+| United States Constitution restoring, expanding, or clarifying the  
+| authority of states to wholly or partly prohibit or regulate  
+| abortion, the attorney general may apply to the appropriate state  
+| or federal court for:  
+|  (1) a declaration that any one or more provisions of  
+| this Act are constitutional; or  
+|  (2) a judgment or order lifting an injunction against  
+| the enforcement of any one or more provisions of this Act.  
+|  (b) If the attorney general fails to apply for the relief  
+| described by Subsection (a) of this section not later than the 30th  
+| day after the date an event described by that subsection occurs, any  
+| district attorney may apply to the appropriate state or federal  
+| court for the relief described by that subsection.  
+|  SECTION 7. (a) It is the intent of the legislature that if a  
+| court suspends enforcement of any provision of this Act, the  
+| suspension is not to be regarded as repealing that provision.  
+|  (b) If any provision of this Act is held invalid or if the  
+| application of any provision to any person or circumstance is held  
+| invalid, the invalidity of that provision or application does not  
+| affect any other provision or applications of this Act that can be  
+| given effect without the invalid provision or application, and to  
+| this end, the provisions of this Act are severable. It is the  
+| intent of the legislature that any invalidity or potential  
+| invalidity of a provision of this Act does not impair the immediate  
+| and continuing enforceability of the remaining provisions. It is  
+| furthermore the intent of the legislature that the provisions of  
+| this Act do not have the effect of repealing or limiting any other  
+| laws of this state.  
+|  SECTION 8. The change in law made by this Act applies only  
+| to an abortion performed or induced on or after the effective date  
+| of this Act.  
+|  SECTION 9. This Act takes effect September 1, 2019.
+

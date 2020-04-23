@@ -1,0 +1,66 @@
+| 86R4700 AAF-D  
+---|---  
+|  By: White | H.B. No. 682  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the establishment of a pilot program for the issuance of  
+| digital identification.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle B, Title 7, Transportation Code, is  
+| amended by adding Chapter 526 to read as follows:  
+| _CHAPTER 526. DIGITAL IDENTIFICATION PILOT PROGRAM_  
+|  _Sec. 526.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Department" and "driver's license" have the_  
+| _meanings assigned by Section 521.001._  
+|  _(2)_ _____"Digital identification" includes digital_  
+| _driver's licenses and digital personal identification_  
+| _certificates._  
+|  _Sec._ ___526.002._ _____DIGITAL IDENTIFICATION PILOT PROGRAM. (a)_ __  
+| _The department by rule shall establish a pilot program for the_  
+| _issuance of digital identification._  
+|  _(b)_ _____In establishing the digital identification pilot_  
+| _program, the department shall:_  
+|  _(1)_ _____assess existing department infrastructure and_  
+| _identify changes required to implement the program;_  
+|  _(2)_ _____upgrade department infrastructure according to_  
+| _the department's findings under Subdivision (1);_  
+|  _(3) acquire a mobile application that:_  
+|  _(A)_ _____displays digital identification that_  
+| _includes the information described by Section 521.121(a) on a_  
+| _wireless communication device;_  
+|  _(B)_ _____includes an authentication and verification_  
+| _process for a wireless communication device; and_  
+|  _(C)_ _____may be used in any location regardless of the_  
+| _location's level of wireless connectivity or cellular telephone_  
+| _service;_  
+|  _(4)_ _____deploy the digital identification mobile_  
+| _application at no cost to focus groups for testing and evaluation;_  
+|  _(5)_ _____implement a law enforcement version of the_  
+| _application for field testing; and_  
+|  _(6)_ _____ensure that the privacy rights of pilot program_  
+| _participants are protected._  
+|  _(c)_ _____Digital identification issued under this section may_  
+| _not be used or accepted as valid proof of identification._  
+|  _(d)_ _____The department may contract with a third party to_  
+| _establish the pilot program described by this section if the_  
+| _contract is at no cost to the department._ ___In contracting with a_  
+| _third party, the department shall give a preference to vendors_  
+| _whose principal office is located in the United States._  
+|  _(e)_ _____The department shall prepare a report containing the_  
+| _results of the pilot program and the department's recommendations._  
+| _The department shall submit the report to the Public Safety_  
+| _Commission and the legislature not later than the 180th day after_  
+| _the date of completion of the pilot program._  
+|  _Sec._ ___526.003._ _____EXPIRATION. This chapter expires September_  
+| _1, 2021._  
+|  SECTION 2. The Department of Public Safety shall adopt the  
+| initial rules for the digital identification pilot program under  
+| Chapter 526, Transportation Code, as added by this Act, not later  
+| than February 1, 2020.  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

@@ -1,0 +1,31 @@
+| 86R2285 JXC-F  
+---|---  
+|  By: Israel | H.B. No. 1212  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the modification or reprogramming of the exhaust  
+| emission system of a diesel-powered motor vehicle to emit soot,  
+| smoke, or other particulate matter.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 547.605(c), Transportation Code, is  
+| amended to read as follows:  
+|  (c) The owner or operator of a motor vehicle or motor  
+| vehicle engine, of a model year after 1967, that is equipped with an  
+| exhaust emission system:  
+|  (1) shall maintain the system in good working  
+| condition;  
+|  (2) shall use the system when the motor vehicle or  
+| motor vehicle engine is operated; [ ~~and~~ ]  
+|  (3) may not remove the system or a part of the system  
+| or intentionally make the system inoperable in this state, unless  
+| the owner or operator removes the system or part to install another  
+| system or part intended to be equally effective in reducing  
+| atmospheric emissions _; and_  
+|  _(4)_ _____if the motor vehicle is diesel-powered, may not_  
+| _modify or reprogram the system or a part of the system in a manner_  
+| _that the owner or operator knows or should know will increase the_  
+| _motor vehicle's capacity to emit soot, smoke, or other particulate_  
+| _matter_.  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

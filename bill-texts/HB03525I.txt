@@ -1,0 +1,39 @@
+| 86R13954 ADM-F  
+---|---  
+|  By: Rose | H.B. No. 3525  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the destruction of juvenile records of victims of sex  
+| trafficking.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter C-1, Chapter 58, Family Code, is  
+| amended by adding Section 58.2635 to read as follows:  
+|  _Sec._ ___58.2635._ _____DESTRUCTION OF RECORDS: VICTIM OF SEX_  
+| _TRAFFICKING. (a) A juvenile court shall order the destruction of_  
+| _the records related to conduct for which a person was referred to a_  
+| _juvenile probation department, regardless of whether the person was_  
+| _adjudicated and without application to the court, if:_  
+|  _(1)_ _____the conduct constitutes an offense under Section_  
+| _43.02(a), Penal Code;_  
+|  _(2)_ _____the defense under Section 43.02(d), Penal Code,_  
+| _applies to the conduct; and_  
+|  _(3) the person is at least 18 years of age._  
+|  _(b)_ _____Notwithstanding any restriction imposed by an entity's_  
+| _records retention guidelines, the juvenile court shall issue an_  
+| _order for the destruction of records described by Subsection (a)._  
+|  _(c)_ _____Electronic records are considered to be destroyed if the_  
+| _electronic records, including the index to the records, are_  
+| _deleted._  
+|  _(d)_ _____Converting physical records to electronic records and_  
+| _subsequently destroying the physical records while maintaining the_  
+| _electronic records is not considered destruction of a record under_  
+| _this subchapter._  
+|  _(e)_ _____This section does not authorize the destruction of_  
+| _records maintained for statistical and research purposes by the_  
+| _Texas Juvenile Justice Department in a juvenile information and_  
+| _case management system authorized under Section 58.403._  
+|  SECTION 2. This Act applies to records created before, on,  
+| or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

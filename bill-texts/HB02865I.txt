@@ -1,0 +1,63 @@
+| 86R11796 BRG-F  
+---|---  
+|  By: Parker | H.B. No. 2865  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to procedures for imposing certain administrative  
+| penalties or disgorgement orders by the Public Utility Commission  
+| of Texas.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 15.024, Utilities Code, is amended by  
+| amending Subsections (b), (e), and (f) and adding Subsection (b-1)  
+| to read as follows:  
+|  (b) Not later than the 14th day after the date the report is  
+| issued, the executive director shall give written notice of the  
+| report to the person against whom the penalty may be assessed. The  
+| notice may be given by _regular or_ certified mail. The notice must:  
+|  (1) include a brief summary of the alleged violation;  
+|  (2) state the amount of the recommended penalty; and  
+|  (3) inform the person that the person has a right to a  
+| hearing on the occurrence of the violation, the amount of the  
+| penalty, or both the occurrence of the violation and the amount of  
+| the penalty.  
+|  _(b-1)_ _____If the commission sends written notice to a person by_  
+| _mail addressed to the person's mailing address as maintained in the_  
+| _commission's records, the person is deemed to have received notice:_  
+|  _(1)_ _____on the fifth day after the date that the commission_  
+| _sent the written notice, for notice sent by regular mail; or_  
+|  _(2)_ _____on the date the written notice is received or_  
+| _delivery is refused, for notice sent by certified mail._  
+|  (e) If the person accepts the executive director's  
+| determination and recommended penalty _or fails to timely respond to_  
+| _the notice_ , the commission by order shall approve the determination  
+| and impose the recommended penalty _or order a hearing on the_  
+| _determination and the recommended penalty_.  
+|  (f) If the person requests a hearing or _the commission_  
+| _orders a hearing under Subsection (e)_ [ ~~fails to timely respond to~~  
+|  ~~the notice~~ ], the _commission_ [ ~~executive director~~ ] shall _refer
+the_  
+| _matter to the State Office of Administrative Hearings for_ [ ~~set~~ ] a  
+| hearing and give notice of the _referral_ [ ~~hearing~~ ] to the person.  
+| The parties to a proceeding under this subchapter shall be limited  
+| to the person and the commission, including the independent market  
+| monitor.  The hearing shall be held by an administrative law judge  
+| of the State Office of Administrative Hearings _and notice of the_  
+| _hearing must be provided in accordance with Chapter 2001,_  
+| _Government Code_.  The administrative law judge shall make findings  
+| of fact and conclusions of law and promptly issue to the commission  
+| a proposal for a decision about the occurrence of the violation and  
+| the amount of a proposed penalty.  Based on the findings of fact,  
+| conclusions of law, and proposal for a decision, the commission by  
+| order may find that a violation has occurred and impose a penalty or  
+| disgorgement order or may find that no violation occurred.  
+|  SECTION 2. The changes in law made by this Act apply only to  
+| the procedures for an administrative penalty or disgorgement order  
+| for which a written notice is given under Section 15.024(b),  
+| Utilities Code, on or after the effective date of this Act.  Those  
+| procedures for a penalty or order for which a written notice is  
+| given before the effective date of this Act are governed by the law  
+| in effect on the date the notice is given, and the former law is  
+| continued in effect for that purpose.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

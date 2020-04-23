@@ -1,0 +1,529 @@
+| 86R7668 BEF-D  
+---|---  
+|  By: Paddie | H.B. No. 1000  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to rural and opportunity funds and insurance tax credits  
+| for certain investments in those funds; imposing a monetary  
+| penalty; authorizing fees.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle F, Title 4, Government Code, is amended  
+| by adding Chapter 487A to read as follows:  
+| _CHAPTER 487A. RURAL AND OPPORTUNITY FUNDS_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 487A.0001. GENERAL DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Closing date" means the date a rural and_  
+| _opportunity fund has collected all of the amounts described by_  
+| _Section 487A.0056(a)(1)._  
+|  _(2)_ _____"Growth investment" means any capital or equity_  
+| _investment by a rural and opportunity fund in a targeted small_  
+| _business or any loan by a rural and opportunity fund to a targeted_  
+| _small business with a stated maturity date of at least one year_  
+| _after the date of issuance._  
+|  _(3)_ _____"Office" means the Texas Economic Development and_  
+| _Tourism Office._  
+|  _(4) "Qualified area" means:_  
+|  _(A)_ _____a rural community as defined by Section_  
+| _12.046, Agriculture Code; or_  
+|  _(B)_ _____a qualified opportunity zone as defined by_  
+| _Section 1400Z-1, Internal Revenue Code of 1986._  
+|  _(5)_ _____"Rural and opportunity fund" means an entity_  
+| _approved by the office as a rural and opportunity fund._  
+|  _Sec._ ___487A.0002._ _____DEFINITION: AFFILIATE. (a) In this_  
+| _chapter, "affiliate" means an entity that directly or indirectly_  
+| _through one or more intermediaries controls, is controlled by, or_  
+| _is under common control with another entity._  
+|  _(b)_ _____For purposes of Subsection (a), an entity is controlled_  
+| _by another entity if the controlling entity:_  
+|  _(1)_ _____holds, directly or indirectly, the majority voting_  
+| _or ownership interest in the controlled entity; or_  
+|  _(2)_ _____has control over the day-to-day operations of the_  
+| _controlled entity by contract or by law._  
+|  _Sec._ ___487A.0003._ _____DEFINITION: CREDIT-ELIGIBLE CAPITAL_  
+| _CONTRIBUTION. (a) In this chapter and subject to Subsection (b),_  
+| _"credit-eligible capital contribution" means an investment of cash_  
+| _that equals the amount specified on a tax credit certificate issued_  
+| _by the office under Section 487A.0055(2) made by an entity that is_  
+| _subject to state insurance tax liability, as defined by Section_  
+| _232.0001, Insurance Code._  
+|  _(b)_ _____An investment made by an entity qualifies as a_  
+| _credit-eligible capital contribution only if the entity making the_  
+| _investment receives in exchange for the investment:_  
+|  _(1)_ _____an equity interest in the rural and opportunity_  
+| _fund; or_  
+|  _(2)_ _____at par value or premium, a debt instrument that has_  
+| _a maturity date of at least five years from the closing date and a_  
+| _repayment schedule that is no faster than level principal_  
+| _amortization over five years._  
+|  _Sec._ ___487A.0004._ _____DEFINITION: INVESTMENT AUTHORITY. (a) In_  
+| _this chapter, "investment authority" means the amount stated on the_  
+| _notice issued under Section 487A.0055(1) approving the rural and_  
+| _opportunity fund._  
+|  _(b)_ _____At least 65 percent of a rural and opportunity fund's_  
+| _investment authority must consist of credit-eligible capital_  
+| _contributions._  
+|  _Sec._ ___487A.0005._ _____DEFINITION: JOBS CREATED. (a) In this_  
+| _chapter, "jobs created" means, with respect to a targeted small_  
+| _business, employment positions that are created by the targeted_  
+| _small business, are located in this state, require at least 35 hours_  
+| _of work each week, and were not located in this state at the time of_  
+| _the initial growth investment in the targeted small business._  
+|  _(b)_ _____The number of jobs created by a targeted small business_  
+| _is calculated each year by subtracting the number of employment_  
+| _positions in this state at the targeted small business at the time_  
+| _of the initial growth investment in the targeted small business_  
+| _from the monthly average of those employment positions for that_  
+| _year. If the number calculated under this subsection is less than_  
+| _zero, the number shall be reported as zero._  
+|  _(c)_ _____The monthly average of employment positions for a year_  
+| _is calculated by adding together the number of employment positions_  
+| _existing on the last day of each month of the year and dividing by_  
+| _12._  
+|  _Sec._ ___487A.0006._ _____DEFINITION: JOBS RETAINED. (a) In this_  
+| _chapter, "jobs retained" means, with respect to a targeted small_  
+| _business, employment positions:_  
+|  _(1)_ _____located in this state requiring at least 35 hours_  
+| _of work each week that existed before the initial growth investment_  
+| _in the targeted small business; and_  
+|  _(2)_ _____that would have been lost or moved out of this_  
+| _state had a growth investment in the targeted small business not_  
+| _been made, as certified in writing by an executive officer of the_  
+| _targeted small business to the rural and opportunity fund._  
+|  _(b)_ _____The number of jobs retained by a targeted small business_  
+| _is calculated each year based on the monthly average of employment_  
+| _positions for that year._  
+|  _(c)_ _____The monthly average of employment positions for a year_  
+| _is calculated by adding together the number of employment positions_  
+| _existing on the last day of each month of the year and dividing by_  
+| _12._  
+|  _(d)_ _____The reported number of jobs retained for a year may not_  
+| _exceed the number reported on the initial report under Section_  
+| _487A.0155. The rural and opportunity fund shall reduce the number_  
+| _of jobs retained for a year if employment at the targeted small_  
+| _business drops below the number reported on the initial report._  
+|  _Sec._ ___487A.0007._ _____DEFINITION: TARGETED SMALL BUSINESS. (a)_  
+| _In this chapter, "targeted small business" means a business that,_  
+| _at the time of the initial growth investment in the business:_  
+|  _(1) had fewer than 250 employees; and_  
+|  _(2)_ _____has its principal business operations located in_  
+| _one or more qualified areas in this state._  
+|  _(b)_ _____For purposes of Subsection (a)(2), the principal_  
+| _business operations of a business are located at a place where:_  
+|  _(1)_ _____at least 60 percent of the business's employees_  
+| _work; or_  
+|  _(2)_ _____employees who are paid at least 60 percent of the_  
+| _business's payroll work._  
+|  _(c)_ _____An out-of-state business that agrees to relocate or hire_  
+| _new employees using the proceeds of a growth investment to_  
+| _establish principal business operations in a qualified area in this_  
+| _state qualifies as a targeted small business if the business_  
+| _satisfies the requirements of:_  
+|  _(1)_ _____Subsection (a)(1) at the time of the initial_  
+| _growth investment in the business; and_  
+|  _(2)_ _____Subsection (a)(2) not later than the 180th day_  
+| _after receiving the initial growth investment or a later date_  
+| _agreed to by the office._  
+|  _Sec._ ___487A.0008._ _____RULES. The office shall adopt rules_  
+| _necessary to implement this chapter._  
+| _SUBCHAPTER B. APPROVAL OF RURAL AND OPPORTUNITY FUNDS_  
+|  _Sec._ ___487A.0051._ _____APPLICATION. (a) The office shall accept_  
+| _applications from entities seeking approval as rural and_  
+| _opportunity funds._  
+|  _(b) An application must include:_  
+|  _(1)_ _____the total investment authority sought by the_  
+| _applicant under the applicant's business plan;_  
+|  _(2)_ _____evidence sufficient to prove to the office's_  
+| _satisfaction that, as of the date the applicant submits the_  
+| _application:_  
+|  _(A)_ _____the applicant or affiliates of the applicant_  
+| _have invested at least $100 million in nonpublic companies, each of_  
+| _which is located in a municipality with a population of less than_  
+| _50,000 or a county with a population of less than 200,000,_  
+| _regardless of whether the municipality or county is located inside_  
+| _or outside this state; and_  
+|  _(B)_ _____at least one principal in a rural business_  
+| _investment company licensed under 7 U.S.C. Section 2009cc et seq._  
+| _or a small business investment company licensed under 15 U.S.C._  
+| _Section 681 is, and has been for at least four years, an officer or_  
+| _employee of the applicant or of an affiliate of the applicant on the_  
+| _date the application is submitted;_  
+|  _(3)_ _____a copy of the rural business investment company_  
+| _license or small business investment company license described by_  
+| _Subdivision (2)(B);_  
+|  _(4)_ _____an estimate of the number of jobs created and jobs_  
+| _retained as a result of the applicant's growth investments;_  
+|  _(5)_ _____a business plan that includes a revenue impact_  
+| _assessment that:_  
+|  _(A)_ _____projects state and local tax revenue to be_  
+| _generated by the applicant's proposed growth investments; and_  
+|  _(B)_ _____is prepared by a nationally recognized third_  
+| _party independent economic forecasting firm using a dynamic_  
+| _economic forecasting model that analyzes the applicant's business_  
+| _plan for the 10-year period following the date the applicant_  
+| _submits the application;_  
+|  _(6)_ _____a signed affidavit from each committed investor_  
+| _stating the amount of credit-eligible capital contributions the_  
+| _investor commits to making; and_  
+|  _(7) a nonrefundable application fee of $5,000._  
+|  _Sec._ ___487A.0052._ _____DECISION ON APPLICATION. (a) The office_  
+| _shall make a determination on each application not later than the_  
+| _30th day after the date the office receives the application. The_  
+| _office shall make application determinations in the order in which_  
+| _applications are received and shall consider applications received_  
+| _on the same day to be received simultaneously._  
+|  _(b)_ _____The office may approve investment authority under this_  
+| _chapter in amounts that would allow not more than $35 million in tax_  
+| _credits to be claimed under Section 232.0053, Insurance Code, in_  
+| _any calendar year, excluding any credit carryforwards under Section_  
+| _232.0054, Insurance Code._  
+|  _(c)_ _____If a request for investment authority exceeds the_  
+| _limitation under Subsection (b), the office shall reduce the_  
+| _investment authority and the credit-eligible capital contributions_  
+| _for that application as necessary to avoid exceeding the limit. If_  
+| _multiple applications received on the same day request a combined_  
+| _investment authority that exceeds the limit under Subsection (b),_  
+| _the office shall proportionally reduce the investment authority and_  
+| _the credit-eligible capital contributions for those applications_  
+| _as necessary to avoid exceeding the limit. The office may not_  
+| _reduce an applicant's investment authority for any reason other_  
+| _than as authorized by this subsection._  
+|  _Sec._ ___487A.0053._ _____GROUNDS FOR DENIAL. The office may deny an_  
+| _application under this subchapter only if:_  
+|  _(1)_ _____the application is incomplete or the application_  
+| _fee is not paid in full;_  
+|  _(2)_ _____the applicant fails to satisfy the requirements of_  
+| _Section 487A.0051(b)(2);_  
+|  _(3)_ _____the revenue impact assessment submitted under_  
+| _Section 487A.0051(b)(5) does not demonstrate that the applicant's_  
+| _business plan will result in a positive economic impact on combined_  
+| _state and local revenue during the 10-year period covered by the_  
+| _assessment that exceeds the cumulative amount of tax credits that_  
+| _would be issued to the applicant's investors under Chapter 232,_  
+| _Insurance Code, if the application were approved;_  
+|  _(4)_ _____the credit-eligible capital contributions_  
+| _described in affidavits submitted under Section 487A.0051(b)(6) do_  
+| _not equal at least 65 percent of the total amount of investment_  
+| _authority sought under the applicant's business plan; or_  
+|  _(5)_ _____the office has already approved the maximum amount_  
+| _of investment authority allowed under Section 487A.0052(b)._  
+|  _Sec._ ___487A.0054._ _____SUBMISSION OF ADDITIONAL INFORMATION_  
+| _FOLLOWING DENIAL. (a) If the office denies an application the_  
+| _applicant may, not later than the 15th day after the date the office_  
+| _provides notice of denial, provide additional information to the_  
+| _office to complete, clarify, or cure defects in the application_  
+| _identified by the office._  
+|  _(b)_ _____If the applicant completes, clarifies, or cures the_  
+| _defects in its application during the period prescribed by_  
+| _Subsection (a), the application is considered complete as of the_  
+| _original submission date._  
+|  _(c)_ _____If the applicant fails to complete, clarify, or cure the_  
+| _defects in its application during the period prescribed by_  
+| _Subsection (a), the application is finally denied. An applicant_  
+| _who wishes to reapply must resubmit an application in full with a_  
+| _new submission date._  
+|  _(d)_ _____The office shall review and reconsider an application_  
+| _described by Subsection (a) for which the applicant provides_  
+| _additional information not later than the 30th day after the date_  
+| _the applicant provides the information. The office shall consider_  
+| _that application before any pending applications submitted after_  
+| _the date that application was originally submitted._  
+|  _(e)_ _____This section does not apply to an application denied as_  
+| _a result of the applicant's failure to submit with the application_  
+| _affidavits required by Section 487A.0051(b)(6)._  
+|  _Sec._ ___487A.0055._ _____APPROVAL BY OFFICE. On approval of an_  
+| _application, the office shall provide:_  
+|  _(1)_ _____written notice to the applicant of the applicant's_  
+| _approval as a rural and opportunity fund, including the amount of_  
+| _the fund's investment authority; and_  
+|  _(2)_ _____a tax credit certificate to each investor whose_  
+| _affidavit was included in the application and include on the_  
+| _certificate the amount of the investor's credit-eligible capital_  
+| _contribution._  
+|  _Sec._ ___487A.0056._ _____DUTIES OF FUND FOLLOWING APPROVAL. (a) A_  
+| _rural and opportunity fund shall:_  
+|  _(1)_ _____not later than the 60th day after the date the fund_  
+| _receives the approval notice under Section 487A.0055:_  
+|  _(A)_ _____collect the credit-eligible capital_  
+| _contribution from each investor issued a tax credit certificate_  
+| _under Section 487A.0055; and_  
+|  _(B)_ _____subject to Subsection (b), collect one or_  
+| _more investments of cash that, when added to the contributions_  
+| _collected under Paragraph (A), equal the fund's investment_  
+| _authority; and_  
+|  _(2)_ _____not later than the 65th day after the date the fund_  
+| _receives the approval notice under Section 487A.0055, send to the_  
+| _office documentation sufficient to prove that the fund has_  
+| _collected the amounts described in Subdivision (1)._  
+|  _(b)_ _____At least 10 percent of the rural and opportunity fund's_  
+| _investment authority must consist of equity investments_  
+| _contributed directly or indirectly by affiliates of the fund,_  
+| _including employees, officers, and directors of those affiliates._  
+|  _Sec._ ___487A.0057._ _____LAPSE OF APPROVAL. (a) If a rural and_  
+| _opportunity fund fails to comply with the requirements of Section_  
+| _487A.0056, the fund's approval lapses and the corresponding_  
+| _investment authority described by Section 487A.0056(a)(1) does not_  
+| _count toward the limit prescribed by Section 487A.0052(b)._  
+|  _(b)_ _____The office shall first award lapsed investment_  
+| _authority pro rata to each rural and opportunity fund whose_  
+| _requested investment authority was reduced under Section_  
+| _487A.0052(c). The rural and opportunity fund may allocate the_  
+| _investment authority awarded under this subsection to the fund's_  
+| _investors in the fund's discretion. The office may award any_  
+| _remaining investment authority to new applicants._  
+|  _Sec._ ___487A.0058._ _____DISPOSITION OF APPLICATION FEES._  
+| _Application fees submitted to the office under Section_  
+| _487A.0051(b)(7) shall be deposited to the credit of the general_  
+| _revenue fund and may be appropriated only to the office for the_  
+| _purpose of administering this chapter._  
+| _SUBCHAPTER C. REVOCATION OF TAX CREDIT CERTIFICATE_  
+|  _Sec._ ___487A.0101._ _____GROUNDS FOR REVOCATION. (a) The office_  
+| _shall revoke a tax credit certificate issued under Subchapter B in_  
+| _connection with an investment in a rural and opportunity fund if,_  
+| _before the fund exits the program under Section 487A.0151, the_  
+| _fund:_  
+|  _(1)_ _____subject to Subsection (b), fails to invest at_  
+| _least 60 percent of the fund's investment authority in growth_  
+| _investments in this state on or before the second anniversary of the_  
+| _closing date and 100 percent of the fund's investment authority in_  
+| _growth investments in this state on or before the third anniversary_  
+| _of the closing date;_  
+|  _(2)_ _____subject to Subsection (c) and after making the_  
+| _investments necessary to avoid revocation under Subdivision (1),_  
+| _fails to maintain growth investments equal to 100 percent of the_  
+| _fund's investment authority until the sixth anniversary of the_  
+| _closing date;_  
+|  _(3)_ _____makes a distribution or payment that results in_  
+| _the fund having less than 100 percent of its investment authority_  
+| _invested in growth investments in this state or available for_  
+| _investment in growth investments and held in cash or marketable_  
+| _securities; or_  
+|  _(4)_ _____subject to Subsection (d), makes a growth_  
+| _investment in a targeted small business that directly or indirectly_  
+| _through an affiliate owns, has the right to acquire an ownership_  
+| _interest in, makes a loan to, or makes an investment in the fund, an_  
+| _affiliate of the fund, or an investor in the fund._  
+|  _(b) For purposes of Subsection (a)(1):_  
+|  _(1)_ _____the amount of growth investments that a rural and_  
+| _opportunity fund may count with respect to a particular targeted_  
+| _small business, including any amount invested in an affiliate of_  
+| _the targeted small business, may not exceed the greater of $5_  
+| _million or 20 percent of the fund's investment authority; and_  
+|  _(2)_ _____at least 85 percent of the required investments_  
+| _must be growth investments in targeted small businesses whose_  
+| _principal business operations are located in, or are relocated to,_  
+| _one or more rural communities as defined by Section 12.046,_  
+| _Agriculture Code._  
+|  _(c) For purposes of Subsection (a)(2):_  
+|  _(1)_ _____the amount of growth investments that a rural and_  
+| _opportunity fund may count with respect to a particular targeted_  
+| _small business, including any amount invested in an affiliate of_  
+| _the targeted small business, may not exceed the greater of $5_  
+| _million or 20 percent of the fund's investment authority;_  
+|  _(2)_ _____an investment that is sold or repaid is considered_  
+| _to be maintained if the rural and opportunity fund reinvests an_  
+| _amount equal to the capital returned or recovered by the fund from_  
+| _the original investment, excluding any profit realized, in another_  
+| _growth investment in this state on or before the first anniversary_  
+| _of the date the capital is returned or recovered; and_  
+|  _(3)_ _____an amount received periodically by a rural and_  
+| _opportunity fund is considered to be continually invested in growth_  
+| _investments if that amount is reinvested in one or more growth_  
+| _investments by the end of the calendar year following the year of_  
+| _receipt._  
+|  _(d)_ _____Subsection (a)(4) does not apply to investments in_  
+| _publicly traded securities by a targeted small business or an owner_  
+| _or affiliate of the targeted small business. For purposes of_  
+| _Subsection (a)(4), a rural and opportunity fund is not considered_  
+| _an affiliate of a targeted small business solely as a result of the_  
+| _fund's growth investment in the targeted small business._  
+|  _(e) The office shall:_  
+|  _(1)_ _____notify the comptroller when the office revokes a_  
+| _tax credit certificate; and_  
+|  _(2)_ _____on request, provide the comptroller with lists of_  
+| _valid and revoked tax credit certificates._  
+|  _Sec._ ___487A.0102._ _____OPPORTUNITY TO CORRECT VIOLATION. (a)_  
+| _Before revoking a tax credit certificate under this subchapter, the_  
+| _office shall notify the rural and opportunity fund of the reasons_  
+| _for the pending revocation._  
+|  _(b)_ _____The rural and opportunity fund may, not later than the_  
+| _90th day after the date the notice is received, correct any_  
+| _violation outlined in the notice to the satisfaction of the office_  
+| _and avoid revocation of the tax credit certificate._  
+|  _Sec._ ___487A.0103._ _____ALLOCATION OF REVOKED INVESTMENT_  
+| _AUTHORITY. (a) If a tax credit certificate is revoked under this_  
+| _subchapter, the associated investment authority does not count_  
+| _toward the limit on total investment authority described in Section_  
+| _487A.0052(b)._  
+|  _(b)_ _____The office shall first award revoked investment_  
+| _authority pro rata to each rural and opportunity fund whose_  
+| _requested investment authority was reduced under Section_  
+| _487A.0052(c). The office may award any remaining investment_  
+| _authority to new applicants._  
+| _SUBCHAPTER D. CERTAIN FUND OPERATIONS_  
+|  _Sec._ ___487A.0151._ _____APPLICATION TO EXIT PROGRAM. (a) On or_  
+| _after the sixth anniversary of the closing date, a rural and_  
+| _opportunity fund may apply to the office to exit the program and no_  
+| _longer be subject to regulation under this chapter._  
+|  _(b)_ _____The office shall respond to the application not later_  
+| _than the 30th day after receipt._  
+|  _(c)_ _____A rural and opportunity fund is eligible to exit the_  
+| _program under this section if no tax credit certificates related to_  
+| _investments in the fund have been revoked and the fund has not_  
+| _received any revocation notice that has not been corrected under_  
+| _Section 487A.0102._  
+|  _(d)_ _____The office may not unreasonably deny an application_  
+| _under this section. The office shall give the rural and opportunity_  
+| _fund notice of a denial and include in the notice the reasons for_  
+| _the denial._  
+|  _Sec._ ___487A.0152._ _____NO REVOCATION FOLLOWING EXIT. The office_  
+| _may not revoke a tax credit certificate related to an investment in_  
+| _a rural and opportunity fund after the fund's exit from the program._  
+|  _Sec._ ___487A.0153._ _____PENALTY FOR CERTAIN DISTRIBUTIONS. (a)_  
+| _For purposes of this section:_  
+|  _(1)_ _____the "actual number of jobs created and retained"_  
+| _is the number of jobs created and jobs retained as a result of all of_  
+| _a rural and opportunity fund's current and former growth_  
+| _investments, as reported on the fund's reports submitted under_  
+| _Section 487A.0155; and_  
+|  _(2)_ _____the "estimated number of jobs created and_  
+| _retained" is the estimated number of jobs created and jobs retained_  
+| _included in a rural and opportunity fund's application under_  
+| _Section 487A.0051(b)(4) reduced, if applicable, by the same_  
+| _percentage as the total investment authority sought under the_  
+| _fund's business plan submitted under Section 487A.0051(b)(1) was_  
+| _reduced under Section 487A.0052(c)._  
+|  _(b)_ _____A rural and opportunity fund is subject to a penalty in_  
+| _the amount provided by Subsection (c) if:_  
+|  _(1)_ _____the fund authorizes a distribution to the fund's_  
+| _equity holders in an amount that, when added to all previous_  
+| _distributions to the fund's equity holders and any previous_  
+| _penalties under this section, exceeds the fund's investment_  
+| _authority; and_  
+|  _(2)_ _____the fund's actual number of jobs created and_  
+| _retained is less than the fund's estimated number of jobs created_  
+| _and retained._  
+|  _(c)_ _____The amount of the penalty is equal to the amount of the_  
+| _authorized distribution multiplied by a fraction:_  
+|  _(1)_ _____the numerator of which is the fund's estimated_  
+| _number of jobs created and retained less the fund's actual number of_  
+| _jobs created and retained; and_  
+|  _(2)_ _____the denominator of which is the fund's estimated_  
+| _number of jobs created and retained._  
+|  _(d)_ _____Before making a distribution to the fund's equity_  
+| _holders, the fund shall deduct the amount of the penalty from the_  
+| _amount otherwise authorized to be distributed to the equity holders_  
+| _and pay the penalty to the office._  
+|  _(e)_ _____The office shall deposit penalties received under_  
+| _Subsection (d) in the general revenue fund._  
+|  _Sec._ ___487A.0154._ _____EVALUATION OF PROPOSED INVESTMENT. (a) A_  
+| _rural and opportunity fund, before making a growth investment, may_  
+| _request from the office a written opinion as to whether the business_  
+| _in which the fund proposes to invest qualifies as a targeted small_  
+| _business._  
+|  _(b)_ _____Not later than the 15th business day after receiving the_  
+| _request, the office shall notify the rural and opportunity fund of_  
+| _its determination._  
+|  _(c)_ _____If the office fails to notify the rural and opportunity_  
+| _fund of its determination on or before the 15th business day after_  
+| _receiving the request, the business in which the fund proposes to_  
+| _invest is considered to be a targeted small business for purposes of_  
+| _this chapter._  
+|  _Sec._ ___487A.0155._ _____ANNUAL REPORT. (a) A rural and opportunity_  
+| _fund shall submit a report to the office on or before the fifth_  
+| _business day after each anniversary of the closing date until the_  
+| _fund has exited the program under Section 487A.0151._  
+|  _(b)_ _____The report must document the rural and opportunity_  
+| _fund's growth investments and include:_  
+|  _(1) a bank statement showing each growth investment;_  
+|  _(2)_ _____the name, location, and industry of each business_  
+| _receiving a growth investment, including either the determination_  
+| _notice described by Section 487A.0154 or evidence that the business_  
+| _qualified as a targeted small business at the time the investment_  
+| _was made;_  
+|  _(3)_ _____the number of jobs created and jobs retained in the_  
+| _preceding calendar year as a result of the fund's growth_  
+| _investments as of the last day of that period;_  
+|  _(4)_ _____the average annual salary of the jobs described by_  
+| _Subdivision (3); and_  
+|  _(5) any other information the office requires._  
+|  _(c)_ _____A rural and opportunity fund may, but is not required_  
+| _to, include in any report submitted under this section information_  
+| _about the number of jobs created and jobs retained with respect to a_  
+| _former growth investment that the fund has exited._  
+|  SECTION 2. Subtitle B, Title 3, Insurance Code, is amended  
+| by adding Chapter 232 to read as follows:  
+| _CHAPTER 232. TAX CREDIT FOR INVESTMENT IN RURAL AND OPPORTUNITY_  
+| _FUND_  
+| _SUBCHAPTER A. GENERAL PROVISIONS_  
+|  _Sec. 232.0001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Affiliate" has the meaning assigned by Section_  
+| _487A.0002, Government Code._  
+|  _(2)_ _____"Closing date" has the meaning assigned by Section_  
+| _487A.0001, Government Code._  
+|  _(3)_ _____"State insurance tax liability" means any tax_  
+| _liability incurred under Chapter 221, 222, 223, 223A, 224, 225,_  
+| _226, or 281._  
+|  _Sec._ ___232.0002._ _____RULES. The comptroller shall adopt rules_  
+| _necessary to implement this chapter._  
+| _SUBCHAPTER B. TAX CREDIT_  
+|  _Sec._ ___232.0051._ _____ELIGIBILITY FOR CREDIT. An entity is_  
+| _eligible for a credit against the entity's state insurance tax_  
+| _liability in the amount and under the conditions and limitations_  
+| _provided by this chapter._  
+|  _Sec._ ___232.0052._ _____QUALIFICATION. An entity is eligible for a_  
+| _credit for a tax year if:_  
+|  _(1)_ _____the entity holds a tax credit certificate issued_  
+| _under Section 487A.0055, Government Code; and_  
+|  _(2)_ _____the third, fourth, fifth, or sixth anniversary of_  
+| _the closing date in connection with which the certificate was_  
+| _issued occurs during the tax year._  
+|  _Sec._ ___232.0053._ _____AMOUNT OF CREDIT; LIMITATION. (a) The_  
+| _amount of credit for a tax year is equal to 25 percent of the amount_  
+| _of the credit-eligible capital contribution stated on the tax_  
+| _credit certificate described by Section 232.0052._  
+|  _(b)_ _____The total credit claimed for a tax year, including the_  
+| _amount of any carryforward under Section 232.0054, may not exceed_  
+| _the amount of state insurance tax liability due for the entity for_  
+| _the tax year after applying all other applicable tax credits._  
+|  _(c)_ _____Credits may be applied to the entity's estimated or_  
+| _final tax payments for the tax year._  
+|  _Sec._ ___232.0054._ _____CARRYFORWARD. If an entity is eligible for a_  
+| _credit that exceeds the limitation under Section 232.0053(b), the_  
+| _entity may carry the unused credit forward for not more than 20_  
+| _consecutive tax reports. Credits, including credit carryforwards,_  
+| _are considered to be used in the following order:_  
+|  _(1) a credit carryforward under this chapter; and_  
+|  _(2) a current year credit._  
+|  _Sec._ ___232.0055._ _____ASSIGNMENT PROHIBITED. (a) Except as_  
+| _provided by Subsection (b), an entity may not convey, assign, or_  
+| _transfer the credit allowed under this chapter to another entity._  
+|  _(b)_ _____An entity may convey, assign, or transfer the credit_  
+| _allowed under this chapter to an affiliate of the entity that is_  
+| _subject to state insurance tax liability._  
+|  _Sec._ ___232.0056._ _____RETALIATORY TAX. An entity claiming a_  
+| _credit under this chapter is not required to pay any additional_  
+| _retaliatory tax levied under Chapter 281 as a result of claiming_  
+| _that credit._  
+| _SUBCHAPTER C. RECAPTURE OF CREDIT_  
+|  _Sec._ ___232.0101._ _____RECAPTURE. The comptroller shall recapture_  
+| _the amount of a credit claimed on a tax report filed under Chapter_  
+| _221, 222, 223, 223A, 224, 225, 226, or 281 from an entity if the tax_  
+| _credit certificate on which the credit is based is revoked under_  
+| _Subchapter C, Chapter 487A, Government Code._  
+|  SECTION 3. (a) As soon as practicable after this Act  
+| becomes law as provided by Section 2001.006, Government Code:  
+|  (1) the Texas Economic Development and Tourism Office  
+| shall adopt rules necessary to implement Chapter 487A, Government  
+| Code, as added by this Act; and  
+|  (2) the comptroller of public accounts shall adopt  
+| rules necessary to implement Chapter 232, Insurance Code, as added  
+| by this Act.  
+|  (b) Not later than January 1, 2020, the Texas Economic  
+| Development and Tourism Office shall begin accepting applications  
+| under Section 487A.0051(a), Government Code, as added by this Act.  
+|  SECTION 4. Chapter 232, Insurance Code, as added by this  
+| Act, applies only to a tax report originally due on or after January  
+| 1, 2020.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

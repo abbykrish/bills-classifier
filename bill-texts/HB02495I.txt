@@ -1,0 +1,36 @@
+| 86R7079 AAF-D  
+---|---  
+|  By: Thompson of Brazoria | H.B. No. 2495  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the considerations when determining whether a person is  
+| an employee of a motor carrier or an independent contractor.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle F, Title 7, Transportation Code, is  
+| amended by adding Chapter 644A to read as follows:  
+| _CHAPTER 644A._ ___MOTOR CARRIER SAFETY IMPROVEMENT: EMPLOYMENT STATUS_  
+|  _Sec. 644A.001. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Commercial motor vehicle" has the meaning_  
+| _assigned by Section 644.001._  
+|  _(2)_ _____"Motor carrier" has the meaning assigned by_  
+| _Section 643.001._  
+|  _(3)_ _____"Motor carrier safety improvement" means any_  
+| _device, equipment, software, technology, procedure, training,_  
+| _policy, program, or operational practice reasonably intended to_  
+| _improve or facilitate:_  
+|  _(A)_ _____compliance with traffic safety or motor_  
+| _carrier safety laws;_  
+|  _(B) safety of a motor vehicle;_  
+|  _(C) safety of an operator of a motor vehicle; and_  
+|  _(D)_ _____safety of third-party users of public_  
+| _roadways._  
+|  _Sec._ ___644A.002._ _____EMPLOYMENT STATUS. The deployment,_  
+| _implementation, or use of a motor carrier safety improvement on a_  
+| _person's commercial motor vehicle by or at the request of a motor_  
+| _carrier, including through contract with a motor carrier, may not_  
+| _be considered when determining whether the person is an employee of_  
+| _the motor carrier or an independent contractor for purposes of_  
+| _state law._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

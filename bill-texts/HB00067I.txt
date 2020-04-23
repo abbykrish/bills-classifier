@@ -1,0 +1,35 @@
+| 86R2168 MM-D  
+---|---  
+|  By: Gonzalez of El Paso | H.B. No. 67  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to collecting data regarding unaccompanied minors in  
+| certain child-care facilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 531, Government Code, is  
+| amended by adding Section 531.0412 to read as follows:  
+|  _Sec._ ___531.0412._ _____DATA REGARDING UNACCOMPANIED MINORS IN_  
+| _CERTAIN CHILD-CARE FACILITIES. (a) In this section,_  
+| _"unaccompanied minor"_ ___means a child described by 6 U.S.C. Section_  
+| _279(g)._  
+|  _(b)_ _____The commission shall collect the following statistical_  
+| _information for each unaccompanied minor in the care of a_  
+| _residential child-care facility, as defined by Section 42.002,_  
+| _Human Resources Code, licensed by the Department of Family and_  
+| _Protective Services:_  
+|  _(1) the child's gender;_  
+|  _(2) the child's age;_  
+|  _(3) the child's country of origin;_  
+|  _(4) whether the child has a disability; and_  
+|  _(5)_ _____whether the facility primarily provides care for_  
+| _children under the age of five._  
+|  _(c)_ _____Identifying information about an unaccompanied minor_  
+| _collected under this section is confidential and is not subject to_  
+| _disclosure under Chapter 552._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

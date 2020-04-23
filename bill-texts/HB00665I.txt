@@ -1,0 +1,42 @@
+| 86R812 KJE-D  
+---|---  
+|  By: King of Hemphill | H.B. No. 665  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of current year property values under the public  
+| school finance system.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 41.004(a), Education Code, is amended to  
+| read as follows:  
+|  (a) Not later than July 15 of each year, using the _estimates_  
+| [ ~~estimate~~ ] of enrollment _and taxable property value_ under Section  
+| 42.254, the commissioner shall review the wealth per student of  
+| school districts in the state and shall notify:  
+|  (1) each district with wealth per student exceeding  
+| the equalized wealth level;  
+|  (2) each district to which the commissioner proposes  
+| to annex property detached from a district notified under  
+| Subdivision (1), if necessary, under Subchapter G; and  
+|  (3) each district to which the commissioner proposes  
+| to consolidate a district notified under Subdivision (1), if  
+| necessary, under Subchapter H.  
+|  SECTION 2. Section 42.252(a), Education Code, is amended to  
+| read as follows:  
+|  (a) Each school district's share of the Foundation School  
+| Program is determined by the following formula:  
+| LFA = TR X DPV  
+| where:  
+|  "LFA" is the school district's local share;  
+|  "TR" is a tax rate which for each hundred dollars of valuation  
+| is an effective tax rate of the amount equal to the product of the  
+| state compression percentage, as determined under Section 42.2516,  
+| multiplied by the lesser of:  
+|  (1) $1.50; or  
+|  (2) the maintenance and operations tax rate adopted by  
+| the district for the 2005 tax year; and  
+|  "DPV" is the taxable value of property in the school district  
+| for the _current_ [ ~~preceding~~ ] tax year determined under Subchapter M,  
+| Chapter 403, Government Code.  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

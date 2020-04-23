@@ -1,0 +1,60 @@
+| 86R7013 BRG-F  
+---|---  
+|  By: Moody | H.B. No. 3907  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to use of the electronic funds transfer system operated by  
+| the comptroller.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 403.016, Government Code, is amended by  
+| amending Subsections (b), (c), and (f) and adding Subsections (f-1)  
+| and (f-2) to read as follows:  
+|  (b) The comptroller shall use the electronic funds transfer  
+| system to pay an employee's net state salary and travel expense  
+| reimbursements [ ~~unless:~~  
+|  [ ~~(1) the employee does not hold a classified position~~  
+|  ~~under the state's position classification plan and the employee's~~  
+|  ~~gross state salary is less than the gross state salary for a~~  
+|  ~~position classified to group 8, step 1, of the state position~~  
+|  ~~classification plan; or~~  
+|  [ ~~(2) the employee holds a classified position under the~~  
+|  ~~state's position classification plan that is classified below group~~  
+|  ~~8~~ ].  
+|  (c) The comptroller shall use the electronic funds transfer  
+| system to make:  
+|  (1) payments of more than $100 to annuitants by the  
+| Employees Retirement System of Texas _,_ [ ~~or~~ ] the Teacher Retirement  
+| System of Texas _, or the Texas Emergency Services Retirement System_  
+| under _each_ [ ~~either~~ ] system's administrative jurisdiction;  
+|  (2) recurring payments to municipalities, counties,  
+| political subdivisions, special districts, and other governmental  
+| entities of this state; and  
+|  (3) payments to vendors who choose to receive payment  
+| through the electronic funds transfer system rather than by  
+| warrant.  
+|  (f) [ ~~(1)~~ ] Except as provided by _Subsection (f-1)_  
+| [ ~~Subdivisions (2) and (4)~~ ] and subject to any limitation in rules  
+| adopted by the comptroller, an automated clearinghouse, or the  
+| federal government, the comptroller may use the electronic funds  
+| transfer system to deposit payments only to one or more accounts of  
+| a payee at one or more financial institutions, including credit  
+| unions.  
+|  _(f-1)_ [ ~~(2)~~ ] The comptroller may also use the electronic  
+| funds transfer system to deposit _the amount_ [ ~~a portion~~ ] of an  
+| employee's _payroll deduction made as authorized by law_ [ ~~gross pay~~  
+|  ~~into the employee's account at a credit union as prescribed by~~  
+|  ~~Subchapter G, Chapter 659~~ ].  
+|  _(f-2)_ [ ~~(3)~~ ] A single electronic funds transfer may contain  
+| payments to multiple payees. Individual transfers or warrants are  
+| not required for each payee.  
+|  [ ~~(4) The comptroller may also use the electronic funds~~  
+|  ~~transfer system to deposit a portion of an employee's gross pay into~~  
+|  ~~an account of an eligible state employee organization for a~~  
+|  ~~membership as prescribed by Subchapter G, Chapter 659.~~ ]  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

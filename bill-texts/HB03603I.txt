@@ -1,0 +1,870 @@
+| 86R6926 ATP-F  
+---|---  
+|  By: Martinez Fischer | H.B. No. 3603  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to derivative proceedings on behalf of for-profit  
+| corporations, limited liability companies, and limited  
+| partnerships.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 21.551(2), Business Organizations Code,  
+| is amended to read as follows:  
+|  (2) "Shareholder" _means a shareholder as defined by_  
+| _Section 1.002 or_ [ ~~includes~~ ] a beneficial owner whose shares are  
+| held in a voting trust or by a nominee on the beneficial owner's  
+| behalf.  
+|  SECTION 2. Section 21.552, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.552. STANDING TO BRING PROCEEDING. _(a)_ _____Subject_  
+| _to Subsection (b), a_ [ ~~A~~ ] shareholder may not institute or maintain a  
+| derivative proceeding unless:  
+|  (1) the shareholder:  
+|  (A) was a shareholder of the corporation at the  
+| time of the act or omission complained of; or  
+|  (B) became a shareholder by operation of law  
+| _originating_ from a person that was a shareholder at the time of the  
+| act or omission complained of; and  
+|  (2) the shareholder fairly and adequately represents  
+| the interests of the corporation in enforcing the right of the  
+| corporation.  
+|  _(b)_ _____If a corporation is the surviving form of an entity in a_  
+| _conversion, a shareholder of that entity may not institute or_  
+| _maintain a derivative proceeding based on an act or omission that_  
+| _occurred with respect to the converting entity before the date of_  
+| _the conversion unless:_  
+|  _(1)_ _____the shareholder was an equity owner of the_  
+| _converting entity at the time of the act or omission; and_  
+|  _(2)_ _____the shareholder fairly and adequately represents_  
+| _the interests of the corporation in enforcing the right of the_  
+| _corporation._  
+|  SECTION 3. Section 21.553(b), Business Organizations Code,  
+| is amended to read as follows:  
+|  (b) The waiting period required by Subsection (a) before a  
+| derivative proceeding may be instituted is not required _or, if_  
+| _applicable, shall terminate_ if:  
+|  (1) the shareholder has been [ ~~previously~~ ] notified  
+| that the demand has been rejected by the corporation;  
+|  (2) the corporation is suffering irreparable injury;  
+| or  
+|  (3) irreparable injury to the corporation would result  
+| by waiting for the expiration of the 90-day period.  
+|  SECTION 4. Section 21.554, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.554. DETERMINATION BY DIRECTORS OR INDEPENDENT  
+| PERSONS. (a) A determination of how to proceed on allegations made  
+| in a demand or petition relating to a derivative proceeding must be  
+| made by an affirmative vote of the majority of:  
+|  (1) _all_ [ ~~the~~ ] independent and disinterested directors  
+| of the corporation _, regardless of whether_ [ ~~present at a meeting of~~  
+|  ~~the board of directors of the corporation at which interested~~  
+|  ~~directors are not present at the time of the vote if~~ ] the  
+| independent and disinterested directors constitute a quorum of the  
+| board of directors;  
+|  (2) a committee consisting of _one_ [ ~~two~~ ] or more  
+| independent and disinterested directors appointed by an  
+| affirmative vote of the majority of one or more independent and  
+| disinterested directors [ ~~present at a meeting of the board of~~  
+|  ~~directors~~ ], regardless of whether the independent and  
+| disinterested directors constitute a quorum of the board of  
+| directors; or  
+|  (3) a panel of one or more independent and  
+| disinterested _individuals_ [ ~~persons~~ ] appointed by the court on a  
+| motion by the corporation listing the names of the _individuals_  
+| [ ~~persons~~ ] to be appointed and stating that, to the best of the  
+| corporation's knowledge, the _individuals_ [ ~~persons~~ ] to be appointed  
+| are disinterested and qualified to make the determinations  
+| contemplated by Section 21.558.  
+|  (b) The court shall appoint a panel under Subsection (a)(3)  
+| if the court finds that the _individuals_ [ ~~persons~~ ] recommended by  
+| the corporation are independent and disinterested and are otherwise  
+| qualified with respect to expertise, experience, independent  
+| judgment, and other factors considered appropriate by the court  
+| under the circumstances to make the determinations. _An individual_  
+| [ ~~A person~~ ] appointed by the court to a panel under this section may  
+| not be held liable to the corporation or the corporation's  
+| shareholders for an action taken or omission made by the _individual_  
+| [ ~~person~~ ] in that capacity, except for an act or omission  
+| constituting fraud or wilful misconduct.  
+|  SECTION 5. Section 21.555, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.555. STAY OF PROCEEDING. (a) If the [ ~~domestic or~~  
+|  ~~foreign~~ ] corporation that is the subject of a derivative proceeding  
+| commences an inquiry into the allegations made in a demand or  
+| petition and the person or group of persons described by Section  
+| 21.554 is conducting an active review of the allegations in good  
+| faith, the court shall stay a derivative proceeding _for not more_  
+| _than 60 days_ until the review is completed and a determination is  
+| made by the person or group regarding what further action, if any,  
+| should be taken.  
+|  (b) To obtain a stay, the [ ~~domestic or foreign~~ ] corporation  
+| _must_ [ ~~shall~~ ] provide the court with a written statement agreeing to  
+| advise the court and the shareholder making the demand of the  
+| determination promptly on the completion of the review of the  
+| matter.  
+|  _(c)_ A stay, on _motion_ [ ~~application~~ ], may be reviewed every  
+| 60 days for _continuation_ [ ~~the continued necessity~~ ] of the stay _if_  
+| _the corporation provides the court and the shareholder with a_  
+| _written statement of the status of the review and the reasons why an_  
+| _extension for a period not to exceed 60 additional days is_  
+| _appropriate. An extension shall be granted for a period not to_  
+| _exceed 60 days if the court determines that the continuation is_  
+| _appropriate in the interests of the corporation_.  
+|  [ ~~(c)~~ ~~~~ ~~~~ ~~If the review and determination made by the person
+or~~  
+|  ~~group is not completed before the 61st day after the stay is ordered~~  
+|  ~~by the court, the stay may be renewed for one or more additional~~  
+|  ~~60-day periods if the domestic or foreign corporation provides the~~  
+|  ~~court and the shareholder with a written statement of the status of~~  
+|  ~~the review and the reasons why a continued extension of the stay is~~  
+|  ~~necessary.~~ ]  
+|  SECTION 6. Section 21.556, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.556. DISCOVERY. (a) If a [ ~~domestic or foreign~~ ]  
+| corporation proposes to dismiss a derivative proceeding under  
+| Section 21.558, discovery by a shareholder after the filing of the  
+| derivative proceeding in accordance with this subchapter shall be  
+| limited to:  
+|  (1) facts relating to whether the person or [ ~~group of~~ ]  
+| persons described by Section _21.554 are_ [ ~~21.558 is~~ ] independent and  
+| disinterested;  
+|  (2) the good faith of the inquiry and review by the  
+| person or group; and  
+|  (3) the reasonableness of the procedures followed by  
+| the person or group in conducting the review.  
+|  (b) Discovery described by Subsection (a) may not be  
+| expanded to include a fact or substantive matter regarding the act,  
+| omission, or other matter that is the subject matter of the  
+| derivative proceeding _but the scope of discovery shall not be so_  
+| _limited_ [ ~~. The scope of discovery may be expanded~~ ] if the court  
+| determines after notice and hearing that a good faith review of the  
+| allegations [ ~~for purposes of Section 21.558~~ ] has not been made by an  
+| independent and disinterested person or group in accordance with  
+| _Sections 21.554 and 21.558_ [ ~~that section~~ ].  
+|  SECTION 7. Section 21.557, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.557. TOLLING OF STATUTE OF LIMITATIONS. A written  
+| demand filed with the corporation under Section 21.553 tolls the  
+| statute of limitations on the claim on which demand is made until  
+| the _later_ [ ~~earlier~~ ] of:  
+|  (1) the _31st_ [ ~~91st~~ ] day after the _expiration of any_  
+| _waiting period under Section 21.553_ [ ~~date of the demand~~ ]; or  
+|  (2) the 31st day after the _expiration of any stay_  
+| _granted under Section 21.555, including all continuations of the_  
+| _stay_ [ ~~date the corporation advises the shareholder that the demand~~  
+|  ~~has been rejected or the review has been completed~~ ].  
+|  SECTION 8. Section 21.558, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.558. DISMISSAL OF DERIVATIVE PROCEEDING. (a) A  
+| court _, sitting in equity as the finder of fact,_ shall dismiss a  
+| derivative proceeding on a motion by the corporation if the person  
+| or group of persons described by Section 21.554 determines in good  
+| faith, after conducting a reasonable inquiry and based on factors  
+| the person or group considers appropriate under the circumstances,  
+| that continuation of the derivative proceeding is not in the best  
+| interests of the corporation.  
+|  (b) In determining whether the requirements of Subsection  
+| (a) have been met, the burden of proof shall be on:  
+|  (1) the plaintiff shareholder if:  
+|  (A) the majority of the board of directors  
+| consists of independent and disinterested directors at the time the  
+| determination is made;  
+|  (B) the determination is made by a panel of one or  
+| more independent and disinterested persons appointed under Section  
+| 21.554(a)(3); or  
+|  (C) the corporation presents prima facie  
+| evidence that demonstrates that the _applicable person or persons_  
+| _making the determination_ [ ~~directors appointed~~ ] under Section  
+| _21.554(a)_ [ ~~21.554(a)(2)~~ ] are independent and disinterested; or  
+|  (2) the corporation in any other circumstance.  
+|  SECTION 9. Section 21.559, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.559. _ALLEGATIONS_ [ ~~PROCEEDING INSTITUTED~~ ] AFTER  
+| DEMAND REJECTED. If a derivative proceeding is instituted after a  
+| demand is rejected, the petition must allege with particularity  
+| facts that establish that the rejection was not made in accordance  
+| with the requirements _and standards under_ [ ~~of~~ ] Sections 21.554 and  
+| 21.558.  
+|  SECTION 10. Section 21.561, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.561. PAYMENT OF EXPENSES. (a) In this section,  
+| "expenses" means reasonable expenses incurred by a party in a  
+| derivative proceeding, including:  
+|  (1) attorney's fees;  
+|  (2) costs in pursuing an investigation of the matter  
+| that was the subject of the derivative proceeding; or  
+|  (3) expenses for which the [ ~~domestic or foreign~~ ]  
+| corporation [ ~~or a corporate defendant~~ ] may be required to indemnify  
+| another person.  
+|  (b) On termination of a derivative proceeding, the court may  
+| order:  
+|  (1) the [ ~~domestic or foreign~~ ] corporation to pay [ ~~the~~ ]  
+| expenses the plaintiff incurred in the proceeding if the court  
+| finds the proceeding has resulted in a substantial benefit to the  
+| [ ~~domestic or foreign~~ ] corporation;  
+|  (2) the plaintiff to pay [ ~~the~~ ] expenses the [ ~~domestic~~  
+|  ~~or foreign~~ ] corporation or other defendant incurred in  
+| investigating and defending the proceeding if the court finds the  
+| proceeding has been instituted or maintained without reasonable  
+| cause or for an improper purpose; or  
+|  (3) a party to pay [ ~~the~~ ] expenses incurred by another  
+| party relating to the filing of a pleading, motion, or other paper  
+| if the court finds the pleading, motion, or other paper:  
+|  (A) was not well grounded in fact after  
+| reasonable inquiry;  
+|  (B) was not warranted by existing law or a good  
+| faith argument for the _application,_ extension, modification, or  
+| reversal of existing law; or  
+|  (C) was interposed for an improper purpose, such  
+| as to harass, cause unnecessary delay, or cause a needless increase  
+| in the cost of litigation.  
+|  SECTION 11. Section 21.562, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.562. APPLICATION TO FOREIGN CORPORATIONS. (a) In a  
+| derivative proceeding brought in the right of a foreign  
+| corporation, the matters covered by this subchapter are governed by  
+| the laws of the jurisdiction of _formation_ [ ~~incorporation~~ ] of the  
+| foreign corporation, except for Sections 21.555, 21.560, and  
+| 21.561, which are procedural provisions and do not relate to the  
+| internal affairs of the foreign corporation _, unless applying the_  
+| _laws of the jurisdiction of formation of the foreign corporation_  
+| _requires otherwise with respect to Section 21.555_.  
+|  (b) In the case of matters relating to a foreign corporation  
+| under Section _21.555_ [ ~~21.554~~ ], a reference to a person or group of  
+| persons described by _Section 21.554_ [ ~~that section~~ ] refers to a  
+| person or group entitled under the laws of the jurisdiction of  
+| _formation_ [ ~~incorporation~~ ] of the foreign corporation to _make the_  
+| _determination described by Section 21.554(a)_ [ ~~review and dispose of~~  
+|  ~~a derivative proceeding~~ ]. The standard of review of a  
+| _determination_ [ ~~decision~~ ] made by the person or group [ ~~to
+dismiss~~  
+|  ~~the derivative proceeding~~ ] shall be governed by the laws of the  
+| jurisdiction of _formation_ [ ~~incorporation~~ ] of the foreign  
+| corporation.  
+|  SECTION 12. Section 21.563, Business Organizations Code, is  
+| amended to read as follows:  
+|  Sec. 21.563. CLOSELY HELD CORPORATION. (a) In this  
+| section, "closely held corporation" means a corporation that has:  
+|  (1) fewer than 35 shareholders; and  
+|  (2) no shares listed on a national securities exchange  
+| or regularly quoted in an over-the-counter market by one or more  
+| members of a national securities association.  
+|  (b) Sections _21.552-21.560_ [ ~~21.552-21.559~~ ] do not apply to  
+| a _claim or a derivative proceeding by a shareholder of a_ closely  
+| held corporation _against a director, officer, or shareholder of the_  
+| _corporation. In the event the claim or derivative proceeding is_  
+| _also made against a person who is not that director, officer, or_  
+| _shareholder, this subsection applies only to the claim or_  
+| _derivative proceeding against the director, officer, or_  
+| _shareholder_.  
+|  (c) If _Sections 21.552-21.560 do not apply because of_  
+| _Subsection (b) and if_ justice requires:  
+|  (1) a derivative proceeding brought by a shareholder  
+| of a closely held corporation may be treated by a court as a direct  
+| action brought by the shareholder for the shareholder's own  
+| benefit; and  
+|  (2) a recovery in a direct or derivative proceeding by  
+| a shareholder may be paid directly to the plaintiff or to the  
+| corporation if necessary to protect the interests of creditors or  
+| other shareholders of the corporation.  
+|  _(d)_ _____Other provisions of state law govern whether a_  
+| _shareholder has a direct cause of action or right to sue a director,_  
+| _officer, or shareholder, and this section may not be construed to_  
+| _create that direct cause of action or right to sue._  
+|  SECTION 13. Section 101.451, Business Organizations Code,  
+| is amended by amending Subdivision (2) and adding Subdivision (3)  
+| to read as follows:  
+|  (2) _"Managing entity" means an entity that is either:_  
+|  _(A)_ _____a manager of a limited liability company that_  
+| _is managed by managers; or_  
+|  _(B)_ _____a member of a limited liability company that_  
+| _is managed by members who are entitled to manage the company._  
+|  _(3)_ "Member" _means_ [ ~~includes~~ ] a person who _is a member_  
+| _or is an assignee of a membership interest or a person who_  
+| beneficially owns a membership interest through a voting trust or a  
+| nominee on the person's behalf.  
+|  SECTION 14. Section 101.452, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.452. STANDING TO BRING PROCEEDING. _(a)_ _____Subject_  
+| _to Subsection (b), a_ [ ~~A~~ ] member may not institute or maintain a  
+| derivative proceeding unless:  
+|  (1) the member:  
+|  (A) was a member of the limited liability company  
+| at the time of the act or omission complained of; or  
+|  (B) became a member by operation of law  
+| _originating_ from a person that was a member at the time of the act or  
+| omission complained of; and  
+|  (2) the member fairly and adequately represents the  
+| interests of the limited liability company in enforcing the right  
+| of the limited liability company.  
+|  _(b)_ _____If a limited liability company is the surviving form of_  
+| _an entity in a conversion, a member of that entity may not institute_  
+| _or maintain a derivative proceeding based on an act or omission that_  
+| _occurred with respect to the converting entity before the date of_  
+| _the conversion unless:_  
+|  _(1)_ _____the member was an equity owner of the converting_  
+| _entity at the time of the act or omission; and_  
+|  _(2)_ _____the member fairly and adequately represents the_  
+| _interests of the limited liability company in enforcing the right_  
+| _of the limited liability company._  
+|  SECTION 15. Section 101.453(b), Business Organizations  
+| Code, is amended to read as follows:  
+|  (b) The waiting period required by Subsection (a) before a  
+| derivative proceeding may be instituted is not required _or, if_  
+| _applicable, shall terminate_ if:  
+|  (1) the member has been [ ~~previously~~ ] notified that the  
+| demand has been rejected by the limited liability company;  
+|  (2) the limited liability company is suffering  
+| irreparable injury; or  
+|  (3) irreparable injury to the limited liability  
+| company would result by waiting for the expiration of the 90-day  
+| period.  
+|  SECTION 16. Section 101.454, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.454. DETERMINATION BY GOVERNING OR INDEPENDENT  
+| PERSONS. (a) The determination of how to proceed on allegations  
+| made in a demand or petition relating to a derivative proceeding  
+| must be made by an affirmative vote of the majority of:  
+|  (1) the independent and disinterested governing  
+| persons _of the limited liability company, whether one or more, even_  
+| _if the independent and disinterested governing persons are not a_  
+| _majority of the governing persons of the limited liability company_  
+| [ ~~present at a meeting of the governing authority at which~~  
+|  ~~interested governing persons are not present at the time of the vote~~  
+|  ~~if the independent and disinterested governing persons constitute a~~  
+|  ~~quorum of the governing authority~~ ];  
+|  (2) a committee consisting of _one_ [ ~~two~~ ] or more  
+| independent and disinterested governing persons appointed by the  
+| majority of one or more independent and disinterested governing  
+| persons _of the limited liability company, even if the appointing_  
+| _independent and disinterested governing persons are not a majority_  
+| _of the governing persons of the limited liability company_ [ ~~present~~  
+|  ~~at a meeting of the governing authority, regardless of whether the~~  
+|  ~~independent and disinterested governing persons constitute a~~  
+|  ~~quorum of the governing authority~~ ]; or  
+|  (3) a panel of one or more independent and  
+| disinterested _individuals_ [ ~~persons~~ ] appointed by the court on a  
+| motion by the limited liability company listing the names of the  
+| _individuals_ [ ~~persons~~ ] to be appointed and stating that, to the best  
+| of the limited liability company's knowledge, the _individuals_  
+| [ ~~persons~~ ] to be appointed are disinterested and qualified to make  
+| the determinations contemplated by Section 101.458.  
+|  (b) _An entity is independent and disinterested only if its_  
+| _decision with respect to the limited liability company's derivative_  
+| _proceeding is made by a majority of its governing persons who are_  
+| _independent and disinterested with respect to that derivative_  
+| _proceeding, even if those governing persons are not a majority of_  
+| _its governing persons. This section applies to an entity that is:_  
+|  _(1)_ _____a managing entity of the limited liability_  
+| _company; or_  
+|  _(2)_ _____directly, or indirectly through one or more other_  
+| _entities, a governing person of that managing entity._  
+|  _(c)_ The court shall appoint a panel under Subsection (a)(3)  
+| if the court finds that the _individuals_ [ ~~persons~~ ] recommended by  
+| the limited liability company are independent and disinterested and  
+| are otherwise qualified with respect to expertise, experience,  
+| independent judgment, and other factors considered appropriate by  
+| the court under the circumstances to make the determinations. _An_  
+| _individual_ [ ~~A person~~ ] appointed by the court to a panel under this  
+| section may not be held liable to the limited liability company or  
+| the limited liability company's members for an action taken or  
+| omission made by the _individual_ [ ~~person~~ ] in that capacity, except  
+| for acts or omissions constituting fraud or wilful misconduct.  
+|  SECTION 17. Section 101.455, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.455. STAY OF PROCEEDING. (a) If the [ ~~domestic or~~  
+|  ~~foreign~~ ] limited liability company that is the subject of a  
+| derivative proceeding commences an inquiry into the allegations  
+| made in a demand or petition and the person or group of persons  
+| described by Section 101.454 is conducting an active review of the  
+| allegations in good faith, the court shall stay a derivative  
+| proceeding _for not more than 60 days_ until the review is completed  
+| and a determination is made by the person or group regarding what  
+| further action, if any, should be taken.  
+|  (b) To obtain a stay, the [ ~~domestic or foreign~~ ] limited  
+| liability company _must_ [ ~~shall~~ ] provide the court with a written  
+| statement agreeing to advise the court and the member making the  
+| demand of the determination promptly on the completion of the  
+| review of the matter.  
+|  _(c)_ A stay, on motion, may be reviewed every 60 days for  
+| _continuation_ [ ~~the continued necessity~~ ] of the stay _if the limited_  
+| _liability company provides the court and the member with a written_  
+| _statement of the status of the review and the reasons why an_  
+| _extension for a period not to exceed 60 additional days is_  
+| _appropriate. An extension shall be granted for a period not to_  
+| _exceed 60 days if the court determines that the continuation is_  
+| _appropriate in the interests of the limited liability company_.  
+|  [ ~~(c)~~ ~~~~ ~~~~ ~~If the review and determination made by the person
+or~~  
+|  ~~group is not completed before the 61st day after the date on which~~  
+|  ~~the court orders the stay, the stay may be renewed for one or more~~  
+|  ~~additional 60-day periods if the domestic or foreign limited~~  
+|  ~~liability company provides the court and the member with a written~~  
+|  ~~statement of the status of the review and the reasons why a~~  
+|  ~~continued extension of the stay is necessary.~~ ]  
+|  SECTION 18. Section 101.456, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.456. DISCOVERY. (a) If a [ ~~domestic or foreign~~ ]  
+| limited liability company proposes to dismiss a derivative  
+| proceeding under Section 101.458, discovery by a member after the  
+| filing of the derivative proceeding in accordance with this  
+| subchapter shall be limited to:  
+|  (1) facts relating to whether the person or [ ~~group of~~ ]  
+| persons described by Section _101.454 are_ [ ~~101.458 is~~ ] independent  
+| and disinterested;  
+|  (2) the good faith of the inquiry and review by the  
+| person or group; and  
+|  (3) the reasonableness of the procedures followed by  
+| the person or group in conducting the review.  
+|  (b) Discovery described by Subsection (a) may not be  
+| expanded to include a fact or substantive matter regarding the act,  
+| omission, or other matter that is the subject matter of the  
+| derivative proceeding _but the scope of discovery shall not be so_  
+| _limited_ [ ~~. The scope of discovery may be expanded~~ ] if the court  
+| determines after notice and hearing that a good faith review of the  
+| allegations [ ~~for purposes of Section 101.458~~ ] has not been made by  
+| an independent and disinterested person or group in accordance with  
+| _Sections 101.454 and 101.458_ [ ~~that section~~ ].  
+|  SECTION 19. Section 101.457, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.457. TOLLING OF STATUTE OF LIMITATIONS. A written  
+| demand filed with the limited liability company under Section  
+| 101.453 tolls the statute of limitations on the claim on which  
+| demand is made until the _later_ [ ~~earlier~~ ] of:  
+|  (1) the _31st_ [ ~~91st~~ ] day after the _expiration of any_  
+| _waiting period under Section 153.403_ [ ~~date of the demand~~ ]; or  
+|  (2) the 31st day after the _expiration of any stay_  
+| _granted under Section 153.405, including all continuations of the_  
+| _stay_ [ ~~date the limited liability company advises the member that~~  
+|  ~~the demand has been rejected or the review has been completed~~ ].  
+|  SECTION 20. Section 101.458, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.458. DISMISSAL OF DERIVATIVE PROCEEDING. (a) A  
+| court _, sitting in equity as the finder of fact,_ shall dismiss a  
+| derivative proceeding on a motion by the limited liability company  
+| if the person or group of persons described by Section 101.454  
+| determines in good faith, after conducting a reasonable inquiry and  
+| based on factors the person or group considers appropriate under  
+| the circumstances, that continuation of the derivative proceeding  
+| is not in the best interests of the limited liability company.  
+|  (b) In determining whether the requirements of Subsection  
+| (a) have been met, the burden of proof shall be on:  
+|  (1) the plaintiff member if:  
+|  (A) the _applicable person or persons making the_  
+| _determination under Section 101.454(a)(1) or (2) are_ [ ~~majority of~~  
+|  ~~the governing authority consists of~~ ] independent and disinterested  
+| [ ~~persons~~ ] at the time the determination is made;  
+|  (B) the determination is made by a panel of one or  
+| more independent and disinterested persons appointed under Section  
+| 101.454(a)(3); or  
+|  (C) the limited liability company presents prima  
+| facie evidence that demonstrates that the _applicable person or_  
+| persons _making the determination_ [ ~~appointed~~ ] under Section  
+| _101.454(a)_ [ ~~101.454(a)(2)~~ ] are independent and disinterested; or  
+|  (2) the limited liability company in any other  
+| circumstance.  
+|  SECTION 21. Section 101.459, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.459. ALLEGATIONS _AFTER_ [ ~~IF~~ ] DEMAND REJECTED. If a  
+| derivative proceeding is instituted after a demand is rejected, the  
+| petition must allege with particularity facts that establish that  
+| the rejection was not made in accordance with the requirements _and_  
+| _standards under_ [ ~~of~~ ] Sections 101.454 and 101.458.  
+|  SECTION 22. Section 101.461, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.461. PAYMENT OF EXPENSES. (a) In this section,  
+| "expenses" means reasonable expenses incurred by a party in a  
+| derivative proceeding, including:  
+|  (1) attorney's fees;  
+|  (2) costs _in_ [ ~~of~~ ] pursuing an investigation of the  
+| matter that was the subject of the derivative proceeding; or  
+|  (3) expenses for which the [ ~~domestic or foreign~~ ]  
+| limited liability company may be required to indemnify another  
+| person.  
+|  (b) On termination of a derivative proceeding, the court may  
+| order:  
+|  (1) the [ ~~domestic or foreign~~ ] limited liability  
+| company to pay [ ~~the~~ ] expenses the plaintiff incurred in the  
+| proceeding if the court finds the proceeding has resulted in a  
+| substantial benefit to the [ ~~domestic or foreign~~ ] limited liability  
+| company;  
+|  (2) the plaintiff to pay [ ~~the~~ ] expenses the [ ~~domestic~~  
+|  ~~or foreign~~ ] limited liability company or other defendant incurred  
+| in investigating and defending the proceeding if the court finds  
+| the proceeding has been instituted or maintained without reasonable  
+| cause or for an improper purpose; or  
+|  (3) a party to pay [ ~~the~~ ] expenses incurred by another  
+| party relating to the filing of a pleading, motion, or other paper  
+| if the court finds the pleading, motion, or other paper:  
+|  (A) was not well grounded in fact after  
+| reasonable inquiry;  
+|  (B) was not warranted by existing law or a good  
+| faith argument for the _application,_ extension, modification, or  
+| reversal of existing law; or  
+|  (C) was interposed for an improper purpose, such  
+| as to harass, cause unnecessary delay, or cause a needless increase  
+| in the cost of litigation.  
+|  SECTION 23. Section 101.462, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.462. APPLICATION TO FOREIGN LIMITED LIABILITY  
+| COMPANIES. (a) In a derivative proceeding brought in the right of  
+| a foreign limited liability company, the matters covered by this  
+| subchapter are governed by the laws of the jurisdiction of  
+| _formation_ [ ~~organization~~ ] of the foreign limited liability company,  
+| except for Sections 101.455, 101.460, and 101.461, which are  
+| procedural provisions and do not relate to the internal affairs of  
+| the foreign limited liability company _, unless applying the laws of_  
+| _the jurisdiction of formation of the foreign limited liability_  
+| _company requires otherwise with respect to Section 101.455_.  
+|  (b) In the case of matters relating to a foreign limited  
+| liability company under Section _101.455_ [ ~~101.454~~ ], a reference to a  
+| person or group of persons described by _Section 101.454_ [ ~~that~~  
+|  ~~section~~ ] refers to a person or group entitled under the laws of the  
+| jurisdiction of _formation_ [ ~~organization~~ ] of the foreign limited  
+| liability company to _make the determination described by Section_  
+| _101.454(a)_ [ ~~review and dispose of a derivative proceeding~~ ]. The  
+| standard of review of a _determination_ [ ~~decision~~ ] made by the person  
+| or group [ ~~to dismiss the derivative proceeding~~ ] shall be governed  
+| by the laws of the jurisdiction of _formation_ [ ~~organization~~ ] of the  
+| foreign limited liability company.  
+|  SECTION 24. Section 101.463, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 101.463. CLOSELY HELD LIMITED LIABILITY COMPANY. (a)  
+| In this section, "closely held limited liability company" means a  
+| limited liability company that has:  
+|  (1) fewer than 35 members; and  
+|  (2) no membership interests listed on a national  
+| securities exchange or regularly quoted in an over-the-counter  
+| market by one or more members of a national securities association.  
+|  (b) Sections _101.452-101.460_ [ ~~101.452-101.459~~ ] do not apply  
+| to a _claim or a derivative proceeding by a member of a_ closely held  
+| limited liability company _against a governing person, member, or_  
+| _officer of the limited liability company._ ___In the event the claim or_  
+| _derivative proceeding is also made against a person who is not that_  
+| _governing person, member, or officer, this subsection applies only_  
+| _to the claim or derivative proceeding against the governing person,_  
+| _member, or officer_.  
+|  (c) If _Sections 101.452-101.460 do not apply because of_  
+| _Subsection (b) and if_ justice requires:  
+|  (1) a derivative proceeding brought by a member of a  
+| closely held limited liability company may be treated by a court as  
+| a direct action brought by the member for the member's own benefit;  
+| and  
+|  (2) a recovery in a direct or derivative proceeding by  
+| a member may be paid directly to the plaintiff or to the limited  
+| liability company if necessary to protect the interests of  
+| creditors or other members of the limited liability company.  
+|  _(d)_ _____Other provisions of state law govern whether a member_  
+| _has a direct cause of action or right to sue a governing person,_  
+| _member, or officer, and this section may not be construed to create_  
+| _that direct cause of action or right to sue._  
+|  SECTION 25. Section 153.401, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 153.401. _DEFINITIONS_ [ ~~RIGHT TO BRING ACTION~~ ]. _In this_  
+| _subchapter:_  
+|  _(1)_ _____"Derivative proceeding" means a civil suit in the_  
+| _right of a domestic limited partnership or, to the extent provided_  
+| _by Section_ ___153.412, in the right of a foreign limited partnership._  
+|  _(2)_ _____"Limited partner" means a person who is a limited_  
+| _partner or is an assignee of a partnership interest, including the_  
+| _partnership interest of a general partner_ [ ~~A limited partner may~~  
+|  ~~bring an action in a court on behalf of the limited partnership to~~  
+|  ~~recover a judgment in the limited partnership's favor if:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~all general partners with authority to bring the~~  
+|  ~~action have refused to bring the action; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~an effort to cause those general partners to~~  
+|  ~~bring the action is not likely to succeed~~ ].  
+|  SECTION 26. Section 153.402, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 153.402. _STANDING TO BRING PROCEEDING_ [ ~~PROPER~~  
+|  ~~PLAINTIFF~~ ]. _(a)_ _____Subject to Subsection (b), a limited partner
+may_  
+| _not institute or maintain a derivative proceeding unless:_  
+|  _(1) the limited partner:_  
+|  _(A)_ _____was a limited partner of the limited_  
+| _partnership at the time of the act or omission complained of; or_  
+|  _(B)_ _____became a limited partner by operation of law_  
+| _originating from a person that was a limited partner or general_  
+| _partner at the time of the act or omission complained of; and_  
+|  _(2)_ _____the limited partner fairly and adequately_  
+| _represents the interests of the limited partnership in enforcing_  
+| _the right of the limited partnership._  
+|  _(b)_ _____If a limited partnership is the surviving form of an_  
+| _entity in a conversion, a limited partner of that entity may not_  
+| _institute or maintain a derivative proceeding based on an act or_  
+| _omission that occurred with respect to the converting entity before_  
+| _the date of the conversion unless:_  
+|  _(1)_ _____the limited partner was an equity owner of the_  
+| _converting entity at the time of the act or omission; and_  
+|  _(2)_ _____the limited partner fairly and adequately_  
+| _represents the interests of the limited partnership in enforcing_  
+| _the right of the limited partnership_ [ ~~In a derivative action, the~~  
+|  ~~plaintiff must be a limited partner when the action is brought and:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the person must have been a limited partner at the~~  
+|  ~~time of the transaction that is the subject of the action; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the person's status as a limited partner must have~~  
+|  ~~arisen by operation of law or under the terms of the partnership~~  
+|  ~~agreement from a person who was a limited partner at the time of the~~  
+|  ~~transaction~~ ].  
+|  SECTION 27. Section 153.403, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 153.403. _DEMAND_ [ ~~PLEADING~~ ]. _(a) A limited partner may_  
+| _not institute a derivative proceeding until the 91st day after the_  
+| _date a written demand is filed with the limited partnership stating_  
+| _with particularity the act, omission, or other matter that is the_  
+| _subject matter of the claim or challenge and requesting that the_  
+| _limited partnership take suitable action._  
+|  _(b)_ _____The waiting period required by Subsection (a) before a_  
+| _derivative proceeding may be instituted is not required or, if_  
+| _applicable, shall terminate if:_  
+|  _(1)_ _____the limited partner has been notified that the_  
+| _demand has been rejected by the limited partnership;_  
+|  _(2)_ _____the limited partnership is suffering irreparable_  
+| _injury; or_  
+|  _(3)_ _____irreparable injury to the limited partnership_  
+| _would result by waiting for the expiration of the 90-day period_ [ ~~In~~  
+|  ~~a derivative action, the complaint must contain with particularity:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~the effort, if any, of the plaintiff to secure~~  
+|  ~~initiation of the action by a general partner; or~~  
+|  [ ~~(2) the reasons for not making the effort~~].  
+|  SECTION 28. Section 153.404, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 153.404. _DETERMINATION BY INDEPENDENT PERSONS_  
+| [ ~~SECURITY FOR EXPENSES OF DEFENDANTS~~ ]. (a) _A determination of how_  
+| _to proceed on allegations made in a demand or petition relating to a_  
+| _derivative proceeding must be made by an affirmative vote of the_  
+| _majority of:_  
+|  _(1)_ _____the independent and disinterested general_  
+| _partners of the limited partnership, whether one or more, even if_  
+| _the independent and disinterested general partners are not a_  
+| _majority of the general partners of the limited partnership;_  
+|  _(2)_ _____a committee consisting of one or more independent_  
+| _and disinterested general partners appointed by a majority of one_  
+| _or more independent and disinterested general partners of the_  
+| _limited partnership, even if the appointing independent and_  
+| _disinterested general partners are not a majority of the general_  
+| _partners of the limited partnership; or_  
+|  _(3)_ _____a panel of one or more independent and_  
+| _disinterested individuals appointed by the court on a motion by the_  
+| _limited partnership listing the names of the individuals to be_  
+| _appointed and stating that, to the best of the limited_  
+| _partnership's knowledge, the individuals to be appointed are_  
+| _disinterested and qualified to make the determinations_  
+| _contemplated by Section_ ___153.408_ [ ~~In a derivative action, the
+court~~  
+|  ~~may require the plaintiff to give security for the reasonable~~  
+|  ~~expenses incurred or expected to be incurred by a defendant in the~~  
+|  ~~action, including reasonable attorney's fees~~ ].  
+|  (b) _An entity is independent and disinterested only if its_  
+| _decision with respect to the limited partnership's derivative_  
+| _proceeding is made by a majority of its governing persons who are_  
+| _independent and disinterested with respect to that derivative_  
+| _proceeding, even if those governing persons are not a majority of_  
+| _its governing persons. This section applies to an entity that is:_  
+|  _(1) a general partner of the limited partnership; or_  
+|  _(2)_ _____directly, or indirectly through one or more other_  
+| _entities, a governing person of that general partner_ [ ~~The court may~~  
+|  ~~increase or decrease at any time the amount of the security on a~~  
+|  ~~showing that the security provided is inadequate or excessive~~ ].  
+|  (c) _The court shall appoint a panel under Subsection_ ___(a)(3)_  
+| _if the court finds that the individuals recommended by the limited_  
+| _partnership are independent and disinterested and are otherwise_  
+| _qualified with respect to expertise, experience, independent_  
+| _judgment, and other factors considered appropriate by the court_  
+| _under the circumstances to make the determinations. An individual_  
+| _appointed by the court to a panel under this section may not be held_  
+| _liable to the limited partnership or the limited partnership's_  
+| _partners for an action taken or omission made by the individual in_  
+| _that capacity, except for an act or omission constituting fraud or_  
+| _wilful misconduct_ [ ~~If a plaintiff is unable to give security, the~~  
+|  ~~plaintiff may file an affidavit in accordance with the Texas Rules~~  
+|  ~~of Civil Procedure~~ ].  
+|  [ ~~(d)~~ ~~~~ ~~~~ ~~Except as provided by Subsection (c), if a
+plaintiff~~  
+|  ~~fails to give the security within a reasonable time set by the~~  
+|  ~~court, the court shall dismiss the suit without prejudice.~~  
+|  [ ~~(e)~~ ~~~~ ~~~~ ~~The court, on final judgment for a defendant and on
+a~~  
+|  ~~finding that suit was brought without reasonable cause against the~~  
+|  ~~defendant, may require the plaintiff to pay reasonable expenses,~~  
+|  ~~including reasonable attorney's fees, to the defendant, regardless~~  
+|  ~~of whether security has been required.~~ ]  
+|  SECTION 29. Section 153.405, Business Organizations Code,  
+| is amended to read as follows:  
+|  Sec. 153.405. _STAY OF PROCEEDING_ [ ~~EXPENSES OF PLAINTIFF~~ ].  
+| _(a) If the limited partnership that is the subject of a derivative_  
+| _proceeding commences an inquiry into the allegations made in a_  
+| _demand or petition and the person or group of persons described by_  
+| _Section 153.404 is conducting an active review of the allegations_  
+| _in good faith, the court shall stay a derivative proceeding for not_  
+| _more than 60 days until the review is completed and a determination_  
+| _is made by the person or group regarding what further action, if_  
+| _any, should be taken._  
+|  _(b)_ _____To obtain a stay, the limited partnership must provide_  
+| _the court with a written statement agreeing to advise the court and_  
+| _the limited partner making the demand of the determination promptly_  
+| _on the completion of the review of the matter._  
+|  _(c)_ _____A stay, on motion, may be reviewed every 60 days for_  
+| _continuation of the stay if the limited partnership provides the_  
+| _court and the limited partner with a written statement of the status_  
+| _of the review and the reasons why an extension for a period not to_  
+| _exceed 60 additional days is appropriate. An extension shall be_  
+| _granted for a period not to exceed 60 days if the court determines_  
+| _that the continuation is appropriate in the interests of the_  
+| _partnership_ [ ~~If a derivative action is successful, wholly or~~  
+|  ~~partly, or if anything is received by the plaintiff because of a~~  
+|  ~~judgment, compromise, or settlement of the action or claim~~  
+|  ~~constituting a part of the action, the court may award the plaintiff~~  
+|  ~~reasonable expenses, including reasonable attorney's fees, and~~  
+|  ~~shall direct the plaintiff to remit to a party identified by the~~  
+|  ~~court the remainder of the proceeds received by the plaintiff~~ ].  
+|  SECTION 30. Subchapter I, Chapter 153, Business  
+| Organizations Code, is amended by adding Sections 153.406, 153.407,  
+| 153.408, 153.409, 153.410, 153.411, 153.412, and 153.413 to read as  
+| follows:  
+|  _Sec._ ___153.406._ _____DISCOVERY. (a) If a limited partnership_  
+| _proposes to dismiss a derivative proceeding under Section 153.408,_  
+| _discovery by a limited partner after the filing of the derivative_  
+| _proceeding in accordance with this subchapter shall be limited to:_  
+|  _(1)_ _____facts relating to whether the person or persons_  
+| _described by Section 153.404 are independent and disinterested;_  
+|  _(2)_ _____the good faith of the inquiry and review by the_  
+| _person or group; and_  
+|  _(3)_ _____the reasonableness of the procedures followed by_  
+| _the person or group in conducting the review._  
+|  _(b)_ _____Discovery described by Subsection (a) may not be_  
+| _expanded to include a fact or substantive matter regarding the act,_  
+| _omission, or other matter that is the subject matter of the_  
+| _derivative proceeding, but the scope of discovery shall not be so_  
+| _limited if the court determines after notice and hearing that a good_  
+| _faith review of the allegations has not been made by an independent_  
+| _and disinterested person or group in accordance with Sections_  
+| _153.404 and 153.408._  
+|  _Sec._ ___153.407._ _____TOLLING OF STATUTE OF LIMITATIONS. A written_  
+| _demand filed with the limited partnership under Section 153.403_  
+| _tolls the statute of limitations on the claim on which demand is_  
+| _made until the later of:_  
+|  _(1)_ _____the 31st day after the expiration of any waiting_  
+| _period under Section 153.403; or_  
+|  _(2)_ _____the 31st day after the expiration of any stay_  
+| _granted under Section 153.405, including all continuations of the_  
+| _stay._  
+|  _Sec._ ___153.408._ _____DISMISSAL OF DERIVATIVE PROCEEDING. (a) A_  
+| _court, sitting in equity as the finder of fact, shall dismiss a_  
+| _derivative proceeding on a motion by the limited partnership if the_  
+| _person or group of persons described by Section 153.404 determines_  
+| _in good faith, after conducting a reasonable inquiry and based on_  
+| _factors the person or group considers appropriate under the_  
+| _circumstances, that continuation of the derivative proceeding is_  
+| _not in the best interests of the limited partnership._  
+|  _(b)_ _____In determining whether the requirements of Subsection_  
+| _(a) have been met, the burden of proof shall be on:_  
+|  _(1) the plaintiff limited partner if:_  
+|  _(A)_ _____the applicable person or persons making the_  
+| _determination under Section 153.404(a)(1) or (2) are independent_  
+| _and disinterested at the time the determination is made;_  
+|  _(B)_ _____the determination is made by a panel of one or_  
+| _more independent and disinterested individuals appointed under_  
+| _Section 153.404(a)(3); or_  
+|  _(C)_ _____the limited partnership presents prima facie_  
+| _evidence that demonstrates that the applicable person or persons_  
+| _making the determination under Section 153.404(a) are independent_  
+| _and disinterested; or_  
+|  _(2) the limited partnership in any other circumstance._  
+|  _Sec._ ___153.409._ _____ALLEGATIONS AFTER DEMAND REJECTED. If a_  
+| _derivative proceeding is instituted after a demand is rejected, the_  
+| _petition must allege with particularity facts that establish that_  
+| _the rejection was not made in accordance with the requirements and_  
+| _standards under Sections_ ___153.404 and 153.408._  
+|  _Sec._ ___153.410._ _____DISCONTINUANCE OR SETTLEMENT. (a) A_  
+| _derivative proceeding may not be discontinued or settled without_  
+| _court approval._  
+|  _(b)_ _____The court shall direct that notice be given to the_  
+| _affected partners if the court determines that a proposed_  
+| _discontinuance or settlement may substantially affect the_  
+| _interests of other partners._  
+|  _Sec._ ___153.411._ _____PAYMENT OF EXPENSES. (a) In this section,_  
+| _"expenses" means reasonable expenses incurred by a party in a_  
+| _derivative proceeding, including:_  
+|  _(1) attorney's fees;_  
+|  _(2)_ _____costs in pursuing an investigation of the matter_  
+| _that was the subject of the derivative proceeding; or_  
+|  _(3)_ _____expenses for which the limited partnership may be_  
+| _required to indemnify another person._  
+|  _(b)_ _____On termination of a derivative proceeding, the court may_  
+| _order:_  
+|  _(1)_ _____the limited partnership to pay expenses the_  
+| _plaintiff incurred in the proceeding if the court finds the_  
+| _proceeding has resulted in a substantial benefit to the limited_  
+| _partnership;_  
+|  _(2)_ _____the plaintiff to pay expenses the limited_  
+| _partnership or other defendant incurred in investigating and_  
+| _defending the proceeding if the court finds the proceeding has been_  
+| _instituted or maintained without reasonable cause or for an_  
+| _improper purpose; or_  
+|  _(3)_ _____a party to pay expenses incurred by another party_  
+| _relating to the filing of a pleading, motion, or other paper if the_  
+| _court finds the pleading, motion, or other paper:_  
+|  _(A)_ _____was not well grounded in fact after_  
+| _reasonable inquiry;_  
+|  _(B)_ _____was not warranted by existing law or a good_  
+| _faith argument for the application, extension, modification, or_  
+| _reversal of existing law; or_  
+|  _(C)_ _____was interposed for an improper purpose, such_  
+| _as to harass, cause unnecessary delay, or cause a needless increase_  
+| _in the cost of litigation._  
+|  _Sec._ ___153.412._ _____APPLICATION TO FOREIGN LIMITED_  
+| _PARTNERSHIPS._ _____(a) In a derivative proceeding brought in the right_  
+| _of a foreign limited partnership, the matters covered by this_  
+| _subchapter are governed by the laws of the jurisdiction of_  
+| _formation of the foreign limited partnership, except for Sections_  
+| _153.405, 153.410, and 153.411, which are procedural provisions and_  
+| _do not relate to the internal affairs of the foreign limited_  
+| _partnership, unless applying the laws of the jurisdiction of_  
+| _formation of the foreign limited partnership requires otherwise_  
+| _with respect to Section 153.405._  
+|  _(b)_ _____In the case of matters relating to a foreign limited_  
+| _partnership under Section 153.405, a reference to a person or group_  
+| _of persons described by Section 153.404 refers to a person or group_  
+| _entitled under the laws of the jurisdiction of formation of the_  
+| _foreign limited partnership to make the determination described by_  
+| _Section 153.404(a). The standard of review of a determination made_  
+| _by the person or group shall be governed by the laws of the_  
+| _jurisdiction of formation of the foreign limited partnership._  
+|  _Sec._ ___153.413._ _____CLOSELY HELD LIMITED PARTNERSHIP. (a) In_  
+| _this section, "closely held limited partnership" means a limited_  
+| _partnership that has:_  
+|  _(1) fewer than 35 limited partners; and_  
+|  _(2)_ _____no partnership interests listed on a national_  
+| _securities exchange or regularly quoted in an over-the-counter_  
+| _market by one or more members of a national securities association._  
+|  _(b)_ _____Sections 153.402-153.410 do not apply to a claim or a_  
+| _derivative proceeding by a limited partner of a closely held_  
+| _limited partnership against a general partner, limited partner, or_  
+| _officer of the limited partnership. In the event the claim or_  
+| _derivative proceeding is also made against a person who is not that_  
+| _general partner, limited partner, or officer, this subsection shall_  
+| _apply only to the claim or derivative proceeding against the_  
+| _general partner, limited partner, or officer._  
+|  _(c)_ _____If Sections 153.402-153.410 do not apply because of_  
+| _Subsection (b) and if justice requires:_  
+|  _(1)_ _____a derivative proceeding brought by a limited_  
+| _partner of a closely held limited partnership may be treated by a_  
+| _court as a direct action brought by the limited partner for the_  
+| _limited partner's own benefit; and_  
+|  _(2)_ _____a recovery in a direct or derivative proceeding by_  
+| _a limited partner may be paid directly to the plaintiff or to the_  
+| _limited partnership if necessary to protect the interests of_  
+| _creditors or other partners of the limited partnership._  
+|  _(d)_ _____Other provisions of state law govern whether a limited_  
+| _partner has a direct cause of action or right to sue a general_  
+| _partner, limited partner, or officer, and this section may not be_  
+| _construed to create that direct cause of action or right to sue._  
+|  SECTION 31. The changes in law made by this Act apply only  
+| to a derivative proceeding instituted on or after the effective  
+| date of this Act. A derivative proceeding instituted before the  
+| effective date of this Act is governed by the law in effect on the  
+| date the proceeding was instituted, and the former law is continued  
+| in effect for that purpose.  
+|  SECTION 32. This Act takes effect September 1, 2019.
+

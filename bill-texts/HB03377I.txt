@@ -1,0 +1,229 @@
+| 86R7104 GRM-F  
+---|---  
+|  By: Hernandez | H.B. No. 3377  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a cybersecurity monitor for certain electric utilities.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter E, Chapter 36, Utilities Code, is  
+| amended by adding Section 36.213 to read as follows:  
+|  _Sec._ ___36.213._ _____ADJUSTMENT FOR CYBERSECURITY MONITOR COSTS FOR_  
+| _CERTAIN UTILITIES. (a) This section does not apply to an electric_  
+| _utility that operates solely outside of ERCOT and has not elected to_  
+| _participate in the cybersecurity monitor program under Section_  
+| _39.1516._  
+|  _(b)_ _____The commission, on its own motion or on the petition of_  
+| _an electric utility, shall allow the electric utility to recover_  
+| _reasonable and necessary costs incurred in connection with_  
+| _activities under Section 39.1516._  
+|  SECTION 2. Section 39.002, Utilities Code, is amended to  
+| read as follows:  
+|  Sec. 39.002. APPLICABILITY. This chapter, other than  
+| Sections _39.1516,_ 39.155, 39.157(e), 39.203, [ ~~39.903,~~ ] 39.904,  
+| 39.9051, 39.9052, and 39.914(e), does not apply to a municipally  
+| owned utility or an electric cooperative. Sections 39.157(e),  
+| 39.203, and 39.904, however, apply only to a municipally owned  
+| utility or an electric cooperative that is offering customer  
+| choice. If there is a conflict between the specific provisions of  
+| this chapter and any other provisions of this title, except for  
+| Chapters 40 and 41, the provisions of this chapter control.  
+|  SECTION 3. Subchapter D, Chapter 39, Utilities Code, is  
+| amended by adding Section 39.1516 to read as follows:  
+|  _Sec._ ___39.1516._ _____CYBERSECURITY MONITOR. (a) In this section,_  
+| _"monitored utility" means:_  
+|  _(1) a transmission and distribution utility;_  
+|  _(2) a corporation described in Section 32.053;_  
+|  _(3)_ _____a municipally owned utility or electric_  
+| _cooperative that owns or operates equipment or facilities in the_  
+| _ERCOT power region to transmit electricity at 60 or more kilovolts;_  
+| _or_  
+|  _(4)_ _____an electric utility, municipally owned utility, or_  
+| _electric cooperative that operates solely outside the ERCOT power_  
+| _region that has elected to participate under Subsection (d)._  
+|  _(b)_ _____The commission and the independent organization_  
+| _certified under Section 39.151 shall contract with an entity_  
+| _selected by the commission to act as the commission's cybersecurity_  
+| _monitor to:_  
+|  _(1)_ _____manage a comprehensive cybersecurity outreach_  
+| _program for monitored utilities;_  
+|  _(2)_ _____meet regularly with monitored utilities to discuss_  
+| _emerging threats, best business practices, and training_  
+| _opportunities;_  
+|  _(3)_ _____review self-assessments by monitored utilities of_  
+| _cybersecurity efforts;_  
+|  _(4)_ _____research and develop best business practices_  
+| _regarding cybersecurity; and_  
+|  _(5)_ _____report to the commission on monitored utility_  
+| _cybersecurity preparedness._  
+|  _(c)_ _____The independent organization certified under Section_  
+| _39.151 shall provide to the cybersecurity monitor any access,_  
+| _information, support, and cooperation that the commission_  
+| _determines is necessary for the monitor to perform the functions_  
+| _described by Subsection (b). The independent organization shall_  
+| _use funds from the fee authorized by Section 39.151(e) to pay for_  
+| _the cybersecurity monitor's activities._  
+|  _(d)_ _____An electric utility, municipally owned utility, or_  
+| _electric cooperative that operates solely outside the ERCOT power_  
+| _region may elect to participate in the cybersecurity monitor_  
+| _program or to discontinue participation. The commission shall_  
+| _adopt rules establishing:_  
+|  _(1)_ _____procedures for an electric utility, municipally_  
+| _owned utility, or electric cooperative to notify the commission,_  
+| _the independent organization certified under Section 39.151, and_  
+| _the cybersecurity monitor that the utility or cooperative elects to_  
+| _participate or to discontinue participation; and_  
+|  _(2)_ _____a mechanism to require an electric utility,_  
+| _municipally owned utility, or electric cooperative that elects to_  
+| _participate to contribute to the costs incurred by the independent_  
+| _organization under this section._  
+|  _(e)_ _____The cybersecurity monitor shall operate under the_  
+| _supervision and oversight of the commission._  
+|  _(f)_ _____The commission shall adopt rules as necessary to_  
+| _implement this section and may enforce the provisions of this_  
+| _section in the manner provided by this title. This section does not_  
+| _grant enforcement authority to the cybersecurity monitor or_  
+| _authorize the commission to delegate the commission's enforcement_  
+| _authority to the cybersecurity monitor. This section does not_  
+| _grant enforcement authority to the commission beyond authority_  
+| _explicitly provided for in this title._  
+|  _(g)_ _____The staff of the cybersecurity monitor may communicate_  
+| _with commission staff about any cybersecurity information without_  
+| _restriction. Commission staff shall maintain the confidentiality_  
+| _of the cybersecurity information. Notwithstanding any other law,_  
+| _commission staff may not disclose information obtained under this_  
+| _section in an open meeting or through a response to a public_  
+| _information request._  
+|  _(h)_ _____Information written, produced, collected, assembled, or_  
+| _maintained under Subsection (b), (c), or (g) is confidential and_  
+| _not subject to disclosure under Chapter 552, Government Code. A_  
+| _governmental body is not required to conduct an open meeting under_  
+| _Chapter 551, Government Code, to deliberate a matter described by_  
+| _Subsection (b), (c), or (g)._  
+|  SECTION 4. Section 39.402(a), Utilities Code, is amended to  
+| read as follows:  
+|  (a) Until the date on which an electric utility subject to  
+| this subchapter is authorized by the commission to implement  
+| customer choice, the rates of the utility shall be regulated under  
+| traditional cost of service regulation and the utility is subject  
+| to all applicable regulatory authority prescribed by this subtitle  
+| and Subtitle A, including Chapters 14, 32, 33, 36, and 37. Until  
+| the date on which an electric utility subject to this subchapter  
+| implements customer choice, the provisions of this chapter, other  
+| than this subchapter, Sections _39.1516,_ 39.904 _,_ and 39.905, and the  
+| provisions relating to the duty to obtain a permit from the Texas  
+| Commission on Environmental Quality for an electric generating  
+| facility and to reduce emissions from an electric generating  
+| facility, shall not apply to that utility. That portion of any  
+| commission order entered before September 1, 2001, to comply with  
+| this subchapter shall be null and void.  
+|  SECTION 5. Section 39.452(d), Utilities Code, is amended to  
+| read as follows:  
+|  (d) Until the date on which an electric utility subject to  
+| this subchapter implements customer choice:  
+|  (1) the provisions of this chapter do not apply to that  
+| electric utility, other than this subchapter, Sections _39.1516,_  
+| 39.904 _,_ and 39.905, the provisions relating to the duty to obtain a  
+| permit from the Texas Commission on Environmental Quality for an  
+| electric generating facility and to reduce emissions from an  
+| electric generating facility, and the provisions of Subchapter G  
+| that pertain to the recovery and securitization of hurricane  
+| reconstruction costs authorized by Sections 39.458-39.463; and  
+|  (2) the electric utility is not subject to a rate  
+| freeze and, subject to the limitation provided by Subsection (b),  
+| may file for rate changes under Chapter 36 and for approval of one  
+| or more of the rate rider mechanisms authorized by Sections 39.454  
+| and 39.455.  
+|  SECTION 6. Section 39.502(b), Utilities Code, is amended to  
+| read as follows:  
+|  (b) Until the date on which an electric utility subject to  
+| this subchapter implements customer choice, the provisions of this  
+| chapter, other than this subchapter and Sections _39.1516,_ 39.904 _,_  
+| and 39.905, do not apply to that utility.  
+|  SECTION 7. Section 39.552(b), Utilities Code, is amended to  
+| read as follows:  
+|  (b) Until the date on which an electric utility subject to  
+| this subchapter implements customer choice, the provisions of this  
+| chapter, other than this subchapter and Sections _39.1516,_ 39.904 _,_  
+| and 39.905, do not apply to that utility.  
+|  SECTION 8. Section 40.001(b), Utilities Code, is amended to  
+| read as follows:  
+|  (b) Except as specifically provided in this subsection,  
+| Chapter 39 does not apply to a river authority operating a steam  
+| generating plant on or before January 1, 1999, or a corporation  
+| authorized by Chapter 152, Water Code, or Section 32.053. A river  
+| authority operating a steam generating plant on or before January  
+| 1, 1999, is subject to Sections 39.051(a)-(c), 39.108, _39.1516,_  
+| 39.155, 39.157(e), and 39.203.  
+|  SECTION 9. Section 40.004, Utilities Code, is amended to  
+| read as follows:  
+|  Sec. 40.004. JURISDICTION OF COMMISSION. Except as  
+| specifically otherwise provided in this chapter, the commission has  
+| jurisdiction over municipally owned utilities only for the  
+| following purposes:  
+|  (1) to regulate wholesale transmission rates and  
+| service, including terms of access, to the extent provided by  
+| Subchapter A, Chapter 35;  
+|  (2) to regulate certification of retail service areas  
+| to the extent provided by Chapter 37;  
+|  (3) to regulate rates on appeal under Subchapters D  
+| and E, Chapter 33, subject to Section 40.051(c);  
+|  (4) to establish a code of conduct as provided by  
+| Section 39.157(e) applicable to anticompetitive activities and to  
+| affiliate activities limited to structurally unbundled affiliates  
+| of municipally owned utilities, subject to Section 40.054;  
+|  (5) to establish terms and conditions for open access  
+| to transmission and distribution facilities for municipally owned  
+| utilities providing customer choice, as provided by Section 39.203;  
+|  (6) [ ~~to require collection of the nonbypassable fee~~  
+|  ~~established under Section 39.903(b) and~~ ] to administer the  
+| renewable energy credits program under Section 39.904(b) and the  
+| natural gas energy credits program under Section 39.9044(b); [ ~~and~~ ]  
+|  (7) to require reports of municipally owned utility  
+| operations only to the extent necessary to:  
+|  (A) enable the commission to determine the  
+| aggregate load and energy requirements of the state and the  
+| resources available to serve that load; or  
+|  (B) enable the commission to determine  
+| information relating to market power as provided by Section 39.155 _;_  
+| _and_  
+|  _(8)_ _____to evaluate and monitor the cybersecurity_  
+| _preparedness of a municipally owned utility described by Section_  
+| _39.1516(a)(3) or (4)_.  
+|  SECTION 10. Section 41.004, Utilities Code, is amended to  
+| read as follows:  
+|  Sec. 41.004. JURISDICTION OF COMMISSION. Except as  
+| specifically provided otherwise in this chapter, the commission has  
+| jurisdiction over electric cooperatives only as follows:  
+|  (1) to regulate wholesale transmission rates and  
+| service, including terms of access, to the extent provided in  
+| Subchapter A, Chapter 35;  
+|  (2) to regulate certification to the extent provided  
+| in Chapter 37;  
+|  (3) to establish a code of conduct as provided in  
+| Section 39.157(e) subject to Section 41.054;  
+|  (4) to establish terms and conditions, but not rates,  
+| for open access to distribution facilities for electric  
+| cooperatives providing customer choice, as provided in Section  
+| 39.203; [ ~~and~~ ]  
+|  (5) to require reports of electric cooperative  
+| operations only to the extent necessary to:  
+|  (A) ensure the public safety;  
+|  (B) enable the commission to satisfy its  
+| responsibilities relating to electric cooperatives under this  
+| chapter;  
+|  (C) enable the commission to determine the  
+| aggregate electric load and energy requirements in the state and  
+| the resources available to serve that load; or  
+|  (D) enable the commission to determine  
+| information relating to market power as provided in Section 39.155 _;_  
+| _and_  
+|  _(6)_ _____to evaluate and monitor the cybersecurity_  
+| _preparedness of an electric cooperative described by Section_  
+| _39.1516(a)(3) or (4)_.  
+|  SECTION 11. To the extent of any conflict, this Act prevails  
+| over another Act of the 86th Legislature, Regular Session, 2019,  
+| relating to nonsubstantive additions to and corrections in enacted  
+| codes.  
+|  SECTION 12. This Act takes effect September 1, 2019.
+

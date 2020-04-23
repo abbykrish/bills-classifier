@@ -1,0 +1,76 @@
+| 86R7742 GRM-D  
+---|---  
+|  By: Fierro | H.B. No. 2902  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of e-mail on a vote by mail application.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 84.011(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The officially prescribed application form for an early  
+| voting ballot must include:  
+|  (1) immediately preceding the signature space the  
+| statement: "I certify that the information given in this  
+| application is true, and I understand that giving false information  
+| in this application is a crime.";  
+|  (2) a statement informing the applicant of the  
+| offenses prescribed by Sections 84.003 and 84.004;  
+|  (3) spaces for entering an applicant's voter  
+| registration number and county election precinct of registration,  
+| with a statement informing the applicant that failure to furnish  
+| that information does not invalidate the application; and  
+|  (4) on an application for a ballot to be voted by mail:  
+|  (A) a space for an applicant applying on the  
+| ground of absence from the county of residence to indicate the date  
+| on or after which the applicant can receive mail at the address  
+| outside the county;  
+|  (B) a space for indicating the fact that an  
+| applicant whose application is signed by a witness cannot make the  
+| applicant's mark and a space for indicating the relationship or  
+| lack of relationship of the witness to the applicant;  
+|  (C) a space for entering an applicant's telephone  
+| number _and e-mail address_ , with a statement informing the applicant  
+| that failure to furnish that information does not invalidate the  
+| application;  
+|  (D) a space or box for an applicant applying on  
+| the ground of age or disability to indicate that the address to  
+| which the ballot is to be mailed is the address of a facility or  
+| relative described by Section 84.002(a)(3), if applicable;  
+|  (E) a space or box for an applicant applying on  
+| the ground of confinement in jail to indicate that the address to  
+| which the ballot is to be mailed is the address of a relative  
+| described by Section 84.002(a)(4), if applicable;  
+|  (F) a space for an applicant applying on the  
+| ground of age or disability to indicate if the application is an  
+| application under Section 86.0015;  
+|  (G) spaces for entering the signature, printed  
+| name, and residence address of any person assisting the applicant;  
+|  (H) a statement informing the applicant of the  
+| condition prescribed by Section 81.005; and  
+|  (I) a statement informing the applicant of the  
+| requirement prescribed by Section 86.003(c).  
+|  SECTION 2. Section 86.001, Election Code, is amended by  
+| adding Subsections (f) and (f-1) to read as follows:  
+|  _(f)_ _____The early voting clerk, before rejecting an_  
+| _application, shall make a reasonable effort to contact the_  
+| _applicant by e-mail at any e-mail address provided on the_  
+| _application, to ask questions about the application._ ___The applicant_  
+| _may make clerical corrections to the application by e-mail,_  
+| _including correcting the applicant's date of birth, correcting_  
+| _spelling of the applicant's name, or providing additional_  
+| _information to make corrections to an address or county of_  
+| _residence._ ___If an applicant has submitted an address that is not an_  
+| _acceptable mailing address, the applicant may submit to the early_  
+| _voting clerk a mailing address by e-mail._ ___If the early voting clerk_  
+| _does not receive a response before the fourth day after the date the_  
+| _clerk sent an e-mail to the e-mail address provided on the_  
+| _application, the clerk may reject the application._ ___The early_  
+| _voting clerk shall attach to and maintain with the original_  
+| _application submissions and corrections provided by e-mail under_  
+| _this subsection._  
+|  _(f-1)_ _____An applicant may not change the address or county of_  
+| _residence submitted on the original application to a different_  
+| _address or county of residence by e-mail._  
+|  SECTION 3. This Act takes effect September 1, 2019.
+

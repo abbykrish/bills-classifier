@@ -1,0 +1,43 @@
+| 86R10632 MEW-F  
+---|---  
+|  By: Goodwin | H.B. No. 2139  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to an annual adjustment to the basic allotment under the  
+| Foundation School Program to reflect inflation.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 42.101, Education Code, is amended by  
+| amending Subsection (a) and adding Subsection (a-3) to read as  
+| follows:  
+|  (a) _Subject to adjustment under Subsection (a-3), for_ [ ~~For~~ ]  
+| each student in average daily attendance, not including the time  
+| students spend each day in special education programs in an  
+| instructional arrangement other than mainstream or career and  
+| technology education programs, for which an additional allotment is  
+| made under Subchapter C, a district is entitled to an allotment  
+| equal to the lesser of $4,765 or the amount that results from the  
+| following formula:  
+| A = $4,765 X (DCR/MCR)  
+| where:  
+|  "A" is the allotment to which a district is entitled;  
+|  "DCR" is the district's compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by the maintenance and operations tax  
+| rate adopted by the district for the 2005 tax year; and  
+|  "MCR" is the state maximum compressed tax rate, which is the  
+| product of the state compression percentage, as determined under  
+| Section 42.2516, multiplied by $1.50.  
+|  _(a-3)_ _____Beginning with the 2021-2022 school year, the basic_  
+| _allotment provided to a district under Subsection (a) or (b) is_  
+| _adjusted annually to increase the allotment by the greater of:_  
+|  _(1)_ _____one percent of the amount of the allotment for the_  
+| _preceding school year; or_  
+|  _(2)_ _____the amount that results from applying the_  
+| _inflation rate, as determined by the comptroller on the basis of_  
+| _changes in the Consumer Price Index for All Urban Consumers_  
+| _published by the Bureau of Labor Statistics of the United States_  
+| _Department of Labor, to the allotment for the preceding school_  
+| _year._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

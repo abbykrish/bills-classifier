@@ -1,0 +1,905 @@
+| 86R14030 GRM-D  
+---|---  
+|  By: Klick | H.B. No. 2909  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to election practices and procedures; creating a criminal  
+| offense.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 1.007(c), Election Code, is amended to  
+| read as follows:  
+|  (c) A delivery, submission, or filing of a document or paper  
+| under this code may be made by personal delivery, mail, telephonic  
+| facsimile machine, _e-mail,_ or any other method of transmission.  
+|  SECTION 2. Section 2.002, Election Code, is amended by  
+| amending Subsection (b) and adding Subsection (j) to read as  
+| follows:  
+|  (b) Not later than the fifth day after the date the  
+| automatic recount required by Subsection (i) is completed or the  
+| final canvass following the automatic recount is completed, if  
+| applicable, the authority responsible for ordering the first  
+| election shall order the second election. The second election  
+| shall be held not earlier than the 20th day or later than the _45th_  
+| [ ~~30th~~ ] day after the date the automatic recount required by  
+| Subsection (i) is completed or the final canvass following the  
+| automatic recount is completed, if applicable.  
+|  _(j)_ _____If the recount does not resolve the tie, the tied_  
+| _candidates may:_  
+|  _(1)_ _____cast lots not later than the day before the date_  
+| _the authority must order the second election under Subsection (b);_  
+| _or_  
+|  _(2)_ _____withdraw from the election not later than 5 p.m. of_  
+| _the day after the date the automatic recount is held._  
+|  SECTION 3. Section 2.022(b), Election Code, is amended to  
+| read as follows:  
+|  (b) Sections 2.023 _, 2.025,_ and 2.028 supersede a law outside  
+| this subchapter to the extent of any conflict.  
+|  SECTION 4. Section 2.025(d), Election Code, is amended to  
+| read as follows:  
+|  (d) A runoff election for a special election to fill a  
+| vacancy in Congress or a special election to fill a vacancy in the  
+| legislature _, except an election ordered as an emergency election_  
+| _under Section 41.0011 or an election held as an expedited election_  
+| _under Section 203.013,_ [ ~~to which Section 101.104 applies~~ ] shall be  
+| held not earlier than the 70th day or later than the 77th day after  
+| the date the final canvass of the main election is completed.  
+|  SECTION 5. Section 2.028(c), Election Code, is amended to  
+| read as follows:  
+|  (c) A tying candidate may resolve the tie by filing with the  
+| presiding officer of the final canvassing authority a written  
+| statement of withdrawal signed and _sworn to_ [ ~~acknowledged~~ ] by the  
+| candidate. _If the statement of withdrawal is received before the_  
+| _automatic recount is conducted, the remaining candidate is the_  
+| _winner, and the automatic recount is not conducted. If the_  
+| _statement of withdrawal is received not later than 5 p.m. the day_  
+| _after the date the automatic recount is conducted_ [ ~~On receipt of the~~  
+|  ~~statement of withdrawal~~ ], the remaining candidate is the winner,  
+| and a casting of lots is not held.  
+|  SECTION 6. Section 2.051(b), Election Code, is amended to  
+| read as follows:  
+|  (b) In the case of an election in which any members of the  
+| political subdivision's governing body are elected from  
+| territorial units such as single-member districts, this subchapter  
+| applies to the election in a particular territorial unit if each  
+| candidate for an office that is to appear on the ballot in that  
+| territorial unit is unopposed and no [ ~~at-large proposition or~~ ]  
+| opposed at-large race is to appear on the ballot. This subchapter  
+| applies to an unopposed at-large race in such an election  
+| regardless of whether an opposed race is to appear on the ballot in  
+| a particular territorial unit.  
+|  SECTION 7. Section 3.005(d), Election Code, is amended to  
+| read as follows:  
+|  (d) _Except as provided by Subsection (c), an_ [ ~~An~~ ] election  
+| under Section 26.08, Tax Code, to ratify a tax rate adopted by the  
+| governing body of a school district under Section 26.05(g) of that  
+| code shall be ordered not later than the 30th day before election  
+| day.  
+|  SECTION 8. Section 4.003(c), Election Code, is amended to  
+| read as follows:  
+|  (c) In addition to any other notice given, notice of an  
+| election ordered by _the governor, by_ a _county authority,_  
+| [ ~~commissioners court~~ ] or by an authority of a city or school  
+| district must be given by the method prescribed by Subsection  
+| (a)(1).  
+|  SECTION 9. Section 15.022(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The registrar shall make the appropriate corrections in  
+| the registration records, including, if necessary, deleting a  
+| voter's name from the suspense list:  
+|  (1) after receipt of a notice of a change in  
+| registration information under Section 15.021;  
+|  (2) after receipt of a voter's reply to a notice of  
+| investigation given under Section 16.033;  
+|  (3) after receipt of any affidavits executed under  
+| Section 63.006, following an election;  
+|  (4) after receipt of a voter's statement of residence  
+| executed under Section 63.0011;  
+|  (5) before the effective date of the abolishment of a  
+| county election precinct or a change in its boundary;  
+|  (6) after receipt of United States Postal Service  
+| information indicating an address reclassification;  
+|  (7) after receipt of a voter's response under Section  
+| 15.053; [ ~~or~~ ]  
+|  (8) after receipt of a registration application or  
+| change of address under Chapter 20 _; or_  
+|  _(9)_ _____after notification of a data entry error of which_  
+| _the voter registrar is made aware under Section 63.005_.  
+|  SECTION 10. Section 31.093(a), Election Code, is amended to  
+| read as follows:  
+|  (a) _Subject to Section 41.001(d), if_ [ ~~If~~ ] requested to do so  
+| by a political subdivision, the county elections administrator  
+| shall enter into a contract to furnish the election services  
+| requested, in accordance with a cost schedule agreed on by the  
+| contracting parties.  
+|  SECTION 11. Section 31.096, Election Code, is amended to  
+| read as follows:  
+|  Sec. 31.096. NONTRANSFERABLE FUNCTIONS. An election  
+| services contract may not change:  
+|  (1) the authority with whom applications of candidates  
+| for a place on a ballot are filed;  
+|  (2) the authority with whom documents are filed under  
+| Title 15; or  
+|  (3) the _political subdivision's requirement to_  
+| _maintain office hours under Section 31.122_ [ ~~authority to serve as~~  
+|  ~~custodian of voted ballots or other election records, except that a~~  
+|  ~~contract with a political subdivision other than a city may provide~~  
+|  ~~that the county election officer will be the custodian of voted~~  
+|  ~~ballots~~ ].  
+|  SECTION 12. Section 31.124(a), Election Code, is amended to  
+| read as follows:  
+|  (a) A county election officer of each county shall hold a  
+| meeting with the county chair of each political party to discuss, as  
+| appropriate, the following for each primary election or general  
+| election for state and county officers:  
+|  (1) the lists provided by each political party under  
+| Section 85.009;  
+|  (2) the lists provided by each political party under  
+| Section 87.002(c); [ ~~and~~ ]  
+|  (3) the implementation of Subchapters A, B, C, and D,  
+| Chapter 87 _; and_  
+|  _(4)_ _____holding a joint primary, entering into an election_  
+| _services contract, and polling place locations_.  
+|  SECTION 13. Section 32.114(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The county clerk shall provide one or more sessions of  
+| training using the standardized training program and materials  
+| developed and provided by the secretary of state under Section  
+| 32.111 for the election judges and clerks appointed to serve in  
+| elections ordered by the governor or a county authority. Each  
+| election judge shall complete the training program. _The training_  
+| _program must include specific procedures related to the early_  
+| _voting ballot board and the central counting station, as_  
+| _applicable._ Each election clerk shall complete the part of the  
+| training program relating to the acceptance and handling of the  
+| identification presented by a voter to an election officer under  
+| Section 63.001.  
+|  SECTION 14. Section 33.054, Election Code, is amended to  
+| read as follows:  
+|  Sec. 33.054. HOURS OF SERVICE AT EARLY VOTING BALLOT BOARD  
+| MEETING _OR SIGNATURE VERIFICATION COMMITTEE MEETING_.  (a)  A  
+| watcher serving at the meeting place of an early voting ballot board  
+| _or signature verification committee_ may be present at any time the  
+| board _or committee_ is processing or counting ballots and until the  
+| board _or committee_ completes its duties. The watcher may serve  
+| during the hours the watcher chooses, except as provided by  
+| Subsection (b).  
+|  (b) A watcher _serving at the meeting place of an early_  
+| _voting ballot board_ may not leave during voting hours on election  
+| day without the presiding judge's permission if the board has  
+| recorded any votes cast on voting machines or counted any ballots,  
+| unless the board has completed its duties and has been dismissed by  
+| the presiding judge.  
+|  SECTION 15. Sections 41.001(a) and (b), Election Code, are  
+| amended to read as follows:  
+|  (a) Except as otherwise provided by this subchapter, each  
+| general or special election in this state shall be held on one of  
+| the following dates:  
+|  (1) the first Saturday in May in an odd-numbered year;  
+|  (2) the first Saturday in May in an even-numbered  
+| year, for an election held by a political subdivision other than a  
+| county _, or ordered by the governor_ ; or  
+|  (3) the first Tuesday after the first Monday in  
+| November.  
+|  (b) Subsection (a) does not apply to:  
+|  (1) a runoff election;  
+|  (2) an election to resolve a tie vote;  
+|  (3) an election held under an order of a court or other  
+| tribunal;  
+|  (4) an emergency election ordered under Section  
+| 41.0011 _or any resulting runoff_ ;  
+|  (5) an expedited election to fill a vacancy in the  
+| legislature held under Section 203.013;  
+|  (6) an election held under a statute that expressly  
+| provides that the requirement of Subsection (a) does not apply to  
+| the election; or  
+|  (7) the initial election of the members of the  
+| governing body of a newly incorporated city.  
+|  SECTION 16. Sections 43.007(a) and (m), Election Code, are  
+| amended to read as follows:  
+|  (a) The secretary of state shall implement a program to  
+| allow each commissioners court participating in the program to  
+| eliminate county election precinct polling places and establish  
+| countywide polling places for:  
+|  (1) _any election required to be conducted by the_  
+| _county_ [ ~~each general election for state and county officers~~ ];  
+|  (2) _any election held as part of a joint election_  
+| _agreement with a county under Chapter 271_ [ ~~each election held on the~~  
+|  ~~uniform election date in May and any resulting runoff~~ ];  
+|  (3) _any election held under contract for election_  
+| _services with a county under Subchapter D, Chapter 31_ [ ~~each~~  
+|  ~~election on a proposed constitutional amendment~~ ];  
+|  (4) each primary election and runoff primary election  
+| if:  
+|  (A) the county chair or county executive  
+| committee of each political party participating in a joint primary  
+| election under Section 172.126 agrees to the use of countywide  
+| polling places; or  
+|  (B) the county chair or county executive  
+| committee of each political party required to nominate candidates  
+| by primary election agrees to use the same countywide polling  
+| places; and  
+|  (5) each election of a political subdivision located  
+| in the county that is held jointly with an election described by  
+| Subdivision [ ~~(1), (2),~~ ] (3)[ ~~,~~ ] or (4).  
+|  (m) In adopting a methodology under Subsection (f), the  
+| county must ensure that:  
+|  (1) each county commissioners precinct contains at  
+| least one countywide polling place; and  
+|  (2) the total number of [ ~~permanent branch and~~  
+|  ~~temporary branch~~ ] polling places open for voting in a county  
+| commissioners precinct does not exceed more than twice the number  
+| of [ ~~permanent branch and temporary branch~~ ] polling places in  
+| another county commissioners precinct.  
+|  SECTION 17. Section 52.070, Election Code, is amended by  
+| amending Subsections (a), (b) and (e) and adding Subsection (f) to  
+| read as follows:  
+|  (a) A _shape_ [ ~~square~~ ] for voting shall be printed to the left  
+| of each candidate's name on a ballot.  
+|  (b) Immediately below "OFFICIAL BALLOT," the following  
+| instruction shall be printed: "Vote for the candidate of your  
+| choice in each race by placing an 'X' _or filling_ in the _shape_  
+| [ ~~square~~ ] beside the candidate's name."  
+|  (e) A _shape_ [ ~~square~~ ] shall be printed to the left of each  
+| line provided for write-in voting under Section 52.066(c), but  
+| failure to place a mark in the _shape_ [ ~~square~~ ] does not affect the  
+| counting of a write-in vote.  
+|  _(f)_ _____Any variation from this instruction must be approved by_  
+| _the secretary of state._  
+|  SECTION 18. Section 52.094(d), Election Code, is amended to  
+| read as follows:  
+|  (d) _The_ [ ~~For an election held at county expense or a city~~  
+|  ~~election, on receipt of a candidate's written request accompanied~~  
+|  ~~by a stamped, self-addressed envelope, the authority conducting the~~  
+|  ~~drawing shall mail written notice of the date, hour, and place of~~  
+|  ~~the drawing to the candidate. For an election held by any other~~  
+|  ~~political subdivision, the~~ ] authority conducting the drawing shall  
+| _provide_ [ ~~mail written~~ ] notice of the date, hour, and place of the  
+| drawing to each candidate _by:_  
+|  _(1) written notice:_  
+|  _(A) mailed to_ [ ~~, at~~ ] the address stated on the  
+| candidate's application for a place on the ballot, not later than  
+| the fourth day before the date of the drawing _; or_  
+|  _(B)_ _____provided at the time the candidate files an_  
+| _application with the appropriate authority;_  
+|  _(2)_ _____telephone, if a telephone number is provided on_  
+| _the candidate's application for a place on the ballot; or_  
+|  _(3)_ _____e-mail, if an e-mail address is provided on the_  
+| _candidate's application for a place on the ballot_.  
+|  SECTION 19. Chapter 63, Election Code, is amended by adding  
+| Section 63.005 to read as follows:  
+|  _Sec._ ___63.005._ _____CONFIRMING REGISTRATION STATUS OF VOTER. (a)_  
+| _If the name of a voter who is offering to vote is not on the precinct_  
+| _list of registered voters, an election officer may contact the_  
+| _voter registrar regarding the voter's registration status._  
+|  _(b)_ _____If the election officer determines the voter is a_  
+| _registered voter of the territory covered by the election but is_  
+| _offering to vote in the incorrect precinct, the election officer_  
+| _shall provide the correct precinct location information to the_  
+| _voter._  
+|  _(c)_ _____Notwithstanding Section 63.009, a voter shall be_  
+| _accepted for voting if the voter's identity has been verified from_  
+| _documentation as required by Section 63.001(b) and it can be_  
+| _determined from the voter registrar that:_  
+|  _(1)_ _____the voter's registration was improperly canceled_  
+| _and has been reinstated under Section 16.037;_  
+|  _(2)_ _____an error in the voter registration record caused_  
+| _the voter's name to not appear on the list of registered voters, and_  
+| _the error has been corrected under Section 15.022; or_  
+|  _(3)_ _____the voter's name has been inadvertently left off_  
+| _the list of registered voters for the precinct._  
+|  _(d)_ _____After the voter is accepted under Subsection (c), an_  
+| _election officer shall enter the voter's name on the registration_  
+| _omissions list._  
+|  _(e)_ _____The voter shall be accepted for provisional voting under_  
+| _Section 63.011 if the election officer cannot determine that the_  
+| _voter is a registered voter of the territory covered by the election_  
+| _in which the voter is offering to vote._  
+|  SECTION 20. Section 65.052, Election Code, is amended to  
+| read as follows:  
+|  Sec. 65.052. DUTY OF VOTER REGISTRAR. The secretary of  
+| state shall prescribe procedures by which the voter registrar of  
+| the county in which a provisional ballot is cast shall provide  
+| assistance to the early voting ballot board in executing its  
+| authority under this subchapter. In an election described by  
+| Section 65.051(a-1), the procedures must allow for _10_ [ ~~seven~~ ]  
+| calendar days for the voter registrar to review a provisional  
+| voter's eligibility.  
+|  SECTION 21. Subchapter B, Chapter 65, Election Code, is  
+| amended by adding Section 65.0581 to read as follows:  
+|  _Sec._ ___65.0581._ _____PUBLIC INSPECTION OF PROVISIONAL VOTING_  
+| _RECORDS. Provisional voting records are not available for public_  
+| _inspection until the first business day after the date the early_  
+| _voting ballot board completes the verification and counting of_  
+| _provisional ballots under Section 65.051 and delivers the_  
+| _provisional ballots and other provisional voting records to the_  
+| _general custodian of election records._  
+|  SECTION 22. Chapter 82, Election Code, is amended by adding  
+| Section 82.008 to read as follows:  
+|  _Sec._ ___82.008._ _____INVOLUNTARY CIVIL COMMITMENT. A qualified_  
+| _voter is eligible for early voting by mail if, at the time the_  
+| _voter's early voting ballot application is submitted, the voter is_  
+| _a person who is civilly committed as a sexually violent predator_  
+| _under Chapter 841, Health and Safety Code, and is ordered as a_  
+| _condition of civil commitment to reside in a facility operated by or_  
+| _under contract with the Texas Civil Commitment Office._  
+|  SECTION 23. Section 84.002(a), Election Code, is amended to  
+| read as follows:  
+|  (a) An early voting ballot application must include:  
+|  (1) the applicant's name and the address at which the  
+| applicant is registered to vote;  
+|  (2) for an application for a ballot to be voted by mail  
+| on the ground of absence from the county of residence, the address  
+| outside the applicant's county of residence to which the ballot is  
+| to be mailed;  
+|  (3) for an application for a ballot to be voted by mail  
+| on the ground of age or disability, the address of the hospital,  
+| nursing home or other long-term care facility, or retirement  
+| center, or of a person related to the applicant within the second  
+| degree by affinity or the third degree by consanguinity, as  
+| determined under Chapter 573, Government Code, if the applicant is  
+| living at that address and that address is different from the  
+| address at which the applicant is registered to vote;  
+|  (4) for an application for a ballot to be voted by mail  
+| on the ground of confinement in jail, the address of the jail or of a  
+| person related to the applicant within the degree described by  
+| Subdivision (3);  
+|  (5) for an application for a ballot to be voted by mail  
+| on any ground, an indication of each election for which the  
+| applicant is applying for a ballot; [ ~~and~~ ]  
+|  (6) an indication of the ground of eligibility for  
+| early voting _; and_  
+|  _(7)_ _____for an application for a ballot to be voted by mail_  
+| _on the ground of involuntary civil commitment, the address of the_  
+| _facility operated by or under contract with the Texas Civil_  
+| _Commitment Office or of a person related to the applicant within the_  
+| _degree of consanguinity described by Subdivision (3)_.  
+|  SECTION 24. Section 84.008(a), Election Code, is amended to  
+| read as follows:  
+|  (a) _Except as otherwise provided by this code, an_ [ ~~An~~ ]  
+| applicant for a ballot to be voted by mail may submit the  
+| application by delivering it in person to the early voting clerk if  
+| the application is submitted not later than the close of regular  
+| business in the clerk's office on the day before the first day of  
+| the period for early voting by personal appearance.  
+|  SECTION 25. Section 84.011(a), Election Code, is amended to  
+| read as follows:  
+|  (a) The officially prescribed application form for an early  
+| voting ballot must include:  
+|  (1) immediately preceding the signature space the  
+| statement: "I certify that the information given in this  
+| application is true, and I understand that giving false information  
+| in this application is a crime.";  
+|  (2) a statement informing the applicant of the  
+| offenses prescribed by Sections 84.003 and 84.004;  
+|  (3) spaces for entering an applicant's voter  
+| registration number and county election precinct of registration,  
+| with a statement informing the applicant that failure to furnish  
+| that information does not invalidate the application; and  
+|  (4) on an application for a ballot to be voted by mail:  
+|  (A) a space for an applicant applying on the  
+| ground of absence from the county of residence to indicate the date  
+| on or after which the applicant can receive mail at the address  
+| outside the county;  
+|  (B) a space for indicating the fact that an  
+| applicant whose application is signed by a witness cannot make the  
+| applicant's mark and a space for indicating the relationship or  
+| lack of relationship of the witness to the applicant;  
+|  (C) a space for entering an applicant's telephone  
+| number, with a statement informing the applicant that failure to  
+| furnish that information does not invalidate the application;  
+|  (D) a space or box for an applicant applying on  
+| the ground of age or disability to indicate that the address to  
+| which the ballot is to be mailed is the address of a facility or  
+| relative described by Section 84.002(a)(3), if applicable;  
+|  (E) a space or box for an applicant applying on  
+| the ground of confinement in jail _or involuntary civil commitment_  
+| to indicate that the address to which the ballot is to be mailed is  
+| the address of a relative described by Section 84.002(a)(4) _or_  
+| _(a)(7)_ , if applicable;  
+|  (F) a space for an applicant applying on the  
+| ground of age or disability to indicate if the application is an  
+| application under Section 86.0015;  
+|  (G) spaces for entering the signature, printed  
+| name, and residence address of any person assisting the applicant;  
+|  (H) a statement informing the applicant of the  
+| condition prescribed by Section 81.005; and  
+|  (I) a statement informing the applicant of the  
+| requirement prescribed by Section 86.003(c).  
+|  SECTION 26. Section 85.007(d), Election Code, is amended to  
+| read as follows:  
+|  (d) Any notice required under this section must also be  
+| posted:  
+|  (1) on the Internet website of the authority ordering  
+| the election, if the authority maintains a website; and  
+|  (2) for a primary election or _the_ general election _for_  
+| _state and county officers_ , by the secretary of state on the  
+| secretary's Internet website.  
+|  SECTION 27. Section 85.062(d), Election Code, is amended to  
+| read as follows:  
+|  (d) In a primary election, the general election for state  
+| and county officers, or a special election to fill a vacancy in the  
+| legislature or in congress:  
+|  (1) the commissioners court of a county with a  
+| population of 400,000 or more shall establish one or more early  
+| voting polling places other than the main early voting polling  
+| place in each state representative district containing territory  
+| covered by the election, except that the polling place or places  
+| shall be established in the state senatorial or congressional  
+| district, as applicable, in a special election to fill a vacancy in  
+| the office of state senator or United States representative;  
+|  (2) the commissioners court of a county with a  
+| population of 120,000 or more but less than 400,000 shall establish  
+| one or more early voting polling places other than the main early  
+| voting polling place in each commissioners precinct containing  
+| territory covered by the election; and  
+|  (3) the _early voting clerk_ [ ~~commissioners court~~ ] of a  
+| county with a population of 100,000 or more but less than 120,000  
+| shall establish one or more early voting polling places as  
+| described by Subdivision (2) in each precinct for which the _early_  
+| _voting clerk_ [ ~~commissioners court~~ ] receives in time to enable  
+| compliance with Section 85.067 a written request for that action  
+| submitted by at least 15 registered voters of that precinct.  
+|  SECTION 28. Section 86.0015(c), Election Code, is amended  
+| to read as follows:  
+|  (c) In an election of a political subdivision located in a  
+| county in which the county clerk is not the early voting clerk, the  
+| county clerk shall provide the early voting clerk of the political  
+| subdivision that is holding the election a list of voters in the  
+| portion of the political subdivision located in the county who have  
+| ballot applications on file under this section _along with copies of_  
+| _the applications submitted by those voters_.  The early voting clerk  
+| shall provide a ballot to be voted by mail to each voter on the list  
+| _for whom the early voting clerk received a copy of an application_  
+| _submitted under this section_.  
+|  SECTION 29. Section 86.002(f), Election Code, is amended to  
+| read as follows:  
+|  (f) The clerk shall include with the balloting materials _:_  
+|  _(1)_ a notice of the clerk's physical address for  
+| purposes of return by common or contract carrier _or personal_  
+| _delivery in accordance with Section 86.006(a-1); and_  
+|  _(2)_ _____the list of declared write-in candidates for the_  
+| _election, if applicable_.  
+|  SECTION 30. Sections 86.003(c) and (d), Election Code, are  
+| amended to read as follows:  
+|  (c) The address to which the balloting materials must be  
+| addressed is the address at which the voter is registered to vote,  
+| or the registered mailing address if different, unless the ground  
+| for voting by mail is:  
+|  (1) absence from the county of residence, in which  
+| case the address must be an address outside the voter's county of  
+| residence;  
+|  (2) confinement in jail, in which case the address  
+| must be the address of the jail or of a relative described by  
+| Section 84.002(a)(4); [ ~~or~~ ]  
+|  (3) age or disability and the voter is living at a  
+| hospital, nursing home or other long-term care facility, or  
+| retirement center, or with a relative described by Section  
+| 84.002(a)(3), in which case the address must be the address of that  
+| facility or relative _; or_  
+|  _(4)_ _____involuntary civil commitment, in which case the_  
+| _address must be the address of the facility or of a relative_  
+| _described by Section 84.002(a)(7)_.  
+|  (d) If the applicable address specified in a voter's  
+| application is an address other than that prescribed by Subsection  
+| (c) _or subject to Section 86.002(a)_ , the voter's application shall  
+| be rejected in accordance with Section 86.001(c).  
+|  SECTION 31. Section 86.006(a-1), Election Code, is amended  
+| to read as follows:  
+|  (a-1) The voter may deliver a marked ballot in person to the  
+| early voting clerk's office only while the polls are open _during the_  
+| _early voting period or_ on election day. A voter who delivers a  
+| marked ballot in person must present an acceptable form of  
+| identification described by Section 63.0101.  
+|  SECTION 32. Section 86.009(e), Election Code, is amended to  
+| read as follows:  
+|  (e) A voter's defective ballot that is timely returned to  
+| the clerk as a marked ballot shall be treated as:  
+|  (1) a marked ballot not timely returned if the  
+| corrected ballot is timely returned as a marked ballot _by the close_  
+| _of the polls on election day_ ; or  
+|  (2) as the voter's ballot for the election if the  
+| corrected ballot is not timely returned _by the close of the polls on_  
+| _election day_.  
+|  SECTION 33. Section 87.0222(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Notwithstanding Section 87.024, in an election  
+| conducted by an authority of a county with a population of 100,000  
+| or more _,_ or conducted jointly with such a county _or conducted with_  
+| _such a county through a contract for election services_ , the jacket  
+| envelopes containing the early voting ballots voted by mail may be  
+| delivered to the board between the end of the ninth day before the  
+| last day of the period for early voting by personal appearance and  
+| the closing of the polls on election day, or as soon after closing  
+| as practicable, at the time or times specified by the presiding  
+| judge of the board.  
+|  SECTION 34. Section 87.0241(b), Election Code, is amended  
+| to read as follows:  
+|  (b) The board may not count early voting ballots until:  
+|  (1) the polls open on election day; or  
+|  (2) in an election conducted by an authority of a  
+| county with a population of 100,000 or more _,_ or conducted jointly  
+| with such a county _or conducted with such a county through a_  
+| _contract for election services_ , the end of the period for early  
+| voting by personal appearance.  
+|  SECTION 35. Section 87.102(b), Election Code, is amended to  
+| read as follows:  
+|  (b) Early voting ballots that are to be duplicated under  
+| this section [ ~~shall be delivered to the central counting station as~~  
+|  ~~prescribed by Section 87.101 and~~ ] shall be treated in the same  
+| manner as damaged electronic system ballots that are duplicated for  
+| automatic counting.  
+|  SECTION 36. Section 101.001, Election Code, is amended to  
+| read as follows:  
+|  Sec. 101.001. ELIGIBILITY.  A person is eligible for early  
+| voting by mail as provided by this chapter if:  
+|  (1) the person is qualified to vote in this state or,  
+| if not registered to vote in this state, would be qualified if  
+| registered; and  
+|  (2) the person is:  
+|  (A) a member of the armed forces of the United  
+| States, or the spouse or a dependent of a member;  
+|  (B) a member of the merchant marine of the United  
+| States, or the spouse or a dependent of a member;  
+|  _(B-1)_ _____a member of the Texas National Guard or the_  
+| _National Guard of another state or a member of a reserve component_  
+| _of the armed forces of the United States serving on active duty_  
+| _under an order of the president of the United States or activated on_  
+| _state orders, or the spouse or dependent of a member;_ or  
+|  (C) domiciled in this state but temporarily  
+| living outside the territorial limits of the United States and the  
+| District of Columbia.  
+|  SECTION 37. Section 101.003(1), Election Code, is amended  
+| to read as follows:  
+|  (1) "Federal postcard application" means an  
+| application for a ballot to be voted under this chapter submitted on  
+| the official federal form prescribed under the federal Uniformed  
+| and Overseas Citizens Absentee Voting Act _(52 U.S.C. Sections 20301_  
+| _through 20311)_ [ ~~(42 U.S.C. Section 1973ff et seq.)~~ ].  
+|  SECTION 38. Section 101.008, Election Code, is amended to  
+| read as follows:  
+|  Sec. 101.008. STATUS OF APPLICATION OR BALLOT VOTED.  The  
+| secretary of state, in coordination with _county_ [ ~~local~~ ] election  
+| officials, shall implement an electronic free-access system by  
+| which a person eligible for early voting by mail under this chapter  
+| or Chapter 114 may determine by telephone, by e-mail, or over the  
+| Internet whether:  
+|  (1) the person's federal postcard application or other  
+| registration or ballot application has been received and accepted;  
+| and  
+|  (2) the person's ballot has been received and the  
+| current status of the ballot.  
+|  SECTION 39. Sections 101.052(a-1) and (c), Election Code,  
+| are amended to read as follows:  
+|  (a-1) A federal postcard application must be submitted by:  
+|  (1) mail; [ ~~or~~ ]  
+|  (2) electronic transmission of an image of the  
+| application under procedures prescribed by the secretary of state _;_  
+|  _(3)_ _____in-person delivery in accordance with Section_  
+| _84.008; or_  
+|  _(4) common or contract carrier_.  
+|  (c) _An application is considered submitted in the following_  
+| _calendar year for purposes of this section if:_  
+|  _(1)_ _____the applicant is eligible to vote in an election_  
+| _occurring in January or February of the next calendar year; and_  
+|  _(2)_ _____the application is submitted in the last 60 days of_  
+| _a calendar year but not earlier than the 60th day before the date of_  
+| _the January or February election_ [ ~~A federal postcard application~~  
+|  ~~requesting a ballot for an election to be held in January or~~  
+|  ~~February may be submitted in the preceding calendar year but not~~  
+|  ~~earlier than the earliest date for submitting a regular application~~  
+|  ~~for a ballot to be voted by mail~~ ].  
+|  SECTION 40. Section 101.054(c), Election Code, is amended  
+| to read as follows:  
+|  (c) An application shall be treated as if it requests a  
+| ballot for a runoff election that results from an election for which  
+| a ballot is requested _, including a runoff election that occurs in_  
+| _the next calendar year_.  
+|  SECTION 41. Section 101.056(a), Election Code, is amended  
+| to read as follows:  
+|  (a) The balloting materials provided under this subchapter  
+| shall be airmailed to the voter free of United States postage, as  
+| provided by the federal Uniformed and Overseas Citizens Absentee  
+| Voting Act _(52 U.S.C. Sections 20301 through 20311)_ [ ~~(42 U.S.C.~~  
+|  ~~Section 1973ff et seq.)~~ ], in an envelope labeled "Official Election  
+| Balloting Material - via Airmail."  The secretary of state shall  
+| provide early voting clerks with instructions on compliance with  
+| this subsection.  
+|  SECTION 42. Section 101.057(b), Election Code, is amended  
+| to read as follows:  
+|  (b) A ballot voted by a voter described by Section  
+| 101.001(2)(A) _,_ [ ~~or~~ ] (B) _, or (B-1)_ shall be counted if the ballot  
+| arrives at the address on the carrier envelope not later than the  
+| sixth day after the date of the election, except that if that date  
+| falls on a Saturday, Sunday, or legal state or national holiday,  
+| then the deadline is extended to the next regular business day.  
+|  SECTION 43. Section 101.058, Election Code, is amended to  
+| read as follows:  
+|  Sec. 101.058. OFFICIAL CARRIER ENVELOPE.  The officially  
+| prescribed carrier envelope for voting under this subchapter shall  
+| be prepared so that it can be mailed free of United States postage,  
+| as provided by the federal Uniformed and Overseas Citizens Absentee  
+| Voting Act _(52 U.S.C. Sections 20301 through 20311)_ [ ~~(42 U.S.C.~~  
+|  ~~Section 1973ff et seq.)~~ ], and must contain the label prescribed by  
+| Section 101.056(a) for the envelope in which the balloting  
+| materials are sent to a voter.  The secretary of state shall provide  
+| early voting clerks with instructions on compliance with this  
+| section.  
+|  SECTION 44. Section 101.102(b), Election Code, is amended  
+| to read as follows:  
+|  (b) The early voting clerk shall grant a request made under  
+| this section for the e-mail transmission of balloting materials if:  
+|  (1) the requestor has submitted a valid federal  
+| postcard application and:  
+|  (A) if the requestor is a person described by  
+| Section 101.001(2)(C), has provided a current mailing address that  
+| is located outside the United States; or  
+|  (B) if the requestor is a person described by  
+| Section 101.001(2)(A) _,_ [ ~~or~~ ] (B) _, or (B-1)_ , has provided a
+current  
+| mailing address that is located outside the requestor's county of  
+| residence;  
+|  (2) the requestor provides an e-mail address:  
+|  (A) that corresponds to the address on file with  
+| the requestor's federal postcard application; or  
+|  (B) stated on a newly submitted federal postcard  
+| application;  
+|  (3) the request is submitted on or before the _deadline_  
+| _prescribed by Section 84.007_ [ ~~seventh day before the date of the~~  
+|  ~~election~~ ]; and  
+|  (4) a marked ballot for the election from the  
+| requestor has not been received by the early voting clerk.  
+|  SECTION 45. Section 101.107(a), Election Code, is amended  
+| to read as follows:  
+|  (a) A voter described by Section 101.001(2)(A) _,_ [ ~~or~~ ] (B) _, or_  
+| _(B-1)_ must be voting from outside the voter's county of  
+| residence. A voter described by Section 101.001(2)(C) must be  
+| voting from outside the United States.  
+|  SECTION 46. Section 102.002, Election Code, is amended to  
+| read as follows:  
+|  Sec. 102.002. CONTENTS OF APPLICATION. An application for  
+| a late ballot must comply with the applicable provisions of Section  
+| 84.002 and must include or be accompanied by a certificate of a  
+| licensed physician or chiropractor or accredited Christian Science  
+| practitioner in substantially the following form:  
+|  "This is to certify that I know that __________ has a sickness  
+| or physical condition that will prevent him or her from appearing at  
+| the polling place for an election to be held on the __________ day  
+| of __________, _20_ [ ~~19~~ ]___, without a likelihood of needing personal  
+| assistance or of injuring his or her health and that the sickness or  
+| physical condition originated on or after __________.  
+|  "Witness my hand at __________, Texas, this __________ day of  
+| __________, _20_ [ ~~19~~ ]___.  
+|  ________________________________  
+|  (signature of physician,  
+|  chiropractor, or practitioner)"  
+|  SECTION 47. Section 113.003, Election Code, is amended to  
+| read as follows:  
+|  Sec. 113.003. SUBMITTING APPLICATION FOR MAIL BALLOT. An  
+| application for a presidential ballot to be voted by mail must be  
+| submitted to the early voting clerk serving the county of the  
+| applicant's most recent registration to vote _by the deadline_  
+| _prescribed by Section 84.007_.  
+|  SECTION 48. Section 141.032(g), Election Code, is amended  
+| to read as follows:  
+|  (g) _Except as otherwise provided by this code_ [ ~~After the~~  
+|  ~~filing deadline~~ ]:  
+|  (1) a candidate may not amend an application filed  
+| under Section 141.031; and  
+|  (2) the authority with whom the application is filed  
+| may not accept an amendment to an application filed under Section  
+| 141.031.  
+|  SECTION 49. Section 141.034(a), Election Code, is amended  
+| to read as follows:  
+|  (a) An application for a place on the ballot may not be  
+| challenged for compliance with the applicable requirements as to  
+| form, content, and procedure after the day before any ballot to be  
+| voted early by mail _in the election for which the application is_  
+| _made_ is mailed [ ~~to an address in the authority's jurisdiction for~~  
+|  ~~the election for which the application is made~~ ].  
+|  SECTION 50. The heading to Section 141.040, Election Code,  
+| is amended to read as follows:  
+|  Sec. 141.040. NOTICE OF DEADLINES _AND FILING METHODS_.  
+|  SECTION 51. Section 141.040, Election Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____An authority may designate an e-mail address in the_  
+| _notice required by this section for the purpose of filing an_  
+| _application for a place on the ballot under Section 143.004._  
+|  SECTION 52. Section 141.063, Election Code, is amended by  
+| adding Subsection (e) to read as follows:  
+|  _(e)_ _____The signer's residence address and registration address_  
+| _are not required to be the same if the signer would otherwise be_  
+| _able to vote for that office under Sections 11.004 or 112.002._  
+|  SECTION 53. Chapter 141, Election Code, is amended by  
+| adding Subchapter D, and a heading is added to that subchapter to  
+| read as follows:  
+| _SUBCHAPTER D. COERCION OF CANDIDACY_  
+|  SECTION 54. Section 2.054, Election Code, is transferred  
+| to Subchapter D, Chapter 141, Election Code, as added by this Act,  
+| redesignated as Section 141.101, Election Code, and amended to read  
+| as follows:  
+|  Sec. _141.101_ [ ~~2.054~~ ]. COERCION AGAINST CANDIDACY  
+| PROHIBITED.  (a)  _A_ [ ~~In an election that may be subject to this~~  
+|  ~~subchapter, a~~ ] person commits an offense if by intimidation or by  
+| means of coercion the person influences or attempts to influence a  
+| person to:  
+|  (1) not file an application for a place on the ballot  
+| or a declaration of write-in candidacy; or  
+|  (2) withdraw as a candidate.  
+|  (b) In this section, "coercion" has the meaning assigned by  
+| Section 1.07, Penal Code.  
+|  (c) An offense under this section is a Class A misdemeanor  
+| unless the intimidation or coercion is a threat to commit a felony,  
+| in which event it is a felony of the third degree.  
+|  SECTION 55. Section 143.004, Election Code, is amended to  
+| read as follows:  
+|  Sec. 143.004. APPLICATION REQUIRED. _(a)_ Subject to  
+| Section 143.005, to be entitled to a place on the ballot, a  
+| candidate must make an application for a place on the ballot.  
+|  _(b)_ _____An application, other than an application required to be_  
+| _accompanied by fee or petition, may be filed through e-mail_  
+| _transmission of the completed application in a scanned format only_  
+| _if the filing authority designates an e-mail address for this_  
+| _purpose in the notice required under Section 141.040._  
+|  SECTION 56. Section 144.003(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Except as otherwise provided by law, to be entitled to a  
+| place on the ballot, a candidate must make an application for a  
+| place on the ballot. _An application, other than an application_  
+| _required to be accompanied by fee or petition, may be filed through_  
+| _e-mail transmission of the completed application in a scanned_  
+| _format only if the filing authority designates an e-mail address_  
+| _for this purpose in the notice required under Section 141.040._  
+|  SECTION 57. Section 145.003, Election Code, is amended by  
+| adding Subsection (j) to read as follows:  
+|  _(j)_ _____This section does not apply to a challenge on an_  
+| _application under Section 141.034._  
+|  SECTION 58. Section 192.033(d), Election Code, is amended  
+| to read as follows:  
+|  (d) In conjunction with the certification required under  
+| Subsection (a), the secretary of state shall include appropriate  
+| ballot translation language, as applicable, for each language  
+| certified statewide or in a specific county by the director of the  
+| census under _the federal Uniformed and Overseas Citizens Absentee_  
+| _Voting Act (52 U.S.C. Sections 20301 through 20311)_ [ ~~42 U.S.C.~~  
+|  ~~Section 1973aa-1a~~ ].  
+|  SECTION 59. Subchapter B, Chapter 201, Election Code, is  
+| amended by adding Section 201.030 to read as follows:  
+|  _Sec._ ___201.030._ _____VACANCY RESULTING FROM RECALL ELECTION. For_  
+| _cities conducting recall elections, a vacancy in the officer's_  
+| _office occurs on the date of the final canvass of a successful_  
+| _recall election._  
+|  SECTION 60. Section 203.004(b), Election Code, is amended  
+| to read as follows:  
+|  (b) If the election is to be held as an emergency election,  
+| it shall be held on a Tuesday or Saturday occurring on or after the  
+| 36th day and before the _64th_ [ ~~50th~~ ] day after the date the election  
+| is ordered.  
+|  SECTION 61. Section 212.001, Election Code, is amended to  
+| read as follows:  
+|  Sec. 212.001. GENERAL REQUIREMENTS FOR RECOUNT DOCUMENT. A  
+| recount document submitted under this title must:  
+|  (1) be in writing;  
+|  (2) identify the office or measure for which a recount  
+| is desired;  
+|  (3) state the grounds for the recount;  
+|  (4) state the side of the measure that the person  
+| requesting the recount represents, if applicable;  
+|  (5) identify the election precincts, grouped by county  
+| or other appropriate territorial unit if the election involves more  
+| than one local canvassing authority, for which a recount is desired  
+| and must indicate the method of voting used in each precinct;  
+|  (6) be signed by:  
+|  (A) the person requesting the recount or, if  
+| there is more than one, any one or more of them; or  
+|  (B) an agent of the person requesting the  
+| recount;  
+|  (7) state each requesting person's name, residence  
+| address, and, if authorization to obtain the recount is based on  
+| eligibility to vote in the election, voter registration number, and  
+| county of registration if the election covers territory in more  
+| than one county;  
+|  (8) designate an agent who is a resident of this state  
+| to receive notice under this title on behalf of the person  
+| requesting the recount if:  
+|  (A) the person requesting the recount is not a  
+| resident of this state; or  
+|  (B) there is more than one person requesting the  
+| recount;  
+|  (9) state the mailing address and at least one  
+| telephone number, if any, at which the person requesting the  
+| recount or an agent, identified by name, may receive notice given  
+| under this title;  
+|  (10) state the mailing address _, e-mail address, if_  
+| _any,_ and at least one telephone number, if any, at which the  
+| opposing candidates for the office or their agents, identified by  
+| name, may receive notice given under this title; and  
+|  (11) be accompanied by a deposit as provided by  
+| Subchapter E.  
+|  SECTION 62. Section 212.002(b), Election Code, is amended  
+| to read as follows:  
+|  (b) The designation is not effective unless the document  
+| states the designee's name, address, _e-mail address, if any,_ and  
+| telephone number, if any.  
+|  SECTION 63. Section 212.028(a), Election Code, is amended  
+| to read as follows:  
+|  (a) Except as provided by Subsection (b), a petition for an  
+| initial recount must be submitted by [ ~~the later of:~~  
+|  [ ~~(1) 5 p.m. of the fifth day after election day; or~~  
+|  [ ~~(2)~~ ] 5 p.m. of the second day after the date the  
+| canvassing authority to whose presiding officer the petition must  
+| be submitted completes its canvass of the original election  
+| returns.  
+|  SECTION 64. Section 212.031(a), Election Code, is amended  
+| to read as follows:  
+|  (a) If a recount petition complies with the applicable  
+| requirements, the recount coordinator shall approve the petition  
+| and note on the petition its approved status and the date of the  
+| approval. The recount coordinator shall immediately notify the  
+| recount supervisor of the approval. The recount supervisor shall,  
+| with the written approval of the recount coordinator, order the  
+| recount to be held on _the earlier of_ [ ~~a date occurring not later~~  
+|  ~~than~~ ] the seventh day after the date the petition is determined to  
+| comply with the applicable requirements _or the day after all_  
+| _ballots have been delivered to the general custodian of election_  
+| _records_.  
+|  SECTION 65. Section 212.083, Election Code, is amended to  
+| read as follows:  
+|  Sec. 212.083. DEADLINE FOR SUBMITTING PETITION. The  
+| deadline for submitting a recount petition under this subchapter is  
+| [ ~~the later of:~~  
+|  [ ~~(1) 2 p.m. of the third day after election day; or~~  
+|  [ ~~(2)~~ ] 2 p.m. of the first day after the date of the  
+| local canvass.  
+|  SECTION 66. Section 212.112, Election Code, is amended to  
+| read as follows:  
+|  Sec. 212.112. AMOUNT OF DEPOSIT. The amount of the recount  
+| deposit is:  
+|  (1) $60 for each _of the entity's election day polling_  
+| _places_ [ ~~precinct~~ ] in which regular paper ballots were used; and  
+|  (2) $100 for each _of the entity's election day polling_  
+| _places_ [ ~~precinct~~ ] in which an electronic voting system was used.  
+|  SECTION 67. Section 216.003, Election Code, is amended to  
+| read as follows:  
+|  Sec. 216.003. INITIATING AUTOMATIC RECOUNT. For purposes  
+| of initiating an automatic recount, the authority designated under  
+| Section 212.026 shall _order the recount_ [ ~~request the recount in the~~  
+|  ~~same manner as a recount petitioner under this title~~ ].  
+|  SECTION 68. Section 272.009, Election Code, is amended by  
+| adding Subsection (c) to read as follows:  
+|  _(c)_ _____To be eligible to serve as a clerk under this section, a_  
+| _person must:_  
+|  _(1)_ _____be a qualified voter of the state and satisfy any_  
+| _additional eligibility requirements prescribed by written order of_  
+| _the commissioners court; or_  
+|  _(2)_ _____meet the eligibility requirements of a student_  
+| _election clerk under Section 32.0511._  
+|  SECTION 69. Section 277.0024, Election Code, is amended to  
+| read as follows:  
+|  Sec. 277.0024. COMPUTING NUMBER OF SIGNATURES. _(a)_ ___Except_  
+| _as provided by Subsection (b), if_ [ ~~If~~ ] the minimum number of  
+| signatures required for a petition is determined by a computation  
+| applied to the number of registered voters of a particular  
+| territory, voters whose names appear on the list of registered  
+| voters with the notation "S", or a similar notation, shall be  
+| excluded from the computation.  
+|  _(b)_ _____The signature of a voter whose name appears on the list_  
+| _of registered voters with the notation "S", or a similar notation,_  
+| _is considered valid if the voter:_  
+|  _(1)_ _____is otherwise eligible to vote in the territory;_  
+| _and_  
+|  _(2)_ _____provides a residence address located in the_  
+| _territory._  
+|  SECTION 70. (a)  The following provisions of the Election  
+| Code are repealed:  
+|  (1) Section 31.099(b);  
+|  (2) Section 42.061(c);  
+|  (3) Section 84.008(b);  
+|  (4) Section 87.101;  
+|  (5) Section 105.002; and  
+|  (6) Section 145.092(e).  
+|  (b) Section 5, Chapter 404 (H.B. 25), Acts of the 85th  
+| Legislature, Regular Session, 2017, which amended Section  
+| 105.002(c), Election Code, is repealed.  
+|  SECTION 71. This Act takes effect September 1, 2019.
+

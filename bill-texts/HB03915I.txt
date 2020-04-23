@@ -1,0 +1,127 @@
+| 86R13968 GCB-D  
+---|---  
+|  By: Calanni | H.B. No. 3915  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the guaranteed yield and the school facilities  
+| allotment under the Foundation School Program and to a school  
+| district's rollback tax rate for the 2019 tax year.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 42.302(a-1), Education Code, is amended  
+| to read as follows:  
+|  (a-1) For purposes of Subsection (a), the dollar amount  
+| guaranteed level of state and local funds per weighted student per  
+| cent of tax effort ("GL") for a school district is:  
+|  (1) the greater of the amount of district tax revenue  
+| per weighted student per cent of tax effort that would be available  
+| to the Austin Independent School District, as determined by the  
+| commissioner in cooperation with the Legislative Budget Board, if  
+| the reduction of the limitation on tax increases as provided by  
+| Section 11.26(a-1), (a-2), or (a-3), Tax Code, did not apply, or the  
+| amount of district tax revenue per weighted student per cent of tax  
+| effort used for purposes of this subdivision in the preceding  
+| school year, for the first six cents by which the district's  
+| maintenance and operations tax rate exceeds the rate equal to the  
+| sum of the product of the state compression percentage, as  
+| determined under Section 42.2516, multiplied by the maintenance and  
+| operations tax rate adopted by the district for the 2005 tax year  
+| and any additional tax effort included in calculating the  
+| district's compressed tax rate under Section 42.101(a-1); and  
+|  (2) _the amount of district tax revenue per weighted_  
+| _student per cent of tax effort available to a district with_  
+| _maintenance and operations tax revenue per cent of tax effort equal_  
+| _to the maximum amount provided per cent under Section 42.101(a) or_  
+| _(b)_ [ ~~$31.95~~ ], for the district's maintenance and operations tax  
+| effort that exceeds the amount of tax effort described by  
+| Subdivision (1).  
+|  SECTION 2. Section 46.003(a), Education Code, is amended to  
+| read as follows:  
+|  (a) For each year, except as provided by Sections 46.005 and  
+| 46.006, a school district is guaranteed a specified amount per  
+| student in state and local funds for each cent of tax effort, up to  
+| the maximum rate under Subsection (b), to pay the principal of and  
+| interest on eligible bonds issued to construct, acquire, renovate,  
+| or improve an instructional facility. The amount of state support  
+| is determined by the formula:  
+| FYA = (FYL X _WADA_ [ ~~ADA~~ ] X BTR X 100) - (BTR X (DPV/100))  
+| where:  
+|  "FYA" is the guaranteed facilities yield amount of state  
+| funds allocated to the district for the year;  
+|  "FYL" is the dollar amount guaranteed level of state and  
+| local funds per student per cent of tax effort, which is _the amount_  
+| _of district tax revenue per weighted student per cent of tax effort_  
+| _available to a district with maintenance and operations tax revenue_  
+| _per cent of tax effort equal to the maximum amount provided per cent_  
+| _under Section 42.101(a) or (b)_ [ ~~$35 or a greater amount for any year~~  
+|  ~~provided by appropriation~~ ];  
+|  _"WADA"_ [ ~~"ADA"~~ ] is the greater of the number of students in  
+| _weighted_ average daily attendance, as _defined by Section 42.302_  
+| [ ~~determined under Section 42.005~~ ], in the district or 400;  
+|  "BTR" is the district's bond tax rate for the current year,  
+| which is determined by dividing the amount budgeted by the district  
+| for payment of eligible bonds by the quotient of the district's  
+| taxable value of property as determined under Subchapter M, Chapter  
+| 403, Government Code, or, if applicable, Section 42.2521, divided  
+| by 100; and  
+|  "DPV" is the district's taxable value of property as  
+| determined under Subchapter M, Chapter 403, Government Code, or, if  
+| applicable, Section 42.2521.  
+|  SECTION 3. Section 46.032(a), Education Code, is amended to  
+| read as follows:  
+|  (a) Each school district is guaranteed a specified amount  
+| per student in state and local funds for each cent of tax effort to  
+| pay the principal of and interest on eligible bonds. The amount of  
+| state support, subject only to the maximum amount under Section  
+| 46.034, is determined by the formula:  
+| EDA = (EDGL X _WADA_ [ ~~ADA~~ ] X EDTR X 100) - (EDTR X (DPV/100))  
+| where:  
+|  "EDA" is the amount of state funds to be allocated to the  
+| district for assistance with existing debt;  
+|  "EDGL" is the dollar amount guaranteed level of state and  
+| local funds per student per cent of tax effort, which is _the amount_  
+| _of district tax revenue per weighted student per cent of tax effort_  
+| _available to a district with maintenance and operations tax revenue_  
+| _per cent of tax effort equal to the maximum amount provided per cent_  
+| _under Section 42.101(a) or (b)_ [ ~~the lesser of:~~  
+|  [ ~~(1)~~ ~~~~ ~~~~ ~~$40 or a greater amount for any year provided by~~  
+|  ~~appropriation; or~~  
+|  [ ~~(2)~~ ~~~~ ~~~~ ~~the amount that would result in a total~~  
+|  ~~additional amount of state funds under this subchapter for the~~  
+|  ~~current year equal to $60 million in excess of the state funds to~~  
+|  ~~which school districts would have been entitled under this section~~  
+|  ~~if the guaranteed level amount were $35~~ ];  
+|  _"WADA"_ [ ~~"ADA"~~ ] is the number of students in _weighted_ average  
+| daily attendance, as _defined by Section 42.302_ [ ~~determined under~~  
+|  ~~Section 42.005~~ ], in the district;  
+|  "EDTR" is the existing debt tax rate of the district, which is  
+| determined by dividing the amount budgeted by the district for  
+| payment of eligible bonds by the quotient of the district's taxable  
+| value of property as determined under Subchapter M, Chapter 403,  
+| Government Code, or, if applicable, under Section 42.2521, divided  
+| by 100; and  
+|  "DPV" is the district's taxable value of property as  
+| determined under Subchapter M, Chapter 403, Government Code, or, if  
+| applicable, under Section 42.2521.  
+|  SECTION 4. Section 26.08, Tax Code, is amended by adding  
+| Subsection (i-1) to read as follows:  
+|  _(i-1)_ _____For purposes of Subsection (i), any change from the_  
+| _preceding school year to the current school year in the amount of_  
+| _state funds distributed to a school district under the guaranteed_  
+| _yield allotment under Section 42.302, Education Code, is not_  
+| _considered to be a change in a funding element for Chapter 42,_  
+| _Education Code. The amount of state funds distributed under_  
+| _Chapter 42, Education Code, and maintenance and operations taxes of_  
+| _the district per student in weighted average daily attendance for_  
+| _that school year that would have been available to the district in_  
+| _the preceding year if the funding elements for Chapters 41 and 42,_  
+| _Education Code, for the current year had been in effect for the_  
+| _preceding year is computed on the basis of the amount actually_  
+| _distributed under the guaranteed yield allotment under Section_  
+| _42.302, Education Code, in the preceding school year. This_  
+| _subsection expires December 31, 2019._  
+|  SECTION 5. Section 26.08(i-1), Tax Code, as added by this  
+| Act, applies to the ad valorem tax rate of a school district only  
+| for the 2019 tax year.  
+|  SECTION 6. This Act takes effect September 1, 2019.
+

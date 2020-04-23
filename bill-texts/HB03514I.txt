@@ -1,0 +1,44 @@
+| 86R8839 JRJ-D  
+---|---  
+|  By: Fierro | H.B. No. 3514  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the use of preferential voting in certain elections.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 2, Election Code, is amended by adding  
+| Subchapter E to read as follows:  
+| _SUBCHAPTER E. PREFERENTIAL VOTING_  
+|  _Sec._ ___2.101._ _____USE OPTIONAL. The governing body of a county,_  
+| _municipality, or independent school district may authorize the use_  
+| _of preferential voting as provided by this chapter for the election_  
+| _of an officer of the county, municipality, or school district, as_  
+| _appropriate, by majority vote._  
+|  _Sec._ ___2.102._ _____ADOPTION OF PREFERENTIAL VOTING PROCEDURES._  
+| _(a) The secretary of state shall prescribe procedures to allow for_  
+| _an election of an office requiring a majority vote using a_  
+| _preferential voting system._  
+|  _(b)_ _____The system must allow a voter to rank each candidate for_  
+| _an office through a numerical designation from the candidate the_  
+| _voter favors most to the candidate the voter favors least._  
+|  _Sec._ ___2.103._ _____DETERMINATION OF ELECTION RESULT. (a) If no_  
+| _candidate receives a majority of the votes cast designating the_  
+| _highest favorable ranking for an office, the votes of the candidate_  
+| _receiving the fewest number of votes are reassigned to the_  
+| _candidate ranking next highest in the preference of a voter._  
+|  _(b)_ _____If after reassigning votes under Subsection (a) no_  
+| _candidate receives a majority of the votes cast designating the_  
+| _modified highest favorable ranking, the reassignment of a vote to a_  
+| _voter's next most preferred candidate under Subsection (a)_  
+| _continues until one candidate receives a majority._  
+|  _Sec._ ___2.104._ _____PRIMARY NOT HELD; FILING PERIOD. (a) A primary_  
+| _election is not held for an office to which this chapter applies._  
+|  _(b)_ _____The secretary of state shall prescribe the filing_  
+| _deadline for an application for a place on the ballot for an office_  
+| _to which this chapter applies that is filled at the general election_  
+| _for state and county officers._  
+|  _Sec._ ___2.105._ _____RUNOFF ELECTION NOT HELD. Notwithstanding any_  
+| _other law, a runoff election is not held for an office to which this_  
+| _chapter applies._  
+|  SECTION 2. This Act takes effect September 1, 2019.
+

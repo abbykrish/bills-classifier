@@ -1,0 +1,53 @@
+|  
+---|---  
+|  By: Smithee | H.B. No. 4577  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the deployment of broadband service in rural areas of  
+| the state.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subtitle A, Title 2, Utilities Code, is amended  
+| by adding Chapter 18 to read as follows:  
+| _CHAPTER 18 BROADBAND DEPLOYMENT_  
+|  _Sec._ ___18.001._ _____FINDINGS. The Legislature finds that access_  
+| _to broadband is important for all Texans, and that the state should_  
+| _direct efforts to facilitate the deployment of broadband to_  
+| _unserved areas of the state._  
+|  _Sec. 18.002. DEFINITIONS. In this chapter:_  
+|  _(1)_ _____"Broadband" means a wireline or fixed wireless_  
+| _service that provides advanced telecommunications capability and_  
+| _Internet access._  
+|  _(2)_ _____"Unserved" means a census block without access to_  
+| _broadband with minimum speeds of at least 25 Megabits per second_  
+| _download and 3 Megabits per second upload._  
+|  _Section 18.003. PROJECT RIGHT OF FIRST REFUSAL._  
+|  _(a)_ _____With regard to an application for retail broadband_  
+| _service, each incumbent provider in the area that is not providing_  
+| _access to a broadband network in the unserved area may exercise a_  
+| _right of first refusal regarding the implementation of a project in_  
+| _the unserved area as described by subsection (b)._  
+|  _(b)_ _____If an incumbent provider exercises a right of first_  
+| _refusal, the incumbent provider commits to providing access to a_  
+| _broadband network:_  
+|  _(1)_ _____within two years after the applicant's submission_  
+| _of a request for retail service;_  
+|  _(2)_ _____at demonstrated downstream and upstream speeds_  
+| _equal to or faster than the speeds indicated in the applicant's_  
+| _request for retail service; and_  
+|  _(3)_ _____at a cost per household in the area to be served_  
+| _that is equal to or less than the cost per household indicated in_  
+| _the applicant's request for retail service._  
+|  _Section_ ___18.004._ _____NO OTHER REGULATORY OBLIGATIONS._ ___In the_  
+| _event that grants are awarded, a program administrator shall not_  
+| _include consideration of any new or additional regulatory_  
+| _obligations beyond those required under applicable law, including_  
+| _but not limited to, open access network requirements or any rate,_  
+|  
+| _service or other obligations beyond speed requirements._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

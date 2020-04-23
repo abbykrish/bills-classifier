@@ -1,0 +1,164 @@
+| 86R13183 EAS-F  
+---|---  
+|  By: Hinojosa | H.B. No. 3190  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the administration of psychoactive medication to  
+| certain patients.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 574.102, Health and Safety Code, is  
+| amended to read as follows:  
+|  Sec. 574.102. _APPLICABILITY_ [ ~~APPLICATION~~ ] OF SUBCHAPTER.  
+| This subchapter applies to the application of medication to a  
+| patient subject to a court order for _inpatient_ [ ~~mental health~~ ]  
+| services under this chapter _, Chapter 841,_ or _Chapter 46B or 46C,_  
+| _Code of Criminal Procedure_ [ ~~other law~~ ].  
+|  SECTION 2. The heading to Section 574.103, Health and  
+| Safety Code, is amended to read as follows:  
+|  Sec. 574.103. ADMINISTRATION OF MEDICATION TO PATIENT UNDER  
+| COURT-ORDERED _INPATIENT_ [ ~~MENTAL HEALTH~~ ] SERVICES.  
+|  SECTION 3. Section 574.103(b), Health and Safety Code, is  
+| amended to read as follows:  
+|  (b) A person may not administer a psychoactive medication to  
+| a patient under court-ordered inpatient [ ~~mental health~~ ] services  
+| who refuses to take the medication voluntarily unless:  
+|  (1) the patient is having a medication-related  
+| emergency;  
+|  (2) the patient is under an order issued under Section  
+| 574.106 authorizing the administration of the medication  
+| regardless of the patient's refusal; or  
+|  (3) the patient is a ward who is 18 years of age or  
+| older and the guardian of the person of the ward consents to the  
+| administration of psychoactive medication regardless of the ward's  
+| expressed preferences regarding treatment with psychoactive  
+| medication.  
+|  SECTION 4. Sections 574.104(a) and (b), Health and Safety  
+| Code, are amended to read as follows:  
+|  (a) A physician who is treating a patient may, on behalf of  
+| the state, file an application in a probate court or a court with  
+| probate jurisdiction for an order to authorize the administration  
+| of a psychoactive medication regardless of the patient's refusal  
+| if:  
+|  (1) the physician believes that the patient lacks the  
+| capacity to make a decision regarding the administration of the  
+| psychoactive medication;  
+|  (2) the physician determines that the medication is  
+| the proper course of treatment for the patient;  
+|  (3) the patient is under an order for inpatient  
+| [ ~~mental health~~ ] services under this chapter _, Chapter 841,_ or  
+| _Chapter 46B or 46C, Code of Criminal Procedure,_ [ ~~other law~~ ] or an  
+| application for court-ordered mental health services under Section  
+| 574.034 or 574.035 has been filed for the patient; and  
+|  (4) the patient, verbally or by other indication,  
+| refuses to take the medication voluntarily.  
+|  (b) An application filed under this section must state:  
+|  (1) that the physician believes that the patient lacks  
+| the capacity to make a decision regarding administration of the  
+| psychoactive medication and the reasons for that belief;  
+|  (2) each medication the physician wants the court to  
+| compel the patient to take;  
+|  (3) whether an application for court-ordered mental  
+| health services under Section 574.034 or 574.035 has been filed;  
+|  (4) whether a court order for inpatient [ ~~mental~~  
+|  ~~health~~ ] services for the patient has been issued and, if so, under  
+| what authority it was issued;  
+|  (5) the physician's diagnosis of the patient; and  
+|  (6) the proposed method for administering the  
+| medication and, if the method is not customary, an explanation  
+| justifying the departure from the customary methods.  
+|  SECTION 5. Sections 574.106(a) and (a-1), Health and Safety  
+| Code, are amended to read as follows:  
+|  (a) The court may issue an order authorizing the  
+| administration of one or more classes of psychoactive medication to  
+| a patient who:  
+|  (1) is under a court order to receive inpatient  
+| [ ~~mental health~~ ] services; or  
+|  (2) is in custody awaiting trial in a criminal  
+| proceeding and was ordered to receive inpatient [ ~~mental health~~ ]  
+| services in the six months preceding a hearing under this section.  
+|  (a-1) The court may issue an order under this section only  
+| if the court finds by clear and convincing evidence after the  
+| hearing:  
+|  (1) that the patient lacks the capacity to make a  
+| decision regarding the administration of the proposed medication  
+| and treatment with the proposed medication is in the best interest  
+| of the patient; or  
+|  (2) if the patient was ordered to receive inpatient  
+| [ ~~mental health~~ ] services by a criminal court with jurisdiction over  
+| the patient, that treatment with the proposed medication is in the  
+| best interest of the patient and either:  
+|  (A) the patient presents a danger to the patient  
+| or others in the inpatient [ ~~mental health~~ ] facility in which the  
+| patient is being treated as a result of a mental _illness or_  
+| _intellectual disability_ [ ~~disorder or mental defect~~ ] as determined  
+| under Section 574.1065; or  
+|  (B) the patient:  
+|  (i) has remained confined in a correctional  
+| facility, as defined by Section 1.07, Penal Code, for a period  
+| exceeding 72 hours while awaiting transfer for competency  
+| restoration treatment; and  
+|  (ii) presents a danger to the patient or  
+| others in the correctional facility as a result of a mental _illness_  
+| _or intellectual disability_ [ ~~disorder or mental defect~~ ] as  
+| determined under Section 574.1065.  
+|  SECTION 6. Section 574.1065, Health and Safety Code, is  
+| amended to read as follows:  
+|  Sec. 574.1065. FINDING THAT PATIENT PRESENTS A DANGER. In  
+| making a finding under Section 574.106(a-1)(2) that, as a result of  
+| a mental _illness or intellectual disability_ [ ~~disorder or mental~~  
+|  ~~defect~~ ], the patient presents a danger to the patient or others in  
+| the inpatient [ ~~mental health~~ ] facility in which the patient is  
+| being treated or in the correctional facility, as applicable, the  
+| court shall consider:  
+|  (1) an assessment of the patient's present mental  
+| condition;  
+|  (2) whether the patient has inflicted, attempted to  
+| inflict, or made a serious threat of inflicting substantial  
+| physical harm to the patient's self or to another while in the  
+| facility; and  
+|  (3) whether the patient, in the six months preceding  
+| the date the patient was placed in the facility, has inflicted,  
+| attempted to inflict, or made a serious threat of inflicting  
+| substantial physical harm to another that resulted in the patient  
+| being placed in the facility.  
+|  SECTION 7. Section 574.107, Health and Safety Code, is  
+| amended to read as follows:  
+|  Sec. 574.107. COSTS. (a)  The costs for a hearing under  
+| this subchapter _for a patient committed under this chapter_ shall be  
+| paid in accordance with Sections 571.017 and 571.018.  
+|  (b) The county in which the applicable criminal charges are  
+| pending or were adjudicated shall pay as provided by Subsection (a)  
+| the costs of a hearing that is held under Section 574.106 to  
+| evaluate the court-ordered administration of psychoactive  
+| medication to:  
+|  (1) a patient ordered to receive _inpatient_ [ ~~mental~~  
+|  ~~health~~ ] services as described by Section 574.106(a)(1) after having  
+| been determined to be incompetent to stand trial or having been  
+| acquitted of an offense by reason of insanity; or  
+|  (2) a patient who:  
+|  (A) is awaiting trial after having been  
+| determined to be competent to stand trial; and  
+|  (B) was ordered to receive _inpatient_ [ ~~mental~~  
+|  ~~health~~ ] services as described by Section 574.106(a)(2).  
+|  _(c)_ _____The costs for a hearing under this subchapter for a_  
+| _patient committed under Chapter 841 shall be paid by the county that_  
+| _ordered the commitment in accordance with that chapter._  
+|  SECTION 8. Section 574.110, Health and Safety Code, is  
+| amended by amending Subsection (a) and adding Subsection (c) to  
+| read as follows:  
+|  (a) Except as provided by _Subsections_ [ ~~Subsection~~ ] (b) _and_  
+| _(c)_ , an order issued under Section 574.106 expires on the  
+| expiration or termination date of the order for _inpatient_  
+| [ ~~temporary or extended mental health~~ ] services in effect when the  
+| order for psychoactive medication is issued.  
+|  _(c)_ _____An order issued under Section 574.106 for a patient_  
+| _committed under Chapter 841 continues to be in effect until the_  
+| _180th day after the date the person is released to the sex offender_  
+| _treatment program._  
+|  SECTION 9. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

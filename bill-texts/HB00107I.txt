@@ -1,0 +1,83 @@
+| 86R612 GCB-D  
+---|---  
+|  By: Raymond | H.B. No. 107  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the dissemination of criminal history record  
+| information by the Department of Public Safety concerning certain  
+| intoxication criminal offenses.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 411.135(a), Government Code, is amended  
+| to read as follows:  
+|  (a) Any person is entitled to obtain from the department:  
+|  (1) any information described as public information  
+| under Chapter 62, Code of Criminal Procedure, including, to the  
+| extent available, a recent photograph of each person subject to  
+| registration under that chapter; [ ~~and~~ ]  
+|  (2) criminal history record information maintained by  
+| the department that relates to the conviction of or a grant of  
+| deferred adjudication to a person for any criminal offense,  
+| including arrest information that relates to the conviction or  
+| grant of deferred adjudication _; and_  
+|  _(3)_ _____any information described as public information_  
+| _under Section 411.1356(a)_.  
+|  SECTION 2. Subchapter F, Chapter 411, Government Code, is  
+| amended by adding Sections 411.1356 and 411.1357 to read as  
+| follows:  
+|  _Sec._ ___411.1356._ _____PUBLIC ACCESS TO CRIMINAL HISTORY RECORD_  
+| _INFORMATION CONCERNING CERTAIN INTOXICATION OFFENSES. (a)_ __  
+| _Criminal history record information that concerns a person's_  
+| _conviction within the preceding 10-year period for an offense under_  
+| _Section 49.04, 49.045, 49.07, or 49.08, Penal Code, is public_  
+| _information, with the exception of:_  
+|  _(1)_ _____any information regarding the person's social_  
+| _security number, driver's license or personal identification_  
+| _certificate number, or telephone number; and_  
+|  _(2)_ _____any information that would identify a victim of_  
+| _the offense._  
+|  _(b)_ _____The department shall implement and maintain an Internet_  
+| _website to allow any person, free of charge, to electronically_  
+| _search for and receive information described by Subsection (a). The_  
+| _website must be searchable by zip code, city, county, or the name of_  
+| _the person convicted._ ___The search results must include for each_  
+| _person convicted:_  
+|  _(1) the person's full name and last known address; and_  
+|  _(2)_ _____a recent photograph of the person, if a photograph_  
+| _is available to the department._  
+|  _(c)_ _____The department shall remove the criminal history record_  
+| _information concerning a person's conviction for an offense listed_  
+| _in Subsection (a) from the Internet website as soon as practicable_  
+| _after the earliest of:_  
+|  _(1)_ _____the 10th anniversary of the date of the_  
+| _conviction;_  
+|  _(2)_ _____the date on which the conviction is reversed on_  
+| _appeal;_  
+|  _(3)_ _____the date on which an order of nondisclosure of_  
+| _criminal history record information under Subchapter E-1 is issued_  
+| _with respect to that conviction; or_  
+|  _(4)_ _____the date on which an order of expunction is entered_  
+| _with respect to records and files in the case._  
+|  _Sec._ ___411.1357._ _____CRIMINAL HISTORY RECORD INFORMATION_  
+| _CONCERNING CERTAIN INTOXICATION OFFENSES PROVIDED TO PEACE OFFICER_  
+| _ON REQUEST._ ___(a)_ ___The department shall establish a procedure by_  
+| _which a peace officer or employee of a law enforcement agency who_  
+| _provides the department with a driver's license number, personal_  
+| _identification certificate number, or license plate number may be_  
+| _provided any criminal history record information maintained by the_  
+| _department concerning a conviction of the person to whom the_  
+| _license, certificate, or plate is issued for an offense under_  
+| _Section 49.04, 49.045, 49.07, or 49.08, Penal Code, within the_  
+| _preceding 10-year period._  
+|  _(b)_ _____The procedure established under Subsection (a) must_  
+| _allow a peace officer to request the information from the location_  
+| _of a motor vehicle stop and to receive a response to the request_  
+| _within the duration of a reasonable motor vehicle stop._  
+|  SECTION 3. Not later than August 1, 2020, the Department of  
+| Public Safety shall implement the Internet website required under  
+| Section 411.1356, Government Code, as added by this Act, and shall  
+| make available to a requesting person the information described by  
+| Section 411.1356 or 411.1357, Government Code, as added by this  
+| Act.  
+|  SECTION 4. This Act takes effect December 1, 2019.
+

@@ -1,0 +1,98 @@
+| 86R482 CJC-D  
+---|---  
+|  By: Sanford | H.B. No. 3870  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to a franchise tax credit for ad valorem taxes paid by a  
+| taxable entity on certain inventory.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Chapter 171, Tax Code, is amended by adding  
+| Subchapter N to read as follows:  
+| _SUBCHAPTER N. TAX CREDIT FOR BUSINESS AD VALOREM TAX PAYMENTS ON_  
+| _INVENTORY_  
+|  _Sec. 171.701. DEFINITIONS. In this subchapter:_  
+|  _(1)_ _____"Qualified entity" means a taxable entity that_  
+| _pays ad valorem taxes on qualified inventory owned by the entity and_  
+| _located in this state._  
+|  _(2)_ _____"Qualified inventory" means tangible personal_  
+| _property held for sale at retail other than:_  
+|  _(A)_ _____a dealer's motor vehicle inventory as defined_  
+| _by Section 23.121;_  
+|  _(B)_ _____a dealer's heavy equipment inventory as_  
+| _defined by Section 23.1241;_  
+|  _(C)_ _____a dealer's vessel and outboard motor_  
+| _inventory as defined by Section 23.124; and_  
+|  _(D)_ _____retail manufactured housing inventory as_  
+| _defined by Section 23.127._  
+|  _Sec._ ___171.702._ _____ELIGIBILITY FOR CREDIT. A qualified entity_  
+| _is eligible to apply for a credit in the amount and under the_  
+| _conditions and limitations provided by this subchapter against the_  
+| _tax imposed under this chapter._  
+|  _Sec._ ___171.703._ _____AMOUNT OF CREDIT; LIMITATIONS._ ___(a)_ ___The
+total_  
+| _amount of the credit under this subchapter is equal to the amount of_  
+| _the ad valorem taxes paid by the qualified entity during the period_  
+| _on which a report is based that are derived from the taxable value_  
+| _of qualified inventory owned by the entity and located in this_  
+| _state._  
+|  _(b)_ _____The total credit claimed for a report, including the_  
+| _amount of any carryforward under Section 171.704, may not exceed_  
+| _the amount of franchise tax due for the report after any other_  
+| _applicable tax credits._  
+|  _Sec._ ___171.704._ _____CARRYFORWARD. (a) If a qualified entity is_  
+| _eligible for a credit that exceeds the limitation under Section_  
+| _171.703(b), the entity may carry the unused credit forward for not_  
+| _more than three consecutive reports._  
+|  _(b)_ _____A carryforward is considered the remaining portion of a_  
+| _credit that cannot be claimed in the current year because of the_  
+| _limitation under Section 171.703(b). A carryforward is added to_  
+| _the next year's installment of the credit in determining the_  
+| _limitation for that year. A credit carryforward from a previous_  
+| _report is considered to be used before the current year_  
+| _installment._  
+|  _Sec._ ___171.705._ _____APPLICATION FOR CREDIT. (a) A qualified_  
+| _entity must apply for a credit under this subchapter on or with the_  
+| _report for the period for which the credit is claimed._  
+|  _(b)_ _____A qualified entity shall file with a report on which the_  
+| _credit is claimed any information required by the comptroller to_  
+| _sufficiently demonstrate that the entity is eligible for the_  
+| _credit._  
+|  _(c)_ _____The burden of establishing eligibility for and the value_  
+| _of the credit is on the qualified entity._  
+|  _Sec._ ___171.706._ _____SALE OR ASSIGNMENT OF CREDIT. (a) A_  
+| _qualified entity that earns a credit under this subchapter may sell_  
+| _or assign all or part of the credit, and any entity to which all or_  
+| _part of the credit is sold or assigned may sell or assign all or part_  
+| _of the credit to another entity._ ___There is no limit on the total_  
+| _number of transactions for the sale or assignment of all or part of_  
+| _the total credit authorized under this subchapter, however,_  
+| _collectively all transferred and retained credits claimed for a_  
+| _period are subject to the maximum total limitations provided by_  
+| _Section 171.703._  
+|  _(b)_ _____An entity that sells or assigns a credit under this_  
+| _section and the entity to which the credit is sold or assigned shall_  
+| _jointly submit written notice of the sale or assignment to the_  
+| _comptroller on a form promulgated by the comptroller not later than_  
+| _the 30th day after the date of the sale or assignment. The notice_  
+| _must include:_  
+|  _(1) the date of the sale or assignment;_  
+|  _(2) the amount of the credit sold or assigned;_  
+|  _(3)_ _____the names and federal tax identification numbers_  
+| _of the entity that sold or assigned the credit or part of the credit_  
+| _and the entity to which the credit or part of the credit was sold or_  
+| _assigned; and_  
+|  _(4)_ _____the amount of the credit owned by the selling or_  
+| _assigning entity before the sale or assignment, and the amount the_  
+| _selling or assigning entity retained, if any, after the sale or_  
+| _assignment._  
+|  _(c)_ _____The sale or assignment of a credit in accordance with_  
+| _this section does not extend the period for which a credit may be_  
+| _carried forward and does not increase the total amount of the credit_  
+| _that may be claimed._  
+|  _Sec._ ___171.707._ _____RULES. The comptroller shall adopt rules_  
+| _necessary to implement this subchapter._  
+|  SECTION 2. This Act applies only to a report originally due  
+| on or after the effective date of this Act.  
+|  SECTION 3. This Act takes effect January 1, 2020.
+

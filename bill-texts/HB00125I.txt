@@ -1,0 +1,61 @@
+| 86R1981 JCG-D  
+---|---  
+|  By: Martinez | H.B. No. 125  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the online publication of home addresses of certain  
+| occupational license holders.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter B, Chapter 403, Occupations Code, is  
+| amended by adding Section 403.053 to read as follows:  
+|  _Sec._ ___403.053._ _____PUBLISHING LICENSE HOLDER HOME ADDRESS_  
+| _PROHIBITED. (a) The department may not include the home address of_  
+| _a person licensed under this chapter in a roster, registry, or other_  
+| _database the department publishes on the department's Internet_  
+| _website unless the person requests that the person's home address_  
+| _appear in the roster, registry, or other database on the website. A_  
+| _request under this subsection must be made in the manner prescribed_  
+| _by the department._  
+|  _(b)_ _____The home address of a person licensed under this chapter_  
+| _that is included in a roster, registry, or other database the_  
+| _department maintains is public information and is not excepted from_  
+| _required disclosure under Chapter 552, Government Code._  
+|  SECTION 2. Section 503.207, Occupations Code, is amended by  
+| adding Subsections (c) and (d) to read as follows:  
+|  _(c)_ _____The board may not include the home address of a person_  
+| _licensed under this chapter in a registry the board publishes on the_  
+| _board's Internet website unless the person requests that the_  
+| _person's home address appear in the registry on the website. A_  
+| _request under this subsection must be made in the manner prescribed_  
+| _by the board._  
+|  _(d)_ _____The home address of a person licensed under this chapter_  
+| _that is included in the registry the board prepares under this_  
+| _section is public information and is not excepted from required_  
+| _disclosure under Chapter 552, Government Code._  
+|  SECTION 3. Section 504.055, Occupations Code, is amended by  
+| adding Subsections (e) and (f) to read as follows:  
+|  _(e)_ _____The department may not include the home address of a_  
+| _person licensed by the department in a roster the department_  
+| _publishes on the department's Internet website unless the person_  
+| _requests that the person's home address appear in the roster on the_  
+| _website. A request under this subsection must be made in the manner_  
+| _prescribed by the department._  
+|  _(f)_ _____The home address of a person licensed under this chapter_  
+| _that is included in a roster the department prepares under this_  
+| _section is public information and is not excepted from required_  
+| _disclosure under Chapter 552, Government Code._  
+|  SECTION 4. Section 505.205, Occupations Code, is amended by  
+| adding Subsections (d) and (e) to read as follows:  
+|  _(d)_ _____The board may not include the home address of a person_  
+| _licensed under this chapter in a roster the board publishes on the_  
+| _board's Internet website unless the person requests that the_  
+| _person's home address appear in the roster on the website. A_  
+| _request under this subsection must be made in the manner prescribed_  
+| _by the board._  
+|  _(e)_ _____The home address of a person licensed under this chapter_  
+| _that is included in the roster the board prepares under this section_  
+| _is public information and is not excepted from required disclosure_  
+| _under Chapter 552, Government Code._  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

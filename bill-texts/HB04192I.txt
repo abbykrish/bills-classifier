@@ -1,0 +1,86 @@
+| 86R13429 KFF-F  
+---|---  
+|  By: Klick | H.B. No. 4192  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to claims and overpayment recoupment processes imposed on  
+| health care providers under Medicaid and other public benefits  
+| programs.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 531.024172, Government Code, is amended  
+| by amending Subsection (g) and adding Subsection (g-1) to read as  
+| follows:  
+|  (g) The commission may recognize a health care provider's  
+| proprietary electronic visit verification system _, whether_  
+| _purchased or developed by the provider,_ as complying with this  
+| section and allow the health care provider to use that system for a  
+| period determined by the commission if the commission determines  
+| that the system:  
+|  (1) complies with all necessary data submission,  
+| exchange, and reporting requirements established under this  
+| section; _and_  
+|  (2) meets all other standards and requirements  
+| established under this section[ ~~; and~~  
+|  [ ~~(3)~~ ~~~~ ~~~~ ~~has been in use by the health care provider since~~  
+|  ~~at least June 1, 2014~~ ].  
+|  _(g-1)_ _____The commission or a managed care organization shall_  
+| _reimburse a health care provider providing services to a Medicaid_  
+| _recipient at the same reimbursement rate for the same service_  
+| _regardless of whether the provider uses the electronic visit_  
+| _verification system implemented under Subsection (b) or the_  
+| _provider's own proprietary electronic visit verification system_  
+| _under Subsection (g)._  
+|  SECTION 2. Section 531.1131, Government Code, is amended by  
+| adding Subsection (f) to read as follows:  
+|  _(f)_ _____In adopting rules establishing due process procedures_  
+| _under Subsection (e), the executive commissioner shall require that_  
+| _a managed care organization or an entity with which the managed care_  
+| _organization contracts under Section 531.113(a)(2) that engages in_  
+| _payment recovery efforts in accordance with this section provide:_  
+|  _(1)_ _____written notice to a provider of the organization's_  
+| _intent to recoup overpayments; and_  
+|  _(2)_ _____a provider described by Subdivision (1) at least_  
+| _60 days to cure any defect in a claim before the organization may_  
+| _begin any efforts to collect overpayments._  
+|  SECTION 3. Subchapter C, Chapter 531, Government Code, is  
+| amended by adding Section 531.1135 to read as follows:  
+|  _Sec._ ___531.1135._ _____MANAGED CARE ORGANIZATIONS: PROCESS TO_  
+| _RECOUP CERTAIN OVERPAYMENTS. (a) The executive commissioner shall_  
+| _adopt rules that standardize the process by which a managed care_  
+| _organization collects alleged overpayments that are made to a_  
+| _health care provider and discovered through an audit or_  
+| _investigation conducted by the organization secondary to missing_  
+| _electronic visit verification information. In adopting rules under_  
+| _this section, the executive commissioner shall require that the_  
+| _managed care organization:_  
+|  _(1)_ _____provide written notice of the organization's_  
+| _intent to recoup overpayments not later than the 30th day after the_  
+| _date an audit is complete; and_  
+|  _(2) limit the duration of audits to 24 months._  
+|  _(b)_ _____The executive commissioner shall require that the_  
+| _notice required under this section inform the provider:_  
+|  _(1)_ _____of the specific claims and electronic visit_  
+| _verification transactions that are the basis of the overpayment;_  
+|  _(2)_ _____of the process the provider should use to_  
+| _communicate with the managed care organization to provide_  
+| _information about the electronic visit verification transactions;_  
+|  _(3)_ _____of the provider's option to seek an informal_  
+| _resolution of the alleged overpayment;_  
+|  _(4)_ _____of the process to appeal the determination that an_  
+| _overpayment was made; and_  
+|  _(5)_ _____if the provider intends to respond to the notice,_  
+| _that the provider must respond not later than the 30th day after the_  
+| _date the provider receives the notice._  
+|  _(c)_ _____Notwithstanding any other law, a managed care_  
+| _organization may not attempt to recover an overpayment described by_  
+| _Subsection (a) until the provider has exhausted all rights to an_  
+| _appeal._  
+|  SECTION 4. If before implementing any provision of this Act  
+| a state agency determines that an additional waiver or additional  
+| authorization from a federal agency is necessary for implementation  
+| of that provision, the agency affected by the provision shall  
+| request the waiver or authorization and may delay implementing that  
+| provision until the waiver or authorization is granted.  
+|  SECTION 5. This Act takes effect September 1, 2019.
+

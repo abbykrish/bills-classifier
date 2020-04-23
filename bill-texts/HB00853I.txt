@@ -1,0 +1,39 @@
+| 86R4569 GRM-F  
+---|---  
+|  By: Moody | H.B. No. 853  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the deployment of advanced metering and meter  
+| information networks in certain areas outside of ERCOT.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Subchapter L, Chapter 39, Utilities Code, is  
+| amended by adding Section 39.5521 to read as follows:  
+|  _Sec. 39.5521. METERING._ _____(a)_ ___Notwithstanding Section_  
+| _39.552, an electric utility subject to this subchapter that elects_  
+| _to deploy advanced metering and meter information networks may_  
+| _recover reasonable and necessary costs incurred in deploying_  
+| _advanced metering and meter information networks. An electric_  
+| _utility that elects to deploy advanced metering or meter_  
+| _information networks is subject to commission rules adopted under_  
+| _Sections 39.107(h) and (k). The commission shall ensure that any_  
+| _deployment plan approved under this section and any related_  
+| _customer surcharge:_  
+|  _(1)_ _____are not applicable to customer accounts that_  
+| _receive service at transmission voltage; and_  
+|  _(2)_ _____are consistent with commission rules related to_  
+| _advanced metering systems regarding:_  
+|  _(A) customer protections;_  
+|  _(B) data security, privacy, and ownership; and_  
+|  _(C)_ _____options given consumers to continue to_  
+| _receive service through a non-advanced meter._  
+|  _(b)_ _____An electric utility subject to this subchapter that_  
+| _elects to deploy an advanced meter information network shall deploy_  
+| _the network as rapidly as practicable to allow customers to better_  
+| _manage energy use and control costs._  
+|  SECTION 2. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+

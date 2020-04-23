@@ -1,0 +1,122 @@
+| 86R3101 JRJ-D  
+---|---  
+|  By: E. Johnson of Dallas | H.B. No. 104  
+---  
+|  A BILL TO BE ENTITLED  
+|  AN ACT  
+| relating to the inclusion of an incarcerated person in the  
+| population data used for redistricting according to the person's  
+| last residence before incarceration.  
+|  BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:  
+|  SECTION 1. Section 2058.002, Government Code, is amended to  
+| read as follows:  
+|  Sec. 2058.002. EXCEPTIONS. (a) The legislature or the  
+| Legislative Redistricting Board under Article III, Section 28, of  
+| the Texas Constitution may officially recognize or act on a federal  
+| decennial census _as adjusted under Section 2058.003_ before  
+| September 1 of the year after the calendar year during which the  
+| census was taken.  
+|  (b) A political subdivision governed by a body elected from  
+| single-member districts may recognize and act on tabulations of  
+| population of a federal decennial census _as adjusted under Section_  
+| _2058.003_ , for redistricting purposes, _as soon as those adjusted_  
+| _tabulations become available_ [ ~~on or after the date the governor~~  
+|  ~~receives a report of the basic tabulations of population from the~~  
+|  ~~secretary of commerce under 13 U.S.C. Section 141(c)~~ ]. This  
+| subsection does not apply to a political subdivision that was not  
+| subject to a statute requiring certain political subdivisions,  
+| classified by population, to elect their governing bodies from  
+| single-member districts under the preceding federal census.  
+|  SECTION 2. Chapter 2058, Government Code, is amended by  
+| adding Sections 2058.003 and 2058.004 to read as follows:  
+|  _Sec._ ___2058.003._ _____INCLUSION OF INCARCERATED PERSONS IN CENSUS_  
+| _COUNTS._ ___(a) Not later than the next May 1 following the date on_  
+| _which the tract-level population counts for this state from the_  
+| _federal decennial census are released by the director of the Bureau_  
+| _of the Census of the United States Department of Commerce, the_  
+| _comptroller shall prepare and disseminate adjusted population_  
+| _counts for each geographic unit included in the census counts as_  
+| _provided by this section._  
+|  _(b)_ _____Not later than June 1 of the year in which the federal_  
+| _decennial census is conducted, each state or local governmental_  
+| _entity in this state that operates a facility for the incarceration_  
+| _of persons convicted of a criminal offense, including a mental_  
+| _health institution for those persons, or that places any person_  
+| _convicted of a criminal offense in a private facility to be_  
+| _incarcerated on behalf of the governmental entity, shall submit a_  
+| _report to the comptroller with the following information:_  
+|  _(1)_ _____a unique identifier, not including the name, for_  
+| _each person incarcerated in a facility operated by the governmental_  
+| _entity or in a private facility on behalf of the governmental entity_  
+| _on the date for which the census reports population who completed a_  
+| _census form, responded to a census inquiry, or was included in any_  
+| _report provided to census officials, if the form, response, or_  
+| _report indicated that the person resided at the facility on that_  
+| _date;_  
+|  _(2)_ _____the age, gender, and race of each person included_  
+| _in the report and whether the person is of Hispanic, Latino, or_  
+| _Spanish origin, if known; and_  
+|  _(3)_ _____the last address at which the person resided_  
+| _before the person's current incarceration._  
+|  _(c)_ _____Each governmental entity required to make a report under_  
+| _Subsection (b) shall ensure that the entity collects and maintains_  
+| _the information required to make the report._ ___The comptroller shall_  
+| _prescribe procedures that a governmental entity shall use to permit_  
+| _each person included in the report to indicate the person's race and_  
+| _ethnicity for purposes of Subsection (b)(2) in a manner similar to_  
+| _the manner in which a person not incarcerated would indicate the_  
+| _person's race and ethnicity for the federal decennial census._  
+|  _(d)_ _____The comptroller shall request each agency that operates_  
+| _a federal facility in this state that incarcerates persons_  
+| _convicted of a criminal offense to provide the comptroller with a_  
+| _report including the information listed in Subsection (b) for_  
+| _persons convicted of an offense in this state._  
+|  _(e)_ _____For each person included in a report received under_  
+| _Subsection (b) or (d), the comptroller shall determine the_  
+| _geographic units for which population counts are reported in the_  
+| _federal decennial census that contain the last address at which the_  
+| _person resided before the person's incarceration according to the_  
+| _report and, if that address is in this state:_  
+|  _(1)_ _____adjust all relevant population counts reported in_  
+| _the census, including populations by age, gender, race, and_  
+| _Hispanic, Latino, or Spanish origin, as if the person resided at_  
+| _that address on the day for which the census reports population; and_  
+|  _(2)_ _____eliminate the person from all applicable_  
+| _population counts reported in the federal decennial census for the_  
+| _geographic units that include the facility at which the person was_  
+| _incarcerated on the day for which the census reports population._  
+|  _(f)_ _____The information required to be included in a report_  
+| _under Subsection (b) or (d) is confidential and not subject to_  
+| _required disclosure under Chapter 552. This subsection does not_  
+| _apply to information aggregated by geographic census unit that does_  
+| _not disclose the address of or other information that might_  
+| _identify an individual._  
+|  _Sec._ ___2058.004._ _____USE OF ADJUSTED CENSUS COUNTS FOR_  
+| _REDISTRICTING. (a) Each political subdivision of this state that_  
+| _elects any members of a governmental body from election districts,_  
+| _wards, or precincts that are subject to the one-person, one-vote_  
+| _requirement of the Constitution of the United States shall ensure_  
+| _that after redistricting each of those election districts, wards,_  
+| _or precincts does not vary from the average population of those_  
+| _districts, wards, or precincts according to the most recent_  
+| _adjusted population counts prepared by the comptroller under_  
+| _Section 2058.003 by more than five percent._  
+|  _(b)_ _____A state governmental body, including the legislature,_  
+| _the Legislative Redistricting Board, or any state court, that_  
+| _redistricts any election districts subject to the one-person,_  
+| _one-vote requirement of the Constitution of the United States shall_  
+| _comply with the restriction provided by Subsection (a)._  
+|  _(c)_ _____A governmental entity to which this section applies may_  
+| _exceed the adjusted population restrictions required by this_  
+| _section only to the extent necessary to comply with federal law or_  
+| _the Texas Constitution._  
+|  _(d)_ _____This section does not apply to any political subdivision_  
+| _or state governmental body before the comptroller makes the initial_  
+| _adjustment of census counts for the 2020 federal decennial census._ __  
+| _This subsection expires January 1, 2022._  
+|  SECTION 3. This Act takes effect immediately if it receives  
+| a vote of two-thirds of all the members elected to each house, as  
+| provided by Section 39, Article III, Texas Constitution. If this  
+| Act does not receive the vote necessary for immediate effect, this  
+| Act takes effect September 1, 2019.
+
