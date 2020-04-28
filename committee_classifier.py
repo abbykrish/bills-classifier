@@ -5,6 +5,7 @@ import argparse
 import time
 from models import *
 from typing import List
+from sklearn.model_selection import KFold
 
 
 def _parse_args():
@@ -42,7 +43,18 @@ def print_evaluation(golds: List[BillExample], predictions: List[BillExample]):
     :param predictions: pred SentimentExample objects
     :return:
     """
-    raise Exception("print evaluation needs to be implemented for multiclass classification")
+    num_correct = 0
+    num_total = 0
+    if len(golds) != len(predictions):
+        raise Exception("Mismatched gold/pred lengths: %i / %i" % (len(golds), len(predictions)))
+    for idx in range(0, len(golds)):
+        gold = golds[idx]
+        prediction = predictions[idx]
+        if prediction == gold:
+            num_correct += 1
+        num_total += 1
+    print("Accuracy: %i / %i = %f" % (num_correct, num_total, float(num_correct) / num_total))
+
 
 
 def train_model(args, train_exs: List[BillExample]) -> CommitteeClassifier:
@@ -55,7 +67,7 @@ def train_model(args, train_exs: List[BillExample]) -> CommitteeClassifier:
     """
     # Initialize feature extractor
     if args.model == "PERCEPTRON":
-        feat_extractor = PerceptronExtractor(Indexer)
+        feat_extractor = PerceptronExtractor(Indexer())
     else:
         raise Exception("Pass in correct string to run the appropriate system")
 
@@ -74,18 +86,29 @@ if __name__ == '__main__':
     # Load train, dev, and test exs and index the words.
     all_exs = read_examples()
     # TODO need to split all exs into train/dev/test examples
-    train_exs, dev_exs, test_exs = None
-    print(repr(len(train_exs)) + " / " + repr(len(dev_exs)) + " / " + repr(len(test_exs)) + " train/dev/test examples")
+    kfold = KFold(2, True, 1)
+    kf_split = kfold.split(all_exs)
+    set1, set2 = kf_split
+
+    train_exs = []
+    for i in set1[0]:
+        train_exs.append(all_exs[i])
+
+    test_exs = []
+    for i in set1[1]:
+        test_exs.append(all_exs[i])
+
+    print(repr(len(train_exs)) + " / " + repr(len(test_exs)) + " train/test examples")
 
     # Train and evaluate
     start_time = time.time()
     model = train_model(args, train_exs)
     print("=====Train Accuracy=====")
     evaluate(model, train_exs)
-    print("=====Dev Accuracy=====")
-    evaluate(model, dev_exs)
+    print("=====Test Accuracy=====")
+    evaluate(model, test_exs)
     print("Time for training and evaluation: %.2f seconds" % (time.time() - start_time))
 
     # TODO double check this
-    if args.run_on_test:
-        test_exs_predicted = [BillExample(words, model.predict(words)) for words in test_exs]
+    # if args.run_on_test:
+        # test_exs_predicted = [BillExample(words, model.predict(words)) for words in test_exs]

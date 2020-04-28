@@ -36,13 +36,14 @@ def read_examples() -> List[BillExample]:
     bill_labels = read_labels()
     exs = []
 
-    for bill_num in range(sorted_bill_list):
+    for bill_num in range(2, len(bill_labels)):
         bill_file_path = os.path.join(bill_text_dir, sorted_bill_list[bill_num])
         bill_label = bill_labels[bill_num]
         with open(bill_file_path, 'r') as f:
-            file_text = f.read().strip().split("\n")
+            file_text = f.read().strip().replace('\n', '')
             # TODO any additional clean up to the bill text needed
-            exs.append(BillExample(file_text, bill_label))
+            tokenized_cleaned_sent = list(filter(lambda x: x != '', file_text.rstrip().split(" ")))
+            exs.append(BillExample(tokenized_cleaned_sent, bill_label))
     return exs
 
 
