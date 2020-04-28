@@ -132,18 +132,17 @@ def train_perceptron(train_exs: List[BillExample], feat_extractor: FeatureExtrac
     # print(word_idf[indexer.index_of("prison")])
     # print(word_idf[indexer.index_of("year")])
 
+    # print(train_exs[0].words, train_exs[0].label)
     num_epochs = 20
-    num = 0
     for i in range(num_epochs):
         # go through the dataset randomly
         learning_rate = 1 / num_epochs
         np.random.shuffle(indices)
         for idx in indices:
-            num += 1
             curr_example = train_exs[idx]
             feat_dict = feat_labels[curr_example]
             curr_features = dict_to_np_array(feat_dict, indexer, word_idf)
-            # print(curr_features)
+
             dot_prod = np.dot(weights, curr_features)
             y_pred = np.argmax(dot_prod)
             if y_pred != curr_example.label:
