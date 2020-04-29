@@ -45,7 +45,12 @@ def read_examples() -> List[BillExample]:
         with open(bill_file_path, 'r') as f:
             file_text = f.read().strip().replace('\n', '')
             # TODO any additional clean up to the bill text needed
-            tokenized_cleaned_sent = list(filter(lambda x: x != '', file_text.rstrip().split(" ")))
+            tokenized_cleaned_sent = []
+            for word in file_text.split(" "):
+                word_clean = word.strip(' ._:",~;|-[]()&$').lower()
+                if word_clean != '' and not any(i.isdigit() for i in word_clean):
+                    tokenized_cleaned_sent.append(word_clean)
+
             exs.append(BillExample(tokenized_cleaned_sent, bill_label))
     return exs
 
