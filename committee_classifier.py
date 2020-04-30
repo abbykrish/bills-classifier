@@ -39,8 +39,8 @@ def print_evaluation(golds: List[BillExample], predictions: List[BillExample]):
     Prints accuracy as well as precision/recall/F1 of the positive class, which can sometimes be informative if either
     the golds or predictions are highly biased.
 
-    :param golds: gold SentimentExample objects
-    :param predictions: pred SentimentExample objects
+    :param golds: gold CommitteeClassifier objects
+    :param predictions: pred CommitteeClassifier objects
     :return:
     """
     num_correct = 0
@@ -56,26 +56,24 @@ def print_evaluation(golds: List[BillExample], predictions: List[BillExample]):
     print("Accuracy: %i / %i = %f" % (num_correct, num_total, float(num_correct) / num_total))
 
 
-
 def train_model(args, train_exs: List[BillExample]) -> CommitteeClassifier:
     """
     Main entry point for your modifications. Trains and returns one of several models depending on the args
     passed in from the main method. You may modify this function, but probably will not need to.
-    :param args: args bundle from sentiment_classifier.py
-    :param train_exs: training set, List of SentimentExample objects
-    :return: trained SentimentClassifier model, of whichever type is specified
+    :param args: args bundle
+    :param train_exs: training set, List of CommitteeClassifier objects
+    :return: trained CommitteeClassifier model, of whichever type is specified
     """
-    # Initialize feature extractor
-    if args.model == "PERCEPTRON":
-        feat_extractor = PerceptronExtractor(Indexer())
-    else:
-        raise Exception("Pass in correct string to run the appropriate system")
-
     # Train the model
     if args.model == "PERCEPTRON":
+        feat_extractor = PerceptronExtractor(Indexer())
         model = train_perceptron(train_exs, feat_extractor)
+    elif args.model == "CNN":
+        word_embeddings = read_word_embeddings("glove.6B.300d-relativized.txt")
+        print(word_embeddings)
+        model = train_cnn_classifier(args, train_exs, word_embeddings)
     else:
-        raise Exception("Pass in PERCEPTRON, LSA or BERT to run the appropriate system")
+        raise Exception("Pass in PERCEPTRON, CNN or BERT to run the appropriate system")
     return model
 
 
@@ -98,8 +96,8 @@ if __name__ == '__main__':
     # for i in set1[1]:
     #     test_exs.append(all_exs[i])
 
-    train_exs = all_exs[:int(len(all_exs) * (4/5))]
-    test_exs = all_exs[int(len(all_exs) * (4/5)):]
+    train_exs = all_exs[:int(len(all_exs) * (4 / 5))]
+    test_exs = all_exs[int(len(all_exs) * (4 / 5)):]
 
     print(repr(len(train_exs)) + " / " + repr(len(test_exs)) + " train/test examples")
 
@@ -114,4 +112,4 @@ if __name__ == '__main__':
 
     # TODO double check this
     # if args.run_on_test:
-        # test_exs_predicted = [BillExample(words, model.predict(words)) for words in test_exs]
+    # test_exs_predicted = [BillExample(words, model.predict(words)) for words in test_exs]
