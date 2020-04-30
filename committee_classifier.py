@@ -27,9 +27,9 @@ def train_model(args, all_exs: List[BillExample]) -> CommitteeClassifier:
     """
     Main entry point for your modifications. Trains and returns one of several models depending on the args
     passed in from the main method. You may modify this function, but probably will not need to.
-    :param args: args bundle from sentiment_classifier.py
-    :param train_exs: training set, List of SentimentExample objects
-    :return: trained SentimentClassifier model, of whichever type is specified
+    :param args: args bundle
+    :param train_exs: training set, List of CommitteeClassifier objects
+    :return: trained CommitteeClassifier model, of whichever type is specified
     """
     # Initialize feature extractor
     # if args.model == "PERCEPTRON":
@@ -40,8 +40,12 @@ def train_model(args, all_exs: List[BillExample]) -> CommitteeClassifier:
     # Train the model
     if args.model == "PERCEPTRON":
         model = train_perceptron(all_exs)
+    elif args.model == "CNN":
+        word_embeddings = read_word_embeddings("glove.6B.300d-relativized.txt")
+        print(word_embeddings)
+        model = train_cnn_classifier(args, all_exs, word_embeddings)
     else:
-        raise Exception("Pass in PERCEPTRON, LSA or BERT to run the appropriate system")
+        raise Exception("Pass in PERCEPTRON, CNN or BERT to run the appropriate system")
     return model
 
 
@@ -52,6 +56,20 @@ if __name__ == '__main__':
     # Load train, dev, and test exs and index the words.
     all_exs = read_examples()
     # TODO need to split all exs into train/dev/test examples
+    # kfold = KFold(5, True, 1)
+    # kf_split = kfold.split(all_exs)
+    # set1, set2, set3, set4, set5 = kf_split
+
+    # train_exs = []
+    # for i in set1[0]:
+    #     train_exs.append(all_exs[i])
+
+    # test_exs = []
+    # for i in set1[1]:
+    #     test_exs.append(all_exs[i])
+
+    train_exs = all_exs[:int(len(all_exs) * (4 / 5))]
+    test_exs = all_exs[int(len(all_exs) * (4 / 5)):]
 
     # print(repr(len(train_exs)) + " / " + repr(len(test_exs)) + " train/test examples")
 
@@ -67,4 +85,4 @@ if __name__ == '__main__':
 
     # TODO double check this
     # if args.run_on_test:
-        # test_exs_predicted = [BillExample(words, model.predict(words)) for words in test_exs]
+    # test_exs_predicted = [BillExample(words, model.predict(words)) for words in test_exs]
