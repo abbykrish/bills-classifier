@@ -1,6 +1,8 @@
 # process_data.py
 
 import os
+import string
+
 import numpy as np
 from typing import List
 from utils import *
@@ -46,12 +48,13 @@ def read_examples() -> List[BillExample]:
         bill_label = bill_labels[bill_num]
 
         with open(bill_file_path, 'r') as f:
-            file_text = f.read().strip().replace('\n', '')
+            file_text = f.read().strip()
             tokenized_cleaned_sent = []
             # todo still not getting rid of all 's: need to fix this
-            tokens = word_tokenize(file_text)
+            tokens = re.split('[- /\\n]', file_text)
             for word in tokens:
-                word_clean = word.strip(' ._:",~;|-[]()&$').lower()
+                word = word.strip(string.punctuation).lower()
+                word_clean = re.sub('\'s', '', word)
                 if word_clean != '' and not any(i.isdigit() for i in word_clean):
                     tokenized_cleaned_sent.append(word_clean)
             # tokenized_cleaned_sent = list(filter(lambda x: x != '',
