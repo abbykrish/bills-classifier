@@ -13,6 +13,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 import random
+import time
 
 EN_STOPWORDS = stopwords.words('english')
 
@@ -97,8 +98,9 @@ class CNNClassifier(CommitteeClassifier):
        subclass for multi-class prediction using CNNs
     """
 
-    def __init__(self, cnn, train_exs, test_exs):
+    def __init__(self, cnn, word_embedder, train_exs, test_exs):
         self.cnn = cnn
+        self.word_embedder = word_embedder
         self.train_exs = train_exs
         self.test_exs = test_exs
 
@@ -106,12 +108,16 @@ class CNNClassifier(CommitteeClassifier):
         self.cnn.eval()
         # convert words to indices
         indices = [self.word_embedder.word_indexer.index_of(ex_word) for ex_word in ex_words]
+        indices = [1 if i == -1 else i for i in indices]
         # add a batch dim
-        batched_ex = torch.LongTensor(indices).unsqueeze(1)
+        batched_ex = torch.LongTensor(indices).unsqueeze(0)
         # batched_ex shape is [batch size, sent len]
-        predictions = self.cnn.forward(batched_ex).squeeze(1)
-        probs = F.softmax(predictions, dim=1)
-        return torch.argmax(probs)
+        predictions = self.cnn.forward(batched_ex)
+        predictions = predictions.squeeze(0)
+
+        probs = F.softmax(predictions, dim=0)
+        # print(torch.argmax(probs))
+        return torch.argmax(probs).item()
 
 
 def dict_to_np_array(counter: Counter, indexer: Indexer, word_idf, summary):
@@ -272,10 +278,18 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
     num_classes = 38  # todo get auto somehow
 
     # todo change the vocab size and pad idx
-    kfold = KFold(5, True)
+    kfold = KFold(5, True, 1)
     maxAccuracy = -1
     bestModel = None
     k = 1
+    if torch.cuda.is_available():
+      dev = "cuda:0"
+    else:
+      dev = "cpu"
+
+    device = torch.device(dev)
+
+
     for train_index, test_index in kfold.split(all_exs):
         train_exs = []
         for i in train_index:
@@ -284,6 +298,7 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
         test_exs = []
         for i in test_index:
             test_exs.append(all_exs[i])
+
         conv_neural_net = CNN(num_filters=NUM_FILTERS,
                               window_sizes=window_sizes, dropout=dropout, word_embeddings=word_embeddings,
                               num_classes=num_classes)
@@ -291,27 +306,43 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
         optimizer = optim.Adam(conv_neural_net.parameters(), lr=lr)
         loss_function = nn.CrossEntropyLoss()
         ex_indices = [i for i in range(0, len(train_exs))]
-
         for epoch in range(num_epochs):
             random.shuffle(ex_indices)
+            start_time = time.time()
             total_loss = 0.0
             for i in range(0, len(ex_indices), batch_size):
                 indices = ex_indices[i: min(i + batch_size, len(ex_indices))]
                 # todo variable length batch x + add torch.longtensor wrapper
                 batch_x_words = [train_exs[idx].words for idx in indices]
-                batch_x_indices = [word_embeddings.word_indexer.index_of(ex_word) for ex_word in batch_x_words]
-                batch_x = torch.LongTensor(batch_x_indices).unsqueeze(0)
+                max_length = np.amax(np.array([len(x) for x in batch_x_words]))
+                upper_bound = 1000
+                batch_x_indices = []
+                # TODO write this in 1 line, did like this for now for sanity
+                for a in range(0, len(batch_x_words)):
+                    indexes = []
+                    for b in range(0, min(upper_bound, max_length)):
+                        if b >= len(batch_x_words[a]):
+                            indexes.append(0)
+                        else:
+                            indexes.append(word_embeddings.word_indexer.index_of(batch_x_words[a][b]))
+
+                    indexes = [1 if i == -1 else i for i in indexes]
+                    batch_x_indices.append(indexes)
+
+                # batch_x = torch.transpose(torch.LongTensor(batch_x_indices), 0, 1)
+                batch_x = torch.LongTensor(batch_x_indices)
                 batch_y = torch.LongTensor([train_exs[idx].label for idx in indices])
+
                 conv_neural_net.zero_grad()
                 # todo look into the squeeze here
-                predictions = conv_neural_net.forward(batch_x).squeeze(1)
+                predictions = conv_neural_net.forward(batch_x)
                 loss = loss_function(predictions, batch_y)
-                total_loss += loss
+                total_loss += loss.item()
                 loss.backward()
                 optimizer.step()
-            print("Total loss on epoch %i: %f" % (epoch, total_loss))
+            print("Total loss on epoch %i: %f. Time to run %f" % (epoch, total_loss, (time.time() - start_time)))
 
-        model = CNNClassifier(conv_neural_net, train_exs, text_exs)
+        model = CNNClassifier(conv_neural_net, word_embeddings, train_exs, test_exs)
         print("=====Cross Validation Split %d=====" % k)
         k += 1
         accuracy = evaluate(model, test_exs)
@@ -319,6 +350,9 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
         if accuracy > maxAccuracy:
             bestModel = model
             maxAccuracy = accuracy
+
+        # i don't want to try all the cross validation right now bec its so long... might let it run forever and see how it goes
+        break
 
     return bestModel
 
@@ -346,21 +380,15 @@ class CNN(nn.Module):
         self.fc = nn.Linear(num_filters * len(window_sizes), num_classes)
 
     def forward(self, input):
-        embedded_input = self.word_embedding_obj(input)  # [batch size, sent len, emb dim]
+        embedded_input = self.word_embedding_obj(input).float()  # [batch size, sent len, emb dim]
         x = embedded_input.unsqueeze(1)  # to add a channel dimension [batch size, 1, sent len, emb dim]
-        # Apply a convolution + max_pool layer for each window size
 
         xs = []
         for conv in self.convs:
-            x2 = F.ReLU(conv(embedded_input)).squeeze(3)
-            # x2 shape is [batch size, n_filters, sent len - filter_sizes[n] + 1]
+            x2 = F.relu(conv(x.float()).float()).squeeze(3)
             x2 = F.max_pool1d(x2, x2.shape[2]).squeeze(2)
-            # x2 = F.max_pool1d(x2, x2.size(2))
             xs.append(x2)
-        # xs = [batch size, n_filters]
+
         x = self.drop_out(torch.cat(xs, 1))
-        # x = self.cnn_layers(x)
-        # x = x.view(x.size(0), -1)
-        # x = self.linear_layers(x)
         logits = self.fc(x)
         return logits

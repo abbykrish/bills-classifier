@@ -42,7 +42,6 @@ def train_model(args, all_exs: List[BillExample]) -> CommitteeClassifier:
         model = train_perceptron(all_exs)
     elif args.model == "CNN":
         word_embeddings = read_word_embeddings("glove.6B.300d-relativized.txt")
-        print(word_embeddings)
         model = train_cnn_classifier(args, all_exs, word_embeddings)
     else:
         raise Exception("Pass in PERCEPTRON, CNN or BERT to run the appropriate system")
