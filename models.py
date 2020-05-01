@@ -273,8 +273,8 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
     num_epochs = 5
     lr = 0.001
     batch_size = 1
-    window_sizes = (3, 4, 5)
-    NUM_FILTERS = 100  # todo change
+    window_sizes = (3, 3, 3)
+    NUM_FILTERS = 600  # todo change
     num_classes = 38  # todo get auto somehow
 
     # todo change the vocab size and pad idx
@@ -318,14 +318,9 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
                 upper_bound = 1000
                 batch_x_indices = []
                 # TODO write this in 1 line, did like this for now for sanity
-                for a in range(0, len(batch_x_words)):
-                    indexes = []
-                    for b in range(0, min(upper_bound, max_length)):
-                        if b >= len(batch_x_words[a]):
-                            indexes.append(0)
-                        else:
-                            indexes.append(word_embeddings.word_indexer.index_of(batch_x_words[a][b]))
-
+                for sentence in batch_x_words:
+                    bound = min(upper_bound, max_length)
+                    indexes = [word_embeddings.word_indexer.index_of(sentence[b]) if b < len(sentence) else 0 for b in range(0, bound)]
                     indexes = [1 if i == -1 else i for i in indexes]
                     batch_x_indices.append(indexes)
 
