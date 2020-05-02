@@ -270,11 +270,11 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
     :return: an RNNClassifier instance trained on the given data
     """
     dropout = 0.5
-    num_epochs = 5
-    lr = 0.001
+    num_epochs = 6
+    lr = 0.0005
     batch_size = 1
-    window_sizes = (3, 3, 3)
-    NUM_FILTERS = 600  # todo change
+    window_sizes = (2, 3, 4)
+    NUM_FILTERS = 100  # todo change
     num_classes = 38  # todo get auto somehow
 
     # todo change the vocab size and pad idx
@@ -369,7 +369,7 @@ class CNN(nn.Module):
         self.drop_out = nn.Dropout(dropout)
         self.convs = nn.ModuleList([
             nn.Conv2d(in_channels=1, out_channels=num_filters, kernel_size=[window_size, embedding_dim],
-                      padding=(window_size - 1, 0))
+                      padding=(window_size - 2, 0))
             for window_size in window_sizes
         ])
         self.fc = nn.Linear(num_filters * len(window_sizes), num_classes)
