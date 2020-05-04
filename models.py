@@ -270,8 +270,8 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
     :return: an RNNClassifier instance trained on the given data
     """
     dropout = 0.5
-    num_epochs = 5
-    lr = 0.0004
+    num_epochs = 6
+    lr = 0.0005
     batch_size = 1
     window_sizes = (3, 4, 5)
     NUM_FILTERS = 100  # todo change
@@ -282,13 +282,6 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
     maxAccuracy = -1
     bestModel = None
     k = 1
-    if torch.cuda.is_available():
-      dev = "cuda:0"
-    else:
-      dev = "cpu"
-
-    device = torch.device(dev)
-
 
     for train_index, test_index in kfold.split(all_exs):
         train_exs = []
