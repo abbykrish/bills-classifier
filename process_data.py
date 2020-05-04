@@ -2,7 +2,7 @@
 
 import os
 import string
-
+import csv
 import numpy as np
 from typing import List
 from utils import *
@@ -177,13 +177,33 @@ def relativize(file, outfile, word_counter):
     o.close()
 
 
+def write_to_csv():
+    bill_text_dir = os.path.join(os.getcwd(), "bill-texts")
+    sorted_bill_list = sorted(os.listdir(bill_text_dir))
+    bill_labels = read_labels()
+
+    if '.DS_Store' in sorted_bill_list[0]:
+        sorted_bill_list = sorted_bill_list[1:]
+
+    with open('bill-texts-labeled.csv', mode='w') as file:
+        bill_writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        for bill_num in range(len(bill_labels)):
+            bill_file_path = os.path.join(bill_text_dir, sorted_bill_list[bill_num])
+            bill_label = bill_labels[bill_num]
+
+            with open(bill_file_path, 'r') as f:
+                file_text = f.read().strip()
+                bill_writer.writerow([file_text, bill_label])
+
+
 if __name__ == "__main__":
     # Count all words in the train, dev, and *test* sets. Note that this use of looking at the test set is legitimate
     # because we're not looking at the labels, just the words, and it's only used to cache computation that we
     # otherwise would have to do later anyway.
-    word_counter = Counter()
-    for ex in read_examples():
-        for word in ex.words:
-            word_counter[word] += 1
-    # Uncomment these to relativize vectors to the dataset
-    relativize("glove.6B.300d.txt", "glove.6B.300d-relativized.txt", word_counter)
+    # word_counter = Counter()
+    # for ex in read_examples():
+    #     for word in ex.words:
+    #         word_counter[word] += 1
+    # # Uncomment these to relativize vectors to the dataset
+    # relativize("glove.6B.300d.txt", "glove.6B.300d-relativized.txt", word_counter)
+    write_to_csv()
