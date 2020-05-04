@@ -270,15 +270,15 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
     :return: an RNNClassifier instance trained on the given data
     """
     dropout = 0.5
-    num_epochs = 6
-    lr = 0.0005
+    num_epochs = 5
+    lr = 0.0004
     batch_size = 1
-    window_sizes = (2, 3, 4)
+    window_sizes = (3, 4, 5)
     NUM_FILTERS = 100  # todo change
     num_classes = 38  # todo get auto somehow
 
     # todo change the vocab size and pad idx
-    kfold = KFold(5, True, 1)
+    kfold = KFold(5, True)
     maxAccuracy = -1
     bestModel = None
     k = 1
@@ -347,7 +347,7 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
             maxAccuracy = accuracy
 
         # i don't want to try all the cross validation right now bec its so long... might let it run forever and see how it goes
-        break
+        # break
 
     return bestModel
 
