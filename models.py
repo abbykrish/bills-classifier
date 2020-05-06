@@ -14,6 +14,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 import random
 import time
+from sklearn.metrics import confusion_matrix
 
 EN_STOPWORDS = stopwords.words('english')
 
@@ -233,7 +234,9 @@ def evaluate(classifier, exs):
     :param exs: the list of SentimentExamples to evaluate on
     :return: None (but prints output)
     """
-    return print_evaluation([ex.label for ex in exs], [classifier.predict(ex.words) for ex in exs])
+    labels = [ex.label for ex in exs]
+    predictions = [classifier.predict(ex.words) for ex in exs]
+    return print_evaluation(labels, predictions)
 
 
 
@@ -258,6 +261,18 @@ def print_evaluation(golds: List[BillExample], predictions: List[BillExample]):
             num_correct += 1
         num_total += 1
     print("Accuracy: %i / %i = %f" % (num_correct, num_total, float(num_correct) / num_total))
+
+
+    cm = confusion_matrix(golds, predictions)
+    with np.errstate(divide='ignore'):
+        recall = np.nan_to_num(np.diag(cm) / np.sum(cm, axis = 1))
+        recall = np.mean(recall)
+        precision = np.nan_to_num(np.diag(cm) / np.sum(cm, axis = 0))
+        precision = np.mean(precision)
+        f1 = 2 * precision * recall / (precision + recall)
+
+        print("Precision: %f, Recall: %f, F1: %f" % (precision, recall, f1))
+
     return (float(num_correct) / num_total)
 
 
@@ -271,7 +286,7 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
     """
     dropout = 0.5
     num_epochs = 6
-    lr = 0.0005
+    lr = 0.0004
     batch_size = 1
     window_sizes = (3, 4, 5)
     NUM_FILTERS = 100  # todo change

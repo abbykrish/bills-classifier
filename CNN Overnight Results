@@ -1,0 +1,145 @@
+CNN Overnight Results
+
+Namespace(model='CNN', run_on_test=True)
+Read in 17224 vectors of size 300
+Total loss on epoch 0: 7746.703068. Time to run 157.102020
+Total loss on epoch 1: 4492.935610. Time to run 146.758747
+Total loss on epoch 2: 3293.246608. Time to run 144.311317
+Total loss on epoch 3: 2739.119842. Time to run 144.455842
+Total loss on epoch 4: 2212.004930. Time to run 139.874046
+Total loss on epoch 5: 1967.717671. Time to run 152.541593
+=====Cross Validation Split 1=====
+Accuracy: 760 / 953 = 0.797482
+Total loss on epoch 0: 7878.493663. Time to run 150.746006
+Total loss on epoch 1: 4585.681431. Time to run 151.890895
+Total loss on epoch 2: 3567.460195. Time to run 151.060728
+Total loss on epoch 3: 2687.748705. Time to run 149.812200
+Total loss on epoch 4: 2126.393251. Time to run 136.638192
+Total loss on epoch 5: 1975.451499. Time to run 132.918371
+=====Cross Validation Split 2=====
+Accuracy: 725 / 953 = 0.760756
+Total loss on epoch 0: 7841.378473. Time to run 131.521907
+Total loss on epoch 1: 4435.438933. Time to run 131.293106
+Total loss on epoch 2: 3324.715138. Time to run 131.416220
+Total loss on epoch 3: 2556.758991. Time to run 132.554602
+Total loss on epoch 4: 2216.352756. Time to run 131.766313
+Total loss on epoch 5: 1807.139304. Time to run 131.480225
+=====Cross Validation Split 3=====
+Accuracy: 742 / 953 = 0.778594
+Total loss on epoch 0: 7804.183889. Time to run 132.667054
+Total loss on epoch 1: 4561.289756. Time to run 131.367927
+Total loss on epoch 2: 3296.860254. Time to run 130.718182
+Total loss on epoch 3: 2700.760054. Time to run 130.330084
+Total loss on epoch 4: 2184.874008. Time to run 130.448160
+Total loss on epoch 5: 1894.799591. Time to run 130.739266
+=====Cross Validation Split 4=====
+Accuracy: 742 / 952 = 0.779412
+Total loss on epoch 0: 8037.208552. Time to run 130.298282
+Total loss on epoch 1: 4469.336605. Time to run 130.438633
+Total loss on epoch 2: 3244.984349. Time to run 130.513404
+Total loss on epoch 3: 2734.612127. Time to run 131.488712
+Total loss on epoch 4: 2353.722681. Time to run 131.900519
+Total loss on epoch 5: 1898.502447. Time to run 130.948115
+=====Cross Validation Split 5=====
+Accuracy: 721 / 952 = 0.757353
+
+=====Train Accuracy=====
+Accuracy: 3660 / 3810 = 0.960630
+=====Test Accuracy=====
+Accuracy: 760 / 953 = 0.797482
+
+Read in 17224 vectors of size 300
+Total loss on epoch 0: 7787.461039. Time to run 150.946641
+Total loss on epoch 1: 4526.164143. Time to run 151.047561
+Total loss on epoch 2: 3327.688854. Time to run 135.792156
+Total loss on epoch 3: 2693.619755. Time to run 131.455701
+Total loss on epoch 4: 2169.028334. Time to run 139.213524
+Total loss on epoch 5: 1847.762450. Time to run 147.229136
+=====Cross Validation Split 1=====
+Accuracy: 728 / 953 = 0.763903
+Total loss on epoch 0: 7817.869776. Time to run 147.180440
+Total loss on epoch 1: 4460.780059. Time to run 134.661496
+Total loss on epoch 2: 3370.211880. Time to run 131.561004
+Total loss on epoch 3: 2700.812396. Time to run 131.700613
+Total loss on epoch 4: 2370.932153. Time to run 131.231240
+Total loss on epoch 5: 1818.411014. Time to run 144.745986
+=====Cross Validation Split 2=====
+Accuracy: 750 / 953 = 0.786988
+Total loss on epoch 0: 7829.859280. Time to run 135.117278
+Total loss on epoch 1: 4453.007014. Time to run 136.880594
+Total loss on epoch 2: 3329.637112. Time to run 154.687965
+Total loss on epoch 3: 2758.518263. Time to run 150.632479
+Total loss on epoch 4: 2198.539640. Time to run 144.802295
+Total loss on epoch 5: 1925.119629. Time to run 154.652697
+=====Cross Validation Split 3=====
+Accuracy: 732 / 953 = 0.768101
+Total loss on epoch 0: 7685.117930. Time to run 148.073182
+Total loss on epoch 1: 4510.810683. Time to run 150.024212
+Total loss on epoch 2: 3363.351692. Time to run 156.906523
+Total loss on epoch 3: 2699.843775. Time to run 155.454117
+Total loss on epoch 4: 2238.627101. Time to run 153.383557
+Total loss on epoch 5: 1996.508833. Time to run 153.835618
+=====Cross Validation Split 4=====
+Accuracy: 737 / 953 = 0.773347
+Total loss on epoch 0: 7731.499538. Time to run 151.870617
+Total loss on epoch 1: 4396.664341. Time to run 150.046708
+Total loss on epoch 2: 3399.163032. Time to run 146.869590
+Total loss on epoch 3: 2749.084294. Time to run 139.714435
+Total loss on epoch 4: 2250.081206. Time to run 132.743207
+Total loss on epoch 5: 1942.747472. Time to run 130.723944
+=====Cross Validation Split 5=====
+Accuracy: 717 / 952 = 0.753151
+
+=====Train Accuracy=====
+Accuracy: 3643 / 3810 = 0.956168
+=====Test Accuracy=====
+Accuracy: 750 / 953 = 0.786988
+
+
+Namespace(model='CNN', run_on_test=True)
+Read in 17224 vectors of size 300
+Total loss on epoch 0: 8043.756029. Time to run 158.629772
+Total loss on epoch 1: 4463.890652. Time to run 133.791138
+Total loss on epoch 2: 3278.695644. Time to run 145.234755
+Total loss on epoch 3: 2650.008736. Time to run 144.513327
+Total loss on epoch 4: 2180.298682. Time to run 145.968719
+Total loss on epoch 5: 1800.011501. Time to run 151.924192
+=====Cross Validation Split 1=====
+Accuracy: 740 / 953 = 0.776495
+Total loss on epoch 0: 8153.149357. Time to run 153.275725
+Total loss on epoch 1: 4576.593465. Time to run 142.905937
+Total loss on epoch 2: 3291.675861. Time to run 145.307121
+Total loss on epoch 3: 2592.309850. Time to run 155.611710
+Total loss on epoch 4: 2113.816992. Time to run 150.494653
+Total loss on epoch 5: 1710.446356. Time to run 148.367089
+=====Cross Validation Split 2=====
+Accuracy: 754 / 953 = 0.791186
+Total loss on epoch 0: 8029.096392. Time to run 143.727248
+Total loss on epoch 1: 4452.700123. Time to run 130.922805
+Total loss on epoch 2: 3166.171480. Time to run 130.730407
+Total loss on epoch 3: 2663.365687. Time to run 129.973615
+Total loss on epoch 4: 2054.544559. Time to run 130.295082
+Total loss on epoch 5: 1664.529376. Time to run 129.953723
+=====Cross Validation Split 3=====
+Accuracy: 775 / 953 = 0.813221
+Total loss on epoch 0: 7844.524888. Time to run 128.941255
+Total loss on epoch 1: 4267.654867. Time to run 129.630882
+Total loss on epoch 2: 3274.349585. Time to run 129.011282
+Total loss on epoch 3: 2694.644445. Time to run 128.128662
+Total loss on epoch 4: 2104.396092. Time to run 128.464906
+Total loss on epoch 5: 1808.424215. Time to run 127.314320
+=====Cross Validation Split 4=====
+Accuracy: 727 / 952 = 0.763655
+Total loss on epoch 0: 7975.148560. Time to run 128.180223
+Total loss on epoch 1: 4396.470960. Time to run 128.386046
+Total loss on epoch 2: 3286.719516. Time to run 127.917437
+Total loss on epoch 3: 2575.896211. Time to run 127.572239
+Total loss on epoch 4: 2103.981847. Time to run 128.412912
+Total loss on epoch 5: 1781.794126. Time to run 128.631969
+=====Cross Validation Split 5=====
+Accuracy: 730 / 952 = 0.766807
+
+=====Train Accuracy=====
+Accuracy: 3643 / 3810 = 0.956168
+=====Test Accuracy=====
+Accuracy: 775 / 953 = 0.813221

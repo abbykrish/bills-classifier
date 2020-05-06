@@ -54,21 +54,10 @@ if __name__ == '__main__':
 
     # Load train, dev, and test exs and index the words.
     all_exs = read_examples()
-    # TODO need to split all exs into train/dev/test examples
-    # kfold = KFold(5, True, 1)
-    # kf_split = kfold.split(all_exs)
-    # set1, set2, set3, set4, set5 = kf_split
 
-    # train_exs = []
-    # for i in set1[0]:
-    #     train_exs.append(all_exs[i])
-
-    # test_exs = []
-    # for i in set1[1]:
-    #     test_exs.append(all_exs[i])
-
-    train_exs = all_exs[:int(len(all_exs) * (4 / 5))]
-    test_exs = all_exs[int(len(all_exs) * (4 / 5)):]
+    # basic straight split
+    # train_exs = all_exs[:int(len(all_exs) * (4 / 5))]
+    # test_exs = all_exs[int(len(all_exs) * (4 / 5)):]
 
     # print(repr(len(train_exs)) + " / " + repr(len(test_exs)) + " train/test examples")
 
