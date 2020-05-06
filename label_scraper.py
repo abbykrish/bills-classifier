@@ -1,3 +1,5 @@
+# label_scraper.py
+
 import urllib.request as urllib2
 from bs4 import BeautifulSoup
 
@@ -9,12 +11,13 @@ file = open(file_name, 'w')
 number_bills = 4765
 
 
+# Scrapes the text of bills directly from the Texas Legislature website
 def house_bill_text(legis_session: int, bill_num: str) -> str:
     """
     :param legis_session:
     :param bill_num:
     :param bill_type:
-    :return:
+    :return: the full text of a bill
     """
 
     bill_url = url_format.format(legis_session=legis_session, bill_num=bill_num)
@@ -26,6 +29,7 @@ def house_bill_text(legis_session: int, bill_num: str) -> str:
     return committee_name.a.text
 
 
-for i in range(1, number_bills):
-    committee_name = house_bill_text(86, i)
-    file.write(committee_name + '\n')  # pad bill number to 5-digits
+if __name__ == "__main__":
+    for i in range(1, number_bills):
+        committee_name = house_bill_text(86, i)
+        file.write(committee_name + '\n')  # pad bill number to 5-digits

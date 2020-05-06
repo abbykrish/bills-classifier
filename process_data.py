@@ -1,4 +1,5 @@
 # process_data.py
+# Some code borrowed from A1 code of CS 378 NLP course
 
 import os
 import string
@@ -7,7 +8,6 @@ import numpy as np
 from typing import List
 from utils import *
 from nltk.util import *
-from nltk.tokenize import word_tokenize
 
 
 class BillExample:
@@ -36,35 +36,38 @@ def read_examples() -> List[BillExample]:
     BillExamples.
     :return: a list of BillExamples parsed from the bill texts
     """
+    exs = []
+    bill_labels = read_labels()
     bill_text_dir = os.path.join(os.getcwd(), "bill-texts")
     sorted_bill_list = sorted(os.listdir(bill_text_dir))
-    bill_labels = read_labels()
-    exs = []
 
     if '.DS_Store' in sorted_bill_list[0]:
         sorted_bill_list = sorted_bill_list[1:]
+
+    # go through all bills and create examples with the bill text and label
     for bill_num in range(len(bill_labels)):
         bill_file_path = os.path.join(bill_text_dir, sorted_bill_list[bill_num])
         bill_label = bill_labels[bill_num]
 
+        # tokenize and clean the bill text before wrapping in a BillExample instance
         with open(bill_file_path, 'r') as f:
-
             file_text = f.read().strip()
             tokenized_cleaned_sent = []
-            # todo still not getting rid of all 's: need to fix this
             tokens = re.split('[- /\\n]', file_text)
             for word in tokens:
                 word = word.strip(string.punctuation).lower()
                 word_clean = re.sub('\'s', '', word)
                 if word_clean != '' and not any(i.isdigit() for i in word_clean):
                     tokenized_cleaned_sent.append(word_clean)
-            # tokenized_cleaned_sent = list(filter(lambda x: x != '',
-            #                                      [word.lower() for word in file_text.strip(' ._:",~;|').split(" ")]))
             exs.append(BillExample(tokenized_cleaned_sent, bill_label))
     return exs
 
 
 def read_labels() -> List[int]:
+    """
+        Reads the labels corresponding to each bill and converts them into distinct numbers
+        :return: a list of labels corresponding to each bill
+    """
     all_labels = Indexer()
     all_labels_file_name = os.path.join(os.getcwd(), "all_labels.txt")
     all_labels_file = open(all_labels_file_name)
@@ -178,6 +181,9 @@ def relativize(file, outfile, word_counter):
 
 
 def write_to_csv():
+    """
+        Writes all examples with labels into a csv file
+    """
     bill_text_dir = os.path.join(os.getcwd(), "bill-texts")
     sorted_bill_list = sorted(os.listdir(bill_text_dir))
     bill_labels = read_labels()
@@ -200,10 +206,12 @@ if __name__ == "__main__":
     # Count all words in the train, dev, and *test* sets. Note that this use of looking at the test set is legitimate
     # because we're not looking at the labels, just the words, and it's only used to cache computation that we
     # otherwise would have to do later anyway.
-    # word_counter = Counter()
-    # for ex in read_examples():
-    #     for word in ex.words:
-    #         word_counter[word] += 1
-    # # Uncomment these to relativize vectors to the dataset
-    # relativize("glove.6B.300d.txt", "glove.6B.300d-relativized.txt", word_counter)
-    write_to_csv()
+    word_counter = Counter()
+    for ex in read_examples():
+        for word in ex.words:
+            word_counter[word] += 1
+    # Uncomment these to relativize vectors to the dataset
+    relativize("glove.6B.300d.txt", "glove.6B.300d-relativized.txt", word_counter)
+
+    # Uncomment to create a csv file of all examples with labels - to be used for BERT in Google CoLab
+    # write_to_csv()

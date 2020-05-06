@@ -88,7 +88,8 @@ class PerceptronClassifier(CommitteeClassifier):
 
     def predict(self, ex_words: List[str]) -> int:
         feat_cnt_dict = self.feat_extractor.extract_features(ex_words, False)
-        feat_cnt_array = dict_to_np_array(feat_cnt_dict, self.feat_extractor.get_indexer(), self.word_idf, get_summary(ex_words))
+        feat_cnt_array = dict_to_np_array(feat_cnt_dict, self.feat_extractor.get_indexer(), self.word_idf,
+                                          get_summary(ex_words))
         dot_prod = np.dot(self.weights, feat_cnt_array)
         y_pred = np.argmax(dot_prod)
         return y_pred
@@ -135,27 +136,28 @@ def dict_to_np_array(counter: Counter, indexer: Indexer, word_idf, summary):
                 feat_cnt_array[word_idx] *= 2
     return feat_cnt_array
 
+
 def get_summary(bill_example):
     # if it doesn't find a summary it just is empty so it won't affect inputs that aren't this
-    summaryRegex = "relating to (.*) BE IT ENACTED BY THE LEGISLATURE"
-    summary = re.findall(summaryRegex, " ".join(bill_example))
+    summary_regex = "relating to (.*) BE IT ENACTED BY THE LEGISLATURE"
+    summary = re.findall(summary_regex, " ".join(bill_example))
     if len(summary) > 0:
         summary = summary[0]
     else:
         summary = ""
     return summary
 
+
 # NOTE: implementing multiclass perceptron using the different weights approach
 def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
     """
     Train a classifier with the perceptron.
-    :param train_exs: training set, List of SentimentExample objects
-    :param feat_extractor: feature extractor to use
+    :param all_exs: training and testing sets, List of SentimentExample objects
     :return: trained PerceptronClassifier model
     """
     kfold = KFold(5, True)
-    maxAccuracy = -1
-    bestModel = None
+    max_accuracy = -1
+    best_model = None
     k = 1
     for train_index, test_index in kfold.split(all_exs):
         train_exs = []
@@ -174,7 +176,6 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
         feat_labels = Counter()
         for ex in train_exs:
             feat_labels[ex] = feat_extractor.extract_features(ex.words, True)
-
 
         num_labels = 38  # TODO: get this number auto later
 
@@ -195,7 +196,6 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
                     word_idf[word_idx] += 1
 
         word_idf = np.log((len(train_exs) + 1) / (1 + word_idf).astype(float))
-
 
         num_epochs = 20
         for i in range(num_epochs):
@@ -220,11 +220,11 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
         k += 1
         accuracy = evaluate(model, test_exs)
 
-        if accuracy > maxAccuracy:
-            bestModel = model
-            maxAccuracy = accuracy
+        if accuracy > max_accuracy:
+            best_model = model
+            max_accuracy = accuracy
 
-    return bestModel
+    return best_model
 
 
 def evaluate(classifier, exs):
@@ -237,7 +237,6 @@ def evaluate(classifier, exs):
     labels = [ex.label for ex in exs]
     predictions = [classifier.predict(ex.words) for ex in exs]
     return print_evaluation(labels, predictions)
-
 
 
 def print_evaluation(golds: List[BillExample], predictions: List[BillExample]):
@@ -262,25 +261,23 @@ def print_evaluation(golds: List[BillExample], predictions: List[BillExample]):
         num_total += 1
     print("Accuracy: %i / %i = %f" % (num_correct, num_total, float(num_correct) / num_total))
 
-
     cm = confusion_matrix(golds, predictions)
     with np.errstate(divide='ignore'):
-        recall = np.nan_to_num(np.diag(cm) / np.sum(cm, axis = 1))
+        recall = np.nan_to_num(np.diag(cm) / np.sum(cm, axis=1))
         recall = np.mean(recall)
-        precision = np.nan_to_num(np.diag(cm) / np.sum(cm, axis = 0))
+        precision = np.nan_to_num(np.diag(cm) / np.sum(cm, axis=0))
         precision = np.mean(precision)
         f1 = 2 * precision * recall / (precision + recall)
 
         print("Precision: %f, Recall: %f, F1: %f" % (precision, recall, f1))
 
-    return (float(num_correct) / num_total)
-
+    return float(num_correct) / num_total
 
 
 def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: WordEmbeddings):
     """
     :param args: Command-line args so you can access them here
-    :param train_exs: training examples
+    :param all_exs: all examples, including training and testing
     :param word_embeddings: set of loaded word embeddings
     :return: an RNNClassifier instance trained on the given data
     """
@@ -294,8 +291,8 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
 
     # todo change the vocab size and pad idx
     kfold = KFold(5, True)
-    maxAccuracy = -1
-    bestModel = None
+    max_accuracy = -1
+    best_model = None
     k = 1
 
     for train_index, test_index in kfold.split(all_exs):
@@ -328,7 +325,8 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
                 # TODO write this in 1 line, did like this for now for sanity
                 for sentence in batch_x_words:
                     bound = min(upper_bound, max_length)
-                    indexes = [word_embeddings.word_indexer.index_of(sentence[b]) if b < len(sentence) else 0 for b in range(0, bound)]
+                    indexes = [word_embeddings.word_indexer.index_of(sentence[b]) if b < len(sentence) else 0 for b in
+                               range(0, bound)]
                     indexes = [1 if i == -1 else i for i in indexes]
                     batch_x_indices.append(indexes)
 
@@ -337,7 +335,6 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
                 batch_y = torch.LongTensor([train_exs[idx].label for idx in indices])
 
                 conv_neural_net.zero_grad()
-                # todo look into the squeeze here
                 predictions = conv_neural_net.forward(batch_x)
                 loss = loss_function(predictions, batch_y)
                 total_loss += loss.item()
@@ -350,14 +347,14 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
         k += 1
         accuracy = evaluate(model, test_exs)
 
-        if accuracy > maxAccuracy:
-            bestModel = model
-            maxAccuracy = accuracy
+        if accuracy > max_accuracy:
+            best_model = model
+            max_accuracy = accuracy
 
         # i don't want to try all the cross validation right now bec its so long... might let it run forever and see how it goes
         # break
 
-    return bestModel
+    return best_model
 
 
 class CNN(nn.Module):

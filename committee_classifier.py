@@ -16,9 +16,6 @@ def _parse_args():
     """
     parser = argparse.ArgumentParser(description='trainer.py')
     parser.add_argument('--model', type=str, default='PERCEPTRON', help='model to run (PERCEPTRON, LSA or BERT)')
-    parser.add_argument('--no_run_on_test', dest='run_on_test', default=True, action='store_false', help='skip printing'
-                                                                                                         ' output on '
-                                                                                                         'the test set')
     args = parser.parse_args()
     return args
 
@@ -28,15 +25,9 @@ def train_model(args, all_exs: List[BillExample]) -> CommitteeClassifier:
     Main entry point for your modifications. Trains and returns one of several models depending on the args
     passed in from the main method. You may modify this function, but probably will not need to.
     :param args: args bundle
-    :param train_exs: training set, List of CommitteeClassifier objects
+    :param all_exs: training and testing set combined, List of CommitteeClassifier objects
     :return: trained CommitteeClassifier model, of whichever type is specified
     """
-    # Initialize feature extractor
-    # if args.model == "PERCEPTRON":
-    #     feat_extractor = PerceptronExtractor(Indexer())
-    # else:
-    #     raise Exception("Pass in correct string to run the appropriate system")
-
     # Train the model
     if args.model == "PERCEPTRON":
         model = train_perceptron(all_exs)
@@ -52,14 +43,8 @@ if __name__ == '__main__':
     args = _parse_args()
     print(args)
 
-    # Load train, dev, and test exs and index the words.
+    # Load all exs and index the words.
     all_exs = read_examples()
-
-    # basic straight split
-    # train_exs = all_exs[:int(len(all_exs) * (4 / 5))]
-    # test_exs = all_exs[int(len(all_exs) * (4 / 5)):]
-
-    # print(repr(len(train_exs)) + " / " + repr(len(test_exs)) + " train/test examples")
 
     # Train and evaluate
     start_time = time.time()
@@ -70,7 +55,3 @@ if __name__ == '__main__':
     print("=====Test Accuracy=====")
     evaluate(model, model.test_exs)
     print("Time for training and evaluation: %.2f seconds" % (time.time() - start_time))
-
-    # TODO double check this
-    # if args.run_on_test:
-    # test_exs_predicted = [BillExample(words, model.predict(words)) for words in test_exs]
