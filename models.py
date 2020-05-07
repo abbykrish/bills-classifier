@@ -1,23 +1,58 @@
 # models.py
 # Some code modified from A1 code in CS 378 NLP course
 
-from process_data import *
-from utils import *
+from evalulate_utils import *
+from doc_process_utils import *
+
 from nltk.corpus import stopwords
 from nltk.util import *
-import re
+
 from sklearn.model_selection import KFold
-import numpy as np
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 import random
 import time
-from sklearn.metrics import confusion_matrix
 
 EN_STOPWORDS = stopwords.words('english')
 
+class CNN(nn.Module):
+    def __init__(self, num_filters, window_sizes, dropout, word_embeddings: WordEmbeddings, num_classes):
+        """
+        :param num_filters: the number of filters/kernels on each example
+        :param window_sizes: the different window sizes for each filter
+        :param dropout: the dropout rate
+        :param word_embeddings: the pretrained glove vectors
+        """
+        super(CNN, self).__init__()
+        # freeze = False to have non static word embeddings
+        self.word_embedder = word_embeddings
+        self.word_embedding_obj = nn.Embedding.from_pretrained(torch.from_numpy(word_embeddings.vectors),
+                                                               freeze=True, padding_idx=0)
+        embedding_dim = word_embeddings.get_embedding_length()
+        self.drop_out = nn.Dropout(dropout)
+        self.convs = nn.ModuleList([
+            nn.Conv2d(in_channels=1, out_channels=num_filters, kernel_size=[window_size, embedding_dim],
+                      padding=(window_size - 2, 0))
+            for window_size in window_sizes
+        ])
+        self.fc = nn.Linear(num_filters * len(window_sizes), num_classes)
+
+    def forward(self, input):
+        embedded_input = self.word_embedding_obj(input).float()  # [batch size, sent len, emb dim]
+        x = embedded_input.unsqueeze(1)  # to add a channel dimension [batch size, 1, sent len, emb dim]
+
+        xs = []
+        for conv in self.convs:
+            x2 = F.relu(conv(x.float()).float()).squeeze(3)
+            x2 = F.max_pool1d(x2, x2.shape[2]).squeeze(2)
+            xs.append(x2)
+
+        x = self.drop_out(torch.cat(xs, 1))
+        logits = self.fc(x)
+        return logits
 
 class FeatureExtractor(object):
     """
@@ -52,14 +87,13 @@ class PerceptronExtractor(FeatureExtractor):
 
     def extract_features(self, ex_words: List[str], add_to_indexer: bool = False) -> Counter:
         stop_words = set(EN_STOPWORDS)
-        base_filtered = [w.lower() for w in ex_words if w.lower() not in stop_words and w.isalpha()]
+        base_filtered = [w for w in ex_words if w not in stop_words]
 
         if add_to_indexer:
             for item in base_filtered:
                 self.indexer.add_and_get_index(item)
 
         return Counter(base_filtered)
-
 
 class CommitteeClassifier(object):
     """
@@ -118,34 +152,7 @@ class CNNClassifier(CommitteeClassifier):
         predictions = predictions.squeeze(0)
 
         probs = F.softmax(predictions, dim=0)
-        # print(torch.argmax(probs))
         return torch.argmax(probs).item()
-
-
-def dict_to_np_array(counter: Counter, indexer: Indexer, word_idf, summary):
-    feat_cnt_array = np.zeros(len(indexer))
-    # print(len(indexer))
-    for word, count in counter.items():
-        word_idx = indexer.index_of(word)
-        if word_idx > 0:
-            # multiplies by the word_idf for each one
-            feat_cnt_array[word_idx] = word_idf[word_idx]
-
-            # questionable way of doing this but its helping it and isn't bad for now
-            if word in summary:
-                feat_cnt_array[word_idx] *= 2
-    return feat_cnt_array
-
-
-def get_summary(bill_example):
-    # if it doesn't find a summary it just is empty so it won't affect inputs that aren't this
-    summary_regex = "relating to (.*) BE IT ENACTED BY THE LEGISLATURE"
-    summary = re.findall(summary_regex, " ".join(bill_example))
-    if len(summary) > 0:
-        summary = summary[0]
-    else:
-        summary = ""
-    return summary
 
 
 # NOTE: implementing multiclass perceptron using the different weights approach
@@ -182,20 +189,7 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
         weights = np.zeros((num_labels, len(indexer)))
         indices = list(range(len(train_exs)))
 
-        # tf-idf calculation
-        word_idf = np.zeros(len(indexer))
-
-        word_idf = np.zeros(len(indexer))
-        for idx in indices:
-            curr_example = train_exs[idx]
-            feat_dict = feat_labels[curr_example]
-            for item in feat_dict:
-                word_idx = indexer.index_of(item)
-                if word_idx > 0:
-                    # shows up in this doc
-                    word_idf[word_idx] += 1
-
-        word_idf = np.log((len(train_exs) + 1) / (1 + word_idf).astype(float))
+        word_idf = tf_idf_calc(indexer, train_exs, feat_labels)
 
         num_epochs = 20
         for i in range(num_epochs):
@@ -225,53 +219,6 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
             max_accuracy = accuracy
 
     return best_model
-
-
-def evaluate(classifier, exs):
-    """
-    Evaluates a given classifier on the given examples
-    :param classifier: classifier to evaluate
-    :param exs: the list of SentimentExamples to evaluate on
-    :return: None (but prints output)
-    """
-    labels = [ex.label for ex in exs]
-    predictions = [classifier.predict(ex.words) for ex in exs]
-    return print_evaluation(labels, predictions)
-
-
-def print_evaluation(golds: List[BillExample], predictions: List[BillExample]):
-    """
-    Prints evaluation statistics comparing golds and predictions, each of which is a sequence of 0/1 labels.
-    Prints accuracy as well as precision/recall/F1 of the positive class, which can sometimes be informative if either
-    the golds or predictions are highly biased.
-
-    :param golds: gold SentimentExample objects
-    :param predictions: pred SentimentExample objects
-    :return:
-    """
-    num_correct = 0
-    num_total = 0
-    if len(golds) != len(predictions):
-        raise Exception("Mismatched gold/pred lengths: %i / %i" % (len(golds), len(predictions)))
-    for idx in range(0, len(golds)):
-        gold = golds[idx]
-        prediction = predictions[idx]
-        if prediction == gold:
-            num_correct += 1
-        num_total += 1
-    print("Accuracy: %i / %i = %f" % (num_correct, num_total, float(num_correct) / num_total))
-
-    cm = confusion_matrix(golds, predictions)
-    with np.errstate(divide='ignore'):
-        recall = np.nan_to_num(np.diag(cm) / np.sum(cm, axis=1))
-        recall = np.mean(recall)
-        precision = np.nan_to_num(np.diag(cm) / np.sum(cm, axis=0))
-        precision = np.mean(precision)
-        f1 = 2 * precision * recall / (precision + recall)
-
-        print("Precision: %f, Recall: %f, F1: %f" % (precision, recall, f1))
-
-    return float(num_correct) / num_total
 
 
 def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: WordEmbeddings):
@@ -322,7 +269,6 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
                 max_length = np.amax(np.array([len(x) for x in batch_x_words]))
                 upper_bound = 1000
                 batch_x_indices = []
-                # TODO write this in 1 line, did like this for now for sanity
                 for sentence in batch_x_words:
                     bound = min(upper_bound, max_length)
                     indexes = [word_embeddings.word_indexer.index_of(sentence[b]) if b < len(sentence) else 0 for b in
@@ -330,7 +276,6 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
                     indexes = [1 if i == -1 else i for i in indexes]
                     batch_x_indices.append(indexes)
 
-                # batch_x = torch.transpose(torch.LongTensor(batch_x_indices), 0, 1)
                 batch_x = torch.LongTensor(batch_x_indices)
                 batch_y = torch.LongTensor([train_exs[idx].label for idx in indices])
 
@@ -351,44 +296,10 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
             best_model = model
             max_accuracy = accuracy
 
-        # i don't want to try all the cross validation right now bec its so long... might let it run forever and see how it goes
         # break
 
     return best_model
 
 
-class CNN(nn.Module):
-    def __init__(self, num_filters, window_sizes, dropout, word_embeddings: WordEmbeddings, num_classes):
-        """
-        :param num_filters: the number of filters/kernels on each example
-        :param window_sizes: the different window sizes for each filter
-        :param dropout: the dropout rate
-        :param word_embeddings: the pretrained glove vectors
-        """
-        super(CNN, self).__init__()
-        # freeze = False to have non static word embeddings
-        self.word_embedder = word_embeddings
-        self.word_embedding_obj = nn.Embedding.from_pretrained(torch.from_numpy(word_embeddings.vectors),
-                                                               freeze=True, padding_idx=0)
-        embedding_dim = word_embeddings.get_embedding_length()
-        self.drop_out = nn.Dropout(dropout)
-        self.convs = nn.ModuleList([
-            nn.Conv2d(in_channels=1, out_channels=num_filters, kernel_size=[window_size, embedding_dim],
-                      padding=(window_size - 2, 0))
-            for window_size in window_sizes
-        ])
-        self.fc = nn.Linear(num_filters * len(window_sizes), num_classes)
 
-    def forward(self, input):
-        embedded_input = self.word_embedding_obj(input).float()  # [batch size, sent len, emb dim]
-        x = embedded_input.unsqueeze(1)  # to add a channel dimension [batch size, 1, sent len, emb dim]
 
-        xs = []
-        for conv in self.convs:
-            x2 = F.relu(conv(x.float()).float()).squeeze(3)
-            x2 = F.max_pool1d(x2, x2.shape[2]).squeeze(2)
-            xs.append(x2)
-
-        x = self.drop_out(torch.cat(xs, 1))
-        logits = self.fc(x)
-        return logits

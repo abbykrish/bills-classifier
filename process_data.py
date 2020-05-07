@@ -206,12 +206,12 @@ if __name__ == "__main__":
     # Count all words in the train, dev, and *test* sets. Note that this use of looking at the test set is legitimate
     # because we're not looking at the labels, just the words, and it's only used to cache computation that we
     # otherwise would have to do later anyway.
-    word_counter = Counter()
-    for ex in read_examples():
-        for word in ex.words:
-            word_counter[word] += 1
-    # Uncomment these to relativize vectors to the dataset
-    relativize("glove.6B.300d.txt", "glove.6B.300d-relativized.txt", word_counter)
-
     # Uncomment to create a csv file of all examples with labels - to be used for BERT in Google CoLab
     # write_to_csv()
+    # word_counter = Counter()
+    # for ex in read_examples():
+    #     for word in ex.words:
+    #         word_counter[word] += 1
+    # # Uncomment these to relativize vectors to the dataset
+    # relativize("glove.6B.300d.txt", "glove.6B.300d-relativized.txt", word_counter)
+    write_to_csv()
