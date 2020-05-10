@@ -1,7 +1,7 @@
 # models.py
 # Some code modified from A1 code in CS 378 NLP course
 
-from evalulate_utils import *
+from evaluate_utils import *
 from doc_process_utils import *
 
 from nltk.corpus import stopwords
@@ -18,6 +18,7 @@ import random
 import time
 
 EN_STOPWORDS = stopwords.words('english')
+
 
 class CNN(nn.Module):
     def __init__(self, num_filters, window_sizes, dropout, word_embeddings: WordEmbeddings, num_classes):
@@ -55,6 +56,7 @@ class CNN(nn.Module):
         x = self.drop_out(torch.cat(xs, 1))
         logits = self.fc(x)
         return logits
+
 
 class FeatureExtractor(object):
     """
@@ -94,7 +96,6 @@ class PerceptronExtractor(FeatureExtractor):
         base_filtered = [w for w in ex_words if w not in stop_words and not any(i.isdigit() for i in w)]
         filtered = []
 
-
         for item in base_filtered:
             filtered.append(item)
             if add_to_indexer:
@@ -107,6 +108,7 @@ class PerceptronExtractor(FeatureExtractor):
                 self.indexer.add_and_get_index(reg)
 
         return Counter(filtered)
+
 
 class CommitteeClassifier(object):
     """
@@ -199,8 +201,8 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
         for ex in train_exs:
             feat_labels[ex] = feat_extractor.extract_features(ex.words, True)
 
-        # basic intialization
-        num_labels = 38  # TODO: get this number auto later
+        # basic initialization
+        num_labels = 30  # TODO: get this number auto later
         weights = np.zeros((num_labels, len(indexer)))
         indices = list(range(len(train_exs)))
 
@@ -252,7 +254,7 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
     batch_size = 1
     window_sizes = (3, 4, 5)
     NUM_FILTERS = 100
-    num_classes = 38
+    num_labels = 30
 
     # we iterate through 5 different folds to cross validate the training/test sets
     kfold = KFold(5, True)
@@ -272,7 +274,7 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
         # instantiating the CNN object
         conv_neural_net = CNN(num_filters=NUM_FILTERS,
                               window_sizes=window_sizes, dropout=dropout, word_embeddings=word_embeddings,
-                              num_classes=num_classes)
+                              num_classes=num_labels)
 
         # specifying tools for training
         conv_neural_net.train()
@@ -320,10 +322,4 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
             best_model = model
             max_accuracy = accuracy
 
-        # break
-
     return best_model
-
-
-
-

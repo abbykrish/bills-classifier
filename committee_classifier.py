@@ -5,7 +5,6 @@ import argparse
 import time
 from models import *
 from typing import List
-from sklearn.model_selection import KFold
 
 
 def _parse_args():

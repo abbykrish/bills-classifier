@@ -9,6 +9,7 @@ from typing import List
 from utils import *
 from nltk.util import *
 
+
 class BillExample:
     """
     Data wrapper for a single example for multi class classification
@@ -58,7 +59,7 @@ def read_examples() -> List[BillExample]:
                 word = word.strip(string.punctuation).lower()
                 word_clean = re.sub('\'s', '', word)
                 # and not any(i.isdigit() for i in word_clean)
-                if word_clean != '' :
+                if word_clean != '':
                     tokenized_cleaned_sent.append(word_clean)
             exs.append(BillExample(tokenized_cleaned_sent, bill_label))
     return exs
@@ -69,20 +70,25 @@ def read_labels() -> List[int]:
         Reads the labels corresponding to each bill and converts them into distinct numbers
         :return: a list of labels corresponding to each bill
     """
+    # all_labels_dict = dict()  # For testing which committees do not have bills
     all_labels = Indexer()
     all_labels_file_name = os.path.join(os.getcwd(), "all_labels.txt")
     all_labels_file = open(all_labels_file_name)
     for line in all_labels_file:
         all_labels.add_and_get_index(line.strip())
+        # all_labels_dict[line.strip()] = 0
     all_labels_file.close()
+    # print(all_labels_dict)
 
     labels = []
     labels_file_name = os.path.join(os.getcwd(), "labels.txt")
     labels_file = open(labels_file_name)
     for line in labels_file:
         label_num = all_labels.index_of(line.strip())
+        # all_labels_dict[line.strip()] += 1
         labels.append(label_num)
     labels_file.close()
+    # print(all_labels_dict)
     return labels
 
 
@@ -207,12 +213,13 @@ if __name__ == "__main__":
     # Count all words in the train, dev, and *test* sets. Note that this use of looking at the test set is legitimate
     # because we're not looking at the labels, just the words, and it's only used to cache computation that we
     # otherwise would have to do later anyway.
-    # Uncomment to create a csv file of all examples with labels - to be used for BERT in Google CoLab
-    # write_to_csv()
+
     # word_counter = Counter()
     # for ex in read_examples():
     #     for word in ex.words:
     #         word_counter[word] += 1
     # # Uncomment these to relativize vectors to the dataset
     # relativize("glove.6B.300d.txt", "glove.6B.300d-relativized.txt", word_counter)
+
+    # Uncomment to create a csv file of all examples with labels - to be used for BERT in Google CoLab
     write_to_csv()
