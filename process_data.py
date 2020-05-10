@@ -9,7 +9,6 @@ from typing import List
 from utils import *
 from nltk.util import *
 
-
 class BillExample:
     """
     Data wrapper for a single example for multi class classification
@@ -54,10 +53,12 @@ def read_examples() -> List[BillExample]:
             file_text = f.read().strip()
             tokenized_cleaned_sent = []
             tokens = re.split('[- /\\n]', file_text)
+            # tokens = lexnlp.get_token_list(file_text, False, False, False)
             for word in tokens:
                 word = word.strip(string.punctuation).lower()
                 word_clean = re.sub('\'s', '', word)
-                if word_clean != '' and not any(i.isdigit() for i in word_clean):
+                # and not any(i.isdigit() for i in word_clean)
+                if word_clean != '' :
                     tokenized_cleaned_sent.append(word_clean)
             exs.append(BillExample(tokenized_cleaned_sent, bill_label))
     return exs

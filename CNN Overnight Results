@@ -143,3 +143,8 @@ Accuracy: 730 / 952 = 0.766807
 Accuracy: 3643 / 3810 = 0.956168
 =====Test Accuracy=====
 Accuracy: 775 / 953 = 0.813221
+
+
+BERT
+Accuracy: 775 / 953 = 0.813221
+Precision: 0.727756, Recall: 0.714304, F1: 0.720967

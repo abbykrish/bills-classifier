@@ -8,6 +8,7 @@ from nltk.corpus import stopwords
 from nltk.util import *
 
 from sklearn.model_selection import KFold
+import lexnlp.extract.en.regulations as lexnlp
 
 import torch
 import torch.nn as nn
@@ -33,6 +34,7 @@ class CNN(nn.Module):
                                                                freeze=True, padding_idx=0)
         embedding_dim = word_embeddings.get_embedding_length()
         self.drop_out = nn.Dropout(dropout)
+        # creating different convolutional layers from window sizes to look at different "n"-grams in network
         self.convs = nn.ModuleList([
             nn.Conv2d(in_channels=1, out_channels=num_filters, kernel_size=[window_size, embedding_dim],
                       padding=(window_size - 2, 0))
@@ -87,13 +89,24 @@ class PerceptronExtractor(FeatureExtractor):
 
     def extract_features(self, ex_words: List[str], add_to_indexer: bool = False) -> Counter:
         stop_words = set(EN_STOPWORDS)
-        base_filtered = [w for w in ex_words if w not in stop_words]
+        regulations = list(lexnlp.get_regulations(" ".join(ex_words)))
 
-        if add_to_indexer:
-            for item in base_filtered:
+        base_filtered = [w for w in ex_words if w not in stop_words and not any(i.isdigit() for i in w)]
+        filtered = []
+
+
+        for item in base_filtered:
+            filtered.append(item)
+            if add_to_indexer:
                 self.indexer.add_and_get_index(item)
 
-        return Counter(base_filtered)
+        for item in regulations:
+            reg = item[1]
+            filtered.append(reg)
+            if add_to_indexer:
+                self.indexer.add_and_get_index(reg)
+
+        return Counter(filtered)
 
 class CommitteeClassifier(object):
     """
@@ -162,6 +175,8 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
     :param all_exs: training and testing sets, List of SentimentExample objects
     :return: trained PerceptronClassifier model
     """
+
+    # we iterate through 5 different folds to cross validate the training/test sets
     kfold = KFold(5, True)
     max_accuracy = -1
     best_model = None
@@ -184,11 +199,12 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
         for ex in train_exs:
             feat_labels[ex] = feat_extractor.extract_features(ex.words, True)
 
+        # basic intialization
         num_labels = 38  # TODO: get this number auto later
-
         weights = np.zeros((num_labels, len(indexer)))
         indices = list(range(len(train_exs)))
 
+        # used for initial weights
         word_idf = tf_idf_calc(indexer, train_exs, feat_labels)
 
         num_epochs = 20
@@ -203,6 +219,7 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
                 feat_dict = feat_labels[curr_example]
                 curr_features = dict_to_np_array(feat_dict, indexer, word_idf, get_summary(curr_example.words))
 
+                # multiclass perceptron update
                 dot_prod = np.dot(weights, curr_features)
                 y_pred = np.argmax(dot_prod)
                 if y_pred != curr_example.label:
@@ -212,8 +229,9 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
         model = PerceptronClassifier(feat_extractor, weights, word_idf, train_exs, test_exs)
         print("=====Cross Validation Split %d=====" % k)
         k += 1
-        accuracy = evaluate(model, test_exs)
+        accuracy = evaluate(model, test_exs, False)
 
+        # storing the accuracy of this model for cross validation
         if accuracy > max_accuracy:
             best_model = model
             max_accuracy = accuracy
@@ -233,10 +251,10 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
     lr = 0.0004
     batch_size = 1
     window_sizes = (3, 4, 5)
-    NUM_FILTERS = 100  # todo change
-    num_classes = 38  # todo get auto somehow
+    NUM_FILTERS = 100
+    num_classes = 38
 
-    # todo change the vocab size and pad idx
+    # we iterate through 5 different folds to cross validate the training/test sets
     kfold = KFold(5, True)
     max_accuracy = -1
     best_model = None
@@ -251,9 +269,12 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
         for i in test_index:
             test_exs.append(all_exs[i])
 
+        # instantiating the CNN object
         conv_neural_net = CNN(num_filters=NUM_FILTERS,
                               window_sizes=window_sizes, dropout=dropout, word_embeddings=word_embeddings,
                               num_classes=num_classes)
+
+        # specifying tools for training
         conv_neural_net.train()
         optimizer = optim.Adam(conv_neural_net.parameters(), lr=lr)
         loss_function = nn.CrossEntropyLoss()
@@ -264,11 +285,12 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
             total_loss = 0.0
             for i in range(0, len(ex_indices), batch_size):
                 indices = ex_indices[i: min(i + batch_size, len(ex_indices))]
-                # todo variable length batch x + add torch.longtensor wrapper
+                # create batches of documents
                 batch_x_words = [train_exs[idx].words for idx in indices]
                 max_length = np.amax(np.array([len(x) for x in batch_x_words]))
                 upper_bound = 1000
                 batch_x_indices = []
+                # transforming everything in batch to be indexed words
                 for sentence in batch_x_words:
                     bound = min(upper_bound, max_length)
                     indexes = [word_embeddings.word_indexer.index_of(sentence[b]) if b < len(sentence) else 0 for b in
@@ -280,6 +302,7 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
                 batch_y = torch.LongTensor([train_exs[idx].label for idx in indices])
 
                 conv_neural_net.zero_grad()
+                # pass batch through the network
                 predictions = conv_neural_net.forward(batch_x)
                 loss = loss_function(predictions, batch_y)
                 total_loss += loss.item()
@@ -290,8 +313,9 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
         model = CNNClassifier(conv_neural_net, word_embeddings, train_exs, test_exs)
         print("=====Cross Validation Split %d=====" % k)
         k += 1
-        accuracy = evaluate(model, test_exs)
+        accuracy = evaluate(model, test_exs, False)
 
+        # storing the accuracy of this model for cross validation
         if accuracy > max_accuracy:
             best_model = model
             max_accuracy = accuracy
