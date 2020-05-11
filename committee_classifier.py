@@ -29,12 +29,14 @@ def train_model(args, all_exs: List[BillExample]) -> CommitteeClassifier:
     """
     # Train the model
     if args.model == "PERCEPTRON":
-        model = train_perceptron(all_exs)
+        model = train_perceptron(all_exs, "ENHANCED")
+    elif args.model == "BASE-PERCEPTRON":
+        model = train_perceptron(all_exs, "BASE")
     elif args.model == "CNN":
         word_embeddings = read_word_embeddings("glove.6B.300d-relativized.txt")
         model = train_cnn_classifier(args, all_exs, word_embeddings)
     else:
-        raise Exception("Pass in PERCEPTRON, CNN or BERT to run the appropriate system")
+        raise Exception("Pass in BASE-PERCEPTRON, PERCEPTRON, CNN or BERT to run the appropriate system")
     return model
 
 

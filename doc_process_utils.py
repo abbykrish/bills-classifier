@@ -5,17 +5,21 @@ import re
 
 
 # Methods for document cleaning and preprocessing for perceptron
-def dict_to_np_array(counter: Counter, indexer: Indexer, word_idf, summary):
+def dict_to_np_array(counter: Counter, indexer: Indexer, word_idf, summary, enhanced_flag):
     feat_cnt_array = np.zeros(len(indexer))
     for word, count in counter.items():
         word_idx = indexer.index_of(word)
         if word_idx > 0:
             # starting feature is word_idf
-            feat_cnt_array[word_idx] = word_idf[word_idx]
+            if enhanced_flag:
+                feat_cnt_array[word_idx] = word_idf[word_idx]
+            else:
+                feat_cnt_array[word_idx] = count
 
-    for word in summary.split(" "):
-        word_idx = indexer.index_of(word)
-        feat_cnt_array[word_idx] *= 2
+    if enhanced_flag:
+        for word in summary.split(" "):
+            word_idx = indexer.index_of(word)
+            feat_cnt_array[word_idx] *= 2
 
     return feat_cnt_array
 

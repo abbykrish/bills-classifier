@@ -1,7 +1,7 @@
 # models.py
 # Some code modified from A1 code in CS 378 NLP course
 
-from evaluate_utils import *
+from evalulate_utils import *
 from doc_process_utils import *
 
 from nltk.corpus import stopwords
@@ -85,6 +85,7 @@ class PerceptronExtractor(FeatureExtractor):
 
     def __init__(self, indexer: Indexer):
         self.indexer = indexer
+        self.enhanced_flag = True
 
     def get_indexer(self):
         return self.indexer
@@ -108,6 +109,26 @@ class PerceptronExtractor(FeatureExtractor):
                 self.indexer.add_and_get_index(reg)
 
         return Counter(filtered)
+
+class BasePerceptronExtractor(FeatureExtractor):
+    def __init__(self, indexer: Indexer):
+        self.indexer = indexer
+        self.enhanced_flag = False
+
+    def get_indexer(self):
+        return self.indexer
+
+    def extract_features(self, ex_words: List[str], add_to_indexer: bool = False) -> Counter:
+        stop_words = set(EN_STOPWORDS)
+
+        base_filtered = [w for w in ex_words if w not in stop_words and not any(i.isdigit() for i in w)]
+
+        for item in base_filtered:
+            if add_to_indexer:
+                self.indexer.add_and_get_index(item)
+
+
+        return Counter(base_filtered)
 
 
 class CommitteeClassifier(object):
@@ -138,7 +159,7 @@ class PerceptronClassifier(CommitteeClassifier):
     def predict(self, ex_words: List[str]) -> int:
         feat_cnt_dict = self.feat_extractor.extract_features(ex_words, False)
         feat_cnt_array = dict_to_np_array(feat_cnt_dict, self.feat_extractor.get_indexer(), self.word_idf,
-                                          get_summary(ex_words))
+                                          get_summary(ex_words), self.feat_extractor.enhanced_flag)
         dot_prod = np.dot(self.weights, feat_cnt_array)
         y_pred = np.argmax(dot_prod)
         return y_pred
@@ -171,7 +192,7 @@ class CNNClassifier(CommitteeClassifier):
 
 
 # NOTE: implementing multiclass perceptron using the different weights approach
-def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
+def train_perceptron(all_exs: List[BillExample], type) -> PerceptronClassifier:
     """
     Train a classifier with the perceptron.
     :param all_exs: training and testing sets, List of SentimentExample objects
@@ -193,7 +214,11 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
             test_exs.append(all_exs[i])
 
         # trying out a new model creating a new feature extractor
-        feat_extractor = PerceptronExtractor(Indexer())
+        if type == "BASE":
+            feat_extractor = BasePerceptronExtractor(Indexer())
+        else:
+            feat_extractor = PerceptronExtractor(Indexer())
+
         indexer = feat_extractor.get_indexer()
 
         # we make a dict of dicts bc we don't know what the vocabulary of the entire dataset will be
@@ -219,7 +244,7 @@ def train_perceptron(all_exs: List[BillExample]) -> PerceptronClassifier:
                 curr_example = train_exs[idx]
 
                 feat_dict = feat_labels[curr_example]
-                curr_features = dict_to_np_array(feat_dict, indexer, word_idf, get_summary(curr_example.words))
+                curr_features = dict_to_np_array(feat_dict, indexer, word_idf, get_summary(curr_example.words), feat_extractor.enhanced_flag)
 
                 # multiclass perceptron update
                 dot_prod = np.dot(weights, curr_features)
@@ -290,7 +315,7 @@ def train_cnn_classifier(args, all_exs: List[BillExample], word_embeddings: Word
                 # create batches of documents
                 batch_x_words = [train_exs[idx].words for idx in indices]
                 max_length = np.amax(np.array([len(x) for x in batch_x_words]))
-                upper_bound = 1000
+                upper_bound = 1500
                 batch_x_indices = []
                 # transforming everything in batch to be indexed words
                 for sentence in batch_x_words:

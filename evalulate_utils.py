@@ -1,10 +1,9 @@
 from process_data import *
-# import numpy as np
-# from sklearn.metrics import confusion_matrix
-# import seaborn as sn
+import numpy as np
+from sklearn.metrics import confusion_matrix
+import seaborn as sn
 import pandas as pd
 import matplotlib.pyplot as plt
-
 
 # Methods for evaluating models
 def evaluate(classifier, exs, show_plot):
@@ -27,9 +26,7 @@ def print_evaluation(golds: List[BillExample], predictions: List[BillExample], s
 
     :param golds: gold BillExample objects
     :param predictions: pred BillExample objects
-    :param show_plot
     :return:
-
     """
     num_correct = 0
     num_total = 0
@@ -42,27 +39,26 @@ def print_evaluation(golds: List[BillExample], predictions: List[BillExample], s
             num_correct += 1
         num_total += 1
     print("Accuracy: %i / %i = %f" % (num_correct, num_total, float(num_correct) / num_total))
-    # print_stats(golds, predictions, show_plot)
-    return float(num_correct) / num_total
+    print_stats(golds, predictions, show_plot)
+    return (float(num_correct) / num_total)
 
-#
-# def print_stats(golds, predictions, show_plot):
-#     cm = confusion_matrix(golds, predictions, labels=list(range(30)))
-#     with np.errstate(divide='ignore', invalid='ignore'):
-#         recall = np.nan_to_num(np.diag(cm) / np.sum(cm, axis=1))
-#         recall = np.mean(recall)
-#         precision = np.nan_to_num(np.diag(cm) / np.sum(cm, axis=0))
-#         precision = np.mean(precision)
-#         f1 = 2 * precision * recall / (precision + recall)
-#
-#         print("Precision: %f, Recall: %f, F1: %f" % (precision, recall, f1))
-#         # if show_plot:
-#         #     plot(cm)
+def print_stats(golds, predictions, show_plot):
+    cm = confusion_matrix(golds, predictions, labels=list(range(30)))
+    with np.errstate(divide='ignore', invalid='ignore'):
+        recall = np.nan_to_num(np.diag(cm) / np.sum(cm, axis = 1))
+        recall = np.mean(recall)
+        precision = np.nan_to_num(np.diag(cm) / np.sum(cm, axis = 0))
+        precision = np.mean(precision)
+        f1 = 2 * precision * recall / (precision + recall)
+
+        print("Precision: %f, Recall: %f, F1: %f" % (precision, recall, f1))
+        if show_plot == True:
+            plot(cm)
 
 
-# def plot(cm):
-#     df_cm = pd.DataFrame(cm, index=range(cm.shape[0]),
-#                          columns=range(cm.shape[1]))
-#     plt.figure(figsize=(10, 7))
-#     sn.heatmap(df_cm, annot=False, cmap="GnBu")
-#     plt.show()
+def plot(cm):
+    df_cm = pd.DataFrame(cm, index = range(cm.shape[0]),
+                  columns = range(cm.shape[1]))
+    plt.figure(figsize = (10,7))
+    sn.heatmap(df_cm, annot=False, cmap="GnBu")
+    plt.show()
