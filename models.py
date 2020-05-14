@@ -245,7 +245,6 @@ def train_perceptron(all_exs: List[BillExample], type) -> PerceptronClassifier:
 
                 feat_dict = feat_labels[curr_example]
                 curr_features = dict_to_np_array(feat_dict, indexer, word_idf, get_summary(curr_example.words), feat_extractor.enhanced_flag)
-
                 # multiclass perceptron update
                 dot_prod = np.dot(weights, curr_features)
                 y_pred = np.argmax(dot_prod)

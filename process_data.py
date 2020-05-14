@@ -88,7 +88,6 @@ def read_labels() -> List[int]:
         # all_labels_dict[line.strip()] += 1
         labels.append(label_num)
     labels_file.close()
-    # print(all_labels_dict)
     return labels
 
 
